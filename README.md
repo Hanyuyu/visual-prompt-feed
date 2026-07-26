@@ -4,6 +4,8 @@
 [![Curation: CC BY 4.0](https://img.shields.io/badge/curation-CC%20BY%204.0-2f6fdb.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Prompt text: NOASSERTION](https://img.shields.io/badge/prompt%20text-NOASSERTION-6b7280.svg)](DATA-LICENSE.md)
 
+![Visual Prompt Feed — Trending Now, Always Updating](assets/visual-prompt-feed-header.webp)
+
 A continuously refreshed public feed of AI image and video prompts from
 public X posts, with original authors, source links, preview media, and
 machine-readable datasets.
