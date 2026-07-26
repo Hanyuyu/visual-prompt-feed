@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "product-ads",
+  "label": "Product Ads",
+  "count": 2,
+  "mediaTypes": {
+    "image": 0,
+    "video": 2
+  },
+  "ids": [
+    "byradar:2081027263487721784:0",
+    "byradar:2080989603536965782:0"
+  ]
+}

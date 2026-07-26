@@ -1,0 +1,382 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/Hanyuyu/imglume-prompts/schema/prompt.schema.json",
+  "title": "ImgLume Open Prompt Record",
+  "description": "A ByRadar-discovered prompt with source attribution, third-party rights notices, and ImgLume curation metadata.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "imglumeId",
+    "revision",
+    "title",
+    "prompt",
+    "mediaType",
+    "recommendedModel",
+    "sourceModels",
+    "categories",
+    "tags",
+    "language",
+    "recommended",
+    "source",
+    "media",
+    "curation",
+    "provenance"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^byradar:[0-9]+:[0-9]+$"
+    },
+    "imglumeId": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "revision": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prompt": {
+      "type": "string",
+      "minLength": 1
+    },
+    "mediaType": {
+      "enum": [
+        "image",
+        "video"
+      ]
+    },
+    "recommendedModel": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sourceModels": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "categories": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "tags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "language": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "minLength": 1
+    },
+    "recommended": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "quality",
+        "aspectRatio",
+        "durationSeconds",
+        "generateAudio"
+      ],
+      "properties": {
+        "quality": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "aspectRatio": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "durationSeconds": {
+          "type": [
+            "number",
+            "null"
+          ]
+        },
+        "generateAudio": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        }
+      }
+    },
+    "source": {
+      "$ref": "#/$defs/source"
+    },
+    "media": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/media"
+      }
+    },
+    "curation": {
+      "$ref": "#/$defs/curation"
+    },
+    "provenance": {
+      "$ref": "#/$defs/provenance"
+    }
+  },
+  "$defs": {
+    "nullableString": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "dateOrNull": {
+      "anyOf": [
+        {
+          "type": "string",
+          "format": "date-time"
+        },
+        {
+          "type": "null"
+        }
+      ]
+    },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "platform",
+        "postId",
+        "url",
+        "author",
+        "publishedAt",
+        "discoveredAt",
+        "engagement",
+        "attribution",
+        "license",
+        "rightsHolder"
+      ],
+      "properties": {
+        "platform": {
+          "const": "x"
+        },
+        "postId": {
+          "type": "string",
+          "pattern": "^[0-9]+$"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://(www\\.)?x\\.com/"
+        },
+        "author": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "handle",
+            "name"
+          ],
+          "properties": {
+            "handle": {
+              "type": "string",
+              "minLength": 1
+            },
+            "name": {
+              "$ref": "#/$defs/nullableString"
+            }
+          }
+        },
+        "publishedAt": {
+          "$ref": "#/$defs/dateOrNull"
+        },
+        "discoveredAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "engagement": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "likes",
+            "reposts",
+            "replies"
+          ],
+          "properties": {
+            "likes": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0
+            },
+            "reposts": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0
+            },
+            "replies": {
+              "type": [
+                "integer",
+                "null"
+              ],
+              "minimum": 0
+            }
+          }
+        },
+        "attribution": {
+          "type": "string",
+          "minLength": 1
+        },
+        "license": {
+          "const": "NOASSERTION"
+        },
+        "rightsHolder": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "media": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "type",
+        "role",
+        "previewUrl",
+        "posterUrl",
+        "sourceUrl",
+        "altText",
+        "width",
+        "height",
+        "license",
+        "rightsHolder"
+      ],
+      "properties": {
+        "type": {
+          "enum": [
+            "image",
+            "video"
+          ]
+        },
+        "role": {
+          "type": "string",
+          "minLength": 1
+        },
+        "previewUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "posterUrl": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "sourceUrl": {
+          "$ref": "#/$defs/nullableString"
+        },
+        "altText": {
+          "type": "string"
+        },
+        "width": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "height": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 1
+        },
+        "license": {
+          "const": "NOASSERTION"
+        },
+        "rightsHolder": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "curation": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "creator",
+        "url",
+        "recordUrl",
+        "license",
+        "contributions"
+      ],
+      "properties": {
+        "creator": {
+          "const": "ImgLume"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "recordUrl": {
+          "type": "string",
+          "format": "uri"
+        },
+        "license": {
+          "const": "CC-BY-4.0"
+        },
+        "contributions": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "discoveredBy",
+        "collection",
+        "importedAt",
+        "updatedAt"
+      ],
+      "properties": {
+        "discoveredBy": {
+          "const": "ByRadar"
+        },
+        "collection": {
+          "const": "byradar_discovered"
+        },
+        "importedAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    }
+  }
+}

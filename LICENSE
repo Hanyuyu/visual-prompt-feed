@@ -1,0 +1,27 @@
+ImgLume Open Prompts uses a layered rights model.
+
+1. IMGLUME CURATION AND DATASET STRUCTURE
+
+ImgLume's original categorization, tagging, model compatibility annotations,
+verification, selection, organization, and dataset structure are licensed
+under the Creative Commons Attribution 4.0 International License (CC BY 4.0),
+to the extent those contributions are protected by copyright or database
+rights.
+
+License: https://creativecommons.org/licenses/by/4.0/
+Licensor: ImgLume
+Attribution: ImgLume — https://imglume.com — CC BY 4.0
+
+2. ORIGINAL PROMPT TEXT AND SOURCE MEDIA
+
+No license is asserted by ImgLume for original prompt text, images, videos, or
+other source-post content. These materials are marked NOASSERTION. Rights
+remain with their respective original authors or other rights holders. Public
+availability of a source post does not itself grant permission for every reuse.
+
+3. SOFTWARE
+
+The synchronization and validation software in this repository is licensed
+under the MIT License in LICENSE-CODE.
+
+See DATA-LICENSE.md for the complete scope and reuse guidance.

@@ -1,0 +1,1241 @@
+"id","imglume_id","revision","title","prompt","media_type","recommended_model","source_models","categories","tags","language","source_author_handle","source_author_name","source_post_url","source_post_id","source_published_at","source_license","source_rights_holder","curation_record_url","curation_license","imported_at","updated_at","preview_urls"
+"byradar:2080956222526935311:0","1505","10889589a4d74d2ca0b5f61150f328418614ae210650db23fb7af6eac8b68a9e","Young East Asian woman in bright kitchen portrait","一位年轻成年东亚女性坐在明亮的厨房餐桌旁，近景到半身构图，人物位于画面中央略偏右。她身体微微前倾，双臂自然放在木质餐桌上，头部轻轻向画面右侧倾斜，正面看向镜头，眼神柔和亲近，嘴唇微启，带轻微自然微笑。整体气质清新、安静、温柔、生活化。
+
+她有柔和精致的鹅蛋脸，杏仁形深棕眼睛，自然细眉，纤细鼻梁，浅珊瑚粉色嘴唇。妆容极淡，仅保留自然睫毛、轻微眼线、柔和腮红和健康肤色。皮肤白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和柔和高光，不要塑料磨皮。
+
+头发为深棕黑色，松散盘成低位凌乱发髻，耳侧、额前、颈侧有大量自然碎发和细长发丝，部分发丝垂落在脸颊、肩膀和胸前，带轻微湿润或空气感。
+
+她穿白色露肩连衣裙或露肩上衣，柔软棉质或轻薄皱感面料，胸口有细密荷叶边和松紧褶皱，肩部自然露出，袖口蓬松，整体干净纯白、柔和、含蓄。佩戴细银色项链，心形小吊坠；手腕佩戴细手链。
+
+背景是明亮温暖的厨房，后方有大面积白色窗户，窗外绿植虚化，窗台上有玻璃罐、饼干罐和厨房小物。右侧桌面有透明玻璃水果碗，装有红苹果、橙子；前景木质砧板上有切开的红心葡萄柚和水果片。左后方有水槽、浅色橱柜和干净台面。
+
+光线为强烈但柔和的自然窗光，从后方和左侧照入，形成高键曝光、轻微逆光、柔和高光晕染和空气感。整体低饱和、低对比，以奶油白、浅木色、柔黄、苹果红、橙色和自然肤色为主。摄影风格：85mm人像镜头，f/1.8，浅景深，眼睛和面部清晰，背景柔和虚化，轻微胶片颗粒，photorealistic，ultra realistic，natural skin texture。
+
+避免： 卡通、CG、插画、过度磨皮、浓妆、夸张表情、错误手指、畸形手臂、过曝丢失细节、强HDR、过度锐化、杂乱厨房、文字、水印、Logo。","image","gptimage","gptimage","photography","young woman|East Asian|kitchen portrait|photorealistic|bright lighting","zh","ToroJushiAi","","https://x.com/ToroJushiAi/status/2080956222526935311","2080956222526935311","2026-07-25T10:00:00.000Z","NOASSERTION","@ToroJushiAi","https://imglume.com/prompt/1505","CC-BY-4.0","2026-07-26T08:26:15.980Z","2026-07-26T08:26:15.980Z","https://cdn.imglume.com/prompts/byradar/1b36dc38-81c7-4ae4-b194-04cb8681cc8c/bc95b015-5908-4e78-b7f5-d5a338e5fc57-1785054375980|https://cdn.imglume.com/prompts/byradar/1b36dc38-81c7-4ae4-b194-04cb8681cc8c/e19d6aa7-3992-49ca-85ba-a21b62c1c9f1-1785054375980|https://cdn.imglume.com/prompts/byradar/1b36dc38-81c7-4ae4-b194-04cb8681cc8c/e8bbfdb0-b6db-474c-942a-79a1bf90816c-1785054375980|https://cdn.imglume.com/prompts/byradar/1b36dc38-81c7-4ae4-b194-04cb8681cc8c/7ace8075-8c9f-49f2-be34-3860ae888415-1785054375980"
+"byradar:2080943223808094686:0","1506","40ce87edbfacecfec456fc4983e8f6745aedecc93b9e7b9c1ea2492a31089337","Photorealistic woman in black leather outfit inside a mirrored elevator","{
+ ""subject"": {
+ ""description"": ""A beautiful young woman with long straight dark brown hair, tanned skin, and a confident expression. She has a toned, curvaceous figure."",
+ ""pose"": ""Standing in an elevator, looking at her reflection in the mirrored wall while holding a pair of black sunglasses. Her body is slightly turned toward the mirror."",
+ ""clothing"": {
+ ""main"": ""Black leather-style crop top with deep V-neck, black mini skirt with chain details, black arm sleeves/gloves with cut-outs, black thigh-high stockings, and black high heels stilettos. Black choker necklace."",
+ ""modifications"": ""Add a small, elegant 'Keor' embroidery in refined script on the border or hem of her black top or skirt, subtly visible.""
+ }
+ },
+ ""setting"": {
+ ""environment"": ""Modern elevator interior with mirrored walls, metal panels, and a digital display."",
+ ""lighting"": ""Bright indoor elevator lighting creating reflections on the metal and mirrors.""
+ },
+ ""style"": {
+ ""photography"": ""Realistic, high-resolution candid-style photograph with sharp details on skin, hair, leather textures, and reflections."",
+ ""mood"": ""Edgy, confident, and stylish."",
+ ""composition"": ""Medium full-body shot capturing the subject and her mirror reflection.""
+ },
+ ""full_prompt"": ""Photorealistic image of a beautiful woman with long dark hair in a black leather crop top, mini skirt, thigh-high stockings, and boots, standing in an elevator looking at her reflection while holding sunglasses. Add small elegant 'Keor' embroidery on the border of her outfit. Bright elevator lighting with mirror reflections, highly detailed skin, hair, and fabric textures.""
+}","image","nanobanana","nanobanana","photography","woman|black leather|elevator|fashion|mirror|photorealistic","en","KeorUnreal","","https://x.com/KeorUnreal/status/2080943223808094686","2080943223808094686","2026-07-25T09:08:21.000Z","NOASSERTION","@KeorUnreal","https://imglume.com/prompt/1506","CC-BY-4.0","2026-07-26T08:26:23.499Z","2026-07-26T08:26:23.499Z","https://cdn.imglume.com/prompts/byradar/1d32aea7-8e42-48b7-854a-790c0847f6b5/b159af0c-26d7-41c6-ad20-bd32382b4bc6-1785054383499|https://cdn.imglume.com/prompts/byradar/1d32aea7-8e42-48b7-854a-790c0847f6b5/6dee04e8-392f-4e10-8c59-9a55b727c1d5-1785054383499|https://cdn.imglume.com/prompts/byradar/1d32aea7-8e42-48b7-854a-790c0847f6b5/9de4bf62-965c-47c3-b62a-66a1e79fb7be-1785054383499|https://cdn.imglume.com/prompts/byradar/1d32aea7-8e42-48b7-854a-790c0847f6b5/ff730fba-9f0e-4fa6-ac36-d3109a206a35-1785054383499"
+"byradar:2080973878705434901:0","1507","92f4198ad420204158444ea1948b5a22bdd32f6a23b602d890d7b55efc8db787","15-second hyper-realistic cinematic luxury jewelry commercial featuring an East Asian woman and diamond necklace","Create a 15-second hyper-realistic cinematic luxury jewelry commercial in 16:9, featuring an elegant East Asian woman with long, glossy platinum-blonde wavy hair styled in a classic 1950s pin-up look, flawless porcelain skin, soft glamorous makeup, red lipstick, matching red nail polish, wearing a fitted red-and-white gingham halter mini dress with white piping and a heart-shaped bodice, white ankle-strap high heels, and a breathtaking luxury diamond necklace as the hero product. The necklace is the visual centerpiece throughout the commercial, sparkling naturally in warm golden sunlight with realistic diamond dispersion, premium craftsmanship, and elegant reflections.
+
+The setting is a spectacular Amalfi Coast-inspired cliffside road overlooking the turquoise Mediterranean Sea, colorful Positano hillside houses, stone walls, flowering bougainvillea, and a vintage black BMW 507 convertible with rich red leather interior and license plate DEMCDESIGN.
+
+Shot Breakdown
+
+0–3s
+Extreme macro close-up of elegant white heels walking slowly across warm sunlit asphalt. The camera tilts upward just enough to reveal the diamond necklace shimmering against her neckline with every graceful step. Golden-hour sunlight creates brilliant sparkle across each gemstone.
+3–6s
+She walks toward the vintage BMW 507 from behind. Smooth cinematic tracking shot. As she reaches for the chrome door handle, the camera briefly pushes in on the necklace as it catches the sunlight. She smiles softly and says:
+
+""Some jewels shine... this one tells my story.""
+6–9s
+She gracefully sits inside the convertible. Close-up through the side mirror as she gently adjusts her platinum-blonde waves while her necklace remains perfectly framed, glittering naturally. Elegant reflections dance across the polished gemstones.
+
+9–12s
+Close-up of her hand inserting the key and pressing the classic start button. The engine starts with a refined vintage sound. She lightly touches the necklace with her fingertips and looks toward the sea.
+She softly says:
+""Rivelazione... elegance you'll always remember.""
+
+12–15s
+She slowly puts on luxurious white cat-eye sunglasses with subtle gold accents. Close-up beauty shot emphasizing the necklace resting elegantly on her collarbone. Soft wind moves her blonde hair while cinematic sunlight enhances every diamond sparkle.
+15–17s
+Wide aerial tracking shot from behind as the black BMW 507 drives along the winding Amalfi Coast road overlooking the colorful seaside town, cliffs, beach, and turquoise sea. The necklace remains visible as she turns slightly toward the sunlight.
+
+Elegant cream-colored cursive typography fades into the landscape:
+
+Rivelazione
+
+""Reveal Your Brilliance.""
+Premium luxury logo animation. Fade to black.","video","seedance","gptimage|seedance","cinematic","luxury jewelry|diamond necklace|Amalfi Coast|vintage BMW 507|East Asian model","en","Just_sharon7","","https://x.com/Just_sharon7/status/2080973878705434901","2080973878705434901","2026-07-25T11:10:09.000Z","NOASSERTION","@Just_sharon7","https://imglume.com/prompt/1507","CC-BY-4.0","2026-07-26T08:26:30.917Z","2026-07-26T08:26:30.917Z","https://cdn.imglume.com/prompts/byradar/28a81779-6f1e-4bdd-a247-c9b03e33c3bd/5fec82f7-e48a-42ec-990f-a48e279c61ba-1785054390917"
+"byradar:2080926031817433213:0","1508","eb2f081439f259120cea91d6d17b3d3b7b359b00a070598aa6a782368add5a58","年轻东亚女性在现代公寓内的半身写实肖像","一位年轻成年东亚女性站在现代公寓餐厅/客厅区域，画面为半身到大半身构图，人物位于画面中央略偏右。她身体向后自然弯曲后仰，双臂向后伸展，双手撑在一张深色木质餐桌边缘，形成流畅的腰腹曲线。头部微微后仰并略向左侧倾斜，面向镜头，眼神平静、自信、略带慵懒感，嘴唇自然微启。
+
+她有柔和精致的鹅蛋脸，杏仁形深棕眼睛，自然细眉，浅裸粉色嘴唇，淡妆。皮肤白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和柔和高光，不要塑料磨皮。头发为深黑棕色长发，自然披散，柔顺微蓬松，部分发丝落在肩膀和胸前。
+
+穿白色修身长袖短上衣，胸前打结，面料柔软贴身，露出腰腹；下身穿白色宽松居家长裤，高腰松紧腰头；腰间有细小银色腰链或珍珠感装饰。整体清爽、干净、生活化。
+
+背景是现代住宅室内：左侧有窗帘和柔和窗光，后方有深色门框；右后方有透明鞋盒堆叠，上面放白色头盔，旁边有电视和深色家具；前景是木质餐桌和椅子。环境整洁但有真实生活气息。
+
+光线为左侧自然日光，柔和侧光，整体低饱和、低对比，真实摄影质感。摄影风格：85mm人像镜头，f/2，浅景深，人物清晰，背景轻微虚化，轻微胶片颗粒，photorealistic。
+
+避免： 卡通、CG感、过度磨皮、夸张身材、错误手指、畸形肢体、浓妆、杂乱背景、强HDR、过度锐化、文字、水印、Logo。","image","gptimage","other","photography","portrait|East Asian woman|modern apartment|photorealistic|indoor lighting","zh","ToroJushiAi","","https://x.com/ToroJushiAi/status/2080926031817433213","2080926031817433213","2026-07-25T08:00:02.000Z","NOASSERTION","@ToroJushiAi","https://imglume.com/prompt/1508","CC-BY-4.0","2026-07-26T08:26:37.137Z","2026-07-26T08:26:37.137Z","https://cdn.imglume.com/prompts/byradar/273bee1e-850e-4d85-86dc-3e19c5378cd4/dcd8700f-a731-4701-8fbf-dad8efac8d19-1785054397137|https://cdn.imglume.com/prompts/byradar/273bee1e-850e-4d85-86dc-3e19c5378cd4/cc83c836-8c37-4de5-bb7c-547175f8b3ac-1785054397137|https://cdn.imglume.com/prompts/byradar/273bee1e-850e-4d85-86dc-3e19c5378cd4/bedd6ffa-9052-436b-8255-faead2eedfdf-1785054397137|https://cdn.imglume.com/prompts/byradar/273bee1e-850e-4d85-86dc-3e19c5378cd4/b49c7379-e515-469d-b378-ce3d9107231b-1785054397137"
+"byradar:2080926065468620896:0","1509","4560c6b0eec46b22477819ce27dd47c35e2981bfceaa652be7f3b009c5683487","Jazmin and Coral","hyper-realist, white western European natural mid blond hair curly abundant short hair, tan skin, wearing a short Coral Dress, long beautiful legs, bright and vigorous pose, super oversized Jazmin flower shower, unleashed, dew & dawn, surreal, fantasy flare, shot showing movement and blurred parts","video","seedance","grok","character","hyper-realistic|surreal|fantasy|portrait|movement|blur","","carolletta","","https://x.com/carolletta/status/2080926065468620896","2080926065468620896","2026-07-25T08:00:10.000Z","NOASSERTION","@carolletta","https://imglume.com/prompt/1509","CC-BY-4.0","2026-07-26T08:26:55.974Z","2026-07-26T08:26:55.974Z","https://cdn.imglume.com/prompts/byradar/d07d267f-fdcc-409b-92a4-e8747e027357/0dc270b5-aa24-4ea4-949e-6f0ca07569b2-1785054415974"
+"byradar:2080953599346221527:0","1510","ece1b0faf45496c41c9b8297bb2e9efc1d2b01b7d9f0e1afffaae917705ed379","Ultra-realistic editorial fashion portrait of a 28-year-old woman","Create an ultra-realistic using the reference image as the identity source. Preserve the exact facial features, bone structure, proportions, skin tone, and identity of the subject.
+Do not beautify, reshape, or alter the face in any way. Maintain natural likeness and authentic facial geometry. Ultra-realistic, high-fidelity 8K editorial fashion portrait of a 28-year-old woman with a fit physique, 173 cm height, 65 kg, preserving 100% facial identity accuracy, absolutely no nose piercings.
+Subject & Pose
+Pose: Medium close-up portrait, dynamic three-quarter head turn, head tilted slightly upward and backward with chin elevated, looking downward past the camera lens with a confident, effortless expression.
+Expression: Cool, composed, and moody gaze, lips slightly parted displaying a hint of teeth, relaxed jawline.
+Hair & Makeup
+Hairstyle: Messy, textured short bob haircut with voluminous tousled waves, piece-y side-swept bangs falling softly across the forehead and framing the eyes, natural dark brunette shade with subtle layered movement.
+Makeup: Flawless porcelain skin finish, clean and sculpted cheekbones, precise sharp black cat-eye winged eyeliner with delicate definition, natural minimalist eye makeup, soft neutral-toned matte contoured lips with warm terracotta undertones.
+Wardrobe & Styling
+Clothing: Red-and-black classic plaid patterned structured collared jacket or top with visible fabric texture.
+Accessories:
+Round vintage-style metal-frame sunglasses with tinted lenses reflecting a warm orange-red urban environment.
+Delicate layered thin gold chains and a minimalist choker necklace resting on the collarbone.
+Small stud earrings visible on the left earlobe.
+Setting & Background
+Setting: Minimalist studio environment featuring a solid, vibrant, saturated matte red seamless backdrop creating a bold, high-contrast pop-art aesthetic.
+Lighting & Cinematic Atmosphere
+Lighting: Soft, diffused studio key lighting coming from the front-upper angle, creating gentle highlights along the jawline, nose bridge, and cheekbones, complemented by a subtle rim light that separates the dark hair from the vivid red background.
+Cinematic Realism: High-fashion editorial look, rich color saturation, organic skin texture with natural pores, sharp contrast between the moody shadows and the vibrant backdrop.
+Camera Details & Optics
+Camera Hardware: Shot on Phase One XF IQ4, 80mm lens.
+Optical Settings: Aperture set to f/2.2 for a shallow depth of field, sharp focus locked onto the eyes and sunglasses frame, creamy background bokeh, ultra-high shutter speed capturing frozen movement in hair strands.
+Texture & Realism Enhancers
+Ultra-HD, 32K resolution, photorealistic fabric weaves in the plaid jacket, crisp metallic reflections on sunglasses, highly detailed skin micro-textures, cinematic color grading, professional studio fashion photography execution.
+NEGATIVE PROMPT
+low quality, blurry, flat lighting, dull colors, bad anatomy, extra limbs, distorted face, stiff pose, cartoon, anime, CGI, plastic skin, cheap costume, repetitive outfit, watermark, logo, https://t.co/wMCYCHgJX1 pierce nose","image","gptimage","other","photography","ultra-realistic|fashion portrait|red backdrop|8K|Phase One","en","ChillaiKalan__","","https://x.com/ChillaiKalan__/status/2080953599346221527","2080953599346221527","2026-07-25T09:49:34.000Z","NOASSERTION","@ChillaiKalan__","https://imglume.com/prompt/1510","CC-BY-4.0","2026-07-26T08:27:04.223Z","2026-07-26T08:27:04.223Z","https://cdn.imglume.com/prompts/byradar/99167701-8665-40d3-8534-87d47c0c1b8e/f8d274a4-015e-4034-9d46-246b6959d06c-1785054424223|https://cdn.imglume.com/prompts/byradar/99167701-8665-40d3-8534-87d47c0c1b8e/a8a761a2-e0a8-423a-b503-e2032db54d22-1785054424223"
+"byradar:2080964657339085285:0","1511","dd9c9df60e86db63a678e5935ef3b3e48eb35faef4bf78e36f533232a0bcc138","One Picture, Six Moments collage","use the uploaded image as the character reference. 3×2 grid collage consisting of 6 hyper-realistic PHOTOISM photobooth photos, featuring thick black PHOTOISM-style borders with clear vertical “MY DAY” text on the right side of each frame. Indoor photobooth setting with a solid light gray wall background, warm iPhone flash lighting with slight overexposure, and authentic photobooth film grain texture. playful vibe, outfit random, ⚾,🥊, Overall style: Korean photobooth realism, absurd and chaotic energy, warm playful thigh-resolution facial details, consistent facial features across all frames. Clean composition, high contrast, soft studio lighting, ultra-detailed, sharp focus, sophisticated atmosphere, aesthetic look, 8K resolution.
+
+Negative Prompt: overly vibrant colors, messy background, blur, low quality, distorted faces, malformed hands, bad proportions, messy typography, excessive noise, cartoon style, unrealistic details.","image","gptimage","other","photography","photobooth|collage|hyper-realistic|Korean","en","codewithhajra","","https://x.com/codewithhajra/status/2080964657339085285","2080964657339085285","2026-07-25T10:33:31.000Z","NOASSERTION","@codewithhajra","https://imglume.com/prompt/1511","CC-BY-4.0","2026-07-26T08:27:04.282Z","2026-07-26T08:27:04.282Z","https://cdn.imglume.com/prompts/byradar/0308b8df-0c01-4358-9a34-2dfdff85b489/d833b348-0376-438c-99d5-ad1432fd579c-1785054424282|https://cdn.imglume.com/prompts/byradar/0308b8df-0c01-4358-9a34-2dfdff85b489/a78801be-90e7-4cc8-ba39-2dc4bda41762-1785054424282"
+"byradar:2080920377002164297:0","1512","c7a0a55277d0910668a99f3c7f9cdedc351b6dbb8466859d07205bc444ec856d","100 Years of Men's Fashion Evolution Video","Style: Ultra-realistic cinematic fashion reel, luxury editorial, premium Instagram creator aesthetic, smooth camera movement, natural lighting, 4K, highly detailed fabrics, realistic clothing physics.
+
+Scene Overview
+
+A stylish male model showcases five iconic fashion eras from the 1920s to the 1960s. The video takes place in the same modern studio with soft daylight and a clean architectural background. The same model appears throughout the video while only the clothing changes between decades. Every outfit change happens naturally during camera movement, creating a smooth and satisfying visual flow.
+
+The only on-screen text is the decade name.
+
+Music is a modern electronic fashion track that builds continuously without vocals.
+
+Character
+
+Use the reference image as the model.
+
+Young adult male.
+
+Confident but relaxed.
+
+Friendly expression.
+
+Natural walking pace.
+
+The same model appears in every scene.
+
+Environment
+
+Minimalist fashion studio.
+
+Large windows.
+
+Warm daylight.
+
+Neutral beige walls.
+
+Polished concrete floor.
+
+Luxury editorial atmosphere.
+
+Keep the background consistent throughout the video.
+
+0:00–0:03 — 1920s
+
+The video opens with the model standing confidently in the center of the studio.
+
+The camera slowly moves closer.
+
+He adjusts his cufflinks before looking toward the camera.
+
+Outfit
+
+Charcoal pinstripe three-piece suit
+
+White dress shirt
+
+Dark tie
+
+Waistcoat
+
+Pocket watch chain
+
+Oxford shoes
+
+Grey newsboy cap
+
+On-screen text:
+
+1920s
+
+As the camera quickly pans to the right, the clothing smoothly changes into the next decade.
+
+0:03–0:06 — 1930s
+
+The camera finishes the movement.
+
+The model now wears a cream double-breasted suit with wide lapels, pleated trousers, spectator shoes, and a fedora.
+
+He places one hand in his pocket and takes a confident step forward.
+
+On-screen text:
+
+1930s
+
+The camera gently circles around him, and during the movement the outfit changes into the next style.
+
+0:06–0:09 — 1940s
+
+The camera completes the circle.
+
+The model now wears an olive green utility jacket with tailored trousers, brown leather boots, and a classic wristwatch.
+
+He buttons the jacket while walking slowly toward the camera.
+
+On-screen text:
+
+1940s
+
+A warm light sweep crosses the frame, leading naturally into the next outfit.
+
+0:09–0:12 — 1950s
+
+The model now wears a fitted white T-shirt, dark blue cuffed jeans, a brown leather belt, leather boots, and classic sunglasses.
+
+He casually adjusts the sunglasses before taking two relaxed steps forward.
+
+On-screen text:
+
+1950s
+
+The camera briefly moves closer, then pulls back, allowing the clothing to change smoothly.
+
+0:12–0:15 — 1960s
+
+The model now wears a black turtleneck, camel overcoat, slim trousers, Chelsea boots, and a simple wristwatch.
+
+He walks confidently toward the camera with both hands in his coat pockets.
+
+On-screen text:
+
+1960s
+
+During the final second, the camera begins a slow clockwise circle around him.
+
+His coat moves naturally as he lightly adjusts the collar.
+
+The music continues to build instead of ending.
+
+0:15–0:18 — 1970s
+
+The video begins exactly where Part 1 ended.
+
+The camera continues its slow clockwise movement around the model before settling into a smooth front-facing angle.
+
+The music hits the next beat naturally.
+
+Outfit
+
+Brown suede jacket
+
+Patterned open-collar shirt
+
+Flared trousers
+
+Brown leather belt
+
+Platform shoes
+
+Gold wristwatch
+
+Aviator sunglasses
+
+The model adjusts his sunglasses before removing them with a confident smile.
+
+On-screen text:
+
+1970s
+
+As the camera moves slightly closer, the outfit changes naturally into the next decade.
+
+0:18–0:21 — 1980s
+
+The camera continues tracking forward.
+
+The model now wears a charcoal oversized business suit with a patterned tie, pleated trousers, polished loafers, and a classic dress watch.
+
+He straightens his tie while walking confidently toward the camera.
+
+On-screen text:
+
+1980s
+
+The camera briefly passes beside him, creating a smooth transition into the next outfit.
+
+0:21–0:24 — 1990s
+
+The camera emerges on the opposite side.
+
+The model now wears an oversized light-wash denim jacket over a graphic T-shirt, relaxed jeans, chunky white sneakers, and a simple silver chain.
+
+He smiles naturally while walking across the frame with both hands in his jacket pockets.
+
+On-screen text:
+
+1990s
+
+The camera follows his movement before quickly swinging to reveal the next decade.
+
+0:24–0:27 — 2000s
+
+The camera settles into a smooth tracking shot.
+
+The model now wears a black leather jacket over a fitted white T-shirt, slim dark jeans, white high-top sneakers, and aviator sunglasses.
+
+He casually removes the jacket from one shoulder while continuing to walk.
+
+The movement of the jacket naturally fills part of the frame as the clothing changes into the final look.
+
+On-screen text:
+
+2000s
+
+0:27–0:30 — 2020s
+
+The jacket clears the frame.
+
+The camera slowly pushes toward the model.
+
+He now wears a modern quiet luxury outfit.
+
+Outfit
+
+Beige overshirt
+
+Premium white T-shirt
+
+Relaxed tailored trousers
+
+White minimalist sneakers
+
+Luxury stainless steel watch
+
+Simple silver ring
+
+The model walks toward the camera before stopping naturally.
+
+He smiles confidently while looking directly into the lens.
+
+On-screen text:
+
+2020s
+
+The decade text gently fades into:
+
+100 YEARS OF MEN'S FASHION
+
+Then below it:
+
+1920 → 2020
+
+The music reaches its final peak before fading smoothly.
+
+The camera holds on the model for a brief moment before fading to black.
+
+Camera Style
+
+Smooth cinematic movement
+
+Gentle dolly shots
+
+Slow orbit around the model
+
+Occasional push-in
+
+Natural handheld feel
+
+Soft depth of field
+
+Luxury fashion commercial look
+
+Visual Style
+
+Premium editorial photography
+
+Warm natural colors
+
+Soft contrast
+
+Highly detailed fabrics
+
+Clean tailoring
+
+Realistic lighting
+
+Crisp facial details
+
+Natural movement
+
+Elegant pacing","video","seedance","seedance","cinematic","men's fashion|fashion evolution|fashion reel|luxury editorial","en","Caden_Flux","","https://x.com/Caden_Flux/status/2080920377002164297","2080920377002164297","2026-07-25T07:37:34.000Z","NOASSERTION","@Caden_Flux","https://imglume.com/prompt/1512","CC-BY-4.0","2026-07-26T08:27:11.908Z","2026-07-26T08:27:11.908Z","https://cdn.imglume.com/prompts/byradar/0dafc6ef-3b98-45ea-b86f-f165df2c0451/772b8223-82ef-43bc-b7d8-221b39a34191-1785054431908"
+"byradar:2081004779631685850:0","1513","01a1e93f2bfc9635929b9c9bea771b5f8725cb3670cc5f9a04c1e2d097c9e640","Photorealistic Nighttime Street Portrait of a Beautiful East Asian Woman","Create a photorealistic 3:4 nighttime street portrait of an exceptionally beautiful adult East Asian woman in her late 20s, standing beside a quiet city road after dark.
+
+She has a refined softly rounded face, warm fair skin, large dark-brown almond-shaped eyes, long eyelashes, softly arched eyebrows, a small straight nose and glossy rose-brown lips. Her expression is warm, confident and approachable, with a gentle closed-mouth smile and direct eye contact with the camera. Add a tiny beauty mark near the side of her nose.
+
+Her very long, straight dark-brown hair is parted slightly to one side and falls over her right shoulder past her waist, with a few soft strands across her forehead. She wears large thin silver hoop earrings and a delicate gold necklace with a small pendant.
+
+She has a naturally voluptuous hourglass figure with a full bust, defined waist and soft realistic proportions. She wears a fitted pale butter-yellow spaghetti-strap dress with a low rounded neckline and opaque stretch fabric. The dress follows her silhouette naturally with subtle folds around the waist.
+
+Frame her from the top of her head to the lower waist, with her torso turned slightly sideways while her face turns back toward the camera. The camera is positioned close to her at eye level with a mild three-quarter angle.
+
+The background is a dim, nearly empty city street with a yellow road line running diagonally behind her. Distant streetlights become large creamy white, pale blue and muted red bokeh circles. Warm amber light softly illuminates her face, collarbones and shoulders from the front-left, while the opposite side falls into gentle shadow. Add a subtle golden rim light along her hair.
+
+Shot on a full-frame camera with an 85mm lens at f/1.4, extremely shallow depth of field, cinematic warm color grading, realistic skin pores, natural highlights, slight high-ISO grain and authentic nighttime photography. No anime, no plastic skin, no excessive beauty filter, no distorted anatomy, no transparent clothing, no text, logo, watermark or rounded image corners.","image","gptimage","other","photography","photorealistic|nighttime|street portrait|East Asian woman|85mm f/1.4","en","johnAGI168","","https://x.com/johnAGI168/status/2081004779631685850","2081004779631685850","2026-07-25T13:12:57.000Z","NOASSERTION","@johnAGI168","https://imglume.com/prompt/1513","CC-BY-4.0","2026-07-26T08:27:12.107Z","2026-07-26T08:27:12.107Z","https://cdn.imglume.com/prompts/byradar/620e97c5-a6ad-41d4-ab4d-6493bd670e0c/f08ccf2b-fde4-4692-8b84-ba4ef6bfdcbb-1785054432107|https://cdn.imglume.com/prompts/byradar/620e97c5-a6ad-41d4-ab4d-6493bd670e0c/77406ed3-ce86-49de-8665-924bfa50b9ea-1785054432107"
+"byradar:2080958236564316266:0","1514","9cedcef49b62c5c0bf3c381ac15c9357768893319b8be28d988d49b9dde5102e","Photorealistic 15‑second waterpark to haunted house cinematic clip","Use the person in the reference image as the main character. She is an adult woman who must closely match the reference image, preserving her exact facial structure, hairstyle, hair color, body proportions, skin tone, and overall appearance. Maintain strong facial consistency throughout every shot. She wears a simple, elegant bikini.
+
+Photorealistic cinematic film, ultra-high resolution, realistic water simulation, cinematic lighting, natural character animation, consistent identity, 24fps, 15 seconds, 16:9.
+
+0–3s — Exciting Start
+
+A massive outdoor water park on a bright summer day. The main character stands smiling at the top of a giant waterslide, waving enthusiastically to the lifeguard before launching herself down. The camera tracks closely from the front or front three-quarter angle, emphasizing her joyful expression. Water splashes everywhere, wet hair flows naturally in the wind, and the camera movement feels energetic and immersive, capturing the excitement of a thrilling summer ride.
+
+3–9s — POV Waterslide Ride
+
+Cut to a true first-person POV. Only the woman's outstretched legs are visible at the bottom of the frame. She races at high speed through a fully enclosed tubular waterslide with no outside view. Powerful rushing water carries her through sharp left and right banking turns. Blue and white light streaks flash across the tunnel, enhancing the sensation of speed. Water droplets cling to the camera lens while realistic motion and turbulence create an immersive ride. A brilliant white light appears ahead at the slide's exit.
+
+9–12s — The Unexpected Destination
+
+She bursts out of the waterslide—not into a splash pool—but inside a massive haunted house attraction. The environment resembles the decaying corridors of an old Japanese house with broken furniture, flickering lanterns, worn wooden floors, and eerie atmospheric lighting. She stands up, confused, slowly realizing something is terribly wrong. One by one, supernatural ghostly figures begin emerging from the darkness all around her. They quietly surround her without rushing. The camera pulls back slightly, revealing the unsettling scene while capturing her growing fear.
+
+12–15s — Panic Escape
+
+Terrified, she trembles uncontrollably while desperately searching for an exit. Ghostly figures slowly approach from behind, creating psychological tension without physical contact or graphic horror. Her expression shifts to pure panic, as if she's about to scream. She frantically runs toward an unseen exit and disappears out of frame, ending the video.
+
+Visual Style
+Ultra-photorealistic cinematic quality
+High-fidelity water, wet skin, wet hair, and realistic material rendering
+Haunted house designed like an immersive amusement park attraction
+Balanced horror-comedy pacing
+Dynamic cinematic camera movement
+Supernatural ghosts that are eerie but not excessively grotesque
+Rich facial expressions and natural panic reactions
+Consistent face, hands, body proportions, and identity throughout
+No dialogue, subtitles, logos, text, or watermarks
+Strong cinematic contrast between the fun waterslide experience and the shocking reveal that its destination is a haunted house.","video","seedance","other","camera-moves|character|cinematic","waterpark|haunted house|bikini|photorealistic|cinematic","en","tbros6868","","https://x.com/tbros6868/status/2080958236564316266","2080958236564316266","2026-07-25T10:08:00.000Z","NOASSERTION","@tbros6868","https://imglume.com/prompt/1514","CC-BY-4.0","2026-07-26T08:27:16.215Z","2026-07-26T08:27:16.215Z","https://cdn.imglume.com/prompts/byradar/d20e9cfe-9557-49a6-aeb9-bf13baa5f901/edb9db70-5fae-4915-8c58-8f0778f53c06-1785054436215"
+"byradar:2081016627836203242:0","1515","48ea7c6521403919c3cccdd2ffd97415455835848246744ceba33b4f05f1a223","年轻东亚女性在暗调复古酒廊的写实肖像","一位年轻成年东亚女性站在暗调复古会所或高级酒廊内，画面为大半身到接近全身构图，人物位于画面中央略偏右。她身体侧向画面左侧，呈三分之二侧背角度，头部从左肩方向回眸看向镜头，眼神平静直接，神情克制、优雅、略带疏离感，嘴唇自然微启。姿态自然挺拔，肩颈线条清晰，一只手轻轻扶住胸前或礼服边缘，另一只手自然贴近身体。
+
+她拥有柔和精致的鹅蛋脸，杏仁形深棕眼睛，自然细眉，纤细鼻梁，浅玫瑰裸粉色嘴唇。妆容淡雅但精致，仅保留自然睫毛、细眼线、轻微暖色腮红和柔和唇色。皮肤白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和柔和高光，不要塑料磨皮。
+
+她有深黑棕色长发，自然披散，略带蓬松波浪感，部分发丝落在肩背和脸侧，质感真实，不要过度整齐。
+
+她穿一件深酒红色或黑莓紫色高级晚礼服，露肩设计，肩部有编织或扭结式肩带，侧面和背部有优雅开口，修身长裙贴合腰臀线条，面料为柔软哑光缎面或弹力丝质，带轻微暗光反射。整体性感但克制，高级、成熟、含蓄。
+
+背景为暗棕色木质墙板、复古雕花镜框、暖黄色壁灯和黑色皮质切斯特菲尔德沙发，环境安静奢华。光线为低照度暖色室内灯光，左上方壁灯提供柔和暖光，人物面部有细腻补光，肩背和头发边缘有温暖轮廓光。整体低饱和、低对比、暗调电影感，保留阴影层次。摄影风格：85mm人像镜头，f/1.8，浅景深，真实皮肤与布料纹理，轻微胶片颗粒，photorealistic。
+
+避免： 卡通、CG、插画、过度磨皮、浓妆、夸张身材、错误手指、畸形手臂、过度暴露、强HDR、过度锐化、杂乱背景、文字、水印、Logo。","image","gptimage","gptimage","photography","portrait|East Asian woman|vintage lounge|cinematic lighting|photorealistic","zh","ToroJushiAi","","https://x.com/ToroJushiAi/status/2081016627836203242","2081016627836203242","2026-07-25T14:00:02.000Z","NOASSERTION","@ToroJushiAi","https://imglume.com/prompt/1515","CC-BY-4.0","2026-07-26T08:27:22.671Z","2026-07-26T08:27:22.671Z","https://cdn.imglume.com/prompts/byradar/3952c0d4-e614-46ec-8f71-b16c8ced8483/006d2672-e6d9-4734-8e28-b1a9aef92b2f-1785054442671|https://cdn.imglume.com/prompts/byradar/3952c0d4-e614-46ec-8f71-b16c8ced8483/8fb44d43-f153-4585-8446-50eb4cd51d7b-1785054442671|https://cdn.imglume.com/prompts/byradar/3952c0d4-e614-46ec-8f71-b16c8ced8483/f4c9b9bc-14c0-45c9-9137-1fa756f26854-1785054442671|https://cdn.imglume.com/prompts/byradar/3952c0d4-e614-46ec-8f71-b16c8ced8483/0d277529-1669-49f4-b839-adfe3eab85aa-1785054442671"
+"byradar:2080966563256222070:0","1516","cd240c35a3fd3da54e44e9f494e28d257079b955f57d39a4a31e199533d22cd4","Minimalist watercolor and ink urban sketch of Top of the Rock observation deck","3:4 vertical minimalist watercolor and ink urban sketch on cold-press handmade paper. Loose studio sketch, not a finished illustration.
+
+FINISH GRADIENT (priority): the couple is the only fully resolved area. Nearby architecture ~60% painted, with clear patches of bare paper and contour line breaking through. Distant buildings and frame edges dissolve into loose graphite and untouched paper before the border. ~20% of the page stays unpainted, mostly upper area and edges. Background is bare paper, not a painted sky. Unfinished edges are intentional.
+
+SCENE: Top of the Rock observation deck, Midtown Manhattan, clear afternoon. Two lovers at the stone parapet seen from behind, shoulders touching, one leaning in and pointing toward the Empire State Building. Wind in hair and a light cardigan. Quiet, unposed.
+
+COMPOSITION: High vantage point. Couple small and back-turned in the lower third. Empire State Building off-center mid-distance. High horizon, deep space, generous open paper above.
+
+WASH: Wet-on-wet bleeding with blooms and backruns. Washes deliberately offset from the ink lines, spilling past contours and stopping short of others. Strong dilution variation within one facade — saturated, ghost-pale, and bare paper in turn. Visible granulation in the paper tooth. Hard wet-on-dry edges beside soft blooms. Reserved white paper as highlights, never white paint.
+
+LINE: Fast searching graphite and fine ink, construction marks left uncorrected. Scribble loops for railings and distant windows instead of literal detail. Weight varies hairline to bold. Faces suggested in a few marks.
+
+VALUE: High-key and airy, with exactly one deep dark note — the shaded face of the nearest rooftop tower in ink navy.
+
+COLOR: Cool blue-dominant. 55% slate blue, dusty cerulean, powder blue, pale blue-gray. 20% bare warm off-white paper. 15% warm stone gray and limestone as mid-tone relief against flat monochrome blue. 10% taxi yellow on sunlit edges. Muted, low saturation.
+
+TYPOGRAPHY: Upper right, italic ""New York"" with one short poetic English line below in muted slate navy, absorbed into the paper.
+
+NEGATIVE: flat monochrome blue, painted sky, uniform flat coverage, no white space, over-detailed architecture, smooth gradients, digital airbrush, color perfectly inside the lines, photorealistic, 3D render, heavy black outlines, harsh shadows, muddy gray-blue, oversaturated, cluttered, realistic faces, stiff pose, single person, misspelled text, logo, watermark, border, frame.","image","gptimage","gptimage","architecture|travel","watercolor|ink|urban sketch|New York|travel","en","Goodmanprotocol","","https://x.com/Goodmanprotocol/status/2080966563256222070","2080966563256222070","2026-07-25T10:41:05.000Z","NOASSERTION","@Goodmanprotocol","https://imglume.com/prompt/1516","CC-BY-4.0","2026-07-26T08:27:26.279Z","2026-07-26T08:27:26.279Z","https://cdn.imglume.com/prompts/byradar/21588589-c8b3-4dbf-8127-eee030e9c3cf/042c4c44-b9e0-4de7-82c9-fbd2ceaa34a6-1785054446279|https://cdn.imglume.com/prompts/byradar/21588589-c8b3-4dbf-8127-eee030e9c3cf/d6bd7800-6cc6-48d4-81bf-bfe3666d2146-1785054446279|https://cdn.imglume.com/prompts/byradar/21588589-c8b3-4dbf-8127-eee030e9c3cf/508c4909-60d5-41af-ae73-83127ff090a8-1785054446279"
+"byradar:2080986432219320717:0","1517","f7c3576d99ae34fe5132347dd2a73ef4aa3dc6031dd8e46b741fb643df370fe7","年轻东亚女性坐在深色沙发上的写实肖像","一位年轻成年东亚女性坐在深色沙发上，画面为半身到大半身构图，人物位于画面中央偏右。身体侧坐，腰部微微扭转，右肩靠近镜头，头部回转看向镜头，眼神安静直接，嘴唇自然微启，神情柔和、慵懒、略带私密感。左手抬起轻扶头顶或发丝，右手自然撑在沙发坐垫上，姿态放松但有曲线感。
+
+她有柔和精致的鹅蛋脸，杏仁形深棕眼睛，自然细眉，纤细鼻梁，浅裸粉色嘴唇。妆容极淡，仅保留自然睫毛、细眼线和轻微腮红。皮肤白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和柔和高光，不要塑料磨皮。
+
+她有深黑棕色长发，自然披散，发量丰富，略带凌乱波浪感，部分发丝落在脸侧、肩膀和胸前，发尾带自然蓬松感。
+
+服装为白色修身长袖露肩短上衣，柔软贴身面料，一侧肩膀自然露出，衣摆位于腰线上方；下身穿浅色柔软居家短裤，带轻微蓝色小碎花或细小图案，腰部有自然褶皱。整体造型清爽、柔和、生活化。
+
+背景是暗调室内休息区或卧室沙发区，黑色沙发与深色靠垫，后方墙面为深灰黑色软包或现代装饰板，隐藏式暖黄色灯带横向发光，形成温暖背景光。左侧和后方大面积暗部保留细节。光线为低照度室内灯光与柔和侧光混合，暖色轮廓光照亮头发边缘，面部有柔和补光。整体低饱和、低对比、暗调电影感，带轻微胶片颗粒。
+
+摄影风格：85mm 人像镜头，f/1.8，浅景深，眼睛和面部清晰，背景柔和虚化，真实光学成像，photorealistic，ultra realistic，natural skin texture。
+
+避免： 卡通、CG、插画、过度磨皮、浓妆、夸张表情、夸张身材、错误手指、畸形手臂、强HDR、过度锐化、杂乱背景、文字、水印、Logo。","image","gptimage","gptimage","photography","portrait|East Asian|indoor|soft lighting|photorealistic","zh","ToroJushiAi","","https://x.com/ToroJushiAi/status/2080986432219320717","2080986432219320717","2026-07-25T12:00:02.000Z","NOASSERTION","@ToroJushiAi","https://imglume.com/prompt/1517","CC-BY-4.0","2026-07-26T08:27:34.338Z","2026-07-26T08:27:34.338Z","https://cdn.imglume.com/prompts/byradar/e1e98e8c-16c3-499a-9890-74395b742af6/bbb4cc11-4be5-47e1-a2c0-a68528b936f0-1785054454338|https://cdn.imglume.com/prompts/byradar/e1e98e8c-16c3-499a-9890-74395b742af6/c111ebf0-4565-4bee-9527-4fcdf7981494-1785054454338|https://cdn.imglume.com/prompts/byradar/e1e98e8c-16c3-499a-9890-74395b742af6/2f8683d6-e528-4796-92db-8ee112b659a0-1785054454338|https://cdn.imglume.com/prompts/byradar/e1e98e8c-16c3-499a-9890-74395b742af6/0a4d22bb-40ef-464f-ae07-54a5cab9b554-1785054454338"
+"byradar:2081009469358792727:0","1518","1db6b79f9b7c34da117f594c3e5f144167983c1911313c5184ac116b5f20f8f2","Cinematic fashion video of a young woman on a terracotta spiral staircase","A cinematic fashion video of a young woman with shoulder-length wavy reddish-brown hair and bangs, green eyes, freckles, septum piercing, wearing a pale yellow strapless midi dress with large 3D fabric flowers on the bodice, leopard-print headband, thick gold chain necklace, gold hoop earrings, and matching yellow floral high-heel sandals. She poses and moves gracefully on a modern terracotta-colored outdoor spiral staircase with smooth curved walls under bright natural sunlight and clear blue sky.
+
+Sequence:
+•⁠ ⁠Starts leaning against the curved wall looking at the camera, soft sunlight casting shadows.
+•⁠ ⁠Turns and walks slowly up the stairs away from the camera, dress flowing.
+•⁠ ⁠Pivots to face the camera while holding the railing, medium close-ups highlighting her face, makeup, and jewelry.
+•⁠ ⁠Slow camera push-in to extreme close-up of her face with soft glowing light and subtle lens flare.
+•⁠ ⁠She walks down a few steps holding the skirt of her dress so it billows elegantly in the breeze, then poses on the stairs looking toward the camera.
+•⁠ ⁠Ends with her standing on the stairs, one hand on the railing, dress gently moving.
+
+Smooth, elegant camera movements (slow pans, gentle push-ins, tracking shots), warm golden-hour lighting, soft cinematic color grading, shallow depth of field, high fashion aesthetic, elegant and feminine mood. Watermark “nona” in white cursive at the bottom. 21-second duration, 24fps, high resolution.","video","seedance","seedance","cinematic","fashion|spiral staircase|golden hour|high fashion|luxury","en","Just_sharon7","","https://x.com/Just_sharon7/status/2081009469358792727","2081009469358792727","2026-07-25T13:31:35.000Z","NOASSERTION","@Just_sharon7","https://imglume.com/prompt/1518","CC-BY-4.0","2026-07-26T08:27:36.118Z","2026-07-26T08:27:36.118Z","https://cdn.imglume.com/prompts/byradar/35d9ec3e-0b52-45d9-a73f-c00ba19ff72a/53e5b65c-da43-4953-a78a-b051b7187923-1785054456118"
+"byradar:2080999754859991152:0","1519","fbe3cf28a3da1a08342335932527d561bf57e2a93e9520ba78188142f1bcb57a","DV 16mm handheld camcorder POV gym vlog of Korean idol CHASE","DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a treadmill console or nearby bench. Natural hand shake, crooked framing, delayed autofocus, clumsy zooms, imperfect framing; camcorder never visible. Soft vintage tape quality with subtle noise, slight blur, muted colors, realistic skin tones, gentle bloom around gym lights, authentic early-2000s camcorder aesthetic. Tone: energetic but exhausted cardio challenge vlog with authentic reactions and playful humor. CHASE: Korean idol in her 20s with a long black ponytail, light post-workout sweat, expressive eyes, slim athletic build, wearing a modest long-sleeve athletic top, loose joggers, white sneakers, towel around her neck. Setting: modern indoor gym with treadmills, rowing machines, mirrors, and soft evening lighting. Shots: (1) Selfie before stepping onto the treadmill: “Let's see if I can survive twenty minutes.” (2) Camera on the treadmill console while she jogs naturally. (3) Handheld close-up breathing heavily: “Why does it feel faster every minute?” (4) Macro shot of her finger pressing the stop button. (5) Walking slowly off the treadmill, laughing while wiping sweat from her forehead. (6) Drinks water and takes a deep breath. (7) Gives the camera a tired thumbs-up: “Cardio officially defeated me today.” (8) Picks up her gym bag, smiles warmly, waves goodbye, and says, “See you next time!”","video","seedance","seedance","cinematic","gym vlog|handheld camcorder|Korean idol|16mm|early 2000s","en","saniaspeaks_","","https://x.com/saniaspeaks_/status/2080999754859991152","2080999754859991152","2026-07-25T12:52:59.000Z","NOASSERTION","@saniaspeaks_","https://imglume.com/prompt/1519","CC-BY-4.0","2026-07-26T08:27:43.970Z","2026-07-26T08:27:43.970Z","https://cdn.imglume.com/prompts/byradar/030f8030-5c22-4b9e-a7a4-70ba5a9913a6/fff8b894-70c0-40c4-92c7-45127e01ee8f-1785054463970"
+"byradar:2081027263487721784:0","1520","bfa118051fc13ce61c6699f54032811b6b9adc3b99c0dd53a86a3998d3c12173","Premium summer beverage commercial with young East Asian woman","Create a premium beverage commercial featuring the same young East Asian woman throughout. She wears a black fitted crop top, white denim shorts, white sneakers, sunglasses, and layered silver jewelry. Summer boardwalk, skate park, beach promenade, modern cafés, vibrant red and green color palette, cinematic commercial lighting.
+The commercial opens with her carrying a giant slice of fresh watermelon while walking along the beach. She laughs, spins the watermelon playfully, and it transforms into a chilled watermelon juice bottle.
+Macro shots reveal juicy watermelon slices, sparkling droplets, crushed ice, and refreshing splashes. She enjoys the drink while skateboarding along the boardwalk, browsing beach shops, playing volleyball with friends, and relaxing at a sunset bonfire.
+The final shot shows her raising the bottle toward the ocean horizon with a smile.
+""Pure summer refreshment.""
+Natural ambient sounds only. Premium beverage advertising, realistic liquid physics, vibrant summer cinematography, 4K HDR, 16:9","video","seedance","gptimage|seedance","product-ads","summer|watermelon|beverage|commercial|cinematic","en","AIwithkhan","","https://x.com/AIwithkhan/status/2081027263487721784","2081027263487721784","2026-07-25T14:42:17.000Z","NOASSERTION","@AIwithkhan","https://imglume.com/prompt/1520","CC-BY-4.0","2026-07-26T08:27:49.269Z","2026-07-26T08:27:49.269Z","https://cdn.imglume.com/prompts/byradar/0b7c05b3-d504-4f77-9a32-ad6f27ee876a/a3737d21-7b0b-440a-ae29-5b5a27cb9f63-1785054469269"
+"byradar:2080989603536965782:0","1521","ba5f005f75bb5038579b44ce464d4b7d3ae34c3535942fd86384745ac2ec2e1f","Luxury Diamond Ring Commercial Storyboard","TITLE: Luxury Diamond Ring Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• High-end jewelry campaign
+• Editorial presentation
+• 8 cinematic storyboard scenes
+
+HEADER:
+• Elegant serif typography
+• White & champagne gold palette
+• Luxury icons
+• Information cards
+• Why This Style Works
+
+STORYBOARD:
+1. Velvet ring box reveal
+2. Box slowly opening
+3. Diamond sparkle macro
+4. Romantic proposal
+5. Ring placed on finger
+6. Emotional close-up
+7. Luxury portrait
+8. Hero diamond product
+
+STYLE:
+Tiffany & Co. campaign aesthetic, soft luxury lighting, cinematic romance, crystal reflections, premium fashion editorial, ultra realistic, 8K.","video","seedance","gptimage|seedance","product-ads","diamond ring|luxury|storyboard|commercial","en","Strength04_X","","https://x.com/Strength04_X/status/2080989603536965782","2080989603536965782","2026-07-25T12:12:39.000Z","NOASSERTION","@Strength04_X","https://imglume.com/prompt/1521","CC-BY-4.0","2026-07-26T08:27:57.724Z","2026-07-26T08:27:57.724Z","https://cdn.imglume.com/prompts/byradar/32f729a7-30a5-4d31-aa88-485e6faa357a/bd1714e9-8795-4394-a05a-483478ee6f7d-1785054477724|https://cdn.imglume.com/prompts/byradar/32f729a7-30a5-4d31-aa88-485e6faa357a/ad104d80-e58c-44c7-82bb-08440651c7cb-1785054477724"
+"byradar:2081027786131780076:0","1522","9c4687b53cae37dda540663b22446b97ff20a559ad7e78d87041fa845ba112d2","Intimate Neon-lit Beauty Portrait","@Create image Preserve her facial identity exactly as it is with no alterations to her facial structure, proportions, or defining features. She has naturally balanced, youthful feminine features and an authentic appearance. Create an intimate close-up selfie captured from a slightly low angle, emphasizing softness, elegance, and a romantic coquette-inspired aesthetic. She tilts her head subtly to her right while maintaining direct eye contact with the camera, wearing a serene, dreamy expression with relaxed, gently closed lips.
+
+The portrait is bathed in glowing pink and violet-magenta neon lighting, producing delicate reflections across her skin and cascading hair while creating a nostalgic, cinematic atmosphere with warm, inviting tones. She wears a refined lavender-mauve camisole featuring slim shoulder straps and a graceful rounded neckline finished with intricate blush-pink floral lace, adding a delicate, feminine touch.
+
+Her hair is exceptionally long, extending to her hips, with abundant density and luxurious volume. The color is a rich warm auburn with subtle reddish-brown dimensional highlights that catch the ambient light naturally. It has a flawless salon-quality finish with silky realism, healthy shine, and smooth texture. The haircut features elegant butterfly layers with soft feathering throughout the lengths for fluid movement, complemented by face-framing curtain layers around the cheeks and jawline. There are no bangs. The upper sections remain sleek before transitioning into large, airy blowout curls with alternating inward and outward bends toward the ends, creating polished movement, fullness, and a premium editorial finish.
+
+Her makeup follows a refined Douyin beauty style with a soft velvet-matte complexion and flawless blurred skin. Warm peach-rose blush sweeps naturally across the cheeks and lightly over the bridge of the nose, paired with subtle faux freckles for youthful charm. Gentle luminous highlights accent the nose bridge, nose tip, and inner eye corners.
+
+The eyes feature soft matte taupe and nude shadows blended seamlessly into the crease, a touch of delicate silver shimmer at the center of the eyelids, crisp siren-inspired winged eyeliner with an inner-corner extension, dramatic spiky upper lashes, individually placed lower lashes in the signature manga style, and softly brushed, feathered brows.
+
+Her lips have a diffused velvet finish, with a muted nude upper lip blending softly into a deeper nude-brown lower lip for a plush gradient effect.
+
+The background remains a clean, understated interior in warm ivory and beige tones, allowing the glowing neon ambiance and her flowing hair to remain the visual focus. Ultra-photorealistic luxury beauty editorial photography with cinematic lighting, realistic skin texture, HDR rendering, premium color grading, shallow depth of field, and crisp 8K detail in a vertical composition.","image","gptimage","other","photography","beauty portrait|neon lighting|photorealistic|editorial|close-up","en","mehvishs25","","https://x.com/mehvishs25/status/2081027786131780076","2081027786131780076","2026-07-25T14:44:22.000Z","NOASSERTION","@mehvishs25","https://imglume.com/prompt/1522","CC-BY-4.0","2026-07-26T08:27:59.188Z","2026-07-26T08:27:59.188Z","https://cdn.imglume.com/prompts/byradar/7d7f0568-cacc-4703-a663-589d23280093/f05c41a1-b5b8-4098-a865-aa1cf6d91cfd-1785054479188|https://cdn.imglume.com/prompts/byradar/7d7f0568-cacc-4703-a663-589d23280093/69f8eabb-35a8-4047-ab8c-3093e2b84da3-1785054479188|https://cdn.imglume.com/prompts/byradar/7d7f0568-cacc-4703-a663-589d23280093/8f26ec29-8a59-49d7-b715-a803c7680476-1785054479188"
+"byradar:2080991912136437841:0","1523","e685639237c02f17942003ac95dc1d7653c90b48687e58a24ff2fb1bf55c9a42","Handheld 16mm gym vlog POV of CHASE in an evening gym","DV 16mm handheld tape camcorder POV by CHASE, who occasionally props the camera on a rack/bench. Natural hand shake, crooked framing, delayed focus, clumsy zooms, face occasionally cut off; camcorder never visible. Soft blurry tape look, faint tape noise, bloomed gym lights, flickering auto-exposure, muted contrast, realistic skin. Tone: playful, self-deprecating gym vlog with genuine laughs, exaggerated complaining, shaky handheld matching exhausted legs. CHASE: Korean idol in her 20s, long black high ponytail, glowing sweaty skin, expressive eyes, slim athletic build, modest long-sleeve athletic top, loose joggers/leggings, sneakers, towel around neck, no jewelry. Setting: evening gym with squat rack, leg press, mirror wall, water fountain, soft overhead lighting. Shots: (1) Propped at squat rack, catching breath: “Okay... leg day is not it today.” (2) Handheld close-up, shakes one leg: “Why did I do that many reps—” (3) Propped at leg press, finishes rep, flops back: “Okay that's it, I'm done, I'm so done.” (4) Macro of hand gripping handle, ambient only. (5) Handheld, stands, legs wobble, grabs rack laughing: “Wait— okay my legs are literally shaking—” (6) Wobbly walk to fountain: “This is so embarrassing, someone help me—” (7) Drinks water: “Okay... water is life right now.” (8) Selfie ending against wall, smiling: “Never doing legs again—see you guys, I'm going to go lie down somewhere.”","video","seedance","seedance","cinematic","gym vlog|handheld|16mm|CHASE|idol","en","doctorwasif","","https://x.com/doctorwasif/status/2080991912136437841","2080991912136437841","2026-07-25T12:21:49.000Z","NOASSERTION","@doctorwasif","https://imglume.com/prompt/1523","CC-BY-4.0","2026-07-26T08:28:01.122Z","2026-07-26T08:28:01.122Z","https://cdn.imglume.com/prompts/byradar/f4e3d741-375f-4ef6-bad3-8272f4896105/2b0a3d7b-0a93-4746-a8aa-1de0529d9f9e-1785054481122"
+"byradar:2080991436426899500:0","1524","da9a5f5787f4276ddc95b8017266f61e3d0b11957d1f24104bcde6b13872a3af","Giant Snake Attacks Manhattan - 6-shot cinematic trailer","16:9 aspect ratio, 15 seconds total duration, 6-shot cinematic sequence, Hollywood blockbuster action trailer style, photorealistic 8K, ultra-detailed textures, dramatic volumetric lighting with sun flares and god rays, realistic physics and motion.
+
+Shot 1 (0–3s):
+Chaotic street-level view in downtown Manhattan, New York City, on a busy intersection with yellow taxis, black SUVs, panicked pedestrians running and screaming. A massive 200-foot-long prehistoric Titanoboa-style giant snake with dark gray-black scaly skin, glowing orange eyes, and an enormous head suddenly bursts out of thick dust clouds, smashing through cars and buildings, debris flying everywhere, high-speed dynamic camera.
+
+Shot 2 (3–5s):
+Low-angle tracking close-up as the giant snake's massive head smashes into a modern glass skyscraper, glass shattering, sparks and fire exploding, orange embers raining down, motion blur on debris, intense destruction.
+
+Shot 3 (5–7s):
+Extreme low-angle worm's-eye view climbing up the snake's huge scaly body wrapped around the skyscraper, sunlight glinting off wet scales with strong lens flares and blue horizontal flares, building reflections visible.
+
+Shot 4 (7–9s):
+Epic wide aerial shot — the enormous snake coils tightly around the top of One World Trade Center (Freedom Tower) in a bright sunny New York City skyline with river and other skyscrapers visible, black smoke rising in the distance, multiple military helicopters flying around it.
+
+Shot 5 (9–12s):
+Dramatic close-up on the snake's menacing head and upper body wrapped around the tower spire, looking down at the chaotic city below, sharp fangs visible, intense orange eyes staring forward.
+
+Shot 6 (12–15s):
+Final epic wide cinematic shot. Massive fiery explosion erupts at the top of the tower where the snake is coiled, huge orange fireball and thick black smoke billowing outward, snake head roaring, helicopters scattering, intense sun flare and god rays, high-stakes disaster movie climax.","video","seedance","other","cinematic","giant snake|Manhattan|action trailer|explosion","en","Naiknelofar788","","https://x.com/Naiknelofar788/status/2080991436426899500","2080991436426899500","2026-07-25T12:19:56.000Z","NOASSERTION","@Naiknelofar788","https://imglume.com/prompt/1524","CC-BY-4.0","2026-07-26T08:28:07.462Z","2026-07-26T08:28:07.462Z","https://cdn.imglume.com/prompts/byradar/865ecedf-af56-449b-8f82-95b95ec49dba/87eef768-ccb4-4785-a0e8-82872753701f-1785054487462"
+"byradar:2081049084912390559:0","1525","5e00d85b597d73c532eac7a8d4b1920e9cede76790245c33aac2b0be34bd792c","Realistic portrait of East Asian woman with platinum blonde hair and black fur hat","Preserve the girl's face shape, facial features, skin tone, A realistic portrait of a young East Asian woman with long wavy platinum blonde hair, wearing a large fluffy black fur hat (ushanka/beret style) and a tight black leather high-neck sleeveless top. She has dramatic makeup with thick white winged eyeliner, pink lips, and a slightly pouty or intense expression looking at the camera. Soft studio lighting with cool blue tones on a plain light wall background, medium close-up shot, high detail, photorealistic","image","gptimage","gptimage","photography","portrait|East Asian woman|platinum blonde hair|black fur hat|photorealistic","en","Just_sharon7","","https://x.com/Just_sharon7/status/2081049084912390559","2081049084912390559","2026-07-25T16:09:00.000Z","NOASSERTION","@Just_sharon7","https://imglume.com/prompt/1525","CC-BY-4.0","2026-07-26T08:28:10.049Z","2026-07-26T08:28:10.049Z","https://cdn.imglume.com/prompts/byradar/f7e39a8c-62b0-4d4a-80c4-d573f81c2967/36030bfc-e5e4-49f0-b049-2d80823e4ea6-1785054490049"
+"byradar:2080998165013217284:0","1526","9ba5ce8a121116c6e5c77982ff6866e6ce530981aa2b60e63d9d35d0e386999c","Cinematic Anime-Style Beef Pho Cooking Video","Create a cinematic anime-style cooking video showing the outdoor preparation of authentic beef pho at a peaceful riverside campsite. Begin with slicing marbled beef, preparing ginger, onions, whole spices, fresh Thai basil, bean sprouts, and lime, then simmer beef bones, aromatics, and spices in a cast-iron pot over a crackling campfire to create a rich broth. Finally, place rice noodles in a ceramic bowl, top with thin beef slices, pour steaming broth to gently cook the meat, and finish with herbs, chili, red onion, and lime. Capture warm golden lighting, cozy camping vibes, detailed food close-ups, smooth transitions, and beautiful anime-inspired visuals.","video","seedance","seedance","cinematic","anime|pho|campfire|cooking|video","en","noorwithwifi","","https://x.com/noorwithwifi/status/2080998165013217284","2080998165013217284","2026-07-25T12:46:40.000Z","NOASSERTION","@noorwithwifi","https://imglume.com/prompt/1526","CC-BY-4.0","2026-07-26T08:28:13.803Z","2026-07-26T08:28:13.803Z","https://cdn.imglume.com/prompts/byradar/cd78f88f-3cfb-4967-91eb-8d221f182780/004957d6-26a2-4c7e-8ae2-5b8659b7d6f8-1785054493803"
+"byradar:2080989326557487445:0","1527","bea5235333f87b07e56260e6073cca117a767129f91fe44299b7592a56ffbf50","Extreme close‑up selfie of youthful female in car interior, 9:16 ultra‑high‑res","Maintain the original facial features exactly as they are, preserving the natural 100% facial identity and perfectly balanced proportions. The appearance should be youthful and feminine, using the exact same face from “Image 1.” The skin should look radiant, luminous, and healthy with a soft pearlescent glow, featuring naturally detailed texture that creates a realistic dewy glass skin effect without looking plastic or artificial. Large dark brown eyes should have bright, natural catchlights, complemented by thick black eyelashes curled upward, softly arched eyebrows that are natural and not overly dark, a fresh rosy blush blended delicately across the cheeks, a subtle pink tint on the tip of the nose, and soft gradient pink lips with a light glossy finish. Makeup should be seamlessly blended into the skin with no patchiness or harsh lines. The body should appear proportionate with very fair, smooth, glowing skin. The hair should be a light milk-tea brown colour, tied back with an ivory-white hair tie visible at the back of the head, with loose strands and soft baby hairs naturally framing the forehead and face. The character has multiple piercings in the right ear (left side of the image), including the earlobe and upper helix, wearing small diamond or crystal earrings shaped like stars and flowers. Around the neck is a delicate gold or rose gold necklace with a white ""Z""-shaped pendant surrounded by a gold frame. The setting is inside a car, with a grey fabric or synthetic seatback visible behind the subject and a black seatbelt crossing the lower-right corner of the frame, reinforcing the confined interior space. The subject is centred in the composition, filling most of the frame while taking a selfie with her head noticeably tilted toward the right side of the image (left from the subject’s perspective), looking directly into the camera with a confident, captivating gaze. She wears a white collared shirt with the top buttons left open, revealing the neck, collarbones, and upper chest. Natural sunlight streams through the front of the car, creating strong, direct hard lighting that highlights the glow of the face, eyes, and hair, with the light likely reflected by the hand or smartphone holding the camera. The image is captured as an extreme close-up selfie using a Dutch angle that matches the head tilt, with the camera positioned at eye level or slightly above and angled downward. The composition focuses almost entirely on the face, neck, and upper chest, leaving very little of the surrounding environment visible to emphasise the skin texture, lighting, shadows, and expressive eyes. The image should have a 9:16 aspect ratio, ultra-high 8K resolution, and the realistic quality of a photo taken with the latest iPhone. Negative Prompt: low quality, worst quality (1.4), bad anatomy, deformed, ugly appearance, crossed eyes, extra limbs, missing limbs, fused fingers, extra fingers, watermark, text, signature, illustration, painting, cartoon.","image","nanobanana","nanobanana","photography","selfie|car interior|glowing skin|young female|extreme close-up|Dutch angle","en","kingofdairyque","","https://x.com/kingofdairyque/status/2080989326557487445","2080989326557487445","2026-07-25T12:11:33.000Z","NOASSERTION","@kingofdairyque","https://imglume.com/prompt/1527","CC-BY-4.0","2026-07-26T08:28:14.111Z","2026-07-26T08:28:14.111Z","https://cdn.imglume.com/prompts/byradar/56a5af98-5bf9-4b23-803c-bf0882dc6e97/ebbc11a1-06f7-44f8-8ab3-f8c4c7be8574-1785054494111|https://cdn.imglume.com/prompts/byradar/56a5af98-5bf9-4b23-803c-bf0882dc6e97/fa3ec749-51a7-4a86-900f-5c0f3e9dab85-1785054494111|https://cdn.imglume.com/prompts/byradar/56a5af98-5bf9-4b23-803c-bf0882dc6e97/76c12a47-56a4-4145-b1ff-af2bf5a8c333-1785054494111|https://cdn.imglume.com/prompts/byradar/56a5af98-5bf9-4b23-803c-bf0882dc6e97/d9de63b8-52bc-4495-af1d-f2fb96f1dca9-1785054494111"
+"byradar:2081032248179220680:0","1528","d84fec2365c10745a04f50fcad05e92e21989d2b3adb368815ce846176e16d9a","Premium lifestyle lipstick commercial video","Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video.
+Premium lifestyle lipstick commercial, 8 seconds, bright luxury apartment, natural afternoon lighting, soft cinematic shadows, realistic beauty campaign.
+The video opens with the woman standing beside a full-length mirror, smiling into the camera while holding a lipstick. She twists it open and applies it naturally before checking the result in the mirror. Macro shots showcase the lipstick gliding smoothly across her lips and the glossy finish. She picks up her sunglasses and handbag, then confidently walks toward the apartment door. Before leaving, she turns back toward the camera, lifts the lipstick beside her cheek with a playful smile, and the camera slowly pushes in for the final beauty shot.
+Photorealistic lifestyle advertisement, premium beauty cinematography, shallow depth of field, luxury lighting, glossy lips, elegant camera movement, 4K HDR.","video","seedance","seedance|gptimage","cinematic","lipstick|beauty|commercial|luxury|photorealistic","en","AIwithSynthia","","https://x.com/AIwithSynthia/status/2081032248179220680","2081032248179220680","2026-07-25T15:02:06.000Z","NOASSERTION","@AIwithSynthia","https://imglume.com/prompt/1528","CC-BY-4.0","2026-07-26T08:28:19.454Z","2026-07-26T08:28:19.454Z","https://cdn.imglume.com/prompts/byradar/535f67e3-2d9a-4bdf-a555-0b3e0d2697f7/8b84d55b-4d62-489e-a57b-d9bff00503a8-1785054499454"
+"byradar:2081018320136921523:0","1529","2ce41c852207ee4aa6455edb380e5abf9000eb26846ee4e78cfdfc5cdc56448f","Night pool portrait of Dua Lipa in 8k RAW","An authentic 8k RAW night portrait photography in a 9:16 aspect ratio, captured from a high-angle selfie perspective using an iPhone 15 Pro Max front camera with a 24mm wide-angle lens at f/1.9 aperture.
+The image features Dua Lipa with a soft, natural smile, looking directly into the camera lens with arms extended forward as if holding the phone. She is waist-deep in an outdoor swimming pool at night. Crystal-clear water droplets trickle down her natural, highly detailed skin texture, highlighting precise facial micro-details and intricately detailed irises with subtle light reflections.
+She is wearing a vibrant bright white one-piece swimsuit featuring a plunging neckline with a small sign 'Keor' embroidered on border, a circular cutout on the abdomen, thin halter-style straps, and side-tie details at the hips.
+The background shows a serene outdoor pool setting under a dark night sky with subtle stars, complemented by illuminated pool loungers and warm ambient lamps along the poolside. Bright underwater lights illuminate the pool from below, casting hypnotic caustic light patterns across her wet skin and the vibrant fabric of her swimsuit. The scene is enveloped in cool blue night lighting paired with soft, realistic highlights on her glowing, wet skin.
+Shot with Smart HDR processing, crystal-clear optical resolution, sharp focus on the subject, high dynamic range, crisp water refraction, zero motion blur, and flawless low-light noise reduction, capturing an intimate, relaxed, and serene night atmosphere.","image","gptimage","other","photography","Dua Lipa|pool|night|portrait|8k|iPhone 15 Pro Max","en","KeorUnreal","","https://x.com/KeorUnreal/status/2081018320136921523","2081018320136921523","2026-07-25T14:06:45.000Z","NOASSERTION","@KeorUnreal","https://imglume.com/prompt/1529","CC-BY-4.0","2026-07-26T08:28:20.974Z","2026-07-26T08:28:20.974Z","https://cdn.imglume.com/prompts/byradar/cfc6deac-83b2-4ff0-b2c9-67c0a4c533f1/9f97a2fa-cd40-40f5-a1ca-49257209c127-1785054500974|https://cdn.imglume.com/prompts/byradar/cfc6deac-83b2-4ff0-b2c9-67c0a4c533f1/8c1b47b6-fd52-43f9-a5d2-4e719181d781-1785054500974|https://cdn.imglume.com/prompts/byradar/cfc6deac-83b2-4ff0-b2c9-67c0a4c533f1/7225ceb3-15a7-4443-8f6f-802644875cde-1785054500974"
+"byradar:2081055849556877749:0","1530","a564e2fb55f6778b003458a6c328e9134f2d1162be8f7cf552df9b80e9ddaa2d","Cinematic vertical beauty vlog for skincare product","""Cinematic vertical 9:16 beauty vlog style, 4k resolution, ultra-realistic textures, clean lighting, and smooth camera stabilization.
+​Scene & Timeline Choreography
+​00:00 - 00:02
+​Visual: A young woman with short, platinum-blonde hair and a glowing complexion looks directly into the camera with an excited expression inside a bright, modern white-tiled bathroom while holding a small yellow rubber duck under her chin.
+​Voice Over: (Playful, surprised intake of breath or light chuckle)
+​00:02 - 00:05
+​Visual: She smiles warmly while looking down at the yellow rubber duck in her hand, then looks back up toward the camera with a playful expression.
+​Voice Over: ""Okay, wait...""
+​00:05 - 00:07
+​Visual: She brings a bottle of orange skincare serum up close to the camera, showcasing the label clearly while speaking with an enthusiastic expression.
+​Voice Over: ""I literally cannot believe how good this is.""
+​00:07 - 00:08
+​Visual: A close-up shot of her hands dispensing a drop of the translucent, glossy serum onto her fingertip and rubbing it gently against her palm.
+​Voice Over: (Soft ambient bathroom sounds / gentle product texture application)
+​00:08 - 00:10
+​Visual: Close-up of her face as she gently pats and applies the serum onto her cheek, highlighting her radiant skin and smooth application.
+​Voice Over: ""Look how it just melts in...""
+​00:10 - 00:13
+​Visual: Medium shot showing her full outfit—an off-the-shoulder white long-sleeve top, dark brown leather shorts, and white thigh-high stockings—standing by the bathroom counter with plants and a towel, gently touching her glowing cheek.
+​Voice Over: ""...my skin already feels insane.""
+​00:13 - 00:15
+​Visual: She holds up the orange serum bottle again, flashing a wide, radiant smile directly at the camera while speaking excitedly.
+​Voice Over: ""Okay, I'm obsessed. I'm not going back!""","video","seedance","seedance","cinematic","beauty vlog|skincare|vertical|product demo","en","IsabellaHan_","","https://x.com/IsabellaHan_/status/2081055849556877749","2081055849556877749","2026-07-25T16:35:53.000Z","NOASSERTION","@IsabellaHan_","https://imglume.com/prompt/1530","CC-BY-4.0","2026-07-26T08:28:24.768Z","2026-07-26T08:28:24.768Z","https://cdn.imglume.com/prompts/byradar/c2cfce5f-9e61-47cb-85e7-badbe4281f1e/bfd48d73-feb4-442d-ad2f-2a0e08ccf9e3-1785054504768"
+"byradar:2080986316477452535:0","1531","879041509d39d4cf04ea6746469e92a679612ec045347bc406f5ec391e8ec819","Editorial portrait of [NAME] in a sunlit kitchen wearing a light‑blue apron","An editorial portrait shot on an iPhone (24mm primary lens, Portrait Mode, f/1.8 aperture) capturing [NAME] smiling cheerfully at the camera with a radiant, charismatic, and relaxed expression. She is standing slightly turned to the side, looking subtly upward, with her right arm raised and hand resting behind her head, while her left arm extends downward with her hand behind her waist. A few loose strands of her hair are neatly tucked behind her ear.
+She is wearing only a simple light-blue cotton apron tied around her neck and waist, with no other clothing underneath. The cotton fabric exhibits realistic folds, natural weave textures, and organic shadows following her body movement.
+The scene is set in a sunlit, contemporary kitchen with off-white walls, white backsplash tiles, dark blue-grey cabinets, a solid wood edge countertop, and a visible doorway in the background. Bright, intense morning sunlight streams in through an off-camera window on the left, casting sharp highlights, accurate skin reflections, and soft diagonal shadows across the wall and floor.
+The photograph features a clean, direct smartphone aesthetic with Smart HDR processing, crystal-clear sharpness, neutral white balance, and an authentic skin texture with visible pores. Medium shot, eye-level perspective, featuring a shallow depth of field with natural background blur (bokeh), rich dynamic range, and a vertical 9:16 aspect ratio.","image","nanobanana","nanobanana","photography","portrait|iPhone|kitchen|apron","en","Giulia_4i","","https://x.com/Giulia_4i/status/2080986316477452535","2080986316477452535","2026-07-25T11:59:35.000Z","NOASSERTION","@Giulia_4i","https://imglume.com/prompt/1531","CC-BY-4.0","2026-07-26T08:28:27.432Z","2026-07-26T08:28:27.432Z","https://cdn.imglume.com/prompts/byradar/1c29cfb5-7872-4118-95d3-2880eeea8764/0b33c4e8-34d5-4ae4-9a71-c929b5d6cece-1785054507432|https://cdn.imglume.com/prompts/byradar/1c29cfb5-7872-4118-95d3-2880eeea8764/c4c76677-1550-47b9-ba5b-0ee9f8d8d154-1785054507432|https://cdn.imglume.com/prompts/byradar/1c29cfb5-7872-4118-95d3-2880eeea8764/c215c20a-f587-4ed9-bc49-8ef4f912c5b6-1785054507432"
+"byradar:2081046820340347170:0","1532","38c7e92b49f36826620c499cc323db90aa6f22a5b3c50dd30a5cd15ce2be5123","东亚年轻女性极简白色摄影棚写实肖像","一位年轻成年东亚女性站在极简白色摄影棚或明亮室内空间中，画面为背面三分之二到大半身构图，人物位于画面中央。身体背对镜头，略微侧向画面左侧，头部低垂并转向左下方，露出柔和侧脸轮廓，眼睛向下看，不直视镜头，神情安静、克制、柔和。
+
+她拥有精致鹅蛋脸，杏仁形深棕眼睛，自然细眉，纤细鼻梁，浅裸粉色嘴唇。妆容极淡，皮肤白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和柔和高光，不要塑料磨皮。背部、肩胛骨、腰线自然真实，不夸张。
+
+头发为深黑色，松散盘成略凌乱的高位发髻，头顶蓬松，耳侧、颈后和脸侧有细碎发丝自然垂落，发丝带真实凌乱感。
+
+她穿白色露背上衣，肩部自然滑落，长袖为轻薄半透明网纱或薄纱材质，袖子贴合手臂并在手腕处自然堆叠；背部由白色与浅金色细绳交叉绑带固定，中央有蝴蝶结和垂落绳结，绑带结构清晰但不过度复杂。下身穿白色轻薄高腰裤或裙裤，面料柔软，带细密金色点状装饰和蓝金色孔雀羽毛图案，腰侧有白色抽绳系结。
+
+背景为干净白色或浅灰白无缝墙面，无杂物。光线为柔和自然窗光或高键棚拍漫射光，从左前方照入，阴影极浅，整体低饱和、低对比、奶油白空气感。摄影风格：85mm人像镜头，f/2，浅景深，眼睛和侧脸清晰，真实皮肤与布料纹理，轻微胶片颗粒，photorealistic。
+
+避免： 卡通、CG、插画、过度磨皮、夸张身材、错误手指、畸形手臂、扭曲脊柱、错误绑带结构、过度暴露、强HDR、过度锐化、杂乱背景、文字、水印、Logo。","image","gptimage","other","photography","portrait|studio|East Asian|photorealistic|minimalist","zh","ToroJushiAi","","https://x.com/ToroJushiAi/status/2081046820340347170","2081046820340347170","2026-07-25T16:00:00.000Z","NOASSERTION","@ToroJushiAi","https://imglume.com/prompt/1532","CC-BY-4.0","2026-07-26T08:28:35.874Z","2026-07-26T08:28:35.874Z","https://cdn.imglume.com/prompts/byradar/3127d93d-d870-4dd5-9d52-6f9141693394/c10f2150-be41-4028-962d-55511c940d5a-1785054515874|https://cdn.imglume.com/prompts/byradar/3127d93d-d870-4dd5-9d52-6f9141693394/984d17cf-72b7-4332-be14-c976a5dd08aa-1785054515874|https://cdn.imglume.com/prompts/byradar/3127d93d-d870-4dd5-9d52-6f9141693394/a1ac234f-cffe-4b0e-9be6-9b7c0951fcee-1785054515874|https://cdn.imglume.com/prompts/byradar/3127d93d-d870-4dd5-9d52-6f9141693394/debedbd9-9b1d-4b70-9d7b-f548eb9211bc-1785054515874"
+"byradar:2080982143568949500:0","1533","9262a26063a9a0508c1fbe2a9deb7349d22941c2d65d4ac3db1ae46779ee50cf","8-cut cinematic parkour chase with two distinct characters on Tokyo rooftops","FORMAT: 15 seconds, 16:9, 1080p, 8-cut cinematic ultra-advanced parkour footage.
+
+CHARACTERS: Two realistic individuals from image_1 and image_2. Use the attached images as absolute character references, and fully maintain the facial features, hairstyles, hair colors, skin textures, body types, height differences, outfits, color schemes, and age appearances of each person across all cuts. No altering into different people, face swaps, outfit changes, hairstyle changes, or mixing of the two individuals' features.
+
+SETTING: A sunny modern Japanese city reminiscent of Tokyo, Shibuya, and Yokohama — rooftops, alleys, staircases, railings, pipes, concrete walls. The two protagonists, as equals, race through at high speed running side by side, following, crossing paths, and coordinating.
+
+CUTS:
+1. (00:00–00:01.60) Low-angle rear tracking. Both accelerate side by side and simultaneously kong vault over separate obstacles.
+2. (00:01.60–00:03.40) Front low-angle. One wall runs the left wall, the other the right, then tic-tac to cross in midair and land on opposite rooftops.
+3. (00:03.40–00:05.20) Lateral tracking. Consecutive precision jumps, then cat leaps to grab and climb a high wall.
+4. (00:05.20–00:07.20) Rooftop tracking. The leader dash vaults, the trailer websters over the gap, then they swap front and back positions.
+5. (00:07.20–00:09.20) Overhead moving camera. Both dive roll, then run side by side to speed vault a long railing.
+6. (00:09.20–00:11.30) Handheld retreating from the front. One underbars, the other side flips, conquering the obstacle simultaneously.
+7. (00:11.30–00:13.20) Drone from diagonal rear above. Both palm spin off left and right walls, kong vault, accelerate into the final jump.
+8. (00:13.20–00:15.00) Climax. Both leap a large rooftop gap, each doing a corkscrew, camera circling them in midair as they land on separate rooftop edges — then run side by side into the distance.
+
+QUALITY: Live-action film quality. World-championship-level smooth freerunning. Realistic center-of-gravity shifts, muscle movement, natural landing impacts, swaying hair and clothing. Sharp background, natural motion blur only during high-speed movement.
+
+PROHIBITED: Facial distortion, altering into different people, face or body swaps, outfit changes, hairstyle changes, body type changes, limb multiplication, duplicates, body fusion, penetration, warping, floating, unnatural landings, anime style, CG style.","video","seedance","other","cinematic","parkour|Tokyo|action|freerunning|multi-character","en","NexlowX","","https://x.com/NexlowX/status/2080982143568949500","2080982143568949500","2026-07-25T11:43:00.000Z","NOASSERTION","@NexlowX","https://imglume.com/prompt/1533","CC-BY-4.0","2026-07-26T08:28:35.888Z","2026-07-26T08:28:35.888Z","https://cdn.imglume.com/prompts/byradar/cd4687c9-ea28-4319-ab66-87dc88adfbd8/349016ce-9e57-45e2-8a0f-e4843625c125-1785054515888"
+"byradar:2081078247031181648:0","1534","bf2a2942ce3c849a9f10fded5246a82548a31e6df9d2093da59c4ea91b0094fc","Photorealistic image of a woman at a sunny gas station with custom branding and orange Bugatti","{
+ ""subject"": {
+ ""description"": ""A beautiful young woman with tanned skin, long dark wavy hair, and a confident expression. She has a toned, athletic figure with defined abs."",
+ ""pose"": ""Standing next to a gas pump, hands on her hips, looking directly at the camera."",
+ ""clothing"": {
+ ""main"": ""Light pink checkered bikini top and light-wash denim shorts.""
+ }
+ },
+ ""setting"": {
+ ""environment"": ""Sunny outdoor gas station."",
+ ""modifications"": ""Change the 7-Eleven branding on the pump to display '3-Keor' (number 3 instead of 7, and 'Keor' instead of 'Eleven'). Change the red car in the background to a bright orange Bugatti Chiron with black alloy wheels.""
+ },
+ ""style"": {
+ ""photography"": ""Realistic, high-resolution outdoor photograph with bright natural sunlight and sharp details."",
+ ""mood"": ""Confident and summery."",
+ ""composition"": ""Medium full-body shot with the gas pump and car in the frame.""
+ },
+ ""full_prompt"": ""Photorealistic image of a beautiful woman with long dark hair wearing a pink checkered bikini top and denim shorts, standing next to a gas pump at a sunny station with hands on her hips. Change the 7-Eleven logo to '3-Keor'. Replace the car in the background with a bright orange Bugatti Chiron with black alloy wheels. Bright daylight, highly detailed skin, hair, and clothing textures.""
+}","image","nanobanana","nanobanana","photography","woman|bikini|gas station|sunny|bugatti|custom branding","en","KeorUnreal","","https://x.com/KeorUnreal/status/2081078247031181648","2081078247031181648","2026-07-25T18:04:53.000Z","NOASSERTION","@KeorUnreal","https://imglume.com/prompt/1534","CC-BY-4.0","2026-07-26T08:28:44.484Z","2026-07-26T08:28:44.484Z","https://cdn.imglume.com/prompts/byradar/38fc29a4-9f41-4480-8f7d-a635afbad1f2/74fd82f0-6ae6-414a-8f15-2ab2bc7d417e-1785054524484|https://cdn.imglume.com/prompts/byradar/38fc29a4-9f41-4480-8f7d-a635afbad1f2/1cbf2807-e787-4275-884d-906275964210-1785054524484|https://cdn.imglume.com/prompts/byradar/38fc29a4-9f41-4480-8f7d-a635afbad1f2/64cf4525-a701-4430-9673-44cf86935ff8-1785054524484|https://cdn.imglume.com/prompts/byradar/38fc29a4-9f41-4480-8f7d-a635afbad1f2/d23a3102-461c-4293-b291-db9a3191575b-1785054524484"
+"byradar:2081162004245426665:0","1535","95eb8cf742e80b7f7de13967fc288eaeb9e1194ec59e869c0718e9a4b84ef1ae","Dark nocturnal interior fashion editorial","A private interior space draped in dark wood paneling and deep purple-magenta velvet breathes an atmosphere of late-night opulence. A close-up of a solitary woman reclines with cool detachment, her dark ponytail and direct gaze exuding an aura of controlled allure. A liquid black satin slip short dress clings gracefully beneath an open faux-fur coat with a small sign 'Keor' embroidered on border, draped loosely across her shoulders and hips. Plus she wears black stockings. Soft warm key light sweeps gently from the side, illuminating her silhouette against the rich velvet texture of the sofa. Deep jewel tones and dark wood shadows merge into a softly muted palette anchored by subtle crimson accents. The quiet composition captures a transcendent editorial moment where sculptural poise seamlessly meets intimate, high-fashion mystery.","image","nanobanana","nanobanana","photography","interior|fashion|editorial|dark|luxury","en","KeorUnreal","","https://x.com/KeorUnreal/status/2081162004245426665","2081162004245426665","2026-07-25T23:37:42.000Z","NOASSERTION","@KeorUnreal","https://imglume.com/prompt/1535","CC-BY-4.0","2026-07-26T08:28:51.677Z","2026-07-26T08:28:51.677Z","https://cdn.imglume.com/prompts/byradar/62b7b0e1-a7c9-4759-a74f-4b8d1a5c69e7/26a87605-8bbe-49d5-91d2-315b48fdc50a-1785054531677|https://cdn.imglume.com/prompts/byradar/62b7b0e1-a7c9-4759-a74f-4b8d1a5c69e7/56821d28-6556-48e5-b1d0-3220e5e710cd-1785054531677|https://cdn.imglume.com/prompts/byradar/62b7b0e1-a7c9-4759-a74f-4b8d1a5c69e7/dde6a52e-50a1-4ad3-815b-be7305f362ef-1785054531677|https://cdn.imglume.com/prompts/byradar/62b7b0e1-a7c9-4759-a74f-4b8d1a5c69e7/a2fd58e5-1b0f-4a35-b1a7-0117843681a0-1785054531677"
+"byradar:2081220953544225128:0","1536","5e80cd14e7a2f2b3463c2bbc02c672c75fac102e9acd892abd7a5c0b9dd5420e","Ultra-realistic cinematic lifestyle video of a young East Asian woman doing laundry in a Korean suburban neighborhood","Create an ultra-realistic cinematic lifestyle video featuring the same young East Asian woman consistently throughout the entire sequence. Preserve identical facial features, silky dark brown hair styled in a relaxed messy bun, radiant natural skin, body proportions, and outfit across every shot. She wears an oversized cream knit T-shirt, comfortable beige lounge shorts, cozy house slippers, and minimal natural makeup. The setting is a peaceful Korean suburban neighborhood on a bright spring afternoon with quiet streets, blooming flowers, charming homes, and warm natural sunlight.
+
+The video opens with an intimate close-up of her face as she smiles softly toward the camera while standing beside an open bedroom window. Gentle sunlight illuminates her glowing skin, a light breeze moves loose strands of her hair, and she tucks a strand behind her ear before turning naturally and walking toward a basket of laundry.
+
+She gathers the clothes, sorts whites and colors neatly on the floor, checks pockets, folds delicate garments separately, then places everything into a woven laundry basket before leaving her apartment.
+
+She walks through the peaceful neighborhood toward a modern self-service laundromat, exchanging warm smiles and friendly waves with neighbors, children playing outside, and elderly residents tending flowers.
+
+Inside the laundromat, she loads the washing machine, pours detergent, selects the wash cycle, and watches the clothes begin spinning. Cinematic close-ups capture swirling soap, rotating fabrics behind the glass, sunlight reflecting across the machine door, and tiny water droplets glistening in the light.
+
+While waiting, she enjoys an iced coffee outside beneath a flowering tree, casually reading a book and watching the calm neighborhood life unfold around her. A gentle breeze lifts a few loose strands of hair as she smiles peacefully.
+
+Once the cycle finishes, she transfers the clothes into the dryer, shakes each garment before placing it inside, then later removes warm freshly dried laundry. Close-up shots highlight soft towels, fresh fabric textures, warm steam, and her satisfied smile.
+
+She walks home carrying the basket through quiet residential streets. Back inside, she carefully folds every piece of clothing, organizes them neatly into wooden drawers, lightly sprays fabric mist, and places a lavender sachet inside the wardrobe.
+
+The video ends with her returning to the open window. She notices the camera, smiles warmly, raises a cup of iced tea toward the viewer in a friendly toast, then looks outside as the camera slowly pulls backward, revealing the cozy apartment bathed in golden sunset light and the peaceful neighborhood beyond.
+
+Natural ambient audio only: birds chirping, gentle breeze, distant neighborhood conversations, footsteps, washing machine sounds, detergent pouring, dryer humming, fabric folding, wooden drawers opening, ice clinking, leaves rustling, and soft city ambience. No background music, subtitles, logos, watermarks, or on-screen text. Premium commercial-quality cinematography, smooth handheld and gimbal camera movement, realistic skin texture, authentic facial expressions, physically accurate lighting, shallow depth of field, warm cinematic color grading, 16:9 widescreen, 4K HDR.","video","seedance","seedance","cinematic","ultra-realistic|cinematic|lifestyle|East Asian woman|laundry|Korean suburb|handheld gimbal","en","AIwithSynthia","","https://x.com/AIwithSynthia/status/2081220953544225128","2081220953544225128","2026-07-26T03:31:57.000Z","NOASSERTION","@AIwithSynthia","https://imglume.com/prompt/1536","CC-BY-4.0","2026-07-26T08:28:56.403Z","2026-07-26T08:28:56.403Z","https://cdn.imglume.com/prompts/byradar/9b177c60-45f5-4cb6-a386-fdcc269d0b72/006e01e4-6671-41e3-872b-fc2cc0e4ca06-1785054536403"
+"byradar:2081262542878597242:0","1537","c672996b489c6f57e1ca7c9517f2fdb5a7bc5f5c8de19025e4b50d2e83ec0f09","Authentic MiniDV Handheld Travel Vlog on Coastal Cliff","Authentic Sony MiniDV handheld camcorder footage recorded entirely by the woman herself. One continuous handheld selfie shot with natural arm movement, gentle walking shake, breathing-induced sway, slight framing imperfections, delayed autofocus, rolling shutter, occasional focus hunting, natural exposure breathing, and realistic handheld instability. Never cinematic, stabilized, or professionally filmed.
+
+LOOK
+
+True early-2000s MiniDV home-video aesthetic with soft optical bloom, delicate tape grain, mild CCD sensor noise, subtle chromatic aberration, gentle motion blur, analog compression, warm nostalgic color science, lifted blacks, soft highlight halation, occasional exposure flicker, and one brief authentic tape glitch at the end.
+
+LIGHTING
+
+Golden-hour coastal sunlight with warm orange tones reflecting from the ocean, soft sea mist in the distance, realistic shadows, clear blue sky, and a refreshing ocean breeze naturally moving her wavy blonde hair.
+
+STYLE
+
+Authentic travel vlog, cozy, spontaneous, joyful, nostalgic, completely unscripted, emotionally genuine.
+
+CHARACTER
+
+A beautiful Western woman in her early twenties with naturally glowing fair skin, expressive blue eyes, long wavy blonde hair flowing in the sea breeze, wearing a cream oversized knit sweater, light blue jeans, brown hiking boots, and a small tan canvas backpack.
+
+SETTING
+
+A spectacular coastal cliff overlooking a brilliant turquoise ocean, towering sea cliffs, rugged rock formations, white waves crashing below, colorful wildflowers, weathered wooden fencing, a scenic coastal walking trail, and endless blue horizon beneath a clear summer sky.
+
+ACTION (One Continuous Shot | 15 Seconds)
+
+The recording begins in handheld selfie mode as she walks happily along the coastal trail, smiling naturally into the camera while the ocean sparkles behind her.
+
+She laughs softly and says,
+
+""I could stay here forever... look at this!""
+
+She slowly rotates the camera to reveal the breathtaking coastline, dramatic cliffs, sparkling turquoise water, distant sailboats, and the endless horizon before turning the camera back toward herself.
+
+Smiling as the sea breeze lifts her blonde hair, she closes her eyes for a moment, takes a deep breath, and says,
+
+""Nothing beats the sound of the ocean.""
+
+She walks a few more steps toward the cliff viewpoint, gives the camera a cheerful wave, and says,
+
+""Until our next little escape.""
+
+She reaches her hand toward the lens, ending the recording with a brief authentic MiniDV tape glitch, a single analog overexposed frame, soft audio dropout, and an instant cut to black.","video","seedance","nanobanana|seedance","nature|travel","MiniDV|handheld|vlog|coastal|summer|travel","en","Just_sharon7","","https://x.com/Just_sharon7/status/2081262542878597242","2081262542878597242","2026-07-26T06:17:12.000Z","NOASSERTION","@Just_sharon7","https://imglume.com/prompt/1537","CC-BY-4.0","2026-07-26T08:29:06.436Z","2026-07-26T08:29:06.436Z","https://cdn.imglume.com/prompts/byradar/cb892e11-9487-4a6d-8f3e-83690f7fdad8/b13c0de2-8663-4a74-a1c0-1b9cebba6ccc-1785054546436"
+"byradar:2081045494772679118:0","1539","639ea0ab097bcbd0ece1c652b07b4ee54f4e9e973b84b3119011bd46940a833f","Midnight roads portrait with Dominic Fike – photorealistic Y2K style","Create a 3:4 portrait photo.
+Eye-level smartphone shot. A girl is standing beside a dark brown vintage door. In the background, add a rounded-corner screenshot of an Apple Music player card displaying the track “Babydoll” by Dominic Fike. The girl is partially covering the screenshot while standing in a relaxed, editorial model pose, gently touching her headphones with both hands. Her facial expression is calm and confident.
+
+Her hair is perfectly styled in large, soft waves, with the front strands framing her face. The makeup enhances her facial features: thin black winged eyeliner applied only to the outer corners of the eyes, fox-effect false eyelashes, full lips with a lip combo consisting of a brown lip liner and pink gloss. The skin has a matte finish with well-blended contouring. Maintain a 100% facial likeness without altering her facial features. Her nails are long, light-colored, and stiletto-shaped.
+
+She is wearing a loose Y2K-inspired outfit: an oversized cropped white T-shirt with wide elbow-length sleeves, fitted at the waist to accentuate her silhouette, featuring a black vintage graphic print; a voluminous mini skirt made of very dark navy denim, worn low on the hips; matching dark navy headphones over her ears. She is wearing white leg warmers and tall black slouchy boots. Accessories include silver earrings, rings, and bracelets.
+
+Do not change her facial features.
+
+Shot on a smartphone.
+
+Every detail should be highly visible, sharp, rich, and realistic while preserving depth and natural lighting. The image should be photorealistic with extremely high texture detail, high quality, and 8K resolution.","image","gptimage","other","photography","portrait|Y2K|Apple Music|Dominic Fike|smartphone|photorealistic","en","Naiknelofar788","","https://x.com/Naiknelofar788/status/2081045494772679118","2081045494772679118","2026-07-25T15:54:44.000Z","NOASSERTION","@Naiknelofar788","https://imglume.com/prompt/1539","CC-BY-4.0","2026-07-26T08:41:12.582Z","2026-07-26T08:41:12.582Z","https://cdn.imglume.com/prompts/byradar/b1a08c1e-393c-413b-8efd-7f13d0dc86ca/c0e4358a-4951-43ab-81b1-f38fa814d7f4-1785055272582|https://cdn.imglume.com/prompts/byradar/b1a08c1e-393c-413b-8efd-7f13d0dc86ca/31369006-bf50-40cc-bf00-77a878c375e2-1785055272582"
+"byradar:2081057085077459251:0","1540","877bd6485e6d819c15bae3c63e37895bb01f811356cf44853e5afc6d5666c1c9","Street Food Night Out","Super casual real smartphone home video footage, lively street food market at night with colorful stall lights, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of friends tasting street food, laughing and walking through stalls, pure raw home video feel, no cinematic polish.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of friends around her at the night market, colorful food stalls visible.
+0-2.5s: Shaky rapid cuts — main woman laughing while holding street food, colorful stall lights behind her.
+2.5-5s: Abrupt jump cuts — close-up of her smiling while tasting food, then friends sharing snacks from different stalls.
+5-7.5s: Fast shaky — she chats animatedly while walking with friends, night market lights and crowd visible.
+7.5-10s: Quick cut close-up — playful smile toward camera, then jump to her laughing with friends at a food stall.
+10-12.5s: Abrupt edit — group gathered around a stall, sharing food, casual laughter under string lights.
+12.5-15s: Final rapid transition — main woman relaxed walking with friends, soft smile, calm night market memory ending with slight natural phone sway.
+Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion, authentic casual interactions and physics, stable main character consistency, no pro stabilization or effects.","video","seedance","other","camera-moves|food-drink|ugc","street food|night market|smartphone video|handheld","en","Strength04_X","","https://x.com/Strength04_X/status/2081057085077459251","2081057085077459251","2026-07-25T16:40:47.000Z","NOASSERTION","@Strength04_X","https://imglume.com/prompt/1540","CC-BY-4.0","2026-07-26T08:41:21.354Z","2026-07-26T08:41:21.354Z","https://cdn.imglume.com/prompts/byradar/e90d1564-c64a-4fb9-b540-eaf4b5db76c7/0c2af342-198c-4b3d-ab88-f7273092a041-1785055281354"
+"byradar:2081195428922708039:0","1541","36928a7e6635c949d22b4c09ef6d43928a1625d3a3b8ec620b51c5a3532bf448","MiniDV style documentary of a young Korean woman cycling by the Han River","Main Subject: Young Korean woman, 22, natural appearance, shoulder-length dark brown hair tied in a loose ponytail with wispy bangs. Wearing a light blue oversized hoodie, black cycling shorts, white sneakers, and a small grey crossbody bag.
+
+Minimal makeup, realistic skin texture, warm personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
+
+Location: Quiet bicycle path beside the Han River during a sunny spring afternoon. Cherry trees, green grass, wooden benches, cyclists, joggers, gentle river breeze, distant city skyline, peaceful atmosphere.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic everyday life.
+
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting, exposure pumping, faded colours, soft contrast, slight motion blur, DV compression artifacts, no stabilization.
+
+00:00–00:03
+She unlocks a silver city bicycle beside a wooden bench, smiling as wind moves loose strands of hair. Camera briefly focuses on the handlebars before correcting.
+
+00:03–00:06
+She rides slowly along the riverside path. The camera jogs behind, shaking naturally while struggling to keep her centred.
+
+00:06–00:09
+She stops beside the river, parking the bike. Resting both hands on the handlebars, she quietly watches the water while cherry blossom petals drift past.
+
+00:09–00:12
+She drinks from a small bottled water, brushes hair behind her ear, and laughs softly after noticing the camera.
+
+00:12–00:15
+She gets back on the bicycle, waves casually toward the camcorder, and rides away as the operator lowers the camera. Recording cuts abruptly to black.
+
+Audio: Natural ambience only—birds, bicycle wheels, wind, distant conversations, footsteps, leaves rustling, flowing river, occasional bicycle bell. No music or narration.
+
+Goal: A forgotten MiniDV home video from 2004 capturing a peaceful afternoon bicycle ride along the Han River, warm, imperfect, nostalgic, and completely believable.","video","seedance","seedance","cinematic","young Korean woman|Han River|MiniDV|bicycle ride|spring","en","ZephyraLeigh","","https://x.com/ZephyraLeigh/status/2081195428922708039","2081195428922708039","2026-07-26T01:50:31.000Z","NOASSERTION","@ZephyraLeigh","https://imglume.com/prompt/1541","CC-BY-4.0","2026-07-26T08:41:29.369Z","2026-07-26T08:41:29.369Z","https://cdn.imglume.com/prompts/byradar/21e5826d-3c87-4c5d-b1de-f3f36d9f4b37/34855eb2-3dcf-434e-8981-c8a0b5a2c557-1785055289369"
+"byradar:2081223331181924662:0","1542","76ad9ea60496ba76cc7a4b0bf60ff206bbad473c51297df837d7b635a6c99a18","Ultra-realistic studio portrait with reference face","Ultra-realistic studio portrait of a person transformed to resemble the reference face, centered composition, head-and-shoulders framing, neutral facial expression, looking directly at the camera, wearing a plain black crewneck sweatshirt and transparent acetate eyeglasses, clean modern haircut matching the reference, detailed skin texture, subtle facial hair if applicable, cinematic magenta and cyan rim lighting, smooth purple gradient background, soft beauty lighting, high contrast, sharp focus, 85mm lens, shallow depth of field, photorealistic, ultra-detailed, editorial photography, symmetrical composition, 8K. Place a small inset reference image in the bottom-right corner with a thin white rounded border.
+
+Negative prompt:
+
+low quality, blurry, cartoon, painting, overprocessed skin, extra facial features, asymmetrical eyes, distorted glasses, bad anatomy, noise, watermark, text, logo, oversaturated colors, cropped head, duplicate features.","image","gptimage","other","photography","portrait|studio|photorealistic|cinematic lighting|reference face","en","ChillaiKalan__","","https://x.com/ChillaiKalan__/status/2081223331181924662","2081223331181924662","2026-07-26T03:41:24.000Z","NOASSERTION","@ChillaiKalan__","https://imglume.com/prompt/1542","CC-BY-4.0","2026-07-26T08:29:13.304Z","2026-07-26T08:42:58.923Z","https://cdn.imglume.com/prompts/byradar/ec6e5092-3b6e-4935-bcd3-a17d4c44d9c0/ceab6686-1b8e-4f56-bde9-0f73f9ba511b-1785055378923|https://cdn.imglume.com/prompts/byradar/ec6e5092-3b6e-4935-bcd3-a17d4c44d9c0/8990d0ba-5863-441f-8482-10162c4b6888-1785055378923|https://cdn.imglume.com/prompts/byradar/ec6e5092-3b6e-4935-bcd3-a17d4c44d9c0/f5565e1e-3a94-475c-9a89-1d761ce99c19-1785055378923|https://cdn.imglume.com/prompts/byradar/ec6e5092-3b6e-4935-bcd3-a17d4c44d9c0/96f072b1-1549-471e-94b5-d1b4be759cc8-1785055378923"
+"byradar:2081027495499841892:0","1543","ed1337efeefa31b411baa66b0b0802c56676789d862b836b5cac74cb323167de","Egyptian woman transforms into dragon over waterfall","An Egyptian woman atop a cliff flies swiftly toward a temple's waterfalls, undergoes a metamorphosis into a dragon, and enters the cascading water.
+
+Photorealistic cinematic scene.
+
+No music; ASMR sound. https://t.co/WVzzfCwj3R","image","gptimage","other","cinematic","Egyptian|woman|dragon|waterfall|photorealistic|cinematic","en","hedo_ist","","https://x.com/hedo_ist/status/2081027495499841892","2081027495499841892","2026-07-25T14:43:13.000Z","NOASSERTION","@hedo_ist","https://imglume.com/prompt/1543","CC-BY-4.0","2026-07-26T09:01:14.630Z","2026-07-26T09:01:14.630Z","https://cdn.imglume.com/prompts/byradar/30264874-a4f1-475b-8b45-556f2af1d3eb/8a11a084-7480-4988-aba9-0c7c3561c290-1785056474630|https://cdn.imglume.com/prompts/byradar/30264874-a4f1-475b-8b45-556f2af1d3eb/dfbb0568-7a94-4c10-85d8-0a966dac195a-1785056474630"
+"byradar:2081074197292367999:0","1544","cde1ec1ec77926ab12074ede9179b20dd4be6eeccabcfda8bacd05478c1304d6","Ariel Winter in red swimsuit submerged in tropical resort pool","A professional 8K HDR editorial resort photography featuring Ariel Winter with glowing, natural skin texture showing visible pores and subtle water droplets. She has her hair styled in a textured, effortless messy bun with soft strands delicately framing her face. She looks to the side with a neutral, contemplative expression, wearing light makeup with softly flushed pink cheeks and a subtle satin lip gloss, along with delicate thin rings on her fingers.
+She is wearing a solid red one-piece swimsuit with a deep plunge neckline, a circular cutout on the abdomen, thin halter straps, and side-tie details at the hips.
+She is submerged chest-deep in the crystal-clear blue water of a tropical resort pool, leaning back gently against the natural stone edge with her arms rested on the border. The background shows a lush tropical village with a thatched-roof villa nestled among dense green palm trees under a bright, sunny blue sky.
+Lighting & Water Effects: Shot under direct midday sunlight, casting natural soft shadows, warm skin highlights, and realistic specular glints on her wet skin and the water's surface. Moving caustic light refraction patterns dance across her lower body beneath the water and over the blue pool tiles.
+Composition & Style: A eye-level medium split-level shot captured on a full-frame camera with a 35mm f/1.4 lens, featuring a soft shallow depth of field that gently blurs the background. High-fidelity optical sharpness with tack-sharp focus on her eyes, rich fabric textures, dynamic range, and an overall serene, luxurious tropical getaway mood. Aspect ratio 9:16.","image","gptimage","other","photography","Ariel Winter|resort|swimsuit|tropical|pool","en","Giulia_4i","","https://x.com/Giulia_4i/status/2081074197292367999","2081074197292367999","2026-07-25T17:48:47.000Z","NOASSERTION","@Giulia_4i","https://imglume.com/prompt/1544","CC-BY-4.0","2026-07-26T09:01:28.158Z","2026-07-26T09:01:28.158Z","https://cdn.imglume.com/prompts/byradar/935b0347-8ffa-4ae4-8d92-b56d5afc397d/664a30af-453d-4159-9c0e-1faac203a7bb-1785056488158|https://cdn.imglume.com/prompts/byradar/935b0347-8ffa-4ae4-8d92-b56d5afc397d/1e06522c-a135-4574-b257-d55026fbab8e-1785056488158|https://cdn.imglume.com/prompts/byradar/935b0347-8ffa-4ae4-8d92-b56d5afc397d/6fe879f4-3958-4aec-a4b6-1582a85164c7-1785056488158|https://cdn.imglume.com/prompts/byradar/935b0347-8ffa-4ae4-8d92-b56d5afc397d/a2a17ec9-ba6e-4b13-8046-15633e4bcd09-1785056488158"
+"byradar:2081004359002067435:0","1545","8222d37fee1e5b29895be9ed059c8057812a0b03dce03330fb67abb1a7137b25","Artistic Clockpunk Luxury Hotel Lobby","REALISM AND FUNCTIONAL LOGIC RULE
+
+Even within highly artistic, stylized, speculative, or retro-futuristic environments, scenes must maintain believable internal logic and functional realism consistent with the Artistic Clockpunk aesthetic, luxury mechanical classicism, Parisian salon classicism, and interior environmental context.
+
+All scene elements operate as part of a coherent architectural, infrastructural, decorative, and environmental system rather than disconnected decoration. Architectural layouts feel physically navigable and spatially readable with clear lobby circulation systems, reception zones, upper gallery lounges, transport lifts, social seating areas, and hospitality infrastructure integrated logically into the environment. Structural systems appear capable of supporting monumental atriums, layered balconies, suspended chandeliers, and decorative architectural density. Lighting systems, ventilation systems, reception infrastructure, and hospitality engineering systems feel operational and purposeful. Decorative embellishments, engraved metallic surfaces, ornamental framework, layered wall carvings, stained glass accents, and luxury furnishings remain integrated into the architecture and hospitality systems. Environmental conditions influence reflective surfaces, metallic materials, illumination behavior, and atmospheric depth consistently. Mechanical and infrastructural complexity emerges from functional hospitality engineering and architectural logic rather than arbitrary visual clutter.
+
+SCENE
+
+A visually rich Artistic Clockpunk interior scene expressed through luxurious artisan craftsmanship centered around a luxury hotel lobby interpreted through luxury mechanical classicism and influenced by Parisian salon classicism design language.
+
+The environment conveys bustling presence through elegantly dressed guests, reception staff, atmospheric storytelling, active transport lift systems, illuminated hospitality infrastructure, and natural environmental interaction, reflecting a pristine golden age and emphasizing interaction between architecture, decorative systems, hospitality infrastructure, furnishings, and atmospheric environmental systems.
+
+Architecture, reception balconies, upper gallery lounges, monumental circulation halls, decorative stair systems, hospitality counters, atmospheric lounges, and transport infrastructure throughout the environment are highly artistic and visually expressive while remaining functionally believable within the Artistic Clockpunk world.
+
+Interior architecture and furnishings are enhanced with etched metallic detailing, decorative brass framing, layered ornamental surfaces, refined carved embellishments, engraved marble borders, illuminated hospitality motifs, ornamental architectural trims, and elegant retro-futuristic craftsmanship integrated naturally into the environment.
+
+Gears are only subtly present within transport lift systems, clock-regulated concierge displays, ventilation machinery, and automated hospitality infrastructure.
+
+ENVIRONMENT
+
+Set within a retro-futuristic public atrium featuring layered circulation at grand atrium scale.
+
+The spatial layout is defined by luxury industrial monumentalism shaped through elevated gallery integration, with balanced spacing guiding how reception halls, gallery lounges, decorative staircases, concierge systems, atmospheric seating zones, and transport infrastructure occupy the environment.
+
+Architectural identity is defined through grand atriums, layered balconies, decorative mezzanines, luxury promenade halls, monumental entry halls, curved salon staircases, luxury engraved double doors, luxury salon windows, decorative coffered ceilings, ornamental chandeliers, luxury ornamental walls, decorative brass trim, ornamental brass arches, decorative fireplace structures, decorative metallic columns, and decorative railing systems.
+
+Indoor botanical terraces, illuminated reflecting pools, sculpted greenery, decorative water terraces, and atmospheric humidity systems are integrated naturally into the hospitality environment.
+
+Architecture, furnishings, reception systems, decorative staircases, hospitality infrastructure, and gallery systems are constructed from polished marble, gilded architectural accents, polished brass, decorative marble flooring, lacquered wood, engraved bronze, atmospheric reflective metals, stained glass, artisan-crafted mixed materials, and luxury metallic inlays.
+
+Surfaces exhibit polished, gilded, reflective, engraved, layered, and monumentally refined treatments.
+
+The environment is enhanced with sculpted ceiling medallions, decorative floor mosaics, illuminated ornamental inlays, decorative staircase railings, metallic latticework, engraved wall panels, ornamental gallery lamps, decorative vaulted beams, layered ornamental arches, and artistic mechanical lanterns integrated coherently into the hotel architecture.
+
+Atmospheric lantern systems, public clock displays, mechanical transport lifts, suspended lighting frameworks, decorative environmental controls, atmospheric diffusion devices, illuminated information systems, decorative metallic housings, public guidance terminals, and retro-futuristic monitoring systems are seamlessly integrated into the environment.
+
+Luxury salon sofas, atmospheric lounge seating, brass-framed side tables, decorative reading couches, atmospheric reception counters, luxury conference seating, elevated salon seating, atmospheric tea tables, decorative brass wardrobes, and carved ceremonial seating reinforce hospitality functionality and spatial richness.
+
+Guests and hotel staff interact naturally across promenade halls, monumental stair landings, elevated gallery paths, reception lounges, and atmospheric waiting spaces to reinforce scale, luxury, and environmental storytelling.
+
+The environment exists in a clean atmospheric environment where reflective polished surfaces, elevated airflow systems, atmospheric diffusion, and warm hospitality illumination influence architecture, furnishings, and metallic materials.
+
+STYLE
+
+Artistic Clockpunk aesthetic expressed through luxury mechanical classicism with influence from Parisian salon classicism motifs.
+
+The visual output emphasizes artisan-crafted material richness and layered decorative complexity aligned with artistic craftsmanship, decorative architectural logic, refined hospitality engineering, atmospheric layering, and coherent retro-futuristic worldbuilding.
+
+The composition follows a central hall emphasis structure driven by architectural hierarchy, reception flow, stair system placement, gallery layering, hospitality circulation, decorative rhythm, and furnishing distribution.
+
+Clear foreground-midground-background separation ensures readability across foreground concierge systems, midground hospitality lounges, layered gallery balconies, monumental atriums, atmospheric lighting systems, and distant reception halls.
+
+Color is guided by luxurious gold and black, warm brass palette, luminous stained glass highlights, and polished mechanical jewel tones reflecting the tonal identity of Artistic Clockpunk.
+
+The rendering approach is luxury environmental art with cinematic detail clarity emphasizing ornate hospitality craftsmanship, atmospheric grandeur, reflective materials, decorative richness, layered architectural artistry, and coherent retro-futuristic elegance.
+
+CAMERA
+
+The scene is captured from a wide cinematic angle using symmetrical framing that emphasizes monumental atrium scale, reception hierarchy, circulation systems, decorative staircases, atmospheric lounges, and relationships between hospitality infrastructure and architectural grandeur.
+
+The composition highlights reception halls, layered balconies, transport lifts, illuminated chandeliers, decorative ceiling systems, hospitality seating zones, and reflective architectural surfaces.
+
+A bustling public movement quality is present through guest circulation, atmospheric ventilation motion, drifting illuminated vapor, chandelier shimmer, and operational hospitality systems.
+
+LIGHTING and MOOD
+
+Illuminated by suspended chandelier illumination, decorative gallery lighting, and reflective brass lighting with layered architectural illumination.
+
+The light exhibits warm metallic glow, decorative illumination layering, reflective polished shimmer, glowing stained glass illumination, and luminous atmospheric depth enhancing reflective marble surfaces, engraved metallic detailing, polished hospitality furnishings, and atmospheric architectural layering.
+
+Color temperature is golden bronze establishing a luxurious and elegant mood complementing the identity of Artistic Clockpunk.
+
+Volumetric lighting, glowing lantern haze, reflective atmospheric glow, atmospheric light scattering, drifting decorative particles, layered environmental diffusion, and illumination haze enhance cinematic realism, hospitality atmosphere, environmental depth, and spatial richness.
+
+DESCRIPTION PLAQUE
+
+Position bottom right.
+
+Do not render gears or representations of gears in the plaque.
+
+Line 1 one font size bigger than Line 2.
+Line 2 bold Artistic Clockpunk smaller.
+Line 3 two sizes smaller than Line 2.
+
+Line 1 bold heading: The Meridian Grand
+Line 3 description: Luxurious retro-futuristic hospitality atrium illuminated by ornate metallic craftsmanship, atmospheric elegance, and refined clockwork-era architectural grandeur.
+
+Plaque designed in Artistic Clockpunk aesthetic featuring engraved metallic detailing, etched bronze surfaces, layered ornamental metalwork, decorative framing, refined hospitality craftsmanship, elegant retro-futuristic embellishments, and illuminated decorative inlays without relying on gear motifs.","image","gptimage","other","architecture","clockpunk|luxury hotel|interior|hotel lobby|artistic","en","artingent","","https://x.com/artingent/status/2081004359002067435","2081004359002067435","2026-07-25T13:11:17.000Z","NOASSERTION","@artingent","https://imglume.com/prompt/1545","CC-BY-4.0","2026-07-26T09:01:28.924Z","2026-07-26T09:01:28.924Z","https://cdn.imglume.com/prompts/byradar/4fafef7f-148d-427f-a19c-fd6759dc04a0/eb3b831e-24a9-458f-9524-915f1e464ef5-1785056488924"
+"byradar:2081200401354015011:0","1546","6a2b053ac6d0cb291b4f2f67caca669e9bbdac9f84e67a7564261284c26d73bd","Punk Rock Music Video with Asian Woman on Yamaha Dirtbike in Downtown LA","""Punk rock music video, vertical, shot on a mix of shaky handheld and fisheye lens, fast chaotic editing with hard cuts on every beat, slight film grain and occasional frame flash. 20 seconds. Downtown Los Angeles, S Figueroa St, sunny midday, hard light, glass towers, crowd of onlookers.
+
+Subject: the Asian woman in the attached reference image, exact outfit and styling throughout, lit cigarette in her mouth in nearly every shot.
+
+0-3s: She rips a standing wheelie on a blue Yamaha dirtbike straight past camera, crowd screaming, whip-pan blur into —
+
+3-5s: Hard cut. Extreme fisheye close-up: she grabs the camera with one hand, yanks it to her face, and blows a thick cloud of smoke directly into the lens until the frame whites out with smoke.
+
+5-8s: Smoke clears into a new shot: she's in the middle of a hyped circle of dancers on the street, hitting loose confident hip-hop moves — shoulder bounces, a slow body roll, cigarette still in mouth — crowd hyping her up, everything cut in stuttering half-second beats.
+
+8-11s: Hard cut. Low angle: dirtbike sliding a donut around the camera, rear tire smoke mixing with her cigarette smoke, sunglasses catching sun flare each rotation.
+
+11-13s: Snap zoom: she's sitting side-saddle on the parked bike, deadpan, flicks ash toward the lens, tiny smirk. One-second hold, then frame flash.
+
+13-16s: Rapid montage, 3 quick cuts: (1) she pops a wheelie through a cloud of pink smoke-bomb haze, (2) she crowd-surfs on her back over raised hands, cigarette pointed at the sky, (3) she stands on the bike's seat balancing while it rolls slowly, arms crossed.
+
+16-20s: Final shot: slow-motion approximately 40% speed — she rides straight at camera, drops a wheelie inches from the lens, front tire filling frame, then hard cut to black on the last drum hit, one second of smoke drifting over black.
+
+Fast, cocky, chaotic energy. Every cut lands on the beat. Natural daylight grade with punchy contrast.""","video","seedance","seedance","cinematic","punk rock|music video|vertical|handheld|fisheye|Los Angeles|Yamaha dirtbike","en","AIWarper","","https://x.com/AIWarper/status/2081200401354015011","2081200401354015011","2026-07-26T02:10:17.000Z","NOASSERTION","@AIWarper","https://imglume.com/prompt/1546","CC-BY-4.0","2026-07-26T09:01:29.947Z","2026-07-26T09:01:29.947Z","https://cdn.imglume.com/prompts/byradar/ba459cf8-790f-45d4-82f2-50351154ba4d/ccdf4b8c-ee13-4646-ad74-b4cd26231bf8-1785056489947|https://cdn.imglume.com/prompts/byradar/ba459cf8-790f-45d4-82f2-50351154ba4d/844cfea4-8a3b-42ca-8a8a-1894b6b8be1d-1785056489947"
+"byradar:2081159558542553143:0","1547","f5ba7815aaad32dc81c1e08b18f653d0615959c0e010d86f3d113d64b77f20ed","High-fashion studio portrait of Camila Mendes with neon green devil horns","A half-length, eye-level commercial high-fashion studio photograph of Camila Mendes in a serene and elegant three-quarter pose, looking directly into the camera. She has an attractive, slender build and styled wavy hair pulled into a sleek high ponytail with delicate face-framing bangs, topped with custom luminescent neon-green LED devil horns. Her makeup features long lashes and refined pink eyeshadow with a direct, neutral gaze. She is wearing a form-fitting liquid yellow-chrome halter mini dress that is highly reflective, adorned with diamond-studded chains along the lower right side. She is accessorized with large, sparkling diamond hoop earrings and a thick diamond-encrusted Cuban link chain necklace. Shot against a solid light-green studio background with subtle, sharp star-shaped gobo light projections framing her head and upper body. Professional high-key studio lighting with soft diffusion, paired with a vibrant green neon rim light creating a crisp, glowing outline around her, highlighting the specular metallic textures of the dress. The mood blends high-fashion sophistication with modern streetwear edge. Shot on an 85mm lens at f/8, ISO 100, deep focus, extremely sharp details, realistic skin texture, 8K resolution, HDR, 9:16 aspect ratio.","image","gptimage","other","photography","camila mendes|high-fashion|studio portrait|neon green devil horns|yellow chrome dress|diamond accessories","en","Giulia_4i","","https://x.com/Giulia_4i/status/2081159558542553143","2081159558542553143","2026-07-25T23:27:59.000Z","NOASSERTION","@Giulia_4i","https://imglume.com/prompt/1547","CC-BY-4.0","2026-07-26T09:01:36.611Z","2026-07-26T09:01:36.611Z","https://cdn.imglume.com/prompts/byradar/b8739718-c05d-4313-90be-d79e9ee48d06/23ef4feb-112d-4475-942b-270eeb34e799-1785056496611|https://cdn.imglume.com/prompts/byradar/b8739718-c05d-4313-90be-d79e9ee48d06/e5bc4733-154a-4ba1-b57e-437827f81a5b-1785056496611|https://cdn.imglume.com/prompts/byradar/b8739718-c05d-4313-90be-d79e9ee48d06/cbc99fef-7282-4250-a6e8-85b3ee8a116a-1785056496611|https://cdn.imglume.com/prompts/byradar/b8739718-c05d-4313-90be-d79e9ee48d06/e6718d51-8b11-4ba5-bf93-2834169d2473-1785056496611|https://cdn.imglume.com/prompts/byradar/b8739718-c05d-4313-90be-d79e9ee48d06/f30a97f8-a3a5-4f80-b25b-004b71fca907-1785056496611|https://cdn.imglume.com/prompts/byradar/b8739718-c05d-4313-90be-d79e9ee48d06/415f1752-da4c-47d9-a5ef-12b6629fcddb-1785056496611"
+"byradar:2081020872324702305:0","1548","6cf1c09f5d774fdbf8deb3b86ea36030dfd940520b199b42309aae2bbc932cf3","Cinematic Live-Action Muay Thai Fight Prompt (Seedance 2.0)","Prompt template
+
+[FORMAT / START]
+Generate a [duration] [aspect ratio] cinematic live-action Muay Thai fight. Action begins immediately. Use the uploaded images as hard character references.
+
+[CHARACTER LOCK]
+Image A is Fighter A. Preserve exact face, hair, build, shorts, gloves, and silhouette.
+Image B is Fighter B. Preserve exact face, hair, build, shorts, gloves, and silhouette.
+Do not swap fighters. No extras inside the ring.
+
+[SPACE LOCK]
+Fighter A starts [position] in [stance].
+Fighter B starts [position] in [stance].
+Keep the ropes, corners, center mark, and left-right relationship consistent. Show every change of position.
+
+[SETTING]
+Professional Muay Thai ring under hard overhead arena lights. Dark audience beyond the ropes. Canvas sweat, corner posts, and taut ropes.
+
+[COMBAT RULES]
+Use realistic guard, distance, footwork, weight transfer, contact, and recovery. Every strike has a visible setup. Every defense creates the next opening. Fighters return to guard after contact. No impossible combinations.
+
+DRAMATIC ENGINE: Combat
+SCENE TURN: [Fighter] gains control by [decisive action].
+CUT LOGIC: Cut only when contact or a position change requires a clearer angle.
+
+[0.0–3.0 — PRESSURE]
+
+Camera: [shot scale, angle, physical position, movement].
+
+Action: Fighter A [advances/circles/cuts off the ring]. Fighter B watches A’s chest, adjusts the guard, and retreats toward [ropes/corner].
+
+[3.0–6.0 — FIRST ATTACK]
+
+Camera: [continuous or motivated cut].
+
+Action: Fighter A plants [foot] and throws [strike]. Fighter B [blocks/checks/parries], absorbs the contact, and shifts to [new position].
+
+[6.0–9.5 — COUNTER]
+
+Camera: [shot scale and collision angle].
+
+Action: Fighter B reads the opening, steps [inside/outside], and counters with [strike]. Fighter A’s head or body reacts on contact before the guard recovers.
+
+[9.5–12.5 — REVERSAL]
+
+Camera: [continuous or motivated cut].
+
+Action: Fighter A regains balance, meets B’s eyes, and [pivots/closes distance/enters the clinch]. B braces and fights for position.
+
+[12.5–15.0 — FINISH]
+
+Camera: [clear final angle]. Hold through the impact.
+
+Action: [Fighter] controls [head/arm/ring position], creates space, and lands [finishing strike]. The opponent hits [ropes/canvas] while the winner resets the guard and watches them.
+
+[AUDIO]
+No music. Gloves striking guard and body, bare feet sliding on canvas, controlled breathing, rope tension, corner reactions, and distant crowd noise.
+
+[NEGATIVE CONTROL]
+No random attacks, no floating footwork, no missed contact shown as impact, no teleporting, no stance switching without visible steps, no crossed screen direction, no role swap, no face morphing, no extra fighters, no comedy, no subtitles, no logos, no UI.","video","seedance","seedance","cinematic","Muay Thai|fight|live-action|cinematic","","NEXUS_TO_NOVA","","https://x.com/NEXUS_TO_NOVA/status/2081020872324702305","2081020872324702305","2026-07-25T14:16:54.000Z","NOASSERTION","@NEXUS_TO_NOVA","https://imglume.com/prompt/1548","CC-BY-4.0","2026-07-26T09:01:38.503Z","2026-07-26T09:01:38.503Z","https://cdn.imglume.com/prompts/byradar/0d2c453b-1313-4ec1-a4ee-87a2002665ad/4da8c6dc-9cef-435f-8197-92c17d69988d-1785056498503"
+"byradar:2081038163494236378:0","1549","db8650bacd978b1001c1ed4066f3a0e677ed9b43094d004542e7ca30a801b2c8","Luxurious Italian lakeside villa balcony fashion portrait","{
+ ""prompt"": {
+ ""subject"": {
+ ""type"": ""young woman"",
+ ""appearance"": {
+ ""skin"": ""fair, smooth natural skin"",
+ ""hair"": {
+ ""color"": ""black"",
+ ""style"": ""long, naturally wavy"",
+ ""movement"": ""gently blowing in the breeze""
+ },
+ ""face"": {
+ ""features"": ""soft symmetrical facial features"",
+ ""expression"": ""calm, confident"",
+ ""gaze"": ""looking directly at the camera"",
+ ""makeup"": ""natural glam, defined brows, nude lips""
+ }
+ },
+ ""outfit"": {
+ ""dress"": {
+ ""color"": ""deep navy blue"",
+ ""material"": ""luxurious jacquard fabric"",
+ ""style"": ""corset mini dress"",
+ ""neckline"": ""sweetheart"",
+ ""bodice"": ""structured corset with visible boning"",
+ ""straps"": ""thin shoulder tie straps"",
+ ""skirt"": ""layered ruffled mini skirt""
+ },
+ ""accessories"": {
+ ""necklace"": ""delicate pearl necklace"",
+ ""earrings"": ""small elegant earrings""
+ }
+ },
+ ""pose"": {
+ ""stance"": ""standing naturally"",
+ ""hands"": {
+ ""left"": ""resting on the stone balustrade"",
+ ""right"": ""lightly touching the balcony railing""
+ },
+ ""body"": ""relaxed posture with shoulders back""
+ }
+ },
+ ""location"": {
+ ""setting"": ""luxurious Italian lakeside villa balcony"",
+ ""architecture"": ""classical stone columns and ornate stone balustrade"",
+ ""background"": {
+ ""lake"": ""calm alpine lake"",
+ ""village"": ""picturesque European lakeside town"",
+ ""mountains"": ""lush green mountains"",
+ ""sky"": ""dramatic overcast clouds""
+ }
+ },
+ ""lighting"": {
+ ""type"": ""soft natural daylight"",
+ ""quality"": ""diffused by clouds"",
+ ""mood"": ""cinematic and elegant""
+ },
+ ""composition"": {
+ ""framing"": ""medium full-body portrait"",
+ ""camera_angle"": ""eye level"",
+ ""orientation"": ""vertical"",
+ ""aspect_ratio"": ""4:5"",
+ ""focus"": ""sharp focus on subject with softly blurred background""
+ },
+ ""camera"": {
+ ""body"": ""Sony A7R V"",
+ ""lens"": ""50mm prime"",
+ ""aperture"": ""f/2.8"",
+ ""iso"": 100,
+ ""shutter_speed"": ""1/500s""
+ },
+ ""style"": {
+ ""genre"": ""luxury fashion editorial"",
+ ""inspiration"": [
+ ""Vogue"",
+ ""high-end travel campaign"",
+ ""editorial portrait photography""
+ ],
+ ""quality"": [
+ ""photorealistic"",
+ ""HDR"",
+ ""8K"",
+ ""ultra detailed"",
+ ""realistic skin texture"",
+ ""premium color grading"",
+ ""high dynamic range"",
+ ""shallow depth of field""
+ ]
+ },
+ ""color_palette"": {
+ ""primary"": [
+ ""deep navy blue"",
+ ""stone gray"",
+ ""lake blue"",
+ ""emerald green"",
+ ""soft cloud gray""
+ ],
+ ""tone"": ""cool, elegant, luxurious""
+ },
+ ""negative_prompt"": [
+ ""low resolution"",
+ ""blurry"",
+ ""cartoon"",
+ ""anime"",
+ ""CGI"",
+ ""oversaturated"",
+ ""deformed anatomy"",
+ ""extra fingers"",
+ ""extra limbs"",
+ ""cropped face"",
+ ""duplicate body parts"",
+ ""bad hands"",
+ ""text"",
+ ""watermark"",
+ ""logo"",
+ ""noise"",
+ ""artifacts""
+ ]
+ }
+}","image","nanobanana","nanobanana","photography","young woman|luxury fashion|Italian villa|photorealistic","en","Ankit_patel211","","https://x.com/Ankit_patel211/status/2081038163494236378","2081038163494236378","2026-07-25T15:25:36.000Z","NOASSERTION","@Ankit_patel211","https://imglume.com/prompt/1549","CC-BY-4.0","2026-07-26T09:16:16.504Z","2026-07-26T09:16:16.504Z","https://cdn.imglume.com/prompts/byradar/27607bdf-8134-4194-8993-5eed3d8a0e1a/d730aa47-3f71-4dd3-b5d2-d1224c486632-1785057376504|https://cdn.imglume.com/prompts/byradar/27607bdf-8134-4194-8993-5eed3d8a0e1a/f229abf6-8165-4c51-8e42-31f4cf7c8eb7-1785057376504|https://cdn.imglume.com/prompts/byradar/27607bdf-8134-4194-8993-5eed3d8a0e1a/728e55fa-a6ec-42a0-8f1d-c441fbcfe8df-1785057376504"
+"byradar:2081016717124178188:0","1550","5c75e65ec8bfe4bbe1aaa969091852e7d91361e28baa0462dd1b08fb7d7ed105","Sun turns black over Paris with surreal eclipse","The sun above Paris turns black, casting a strange silver eclipse light over the city. Shadows detach from buildings and float upward like smoke. The Eiffel Tower begins bending toward the sky as reality distorts. Apocalyptic surreal VFX, cosmic atmosphere, 4K.","video","seedance","other","cinematic","Paris|eclipse|surreal|apocalyptic|VFX","en","LudovicCreator","","https://x.com/LudovicCreator/status/2081016717124178188","2081016717124178188","2026-07-25T14:00:23.000Z","NOASSERTION","@LudovicCreator","https://imglume.com/prompt/1550","CC-BY-4.0","2026-07-26T09:51:03.788Z","2026-07-26T09:51:03.788Z","https://cdn.imglume.com/prompts/byradar/01ce6d60-b9f6-49a1-8f22-2bc6101ef56c/3215e7b7-d2f7-4e7a-8144-178847d5bf7b-1785059463788"
+"byradar:2081030585330589721:0","1551","1c9df20951ee3c20bfb0641d097885fc346b37457571bd43751767535bfab22a","Ultra-Premium 2x2 Four-Panel Western Fine-Dining Campaign Poster","Create an ultra-premium horizontal 2x2 four-panel Western fine-dining campaign poster for a self-created luxury restaurant brand. The final artwork must feel like a world-class design-annual food advertisement: bold, minimal, product-dominant, collector-grade, and unmistakably high-end. Use a strict four-panel system with absolute visual unity, but make each panel feature a more distinctive signature Western dish with stronger personality, stronger plating identity, and more memorable premium ingredients.
+
+Core composition:
+Use a strict 2x2 grid. Each panel must follow the same hierarchy:
+1. one massively oversized bold background word fragment or giant cropped letterform,
+2. one hero Western dish placed prominently in the lower-middle to center area,
+3. one refined English dish headline,
+4. one short supporting descriptor beneath,
+5. minimal lower information line or brand footer styling.
+All four panels must feel structurally identical in rhythm and spacing, like one unified luxury campaign.
+
+Brand direction:
+Create a self-invented international fine-dining brand with a refined Western luxury identity, for example “MAISON FLAME”. Use elegant English-only branding with restrained premium logo treatment. The brand system must feel modern, exclusive, clean, and highly designed.
+
+Signature dish lineup:
+Create four highly characteristic premium Western dishes, each with a stronger fine-dining identity than ordinary steak-or-salmon menu items:
+Panel 1: butter-poached blue lobster tail with saffron beurre monte and charred lemon
+Panel 2: dry-aged wagyu rossini with foie gras, black truffle jus, and glazed shallot
+Panel 3: herb-crusted Dover sole medallion with citrus beurre blanc and fennel pollen
+Panel 4: parmesan-aged truffle risotto with wild porcini, roasted hazelnut, and shaved black truffle
+Each dish must feel like a true signature plate from a world-class Western restaurant: highly recognizable, visually special, luxurious, and impossible to confuse with generic food photography.
+
+Color worlds:
+Give each panel its own refined color atmosphere while preserving campaign unity:
+Panel 1: coral red, shell ivory, saffron gold
+Panel 2: deep burgundy, charcoal brown, toasted bronze
+Panel 3: pale silver-blue, citrus cream, muted herb green
+Panel 4: olive cream, truffle brown, dark moss, hazelnut beige
+Each panel must feel distinct yet perfectly synchronized inside one premium brand universe.
+
+Food realism:
+Render every dish with extreme realism and premium tactile detail: blue-lobster shell gloss, saffron butter sheen, rich wagyu marbling, foie gras caramelization, black truffle surface texture, Dover sole flesh layers, beurre blanc gloss, creamy risotto flow, porcini texture, shaved parmesan translucency, and refined plate-edge reflections. Every hero dish must feel jewel-like, luxurious, and immediately edible.
+
+Milk Cloud Orbit food-light logic:
+This is critical. Increase the purity of highlights on sauces, butter glaze, jus reflections, meat juices, fish moisture, creamy rice sheen, and plate-edge lighting. The food must feel brighter in the right places, richer, cleaner, and more expensive without becoming greasy. Let each dish glow like a luxury object under precision commercial lighting.
+
+Cream Halo Transit ingredient logic:
+Keep the same four-panel skeleton, but reduce each panel to only 2-3 essential supporting elements so the dish becomes more iconic and less busy:
+Panel 1: charred lemon, saffron butter gloss, micro herb
+Panel 2: foie gras, black truffle slice, glazed shallot
+Panel 3: citrus segment, fennel pollen, beurre blanc reflection
+Panel 4: shaved black truffle, porcini, roasted hazelnut
+No clutter, no garnish overload, no buffet feeling. Supporting ingredients must amplify the hero dish, never compete with it.
+
+Oversized typography logic:
+Make the giant background typography much larger than before, so large that each word fragment fills most of the panel and gets cropped by the panel edges. The typography must feel monumental, graphic, and architectural.
+
+Typography-background fusion:
+The oversized letterforms must be deeply fused into the background color field through tonal blending, subtle texture continuity, soft depth layering, glow falloff, shadow overlap, and atmospheric integration. The letters should feel embedded into the panel rather than pasted on top. Let the food sit in front of the giant typography while the type melts into the background world behind it. Some steam haze, sauce shine, plate reflections, or ingredient highlights may lightly cross in front of the giant letters, strengthening the integration.
+
+Headline system:
+Each panel should include a refined smaller headline such as:
+“SAFFRON TIDE”
+“ROSSINI FIRE”
+“CITRUS VEIL”
+“TRUFFLE CROWN”
+These smaller headlines remain elegant and readable, while the giant background type acts as the main graphic force.
+
+Lighting:
+Use extremely delicate, soft, high-end commercial lighting. Let the food surfaces glow with refined highlight rolloff, subtle shadow grounding, and elegant dimensional separation. The light must feel luxurious, velvety, and world-class, while also helping the giant typography fuse naturally into the background.
+
+Background:
+Use minimal, clean, saturated backgrounds with subtle premium smoothness. The background must feel spacious and controlled, but structurally bonded to the giant type. No restaurant interior, no scenery, no unnecessary props.
+
+Surface and finish:
+Let each dish sit on a clean reflective or semi-reflective base with controlled reflections. Keep the finish sharp, polished, and premium, like a collector-grade dining campaign printed for a design annual.
+
+Mood:
+luxury, refined, bold, modern, Western fine dining, product-dominant, editorial, appetizing, premium, graphic, clean, collector-grade
+
+Rendering style:
+ultra-realistic luxury Western fine-dining campaign poster, 2x2 four-panel layout, self-created premium restaurant brand, massively oversized fused typography, stronger type-background integration, four refined color worlds, more distinctive signature Western dishes, compressed essential ingredients, jewel-like food highlights, sharp food realism, elegant commercial lighting, high-end editorial design, 8k, world-class image quality
+
+Negative prompt:
+cheap fast-food look, cluttered garnish, buffet composition, generic steak plate, ordinary salmon fillet, weak dish identity, messy sauce splash, low-detail food texture, fake meat surface, distorted plating, weak typography, small background text, pasted text effect, generic black font, crowded background, low-end menu design, cartoon rendering, muddy lighting, plastic-looking food, low resolution","image","gptimage","gptimage","food-drink|poster-design","luxury|fine-dining|western|four-panel|branding|ultra-realistic","en","ou_zhen599","","https://x.com/ou_zhen599/status/2081030585330589721","2081030585330589721","2026-07-25T14:55:29.000Z","NOASSERTION","@ou_zhen599","https://imglume.com/prompt/1551","CC-BY-4.0","2026-07-26T09:51:30.220Z","2026-07-26T09:51:30.220Z","https://cdn.imglume.com/prompts/byradar/57186211-62c0-4166-9ad5-9f75ae27d5dd/643f36aa-bbc5-4154-890c-6a41e205bad8-1785059490220|https://cdn.imglume.com/prompts/byradar/57186211-62c0-4166-9ad5-9f75ae27d5dd/34912764-5145-4897-a44c-0a0ebbb4bff2-1785059490220"
+"byradar:2081049685792571548:0","1552","50d57d60d82a1d3016aacd118f4531d4241b3d67dcbbbe2f58efe067b3ec5152","A Letter to My Future Self – realistic smartphone video diary","Format: 16:9
+Concept: ""A Letter to My Future Self""
+Create a realistic, self-recorded video diary filmed entirely on a modern smartphone using the front-facing camera. The footage should resemble a personal journal rather than a social media vlog. The camera remains handheld throughout, with natural hand movement, subtle stabilization typical of recent smartphones, realistic autofocus, accurate HDR exposure, occasional framing imperfections, and authentic ambient audio. No cinematic shots, transitions, or edits. The video is one continuous recording.
+Visual Style
+Natural smartphone video quality with crisp detail, realistic HDR, true-to-life colours, balanced exposure, soft natural daylight, and clean image processing. Avoid vintage filters, film grain, tape effects, excessive sharpening, or stylised colour grading. The result should look like genuine footage recorded on a flagship phone.
+Character
+MINJI, a Korean woman in her twenties with long black hair, light everyday makeup, and a calm, thoughtful personality. She wears a simple oversized knit sweater, relaxed jeans, and white sneakers.
+Location
+A peaceful botanical garden with walking paths, small ponds, wooden bridges, seasonal flowers, and quiet seating areas. A few visitors pass naturally in the distance without interacting with her.
+The recording begins as MINJI smiles softly at the camera.
+""I thought I'd record something for my future self today.""
+She strolls slowly through the garden while talking about small things she's grateful for, recent memories, and hopes for the coming year.
+She occasionally turns the camera toward blooming flowers, ducks on the pond, or sunlight filtering through the trees before bringing it back to herself.
+She pauses on a wooden bridge, resting her arms on the railing.
+""I wonder if I'll remember this exact moment a year from now.""
+She continues walking, laughing quietly after spotting a squirrel running across the path.
+Near the end of the walk, she sits on a bench overlooking the lake.
+After a brief peaceful silence, she smiles warmly.
+""If you're watching this in the future... I hope you're happy.""
+She waves gently, lowers the phone, and continues walking as the recording naturally ends.
+Generation Requirements
+Produce one uninterrupted recording with consistent facial identity, realistic expressions, accurate body movement, believable hand interactions, natural eye contact with the camera, physically correct lighting, smooth walking motion, and authentic environmental sound. Avoid jump cuts, visual glitches, duplicated objects, anatomy errors, or artificial movements. The final result should feel indistinguishable from a real smartphone video diary recorded by a real person.","video","seedance","other","ugc","video diary|smartphone|self-recorded|future self|botanical garden","en","john_my07","","https://x.com/john_my07/status/2081049685792571548","2081049685792571548","2026-07-25T16:11:23.000Z","NOASSERTION","@john_my07","https://imglume.com/prompt/1552","CC-BY-4.0","2026-07-26T09:51:41.762Z","2026-07-26T09:51:41.762Z","https://cdn.imglume.com/prompts/byradar/fe599fe3-971b-4019-af1c-76ebd891ca27/efed380c-3792-4a54-a591-4b28860b8a2b-1785059501762"
+"byradar:2081283377509089659:0","1553","4f08c756b9343e6256a6e2f5e0c010096a66d87eb3653bc010e3cd216fbaefef","Ultra-realistic portrait of a young woman","Ultra-realistic portrait of a young woman with long dark hair in a high ponytail, glancing back over her shoulder with a confident smile. She wears a fitted white crop top, a short plaid skirt, and white thigh-high stockings. Standing indoors against soft even studio lighting against a plain pale wall corner with gentle shadow. Casual lifestyle fashion photography, relaxed pose, natural skin texture, warm tones, shallow depth of field, realistic lighting, candid expression, high detail, photorealistic","image","gptimage","other","photography","portrait|fashion|studio lighting|young woman","en","dreamydigiarts","","https://x.com/dreamydigiarts/status/2081283377509089659","2081283377509089659","2026-07-26T07:40:00.000Z","NOASSERTION","@dreamydigiarts","https://imglume.com/prompt/1553","CC-BY-4.0","2026-07-26T10:26:04.577Z","2026-07-26T10:26:04.577Z","https://cdn.imglume.com/prompts/byradar/0b4fee68-fe72-40cd-86ad-7d1fe760a126/dccfc0fe-c1a5-42e4-92ca-7adbe7f6abcf-1785061564577|https://cdn.imglume.com/prompts/byradar/0b4fee68-fe72-40cd-86ad-7d1fe760a126/f220d7a7-abb2-41ab-afaa-1dc8cc5eb976-1785061564577|https://cdn.imglume.com/prompts/byradar/0b4fee68-fe72-40cd-86ad-7d1fe760a126/b9d081e4-fb47-40e1-ba17-9560ca364a21-1785061564577"
+"byradar:2081293362544713958:0","1554","b2e8bba9441f5add8efe1570f04f3ca37b692cfb20eb77ceab1c63fc4576e755","Cinematic Korean action sequence in a narrow sunlit urban alleyway","Cinematic Korean action sequence in a narrow sunlit urban alleyway lined with brick buildings, air conditioning units, wooden pallets, and a prominent GS25 convenience store. A young athletic East Asian woman with long dark hair tied in a high ponytail wears a form-fitting beige long-sleeve athletic crop top with a deep square neckline and fitted light gray athletic leggings paired with clean white athletic sneakers. Her face, neck, and upper chest have a light sheen of sweat, emphasizing that she has just finished training, while her expression remains calm, focused, and determined. She faces a group of aggressive young men wearing black tracksuits and hoodies. Without hesitation, she charges forward using precise, powerful martial arts techniques with lightning-fast punches, spinning kicks, elbow strikes, knee attacks, sweeps, and perfectly executed throws, taking down each attacker one by one with fluid, realistic choreography. The handheld camera follows closely through the narrow alley with dynamic movement, subtle camera shake, realistic motion blur, and rapid perspective shifts that heighten the intensity of every impact. Bodies crash onto the pavement as the fight escalates with cinematic momentum. In the background, three Korean schoolgirls in neat school uniforms stand near the GS25 entrance, watching the confrontation in stunned silence. Bright natural daylight casts crisp shadows across the brick walls and stacked wooden pallets, highlighting dust, debris, and realistic environmental details. The sequence concludes as the final attacker collapses beside the stacked pallets. The woman pauses, calmly adjusts her fighting stance, straightens her beige athletic crop top, and confidently walks away down the sunlit alley. Hyper-realistic live-action style, Korean action film aesthetic, high-energy choreography, sharp facial detail, physically accurate movement, cinematic handheld camera work, natural lighting, realistic textures, and feature-film quality.","video","seedance","other","cinematic","Korean action|handheld camera|urban alley|martial arts","","Just_sharon7","","https://x.com/Just_sharon7/status/2081293362544713958","2081293362544713958","2026-07-26T08:19:40.000Z","NOASSERTION","@Just_sharon7","https://imglume.com/prompt/1554","CC-BY-4.0","2026-07-26T10:26:13.891Z","2026-07-26T10:26:13.891Z","https://cdn.imglume.com/prompts/byradar/2b8d3f82-e154-4623-81c5-d686cb423374/b951a3ce-b520-4619-a7ca-dba53014989d-1785061573891"
+"byradar:2081003166217474475:0","1555","740467637336cf071ba4271507ffc82cbeb36c633309ebd8f708656bb901e345","The Helios Terraforming Carrier","TITLE: The Helios Terraforming Carrier
+
+A massive autonomous heavy-duty terraforming truck designed to transform barren planets into habitable ecosystems. The colossal vehicle rides on twelve gigantic independently articulated wheel assemblies, each containing complex suspension mechanisms, armored shock systems, and adaptive terrain-control technology capable of traversing volcanic wastelands, toxic deserts, frozen plains, and unstable geological regions.
+
+The massive truck should be at least 10 times the size of a normal truck. A normal grey colored LCV container truck should be parked somewhere nearby so that the scene emphasizes scale of the massive truck
+
+The enormous rear structure houses atmospheric processors, climate-control reactors, water-generation systems, soil-manufacturing facilities, biological cultivation laboratories, seed vaults, ecological deployment bays, and autonomous environmental restoration systems. Gigantic deployment arms extend from the vehicle to plant forests, construct wetlands, and establish self-sustaining ecosystems. Massive external tanks carry atmospheric gases, water reserves, and biological resources for planetary restoration.
+
+The command cab resembles a mobile environmental operations center with panoramic reinforced observation glass, advanced sensor arrays, communication towers, navigation radars, climate-analysis systems, and layered protective plating. Every section is packed with mechanical detail including hydraulic systems, exposed engineering components, power conduits, cooling infrastructure, access panels, maintenance platforms, warning lights, atmospheric machinery, ecological deployment systems, autonomous drones, and industrial machinery. Brutalist industrial design, cinematic scale, highly detailed mechanical engineering, photorealistic rendering, masterpiece quality, 8K.","image","gptimage","other","illustration-3d","terraforming truck|massive vehicle|industrial|photorealistic|futuristic","en","artingent","","https://x.com/artingent/status/2081003166217474475","2081003166217474475","2026-07-25T13:06:32.000Z","NOASSERTION","@artingent","https://imglume.com/prompt/1555","CC-BY-4.0","2026-07-26T10:26:21.392Z","2026-07-26T10:26:21.392Z","https://cdn.imglume.com/prompts/byradar/5b9fa10e-4779-4891-8aa4-e229ea3017bf/105a70ca-6c2d-4ed8-8789-c8d991bb05d9-1785061581392"
+"byradar:2081137420452692157:0","1556","a93cb5a5f4fd39d6ab500f00ca543f9e175dc83a2a62923e880c7858484803d3","年轻东亚女性酒吧写实肖像","一位年轻成年东亚女性坐在昏暗酒吧的椅子上，画面为半身到大半身构图，人物位于画面中央偏右。身体侧坐，腰部微微后仰，右手自然搭在裤腰或腿侧，左手抬起放在头后，手肘向上展开。头部微微转向镜头，眼神平静直接，神情冷静、慵懒、略带疏离感，嘴唇自然微启。
+
+她拥有柔和精致的鹅蛋脸，杏仁形深棕眼睛，自然细眉，纤细鼻梁，浅裸粉色嘴唇。妆容自然但带夜间质感，细眼线、柔和睫毛、轻微修容。肤色白皙偏暖，保留真实毛孔、细小绒毛、自然肤色变化和低光环境下的柔和高光，不要塑料磨皮。
+
+她有深黑棕色长发，自然披散，略微凌乱，部分发丝贴近脸侧和肩颈。胸前锁骨附近有一处小型黑色文字纹身。
+
+服装为白色贴身短款无袖背心，低圆领，面料柔软贴身，带自然褶皱和真实棉质纹理；下身穿卡其色宽松工装裤，低腰，腰部抽绳和口袋结构清晰，布料有厚实皱褶和暗部阴影。整体造型是夜间酒吧生活方式写真，性感但克制，真实不夸张。
+
+背景是昏暗高级酒吧，后方吧台和酒瓶架虚化，玻璃瓶、暖色小灯、反光金属和深色墙面形成散景。整体环境以黑色、深棕、琥珀暖光和卡其色为主。光线为低照度酒吧灯光，左前方或上方有柔和暖色主光照亮脸部、肩颈和白色背心，背景有琥珀色点状光源。阴影深但保留层次，低饱和、低对比、电影感。
+
+摄影风格：50mm或85mm人像镜头，f/1.8，浅景深，眼睛和面部清晰，背景酒瓶强烈虚化，真实光学散景，轻微高ISO颗粒，photorealistic，ultra realistic，natural skin texture。
+
+避免：卡通、CG、插画、过度磨皮、浓妆、夸张身材、错误手指、畸形手臂、过度暴露、强HDR、过度锐化、杂乱背景、文字、水印、Logo。","image","gptimage","other","photography","portrait|bar|night|photorealistic|East Asian woman","zh","ToroJushiAi","","https://x.com/ToroJushiAi/status/2081137420452692157","2081137420452692157","2026-07-25T22:00:01.000Z","NOASSERTION","@ToroJushiAi","https://imglume.com/prompt/1556","CC-BY-4.0","2026-07-26T10:26:29.349Z","2026-07-26T10:26:29.349Z","https://cdn.imglume.com/prompts/byradar/576c38fc-0958-494b-b978-a1bebd3985dc/1c694966-a1ca-42ed-b876-1ed64458c766-1785061589349|https://cdn.imglume.com/prompts/byradar/576c38fc-0958-494b-b978-a1bebd3985dc/38552122-04d9-47a1-8c34-83931170642b-1785061589349|https://cdn.imglume.com/prompts/byradar/576c38fc-0958-494b-b978-a1bebd3985dc/f1c29af7-4492-40a0-9dfd-69202764b56c-1785061589349|https://cdn.imglume.com/prompts/byradar/576c38fc-0958-494b-b978-a1bebd3985dc/136dd25f-d4d1-4afe-879f-9bd12f2338c3-1785061589349"
+"byradar:2081229780272509266:0","1557","e59004414ec89a8225176f46f7da6c173bfe765a1a7ffb66405a39de8eeb5ecd","Ultra-realistic smartphone selfie on a grassy hill with a wooden sign","Use the uploaded reference photo as the primary identity reference. Preserve the person's identity with 100% accuracy. Do not alter the facial structure, skin tone, hairstyle, facial proportions, facial expression, or any unique facial features. The person must remain instantly recognizable as the exact same individual from the reference photo. Create a RAW, ultra-realistic smartphone selfie of the person standing outdoors on a lush green grassy hill beside a rustic wooden sign that reads ""Tabing Curam"". The person is taking a full-body selfie with one arm extended toward the camera while the other arm is raised naturally above the head in a relaxed, cheerful pose. She wears a black lightweight zip-up jacket,Black sweatpants, and white sneakers, smiling softly with a genuine, relaxed expression. The pose should feel spontaneous and naturally captured during a sightseeing trip, not staged. Environment Beautiful green hills with dramatic cliff views in the background Dense trees and lush tropical vegetation Fresh natural landscape Warm morning or late afternoon atmosphere Clean blue sky with soft clouds Peaceful outdoor travel destination Lighting Natural sunlight Soft highlights on the skin Balanced exposure Slightly warm color temperature Realistic sunlight direction Soft ambient bounce light Natural HDR appearance Camera Smartphone front camera Full-body selfie shot High-angle perspective (camera held above eye level) Slight wide-angle smartphone lens distortion Natural perspective Sharp focus Realistic depth Clear background Details RAW photo aesthetic Ultra realistic Natural skin texture Realistic shadows Fine film grain High dynamic range Authentic clothing folds Natural hair strands True-to-life colors No beauty filter No excessive skin smoothing No CGI look No illustration No anime No watermark No logo No text (except the wooden sign reading ""Tabing Curam"") Professional travel photography quality Looks like an authentic smartphone selfie captured during a real outdoor trip.
+
+Mandatory Text Signature: At the center bottom, add clean, small, legible handwritten text that reads: ""by ArdhiBay007.","image","gptimage","gptimage","photography","smartphone selfie|outdoor|travel|green hill|rustic sign","en","Kashberg_0","","https://x.com/Kashberg_0/status/2081229780272509266","2081229780272509266","2026-07-26T04:07:01.000Z","NOASSERTION","@Kashberg_0","https://imglume.com/prompt/1557","CC-BY-4.0","2026-07-26T10:26:37.207Z","2026-07-26T10:26:37.207Z","https://cdn.imglume.com/prompts/byradar/f2221548-5842-4c17-a0cf-de1e41e2a98f/ef276299-44ac-4fce-8430-957723f35893-1785061597207|https://cdn.imglume.com/prompts/byradar/f2221548-5842-4c17-a0cf-de1e41e2a98f/59c8a681-dd61-4d19-b7d3-d4e1fa415f10-1785061597207"
+"byradar:2081240595939680707:0","1558","09b6f807b3a370f8c0e55130007bc0488c83e8c7f3a38d8e49cbcdf24dc1f9f0","Luxury Fashion Influencer Showcase","Luxury Fashion Influencer Showcase Seedance 2.0 prompt:
+
+Duration: 15 seconds
+ Aspect Ratio: 9:16 Vertical
+Reference Character: Use strictly the female character from the reference image. Preserve the exact same identity throughout the entire video, including facial structure, hairstyle, makeup, skin tone, body proportions, outfit, stockings, high heels, accessories, and all clothing details. She must remain the same person wearing the exact same outfit in every shot.
+
+Overall Style
+
+Premium luxury fashion influencer short film with a cool, confident, elegant, and charismatic presence. Dark gray studio with a glossy black mirrored floor, dramatic purple and gold rim lighting, soft beauty key light, realistic skin texture with subtle film grain, cinematic contrast, natural body movement, premium fashion campaign aesthetic.
+
+SCENE 1 | 0–5s | Extreme Close-Up & Eye Contact
+
+Subject: The reference female character.
+Action: Begin with an extreme close-up of her face. She looks slightly away before slowly turning her eyes toward the camera. She blinks softly, raises one eyebrow slightly, and gives a subtle confident smile. One hand gently brushes a loose strand of hair behind her ear while she leans slightly toward the camera, maintaining elegant eye contact and effortless confidence.
+Background: Soft dark-purple bokeh with shallow depth of field.
+
+Camera: 85mm portrait lens. Ultra-sharp focus on both eyes with realistic catchlights and natural skin texture. Slow cinematic push-in combined with a subtle 15° orbit around her face.
+
+Constraints: Perfect facial consistency. No facial distortion, exaggerated expressions, or duck lips.
+
+SCENE 2 | 5–10s | Seamless Full-Body Reveal
+
+Action: She gracefully sweeps one hand across the lens, creating a seamless transition. The camera smoothly pulls back from the close-up to a full-body view. Wearing high heels, she walks forward with two elegant steps, stops with one foot crossed slightly in front, places one hand on her waist, subtly shifts her weight, rotates into a graceful side profile to showcase the silhouette of her outfit, then turns back to face the camera.
+
+Camera: Seamless transition from an 85mm portrait lens to a 35mm full-body lens. Slightly low-angle while maintaining a premium editorial fashion look. The camera tracks backward smoothly. A subtle fashion photoshoot flash appears the instant she stops.
+
+Audio: Clear high-heel footsteps, camera shutter sounds, deep fashionable electronic music.
+Constraints: Preserve the outfit exactly as shown in the reference image, including stockings, heels, accessories, lace patterns, seams, and all garment details. Showcase the complete look without lingering excessively on any single body part.
+SCENE 3 | 10–15s | Fashion Turnaround & Signature Ending
+
+Action: She performs three elegant fashion poses in sequence (front, side, back) with smooth, confident transitions. The camera performs a stable 270° orbit around her. Her dress, hair, and loose strands move naturally with subtle motion. At the end of the orbit, she quickly turns back toward the camera, takes one confident step forward, leans in slightly, raises one eyebrow, gives a playful half-smile with a gentle wink, then softly touches the camera lens with one fingertip as the screen fades to black.
+
+Camera: Stable 50mm lens with smooth cinematic orbit. The glossy black floor produces subtle reflections. Finish with a fast push-in to a facial close-up with perfect focus locked on both eyes.
+
+Visual Style
+
+Premium luxury fashion campaign
+
+Cinematic influencer aesthetic
+Cool, elegant, confident, and sophisticated
+Realistic skin texture with subtle film grain
+
+Natural hair simulation and cloth physics
+
+Soft mirrored floor reflections
+
+Smooth cinematic camera movement
+Editorial fashion lighting
+High-end luxury commercial quality
+Photorealistic rendering
+Ultra-detailed facial consistency
+8K quality
+Negative Prompt
+No identity changes, face swapping, outfit changes, clothing drift, lace pattern drift, stocking seam drift, body weight changes, exaggerated proportions, limb deformation, extra arms, extra legs, extra fingers, fused fingers, melted facial features, plastic skin, over-smoothed skin, sliding walk, high-heel glitches, abnormal clothing transparency, wardrobe malfunctions, vulgar poses, focus on intimate body parts, upskirt angles, camera drift, character teleportation, sudden background deformation, excessive slow motion, flickering, subtitles, text, logos, watermarks.","video","seedance","other","cinematic","luxury fashion|influencer|short film|premium|cinematic","en","tbros6868","","https://x.com/tbros6868/status/2081240595939680707","2081240595939680707","2026-07-26T04:50:00.000Z","NOASSERTION","@tbros6868","https://imglume.com/prompt/1558","CC-BY-4.0","2026-07-26T10:26:59.265Z","2026-07-26T10:26:59.265Z","https://cdn.imglume.com/prompts/byradar/315337c8-0339-4493-bef2-9e59926f373f/218b8c2f-f1a9-4633-8df9-fd54ea6d1b49-1785061619265"
+"byradar:2081289713542189298:0","1559","e15dadef9dc0e33f71eec127fcce705c20b9df13f160b33912de27a568cec987","Cinematic ultra-realistic action scene with hero confronting a giant enemy","Create a cinematic, ultra-realistic action scene where [HERO DESCRIPTION] confronts [GIANT ENEMY DESCRIPTION] in [ENVIRONMENT] during [TIME/WEATHER]. Begin with the hero charging through a devastated landscape toward the colossal enemy. The hero leaps into the air wielding [WEAPON], delivering a powerful strike that creates sparks, energy bursts, and dramatic impact effects. The hero lands on the creature and drives the weapon deep into its core, unleashing intense [ENERGY TYPE] that radiates through the enemy. End with a massive beam of energy erupting skyward as the giant collapses, explodes, or disintegrates amid cinematic destruction, debris, smoke, and atmospheric lighting. Use dynamic camera angles, epic scale, realistic physics, high-detail textures, volumetric lighting, slow-motion action, and blockbuster VFX for a dramatic, film-quality sequence.","video","seedance","other","cinematic","hero|giant|action|cinematic","","noorwithwifi","","https://x.com/noorwithwifi/status/2081289713542189298","2081289713542189298","2026-07-26T08:05:10.000Z","NOASSERTION","@noorwithwifi","https://imglume.com/prompt/1559","CC-BY-4.0","2026-07-26T11:36:05.916Z","2026-07-26T11:36:05.916Z","https://cdn.imglume.com/prompts/byradar/d024f2e7-8a1a-4e70-a328-954fe5da16e1/503dd723-526c-44de-950c-a937ecc04853-1785065765916"
+"byradar:2081222954659234074:0","1560","76c6518fe53089d2b00364e65b4e7dd748bf52bf7702c8f07fcb35483dbcc660","15-second ultra-realistic cinematic GRWM video of young Korean woman morning workout","Using the attached character reference, create a 15-second ultra-realistic cinematic GRWM (Get Ready With Me) video featuring the exact same young Korean East Asian woman with consistent facial features, hairstyle, glowing skin, body proportions, and identity throughout the sequence. She wears a white fitted athletic crop top, high-waisted red leggings, white running sneakers, a lightweight smartwatch, and a high ponytail throughout the outdoor workout.
+
+The video opens with her peacefully waking up in a bright modern bedroom as soft sunrise light streams through the curtains. She smiles, stretches naturally, washes her face, brushes her teeth, completes a quick skincare routine, and changes into her white crop top and red leggings. She ties her hair into a neat high ponytail, fastens her smartwatch, laces her sneakers, picks up a yoga mat, reusable water bottle, and wireless earbuds, then heads outside.
+
+She steps onto a lush green lawn surrounded by blooming flowers and tall trees glowing in the golden morning light. She begins with gentle stretching, yoga poses, squats, lunges, planks, push-ups, jumping jacks, and light jogging across the grass. Cinematic tracking shots capture realistic hair movement, natural breathing, and dew sparkling beneath her shoes. Macro shots highlight her smartwatch tracking heart rate, shoes brushing fresh grass, hands reaching toward the sky, and sunlight illuminating her face.
+
+After finishing her workout, she drinks water, sits cross-legged on the yoga mat for mindful breathing, smiles peacefully, then returns home. She prepares a fresh strawberry smoothie in a modern kitchen, pours it into a glass, walks to a sunlit window, notices the camera, smiles warmly, raises the smoothie toward the viewer in a friendly toast, and enjoys the peaceful morning as the camera slowly pulls back.
+
+Use smooth cinematic transitions, seamless match cuts, gentle handheld and gimbal camera movement, shallow depth of field, premium lifestyle cinematography, realistic skin texture, natural hair physics, physically accurate sunrise lighting, warm golden-hour atmosphere, glossy commercial-quality color grading, 4K HDR, 16:9, with natural ambient audio only (birds chirping, gentle breeze, rustling leaves, footsteps on grass, breathing, water bottle opening, smoothie blending), no background music, subtitles, logos, watermarks, or on-screen text.","video","seedance","seedance|gptimage","cinematic","GRWM|morning workout|Korean woman","English","AIwithkhan","","https://x.com/AIwithkhan/status/2081222954659234074","2081222954659234074","2026-07-26T03:39:54.000Z","NOASSERTION","@AIwithkhan","https://imglume.com/prompt/1560","CC-BY-4.0","2026-07-26T12:11:09.507Z","2026-07-26T12:11:09.507Z","https://cdn.imglume.com/prompts/byradar/6f8026cd-1ce0-43ba-8206-37356bdbeb05/175bf291-ab71-452e-914d-0ef3d78c7a96-1785067869507"
+"byradar:2081200833631502418:0","1561","6fb0b092cff07329d6170c4bfe2d5b9ef68053054bcee96480763d3c1ce276e6","Camera racing through an inverted hollow world","The camera races low over rolling terrain that bends upward at the edges instead of falling away, rivers climb the walls, forests hang overhead, and mountains grow downward from a ceiling of land. Two traversal craft fly the inside of a hollow world while the camera struggles to keep up with the inverted geometry. They climb toward the central sun and emerge into a sky filled with hundreds of nested hollow worlds, each one visible through the next.","video","seedance","other","cinematic","hollow world|inverted geometry|camera race|nested worlds","en","AllaAisling","","https://x.com/AllaAisling/status/2081200833631502418","2081200833631502418","2026-07-26T02:12:00.000Z","NOASSERTION","@AllaAisling","https://imglume.com/prompt/1561","CC-BY-4.0","2026-07-26T12:46:10.208Z","2026-07-26T12:46:10.208Z","https://cdn.imglume.com/prompts/byradar/738e2407-5925-40b6-8c1e-dde9ea96980a/45f4d0c9-3b5c-4a75-9073-81cdc60c0cc4-1785069970208"
+"byradar:2081227584637943971:0","1562","7453370647fb6944208aaadc7c2c2e9228c6ab7ad79c8156535044ad08f172c5","Ultra-luxury fashion editorial in floating glass frames museum","An award-winning ultra-luxury fashion editorial photographed inside a breathtaking contemporary art museum where multiple crystal-clear floating glass frames hover effortlessly in mid-air at varying heights and depths, creating an immersive three-dimensional visual installation. Each transparent frame showcases the same exceptionally beautiful young European female model with refined facial features, luminous skin, expressive blue-green eyes, and elegant natural makeup, captured in completely different haute couture looks and confident editorial poses. Every frame presents a unique luxury fashion story featuring sculptural gowns, modern architectural tailoring, flowing silk, satin, organza, embellished crystal couture, premium textured fabrics, elegant capes, asymmetric silhouettes, sophisticated monochrome styling, and contemporary high-fashion accessories. Her hairstyles subtly vary between polished sleek hair, soft waves, elegant updos, and modern runway-inspired looks, giving every portrait its own identity while maintaining the same model. The floating glass panels overlap naturally in perspective, creating dramatic cinematic depth, soft optical refractions, delicate prism effects, and realistic edge highlights. Gentle reflections dance across an immaculate mirror-polished white marble floor, enhancing the illusion of infinite space without becoming distracting. The gallery architecture is minimalist yet monumental, featuring soaring ceilings, museum-grade proportions, sculptural concrete walls, hidden architectural lighting, oversized skylights, and abundant soft natural daylight streaming through the space. Warm ivory, champagne gold, pearl white, soft beige, and subtle warm grey tones create an atmosphere of timeless European luxury. The composition is perfectly balanced with layered foreground, midground, and background elements, producing exceptional depth and visual richness. Every glass frame appears to float weightlessly, casting soft realistic shadows and subtle reflections while preserving complete transparency. Ultra-premium Vogue Italia editorial aesthetic, luxury campaign photography, museum-quality fine art composition, cinematic lighting, hyper-realistic DSLR photography, Canon EOS R5, RF 85mm f/1.2L lens, f/1.8, HDR, ultra-shallow depth of field, tack-sharp focus on the floating frames, exquisite skin detail, lifelike fabric textures, realistic glass physics, volumetric light rays, global illumination, soft ambient occlusion, extremely high dynamic range, photorealistic, masterpiece quality, 8K, no text, no logos, no watermark.","image","gptimage","other","photography","luxury fashion|editorial|museum|glass frames|high couture|photography","en","hey_am_cherry","","https://x.com/hey_am_cherry/status/2081227584637943971","2081227584637943971","2026-07-26T03:58:18.000Z","NOASSERTION","@hey_am_cherry","https://imglume.com/prompt/1562","CC-BY-4.0","2026-07-26T12:46:17.415Z","2026-07-26T12:46:17.415Z","https://cdn.imglume.com/prompts/byradar/d934ef91-9c79-4a92-8e14-e4f1db877ce6/41267e7d-be16-45cf-96e0-dac71d3f69e5-1785069977415"

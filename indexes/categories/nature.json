@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "nature",
+  "label": "Nature",
+  "count": 1,
+  "mediaTypes": {
+    "image": 0,
+    "video": 1
+  },
+  "ids": [
+    "byradar:2081262542878597242:0"
+  ]
+}

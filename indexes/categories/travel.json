@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "travel",
+  "label": "Travel",
+  "count": 2,
+  "mediaTypes": {
+    "image": 1,
+    "video": 1
+  },
+  "ids": [
+    "byradar:2080966563256222070:0",
+    "byradar:2081262542878597242:0"
+  ]
+}

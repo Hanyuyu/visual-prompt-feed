@@ -1,0 +1,34 @@
+name: Source or metadata correction
+description: Report an attribution, source, prompt, category, tag, or model issue.
+title: '[Correction] '
+labels:
+  - data-correction
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record ID
+      placeholder: byradar:1234567890:0
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original X post URL
+      placeholder: https://x.com/author/status/1234567890
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Requested correction
+      description: Explain what is wrong and what the corrected value should be.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: Add public links or other non-sensitive evidence.
+    validations:
+      required: true

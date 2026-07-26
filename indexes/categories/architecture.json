@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "architecture",
+  "label": "Architecture",
+  "count": 2,
+  "mediaTypes": {
+    "image": 2,
+    "video": 0
+  },
+  "ids": [
+    "byradar:2080966563256222070:0",
+    "byradar:2081004359002067435:0"
+  ]
+}

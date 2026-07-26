@@ -1,0 +1,19 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "recommendedModel",
+  "value": "nanobanana",
+  "label": "Nano Banana",
+  "count": 6,
+  "mediaTypes": {
+    "image": 6,
+    "video": 0
+  },
+  "ids": [
+    "byradar:2080943223808094686:0",
+    "byradar:2080989326557487445:0",
+    "byradar:2080986316477452535:0",
+    "byradar:2081078247031181648:0",
+    "byradar:2081162004245426665:0",
+    "byradar:2081038163494236378:0"
+  ]
+}

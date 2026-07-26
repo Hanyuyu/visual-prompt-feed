@@ -1,0 +1,45 @@
+name: Author removal or attribution request
+description: Request removal, attribution correction, or a supported license notice.
+title: '[Rights request] '
+labels:
+  - rights-request
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record ID
+      placeholder: byradar:1234567890:0
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original X post URL
+      placeholder: https://x.com/author/status/1234567890
+    validations:
+      required: true
+  - type: dropdown
+    id: action
+    attributes:
+      label: Requested action
+      options:
+        - Remove the record
+        - Correct author attribution
+        - Correct the source URL
+        - Add or correct a license notice
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Explain the requested change. Do not post private identity documents.
+    validations:
+      required: true
+  - type: textarea
+    id: relationship
+    attributes:
+      label: Relationship to the source
+      description: Describe a safe way for ImgLume to verify that you represent the source account.
+    validations:
+      required: true

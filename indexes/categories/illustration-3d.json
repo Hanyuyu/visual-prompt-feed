@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "illustration-3d",
+  "label": "Illustration 3d",
+  "count": 1,
+  "mediaTypes": {
+    "image": 1,
+    "video": 0
+  },
+  "ids": [
+    "byradar:2081003166217474475:0"
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "generatedAt": "2026-07-26T12:46:17.415Z",
+  "total": 57,
+  "mediaTypes": {
+    "image": 30,
+    "video": 27
+  },
+  "authors": 35,
+  "sourcePosts": 57,
+  "mediaAssets": 119,
+  "categories": {
+    "architecture": {
+      "total": 2,
+      "image": 2,
+      "video": 0
+    },
+    "camera-moves": {
+      "total": 2,
+      "image": 0,
+      "video": 2
+    },
+    "character": {
+      "total": 2,
+      "image": 0,
+      "video": 2
+    },
+    "cinematic": {
+      "total": 22,
+      "image": 1,
+      "video": 21
+    },
+    "food-drink": {
+      "total": 2,
+      "image": 1,
+      "video": 1
+    },
+    "illustration-3d": {
+      "total": 1,
+      "image": 1,
+      "video": 0
+    },
+    "nature": {
+      "total": 1,
+      "image": 0,
+      "video": 1
+    },
+    "photography": {
+      "total": 25,
+      "image": 25,
+      "video": 0
+    },
+    "poster-design": {
+      "total": 1,
+      "image": 1,
+      "video": 0
+    },
+    "product-ads": {
+      "total": 2,
+      "image": 0,
+      "video": 2
+    },
+    "travel": {
+      "total": 2,
+      "image": 1,
+      "video": 1
+    },
+    "ugc": {
+      "total": 2,
+      "image": 0,
+      "video": 2
+    }
+  },
+  "recommendedModels": {
+    "gptimage": 24,
+    "nanobanana": 6,
+    "seedance": 27
+  },
+  "sourceModels": {
+    "gptimage": 12,
+    "grok": 1,
+    "nanobanana": 7,
+    "other": 27,
+    "seedance": 16
+  },
+  "languages": {
+    "en": 46,
+    "English": 1,
+    "unknown": 4,
+    "zh": 6
+  }
+}

@@ -1,0 +1,49 @@
+name: Sync prompt dataset
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 11:40 Asia/Shanghai, after ImgLume's daily ByRadar ingestion.
+    - cron: '40 3 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prompt-data-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Synchronize the public snapshot
+        env:
+          OPEN_PROMPTS_API_URL: https://imglume.com/api/open-prompts/v1/prompts
+        run: npm run sync
+
+      - name: Validate generated data
+        run: npm run check
+
+      - name: Commit real data changes
+        shell: bash
+        run: |
+          git add README.md data catalog indexes stats.json changes
+          if git diff --cached --quiet; then
+            echo "No dataset changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "data: sync prompts $(date -u +%F)"
+          git push

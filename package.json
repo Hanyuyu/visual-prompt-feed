@@ -1,0 +1,19 @@
+{
+  "name": "imglume-prompts",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An open, continuously updated catalog of AI image and video prompts discovered by ByRadar and curated by ImgLume.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hanyuyu/imglume-prompts.git"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "check": "node scripts/verify.mjs"
+  }
+}

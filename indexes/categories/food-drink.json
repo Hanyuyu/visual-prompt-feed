@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "food-drink",
+  "label": "Food Drink",
+  "count": 2,
+  "mediaTypes": {
+    "image": 1,
+    "video": 1
+  },
+  "ids": [
+    "byradar:2081057085077459251:0",
+    "byradar:2081030585330589721:0"
+  ]
+}
