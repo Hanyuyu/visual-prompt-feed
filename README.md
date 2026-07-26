@@ -1,12 +1,16 @@
-# ImgLume Open Prompts
+# Visual Prompt Feed
 
-[![Daily sync](https://github.com/Hanyuyu/imglume-prompts/actions/workflows/sync.yml/badge.svg)](https://github.com/Hanyuyu/imglume-prompts/actions/workflows/sync.yml)
+[![Daily refresh](https://github.com/Hanyuyu/visual-prompt-feed/actions/workflows/sync.yml/badge.svg)](https://github.com/Hanyuyu/visual-prompt-feed/actions/workflows/sync.yml)
 [![Curation: CC BY 4.0](https://img.shields.io/badge/curation-CC%20BY%204.0-2f6fdb.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Prompt text: NOASSERTION](https://img.shields.io/badge/prompt%20text-NOASSERTION-6b7280.svg)](DATA-LICENSE.md)
 
-A continuously updated, source-linked catalog of AI image and video prompts
-discovered by [ByRadar](https://byradar.org) and verified, categorized, and
-structured by [ImgLume](https://imglume.com).
+A continuously refreshed public feed of AI image and video prompts from
+public X posts, with original authors, source links, preview media, and
+machine-readable datasets.
+
+New records are discovered by [ByRadar](https://byradar.org), then verified,
+categorized, and structured by [ImgLume](https://imglume.com) before
+publication.
 
 Every record preserves the original X author and post URL. This repository
 does **not** claim that publicly posted prompt text or source media is licensed
@@ -16,7 +20,7 @@ under CC BY 4.0. ImgLume's original curation and dataset structure are CC BY
 <!-- DATASET-STATS:START -->
 **57 prompts** from **57 source posts** and **35 authors**, with **119 source-media links**.
 
-Last curated record update: `2026-07-26T12:46:17.415Z`
+Last feed refresh: `2026-07-26T12:46:17.415Z`
 
 | Category | Image | Video | Total |
 | --- | ---: | ---: | ---: |
@@ -58,7 +62,7 @@ JavaScript example:
 
 ```js
 const response = await fetch(
-  'https://raw.githubusercontent.com/Hanyuyu/imglume-prompts/main/data/prompts.json',
+  'https://raw.githubusercontent.com/Hanyuyu/visual-prompt-feed/main/data/prompts.json',
 );
 const { items } = await response.json();
 
@@ -66,6 +70,15 @@ const cinematicPrompts = items.filter((item) =>
   item.categories.includes('cinematic'),
 );
 ```
+
+## Optional MCP integration
+
+To search the live visual catalog from Codex, Claude Code, Cursor, or another
+MCP host, use the open-source
+[ImgLume MCP](https://github.com/Hanyuyu/imglume-mcp). It can retrieve full
+source-linked prompts, improve visual briefs, and generate or edit images and
+videos. The downloadable feed remains independently usable; the MCP is
+optional.
 
 ## What gets published
 

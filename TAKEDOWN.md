@@ -4,7 +4,7 @@ ImgLume respects original authors and preserves the source author and X post
 URL for every record.
 
 If you are an original author or authorized representative, open a
-[removal request](https://github.com/Hanyuyu/imglume-prompts/issues/new?template=removal-request.yml)
+[removal request](https://github.com/Hanyuyu/visual-prompt-feed/issues/new?template=removal-request.yml)
 for:
 
 - removal of a prompt or source-media link;

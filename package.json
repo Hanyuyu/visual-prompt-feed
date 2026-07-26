@@ -1,12 +1,12 @@
 {
-  "name": "imglume-prompts",
+  "name": "visual-prompt-feed",
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "An open, continuously updated catalog of AI image and video prompts discovered by ByRadar and curated by ImgLume.",
+  "description": "A continuously refreshed public feed of source-linked AI image and video prompts.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Hanyuyu/imglume-prompts.git"
+    "url": "https://github.com/Hanyuyu/visual-prompt-feed.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "engines": {

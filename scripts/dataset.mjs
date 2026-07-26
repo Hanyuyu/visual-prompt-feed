@@ -639,7 +639,7 @@ export function buildReadmeStats(stats) {
   return [
     `**${stats.total} prompts** from **${stats.sourcePosts} source posts** and **${stats.authors} authors**, with **${stats.mediaAssets} source-media links**.`,
     '',
-    `Last curated record update: \`${stats.generatedAt}\``,
+    `Last feed refresh: \`${stats.generatedAt}\``,
     '',
     '| Category | Image | Video | Total |',
     '| --- | ---: | ---: | ---: |',

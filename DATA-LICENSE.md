@@ -1,6 +1,6 @@
 # Dataset rights and reuse
 
-ImgLume Open Prompts separates third-party source material from ImgLume's own
+Visual Prompt Feed separates third-party source material from ImgLume's own
 curation. This distinction applies record by record.
 
 ## Original prompt text and source media

@@ -1,7 +1,7 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/Hanyuyu/imglume-prompts/schema/prompt.schema.json",
-  "title": "ImgLume Open Prompt Record",
+  "$id": "https://github.com/Hanyuyu/visual-prompt-feed/schema/prompt.schema.json",
+  "title": "Visual Prompt Feed Record",
   "description": "A ByRadar-discovered prompt with source attribution, third-party rights notices, and ImgLume curation metadata.",
   "type": "object",
   "additionalProperties": false,

@@ -83,7 +83,7 @@ async function main() {
   );
   assert(
     schema.$id ===
-      'https://github.com/Hanyuyu/imglume-prompts/schema/prompt.schema.json',
+      'https://github.com/Hanyuyu/visual-prompt-feed/schema/prompt.schema.json',
     'JSON Schema $id is unexpected',
   );
 
