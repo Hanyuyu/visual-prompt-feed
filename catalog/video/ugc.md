@@ -1,9 +1,37 @@
 # UGC video prompts
 
-2 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Fixing a Loose Doorknob
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2081278733479272524)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1570](https://imglume.com/prompt/1570)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b60df5ed-e537-4d3a-ad88-54374742588c/fb155e94-9025-40cd-a631-46c73ab6bba9-1785078394697 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, early 20s, oversized flannel shirt with sleeves rolled up, loose jeans, hair in a messy bun, focused determined expression.
+Location: Small entryway of a traditional house, midday. Wooden door slightly ajar, a small toolbox on the floor, potted plant by the entrance, soft light filtering in. No modern distractions.
+Visual Style: Ultra-realistic documentary realism, candid hands-on feeling, natural indoor daylight.
+Camera Style: Early 2000s DV camcorder, handheld close framing, autofocus shifting between her hands and face, warm faded tones, soft grain. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She kneels by the door, then tries to tighten the loose doorknob with a screwdriver.
+00:03–00:06 → It slips off the screw; she sighs, then mutters "아, 이거 계속 헐거워지네" ("Ugh, this keeps getting loose").
+00:06–00:09 → She tries again more carefully, tongue poking out in concentration.
+00:09–00:12 → The knob finally tightens; she tests it by turning it a few times, satisfied.
+00:12–00:15 → She looks at camera saying "이제 잘 되네" ("Works fine now"), smiling as she stands up.
+Audio: Screwdriver scraping metal, faint door creak, distant birds, soft breathing. Her dialogue as noted above. No music.
+Goal: A small, satisfying repair moment patient, real, quietly proud.</code></pre>
+
+</details>
 
 ## A Letter to My Future Self – realistic smartphone video diary
 

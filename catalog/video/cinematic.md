@@ -1,9 +1,403 @@
 # Cinematic video prompts
 
-21 source-linked prompts, newest ImgLume records first.
+30 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 金林听雨·男女巅峰对决段镜头提示词
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2081251381894078663)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1594](https://imglume.com/prompt/1594)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ef789732-92d1-4394-a26f-c84a399993c7/8db87ddd-0db3-4f49-a13d-b143e01ffd37-1785111984422 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>金林听雨·男女巅峰对决段镜头提示词
+【画质风格】
+真人实拍级电影写实质感,全 PBR 物理材质高精度渲染,粗粝胶片颗粒叠加院线级调色;全程以自然侧逆光为主光源,逆光穿透金黄叶隙形成细碎光斑;绸缎衣料的垂坠光泽、剑刃寒光、落叶脉络、发丝飘动细节全部写实还原;整体色调为高饱和金黄与一抹正红的强对比;8K IMAX 70mm 电影级拍摄质感,2.39:1 宽画幅,12bit 杜比视界 HDR。
+【角色设定】
+· @玄墨(男):身形挺拔清瘦的东亚男性,黑色长发以木簪半束、余发披落,面部线条冷峻;通体玄黑色宽袖长袍,腰束黑革带,衣料垂坠厚重;手持一柄窄刃长剑,剑身古朴、寒光内敛;动作沉稳克制,出剑极快极直,大巧不工。
+· @朱砂(女):身形颀长柔韧的东亚女性,乌黑长发全部披散、发间只别一支银簪,眉眼凌厉;通体正红色广袖长裙,外层薄纱随动作漫天飞卷,腰身以红绸紧束;手持一柄细窄软剑,剑身柔韧、抖动如水波;动作大开大合如舞,旋身时红裙与薄纱撑开成一朵绽放的花。
+· 场景:深秋胡杨林,金黄叶片铺满地面、厚积如毯,林间不断有落叶自树冠飘旋而下,晨光自林梢斜射,空气里悬浮着细小的金色尘埃,四下静谧无风。
+【运镜逻辑】
+开场以极静建立张力,镜头缓推穿过飘落的叶幕,两人对立不动;第一次交锋以一片落叶坠地为号,镜头随二人身形骤然横移加速;随即进入三秒八连切快速蒙太奇,每一切都是攻防特写,节奏密不透风;八切结束瞬间二人凌空错身,镜头环绕拉升切入慢镜头,捕捉漫天落叶与红纱黑袍的悬停;落地再战阶段镜头贴地低角度狂奔跟拍;终局一剑时间凝滞,镜头绕至两人侧面定格;收尾镜头缓缓拉远,全程快慢张弛极致交替。
+【完整画面流程】
+开场:镜头自林间缓缓前推,穿过一层层旋落的金黄叶片,画面尽头,玄墨与朱砂相隔十步对立而立,一黑一红,纹丝不动。风止,叶落,一片胡杨叶自两人正中缓缓飘坠。特写:叶尖触地。
+叶落即战。两道身影同时爆发前掠,金叶自二人脚下轰然掀起两道对冲的叶浪,黑袍与红裙在半途撞上,剑刃相交的一声清越长鸣响彻林间,以交点为心,周身三丈落叶被剑气震得齐齐炸向四周。
+画面在此处进入三秒钟快速蒙太奇,连续切换八次攻防特写,剑剑相逼,节奏密不透风:
+1. 第一切:剑刃交锋特写,玄墨一记直刺快若闪电,朱砂软剑侧引卸力,两刃相贴滑擦拉出一线火星,火星点燃身侧飘叶的边缘又瞬间熄灭
+2. 第二切:腰身侧旋特写,朱砂拧腰旋身,红裙撑开成伞,软剑借旋势自侧后方回抽横削,玄墨沉肩后仰堪堪避过,剑锋掠断他颊侧三缕黑发,发丝混着金叶缓缓飘落
+3. 第三切:足尖低位特写,玄墨足尖点地疾进,黑靴踏过积叶只留一线痕,长剑贴地上撩,叶毯被剑风犁开一道笔直的沟,金叶沿沟两侧翻卷腾起
+4. 第四切:广袖缠剑特写,朱砂广袖忽然一卷裹住剑身来势,红纱缠刃的瞬间玄墨手腕疾抖,剑锋破纱而出,薄纱断口飞散成漫天红色碎绡
+5. 第五切:错身对拉特写,二人贴身错过的一瞬各自反手回撩,双剑在两人背后交鸣,溅起的火星映亮彼此侧脸,鬓发与衣带交错纷飞
+6. 第六切:借树腾身特写,朱砂足尖连点树干螺旋而上,红裙红纱沿树身盘旋撑开,软剑自高处化作一道红光当头卷落,玄墨举剑硬架,劲气震得整树金叶轰然齐落
+7. 第七切:叶幕穿刺特写,漫天坠叶密如雨幕,玄墨于叶幕中一剑洞穿,剑尖精准挑飞朱砂鬓边银簪,银簪旋飞,乌发轰然散开如墨瀑倾泻
+8. 第八切:发瀑反杀特写,朱砂散发狂舞中反手一记软剑鞭抽,剑身抖成一道弧光缠向玄墨持剑腕,他疾退半步,袖口被剑尖豁开一线,黑布碎片混入金叶
+八次切镜干净利落,三秒内一气呵成,每帧攻防都拉满张力。
+第八切收束瞬间,二人同时蹬地凌空对冲错身,画面切入慢镜头:半空之中,黑袍与红纱完全舒展,漫天金叶悬停在两人周身,每一片叶的翻转、每一缕纱的卷曲、每一根发丝的飘荡都清晰可见,两道剑光在叶隙间交错而过,晨光穿透叶幕在二人身上流动,整个画面静得能听见叶脉相擦。
+慢镜头转瞬收束,二人背向落地,积叶各自炸开一圈。不待叶落,同时拧身回冲,镜头贴地狂奔跟拍:两道身影在林间高速游走缠斗,黑红两色绞成一团,剑鸣密如骤雨,所过之处叶浪连绵掀起、树干接连被剑气削出白痕,断纱、碎叶、发丝在二人身后拉出一条翻卷的彩尾。
+终局:缠斗至林心空地,二人同时后撤蓄力——玄墨双手合剑于胸前,剑尖凝而不动;朱砂软剑绕臂盘紧,红纱缓缓沉落。一片胡杨叶再度自两人正中飘下。叶至半途,两人同时暴喝出剑,两道剑光对冲而过,时间凝滞:镜头绕至侧面,二人背向错立,长久静止。半晌,玄墨手中长剑自中段"铮"然断裂,断刃坠入积叶;朱砂缓缓直身,软剑垂落,剑尖滴下一线,她抬手按住肩头被削开的一道红衣裂口,二人回首对望,不见恨意,各自颔首。
+镜头自二人中间缓缓垂直拉升,黑红两点立于金黄叶海正中,最后一批被震落的胡杨叶自四周徐徐落下,覆向他们脚边,画面定格。
+【环境音效与台词】
+全程无背景音乐,原生山林空间混响,静谧段落带极低的风息底噪:
+· 开场极静:细微的叶片旋落摩擦声,晨林深处零星鸟鸣,叶尖触地的一声极轻脆响
+· 叶落即战:双足蹬地的爆裂闷响,叶浪掀起的密集簌簌声,首次剑刃相交的清越长鸣与剑气震叶的连绵爆响
+· 三秒八连切:剑刃相交声密集如雨、清脆错落,纱帛断裂的细腻撕声,发丝断落的极轻声响,足尖点树的笃笃轻响逐切点缀
+· 凌空慢镜:所有声响骤然压至近无,只剩衣料舒展的缓慢猎猎声,叶片相擦的细碎沙沙声,极静中的一线晨风
+· 贴地缠斗:剑鸣密如骤雨,黑红衣料破风的连绵猎猎声,剑气削树的噗噗闷响,叶浪连环掀起的层层爆响
+· 终局对冲:蓄力时全场声音抽空,只剩一片叶的旋落轻响;暴喝双声同时炸裂,剑光对冲的一声撕裂长鸣,随后长久死寂
+· 断剑收势:长剑断裂的一声"铮"鸣在林间回荡,断刃落叶的轻沉闷响,红衣裂口的轻微布帛声,尾声只剩落叶徐徐的簌簌声
+· 人物状态:玄墨全程沉默、仅出剑瞬间短促吐气;朱砂旋身时衣袂声大开大合、终局暴喝清亮;二人收势后呼吸各自绵长沉稳</code></pre>
+
+</details>
+
+## Photorealistic Cinematic Restaurant Video of Mixed-Reality Food Ordering
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2081208635925876762)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [1588](https://imglume.com/prompt/1588)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9cbcfabd-ef27-457b-b73f-256a1954f8e4/7050be6a-8caa-4f41-8cb3-7c3e5b48a097-1785099373758 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15 second, 16:9 photorealistic cinematic restaurant video built around one seamless visual idea: a diner uses an invisible mixed-reality interface to seemingly summon a complete meal.
+
+ONE CONTINUOUS CAMERA ANGLE. Camera positioned slightly behind and above the left shoulder of a seated young adult diner with short natural brown hair, wearing a clean off-white long-sleeve shirt. Only the back of the head, shoulder and right hand are clearly visible; never reveal a full frontal face. The diner sits at a pale natural-wood restaurant table inside a warm modern casual café. Background: beige upholstered booth, narrow planter filled with realistic green foliage, muted wall artwork and a small dark wall outlet. Background softly defocused.
+
+CAMERA: full-frame 45–50mm lens aesthetic, shallow realistic depth of field around f/2.8, camera height approximately seated eye level. Mostly locked-off observational framing with tiny human operator breathing drift, never perfectly robotic. Natural 24fps motion, 180-degree shutter, subtle motion blur, realistic focus behaviour, gentle fine sensor grain. No artificial camera orbit, zoom or dramatic movement.
+
+0–1.5 sec: empty tabletop. Diner casually raises the right hand and extends the index finger into the space above the table.
+
+1.5–4.8 sec: a refined translucent augmented-reality control panel softly appears approximately 40 cm above the tabletop. It resembles premium contemporary glass UI rather than science-fiction holograms: several small rounded icons, two tall translucent vertical sliders, faint white symbols, subtle warm reflections and realistic light transmission. Interface remains properly anchored in 3D space. The diner naturally taps one control, drags a slider slightly and makes one final deliberate selection. Finger contact and UI reaction must align perfectly with no hand deformation.
+
+4.8–5.3 sec: interface rapidly but elegantly fades away.
+
+5.3–8.5 sec: almost immediately, a real restaurant server’s arm in a plain black sleeve enters from camera-right carrying a rectangular rustic wooden serving board. The server smoothly places it in the centre of the table. On it: one highly realistic gourmet burger with glossy toasted brioche bun, beef patty, lettuce and visible fresh fillings; crisp golden fries in a small metal container; a ceramic cup of red ketchup. Accurate food weight, shadows, reflections, crumbs and natural imperfections. Server adjusts the tray slightly, then withdraws.
+
+8.5–10 sec: short quiet hold. Diner remains still, subtly looking toward the meal.
+
+10–12 sec: server’s hand returns from frame-right carrying a condensation-covered classic dark glass cola bottle with a red vintage-style label. Place it upright immediately to the right of the serving board. Realistic glass reflections, liquid density and contact shadow.
+
+12–15 sec: satisfying final hero hold on the complete meal from the same over-the-shoulder viewpoint. Slight natural diner head movement, warm restaurant ambience, no posing.
+
+LIGHTING: warm practical tungsten café illumination around 3000–3400K, soft overhead key, gentle highlights on burger bun and bottle, realistic shadow falloff, restrained contrast, believable skin and wood tones. Avoid CGI gloss, excessive bloom, oversaturation, warped fingers, floating food, unstable objects, fake text, visible cuts or impossible physics.
+
+AUDIO/MUSIC: understated modern lo-fi electronic groove with soft bass, muted percussion and tasteful minimal synth texture. Add subtle spatial UI taps/soft glassy clicks, faint restaurant room tone, serving-board contact on wood, gentle fries/plate movement and a convincing glass-bottle placement sound. Music remains sophisticated and low enough for tactile sound effects to sell the realism.</code></pre>
+
+</details>
+
+## Handheld camcorder POV backstage fitting-room vlog of Korean idol CHASE
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2081353850779550056)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1585](https://imglume.com/prompt/1585)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9c6d16b3-07e2-464c-9d1e-b889b7cf147e/a3975768-5382-4f69-bbdb-de08db18eab5-1785090977102 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DV 16mm handheld camcorder POV, CHASE filming herself, occasionally propped against a fitting-room mirror. Natural hand shake, imperfect framing, delayed focus, clumsy zooms, tape blur/noise, bloomed vanity lights, flickering auto-exposure, muted contrast, realistic skin. Playful, energetic backstage fitting-room vlog with quick pacing. CHASE: Korean idol in her 20s, long straight black hair, dewy glass skin, coral lips, large eyes, slim. Wears two fully modest stage outfits (1: fitted long-sleeve top + tailored trousers, 2: high-neck dress over long-sleeve base layer), minimal jewelry. Backstage fitting room with mirror, garment rack, stylist off-camera, pins/fabric clips. Sequence: outfit 1 mirror turn ("Okay, first outfit—let's see."), smooths fabric ("I really like this fit."), stylist pins waist (ambient only), playful spin ("Moves pretty well!"), quick change to outfit 2 ("Now let's compare."), compares ("More elegant, but the first had better movement."), close-up thinking ("I genuinely can't decide."), selfie spin ending ("I'll let the team decide—see you on stage!"). Camcorder never visible.</code></pre>
+
+</details>
+
+## Gritty 16mm cinéma vérité birthday party turned clown chaos
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2081391870073016811)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1580](https://imglume.com/prompt/1580)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cfc382a0-240c-4d87-9dc3-f4001cacd294/7a7614ac-5eac-46d1-96cf-fd7010a3533e-1785086792593 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Gritty 16mm cinéma vérité, authentic 1970s home-movie documentary feel, organic film grain, natural mixed indoor light, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism.
+
+0-3s: [Close Handheld] Warm living-room birthday. Kids crowded around a simple cake, laughing and singing. A young woman with natural face leans in to help light the last candles. Soft warm light, pure joyful chaos. Camera stays tight and slightly shaky on the faces and flickering flames.
+
+3-7s: [Unsteady Medium] The song continues. One kid is about to blow out the candles. Everyone is smiling, the room feels safe and full of energy. Camera drifts among the group with natural bounce.
+
+7-11s: [Handheld Chaos] The door bursts open. A tall figure in a classic Pennywise clown costume (white face, orange hair, red balloon, tattered suit) steps in and immediately tries to scare the kids with exaggerated movements and a low menacing laugh. The singing stops. Kids freeze for a split second.
+
+11-15s: [Raw Reactive to Overhead] The kids don’t run. They charge him as a pack, jumping on his back, punching, kicking and swinging whatever is nearby. The clown goes down hard onto the floor. Camera stays in the middle of the fight, then suddenly rises into a high overhead angle looking straight down. Pennywise lies on his back staring at the ceiling while the kids keep pounding him from all sides.
+
+Photorealistic 16mm film emulation, heavy organic grain, authentic period details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 4:3 aspect ratio.</code></pre>
+
+</details>
+
+## Premium luxury wireless earbuds commercial video
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2081387148591436262)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1579](https://imglume.com/prompt/1579)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9e47eb6c-218f-4029-ade0-81f33835a793/10e766cd-1af7-4a1d-b5fb-edf41849e564-1785086774938 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, facial proportions, and overall appearance consistently throughout the entire video. Maintain the same natural beauty look while changing her outfit to a fitted white athletic crop top, high-waisted black leggings, white premium sneakers, and a sleek black smartwatch. Keep realistic hand anatomy, natural expressions, and consistent character identity in every shot.
+
+Create a 25-second premium wireless earbuds commercial set in a futuristic modern lifestyle environment with clean architecture, warm natural lighting, premium interiors, and cinematic product cinematography. The earbuds are the hero product while the woman naturally interacts with them throughout the film. Ultra-realistic luxury technology advertisement, commercial-grade production, photorealistic 4K HDR.
+
+The video opens with the woman confidently walking through a bright modern atrium while holding the closed wireless earbuds charging case beside her face. She smiles naturally toward the camera before flipping the case open to reveal the earbuds resting inside.
+
+Macro cinematic shots showcase the charging case from multiple angles. The glossy finish, precision hinge, metallic accents, LED charging indicator, and premium craftsmanship are highlighted as soft reflections glide across the surface.
+
+She gently removes both earbuds and places them into her ears. Extreme close-ups capture the precise fit, realistic skin texture, and premium finish while the camera slowly circles around her profile.
+
+As the music begins, she closes her eyes for a moment and smiles naturally. Cinematic slow-motion captures subtle hair movement as she enjoys the immersive sound experience before confidently continuing her walk through the modern space.
+
+The environment transitions into an outdoor urban plaza during golden hour. She walks confidently through tree-lined streets, cafés, and contemporary architecture while listening to music. Tracking shots follow her naturally as the earbuds remain securely in place.
+
+She pauses beside a glass building and taps one earbud to answer a phone call. Natural expressions and clean close-ups emphasize effortless touch controls, crystal-clear communication, and premium smart functionality.
+
+The camera cuts to elegant product hero shots. The earbuds float against a soft premium background while rotating slowly. Macro cinematography reveals the speaker mesh, charging contacts, sculpted curves, premium materials, and subtle reflections.
+
+She reaches a rooftop terrace overlooking the city skyline during sunset. Removing one earbud, she smiles toward the camera while holding the charging case confidently beside her face. Warm golden light beautifully illuminates her features and the product.
+
+The film concludes with a dramatic hero shot of both earbuds floating beside the charging case against a luxurious minimalist background. Soft cinematic lighting, elegant reflections, and slow camera movement highlight the premium craftsmanship before fading to black.
+
+Style: Premium luxury technology commercial, cinematic product cinematography, elegant handheld and gimbal camera movement, shallow depth of field, macro product shots, realistic reflections, luxury lighting, photorealistic skin textures, natural body movement, premium commercial color grading, ultra-detailed, realistic physics, 4K HDR, 25fps.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no duplicate people, no distorted hands, no deformed anatomy, no extra fingers, no AI artifacts, no cartoon style, no oversaturated colors, no flickering, no low resolution.</code></pre>
+
+</details>
+
+## Molten Phoenix Knight Transformation Sequence
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2081092171428401560)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1578](https://imglume.com/prompt/1578)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5735bac0-4e93-452c-833a-a0b74499bcbc/65204b4d-cd6c-4177-b136-128ab26a5fa5-1785084681957 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Full magical transformation sequence: a molten phoenix knight floating in a dark volcanic void as glowing embers rise from below and thick smoke coils around them in slow ceremonial waves ,sparks attach to the body, igniting gold-red hair, forging radiant winged armor, tracing molten feather markings across the skin, and forming a burning longsword from compressed flame as phoenix wings unfold behind them. A circular lava-forged ritual seal opens beneath their feet with orange cracks spreading outward, the camera pushes through smoke layers in a slow heroic spiral, each ember burst synced to a rising drum hit, ending in a wings-spread blade-raised signature pose held inside a firestorm starburst. Stock-footage grandeur, played sincere</code></pre>
+
+</details>
+
+## Playful retro detective fashion short
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2081285643242770795)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1573](https://imglume.com/prompt/1573)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9785cb5c-5314-411d-9941-02e1a989986e/527471e7-e378-4447-9d6c-49c892ab51b7-1785080482703 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15 second, 16:9 photorealistic fashion short with the tone of a playful retro detective film: “fashion crimes” witnessed on a real city street. Keep every face, body, hairstyle and outfit consistent within each character’s shot. Four stylish adult women, all distinct.
+
+0.0–2.2s CALL: extreme macro inserts of a scratched cream public payphone outdoors. A ringed hand lifts a heavy black receiver; the coiled cord flexes naturally. Cut to an intimate crop of a woman’s mouth and jaw as she speaks, then an even tighter detail of the worn glossy handset. 50–85mm macro feel, shallow depth of field, tiny handheld breathing, imperfect focus settling, visible skin texture, chipped paint, fingerprints and dust.
+
+2.2–5.0s SUSPECT 1: hard cut to a narrow old-city pavement. A slim woman with short copper-brown hair walks confidently in a dark tailored suit: cropped double-breasted blazer, crisp pale shirt extending below it, long light tie, relaxed wide-leg trousers, pointed black shoes, structured black handbag. Start medium frontal, then side profile as she passes aged stone and muted red façades. Camera operator walks backward with subtle bob and real parallax.
+
+5.0–7.8s SUSPECT 2: dark-haired woman passes a stone townhouse holding takeaway coffee. She wears deliberate over-layering: black turtleneck, pale shirt, oversized grey layers tied at the waist, dark leather jacket, loose charcoal trousers. Alternate waist-up tracking with a close detail of sleeve, hand and cup. Hair catches a light breeze; the cup shifts naturally with her stride.
+
+7.8–10.5s SUSPECT 3: young woman with sleek dark bob and large silver over-ear headphones strides through a weathered passage. Oversized blue-grey plaid blazer, huge matching scarf across her shoulders, extremely wide dark trousers with deep cuffs, oversized black tote. Low insert on trouser hems and shoes, then chest-up tracking as she adjusts the scarf. Background walls show faded posters, worn paint and real street grime.
+
+10.5–12.7s SUSPECT 4: elegant dark-haired woman in a muted teal satin backless halter top and matching fitted midi skirt walks beside pale stucco and black iron railings. Begin from behind to reveal the open back and narrow neck tie, then cut to a three-quarter frontal medium shot. Satin reflects daylight softly; shoulders and hair move naturally.
+
+12.7–15.0s PAYOFF: rapid editorial cuts reveal all four women separately against a simple police-lineup-style height wall, each holding a small black placard, deadpan and self-assured. Finish on the payphone receiver swinging slightly on its cord after release, settling toward frame edge. No readable text on placards or screens.
+
+VISUAL LANGUAGE: authentic street-fashion editorial mixed with retro crime caper photography. Warm cream skin tones, dusty reds, charcoal, muted teal and blue-grey; soft daylight, restrained contrast, slightly faded blacks, subtle halation, fine 35mm grain. 24fps, natural 180° shutter blur. Mostly 35mm handheld street shots with 50–85mm tactile inserts. Real lens breathing, minor exposure adaptation, occasional foreground occlusion and slight rolling-shutter wobble on quick reframes. Avoid gimbal smoothness, warped hands, floating fabric, plastic skin, impossible reflections, duplicated pedestrians, excessive bokeh or synthetic slow motion.
+
+MUSIC / SOUND: 15-second instrumental retro crime-caper groove around 108 BPM: brushed drums, dry upright bass, muted electric guitar, light vibraphone and one playful brass accent. Layer payphone clicks, receiver clack, cord creak, footsteps, fabric rustle and distant city ambience. No vocals; end with a clean receiver click.</code></pre>
+
+</details>
+
+## Cinematic sci-fi horror scene in a dimly lit high-tech hospital emergency room
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2081296286486057174)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1572](https://imglume.com/prompt/1572)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c53a8dbd-2f06-47ad-82bc-31809da055f6/95cb61bd-3f38-41e6-bba7-411e9d5ec38f-1785080468190 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "prompt": "Cinematic sci-fi horror scene in a dimly lit, high-tech hospital emergency room during a heavy storm. An eerie, slender alien entity with dark, symbiotic armor and glowing accents stands tall in the center of the room, surrounded by terrified medical staff in scrubs and white coats. Moody, desaturated teal and charcoal color grading with harsh emergency lighting, dramatic backlighting, volumetric smoke and haze, high-contrast shadows, photorealistic textures, shot on 35mm lens, anamorphic depth of field, suspenseful and chilling atmosphere, 8k resolution.",
+ "negative_prompt": "cartoon, illustration, low resolution, bright cheerful lighting, poorly rendered faces, extra limbs, blurry",
+ "aspect_ratio": "16:9"
+}</code></pre>
+
+</details>
+
+## Luxury Watch Commercial – Ultra-Photorealistic 15‑Second Video
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2081288150308335651)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1565](https://imglume.com/prompt/1565)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/08915e27-9f47-4ea8-ba1f-6f63780ca745/1d05085a-9ba5-426f-896c-1023a9d50d1a-1785072091123 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 15 Seconds
+Aspect Ratio: 16:9
+Genre: Luxury Watch Commercial
+Style: Ultra-photorealistic cinematic luxury advertisement with museum-grade craftsmanship, inspired by the visual language of elite Swiss watchmaking campaigns. Every frame should feel meticulously composed, emphasizing timeless elegance, precision engineering, and quiet confidence. The watch remains the undisputed hero in every shot.
+
+0:00 – 0:03 | The Birth of Precision
+Scene Description:
+
+Fade in from pure black. A handcrafted Patek Philippe watch slowly emerges from darkness atop a floating slab of polished black obsidian. Wisps of fine mist drift across the surface while microscopic gold dust sparkles through the air. The sapphire crystal catches a soft beam of light, revealing the perfectly finished dial and polished hands.
+Camera:
+
+Ultra-slow macro dolly-in using a 100mm macro lens with cinematic focus breathing. The movement is deliberate and weightless, emphasizing exclusivity.
+Lighting:
+
+Controlled studio lighting with soft volumetric rays, dramatic rim lighting, subtle specular highlights, and deep cinematic shadows that sculpt every polished edge.
+Materials:
+
+Mirror-polished white gold case, sapphire crystal, hand-finished dial, brushed and polished metal surfaces, glossy black obsidian.
+Motion:
+
+Floating particles, subtle mist, gentle reflections traveling across the crystal.
+0:03 – 0:06 | Master Craftsmanship
+
+Scene Description:
+The watch slowly rotates in midair. Every polished bevel, engraved crown, and intricate dial detail glows under precise studio lighting. The second hand begins its perfectly smooth sweep, symbolizing mechanical perfection.
+
+Camera:
+Elegant orbital macro shot with ultra-slow rotational movement, maintaining razor-thin depth of field.
+
+Lighting:
+Moving highlight strips glide across the case, revealing flawless finishing and mirror reflections.
+
+Materials:
+Brushed steel textures, polished precious metal, anti-reflective sapphire crystal, fine leather strap with natural grain.
+
+Motion:
+Slow floating rotation, tiny airborne dust particles, smooth second-hand movement.
+
+0:06 – 0:09 | The Heart of Time
+Scene Description:
+
+The camera transitions seamlessly through the sapphire case back, revealing the intricate mechanical movement. Hundreds of polished gears, bridges, jewels, and the oscillating balance wheel move in perfect harmony, showcasing the artistry hidden within.
+Camera:
+
+Extreme macro tracking shot through the movement with cinematic rack focus between the gears and balance wheel.
+Lighting:
+
+Warm golden accent lighting combined with soft white studio illumination creates jewel-like reflections across every polished component.
+Materials:
+
+Hand-engraved bridges, polished gears, ruby jewels, brushed metal plates, gold rotor, sapphire exhibition case back.
+Motion:
+
+Smooth oscillation of the balance wheel, rotating gears, mesmerizing mechanical choreography.
+0:09 – 0:12 | Legacy on the Wrist
+
+Scene Description:
+A sharply tailored gentleman fastens the watch onto his wrist inside a luxurious penthouse overlooking a glowing nighttime city skyline. His movements are calm and deliberate. The watch catches the ambient light as he adjusts his cuff, projecting effortless sophistication without excess.
+
+Camera:
+Medium close-up transitioning into a slow push-in with an 85mm cinematic lens. Shallow depth of field isolates the watch while the city lights melt into elegant bokeh.
+
+Lighting:
+Natural blue-hour ambience blended with soft interior key lighting, accented by subtle reflections on the watch case.
+
+Materials:
+Tailored black suit, crisp white cuff, polished marble, brushed walnut wood, crystal glass, premium leather strap.
+
+Motion:
+Slow cuff adjustment, refined wrist movement, drifting city reflections across the sapphire crystal.
+
+0:12 – 0:15 | A Legacy Beyond Time
+Scene Description:
+
+The gentleman stands before a floor-to-ceiling window overlooking the illuminated skyline. As he lowers his hand, the camera slowly orbits the watch one final time. The reflections settle, the ticking becomes the only sound, and the frame fades elegantly to black with understated luxury.
+Camera:
+
+Slow cinematic orbit followed by a graceful pull-back into darkness.
+Lighting:
+
+Soft rim lighting outlines the watch while warm city lights create elegant reflections across the polished surfaces.
+Materials:
+
+Crystal glass, polished metal, fine leather, marble, warm wood accents.
+Motion:
+
+Slow breathing camera movement, natural reflections, subtle drifting dust particles, gentle lens bloom.
+Mood
+
+Timeless elegance • Quiet luxury • Heritage • Precision • Exclusivity • Generational craftsmanship
+Color Palette
+
+Deep black • Silver • White gold • Warm champagne highlights • Midnight blue • Soft charcoal • Rich walnut
+Rendering Style
+
+Ultra-photorealistic, cinematic luxury commercial, premium editorial photography, physically accurate materials, ray-traced reflections, global illumination, HDR lighting, 8K quality, museum-grade detail, razor-sharp macro imagery, premium Swiss craftsmanship aesthetic, seamless cinematic transitions, realistic optical depth, subtle film grain, world-class color grading.
+
+Negative Prompt
+
+Cheap materials, plastic appearance, exaggerated motion, cartoon styling, low resolution, oversaturated colors, cluttered backgrounds, fingerprints, dust on the watch, warped proportions, unrealistic reflections, incorrect branding, text overlays, logos other than Patek Philippe, shaky camera, harsh lighting, CGI artifacts, low-detail textures.</code></pre>
+
+</details>
+
+## Cinematic restaurant bill split scene
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2081342170070663307)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1563](https://imglume.com/prompt/1563)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3d336f3e-6ae2-4b8d-a3f9-d58016911629/5645dcb0-57b6-4696-b29c-38360336c365-1785072070111 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Part 1 (0–15 seconds)
+Cinematic close-up establishing shot inside an elegant, dimly lit Parisian fine-dining restaurant. Dark wood paneling, crystal chandeliers, candlelit marble tables, and mirrors reflecting warm ambient light. A handsome man in his early 30s with dark hair, wearing an open-collar white linen shirt, sits across from a stunning blonde woman in a fitted black low-cut dress. A young waiter in a crisp white shirt and black bowtie approaches and places a black leather bill folder on the table, saying, “Your bill, sir.”
+
+The man opens the folder and examines the long receipt showing a total of €217.40. He calmly pulls out a white calculator, types in the numbers, then looks up at the woman with a slight smile and says, “So, shall we split it?”
+
+The woman freezes mid-sip of her red wine, her eyes widening in surprise. The camera holds on her reaction as the intimate restaurant ambience continues. Warm golden lighting, shallow depth of field, realistic film grain, cinematic 24fps style.
+
+---
+
+Part 2 (15–30 seconds)
+The blonde woman slowly lowers her wine glass, staring at the man with a mix of disbelief and quiet amusement. She reaches into her black handbag, takes out a gold credit card, and hands it to the waiter as he returns with the payment terminal.
+
+The man watches in stunned silence, his mouth slightly open. The terminal beeps with a green confirmation light as the full bill is paid. She stands gracefully, adjusts her dress, looks back at him with an unreadable smile, and says, “Don’t lose your calculator.”
+
+She walks away through the elegant restaurant while the waiter hides a smile. The man remains seated, staring after her, completely caught off-guard. The camera smoothly follows her exit, then slowly pulls back to reveal the luxurious dining room, flickering candles, soft background chatter, and the man sitting alone with the calculator still open. Rich contrast, fashion-film aesthetic, natural skin texture, realistic mot</code></pre>
+
+</details>
 
 ## Camera racing through an inverted hollow world
 
@@ -241,41 +635,6 @@ No music. Gloves striking guard and body, bare feet sliding on canvas, controlle
 
 [NEGATIVE CONTROL]
 No random attacks, no floating footwork, no missed contact shown as impact, no teleporting, no stance switching without visible steps, no crossed screen direction, no role swap, no face morphing, no extra fighters, no comedy, no subtitles, no logos, no UI.</code></pre>
-
-</details>
-
-## Punk Rock Music Video with Asian Woman on Yamaha Dirtbike in Downtown LA
-
-- **Original source:** [@AIWarper on X](https://x.com/AIWarper/status/2081200401354015011)
-- **Recommended model:** `seedance`
-- **Source model(s):** `seedance`
-- **Categories:** `cinematic`
-- **ImgLume record:** [1546](https://imglume.com/prompt/1546)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ba459cf8-790f-45d4-82f2-50351154ba4d/ccdf4b8c-ee13-4646-ad74-b4cd26231bf8-1785056489947 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ba459cf8-790f-45d4-82f2-50351154ba4d/844cfea4-8a3b-42ca-8a8a-1894b6b8be1d-1785056489947 "Video prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>"Punk rock music video, vertical, shot on a mix of shaky handheld and fisheye lens, fast chaotic editing with hard cuts on every beat, slight film grain and occasional frame flash. 20 seconds. Downtown Los Angeles, S Figueroa St, sunny midday, hard light, glass towers, crowd of onlookers.
-
-Subject: the Asian woman in the attached reference image, exact outfit and styling throughout, lit cigarette in her mouth in nearly every shot.
-
-0-3s: She rips a standing wheelie on a blue Yamaha dirtbike straight past camera, crowd screaming, whip-pan blur into —
-
-3-5s: Hard cut. Extreme fisheye close-up: she grabs the camera with one hand, yanks it to her face, and blows a thick cloud of smoke directly into the lens until the frame whites out with smoke.
-
-5-8s: Smoke clears into a new shot: she's in the middle of a hyped circle of dancers on the street, hitting loose confident hip-hop moves — shoulder bounces, a slow body roll, cigarette still in mouth — crowd hyping her up, everything cut in stuttering half-second beats.
-
-8-11s: Hard cut. Low angle: dirtbike sliding a donut around the camera, rear tire smoke mixing with her cigarette smoke, sunglasses catching sun flare each rotation.
-
-11-13s: Snap zoom: she's sitting side-saddle on the parked bike, deadpan, flicks ash toward the lens, tiny smirk. One-second hold, then frame flash.
-
-13-16s: Rapid montage, 3 quick cuts: (1) she pops a wheelie through a cloud of pink smoke-bomb haze, (2) she crowd-surfs on her back over raised hands, cigarette pointed at the sky, (3) she stands on the bike's seat balancing while it rolls slowly, arms crossed.
-
-16-20s: Final shot: slow-motion approximately 40% speed — she rides straight at camera, drops a wheelie inches from the lens, front tire filling frame, then hard cut to black on the last drum hit, one second of smoke drifting over black.
-
-Fast, cocky, chaotic energy. Every cut lands on the beat. Natural daylight grade with punchy contrast."</code></pre>
 
 </details>
 

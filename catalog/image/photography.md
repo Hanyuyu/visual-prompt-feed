@@ -1,9 +1,238 @@
 # Photography image prompts
 
-25 source-linked prompts, newest ImgLume records first.
+33 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cozy candid portrait of East Asian woman in Japanese café
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2081418473444683911)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [1598](https://imglume.com/prompt/1598)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0c0930aa-ab06-4f0e-a321-8bd82dc9bb53/eba4c768-64f9-4ba7-916f-66b370c231df-1785118271225 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0c0930aa-ab06-4f0e-a321-8bd82dc9bb53/1bc0e9c9-1977-4e73-b07b-feb192c23598-1785118271225 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cozy, candid close-up portrait of a young East Asian woman sitting inside a warm, intimate Japanese-style café or casual restaurant. She has long, naturally straight dark brown-black hair with soft layers and wispy curtain bangs framing her forehead. She wears oversized thick black rectangular eyeglasses, a simple loose cream-white oversized T-shirt, and a delicate minimal gold necklace.
+
+She is resting the side of her face gently against one hand, elbow placed on the table, with her fingers softly touching her cheek. Her head is slightly tilted, looking off to the side rather than directly at the camera, with a subtle dreamy expression, relaxed eyes, natural lips, and a faint soft smile.
+
+In the foreground, a black ceramic bowl filled with Japanese ramen/noodle soup sits on the wooden table, partially visible at the bottom of the frame, with a white ceramic spoon resting beside it. Warm ambient indoor lighting, soft tungsten tones, intimate café atmosphere, beige textured wall and dark wooden paneling in the background, subtle framed Japanese signage on the wall.
+
+Photography style: authentic candid smartphone photograph, natural skin texture, realistic facial details, soft warm color grading, shallow depth of field, gentle background blur, slightly grainy low-light aesthetic, understated Japanese lifestyle photography, cozy and nostalgic mood. Eye-level camera angle, medium close-up framing, vertical 4:5 composition, subject filling most of the frame, realistic proportions, no heavy makeup, no beauty filter, photorealistic, highly detailed.
+
+Negative prompt:
+
+cartoon, anime, illustration, plastic skin, excessive makeup, overly smooth face, distorted hands, extra fingers, deformed glasses, asymmetrical eyes, unrealistic hair, overexposed skin, harsh lighting, excessive bokeh, artificial pose, text, watermark, social media UI, low resolution.</code></pre>
+
+</details>
+
+## Ultra-realistic vertical portrait of woman with hibiscus at golden hour beach
+
+- **Original source:** [@NattyWindstorm on X](https://x.com/NattyWindstorm/status/2081480206267920515)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `photography`
+- **ImgLume record:** [1597](https://imglume.com/prompt/1597)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aa48b247-7af1-4c51-ac7e-88a5e8a34df9/ef97e803-f1ca-45b9-ae88-b5dfd1ad72de-1785116246529 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/aa48b247-7af1-4c51-ac7e-88a5e8a34df9/22d4d000-ed61-447b-987c-a5005ac95798-1785116246529 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "prompt": "Ultra-realistic vertical 9:16 close-up portrait of an adult woman posing beside a tropical beach at golden-hour sunset. She has long, thick, naturally wavy copper-red hair with softly glowing flyaway strands, pale porcelain skin with clearly visible natural freckles and pores, and striking blue-gray eyes looking directly into the camera. A large vibrant yellow hibiscus flower is tucked above her right ear, accompanied by delicate dangling gold flower earrings. She lightly holds the hibiscus with her raised right hand while her left hand rests gently against her upper chest near the dress strap. Her expression is calm, confident, and softly alluring, with her face angled only slightly while maintaining direct eye contact. She wears a yellow floral sundress with thin spaghetti straps and a deep V-neckline, decorated with warm orange, cream, and brown tropical flowers. Her makeup is polished and visibly pigmented: peach-coral blush swept across the cheeks, luminous champagne highlighter, terracotta and peach eyeshadow, precise brown winged eyeliner, defined curled lashes, softly filled natural brows, subtle inner-corner shimmer, and glossy peach-nude lips. Preserve authentic skin details, including fine facial hairs, freckles, pores, and subtle sunlit texture without airbrushing. The background shows a softly blurred tropical shoreline, glowing ocean reflections, a low setting sun, warm clouds, and silhouetted palm trees. Strong amber backlighting produces a radiant golden halo around her hair, balanced by soft frontal illumination that keeps her facial features crisp and evenly exposed. Eye-level camera angle, intimate head-and-upper-torso framing, shallow depth of field, creamy bokeh, rich warm sunset tones, sharp focus on the eyes and skin, realistic premium iPhone portrait quality, natural UGC lifestyle photography, not cinematic, no text or watermark.",
+ "negative_prompt": "child, underage appearance, plastic skin, excessive beauty filter, waxy face, overly smooth skin, fake freckles, distorted facial features, asymmetrical eyes, crossed eyes, blurry eyes, malformed hands, extra fingers, missing fingers, fused fingers, extra limbs, duplicate flower, duplicate earrings, incorrect jewelry, artificial hair, oversaturated orange skin, harsh facial shadows, blown highlights, low resolution, motion blur, CGI, 3D render, illustration, cartoon, text, logo, watermark",
+ "aspect_ratio": "9:16",
+ "style": "photorealistic tropical lifestyle portrait",
+ "composition": {
+ "camera_angle": "eye-level and nearly straight-on",
+ "framing": "tight head-and-upper-torso portrait",
+ "pose": "right hand gently holding the hibiscus beside her ear, left hand resting near her collarbone",
+ "expression": "soft, poised expression with direct eye contact"
+ },
+ "camera": {
+ "device_style": "premium iPhone portrait photography",
+ "lens_equivalent": "75mm portrait lens",
+ "aperture": "f/1.8",
+ "focus": "tack-sharp eyes and facial details",
+ "depth_of_field": "shallow with smooth natural bokeh"
+ },
+ "lighting": {
+ "time": "golden hour at sunset",
+ "key_light": "soft warm frontal fill",
+ "backlight": "intense amber sunlight behind the subject",
+ "effect": "glowing hair rim light, luminous skin, and warm ocean reflections"
+ },
+ "color_grade": "warm tropical gold, honey yellow, copper, peach, and soft coral with natural skin tones"
+}</code></pre>
+
+</details>
+
+## Y2K street photography portrait of a cheerful young woman
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2081410514182435158)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [1593](https://imglume.com/prompt/1593)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b08ff610-13a9-4b1d-9b7d-f5d13418f267/499a2c6e-f6eb-4a50-bd48-bc2840fd4286-1785107772042 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b08ff610-13a9-4b1d-9b7d-f5d13418f267/de9b64fb-af31-446e-8b7d-443863a6541a-1785107772042 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b08ff610-13a9-4b1d-9b7d-f5d13418f267/89bd9be6-589b-4015-97fa-fbfc0e431a35-1785107772042 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b08ff610-13a9-4b1d-9b7d-f5d13418f267/d29ba987-3cfe-4a39-9d38-934a9ea00349-1785107772042 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A candid Y2K street photography portrait of a cheerful young woman with a short messy bob haircut, laughing naturally while flashing a peace sign directly toward the camera, her outstretched hand dominating the foreground with dramatic perspective distortion, playful carefree expression, hair blowing wildly in the wind, captured on a quiet Japanese residential street, nostalgic early-2000s aesthetic, handheld snapshot feel, imperfect composition, shallow depth of field with soft foreground blur, dynamic motion blur from movement, dreamy cinematic softness, warm sepia-green film tones, faded Kodak Portra 400 / Fujifilm Superia look, subtle film grain, blooming highlights, vintage point-and-shoot camera flash mixed with soft overcast daylight, authentic analog photography, low contrast, muted earthy colors, spontaneous slice-of-life moment, cozy nostalgic atmosphere, emotional documentary style, imperfect focus, natural skin texture, 35mm film, disposable camera aesthetic, 28mm wide-angle lens, f/2.8, close-up portrait, ultra-realistic, highly detailed, editorial photography.</code></pre>
+
+</details>
+
+## Young East Asian woman kneeling on a messy white bed, photorealistic portrait
+
+- **Original source:** [@ToroJushiAi on X](https://x.com/ToroJushiAi/status/2081379008768540700)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [1590](https://imglume.com/prompt/1590)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fa76b78d-44ac-4c91-b468-23bf46c58b2c/5c69e289-1b54-40d3-a468-e04fc9d6e156-1785101478788 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fa76b78d-44ac-4c91-b468-23bf46c58b2c/3a4f23b4-a621-4fc8-8c65-f7e48a6ec3b3-1785101478788 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>一位年轻成年东亚女性跪坐在凌乱的白色床铺上，画面从头顶拍至小腿附近。人物位于中央，身体略微侧向画面左侧，双腿折叠在身下，髋部自然偏向一侧；上半身微微前倾，双手支撑在床面和杂志附近。她正面望向镜头，眼神安静、直接、略带迟疑感，嘴唇自然微启，姿态松弛而非刻意摆拍。 她有柔和鹅蛋脸、杏仁形深棕眼睛、自然细眉、纤细鼻梁和浅珊瑚粉嘴唇。妆容清淡，皮肤白皙偏暖，保留毛孔、细小绒毛、轻微雀斑、自然肤色变化和真实皮脂高光，禁止塑料磨皮。 深棕黑色头发松散扎成低马尾或凌乱低发髻，薄刘海与大量碎发垂在额头、脸颊、耳侧和颈部，呈现略微潮湿或刚起床般的自然状态。 她穿奶油白色细肩带罗纹吊带上衣，深V交叠领口带细小蕾丝花边，面料柔软贴身并有自然褶皱；下身穿深酒红色简洁内裤。整体是含蓄的居家内衣造型，不使用夸张透明材质。 环境为小型艺术学生卧室：暖米色旧墙面，墙上随意贴满杂志内页、人物摄影、剪报和拍立得；白色床单与枕头略显凌乱，床上散放杂志、照片与一件酒红色布料，后方放置一台黑色复古相机。房间有真实使用痕迹，但不脏乱。 傍晚金色阳光从画面左侧窗户斜射进入，在墙面、床铺、脸部、肩膀和腿部形成矩形光斑与长阴影。整体暖金、米白、酒红和肤色调，低饱和、中等反差，高光明亮但不过曝。 摄影风格：35mm或50mm镜头，略高机位轻微俯拍，f/2，浅景深，真实皮肤、棉质罗纹、床单与纸张纹理，轻微ISO 400数码颗粒，生活化快照与日系写真结合，photorealistic。 避免： 未成年人特征、裸体、露点、色情动作、CG、动漫、过度磨皮、夸张身体比例、错误手指、畸形腿脚、僵硬姿势、强HDR、过锐化、复制人物、可读文字、水印、Logo。</code></pre>
+
+</details>
+
+## Photorealistic portrait of Natalie Portman in gold outfit
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2081388847447826439)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `photography`
+- **ImgLume record:** [1582](https://imglume.com/prompt/1582)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4cf11ff2-d264-47bf-90c6-f683d98944d3/2ce8457a-fbed-4a92-a7f4-ec8dc3b4c4e8-1785086814328 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4cf11ff2-d264-47bf-90c6-f683d98944d3/6a803ac1-058d-44ca-bcb8-8de656cfec9a-1785086814328 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4cf11ff2-d264-47bf-90c6-f683d98944d3/662bf88c-9bdc-47dd-9502-b836a4820d74-1785086814328 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4cf11ff2-d264-47bf-90c6-f683d98944d3/a8cdc476-a128-489d-aeeb-bb20bf85ff31-1785086814328 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "subject": {
+ "description": "A beautiful young woman Natalie Portman with fair skin, long wavy blonde hair styled in a high messy bun with bangs, and striking blue eyes. She has a curvaceous figure with prominent cleavage.",
+ "pose": "Leaning against a wall, one hand raised touching her hair, looking at the camera with a soft, confident expression.",
+ "clothing": {
+ "main": "Shiny metallic gold deep V-neck halter top and cream-colored short latex skirt with red stockings.",
+ "modifications": "Add a small, elegant 'Keor' embroidery in refined script on the border or neckline of her purple top, subtly visible."
+ }
+ },
+ "setting": {
+ "environment": "Indoor space with a plain concrete wall and stairs visible in the background.",
+ "lighting": "Soft, natural indoor lighting creating gentle highlights on her skin and the shiny fabric."
+ },
+ "style": {
+ "photography": "Realistic, high-resolution fashion portrait with excellent detail on hair, skin, and the metallic fabric texture.",
+ "mood": "Confident, glamorous, and intimate.",
+ "composition": "Medium close-up focusing on the upper body and face."
+ },
+ "full_prompt": "Photorealistic portrait of a beautiful blonde woman with hair in a messy bun, wearing a shiny metallic gold deep V-neck top and cream pants. She leans against a wall with one hand in her hair, looking at the camera. Add small elegant 'Keor' embroidery on the border of her top. Soft indoor lighting, highly detailed hair, skin, and fabric textures."
+}</code></pre>
+
+</details>
+
+## Photorealistic 3:4 portrait of a girl in Y2K outfit beside vintage door with Apple Music card
+
+- **Original source:** [@mehvishs25 on X](https://x.com/mehvishs25/status/2081212727398183337)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [1577](https://imglume.com/prompt/1577)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a8009a46-71a6-478f-9539-553f5924dbbc/37fdc061-4637-4e94-af77-7a731ea6149b-1785080515506 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a8009a46-71a6-478f-9539-553f5924dbbc/88ce6382-b3c9-4a59-ae5a-5daef5577a56-1785080515506 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the provided reference image. Preserve the girl's facial identity exactly as shown in the reference image. Do not alter her facial structure, proportions, eye shape, nose, lips, jawline, skin texture, or any defining facial features. She must be instantly recognizable as the same person in the reference. Only change her pose, outfit, hairstyle, and environment as described below.
+Create a 3:4 portrait photo captured with a smartphone from an eye-level perspective. The girl is standing beside a dark brown vintage door. In the background, place a rounded-corner Apple Music player card displaying the track "Babydoll" by Dominic Fike. She is partially covering the music card while posing naturally in a relaxed editorial stance, gently touching her headphones with both hands. Her expression is calm, confident, and effortless.
+Style her hair in large, soft, polished waves with face-framing front strands. Her makeup features thin black winged eyeliner applied only to the outer corners, fox-effect false eyelashes, full lips with a brown lip liner and glossy pink lip combo, matte skin with expertly blended contour, and naturally defined brows. Keep her long, light-coloured stiletto-shaped nails clearly visible.
+She is wearing a Y2K-inspired outfit consisting of an oversized cropped white graphic T-shirt with wide elbow-length sleeves, fitted at the waist to flatter her silhouette, paired with a voluminous very dark navy denim mini skirt worn low on the hips. She wears matching dark navy over-ear headphones, white leg warmers, tall black slouchy boots, and silver earrings, rings, and bracelets.
+Maintain the exact facial likeness from the reference image. Do not modify her face in any way.
+Shot on a smartphone with natural lighting, realistic depth, ultra-sharp focus, rich textures, photorealistic skin detail, editorial-quality composition, and extremely high-detail 8K realism.</code></pre>
+
+</details>
+
+## Ultra-realistic iPhone portrait of kneeling woman with motion blur
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2081241503977103515)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [1568](https://imglume.com/prompt/1568)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c28224c7-69cd-4b68-be81-63e94a91f7bc/5b8febd4-5fb2-4090-a9ca-b2622c228214-1785076338915 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c28224c7-69cd-4b68-be81-63e94a91f7bc/66f64a15-4883-4080-a2e3-27320bc3abad-1785076338915 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Do not change the woman's face. Preserve 100% facial identity, facial features, facial proportions, eye shape, nose, lips, eyebrows, skin tone, hair color, and overall appearance exactly as the reference.
+
+Ultra-realistic iPhone 17 Pro Max photo, warm faded film-style color grading, candid lifestyle moment. Camera at standing eye level about 3 meters from the subject, straight-on angle, slightly elevated looking down.
+
+The woman is kneeling, sitting back on her heels on a white fabric blanket spread over tall grass. Her torso is turned three-quarters toward the camera. At the exact moment the shutter is released, she abruptly turns her head to the side as if reacting to someone calling her name. The fast head movement creates natural motion blur across her face, jawline and hair while her face remains clearly recognizable. Her gaze shifts away from the basket during the movement instead of looking directly at the camera.
+
+One arm extends naturally to the side for balance with relaxed fingers, while the other hand reaches toward a piece of fruit on the blanket. The body, hands, blanket, basket and surrounding objects remain sharp, emphasizing that only the head is moving.
+
+Her hair is worn down, long and straight with soft waves and side-swept bangs framing the face. The quick head turn and gentle breeze send several strands into realistic motion trails with soft blur.
+
+She wears a white sleeveless mini dress with a ruched bodice, tie-front detail at the bust, and a short flared skirt. A thin ankle bracelet is visible on one leg.
+
+Makeup: soft natural glam, warm terracotta blush, glossy coral-red lips. Realistic skin with visible pores, subtle peach fuzz, natural texture, no beauty filter, no plastic skin.
+
+A wicker basket filled with fresh white daisies and fruit sits beside her. The basket, flowers and fruit remain crisp and detailed, becoming the visual anchor of the frame.
+
+Lighting: warm hazy midday sunlight with a soft atmospheric glow, slightly desaturated warm film colors, gentle shadows beneath the subject, natural highlights on the dress, fruit and flowers.
+
+Background: tall green wild grass fills the entire frame edge to edge, scattered wildflowers in the foreground, no sky visible. Authentic 35mm film look, fine film grain, subtle digital noise, handheld iPhone photography, candid captured moment, realistic motion blur from a fast head turn, natural lens imperfections, muted cinematic colors.
+
+--ar 9:16 --raw --style motion 50
+
+Manicure: short square French manicure.</code></pre>
+
+</details>
+
+## Ultra-realistic selfie-style fashion portrait of Ana de Armas
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2081340211842150550)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [1564](https://imglume.com/prompt/1564)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/62cd38b4-2c38-40e6-a0e3-8a191d569a27/133fae45-1908-4f87-8066-f848161cc185-1785072080527 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/62cd38b4-2c38-40e6-a0e3-8a191d569a27/c5b484f3-ecfd-4b76-a414-ad263eb81caf-1785072080527 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/62cd38b4-2c38-40e6-a0e3-8a191d569a27/90fbd010-59b1-4811-9bfd-141fdd4bc3cc-1785072080527 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/62cd38b4-2c38-40e6-a0e3-8a191d569a27/c13e9562-fb63-42f2-b168-ac55015d6a82-1785072080527 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic selfie-style fashion portrait of a young woman ana de armas posing confidently indoors against a clean cream-colored wall background with a enchanting painting flopr to ceiling about lovers by Delacroix . The image is captured from a close-up wide-angle smartphone perspective with one arm extended toward the camera, creating a natural POV selfie composition. The camera is positioned slightly below face level and angled upward, producing subtle perspective distortion that emphasizes the upper body while maintaining realistic proportions.
+
+The woman is wearing a fitted Hot white one-piece swimsuit with thin spaghetti straps, a deep V-neckline, smooth stretch fabric, and a sleek minimalist design. The swimsuit contours naturally to the body with realistic fabric tension and soft folds around the waist and torso and a small sign ‘Keor’ embroidered on border.
+
+She is leaning forward slightly with her shoulders drawn back, creating an elegant S-curve posture. One arm extends toward the camera as if holding a phone just outside the frame. Her head is tilted slightly backward and to the side, chin raised, conveying confidence and effortless glamour.
+
+Facial expression is soft and flirtatious, featuring half-lidded eyes, relaxed brows, slightly puckered glossy lips, and a subtle confident smirk. Direct engagement with the camera, calm and self-assured mood. A few loose strands of hair fall naturally across the face, adding movement and realism.
+
+Long hair styled in a casual high ponytail with soft face-framing strands. Smooth luminous skin with realistic texture, faint freckles across the cheeks and nose, natural makeup, winged eyeliner, defined lashes, softly contoured cheeks, hydrated glossy lips, and delicate silver hoop earrings. Minimal jewelry with a thin necklace resting naturally on the collarbone.
+
+Soft natural daylight illumination from a nearby window, warm neutral color grading, gentle shadows, smooth skin highlights, realistic light falloff, bright indoor atmosphere, clean background free of distractions.
+
+High-end lifestyle photography, ultra-realistic anatomy, natural body proportions, detailed skin texture, sharp focus on face and eyes, shallow depth of field, smartphone camera realism, 35mm equivalent lens, HDR, photorealistic, fashion-editorial quality, ultra-detailed, 8K resolution, professional color grading, crisp details, realistic hair strands, natural skin pores, no watermark, no text, no blur, no extra limbs.</code></pre>
+
+</details>
 
 ## Ultra-luxury fashion editorial in floating glass frames museum
 

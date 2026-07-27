@@ -1,9 +1,96 @@
 # Character video prompts
 
-2 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Playful retro detective fashion short
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2081285643242770795)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1573](https://imglume.com/prompt/1573)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9785cb5c-5314-411d-9941-02e1a989986e/527471e7-e378-4447-9d6c-49c892ab51b7-1785080482703 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15 second, 16:9 photorealistic fashion short with the tone of a playful retro detective film: “fashion crimes” witnessed on a real city street. Keep every face, body, hairstyle and outfit consistent within each character’s shot. Four stylish adult women, all distinct.
+
+0.0–2.2s CALL: extreme macro inserts of a scratched cream public payphone outdoors. A ringed hand lifts a heavy black receiver; the coiled cord flexes naturally. Cut to an intimate crop of a woman’s mouth and jaw as she speaks, then an even tighter detail of the worn glossy handset. 50–85mm macro feel, shallow depth of field, tiny handheld breathing, imperfect focus settling, visible skin texture, chipped paint, fingerprints and dust.
+
+2.2–5.0s SUSPECT 1: hard cut to a narrow old-city pavement. A slim woman with short copper-brown hair walks confidently in a dark tailored suit: cropped double-breasted blazer, crisp pale shirt extending below it, long light tie, relaxed wide-leg trousers, pointed black shoes, structured black handbag. Start medium frontal, then side profile as she passes aged stone and muted red façades. Camera operator walks backward with subtle bob and real parallax.
+
+5.0–7.8s SUSPECT 2: dark-haired woman passes a stone townhouse holding takeaway coffee. She wears deliberate over-layering: black turtleneck, pale shirt, oversized grey layers tied at the waist, dark leather jacket, loose charcoal trousers. Alternate waist-up tracking with a close detail of sleeve, hand and cup. Hair catches a light breeze; the cup shifts naturally with her stride.
+
+7.8–10.5s SUSPECT 3: young woman with sleek dark bob and large silver over-ear headphones strides through a weathered passage. Oversized blue-grey plaid blazer, huge matching scarf across her shoulders, extremely wide dark trousers with deep cuffs, oversized black tote. Low insert on trouser hems and shoes, then chest-up tracking as she adjusts the scarf. Background walls show faded posters, worn paint and real street grime.
+
+10.5–12.7s SUSPECT 4: elegant dark-haired woman in a muted teal satin backless halter top and matching fitted midi skirt walks beside pale stucco and black iron railings. Begin from behind to reveal the open back and narrow neck tie, then cut to a three-quarter frontal medium shot. Satin reflects daylight softly; shoulders and hair move naturally.
+
+12.7–15.0s PAYOFF: rapid editorial cuts reveal all four women separately against a simple police-lineup-style height wall, each holding a small black placard, deadpan and self-assured. Finish on the payphone receiver swinging slightly on its cord after release, settling toward frame edge. No readable text on placards or screens.
+
+VISUAL LANGUAGE: authentic street-fashion editorial mixed with retro crime caper photography. Warm cream skin tones, dusty reds, charcoal, muted teal and blue-grey; soft daylight, restrained contrast, slightly faded blacks, subtle halation, fine 35mm grain. 24fps, natural 180° shutter blur. Mostly 35mm handheld street shots with 50–85mm tactile inserts. Real lens breathing, minor exposure adaptation, occasional foreground occlusion and slight rolling-shutter wobble on quick reframes. Avoid gimbal smoothness, warped hands, floating fabric, plastic skin, impossible reflections, duplicated pedestrians, excessive bokeh or synthetic slow motion.
+
+MUSIC / SOUND: 15-second instrumental retro crime-caper groove around 108 BPM: brushed drums, dry upright bass, muted electric guitar, light vibraphone and one playful brass accent. Layer payphone clicks, receiver clack, cord creak, footsteps, fabric rustle and distant city ambience. No vocals; end with a clean receiver click.</code></pre>
+
+</details>
+
+## 顔面高速モーフィングのグリッチ映像プロンプト
+
+- **Original source:** [@Ushizaru_LAB on X](https://x.com/Ushizaru_LAB/status/2081258810405175362)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`
+- **ImgLume record:** [1567](https://imglume.com/prompt/1567)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/64f4c115-d147-4df2-b25e-852a073ca0cc-1785076308528 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/b3703d16-565f-4f87-9c80-9963da2dad84-1785076308528 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>ストップモーションのようなリズミカルな接近の後、顔の造形が変わることも厭わず、3DCG・実写・2000年代アニメ・ドット絵などの全く異なる次元（2D⇔3D）を激しく往復するグリッチ映像。最後はブラウザクラッシャー的な画面崩壊で終わる。
+映像コンセプト：滑らかなカメラ移動を完全に排除し、「パッ！パッ！パッ！」というリズムでカメラが段階的に顔へ接近（ジャンプカット）する。接近後、少女の顔は「元の顔立ち」を保つ必要はない。画面全体を巻き込んで、立体的な3DCG、生々しい実写、2000年代風のアニメ美少女、平面的なレトロドット絵といった「全く異なる絵柄と次元（2D⇔3D）」へと、ハードカットで何度も激しくすり替わり（往復し）続ける。
+カメラと編集方針：【超重要：滑らかな変化やズームインは絶対NG。コマ撮りのようなジャンプカットでの接近と、別次元の絵柄への「完全な切り替え」によって構成すること。】
+0.0〜3.0秒：【ストップモーション接近】1枚目の映像からスタート。カメラが滑らかに近づくのではなく、0.5秒間隔の一定のリズムで「パッ！パッ！パッ！パッ！」と段階的に顔へ向かってジャンプカットして迫っていく。各カットが切り替わる瞬間、強烈な色収差（RGBズレ）のノイズが走る。
+3.0〜8.0秒：【次元崩壊・絵柄の完全すり替え】顔のドアップ状態に到達。ここから、顔の造形が変わることも構わず、映像のレンダリングスタイル自体が0.5秒〜1秒単位でバチバチと切り替わり（往復し）続ける。「立体ポリゴン的な3DCG」→「超高精細な実写の人間」→「2000年代風のセル画アニメの美少女キャラクター（2D）」→「真っ平らなレトロドット絵（2D）」というように、3Dと2Dの次元を跨いだ全く別の絵柄へと、フラッシュを伴って強制的にすり替わる。
+8.0〜10.0秒：【ブラクラ的崩壊エンド】激しい絵柄の往復が処理限界を超え、映像が完全に崩壊する。顔の映像を下敷きにして、その上に「大量のエラーウィンドウ」「異なる映像表現の動画パネル」「極彩色のブロックノイズ」がブラクラ（ブラウザクラッシャー）のように多層レイヤーで無秩序にポップアップし続ける。画面全体がバグ動画コラージュで完全に埋め尽くされ、元の映像の形を一切留めないカオス的崩壊画面となる
+制約：中盤の絵柄の変化において、「元の顔のシルエットを保とうとする滑らかな変化」は絶対に不要。造形が変わってもよいので、「立体（3D）」と「平面（2D）」、そして「実写」「2000年代アニメ」という、次元の異なるレンダリングスタイルへの『完全なハードカット（すり替え）』を何度も激しく繰り返すこと。</code></pre>
+
+</details>
+
+## Cinematic restaurant bill split scene
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2081342170070663307)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1563](https://imglume.com/prompt/1563)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3d336f3e-6ae2-4b8d-a3f9-d58016911629/5645dcb0-57b6-4696-b29c-38360336c365-1785072070111 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Part 1 (0–15 seconds)
+Cinematic close-up establishing shot inside an elegant, dimly lit Parisian fine-dining restaurant. Dark wood paneling, crystal chandeliers, candlelit marble tables, and mirrors reflecting warm ambient light. A handsome man in his early 30s with dark hair, wearing an open-collar white linen shirt, sits across from a stunning blonde woman in a fitted black low-cut dress. A young waiter in a crisp white shirt and black bowtie approaches and places a black leather bill folder on the table, saying, “Your bill, sir.”
+
+The man opens the folder and examines the long receipt showing a total of €217.40. He calmly pulls out a white calculator, types in the numbers, then looks up at the woman with a slight smile and says, “So, shall we split it?”
+
+The woman freezes mid-sip of her red wine, her eyes widening in surprise. The camera holds on her reaction as the intimate restaurant ambience continues. Warm golden lighting, shallow depth of field, realistic film grain, cinematic 24fps style.
+
+---
+
+Part 2 (15–30 seconds)
+The blonde woman slowly lowers her wine glass, staring at the man with a mix of disbelief and quiet amusement. She reaches into her black handbag, takes out a gold credit card, and hands it to the waiter as he returns with the payment terminal.
+
+The man watches in stunned silence, his mouth slightly open. The terminal beeps with a green confirmation light as the full bill is paid. She stands gracefully, adjusts her dress, looks back at him with an unreadable smile, and says, “Don’t lose your calculator.”
+
+She walks away through the elegant restaurant while the waiter hides a smile. The man remains seated, staring after her, completely caught off-guard. The camera smoothly follows her exit, then slowly pulls back to reveal the luxurious dining room, flickering candles, soft background chatter, and the man sitting alone with the calculator still open. Rich contrast, fashion-film aesthetic, natural skin texture, realistic mot</code></pre>
+
+</details>
 
 ## Photorealistic 15‑second waterpark to haunted house cinematic clip
 

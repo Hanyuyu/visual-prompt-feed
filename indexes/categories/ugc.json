@@ -3,13 +3,14 @@
   "facet": "category",
   "value": "ugc",
   "label": "UGC",
-  "count": 2,
+  "count": 3,
   "mediaTypes": {
     "image": 0,
-    "video": 2
+    "video": 3
   },
   "ids": [
     "byradar:2081057085077459251:0",
-    "byradar:2081049685792571548:0"
+    "byradar:2081049685792571548:0",
+    "byradar:2081278733479272524:0"
   ]
 }

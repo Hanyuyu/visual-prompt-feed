@@ -1,17 +1,16 @@
 {
   "schemaVersion": "imglume.open-prompts.v1",
   "facet": "category",
-  "value": "architecture",
-  "label": "Architecture",
-  "count": 4,
+  "value": "animation",
+  "label": "Animation",
+  "count": 3,
   "mediaTypes": {
-    "image": 2,
-    "video": 2
+    "image": 0,
+    "video": 3
   },
   "ids": [
-    "byradar:2080966563256222070:0",
-    "byradar:2081004359002067435:0",
     "byradar:2081092692340330955:0",
+    "byradar:2081258810405175362:0",
     "byradar:2081371164728041980:0"
   ]
 }

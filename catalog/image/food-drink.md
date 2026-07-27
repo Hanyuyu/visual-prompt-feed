@@ -1,9 +1,46 @@
 # Food Drink image prompts
 
-1 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cozy Taiwanese Meal Food Photography Prompt
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2081228498082083323)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1575](https://imglume.com/prompt/1575)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/950b5fc3-970a-47a0-8443-164c103194a5/835ca44c-9aab-4142-bfe0-a42b3294b50f-1785080491350 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/950b5fc3-970a-47a0-8443-164c103194a5/108b2756-5ed2-44ba-9162-4e913d6af3c8-1785080491350 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cozy restaurant table filled with a vibrant Taiwanese meal, shot in warm natural lighting. A large bowl of braised beef noodle soup with wide noodles, tender beef chunks, bok choy, and green onions sits in the foreground. Surrounding dishes include a bowl of rice topped with raw egg yolk, seaweed, kimchi, and chopped vegetables; a plate of Taiwanese fried chicken and tofu with greens; stir-fried water spinach with garlic; and a small dish of marinated vegetables. A tall elegant glass dessert with shrimp salad layered inside stands in the center. Wooden table surface, ceramic bowls, and a teapot in the background create a homely aesthetic. Handwritten-style Chinese text annotations and doodles are scattered around the dishes, adding a playful, lifestyle-blog feel. Soft depth of field, warm tones, high detail, food photography style.</code></pre>
+
+</details>
+
+## Japanese Bento Top-Down Food Photography Prompt
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2081228498082083323)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1574](https://imglume.com/prompt/1574)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3313cf82-38f2-44b1-a020-7fc4e0907e93/c75a0ad7-57dd-4a2f-acae-abf8d1da009e-1785080491350 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3313cf82-38f2-44b1-a020-7fc4e0907e93/f0ea300b-63d6-4988-8bcc-7ae2fb1e83c2-1785080491350 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>2.A top-down view of a neatly arranged Japanese bento box on a wooden table. The bento is a black lacquered box with red interior compartments. Inside are golden-brown crispy karaage (Japanese fried chicken), plump mutton gyoza dumplings, fluffy white rice topped with colorful furikake seasoning, neatly sliced tamagoyaki (Japanese rolled omelette), and bright red fukujinzuke pickles in the center.
+The scene has a warm, cozy aesthetic with soft natural lighting. Hand-drawn doodles and annotations in white are overlaid around the food, including hearts, sparkles, arrows, and handwritten Japanese and English labels describing each item. The style feels playful, cute, and slightly scrapbook-like, as if it’s a social media food post.
+Text elements include casual handwritten fonts, with phrases like “Today’s home bento,” and small notes describing texture and taste. Steam lines rise from the hot karaage, emphasizing warmth and freshness.
+Highly detailed food textures, vibrant colors, aesthetic composition, Instagram-style food photography, cozy lifestyle vibe, Japanese convenience store-inspired bento.</code></pre>
+
+</details>
 
 ## Ultra-Premium 2x2 Four-Panel Western Fine-Dining Campaign Poster
 

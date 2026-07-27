@@ -1,9 +1,26 @@
 # Illustration 3d image prompts
 
-1 source-linked prompts, newest ImgLume records first.
+2 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Macro close-up 3D render of modular tech housing with gear mechanisms and wireframe diagram
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2081390332629930023)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [1587](https://imglume.com/prompt/1587)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c34a8d5-5d55-4ff4-b201-55ed79cd00f7/e90903fb-a363-4a39-9713-061de2e31f2d-1785095164941 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3c34a8d5-5d55-4ff4-b201-55ed79cd00f7/94c571e7-7784-4fc2-aabb-3f262918ced4-1785095164941 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/3c34a8d5-5d55-4ff4-b201-55ed79cd00f7/482558b7-86ca-49e3-b9f5-bd2e185b031e-1785095164941 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/3c34a8d5-5d55-4ff4-b201-55ed79cd00f7/1cdd3015-934a-4895-a0a6-ecb6a36bc475-1785095164941 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>macro close-up 3D render of an intricate white hexagonal modular tech housing opening to reveal exposed gunmetal watch-like gear mechanisms and a dark cylindrical turbine lens, dissolving on the left into a sparse technical wireframe network diagram with floating nodes and thin connecting lines, small annotated data labels on panel surfaces, clean bright white studio lighting, monochrome grey and chrome palette, shallow depth of field, patent-illustration meets product-design aesthetic, hyper-detailed engineering render, minimalist white background</code></pre>
+
+</details>
 
 ## The Helios Terraforming Carrier
 

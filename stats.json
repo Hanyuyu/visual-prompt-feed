@@ -1,43 +1,48 @@
 {
   "schemaVersion": "imglume.open-prompts.v1",
-  "generatedAt": "2026-07-26T12:46:17.415Z",
-  "total": 57,
+  "generatedAt": "2026-07-27T02:11:11.225Z",
+  "total": 88,
   "mediaTypes": {
-    "image": 30,
-    "video": 27
+    "image": 47,
+    "video": 41
   },
-  "authors": 35,
-  "sourcePosts": 57,
-  "mediaAssets": 119,
+  "authors": 44,
+  "sourcePosts": 87,
+  "mediaAssets": 185,
   "categories": {
+    "animation": {
+      "total": 3,
+      "image": 0,
+      "video": 3
+    },
     "architecture": {
-      "total": 2,
+      "total": 4,
       "image": 2,
-      "video": 0
+      "video": 2
     },
     "camera-moves": {
-      "total": 2,
+      "total": 5,
       "image": 0,
-      "video": 2
+      "video": 5
     },
     "character": {
-      "total": 2,
-      "image": 0,
-      "video": 2
+      "total": 6,
+      "image": 1,
+      "video": 5
     },
     "cinematic": {
-      "total": 22,
-      "image": 1,
-      "video": 21
+      "total": 32,
+      "image": 2,
+      "video": 30
     },
     "food-drink": {
-      "total": 2,
-      "image": 1,
-      "video": 1
+      "total": 5,
+      "image": 3,
+      "video": 2
     },
     "illustration-3d": {
-      "total": 1,
-      "image": 1,
+      "total": 2,
+      "image": 2,
       "video": 0
     },
     "nature": {
@@ -46,47 +51,48 @@
       "video": 1
     },
     "photography": {
-      "total": 25,
-      "image": 25,
+      "total": 33,
+      "image": 33,
       "video": 0
     },
     "poster-design": {
-      "total": 1,
-      "image": 1,
+      "total": 4,
+      "image": 4,
       "video": 0
     },
     "product-ads": {
-      "total": 2,
-      "image": 0,
-      "video": 2
+      "total": 5,
+      "image": 1,
+      "video": 4
     },
     "travel": {
-      "total": 2,
-      "image": 1,
+      "total": 3,
+      "image": 2,
       "video": 1
     },
     "ugc": {
-      "total": 2,
+      "total": 3,
       "image": 0,
-      "video": 2
+      "video": 3
     }
   },
   "recommendedModels": {
-    "gptimage": 24,
-    "nanobanana": 6,
-    "seedance": 27
+    "gptimage": 39,
+    "nanobanana": 8,
+    "seedance": 41
   },
   "sourceModels": {
-    "gptimage": 12,
+    "gptimage": 17,
     "grok": 1,
-    "nanobanana": 7,
-    "other": 27,
-    "seedance": 16
+    "nanobanana": 9,
+    "other": 51,
+    "seedance": 17
   },
   "languages": {
-    "en": 46,
-    "English": 1,
-    "unknown": 4,
-    "zh": 6
+    "en": 66,
+    "English": 5,
+    "ja": 1,
+    "unknown": 8,
+    "zh": 8
   }
 }

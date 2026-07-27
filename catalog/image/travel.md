@@ -1,9 +1,26 @@
 # Travel image prompts
 
-1 source-linked prompts, newest ImgLume records first.
+2 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Elegant handcrafted 3D paper quilling travel poster for {DESTINATION}
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2081306869503799549)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [1569](https://imglume.com/prompt/1569)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0d0d18e1-2993-49dc-93b2-504679d2783e/0877202c-6b65-4d4b-ab45-777df76e3133-1785078372219 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0d0d18e1-2993-49dc-93b2-504679d2783e/e1df9a9b-0663-4b8f-a2b4-5ec183fff9b1-1785078372219 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0d0d18e1-2993-49dc-93b2-504679d2783e/7cf1fa34-af1d-4dec-a160-3662c82fe7db-1785078372219 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0d0d18e1-2993-49dc-93b2-504679d2783e/1ad5ece3-3890-4d58-bdb6-eb1559273884-1785078372219 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an elegant handcrafted 3D paper quilling and layered papercraft travel poster for {DESTINATION} in the style of a premium vintage travel scrapbook. Artistically recreate the destination’s most iconic landmarks, architecture, landscapes, cultural symbols, bridges, streets, parks, monuments, and natural scenery using intricate paper quilling, precision paper cutouts, layered cardstock, embossed paper textures, rolled paper coils, and delicate handcrafted details. Arrange the landmarks into a cohesive, storybook-like composition with a sense of depth and perspective. Include charming local elements such as flowers, trees, waterways, mountains, traditional transportation, wildlife, or cultural motifs unique to the destination. Use warm golden-hour lighting, soft pastel skies, vibrant yet elegant colors, subtle shadows, and rich paper textures to enhance the handcrafted appearance. Add the destination name in large bold vintage travel-poster typography at the top. Highly detailed, premium craftsmanship, whimsical, colorful, nostalgic, editorial-quality travel art, ultra-high resolution, vertical poster composition.</code></pre>
+
+</details>
 
 ## Minimalist watercolor and ink urban sketch of Top of the Rock observation deck
 

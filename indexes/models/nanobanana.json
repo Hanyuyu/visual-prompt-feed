@@ -3,9 +3,9 @@
   "facet": "recommendedModel",
   "value": "nanobanana",
   "label": "Nano Banana",
-  "count": 6,
+  "count": 8,
   "mediaTypes": {
-    "image": 6,
+    "image": 8,
     "video": 0
   },
   "ids": [
@@ -14,6 +14,8 @@
     "byradar:2080986316477452535:0",
     "byradar:2081078247031181648:0",
     "byradar:2081162004245426665:0",
-    "byradar:2081038163494236378:0"
+    "byradar:2081038163494236378:0",
+    "byradar:2081388847447826439:0",
+    "byradar:2081480206267920515:0"
   ]
 }

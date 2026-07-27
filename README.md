@@ -20,24 +20,25 @@ under CC BY 4.0. ImgLume's original curation and dataset structure are CC BY
 4.0; original prompt text and source media are marked `NOASSERTION`.
 
 <!-- DATASET-STATS:START -->
-**57 prompts** from **57 source posts** and **35 authors**, with **119 source-media links**.
+**88 prompts** from **87 source posts** and **44 authors**, with **185 source-media links**.
 
-Last feed refresh: `2026-07-26T12:46:17.415Z`
+Last feed refresh: `2026-07-27T02:11:11.225Z`
 
 | Category | Image | Video | Total |
 | --- | ---: | ---: | ---: |
-| Architecture | [2](catalog/image/architecture.md) | 0 | 2 |
-| Camera Moves | 0 | [2](catalog/video/camera-moves.md) | 2 |
-| Character | 0 | [2](catalog/video/character.md) | 2 |
-| Cinematic | [1](catalog/image/cinematic.md) | [21](catalog/video/cinematic.md) | 22 |
-| Food Drink | [1](catalog/image/food-drink.md) | [1](catalog/video/food-drink.md) | 2 |
-| Illustration 3d | [1](catalog/image/illustration-3d.md) | 0 | 1 |
+| Animation | 0 | [3](catalog/video/animation.md) | 3 |
+| Architecture | [2](catalog/image/architecture.md) | [2](catalog/video/architecture.md) | 4 |
+| Camera Moves | 0 | [5](catalog/video/camera-moves.md) | 5 |
+| Character | [1](catalog/image/character.md) | [5](catalog/video/character.md) | 6 |
+| Cinematic | [2](catalog/image/cinematic.md) | [30](catalog/video/cinematic.md) | 32 |
+| Food Drink | [3](catalog/image/food-drink.md) | [2](catalog/video/food-drink.md) | 5 |
+| Illustration 3d | [2](catalog/image/illustration-3d.md) | 0 | 2 |
 | Nature | 0 | [1](catalog/video/nature.md) | 1 |
-| Photography | [25](catalog/image/photography.md) | 0 | 25 |
-| Poster Design | [1](catalog/image/poster-design.md) | 0 | 1 |
-| Product Ads | 0 | [2](catalog/video/product-ads.md) | 2 |
-| Travel | [1](catalog/image/travel.md) | [1](catalog/video/travel.md) | 2 |
-| UGC | 0 | [2](catalog/video/ugc.md) | 2 |
+| Photography | [33](catalog/image/photography.md) | 0 | 33 |
+| Poster Design | [4](catalog/image/poster-design.md) | 0 | 4 |
+| Product Ads | [1](catalog/image/product-ads.md) | [4](catalog/video/product-ads.md) | 5 |
+| Travel | [2](catalog/image/travel.md) | [1](catalog/video/travel.md) | 3 |
+| UGC | 0 | [3](catalog/video/ugc.md) | 3 |
 <!-- DATASET-STATS:END -->
 
 ## Browse the collection
