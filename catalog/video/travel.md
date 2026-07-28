@@ -1,9 +1,106 @@
 # Travel video prompts
 
-1 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Japan in 60 seconds cinematic travel video
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2081753705863434568)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [1662](https://imglume.com/prompt/1662)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/370869e9-352c-4d7f-a319-e560aaf48b67/c0c232f9-e5bf-4a5c-8290-07a92350df72-1785170781112 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 60 Seconds
+Aspect Ratio: 16:9
+Style: Ultra-realistic cinematic travel film, 4K HDR, IMAX-quality visuals, premium color grading, fast-paced editing, whip transitions, speed ramps, seamless match cuts, energetic music, no dialogue.
+
+Concept: Experience one unforgettable day in Japan through a fast-paced cinematic journey that feels like a movie rather than a vlog.
+
+Sequence
+
+0–5s | Hook
+
+Shibuya Crossing
+Tokyo Tower
+
+Neon streets
+Bullet train speeding past
+5–20s | Tokyo Life
+Vending machine
+
+Convenience store breakfast
+Arcade games
+
+Anime stores
+Gashapon capsules
+Sushi and ramen
+20–40s | Traditional Japan
+Kyoto temples
+Red torii gates
+
+Bamboo forest
+Matcha tea ceremony
+
+Cherry blossoms
+40–55s | Adventure
+Mount Fuji
+Bullet train
+Nara deer
+
+Scenic countryside
+55–60s | Finale
+
+Rainy neon streets
+Tokyo skyline at night
+Drone pullback over the city
+Ending Text: "See you again, Japan." 🇯🇵</code></pre>
+
+</details>
+
+## Candid Handheld Winter Walk in Moscow, 2003
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2081706884927783412)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `travel`
+- **ImgLume record:** [1650](https://imglume.com/prompt/1650)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bafc4d52-d952-4936-9bf0-e924258db39e/e7b27279-12ab-447d-a022-8878a4c6fb9c-1785162372955 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young Russian woman, early 20s, beautiful, porcelain pale skin with rosy cheeks and nose from the cold. Long wavy dark blonde hair under a grey fur ushanka hat. Deep burgundy fur-trimmed long coat, cream oversized wool scarf, cream wide-leg trousers, dark brown leather boots, warm brown structured leather handbag carried in one hand, dark burgundy leather gloves. Quiet, composed, elegant energy. Consistent identity, clothing, and appearance.
+
+Location: Moscow, Russia, winter 2003. Red Square transitioning into narrow residential streets. St. Basil's Cathedral domes visible through snowfall. Snow-covered pavements, Soviet-era building facades, dark shop windows, street kiosks, babushkas selling flowers on corners, old Soviet trams on tracks. Cold blue-grey overcast sky. Warm amber light bleeding from windows onto snow.
+
+Visual Style: Ultra-realistic, candid, unscripted. Genuine everyday behavior. Rich environmental detail. Cold blue-grey palette with warm pops of burgundy and amber. Snow falling throughout. Breath visible in cold air. Worn surfaces, authentic details. 24fps.
+
+Camera Style: Early 2000s consumer DV camcorder. Friend casually filming, reacting to her—catching moments late, losing her, finding her again. Handheld shake throughout, imperfect framing, autofocus hunting, exposure struggling between bright white snow and deep shadow, occasional motion blur, mild digital compression artifacts, faded colors, soft contrast, subtle sensor noise. No stabilization. No deliberate framing or cinematic composition. Camera feels accidental, not intentional.
+
+00:00–00:02 Red Square tram stop, St. Basil's Cathedral domes visible through falling snow. She's digging through her handbag looking for something. Old Soviet tram arrives noisily behind her. She looks up, realizes it's not her tram, goes back to her bag. Camera catches this slightly late, framing drifts.
+
+00:02–00:04 Street kiosk just off the square. She's fumbling to get coins out while holding one glove with her teeth, hands the babushka the coins, babushka passes her a small paper cup of hot tea. She wraps both hands around it. Transaction feels real and slightly awkward. Camera operator nearly misses it.
+
+00:04–00:07 Narrow street off the square. She stops at a frozen puddle, tests it with the toe of her boot. It cracks slightly. She steps around it and continues walking. Camera follows from behind, shaky, catching the moment slightly late.
+
+00:07–00:09 Passes a dark shop window, catches her reflection, stops without warning. Uses it as a mirror to adjust her ushanka hat, tucks a loose strand of hair underneath. Unaware of the camera. Satisfied, keeps walking. Camera almost walks into her.
+
+00:09–00:12 Street corner with elderly babushka selling small bunches of winter flowers. She stops, pulls her glove off with her teeth, fumbles for coins again, buys a small bunch. Tucks the flowers under her arm. Babushka smiles. She nods and moves on. Camera catches the exchange imperfectly, partially blocked.
+
+00:12–00:15 Walking down the snow-covered street, flowers under one arm, tea in the other hand. Old Soviet tram rattles past very close, wind knocks her ushanka hat sideways. She grabs it with her tea hand, nearly spills it, laughs to herself. Camera shakes from the tram passing. Cuts abruptly to black mid-laugh.
+
+Audio: Natural ambient sound only—light snowfall, distant Moscow traffic, boots crunching in snow, handbag rummaging, tram arriving, coins fumbling, hot tea cup, babushka voice, puddle cracking under boot, tram rattling past, wind, quiet laugh. No music. No narration.</code></pre>
+
+</details>
 
 ## Authentic MiniDV Handheld Travel Vlog on Coastal Cliff
 

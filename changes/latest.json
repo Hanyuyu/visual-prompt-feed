@@ -1,212 +1,391 @@
 {
   "schemaVersion": "imglume.open-prompts.v1",
-  "generatedAt": "2026-07-27T02:11:11.225Z",
+  "generatedAt": "2026-07-27T17:21:14.802Z",
   "summary": {
-    "added": 32,
+    "added": 63,
     "updated": 0,
-    "removed": 1
+    "removed": 0
   },
   "added": [
     {
-      "id": "byradar:2081342170070663307:0",
-      "imglumeId": 1563,
-      "title": "Cinematic restaurant bill split scene",
-      "revision": "f88b8f2e24a0c6687ceb47173075c4ccb3a9dddb035627ad4020f093204d3b4b"
+      "id": "byradar:2081429476274049465:0",
+      "imglumeId": 1596,
+      "title": "Hyper-realistic full-body studio portrait of Anne Hathaway",
+      "revision": "227b07c889aedc2363d27457ff28796c8c67da05e0a2791fcc35d9419244dee7"
     },
     {
-      "id": "byradar:2081340211842150550:0",
-      "imglumeId": 1564,
-      "title": "Ultra-realistic selfie-style fashion portrait of Ana de Armas",
-      "revision": "21a494497620bb005794fd13be55df9323ad49b94cab079403cedbe8154e4751"
+      "id": "byradar:2081469606749782500:0",
+      "imglumeId": 1599,
+      "title": "年轻东亚女性黑背景肖像",
+      "revision": "5cf9e4e87837eaa8438096e09965b8d36c74adc9495b703e33ef0ce449bd99d6"
     },
     {
-      "id": "byradar:2081288150308335651:0",
-      "imglumeId": 1565,
-      "title": "Luxury Watch Commercial – Ultra-Photorealistic 15‑Second Video",
-      "revision": "cf2a7948af10beca85cd3db690ade873d1017a53d69d628bd79430ef2be7f24e"
+      "id": "byradar:2081617461586333886:0",
+      "imglumeId": 1600,
+      "title": "Timeless late-1980s to early-1990s Japanese anime illustration style",
+      "revision": "4bec00e7f3d8f2b962406c50c5234d3e8bf0da2013d663fac5f6fd82ab49b926"
     },
     {
-      "id": "byradar:2081092692340330955:0",
-      "imglumeId": 1566,
-      "title": "15-second architectural assembly video of Yellow Crane Tower",
-      "revision": "03f708202418674b3b779329d0bbb0405a5cfc9839709f72f8cf5e09a7c86d52"
+      "id": "byradar:2081409208495300782:0",
+      "imglumeId": 1601,
+      "title": "东亚女性高档酒店卧室写实肖像",
+      "revision": "d91b357ff7e1a1f8c7dcc2fccff64bf0816fe17739ed4a9957ce71f6911fa528"
     },
     {
-      "id": "byradar:2081258810405175362:0",
-      "imglumeId": 1567,
-      "title": "顔面高速モーフィングのグリッチ映像プロンプト",
-      "revision": "1e6c0eb4a3c7e1aafaeeac3221e770c64ff2c40863472546a087b152eb681c82"
+      "id": "byradar:2081373736817844274:0",
+      "imglumeId": 1602,
+      "title": "Ultra-refined ethereal fantasy realism digital illustration",
+      "revision": "7a88af8632be3c5883d565a9a7ffea961e8effaa6ec8cc72054f8f8249a8be8f"
     },
     {
-      "id": "byradar:2081241503977103515:0",
-      "imglumeId": 1568,
-      "title": "Ultra-realistic iPhone portrait of kneeling woman with motion blur",
-      "revision": "1e137abeae8cf859bd97a691d48e5612116e777488d3bf840ccefc180f5f8409"
+      "id": "byradar:2081346292996014293:0",
+      "imglumeId": 1603,
+      "title": "Chasing the Tide surfwear commercial",
+      "revision": "a8328d26196e69bc85cfec14be2cdad69e893dea17690d332dcc29b1b81cb2f4"
     },
     {
-      "id": "byradar:2081306869503799549:0",
-      "imglumeId": 1569,
-      "title": "Elegant handcrafted 3D paper quilling travel poster for {DESTINATION}",
-      "revision": "cf423384a7b0de0da384b1b4a9f5d35ccf3cadf45b77ea73c0c3ec01b9e95557"
+      "id": "byradar:2081570267105808795:0",
+      "imglumeId": 1604,
+      "title": "Intimate Nighttime Bedroom Selfie",
+      "revision": "540bc4b2c59fc59c4f9e11d468e102b992393174292beaf7b685f22553a2b994"
     },
     {
-      "id": "byradar:2081278733479272524:0",
-      "imglumeId": 1570,
-      "title": "Fixing a Loose Doorknob",
-      "revision": "74ef3833afe675d02c16999bb097c3f4bc6d56f243b292bc64cb71bc0bad6f04"
+      "id": "byradar:2081387517170086041:0",
+      "imglumeId": 1605,
+      "title": "Ultra-realistic fashion portrait on European street",
+      "revision": "b26bef1a42993b819547ada7750a8239a3d7b70acb60014bac48efef83c47df4"
     },
     {
-      "id": "byradar:2081299855755149723:0",
-      "imglumeId": 1571,
-      "title": "Nostalgic Japanese Anime Train Scene",
-      "revision": "a681fe53b7545678de91ddf9647bdc1eb7768c8c4218a78f714283441f263f64"
+      "id": "byradar:2081368381870223425:0",
+      "imglumeId": 1607,
+      "title": "Artistic Woodpunk University Campus",
+      "revision": "c6f9939e2268f2e94df14d35c227ffa1d003e3aa02b378b1ce4a4a30a95a32d6"
     },
     {
-      "id": "byradar:2081296286486057174:0",
-      "imglumeId": 1572,
-      "title": "Cinematic sci-fi horror scene in a dimly lit high-tech hospital emergency room",
-      "revision": "7a5a468dbba1d2b10fb38c6a2b648515353de2685b96a6ba2b0caab42d53ec69"
+      "id": "byradar:2081581375790948730:1",
+      "imglumeId": 1608,
+      "title": "Cookies & Milk ASMR 15-Second Video",
+      "revision": "7e599685fac45f059a94c9cd5ff7bb47dcd6dab090042896075a4a7e4a30bbd0"
     },
     {
-      "id": "byradar:2081285643242770795:0",
-      "imglumeId": 1573,
-      "title": "Playful retro detective fashion short",
-      "revision": "b98f920ce74494ee420128455c456598c0dd4d4b3f86d10fa52a610f1a33a0d8"
+      "id": "byradar:2081581375790948730:0",
+      "imglumeId": 1609,
+      "title": "Cookies & Milk ASMR Storyboard Infographic",
+      "revision": "4d0e6b693085555c3f6d626f64629da052a5952e0eb64fd09192ad04f98ba46b"
     },
     {
-      "id": "byradar:2081228498082083323:1",
-      "imglumeId": 1574,
-      "title": "Japanese Bento Top-Down Food Photography Prompt",
-      "revision": "8ebb34aa7a307df4bdb932509ec06739e04fb5be0b401067c0a874eae357ce36"
+      "id": "byradar:2081439406637158615:0",
+      "imglumeId": 1610,
+      "title": "Young East Asian woman in dim nightclub elevator hall, photorealistic portrait",
+      "revision": "462f386e84bb22780b1591464e086c78de4374c579b7c086e62cea5dac2a5226"
     },
     {
-      "id": "byradar:2081228498082083323:0",
-      "imglumeId": 1575,
-      "title": "Cozy Taiwanese Meal Food Photography Prompt",
-      "revision": "c3c900592628056e4de5106cb9e57e9fcf91b4aa7aad88d5eaf7efe8de32c2ef"
+      "id": "byradar:2081600803132125676:0",
+      "imglumeId": 1611,
+      "title": "15‑second photorealistic nighttime tribal scene captured with an early‑2000s MiniDV camcorder",
+      "revision": "1830b39fdfd14d288c6297d6ce8423d20267dd34a7e0f264702a9c0084f21414"
     },
     {
-      "id": "byradar:2081232385895764440:0",
-      "imglumeId": 1576,
-      "title": "Hand-drawn travel journal illustration",
-      "revision": "e2d62cfec1c2a4a1dd5be3ad59c451cd6988371bfb97ba5b8ecbf51bd41cec85"
+      "id": "byradar:2081350068280631801:0",
+      "imglumeId": 1612,
+      "title": "15‑second nighttime fashion film shot with a 2000s MiniDV camcorder",
+      "revision": "65bc9d05812c5a8d66042c6c7369c247a06362a16260a4b400d2b21142847240"
     },
     {
-      "id": "byradar:2081212727398183337:0",
-      "imglumeId": 1577,
-      "title": "Photorealistic 3:4 portrait of a girl in Y2K outfit beside vintage door with Apple Music card",
-      "revision": "644b07e6a862ddb1a432772e9923c0b69ef3d59f1c29eab0f2c56656c49fea00"
+      "id": "byradar:2081587597705691638:0",
+      "imglumeId": 1613,
+      "title": "Ultra-realistic cinematic luxury skincare commercial",
+      "revision": "d04d24fefd65adbabc64f407e8256a7441ad335dae5c142e723c0dbac36cc3f2"
     },
     {
-      "id": "byradar:2081092171428401560:0",
-      "imglumeId": 1578,
-      "title": "Molten Phoenix Knight Transformation Sequence",
-      "revision": "b4b3d5dbacd6b2f4265c724bdffd37b357361ad20c5dd5cf224104f737c664cc"
+      "id": "byradar:2081427511410614345:0",
+      "imglumeId": 1614,
+      "title": "Photorealistic fashion editorial portrait",
+      "revision": "05a654b691d623ddc74ff82ee498dec396e37bac2e2996ed36955d676b0e7188"
     },
     {
-      "id": "byradar:2081387148591436262:0",
-      "imglumeId": 1579,
-      "title": "Premium luxury wireless earbuds commercial video",
-      "revision": "394dae8c05845908887b6cc2930725bceba29325db83cdade85a83396e2b254c"
+      "id": "byradar:2081374070533214529:0",
+      "imglumeId": 1615,
+      "title": "Photorealistic indoor portrait of East Asian woman on sofa",
+      "revision": "e94553162a15ca8da1525bc302bfa45a04e3c8b8a4484b5600fbbf6eddce89ca"
     },
     {
-      "id": "byradar:2081391870073016811:0",
-      "imglumeId": 1580,
-      "title": "Gritty 16mm cinéma vérité birthday party turned clown chaos",
-      "revision": "74dee78807d0f6db3fc82bb6f175a5e110e4ccc0e6a09cad263415524ed1bafd"
+      "id": "byradar:2081597935947792465:1",
+      "imglumeId": 1616,
+      "title": "Autumn Wildflowers",
+      "revision": "b8ea0f6d8d85b7e18951246fd58a24690aff34257c20f44bdb41e2f6170d976e"
     },
     {
-      "id": "byradar:2081298925458461006:0",
-      "imglumeId": 1581,
-      "title": "Minimalist marker-pen travel poster of New York City",
-      "revision": "bae6e7d053ded1f617bb5bed6367d0c93d3bbc703f7eb2bf4000fa2681300496"
+      "id": "byradar:2081597935947792465:3",
+      "imglumeId": 1617,
+      "title": "Golden Hour Light",
+      "revision": "082434aea4ed45e83e6a67d500324ecb0b41d7f8946224e00f42e0fbde9d4e64"
     },
     {
-      "id": "byradar:2081388847447826439:0",
-      "imglumeId": 1582,
-      "title": "Photorealistic portrait of Natalie Portman in gold outfit",
-      "revision": "eed105a114805f3eb863eaf565670d8cea88c4bd87a8e0f4bdce9b0333a775c5"
+      "id": "byradar:2081597935947792465:0",
+      "imglumeId": 1618,
+      "title": "Windy Meadow Portrait",
+      "revision": "4ef71b88ba8f921c3a230b0455d3468ba27bc9c59c814c5d196aa1627496884d"
     },
     {
-      "id": "byradar:2081383131668701519:0",
-      "imglumeId": 1583,
-      "title": "Stay cool and Stay fresh Sprite commercial",
-      "revision": "f536b6949f0ac3376072707c0a441df2b37324d61643da8fd72d3e486467c834"
+      "id": "byradar:2081597935947792465:2",
+      "imglumeId": 1619,
+      "title": "Foggy Morning Portrait",
+      "revision": "2819eddd68cef58cbcb4588236fcc14f9761ba1390d1412287083c04836a242c"
     },
     {
-      "id": "byradar:2081352488578326978:0",
-      "imglumeId": 1584,
-      "title": "Premium FMCG product advertisement prompt",
-      "revision": "cdc2e88349d6b55426469d3b45230479dcbdc37ecf17d82c2954be0d48f7bf7a"
+      "id": "byradar:2081499813040779555:0",
+      "imglumeId": 1620,
+      "title": "年轻东亚女性海滩肖像",
+      "revision": "bba5a40ac290bc998b15124c56405deb9052375dd44da75649b9b6c302e42ca1"
     },
     {
-      "id": "byradar:2081353850779550056:0",
-      "imglumeId": 1585,
-      "title": "Handheld camcorder POV backstage fitting-room vlog of Korean idol CHASE",
-      "revision": "8fa362e7da14056599ab19e8150c76b76b250e92de537ac556b4785328829feb"
+      "id": "byradar:2081396725361918036:0",
+      "imglumeId": 1621,
+      "title": "Behind the Choreography: Hyper-realistic K-pop idol rehearsal vlog",
+      "revision": "1ea076154cc04d6e1c3fcda693b813ed6a0cb7e7e5b868b821e97f287ad1a766"
     },
     {
-      "id": "byradar:2081371164728041980:0",
-      "imglumeId": 1586,
-      "title": "15-second seamless architectural space renovation animation",
-      "revision": "ef5c3398903b46c73a5b757dd4440f8a99985c35febebb3f5dde34c357c8c5c5"
+      "id": "byradar:2081610424420827336:0",
+      "imglumeId": 1622,
+      "title": "Handheld 16mm Gym Cardio Vlog",
+      "revision": "81a8546fc831236a402c65cfa82a4bcdbca4bd389db1c8bc0a9ae8e45a15a850"
     },
     {
-      "id": "byradar:2081390332629930023:0",
-      "imglumeId": 1587,
-      "title": "Macro close-up 3D render of modular tech housing with gear mechanisms and wireframe diagram",
-      "revision": "ef2af7b8e32b64d0226edb4394fd7c730401bff28d646bfb878be8266beaeb8c"
+      "id": "byradar:2081434401355747451:0",
+      "imglumeId": 1623,
+      "title": "Close-up beauty shot of model holding product with natural skin on minimalist white background",
+      "revision": "20f7a627243dc953e64d27f0499a510969e76b51c7a00ce8fb5b85af95621a88"
     },
     {
-      "id": "byradar:2081208635925876762:0",
-      "imglumeId": 1588,
-      "title": "Photorealistic Cinematic Restaurant Video of Mixed-Reality Food Ordering",
-      "revision": "9522f8774efa04edfa170f157983024b7b6f5b2f0888f9c4893ca7f6d3715f9e"
+      "id": "byradar:2081615969274012153:0",
+      "imglumeId": 1624,
+      "title": "Ultra-realistic black-and-white editorial fashion portrait",
+      "revision": "ce3ebc1e644ca03a8ca1f0dbd24879f670204ea657bc419b0a4ec4846a3a04fb"
     },
     {
-      "id": "byradar:2081379008768540700:0",
-      "imglumeId": 1590,
-      "title": "Young East Asian woman kneeling on a messy white bed, photorealistic portrait",
-      "revision": "0acfe7d9462fbb7cc803f6a8278d3830b8fa85c6dcf19b69ff2b34f4b77912f4"
+      "id": "byradar:2081333779461996799:0",
+      "imglumeId": 1625,
+      "title": "Premium cinematic editorial photo collage of a young woman in golden hour bougainvillea",
+      "revision": "28129cffae78030c5d2b4381e93bf726f36bb9b70bda20c9a7c1d17b75983c3d"
     },
     {
-      "id": "byradar:2081410514182435158:0",
-      "imglumeId": 1593,
-      "title": "Y2K street photography portrait of a cheerful young woman",
-      "revision": "18b4bfcb7fb36baaf06885a86cab6ef555dc1103bd2a5aa2a6b78f6d146a269e"
+      "id": "byradar:2081403653836198377:0",
+      "imglumeId": 1626,
+      "title": "Haumea Adult version cinematic video with detailed camera moves",
+      "revision": "6d54e9b43056b3ad2d16e91a2ef32d17cee798ad04cdc08d857a47579618fa83"
     },
     {
-      "id": "byradar:2081251381894078663:0",
-      "imglumeId": 1594,
-      "title": "金林听雨·男女巅峰对决段镜头提示词",
-      "revision": "4ac411c043550de9478752ee3d3f8f617f5eaaaf1f1fb8c827656cab5c3a86eb"
+      "id": "byradar:2081582536929747148:0",
+      "imglumeId": 1627,
+      "title": "Ultra-realistic smartphone portrait of a young Asian woman in a modern kitchen",
+      "revision": "afdf8ca15901f77a3f86ca05904d2b75cce297660aa9df25412ae683e1c7d58c"
     },
     {
-      "id": "byradar:2081476470300680435:0",
-      "imglumeId": 1595,
-      "title": "Hyper-realistic android figure suspended in fog-filled void",
-      "revision": "dcf3f6b14fc52e45bad8d8a21436228d1b9d193c269c3b211a449a172dc0a7a2"
+      "id": "byradar:2081399474971373885:0",
+      "imglumeId": 1628,
+      "title": "K-pop idol backstage beauty vlog with handheld camera",
+      "revision": "96795cf1804165fe90c8315c4ee62ca20df7d73242573ebad1dfe229d59807fe"
     },
     {
-      "id": "byradar:2081480206267920515:0",
-      "imglumeId": 1597,
-      "title": "Ultra-realistic vertical portrait of woman with hibiscus at golden hour beach",
-      "revision": "ea708694e6cc6f7501aadd794eb64e6683d771550f27fe5f0e04d32a88fb501c"
+      "id": "byradar:2081358272901337570:0",
+      "imglumeId": 1629,
+      "title": "15-second 2D animated chalkboard karate fight",
+      "revision": "4ceb201e92eb3e27046444174eee29228bd949d43cdd24925f4ff410196bc08c"
     },
     {
-      "id": "byradar:2081418473444683911:0",
-      "imglumeId": 1598,
-      "title": "Cozy candid portrait of East Asian woman in Japanese café",
-      "revision": "79928aa1c50c4b30d1de9bad5b3635c33c062d6271e1fb3b54a5f9e8eb593826"
+      "id": "byradar:2081547857916801165:0",
+      "imglumeId": 1630,
+      "title": "Photorealistic editorial portrait of a 20s Japanese/Korean woman in Y2K schoolgirl style, Rome backdrop",
+      "revision": "63fe0cf9458cc04915e6b1d3e845a80f8fe76082b7bd25e3713b8e863f475749"
+    },
+    {
+      "id": "byradar:2081345490038456681:0",
+      "imglumeId": 1631,
+      "title": "Ultra-Premium Président Butter 2x3 Six-Panel Campaign Poster",
+      "revision": "cf9131a9f7a33134225d61b4106da3eaf09265a9640197f30b31c9d4296caba6"
+    },
+    {
+      "id": "byradar:2081438772709781579:0",
+      "imglumeId": 1632,
+      "title": "High-end studio portrait with circular cutout",
+      "revision": "9a85248ac77f89b51713e4c85d776f8ee74eff053cdfc4412506648e1de5c9a7"
+    },
+    {
+      "id": "byradar:2081690464424493468:0",
+      "imglumeId": 1633,
+      "title": "Premium 15-second cinematic Adidas sneaker commercial with pink dress model",
+      "revision": "06f2bd907f216ad61676ee13b838482938543024ccbdfe4d661457b8bdacaff4"
+    },
+    {
+      "id": "byradar:2081628890762826026:0",
+      "imglumeId": 1634,
+      "title": "Ultra realistic 3D render of a glossy plastic toy",
+      "revision": "784c763b014678fd8ec8fe1dc9c6dedbd817a6dafc98f013c88f298384f266d7"
+    },
+    {
+      "id": "byradar:2081553444536758719:0",
+      "imglumeId": 1635,
+      "title": "Ultra-realistic cinematic full-body portrait with devil and angel shadow illustrations",
+      "revision": "23197434671cf45a56b521c4f08808fab368c61cca51ad1b46a15eb87e1a15a1"
+    },
+    {
+      "id": "byradar:2081609812174131643:0",
+      "imglumeId": 1636,
+      "title": "Live-action military documentary drama of an Iran–Israel frontline confrontation",
+      "revision": "183c50105e4aefa6ac0945de42aeea5ce2fd17e2e25fc97dba4147c4e943d463"
+    },
+    {
+      "id": "byradar:2081539230996775100:1",
+      "imglumeId": 1637,
+      "title": "Seedance 2 Prompt – Rain‑slicked Back‑Alley Scene with Milo",
+      "revision": "80d6e711693de999782bd88a4fc96d27d8f5e782b4733f853c9bbd33262507ca"
+    },
+    {
+      "id": "byradar:2081539230996775100:0",
+      "imglumeId": 1638,
+      "title": "Milo — The Chill Streetwear Kingpin Character Sheet Prompt",
+      "revision": "9fa9e74133c991892179fb38b71d549930c49380fe791ca5feb8c7f0c8aeb6c3"
+    },
+    {
+      "id": "byradar:2081676395135307794:0",
+      "imglumeId": 1639,
+      "title": "Episode 1 – Cinematic Survival Adventure (30s)",
+      "revision": "e18b721e302e31ce8fca7c6f06c811e33751ca03d40c610df0e8a7a720c7817a"
+    },
+    {
+      "id": "byradar:2081633957011919241:0",
+      "imglumeId": 1640,
+      "title": "Handheld DV Gym Vlog POV of CHASE Chest Day Workout",
+      "revision": "baf365c8ad13dfa3cf6142897444237dbac7947f83e2f4da36a3d1b5b259c504"
+    },
+    {
+      "id": "byradar:2081631535749607722:0",
+      "imglumeId": 1641,
+      "title": "Daily wildfire surveillance from an isolated forest fire lookout tower",
+      "revision": "0aa8df1692c2ecb7a3bfe074abff9320e48f6888c5af73003a47dfa1aea8c251"
+    },
+    {
+      "id": "byradar:2081620203834929373:0",
+      "imglumeId": 1642,
+      "title": "Gritty 16mm cinéma vérité documentary of a young woman walking in 1970s Paris",
+      "revision": "7f33b84879f121c2769adf85d2be26c98b9272d851ee85659d76c6125b3eb63e"
+    },
+    {
+      "id": "byradar:2081636065111372267:0",
+      "imglumeId": 1643,
+      "title": "Ultra-realistic cinematic summer lifestyle photo of Korean woman on vintage lifeguard tower",
+      "revision": "b3521e6303024774705d1eb4b9c76e6879805ea759849413fe2f8ee00e0d61cb"
+    },
+    {
+      "id": "byradar:2081587013648846994:0",
+      "imglumeId": 1644,
+      "title": "Beautiful young Italian woman in a Mediterranean kitchen",
+      "revision": "9b20b7021f180203b22d2c217c6b32b16bcc330680b52fd90315327230c7c4a3"
+    },
+    {
+      "id": "byradar:2081585413475766574:0",
+      "imglumeId": 1645,
+      "title": "Cinematic sequence of a legendary warrior on a frozen mountain throne",
+      "revision": "8259392fcf16d3169872e733fe036147551034261fee3e2a27c9348fa2920423"
+    },
+    {
+      "id": "byradar:2081367610957176987:0",
+      "imglumeId": 1646,
+      "title": "Massive Bridge Megastructure Civilization",
+      "revision": "59eb6726ce7cfe6cf73f99535a00ed7adb04c140d46820b779133f23191e2e2d"
+    },
+    {
+      "id": "byradar:2081621122496573620:0",
+      "imglumeId": 1649,
+      "title": "Portrait of woman in vintage Soviet sedan trunk",
+      "revision": "7f088235f8b61b851b6e7944562630cd26c0981929dbadc4761eaaf2850b1364"
+    },
+    {
+      "id": "byradar:2081706884927783412:0",
+      "imglumeId": 1650,
+      "title": "Candid Handheld Winter Walk in Moscow, 2003",
+      "revision": "83184b1c92c16f323e6e4d02f959bdafb8d80bb8c853ae8a3ad648193500a2fb"
+    },
+    {
+      "id": "byradar:2081709225579889043:0",
+      "imglumeId": 1651,
+      "title": "Vertical full-body side-profile snapshot of a girl on balcony hanging clothes",
+      "revision": "6678cdcfa3d0156f0c560f304c682d5b973c3371df4b6ea259f6ce9b41356771"
+    },
+    {
+      "id": "byradar:2081574705631515085:0",
+      "imglumeId": 1652,
+      "title": "Ultra-realistic close-up beauty portrait of a girl (reference image)",
+      "revision": "3ab2b10a6420983c82b0d9a33d97c51dfde25b0c8d922810db746f204f426039"
+    },
+    {
+      "id": "byradar:2081740862883586153:0",
+      "imglumeId": 1653,
+      "title": "Busy school morning Nutella commercial",
+      "revision": "ee9bb333ea05e361fb76599eaa135a1349bba9634a968a61e3aa500fe98d5ed3"
+    },
+    {
+      "id": "byradar:2081725904942755881:0",
+      "imglumeId": 1654,
+      "title": "Ultra close-up studio portrait of Kate Upton with green wall circular cutout",
+      "revision": "80979d58c8eb08bb53ca5893bd8ce3c7eea66cfff5d844f3d458b1448c63851c"
+    },
+    {
+      "id": "byradar:2081716168180809949:0",
+      "imglumeId": 1655,
+      "title": "Seedance 2 video prompt featuring Korean idol CHASE",
+      "revision": "f6ecddf673e4137a39b67b796d9333646bb92c6e07b16bf4d025cd10ff867c8d"
+    },
+    {
+      "id": "byradar:2081727222847623606:0",
+      "imglumeId": 1656,
+      "title": "Invisible Woman 15-second Cinematic Video",
+      "revision": "7e771222e6c2321a0cf694bff03473abad949c78fa2906575812a6884cef09d1"
+    },
+    {
+      "id": "byradar:2081627930241970438:0",
+      "imglumeId": 1657,
+      "title": "Cinematic FPV flythrough a Romanesque Revival house at golden hour",
+      "revision": "4dd42adc7a6a0343708498c43744edc35d07337f0c1cf3421ffe5f0e423f7749"
+    },
+    {
+      "id": "byradar:2081667770630950971:0",
+      "imglumeId": 1658,
+      "title": "Morning Coffee Run in Tokyo",
+      "revision": "ece91e33dab64889431311337c808932194f384e8d8876250cdb49ad2ad40b6a"
+    },
+    {
+      "id": "byradar:2081666905266332047:0",
+      "imglumeId": 1659,
+      "title": "The White TREE",
+      "revision": "e0b4550a0ec11d056ae64a3083fa35ef0b17d023ac2858bf9f0e6feb80729893"
+    },
+    {
+      "id": "byradar:2081715480503660891:0",
+      "imglumeId": 1660,
+      "title": "Premium UGC video of a young woman making a smoothie in a modern kitchen",
+      "revision": "c7daae3d5c6aa0a4588cff215e8724411e3e72b74e8fa7a0ccac8498ee0de54a"
+    },
+    {
+      "id": "byradar:2081633474147135985:0",
+      "imglumeId": 1661,
+      "title": "Giant Transparent Perfume Bottle with Model – High Fashion Photo Prompt",
+      "revision": "3292fd0f6e1cf0d5276382f44dbcf30254d1d45954fe602ab83076fe2be75966"
+    },
+    {
+      "id": "byradar:2081753705863434568:0",
+      "imglumeId": 1662,
+      "title": "Japan in 60 seconds cinematic travel video",
+      "revision": "0714356239fd40ab10ce0936bf9511c079fafeb1686c3c9ed327364bfcd7ea8c"
+    },
+    {
+      "id": "byradar:2081760769494945997:0",
+      "imglumeId": 1663,
+      "title": "Photorealistic mirror selfie of Freya Allan in a modern bathroom",
+      "revision": "76e8c50285a9c83268ce4223bfab11df22ab830a216f443e78f43628636032d7"
     }
   ],
   "updated": [],
-  "removed": [
-    {
-      "id": "byradar:2081200401354015011:0",
-      "imglumeId": 1546,
-      "title": "Punk Rock Music Video with Asian Woman on Yamaha Dirtbike in Downtown LA",
-      "revision": "6a2b053ac6d0cb291b4f2f67caca669e9bbdac9f84e67a7564261284c26d73bd"
-    }
-  ]
+  "removed": []
 }

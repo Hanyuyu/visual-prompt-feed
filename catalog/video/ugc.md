@@ -1,9 +1,75 @@
 # UGC video prompts
 
-3 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium UGC video of a young woman making a smoothie in a modern kitchen
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2081715480503660891)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [1660](https://imglume.com/prompt/1660)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d74d9e88-7c5b-475a-a69a-d2eb3ba0e36e/5fae660c-6318-46c8-88a0-3caae9d98bf5-1785168678609 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium UGC video featuring a young woman standing in her modern kitchen wearing a pink lounge set. Fresh fruit is spread across the countertop. She holds a portable blender and says:
+"I get asked all the time how I make smoothies so quickly, and honestly, it's because of this little blender. It's compact, super easy to clean, and powerful enough to blend frozen fruit without any problem. I love that I can make a fresh smoothie in just a minute without dragging out a huge blender. It's one of those products that actually makes healthy eating so much easier."
+As she talks, she adds fruit, blends it, pours the smoothie into a glass, and enjoys a sip with a smile. Premium kitchen aesthetic, realistic handheld filming.</code></pre>
+
+</details>
+
+## Behind the Choreography: Hyper-realistic K-pop idol rehearsal vlog
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2081396725361918036)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1621](https://imglume.com/prompt/1621)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eb8a8171-06b3-4dbe-ad49-d5073b954c73/002184f6-7d57-456b-8e31-911bfb1b3f37-1785145663791 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Format: 16:9
+
+Concept: "Behind the Choreography"
+
+Create a hyper-realistic self-recorded vlog filmed entirely on a modern flagship smartphone using the front-facing camera. The entire video is captured by the idol herself in one continuous take, creating an authentic behind-the-scenes experience. The footage should feel completely unscripted, with natural handheld movement, subtle smartphone stabilization, realistic autofocus breathing, automatic HDR exposure adjustments, occasional imperfect framing, and genuine ambient sound. No cinematic shots, jump cuts, transitions, slow motion, or stylized editing.
+Visual Style
+Modern smartphone video with crisp 4K detail, realistic HDR, balanced indoor lighting, true-to-life colours, natural skin texture, and clean image processing. No filters, no beauty mode, no film grain, and no artificial cinematic effects. It should look exactly like a real selfie vlog filmed on a flagship phone.
+Character
+YURI, a Korean female idol in her twenties with long black hair tied into a neat high ponytail, minimal rehearsal makeup, naturally glowing skin, and an energetic, cheerful personality.
+She wears realistic dance practice clothing: an oversized charcoal zip-up hoodie over a fitted black athletic top, loose grey sweatpants, white sneakers, and a smartwatch. During rehearsal, she removes the hoodie and ties it around her waist, matching a real dance studio environment.
+Location
+A professional K-pop dance practice studio with mirrored walls, polished wooden floors, ceiling speakers, bright rehearsal lighting, backpacks, water bottles, towels, portable fans, and dancers warming up naturally in the background.
+The recording starts just outside the practice room.
+YURI smiles at the phone.
+"Come with me... today you get to see what rehearsal actually looks like."
+She opens the studio door and walks inside, greeting the dancers with a quick wave before placing her backpack beside the mirror.
+She stretches while chatting casually to the camera.
+"Everyone sees the performance... but not this part."
+The music starts.
+She removes her hoodie, ties it around her waist, and joins the rehearsal.
+Between dance sections she briefly films herself catching her breath, laughing after making a small mistake, checking the choreography in the mirror, taking a quick sip of water, and celebrating when the team finally nails a difficult sequence.
+Breathing heavily but smiling, she looks into the camera.
+"We've been repeating this part forever... but it's finally coming together."
+The rehearsal finishes.
+The dancers applaud each other while packing their bags.
+YURI wipes away sweat with a towel, picks up her hoodie, and walks toward the exit.
+Before leaving, she turns the phone back to herself.
+"That's what happens before you ever see us on stage. Thanks for hanging out with me, see you at the performance."
+She smiles, waves, switches off the studio lights as she leaves, and the recording ends naturally.
+Generation Requirements
+One continuous uninterrupted recording with consistent facial identity, realistic dance movements, believable fatigue, natural eye contact, accurate mirror reflections, physically correct body mechanics, stable clothing continuity, authentic smartphone camera behaviour, realistic indoor acoustics, and no AI artifacts, warped anatomy, duplicated reflections, jump cuts, floating objects, or unnatural motion. The final result should be indistinguishable from a real K-pop idol's behind-the-scenes rehearsal vlog filmed on her own smartphone.</code></pre>
+
+</details>
 
 ## Fixing a Loose Doorknob
 

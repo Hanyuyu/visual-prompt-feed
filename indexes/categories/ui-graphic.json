@@ -1,0 +1,14 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "ui-graphic",
+  "label": "Ui Graphic",
+  "count": 1,
+  "mediaTypes": {
+    "image": 1,
+    "video": 0
+  },
+  "ids": [
+    "byradar:2081581375790948730:0"
+  ]
+}

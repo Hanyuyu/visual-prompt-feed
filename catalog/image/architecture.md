@@ -1,9 +1,127 @@
 # Architecture image prompts
 
-2 source-linked prompts, newest ImgLume records first.
+4 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## The White TREE
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2081666905266332047)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`
+- **ImgLume record:** [1659](https://imglume.com/prompt/1659)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c5b4b369-37b8-458c-91fa-a41afd22ba2e/0494b1e5-afc6-42de-b36b-b7997c5ad24a-1785168668058 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c5b4b369-37b8-458c-91fa-a41afd22ba2e/676dacf2-466b-414d-abce-01fa54c2ac1a-1785168668058 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c5b4b369-37b8-458c-91fa-a41afd22ba2e/d2581646-ab96-4752-9cc6-3ae9ef3ef1f8-1785168668058 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/c5b4b369-37b8-458c-91fa-a41afd22ba2e/f5e8d7b9-3b95-4060-9319-ce90d655a9d2-1785168668058 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>a colossal white tree of branching cables and root-like filaments erupting from the floor of a massive ancient stone cathedral chamber, fanning upward into blinding light far above, twin monumental stone towers embedded with tiny glowing windows like an inner city flanking either side, a small group of robed cloaked figures standing in silent reverence at the base facing the structure, symmetrical low-angle vertical composition looking straight up, cool grey-blue monochrome palette, dramatic volumetric light shafts, epic scale, hyper-detailed CGI render, Octane render, cinematic architectural visualization</code></pre>
+
+</details>
+
+## Artistic Woodpunk University Campus
+
+- **Original source:** [@artingent on X](https://x.com/artingent/status/2081368381870223425)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `architecture`
+- **ImgLume record:** [1607](https://imglume.com/prompt/1607)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a1c722f6-a545-4b01-955f-38f24ad1c426/55b7f986-cf57-4f74-91ea-fe86987b0282-1785145614073 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>REALISM AND FUNCTIONAL LOGIC RULE
+
+Even within highly artistic, stylized, handcrafted, or speculative environments, scenes must maintain believable internal logic and functional realism consistent with Artistic Woodpunk design language, Scandinavian timbercraft influence, environmental conditions, and exterior architectural coherence.
+
+All scene elements operate as part of a unified handcrafted educational environment rather than disconnected decorative objects.
+
+Architectural layouts feel physically navigable and structurally believable. Exterior circulation systems connect logically across courtyards, elevated study bridges, timber lecture halls, student terraces, rooftop observatories, botanical learning gardens, and interconnected academic towers. Structural systems appear capable of supporting the scale and density of the university campus.
+
+Decorative carvings, engraved timber surfaces, layered facade detailing, carved railings, educational signage systems, and handcrafted ornamentation remain integrated into the architecture and infrastructure. Lighting systems appear naturally embedded into pathways, garden terraces, bridge systems, outdoor gathering zones, lecture hall entrances, and academic towers.
+
+Materials respond realistically to cool woodland conditions, seasonal moisture, aged timber, moss growth, lantern warmth, and environmental exposure. Environmental effects behave consistently across carved wood surfaces, exposed beams, rooftop shingles, pathways, bridge systems, and educational infrastructure.
+
+Scale relationships between academic buildings, courtyards, towers, pathways, bridges, students, transport systems, and landscape features remain believable and immersive.
+
+The goal is cinematic realism within the context of Artistic Woodpunk rather than abstract fantasy incoherence.
+
+SCENE
+
+Do not render gears or representations of gears in the scene
+
+A visually rich Artistic Woodpunk exterior environment centered around a grand handcrafted university campus and interpreted through scholarly monastic atmosphere with influence from Scandinavian stave architecture and Scandinavian timbercraft craftsmanship traditions.
+
+The scene emphasizes monumental timber lecture halls, interconnected rooftop study walkways, towering archive buildings, botanical courtyards, carved academic facades, elevated observatories, engraved library entrances, lantern-lined educational promenades, and richly layered academic infrastructure.
+
+The environment conveys moderately active educational life through students crossing elevated walkways, scholars gathering in exterior courtyards, faculty members conversing beneath carved pergolas, and maintenance workers tending rooftop gardens during fog-covered morning hours.
+
+ENVIRONMENT
+
+Set within a temperate woodland environment featuring layered spatial complexity at a district-scale scale.
+
+The environment is shaped through layered timber framing and exposed joinery architecture using exposed oak structures, carved hardwood systems, layered artisan timbering, reinforced structural woodwork, and engraved wood paneling influenced by Scandinavian timbercraft architectural language.
+
+Architecture and exterior systems feature carved civic halls, elevated observatories, layered timber manors repurposed as faculty buildings, interconnected rooftop districts, steep alpine roofs, exposed beam roofing, carved ridge roofs, rooftop observation decks, decorative smoke vents, ceremonial entry terraces, carved directional signage, reinforced timber doors, lattice-framed windows, layered balcony windows, carved wraparound balconies, projecting roof canopies, exposed timber beams, carved support braces, structural lattice frameworks, observatory towers, elevated archive towers, and monumental gateway towers integrated throughout the educational district.
+
+Decorative elements are deeply integrated into lecture halls, bridge systems, archive towers, botanical gardens, student courtyards, and rooftop walkways through layered wood carvings, engraved timber borders, decorative wood lattice, carved railing systems, artisan-crafted signage, ornamental planter frames, decorative beam layering, carved floral trim, artistic timber embossing, layered facade reliefs, and intricate handcrafted crestwork.
+
+Vehicles and transport systems include handcrafted bicycles, carved delivery wagons, timber maintenance carts, and elevated cargo platforms integrated naturally into the campus circulation systems.
+
+The environment exists within a thriving woodland ecology where filtered forest light, drifting mist, moss-covered surfaces, seasonal pollen drift, lantern-lit fog atmosphere, and rain-darkened timber visibly influence the architecture and surrounding landscape.
+
+STYLE
+
+Artistic Woodpunk aesthetic expressed through Scandinavian stave architecture variation and Scandinavian timbercraft influence with strong emphasis on handcrafted educational architecture, engraved timber detailing, layered roof systems, exposed joinery craftsmanship, and richly embellished academic worldbuilding.
+
+The visual output emphasizes deep wood grain, structural beam texture emphasis, engraved detailing, carved architectural textures, and handcrafted surface variation through richly layered detail and structural detail emphasis.
+
+The composition follows architectural silhouette focus and balanced environmental hierarchy using layered academic towers, rooftop pathways, educational courtyards, and elevated circulation systems to maintain readability across the environment.
+
+Depth structure ensures strong foreground framing, layered midground progression, atmospheric distant depth, and terrace-based spatial layering between academic halls, garden systems, elevated bridges, observatory towers, and woodland backgrounds.
+
+Color strategy emphasizes warm timber tones, deep forest greens, pale birch and stone contrast, soft ambient fog coloration, glowing lantern warmth, and natural material harmony.
+
+The rendering approach is immersive worldbuilding illustration with cinematic detail richness.
+
+CAMERA
+
+The scene is captured from an elevated aerial perspective using panoramic settlement framing that emphasizes the interconnected academic district, layered rooftops, elevated circulation systems, botanical courtyards, archive towers, and woodland environmental integration.
+
+The composition highlights navigable educational pathways, carved architectural detailing, rooftop study terraces, exterior gathering spaces, layered bridge systems, and interactions between academic infrastructure and surrounding woodland gardens.
+
+A gentle environmental movement quality is present through drifting mist, flowing hanging fabrics, swaying lanterns, moving tree canopies, distant student movement, and atmospheric environmental drift.
+
+LIGHTING and MOOD
+
+Illuminated by diffused forest light and hanging lantern illumination with filtered forest lighting integrated naturally throughout the university environment.
+
+The lighting exhibits soft diffused light, mist-softened lighting, glowing atmospheric diffusion, and natural daylight realism that enhance engraved timber surfaces, carved structural detailing, rooftop textures, layered academic architecture, and atmospheric woodland depth.
+
+Balanced natural tones establish a scholarly, contemplative, peaceful mood while drifting mist, floating pollen, environmental moisture, soft environmental blur, and layered atmospheric depth enhance environmental richness and ambiance.
+
+DESCRIPTION PLAQUE
+
+Position bottom right
+
+Do not render gears or representations of gears in the plaque
+The plaque should be aesthetically designed in an aritistic woodpunk style and should include ornate decorations in this style
+
+Line 1 bold heading max 5 words:
+Hallways Of Timber Wisdom
+
+Line 2 bold:
+Artistic Woodpunk
+
+Line 3 description max 30 words:
+A monumental handcrafted university where layered rooftops, carved archives, and elevated study bridges rise through misty woodland gardens.</code></pre>
+
+</details>
 
 ## Artistic Clockpunk Luxury Hotel Lobby
 

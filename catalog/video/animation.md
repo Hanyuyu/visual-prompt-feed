@@ -1,9 +1,48 @@
 # Animation video prompts
 
-3 source-linked prompts, newest ImgLume records first.
+4 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15-second 2D animated chalkboard karate fight
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2081358272901337570)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [1629](https://imglume.com/prompt/1629)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2e60bd2d-43fd-4180-8be8-96d880f8d831/63af27f2-ff7d-4af1-b047-5efc154953f1-1785145713720 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second 2D animated video.
+
+Camera is completely steady and static the entire time.
+
+On the large green chalkboard in an elementary classroom, two simple white chalk stick figures are drawn facing each other (male on the left, female on the right with a ponytail).
+
+Sequence:
+
+0–5 seconds:
+The male stick figure (left) reaches behind his back and pulls out a white chalk-drawn flower. He gently offers the flower to the female stick figure. Small white chalk hearts appear around them. The female stick figure becomes shy and kilig, covering her face slightly with one hand while little hearts float up. All hearts and effects stay strictly inside the green chalkboard.
+
+5–7 seconds:
+Sudden pause. Both stick figures freeze for a moment.
+
+7–15 seconds:
+They suddenly drop into intense karate fighting stances. The two stick figures start a very intense chalk-drawn karate fight — fast punches, high kicks, spins, and dramatic poses. White chalk motion lines, impact stars, and dust effects appear with every hit. All motion lines, stars, dust, and graphic effects remain completely inside the green chalkboard and never go outside the board edges.
+
+Everything stays as white chalk drawings on the green board. The classroom background, desks, chairs, and posters remain completely still and unchanged. No camera movement.
+
+Clean 2D animation style, simple chalk line art, white chalk only, highly detailed motion, 15 seconds.
+
+Negative prompt:
+3D, realistic people, moving camera, colored chalk, effects going outside the board, changing background, blurry, low quality.</code></pre>
+
+</details>
 
 ## 15-second seamless architectural space renovation animation
 

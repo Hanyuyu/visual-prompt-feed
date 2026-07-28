@@ -1,9 +1,106 @@
 # Food Drink video prompts
 
-2 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium UGC video of a young woman making a smoothie in a modern kitchen
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2081715480503660891)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [1660](https://imglume.com/prompt/1660)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d74d9e88-7c5b-475a-a69a-d2eb3ba0e36e/5fae660c-6318-46c8-88a0-3caae9d98bf5-1785168678609 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium UGC video featuring a young woman standing in her modern kitchen wearing a pink lounge set. Fresh fruit is spread across the countertop. She holds a portable blender and says:
+"I get asked all the time how I make smoothies so quickly, and honestly, it's because of this little blender. It's compact, super easy to clean, and powerful enough to blend frozen fruit without any problem. I love that I can make a fresh smoothie in just a minute without dragging out a huge blender. It's one of those products that actually makes healthy eating so much easier."
+As she talks, she adds fruit, blends it, pours the smoothie into a glass, and enjoys a sip with a smile. Premium kitchen aesthetic, realistic handheld filming.</code></pre>
+
+</details>
+
+## Morning Coffee Run in Tokyo
+
+- **Original source:** [@nusratsid1 on X](https://x.com/nusratsid1/status/2081667770630950971)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1658](https://imglume.com/prompt/1658)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a17c7537-b4b0-4412-823a-a572e7b47a2d/8ae4a931-aa77-49bd-8a2c-c3e3ca679bb4-1785166618422 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic 15-second vertical (9:16) smartphone vlog. A young woman is filming herself with the front camera while walking through a quiet Tokyo street during golden hour. The camera has natural handheld movement, slight autofocus shifts, realistic lighting, and subtle background blur. People walk by naturally, bicycles pass in the background, birds chirp, and distant traffic creates authentic city ambience.
+
+She smiles warmly at the camera and speaks naturally in English. She walks into a cozy café, briefly flips the camera to show the coffee machine and barista making an iced latte, then switches back to selfie mode. She picks up the drink, walks outside, takes a sip, and continues walking with the city behind her. The video should feel like a genuine influencer vlog, not scripted or cinematic.
+
+Voice &amp; Timing:
+
+0–4 sec:
+"Good morning, everyone! I found the cutest little coffee shop while exploring Tokyo."
+
+4–9 sec:
+"Let's see if their iced latte is really as good as everyone says."
+
+9–15 sec:
+(Takes a sip and smiles)
+"Wow... that's amazing. Definitely worth the stop! See you in the next adventure!"
+
+Style &amp; Audio:
+
+Ultra-photorealistic, 4K HDR
+
+Natural facial expressions and lip sync
+
+Realistic smartphone front-camera quality
+
+Ambient city sounds only (birds, footsteps, distant traffic, café sounds)
+
+No background music
+
+Authentic influencer vlog aesthetic
+
+Smooth transitions, realistic motion blur, and no AI-looking artifacts</code></pre>
+
+</details>
+
+## Cookies & Milk ASMR 15-Second Video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2081581375790948730)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1608](https://imglume.com/prompt/1608)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/30825c73-bfa7-482d-9983-a0165022681a/3905e77c-476d-4000-810d-c39e22345933-1785145614762 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic 15-second premium ASMR food commercial featuring only POV hands throughout the entire sequence. No faces visible. Cozy morning kitchen aesthetic with a warm wooden tabletop, soft natural window light, shallow depth of field, realistic food textures, cinematic macro photography, and luxury commercial color grading.
+Throughout the video, add playful hand-drawn white doodle text and arrows that naturally animate into the scene, just like a modern food reel. The doodles should appear briefly beside the action, following the product, then fade away. No subtitles, captions, logos, or other text besides these doodle effects.
+0:00–0:02.5
+A premium chocolate chip cookie box and a chilled glass bottle of milk rest on a wooden table. Hands slide into frame and gently rotate the box. Animated doodles appear: "HELLO!", "HI!", small sparkles and arrows pointing toward the box.
+0:02.5–0:05
+Hands slowly tear open the cookie wrapper. Crisp ASMR crinkle fills the room. Animated doodles: "CRINKLE~", "OPEN!", "WOW!" with playful motion lines.
+0:05–0:07.5
+Fresh cold milk pours into a clear glass in slow motion. Creamy splashes, bubbles, and condensation glisten. Animated doodles: "POUR~", "FRESH!", tiny droplets and splash illustrations.
+0:07.5–0:10
+One cookie is lifted and slowly dipped into the milk. Milk drips gently back into the glass. Animated doodles: "DIP!", "SOFT!", hearts and curved arrows following the cookie.
+0:10–0:12.5
+Macro shot of the cookie breaking in half. Chocolate stretches slightly while crumbs fall in slow motion. Animated doodles: "CRUNCH!", "YUM!", "MMM!" with tiny stars and crumb illustrations.
+0:12.5–0:15
+Hero shot of the cookie box, stacked cookies, and glass of milk beautifully arranged together. A hand places the final cookie onto the plate and gives a thumbs-up. Camera slowly pushes in. Animated doodles: "PERFECT!", "BEST!", "ENJOY!", surrounded by soft sparkles and hand-drawn stars.
+Audio: Natural ASMR only—cardboard tapping, wrapper crinkles, milk pouring, glass clinks, cookie dipping, crunchy bites, falling crumbs, soft tabletop taps, and quiet room ambience. No background music, no subtitles, no logos, no watermarks, and no on-screen text other than the animated doodle words. Premium food commercial cinematography, realistic food physics, macro close-ups, physically accurate lighting, photorealistic 4K HDR, 16:9, 24 fps.</code></pre>
+
+</details>
 
 ## Photorealistic Cinematic Restaurant Video of Mixed-Reality Food Ordering
 

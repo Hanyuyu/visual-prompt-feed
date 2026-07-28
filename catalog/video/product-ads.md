@@ -1,9 +1,143 @@
 # Product Ads video prompts
 
-4 source-linked prompts, newest ImgLume records first.
+7 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium 15-second cinematic Adidas sneaker commercial with pink dress model
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2081690464424493468)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1633](https://imglume.com/prompt/1633)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d45c1eb6-7a15-4900-85b3-8e948da02b5b/4a8720f7-13ee-4eeb-a38b-dd92fb017ae4-1785151871433 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 15-second cinematic Adidas sneaker commercial set in a gritty urban environment featuring vibrant colorful graffiti walls, modern concrete architecture, wide city streets, and a bold high-fashion streetwear aesthetic. The contrast between the rugged urban backdrop and the soft feminine styling creates a luxurious editorial campaign look.
+
+A beautiful Western woman in her mid-20s with long, voluminous wavy blonde hair, fair skin, striking blue eyes, and elegant natural makeup confidently enters the scene. She wears a stylish fitted baby pink mini dress with a modern sporty silhouette paired with matching baby pink Adidas sneakers featuring clean white accents and iconic three stripes. Her hair flows naturally with realistic wind physics, and her confident expression radiates elegance, energy, and authenticity.
+
+Shot 1 (0–2s):
+Open with a wide cinematic establishing shot of the colorful urban street lined with artistic graffiti murals, contemporary concrete buildings, and dramatic natural sunlight. The stylish blonde woman confidently walks into frame wearing her baby pink dress and matching Adidas sneakers. Smooth cinematic dolly movement, subtle lens flare, shallow depth of field, premium fashion-commercial composition.
+
+Shot 2 (2–4s):
+Transition into an extreme low-angle close-up of one Adidas sneaker making a powerful step onto the pavement. Emphasize the detailed sole pattern, premium stitching, realistic fabric texture, clean laces, iconic three stripes, and authentic foot impact. Tiny dust particles subtly lift from the ground while maintaining realistic physics. Ultra-sharp focus with cinematic slow motion.
+
+Shot 3 (4–6s):
+A smooth full-body tracking shot follows the woman walking confidently through the city streets. Her baby pink dress moves naturally with each step while her wavy blonde hair flows beautifully in the breeze. Capture elegant body movement, natural posture, realistic clothing simulation, and luxury fashion-commercial styling.
+
+Shot 4 (6–8s):
+Editorial beauty close-up of her confident face and expressive blue eyes. Soft wind moves her long wavy blonde hair while dramatic golden-hour lighting creates beautiful highlights on her skin. Natural makeup, subtle smile, shallow depth of field, premium cinematic portrait photography.
+
+Shot 5 (8–10s):
+Extreme macro product shot showcasing the Adidas sneaker in exquisite detail. Highlight premium leather and mesh materials, intricate stitching, textured sole, woven laces, embossed branding, realistic fabric fibers, and elegant rotating camera movement with perfect focus transitions.
+
+Shot 6 (10–12s):
+Dynamic side-tracking shot as she confidently walks past colorful graffiti-covered walls. The camera smoothly matches her pace while emphasizing graceful movement, flowing blonde hair, realistic dress physics, premium footwear visibility, and fashionable confidence.
+
+Shot 7 (12–14s):
+A dramatic low-angle hero shot where the Adidas sneakers dominate the foreground while the woman stands confidently above the camera. Cinematic lighting enhances the sneaker silhouette with rich contrast, subtle lens flare, and premium commercial styling.
+
+Final Shot (14–15s):
+Transition to a clean luxury product hero shot of the baby pink Adidas sneakers carefully placed on the pavement against the colorful graffiti backdrop. The camera performs a slow cinematic push-in with elegant depth of field, leaving generous negative space for the campaign message.
+
+On-Screen Text:
+"BE BOLD. BE REAL."
+
+Visual Style:
+Ultra-photorealistic 4K cinematic quality, premium Adidas advertising aesthetic, vibrant cinematic color grading, realistic textures, natural skin tones, luxury fashion campaign lighting, smooth camera movement, shallow depth of field, editorial composition, soft golden-hour sunlight, subtle lens flares, volumetric lighting, realistic hair physics, natural fabric simulation, crisp product detail, consistent character identity, high-end commercial photography, polished luxury branding.
+
+Negative Prompt:
+Low quality, blurry, noisy image, distorted anatomy, extra limbs, extra fingers, duplicated shoes, mismatched footwear, warped Adidas logo, incorrect proportions, unrealistic face, inconsistent character appearance, broken hands, twisted feet, malformed legs, floating objects, clipping, poor lighting, oversaturated colors, excessive motion blur, flickering, compression artifacts, unreadable text, deformed sneaker, incorrect perspective, unrealistic physics, watermark, logo duplication, text glitches, low-resolution textures.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic luxury skincare commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2081587597705691638)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1613](https://imglume.com/prompt/1613)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/184ec151-f68f-41ec-a620-de542f0f5b88/1fb851c0-341b-497d-9acc-e07f93729da6-1785145648028 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic luxury skincare commercial featuring the same beautiful young woman consistently throughout the entire sequence. Maintain identical facial features, hairstyle, skin tone, body proportions, outfit, and overall appearance in every shot. She wears a fitted black short-sleeve top with her hair naturally styled, matching the reference image. The setting is a bright, modern luxury bathroom with marble countertops, an illuminated mirror, neatly arranged premium skincare products, white towels, subtle indoor plants, and soft natural morning light.
+
+The video opens with a close-up of her face as she looks directly into the camera with a gentle smile. The camera slowly pushes in while warm sunlight highlights her naturally glowing skin. She casually turns toward the mirror and begins her skincare routine.
+
+She picks up an elegant facial cleanser, dispenses a small amount into her hands, and massages a rich foamy cleanser across her face using slow circular motions. Cinematic macro shots capture creamy foam, fingers gliding across her skin, water droplets, and realistic skin texture. She rinses her face with clear water and gently pats it dry with a soft white towel.
+
+Next, she lifts a premium toner bottle, pours toner onto a cotton pad, and gently pats it across her cheeks, forehead, and chin. Close-up beauty shots emphasize the liquid absorbing into her skin and the elegant packaging resting on the marble counter.
+
+She then picks up a luxurious serum bottle. The camera captures an extreme macro shot of the pipette filling with golden serum before she places several drops onto her forehead, cheeks, and chin. She gently presses the serum into her skin using slow upward motions while cinematic lighting highlights the healthy glow.
+
+She reaches for a facial mist and sprays a fine refreshing mist over her face. Slow-motion close-ups capture tiny droplets floating through the sunlight before settling naturally onto her skin.
+
+She applies a lightweight moisturizer across her face and neck with smooth upward strokes, followed by a small amount of eye cream gently tapped beneath both eyes. She finishes with a nourishing lip balm, completing the routine with graceful movements.
+
+She looks into the mirror, smiles with satisfaction, softly brushes a loose strand of hair behind her ear, then turns toward the camera with radiant glowing skin. She gives a warm, confident smile and makes a subtle "finished" gesture with her hands before the camera slowly pulls back, revealing the elegant bathroom.
+
+The final hero shot showcases all the premium skincare products beautifully arranged on the marble countertop while she stands softly out of focus in the background, smiling naturally.
+
+Natural ambient audio only: gentle running water, bottle caps opening, serum dropper clicks, facial mist spraying, towel rustling, soft footsteps, subtle room ambience, birds chirping outside the window, and light ventilation sounds. No background music, no dialogue, no subtitles, no logos, no watermarks, and absolutely no on-screen text. Premium commercial-quality cinematography, smooth handheld and gimbal camera movement, physically accurate lighting, realistic skin texture, shallow depth of field, luxury beauty advertising style, warm natural colour grading, 16 :9 widescreen, 4K HDR.</code></pre>
+
+</details>
+
+## Chasing the Tide surfwear commercial
+
+- **Original source:** [@ImaStudio_ai on X](https://x.com/ImaStudio_ai/status/2081346292996014293)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1603](https://imglume.com/prompt/1603)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca5d74cf-3fef-495a-ac19-9eadca49c0cf/ca42c983-7734-478f-9997-3e5933edc915-1785145586185 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second 16:9 cinematic luxury surfwear commercial titled “Chasing the Tide.”
+Style: premium fashion editorial meets Mediterranean surf lifestyle. Golden coastal sunlight, Kodak Portra 400 film look, natural skin texture, realistic saltwater highlights, organic handheld movement, fast editorial rhythm, photorealistic 4K.
+Keep the same female model, colorful long-sleeve surf suit, surfboard, coastline, lighting, and time of day consistent throughout.
+
+0–2s:
+Extreme macro shots of salt crystals, water droplets, printed fabric, neckline, sleeves, flatlock stitching, and stretch seams. Sunlight moves across the fabric, revealing realistic weave and texture.
+
+2–4s:
+The model slides a surfboard under one arm. Close-up of her hand gripping the rail as sand falls away. Sea breeze lifts her hair while she turns toward the ocean without looking at the camera.
+
+4–7s:
+Fast cuts of bare feet moving through wet sand, waves splashing around her ankles, and the surfboard cutting across the frame. She runs toward the water as the fabric stretches naturally with every movement.
+
+7–9s:
+Smooth underwater transition. Bubbles rise around her while sunlight moves across the bold surfwear print. The motion briefly slows, emphasizing the fabric and water resistance.
+
+9–12s:
+She emerges from the ocean, sweeps her wet hair back, and carries the board through sparkling water. Droplets run naturally from the sleeves and bead across the fabric.
+
+12–13.5s:
+Macro montage of printed fabric, stitching, stretch seams, and water droplets rolling away under warm sunlight.
+
+13.5–15s:
+Wide cinematic hero shot. She walks along a rocky Mediterranean shoreline with the surfboard resting on one shoulder. Wind moves her hair and waves crash behind her. She never looks at the camera.
+
+Final text:
+“Made to move with the sea.”
+End with a clean logo placeholder.
+Camera: ultra-macro product shots, low-angle movement shots, subtle handheld tracking, one underwater shot, and a final wide hero frame.
+Audio: dreamy electronic and organic house music with warm bass. Add ocean waves, wind, footsteps, surfboard brushing against sand, fabric stretching, and water droplets. No dialogue or narration.
+Avoid: changing model identity, changing surfwear print, inconsistent surfboard, artificial skin, stiff posing, distorted hands, extra limbs, unrealistic water, floating objects, fabric melting, heavy camera shake, dark lighting, random text, logos, or watermark.</code></pre>
+
+</details>
 
 ## Stay cool and Stay fresh Sprite commercial
 

@@ -1,9 +1,26 @@
 # Product Ads image prompts
 
-1 source-linked prompts, newest ImgLume records first.
+2 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Giant Transparent Perfume Bottle with Model – High Fashion Photo Prompt
+
+- **Original source:** [@hey_am_cherry on X](https://x.com/hey_am_cherry/status/2081633474147135985)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1661](https://imglume.com/prompt/1661)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d7481568-eb5c-4193-8a7a-3f381cf7540a/5ed9564c-6ee6-46e6-8d7f-86721dd2a8d6-1785168692264 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A massive crystal-clear transparent luxury perfume bottle, as tall as a human, with a beautiful European fashion model clearly visible standing inside the bottle. The bottle is made of pure ultra-clear glass like a museum display case, completely transparent with no tinted glass, no colored liquid, no fog blocking the view. The woman is fully visible from head to toe inside the giant bottle, wearing an elegant flowing haute couture gown, standing gracefully in a powerful fashion pose. Her face, eyes, hairstyle, and dress details are sharp and clearly visible through the glass. The oversized perfume bottle has a luxurious golden cap, crystal edges, and sits on a premium black marble pedestal. Soft golden studio lighting creates subtle glass reflections without hiding the model. High fashion perfume advertisement, luxury beauty campaign, Vogue editorial style, realistic glass refraction, sharp focus on woman, ultra detailed, cinematic photography, 85mm lens, shallow depth of field, hyper realistic, 8K, vertical 4:5.</code></pre>
+
+</details>
 
 ## Premium FMCG product advertisement prompt
 
