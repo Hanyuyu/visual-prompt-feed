@@ -1,9 +1,26 @@
 # Poster Design image prompts
 
-5 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic portrait of a young woman on a subway platform with urban street-art typography poster
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2082061700438651277)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1736](https://imglume.com/prompt/1736)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ef463134-5f1d-454b-a170-62901d97e9e3/96112e53-47e7-496b-9c9b-f1598a4df8ce-1785252743968 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, high-fidelity portrait of a young woman standing perfectly still on a subway platform as a train rushes behind her. She has warm brown hair with soft bangs and a few loose strands blowing in the wind created by the passing train. Her face is clear and sharp, featuring delicate freckles, soft makeup, and a calm, slightly pensive expression. Add bold red, black, and gray paint splashes with geometric circles, lines, and grid overlays for a modern urban street-art aesthetic. Include the typography: "FOCUS" in large cream uppercase letters, "on your" in red brush script, and "Dreams" in elegant black script, along with the motivational text "DISCIPLINE TODAY • STRENGTH TOMORROW • LEGACY FOREVER", vertical "STAY FOCUSED" on the right, subtle dot accents centered at the bottom. Style it as a luxury, magazine-quality, high-resolution graphic design poster with a clean, balanced composition.</code></pre>
+
+</details>
 
 ## Ultra-Premium Président Butter 2x3 Six-Panel Campaign Poster
 

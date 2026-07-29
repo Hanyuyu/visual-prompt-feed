@@ -1,9 +1,336 @@
 # Animation video prompts
 
-4 source-linked prompts, newest ImgLume records first.
+10 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Professor Crumble's Wonder Workshop
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2082060465077981481)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [1724](https://imglume.com/prompt/1724)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a904fac4-866b-497f-b30b-25285f365896/f945432e-3330-43d5-b4a6-e1c81e2ca85e-1785246404455 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 15 Seconds
+
+Aspect Ratio: 16:9
+
+Genre: Whimsical Fantasy Animation
+
+Style: Premium animated feature film, ultra-detailed stylized 3D, cinematic lighting, warm golden sunlight streaming through giant candy-glass windows, magical volumetric dust, soft bloom, rich pastel color palette, handcrafted fantasy architecture, highly expressive animation, Pixar-inspired quality (original world and characters), playful orchestral energy, buttery-smooth camera movement, shallow depth of field, subtle magical particles, cozy fantasy atmosphere.
+
+Character Reference
+
+Use the exact approved character sheets for:
+
+Professor Crumble
+
+Mochi
+Whisk
+Jello
+Sprinkle
+STRICT CHARACTER &amp; IDENTITY LOCK
+Maintain identical facial features, body proportions, hairstyles, clothing, accessories, colors, materials, and personalities exactly as shown in their character sheets throughout every shot. No redesigns or inconsistencies.
+
+0–3 Seconds
+
+Camera
+A sweeping FPV cinematic drone shot glides through enormous candy-colored stained-glass windows before gently diving into the magical workshop.
+
+The camera flies between floating cupcake chandeliers, spinning sugar gears, glass tubes carrying glowing syrup, and tiny pastry robots crossing wooden bridges.
+
+The workshop feels impossibly huge, alive, and full of wonder.
+
+As the camera slows, Professor Crumble comes into view at the center of the room.
+
+Characters
+
+Professor Crumble is happily humming while carefully sketching a recipe upside down.
+
+Whisk quietly polishes copper mixing machines.
+
+Mochi floats overhead carrying an enormous bag of sparkling Cloud Flour that's clearly too heavy.
+
+Jello secretly peeks from behind a cookie jar with a mischievous grin.
+
+Sprinkle flutters through flowering vines, gently waking magical strawberries with glowing fairy dust.
+
+3–6 Seconds
+
+Camera
+A smooth dolly move circles Professor Crumble as he suddenly gasps with excitement.
+
+The camera pushes in dramatically as his amber eyes sparkle.
+
+His Spectra Goggles rotate automatically.
+
+Tiny magical sugar particles begin swirling around him.
+
+Action
+
+Professor Crumble raises his glowing Wonder Spoon.
+
+He smiles warmly.
+
+"Now then... let's discover something impossible."
+
+Every machine in the workshop softly comes alive.
+
+Copper pipes glow.
+
+Glass bottles gently vibrate.
+
+Tiny lights flicker across the ceiling.
+
+6–9 Seconds
+
+Camera
+Fast overhead crane shot transitions into a rotating close-up around the giant enchanted mixing bowl.
+
+Action
+
+Mochi excitedly tosses Cloud Flour into the bowl.
+
+Sprinkle adds glowing Crystal Berries.
+
+Whisk precisely pours shimmering Moon Vanilla.
+
+Everything is going perfectly...
+
+Until...
+
+Jello quietly stretches into a long jelly arm...
+
+...and drops one mysterious sparkling ingredient into the mixture.
+
+Nobody notices.
+
+The bowl instantly flashes with rainbow light.
+
+9–12 Seconds
+
+Camera
+The camera rapidly orbits the mixing bowl before switching to an extreme slow-motion close-up.
+
+Action
+
+Rainbow batter floats into the air.
+
+Sugar butterflies appear.
+
+Miniature constellations swirl inside the mixture.
+
+Chocolate ribbons spiral around glowing fruit.
+
+Professor Crumble laughs with childlike joy instead of panic.
+
+Mochi spins happily in midair.
+
+Whisk's eyes widen in astonishment.
+
+Jello tries to look innocent.
+
+12–15 Seconds
+
+Camera
+A slow cinematic push-in reveals the finished dessert floating above the workshop.
+
+Everyone gathers beneath it.
+
+The dessert slowly blossoms like a magical flower.
+
+Golden sparkles drift through the room.
+
+Professor Crumble takes one tiny bite.
+
+His eyes light up.
+
+He laughs warmly.
+
+"Perfection is delicious... but surprises are unforgettable."
+
+The camera gently pulls back through the workshop as all five characters admire the glowing dessert together.
+
+The final frame freezes into a beautiful storybook illustration while shimmering golden text appears:
+
+"Professor Crumble's Wonder Workshop"
+
+Tiny sugar sparkles continue drifting across the screen as the music ends on a magical, uplifting note.
+
+🎥 Cinematic Notes
+
+Smooth FPV fly-throughs with graceful, weightless movement.
+Gentle dolly and crane shots to emphasize scale and wonder.
+Macro close-ups for magical ingredients and expressive character moments.
+Warm golden lighting with soft bloom and volumetric sun rays.
+Rich environmental animation: bubbling syrup, rotating gears, floating flour dust, drifting sparkles, gently swaying vines, and glowing glass tubes.
+Every character should remain active in the background, making the workshop feel like a living, breathing place where magic is always happening. This makes the world feel endlessly alive and invites viewers to rewatch to catch all the little details.</code></pre>
+
+</details>
+
+## Cinematic Pixar-style coffee shop short film
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2082055431179092230)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [1721](https://imglume.com/prompt/1721)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1599ce1b-dce0-4412-845c-f896910f9906/a8ff874f-746a-49fa-b2c7-fdef11d074fc-1785244283724 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Part 1 (0–7s)
+
+A cinematic Pixar-style animated short film with feature-film-quality 3D animation, expressive stylized characters, a cozy warmly-lit coffee shop, golden afternoon light, shallow depth of field, fast dynamic cinematic camera cuts, upbeat urgent orchestral score, polished Pixar-quality rendering, expressive facial animation.
+
+A shy 20-year-old coffee shop boy with soft wavy brown hair, gentle hazel eyes, forest-green apron over a white shirt, finishes a coffee cup behind the counter.
+
+A 20-year-old girl with auburn ponytail, green eyes, oversized denim jacket, grabs the cup and bolts for the door.
+
+Shop Manager (shouting): "She didn't pay!"
+
+She collides with the boy, coffee splashing.
+
+Girl (rushed): "Sorry—I'll pay you back!"
+
+She's gone, weaving through the street crowd. Boy stands frozen, coffee-stained.
+
+Part 2 (7–15s)
+
+Continue seamlessly. Same characters, clothing, lighting, coffee shop, Pixar-style feature-film-quality 3D animation.
+
+Next morning, boy wipes the counter, distracted. Door chimes fast — the girl rushes back in, holding out cash and a small pastry bag.
+
+Girl (quick, breathless): "My brother — hospital. I still remembered!"
+
+She sets it down and turns to leave already.
+
+Boy (surprised, half-smile): "You didn't have to—"
+
+Girl (already at the door, grinning back): "Said I would!"
+
+Door chimes shut behind her. Boy stands there, smiling, coffee-stained sleeve forgotten.
+
+Camera quick pull-back. Cut to black.</code></pre>
+
+</details>
+
+## 60-second 3D Pixar-style animated commercial for 7UP Extra Fizz
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2081971529823432803)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`, `product-ads`
+- **ImgLume record:** [1694](https://imglume.com/prompt/1694)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a4cb7e27-5316-41ed-aa6f-b40354025bd7/04e0ab82-1889-4524-90c7-588e7ed6cf78-1785219135151 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 60-second 3D Pixar-style animated commercial for 7UP Extra Fizz. Bright, vibrant, highly expressive cartoon rendering with smooth exaggerated animation, big emotional faces, soft rounded shapes, rich saturated colors, and cinematic lighting. Vertical smartphone aspect ratio with dynamic camera moves (sweeping low angles, playful tracking shots, extreme close-ups on expressions). *Setting:* A sunny, modern Western suburban home with open-plan living spaces, light wooden floors, white walls with geometric wood accent panels, large windows letting in golden afternoon light, and a cozy, slightly cluttered family feel. *Characters:* •⁠ ⁠Mom: Mid-50s Western woman, warm but dramatic, short stylish brown hair with a few gray streaks, wearing a soft beige cardigan over a patterned blouse and jeans. •⁠ ⁠Daughter: Early-20s, long reddish-brown hair in a high ponytail, wearing an olive-green polo shirt, gold heart necklace, and baggy light-wash jeans. Highly expressive Pixar-style face that goes from annoyed → exhausted → pure joy. *Scene breakdown:* 0–6s: Close-up of a vintage green rotary phone on a glossy side table. Mom appears in the background holding the handset, eyes wide with urgency, waving her free hand dramatically as she speaks in English: “The guests are coming in an hour! Honey, hurry up! Clean every single fan blade, one by one — please, please, go go go!” 6–12s: Cut to the daughter on the living-room sofa, scrolling on a peach smartphone. Her face scrunches into a classic Pixar annoyed expression (eyebrows knitted, mouth twisted). She lets out a big exaggerated sigh. 12–22s: Mom marches in holding a green-handled mop, gesturing wildly. Daughter climbs a bright red stepladder and starts cleaning a dark wooden ceiling fan. She meticulously wipes each blade with a white cloth, her face showing increasing determination mixed with irritation. Camera circles around her as dust motes float in the light. She then dusts the geometric wooden wall panels with a long grey duster, dramatically wiping sweat from her forehead with a big cartoonish gesture. 22–32s: Daughter now wears bright yellow rubber gloves. She crouches inside a wide-open stainless-steel refrigerator, vigorously scrubbing the white interior walls and shelves with a green microfiber cloth. Several green 7UP bottles are clearly visible on the door shelves. Her expression is pure focused effort, tongue slightly sticking out in concentration. 32–42s: Outside on the front porch steps under a soft evening sky. Mom stands in the doorway still urging. Daughter holds the mop, shoulders slumped, and complains with big exaggerated exhaustion: “Mom, the stairs too?! This is getting a little extra!” She continues, voice rising: “I’m completely wiped from all this extra cleaning!” 42–52s: Extreme close-up of the daughter’s tired face. She reaches for a cold green 7UP Extra Fizz bottle. With a satisfying twist and loud fizzy “PSSSHT!” sound effect, she opens it. Bubbles and tiny water droplets spray in a playful Pixar-style flourish. She takes a long, refreshing drink. Her entire face transforms — eyes light up, cheeks glow, a huge genuine smile spreads as energy returns to her body. She does a little joyful bounce. 52–60s: Dynamic heroic product shot. The icy-cold 7UP Extra Fizz bottle rises against a bright blue sky. Dramatic water splash and exploding bubbles surround it in exaggerated, sparkling 3D animation. Bold, playful on-screen text pops in with a bounce: “INTRODUCING 7UP EXTRA FIZZ” next to the classic 7UP logo. Soft upbeat music swells into a fresh, fizzy climax. *Overall tone &amp; style:* Warm, relatable, slightly comedic family chaos that feels like a Pixar short, transitioning into pure refreshing joy. Exaggerated facial expressions, squash-and-stretch animation, vibrant green product highlights, smooth camera movement, clear English dialogue, and upbeat background music that builds from stressed household energy to sparkling refreshment.</code></pre>
+
+</details>
+
+## The Marble That Looked Back – 15-Second Animated Short
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2081954949731323964)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [1688](https://imglume.com/prompt/1688)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/61e9f497-ef25-4a8c-8167-7b135f359b31/17dc8576-2b3a-48a9-86c8-598a779b8e99-1785216983177 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Animated Short – "The Marble That Looked Back"
+
+Style: DreamWorks × Love, Death &amp; Robots quality, ultra-detailed 3D animation, cinematic realism, volumetric lighting, magical atmosphere, macro cinematography, emotional orchestral score, 8K HDR, ray-traced reflections, shallow depth of field, smooth camera movement, no text, no watermark.
+
+Scene 1 (0–2.5s) – The Discovery
+
+At sunset, a curious 9-year-old child explores an ancient forest. Hidden beneath glowing moss lies a crystal marble no larger than a walnut, radiating soft cosmic light. The child gently picks it up, fascinated.
+
+Scene 2 (2.5–5s) – A Living Universe
+
+As the marble is held to the light, countless miniature galaxies, planets, comets, and colorful nebulae begin swirling inside. Tiny civilizations orbit glowing stars while microscopic spacecraft leave shimmering trails.
+
+Scene 3 (5–7.5s) – The Impossible
+
+The camera dives into the marble, revealing a breathtaking miniature universe. On a small planet, thousands of tiny people suddenly stop what they're doing at the exact same moment and slowly look upward in perfect synchronization.
+
+Scene 4 (7.5–10s) – They Can See You
+
+The child blinks in shock. Inside the marble, one tiny girl steps forward and raises her hand toward the sky. The entire civilization follows, silently pointing directly at the child beyond their universe.
+
+Scene 5 (10–12.5s) – The Twist
+
+The marble begins glowing intensely. The child's reflection appears on the surface—but inside the reflection, another enormous eye slowly opens behind the child, watching both worlds without moving.
+
+Scene 6 (12.5–15s) – Endless Worlds
+
+The camera rapidly pulls back. The child is revealed to exist inside another glowing marble resting in the palm of an unimaginably colossal cosmic being. The giant smiles softly as millions of identical universe-filled marbles orbit around it. Fade to black.
+
+Ending feeling: The audience realizes that every universe may simply be a marble held by someone in an even larger reality, creating an infinite chain of worlds observing one another. This leaves viewers with awe, mystery, and a lingering question: Who is holding our universe?</code></pre>
+
+</details>
+
+## Live-action kitchen with chibi 2D sticker cooking vlog
+
+- **Original source:** [@OriSilver on X](https://x.com/OriSilver/status/2081748527676297379)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1686](https://imglume.com/prompt/1686)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/04d36bea-2ccd-405f-a1af-78e37be44962/9beea93c-be36-4077-b31c-00332c91ec87-1785213119294 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[STYLE] Live-action footage + hand-drawn 2D anime sticker composite, comedic short video. First-person POV cooking vlog. Strong contrast between a photorealistic kitchen and a warm, hand-drawn watercolor cartoon sticker character. The real kitchen, cast-iron wok, food, salt grains, and human hands stay photographic and lifelike at all times; the chibi sticker character stays a purely flat, hand-drawn 2D sticker throughout. 8K ultra-sharp, vertical 9:16, handheld micro-shake, fast comedic pacing, real physics mixed with exaggerated cartoon FX.
+
+[SCENE] A real home kitchen, first-person top-down view. A black cast-iron wok sits on the stove, beef and leafy greens stir-frying inside with a realistic oily sheen, sizzling continuously, steam rising naturally. Background: white tiled wall with a visible wall outlet; a soy sauce bottle and cooking oil bottle lined up against the wall. A stainless-steel sink on the right edge of frame, natural daylight from a side window.
+
+[CHARACTER] The reference image is a photo of a real man — render him as a chibi, two-heads-tall hand-drawn anime sticker version of himself, keeping his identity clearly recognizable: light stubble and a short salt-and-pepper goatee, bright blue-gray cartoon eyes, thick expressive eyebrows, shaved head fully covered by a black baseball cap worn backwards with the snapback strap visible across his forehead. Black ribbed tank top. Both arms covered shoulder-to-forearm in dark gray geometric mandala and snowflake-pattern sleeve tattoos, drawn simplified in the same soft watercolor sticker style; chest tattoo edges peek from the tank top neckline. Warm watercolor storybook texture: colored-pencil and watercolor-wash brushwork, paper grain, soft dark-brown cartoon outline, clean white sticker edge. Smug, mischievous troublemaker expression. He remains a purely flat 2D sticker the entire video — real kitchen lighting must not re-render him with volume; he never becomes 3D, a real person, clay, or realistic anime. He sits on a small wooden stool beside the stove, about half the wok's diameter tall. The real human hands enter from the right of frame — skin, pores, lighting fully realistic.
+
+[00:00-00:03 | SHOT 1: THE SALT DUMP] First-person top-down POV. The real right hand stir-fries the beef and greens with a spatula. The chibi guy sneakily narrows his eyes, smug grin spreading, one eyebrow arched. With both tiny hands he hoists a realistic glass salt jar bigger than his own head and, mid-stir, dumps the entire jar of white salt into the wok. A continuous waterfall of realistic salt grains pours onto the food, piling into a small white mountain in the wok's center. His backwards black cap jiggles with the motion but never falls off. SFX: food sizzling, dense rushing hiss of pouring salt.
+[00:03-00:05 | SHOT 2: JAR SNATCH, SPATULA BONK] The real hand swiftly snatches the glass salt jar out of his arms; the other hand raises the spatula, flat side down, and gives the top of his backwards cap one light bonk — an exaggerated but harmless cartoon tap. With a "Duang" effect, a red cartoon lump pops up beside the cap. His whole 2D paper body springs up and down once, both little tattooed hands clutching the cap. Eyes go wide, smug grin wiped off, cap slightly tilted but still on backwards. SFX: metallic spatula "Duang", cartoon spring boing.
+
+[00:05-00:08 | SHOT 3: WAILING MOUTH OPEN, SALT SHOVELED IN] He holds the red lump with both hands, eyes turning into spinning swirl eyes, mouth wide open in an exaggerated bawling wail — the tough tattooed sticker guy crying like a toddler. Blue cartoon tears spray out to both sides of his stubbled cheeks like twin fountains; the backwards cap droops but the snapback strap stays visible. The real hand shovels a heaping spatula-load of salt-covered beef and greens off the salt mountain and, while his mouth is wide open mid-wail, delivers the food precisely into his mouth. The food stuffs in with exaggerated cartoon physics; his cheeks puff into two round hemispheres. No real injury, choking, or suffering — absurd cartoon comedy only. SFX: over-the-top cartoon crying, spatula scraping salt, a "pop" as the food stuffs in.
+[00:08-00:10 | SHOT 4: TOO SALTY, KEELS OVER] His cheeks puff into two bright-red spheres as he struggles to swallow one gulp. Eyes shrink into two tiny black dots, the whole 2D sticker fades to a pale washed-out tone — tattoos included — body stiff, vibrating rapidly for half a beat. Then his eyes turn into two cartoon "X"s, the cap tips to one side, and he tips straight backward off the stool. Limbs up in the air, tattooed arms giving one feeble paddle, he flops flat beside the stove like a thin sheet of paper. Cap stays near his head; tattoo sleeves fully visible on both splayed arms. A ring of spinning dizzy stars appears beside the red lump; a wisp of translucent white cartoon smoke drifts up from his nose. Freeze frame on the final 0.3 seconds. SFX: a stiff "clunk", a paper-flat "thud", a short comical cartoon "soul ascending" jingle.
+
+[HARD RULES] One and the same chibi character throughout, identity from the reference photo. Backwards black cap always present with visible snapback strap, never forwards, never gone. Goatee and stubble consistent. Always the black ribbed tank top. Both full geometric tattoo sleeves always visible, pattern consistent. Always a flat 2D watercolor sticker — never 3D, live-action, clay, plush, or realistic anime. Real kitchen, food, spatula, salt, and hands stay photorealistic. Stable edges between cartoon and real scene — no clipping, melting, or duplication. No subtitles, watermarks, logos, or off-screen characters. Native vertical 9:16.</code></pre>
+
+</details>
+
+## Studio Ghibli-inspired forest riverbank fish soup scene
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2081774167289188695)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [1670](https://imglume.com/prompt/1670)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4488b774-92c4-4fe2-b6c3-96ade0700946/7b3d3f88-46df-4244-9031-dc47b001e5de-1785183376971 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A warm Studio Ghibli-inspired anime scene of a peaceful forest riverbank where hands prepare a traditional bamboo-cooked fish soup. A fresh bamboo vessel is filled with water, colorful fish, grains, herbs, spices, and vegetables, then cooked over a crackling campfire beside the river. The steaming golden broth is poured into a wooden bowl, garnished with fresh greens and mushrooms, with lush foliage, flowing water, and a cozy cinematic atmosphere. Highly detailed, magical, and nature-filled animation style.</code></pre>
+
+</details>
 
 ## 15-second 2D animated chalkboard karate fight
 

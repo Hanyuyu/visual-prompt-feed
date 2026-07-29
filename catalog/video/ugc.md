@@ -1,9 +1,103 @@
 # UGC video prompts
 
-5 source-linked prompts, newest ImgLume records first.
+7 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld MiniDV Dance Vlog of Korean Idol CHASE in Late-Night Studio
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2081725227088957500)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `ugc`
+- **ImgLume record:** [1715](https://imglume.com/prompt/1715)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b8af827-89a6-4214-bffc-2fb79d354e9f/d8302a85-6f67-4626-a4c9-2018d526d6b9-1785235906715 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Authentic MiniDV/DV 16mm camcorder handheld footage recorded entirely by CHASE herself. Every shot is filmed in selfie mode or first-person POV with natural hand shake, imperfect framing, delayed autofocus, occasional overexposure, clumsy zooms, slight focus hunting, accidental head cropping, and realistic camera mistakes. The camera always feels hand-held and personal, never stabilized or cinematic, and the camcorder itself never appears on screen.
+
+LOOK: Genuine early-2000s DV tape aesthetic with soft image quality, subtle motion blur, faint tape grain, light digital noise, blooming highlights, muted contrast, warm indoor white balance, realistic skin tones, slight chromatic aberration, and gentle exposure flicker, creating the feeling of authentic home-video footage rather than a polished production.
+
+STYLE: A quiet late-night dance vlog with a relaxed, intimate atmosphere. CHASE has just finished a long rehearsal and is physically exhausted but genuinely happy with her progress. Her breathing is natural, her laughs are spontaneous, and every moment feels unscripted and personal, as if she's casually updating fans before heading home.
+
+Character: CHASE is a Korean idol in her early 20s with long straight black hair tied into a slightly messy ponytail, a few loose strands framing her face, glowing skin with a light sheen of sweat, expressive eyes, and a slim athletic build. She wears an oversized long-sleeve athletic practice shirt, loose grey sweatpants, and white sneakers with no jewelry.
+
+Setting: A spacious dance practice studio late at night featuring wooden floors, a full mirror wall, a Bluetooth speaker in the corner, a water bottle, towel, and dance bag resting against the mirror, while the hallway outside is dark and quiet, emphasizing that everyone else has already gone home.
+
+Storyboard:
+
+(~2s, camera propped against the mirror, medium shot)
+CHASE walks into frame breathing heavily, wipes sweat from her forehead with the back of her hand, smiles naturally, and says, "Finally finished... I don't even know what time it is anymore."
+
+(~2s, handheld selfie)
+She picks up the camera, slowly pans across the empty studio and mirror wall before pointing it back at herself with a small smile. "Everyone already went home..." she says before quietly laughing.
+
+(~2s, handheld walking shot)
+She walks toward the wall, grabs her water bottle, takes a long refreshing drink, closes her eyes briefly, exhales, and smiles. "That tastes amazing right now."
+
+(~1.5s, macro insert with shallow depth of field)
+Close-up of condensation on the water bottle as her fingers wipe away the droplets while only her soft breathing is heard.
+
+(~2s, medium shot with camera propped against the mirror)
+She steps back into frame and performs a short, sharp dance combination with impressive energy before immediately laughing and bending forward while catching her breath.
+
+(~2s, handheld close-up selfie)
+Her cheeks are flushed, hair slightly messy, and she's smiling as she says, "Still messed up the ending... Tomorrow again."
+
+(~3s, arm's-length selfie while walking toward the exit)
+She drapes a towel over her shoulder, reaches to switch off the studio lights behind her, gives the camera one warm smile and a small wave, then softly says, "Good night... see you tomorrow," before reaching toward the lens to stop the recording as the footage ends with a subtle MiniDV tape glitch.</code></pre>
+
+</details>
+
+## Rooftop party vlog of K-pop idol NARI captured on smartphone
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2081774882875228370)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1687](https://imglume.com/prompt/1687)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fb75a5cb-e7fb-4479-b06b-fd5a47eb91d7/bee3ef7a-5ff3-4327-a26c-e91312811752-1785214877899 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Concept: "Girls' Night Out"
+
+Create a hyper-realistic self-recorded vlog filmed entirely on a modern flagship smartphone using the front-facing camera. The entire video is captured by the vlogger herself in one continuous recording, making viewers feel like they're part of the night. The footage should feel spontaneous and unscripted with natural handheld movement, subtle smartphone stabilization, realistic autofocus adjustments, automatic HDR exposure changes, authentic low-light performance, occasional framing imperfections, and genuine ambient sound. No cinematic shots, transitions, jump cuts, or edited montages.
+Visual Style
+Modern smartphone video with crisp detail, realistic HDR, natural skin tones, balanced exposure, authentic night lighting, and accurate colours. Club lights, warm decorative lighting, and city lights should illuminate the scene naturally without excessive bloom or stylized effects. No beauty filters, film grain, or cinematic grading.
+Character
+NARI, a Korean female idol in her twenties with long softly curled black hair, glowing natural makeup, expressive eyes, and a fun, energetic personality.
+She wears a fashionable party outfit suitable for an upscale rooftop celebration: a stylish black mini dress with a cropped leather jacket, delicate jewelry, comfortable heels, and a small shoulder bag. Her outfit remains consistent throughout the vlog.
+Location
+A stylish rooftop party overlooking the city skyline at night. Warm string lights, lounge seating, live DJ, dance floor, mocktail bar, decorative plants, and groups of friends enjoying the evening. The atmosphere is lively, elegant, and realistic rather than crowded or chaotic.
+The recording begins inside the elevator as NARI smiles into the phone.
+"Tonight is all about relaxing with my friends... no rehearsals, no schedules."
+The elevator doors open to reveal the rooftop venue glowing with warm lights and music.
+She walks through the entrance, greeting friends with hugs and laughter before introducing a few of them to the camera with playful reactions.
+She grabs a colourful mocktail from the bar.
+"This one looks way too pretty not to film."
+As the music gets livelier, she joins her friends on the dance floor.
+Still holding the phone naturally, she records short moments of everyone dancing, laughing, spinning together, and singing along to the music. The camera occasionally turns outward to capture the city skyline, decorative lights, and the joyful atmosphere before returning to selfie view.
+Between songs she catches her breath, smiling at the camera.
+"I forgot how much I needed a night like this."
+Her friends pull her back onto the dance floor.
+She laughs, records a few more energetic moments, then walks toward the rooftop edge where the skyline fills the background.
+Looking into the camera with a relaxed smile, she says,
+"Sometimes the best memories are the ones you never plan."
+Her friends call her name from behind.
+She turns around laughing, waves to the camera,
+"Okay... they're stealing me back. See you next time!"
+She runs back toward her friends as everyone continues dancing together. The recording ends naturally as she lowers the phone while rejoining the celebration.
+Generation Requirements
+Produce one continuous realistic smartphone recording with a consistent facial identity, natural body movement, believable dancing, accurate hand interactions, realistic low-light smartphone exposure, stable clothing continuity, authentic crowd behaviour, smooth camera motion, and natural environmental audio. Avoid AI artifacts, duplicated people, warped anatomy, floating objects, jump cuts, or unrealistic movements. The final result should feel like a genuine personal party vlog filmed by a real K-pop idol on her own smartphone.</code></pre>
+
+</details>
 
 ## Premium UGC video of a young woman making a smoothie in a modern kitchen
 

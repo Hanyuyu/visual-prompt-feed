@@ -1,9 +1,153 @@
 # Character video prompts
 
-10 source-linked prompts, newest ImgLume records first.
+14 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld MiniDV Dance Vlog of Korean Idol CHASE in Late-Night Studio
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2081725227088957500)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `ugc`
+- **ImgLume record:** [1715](https://imglume.com/prompt/1715)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b8af827-89a6-4214-bffc-2fb79d354e9f/d8302a85-6f67-4626-a4c9-2018d526d6b9-1785235906715 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Authentic MiniDV/DV 16mm camcorder handheld footage recorded entirely by CHASE herself. Every shot is filmed in selfie mode or first-person POV with natural hand shake, imperfect framing, delayed autofocus, occasional overexposure, clumsy zooms, slight focus hunting, accidental head cropping, and realistic camera mistakes. The camera always feels hand-held and personal, never stabilized or cinematic, and the camcorder itself never appears on screen.
+
+LOOK: Genuine early-2000s DV tape aesthetic with soft image quality, subtle motion blur, faint tape grain, light digital noise, blooming highlights, muted contrast, warm indoor white balance, realistic skin tones, slight chromatic aberration, and gentle exposure flicker, creating the feeling of authentic home-video footage rather than a polished production.
+
+STYLE: A quiet late-night dance vlog with a relaxed, intimate atmosphere. CHASE has just finished a long rehearsal and is physically exhausted but genuinely happy with her progress. Her breathing is natural, her laughs are spontaneous, and every moment feels unscripted and personal, as if she's casually updating fans before heading home.
+
+Character: CHASE is a Korean idol in her early 20s with long straight black hair tied into a slightly messy ponytail, a few loose strands framing her face, glowing skin with a light sheen of sweat, expressive eyes, and a slim athletic build. She wears an oversized long-sleeve athletic practice shirt, loose grey sweatpants, and white sneakers with no jewelry.
+
+Setting: A spacious dance practice studio late at night featuring wooden floors, a full mirror wall, a Bluetooth speaker in the corner, a water bottle, towel, and dance bag resting against the mirror, while the hallway outside is dark and quiet, emphasizing that everyone else has already gone home.
+
+Storyboard:
+
+(~2s, camera propped against the mirror, medium shot)
+CHASE walks into frame breathing heavily, wipes sweat from her forehead with the back of her hand, smiles naturally, and says, "Finally finished... I don't even know what time it is anymore."
+
+(~2s, handheld selfie)
+She picks up the camera, slowly pans across the empty studio and mirror wall before pointing it back at herself with a small smile. "Everyone already went home..." she says before quietly laughing.
+
+(~2s, handheld walking shot)
+She walks toward the wall, grabs her water bottle, takes a long refreshing drink, closes her eyes briefly, exhales, and smiles. "That tastes amazing right now."
+
+(~1.5s, macro insert with shallow depth of field)
+Close-up of condensation on the water bottle as her fingers wipe away the droplets while only her soft breathing is heard.
+
+(~2s, medium shot with camera propped against the mirror)
+She steps back into frame and performs a short, sharp dance combination with impressive energy before immediately laughing and bending forward while catching her breath.
+
+(~2s, handheld close-up selfie)
+Her cheeks are flushed, hair slightly messy, and she's smiling as she says, "Still messed up the ending... Tomorrow again."
+
+(~3s, arm's-length selfie while walking toward the exit)
+She drapes a towel over her shoulder, reaches to switch off the studio lights behind her, gives the camera one warm smile and a small wave, then softly says, "Good night... see you tomorrow," before reaching toward the lens to stop the recording as the footage ends with a subtle MiniDV tape glitch.</code></pre>
+
+</details>
+
+## 发型变装展示 10秒 垂直影棚视频
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2081945874909827416)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [1693](https://imglume.com/prompt/1693)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/97979d4a-2702-4d3e-a6f0-8740beb9ff76/7aa4d3a2-46c4-40c4-9219-6fa4712a6a0a-1785219114763 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【风格】发型变装展示（Hairstyle Transformation Showcase），影棚写真质感（9:16 Vertical, Studio Photography），暖米色纯色背景人像布光，丝滑卡点变装节奏
+【时长】10秒
+【场景】暖米色无缝影棚背景全程不变，正面柔光箱人像布光，发丝边缘有轻微轮廓光
+【角色】女主@图片1（面部特征全程保持一致，发型与服装按分镜切换）
+【机位锁定】固定机位竖屏中近景（胸口以上），女主居中直面镜头
+【转场机制】每段结尾女主向侧后方转身甩头（Turn + Hair Whip），头发高速甩动拉出运动模糊、短暂遮挡面部的瞬间硬切，转回正面时已换成新发型与新服装；全片九次变装全部使用这一转场，发型名旁白与居中字幕同步切换
+
+[00:00-00:01] 发型1：黑长直——白色针织毛衣，黑长直发垂顺贴肩，张口报幕："黑长直。"→转身甩头
+[00:01-00:02] 发型2：羊毛卷——驼色麻花毛衣配银耳环，蓬松羊毛卷随转头弹动："羊毛卷。"→转身甩头
+[00:02-00:03] 发型3：大波浪——黑色小西装配红唇，大波浪卷垂胸前，抬手打招呼："大波浪。"→转身甩头
+[00:03-00:04] 发型4：齐肩短发——浅蓝衬衫，齐肩短发微内扣，发尾轻晃："齐肩短发。"→转身甩头
+[00:04-00:05] 发型5：高马尾——白色oversize运动球衣露腰，高马尾利落元气，马尾随动作甩动："高马尾。"→转身甩头
+[00:05-00:06] 发型6：锁骨发——碎花雪纺连衣裙，锁骨发温柔垂落："锁骨发。"→转身甩头
+[00:06-00:07] 发型7：公主切——藏青白水手服配粉色领结，黑发公主切+齐刘海："公主切。"→转身甩头
+[00:07-00:08.5] 发型8：蛋卷头——粉色洛丽塔连衣裙，双侧蛋卷头丸子辫，双手对镜头比心："蛋卷头。"→转身甩头
+[00:08.5-00:10] 发型9：超短发定格——黑色工装衬衫配背带，利落超短发，转回正面挑眉一笑："超短发。"字幕弹出，画面定格收束
+
+【音效】轻快卡点BGM打底，每次转身甩头配头发破风的"呼"声+一声"咔"的卡点音，结尾定格配上扬收束音</code></pre>
+
+</details>
+
+## Live-action kitchen with chibi 2D sticker cooking vlog
+
+- **Original source:** [@OriSilver on X](https://x.com/OriSilver/status/2081748527676297379)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1686](https://imglume.com/prompt/1686)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/04d36bea-2ccd-405f-a1af-78e37be44962/9beea93c-be36-4077-b31c-00332c91ec87-1785213119294 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[STYLE] Live-action footage + hand-drawn 2D anime sticker composite, comedic short video. First-person POV cooking vlog. Strong contrast between a photorealistic kitchen and a warm, hand-drawn watercolor cartoon sticker character. The real kitchen, cast-iron wok, food, salt grains, and human hands stay photographic and lifelike at all times; the chibi sticker character stays a purely flat, hand-drawn 2D sticker throughout. 8K ultra-sharp, vertical 9:16, handheld micro-shake, fast comedic pacing, real physics mixed with exaggerated cartoon FX.
+
+[SCENE] A real home kitchen, first-person top-down view. A black cast-iron wok sits on the stove, beef and leafy greens stir-frying inside with a realistic oily sheen, sizzling continuously, steam rising naturally. Background: white tiled wall with a visible wall outlet; a soy sauce bottle and cooking oil bottle lined up against the wall. A stainless-steel sink on the right edge of frame, natural daylight from a side window.
+
+[CHARACTER] The reference image is a photo of a real man — render him as a chibi, two-heads-tall hand-drawn anime sticker version of himself, keeping his identity clearly recognizable: light stubble and a short salt-and-pepper goatee, bright blue-gray cartoon eyes, thick expressive eyebrows, shaved head fully covered by a black baseball cap worn backwards with the snapback strap visible across his forehead. Black ribbed tank top. Both arms covered shoulder-to-forearm in dark gray geometric mandala and snowflake-pattern sleeve tattoos, drawn simplified in the same soft watercolor sticker style; chest tattoo edges peek from the tank top neckline. Warm watercolor storybook texture: colored-pencil and watercolor-wash brushwork, paper grain, soft dark-brown cartoon outline, clean white sticker edge. Smug, mischievous troublemaker expression. He remains a purely flat 2D sticker the entire video — real kitchen lighting must not re-render him with volume; he never becomes 3D, a real person, clay, or realistic anime. He sits on a small wooden stool beside the stove, about half the wok's diameter tall. The real human hands enter from the right of frame — skin, pores, lighting fully realistic.
+
+[00:00-00:03 | SHOT 1: THE SALT DUMP] First-person top-down POV. The real right hand stir-fries the beef and greens with a spatula. The chibi guy sneakily narrows his eyes, smug grin spreading, one eyebrow arched. With both tiny hands he hoists a realistic glass salt jar bigger than his own head and, mid-stir, dumps the entire jar of white salt into the wok. A continuous waterfall of realistic salt grains pours onto the food, piling into a small white mountain in the wok's center. His backwards black cap jiggles with the motion but never falls off. SFX: food sizzling, dense rushing hiss of pouring salt.
+[00:03-00:05 | SHOT 2: JAR SNATCH, SPATULA BONK] The real hand swiftly snatches the glass salt jar out of his arms; the other hand raises the spatula, flat side down, and gives the top of his backwards cap one light bonk — an exaggerated but harmless cartoon tap. With a "Duang" effect, a red cartoon lump pops up beside the cap. His whole 2D paper body springs up and down once, both little tattooed hands clutching the cap. Eyes go wide, smug grin wiped off, cap slightly tilted but still on backwards. SFX: metallic spatula "Duang", cartoon spring boing.
+
+[00:05-00:08 | SHOT 3: WAILING MOUTH OPEN, SALT SHOVELED IN] He holds the red lump with both hands, eyes turning into spinning swirl eyes, mouth wide open in an exaggerated bawling wail — the tough tattooed sticker guy crying like a toddler. Blue cartoon tears spray out to both sides of his stubbled cheeks like twin fountains; the backwards cap droops but the snapback strap stays visible. The real hand shovels a heaping spatula-load of salt-covered beef and greens off the salt mountain and, while his mouth is wide open mid-wail, delivers the food precisely into his mouth. The food stuffs in with exaggerated cartoon physics; his cheeks puff into two round hemispheres. No real injury, choking, or suffering — absurd cartoon comedy only. SFX: over-the-top cartoon crying, spatula scraping salt, a "pop" as the food stuffs in.
+[00:08-00:10 | SHOT 4: TOO SALTY, KEELS OVER] His cheeks puff into two bright-red spheres as he struggles to swallow one gulp. Eyes shrink into two tiny black dots, the whole 2D sticker fades to a pale washed-out tone — tattoos included — body stiff, vibrating rapidly for half a beat. Then his eyes turn into two cartoon "X"s, the cap tips to one side, and he tips straight backward off the stool. Limbs up in the air, tattooed arms giving one feeble paddle, he flops flat beside the stove like a thin sheet of paper. Cap stays near his head; tattoo sleeves fully visible on both splayed arms. A ring of spinning dizzy stars appears beside the red lump; a wisp of translucent white cartoon smoke drifts up from his nose. Freeze frame on the final 0.3 seconds. SFX: a stiff "clunk", a paper-flat "thud", a short comical cartoon "soul ascending" jingle.
+
+[HARD RULES] One and the same chibi character throughout, identity from the reference photo. Backwards black cap always present with visible snapback strap, never forwards, never gone. Goatee and stubble consistent. Always the black ribbed tank top. Both full geometric tattoo sleeves always visible, pattern consistent. Always a flat 2D watercolor sticker — never 3D, live-action, clay, plush, or realistic anime. Real kitchen, food, spatula, salt, and hands stay photorealistic. Stable edges between cartoon and real scene — no clipping, melting, or duplication. No subtitles, watermarks, logos, or off-screen characters. Native vertical 9:16.</code></pre>
+
+</details>
+
+## 15‑second photorealistic fashion performance film in abandoned industrial building
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2081713965659283836)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1685](https://imglume.com/prompt/1685)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7279ef61-3bbd-45bb-8a18-52eae12fba61/69fd3eab-8bde-4eee-8612-f3cbb83b2e31-1785210678150 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15 second photorealistic fashion performance film in 16:9 inside an abandoned concrete and brick industrial building: broken wooden staircase, exposed beams, cracked plaster, dusty floors, scattered rubble, rusted rails and large blown out window openings. Keep two male performers visually consistent. Performer A: pale skin, backward muted-green cap, white wraparound sunglasses, small hoop earrings, oversized black and white abstract fleece/jacket, loose dark trousers, black sneakers. Performer B: black balaclava, white oval wraparound sunglasses, teal green work jacket, dark shirt, very baggy pale blue grey jeans, white sneakers. Natural proportions, real skin texture, believable fabric weight, inertia and foot contact.
+
+Style: raw underground streetwear music video, full frame cinema camera, 12mm fisheye and 18mm ultrawide lenses. Handheld and physically close to the ground/bodies, with Dutch angles, fast push ins, pull backs, orbiting moves, short whip-pans and brief roll transitions. Preserve real camera momentum and parallax; no teleporting or impossible motion. 30 fps, 1/60-shutter feel, organic motion blur, mild lens breathing, realistic fisheye edge distortion and subtle sensor noise.
+
+0–2.5s: extreme low angle beside the staircase, tilted frame. Performer A looms near lens, Performer B deeper in the space. Sweep past legs and sneakers so a shoe briefly crosses the lens; reveal the ruined stairwell and bright exterior openings.
+2.5–4.5s: whip-pan to Performer B facing camera beneath the stairs, restrained rhythmic hand/shoulder gestures. Push into a distorted medium close up, then cut to Performer A in a low-angle portrait touching his white sunglasses.
+4.5–6.5s: hard cut to a very wide floor level shot across rubble. Rapid dolly forward as Performer A walks/dances toward camera and passes close, creating natural foreground smear.
+6.5–8.5s: circular fisheye energy. Performer B leans over the lens; one sneaker and trouser leg enlarge naturally in perspective. A fast rotational move transitions into an extreme symmetrical close up of Performer A’s face and sunglasses; hold briefly for stable facial detail and real reflections.
+8.5–10.8s: Performer B centered between damaged stair rails, arms folding then opening into a small gesture. Camera retreats down the debris path while he advances, producing strong parallax and rushing floor texture.
+10.8–12.8s: energetic whip and tilt into a high oblique angle showing both performers near the staircase, then drop to an extreme fisheye low angle where both lean into frame and gesture toward lens.
+12.8–15s: snap to a long shot of Performer B framed by a concrete column. Fast lateral sweep and controlled zoom as he crouches, rises and gestures in a brighter rubble-filled bay. In the final beat Performer A steps in beside him; rapidly pull back down the long ruined corridor, ending wide with both men side-by-side.
+
+Lighting: motivated daylight through broken windows and doors; cool cyan green ambient shadows, rusty brown wood/brick, soft highlight bloom, deep but detailed blacks. Exposure feels imperfect and documentary real, never studio lit. Grade: muted teal/green, dirty cream, rust red, slight halation, restrained contrast.
+
+Audio: instrumental only, no vocals/dialogue. Dark industrial hip-hop/electronic beat around 103 BPM: dry kick, tight snare, sub-bass pulse, sparse metallic percussion, low drone and subtle room reverb. Sync major cuts, whip pans and push ins to beat accents; add quiet shoe scuffs, fabric movement and distant building ambience.
+
+No captions, logos, watermarks or HUD graphics. Avoid plastic skin, extra fingers, warped sunglasses, changing clothes, floating debris, duplicated limbs, rubbery motion, oversharpening or excessive bloom.</code></pre>
+
+</details>
 
 ## Candid Handheld Winter Walk in Moscow, 2003
 

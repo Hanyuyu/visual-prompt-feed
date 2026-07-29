@@ -1,9 +1,127 @@
 # Camera Moves video prompts
 
-13 source-linked prompts, newest ImgLume records first.
+16 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15-second editorial street-fashion film
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2081744667914514552)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1717](https://imglume.com/prompt/1717)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/778afd98-4bae-4b1f-a8b9-126a354434fa/33615d43-d3f3-46cd-8638-89af88f55242-1785236136504 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second, 16:9 photorealistic editorial street-fashion film that feels captured by a real small crew on a full-frame cinema camera. Two young adult female models; keep faces, body proportions and wardrobes consistent across every cut. Model A: oversized off-white/cream streetwear, chunky white shoes, layered necklaces, small brown leather shoulder bag. Model B: dark sunglasses, loose black top, electric-blue layered/baggy streetwear, chunky black shoes, silver jewelry; one brief look adds a burnt-orange jacket over the same blue outfit.
+
+0.0–2.2s — Modern metro/lobby interior. Floor-level 14–16mm ultra-wide/fisheye, tilted slightly upward. Model A walks calmly toward lens beneath a huge circular white LED ceiling fixture forming a halo. Metallic escalators recede behind her; glossy charcoal stone floor shows accurate reflections; dark concrete walls and a small orange panel add contrast. Camera dollies backward with subtle handheld micro-jitter and natural footstep bounce.
+
+2.2–4.3s — Low-angle push-in. She grips the front of her oversized shirt, leans close and gives a relaxed, confident direct gaze. One hand passes near lens, creating real perspective distortion and soft edge blur. Hair and loose fabric react naturally.
+
+4.3–5.1s — Extreme close-up of a human eye with detailed iris, moist catchlight and the circular ceiling light reflected in the cornea. Match-cut the round highlight into bright daylight; keep it photographic, not fantasy VFX.
+
+5.1–7.9s — Exterior urban promenade beside water in warm late-afternoon sun. Model B stands on pale concrete with palms and modern towers in the distance. Camera stays below waist height on a 16–20mm lens, gently orbiting and drifting forward. She poses, then steps toward lens; wind moves hair and fabric. Cyan sky, warm skin, crisp believable sunlight and ground shadows.
+
+7.9–10.4s — Fast beat-synced montage: indoors Model A leans into the fisheye smiling, jewelry and brown bag near lens; outdoors Model B appears from an extreme low angle against blue sky as hair sweeps through frame; indoors again, a ringed hand reaches close to lens. Use hard cuts and motivated match cuts only—no face or wardrobe morphing.
+
+10.4–12.0s — Indoors, Model A lifts one chunky shoe playfully toward the floor camera so the sole briefly fills foreground. Hard cut outdoors to Model B centered in the burnt-orange jacket over the same blue outfit. Body balance and cloth physics must remain natural.
+
+12.0–14.0s — Model B walks across a quiet city crosswalk in profile, relaxed stride, sunglasses on. Track parallel at hip height on a 24mm lens; high-rise, palms, railings and street geometry remain stable.
+
+14.0–15.0s — Slightly overhead fisheye close-up outdoors. Model B looks up smiling, both hands and jewelry entering foreground. Add two very fast beat-matched flashes of Model A indoors perfectly centered inside the glowing ceiling ring, then finish on Model B.
+
+Visual finish: 24fps, 180° shutter, authentic motion blur, mild barrel distortion, subtle lens breathing, tiny handheld imperfections, realistic autofocus settling, skin pores, flyaway hairs, fabric creases, physically correct shadows/reflections. Punchy editorial grade: deep neutral blacks, cool teal/cyan shadows, warm amber highlights, controlled saturation. No plastic skin, warped architecture, extra fingers/limbs, floating accessories, impossible bokeh, camera crew, BTS labels, subtitles, logos or on-screen text.
+
+Audio: energetic instrumental fashion-electro/club beat around 144 BPM with punchy kick, tight bass, crisp syncopated percussion and subtle risers, no vocals. Land cuts, shoe movement and hand-to-lens gestures on beat; keep faint footsteps and room/city ambience underneath.</code></pre>
+
+</details>
+
+## Handheld MiniDV Dance Vlog of Korean Idol CHASE in Late-Night Studio
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2081725227088957500)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `ugc`
+- **ImgLume record:** [1715](https://imglume.com/prompt/1715)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b8af827-89a6-4214-bffc-2fb79d354e9f/d8302a85-6f67-4626-a4c9-2018d526d6b9-1785235906715 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Authentic MiniDV/DV 16mm camcorder handheld footage recorded entirely by CHASE herself. Every shot is filmed in selfie mode or first-person POV with natural hand shake, imperfect framing, delayed autofocus, occasional overexposure, clumsy zooms, slight focus hunting, accidental head cropping, and realistic camera mistakes. The camera always feels hand-held and personal, never stabilized or cinematic, and the camcorder itself never appears on screen.
+
+LOOK: Genuine early-2000s DV tape aesthetic with soft image quality, subtle motion blur, faint tape grain, light digital noise, blooming highlights, muted contrast, warm indoor white balance, realistic skin tones, slight chromatic aberration, and gentle exposure flicker, creating the feeling of authentic home-video footage rather than a polished production.
+
+STYLE: A quiet late-night dance vlog with a relaxed, intimate atmosphere. CHASE has just finished a long rehearsal and is physically exhausted but genuinely happy with her progress. Her breathing is natural, her laughs are spontaneous, and every moment feels unscripted and personal, as if she's casually updating fans before heading home.
+
+Character: CHASE is a Korean idol in her early 20s with long straight black hair tied into a slightly messy ponytail, a few loose strands framing her face, glowing skin with a light sheen of sweat, expressive eyes, and a slim athletic build. She wears an oversized long-sleeve athletic practice shirt, loose grey sweatpants, and white sneakers with no jewelry.
+
+Setting: A spacious dance practice studio late at night featuring wooden floors, a full mirror wall, a Bluetooth speaker in the corner, a water bottle, towel, and dance bag resting against the mirror, while the hallway outside is dark and quiet, emphasizing that everyone else has already gone home.
+
+Storyboard:
+
+(~2s, camera propped against the mirror, medium shot)
+CHASE walks into frame breathing heavily, wipes sweat from her forehead with the back of her hand, smiles naturally, and says, "Finally finished... I don't even know what time it is anymore."
+
+(~2s, handheld selfie)
+She picks up the camera, slowly pans across the empty studio and mirror wall before pointing it back at herself with a small smile. "Everyone already went home..." she says before quietly laughing.
+
+(~2s, handheld walking shot)
+She walks toward the wall, grabs her water bottle, takes a long refreshing drink, closes her eyes briefly, exhales, and smiles. "That tastes amazing right now."
+
+(~1.5s, macro insert with shallow depth of field)
+Close-up of condensation on the water bottle as her fingers wipe away the droplets while only her soft breathing is heard.
+
+(~2s, medium shot with camera propped against the mirror)
+She steps back into frame and performs a short, sharp dance combination with impressive energy before immediately laughing and bending forward while catching her breath.
+
+(~2s, handheld close-up selfie)
+Her cheeks are flushed, hair slightly messy, and she's smiling as she says, "Still messed up the ending... Tomorrow again."
+
+(~3s, arm's-length selfie while walking toward the exit)
+She drapes a towel over her shoulder, reaches to switch off the studio lights behind her, gives the camera one warm smile and a small wave, then softly says, "Good night... see you tomorrow," before reaching toward the lens to stop the recording as the footage ends with a subtle MiniDV tape glitch.</code></pre>
+
+</details>
+
+## 15‑second photorealistic fashion performance film in abandoned industrial building
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2081713965659283836)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1685](https://imglume.com/prompt/1685)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7279ef61-3bbd-45bb-8a18-52eae12fba61/69fd3eab-8bde-4eee-8612-f3cbb83b2e31-1785210678150 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15 second photorealistic fashion performance film in 16:9 inside an abandoned concrete and brick industrial building: broken wooden staircase, exposed beams, cracked plaster, dusty floors, scattered rubble, rusted rails and large blown out window openings. Keep two male performers visually consistent. Performer A: pale skin, backward muted-green cap, white wraparound sunglasses, small hoop earrings, oversized black and white abstract fleece/jacket, loose dark trousers, black sneakers. Performer B: black balaclava, white oval wraparound sunglasses, teal green work jacket, dark shirt, very baggy pale blue grey jeans, white sneakers. Natural proportions, real skin texture, believable fabric weight, inertia and foot contact.
+
+Style: raw underground streetwear music video, full frame cinema camera, 12mm fisheye and 18mm ultrawide lenses. Handheld and physically close to the ground/bodies, with Dutch angles, fast push ins, pull backs, orbiting moves, short whip-pans and brief roll transitions. Preserve real camera momentum and parallax; no teleporting or impossible motion. 30 fps, 1/60-shutter feel, organic motion blur, mild lens breathing, realistic fisheye edge distortion and subtle sensor noise.
+
+0–2.5s: extreme low angle beside the staircase, tilted frame. Performer A looms near lens, Performer B deeper in the space. Sweep past legs and sneakers so a shoe briefly crosses the lens; reveal the ruined stairwell and bright exterior openings.
+2.5–4.5s: whip-pan to Performer B facing camera beneath the stairs, restrained rhythmic hand/shoulder gestures. Push into a distorted medium close up, then cut to Performer A in a low-angle portrait touching his white sunglasses.
+4.5–6.5s: hard cut to a very wide floor level shot across rubble. Rapid dolly forward as Performer A walks/dances toward camera and passes close, creating natural foreground smear.
+6.5–8.5s: circular fisheye energy. Performer B leans over the lens; one sneaker and trouser leg enlarge naturally in perspective. A fast rotational move transitions into an extreme symmetrical close up of Performer A’s face and sunglasses; hold briefly for stable facial detail and real reflections.
+8.5–10.8s: Performer B centered between damaged stair rails, arms folding then opening into a small gesture. Camera retreats down the debris path while he advances, producing strong parallax and rushing floor texture.
+10.8–12.8s: energetic whip and tilt into a high oblique angle showing both performers near the staircase, then drop to an extreme fisheye low angle where both lean into frame and gesture toward lens.
+12.8–15s: snap to a long shot of Performer B framed by a concrete column. Fast lateral sweep and controlled zoom as he crouches, rises and gestures in a brighter rubble-filled bay. In the final beat Performer A steps in beside him; rapidly pull back down the long ruined corridor, ending wide with both men side-by-side.
+
+Lighting: motivated daylight through broken windows and doors; cool cyan green ambient shadows, rusty brown wood/brick, soft highlight bloom, deep but detailed blacks. Exposure feels imperfect and documentary real, never studio lit. Grade: muted teal/green, dirty cream, rust red, slight halation, restrained contrast.
+
+Audio: instrumental only, no vocals/dialogue. Dark industrial hip-hop/electronic beat around 103 BPM: dry kick, tight snare, sub-bass pulse, sparse metallic percussion, low drone and subtle room reverb. Sync major cuts, whip pans and push ins to beat accents; add quiet shoe scuffs, fabric movement and distant building ambience.
+
+No captions, logos, watermarks or HUD graphics. Avoid plastic skin, extra fingers, warped sunglasses, changing clothes, floating debris, duplicated limbs, rubbery motion, oversharpening or excessive bloom.</code></pre>
+
+</details>
 
 ## Cinematic FPV flythrough a Romanesque Revival house at golden hour
 

@@ -3,9 +3,9 @@
   "facet": "category",
   "value": "travel",
   "label": "Travel",
-  "count": 5,
+  "count": 6,
   "mediaTypes": {
-    "image": 2,
+    "image": 3,
     "video": 3
   },
   "ids": [
@@ -13,6 +13,7 @@
     "byradar:2081262542878597242:0",
     "byradar:2081306869503799549:0",
     "byradar:2081706884927783412:0",
-    "byradar:2081753705863434568:0"
+    "byradar:2081753705863434568:0",
+    "byradar:2082000152416665963:0"
   ]
 }

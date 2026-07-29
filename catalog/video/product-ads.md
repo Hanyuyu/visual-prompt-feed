@@ -1,9 +1,114 @@
 # Product Ads video prompts
 
-7 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Sleek commercial ad for LOOVA wireless earbuds in a modern kitchen
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2082034651296887205)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1720](https://imglume.com/prompt/1720)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c6637778-0873-4db8-92ae-e60a054c1454/2202b2ea-26c7-472f-80fd-3ae574cf4c36-1785242216780 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A sleek, high-end commercial ad for modern wireless earbuds in a stylish, brightly lit modern apartment kitchen. A woman's hands hold a matte charcoal grey charging case labeled "LOOVA". She pops open the case to reveal dark metallic wireless earbuds with glowing LED indicators. Camera zooms into a macro shot of the earbuds inside the case. A stylish woman wearing a black baseball cap, white off-the-shoulder top, and gold hoop earrings inserts one earbud into her ear. She taps the side touch control, closes her eyes, and smiles contentedly as music plays. Close-up shot showing the detailed fit of the earbud in her ear as she gently adjusts it. She looks directly at the camera with a warm smile and gives a confident thumbs-up. Cuts to a glossy hero product shot of the open earbud case resting on a polished reflective countertop. Soft natural daylight, warm aesthetic, modern lifestyle product commercial, 4k resolution, smooth cinematic camera motion, photorealistic.</code></pre>
+
+</details>
+
+## Ultra-realistic premium coffee commercial with consistent young woman
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2081960148114067644)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `gptimage`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [1701](https://imglume.com/prompt/1701)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/34d6e62f-10ad-4db7-bc42-8ce2c44d5a03/44bba034-0e3f-4aeb-a2d0-10fc6ad054c5-1785225385603 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic premium coffee commercial featuring the same beautiful young woman consistently throughout the entire sequence. Maintain identical facial features, hairstyle, skin tone, body proportions, outfit, and accessories in every shot. She wears a fitted lavender ribbed tank top, light blue high-waisted jeans, delicate gold jewelry, and soft natural makeup. The setting is a bright Scandinavian-style kitchen transitioning into a stylish neighborhood café on a warm sunny morning.
+
+The video opens with a cinematic close-up of her face as soft golden sunlight streams through the kitchen window. She smiles gently toward the camera before placing a crystal-clear glass onto a wooden countertop.
+
+She slowly drops several large crystal-clear ice cubes into the glass. Cinematic macro shots capture the cubes splashing, tiny droplets flying through the air, and condensation forming on the glass.
+
+Next, she pours fresh cold milk into the glass. Close-up shots showcase the creamy liquid flowing around the ice while sunlight shines through the glass, creating beautiful reflections.
+
+She then slowly pours a rich double espresso over the milk. Ultra-detailed macro cinematography captures the espresso cascading into the glass, creating mesmerizing swirling layers of caramel, cream, and deep coffee tones. Slow-motion shots highlight every ripple and movement.
+
+She gently stirs the drink with a clear glass straw until the coffee becomes perfectly blended. Macro shots emphasize the silky textures, swirling patterns, ice moving naturally, and tiny bubbles rising to the surface.
+
+She lifts the finished iced latte, takes a refreshing sip, closes her eyes for a brief moment, and smiles with satisfaction.
+
+Carrying the drink, she walks through a charming tree-lined street toward a modern artisan bakery. Warm sunlight, gentle breeze, and soft shadows create an inviting atmosphere.
+
+Inside the bakery, she carefully selects a freshly baked buttery croissant using elegant serving tongs. Cinematic macro shots capture the flaky golden crust, crisp layers, and delicate crumbs falling naturally as it is placed into a paper bag.
+
+She steps outside the bakery holding both the iced latte and the warm croissant. Walking slowly through the peaceful neighborhood, she enjoys the fresh morning air before taking a bite of the croissant while holding the coffee.
+
+The commercial ends with a beautiful close-up of her smiling toward the camera while holding the iced latte. The camera slowly pulls back to reveal the cozy café, sunlit street, and relaxed morning atmosphere as the drink and pastry remain the visual heroes.
+
+Natural ambient audio only: birds chirping, gentle footsteps, ice cubes clinking, milk pouring, espresso flowing, coffee swirling, glass tapping, café ambience, bakery sounds, paper bag rustling, soft breeze, distant conversations, and leaves moving in the wind. No background music, no dialogue, no subtitles, no logos, no watermarks, and no on-screen text. Premium luxury food and beverage commercial, cinematic camera movement, realistic textures, physically accurate lighting, shallow depth of field, warm golden-hour colour grading, 16:9 widescreen, 4K HDR.</code></pre>
+
+</details>
+
+## Cinematic Orange Polo Advertisement Video Prompt
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2081971738858975463)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1695](https://imglume.com/prompt/1695)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3a66649-fcf9-47ef-a2d5-4ba821c196be/77dd00b7-709a-4763-8281-7c71ec1c22b0-1785221172710 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>0–3s
+A confident young athletic woman rides onto a professional outdoor polo field during golden hour. She wears a bright orange athletic polo jersey, white fitted riding pants, tall brown riding boots, white gloves, and a white polo helmet. She confidently holds a polo mallet as the morning sunlight creates a warm cinematic glow. Her horse moves gracefully across the perfectly maintained grass field, creating a premium sports commercial atmosphere.
+
+3–6s
+Close-up of her tightening her grip on the polo mallet while guiding the horse forward. She strikes the polo ball with precision and power. The camera follows the ball across the field in dramatic slow motion while cinematic lens flares, shallow depth of field, and flying grass particles enhance the intensity of the moment.
+
+6–10s
+She performs fast-paced polo movements across the field, controlling the horse with expert skill while executing powerful swings, sharp turns, and strategic plays. Dynamic tracking shots, low-angle camera movement, and crisp slow-motion emphasize her speed, balance, connection with the horse, and athletic control.
+
+10–13s
+She accelerates toward the goal and performs a powerful full-speed polo shot. The ball rockets toward the target as the camera rotates 360° around her and the horse, capturing the impact in ultra-slow motion with dust trails, grass particles, and realistic motion blur.
+
+13–15s
+She slows the horse confidently, smiles, and raises the polo mallet while standing at the center of the field. The camera slowly pulls back to reveal the entire polo ground bathed in beautiful golden sunlight, ending with a premium luxury sports commercial aesthetic.
+
+Visual Style: Photorealistic, cinematic polo advertisement, realistic horse movement and physics, smooth camera transitions, natural body motion, vibrant bright orange sportswear, soft golden-hour lighting, shallow depth of field, premium commercial quality, elegant, powerful, energetic, and inspiring.</code></pre>
+
+</details>
+
+## 60-second 3D Pixar-style animated commercial for 7UP Extra Fizz
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2081971529823432803)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`, `product-ads`
+- **ImgLume record:** [1694](https://imglume.com/prompt/1694)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a4cb7e27-5316-41ed-aa6f-b40354025bd7/04e0ab82-1889-4524-90c7-588e7ed6cf78-1785219135151 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 60-second 3D Pixar-style animated commercial for 7UP Extra Fizz. Bright, vibrant, highly expressive cartoon rendering with smooth exaggerated animation, big emotional faces, soft rounded shapes, rich saturated colors, and cinematic lighting. Vertical smartphone aspect ratio with dynamic camera moves (sweeping low angles, playful tracking shots, extreme close-ups on expressions). *Setting:* A sunny, modern Western suburban home with open-plan living spaces, light wooden floors, white walls with geometric wood accent panels, large windows letting in golden afternoon light, and a cozy, slightly cluttered family feel. *Characters:* •⁠ ⁠Mom: Mid-50s Western woman, warm but dramatic, short stylish brown hair with a few gray streaks, wearing a soft beige cardigan over a patterned blouse and jeans. •⁠ ⁠Daughter: Early-20s, long reddish-brown hair in a high ponytail, wearing an olive-green polo shirt, gold heart necklace, and baggy light-wash jeans. Highly expressive Pixar-style face that goes from annoyed → exhausted → pure joy. *Scene breakdown:* 0–6s: Close-up of a vintage green rotary phone on a glossy side table. Mom appears in the background holding the handset, eyes wide with urgency, waving her free hand dramatically as she speaks in English: “The guests are coming in an hour! Honey, hurry up! Clean every single fan blade, one by one — please, please, go go go!” 6–12s: Cut to the daughter on the living-room sofa, scrolling on a peach smartphone. Her face scrunches into a classic Pixar annoyed expression (eyebrows knitted, mouth twisted). She lets out a big exaggerated sigh. 12–22s: Mom marches in holding a green-handled mop, gesturing wildly. Daughter climbs a bright red stepladder and starts cleaning a dark wooden ceiling fan. She meticulously wipes each blade with a white cloth, her face showing increasing determination mixed with irritation. Camera circles around her as dust motes float in the light. She then dusts the geometric wooden wall panels with a long grey duster, dramatically wiping sweat from her forehead with a big cartoonish gesture. 22–32s: Daughter now wears bright yellow rubber gloves. She crouches inside a wide-open stainless-steel refrigerator, vigorously scrubbing the white interior walls and shelves with a green microfiber cloth. Several green 7UP bottles are clearly visible on the door shelves. Her expression is pure focused effort, tongue slightly sticking out in concentration. 32–42s: Outside on the front porch steps under a soft evening sky. Mom stands in the doorway still urging. Daughter holds the mop, shoulders slumped, and complains with big exaggerated exhaustion: “Mom, the stairs too?! This is getting a little extra!” She continues, voice rising: “I’m completely wiped from all this extra cleaning!” 42–52s: Extreme close-up of the daughter’s tired face. She reaches for a cold green 7UP Extra Fizz bottle. With a satisfying twist and loud fizzy “PSSSHT!” sound effect, she opens it. Bubbles and tiny water droplets spray in a playful Pixar-style flourish. She takes a long, refreshing drink. Her entire face transforms — eyes light up, cheeks glow, a huge genuine smile spreads as energy returns to her body. She does a little joyful bounce. 52–60s: Dynamic heroic product shot. The icy-cold 7UP Extra Fizz bottle rises against a bright blue sky. Dramatic water splash and exploding bubbles surround it in exaggerated, sparkling 3D animation. Bold, playful on-screen text pops in with a bounce: “INTRODUCING 7UP EXTRA FIZZ” next to the classic 7UP logo. Soft upbeat music swells into a fresh, fizzy climax. *Overall tone &amp; style:* Warm, relatable, slightly comedic family chaos that feels like a Pixar short, transitioning into pure refreshing joy. Exaggerated facial expressions, squash-and-stretch animation, vibrant green product highlights, smooth camera movement, clear English dialogue, and upbeat background music that builds from stressed household energy to sparkling refreshment.</code></pre>
+
+</details>
 
 ## Premium 15-second cinematic Adidas sneaker commercial with pink dress model
 

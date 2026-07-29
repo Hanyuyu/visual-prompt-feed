@@ -1,9 +1,35 @@
 # Travel image prompts
 
-2 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Watercolor travel sketch prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2082000152416665963)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [1746](https://imglume.com/prompt/1746)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/768665c4-bb0c-41d2-a8e5-d6cc42dec90d/80ec7924-d8eb-4165-aa37-cc4cff162365-1785258969791 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/768665c4-bb0c-41d2-a8e5-d6cc42dec90d/2e02dc55-9a8e-4c5b-a6b7-27ea0bedcbec-1785258969791 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "SUBJECT": "&lt;Who should appear&gt;",
+ "SCENE": "&lt;Describe the location or moment&gt;",
+
+ "prompt": "Create a beautiful watercolor travel sketch of SUBJECT in SCENE. The artwork should look like it was painted in a real travel sketchbook using watercolor and fine black ink.\n\nUse loose expressive ink lines, soft transparent watercolor washes, visible textured watercolor paper, natural paint bleeds, light splatters, and unfinished sketch details. Keep the architecture and background airy with minimal detail while making the subjects the main focus.\n\nCapture a candid, joyful moment with natural expressions and relaxed body language. Use warm daylight, muted earthy colors, soft blues, beige, cream, light browns, and subtle peach tones. Leave plenty of white paper visible to create a clean, elegant composition.\n\nThe final image should feel nostalgic, peaceful, romantic, and handcrafted, like an artist's travel journal filled with beautiful memories rather than a polished digital illustration.",
+
+ "negative_prompt": "photorealistic, 3D, CGI, anime, cartoon, oil painting, acrylic painting, thick brush strokes, vector art, neon colors, oversaturated colors, HDR, dark lighting, heavy shadows, cluttered composition, text, logo, watermark, border",
+
+ "aspect_ratio": "2:3"
+}</code></pre>
+
+</details>
 
 ## Elegant handcrafted 3D paper quilling travel poster for {DESTINATION}
 
