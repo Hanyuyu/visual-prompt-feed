@@ -1,9 +1,94 @@
 # Character image prompts
 
-10 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Three styles of traditional beauty
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2082038544730612074)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `character`
+- **ImgLume record:** [1792](https://imglume.com/prompt/1792)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e71e1f9b-a414-4f4b-a60a-0ecaa99d00df/289c9b62-7aff-4cd1-aadf-bea357835010-1785311175126 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A three-panel vertical composite image, presented on a light, textured paper background, showcases an Indian woman in various traditional settings. The top panel, set in an ornate temple courtyard, shows her smiling gently and holding a lit diya. She is dressed in a rich emerald green silk saree with a gold-patterned border and wears traditional gold jewelry. The middle panel captures her in an outdoor, sand-colored Rajasthani village courtyard. She is laughing heartily and looking up, wearing a vibrant, multi-colored mirror-work lehenga and a braided hairstyle adorned with yellow flowers. The bottom panel features her in a majestic, arched stone palace courtyard. She stands composed and serene, looking directly ahead, dressed in a deep maroon velvet lehenga and choli heavily embroidered with silver and gold thread, complemented by a pearl-and-kundan necklace and matching earrings. Throughout the triptych, the woman's consistent features and warm, engaging expression create a cohesive narrative of cultural celebration and diverse architectural beauty.</code></pre>
+
+</details>
+
+## Highly expressive graphite pencil portrait
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2082069491366891904)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1754](https://imglume.com/prompt/1754)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/baf1729f-2445-46f3-bf73-2c3e1a4659a2/a065df41-76a3-4a95-8d6c-41d1166901f4-1785267386715 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/baf1729f-2445-46f3-bf73-2c3e1a4659a2/d4de5f3f-fd9b-4716-bb33-39cb195a2f23-1785267386715 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/baf1729f-2445-46f3-bf73-2c3e1a4659a2/03ddc8f0-3ca4-4833-9ee1-ed4695edf6da-1785267386715 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly expressive graphite pencil portrait on textured fine art drawing paper, 4:5 aspect ratio.
+
+Create the drawing with approximately 85–90% completion, intentionally leaving unfinished passages, open contours, construction lines, and visible artistic decisions. The portrait should feel like a museum-quality graphite study rather than a fully rendered illustration.
+
+Use extremely rich, deep graphite blacks with dramatic tonal contrast. Build powerful black focal points using heavy 8B–14B graphite, creating bold shadow masses that immediately attract the viewer's eye. The darkest values should feel dense, velvety, and tactile without appearing digitally crushed.
+
+Instead of rendering every detail equally, selectively emphasize only the most expressive features of the face—especially the eyes, eyebrows, nose bridge, beard texture, hairline, and facial structure. Allow these key areas to receive the highest level of detail and contrast.
+
+The remaining areas should gradually dissolve into loose graphite marks, incomplete shading, broken contours, and unfinished forms, with less than 80% rendering. Large areas of the portrait should intentionally remain suggested rather than fully described, allowing negative space and the viewer's imagination to complete the image.
+
+Use confident, energetic pencil strokes with natural variation in pressure. Build form through layered graphite, cross-hatching, feathered shading, irregular line work, and spontaneous sketch gestures.
+
+Visible graphite powder should softly spread across the paper, producing subtle atmospheric transitions without becoming overly blended. Include realistic graphite grain, charcoal-like dust, accidental smudges, erased highlights, paper fibers, dirty whites, and authentic hand-drawn imperfections.
+
+Hair should be rendered with expressive overlapping strokes that alternate between razor-sharp strands and loose graphite masses. Facial hair should appear organic, rough, and richly textured using layered broken graphite marks instead of smooth rendering.
+
+Maintain a dramatic high-contrast lighting setup. Define the portrait primarily through tonal masses rather than outlines. Deep blacks should anchor the composition while soft midtones gradually disappear into unfinished paper texture.
+
+The overall tonal mood should resemble a traditional academic graphite master drawing using cool neutral graphite tones with rich charcoal blacks and warm paper highlights. Avoid flat gray rendering. Preserve strong black accents and crisp value separation throughout the composition.
+
+Traditional graphite drawing, museum-quality pencil art, expressive realism, selective rendering, dramatic chiaroscuro, powerful black focal points, authentic graphite texture, tactile paper surface, unfinished artistic process, handmade appearance, fine art sketchbook aesthetic, high contrast, deep graphite blacks, visible graphite dust.
+
+digital painting, vector art, clean illustration, CGI, photobash, watercolor, oil painting, acrylic, ink drawing, marker rendering, smooth gradients, soft airbrush, glossy surface, plastic skin, hyperrealistic digital finish, perfect symmetry, polished edges, oversharpened details, fully rendered portrait, equal detail everywhere, flat gray tones, low contrast, colorful, anime, cartoon, heavy blur, artificial texture, digital brush patterns, excessive blending, photographic realism.</code></pre>
+
+</details>
+
+## Premium 6‑sticker sheet of a person in various moods – cute 2D Pixar‑style illustration
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2081980605747880354)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1751](https://imglume.com/prompt/1751)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eef01c0d-ad9a-4ce8-b0d8-2e52c49bcb53/a8764165-0286-4b19-8986-c5e415a942c0-1785263252875 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eef01c0d-ad9a-4ce8-b0d8-2e52c49bcb53/0e6e219d-563a-48e0-9284-38be3492b83e-1785263252875 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Turn the uploaded photo into a premium sticker sheet featuring the same person in 6 different moods and daily-life situations. Style: Cute 2D Pixar-inspired cartoon illustration, clean vector-like artwork, expressive face, adorable proportions, soft shading, vibrant colors, highly detailed. Layout: 6 separate stickers arranged vertically in a 9:16 canvas. Solid black background.
+
+Each sticker has a thick white die-cut sticker border. Each sticker must be clearly separated from the others — no touching, no overlapping, leave visible black space between every sticker. Keep the character recognizable from the uploaded photo (hair, facial features, skin tone, outfit style). Stickers: Work Mode – focused at a laptop, headphones on. Happy Meal – enjoying favorite food with a joyful expression. Overthinking – resting head on hand with a thinking cloud.
+
+Need Coffee – sleepy and low-energy holding a coffee cup. Main Character Energy – confident pose with sparkle effects. Me Time – cozy hoodie, warm drink, relaxed expression. Add cute doodles around each sticker such as hearts, sparkles, stars, music notes, clouds, lightning bolts, and emojis. Include the caption text directly attached to (touching) the bottom of each sticker's white border — as if the text label is part of the sticker itself, seamlessly connected to the white die-cut edge.
+
+Captions: "Work Mode", "Happy Meal", "Overthinking", "Need Coffee", "Main Character Energy", "Me Time". Stylish handwritten font, white or pastel color. Professional sticker-pack design, social media sticker set, clean composition, high contrast, ultra cute, trendy aesthetic, crisp outlines, premium quality, black background, white sticker borders, 9:16 aspect ratio.
+
+Each sticker has a thick white die-cut sticker border. Each sticker must be clearly separated from the others — no touching, no overlapping, leave visible black space between every sticker. Keep the character recognizable from the uploaded photo (hair, facial features, skin tone, outfit style). Stickers: Work Mode – focused at a laptop, headphones on. Happy Meal – enjoying favorite food with a joyful expression. Overthinking – resting head on hand with a thinking cloud.
+
+Need Coffee – sleepy and low-energy holding a coffee cup. Main Character Energy – confident pose with sparkle effects. Me Time – cozy hoodie, warm drink, relaxed expression. Add cute doodles around each sticker such as hearts, sparkles, stars, music notes, clouds, lightning bolts, and emojis. Include the caption text directly attached to (touching) the bottom of each sticker's white border — as if the text label is part of the sticker itself, seamlessly connected to the white die-cut edge.
+
+Captions: "Work Mode", "Happy Meal", "Overthinking", "Need Coffee", "Main Character Energy", "Me Time". Stylish handwritten font, white or pastel color. Professional sticker-pack design, social media sticker set, clean composition, high contrast, ultra cute, trendy aesthetic, crisp outlines, premium quality, black background, white sticker borders, 9:16 aspect ratio.</code></pre>
+
+</details>
 
 ## Cozy minimalist flat illustration of everyday family moments in Korean/Japanese storybook style
 
@@ -125,7 +210,7 @@ Avatar 4: Young woman with shoulder-length wavy brown hair, floral bucket hat, w
 - **Source model(s):** `other`
 - **Categories:** `character`
 - **ImgLume record:** [1672](https://imglume.com/prompt/1672)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca8542d5-b9e2-461d-8ca9-89cb7b71451f/fe9c37ee-81ab-42dd-8349-1c79784232fc-1785187617824 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ca8542d5-b9e2-461d-8ca9-89cb7b71451f/5ced7e2d-d3ab-4f1d-9200-ac4f556f6c6b-1785187617824 "Image prompt preview")
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca8542d5-b9e2-461d-8ca9-89cb7b71451f/5ced7e2d-d3ab-4f1d-9200-ac4f556f6c6b-1785187617824 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ca8542d5-b9e2-461d-8ca9-89cb7b71451f/fe9c37ee-81ab-42dd-8349-1c79784232fc-1785187617824 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
@@ -154,7 +239,7 @@ Style: official fantasy RPG character sheet, ancient Egyptian mythology × Granb
 - **Source model(s):** `other`
 - **Categories:** `character`
 - **ImgLume record:** [1638](https://imglume.com/prompt/1638)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52697c83-46ac-44a6-a279-88c7cf4d96b8/a32fd57b-9e7a-4ccd-9ab8-794ec9cf2386-1785153990313 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/52697c83-46ac-44a6-a279-88c7cf4d96b8/59a9f969-de2a-45d3-85de-32362f4038bb-1785153990313 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/52697c83-46ac-44a6-a279-88c7cf4d96b8/9216d5f6-4198-4f53-9342-8c9ab755c702-1785153990313 "Video prompt preview")
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52697c83-46ac-44a6-a279-88c7cf4d96b8/59a9f969-de2a-45d3-85de-32362f4038bb-1785153990313 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/52697c83-46ac-44a6-a279-88c7cf4d96b8/a32fd57b-9e7a-4ccd-9ab8-794ec9cf2386-1785153990313 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/52697c83-46ac-44a6-a279-88c7cf4d96b8/9216d5f6-4198-4f53-9342-8c9ab755c702-1785153990313 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>

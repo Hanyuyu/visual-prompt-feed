@@ -1,9 +1,43 @@
 # Food Drink image prompts
 
-4 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Instant Ramen ASMR Storyboard Infographic
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2082312181274849490)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `food-drink`, `poster-design`
+- **ImgLume record:** [1780](https://imglume.com/prompt/1780)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b54355b-200e-43fd-b9bd-a5f8dce89e18/69e0829e-a768-4a16-b59e-6a5d114e86af-1785304884612 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 16:9 storyboard infographic for an Instant Ramen ASMR commercial using the uploaded image as the exact character reference, maintaining perfect facial consistency throughout. Design a clean white creative agency layout with the title "STORYBOARD – INSTANT RAMEN – ASMR NOODLE EXPERIENCE" and top info cards for Duration, Style, Audience, and Audio. Arrange 6 rounded storyboard panels with numbered badges. Show: (1) girl smiling while presenting the ramen cup, (2) opening the lid and adding seasoning, (3) pouring hot water with rising steam, (4) stirring noodles with chopsticks, (5) lifting and slurping noodles, (6) final hero shot with ramen and a thumbs-up. Add playful white doodles like HELLO!, OPEN!, SPRINKLE!, POUR~, STIR!, SLURP!, YUM!, PERFECT! Include VISUAL, ACTION, and DIALOGUE sections below each panel and an Audio Experience (ASMR Only) box at the bottom. Use cozy bedroom lighting, warm tones, luxury commercial styling, cinematic macro food photography, photorealistic steam, shallow depth of field, elegant brown accents, polished client-pitch presentation, 16:9 widescreen, and no timestamps.</code></pre>
+
+</details>
+
+## Whimsical kawaii doodle transformation of a food photo
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082080274968608811)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1776](https://imglume.com/prompt/1776)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b2fe3fa-0419-4a3f-97b2-bbed4f8ca9d3/1081d809-6a82-4532-a0df-54bd4f0cd811-1785300682269 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform a close-up food photo into a whimsical kawaii doodle aesthetic. Add adorable hand-drawn cartoon eyes, a smiling mouth, rosy blush cheeks, tiny arms and legs, making the food look alive and expressive. Surround it with playful white doodles including sparkles, stars, hearts, arrows, swirls, speech bubbles, and cute handwritten captions in a casual marker style. Include small accessories like a tiny crown, party hat, sunglasses, or cape to give the food a fun personality. Keep the original food photo realistic while layering clean, sketchy doodles on top. Use soft pastel accent colors (yellow, pink, mint, light blue) sparingly for highlights, maintaining a cozy, cheerful, Instagram-worthy aesthetic. The overall look should feel like a charming hand-illustrated journal page with a playful, heartwarming vibe, while preserving the food as the main focus.</code></pre>
+
+</details>
 
 ## Cookies & Milk ASMR Storyboard Infographic
 
@@ -46,7 +80,7 @@ their original authors. ImgLume curation is CC BY 4.0.
 - **Source model(s):** `gptimage`
 - **Categories:** `food-drink`
 - **ImgLume record:** [1574](https://imglume.com/prompt/1574)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3313cf82-38f2-44b1-a020-7fc4e0907e93/c75a0ad7-57dd-4a2f-acae-abf8d1da009e-1785080491350 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3313cf82-38f2-44b1-a020-7fc4e0907e93/f0ea300b-63d6-4988-8bcc-7ae2fb1e83c2-1785080491350 "Image prompt preview")
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3313cf82-38f2-44b1-a020-7fc4e0907e93/f0ea300b-63d6-4988-8bcc-7ae2fb1e83c2-1785080491350 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3313cf82-38f2-44b1-a020-7fc4e0907e93/c75a0ad7-57dd-4a2f-acae-abf8d1da009e-1785080491350 "Image prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>

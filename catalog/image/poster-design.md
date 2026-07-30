@@ -1,9 +1,133 @@
 # Poster Design image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-impact automotive poster
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2082433241815085121)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1827](https://imglume.com/prompt/1827)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0baae932-053a-400b-8168-0d4d628b3866/a9877047-1ca4-4c06-b13e-104b69edfb6c-1785344779186 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0baae932-053a-400b-8168-0d4d628b3866/6a97bd1b-50e0-4dc0-97a7-7e6cd52deff0-1785344779186 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0baae932-053a-400b-8168-0d4d628b3866/12a2403e-9b8c-467b-9487-409f548c5be6-1785344779186 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0baae932-053a-400b-8168-0d4d628b3866/7d47fd52-34db-42fc-a30c-d218af4c7e17-1785344779186 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-impact automotive poster featuring [VEHICLE] in a sharp side-front three-quarter view, placed across the lower half of the frame and surrounded by a dense orbital composition of concentric wheel-sized circles, segmented [ACCENT] discs, black radial lines, white circular windows, and offset mechanical rings.
+Use [COLOR PALETTE]. Build a visually rich background in which the circular modules expand from the rear wheel and continue beyond the poster edges. Place an oversized cropped numeral “[NUMERAL]” behind the main body section. Add a [LOGO] near the upper-left corner and the slogan “[TITLE]” in tightly controlled uppercase typography.
+Maintain accurate [VEHICLE] proportions, crisp technical illustration, layered flat shapes, subtle lithographic grain, small registration marks, selective ink outlines, and clean editorial hierarchy. Vertical 4:5.</code></pre>
+
+</details>
+
+## Vintage Illustrated Travel Poster Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2082356516804591696)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1823](https://imglume.com/prompt/1823)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eb64409c-2915-4bf8-9020-2351348a3593/df2a6668-e3e7-497c-be2c-33005d5d8af9-1785342723184 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eb64409c-2915-4bf8-9020-2351348a3593/d4dace22-5fc2-4a9c-aefc-42502bef05a9-1785342723184 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/eb64409c-2915-4bf8-9020-2351348a3593/44c5e6a5-09de-4477-b2d2-137ba04b002b-1785342723184 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>vintage illustrated travel poster
+Create a charming vertical illustrated travel poster for [DESTINATION], inspired by colorful vintage European tourism posters, whimsical storybook illustrations, and classic travel postcards.
+
+At the top, add large elegant uppercase typography reading “[DESTINATION]”, clearly visible and beautifully integrated into the composition.
+
+Create a richly detailed scenic collage showcasing the destination’s most iconic landmarks, architecture, monuments, landscapes, cultural symbols, and recognizable local elements. Arrange the main landmark prominently in the center, surrounded by smaller architectural and cultural details to create a layered travel-story composition.
+
+Add lush greenery, trees, flowers, gardens, water elements, local transportation, traditional architecture, and atmospheric background scenery appropriate to the destination. Include a visually interesting foreground such as a decorative bridge, fountain, river, street, garden, plaza, or pathway, depending on the location.
+
+Use a warm, colorful, nostalgic palette with soft pastel blue, peach, coral, terracotta, cream, golden yellow, turquoise, sage green, and muted earthy tones. Add a softly glowing sun, dreamy clouds, subtle atmospheric perspective, and gentle reflections where appropriate.
+
+Style: highly detailed hand-painted illustration, vintage tourism poster, whimsical storybook aesthetic, polished digital painting, soft painterly textures, slightly retro printed-paper appearance, charming miniature details, colorful but harmonious, nostalgic vacation mood.
+
+Composition: vertical 2:3 poster, strong foreground–midground–background depth, central landmark emphasis, layered scenic collage, balanced composition, intricate details, clean silhouettes, decorative framing, visually rich but cohesive.
+
+Avoid: photorealism, modern minimalist design, 3D-rendered appearance, excessive text, distorted architecture, clutter, blurry details, random landmarks unrelated to the destination.
+
+Final result: a beautiful collectible vintage illustrated travel poster for [DESTINATION], instantly recognizable, colorful, dreamy, elegant, nostalgic, and filled with iconic local character.</code></pre>
+
+</details>
+
+## Minimalist Tokyo Travel Poster
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2082323788969255156)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1817](https://imglume.com/prompt/1817)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ffa3dee-feb9-4a6d-9cad-6b09b8cc4568/876dfd22-27c3-4521-a764-bc677ef89d3a-1785338470514 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7ffa3dee-feb9-4a6d-9cad-6b09b8cc4568/9d98ae3d-abc3-4285-b125-d6a9d64e0434-1785338470514 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7ffa3dee-feb9-4a6d-9cad-6b09b8cc4568/43344f08-ef90-44a7-9667-923e060991ac-1785338470514 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 3:4 vertical minimalist marker-pen travel poster of TOKYO on warm ivory paper.
+
+STYLE:
+Use a rough hand-drawn marker-pen illustration style with thick cobalt-blue contours, broken edges, visible stroke direction, dry-skip texture, and incomplete flat fills. Keep the image graphic, clean, and naturally unfinished. Let the warm ivory paper remain visible in large uncolored areas.
+
+TEXT:
+Add the title "TOKYO" at the top in bold hand-drawn uppercase marker letters, slightly irregular, spontaneous, and organic.
+
+SCENE:
+Depict a storytelling scene on a quiet riverside promenade overlooking the Sumida River. A couple stands near the riverside railing in the lower third, one lightly leaning toward the other. Tokyo Skytree appears in the mid-distance as the main landmark, with a simple bridge hint crossing the river, a few minimal water lines, and a faint city skyline suggestion stretching behind.
+
+COMPOSITION:
+Use the riverside railing as a simple foreground anchor, the couple as the emotional focal point, and Tokyo Skytree as the central location cue. Keep the river and sky minimal with generous blank paper around them.
+
+BACKGROUND SIMPLIFICATION:
+Include only 4 key cues: riverside railing, Tokyo Skytree, river suggestion, and a faint skyline silhouette. Avoid crowds, vehicles, boats, dense buildings, and cluttered city details.
+
+FINISH:
+The couple and railing should be moderately resolved. The Skytree and skyline should remain simplified, partially colored, and lightly outlined.
+
+no logos, no readable signs, no clutter, no photorealism, no polished digital look --ar 3:4 --v 8.2</code></pre>
+
+</details>
+
+## Premium cinematic poster-style portrait of uploaded person in beige studio
+
+- **Original source:** [@Sheldon056 on X](https://x.com/Sheldon056/status/2082309134582423822)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1795](https://imglume.com/prompt/1795)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4f504834-cc1c-421c-9cf6-b789506b6f04/362c115b-b51a-48cd-8f46-2b99c1680dfb-1785313295382 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cinematic poster-style portrait of the uploaded person in a clean beige studio environment, aspect ratio 4:5. The composition closely follows the reference design. A large side-profile portrait of the uploaded person dominates the background, occupying approximately 70-75% of the frame height, facing left with a calm, confident expression. Behind the large portrait, add strong horizontal motion blur streaks extending toward the right side, creating a dynamic sense of movement. In the foreground, place a smaller full-body version of the uploaded person standing in front of the larger portrait, occupying approximately 30-35% of the frame height. He is wearing stylish beige-tan casual clothing matching the reference aesthetic: a relaxed overshirt/jacket, light-wash loose-fit jeans, and casual sneakers. Add modern transparent eyeglasses. Both hands are casually tucked into his trouser pockets. His stance matches the reference exactly: one leg crossed naturally in front of the other, leaning slightly with a relaxed, confident posture. He is looking slightly toward the brand text area rather than directly at the camera. Place a large modern branding text element behind the foreground figure, partially obscured by his body, using the word "PROMPT" in bold futuristic typography. The text should feel integrated into the design, with subtle transparency and layered depth effects. Add minimal geometric UI-style design elements and soft translucent panels around the text area for a contemporary creative-director look. Soft editorial lighting, luxury fashion campaign aesthetic, high-end digital poster design, ultra-detailed facial features, sharp focus on the subject, subtle shadows beneath the standing figure, clean background, premium color grading, realistic textures, professional photography, modern creative branding artwork. No logos, no watermarks, no extra text except "PROMPT".</code></pre>
+
+</details>
+
+## Instant Ramen ASMR Storyboard Infographic
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2082312181274849490)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `food-drink`, `poster-design`
+- **ImgLume record:** [1780](https://imglume.com/prompt/1780)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b54355b-200e-43fd-b9bd-a5f8dce89e18/69e0829e-a768-4a16-b59e-6a5d114e86af-1785304884612 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 16:9 storyboard infographic for an Instant Ramen ASMR commercial using the uploaded image as the exact character reference, maintaining perfect facial consistency throughout. Design a clean white creative agency layout with the title "STORYBOARD – INSTANT RAMEN – ASMR NOODLE EXPERIENCE" and top info cards for Duration, Style, Audience, and Audio. Arrange 6 rounded storyboard panels with numbered badges. Show: (1) girl smiling while presenting the ramen cup, (2) opening the lid and adding seasoning, (3) pouring hot water with rising steam, (4) stirring noodles with chopsticks, (5) lifting and slurping noodles, (6) final hero shot with ramen and a thumbs-up. Add playful white doodles like HELLO!, OPEN!, SPRINKLE!, POUR~, STIR!, SLURP!, YUM!, PERFECT! Include VISUAL, ACTION, and DIALOGUE sections below each panel and an Audio Experience (ASMR Only) box at the bottom. Use cozy bedroom lighting, warm tones, luxury commercial styling, cinematic macro food photography, photorealistic steam, shallow depth of field, elegant brown accents, polished client-pitch presentation, 16:9 widescreen, and no timestamps.</code></pre>
+
+</details>
 
 ## Cinematic portrait of a young woman on a subway platform with urban street-art typography poster
 

@@ -1,9 +1,43 @@
 # Illustration 3d image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+8 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hyper-detailed engraved illustration portrait
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2082299307294597145)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [1806](https://imglume.com/prompt/1806)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1fda7cc4-e00b-476d-a00e-a2285445f570/5e2e17b4-56ba-4a39-8dee-7cbe75d3425f-1785323793631 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1fda7cc4-e00b-476d-a00e-a2285445f570/4e02aaf7-191e-44b7-8492-71bdd0b41132-1785323793631 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1fda7cc4-e00b-476d-a00e-a2285445f570/ac48e99a-1d29-4ea2-84f1-c9e316b634e8-1785323793631 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Hyper-detailed engraved illustration style, cross-hatching and fine line pen drawing technique, classical engraving mixed with modern illustration, ultra-dense linework forming realistic human face and upper body, tactile woven texture across skin and fabric, baroque and rococo influence, ornate clothing details, gold embroidery and chain accents, dramatic chiaroscuro lighting, muted yet bold color accents (pink, gold, blue, cream, black), painterly ink texture, vintage print aesthetic blended with contemporary surreal portrait art, high contrast, museum-grade detail, editorial illustration quality, dark textured background, intellectual and artistic mood.</code></pre>
+
+</details>
+
+## Magical surrealist painting of a white boat on golden-lit water
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2082132923218596021)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [1756](https://imglume.com/prompt/1756)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3e1ed60a-fb53-4bc5-8dcf-44efa8c704d1/6c34a2da-54df-4009-a92b-e600ec85bb21-1785269510208 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A magical surrealist painting featuring a small white boat floating on dark, mirror-like water. The foreground is filled with glowing golden water lilies or lotus flowers scattered across the reflective black surface. From above, thousands of golden petals cascade down like a shimmering rain, creating vertical streaks of light that blend into luminous curtains of gold. Bright, radiant golden light emanates from behind the boat, creating a dramatic backlight effect. The upper portion features a dense canopy of golden and amber flowers mixed with hints of coral red and orange, appearing to fall from an unseen source. The dark background is nearly black with deep navy undertones. The water perfectly reflects the golden light, flowers, and falling petals. The style is impressionistic with thick, visible impasto brushstrokes, textured paint application, and a dreamlike, ethereal atmosphere. Color palette: brilliant gold, warm yellow, amber, white, deep black, navy blue, touches of coral and orange. Vertical composition, highly detailed, painterly style, 8k resolution, reminiscent of contemporary magical realism.</code></pre>
+
+</details>
 
 ## Expressive Fashion Sketch Illustration with Ink and Watercolor
 

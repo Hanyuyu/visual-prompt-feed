@@ -1,9 +1,62 @@
 # Animation video prompts
 
-10 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Dynamic swordswoman battle scene with dragon energy
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2082455566899626359)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [1820](https://imglume.com/prompt/1820)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/62cc7a2c-3705-4b94-b1d4-0b36916b7cb0/01c2e79e-3e31-498f-bff3-ae256bdc9077-1785340627810 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/62cc7a2c-3705-4b94-b1d4-0b36916b7cb0/a9827980-f51b-4a3c-8e65-867d664911f3-1785340627810 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>@[character ref] is already moving as multiple enemies close in from every direction. She disappears into a crimson-cyan streak, reappearing between them through rapid iaijutsu draws, aerial spins, reverse-grip cuts and impossible directional changes as glowing blade arcs weave a giant dragon-shaped pattern across the battlefield. Enemies freeze briefly after each contact before delayed cut lines ignite across their silhouettes, then the entire formation collapses at once as she lands in a low finishing stance, blade extended and dragon energy spiraling violently behind her.
+
+High-end graphic anime realism fused with explosive calligraphic sword action and neon dragon mythology. Impossibly fast blade choreography unfolds like a lethal stage performance, built from rhythmic stance changes, acrobatic direction shifts, chained iaijutsu draws, spinning cuts and precise multi-target combinations with no idle pauses. White-hot sword arcs, crimson ink ruptures, electric-cyan brush trails, fragmented afterimages and serpentine dragon-energy ribbons define every movement, while defeated figures remain readable as dark silhouettes split by delayed glowing cut lines. Whip-fast tracking shots, violent orbital sweeps, extreme foreshortening, snap zooms and seamless transitions through blade trails make the camera feel locked to the momentum of the weapon. Air pressure bends around each swing, clothing and hair lash through the frame, surfaces peel apart in painted streaks and entire spaces briefly collapse into graphic black, red and cyan abstraction before returning to physical depth. Strong silhouettes, deliberate finishing poses, realistic material weight and premium anime rendering preserve clarity, impact and elegance even at overwhelming speed.</code></pre>
+
+</details>
+
+## Witch soaring on broom with playful flips
+
+- **Original source:** [@GlitterPixely on X](https://x.com/GlitterPixely/status/2082305994290249991)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [1809](https://imglume.com/prompt/1809)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0044e353-3617-434d-8496-5629dfe44ce1/98c6c409-da95-4bfa-8db9-4e211eddce2a-1785328100797 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The witch rises onto her flying broom and dances as it glides through the pink clouds. She spins, balances on one foot, and performs a playful flip before landing back on the broom. Fast-paced magical flight. 14 different camera angles.</code></pre>
+
+</details>
+
+## 3D Disney Pixar style skincare transformation animation
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2082311559221489807)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [1793](https://imglume.com/prompt/1793)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fbbe0f41-0262-4332-8d51-a4a1183cb6e0/7d6f0477-ffdc-4a91-b4e0-2a94080c96a5-1785311205107 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 3D Disney Pixar style animation of a tired young woman sitting in a modern skincare aesthetician chair looking sad with visible dark under-eye circles and tired eyes. An elegant female aesthetician wearing black gloves gently examines her skin. Cut to close-up shots of high-end skincare treatments: applying a clear glowing sheet mask with a soft brush, a golden facial oil droplet falling onto smooth skin, soothing LED light therapy shining overhead, and a gentle facial massage. The final scene shows the young woman looking into a mirror with glowing, flawless, radiant skin, gasping in joy and smiling brightly with genuine happiness. Soft warm studio lighting, cinematic, hyper-detailed, 8k resolution, smooth 3D character animation.</code></pre>
+
+</details>
 
 ## Professor Crumble's Wonder Workshop
 
@@ -418,7 +471,7 @@ People, workers, text, logos, watermarks, camera movement, zoom, panning, rotati
 - **Source model(s):** `other`
 - **Categories:** `animation`, `character`
 - **ImgLume record:** [1567](https://imglume.com/prompt/1567)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/64f4c115-d147-4df2-b25e-852a073ca0cc-1785076308528 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/b3703d16-565f-4f87-9c80-9963da2dad84-1785076308528 "Video prompt preview")
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/b3703d16-565f-4f87-9c80-9963da2dad84-1785076308528 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/64f4c115-d147-4df2-b25e-852a073ca0cc-1785076308528 "Image prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>

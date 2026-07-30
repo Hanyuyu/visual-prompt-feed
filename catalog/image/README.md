@@ -1,18 +1,18 @@
 # Image prompt catalog
 
-Browse 131 source-linked image prompts by category.
+Browse 181 source-linked image prompts by category.
 
 | Category | Prompts |
 | --- | ---: |
-| [Architecture](./architecture.md) | 4 |
-| [Character](./character.md) | 10 |
-| [Cinematic](./cinematic.md) | 11 |
-| [Food Drink](./food-drink.md) | 4 |
-| [Illustration 3d](./illustration-3d.md) | 6 |
-| [Photography](./photography.md) | 90 |
-| [Poster Design](./poster-design.md) | 6 |
-| [Product Ads](./product-ads.md) | 2 |
-| [Travel](./travel.md) | 3 |
+| [Architecture](./architecture.md) | 5 |
+| [Character](./character.md) | 13 |
+| [Cinematic](./cinematic.md) | 13 |
+| [Food Drink](./food-drink.md) | 6 |
+| [Illustration 3d](./illustration-3d.md) | 8 |
+| [Photography](./photography.md) | 121 |
+| [Poster Design](./poster-design.md) | 11 |
+| [Product Ads](./product-ads.md) | 6 |
+| [Travel](./travel.md) | 5 |
 | [Ui Graphic](./ui-graphic.md) | 1 |
 
 Prompt text and source media are `NOASSERTION`. ImgLume curation is

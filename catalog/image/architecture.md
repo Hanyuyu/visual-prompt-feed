@@ -1,9 +1,33 @@
 # Architecture image prompts
 
-4 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Minimalist pastel watercolor illustration of a Korean city hall library
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2082171043020767734)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `midjourney`
+- **Categories:** `architecture`
+- **ImgLume record:** [1768](https://imglume.com/prompt/1768)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6e70728e-66e6-48e8-9d0e-dbaa3a804917/2e780e74-4ab2-427a-8592-774c55cbabed-1785298628800 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6e70728e-66e6-48e8-9d0e-dbaa3a804917/80b6dd7f-90e3-4d23-9e4d-865480b21191-1785298628800 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/6e70728e-66e6-48e8-9d0e-dbaa3a804917/d2adbe08-77b5-4239-8bcc-0c6300ea5cea-1785298628800 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Minimalist pastel watercolor and ink illustration, 3:4 vertical, textured handmade cold press watercolor paper.
+SCENE: Contemporary Korean city hall library, quiet summer morning. Gently elevated viewpoint over wide wooden tiered reading steps with children, parents, and residents reading picture books, magazines, and novels. Tall curved wooden bookshelf along entire left wall extending to lower floor. White mezzanine bridge, glass railings, circular ventilation openings, small yellow bookcases below.
+MOOD: Cool summer refuge, peaceful, refreshing, communal, airy, air conditioned warmth.
+COMPOSITION: Curved bookshelf and tiered seats as leading lines. People small, naturally distributed in lower half. Wide open ceiling, generous untouched paper at upper/outer edges. Distant shelves dissolve before frame edges.
+STYLE: Delicate broken ink contours, translucent uneven washes, visible paper grain, wet on wet blooms, pigment granulation, dry brush gaps, softly incomplete architectural edges, quiet Korean storybook warmth.
+PALETTE: Warm ivory, pale oak brown, mint green, powder blue, muted mustard yellow, soft coral, cool gray, navy accents.
+NO text, logos, signage, or watermarks.
+NEGATIVE: Photorealism, fully rendered architecture, dense crowd, harsh shadows, saturated colors, glossy digital painting, perfect geometric lines, excessive detail, complete background wash, distorted stairs, duplicated people, malformed hands.</code></pre>
+
+</details>
 
 ## The White TREE
 

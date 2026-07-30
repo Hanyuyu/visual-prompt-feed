@@ -1,9 +1,70 @@
 # Cinematic image prompts
 
-11 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic Neon Street Portrait
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2082396899168997827)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1814](https://imglume.com/prompt/1814)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7eccc4d3-cdff-4db8-a8ca-10274c17669c/3dda0df0-f4f8-4d65-af70-0aea8f2c93e4-1785336374314 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7eccc4d3-cdff-4db8-a8ca-10274c17669c/e0f9a406-2bf5-4e69-bd17-41af0fa79ed7-1785336374314 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7eccc4d3-cdff-4db8-a8ca-10274c17669c/ebc0b33f-5116-4d5a-9a6e-10f2c98c0f80-1785336374314 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/7eccc4d3-cdff-4db8-a8ca-10274c17669c/1f9352e2-3754-4ea9-bc95-fa9891b67857-1785336374314 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic medium shot of a young woman with short dark hair and vibrant blue eyes, standing on a bustling city street at night illuminated by glowing neon lights. She is wearing a dark grey textured wool coat over a grey turtleneck sweater. The scene features a shallow depth of field with a beautifully blurred background of colorful blue and magenta bokeh lights. Vibrant neon glow casts highlights on her face and hand, creating a moody, atmospheric ambiance with sharp focus, realistic textures, and dramatic cyber-noir lighting.</code></pre>
+
+</details>
+
+## Luxury Resort Experience Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2081977119811522597)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1761](https://imglume.com/prompt/1761)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d73bbb56-546d-4af9-ba81-35307e6dc53f/73d127f8-fdde-4407-9686-a6d0752e6afc-1785277878536 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d73bbb56-546d-4af9-ba81-35307e6dc53f/10ea7769-9e4f-4db8-a4c9-0c795774a1e8-1785277878536 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>TITLE: Luxury Resort Experience Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait
+• Five-star resort campaign
+• Editorial presentation
+• 8 cinematic storyboard scenes
+
+HEADER:
+• Elegant serif typography
+• Tropical luxury aesthetic
+• Gold decorative doodles
+• Information cards
+• Why This Style Works
+
+STORYBOARD:
+1. Aerial island resort reveal
+2. Grand lobby entrance
+3. Infinity pool overlooking ocean
+4. Oceanfront breakfast
+5. Spa treatment scene
+6. Sunset dinner by the beach
+7. Luxury suite reveal
+8. Resort hero aerial shot
+
+STYLE:
+Four Seasons / Aman Resorts aesthetic, cinematic travel photography, warm golden hour lighting, luxury editorial magazine, ultra realistic, 8K.</code></pre>
+
+</details>
 
 ## Photorealistic close-up over-the-shoulder portrait
 
@@ -330,7 +391,7 @@ A Japanese high school boy in a black gakuran uniform sitting alone inside an ol
 - **Source model(s):** `other`
 - **Categories:** `cinematic`
 - **ImgLume record:** [1543](https://imglume.com/prompt/1543)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/30264874-a4f1-475b-8b45-556f2af1d3eb/8a11a084-7480-4988-aba9-0c7c3561c290-1785056474630 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/30264874-a4f1-475b-8b45-556f2af1d3eb/dfbb0568-7a94-4c10-85d8-0a966dac195a-1785056474630 "Image prompt preview")
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/30264874-a4f1-475b-8b45-556f2af1d3eb/dfbb0568-7a94-4c10-85d8-0a966dac195a-1785056474630 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/30264874-a4f1-475b-8b45-556f2af1d3eb/8a11a084-7480-4988-aba9-0c7c3561c290-1785056474630 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>

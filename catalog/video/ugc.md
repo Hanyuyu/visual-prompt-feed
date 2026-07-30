@@ -1,9 +1,60 @@
 # UGC video prompts
 
-7 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seoul Summer 1998 Home Video
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2082366212512838089)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [1811](https://imglume.com/prompt/1811)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dc7df042-4cd7-4a10-b99b-3a478750b87a/0218441a-f2c3-460c-98d5-23c88ad36ba4-1785332187673 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Format: 16:9
+Concept: "Seoul Summer, 1998"
+
+Create an authentic 15-second archival home video that appears to have been recorded in Seoul, South Korea, during the summer of 1998 using a consumer Hi8 or VHS-C camcorder. The camcorder is never visible. The audience only sees the footage captured through the camera, exactly as if watching a forgotten family videotape decades later. This is not a vlog, not a selfie, and not a cinematic film. The unseen camera operator simply follows the subject naturally while documenting an ordinary day.
+The footage should exhibit genuine late-1990s analogue camcorder characteristics: soft 480i resolution, subtle VHS tape grain, faint interlacing, mild colour fading, occasional autofocus breathing, slight exposure adjustments, gentle handheld shake, imperfect framing, tiny zoom corrections, realistic motion blur, analogue colour bleed, and faint tape hiss. There should be no HDR, no digital sharpening, no beauty filters, no stabilisation, no cinematic lighting, no slow motion, and no modern camera effects.
+The subject is a young Korean woman in her early twenties with long, naturally straight black hair and minimal everyday makeup. She wears a simple fitted pastel crop top, mid-rise blue denim shorts of a modest late-1990s length, white ankle socks, classic white sneakers, and a lightweight oversized nylon windbreaker tied casually around her waist. She carries a plain canvas shoulder bag. Her outfit should accurately reflect youthful Korean summer street fashion from 1998, looking casual and practical rather than modern or editorial.
+The recording begins on a narrow neighbourhood street lined with low-rise apartment buildings, convenience stores, handwritten Hangul shop signs, overhead utility wires, parked late-1990s Korean sedans, bicycles, and pedestrians. The young woman walks naturally along the pavement carrying a small paper bag of fresh bread from a nearby bakery while the unseen camera operator follows several metres behind. She briefly pauses at a pedestrian crossing, waiting with other people as traffic passes. When the signal changes, she crosses the street at a relaxed pace, smiling naturally after noticing the camera for a brief moment before continuing toward the opposite pavement. The camera lingers as she walks farther away into the lively neighbourhood, blending naturally with the surrounding pedestrians. After a few quiet seconds of ordinary street life, the recording ends abruptly, exactly as if someone simply pressed the stop button on the camcorder.
+Generation Requirements: Produce one continuous, uninterrupted 15-second recording with no cuts or transitions. Every detail should faithfully recreate Seoul in 1998, including clothing, hairstyles, architecture, vehicles, shopfronts, signage, and everyday behaviour. Human movement must be completely natural with consistent facial identity, realistic anatomy, accurate hand movements, authentic walking physics, believable crowd interactions, and subtle environmental details such as passing bicycles, distant conversations, birds, traffic, and city ambience. Avoid AI artifacts, duplicated pedestrians, warped limbs, unnatural expressions, floating objects, perfect symmetry, or anything that suggests the footage was AI-generated. The finished result should be indistinguishable from genuine late-1990s home camcorder footage discovered in a family archive.</code></pre>
+
+</details>
+
+## 15-second vertical UGC shampoo advertisement
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2082024707105366186)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1758](https://imglume.com/prompt/1758)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65c8aa79-a028-4bd6-ba54-fd087ea4ca86/e9b5d10f-f79a-4817-af80-26c40b3d5973-1785269529722 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second vertical 16:9 UGC-style shampoo advertisement that feels authentic, premium, and social-media ready.
+A confident young woman stands in a bright, modern bathroom with soft natural morning light. She holds the shampoo bottle close to the camera, smiling warmly as if recommending it to a friend. Her hair is long, healthy, shiny, and naturally bouncy.
+She speaks directly to the camera:
+"I've finally found a shampoo that leaves my hair feeling soft, strong, and incredibly shiny. It cleans without drying, smells amazing, and honestly makes every wash feel like a salon treatment. If you're looking for healthier-looking hair, you have to try this!"
+Storyboard:
+Scene 1: Close-up of the shampoo bottle in her hand as she introduces it.
+Scene 2: She dispenses the shampoo into her palm, creating a rich, creamy lather.
+Scene 3: Beauty shots of her gently washing and massaging her hair, with realistic foam and flowing water.
+Scene 4: After drying, she flips her silky, glossy hair while smiling confidently at the camera.
+Scene 5: Final hero shot holding the shampoo beside her face with a clean, premium bathroom background. She smiles and says, "Highly recommend!"
+The video should have realistic smartphone camera quality, natural handheld movement, genuine facial expressions, smooth transitions, accurate lip sync, premium product visibility throughout, and a polished yet authentic UGC aesthetic. The shampoo bottle label remains sharp, readable, and consistently visible in every product shot.</code></pre>
+
+</details>
 
 ## Handheld MiniDV Dance Vlog of Korean Idol CHASE in Late-Night Studio
 

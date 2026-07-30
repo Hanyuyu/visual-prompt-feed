@@ -1,9 +1,165 @@
 # Character video prompts
 
-14 source-linked prompts, newest ImgLume records first.
+18 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Night retro old-town street MV
+
+- **Original source:** [@AI__TSUBAKI on X](https://x.com/AI__TSUBAKI/status/2082244573271900206)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1821](https://imglume.com/prompt/1821)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57efbcdb-774f-46a7-9de7-d118bba83c59/c554a7ad-f99d-47bc-80e2-ed1000d38621-1785342680641 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Night retro old-town street, cinematic CG, high-fashion girl group MV mood, shallow depth of field, cool-warm color grade.
+
+0-2s: Medium shot, slow arc left. [image2] stands under a streetlamp, lifts her eyes to camera. Focus locked on [image2].
+
+2-5s: Camera keeps arcing left, focus pulls forward. Blurred figure [image2] in the foreground resolves into a low-angle close-up, turning to face camera. [image2] blurs into bokeh.
+
+5-9s: Camera pulls back, panning left. [image3] recedes to mid-ground. [image4] walks in from the left, filling the foreground. Focus shifts from [image3] to [image4].
+
+9-12s: Camera arcs around. [image4]falls back. [image1] walks in from the right into a foreground close-up. Focus moves to [image1].
+
+12-15s: Wide shot, camera pulls back and rises, then settles. Four members line up in a power stance — [image2] center, [image3] and [image4] on the sides, [image1] closing. Stone arches for depth, streetlamps forming a light trail, wet reflective ground.</code></pre>
+
+</details>
+
+## Handheld Camcorder POV Montage of Korean Idol Chase
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2082330996658303337)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1800](https://imglume.com/prompt/1800)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8210e9fb-fafc-412a-8615-b1a4f689ba53/563ce08b-f8a7-4eec-84bf-0d5a40207d08-1785317472002 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+LOOK:
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts naturally per location (warm dorm light → cool van light → bright stage lights).
+
+STYLE:
+Fast, punchy time-lapse montage — quick cuts stitched across locations, sped-up transitional movement. Reflective voiceover narration plays over the visuals instead of synced dialogue. Energy builds quickly from sleepy morning to high-adrenaline stage finish.
+
+Character
+
+CHASE — Korean idol, 20s. Long straight black hair, elegant yet lovely Korean features, dewy glass skin, coral pink lips, big eyes. Outfit changes per location: cozy loungewear at the dorm, casual clothes in the van, stage outfit for the final segment — each fully covering arms and torso.
+
+Setting Progression
+
+Dorm room (morning) → van interior (daytime) → backstage/stage (night). (Practice room cut trimmed to fit the tighter 15s runtime.)
+
+Storyboard (15s, 5 cuts)
+
+(~3s, dorm, propped camera, sleepy morning light) She stretches, rubbing her eyes, hair messy, grabbing her bag. VOICEOVER (CHASE): "Every day starts way too early."
+(~3s, van interior, handheld, window light) She sits by the window, soft daylight passing over her face, scrolling her phone. VOICEOVER (CHASE): "The van's basically my second home."
+(~3s, van, macro insert) Close-up on her hand adjusting a playlist, light flickering through the window. No narration — ambient road sound only.
+(~3s, backstage, handheld, quick transition) Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): "Then suddenly, it's showtime."
+(~3s, stage, wide-to-close, high energy finish) Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): "This is the part that makes it all worth it."</code></pre>
+
+</details>
+
+## 9-second cinematic martial arts fight scene in indoor gym
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2082370698048414190)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [1794](https://imglume.com/prompt/1794)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5b0a791-5550-4ae9-a7cf-7cf34a5f39b4/3b30f79f-4d6e-48c9-9d42-0a3b5a6d4cc0-1785313281992 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dynamic 9-second cinematic martial arts fight scene inside a large indoor training gymnasium with a smooth teal-green mat floor, high industrial ceiling with metal beams, an American flag hanging in the background, and rows of spectators in white t-shirts watching from the sidelines. Soft dramatic lighting with slight haze.
+A muscular Asian man with short dark hair, wearing an olive-green military-style button-up shirt, matching cargo pants, and black combat boots, aggressively attacks with intense facial expressions and open-mouthed shouts. A graceful young woman with long blonde wavy hair, dressed in a light blue traditional Chinese martial arts tunic with black frog buttons, white loose pants, and white sneakers, remains calm and precise, using fluid Tai Chi/Kung Fu techniques.
+Sequence:
+The man leaps high into the air toward the woman with clenched fists and a fierce shout.
+He delivers a powerful mid-air high kick; she blocks and redirects it.
+He drops low to the mat in a predatory stance, crawling forward with intense focus.
+She settles into a strong defensive horse stance, both palms extended forward in a guarding posture.
+Close-up of their hands clashing as he pushes aggressively and she redirects his force.
+She grabs his raised boot and flips him backward; he crashes onto the mat on his back with legs in the air.
+He quickly recovers into a ready fighting stance, fists raised, face contorted in determination.
+He jumps again with arms raised for another strike as her white-clad leg counters.
+Final shot: the woman stands alone in a balanced, elegant martial arts pose on the green mat, hands raised in a calm, powerful guard, looking directly forward with quiet confidence while the man is defeated off-screen.
+Smooth tracking and dynamic camera angles, realistic physics, high-detail clothing movement, cinematic action style, sharp focus, 24fps feel.</code></pre>
+
+</details>
+
+## High-end K-pop girl group music video in an opulent midnight ballroom
+
+- **Original source:** [@AI__TSUBAKI on X](https://x.com/AI__TSUBAKI/status/2082225876612338173)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1777](https://imglume.com/prompt/1777)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a1266500-3969-4dc1-92ba-834c26345954/39afd322-5cb0-4acb-8cdd-68f6ee0dc502-1785302796890 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-end K-pop girl group music video, 8K cinematic quality, photorealistic — no 3D-render or game-engine look.
+
+Location: opulent midnight ballroom — crystal chandeliers overhead, marble colonnade arches receding into darkness, polished black marble floor with mirror-like reflections, thin drifting haze.
+
+Lighting: warm chandelier key light with cool blue moonlight spill from tall arched windows; sparkle glints and soft lens flares off crystals and sequins.
+
+Color: deep midnight blue and black dominant, champagne gold secondary, silver crystal accents.
+
+Camera: physical cine lens feel, shallow depth of field, smooth motorized arc and dolly moves, 180° shutter motion blur, 24fps, no jitter.
+
+Identity: each member's face and hairstyle exactly match her reference image — no identity drift across cuts.
+
+Wardrobe: glamorous coordinated stage outfits as described in the text below; ignore the outfits shown in the reference images.
+
+Cast: the group has exactly four members — no extras, no background dancers, no other people anywhere in the hall.
+
+Acting: idol MV performance — confident gaze into lens, subtle micro-expressions, hair and fabric reacting naturally to movement.
+
+Audio: one single continuous music track — clean mid-tempo glam dance-pop instrumental, deep synth bass, crisp drums, studio-quality mix. No vocals, no second track, no crowd noise, no subtitles, no on-screen text.
+
+Characters:
+YURI ( @ image1 ) — long platinum-blonde hair. Silver crystal-fringe halter top over a shimmering bralette, metallic silver pleated micro skirt, crystal choker, knee-high metallic boots.
+RENA ( @ image2 ) — long jet-black hair. Black sequin corset mini dress scattered with tiny crystals, silver drop earrings, sheer black gloves, black heeled boots.
+SEOYUN ( @ image3 ) — long black hair. Champagne-gold beaded mini dress with thin crystal straps, delicate layered silver necklaces, Strappy gold heels.
+HARIN ( @ image4 ) — long dark-brown hair. Black glitter-tweed blazer dress with crystal buttons worn as a mini dress, silver chain belt, thigh-high black boots.
+
+Scene:
+
+A vast midnight ballroom at night. A grand crystal chandelier hangs over the center of the hall; marble arches line both sides, forming depth toward the far end. The polished black floor mirrors every light. RENA starts alone under the central chandelier; the other three enter one by one as the camera moves, ending in a four-member formation facing camera. The hall is completely empty except for these four members — no one else appears at any point.
+
+CUT 1 — 0–2s, medium shot, slow arc left:
+RENA stands alone in a pool of warm chandelier light, head slightly lowered. She lifts her eyes to camera on the beat. Focus locked on RENA; the hall behind her melts into bokeh.
+
+CUT 2 — 2–5s, arc continues left, focus pull forward, low angle:
+The camera keeps arcing left as a blurred figure enters the foreground. Focus pulls forward: the blur resolves into a low-angle close-up of SEOYUN, who turns to face camera with a poised, knowing look. RENA softens into bokeh behind her.
+
+CUT 3 — 5–9s, camera pulls back, panning left:
+SEOYUN recedes to mid-ground. HARIN strides in from the left, filling the foreground, her glitter-tweed blazer dress catching chandelier glints with each step. Focus shifts from SEOYUN to HARIN as she levels a cool stare into the lens.
+
+CUT 4 — 9–12s, camera arcs around:
+HARIN falls back into the mid-ground. YURI walks in from the right into a foreground close-up, platinum hair swinging, crystal fringe shimmering. Focus lands on YURI as she tilts her chin, eyes locked on camera.
+
+CUT 5 — 12–15s, wide shot, camera pulls back and rises, then settles:
+Exactly four members — YURI, RENA, SEOYUN, HARIN and no one else — line up in a power stance: RENA center, SEOYUN and HARIN flanking her, YURI closing the formation. No duplicated or extra figures in frame. Marble arches recede for depth, chandeliers form a trailing line of light down the hall, and the mirror-polished floor doubles every sparkle. Hold on the formation as the haze drifts.</code></pre>
+
+</details>
 
 ## Handheld MiniDV Dance Vlog of Korean Idol CHASE in Late-Night Studio
 
@@ -520,7 +676,7 @@ MUSIC / SOUND: 15-second instrumental retro crime-caper groove around 108 BPM: b
 - **Source model(s):** `other`
 - **Categories:** `animation`, `character`
 - **ImgLume record:** [1567](https://imglume.com/prompt/1567)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/64f4c115-d147-4df2-b25e-852a073ca0cc-1785076308528 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/b3703d16-565f-4f87-9c80-9963da2dad84-1785076308528 "Video prompt preview")
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/b3703d16-565f-4f87-9c80-9963da2dad84-1785076308528 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2135a2fc-39d5-4f3a-a219-c10ee8faf15b/64f4c115-d147-4df2-b25e-852a073ca0cc-1785076308528 "Image prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>

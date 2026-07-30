@@ -1,9 +1,26 @@
 # Travel video prompts
 
-3 source-linked prompts, newest ImgLume records first.
+4 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young woman travel vlog on high-speed train
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2082087523782955477)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [1748](https://imglume.com/prompt/1748)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b28359a3-713e-4e6b-a8b3-fc7d8ced5dd1/25e00db1-ad34-495d-9524-b257c19c9425-1785263170105 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young woman (image = her face and hair) is seated by the window of a high-speed train, filming a realistic travel vlog from one fixed camera angle near the tray table. She smiles at the camera and says in Korean, "혼자 여행 시작!" As the train moves, beautiful countryside passes outside the window. She takes a sip of coffee, captures a photo of the scenery with her phone, then happily shows the photo to the camera. A few moments later she watches the sunset outside, smiles softly, and says, "정말 예쁘다." As the train arrives at the station, she picks up her backpack, waves warmly, and says, "도착! 다음에 또 만나요." She reaches toward the lens to stop the recording. Shot in live-action photorealism with a locked camera, natural train ambience, realistic skin texture, soft daylight, no background music, no subtitles, no logos, and no CGI or AI-plastic appearance.</code></pre>
+
+</details>
 
 ## Japan in 60 seconds cinematic travel video
 

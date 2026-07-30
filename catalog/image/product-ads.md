@@ -1,9 +1,113 @@
 # Product Ads image prompts
 
-2 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxury skincare product advertisement
+
+- **Original source:** [@rowanali09 on X](https://x.com/rowanali09/status/2082457952901018006)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1826](https://imglume.com/prompt/1826)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/af3626cb-6023-4f56-8f2e-f3c3df0340e1/decdfca9-c3bc-47c6-b393-df1fa8f2678c-1785344772273 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/af3626cb-6023-4f56-8f2e-f3c3df0340e1/0e7062f4-06c8-4b43-b94a-0c02884c3e85-1785344772273 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/af3626cb-6023-4f56-8f2e-f3c3df0340e1/fac76e24-08ab-4a2a-b6ee-88ff413345fc-1785344772273 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/af3626cb-6023-4f56-8f2e-f3c3df0340e1/d0c76ad4-12b2-4502-a306-2c08af2f2964-1785344772273 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Luxury skincare product advertisement featuring a cosmetic cleanser bottle as the hero subject, placed at the center on a fluffy pastel faux-fur surface with a glossy mirror reflection. The background should have dreamy pastel gradients in lavender, soft pink, peach, and cream with cinematic golden bokeh lights and volumetric glow. Add elegant vanity props including a pearl necklace, jewelry box, scented candle, baby's breath flowers, and a vintage vanity mirror. Use soft warm diffused lighting with subtle rim light, shallow depth of field, creamy bokeh, and ultra-realistic commercial product photography. Include cute hand-drawn doodle arrows, sparkles, hearts, and premium handwritten typography with the headline "Glowy Skin In A Bottle", subheading "Nourish • Hydrate • Glow", and supporting text "For Soft, Smooth &amp; Glowing Skin" and "Self Care Everyday". Photorealistic, luxury beauty campaign, premium cosmetic branding, highly detailed textures, realistic reflections, HDR, 85mm macro lens, f/2.0, professional studio lighting, commercial advertising, ultra-realistic 4K, 9:16 vertical composition.</code></pre>
+
+</details>
+
+## Ultra-premium Apple-style iPhone 17 Pro product campaign portrait
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2082105414179848549)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1804](https://imglume.com/prompt/1804)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/99f74314-8197-42f8-a45f-fcde4af259d7/7599ba95-608f-444c-9a49-2cdf7d91692b-1785321687999 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-premium Apple-style product campaign using the uploaded image as the exact facial reference. Preserve my identity with maximum accuracy, including my face shape, hairstyle, beard, eyebrows, skin tone, eye proportions, lips, jawline, and every unique facial feature. Do not alter my age or recognizable appearance.
+
+I am wearing a sleek black premium bomber jacket with a minimal futuristic aesthetic. I am confidently holding a Silver iPhone 17 Pro toward the camera in a dramatic low-angle perspective, with the phone dominating the foreground while my face remains perfectly sharp and cinematic. The iPhone features a luxurious brushed titanium silver finish with polished edges, realistic reflections, premium camera lenses, and authentic Apple design language.
+
+The background is a futuristic Apple keynote-inspired environment with glowing white and cool blue volumetric lighting, clean architectural lines, and a massive illuminated “PRO” typography behind me. At the top, place a subtle Apple logo with “iPhone 17” in Apple’s minimalist style. Use high-end commercial lighting, realistic skin texture, natural hand proportions, sharp focus, premium depth of field, soft rim lighting, and flawless reflections on the phone. The composition should feel like an official Apple flagship advertisement, ultra-realistic, hyper-detailed, 8K, HDR, IMAX quality, magazine cover worthy, with a cool silver and blue color palette, luxury aesthetic, and perfect cinematic color grading.</code></pre>
+
+</details>
+
+## Premium Commercial Product Advertising Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2082056493986357275)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1773](https://imglume.com/prompt/1773)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1df98c89-208b-4509-901b-a3d693490850/271a7387-0405-46a9-9491-01ea4d249b56-1785298703961 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1df98c89-208b-4509-901b-a3d693490850/76c498ef-189f-408d-b0bd-334510c84622-1785298703961 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1df98c89-208b-4509-901b-a3d693490850/686a5a58-a6f9-4de5-ba30-5a54f4b4256d-1785298703961 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Commercial Product Advertising (4:5)
+
+Product: [PRODUCT NAME]
+
+Create an ultra-realistic premium commercial advertisement featuring [PRODUCT NAME] as the hero. Preserve the official packaging, logo, typography, colours, proportions, materials, textures, reflections, label details, and overall brand identity with complete accuracy. No redesign, recolouring, distortion, replacement, or modification.
+
+Analyse the product's category, flavour, purpose, ingredients, target audience, packaging style, and brand personality to create a unique, award-worthy advertising concept. Position the product in a dynamic tilted pose that feels natural and energetic.
+
+Place it in a premium pastel studio environment inspired by the packaging colours with clean negative space for advertising copy. Surround the product with expressive black marker doodles that complement the concept, including arms, legs, hands, shoes, motion lines, props, sparkles, stars, bubbles, splashes, leaves, ribbons, icons, and other playful graphic elements without covering the product.
+
+Use luxury editorial product photography with a three-quarter angle, shallow depth of field, razor-sharp focus, soft diffused studio lighting, realistic reflections, floating shadows, premium colour grading, and ultra-realistic materials.
+
+Mood: Premium, playful, modern, sophisticated, energetic, memorable, brand-forward, scroll-stopping.
+
+Output: 4:5 portrait, 2160×2700 (or equivalent), 8K quality.
+
+Negative Prompt: Low quality, blur, incorrect branding, altered packaging, modified logo, changed typography, recoloured product, unrealistic materials, distorted proportions, clutter, excessive doodles, text errors, noise, oversaturation, AI artifacts, poor lighting, cropped product.</code></pre>
+
+</details>
+
+## Vertical product ad generation prompt
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2082113920102224099)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1760](https://imglume.com/prompt/1760)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a178c3ef-1034-4e2f-838a-183355042cae/70061a09-e8ac-4b29-8909-e75c3368d144-1785271576261 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a178c3ef-1034-4e2f-838a-183355042cae/5db0ea4f-5e03-4384-b802-89b2c6e2c7fa-1785271576261 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded product image as the single source of truth and create one outstanding vertical ad ready for a premium campaign.
+Product Analysis
+Silently determine the category, function, audience, price segment, brand character, materials, colors, packaging, typography, logo, and main product advantage. Base all decisions solely on the photo reference.
+Product DNA Protection
+Preserve the product 1:1: shape, proportions, packaging, logo, label, text, colors, materials, textures, finish, reflections, and all visible details. Do not alter, repaint, simplify, duplicate, or add fictional elements.
+Creative Selection
+Silently develop 5 ad concepts, evaluate them based on originality, brand alignment, realism, visual power, and product focus. Show only the strongest final concept.
+Brand Communication
+Add:
+— brand logo or name;
+— one slogan of maximum 3 words;
+— one short additional phrase if necessary.
+Language — Russian or the brand's language. Typography must exactly match its style. Minimum text, no long explanations.
+Visual Direction
+Bold, cinematic, and premium composition with the product as the main hero. Realistic lighting, refined shadows, strong visual hierarchy, and thoughtful negative space.
+No infographics, callouts, comparisons, extra icons, fake UI, visual noise, or random effects.
+Result: one clean vertical ad 4:5, only the final best version, no analysis.</code></pre>
+
+</details>
 
 ## Giant Transparent Perfume Bottle with Model – High Fashion Photo Prompt
 

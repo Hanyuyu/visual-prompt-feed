@@ -1,9 +1,115 @@
 # Product Ads video prompts
 
-11 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic product ad video of tennis serve with brand logo formation
+
+- **Original source:** [@auqibhabib on X](https://x.com/auqibhabib/status/2082364290464681985)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1808](https://imglume.com/prompt/1808)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d0a5f3ae-fbac-4e70-9552-3b67545e29a9/e477eba7-4a0b-4211-a4e8-c6b08c69b101-1785328094240 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Make a video in high quality short cinematic product ads style. the video begins with @[Image 1] in a tennis court, she is serving a tennis ball with her racket, the camera track her movement and the second she hit the ball, the camera go from top down view in which the tennis ball is now closest to the camera and she is underneath it pause in the mid serving position. then while time freezes, the camera show close up of the outfit, the logo, the headband etc, then she hit the ball and walk and the camera suddenly turn to across the court where the ball goes and there are a bunch of ball forming across that outlined the brand name "comtex" all cap</code></pre>
+
+</details>
+
+## Starbucks – Coffee Galaxy 15‑second commercial prompt
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2082320700552155226)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1797](https://imglume.com/prompt/1797)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5811cba1-68ec-4425-9ed1-76cbdb9ebcaf/3ea16f5a-146d-496c-a7d1-f5148cf2d9fa-1785315374029 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5811cba1-68ec-4425-9ed1-76cbdb9ebcaf/6a08b3ec-1e96-4e45-935d-60176fd89d70-1785315374029 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-secondultra-photorealistic Hollywood commercial titled "STARBUCKS — COFFEE GALAXY" with the subtitle "A Universe Brewed FromMoments." The film should feel like a premium Super Bowl advertisement, blending Interstellar-scale cosmic visuals with luxurious Starbucks Reserve aesthetics. Every shot features seamless cinematic transitions, physically accurate coffee simulations, volumetric lighting, hyper-detailed textures, and luxury product cinematography.
+Scene 01 (0.0–1.5s): Deep outer space filled with millions of glowing roasted coffee beans floating like stars. A warm golden cosmic light rises from the center of the galaxy as a premium Starbucks cup slowly appears at the heart of the universe. Slow drone fly-through descends toward the cup. Ultra-wide establishing shot, 20mm anamorphic, cinematic HDR, volumetric lighting.
+Scene 02 (1.5–3.0s): Extreme macro of a roasted coffee bean. The bean transforms into an enormous mountain range made of coffee textures, caramel valleys, chocolate cliffs, and aromatic steam. Slow macro slider across the bean surface with shallow depth of field. 100mm Leica macro lens.
+Scene 03 (3.0–4.5s): A premium Starbucks cup floats above a rotating coffee planet. Roasted beans, cinnamon sticks, vanilla pods, chocolate flakes, and golden coffee dust orbit around the cup like miniature planets. Elegant 360° orbit shot with floating particles and luxury golden rim lighting.
+Scene 04 (4.5–6.0s): Fresh espresso pours dramatically into the Starbucks cup. The espresso stream transforms into a glowing cosmic river flowing through space while coffee steam expands into a massive nebula across the galaxy. High-speed liquid macro transitions into slow motion. Hyper-realistic fluid simulation.
+Scene 05 (6.0–7.5s): FPV flight through the Coffee Galaxy. Fly naturally between floating coffee planets, caramel rings, milk-cloud nebulae, cocoa asteroids, sparkling sugar dust, and roasted coffee bean constellations. Dynamic cinematic speed with volumetric coffee mist and cosmic sunlight.
+Scene 06 (7.5–9.0s): Top-down macro view of espresso as silky milk slowly pours in. Cream forms a beautiful spiral galaxy inside the cup before evolving into elegant latte art. Smooth rotating descent, ultra-detailed liquid simulation, soft café lighting.
+Scene 07 (9.0–10.5s): Reveal a luxurious Starbucks Reserve café floating among the stars. Warm conversations, rich wooden interiors, glowing hanging lights, and panoramic windows overlooking the Coffee Galaxy. Smooth gimbal walk-through transitions from the cozy café to the infinite universe outside.
+Scene 08 (10.5–12.0s): Everything freezes in time. Coffee beans, milk droplets, espresso splashes, chocolate particles, steam, and golden dust remain suspended around the Starbucks cup. Bullet-time camera pushes through the frozen particles toward the product with sparkling highlights and cinematic depth.
+Scene 09 (12.0–13.5s): Hero product shot. The Starbucks cup stands majestically on a floating coffee planet surrounded by rotating caramel waterfalls, glowing coffee rings, nebula clouds, and golden sunrise light. Slow circular orbit emphasizes premium branding and luxury craftsmanship.
+Scene 10 (13.5–15.0s): The Coffee Galaxy dissolves into a clean Starbucks green background. The Starbucks logo fades in with elegant cinematic lighting. The tagline "BREW YOUR MOMENT" appears beneath the logo. Slow graceful zoom-out ending with premium brand recall.</code></pre>
+
+</details>
+
+## Premium mango juice commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082315935248257437)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1791](https://imglume.com/prompt/1791)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/15a37f53-2955-43a2-bf95-221099886d08/3e76f43a-368d-4d41-97a6-96b296b92497-1785309126897 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, delicate necklace, and facial consistency throughout every shot. Replace her current outfit with a fitted white sleeveless crop top, white pleated mini skirt, and white sneakers. Maintain realistic hand anatomy, natural expressions, and perfect character consistency.
+
+Create a premium mango juice commercial with a bright tropical summer aesthetic. The hero product is a realistic branded mango juice bottle featuring a vibrant orange label with fresh mango illustrations, green leaf accents, and a premium fruit juice logo. The bottle design must remain identical throughout the commercial.
+
+The video opens with the girl already on screen, standing in a sunlit tropical kitchen while holding a perfectly ripe mango beside her face. She smiles warmly at the camera, playfully tosses the mango into the air, and as it spins, it magically transforms into the chilled branded mango juice bottle. She catches it confidently, smiles, and says,
+
+"Taste summer in every sip."
+
+A cinematic macro sequence follows. Extreme close-ups showcase the bottle covered in sparkling condensation as golden mango juice splashes, fresh mango cubes, crushed ice, tropical leaves, and tiny water droplets explode around it in slow motion. Warm sunlight glistens beautifully across the premium label.
+
+She twists open the bottle with a satisfying crisp pop, takes a refreshing sip, closes her eyes for a moment, and smiles naturally as if enjoying the first taste of summer.
+
+The scene transitions to a lively tropical fruit market. Smooth handheld and gimbal shots follow her as she strolls between colorful fruit stalls, greets friendly vendors, samples fresh mango slices, laughs naturally, and carries the branded mango juice bottle while browsing baskets overflowing with ripe tropical fruit.
+
+She then arrives at a lush mango orchard during golden hour. She reaches up to pick ripe mangoes from the trees, fills a woven basket, and joins her friends for a relaxed picnic beneath the orchard canopy. Everyone enjoys the same branded mango juice while laughing, chatting, sharing fruit, and soaking in the warm evening sunlight.
+
+The final hero sequence shows her standing alone in the orchard as the sun sets behind endless rows of mango trees. She walks toward the camera with a bright smile, extends the chilled mango juice bottle close to the lens, and says,
+
+"Pure mango. Pure happiness."
+
+The camera slowly pulls back to reveal the glowing orchard, golden sunset, gently swaying leaves, and friends celebrating together in the background before fading out.
+
+Style: Premium beverage advertising, luxury commercial cinematography, ultra-realistic fruit textures, realistic liquid physics, glossy product photography, cinematic handheld and gimbal camera movements, shallow depth of field, vibrant tropical colour palette, premium brand campaign aesthetic, photorealistic 4K HDR, 16:9 widescreen, 24 fps.
+
+Audio: Natural ambience only—birds singing, leaves rustling, fruit market chatter, footsteps, bottle opening, sparkling fizz, juice pouring, soft laughter, breeze through the orchard, and gentle nature sounds. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
+
+Negative Prompt: No distorted hands, no duplicate people, no deformed bottle, no AI artifacts, no blurry label, no low resolution, no cartoon style, no flickering, no oversaturated colours, no text overlays.
+
+#HiggsfieldCPP</code></pre>
+
+</details>
+
+## Cinematic Red Bull Energy Drink Commercial
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2082308088636522660)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1789](https://imglume.com/prompt/1789)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9039f086-90dc-4d0d-aa4a-59a665b0c595/72aa1765-d66f-4540-8adf-4601de9a158b-1785309071452 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic Red Bull energy drink commercial, ultra-realistic product photography style. A sleek blue and silver Red Bull can standing upright on a reflective dark surface with a soft gradient grey background. Condensation water droplets cover the can. A strong male hand reaches in and pulls the ice-cold Red Bull can out of a metal ice bucket filled with clear ice cubes. Extreme close-up of water droplets on the metallic surface of the can. The pull-tab opens with a burst of cold mist and vapor rising from the top. Golden amber liquid pours from the can into a clear glass filled with ice cubes, creating bubbles and fizz. A shirtless, extremely muscular, fit young man with sharp jawline and short brown hair drinks from the Red Bull can, eyes closed in satisfaction, then smiles confidently while holding the can. Dynamic action shot of the Red Bull can floating in mid-air surrounded by exploding ice cubes, water splash, and light rays. Final shot: Red Bull logo (two red bulls and yellow sun) appears above the cold, wet Red Bull can on a reflective surface. High-end commercial lighting, sharp details, cold blue and silver color grading, steam and condensation effects, 8K, photorealistic.</code></pre>
+
+</details>
 
 ## Sleek commercial ad for LOOVA wireless earbuds in a modern kitchen
 
