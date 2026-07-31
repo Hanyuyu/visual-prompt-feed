@@ -1,9 +1,82 @@
 # Travel video prompts
 
-4 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## POV found-footage travel video on a nighttime Korean beach captured with vintage MiniDV camcorder
+
+- **Original source:** [@meng_dagg695 on X](https://x.com/meng_dagg695/status/2082375995475345482)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [1856](https://imglume.com/prompt/1856)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dff443c4-496a-43fc-8642-93e41b1b11a1/836f0a93-92a9-4da6-b35c-9fbf3d11eb18-1785389131054 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>POV found-footage travel video captured entirely from the perspective of the male character holding a vintage early-2000s MiniDV camcorder with a 16mm-equivalent lens. The camcorder itself is never visible. The entire sequence feels like an authentic home video recorded during a spontaneous night at the beach.
+
+LOCATION
+A peaceful nighttime beach inspired by Korea's east coast. Dark ocean, silver moonlight reflecting across gentle waves, warm promenade lights in the distance, wet sand reflecting light naturally, cool sea breeze moving clothing &amp; hair, faint silhouettes of distant beachgoers, humid coastal atmosphere, subtle mist around lights.
+
+CHARACTERS
+Image 1: Young woman with a warm, playful personality, expressive facial expressions, natural smile, relaxed body language, realistic movement.
+Image 2: Male camera operator filming everything himself from first-person POV. Only his hands, occasional legs, or reflections may briefly appear naturally.
+
+CAMERA STYLE
+Authentic amateur MiniDV home-video aesthetic with:
+• Continuous handheld movement
+• Natural arm fatigue and micro-shakes
+• Slight rolling shutter
+• Imperfect framing
+• Subjects occasionally drifting out of frame
+• Slightly tilted horizon
+• Delayed autofocus hunting
+• Slow automatic exposure adjustments
+• Accidental zoom-ins and zoom-outs
+• Faces sometimes partially cropped
+• No stabilization
+• No cinematic camera moves
+• Raw documentary feeling
+
+SCENE
+The recording begins while both casually walk along the shoreline at night. The camera slowly pans toward Image 1 as she notices the lens and smiles naturally before walking closer.
+
+Without warning, Image 1 wraps both arms around Image 2 in a playful hug and lifts him slightly off the ground while laughing. Because the camera is still in Image 2's hand, the footage becomes noticeably unstable, bouncing with every movement.
+
+Looking directly into the camera with a teasing but sincere expression, Image 1 says:
+
+"About what you said earlier. were you serious... or were you just teasing me? Be honest."
+
+Image 2 laughs awkwardly and replies:
+
+Come on... can't I joke around sometimes?
+
+Image 1 pauses for a second, gives a playful smile, then suddenly turns and runs toward the ocean while still carrying Image 2.
+
+camera begins shaking violently from the unexpected movement. The horizon tilts dramatically, autofocus struggles to keep up, accidental zoom changes occur, footsteps become louder, breathing becomes heavier, and the ocean rapidly fills the frame.
+
+As they reach the water, waves splash against their legs and onto the camera lens. Water droplets partially blur the image. The camera continues bouncing wildly.
+
+Image 2 shouts with genuine surprise:
+
+"Hey! Wait! Don't! Seriously!"
+
+Image 1 laughs loudly while continuing into the shallow waves.
+
+A larger wave splashes toward the camera, the autofocus completely loses focus, the image briefly overexposes from reflected moonlight, tape distortion appears, audio clips slightly from the shouting, &amp; the recording abruptly cuts to black mid-motion as if the old camcorder stopped recording after being splashed.
+
+VISUAL LOOK
+Authentic early-2000s MiniDV tape recording, soft digital sharpness, subtle analog tape grain, mild compression artifacts, slight chromatic aberration, interlaced motion characteristics, muted colors, realistic skin tones, gentle highlight bloom around lights, low contrast, slight green-magenta color shift, automatic white balance fluctuations, occasional pixel breakup during rapid movement, no HDR, no modern cinematic grading.
+
+AUDIO
+Old built-in camcorder microphone with continuous tape hiss, gentle nighttime ocean waves, wind across the microphone, footsteps on wet sand, clothing rustling, natural breathing, spontaneous laughter, realistic voices, occasional microphone distortion during shouting, water splashing onto the microphone, no background music, no cinematic sound design.</code></pre>
+
+</details>
 
 ## Young woman travel vlog on high-speed train
 

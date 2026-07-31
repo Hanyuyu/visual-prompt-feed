@@ -1,9 +1,26 @@
 # Architecture image prompts
 
-5 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Sprawling Futuristic Gothic Megacity
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2082593905044812044)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `illustration-3d`
+- **ImgLume record:** [1883](https://imglume.com/prompt/1883)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/b4e9a032-adce-4552-97df-3cb6ce18c588-1785404834105 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/98aa6dc9-be79-4006-bf53-1924808e72cc-1785404834105 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/755591f6-b1fe-4404-a4c0-1d14f7113d2b-1785404834105 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/da877a84-a058-42b8-ae3e-022c39f3d6dc-1785404834105 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>hyperrealistic bio-organic fantasy sci-fi 3D render, sprawling futuristic gothic megacity built from bone-white biomechanical spires resembling melted wax or coral formations, two towering twin needle spires piercing storm clouds at the vanishing point, symmetrical city layout along a wide central boulevard lined with cherry-blossom-pink flowering trees, canals and elegant arching bridges, ornate carved stone reliefs on a foreground pillar, rose-vine-covered spire with delicate floral cultivation, small aerial drone craft dotting the sky, dramatic chiaroscuro lighting, dark brooding storm clouds, brilliant shaft of golden sunlight breaking through, warm gold-lit ivory-bone architecture against cool gray storm, soft pink cherry-blossom and green foliage accents, perfectly symmetrical composition, central vanishing point boulevard, dramatic high-angle aerial perspective, foreground framing pillars, ultra-detailed organic architecture, cinematic epic fantasy-sci-fi scale</code></pre>
+
+</details>
 
 ## Minimalist pastel watercolor illustration of a Korean city hall library
 

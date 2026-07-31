@@ -1,9 +1,26 @@
 # Nature video prompts
 
-1 source-linked prompts, newest ImgLume records first.
+2 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Smartphone selfie vlog under cherry blossom trees
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2082439846526595390)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [1849](https://imglume.com/prompt/1849)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8eefb448-6204-47e2-b7a8-327691d1a19b/b3db8241-2abb-4829-ab15-5a3eef27e87f-1785389078179 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic smartphone selfie vlog that looks like it was casually recorded on a real mobile phone by a young woman (image = her face and hair) during cherry blossom season. Natural handheld phone movement with subtle hand shake, slight autofocus breathing, realistic exposure changes as sunlight filters through the trees, occasional imperfect framing, authentic phone camera stabilization, natural ambient audio, and true-to-life colors. She walks slowly beneath beautiful blooming cherry blossom trees in a peaceful park on a bright spring afternoon, smiling naturally at the front camera and softly saying in Korean, "벚꽃이 정말 예쁘네요." She gently reaches up to catch a falling cherry blossom petal, holds it in her hand with a happy smile, then switches to the rear camera to film the blossoms overhead before returning to selfie mode. She takes a quick selfie photo with her phone, laughs naturally while looking at the result, continues walking along the blossom-lined path as petals drift around her in a light breeze, then stops, turns back toward the camera, gives a warm wave, and says, "다음에 또 만나요. 안녕!" before reaching toward the phone to end the recording. The video should feel exactly like a genuine mobile phone recording with natural human movement, realistic facial expressions, consistent identity, accurate hand proportions, authentic outdoor lighting, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only real park ambience, birds, distant conversations, footsteps, and the sound of wind through the cherry blossom trees.</code></pre>
+
+</details>
 
 ## Authentic MiniDV Handheld Travel Vlog on Coastal Cliff
 

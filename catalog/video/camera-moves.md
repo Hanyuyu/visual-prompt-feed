@@ -1,9 +1,95 @@
 # Camera Moves video prompts
 
-20 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic high-octane action sequence with magenta truck in desert canyon
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2082791809898651724)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1900](https://imglume.com/prompt/1900)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a9f9c14-5814-4413-93a7-9fd7b7b6d6ce/eb89dd3f-f927-47cb-ae54-187a596aff05-1785419486034 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic high-octane action sequence in a vast red-rock desert canyon under bright blue sky. A heavily customized bright magenta/pink off-road truck with spiked armor, heavy chains, and a massive metal skull front grille with glowing headlights and long fangs speeds through dusty terrain. Dynamic camera work: low-angle undercarriage shot as the truck launches over a dirt ramp kicking up dust and debris; side tracking shot of the spiked truck racing; close-up inside the cab of a stern woman in a traditional yellow hanbok-style outfit smoking a cigarette while gripping the wheel; rear gunner platform with a young woman in digital camouflage military uniform (name patch visible), long hair flying, sunglasses on head, enthusiastically firing a large mounted heavy machine gun with muzzle flashes while shouting; POV from the truck’s spiked hood racing toward a charging herd of massive armored metallic rhinoceros-like beasts with mechanical plating and horns kicking up dust; side and frontal shots of the pink skull-truck barreling through the stampeding armored rhinos as the gunner keeps firing; high aerial overhead shot of the truck weaving among the herd leaving dust trails; final rear tracking shot of the truck speeding away down the canyon with the gun still elevated. Fast-paced, dusty, intense Mad Max-inspired post-apocalyptic energy mixed with Korean action-comedy flair, bright desert lighting, motion blur, practical dust and debris effects, 15-second continuous action sequence.</code></pre>
+
+</details>
+
+## Celestial Warrior Combat Dance
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2082761095538790899)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1890](https://imglume.com/prompt/1890)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5ab4761-93f4-4b03-9cea-0941dff25ed4/08c7d59f-4fd2-4ce8-b871-ef46f255c3f3-1785413249635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Inside an enormous ancient temple with towering stone pillars, cracked marble floors, floating dust particles, and powerful beams of sunlight streaming through the ceiling, a beautiful young female martial artist wearing an elegant flowing pink hanfu-inspired combat dress performs an extraordinary combat dance.
+
+The sequence opens with an ultra-wide cinematic shot as she glides gracefully across the polished stone floor. Her silk sleeves and layered skirt flow naturally with every movement while the camera circles her in a smooth 360-degree motion.
+
+She suddenly launches into an acrobatic spinning kick, flipping through the air with flawless martial arts precision. The camera switches to an extreme low-angle shot emphasizing her height and power as her dress ripples realistically.
+
+The action transitions into dramatic slow motion as she lands softly before instantly accelerating into rapid spinning footwork. Every movement creates realistic cloth simulation, subtle dust bursts, and perfectly synchronized body mechanics.
+
+She leaps high beneath a brilliant shaft of heavenly light. The camera follows from below while volumetric lighting surrounds her, creating an angelic silhouette. Her expression remains calm, focused, and fearless.
+
+As she begins rotating in midair, glowing golden energy ribbons emerge around her body, spiraling outward like magical dragon-shaped currents. Sparks, floating embers, and swirling particles react naturally to her motion.
+
+The camera pulls back into a breathtaking wide shot as the golden energy tornado expands across the temple floor, illuminating the ancient architecture with warm orange reflections. Dust rises naturally while light scatters realistically through the atmosphere.
+
+The final moment freezes in epic slow motion as she floats gracefully at the center of the glowing spiral beneath the heavenly beam, surrounded by rotating rings of golden energy. The camera slowly cranes upward, revealing the magnificent temple from above before fading to black.</code></pre>
+
+</details>
+
+## Cinematic underwater mermaid animation video
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2082439952659619978)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [1842](https://imglume.com/prompt/1842)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bef3fec-53b9-4e7c-815c-57e50a035336/fbd8638f-5ce4-4ab0-9e74-ce8e5148ab5f-1785361593702 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8bef3fec-53b9-4e7c-815c-57e50a035336/d631f5b0-2d95-4825-8c14-a7f3563d25e5-1785361593702 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>2️⃣video prompt:
+
+Cinematic underwater ocean epic, one continuous unbroken take, 15 seconds, constant forward propulsion, no pauses, no ending shot, no surfacing to a final pose.
+
+Character (keep consistent in every frame):
+A young mermaid named Nereid, gentle and curious expression, pale ice-blue eyes, extremely long flowing cyan-to-turquoise hair that streams behind her in the current. She has translucent lavender-pink webbed fin-ears framing her face and a delicate pale coral crown of thin spines above her brow. She wears a scalloped shell bandeau top with a blue-to-lavender iridescent gradient and a soft peach starfish ornament at the center, strands of small white pearls across the collarbone, sheer detached arm-veils of pale aqua gossamer, and a translucent frilled hip skirt of layered ice-blue and lavender chiffon with pearl chains and a peach starfish clasp at the small of her back. Her tail is cobalt-to-turquoise fish scales dusted with pearlescent highlights and a diagonal line of pearls along the hip, ending in enormous translucent gossamer flukes in pale aqua and white that ripple like silk. Palette locked to cobalt blue, turquoise, pale ice blue, soft lavender, pearl white, faint peach.
+Beat 1 (0.0s to 2.5s): Open already in motion. Camera glides through sunlit upper ocean as a colossal blue whale slides into frame from below, filling the screen. Nereid pulls alongside its eye, one hand brushing its skin, then kicks hard and accelerates. Dozens of blue whales, humpbacks and orcas stretch into the blue distance in a vast migrating column. Camera: fast tracking shot beside her, wide lens, god-rays lancing down from the surface.
+
+Beat 2 (2.5s to 5.5s): She weaves between the whales' bodies and under a humpback's outstretched pectoral fin. A humpback breaches far above, its silhouette punching through the surface in a curtain of white bubbles and refracted light. Pods of dolphins spiral around her, manta rays glide overhead like slow shadows, dense schools of glowing silver fish split and reform around her body. Camera: barrel-rolling follow shot, bubbles streaking past the lens, caustic light patterns rippling across every surface.
+
+Beat 3 (5.5s to 8.5s): The column descends into a luminous coral kingdom: towering coral spires in violet, rose and gold, giant clams, anemone fields swaying in the current. The whales pass over an ancient sunken shipwreck, broken masts furred with coral, and the pod threads through a deep undersea canyon of sheer rock walls. Nereid dives through a shattered porthole and out the other side without losing speed. Camera: rapid dolly through the wreck interior, then bursting out into open blue.
+
+Beat 4 (8.5s to 11.5s): She catches a fast current and rockets forward, hair and flukes snapping in the flow. The pod passes through a glowing jellyfish forest, thousands of bioluminescent bells pulsing soft blue and violet, then through a colossal natural stone arch on the seafloor, then along a flowing kelp forest whose blades part around the whales. New sea life keeps joining the procession: sea turtles, whale sharks, luminous squid. Camera: sweeping crane-style descent revealing the full scale of the migrating column against a fading abyssal gradient.
+
+Beat 5 (11.5s to 15.0s): The ocean opens into an immense deeper blue. The whales sing, bubbles rising in vast columns. More and more creatures stream in from every direction until the entire sea becomes one grand living procession, light beams thinning as the pod pushes toward the far horizon. Nereid swims forward beside the largest whale, looking ahead, never back. Camera continues tracking behind and slightly above her as the pod recedes into infinite blue, still moving as the frame ends. No fade, no freeze, no stop.
+
+Style and technical:
+Anime-influenced cinematic CG, high-budget feature film underwater quality. Luminous cool palette of cobalt, turquoise, aquamarine and pearl white with lavender and warm gold accents from sunlight. Volumetric god-rays, dense caustics, floating marine particulate, drifting bubble trails, soft depth haze that stacks scale layer by layer. Realistic water physics on hair, chiffon veils and translucent flukes with subsurface scattering. Dreamlike, healing, awe-struck tone with continuous fluid motion and constantly changing seascapes. Reference feel of Avatar: The Way of Water underwater photography and Moana ocean spectacle. 24fps cinematic shutter, anamorphic widescreen framing, subtle motion blur on all fast elements, crisp detail on scales, pearls and coral texture throughout.
+
+Negative: static camera, empty water, murky or desaturated grade, harsh darkness, human legs, extra limbs, warped hands, text or watermarks, cut to black, slow motion ending, character floating still, hair or tail color drift, dry land, above-water finale.
+Optional audio prompt:
+Deep whale song layered under a swelling orchestral score, strings and soft choir, muffled underwater ambience, rushing current, bubble hiss, distant sonar-like tones, building to a wide open crescendo that keeps expanding and never resolves.</code></pre>
+
+</details>
 
 ## Night retro old-town street MV
 

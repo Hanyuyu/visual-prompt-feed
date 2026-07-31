@@ -1,9 +1,80 @@
 # Illustration 3d image prompts
 
-8 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Futuristic 5,000 Followers Celebration for AI Creator
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2082512352872927605)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [1884](https://imglume.com/prompt/1884)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75662221-bb69-4098-a2f0-c5af6959024f/5f44c708-2589-40ed-83f4-610cf158e5e5-1785404860379 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A breathtaking futuristic social media milestone celebration scene for an AI creator reaching 5,000 followers on X (Twitter). A confident digital creator stands at the center on a glowing neon platform, surrounded by floating holographic screens displaying AI-generated art, cinematic videos, prompts, neural networks, robots, creative workflows, and viral content. Above, a massive luminous "5,000 FOLLOWERS" made of blue and white holographic light dominates the sky. Thousands of glowing particles, confetti, light streaks, and digital sparks fill the atmosphere. A gigantic futuristic X logo shines in the background with cyberpunk city lights and volumetric lighting. Floating analytics panels display realistic milestones: 5K Followers • Millions of Views • AI Creator • Prompt Engineer • AI Videos • AI Art • Tutorials • Collaborations. Elegant typography reads "Thank You For Being Part of This Journey". Ultra-premium cinematic composition, hyper-realistic lighting, ray tracing, HDR, depth of field, glossy reflections, symmetrical framing, luxurious blue, cyan, silver, and white color palette, epic inspirational mood, award-winning digital art, Unreal Engine 5 quality, Octane render, 8K, ultra-detailed, razor-sharp focus, masterpiece, visually stunning, designed for a viral X post.
+
+Optional text to include in the image:
+
+🎉 5,000 Followers
+
+Thank You!
+
+AI Creator
+
+AI Art
+
+AI Videos
+
+Tutorials
+
+Prompts
+
+Millions of Views
+
+The Journey Continues 🚀</code></pre>
+
+</details>
+
+## Sprawling Futuristic Gothic Megacity
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2082593905044812044)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `illustration-3d`
+- **ImgLume record:** [1883](https://imglume.com/prompt/1883)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/b4e9a032-adce-4552-97df-3cb6ce18c588-1785404834105 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/98aa6dc9-be79-4006-bf53-1924808e72cc-1785404834105 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/755591f6-b1fe-4404-a4c0-1d14f7113d2b-1785404834105 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8b96f88f-8a41-4aa4-beda-6ced2d4402d9/da877a84-a058-42b8-ae3e-022c39f3d6dc-1785404834105 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>hyperrealistic bio-organic fantasy sci-fi 3D render, sprawling futuristic gothic megacity built from bone-white biomechanical spires resembling melted wax or coral formations, two towering twin needle spires piercing storm clouds at the vanishing point, symmetrical city layout along a wide central boulevard lined with cherry-blossom-pink flowering trees, canals and elegant arching bridges, ornate carved stone reliefs on a foreground pillar, rose-vine-covered spire with delicate floral cultivation, small aerial drone craft dotting the sky, dramatic chiaroscuro lighting, dark brooding storm clouds, brilliant shaft of golden sunlight breaking through, warm gold-lit ivory-bone architecture against cool gray storm, soft pink cherry-blossom and green foliage accents, perfectly symmetrical composition, central vanishing point boulevard, dramatic high-angle aerial perspective, foreground framing pillars, ultra-detailed organic architecture, cinematic epic fantasy-sci-fi scale</code></pre>
+
+</details>
+
+## Minimalist watercolor illustration of a Korean couple on Washington Street
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2082415604758384775)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [1843](https://imglume.com/prompt/1843)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5dd502a1-31be-46da-a66d-d740a59c2720/0c480065-84b7-4aec-a45b-dff12179ca60-1785365779063 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5dd502a1-31be-46da-a66d-d740a59c2720/e0fbb554-94da-41af-a848-2f96d6815273-1785365779063 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5dd502a1-31be-46da-a66d-d740a59c2720/75cb9e65-d2c0-4952-9299-366cc61f273a-1785365779063 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Sketchbook page photo, ink-first line surviving a high-key wash. Korean couple laughing face-to-face after a failed selfie cream trench / beige hoodie with black crossbody, her hand on his forearm, oblivious to camera. Left third, small in frame; cobbled Washington Street funneling to the Manhattan Bridge arch. Bright morning, brick ochre + one slate-blue accent, buoyant strokes, flicked spatter.</code></pre>
+
+</details>
 
 ## Hyper-detailed engraved illustration portrait
 

@@ -1,9 +1,57 @@
 # Cinematic image prompts
 
-13 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic portrait of a subject in a dark exhibition room
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2082653912075739205)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`
+- **ImgLume record:** [1868](https://imglume.com/prompt/1868)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5746a5f-12df-4298-90cd-f4dda216e85d/7ddab33e-501b-43f7-af8e-5f122f047efd-1785400708666 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d5746a5f-12df-4298-90cd-f4dda216e85d/146940c8-2739-44b5-a6c9-b76f20f6e3cc-1785400708666 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use my picture reference for the exact face, hairstyle, bangs, facial proportions, skin tone, body posture, and overall silhouette accuracy. Maintain high identity consistency from the reference image.
+
+cinematic portrait of a subjek standing alone in a dark exhibition room, She wearing vintage white shirt combined with pink outer, with black vintage material skirt , minimal make up front-profile pose with body facing camera , relaxed posture, one shoulder slightly lowered, hands adjust hair calm mysterious expression, intellectual and elegant aura, positioned in the lower center of frame, surrounded by darkness with a single dramatic diagonal spotlight cutting across the scene from top right to bottom left, half of her body illuminated while the rest fades into shadow, colorful vintage Japanese mural wall behind her with retro cartoon illustrations and traditional art details, cinematic negative space composition, foreground shadows naturally framing the image like torn darkness, moody museum atmosphere, lonely artistic vibes, contemplative mood, realistic photography, subtle film grain, analog texture, muted blacks with vibrant mural accents
+
+camera angle: eye-level shot, medium-close portrait framing, subject captured from side at approximately 70-degree profile angle, slight distance from subject for environmental storytelling, centered cinematic composition
+
+camera settings: cinematic low-light photography, shallow depth of field, realistic shadow falloff, Kodak Portra film color grading
+
+lighting: harsh focused spotlight from upper right creating strong diagonal beam and high contrast shadows, minimal ambient light, deep blacks, soft warm highlight on face and glasses edge
+
+vibes: mysterious, artistic, museum-core aesthetic, intelligent quiet energy, melancholic cinematic atmosphere, indie film still, luxury editorial photography, solitary night mood, understated elegance
+
+style: ultra realistic, cinematic photography, analog grain, editorial fashion portrait, natural skin texture, subtle imperfections, realistic color science, masterpiece quality
+
+negative prompt: anime, smiling, overexposed, extra limbs, bad anatomy, colorful outfit, cyberpunk neon, blurry face, low quality, distorted hands, unrealistic skin, HDR overload, exaggerated makeup, busy composition, duplicate person</code></pre>
+
+</details>
+
+## Cinematic street portrait of an isolated young man amid motion‑blurred crowd
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2082424772152164827)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1833](https://imglume.com/prompt/1833)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1a308c76-ecb0-49e1-815b-b951b85ba653/84056e7b-ded3-45f1-bc30-1ae31a11903e-1785348992845 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1a308c76-ecb0-49e1-815b-b951b85ba653/d2a3efa9-76b4-4e79-898c-1869ea514f40-1785348992845 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1a308c76-ecb0-49e1-815b-b951b85ba653/0b836e28-fa82-4d6a-be1e-cacdda6042fb-1785348992845 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic street portrait of a solitary young man standing perfectly still in the middle of a fast-moving crowd, everyone around him transformed into soft motion blur while he remains razor-sharp and calm. He wears a timeless wool overcoat layered over a minimalist knit sweater, hands in pockets, thoughtful expression, looking into the distance, symbolizing isolation in a busy world. Shot with slow shutter speed and panning technique, dynamic radial motion blur created by rushing pedestrians, warm golden-hour sunlight streaming through a modern urban plaza, soft amber glow, volumetric light, atmospheric haze, rich cinematic contrast, muted earth-tone palette, emotional storytelling, shallow depth of field, creamy bokeh, realistic skin texture, Kodak Portra 400 film look, subtle analog grain, Leica SL2, Summilux 50mm f/1.4, 1/10s shutter, photorealistic, editorial fashion photography, ultra-detailed, award-winning composition, 8K HDR, masterpiece.</code></pre>
+
+</details>
 
 ## Cinematic Neon Street Portrait
 

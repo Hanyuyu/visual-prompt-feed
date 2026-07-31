@@ -1,9 +1,339 @@
 # Character image prompts
 
-13 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Minimalist hand-drawn doodle illustration
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2082748296167371195)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1901](https://imglume.com/prompt/1901)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cea71f93-5a20-4c19-b25f-c912b03aa319/5b4ca683-e458-44d3-86ef-5015302fd2d0-1785421590606 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cea71f93-5a20-4c19-b25f-c912b03aa319/247ea714-b753-4321-971b-6692cfcdabcf-1785421590606 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the image into a minimalist hand-drawn doodle illustration. Use simple black brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition.
+
+Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration. Format 3:4.</code></pre>
+
+</details>
+
+## Emilia from Re:Zero with pistols – Midjourney
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2082716751582695649)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`
+- **ImgLume record:** [1895](https://imglume.com/prompt/1895)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff59d455-f1ea-41b1-ae6c-b2654de1808e/57c6aca7-2029-459f-be98-5f3725a8ce57-1785415527975 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ff59d455-f1ea-41b1-ae6c-b2654de1808e/fe0992de-18af-4c29-9e9a-17116ae74814-1785415527975 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Midjourney for character:
+emilia from re:zero anime with two pistols, full body view, luminous lavender skin, golden hair framing the face, glowing pastel gradients, soft airbrush rendering, sparkling dust, cosmic shimmer --chaos 30 --ar 9:16 --exp 30 --sref 2688930422 --profile 8mk73g6</code></pre>
+
+</details>
+
+## 60s style platinum blonde woman in café with cats
+
+- **Original source:** [@JinxLovesCats on X](https://x.com/JinxLovesCats/status/2082541202780332107)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1887](https://imglume.com/prompt/1887)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a694431a-e285-4d56-9923-0a3b106f6811/e9a18cc0-f77c-4c8e-a2fc-60c83614d94c-1785408992069 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Beautiful 60s style platinum blonde woman, independent comic book style in a Café with five cats and coffee. She is wearing fishnets and boots. Psychedelic minidress --v 8.1 --ar 3:4</code></pre>
+
+</details>
+
+## Premium semi-realistic digital portrait painting
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2082666471910707616)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1885](https://imglume.com/prompt/1885)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/338e746d-aa37-4a28-9fa6-d301c8f6df23/29019f88-5fb0-4f35-b805-8723bcd23002-1785406871378 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/338e746d-aa37-4a28-9fa6-d301c8f6df23/b9840d01-15e9-430a-b524-41cf5e2e0b27-1785406871378 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/338e746d-aa37-4a28-9fa6-d301c8f6df23/53f6a3fd-5b0e-498e-bbe6-7a00799b6407-1785406871378 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/338e746d-aa37-4a28-9fa6-d301c8f6df23/a81dd30d-2c5b-479f-ba14-8e88660271a3-1785406871378 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A premium semi-realistic digital portrait painting with refined editorial illustration aesthetics, combining expressive painterly brushwork and polished realism. Smooth yet visible layered brush strokes define every facial plane, with subtle painterly texture replacing photographic sharpness. Rich volumetric lighting and carefully blended color transitions create sculptural depth while preserving handcrafted artistic character.
+A warm, elegant color palette featuring cream, ivory, warm beige, light sand, soft peach, burnt orange, terracotta, muted sienna, warm brown, charcoal navy, slate blue, and delicate desaturated teal accents. The background consists of abstract painterly brush strokes, soft watercolor washes, dry-brush textures, and subtle paint splatters, creating an airy fine-art atmosphere without distracting from the portrait.
+Soft cinematic lighting with luminous skin highlights, gentle ambient shadows, and balanced medium-to-high contrast. Hair is rendered using layered flowing brush strokes with natural volume and individual strand definition. Clothing combines broad painterly strokes with selective detail, emphasizing elegant simplicity rather than excessive texture.
+A clean contemporary fine-art illustration style inspired by high-end editorial portrait paintings, museum-quality digital artwork, ultra-detailed yet painterly, crisp edges with soft organic transitions, premium matte finish, expressive handcrafted brushwork, harmonious composition, vertical composition (9:16), no text, no typography, no signature, no initials, no logo, no watermark, no frame.</code></pre>
+
+</details>
+
+## Minimalist watercolor illustration of a Korean family at Dolphin Adventures
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2082539814017225024)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1877](https://imglume.com/prompt/1877)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb07135b-b303-41ce-b134-c999deb20631/cfd89a77-4a59-415f-91f5-e978fdd3cb50-1785400771246 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bb07135b-b303-41ce-b134-c999deb20631/c33c7dc6-40c4-4fb7-abec-14067717d5db-1785400771246 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bb07135b-b303-41ce-b134-c999deb20631/aa177472-3e15-472d-8bde-b34acc48e2b5-1785400771246 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Minimalist watercolor illustration on richly textured handmade watercolor paper, 3:4 vertical format, generous airy negative space, small centered Korean family, delicate flowing ink linework, soft transparent blue washes, expressive pigment blooms, floating water particles, subtle dry-brush details, gentle emotional storytelling, refined editorial family fashion, cinematic natural lighting, elegant museum-quality composition, highly detailed, 8K.
+
+IDENTITY CONTINUITY: Show the same Korean family of four established throughout the series: stylish mother and father in their late 30s to early 40s, one older school-aged daughter and one younger school-aged son. Maintain identical Korean faces, hairstyles, body proportions, clothing colors, and warm family relationships.
+
+SCENE: The family sits together in the designated splash-zone seating during Dolphin Adventures at SeaWorld Orlando. At the exact moment two bottlenose dolphins leap gracefully above the blue performance pool, a soft fan of water reaches the family. The children laugh with pure delight, the older daughter lifting a small towel above her head while still watching the dolphins, and the younger son stretching his hands toward the sparkling mist. The father laughs openly as water touches his shoulders, while the mother gently wraps one arm around the younger child and looks toward the dolphins with a bright, refreshed smile.
+
+COMPOSITION: Cinematic three-quarter perspective from slightly above pool level. Position the family as a compact group in the lower third, with all four faces clearly visible in profile or three-quarter view. The two dolphins form a graceful arc above the water, visually framing the family rather than dominating the entire image. A diagonal trail of spray connects the dolphins to the children. Keep broad areas of handmade paper untouched around the pool and upper frame. One continuous emotional moment only, not a montage or promotional collage.
+
+ENVIRONMENT: Indicate the Dolphin Adventures setting through a curved turquoise pool, low white safety barriers, softened stadium steps, distant palms, and abstract marine-blue architectural forms. Keep other guests as only a handful of faint, faceless ink gestures. Do not depict direct touching, riding, feeding, or swimming with dolphins. The family remains safely inside the guest seating area. WARDROBE: The family wears coordinated summer clothing in cream, pale aqua, coral, sage, and muted navy, with lightweight overshirts, relaxed shorts, sun hats, and small towels. Fabrics show delicate damp patches and breeze movement without becoming overly realistic.
+
+WATER AND LIGHT: Use translucent turquoise and cobalt washes for the pool, leaving bright paper-white highlights beneath the dolphins. Render the splash as broken arcs, dry-brush foam, scattered pigment droplets, and soft backruns. Warm Florida sunlight catches the dolphins, the family’s faces, and airborne mist, while the stadium edges dissolve into pale ink and untouched paper. No text, no logos, no readable signage, no watermark, no animal touching, no swimming guests, no unrealistic dolphin behavior, no duplicated dolphins, no extra family members, no anatomical distortions, no harsh outlines, no heavy digital rendering, no dense background.</code></pre>
+
+</details>
+
+## Emotional watercolor art of grief
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2082417634293743701)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1873](https://imglume.com/prompt/1873)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/177cf2d1-930b-4241-9495-7649892d4182/f49524c3-f98b-44c7-9b66-3fc48cc4f279-1785400735177 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/177cf2d1-930b-4241-9495-7649892d4182/78a99d16-72f7-4b4f-83c9-ed9794f9f5ea-1785400735177 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/177cf2d1-930b-4241-9495-7649892d4182/7e098dc8-8b0b-47fd-bd47-0df4fc33e1ea-1785400735177 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A delicate, expressive watercolor painting on textured white cold-press paper capturing the close-up profile and facial features of a person in emotional turmoil. The artwork features a striking color palette of deep teal, indigo, and violet around the expressive eyes, transitioning down the nose into warm shades of peach and yellow, and finished with vibrant, glossy crimson lips. A thin, prominent tear streak drips down from the lower lid in a fluid indigo wash, blending minimalist negative space with moody, bleeding pigments to evoke a profound sense of sorrow and emotional vulnerability.</code></pre>
+
+</details>
+
+## Two-dimensional alternative character illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2082674696194330760)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [1863](https://imglume.com/prompt/1863)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2e7b70de-51b7-47e6-988b-45ce997c6320/5645431e-a7ad-4e20-8417-08d818a6b53a-1785400651581 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2e7b70de-51b7-47e6-988b-45ce997c6320/fca8d4ab-e82a-4f4a-b099-b392cf40bbb7-1785400651581 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2e7b70de-51b7-47e6-988b-45ce997c6320/43b176ac-bbe3-488a-8ed6-30febbd17f54-1785400651581 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/2e7b70de-51b7-47e6-988b-45ce997c6320/0bfbf56c-8e6b-481c-9025-88fa2cef7a61-1785400651581 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Two-dimensional alternative character illustration of [CHARACTER], occupying approximately seventy-five percent of the frame in [POSE], with [HAIR] and [EXPRESSION]. Oversized rounded cranium, a short flattened lower face, a narrow jaw, a long thin neck, slightly oversized ears, huge pale oval eyes with tiny off-center pupils, extremely thick horizontal black eyebrows, heavy black upper eyelids, muted mauve under-eye rings, a tiny broad triangular nose, and a wide asymmetrical grin showing individually drawn irregular rectangular teeth, one clearly missing upper tooth, one chipped tooth and deep black gaps. Dress the character in [CLOTHING], simplified into broad graphic shapes with chunky seams, minimal folds and small hand-drawn accessories. Confident black ink contours using thick outer silhouettes, medium-weight facial lines, thin angular hair strands and only a few short scratch marks around the eyes, hair and clothing seams; use flat opaque color fields, one hard-edged cel-shadow shape per form, sparse pencil hatching, subtle ink wobble, slight color misregistration and restrained worn-paper texture. Controlled [COLORS] palette, keeping every color clearly separated and moderately saturated. Place the character against [BACKGROUND], reduced to large flat shapes, a few loosely drawn environmental details and oversized rough hand-painted lettering reading “[TEXT]”; use an off-center waist-up composition, a slight camera tilt, cropped background typography, loose poster margins and lightly weathered printed edges. 4:5 AR.</code></pre>
+
+</details>
+
+## Realistic full-body portrait with cute chibi wall illustration
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2082479122312581372)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [1853](https://imglume.com/prompt/1853)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6fe71f27-435d-40b2-9909-90b69c166e66/36e0327d-4dfc-4d09-a55b-1fc2b2f65d1b-1785389097063 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6fe71f27-435d-40b2-9909-90b69c166e66/e0a71850-f211-4b50-a9cc-128479e27a6d-1785389097063 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded character reference image as the strict identity and outfit reference.
+
+Preserve the reference character’s:
+- face identity
+- facial proportions
+- eye shape
+- nose
+- lips
+- skin tone
+- hairstyle
+- hair color
+- visible hair accessories
+- overall recognizable vibe
+- outfit and styling shown in the reference image
+
+Do not hardcode any specific character traits that are not present in the uploaded reference.
+All identity, hairstyle, accessories, clothing, colors, and styling details must be inferred directly from the uploaded reference image.
+
+Create a high-quality mixed-style vertical portrait showing:
+1. a realistic full-body version of the uploaded character/person
+2. a cute colorful 2D chibi illustration version of the same character/person drawn on the wall beside them
+
+Core concept:
+The real person is posing cutely beside a large colorful chibi wall illustration of themselves.
+The real person and the illustrated chibi version are doing a similar playful pose together.
+The chibi illustration should look like a cute hand-drawn anime-style wall art version of the same person, not a separate real person.
+The mood should feel cute, playful, bright, trendy, charming, and social-media-friendly.
+
+Main style direction:
+This is not a black doodle-shadow concept.
+This is a realistic person + colorful cute chibi wall illustration concept.
+The wall illustration should look like a polished but hand-drawn 2D anime/chibi drawing placed directly on the wall.
+
+Real person:
+- realistic human photography
+- full-body or nearly full-body framing
+- same recognizable identity as the uploaded reference
+- same outfit style and key visible details from the uploaded reference
+- natural photogenic pose
+- cute, playful, slightly shy, or mischievous expression
+- the person should actively perform a cute pose that matches the wall illustration
+- do not make the person stand stiffly
+- do not replace the outfit with unrelated fashion
+
+Real person pose:
+Choose one cute playful pose that works well beside a wall illustration:
+- both hands near cheeks like cute paws
+- one leg lifted slightly
+- playful idol-like pose
+- shy but cute pose
+- tiny heart gesture
+- playful bounce pose
+- leaning slightly with a sweet smile
+- cute “nyan” pose with hands curled near the face
+- soft jump-like pose while still realistic and balanced
+
+The pose should feel natural for the real person, not exaggerated or physically awkward.
+
+Chibi wall illustration:
+- the illustration must be a cute colorful 2D chibi version of the same uploaded person
+- it should be drawn directly on the wall beside the real person
+- not a realistic second person
+- not a 3D character
+- not a black shadow
+- not a simple stick figure
+- not a random anime character
+- not a separate unrelated girl
+- it should clearly resemble the real person through hairstyle silhouette, hair color, accessories, outfit silhouette, color palette, and overall vibe
+- use large expressive eyes, rounded cute face, small body proportions, and soft anime-style coloring
+- the chibi should perform a more exaggerated cute version of the real person’s pose
+- the chibi may look like it is happily jumping, posing, or floating slightly as part of the wall illustration
+
+Wall illustration details:
+- soft clean linework
+- warm pastel colors
+- cute anime/chibi rendering
+- light hand-drawn texture
+- subtle shading
+- charming expressive face
+- same outfit impression as the real person
+- same hairstyle and accessory cues if visible in the reference
+- playful motion lines around the chibi
+- small hearts, stars, sparkles, soft doodle accents, or tiny decorative marks around the illustration
+
+Interaction:
+The real person and the chibi illustration should feel connected.
+They should share the same pose idea, but not match perfectly.
+The real person performs a realistic cute pose.
+The chibi performs a more exaggerated, adorable, anime-like version.
+The connection must be instantly readable, like a fun photo taken beside a personalized wall illustration.
+
+Composition:
+- vertical 4:5 or 9:16
+- simple clean indoor wall
+- real person on one side
+- colorful chibi wall illustration on the other side
+- both figures visible in full-body or nearly full-body framing
+- chibi illustration roughly similar height to the real person or slightly larger
+- enough negative space around both figures
+- keep the wall illustration fully visible
+- avoid cropping the real person’s feet or the chibi’s body
+
+Background:
+- clean white, cream, pale beige, or light gray wall
+- simple floor
+- minimal indoor studio or clean room setting
+- soft natural light
+- uncluttered background
+- no TikTok UI, no social media interface, no text overlay
+
+Lighting:
+- soft natural studio lighting
+- bright, clean, warm, and flattering
+- realistic shadow under the real person
+- wall illustration should look naturally placed on the wall
+- no harsh shadows
+- no dramatic dark lighting
+
+Style quality:
+- realistic human photography
+- colorful 2D chibi wall illustration
+- cute anime-style wall art
+- strong identity resemblance
+- outfit and styling faithfully based on the uploaded reference
+- playful matching pose
+- soft pastel mood
+- social-media-friendly
+- clean composition
+- high detail
+- no obvious AI artifacts
+
+Negative prompt:
+black doodle shadow, black line-art only, normal shadow, realistic second person, 3D character, random anime girl, unrelated chibi, weak resemblance, different hairstyle, different outfit, outfit change unrelated to reference, hardcoded traits not in reference, messy wall, cluttered background, TikTok UI, social media interface, text, caption, handwritten text, watermark, logo, cropped feet, cropped chibi, stiff pose, boring standing pose, aggressive pose, horror mood, creepy illustration, distorted body, extra limbs, extra fingers, bad hands, bad anatomy, pasted face, frozen expression, overly artificial AI face</code></pre>
+
+</details>
+
+## Dramatic medium-shot portrait of a woman
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2082514750559465830)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1848](https://imglume.com/prompt/1848)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/423f7741-18f1-4f5b-bb7a-181a7c6b3281/acc8c022-3f9d-41ef-9508-f6da88a821a3-1785389059761 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dramatic, medium-shot portrait of a woman with dark hair styled in a messy updo, loose strands framing her face. She is captured in profile, looking back over her shoulder with a thoughtful expression. She wears a textured mustard-yellow button-down shirt, and the warm side-lighting highlights her features against a dark, moody textured background, creating a cinematic and painterly atmosphere.</code></pre>
+
+</details>
+
+## Ultra-detailed fantasy mermaid character sheet
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2082439952659619978)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [1841](https://imglume.com/prompt/1841)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6563f570-ece4-4a8b-83e8-0f6b609c2d9c/566c8e5a-5be1-4c26-9f03-e9007d196c71-1785361593702 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6563f570-ece4-4a8b-83e8-0f6b609c2d9c/52fec973-21c4-46c9-9c58-e62760e101b3-1785361593702 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>1️⃣character sheet:
+
+Ultra-detailed 16:9 fantasy character design sheet, official AAA fantasy RPG character bible, clean editorial layout, elegant white background with soft ocean-blue decorative borders. Character name "NEREID", title "MERMAID", subtitle "A gentle ocean spirit with a pure heart, curious about the world beyond the waves."
+
+Left panel features a full-body hero illustration of a graceful mermaid girl with long flowing aqua-blue hair, soft blue eyes, delicate sea-inspired accessories and an elegant underwater fantasy design. She has a beautiful translucent fish tail with shimmering scales, flowing fins and a magical ocean aura. Her upper outfit is a fantasy seashell-inspired dress with pearl decorations, crystal ornaments, starfish accessories and flowing translucent fabric. Water droplets, bubbles and gentle waves surround her, creating a dreamy underwater atmosphere.
+
+Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, mermaid tail shape, costume details and proportions. Show the full tail silhouette, flowing hair movement and fin structure clearly.
+
+Right panel includes close-up detail panels showing head accessories, seashell top, pearl ornaments, back decorations, tail scales, fin textures and magical ocean details. Include accessory breakdown featuring shell jewelry, pearl necklace, starfish ornaments, crystal gems and ocean charms. Add texture studies showing fish scales, translucent fins, water patterns and magical sea materials.
+
+Add a refined color palette featuring ocean blue, aqua cyan, icy white, soft lavender, pearl pink and light turquoise.
+
+Style: official fantasy RPG character sheet, underwater fantasy concept art, Genshin Impact × Granblue Fantasy aesthetic, premium anime game artbook illustration, elegant mermaid character design, magical ocean atmosphere, intricate costume details, translucent material rendering, painterly fantasy art, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.</code></pre>
+
+</details>
 
 ## Three styles of traditional beauty
 

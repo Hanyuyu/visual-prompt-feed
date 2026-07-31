@@ -1,9 +1,172 @@
 # UGC video prompts
 
-9 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Han River Analog Footage × Higgsfield
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2082734270960075106)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1889](https://imglume.com/prompt/1889)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f8d0ff95-d4b0-495d-ae79-606ad15dfebd/712e22be-5950-4d55-bcd2-49011fccfd9a-1785413215709 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Concept: "Han River Analog Footage × Higgsfield"
+
+Create an authentic 15-second analogue home-video recording filmed with a handheld Hi8/VHS-C camcorder. The camcorder is never visible. The viewer only sees the recorded footage, as if watching a digitized family videotape. This is not a vlog, commercial, or cinematic film, just a friend casually filming another friend.
+
+Use genuine analogue camcorder aesthetics: soft SD resolution, VHS grain, faint interlacing, analogue colour bleed, mild tracking noise, autofocus breathing, slight exposure fluctuations, imperfect handheld shake, natural motion blur, washed-out colours, and subtle tape hiss. No HDR, beauty filters, cinematic grading, stabilisation, or AI-perfect rendering.
+
+A young Korean woman in her early twenties wears a pastel fitted crop top, mid-rise vintage blue denim shorts, white ankle socks, classic white sneakers, a lightweight windbreaker tied around her waist, and carries a simple canvas shoulder bag. Her styling should evoke nostalgic late-90s/early-2000s Korean street fashion without mentioning a specific year.
+
+The scene takes place beside the Han River on a warm summer afternoon. Families relax on the grass, cyclists ride past, children play, and the distant Seoul skyline fills the background.
+
+She walks naturally toward the riverside railing before stopping to admire a massive floating HIGGSFIELD installation in the river. The word HIGGSFIELD is built from giant three-dimensional block letters, mounted on a realistic floating platform. The sign must appear physically installed in the river with accurate reflections, shadows, and perspective, remaining large, bold, and perfectly readable throughout the scene.
+
+The camera gently pans between her and the installation, keeping both in frame. She smiles naturally, takes a few steps closer, then notices the unseen camera operator. She laughs softly, gives a warm wave, points excitedly toward the giant HIGGSFIELD sign, gives a subtle thumbs-up, then looks back at the river with a smile before continuing her walk. A light breeze moves her hair and clothing while a cyclist passes behind her. The camera follows for a few more steps before stopping naturally.
+
+Generation Requirements:
+One continuous 15-second recording with no cuts or transitions. Keep movements natural, identity consistent, anatomy accurate, and interactions believable. The HIGGSFIELD installation must stay prominent, crystal clear, and naturally integrated into the environment. Include realistic ambient sounds such as wind, birds, distant conversations, bicycles, and water. Avoid AI artifacts, duplicated pedestrians, warped anatomy, floating objects, modern cinematic effects, or anything that makes the footage look AI-generated. The final result should be indistinguishable from genuine nostalgic analogue camcorder footage.</code></pre>
+
+</details>
+
+## GTA VI Release Day Live-Action Documentary
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2082421140639916420)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1886](https://imglume.com/prompt/1886)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4b6ef62b-45fd-4d4c-9244-d011c761b711/922e745b-91f9-4b91-b205-9657fc89c0e7-1785406929098 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15 seconds | 16:9 | live-action documentary/news footage
+GTA VI release day.
+Hyper-realistic real-world footage.
+Fast multi-shot storytelling across different locations and cameras.
+
+STORY
+Midnight arrives after years of anticipation. Crowds celebrate outside game stores while players rush home, streamers go live, and the first copies are opened.
+
+00–02s — MIDNIGHT
+Wide handheld footage outside a packed game store at night.
+
+Storefront display:
+GTA VI — AVAILABLE NOW
+
+Hundreds of fans count:
+“THREE! TWO! ONE!”
+
+Doors open. Crowd erupts, phones overhead, camera shaking naturally.
+
+02–04s — FIRST COPY
+Chaotic handheld footage inside the store.
+
+Employee hands the first GTA VI copy to an excited customer.
+
+He briefly raises the case while people cheer, film and push through the crowded space.
+
+04–06s — CITY REACTION
+Vertical smartphone footage on a busy city street.
+
+Huge digital billboard switches to:
+GTA VI
+OUT NOW
+
+People stop and film. Cars cross foreground.
+
+Someone runs past yelling:
+“IT’S FINALLY HERE!”
+
+Phone struggles with billboard exposure.
+
+06–08s — RACE HOME
+Handheld phone footage inside a lived-in apartment.
+
+Two friends rush inside with the game, turn on the console and drop onto the sofa.
+
+“Bro, load it!”
+
+08–10s — FIRST BOOT
+Over-the-shoulder phone footage of the television loading GTA VI.
+
+Players lean forward, lit by the screen.
+
+One quietly says:
+“No way…”
+
+Autofocus shifts between silhouettes and television.
+
+10–12s — INTERNET EXPLODES
+Rapid montage:
+
+Streamer reacting live.
+Packed gaming café.
+Phone scrolling GTA VI posts.
+Friends celebrating around televisions.
+Delivery rider carrying game-store bags.
+
+12–15s — THE MOMENT
+Back outside the original store.
+
+Crowd still celebrating as people leave with copies and merchandise.
+
+Camera tilts toward the illuminated GTA VI storefront.
+
+A fan passes close to camera:
+
+“See you in Vice City.”
+
+Camera operator laughs quietly.
+Abrupt natural cut.
+
+CAMERA
+Real release-day documentary footage.
+
+Mix professional event camera, news camera, consumer smartphones, vertical social footage and streaming webcam.
+
+Hard cuts.
+Reactive handheld movement.
+Crowd obstruction.
+Autofocus hunting.
+Exposure fluctuations.
+Natural motion blur.
+Phone-camera noise.
+Imperfect framing.
+
+AUDIO
+Crowd countdown, cheering, traffic, store chatter, footsteps, overlapping conversations, console sounds and streamer reactions.
+
+Audio changes naturally between camera sources.
+
+No cinematic soundtrack.
+
+REALISM
+Genuine footage captured by ordinary people and journalists during a huge real-world launch.
+
+Natural reactions and unpredictable crowds.
+Phones block frames.
+Realistic nighttime exposure.
+Practical lighting.
+Smartphone and broadcast compression.
+
+No slow motion.
+No perfect choreography.
+No glossy commercial treatment.
+No CGI appearance.
+No artificial camera movement.</code></pre>
+
+</details>
 
 ## Seoul Summer 1998 Home Video
 

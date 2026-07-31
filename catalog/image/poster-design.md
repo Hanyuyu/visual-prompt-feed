@@ -1,9 +1,203 @@
 # Poster Design image prompts
 
-11 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2082666687925760258)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1891](https://imglume.com/prompt/1891)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/434236be-7035-4bc1-b1d5-8c4efc3a5d0f/365f76e8-ceef-48dd-ae82-291a39580785-1785413258706 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/434236be-7035-4bc1-b1d5-8c4efc3a5d0f/88e70c70-d7bb-4533-9759-35c96ffbf177-1785413258706 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/434236be-7035-4bc1-b1d5-8c4efc3a5d0f/6490be7b-712c-4073-a80e-ada42e1f04f8-1785413258706 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system.
+
+Theme: [Theme]
+Subject: [Subject Description]
+Action: [Action Description]
+Scene: [Scene Description]
+Title: [Title]
+Supporting Line: [Supporting Line]
+Year: 2026
+
+Use oversized, cropped typography as the primary structural framework. The letters should function as windows that reveal the surrounding environment, while the main subject remains visually complete in front of the typography.
+
+Do not allow the letters to cut through the face, torso, arms, thighs, or any other important parts of the body. Instead, let one key action element extend beyond the typography to create strong depth and visual impact.
+
+Choose one of the following compositions:
+
+1. WAVE CUT — A surfer carving across a rising wave, with the surfboard nose, leading hand, water spray, and curling wave extending beyond the typography.
+
+2. RIM RISE — A basketball player reaching toward the hoop from a camera positioned above the rim, with the basketball, hand, and hoop fully extending beyond the letter masks while remaining naturally aligned.
+
+3. IMPACT FRAME — A boxer throwing a straight punch toward the camera, with the enlarged foreground glove breaking beyond the typography while the gym environment remains visible inside the letters.
+
+4. SOFT SWIRL — A graceful young woman decorating a cake, with the piping bag, hands, cake, and flowing cream details extending beyond the typography while the bakery interior appears inside the letterforms.
+
+Use realistic photography, believable anatomy, natural skin texture, strong foreground perspective, subtle paper grain, a warm off-white background, restrained colour grading, and clean editorial spacing.
+
+Keep the typography minimal and freely positioned:
+
+[Title]
+HUMAN FRAGMENTS
+[Supporting Line]
+2026</code></pre>
+
+</details>
+
+## H&M – NEW ENERGY / AW26 Poster
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2082514119589269610)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1861](https://imglume.com/prompt/1861)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e295031a-88a9-4836-b707-720f7abe77d4/85f0d511-24be-47aa-9f28-2e18e66e123c-1785400631077 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e295031a-88a9-4836-b707-720f7abe77d4/da9afde4-f90d-4142-b977-a6ff5fe6ade9-1785400631077 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CONTEMPORARY FASHION EDITORIAL POSTER
+
+FORMAT
+
+4:5 vertical | ultra-high resolution | finished graphic-design poster
+
+Premium international H&amp;M Autumn/Winter 2026 fashion campaign.
+
+Behance-featured-quality art direction combining high-fashion editorial photography, bold modernist typography, Swiss-inspired grid composition and strong red, black and warm ivory colour blocking.
+
+The final output must be a complete professionally art-directed campaign poster — not simply a fashion photograph with typography placed on top.
+
+BRAND
+
+H&amp;M
+
+CAMPAIGN
+
+NEW ENERGY / 26
+
+AUTUMN / WINTER 2026
+
+ART DIRECTION
+
+A striking full-body female fashion model dominates the composition, positioned slightly right of centre against a warm ivory studio background.
+
+She is captured mid-stride from a subtly low camera angle, creating a confident, elongated silhouette.
+
+Dark brown shoulder-length hair moves naturally across her face as though caught by a soft studio wind. Neutral confident expression, minimal natural makeup, understated gold hoop earrings.
+
+WARDROBE
+
+Oversized vivid H&amp;M-red wool coat with broad relaxed shoulders, open front and dramatic flowing movement.
+
+Underneath: fitted clean white tank top tucked into charcoal-black wide-leg tailored trousers with a black leather belt.
+
+Polished pointed black leather shoes.
+
+The red coat sweeps diagonally behind the model and visually connects with the graphic red field across the lower-left composition.
+
+PHOTOGRAPHY
+
+Premium European fashion editorial photography.
+
+Slightly low-angle full-body framing.
+Hard but refined directional studio lighting.
+Natural skin texture.
+Crisp textile detail.
+Controlled shadows.
+Subtle analogue fashion-film grain.
+Warm ivory background.
+Sharp subject with realistic garment movement.
+
+GRAPHIC COMPOSITION
+
+Warm ivory canvas with a strong vertical H&amp;M-red strip running along the entire left edge.
+
+Large H&amp;M logo in red at the upper-left.
+
+Directly underneath:
+“AUTUMN / WINTER 2026”
+“NEW COLLECTION”
+
+Along the red vertical strip, rotated 90 degrees:
+“MOVE CHANGE 2026”
+
+Upper-right:
+“WOMEN”
+“LOOK 01”
+with “01” highlighted in red.
+
+Fine black horizontal rules travel across the middle of the poster, intersecting visually with the model.
+
+Small outlined rectangular season marker on the right:
+“26”
+“AW”
+
+A thin horizontal rule near the model’s coat carries tiny repeated typography:
+“MOVE MOVE MOVE MOVE MOVE”
+
+HERO TYPOGRAPHY
+
+The lower half is dominated by enormous condensed black sans-serif typography:
+
+“NEW”
+above
+
+“ENERGY”
+
+ENERGY must be extremely oversized, bold, tightly spaced and partially cropped by the left, right and bottom boundaries.
+
+The model overlaps and interrupts portions of the typography, producing sophisticated editorial depth between photograph and graphic design.
+
+A saturated red geometric field rises diagonally from the lower-left behind the giant black typography and model.
+
+BOTTOM DETAILS
+
+Lower-left:
+small crosshair/grid registration graphic
+“AW26 / 001”
+“STOCKHOLM”
+
+Below in tiny technical typography:
+“59.3293° N 18.0686° E”
+
+Lower-right:
+small technical code “001_26_01”
+minimal registration lines
+
+Bottom-right:
+“https://t.co/vHSA5Os3sM”
+“NEW ENERGY” in red
+
+DESIGN LANGUAGE
+
+H&amp;M Scandinavian fashion identity.
+Swiss modernist editorial grid.
+Oversized condensed typography.
+Extreme scale contrast.
+Asymmetric composition.
+Fine technical rules and microtype.
+Red / black / warm ivory palette.
+Fashion photography integrated through typography.
+Luxury magazine art direction.
+Clean but energetic.
+Bold negative space.
+Precise alignment.
+Print-ready campaign finish.
+
+Avoid generic advertising layouts, excessive effects, gradients, glossy 3D typography, decorative clutter, artificial skin, distorted anatomy, extra models, streetwear aesthetics or random text.</code></pre>
+
+</details>
 
 ## High-impact automotive poster
 

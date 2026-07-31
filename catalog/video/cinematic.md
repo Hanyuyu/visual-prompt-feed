@@ -1,9 +1,796 @@
 # Cinematic video prompts
 
-91 source-linked prompts, newest ImgLume records first.
+115 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic "A Day in My Life" lifestyle film
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2082788146534834428)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1908](https://imglume.com/prompt/1908)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/79545df0-5d2c-42e7-8b75-ff8f76dffd06/02845551-4967-46d8-9a52-01b365247b48-1785432208455 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard image as the visual sequence reference and preserve the exact same beautiful young woman throughout the entire film. Maintain identical facial identity, hairstyle, skin tone, makeup, black fitted crop top, grey jogger pants, black shoulder bag, body proportions, and accessories across every scene. Ensure perfect character consistency and realistic anatomy.
+
+Create an ultra-realistic cinematic "A Day in My Life" lifestyle film with premium commercial cinematography. The atmosphere should feel calm, authentic, and aspirational, using warm natural lighting, soft shadows, realistic reflections, cinematic colour grading, shallow depth of field, smooth handheld and gimbal camera movements, and subtle environmental ambience.
+
+The film begins with her sleeping peacefully as an alarm rings beside the bed. She slowly wakes up, reaches for her phone, and turns the alarm off. She walks into a modern bathroom where she washes her face with cold water before getting dressed. Standing beside an open wardrobe, she chooses a black jacket, then prepares a healthy smoothie in her minimalist kitchen before taking a sip.
+
+She leaves her apartment and confidently walks through a lively city street before entering the subway station. She rides the escalator, waits on the platform, and boards a crowded train while quietly observing the people around her. After arriving, she walks through the office lobby and rides the elevator before entering a modern open workspace where she works on her laptop with complete focus.
+
+As the workday ends, she walks through the city during golden hour, enjoying the peaceful evening atmosphere. The film concludes with her back in her bedroom, lying on the bed while scrolling through her phone with a relaxed smile before placing it beside her and closing her eyes.
+
+Style: Premium lifestyle commercial, realistic daily routine, cinematic storytelling, natural performances, luxury colour grading, soft bokeh, subtle lens flares, smooth transitions, emotionally warm atmosphere, photorealistic, ultra-detailed, commercial quality.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no duplicate people, no distorted anatomy, no unrealistic facial features, no AI artifacts, no cartoon style, no flickering, no oversaturated colours, no abrupt transitions.</code></pre>
+
+</details>
+
+## Superbike ride across a dramatic coastal highway
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2082693537620193523)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1907](https://imglume.com/prompt/1907)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/43de0063-6303-4a59-97de-5a05c2102139/0557e9d0-6c89-4333-9aaa-1f7a618af707-1785432185101 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Superbike ride across a dramatic coastal highway (single continuous shot) From high above towering sea cliffs, the camera dives toward a superbike leaning into a series of ocean-side curves. Lock-on: the rider carving perfect racing lines with absolute control. The camera slingshots ahead, whips backward, then drops just above the rear wheel: chain spinning at full speed, knee skimming the asphalt, ocean spray exploding across the cliffs below. A tunnel emerges from solid rock; the rider blasts through darkness before exploding back into sunlight, skimming beneath cliff overhangs and crossing a towering suspension bridge above crashing waves. The camera never breaks away before blasting skyward into a breathtaking reveal of an endless coastline stretching toward the horizon beneath golden sunset light.</code></pre>
+
+</details>
+
+## 老板娘喝饮料第二幕
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2082804507839193581)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1906](https://imglume.com/prompt/1906)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d4c4ea4a-a328-4213-a4f0-c8f80bbdc2ee/f60a272e-6d07-4719-bfdd-170898b5db58-1785432170277 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>第二幕：【参考锁定】 参考图1
+hf_20260730_044943_833909d3-0181-4d86-b4ad-8fdd91945fbd
+为老板娘#1
+穿着
+hf_20260730_045132_8f945ce1-0e33-4e9c-86c6-5b5bdb0b0185
+时的腿脚比例、薄袜质感、身体线条及黑色高跟鞋造型的最高优先级；保持#1预设的脸部、发型、妆容和服装。 参考视频为小饭馆空间、男#2
+与食客#3
+的外貌、身形、服装和生活化表演节奏的最高优先级。 三人均为成年人，不得换脸、复制、合并或互换身份。 【续写起点】 使用Part A最后一帧
+7月30日
+：老板娘#1站在两张餐桌之间的过道位置，身体微侧面对男#2，左手拿米黄色记账本；男#2坐在右前方第一张绿色旧餐桌，右手刚碰到桌上唯一一瓶密封橙色饮料；食客#3坐在右后方第二张独立餐桌，手中拿着筷子，从侧后方观察。 老板娘的手机仍留在左后方沙发扶手。人物、桌椅、餐具、灯光和饭店空间完全延续Part A。 【整体设定】 男#2询问饮料价格，听见六块后只肯出五块。老板娘不争辩，保持克制自然的海妖风Pose，收回饮料，打开后喝一小口，再把喝过的饮料递给男#2。 食客#3看见全过程，停止吃面，看着老板娘说：“这样的，给我来一箱。”老板娘嘴里仍含少量饮料，冷艳表情瞬间破功，用记账本遮住下半张脸，忍不住将饮料笑喷在记账本背面。 【真实系拍摄】 未经处理的iPhone手持真实视频。9:16竖屏，1080×1920，30fps，26—28mm等效焦段，普通食客在约1—1.5米外拍摄。 自动曝光、自动对焦、自动白平衡。镜头在男#2、老板娘与食客#3之间转动时，保留轻微手抖、呼吸起伏、重新取景的半拍延迟、短暂对焦搜索和真实运动模糊。 白平衡在店门自然光、冷白荧光顶灯和冰柜余光之间轻微变化。图像平坦，保留窗边局部过曝、暗部噪点、边缘色差和自然皮肤纹理。无滤镜、美颜、磨皮、电影布光、稳定器运镜和人工浅景深。 【人物位置与表演】 老板娘#1：站在两桌旁的过道位置，主要面对男#2，同时不能遮挡食客#3观察她喝饮料的视线。身体微侧，肩部放松下沉，颈部自然拉长，腰背与胯部形成柔和S形曲线；双腿前后错位，一条腿承重。半垂眼皮，表情冷静、带距离感，但不主动挑逗。 男#2：固定坐在右前方第一张桌，是问价、砍价和接饮料的人。 食客#3：固定坐在右后方第二张独立餐桌，与#2相隔约一米。他只能观察并说最后一句，不能走到#2桌旁。 【空间与道具】 右前方第一桌属于男#2：一碗面、一双筷子、一小碟调料。 右后方第二桌属于食客#3：另一碗面、另一双筷子、另一小碟调料。 两桌餐具完全独立，不共享、不复制、不交换。 全片只有一瓶约500毫升橙色饮料：透明硬质塑料瓶、橙黄色液体、彩色防盗环旋盖。状态严格连续： 密封满瓶 → #2拿起 → 老板娘收回 → 打开 → 喝一口 → 液面下降 → 递给#2 瓶盖和米黄色记账本不能消失、变形或复制。 【15秒严格分镜】 → 0—2秒：问价与回答 男#2拿起密封橙色饮料，看一眼瓶身，抬头问： “这多少钱？” 自动对焦先落在橙色液体和瓶身高光，再稍慢地转到#2的脸。 老板娘微侧面对他，肩部下沉，颈部拉长。她从半垂眼皮下看一眼饮料，再冷静回答： “六块。” 食客#3仍在右后方自己的餐桌吃面，不提前参与。 → 2—3.8秒：男#2砍价 男#2轻轻掂一下饮料，眉头抬起，商量道： “我就五块，五块行不行？” 食客#3夹面的动作出现轻微停顿，眼睛从面碗上方看向两人，但不抬头说话。 → 3.8—5秒：老板娘收回饮料 老板娘不争辩，也不生气。她安静看#2约0.3秒，保持柔和S形站姿，随后伸出右手握住瓶颈。 男#2确认她握稳后松手。饮料完整回到老板娘手中，两人的手不黏连、不穿模，也不长时间接触。 → 5—6.3秒：开瓶 老板娘把记账本夹在左臂与身体之间，左手握住彩色瓶盖，右手固定瓶身，旋开防盗环瓶盖。 传出清楚的“咔”声。瓶盖保留在左手，饮料没有飞溅。对焦短暂落在手指和瓶盖上。 → 6.3—7.8秒：喝一口 老板娘身体微侧，下巴只抬高约8—10度，颈部线条自然拉长。她抬起橙色饮料喝一小口，半垂眼睛越过瓶身短暂看向男#2，随后自然移开。 液面随瓶身倾斜而倾斜。她只咽下一部分，嘴里保留少量饮料，双唇自然闭合，脸颊仅轻微鼓起。瓶内液面真实下降约一口的体积。 她的站位不能遮住食客#3，#3必须清楚看见她喝饮料。 → 7.8—9秒：递给男#2 老板娘把瓶盖松松扣回瓶口，将已经喝过一口的饮料递给男#2。 男#2在自己的桌边接住瓶身中部。老板娘确认他握稳后才松手。瓶内液体因交接产生两次逐渐减弱的晃动。 男#2先看瓶口，再抬眼看老板娘，嘴巴微微张开，表情错愕。 → 9—11.8秒：食客#3说反转台词 食客#3停止吃面，筷子悬在自己的面碗上方。他先看男#2手中已经打开、液面下降的饮料，再抬眼看向老板娘。 摄影者轻微转向#3，自动对焦短暂搜索后稳定在他的脸上。#3坐在原位，用筷子轻轻指向那瓶饮料，一本正经地说： “这样的，给我来一箱。” #3不站起、不靠近#2，不舔嘴、不挑眉、不做猥琐表情。 → 11.8—15秒：老板娘笑喷 镜头迅速转回老板娘。她嘴里仍含着刚才没有完全咽下的少量橙色饮料。 她原本保持半垂眼皮和冷静S形站姿；听见#3的话后，眼睛突然睁大，眉毛抬起，头部转向#3，身体僵住约0.3秒。 随后她立即举起米黄色记账本遮住下半张脸，肩膀控制不住地抖动，忍笑失败。少量橙色细雾和两三滴饮料短促喷在记账本背面，并从上缘和侧缘溅出后向下掉落。 不能喷到#2、#3、两碗面或其他食物。 最后一帧：男#2坐在第一桌拿着喝过的饮料发愣；食客#3坐在第二桌认真等待一箱；老板娘站在过道，用记账本遮脸轻咳、忍笑。 【音频】 仅使用饭馆画内自然声：冰柜压缩机、排风扇、远处交谈、两桌不同方向的吸面声、筷子碰碗声、瓶盖防盗环断裂声、液体晃动声、吞咽声，以及老板娘结尾的短促呛咳和笑声。 对白与口型同步，声音来源唯一。无背景音乐、旁白、罐头笑声和后期反转音效。 【连续性与负面提示】 男#2固定在右前方第一桌，食客#3固定在右后方第二桌；两人不得合桌、换位、共用面碗和筷子。#2负责问价、砍价和接瓶；#3只能观察并说最后一句，不能参与砍价或碰饮料。 不要改变三人的脸、发型、服装和身形；不要饮料瓶、瓶盖、记账本和餐具漂浮、瞬移、穿模或复制；不要饮料变成水、液面不下降或自动回满；不要假喝、嘴唇穿瓶或提前完全咽下后凭空喷出。 不要夸张扭胯、猫步、舔嘴、吐舌或色情化表演；不要女妖角、翅膀、尾巴和奇幻特效；不要把小饭馆变成豪华餐厅或宾馆；不要大口喷射、呕吐或喷到人物和食物；不要HDR、电影调色、过强虚化、塑料皮肤、稳定器运镜、慢动作、字幕、水印或平台UI。</code></pre>
+
+</details>
+
+## Anime-style countryside cooking montage
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2082825904812913139)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [1903](https://imglume.com/prompt/1903)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37242b78-9d5d-420c-b8ad-44a924c22a1e/340c029c-ef99-437a-a245-72c022dd1c95-1785427875324 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A fast-paced anime-style countryside cooking montage set in a hidden meadow surrounded by rolling hills, wildflowers, and a cozy old wooden cottage. The video shows every cooking action in sequence with smooth cinematic transitions. A young cook gathers fresh eggs from a small farm coop, picks fragrant herbs and colorful vegetables from the garden, and collects fresh spring water. Quick close-up shots show ingredients being washed, chopped, herbs crushed with a stone mortar, and dough being prepared on a rustic wooden table. A stone fire pit burns as a copper pot simmers with a rich homemade sauce, vegetables are sautéed in a pan, and warm bread is sliced with steam rising from the fresh meal. The finished countryside dish is beautifully arranged on handmade ceramic plates beside a glass jar of fresh fruit juice. Final shot reveals the peaceful meadow landscape, golden sunlight, gentle wind moving through the grass, and a cozy anime cooking atmosphere. Fast cinematic cuts, smooth camera movements, vibrant colors, soft natural lighting, highly detailed anime visuals, tranquil yet energetic feeling, masterpiece quality, 4K.</code></pre>
+
+</details>
+
+## Cinematic high-octane action sequence with magenta truck in desert canyon
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2082791809898651724)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1900](https://imglume.com/prompt/1900)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a9f9c14-5814-4413-93a7-9fd7b7b6d6ce/eb89dd3f-f927-47cb-ae54-187a596aff05-1785419486034 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic high-octane action sequence in a vast red-rock desert canyon under bright blue sky. A heavily customized bright magenta/pink off-road truck with spiked armor, heavy chains, and a massive metal skull front grille with glowing headlights and long fangs speeds through dusty terrain. Dynamic camera work: low-angle undercarriage shot as the truck launches over a dirt ramp kicking up dust and debris; side tracking shot of the spiked truck racing; close-up inside the cab of a stern woman in a traditional yellow hanbok-style outfit smoking a cigarette while gripping the wheel; rear gunner platform with a young woman in digital camouflage military uniform (name patch visible), long hair flying, sunglasses on head, enthusiastically firing a large mounted heavy machine gun with muzzle flashes while shouting; POV from the truck’s spiked hood racing toward a charging herd of massive armored metallic rhinoceros-like beasts with mechanical plating and horns kicking up dust; side and frontal shots of the pink skull-truck barreling through the stampeding armored rhinos as the gunner keeps firing; high aerial overhead shot of the truck weaving among the herd leaving dust trails; final rear tracking shot of the truck speeding away down the canyon with the gun still elevated. Fast-paced, dusty, intense Mad Max-inspired post-apocalyptic energy mixed with Korean action-comedy flair, bright desert lighting, motion blur, practical dust and debris effects, 15-second continuous action sequence.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic action scene of a woman battling lions in a desert arena
+
+- **Original source:** [@RuzainaMeer on X](https://x.com/RuzainaMeer/status/2082741313179685151)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1892](https://imglume.com/prompt/1892)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37b111a8-2f7d-4741-a453-e60029685c8c/57cfa817-fd1d-4744-9505-8d27b66074ee-1785413280081 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 15-second ultra-realistic cinematic action scene of a fearless woman battling a group of wild lions in an ancient desert arena.
+
+Shot 1 (0–3 sec):
+Extreme wide cinematic shot of an ancient ruined arena surrounded by rocky mountains at sunset. A powerful woman wearing a rugged warrior outfit stands alone in the center while three massive lions slowly approach from the shadows. Dust moves through the air, dramatic atmosphere, intense tension.
+
+Shot 2 (3–6 sec):
+Low-angle action shot as the lions charge toward her. The camera moves quickly around the scene as she dodges the first attack with incredible agility, sliding across the ground while dust explodes around her. Realistic lion movement, detailed fur, cinematic motion blur.
+
+Shot 3 (6–10 sec):
+Fast-paced combat sequence. The woman uses her skills and intelligence to fight back, avoiding attacks and overpowering the lions one by one. Dynamic camera angles, close-ups of her determined expression, slow-motion moments showing powerful movements, realistic physics and intense action choreography.
+
+Shot 4 (10–13 sec):
+The final lion makes a dramatic leap toward her. The camera rotates in slow motion as she blocks the attack and defeats the lion with a powerful final move. Dust fills the air as the arena becomes silent.
+
+Shot 5 (13–15 sec):
+Epic hero shot. The woman stands victorious in the center of the arena as the defeated lions retreat into the distance. The camera slowly pulls back, revealing the vast landscape, golden sunset, wind moving her hair and clothes, cinematic victory moment.
+
+Style:
+Ultra-realistic Hollywood action film, epic scale, realistic animal movement, dramatic lighting, cinematic camera work, detailed textures, 4K quality, natural motion, intense atmosphere.
+
+Negative Prompt:
+cartoon, fantasy CGI look, unrealistic animals, blurry, bad anatomy, extra limbs, unnatural fighting, blood, gore, distorted face, flickering, low quality, watermark.</code></pre>
+
+</details>
+
+## Celestial Warrior Combat Dance
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2082761095538790899)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1890](https://imglume.com/prompt/1890)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5ab4761-93f4-4b03-9cea-0941dff25ed4/08c7d59f-4fd2-4ce8-b871-ef46f255c3f3-1785413249635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Inside an enormous ancient temple with towering stone pillars, cracked marble floors, floating dust particles, and powerful beams of sunlight streaming through the ceiling, a beautiful young female martial artist wearing an elegant flowing pink hanfu-inspired combat dress performs an extraordinary combat dance.
+
+The sequence opens with an ultra-wide cinematic shot as she glides gracefully across the polished stone floor. Her silk sleeves and layered skirt flow naturally with every movement while the camera circles her in a smooth 360-degree motion.
+
+She suddenly launches into an acrobatic spinning kick, flipping through the air with flawless martial arts precision. The camera switches to an extreme low-angle shot emphasizing her height and power as her dress ripples realistically.
+
+The action transitions into dramatic slow motion as she lands softly before instantly accelerating into rapid spinning footwork. Every movement creates realistic cloth simulation, subtle dust bursts, and perfectly synchronized body mechanics.
+
+She leaps high beneath a brilliant shaft of heavenly light. The camera follows from below while volumetric lighting surrounds her, creating an angelic silhouette. Her expression remains calm, focused, and fearless.
+
+As she begins rotating in midair, glowing golden energy ribbons emerge around her body, spiraling outward like magical dragon-shaped currents. Sparks, floating embers, and swirling particles react naturally to her motion.
+
+The camera pulls back into a breathtaking wide shot as the golden energy tornado expands across the temple floor, illuminating the ancient architecture with warm orange reflections. Dust rises naturally while light scatters realistically through the atmosphere.
+
+The final moment freezes in epic slow motion as she floats gracefully at the center of the glowing spiral beneath the heavenly beam, surrounded by rotating rings of golden energy. The camera slowly cranes upward, revealing the magnificent temple from above before fading to black.</code></pre>
+
+</details>
+
+## Fictional aircraft-carrier emergency at sea
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2082716684327211204)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1888](https://imglume.com/prompt/1888)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/62dc5122-1f1d-4512-b6d9-cbaee1c5863e/d22bbab2-c233-43ef-9cd5-9c6a6fa52f99-1785411082031 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT
+15 seconds | 16:9 | live-action military documentary footage
+Fictional aircraft-carrier emergency at sea.
+Hyper-realistic raw footage.
+Fast multi-shot storytelling across handheld, telephoto and deck cameras.
+
+STORY
+A carrier-based fighter returns over rough open water with an apparent mechanical problem. The flight deck enters emergency recovery mode. Crew clear the landing area as the fighter approaches and lands safely.
+
+00–03s — EMERGENCY
+Wide handheld footage on an active carrier deck under heavy overcast skies.
+
+Strong sea wind, grey ocean, wet worn deck.
+
+Crew receive an alert and urgently clear the landing area.
+
+One crew member signals others away as the camera quickly turns toward the ocean.
+
+03–06s — FINAL APPROACH
+Hard cut to long telephoto footage.
+
+A fictional fighter approaches low over the ocean, landing gear down.
+
+Aircraft makes subtle roll and yaw corrections against turbulent air.
+
+Heat distortion behind engines.
+
+Camera operator struggles slightly to maintain framing.
+
+06–09s — DECK SCRAMBLE
+Shoulder-mounted footage among crew.
+
+Personnel rapidly move equipment and take safe positions.
+
+One crew member crosses foreground, briefly blocking the lens.
+
+Camera pans toward the approaching fighter.
+
+Controlled professional urgency, no theatrical panic.
+
+09–12s — TOUCHDOWN
+Low deck camera from a safe side position.
+
+Fighter touches down firmly.
+
+Landing gear compresses, tyres produce a small realistic puff, aircraft rapidly decelerates.
+
+Camera makes a fast imperfect pan following it.
+
+No explosion or exaggerated sparks.
+
+12–15s — SAFE STOP
+Three-quarter handheld footage.
+
+Aircraft reaches a controlled stop, engine still running and heat haze visible.
+
+Crew cautiously approach, signal toward the cockpit and inspect the aircraft.
+
+Final frame holds briefly on the fighter surrounded by responding crew with rough ocean behind.
+
+CAMERA
+Real military documentation/news footage.
+
+Mix handheld deck camera, shoulder-mounted footage, long telephoto tracking and fixed low deck camera.
+
+Hard cuts.
+Reactive pans.
+Foreground obstruction.
+Autofocus corrections.
+Telephoto compression.
+Wind-induced micro-shake.
+Natural motion blur.
+
+Camera operators react to events rather than anticipating them.
+
+ENVIRONMENT
+Working aircraft carrier in rough open ocean.
+
+Wet non-slip deck, painted markings, deck equipment, parked fictional aircraft, heavy clouds and strong maritime wind.
+
+PHYSICS
+Aircraft has convincing mass, momentum and aerodynamic behaviour.
+
+Approach remains aligned with the carrier.
+Landing gear compresses naturally.
+Deceleration has believable inertia.
+
+Crew clothing and straps react continuously to wind.
+Jet engines produce realistic heat distortion.
+
+AUDIO
+Powerful wind, ocean ambience, carrier machinery, shouted instructions, approaching jet roar, tyre contact, aircraft deceleration and crew communication.
+
+Sound perspective changes naturally between shots.
+
+No cinematic soundtrack.
+
+VISUAL CHARACTER
+Raw live-action military footage.
+Photorealistic aircraft, crew and ocean.
+Natural overcast exposure.
+Weathered equipment.
+Atmospheric haze.
+Sensor noise and minor camera imperfections.
+
+No CGI appearance.
+No video-game aesthetic.
+No Hollywood treatment.
+No slow motion.
+No oversized explosions.
+No impossible camera movement.
+
+CONTINUITY
+Same fictional fighter, carrier, weather, deck and crew throughout.
+
+Aircraft direction and position remain geographically consistent.
+
+Every shot advances the same emergency landing chronologically.</code></pre>
+
+</details>
+
+## The Odyssey Cyclops – Vertical Cinematic Adventure
+
+- **Original source:** [@AIwithJessica on X](https://x.com/AIwithJessica/status/2082644298210910488)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1878](https://imglume.com/prompt/1878)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fb8667bc-e6ff-4d50-b037-bbd70b8bf8e1/5b756fc3-0832-49e7-8747-41143fe1cdcd-1785400798448 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>PART 1 — "The Cave" (0:00–0:15) | 9:16 vertical
+Ultra-realistic dark-comedy adventure, shot handheld like a documentary crew embedded with a doomed crew of sailors. Raw camera shake, close wide-angle lenses, muted natural color, dim firelight, no music — only ambient sound.
+
+Cut 1 (0:00–0:03): Extreme close-up, low angle, tilted slightly off-axis — a single massive eye blinks open in the dark, reflecting dim orange firelight from below. Skin is thick, weathered, cracked like old leather. Camera slowly tilts down his brow as he exhales, sniffing the air.
+
+Cut 2 (0:03–0:06): Hard cut to a wide shot from ground level. The cave interior is enormous, littered with bones, wool, and crude wooden tools. A flock of filthy sheep huddle in the corner. Six sailors press flat against the cave wall — each with a clearly distinct face and build: a grizzled older man with a broken nose and gray stubble, a lean young sailor with a scarred cheek, a stocky bearded man missing a front tooth, a pale thin-faced youth with wide frightened eyes, a weathered dark-skinned sailor with a shaved head and a rope burn scar on his neck, and a stern middle-aged woman with a hard jaw and a cropped braid. All wear mismatched dented armor and salt-worn leather.
+
+Cut 3 (0:06–0:09): Handheld tracking shot follows Jessica — dark hair loose and windblown, torn traveler's cloak over salt-stained leather, bronze dagger at her hip — as she steps calmly past the crouching crew toward the center of the cave floor.
+
+Scarred-cheek sailor (whispering, panicked): "Get back, are you mad—"
+
+Cut 4 (0:09–0:12): Low-angle shot from Jessica's POV looking straight up at the Cyclops as he turns his massive head toward her, one eye narrowing.
+
+Jessica (flat, unimpressed): "You really only need the one eye?"
+
+Cut 5 (0:12–0:15): The Cyclops freezes mid-motion, confused, his single eye blinking slowly. Wide shot as he begins dragging a boulder toward the cave mouth, the stone grinding and screeching against rock, sealing them all inside. End on a shaky close-up of the crew's distinct faces — the older man gritting his teeth, the young pale sailor near tears — all lit by dying torchlight.
+
+PART 2 — "The Escape" (0:15–0:30) | 9:16 vertical
+
+Cut 1 (0:15–0:18): Continue handheld chaos. Wide shot, slightly shaky, as the Cyclops reaches down toward the huddled crew. His enormous hand slams into the dirt beside them. Jessica ducks under his fingers without flinching.
+Jessica (calling up, casual): "Wrong hand, big fellow."
+
+Cut 2 (0:18–0:21): Quick cut to a low tracking shot as the crew scramble past sheep and scattered bones toward a gap forming at the boulder's edge — the stocky bearded man shoving the gap wider, the shaved-head sailor pulling the frightened youth through by the collar.
+
+Cut 3 (0:21–0:24): Camera whips outside into harsh gray daylight — a rocky coastal cliffside, wind-battered grass, a narrow dirt path leading down to a beach where a single wooden ship waits, sail flapping loosely. The operator runs alongside the crew, framing briefly lost and re-caught.
+
+Cut 4 (0:24–0:27): Low-angle shot from the beach as the Cyclops emerges from the cave mouth above, roaring, groping blindly along the cliff edge, unable to see clearly in open light.
+
+Hard-jawed woman (shouting): "Row! Just row!"
+
+Cut 5 (0:27–0:30): Final wide shot from the back of the departing ship — the six crew members rowing in a frantic, uneven rhythm, oars clashing, each face still distinct under the strain. Jessica sits calmly at the stern, glancing back once at the giant silhouette on the cliff before the camera shakes hard and cuts to black.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic fashion commercial of a stylish woman
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2082700378437521838)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1875](https://imglume.com/prompt/1875)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/07f2543e-8a38-4656-9fa6-6dee71371ebd/7d2f42a6-1783-4c78-bbe8-f388b8907840-1785400752725 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second ultra-realistic cinematic fashion commercial. A stylish young woman wearing a white tailored blazer, white fitted square-neck top, high-waisted white trousers, oversized black square sunglasses, a thin gold necklace, and small gold hoop earrings walks confidently outside a modern luxury café with floor-to-ceiling glass windows, cream patio umbrellas, wooden tables, and beige stone flooring. Warm golden-hour sunlight creates soft natural shadows. She gently adjusts her sunglasses, smiles subtly, and walks toward the camera with graceful, confident movements. Smooth gimbal tracking, shallow depth of field, cinematic bokeh, 85mm portrait lens, HDR, premium color grading, realistic skin texture, luxury editorial fashion style, ultra-realistic, 4K, 60fps. No text, no logo, no watermark, no outfit changes, no background changes, no extra people, no blur, no distortion.</code></pre>
+
+</details>
+
+## Oliver the Teddy Bear Adventure
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2082665116244627798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [1872](https://imglume.com/prompt/1872)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9cc89b1a-74c0-49ae-8a5e-6f64aef3d815/d1369c35-b861-446d-8b7f-41ba1e2fd31b-1785400720143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-speed action montage. Oliver jumps off the moving train onto hanging gift ribbons, swinging across the aisle. Fast rotating camera follows him weaving through floating balloons. Rex accidentally crashes through stacked toy boxes, causing colorful blocks to rain everywhere. Oliver slides beneath a closing display shelf in slow motion. Bolt races beside him before launching him off a miniature toy ramp. FPV-style camera flies alongside Oliver as he narrowly avoids spinning helicopters and bouncing rubber balls. Titan-X extends a mechanical arm, catching Oliver just before he falls from a high shelf. Cinematic top-down shot reveals the giant locked entrance doors. Oliver runs with everything he has, but the automatic doors refuse to open. Extreme close-up of his tiny paw pressing against the cold glass. Outside, the first rays of sunrise begin to appear.</code></pre>
+
+</details>
+
+## Oliver the Teddy Bear Adventure
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2082665116244627798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1871](https://imglume.com/prompt/1871)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/710a7256-a306-476b-9186-4481a6650df9/f8f5b9ac-2829-472e-864b-fea036e8b11e-1785400720143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Complete darkness. Oliver's button eyes slowly blink open. Extreme close-up of his eyes reflecting moonlight. Whip pan across the store as hundreds of toys suddenly come alive. RC cars drift through polished floors leaving glowing tire streaks. Toy trains rush along display tracks. Dolls laugh while twirling between shelves. Giant Rex the dinosaur lets out a playful roar that shakes nearby boxes. Titan-X activates with glowing cyan eyes. Fast handheld-style tracking shot follows Oliver sprinting across shelves. He leaps between toy boxes in slow motion. Dynamic overhead shot as Bolt the RC car races underneath him, giving him a boost. Oliver lands perfectly onto Chug the toy train as it speeds around a corner. Dramatic orbit shot around Oliver as he quietly whispers, "I have to find her." The music builds rapidly.</code></pre>
+
+</details>
+
+## Oliver the Teddy Bear Adventure
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2082665116244627798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1870](https://imglume.com/prompt/1870)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/27dee085-e2d9-484d-84e8-4f0de4a96cb0/8ce6cf6a-3455-44f2-b22d-bcd37e34128e-1785400720143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Premium Pixar-quality 3D animation, anime-inspired facial expressions, ultra-detailed fur simulation, cinematic lighting, magical realism, vibrant toy store, expressive eyes, soft bloom, ray-traced reflections, dynamic camera movement, Hollywood animated film quality. Prompt: Open with an ultra-wide cinematic establishing shot of a massive premium toy store during golden hour as families browse colorful aisles. Fast dolly shot through shelves overflowing with plush toys, action figures, trains, dolls, and racing cars. Cut to a low-angle close-up of Oliver, the caramel teddy bear with his blue scarf, sitting proudly on the shelf. His amber eyes sparkle with hope. Match cut to six-year-old Emma running excitedly into frame, stopping directly in front of Oliver. Extreme close-up of her smiling face as she hugs him tightly against her chest. Over-the-shoulder shot from Oliver's perspective as Emma happily says, "Can we get this one?" Her mother reaches toward the shelf—but accidentally grabs another identical teddy from behind him. Quick push-in on Oliver's face as his smile fades. Slow-motion shot of Emma walking away while looking back at him. Rack focus from Oliver's tearful eyes to the closing automatic doors. The store lights dim one by one. A loud CLICK echoes as the final light switches off.</code></pre>
+
+</details>
+
+## Oliver the Teddy Bear Adventure
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2082665116244627798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [1869](https://imglume.com/prompt/1869)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/163a5f5a-dd97-478f-986c-cd91e15190b0/ee5d3e77-65fa-425e-b2c5-710104fa8d02-1785400720143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Soft emotional piano begins. Low-angle shot of Oliver sitting sadly near the entrance as the toys quietly watch from behind. Suddenly, a restocking employee pushes Mr. Wheels, the shopping cart, through the entrance. Dynamic tracking shot as Mochi nudges Oliver forward. Titan-X gently lifts him while Bolt gives one final speed boost. Oliver jumps through the air in beautiful slow motion, perfectly landing inside the shopping cart filled with new toys. Match cut to the toy display being restocked moments later. The store opens. Bright morning sunlight floods the entrance. Emma runs back inside with her mother. Handheld child-height camera follows her weaving through customers. She suddenly freezes, her eyes widening. Push-in on Oliver sitting exactly at the front of the display. "Mom! It's him!" She hugs Oliver tightly against her chest. Extreme close-up of Oliver's stitched smile as one tiny happy tear forms in his eye. The camera slowly cranes upward as Emma walks toward the glowing exit carrying Oliver. Warm golden sunlight fills the frame. Fade to white. Final Screen Text: "Some friendships are simply meant to be."</code></pre>
+
+</details>
+
+## Action hero mode in a South Korean high school classroom
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2082450478923952406)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1865](https://imglume.com/prompt/1865)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/79f4a24c-02e9-4c4e-a31e-d26d64c1a999/f062bad3-ce6a-48f1-b98e-7060e761b770-1785400665171 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 16:9 high dynamic action scene shot on 35mm film, set inside a realistic South Korean high school classroom with pale seafoam green walls, metal lockers, and wooden desks. A dynamic, fast-paced fight sequence unfolds between a male student in a white uniform shirt over a blue graphic tee and several male students wearing pinstriped baseball uniforms. The combat features fluid, realistic martial arts choreography with natural weight and impact. The camera uses kinetic handheld movement, subtle whip pans, and close tracking shots following fast punches, dodges, and disarms. Lighting is authentic overhead fluorescent classroom light with natural soft shadows. Color grading shifts mid-sequence into a muted, high-contrast, desaturated dramatic style. Physical motion blur on fast movements, atmospheric dust particles in room light, seamless spatial continuity, zero cinematic artifacts, photorealistic textures on clothing and skin, 15 seconds continuous energy. Audio includes high energy Brazilian phonk music track with heavy bass, crisp snare hits, and punchy rhythmic drops synchronized with physical hits and camera movements.</code></pre>
+
+</details>
+
+## The Door That Appears Once Every 100 Years
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2082685399143452750)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1857](https://imglume.com/prompt/1857)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f73043b3-e7be-43bf-8951-d3ff5b0f4b82/638af4d1-ad8c-4b4c-ba0d-71f8a7df1c35-1785400579423 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>During a stormy night, an ancient glowing door suddenly appears in the middle of a dense forest. A lone explorer approaches cautiously, holding a lantern. As they slowly open the door, a blinding golden light reveals a breathtaking world filled with floating islands, giant waterfalls, glowing trees, and a sky with two moons. The explorer takes one step through the doorway, and reality instantly transforms around them—ordinary clothes become mystical armor as magical energy swirls through the air. Suddenly, the ancient door vanishes forever. A distant voice whispers, “You can never return.” The explorer looks toward the endless magical horizon as the screen fades to black. Ultra-realistic visuals, cinematic fantasy, volumetric lighting, dramatic camera movement, seamless transitions, movie-quality VFX, emotional atmosphere, highly detailed environments, and an epic cinematic ending.</code></pre>
+
+</details>
+
+## Handheld 16mm gym vlog of CHASE cooling down
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2082436438583582964)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1855](https://imglume.com/prompt/1855)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a5719988-ed10-41d0-8cfd-9ab1a954cb1b/d1b40395-38a6-4e5f-bec8-db1180b0147a-1785389120646 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>**CAMERA:** DV 16mm handheld camcorder POV. CHASE holds the camera or props it on the floor/bag. Natural hand shake, soft focus, imperfect framing, occasional clumsy zooms. Camcorder never visible.
+
+**LOOK:** Soft vintage tape quality, slight blur, tape noise, bloomed gym lights, flickering auto-exposure, muted contrast.
+
+**STYLE:** Calm post-workout gym vlog. Relaxed, slightly tired, natural pacing, genuine smiles and quiet reflections.
+
+**CHARACTER:** CHASE — Korean woman in her 20s. Long black hair loosely tied, light post-workout sweat, slim athletic build. Modest long-sleeve athletic top, loose joggers/leggings, socks, towel around neck.
+
+**SETTING:** Quiet evening gym corner with stretching mat, mirror, gym bag, protein shake, soft lighting.
+
+**SCENES:**
+
+1. Sits on mat, exhales. "Okay, cool-down time."
+
+2. Hamstring stretch, laughs. "That was a lot today."
+
+3. Shoulder stretch. "Legs are gonna be sore tomorrow."
+
+4. Close-up grabbing protein shake.
+
+5. Drinks. "That's actually really good."
+
+6. Arms overhead. "I'd give today an eight out of ten."
+
+7. Resting on knee. "Feels good to be done."
+
+8. Waves with bag and shake. "Alright, I'm heading out—see you guys."</code></pre>
+
+</details>
+
+## Chili-Flake Chaos First-Person Cooking POV Video
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2082342525570879887)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1852](https://imglume.com/prompt/1852)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5ce76ef-ce74-45bb-a642-f6ab6f535d66/405320bb-2ca4-4cad-981b-ed6afcdd27b9-1785389095840 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[HIGHEST PRIORITY — STRICT HAND ROLES AND ORIENTATION]
+The hand roles must remain fixed throughout the video:
+The photorealistic adult RIGHT HAND is solely responsible for stir-frying and operating the one and only spatula.
+The photorealistic adult LEFT HAND is solely responsible for taking away the glass chili flake jar. The left hand must never touch the spatula.
+No more than one real human hand may be visible in any frame. The left and right hands must never appear simultaneously.
+The RIGHT HAND enters only from the bottom-right corner. Its wrist remains connected to the bottom-right edge of the frame, the back of the hand faces the camera, and its thumb is clearly positioned on the screen-left side, pointing toward the center. The right hand holds the only wooden-handled metal spatula in the entire video.
+The LEFT HAND enters only from the upper-left side. Its wrist remains connected to the upper-left edge of the frame, the back of the hand faces the camera, and its thumb is clearly positioned on the screen-right side, pointing toward the center. The left hand enters empty-handed and only takes the chili flake jar. It never holds a spatula, spoon, or other kitchen utensil.
+Use a strict relay sequence:
+00:00–00:03: only the spatula-holding right hand is visible.
+After the chili flake stream stops, the right hand places the only spatula flat inside the wok and completely leaves the frame.
+Only after the right hand has fully disappeared, from 00:03.2–00:03.8, the empty left hand enters, takes away the chili flake jar, and completely exits.
+Only after the left hand has fully disappeared may the right hand return at 00:03.8 and pick up the same spatula from the wok.
+Never show both hands simultaneously. No same-direction hands, mirrored hands, duplicated arms, floating hands, or extra palms.
+[FORMAT AND COMPOSITING STYLE]
+A 10-second, horizontal 16:9 comedy video in a single continuous photorealistic first-person cooking POV. Slight natural handheld movement only. No cuts and no transitions.
+Use a fixed widescreen composition:
+One black wok remains slightly left of center.
+Tang Tang and one small wooden stool remain on the right.
+Both the wok and Tang Tang remain fully visible without blocking each other.
+The kitchen, wok, glossy beef and vegetables, steam, chili flakes, glass chili flake jar, single spatula, wooden stool, condiment bottles, sink, window, and adult human hands must remain photorealistic and obey believable physical behavior.
+Tang Tang must remain a completely flat 2D chibi anime sticker throughout the video, with subtle crayon and paper grain, a clean dark-brown outline, and a complete white sticker border. She must have zero 3D volume, realistic skin, volumetric lighting, plastic depth, clay texture, or realistic cast shadow.
+[FIXED REAL KITCHEN]
+A lived-in, photorealistic home kitchen viewed slightly downward from the cook's eye level.
+The only black wok stays slightly left of center. Glossy beef and green vegetables sizzle inside it while natural steam rises. A white tiled wall and power outlet remain in the background. Soy sauce and cooking oil bottles stand against the wall. A stainless-steel sink is located in the rear-right area. Natural daylight enters through a side window.
+Maintain the same kitchen, camera position, 16:9 framing, geography, and left-right orientation throughout the entire video.
+[CHARACTER IDENTITY LOCK]
+Tang Tang is the only character.
+She is a young, energetic chibi sticker girl with two-head-tall proportions, an oversized round head, tiny limbs, and a small, soft round tummy.
+Her face is round, with big round sparkly eyes, rosy round cheeks, a small button nose, a cheerful gap-tooth grin, and a tiny freckle dot on each cheek. Her black hair is styled in two high bouncy pigtails held with bright yellow scrunchies, with short blunt bangs across her forehead.
+She wears:
+A mustard-yellow and white striped short-sleeve top
+A pastel-pink pinafore apron with a small fruit print
+Solid teal denim overall shorts
+White canvas slip-on shoes
+She has no text, numbers, logos, jewelry, or additional accessories beyond her hair scrunchies.
+Tang Tang remains seated on the single wooden stool beside the right side of the stove. Her height is approximately half the diameter of the wok. She behaves like a lightly elastic sheet of printed paper and may only squash or stretch in a flat cartoon manner.
+Her round head, high pigtails, bangs, striped top, pink pinafore apron, teal overalls, white canvas shoes, and round tummy must remain completely consistent throughout the pouring, reaction, crying, feeding, and collapsing actions.
+[00:00–00:03 — RIGHT HAND STIR-FRIES, TANG TANG POURS THE CHILI FLAKES]
+Only one photorealistic adult RIGHT HAND is visible.
+The right hand enters from the bottom-right corner, with its thumb on the screen-left side, and continuously holds the one and only wooden-handled metal spatula while stir-frying the beef and vegetables. It must never touch, support, cover, stabilize, or tilt the chili flake jar.
+Tang Tang makes a mischievous grin. Using her own two clearly visible 2D sticker hands, she independently hugs and lifts a photorealistic glass jar of dried red chili flakes larger than her head.
+Tang Tang personally raises, rotates, and tilts the jar toward the wok. The full weight and rotation of the jar are carried exclusively by her two 2D hands. A dense stream of realistic red chili flakes falls only from the opening of the jar held by Tang Tang and forms a visible red mound over the beef and vegetables.
+No real human fingers or hands may appear near the chili flake jar during this action.
+Audio: continuous food sizzling and a dry, papery stream of chili flakes pouring.
+[00:03–00:03.2 — RIGHT HAND LEAVES]
+The chili flake stream has completely stopped, and the red mound is clearly visible.
+The real right hand places the one and only spatula flat inside the wok, then completely exits through the bottom-right edge.
+At this moment, no real human hand is visible. The only spatula remains motionless inside the wok.
+[00:03.2–00:03.8 — LEFT HAND ALONE TAKES THE CHILI FLAKE JAR]
+Confirm that the real right hand has completely disappeared.
+Only one empty photorealistic adult LEFT HAND enters from the upper-left side, with its thumb clearly on the screen-right side.
+The empty left hand takes the glass chili flake jar directly from Tang Tang's two 2D hands, then exits completely through the upper-left side while carrying the jar.
+The left hand must never touch the spatula. The only spatula remains motionless inside the wok and must not duplicate.
+[00:03.8–00:05 — RIGHT HAND RETURNS AND USES THE SAME SPATULA]
+Confirm that the real left hand has completely disappeared.
+The same photorealistic right hand returns from the bottom-right corner, with its thumb still on the screen-left side. It picks up the same spatula that was previously placed inside the wok.
+The right hand lifts this single spatula from the wok toward Tang Tang's head along one continuous trajectory. Once the spatula has left the wok, no second spatula or spatula-shaped utensil may remain inside the wok.
+The right hand gives Tang Tang an impossibly light, harmless cartoon tap on the top of her head using the flat side of the same spatula, then returns that same spatula to the wok.
+With a "DUANG" sound, a flat red cartoon bump pops onto Tang Tang's head. Her paper body bounces vertically once, her eyes open wide, and her two 2D hands hold her head.
+Only the right hand is visible. The left hand is absent.
+Audio: a light metallic "DUANG" and one cartoon spring sound.
+[00:05–00:08 — RIGHT HAND FEEDS TANG TANG]
+Only the same photorealistic right hand and the same single spatula remain visible.
+Tang Tang's eyes become flat spiral cartoon eyes. Two bright blue, flat 2D sticker fountains of tears shoot sideways from her eyes.
+The right hand uses the same spatula to scoop a small bite of beef and vegetables from the same red mound of chili flakes. It brings the food toward Tang Tang's open cartoon mouth.
+The food harmlessly pops into her mouth with a soft cartoon "boop." Her cheeks immediately inflate into two round, flat sticker balloons, now tinted a warm red-orange.
+The interaction is absurd and harmless. Do not depict force, choking, injury, burning, or realistic suffering.
+Audio: exaggerated cartoon crying, the spatula scraping over the flakes, and a soft "boop."
+[00:08–00:10 — TOO SPICY, MELTDOWN]
+Tang Tang swallows the bite.
+Her flat body instantly flushes a glowing red-orange, freezes for half a beat, and her eyes become two flat spiral heat-dazed swirls.
+A single flat 2D sticker flame pops from her open mouth like a tiny cartoon dragon breath, and two curls of flat white steam puff from her ears.
+She tips backward off the same wooden stool like a lightweight sheet of paper, short limbs briefly pointing upward, one flat sticker hand still fanning her open mouth.
+A ring of flat cartoon red chili peppers rotates around the red bump, and a thin curl of flat orange-tinted steam rises from her nose.
+Her round head, high pigtails, bangs, striped top, pink pinafore apron, teal overalls, white canvas shoes, and round tummy remain consistent while she falls.
+Freeze clearly on the final punchline for the last 0.3 seconds.
+Audio: a short sizzling gasp, a soft paper-like "thud," and a silly descending whistle sound.
+[CONTINUITY AND EXCLUSIONS]
+Treat every timestamp as part of one uninterrupted continuous shot.
+The same red mound of chili flakes and the same wok of food must remain present and evolve continuously across the entire video. Maintain the same character size, compositing layer, kitchen layout, and screen geography.
+The entire video must contain exactly:
+One Tang Tang
+One wooden stool
+One black wok
+One glass chili flake jar
+One wooden-handled metal spatula
+No more than one real human hand may appear in any frame.
+Absolutely no simultaneous left and right hands, same-direction hands, two right hands, two left hands, mirrored hands, duplicated arms, extra palms, second spatula, duplicated utensils, spatula remaining in the wok while another spatula is in the air, left hand stir-frying, right hand taking the chili flake jar, left hand touching the spatula, or real human hands helping Tang Tang pour chili flakes.</code></pre>
+
+</details>
+
+## Smartphone selfie vlog under cherry blossom trees
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2082439846526595390)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [1849](https://imglume.com/prompt/1849)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8eefb448-6204-47e2-b7a8-327691d1a19b/b3db8241-2abb-4829-ab15-5a3eef27e87f-1785389078179 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic smartphone selfie vlog that looks like it was casually recorded on a real mobile phone by a young woman (image = her face and hair) during cherry blossom season. Natural handheld phone movement with subtle hand shake, slight autofocus breathing, realistic exposure changes as sunlight filters through the trees, occasional imperfect framing, authentic phone camera stabilization, natural ambient audio, and true-to-life colors. She walks slowly beneath beautiful blooming cherry blossom trees in a peaceful park on a bright spring afternoon, smiling naturally at the front camera and softly saying in Korean, "벚꽃이 정말 예쁘네요." She gently reaches up to catch a falling cherry blossom petal, holds it in her hand with a happy smile, then switches to the rear camera to film the blossoms overhead before returning to selfie mode. She takes a quick selfie photo with her phone, laughs naturally while looking at the result, continues walking along the blossom-lined path as petals drift around her in a light breeze, then stops, turns back toward the camera, gives a warm wave, and says, "다음에 또 만나요. 안녕!" before reaching toward the phone to end the recording. The video should feel exactly like a genuine mobile phone recording with natural human movement, realistic facial expressions, consistent identity, accurate hand proportions, authentic outdoor lighting, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only real park ambience, birds, distant conversations, footsteps, and the sound of wind through the cherry blossom trees.</code></pre>
+
+</details>
+
+## Gritty 16mm cinéma vérité 1970s Paris documentary
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2082478410971193386)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1846](https://imglume.com/prompt/1846)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6dd1d39a-5b38-4885-af7d-d0189802e9be/da20685a-defb-46af-bc48-4b7fc497ef3c-1785378397446 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Gritty 16mm cinéma vérité, authentic 1970s Paris documentary footage, organic film grain, pure natural daylight, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism.
+
+0-3s: [Close Handheld Tracking] Young woman in her mid-20s, completely natural face with no makeup, soft features, wind-tousled hair, simple 1970s coat and scarf. She walks past a small floristería on a Paris side street. Camera stays tight on her profile and upper body as she slows for half a second, glances at the flowers, then looks toward camera with a quiet, unguarded expression. Instant natural beauty and presence.
+
+3-7s: [Unsteady Following Shot] She continues into a lively sunlit plaza. Camera stays behind and slightly to the side, bouncing with every step. Children run and play all around her, pigeons scatter, people cross paths, soft Paris light and movement everywhere. Pure dynamism and street energy.
+
+7-11s: [Handheld Medium] A group of kids chasing a ball suddenly cut right in front of her. One almost collides with her; she steps aside gracefully, laughs under her breath, and briefly exchanges a look with the child. The plaza stays alive and chaotic around them.
+
+11-15s: [Raw Tracking] She keeps walking through the square, camera following close and imperfect, catching the residual energy of the kids, the light shifting across her face, and the natural rhythm of 1970s Paris street life without ever settling.
+
+Photorealistic 16mm film emulation, heavy organic grain, authentic period Paris details, natural skin texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, no artifacts, 16:9 aspect ratio.</code></pre>
+
+</details>
+
+## Cinematic underwater mermaid animation video
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2082439952659619978)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [1842](https://imglume.com/prompt/1842)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bef3fec-53b9-4e7c-815c-57e50a035336/fbd8638f-5ce4-4ab0-9e74-ce8e5148ab5f-1785361593702 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8bef3fec-53b9-4e7c-815c-57e50a035336/d631f5b0-2d95-4825-8c14-a7f3563d25e5-1785361593702 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>2️⃣video prompt:
+
+Cinematic underwater ocean epic, one continuous unbroken take, 15 seconds, constant forward propulsion, no pauses, no ending shot, no surfacing to a final pose.
+
+Character (keep consistent in every frame):
+A young mermaid named Nereid, gentle and curious expression, pale ice-blue eyes, extremely long flowing cyan-to-turquoise hair that streams behind her in the current. She has translucent lavender-pink webbed fin-ears framing her face and a delicate pale coral crown of thin spines above her brow. She wears a scalloped shell bandeau top with a blue-to-lavender iridescent gradient and a soft peach starfish ornament at the center, strands of small white pearls across the collarbone, sheer detached arm-veils of pale aqua gossamer, and a translucent frilled hip skirt of layered ice-blue and lavender chiffon with pearl chains and a peach starfish clasp at the small of her back. Her tail is cobalt-to-turquoise fish scales dusted with pearlescent highlights and a diagonal line of pearls along the hip, ending in enormous translucent gossamer flukes in pale aqua and white that ripple like silk. Palette locked to cobalt blue, turquoise, pale ice blue, soft lavender, pearl white, faint peach.
+Beat 1 (0.0s to 2.5s): Open already in motion. Camera glides through sunlit upper ocean as a colossal blue whale slides into frame from below, filling the screen. Nereid pulls alongside its eye, one hand brushing its skin, then kicks hard and accelerates. Dozens of blue whales, humpbacks and orcas stretch into the blue distance in a vast migrating column. Camera: fast tracking shot beside her, wide lens, god-rays lancing down from the surface.
+
+Beat 2 (2.5s to 5.5s): She weaves between the whales' bodies and under a humpback's outstretched pectoral fin. A humpback breaches far above, its silhouette punching through the surface in a curtain of white bubbles and refracted light. Pods of dolphins spiral around her, manta rays glide overhead like slow shadows, dense schools of glowing silver fish split and reform around her body. Camera: barrel-rolling follow shot, bubbles streaking past the lens, caustic light patterns rippling across every surface.
+
+Beat 3 (5.5s to 8.5s): The column descends into a luminous coral kingdom: towering coral spires in violet, rose and gold, giant clams, anemone fields swaying in the current. The whales pass over an ancient sunken shipwreck, broken masts furred with coral, and the pod threads through a deep undersea canyon of sheer rock walls. Nereid dives through a shattered porthole and out the other side without losing speed. Camera: rapid dolly through the wreck interior, then bursting out into open blue.
+
+Beat 4 (8.5s to 11.5s): She catches a fast current and rockets forward, hair and flukes snapping in the flow. The pod passes through a glowing jellyfish forest, thousands of bioluminescent bells pulsing soft blue and violet, then through a colossal natural stone arch on the seafloor, then along a flowing kelp forest whose blades part around the whales. New sea life keeps joining the procession: sea turtles, whale sharks, luminous squid. Camera: sweeping crane-style descent revealing the full scale of the migrating column against a fading abyssal gradient.
+
+Beat 5 (11.5s to 15.0s): The ocean opens into an immense deeper blue. The whales sing, bubbles rising in vast columns. More and more creatures stream in from every direction until the entire sea becomes one grand living procession, light beams thinning as the pod pushes toward the far horizon. Nereid swims forward beside the largest whale, looking ahead, never back. Camera continues tracking behind and slightly above her as the pod recedes into infinite blue, still moving as the frame ends. No fade, no freeze, no stop.
+
+Style and technical:
+Anime-influenced cinematic CG, high-budget feature film underwater quality. Luminous cool palette of cobalt, turquoise, aquamarine and pearl white with lavender and warm gold accents from sunlight. Volumetric god-rays, dense caustics, floating marine particulate, drifting bubble trails, soft depth haze that stacks scale layer by layer. Realistic water physics on hair, chiffon veils and translucent flukes with subsurface scattering. Dreamlike, healing, awe-struck tone with continuous fluid motion and constantly changing seascapes. Reference feel of Avatar: The Way of Water underwater photography and Moana ocean spectacle. 24fps cinematic shutter, anamorphic widescreen framing, subtle motion blur on all fast elements, crisp detail on scales, pearls and coral texture throughout.
+
+Negative: static camera, empty water, murky or desaturated grade, harsh darkness, human legs, extra limbs, warped hands, text or watermarks, cut to black, slow motion ending, character floating still, hair or tail color drift, dry land, above-water finale.
+Optional audio prompt:
+Deep whale song layered under a swelling orchestral score, strings and soft choir, muffled underwater ambience, rushing current, bubble hiss, distant sonar-like tones, building to a wide open crescendo that keeps expanding and never resolves.</code></pre>
+
+</details>
+
+## Moon Knight Ink Transformation Sequence
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2082451216336843074)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1839](https://imglume.com/prompt/1839)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2dbb15e9-f80d-4a50-9f60-c129aec55de4/0a5ee1ac-d286-4358-b731-08ae18e235b2-1785361575070 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Full magical transformation sequence: a moon knight floating in an ancient pale-blue parchment void as deep indigo ink spreads through the air like night dye blooming in water ,calligraphy strokes lash around the body, staining the hair into silver-white, sketching crescent armor seams, glowing cheek markings, and a curved moonblade silhouette in elegant blue brushwork. A circular ancient seal script sigil burns underfoot with splashes of silver light, the camera pushing in through drifting ink veils like pages turning in a storm, each brush impact synced to a rising drumbeat, ending in a blade-raised signature pose locked inside an indigo-and-silver calligraphy burst. Stock-footage grandeur, played sincere.</code></pre>
+
+</details>
+
+## Strawberry & Whipped Cream ASMR Video
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082437584773656759)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1838](https://imglume.com/prompt/1838)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/76b8bae8-2ab2-4fa0-8f30-f9ef68ca6772/fe48100e-6cf8-49ea-a5c3-7e4eb015f7e9-1785357394672 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, soft makeup, and smile consistently throughout every shot. Dress her in a cute pink ribbed crop top and a white pleated skirt. The setting is a cozy bedroom with soft white bedding, warm ambient lamps, fairy lights, and a wooden serving tray placed on the bed. Throughout the video, animate playful hand-drawn white doodles beside each action that naturally fade away. No subtitles, logos, or watermarks.
+
+The video opens with a cinematic close-up of her smiling directly at the camera while holding a wicker basket filled with fresh strawberries. She gently tilts the basket toward the viewer.
+
+Doodles: "HELLO!", "FRESH!", hearts, sparkles.
+
+She gently places the strawberries into a crystal glass bowl filled with water and slowly washes them with her fingertips. Macro shots capture water droplets splashing and strawberries glistening under warm light.
+
+Doodles: "SPLASH!", "CLEAN!", water droplets.
+
+She sprays a generous swirl of whipped cream onto a ceramic plate. The cream forms soft, fluffy peaks while the camera captures slow-motion macro details.
+
+Doodles: "SOFT!", "WOW!", stars.
+
+She slowly dips a fresh strawberry into the whipped cream, rotating it gently until it's fully coated. Extreme macro shots highlight the creamy texture and glossy strawberry surface.
+
+Doodles: "DIP!", "CREAMY!", arrows.
+
+She lifts the coated strawberry toward her lips and takes one slow, satisfying bite. The whipped cream softly compresses while the strawberry releases a juicy crunch. The camera focuses on the rich textures and her subtle smile.
+
+Doodles: "YUM!", "MMM!", hearts and sparkles.
+
+Final hero shot showing the wooden tray with the basket of strawberries, whipped cream, and ceramic plate beautifully arranged. She smiles warmly, gives a thumbs-up toward the camera, then picks up another strawberry as the camera slowly pushes in on the dessert.
+
+Doodles: "PERFECT!", "ENJOY!", "BEST!", sparkles and hearts.
+
+Audio: Pure ASMR only—basket handling, strawberries dropping into water, gentle splashes, whipped cream spray, strawberry dipping, juicy bite, soft chewing, ceramic plate taps, fabric rustling, quiet bedroom ambience, and gentle breathing. No music, no dialogue, no subtitles, no logos, no watermarks. Premium food commercial cinematography, ultra-realistic macro close-ups, shallow depth of field, photorealistic textures, cinematic warm lighting, 4K HDR, 16 :9, 24 fps.</code></pre>
+
+</details>
+
+## Cinematic luxury fashion advertisement video with frozen matcha splash
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2082486773062775032)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1830](https://imglume.com/prompt/1830)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/38ffc3b1-474d-40cd-8173-3afa841d3100/01198fe8-bf80-4596-9266-5644881f8276-1785346909319 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic luxury fashion advertisement video using the female model image as reference.
+The camera performs a smooth 360-degree horizontal orbit around the woman sitting on the metal folding chair and the suspended matcha splash. The camera moves slowly with a premium commercial gimbal movement, creating realistic depth, parallax, and a dramatic bullet-time effect.
+The woman remains completely frozen in the exact same pose, maintaining the same facial expression, hairstyle, outfit, and body position. She looks like a high-fashion editorial model captured in a perfect frozen moment.
+The matcha drink splash remains suspended in mid-air like a sculptural liquid artwork. The flowing matcha creates elegant curves, floating droplets, and realistic reflections while appearing frozen in time.
+As the camera moves around, subtle details become visible: liquid texture, glass reflections, fabric details, denim texture, skin highlights, and studio shadows.
+The background remains minimal and unchanged. Only the camera movement creates the cinematic effect.
+Style: luxury beverage commercial, Vogue fashion film aesthetic, Apple-style cinematic product video, ultra-realistic, 8K, high-speed photography, shallow depth of field, realistic lighting, smooth motion, premium advertising quality.</code></pre>
+
+</details>
 
 ## Night retro old-town street MV
 

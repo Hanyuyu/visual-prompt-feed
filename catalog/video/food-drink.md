@@ -1,9 +1,205 @@
 # Food Drink video prompts
 
-9 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Anime-style countryside cooking montage
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2082825904812913139)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [1903](https://imglume.com/prompt/1903)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37242b78-9d5d-420c-b8ad-44a924c22a1e/340c029c-ef99-437a-a245-72c022dd1c95-1785427875324 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A fast-paced anime-style countryside cooking montage set in a hidden meadow surrounded by rolling hills, wildflowers, and a cozy old wooden cottage. The video shows every cooking action in sequence with smooth cinematic transitions. A young cook gathers fresh eggs from a small farm coop, picks fragrant herbs and colorful vegetables from the garden, and collects fresh spring water. Quick close-up shots show ingredients being washed, chopped, herbs crushed with a stone mortar, and dough being prepared on a rustic wooden table. A stone fire pit burns as a copper pot simmers with a rich homemade sauce, vegetables are sautéed in a pan, and warm bread is sliced with steam rising from the fresh meal. The finished countryside dish is beautifully arranged on handmade ceramic plates beside a glass jar of fresh fruit juice. Final shot reveals the peaceful meadow landscape, golden sunlight, gentle wind moving through the grass, and a cozy anime cooking atmosphere. Fast cinematic cuts, smooth camera movements, vibrant colors, soft natural lighting, highly detailed anime visuals, tranquil yet energetic feeling, masterpiece quality, 4K.</code></pre>
+
+</details>
+
+## Live-action cooking vlog with flat 2D chibi raccoon sticker Solka
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2082790104771473775)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [1899](https://imglume.com/prompt/1899)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f610f222-119e-4692-a43c-f1086db894d5/1795f205-d108-4c73-92d7-447e32555f0c-1785419472773 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Live-action + flat 2D sticker composite, POV cooking vlog, vertical 9:16, 10 seconds, 8K, light handheld micro-shake. Realistic kitchen + funny flat sticker character.
+Scene: Home kitchen from first-person perspective. Beef and greens are frying in a black pan, oil sizzles, steam rises. White tiles, sauce bottles, sink on the right, side daylight.
+Character: Little chibi raccoon Solka as a flat 2D sticker: gray-blue fur, dark mask around eyes, striped tail, big red bow, round black glasses, yellow dress, red shoes. Thick outline, paper texture, colored pencil style. Sitting on a small stool by the stove.
+00:00–00:03 — Salty Avalanche
+Real hand stirs meat with a spatula. Solka smiles cunningly and pours a whole jar of salt into the pan. Salt falls like a waterfall, forming a white mound.
+SFX: sizzling, salt pouring.
+00:03–00:05 — Oops
+Hand takes the jar away, next to her head the spatula makes a comical "BONK!". Glasses slide down, tail stands on end, Solka jumps.
+SFX: bonk, cartoon spring.
+00:05–00:08 — Salty Payback
+Solka tastes the oversalted food. Cheeks puff up, eyes become spirals, cartoon tears spray from eyes.
+SFX: crunch, pause, exaggerated crying.
+00:08–00:10 — Salty K.O.
+She swallows, eyes turn into Xs, falls off the stool like a paper sticker. Stars around head, final freeze-frame.
+SFX: croak, soft thud, funny spirit sound.
+Negative prompt: 3D raccoon, realistic fur, redesign, extra limbs, deformed hands, morphing, flicker, blur, fake salt physics, gore, subtitles, watermark, UI.</code></pre>
+
+</details>
+
+## Chili-Flake Chaos First-Person Cooking POV Video
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2082342525570879887)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1852](https://imglume.com/prompt/1852)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5ce76ef-ce74-45bb-a642-f6ab6f535d66/405320bb-2ca4-4cad-981b-ed6afcdd27b9-1785389095840 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[HIGHEST PRIORITY — STRICT HAND ROLES AND ORIENTATION]
+The hand roles must remain fixed throughout the video:
+The photorealistic adult RIGHT HAND is solely responsible for stir-frying and operating the one and only spatula.
+The photorealistic adult LEFT HAND is solely responsible for taking away the glass chili flake jar. The left hand must never touch the spatula.
+No more than one real human hand may be visible in any frame. The left and right hands must never appear simultaneously.
+The RIGHT HAND enters only from the bottom-right corner. Its wrist remains connected to the bottom-right edge of the frame, the back of the hand faces the camera, and its thumb is clearly positioned on the screen-left side, pointing toward the center. The right hand holds the only wooden-handled metal spatula in the entire video.
+The LEFT HAND enters only from the upper-left side. Its wrist remains connected to the upper-left edge of the frame, the back of the hand faces the camera, and its thumb is clearly positioned on the screen-right side, pointing toward the center. The left hand enters empty-handed and only takes the chili flake jar. It never holds a spatula, spoon, or other kitchen utensil.
+Use a strict relay sequence:
+00:00–00:03: only the spatula-holding right hand is visible.
+After the chili flake stream stops, the right hand places the only spatula flat inside the wok and completely leaves the frame.
+Only after the right hand has fully disappeared, from 00:03.2–00:03.8, the empty left hand enters, takes away the chili flake jar, and completely exits.
+Only after the left hand has fully disappeared may the right hand return at 00:03.8 and pick up the same spatula from the wok.
+Never show both hands simultaneously. No same-direction hands, mirrored hands, duplicated arms, floating hands, or extra palms.
+[FORMAT AND COMPOSITING STYLE]
+A 10-second, horizontal 16:9 comedy video in a single continuous photorealistic first-person cooking POV. Slight natural handheld movement only. No cuts and no transitions.
+Use a fixed widescreen composition:
+One black wok remains slightly left of center.
+Tang Tang and one small wooden stool remain on the right.
+Both the wok and Tang Tang remain fully visible without blocking each other.
+The kitchen, wok, glossy beef and vegetables, steam, chili flakes, glass chili flake jar, single spatula, wooden stool, condiment bottles, sink, window, and adult human hands must remain photorealistic and obey believable physical behavior.
+Tang Tang must remain a completely flat 2D chibi anime sticker throughout the video, with subtle crayon and paper grain, a clean dark-brown outline, and a complete white sticker border. She must have zero 3D volume, realistic skin, volumetric lighting, plastic depth, clay texture, or realistic cast shadow.
+[FIXED REAL KITCHEN]
+A lived-in, photorealistic home kitchen viewed slightly downward from the cook's eye level.
+The only black wok stays slightly left of center. Glossy beef and green vegetables sizzle inside it while natural steam rises. A white tiled wall and power outlet remain in the background. Soy sauce and cooking oil bottles stand against the wall. A stainless-steel sink is located in the rear-right area. Natural daylight enters through a side window.
+Maintain the same kitchen, camera position, 16:9 framing, geography, and left-right orientation throughout the entire video.
+[CHARACTER IDENTITY LOCK]
+Tang Tang is the only character.
+She is a young, energetic chibi sticker girl with two-head-tall proportions, an oversized round head, tiny limbs, and a small, soft round tummy.
+Her face is round, with big round sparkly eyes, rosy round cheeks, a small button nose, a cheerful gap-tooth grin, and a tiny freckle dot on each cheek. Her black hair is styled in two high bouncy pigtails held with bright yellow scrunchies, with short blunt bangs across her forehead.
+She wears:
+A mustard-yellow and white striped short-sleeve top
+A pastel-pink pinafore apron with a small fruit print
+Solid teal denim overall shorts
+White canvas slip-on shoes
+She has no text, numbers, logos, jewelry, or additional accessories beyond her hair scrunchies.
+Tang Tang remains seated on the single wooden stool beside the right side of the stove. Her height is approximately half the diameter of the wok. She behaves like a lightly elastic sheet of printed paper and may only squash or stretch in a flat cartoon manner.
+Her round head, high pigtails, bangs, striped top, pink pinafore apron, teal overalls, white canvas shoes, and round tummy must remain completely consistent throughout the pouring, reaction, crying, feeding, and collapsing actions.
+[00:00–00:03 — RIGHT HAND STIR-FRIES, TANG TANG POURS THE CHILI FLAKES]
+Only one photorealistic adult RIGHT HAND is visible.
+The right hand enters from the bottom-right corner, with its thumb on the screen-left side, and continuously holds the one and only wooden-handled metal spatula while stir-frying the beef and vegetables. It must never touch, support, cover, stabilize, or tilt the chili flake jar.
+Tang Tang makes a mischievous grin. Using her own two clearly visible 2D sticker hands, she independently hugs and lifts a photorealistic glass jar of dried red chili flakes larger than her head.
+Tang Tang personally raises, rotates, and tilts the jar toward the wok. The full weight and rotation of the jar are carried exclusively by her two 2D hands. A dense stream of realistic red chili flakes falls only from the opening of the jar held by Tang Tang and forms a visible red mound over the beef and vegetables.
+No real human fingers or hands may appear near the chili flake jar during this action.
+Audio: continuous food sizzling and a dry, papery stream of chili flakes pouring.
+[00:03–00:03.2 — RIGHT HAND LEAVES]
+The chili flake stream has completely stopped, and the red mound is clearly visible.
+The real right hand places the one and only spatula flat inside the wok, then completely exits through the bottom-right edge.
+At this moment, no real human hand is visible. The only spatula remains motionless inside the wok.
+[00:03.2–00:03.8 — LEFT HAND ALONE TAKES THE CHILI FLAKE JAR]
+Confirm that the real right hand has completely disappeared.
+Only one empty photorealistic adult LEFT HAND enters from the upper-left side, with its thumb clearly on the screen-right side.
+The empty left hand takes the glass chili flake jar directly from Tang Tang's two 2D hands, then exits completely through the upper-left side while carrying the jar.
+The left hand must never touch the spatula. The only spatula remains motionless inside the wok and must not duplicate.
+[00:03.8–00:05 — RIGHT HAND RETURNS AND USES THE SAME SPATULA]
+Confirm that the real left hand has completely disappeared.
+The same photorealistic right hand returns from the bottom-right corner, with its thumb still on the screen-left side. It picks up the same spatula that was previously placed inside the wok.
+The right hand lifts this single spatula from the wok toward Tang Tang's head along one continuous trajectory. Once the spatula has left the wok, no second spatula or spatula-shaped utensil may remain inside the wok.
+The right hand gives Tang Tang an impossibly light, harmless cartoon tap on the top of her head using the flat side of the same spatula, then returns that same spatula to the wok.
+With a "DUANG" sound, a flat red cartoon bump pops onto Tang Tang's head. Her paper body bounces vertically once, her eyes open wide, and her two 2D hands hold her head.
+Only the right hand is visible. The left hand is absent.
+Audio: a light metallic "DUANG" and one cartoon spring sound.
+[00:05–00:08 — RIGHT HAND FEEDS TANG TANG]
+Only the same photorealistic right hand and the same single spatula remain visible.
+Tang Tang's eyes become flat spiral cartoon eyes. Two bright blue, flat 2D sticker fountains of tears shoot sideways from her eyes.
+The right hand uses the same spatula to scoop a small bite of beef and vegetables from the same red mound of chili flakes. It brings the food toward Tang Tang's open cartoon mouth.
+The food harmlessly pops into her mouth with a soft cartoon "boop." Her cheeks immediately inflate into two round, flat sticker balloons, now tinted a warm red-orange.
+The interaction is absurd and harmless. Do not depict force, choking, injury, burning, or realistic suffering.
+Audio: exaggerated cartoon crying, the spatula scraping over the flakes, and a soft "boop."
+[00:08–00:10 — TOO SPICY, MELTDOWN]
+Tang Tang swallows the bite.
+Her flat body instantly flushes a glowing red-orange, freezes for half a beat, and her eyes become two flat spiral heat-dazed swirls.
+A single flat 2D sticker flame pops from her open mouth like a tiny cartoon dragon breath, and two curls of flat white steam puff from her ears.
+She tips backward off the same wooden stool like a lightweight sheet of paper, short limbs briefly pointing upward, one flat sticker hand still fanning her open mouth.
+A ring of flat cartoon red chili peppers rotates around the red bump, and a thin curl of flat orange-tinted steam rises from her nose.
+Her round head, high pigtails, bangs, striped top, pink pinafore apron, teal overalls, white canvas shoes, and round tummy remain consistent while she falls.
+Freeze clearly on the final punchline for the last 0.3 seconds.
+Audio: a short sizzling gasp, a soft paper-like "thud," and a silly descending whistle sound.
+[CONTINUITY AND EXCLUSIONS]
+Treat every timestamp as part of one uninterrupted continuous shot.
+The same red mound of chili flakes and the same wok of food must remain present and evolve continuously across the entire video. Maintain the same character size, compositing layer, kitchen layout, and screen geography.
+The entire video must contain exactly:
+One Tang Tang
+One wooden stool
+One black wok
+One glass chili flake jar
+One wooden-handled metal spatula
+No more than one real human hand may appear in any frame.
+Absolutely no simultaneous left and right hands, same-direction hands, two right hands, two left hands, mirrored hands, duplicated arms, extra palms, second spatula, duplicated utensils, spatula remaining in the wok while another spatula is in the air, left hand stir-frying, right hand taking the chili flake jar, left hand touching the spatula, or real human hands helping Tang Tang pour chili flakes.</code></pre>
+
+</details>
+
+## Strawberry & Whipped Cream ASMR Video
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082437584773656759)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1838](https://imglume.com/prompt/1838)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/76b8bae8-2ab2-4fa0-8f30-f9ef68ca6772/fe48100e-6cf8-49ea-a5c3-7e4eb015f7e9-1785357394672 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, soft makeup, and smile consistently throughout every shot. Dress her in a cute pink ribbed crop top and a white pleated skirt. The setting is a cozy bedroom with soft white bedding, warm ambient lamps, fairy lights, and a wooden serving tray placed on the bed. Throughout the video, animate playful hand-drawn white doodles beside each action that naturally fade away. No subtitles, logos, or watermarks.
+
+The video opens with a cinematic close-up of her smiling directly at the camera while holding a wicker basket filled with fresh strawberries. She gently tilts the basket toward the viewer.
+
+Doodles: "HELLO!", "FRESH!", hearts, sparkles.
+
+She gently places the strawberries into a crystal glass bowl filled with water and slowly washes them with her fingertips. Macro shots capture water droplets splashing and strawberries glistening under warm light.
+
+Doodles: "SPLASH!", "CLEAN!", water droplets.
+
+She sprays a generous swirl of whipped cream onto a ceramic plate. The cream forms soft, fluffy peaks while the camera captures slow-motion macro details.
+
+Doodles: "SOFT!", "WOW!", stars.
+
+She slowly dips a fresh strawberry into the whipped cream, rotating it gently until it's fully coated. Extreme macro shots highlight the creamy texture and glossy strawberry surface.
+
+Doodles: "DIP!", "CREAMY!", arrows.
+
+She lifts the coated strawberry toward her lips and takes one slow, satisfying bite. The whipped cream softly compresses while the strawberry releases a juicy crunch. The camera focuses on the rich textures and her subtle smile.
+
+Doodles: "YUM!", "MMM!", hearts and sparkles.
+
+Final hero shot showing the wooden tray with the basket of strawberries, whipped cream, and ceramic plate beautifully arranged. She smiles warmly, gives a thumbs-up toward the camera, then picks up another strawberry as the camera slowly pushes in on the dessert.
+
+Doodles: "PERFECT!", "ENJOY!", "BEST!", sparkles and hearts.
+
+Audio: Pure ASMR only—basket handling, strawberries dropping into water, gentle splashes, whipped cream spray, strawberry dipping, juicy bite, soft chewing, ceramic plate taps, fabric rustling, quiet bedroom ambience, and gentle breathing. No music, no dialogue, no subtitles, no logos, no watermarks. Premium food commercial cinematography, ultra-realistic macro close-ups, shallow depth of field, photorealistic textures, cinematic warm lighting, 4K HDR, 16 :9, 24 fps.</code></pre>
+
+</details>
 
 ## Ultra-realistic Chocolate & Marshmallow ASMR Commercial
 

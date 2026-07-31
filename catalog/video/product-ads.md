@@ -1,9 +1,70 @@
 # Product Ads video prompts
 
-15 source-linked prompts, newest ImgLume records first.
+17 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 45-second 3D Pixar-style animated commercial for GLOWDROP liquid blush
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2082789689766162741)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `product-ads`
+- **ImgLume record:** [1893](https://imglume.com/prompt/1893)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dc37a86d-f7bb-44c5-b8ef-702d5dbc6698/dc51b1dd-0baf-47d9-9275-7f02e7137481-1785415457256 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 45-second 3D Pixar-style animated commercial for GLOWDROP – 24-Hour Liquid Blush in a vertical smartphone format. Use bright, colorful visuals with expressive cartoon characters, smooth exaggerated animation, cinematic lighting, and dynamic camera movements. The story takes place in a cozy apartment bathroom during a warm morning. Zara, a young woman in pajamas and a satin robe, panics after seeing a notification that her first date is in 20 minutes. Her regular powder blush fades instantly, leaving her frustrated, while her roommate's fluffy white Pomeranian, Milo, silently watches with hilarious judgmental reactions. After desperately searching through makeup, Zara discovers the glowing GLOWDROP bottle. She applies two dots, instantly revealing a radiant, long-lasting flush that transforms her confidence. A fast-paced montage shows her finishing her look, confidently heading out, and impressing her waiting date, while Milo proudly follows along. End with a clean hero product shot of the rotating GLOWDROP bottle against a soft pink background with the tagline: "GLOWDROP — Blush That Doesn't Quit." Keep the tone playful, relatable, and comedy-driven, featuring expressive character animation, internet-style humor, glowing beauty visuals, and Milo's silent reactions as the scene-stealing sidekick.</code></pre>
+
+</details>
+
+## Luxury Emerald Necklace Commercial Storyboard
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2082667261718872509)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1864](https://imglume.com/prompt/1864)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/779fda11-4e63-464c-92ec-7e52cfd98c28/f81ac2bd-fd58-4d38-ae47-2fda841f3ea4-1785400664816 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/779fda11-4e63-464c-92ec-7e52cfd98c28/c0fa0e8e-006c-40dd-bb66-bf176f97b43f-1785400664816 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>TITLE: Luxury Emerald Necklace Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait ratio
+• Editorial presentation board
+• 8 cinematic frames arranged in a clean luxury grid
+• Ultra-high-resolution, 8K
+
+HEADER:
+• Elegant serif typography
+• White, emerald green, champagne gold, and black luxury palette
+• Premium information cards
+• Luxury jewelry icons
+• Section: "Why This Style Works"
+
+STORYBOARD SCENES:
+1. A handcrafted emerald necklace resting inside an elegant velvet jewelry box on polished black marble under a dramatic spotlight.
+2. The jewelry box slowly opening as warm golden light reveals the brilliant emerald necklace.
+3. Extreme macro close-up of the emerald gemstone and diamond accents with breathtaking clarity, crystal reflections, and luxurious sparkle.
+4. A graceful woman preparing for an exclusive gala, delicately lifting the necklace from the box.
+5. The emerald necklace being elegantly fastened around her neck, emphasizing craftsmanship and sophistication.
+6. Emotional cinematic close-up highlighting the necklace glowing against flawless skin with soft luxury lighting.
+7. High-fashion editorial portrait featuring the model in an elegant couture gown, with the emerald necklace as the unmistakable focal point.
+8. Hero product shot of the emerald necklace displayed on a glossy black reflective pedestal surrounded by floating emerald particles, subtle golden dust, dramatic rim lighting, and premium luxury branding composition.
+
+STYLE:
+Inspired by world-class luxury jewelry campaigns, premium fashion editorial, soft cinematic lighting, refined elegance, crystal-clear gemstone reflections, ultra-realistic textures, shallow depth of field, award-winning commercial photography, luxury branding aesthetic, 8K masterpiece.</code></pre>
+
+</details>
 
 ## Cinematic product ad video of tennis serve with brand logo formation
 

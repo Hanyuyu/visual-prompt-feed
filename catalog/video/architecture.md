@@ -1,9 +1,26 @@
 # Architecture video prompts
 
-2 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic architectural presentation of SAHARA DUNE METROPOLIS
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2082398121800409240)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `architecture`
+- **ImgLume record:** [1831](https://imglume.com/prompt/1831)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/99a2daa7-238b-47bb-afaf-5a7a1fe86061/fc0bf905-7236-49c0-b0ce-a487c4a0d4a0-1785348977967 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic architectural presentation of "SAHARA DUNE METROPOLIS," a self-sustaining futuristic desert city inspired by flowing sand dunes. Begin with a detailed film set design board showcasing hero perspectives, architectural sections, passive cooling systems, water harvesting, greenhouse districts, master plan, material palette, storyboard panels, and cinematic lighting notes. Transition into a smooth 3D aerial flyover revealing organic dune-inspired architecture, solar-panel rooftops, iconic wind absorption towers, lush oasis courtyards with palm trees and reflective pools, all illuminated by warm golden-hour sunlight with realistic shadows, ultra-detailed textures, photorealistic rendering, and an epic, serene sci-fi atmosphere.</code></pre>
+
+</details>
 
 ## 15-second seamless architectural space renovation animation
 

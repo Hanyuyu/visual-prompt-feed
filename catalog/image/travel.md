@@ -1,9 +1,30 @@
 # Travel image prompts
 
-5 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic luxury travel portrait of a beautiful East Asian woman at a Buddhist temple
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2082434661515751620)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [1828](https://imglume.com/prompt/1828)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/01ad4a7a-b914-4d74-b267-59754d0136f8/e06ed473-3b38-4d2e-ab32-2070999f3c7c-1785346868713 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/01ad4a7a-b914-4d74-b267-59754d0136f8/deacf765-a5a0-4e2a-a870-c1e73524c0ea-1785346868713 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic luxury travel portrait of an extraordinarily beautiful young East Asian woman seated elegantly on the ancient stone steps of a magnificent centuries-old Buddhist temple. She turns gracefully over her shoulder toward the camera with an irresistible, mysterious gaze that instantly commands attention and creates a powerful stop-scrolling moment. Her expression is calm, confident, and effortlessly magnetic, making viewers pause at first glance.
+Her flawless porcelain skin glows with a luminous golden sun-kissed radiance, featuring incredibly realistic skin texture, delicate natural blush, glossy soft rose lips, a refined nose, perfectly shaped eyebrows, and mesmerizing deep dark brown eyes with sparkling cinematic catchlights that create an unforgettable emotional connection. Loose silky chestnut-brown strands dance gently around her face while an elegant updo is adorned with intricate golden floral ornaments, adding timeless sophistication.
+She wears an exquisite off-the-shoulder black luxury gown inspired by traditional Asian fashion, richly embroidered with deep crimson, burgundy, and antique gold floral beadwork that shimmers beautifully in the sunlight. A flowing premium batik-patterned silk wrap drapes elegantly across her lap, creating graceful movement and rich texture.
+The background showcases breathtaking ancient volcanic-stone architecture, dramatic temple walls, weathered stone staircases, and towering sacred structures, creating an epic historical atmosphere. Warm golden sunlight pours across the scene, producing cinematic highlights, soft shadows, and extraordinary depth while preserving realistic colors and textures.
+Captured from a slightly low angle using a full-frame mirrorless camera with an 85mm f/1.4 portrait lens, ultra-shallow depth of field, razor-sharp focus on the eyes, creamy background bokeh, natural HDR lighting, luxury editorial composition, Vogue meets National Geographic travel photography, premium fashion campaign quality, hyper-realistic, photorealistic, ultra-detailed skin pores, lifelike fabric textures, cinematic color grading, award-winning composition, breathtaking visual storytelling, premium luxury aesthetic, Instagram and X viral quality, scroll-stopping masterpiece, 8K, HDR, Unreal Engine realism, no text, no watermark, no logo, no blur, no distortion.</code></pre>
+
+</details>
 
 ## Natalia Dyer portrait on Mediterranean stone path
 

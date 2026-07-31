@@ -1,9 +1,346 @@
 # Animation video prompts
 
-13 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Fox on Red Rooftop Animation Prompt
+
+- **Original source:** [@BODILUX36 on X](https://x.com/BODILUX36/status/2082682755901497847)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `animation`
+- **ImgLume record:** [1904](https://imglume.com/prompt/1904)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f7f49d1c-4413-452a-b49a-c34388e2bfc3/6db37ac4-7adb-47a6-8635-ca0ea2a647ae-1785429990009 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f7f49d1c-4413-452a-b49a-c34388e2bfc3/5db974d3-451c-458c-8990-35e5563f1961-1785429990009 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f7f49d1c-4413-452a-b49a-c34388e2bfc3/d5132cd1-1433-4a52-8edc-631919f91c6a-1785429990009 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>0-1.5 seconds: Medium-low angle shot. The fox stands still on the red concrete rooftop wearing a black hoodie with the hood fully up, face completely hidden in shadow. Only two intense glowing yellow-orange eyes shine from the darkness under the hood. Both hands grip the edges of the hood near his face. The red rooftop floor fills the lower frame while the glowing blue night city skyline stretches across the background. Fox is framed slightly higher than eye level.
+1.5-3.5 seconds: Slow, deliberate motion. The fox smoothly pulls the hood backward and down with both hands in one continuous fluid movement, fully revealing his head and face. Sharp orange fur, high cheekbones, sly half-closed glowing yellow eyes, and a confident mischievous smile appear as the hood drops onto his shoulders. Soft red light from the rooftop washes across his newly revealed face against the cool blue city lights behind him. Camera remains low, keeping him elevated in the frame.
+3.5-5 seconds: Hold on a clean medium close-up from the same slightly low angle. He stands tall and still on the red rooftop, looking straight forward with a calm, knowing smirk. Glowing yellow eyes stay bright and sharp. Subtle breathing and micro-movements in the fur. Dramatic red side lighting sculpts the contours of his face and ears while the neon city skyline remains softly blurred in the background.
+5-6.5 seconds: The fox begins to move his left arm. Smooth, controlled motion as he raises his left hand from his side, bringing it forward and slightly upward toward the camera in a deliberate reaching/grabbing gesture. Fingers start to open and extend. Body remains grounded and stable on the red concrete rooftop, weight still on both feet. Expression stays sly and focused. Low camera angle continues to make him appear a little higher.
+6.5-8 seconds: Final held pose. Left hand is fully extended forward toward the lens in a clear grabbing motion, palm open, fingers spread and sharp. Face still fully visible with glowing yellow eyes and the same subtle smirk. Camera holds steady from the slightly low angle on the fox standing firmly on the red rooftop under strong red lighting, with the glowing blue night city skyline behind him. Ultra-sharp focus on the hand, face, fur, and red concrete floor until the end.</code></pre>
+
+</details>
+
+## Anime-style countryside cooking montage
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2082825904812913139)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [1903](https://imglume.com/prompt/1903)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37242b78-9d5d-420c-b8ad-44a924c22a1e/340c029c-ef99-437a-a245-72c022dd1c95-1785427875324 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A fast-paced anime-style countryside cooking montage set in a hidden meadow surrounded by rolling hills, wildflowers, and a cozy old wooden cottage. The video shows every cooking action in sequence with smooth cinematic transitions. A young cook gathers fresh eggs from a small farm coop, picks fragrant herbs and colorful vegetables from the garden, and collects fresh spring water. Quick close-up shots show ingredients being washed, chopped, herbs crushed with a stone mortar, and dough being prepared on a rustic wooden table. A stone fire pit burns as a copper pot simmers with a rich homemade sauce, vegetables are sautéed in a pan, and warm bread is sliced with steam rising from the fresh meal. The finished countryside dish is beautifully arranged on handmade ceramic plates beside a glass jar of fresh fruit juice. Final shot reveals the peaceful meadow landscape, golden sunlight, gentle wind moving through the grass, and a cozy anime cooking atmosphere. Fast cinematic cuts, smooth camera movements, vibrant colors, soft natural lighting, highly detailed anime visuals, tranquil yet energetic feeling, masterpiece quality, 4K.</code></pre>
+
+</details>
+
+## Live-action cooking vlog with flat 2D chibi raccoon sticker Solka
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2082790104771473775)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [1899](https://imglume.com/prompt/1899)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f610f222-119e-4692-a43c-f1086db894d5/1795f205-d108-4c73-92d7-447e32555f0c-1785419472773 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Live-action + flat 2D sticker composite, POV cooking vlog, vertical 9:16, 10 seconds, 8K, light handheld micro-shake. Realistic kitchen + funny flat sticker character.
+Scene: Home kitchen from first-person perspective. Beef and greens are frying in a black pan, oil sizzles, steam rises. White tiles, sauce bottles, sink on the right, side daylight.
+Character: Little chibi raccoon Solka as a flat 2D sticker: gray-blue fur, dark mask around eyes, striped tail, big red bow, round black glasses, yellow dress, red shoes. Thick outline, paper texture, colored pencil style. Sitting on a small stool by the stove.
+00:00–00:03 — Salty Avalanche
+Real hand stirs meat with a spatula. Solka smiles cunningly and pours a whole jar of salt into the pan. Salt falls like a waterfall, forming a white mound.
+SFX: sizzling, salt pouring.
+00:03–00:05 — Oops
+Hand takes the jar away, next to her head the spatula makes a comical "BONK!". Glasses slide down, tail stands on end, Solka jumps.
+SFX: bonk, cartoon spring.
+00:05–00:08 — Salty Payback
+Solka tastes the oversalted food. Cheeks puff up, eyes become spirals, cartoon tears spray from eyes.
+SFX: crunch, pause, exaggerated crying.
+00:08–00:10 — Salty K.O.
+She swallows, eyes turn into Xs, falls off the stool like a paper sticker. Stars around head, final freeze-frame.
+SFX: croak, soft thud, funny spirit sound.
+Negative prompt: 3D raccoon, realistic fur, redesign, extra limbs, deformed hands, morphing, flicker, blur, fake salt physics, gore, subtitles, watermark, UI.</code></pre>
+
+</details>
+
+## 45-second 3D Pixar-style animated commercial for GLOWDROP liquid blush
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2082789689766162741)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `product-ads`
+- **ImgLume record:** [1893](https://imglume.com/prompt/1893)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dc37a86d-f7bb-44c5-b8ef-702d5dbc6698/dc51b1dd-0baf-47d9-9275-7f02e7137481-1785415457256 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 45-second 3D Pixar-style animated commercial for GLOWDROP – 24-Hour Liquid Blush in a vertical smartphone format. Use bright, colorful visuals with expressive cartoon characters, smooth exaggerated animation, cinematic lighting, and dynamic camera movements. The story takes place in a cozy apartment bathroom during a warm morning. Zara, a young woman in pajamas and a satin robe, panics after seeing a notification that her first date is in 20 minutes. Her regular powder blush fades instantly, leaving her frustrated, while her roommate's fluffy white Pomeranian, Milo, silently watches with hilarious judgmental reactions. After desperately searching through makeup, Zara discovers the glowing GLOWDROP bottle. She applies two dots, instantly revealing a radiant, long-lasting flush that transforms her confidence. A fast-paced montage shows her finishing her look, confidently heading out, and impressing her waiting date, while Milo proudly follows along. End with a clean hero product shot of the rotating GLOWDROP bottle against a soft pink background with the tagline: "GLOWDROP — Blush That Doesn't Quit." Keep the tone playful, relatable, and comedy-driven, featuring expressive character animation, internet-style humor, glowing beauty visuals, and Milo's silent reactions as the scene-stealing sidekick.</code></pre>
+
+</details>
+
+## Celestial Warrior Combat Dance
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2082761095538790899)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [1890](https://imglume.com/prompt/1890)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5ab4761-93f4-4b03-9cea-0941dff25ed4/08c7d59f-4fd2-4ce8-b871-ef46f255c3f3-1785413249635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Inside an enormous ancient temple with towering stone pillars, cracked marble floors, floating dust particles, and powerful beams of sunlight streaming through the ceiling, a beautiful young female martial artist wearing an elegant flowing pink hanfu-inspired combat dress performs an extraordinary combat dance.
+
+The sequence opens with an ultra-wide cinematic shot as she glides gracefully across the polished stone floor. Her silk sleeves and layered skirt flow naturally with every movement while the camera circles her in a smooth 360-degree motion.
+
+She suddenly launches into an acrobatic spinning kick, flipping through the air with flawless martial arts precision. The camera switches to an extreme low-angle shot emphasizing her height and power as her dress ripples realistically.
+
+The action transitions into dramatic slow motion as she lands softly before instantly accelerating into rapid spinning footwork. Every movement creates realistic cloth simulation, subtle dust bursts, and perfectly synchronized body mechanics.
+
+She leaps high beneath a brilliant shaft of heavenly light. The camera follows from below while volumetric lighting surrounds her, creating an angelic silhouette. Her expression remains calm, focused, and fearless.
+
+As she begins rotating in midair, glowing golden energy ribbons emerge around her body, spiraling outward like magical dragon-shaped currents. Sparks, floating embers, and swirling particles react naturally to her motion.
+
+The camera pulls back into a breathtaking wide shot as the golden energy tornado expands across the temple floor, illuminating the ancient architecture with warm orange reflections. Dust rises naturally while light scatters realistically through the atmosphere.
+
+The final moment freezes in epic slow motion as she floats gracefully at the center of the glowing spiral beneath the heavenly beam, surrounded by rotating rings of golden energy. The camera slowly cranes upward, revealing the magnificent temple from above before fading to black.</code></pre>
+
+</details>
+
+## Oliver the Teddy Bear Adventure
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2082665116244627798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [1872](https://imglume.com/prompt/1872)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9cc89b1a-74c0-49ae-8a5e-6f64aef3d815/d1369c35-b861-446d-8b7f-41ba1e2fd31b-1785400720143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-speed action montage. Oliver jumps off the moving train onto hanging gift ribbons, swinging across the aisle. Fast rotating camera follows him weaving through floating balloons. Rex accidentally crashes through stacked toy boxes, causing colorful blocks to rain everywhere. Oliver slides beneath a closing display shelf in slow motion. Bolt races beside him before launching him off a miniature toy ramp. FPV-style camera flies alongside Oliver as he narrowly avoids spinning helicopters and bouncing rubber balls. Titan-X extends a mechanical arm, catching Oliver just before he falls from a high shelf. Cinematic top-down shot reveals the giant locked entrance doors. Oliver runs with everything he has, but the automatic doors refuse to open. Extreme close-up of his tiny paw pressing against the cold glass. Outside, the first rays of sunrise begin to appear.</code></pre>
+
+</details>
+
+## Oliver the Teddy Bear Adventure
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2082665116244627798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [1869](https://imglume.com/prompt/1869)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/163a5f5a-dd97-478f-986c-cd91e15190b0/ee5d3e77-65fa-425e-b2c5-710104fa8d02-1785400720143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Soft emotional piano begins. Low-angle shot of Oliver sitting sadly near the entrance as the toys quietly watch from behind. Suddenly, a restocking employee pushes Mr. Wheels, the shopping cart, through the entrance. Dynamic tracking shot as Mochi nudges Oliver forward. Titan-X gently lifts him while Bolt gives one final speed boost. Oliver jumps through the air in beautiful slow motion, perfectly landing inside the shopping cart filled with new toys. Match cut to the toy display being restocked moments later. The store opens. Bright morning sunlight floods the entrance. Emma runs back inside with her mother. Handheld child-height camera follows her weaving through customers. She suddenly freezes, her eyes widening. Push-in on Oliver sitting exactly at the front of the display. "Mom! It's him!" She hugs Oliver tightly against her chest. Extreme close-up of Oliver's stitched smile as one tiny happy tear forms in his eye. The camera slowly cranes upward as Emma walks toward the glowing exit carrying Oliver. Warm golden sunlight fills the frame. Fade to white. Final Screen Text: "Some friendships are simply meant to be."</code></pre>
+
+</details>
+
+## Chili-Flake Chaos First-Person Cooking POV Video
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2082342525570879887)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1852](https://imglume.com/prompt/1852)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5ce76ef-ce74-45bb-a642-f6ab6f535d66/405320bb-2ca4-4cad-981b-ed6afcdd27b9-1785389095840 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[HIGHEST PRIORITY — STRICT HAND ROLES AND ORIENTATION]
+The hand roles must remain fixed throughout the video:
+The photorealistic adult RIGHT HAND is solely responsible for stir-frying and operating the one and only spatula.
+The photorealistic adult LEFT HAND is solely responsible for taking away the glass chili flake jar. The left hand must never touch the spatula.
+No more than one real human hand may be visible in any frame. The left and right hands must never appear simultaneously.
+The RIGHT HAND enters only from the bottom-right corner. Its wrist remains connected to the bottom-right edge of the frame, the back of the hand faces the camera, and its thumb is clearly positioned on the screen-left side, pointing toward the center. The right hand holds the only wooden-handled metal spatula in the entire video.
+The LEFT HAND enters only from the upper-left side. Its wrist remains connected to the upper-left edge of the frame, the back of the hand faces the camera, and its thumb is clearly positioned on the screen-right side, pointing toward the center. The left hand enters empty-handed and only takes the chili flake jar. It never holds a spatula, spoon, or other kitchen utensil.
+Use a strict relay sequence:
+00:00–00:03: only the spatula-holding right hand is visible.
+After the chili flake stream stops, the right hand places the only spatula flat inside the wok and completely leaves the frame.
+Only after the right hand has fully disappeared, from 00:03.2–00:03.8, the empty left hand enters, takes away the chili flake jar, and completely exits.
+Only after the left hand has fully disappeared may the right hand return at 00:03.8 and pick up the same spatula from the wok.
+Never show both hands simultaneously. No same-direction hands, mirrored hands, duplicated arms, floating hands, or extra palms.
+[FORMAT AND COMPOSITING STYLE]
+A 10-second, horizontal 16:9 comedy video in a single continuous photorealistic first-person cooking POV. Slight natural handheld movement only. No cuts and no transitions.
+Use a fixed widescreen composition:
+One black wok remains slightly left of center.
+Tang Tang and one small wooden stool remain on the right.
+Both the wok and Tang Tang remain fully visible without blocking each other.
+The kitchen, wok, glossy beef and vegetables, steam, chili flakes, glass chili flake jar, single spatula, wooden stool, condiment bottles, sink, window, and adult human hands must remain photorealistic and obey believable physical behavior.
+Tang Tang must remain a completely flat 2D chibi anime sticker throughout the video, with subtle crayon and paper grain, a clean dark-brown outline, and a complete white sticker border. She must have zero 3D volume, realistic skin, volumetric lighting, plastic depth, clay texture, or realistic cast shadow.
+[FIXED REAL KITCHEN]
+A lived-in, photorealistic home kitchen viewed slightly downward from the cook's eye level.
+The only black wok stays slightly left of center. Glossy beef and green vegetables sizzle inside it while natural steam rises. A white tiled wall and power outlet remain in the background. Soy sauce and cooking oil bottles stand against the wall. A stainless-steel sink is located in the rear-right area. Natural daylight enters through a side window.
+Maintain the same kitchen, camera position, 16:9 framing, geography, and left-right orientation throughout the entire video.
+[CHARACTER IDENTITY LOCK]
+Tang Tang is the only character.
+She is a young, energetic chibi sticker girl with two-head-tall proportions, an oversized round head, tiny limbs, and a small, soft round tummy.
+Her face is round, with big round sparkly eyes, rosy round cheeks, a small button nose, a cheerful gap-tooth grin, and a tiny freckle dot on each cheek. Her black hair is styled in two high bouncy pigtails held with bright yellow scrunchies, with short blunt bangs across her forehead.
+She wears:
+A mustard-yellow and white striped short-sleeve top
+A pastel-pink pinafore apron with a small fruit print
+Solid teal denim overall shorts
+White canvas slip-on shoes
+She has no text, numbers, logos, jewelry, or additional accessories beyond her hair scrunchies.
+Tang Tang remains seated on the single wooden stool beside the right side of the stove. Her height is approximately half the diameter of the wok. She behaves like a lightly elastic sheet of printed paper and may only squash or stretch in a flat cartoon manner.
+Her round head, high pigtails, bangs, striped top, pink pinafore apron, teal overalls, white canvas shoes, and round tummy must remain completely consistent throughout the pouring, reaction, crying, feeding, and collapsing actions.
+[00:00–00:03 — RIGHT HAND STIR-FRIES, TANG TANG POURS THE CHILI FLAKES]
+Only one photorealistic adult RIGHT HAND is visible.
+The right hand enters from the bottom-right corner, with its thumb on the screen-left side, and continuously holds the one and only wooden-handled metal spatula while stir-frying the beef and vegetables. It must never touch, support, cover, stabilize, or tilt the chili flake jar.
+Tang Tang makes a mischievous grin. Using her own two clearly visible 2D sticker hands, she independently hugs and lifts a photorealistic glass jar of dried red chili flakes larger than her head.
+Tang Tang personally raises, rotates, and tilts the jar toward the wok. The full weight and rotation of the jar are carried exclusively by her two 2D hands. A dense stream of realistic red chili flakes falls only from the opening of the jar held by Tang Tang and forms a visible red mound over the beef and vegetables.
+No real human fingers or hands may appear near the chili flake jar during this action.
+Audio: continuous food sizzling and a dry, papery stream of chili flakes pouring.
+[00:03–00:03.2 — RIGHT HAND LEAVES]
+The chili flake stream has completely stopped, and the red mound is clearly visible.
+The real right hand places the one and only spatula flat inside the wok, then completely exits through the bottom-right edge.
+At this moment, no real human hand is visible. The only spatula remains motionless inside the wok.
+[00:03.2–00:03.8 — LEFT HAND ALONE TAKES THE CHILI FLAKE JAR]
+Confirm that the real right hand has completely disappeared.
+Only one empty photorealistic adult LEFT HAND enters from the upper-left side, with its thumb clearly on the screen-right side.
+The empty left hand takes the glass chili flake jar directly from Tang Tang's two 2D hands, then exits completely through the upper-left side while carrying the jar.
+The left hand must never touch the spatula. The only spatula remains motionless inside the wok and must not duplicate.
+[00:03.8–00:05 — RIGHT HAND RETURNS AND USES THE SAME SPATULA]
+Confirm that the real left hand has completely disappeared.
+The same photorealistic right hand returns from the bottom-right corner, with its thumb still on the screen-left side. It picks up the same spatula that was previously placed inside the wok.
+The right hand lifts this single spatula from the wok toward Tang Tang's head along one continuous trajectory. Once the spatula has left the wok, no second spatula or spatula-shaped utensil may remain inside the wok.
+The right hand gives Tang Tang an impossibly light, harmless cartoon tap on the top of her head using the flat side of the same spatula, then returns that same spatula to the wok.
+With a "DUANG" sound, a flat red cartoon bump pops onto Tang Tang's head. Her paper body bounces vertically once, her eyes open wide, and her two 2D hands hold her head.
+Only the right hand is visible. The left hand is absent.
+Audio: a light metallic "DUANG" and one cartoon spring sound.
+[00:05–00:08 — RIGHT HAND FEEDS TANG TANG]
+Only the same photorealistic right hand and the same single spatula remain visible.
+Tang Tang's eyes become flat spiral cartoon eyes. Two bright blue, flat 2D sticker fountains of tears shoot sideways from her eyes.
+The right hand uses the same spatula to scoop a small bite of beef and vegetables from the same red mound of chili flakes. It brings the food toward Tang Tang's open cartoon mouth.
+The food harmlessly pops into her mouth with a soft cartoon "boop." Her cheeks immediately inflate into two round, flat sticker balloons, now tinted a warm red-orange.
+The interaction is absurd and harmless. Do not depict force, choking, injury, burning, or realistic suffering.
+Audio: exaggerated cartoon crying, the spatula scraping over the flakes, and a soft "boop."
+[00:08–00:10 — TOO SPICY, MELTDOWN]
+Tang Tang swallows the bite.
+Her flat body instantly flushes a glowing red-orange, freezes for half a beat, and her eyes become two flat spiral heat-dazed swirls.
+A single flat 2D sticker flame pops from her open mouth like a tiny cartoon dragon breath, and two curls of flat white steam puff from her ears.
+She tips backward off the same wooden stool like a lightweight sheet of paper, short limbs briefly pointing upward, one flat sticker hand still fanning her open mouth.
+A ring of flat cartoon red chili peppers rotates around the red bump, and a thin curl of flat orange-tinted steam rises from her nose.
+Her round head, high pigtails, bangs, striped top, pink pinafore apron, teal overalls, white canvas shoes, and round tummy remain consistent while she falls.
+Freeze clearly on the final punchline for the last 0.3 seconds.
+Audio: a short sizzling gasp, a soft paper-like "thud," and a silly descending whistle sound.
+[CONTINUITY AND EXCLUSIONS]
+Treat every timestamp as part of one uninterrupted continuous shot.
+The same red mound of chili flakes and the same wok of food must remain present and evolve continuously across the entire video. Maintain the same character size, compositing layer, kitchen layout, and screen geography.
+The entire video must contain exactly:
+One Tang Tang
+One wooden stool
+One black wok
+One glass chili flake jar
+One wooden-handled metal spatula
+No more than one real human hand may appear in any frame.
+Absolutely no simultaneous left and right hands, same-direction hands, two right hands, two left hands, mirrored hands, duplicated arms, extra palms, second spatula, duplicated utensils, spatula remaining in the wok while another spatula is in the air, left hand stir-frying, right hand taking the chili flake jar, left hand touching the spatula, or real human hands helping Tang Tang pour chili flakes.</code></pre>
+
+</details>
+
+## Cinematic underwater mermaid animation video
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2082439952659619978)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [1842](https://imglume.com/prompt/1842)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bef3fec-53b9-4e7c-815c-57e50a035336/fbd8638f-5ce4-4ab0-9e74-ce8e5148ab5f-1785361593702 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8bef3fec-53b9-4e7c-815c-57e50a035336/d631f5b0-2d95-4825-8c14-a7f3563d25e5-1785361593702 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>2️⃣video prompt:
+
+Cinematic underwater ocean epic, one continuous unbroken take, 15 seconds, constant forward propulsion, no pauses, no ending shot, no surfacing to a final pose.
+
+Character (keep consistent in every frame):
+A young mermaid named Nereid, gentle and curious expression, pale ice-blue eyes, extremely long flowing cyan-to-turquoise hair that streams behind her in the current. She has translucent lavender-pink webbed fin-ears framing her face and a delicate pale coral crown of thin spines above her brow. She wears a scalloped shell bandeau top with a blue-to-lavender iridescent gradient and a soft peach starfish ornament at the center, strands of small white pearls across the collarbone, sheer detached arm-veils of pale aqua gossamer, and a translucent frilled hip skirt of layered ice-blue and lavender chiffon with pearl chains and a peach starfish clasp at the small of her back. Her tail is cobalt-to-turquoise fish scales dusted with pearlescent highlights and a diagonal line of pearls along the hip, ending in enormous translucent gossamer flukes in pale aqua and white that ripple like silk. Palette locked to cobalt blue, turquoise, pale ice blue, soft lavender, pearl white, faint peach.
+Beat 1 (0.0s to 2.5s): Open already in motion. Camera glides through sunlit upper ocean as a colossal blue whale slides into frame from below, filling the screen. Nereid pulls alongside its eye, one hand brushing its skin, then kicks hard and accelerates. Dozens of blue whales, humpbacks and orcas stretch into the blue distance in a vast migrating column. Camera: fast tracking shot beside her, wide lens, god-rays lancing down from the surface.
+
+Beat 2 (2.5s to 5.5s): She weaves between the whales' bodies and under a humpback's outstretched pectoral fin. A humpback breaches far above, its silhouette punching through the surface in a curtain of white bubbles and refracted light. Pods of dolphins spiral around her, manta rays glide overhead like slow shadows, dense schools of glowing silver fish split and reform around her body. Camera: barrel-rolling follow shot, bubbles streaking past the lens, caustic light patterns rippling across every surface.
+
+Beat 3 (5.5s to 8.5s): The column descends into a luminous coral kingdom: towering coral spires in violet, rose and gold, giant clams, anemone fields swaying in the current. The whales pass over an ancient sunken shipwreck, broken masts furred with coral, and the pod threads through a deep undersea canyon of sheer rock walls. Nereid dives through a shattered porthole and out the other side without losing speed. Camera: rapid dolly through the wreck interior, then bursting out into open blue.
+
+Beat 4 (8.5s to 11.5s): She catches a fast current and rockets forward, hair and flukes snapping in the flow. The pod passes through a glowing jellyfish forest, thousands of bioluminescent bells pulsing soft blue and violet, then through a colossal natural stone arch on the seafloor, then along a flowing kelp forest whose blades part around the whales. New sea life keeps joining the procession: sea turtles, whale sharks, luminous squid. Camera: sweeping crane-style descent revealing the full scale of the migrating column against a fading abyssal gradient.
+
+Beat 5 (11.5s to 15.0s): The ocean opens into an immense deeper blue. The whales sing, bubbles rising in vast columns. More and more creatures stream in from every direction until the entire sea becomes one grand living procession, light beams thinning as the pod pushes toward the far horizon. Nereid swims forward beside the largest whale, looking ahead, never back. Camera continues tracking behind and slightly above her as the pod recedes into infinite blue, still moving as the frame ends. No fade, no freeze, no stop.
+
+Style and technical:
+Anime-influenced cinematic CG, high-budget feature film underwater quality. Luminous cool palette of cobalt, turquoise, aquamarine and pearl white with lavender and warm gold accents from sunlight. Volumetric god-rays, dense caustics, floating marine particulate, drifting bubble trails, soft depth haze that stacks scale layer by layer. Realistic water physics on hair, chiffon veils and translucent flukes with subsurface scattering. Dreamlike, healing, awe-struck tone with continuous fluid motion and constantly changing seascapes. Reference feel of Avatar: The Way of Water underwater photography and Moana ocean spectacle. 24fps cinematic shutter, anamorphic widescreen framing, subtle motion blur on all fast elements, crisp detail on scales, pearls and coral texture throughout.
+
+Negative: static camera, empty water, murky or desaturated grade, harsh darkness, human legs, extra limbs, warped hands, text or watermarks, cut to black, slow motion ending, character floating still, hair or tail color drift, dry land, above-water finale.
+Optional audio prompt:
+Deep whale song layered under a swelling orchestral score, strings and soft choir, muffled underwater ambience, rushing current, bubble hiss, distant sonar-like tones, building to a wide open crescendo that keeps expanding and never resolves.</code></pre>
+
+</details>
+
+## Strawberry & Whipped Cream ASMR Video
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082437584773656759)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [1838](https://imglume.com/prompt/1838)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/76b8bae8-2ab2-4fa0-8f30-f9ef68ca6772/fe48100e-6cf8-49ea-a5c3-7e4eb015f7e9-1785357394672 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, skin tone, body proportions, soft makeup, and smile consistently throughout every shot. Dress her in a cute pink ribbed crop top and a white pleated skirt. The setting is a cozy bedroom with soft white bedding, warm ambient lamps, fairy lights, and a wooden serving tray placed on the bed. Throughout the video, animate playful hand-drawn white doodles beside each action that naturally fade away. No subtitles, logos, or watermarks.
+
+The video opens with a cinematic close-up of her smiling directly at the camera while holding a wicker basket filled with fresh strawberries. She gently tilts the basket toward the viewer.
+
+Doodles: "HELLO!", "FRESH!", hearts, sparkles.
+
+She gently places the strawberries into a crystal glass bowl filled with water and slowly washes them with her fingertips. Macro shots capture water droplets splashing and strawberries glistening under warm light.
+
+Doodles: "SPLASH!", "CLEAN!", water droplets.
+
+She sprays a generous swirl of whipped cream onto a ceramic plate. The cream forms soft, fluffy peaks while the camera captures slow-motion macro details.
+
+Doodles: "SOFT!", "WOW!", stars.
+
+She slowly dips a fresh strawberry into the whipped cream, rotating it gently until it's fully coated. Extreme macro shots highlight the creamy texture and glossy strawberry surface.
+
+Doodles: "DIP!", "CREAMY!", arrows.
+
+She lifts the coated strawberry toward her lips and takes one slow, satisfying bite. The whipped cream softly compresses while the strawberry releases a juicy crunch. The camera focuses on the rich textures and her subtle smile.
+
+Doodles: "YUM!", "MMM!", hearts and sparkles.
+
+Final hero shot showing the wooden tray with the basket of strawberries, whipped cream, and ceramic plate beautifully arranged. She smiles warmly, gives a thumbs-up toward the camera, then picks up another strawberry as the camera slowly pushes in on the dessert.
+
+Doodles: "PERFECT!", "ENJOY!", "BEST!", sparkles and hearts.
+
+Audio: Pure ASMR only—basket handling, strawberries dropping into water, gentle splashes, whipped cream spray, strawberry dipping, juicy bite, soft chewing, ceramic plate taps, fabric rustling, quiet bedroom ambience, and gentle breathing. No music, no dialogue, no subtitles, no logos, no watermarks. Premium food commercial cinematography, ultra-realistic macro close-ups, shallow depth of field, photorealistic textures, cinematic warm lighting, 4K HDR, 16 :9, 24 fps.</code></pre>
+
+</details>
 
 ## Dynamic swordswoman battle scene with dragon energy
 

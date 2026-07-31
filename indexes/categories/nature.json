@@ -3,12 +3,13 @@
   "facet": "category",
   "value": "nature",
   "label": "Nature",
-  "count": 1,
+  "count": 2,
   "mediaTypes": {
     "image": 0,
-    "video": 1
+    "video": 2
   },
   "ids": [
-    "byradar:2081262542878597242:0"
+    "byradar:2081262542878597242:0",
+    "byradar:2082439846526595390:0"
   ]
 }
