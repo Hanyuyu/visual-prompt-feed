@@ -1,9 +1,43 @@
 # Travel image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+8 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Red-haired traveler in historic European town
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2083177697493086525)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `travel`
+- **ImgLume record:** [1969](https://imglume.com/prompt/1969)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cfe653dc-6d2e-4a98-a5c4-0e0065d4087e/9e26ae2e-c690-47c4-8a51-d9ff54ee202e-1785513259567 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A medium shot capturing a young woman with vibrant red hair styled in a side braid, wearing a rust-colored dress and a cream-colored cardigan, standing outdoors on a cobblestone street in a historic European town. She leans casually against an old stone wall covered in green ivy, holding a leather-bound notebook and a pen in her hands, with a vintage pocket watch necklace around her neck. The background features narrow, sunlit historic buildings with balconies decorated with potted flowers, and a few blurred pedestrians walking along the street near a small cart displaying pottery items. The scene is illuminated by soft daytime sunlight, creating a warm, nostalgic, and picturesque atmosphere.</code></pre>
+
+</details>
+
+## Ultra-realistic travel portrait of East Asian woman at hot air balloon festival
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2083076046673383837)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [1965](https://imglume.com/prompt/1965)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7f991c08-4949-4047-85c5-a5029de44c42/9b31784e-c19d-4e61-8c68-b2214b9df274-1785513226197 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7f991c08-4949-4047-85c5-a5029de44c42/d374a103-c909-4de3-b89c-7289a08d1355-1785513226197 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7f991c08-4949-4047-85c5-a5029de44c42/7ed4307a-a1a5-4386-a588-600f1955b6b7-1785513226197 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/7f991c08-4949-4047-85c5-a5029de44c42/d91bd6f0-4290-4f14-8d77-a1a88ac053ec-1785513226197 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An ultra-realistic travel portrait of a charming young East Asian woman enjoying a lively hot air balloon festival on a warm summer evening. She has long, smooth chestnut-brown hair gently swaying in the breeze, luminous fair skin with a natural glow, soft blush across her cheeks, expressive hazel-brown eyes, delicate everyday makeup, and naturally glossy rose-colored lips. She is dressed in a fashionable light blue denim playsuit with rolled short sleeves over a fitted black tank top, accentuated by a slim black waist belt. A compact round black shoulder bag rests comfortably at her side, while a pair of stylish sunglasses hangs casually from the neckline of her outfit. She faces the camera with a bright, genuine smile, one foot slightly forward and her hands lightly folded in front, creating a relaxed, approachable pose. The background showcases dozens of vibrant hot air balloons lifting into the golden sunset sky above a lush green festival field bustling with visitors. Decorative festival sculptures, colorful tents, and scattered balloons in the distance add depth and excitement to the scene. Rich golden-hour lighting bathes the landscape in warm tones, producing soft highlights, natural shadows, and beautiful lens compression. Shallow depth of field with creamy background blur, vibrant cinematic colors, premium travel magazine aesthetic, Korean-inspired fashion photography, captured on an 85mm portrait lens at f/1.8, HDR, ultra-high-resolution 8K, realistic skin detail, editorial-quality composition, joyful outdoor adventure atmosphere.</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic luxury travel portrait of a beautiful East Asian woman at a Buddhist temple
 

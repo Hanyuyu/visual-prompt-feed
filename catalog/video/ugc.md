@@ -1,9 +1,60 @@
 # UGC video prompts
 
-11 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young Korean woman cleaning a window – 30‑second documentary‑style video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083131866580672827)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [1963](https://imglume.com/prompt/1963)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f2982c37-e1a0-469a-88a6-55e3f4f62c85/0b46afa5-cd28-4c65-bd6e-d24b87e67142-1785513183960 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject:
+Young Korean woman, early 20s, natural everyday appearance, oversized faded t-shirt tucked into shorts, hair tied up in a claw clip, minimal makeup, realistic skin texture, cheerful relaxed personality.
+Location: Small house window facing a quiet residential alley, mid-morning. Wooden window frame, a bucket of soapy water on the ledge, potted plants nearby, soft sunlight. No commercial elements.
+Visual Style: Ultra-realistic documentary realism, unscripted domestic feeling, soft natural morning light.
+Camera Style: Early 2000s consumer DV camcorder aesthetic, handheld shake, autofocus hunting between her and the glass reflections, faded soft contrast, mild sensor noise. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She dips a cloth into the soapy bucket, then wrings it out over the ledge.
+00:03–00:06 → She wipes the window in slow circular motions, streaks of soap catching the light.
+00:06–00:09 → She pauses, then says to camera "이거 완전 뿌옇게 됐었어" ("This got really foggy").
+00:09–00:12 → She rinses the cloth again, then continues wiping the lower corner of the glass.
+00:12–00:15 → She steps back to check her work, tilting her head side to side.
+00:15–00:18 → She notices a smudge, then leans in to rub it out more carefully.
+00:18–00:21 → She wipes her hands on a towel, then looks at camera saying "이제 깨끗하다" ("It's clean now").
+00:21–00:24 → She admires the clear view through the glass, smiling softly.
+00:24–00:27 → A light breeze moves the curtain nearby; she glances at it, amused.
+00:27–00:30 → She looks at camera saying "다음 창문도 해야지" ("I should do the next window too"), walking off as it fades.
+Audio: Cloth squeaking on glass, water dripping, faint birds, distant street sounds. Her dialogue as noted above. No music.
+Goal: A quiet, satisfying weekend chore moment grounded, warm, believable.</code></pre>
+
+</details>
+
+## Photorealistic smartphone selfie vlog in a park with a golden puppy
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2083026795683586313)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [1959](https://imglume.com/prompt/1959)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a6a33423-6f7c-42c4-92ff-5644bd039f65/61bed236-9cb9-4c12-9fd0-856ffbfdbd0d-1785513162227 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic smartphone selfie vlog that looks exactly like a real mobile phone recording. A young woman (image = her face and hair) is walking alone through a peaceful green park on a sunny afternoon, holding her phone in selfie mode with natural handheld movement, slight hand shake, realistic autofocus, authentic smartphone stabilization, and true-to-life colors. As she happily talks to the camera in Korean, a small fluffy golden puppy unexpectedly starts following behind her. She notices it, turns around with a surprised laugh, crouches down, gently pets its head, and says, "너 어디서 왔어?" The puppy wags its tail excitedly and stays beside her as they continue walking together. She picks it up for a moment, cuddles it with a big smile, then sets it back down. At the end, the puppy lovingly licks her hand, making her laugh naturally before she looks into the camera, waves, and says, "오늘 새로운 친구를 만났어요. 안녕!" She reaches toward the phone to stop the recording. The video should feel completely real with natural human motion, consistent facial features, realistic puppy behavior, accurate interactions, authentic outdoor lighting, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only real park ambience, birds, footsteps, distant conversations, and the puppy's soft barks.</code></pre>
+
+</details>
 
 ## Han River Analog Footage × Higgsfield
 

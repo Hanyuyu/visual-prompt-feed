@@ -1,9 +1,66 @@
 # Product Ads image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic premium streetwear advertising campaign at airport
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2083156883318481290)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1951](https://imglume.com/prompt/1951)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/da926936-b039-4512-b6fc-e06928d1498a/47d85dd6-8fb5-4426-ab06-edddc3841634-1785513123382 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/da926936-b039-4512-b6fc-e06928d1498a/0df90f8c-6483-462b-8efe-d1c273bf6d27-1785513123382 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An ultra-realistic advertising campaign for premium streetwear, the picture shows a beautiful girl confidently sitting on a chrome luggage trolley at the airport, a relaxed pose with her legs naturally apart, one hand resting on the trolley and the other holding tightly to the top handle, looking directly into the camera with a calm, confident expression, dressed in clothes from the photo, A spectacular wide-angle lens with a low viewing angle, creating voluminous shoes in the foreground, a centered composition, and a modern aesthetic for airport travel., giant white typographic inscription "ERASING TEMPLATES" on a green background, graphic design elements, including barcode labels, travel stickers, graphic stamps in passports, globe badges, arrows, labels for priority luggage, minimalistic corporate identity, chrome highlights, clean white floor, premium fashion advertising, campaign luxury streetwear, ultra-detailed design., hyper-realistic, commercial photography, cinematic lighting, HDR, magazine cover layout, clear focus, natural skin texture, realistic fabric folds, depth of field, high contrast, professional color reproduction, 8K, Masterpiece, Vogue magazine editorial, Behance Image, Premium Commercial advertising, 9:16 aspect ratio, low quality, blurriness, noise, watermark, logo distortion, extra fingers, extra limbs, poor anatomy, deformed face, cropped body, repetitive objects, overexposure, oversaturation, text artifacts, poor typography, unrealistic proportions, motion blur, low resolution, cartoon, anime, computer graphics, plastic shell, messy composition, the tilted horizon.</code></pre>
+
+</details>
+
+## Cinematic Pepsi Energy Drink Commercial Ultra-Realistic Product Photography
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2082783746806485417)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1924](https://imglume.com/prompt/1924)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e0a25320-dd05-4722-a0a0-9c3c94698fc5/8a70e20d-8977-464a-87e2-4e5159919df4-1785469876570 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e0a25320-dd05-4722-a0a0-9c3c94698fc5/17d5b38c-61ab-43b1-9e7d-4a6bfcb98872-1785469876570 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic Pepsi energy drink commercial, ultra-realistic product photography style. A sleek blue and silver Pepsi can standing upright on a reflective dark surface with a soft gradient grey background. Condensation water droplets cover the can. A strong male hand reaches in and pulls the ice-cold Pepsi can out of a metal ice bucket filled with clear ice cubes. Extreme close-up of water droplets on the metallic surface of the can. The pull-tab opens with a burst of cold mist and vapor rising from the top. Golden amber liquid pours from the can into a clear glass filled with ice cubes, creating bubbles and fizz. A shirtless, extremely muscular, fit young man with sharp jawline and short brown hair drinks from the Red Bull can, eyes closed in satisfaction, then smiles confidently while holding the can. Dynamic action shot of the Red Bull can floating in mid-air surrounded by exploding ice cubes, water splash, and light rays. Final shot: Pepsi logo (two red Pepsi and yellow sun) appears above the cold, wet Pepsi can on a reflective surface. High-end commercial lighting, sharp details, cold blue and silver color grading, steam and condensation effects, 8K, photorealistic.</code></pre>
+
+</details>
+
+## Ultra-realistic premium product advertisement with doodle accents
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2082820353986830491)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1918](https://imglume.com/prompt/1918)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fa80cd47-4d1e-424d-9a06-0db72397209b/7eb01e10-e503-4a19-a168-67553acd5326-1785459374796 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fa80cd47-4d1e-424d-9a06-0db72397209b/16d91480-d247-45a2-a341-87bab0865f8b-1785459374796 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the exact product reference. Use the uploaded image as the sole and exact reference for the product. Preserve the product 1:1, including its official packaging, logo, typography, text, colors, proportions, shape, materials, textures, reflections, label details, and complete brand identity. Do not redesign, recolor, replace, distort, or modify any part of the packaging.
+Create an ultra-realistic premium commercial advertisement with the product as the hero. Analyze its category, flavor, purpose, ingredients, target audience, packaging style, and brand personality to develop a unique, award-worthy advertising concept. Position the product in a natural, dynamic tilted pose.
+Place it in a premium pastel studio environment inspired by the packaging colors, leaving clean negative space for advertising copy. Surround the product with expressive black marker doodles, including arms, legs, shoes, motion lines, sparkles, stars, bubbles, splashes, leaves, ribbons, icons, and concept-related props. The doodles must enhance the composition without covering the packaging, logo, or text.
+Luxury editorial product photography, three-quarter angle, shallow depth of field, razor-sharp focus, soft diffused studio lighting, realistic reflections, floating shadows, premium color grading, and ultra-realistic materials.
+Mood: Premium, playful, modern, sophisticated, energetic, memorable, brand-forward, scroll-stopping.
+Output: 4:5 portrait, 2160×2700 (or equivalent), 8K quality.
+Negative Prompt: Low quality, blur, incorrect branding, altered packaging, modified logo, text errors, recolored product, distorted proportions, unrealistic materials, excessive doodles, clutter, noise, oversaturation, AI artifacts, poor lighting, cropped product.</code></pre>
+
+</details>
 
 ## Luxury skincare product advertisement
 

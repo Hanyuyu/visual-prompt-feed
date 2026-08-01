@@ -1,9 +1,59 @@
 # Poster Design image prompts
 
-13 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Movie poster layout with expansive white negative space
+
+- **Original source:** [@meltenx on X](https://x.com/meltenx/status/2083149615633760278)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1958](https://imglume.com/prompt/1958)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e5d4698f-52cb-4843-8685-761f60feee5f/323353a6-711c-405a-ae73-767b0f034071-1785513151382 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e5d4698f-52cb-4843-8685-761f60feee5f/3e4ad4e8-ad85-415d-87e3-8254ff297214-1785513151382 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e5d4698f-52cb-4843-8685-761f60feee5f/8c53b88c-2d41-44dc-b535-525111742c1a-1785513151382 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>a movie poster layout for "TITLE" with an expansive white background acting as negative space, featuring reference image.
+
+high-quality 2D anime illustration medium, cel-shaded with soft 3D-like rendering, using a stark white baseline palette contrasted with the colors of the reference image. Korean manhwa.
+
+note:
+it requires at least 1 image as reference.
+note 2:
+add this in the prompt to remove the poster credits:
+negative: billing block or credit block</code></pre>
+
+</details>
+
+## Editorial poster in HUMAN FRAGMENTS visual system
+
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2082696240895332638)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [1920](https://imglume.com/prompt/1920)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/668ec3e9-d6f6-4466-9774-b50a7dd2edc0/f1b0ba2f-3718-4fb4-b0d0-ec56eaf2971b-1785459476969 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/668ec3e9-d6f6-4466-9774-b50a7dd2edc0/b41309d1-dcb2-4e19-b689-084560a3b8bb-1785459476969 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system.
+
+Theme: [Theme]
+Subject: [Subject Description]
+Action: [Action Description]
+Scene: [Scene Description]
+Title: [Title]
+Supporting line: [Supporting Line]
+Year: 2026Use oversized cropped typography as the main structural framework. The letters should act as windows that reveal the surrounding environment, while the main person remains visually complete in front of the type.</code></pre>
+
+</details>
 
 ## Create a 9:16 editorial poster in the HUMAN FRAGMENTS visual system
 

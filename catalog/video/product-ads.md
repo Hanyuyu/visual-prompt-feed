@@ -1,9 +1,69 @@
 # Product Ads video prompts
 
-17 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic premium UGC iced coffee commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2083049970597577156)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1934](https://imglume.com/prompt/1934)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7e84060f-5034-44fb-b464-3665a46ef182/caf61c96-0b97-4cc3-bda9-f5dade5bc75d-1785482485366 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, outfit, and accessories consistently throughout every shot. Maintain perfect facial consistency, realistic hand anatomy, and natural expressions. Use the same iced coffee bottle with identical branding, label, colors, and packaging throughout the commercial.
+
+Create an ultra-realistic premium UGC iced coffee commercial with a warm lifestyle aesthetic. Set the film in a modern apartment filled with soft natural window light, warm wooden interiors, cozy neutral décor, realistic reflections, shallow depth of field, cinematic color grading, and premium commercial lighting.
+
+The commercial opens with a close-up of the woman smiling at the camera while holding the iced coffee bottle beside her face. She naturally presents the product with an excited expression.
+
+Transition to a clean macro product shot where the bottle stands on a wooden table covered with natural condensation, highlighting the premium label and chilled texture.
+
+Move into an extreme macro shot as she slowly twists open the bottle cap. Capture the satisfying opening motion and the fresh condensation around the bottle.
+
+Show a cinematic macro sequence of the iced coffee being poured over a glass filled with crystal-clear ice cubes. Rich coffee flows smoothly while ice gently clinks together.
+
+Capture a close-up of the coffee swirling beautifully as milk blends naturally, creating smooth marbled patterns inside the glass.
+
+She lifts the drink, takes a refreshing sip, closes her eyes briefly, and smiles naturally as she enjoys the taste.
+
+She then looks directly into the camera while holding the bottle and gives a confident thumbs-up with a satisfied smile.
+
+Transition to a clean lifestyle shot where the bottle rests beside a laptop, sunglasses, and a book on a wooden table, creating a relaxed work-and-coffee atmosphere.
+
+The next scene follows her walking outdoors under warm sunlight while holding the iced coffee bottle naturally, enjoying the fresh air with a relaxed smile.
+
+Finish with a premium hero product shot. The iced coffee bottle stands on a wooden surface surrounded by roasted coffee beans as warm sunlight illuminates the bottle. The woman gently places her hand beside the product, smiles toward the camera, and says, "Good coffee. Good mood. Anytime." The camera slowly pushes in on the bottle before fading out.
+
+Style: Premium UGC commercial, luxury café aesthetic, cinematic lifestyle storytelling, realistic coffee textures, macro product cinematography, smooth handheld and gimbal camera movements, commercial-grade lighting, shallow depth of field, photorealistic, ultra-detailed.
+
+Negative Prompt: No text, no subtitles, no logos beyond the product packaging, no watermarks, no duplicate people, no distorted hands, no unrealistic facial features, no AI artifacts, no cartoon style, no flickering, no oversaturated colours, no low-resolution textures.</code></pre>
+
+</details>
+
+## Premium Skincare Product Commercial
+
+- **Original source:** [@DaniaSafvi on X](https://x.com/DaniaSafvi/status/2083035044449271855)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1933](https://imglume.com/prompt/1933)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8233180a-e9eb-4056-8053-3803d2185c19/001b3eb5-535e-4104-824e-d14956cff579-1785482469937 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8233180a-e9eb-4056-8053-3803d2185c19/4244a6cf-1a9e-4128-8906-b2f5a68fd595-1785482469937 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A premium skincare product commercial featuring a minimalist boxed skincare set placed on a clean concrete surface during golden hour. Warm sunlight casts soft window shadows across the product, creating a luxurious and aesthetic atmosphere. The camera starts with a macro close-up of the packaging and colorful serum bottles, then slowly pushes in with smooth cinematic motion. Elegant orbit shots highlight the product from every angle while subtle lens flares, soft reflections, and shallow depth of field enhance the premium look. Minimalist background, photorealistic textures, realistic lighting, luxury beauty advertisement, ultra-detailed, 8K HDR, smooth gimbal movement, commercial-grade color grading, clean and modern aesthetic.</code></pre>
+
+</details>
 
 ## 45-second 3D Pixar-style animated commercial for GLOWDROP liquid blush
 

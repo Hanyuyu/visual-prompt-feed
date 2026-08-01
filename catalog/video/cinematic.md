@@ -1,9 +1,322 @@
 # Cinematic video prompts
 
-115 source-linked prompts, newest ImgLume records first.
+127 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seedance 2.0 Cinematic Anime Video Prompt
+
+- **Original source:** [@Ambani_Wessley on X](https://x.com/Ambani_Wessley/status/2083226872503029956)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [1973](https://imglume.com/prompt/1973)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9175b6d3-4a4b-4d12-8566-b72fcac36d2b/c18338c5-5a97-4a2a-9b51-6a72a67ffd2b-1785519413953 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Animate the provided first frame into a 15-second surreal comedy AI video in 1:1 square format. Keep the same rainy coastal fish market, same wet concrete floor, same realistic reflections, same Niko in yellow rain jacket, same expressive silver fish, same old fish seller, and same deadpan absurd comedy style throughout the entire video.
+STYLE:
+Surreal cinematic comedy, realistic AI short film, wet coastal fish market, muted blue-gray dawn light, warm stall bulbs, handheld low-angle camera energy, expressive physical comedy, believable water splashes, slightly stylized facial reactions, absurd but grounded. The tone should be funny and strange, not scary or violent.
+CHARACTER LOCK:
+Exactly three main characters appear:
+Niko is always the young courier in a faded yellow rain jacket, dark green cargo pants, sneakers, and delivery bag.
+The Fish is always the medium silver fish with expressive eyes and small orange fins.
+The Old Fish Seller is always the calm elderly vendor in blue apron and rain hat.
+Do not change their appearance, roles, scale, or identities.
+TIMELINE:
+0–1.5s:
+Start exactly from the first frame. Niko’s sneaker hovers above the fish on the wet market floor. The fish looks up, offended. Rain drips from the tarp, puddles ripple.
+1.5–3s:
+Niko lightly steps on the fish’s tail by accident. The fish squeaks and its eye narrows dramatically. Niko freezes mid-step and slowly looks down.
+3–4.5s:
+Close-up on the fish puffing up with ridiculous seriousness. Its scales shimmer, orange fins spread, and a tiny splash forms around it.
+4.5–6s:
+The fish slaps Niko’s ankle with its tail. Water splashes. Niko loses balance, arms windmilling, delivery bag swinging.
+6–7.5s:
+Niko slides backward across the wet concrete in a clumsy panic. The Old Fish Seller watches from the stall, completely calm.
+7.5–9s:
+The fish flops upright for one impossible comedic beat, glaring like a tiny kung fu master. Camera pushes in slightly.
+9–10.5s:
+Niko raises both hands as if apologizing, awkward smile, one foot still sliding. The fish launches upward from the puddle in a spinning arc.
+10.5–12s:
+Slow-motion comedic impact. The fish lightly tail-slaps Niko’s face. Water droplets fly across the frame, no injury, just absurd slapstick.
+12–13.5s:
+Niko spins once and lands sitting in a crate of ice, shocked and harmlessly embarrassed. Ice cubes scatter and bounce.
+13.5–15s:
+Final deadpan hero shot. The fish lands back in the puddle, proud and still. Niko sits stunned in the background. The Old Fish Seller calmly returns to work. End on the fish looking directly into camera.
+CAMERA:
+Use square-format comedy cinematography: low ground-level opening shot, fish eye close-up, handheld reaction shot, sliding wide shot, slow-motion slap shot, final deadpan centered frame. Keep the action readable and comedic.
+MOTION:
+Fish movement should be absurd but physically clear: tail twitch, puff up, splash slap, upright flop, spinning launch, tail slap, perfect landing.
+Niko’s movement is clumsy and human: freeze, look down, slip, windmill arms, slide, apologize, spin, land in ice crate.
+Water, puddles, ice, jacket fabric, delivery bag, tarps, and reflections should react naturally.
+LIGHTING:
+Soft blue-gray dawn light, warm market bulbs, wet reflections, subtle mist, realistic low-contrast morning atmosphere.
+ENDING:
+End with the silver fish victorious in the foreground puddle, Niko embarrassed in the ice crate behind it, and the vendor deadpan in the background.</code></pre>
+
+</details>
+
+## Realistic 15-second cinematic video of girl in white maxi dress on European street
+
+- **Original source:** [@_YashalAli on X](https://x.com/_YashalAli/status/2083180238763372950)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1972](https://imglume.com/prompt/1972)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/728bee8f-10bd-43d9-b70d-78261fbe18d3/b9a7bea0-f93a-4d5c-984d-e937036f2b6f-1785519372731 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a realistic 15-second cinematic video using the exact face and hairstyle of the reference girl. Change her outfit to an elegant white summer maxi dress with delicate floral embroidery, paired with a beige sun hat and simple gold earrings. She is walking through a charming European-style street lined with cafés and flowers during golden hour. She pauses to buy a bouquet of fresh flowers, smiles warmly at the florist, then continues walking while gently smelling the flowers. The camera captures cinematic close-ups, smooth tracking shots, and soft slow motion as the wind flows through her hair and dress. She looks at the camera and says, "Happiness is found in the little moments we choose to enjoy." Ultra-realistic, natural facial expressions, soft sunlight, shallow depth of field, 4K, HDR, realistic physics, natural ambient sounds of birds, footsteps, and a gentle breeze.</code></pre>
+
+</details>
+
+## Futuristic Neon Motorcycle Ride Through Cyberpunk City and Post-Apocalyptic Wasteland
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2083125793803104723)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1968](https://imglume.com/prompt/1968)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/689e213a-b9a6-4755-b41c-6b95ea71511c/f0434e1c-c3bb-48b5-997a-498549a9f2a7-1785513250596 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, fast-paced video sequence featuring a rider in a sleek black futuristic bodysuit and full-face glossy helmet riding an ultra-futuristic, low-profile motorcycle with glowing neon blue accent lights and hubless light-ring wheels. Starts with a low-angle front view as the motorcycle speeds across a glassy, reflective surface of calm ocean water under a misty sky. Smoothly transitions to a dynamic tracking side shot through a bustling futuristic cyberpunk city at night with wet pavement and neon billboards, including a close-up of the rider's intense eyes through the helmet visor. The bike accelerates through a dark highway tunnel with glowing motion blur trails, then bursts out into a post-apocalyptic wasteland at golden hour sunset, speeding along a dusty road toward ruined skyscrapers. The bike comes to a dramatic skid stop, kickstand down, and the rider dismounts, standing tall next to the futuristic bike looking at the skyline. Photorealistic, 8k resolution, cinematic lighting, 24fps motion blur.</code></pre>
+
+</details>
+
+## Giant dragon battle over jungle river with girl and purring dragon – photorealistic cinematic action
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2083142573401526392)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1967](https://imglume.com/prompt/1967)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c6b47d11-9923-4ce3-b360-6abb2f4c9f5b/36e2ff9f-e856-4cbe-81da-75c9cb1129d2-1785513243576 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c6b47d11-9923-4ce3-b360-6abb2f4c9f5b/0437f57b-59f5-492c-8234-35fda6e91b08-1785513243576 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A giant dragon appears, flying low over the turbulent jungle river and sending up sprays of water as it speeds along.
+
+Suddenly, a colossal, aggressive creature violently emerges from the river, attempting to bite the dragon and grazing it with its massive fangs.
+
+The dragon manages to dodge the attack with an agile, swift, and dynamic maneuver. It continues flying low over the river, crossing paths with other dragons; together, they perform aerial acrobatics, playing with one another at high speed.
+
+A girl with an affectionate, purring dragon gazes out at the landscape.
+
+A photorealistic, cinematic scene of fast-paced action.</code></pre>
+
+</details>
+
+## Morning Commute in Coastal Japan POV
+
+- **Original source:** [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2083155162475217058)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1961](https://imglume.com/prompt/1961)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bf2fb25f-fa79-4bc3-afa9-d3263aa303a1/81b9b758-b9c8-495a-a8d7-84307d6861a0-1785513181722 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>POV — Morning Commute in Coastal Japan | Ultra-Realistic, One Continuous Take
+
+First-person POV, no cuts, one unbroken handheld-feeling shot from our own eyes on the way through a small seaside town. Ultra-photorealistic, phone-in-hand realism — natural camera micro-shake, subtle head bob with each step, occasional glance down at our own hands and shoes. 4K, shallow but natural depth of field, real morning light, no color-grading fantasy, no neon.
+
+Beat 1 — Descending into the station (0–4s): We walk down worn concrete station stairs into a small coastal-town metro entrance, one hand loosely gripping a canvas bag strap that swings into the lower frame. Fluorescent tint mixes with daylight bleeding from the entrance behind us. Commuters pass in soft focus; we hear muffled announcements and the shuffle of footsteps.
+
+Beat 2 — The orange cat (4–9s): We slow and crouch — the horizon dips as our POV lowers toward the ground. An orange tabby sits by a ticket-gate pillar, tail curled. Our hand (natural skin texture, slightly bitten nails, cuff of a sleeve) reaches into frame and gently strokes its head. The cat leans into the touch, eyes half-closing, ears flicking. We hold there a beat, warm and quiet.
+
+Beat 3 — Boarding, settling by the window (9–14s): We rise, the horizon lifts, and we step through the train doors just as the chime sounds. POV turns and moves toward a window seat; we sit, and the frame settles against the glass. A faint silhouette of us ghosts over the view. The train pulls away with a gentle lurch.
+
+Beat 4 — The shimmering sea (14–20s): Through the window, the town gives way to open coastline. Sunlight scatters across the water in thousands of moving sparkles — real specular glitter, not CGI bloom. Utility poles and wires strobe past in the foreground. We rest our chin lightly (subtle downward frame tilt), just watching.
+
+Beat 5 — Rails into the sea (20–25s): The track curves and runs so close to the shore that the rails seem to vanish straight into the water — the sea fills nearly the whole frame, waves lapping right up to the ballast. Foam catches the light. We're gliding along the edge of the ocean, the horizon line steady, gulls crossing in the distance. Hold on this until the shot ends.
+
+Technical spec: continuous POV, first-person, no cuts or transitions, natural handheld micro-motion, realistic morning ambient audio (station hum, cat, train chime, rail clatter, distant surf), authentic Japanese coastal-railway setting (Shimonada / Enoden-style seaside line), overcast-to-clear soft daylight, photoreal skin and fabric texture, 2.39:1 or 16:9, ultra-realistic.</code></pre>
+
+</details>
+
+## Blue Monster Victory Over Green Monster
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2083177210563952753)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1955](https://imglume.com/prompt/1955)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/22cba4ea-e6a1-45d5-8ea2-fde55890b1d5/c9957466-68df-44ba-9e4a-05894dd8198a-1785513132529 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/22cba4ea-e6a1-45d5-8ea2-fde55890b1d5/a096fdf2-a7e1-406f-9a07-4f3e070627fd-1785513132529 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use [Image] as the start frame. The two giant monsters clash in a brutal fight. The green monster dominates at first, but the blue monster eventually overpowers it. The final frame shows the blue monster standing on its defeated opponent with one arm raised in victory.</code></pre>
+
+</details>
+
+## Giant Blue Monster City Invasion
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2083177210563952753)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1954](https://imglume.com/prompt/1954)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0bff76fe-a5ae-45d2-bc4a-ca8d05c9b4a8/225d544d-d85d-4eb5-8c8b-d7b9faf5fa8f-1785513132529 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0bff76fe-a5ae-45d2-bc4a-ca8d05c9b4a8/26a4f055-e6b2-42a7-ada0-e41b2aac695e-1785513132529 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A military force invades the city. Tanks, soldiers, and fighter jets attack a giant blue monster. Fearless, the monster smashes streets, destroys tanks and aircraft, and terrorizes the city.</code></pre>
+
+</details>
+
+## 30-second vertical photorealistic fantasy palace romance drama
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083122179693232612)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1941](https://imglume.com/prompt/1941)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2e56d8a9-c2db-4ef7-8e2f-a5ae884d9e6e/0cc2dd68-6a7a-4abd-bf9e-12e2fb1031ce-1785492970993 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 30-second vertical 9:16 photorealistic fantasy palace romance drama about Princess Elara, who wakes up after being murdered and discovers she has returned to the night before her death. In a storm-lit royal palace, she confronts Prince Cassian, the man she believed betrayed her, only to uncover a deeper conspiracy and a magical fated bond between them. As the throne is threatened by a corrupt council, Elara and Cassian must overcome betrayal, unite as reluctant allies, and fight to reclaim the crown together.</code></pre>
+
+</details>
+
+## Premium Ice Cream Commercial with Ultra-Realistic Visuals
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082797052250173486)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `gptimage`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [1919](https://imglume.com/prompt/1919)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9cfc707-b558-48cc-b9fe-7784b1bef191/7c9b8585-9c05-45dd-911f-183b0d9685ae-1785459404946 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, grey eyes, hairstyle, skin tone, makeup, body proportions, and overall appearance consistently throughout every shot. Keep the same white graphic fitted T-shirt, replacing the lower outfit with a stylish white pleated mini skirt, while maintaining realistic hand anatomy and perfect facial consistency.
+
+Create an ultra-realistic premium ice cream commercial with a luxurious summer lifestyle aesthetic. Set the film inside an elegant artisan gelato café with marble counters, pastel interiors, glass display cases, warm golden sunlight, soft bokeh, cinematic colour grading, realistic reflections, and premium commercial lighting. Transition naturally to charming European-style streets lined with cafés and flowers during golden hour.
+
+The commercial opens with a cinematic beauty close-up as she smiles warmly at the camera while holding a premium waffle cone filled with strawberry and vanilla ice cream. She slowly rotates the cone, revealing its creamy texture and colorful toppings.
+
+Transition into an extreme macro sequence as rainbow sprinkles gently fall onto the ice cream, followed by a rich stream of glossy chocolate sauce cascading over the scoops. Capture luxurious close-ups of melting ice cream, crunchy toppings, fresh strawberry pieces, and the crisp waffle cone with highly detailed textures.
+
+She slowly lifts the cone toward her lips, takes a satisfying bite, then smiles naturally while enjoying the creamy flavour. The camera captures her genuine expression and the melting ice cream in beautiful cinematic detail.
+
+The scene transitions outdoors where she strolls through a charming European-style street, holding the ice cream while warm sunlight illuminates her face. She looks back over her shoulder, smiles confidently, and continues walking past cafés and flower-lined sidewalks as her hair gently moves in the breeze.
+
+The commercial concludes with an elegant hero shot outside the gelato café. She holds the ice cream beside her face, maintains eye contact with the camera, smiles softly, and says, "Life is sweeter with every bite." The camera slowly pushes in, highlighting the luxurious ice cream and her radiant expression before fading out.
+
+Style: Premium food commercial, luxury lifestyle aesthetic, cinematic storytelling, realistic melting textures, macro food cinematography, elegant natural expressions, smooth handheld and gimbal movements, shallow depth of field, soft bokeh, commercial-grade lighting, photorealistic, ultra-detailed.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no duplicate people, no distorted hands, no unrealistic facial features, no AI artifacts, no cartoon style, no exaggerated expressions, no extra fingers, no flickering, no oversaturated colours, no low-resolution textures.</code></pre>
+
+</details>
+
+## Continuation of cinematic animated short with a clawed hand delivering the flashlight
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2082851844813185203)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1911](https://imglume.com/prompt/1911)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e7606311-42ec-4c36-8550-a9fa0242f41b/0649903e-3b36-4a99-ab04-505006646f05-1785434226338 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Continue seamlessly from the previous scene. Maintain the exact same character, clothing, facial features, lighting, bedroom environment, and CGI animated feature film quality 3D animation style, NOT photorealistic.
+
+SET LAYOUT: Boy remains fixed kneeling at the closet door. The clawed hand emerges from the same fixed gap beneath the door.
+
+Without him noticing, a long clawed shadowy hand slowly emerges from the pitch-black gap beneath the door, quietly placing the flashlight into his open palm.
+
+Still focused on the floor, he closes his hand around it and pulls it out.
+
+Boy (relieved smile): "Thanks, Mom."
+
+He stands up, dusts off his pajamas, turns toward his bedroom door — closed, room empty.
+
+He freezes. Dramatic close-up on his face. His smile fades, eyes go wide.
+
+Behind him, the closet door creaks open another inch.
+
+Boy (exaggerated scream): "AAAAH!"
+
+He sprints out of the room, slamming the door behind him. The clawed hand slowly withdraws into the closet, door creaking shut on its own.
+
+Fade to black.</code></pre>
+
+</details>
+
+## Cinematic animated short of a boy in a dim bedroom with a missing flashlight
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2082851844813185203)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [1910](https://imglume.com/prompt/1910)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a700a17d-be39-42e0-b380-3d1ea0b5fafc/10f8639c-9681-487d-ae7d-fd944fe35123-1785434226338 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic animated short film with feature-film-quality 3D animation, expressive stylized characters, a dimly lit child's bedroom at night, moonlight streaming through a half-open window, soft volumetric shadows, a single nightlight glowing faintly in the corner, smooth cinematic camera movement, suspenseful ambient score with quiet tension, polished CGI animated feature film quality rendering, NOT photorealistic, expressive facial animation.
+
+SET LAYOUT: Boy remains fixed near the closet door area throughout. Closet door is slightly ajar on the left side of frame, gap visible underneath.
+
+A 9-year-old boy in White and black tiger-print pajamas plays with a small red flashlight, making shapes on the ceiling, cheerful and carefree.
+
+He accidentally drops it. The flashlight rolls across the floor and disappears through the gap under a slightly-open closet door.
+
+Boy (gasping): "Oh no"
+
+He crawls over and kneels in front of the closet door, reaching his hand into the dark gap underneath, feeling around blindly.
+
+He stretches his arm further into the darkness, still can't find it.</code></pre>
+
+</details>
+
+## Highly realistic 15-second black-and-white urban cinematic video montage
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2082719842810118640)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1909](https://imglume.com/prompt/1909)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/db9f9370-5de1-44d0-8390-498d00cf950e/f36ec0f1-1795-4821-b7c6-4a3141ec69cb-1785434182326 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a highly realistic 15 second cinematic black and white video montage in a 16 to 9 aspect ratio synchronized to a heavy rhythmic underground hip hop music track. The sequence opens with a medium close up of a gritty shirtless young man with a buzz cut looking aggressively into a bathroom mirror and forming a gun shape with his hand while pointing at his own reflection. Cut rapidly to an extreme close up of a young man with curly hair staring intensely directly into the camera lens with a desolate urban concrete housing project out of focus behind him. The video features fast paced dynamic cuts matching the beat of the music. Transition to an extreme low angle shot looking straight up the center of a spiraling architectural concrete staircase. Cut to a wide deep focus shot of two men in vintage leather bomber jackets leaning on a wrought iron balcony railing overlooking a sprawling overcast Paris city street. Cut to a dark movie theater where a man turns around sharply illuminated only by the harsh beam of a film projector. Cut to an urban street at night where three silhouetted figures look out over a glowing city skyline. The cinematography mimics authentic 35mm film stock with heavy organic film grain deep shadows and blinding highlights. The lighting is exclusively high contrast monochrome emphasizing the raw textures of brick concrete and leather. The final shot is a symmetrical wide angle of a lone silhouetted figure standing in an abandoned warehouse illuminated by a single flickering overhead fluorescent light bulb. The overall aesthetic is raw urban realism w</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic "A Day in My Life" lifestyle film
 

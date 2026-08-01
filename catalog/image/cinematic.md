@@ -1,9 +1,91 @@
 # Cinematic image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic fashion editorial of high-fashion model in Indonesian Independence Day themed gown
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2083185673540939789)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`
+- **ImgLume record:** [1971](https://imglume.com/prompt/1971)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0adc0915-0d6c-41ef-a1db-6f29dc746e25/beec47ab-b763-4c88-a14d-3abeb2260c4f-1785515203419 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0adc0915-0d6c-41ef-a1db-6f29dc746e25/e8996dbc-8af3-4be2-b5a7-5463c4d7d276-1785515203419 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0adc0915-0d6c-41ef-a1db-6f29dc746e25/833cc53d-3b55-48ab-a3f5-13d08f5dd483-1785515203419 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic fashion editorial, full-body shot of a high-fashion model standing confidently in a dramatic studio set inspired by Indonesian Independence Day. The model wears an exquisite couture gown themed “Scarlet Freedom”.
+The gown features a structured mermaid silhouette with a dramatic cathedral train flowing behind like a waving Indonesian flag. The color composition follows the Indonesian flag: the upper bodice is bold crimson red, symbolizing courage, while the lower skirt and train are pure ivory white, symbolizing purity.
+The corset bodice is deep crimson red with sculpted drapery resembling folded flag fabric, combined with an asymmetrical off-shoulder design. The skirt transitions into soft ivory white satin with luxurious layered ruffles and a bold thigh-high slit, creating an elegant contrast from red to white.
+Intricate gold embroidery is delicately placed across the gown, inspired by Garuda wings and subtle batik parang motifs, executed in a refined haute couture style. Additional symbolic detail includes broken chain embellishments subtly integrated into the waist design, representing freedom and independence.
+The gown is enhanced with a sheer flowing cape that starts in rich red at the shoulders and gradually fades into white toward the hem, creating a “flag in motion” effect. Fabric textures include silk satin, organza, and illusion tulle, highly detailed and luxurious.
+The model has an elegant short wavy dark bob hairstyle, porcelain skin, sharp facial features, and a powerful, confident expression. Makeup is soft glam with bold red lips. Accessories include a delicate gold hairpiece inspired by Garuda elements and jasmine flowers.
+Lighting is cinematic and dramatic, with soft highlights and deep shadows. The background is a minimalist dark studio with subtle red-to-white gradient lighting and a faint smoky atmosphere, emphasizing the silhouette and movement of the gown.
+Pose: standing tall and confident, one leg visible through the thigh-high slit, one hand slightly lifting the gown, the cathedral train flowing naturally behind, gaze directed toward the camera with a strong, regal presence.
+Ultra-detailed, 8K resolution, high fashion editorial photography, sharp focus, depth of field, cinematic color grading, Vogue style, luxury couture aesthetic --ar 9:16</code></pre>
+
+</details>
+
+## Cinematic medium shot of a thoughtful young woman in a European outdoor café
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2083088208426901782)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1966](https://imglume.com/prompt/1966)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/445de297-5996-479b-bcad-f0f8d8d92ce7/09a700f9-02c6-4982-ace8-1f9fd1332fbc-1785513237211 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/445de297-5996-479b-bcad-f0f8d8d92ce7/236fed3c-996f-42b6-8577-e8428c2c3ec2-1785513237211 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic medium shot of a thoughtful young woman seated at a rustic wooden table in a bustling European outdoor café. She is wearing a cozy, modest mustard-yellow crewneck sweater with a high neckline and full-length sleeves. Her dark hair is gently styled, catching the soft golden hour illumination. In one variation, she rests her chin in her hand with a closed notebook and an open book laid out before her on the table. In the other variation, she holds a warm ceramic mug with both hands, looking off to the side with a gentle smile next to a notebook with a pen resting on top and an open book. The background features a charming, narrow cobblestone street lined with historic stone buildings and soft green potted plants, rendered with a shallow depth of field and warm, natural lighting.</code></pre>
+
+</details>
+
+## Cinematic scene of kindness at a rainy bus stop
+
+- **Original source:** [@Lily_collins3 on X](https://x.com/Lily_collins3/status/2083111647481328104)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1943](https://imglume.com/prompt/1943)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/39108105-aa8f-4083-8d11-259ecfa6026f/f08c9120-1d31-4175-85c4-36fdd0c7450a-1785495073647 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, highly detailed scene of a 27-year-old man with a smart, lean physique, soft brown hair, and a shy, innocent expression. He is dressed in simple corporate office attire, reflecting the routine of a monotonous 9-to-5 office life. He stands quietly at a crowded city bus stop during the evening rush hour, surrounded by dozens of commuters who seem distant and emotionless.
+
+The entire world is shown in black and white, emphasizing the dullness and repetition of his daily life. Dark clouds gather overhead, and rain suddenly begins to pour. While everyone around him rushes to open umbrellas or seek shelter, he simply lowers his gaze, accepting the rain in silence.
+
+At that moment, a 25-year-old woman with fair skin, an elegant appearance, and a warm, genuine smile steps beside him. She gently extends her umbrella to cover both of them. As he looks up and their eyes meet, they exchange a quiet, heartfelt smile.
+
+The instant their eyes meet, the black-and-white world begins transforming into vibrant color. The rain glows softly, the city lights become warm and vivid, and every detail around them comes to life. The crowd remains in the background, blurred and insignificant, while the two stand beneath the umbrella, sharing a silent, magical connection. The scene is emotional, romantic, and hopeful, symbolizing how a single act of kindness can bring color into someone’s life.</code></pre>
+
+</details>
+
+## Cinematic Pepsi Energy Drink Commercial Ultra-Realistic Product Photography
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2082783746806485417)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [1924](https://imglume.com/prompt/1924)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e0a25320-dd05-4722-a0a0-9c3c94698fc5/8a70e20d-8977-464a-87e2-4e5159919df4-1785469876570 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e0a25320-dd05-4722-a0a0-9c3c94698fc5/17d5b38c-61ab-43b1-9e7d-4a6bfcb98872-1785469876570 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic Pepsi energy drink commercial, ultra-realistic product photography style. A sleek blue and silver Pepsi can standing upright on a reflective dark surface with a soft gradient grey background. Condensation water droplets cover the can. A strong male hand reaches in and pulls the ice-cold Pepsi can out of a metal ice bucket filled with clear ice cubes. Extreme close-up of water droplets on the metallic surface of the can. The pull-tab opens with a burst of cold mist and vapor rising from the top. Golden amber liquid pours from the can into a clear glass filled with ice cubes, creating bubbles and fizz. A shirtless, extremely muscular, fit young man with sharp jawline and short brown hair drinks from the Red Bull can, eyes closed in satisfaction, then smiles confidently while holding the can. Dynamic action shot of the Red Bull can floating in mid-air surrounded by exploding ice cubes, water splash, and light rays. Final shot: Pepsi logo (two red Pepsi and yellow sun) appears above the cold, wet Pepsi can on a reflective surface. High-end commercial lighting, sharp details, cold blue and silver color grading, steam and condensation effects, 8K, photorealistic.</code></pre>
+
+</details>
 
 ## Cinematic portrait of a subject in a dark exhibition room
 

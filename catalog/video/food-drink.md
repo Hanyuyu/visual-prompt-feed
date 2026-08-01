@@ -1,9 +1,100 @@
 # Food Drink video prompts
 
-13 source-linked prompts, newest ImgLume records first.
+16 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Animated forest riverside picnic
+
+- **Original source:** [@Nexa_Tech_Ai on X](https://x.com/Nexa_Tech_Ai/status/2083060016995868951)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [1950](https://imglume.com/prompt/1950)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c9af2e46-6515-4e6a-8188-82426e3c3aa5/42cdc669-471a-4e33-9be5-093535667fbf-1785513114796 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A tranquil animated forest picnic by the riverside, where every ingredient comes straight from nature.
+
+Hands scoop silverfish from a clear running stream, rinse fresh green vegetable leaves, and slice fish fillets and vegetables on a wooden cutting board.
+
+Spices are sprinkled into a cast-iron pot over an open campfire—fish, greens, and mushrooms simmer together into a rich, steaming soup in a clay pot.
+
+Steamed rice is served on a rustic wooden table alongside a glass of fresh coconut juice, warm sunlight filtering softly through the treetops.
+
+Cinematic animation style, vivid colors, soft natural lighting, ultra-detailed, peaceful atmosphere, 4K.</code></pre>
+
+</details>
+
+## Handheld coffee vlog with mini DV aesthetic
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083094742682787939)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1949](https://imglume.com/prompt/1949)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eb6a4e5c-8d6b-421a-a8e6-392af71513e3/f797f0ba-d800-40aa-9db4-1a03bcf346ff-1785513092035 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+SUBJECT: Young man in his mid-20s, plain t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+→ (3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+→ (3s, close-up) Tamps the grounds down firmly and evenly.
+→ (3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+→ (3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+→ (3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+→ (3s, macro shot) Steam wand hissing as it froths the milk.
+→ (3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+→ (3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+→ (3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.</code></pre>
+
+</details>
+
+## Premium Ice Cream Commercial with Ultra-Realistic Visuals
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2082797052250173486)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `gptimage`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [1919](https://imglume.com/prompt/1919)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9cfc707-b558-48cc-b9fe-7784b1bef191/7c9b8585-9c05-45dd-911f-183b0d9685ae-1785459404946 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, grey eyes, hairstyle, skin tone, makeup, body proportions, and overall appearance consistently throughout every shot. Keep the same white graphic fitted T-shirt, replacing the lower outfit with a stylish white pleated mini skirt, while maintaining realistic hand anatomy and perfect facial consistency.
+
+Create an ultra-realistic premium ice cream commercial with a luxurious summer lifestyle aesthetic. Set the film inside an elegant artisan gelato café with marble counters, pastel interiors, glass display cases, warm golden sunlight, soft bokeh, cinematic colour grading, realistic reflections, and premium commercial lighting. Transition naturally to charming European-style streets lined with cafés and flowers during golden hour.
+
+The commercial opens with a cinematic beauty close-up as she smiles warmly at the camera while holding a premium waffle cone filled with strawberry and vanilla ice cream. She slowly rotates the cone, revealing its creamy texture and colorful toppings.
+
+Transition into an extreme macro sequence as rainbow sprinkles gently fall onto the ice cream, followed by a rich stream of glossy chocolate sauce cascading over the scoops. Capture luxurious close-ups of melting ice cream, crunchy toppings, fresh strawberry pieces, and the crisp waffle cone with highly detailed textures.
+
+She slowly lifts the cone toward her lips, takes a satisfying bite, then smiles naturally while enjoying the creamy flavour. The camera captures her genuine expression and the melting ice cream in beautiful cinematic detail.
+
+The scene transitions outdoors where she strolls through a charming European-style street, holding the ice cream while warm sunlight illuminates her face. She looks back over her shoulder, smiles confidently, and continues walking past cafés and flower-lined sidewalks as her hair gently moves in the breeze.
+
+The commercial concludes with an elegant hero shot outside the gelato café. She holds the ice cream beside her face, maintains eye contact with the camera, smiles softly, and says, "Life is sweeter with every bite." The camera slowly pushes in, highlighting the luxurious ice cream and her radiant expression before fading out.
+
+Style: Premium food commercial, luxury lifestyle aesthetic, cinematic storytelling, realistic melting textures, macro food cinematography, elegant natural expressions, smooth handheld and gimbal movements, shallow depth of field, soft bokeh, commercial-grade lighting, photorealistic, ultra-detailed.
+
+Negative Prompt: No text, no subtitles, no logos, no watermarks, no duplicate people, no distorted hands, no unrealistic facial features, no AI artifacts, no cartoon style, no exaggerated expressions, no extra fingers, no flickering, no oversaturated colours, no low-resolution textures.</code></pre>
+
+</details>
 
 ## Anime-style countryside cooking montage
 

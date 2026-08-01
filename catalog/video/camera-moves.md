@@ -1,9 +1,57 @@
 # Camera Moves video prompts
 
-23 source-linked prompts, newest ImgLume records first.
+25 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Futuristic Neon Motorcycle Ride Through Cyberpunk City and Post-Apocalyptic Wasteland
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2083125793803104723)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1968](https://imglume.com/prompt/1968)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/689e213a-b9a6-4755-b41c-6b95ea71511c/f0434e1c-c3bb-48b5-997a-498549a9f2a7-1785513250596 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, fast-paced video sequence featuring a rider in a sleek black futuristic bodysuit and full-face glossy helmet riding an ultra-futuristic, low-profile motorcycle with glowing neon blue accent lights and hubless light-ring wheels. Starts with a low-angle front view as the motorcycle speeds across a glassy, reflective surface of calm ocean water under a misty sky. Smoothly transitions to a dynamic tracking side shot through a bustling futuristic cyberpunk city at night with wet pavement and neon billboards, including a close-up of the rider's intense eyes through the helmet visor. The bike accelerates through a dark highway tunnel with glowing motion blur trails, then bursts out into a post-apocalyptic wasteland at golden hour sunset, speeding along a dusty road toward ruined skyscrapers. The bike comes to a dramatic skid stop, kickstand down, and the rider dismounts, standing tall next to the futuristic bike looking at the skyline. Photorealistic, 8k resolution, cinematic lighting, 24fps motion blur.</code></pre>
+
+</details>
+
+## Morning Commute in Coastal Japan POV
+
+- **Original source:** [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2083155162475217058)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [1961](https://imglume.com/prompt/1961)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bf2fb25f-fa79-4bc3-afa9-d3263aa303a1/81b9b758-b9c8-495a-a8d7-84307d6861a0-1785513181722 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>POV — Morning Commute in Coastal Japan | Ultra-Realistic, One Continuous Take
+
+First-person POV, no cuts, one unbroken handheld-feeling shot from our own eyes on the way through a small seaside town. Ultra-photorealistic, phone-in-hand realism — natural camera micro-shake, subtle head bob with each step, occasional glance down at our own hands and shoes. 4K, shallow but natural depth of field, real morning light, no color-grading fantasy, no neon.
+
+Beat 1 — Descending into the station (0–4s): We walk down worn concrete station stairs into a small coastal-town metro entrance, one hand loosely gripping a canvas bag strap that swings into the lower frame. Fluorescent tint mixes with daylight bleeding from the entrance behind us. Commuters pass in soft focus; we hear muffled announcements and the shuffle of footsteps.
+
+Beat 2 — The orange cat (4–9s): We slow and crouch — the horizon dips as our POV lowers toward the ground. An orange tabby sits by a ticket-gate pillar, tail curled. Our hand (natural skin texture, slightly bitten nails, cuff of a sleeve) reaches into frame and gently strokes its head. The cat leans into the touch, eyes half-closing, ears flicking. We hold there a beat, warm and quiet.
+
+Beat 3 — Boarding, settling by the window (9–14s): We rise, the horizon lifts, and we step through the train doors just as the chime sounds. POV turns and moves toward a window seat; we sit, and the frame settles against the glass. A faint silhouette of us ghosts over the view. The train pulls away with a gentle lurch.
+
+Beat 4 — The shimmering sea (14–20s): Through the window, the town gives way to open coastline. Sunlight scatters across the water in thousands of moving sparkles — real specular glitter, not CGI bloom. Utility poles and wires strobe past in the foreground. We rest our chin lightly (subtle downward frame tilt), just watching.
+
+Beat 5 — Rails into the sea (20–25s): The track curves and runs so close to the shore that the rails seem to vanish straight into the water — the sea fills nearly the whole frame, waves lapping right up to the ballast. Foam catches the light. We're gliding along the edge of the ocean, the horizon line steady, gulls crossing in the distance. Hold on this until the shot ends.
+
+Technical spec: continuous POV, first-person, no cuts or transitions, natural handheld micro-motion, realistic morning ambient audio (station hum, cat, train chime, rail clatter, distant surf), authentic Japanese coastal-railway setting (Shimonada / Enoden-style seaside line), overcast-to-clear soft daylight, photoreal skin and fabric texture, 2.39:1 or 16:9, ultra-realistic.</code></pre>
+
+</details>
 
 ## Cinematic high-octane action sequence with magenta truck in desert canyon
 

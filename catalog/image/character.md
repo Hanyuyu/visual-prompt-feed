@@ -1,9 +1,157 @@
 # Character image prompts
 
-23 source-linked prompts, newest ImgLume records first.
+29 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Rooftop Spider-Suit Portrait — Photorealistic Composite
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2083020750060134842)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1942](https://imglume.com/prompt/1942)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d77060a0-3e23-403d-81a1-781984223f90/25681bb2-0d8a-4a00-94c0-2275b532e561-1785492990388 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d77060a0-3e23-403d-81a1-781984223f90/0d0246c5-a954-4478-9d4b-0ce068fbb7b1-1785492990388 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d77060a0-3e23-403d-81a1-781984223f90/334c7839-2bda-44bd-b40f-4d636f0ac8a9-1785492990388 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d77060a0-3e23-403d-81a1-781984223f90/b6082f8a-a8c8-4df8-827d-b30635beb225-1785492990388 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "style_prompt_name": "Rooftop Spider-Suit Portrait — Photorealistic Composite",
+ "subject": {
+ "identity_source": "Person_Name/Upload Image",
+ "instruction": "Take the face, skin tone, hairstyle, and identifying features exactly from the uploaded reference photo (or the named public figure) and realistically composite them onto the body/pose described below. Preserve the subject's real facial structure, expression style, and likeness with high fidelity — do not alter or stylize the face."
+ },
+ "wardrobe": {
+ "costume": "Classic red-and-blue Spider-Man suit (Sam Raimi trilogy-style webbed design)",
+ "condition": "Pristine, complete, and undamaged — no rips, tears, frays, or exposed threads anywhere on the suit; fabric appears brand-new, clean, and perfectly fitted",
+ "material_detail": "Textured spandex/lycra fabric with raised stitched web-lines, matte-yet-slightly-sheen finish, deep red chest and limbs, navy-blue sides and legs, large black spider emblem centered on chest",
+ "accessories": "Full-face or half-removed mask optional per pose (mask held in hand if partially removed), gloves and boots fully intact matching suit pattern"
+ },
+ "pose_and_composition": {
+ "framing": "Medium-to-full body shot, subject seated on the ledge/parapet of a rooftop",
+ "pose": "Relaxed seated crouch on the edge, one leg bent up, elbows resting on knee, hands loosely clasped or holding the mask, head turned toward camera with a calm, confident, slightly serious expression",
+ "camera_angle": "Slightly low-to-eye-level angle looking up at subject, shallow depth of field",
+ "aspect_ratio": "3:4 vertical portrait"
+ },
+ "environment": {
+ "setting": "Urban rooftop with HVAC units, vents, and antenna structures in the midground",
+ "background": "Dense city skyline of high-rise buildings, softly blurred (bokeh) to keep focus on subject",
+ "sky": "Overcast, moody cloud cover with soft diffused daylight"
+ },
+ "lighting": {
+ "type": "Improved cinematic soft lighting",
+ "key_light": "Large soft key light from upper-front-left, mimicking diffused daylight through clouds, gently wrapping around the face and suit to bring out fabric texture without harsh shadows",
+ "fill_light": "Subtle cool-toned fill from the right to lift shadow side of the face and suit, avoiding flat lighting",
+ "rim_light": "Faint rim/edge light along shoulders and hair to separate subject from the background skyline",
+ "color_grade": "Neutral-cool cinematic grade, slightly desaturated blues and grays in the environment, with the suit's red and blue kept rich and saturated as the focal color contrast",
+ "mood": "Clean, high-end editorial lighting — crisp highlights on suit texture, soft shadow falloff, no muddy or underexposed areas"
+ },
+ "photographic_style": {
+ "realism": "Hyper-photorealistic, shot-on-camera aesthetic (as if captured with a full-frame DSLR, 85mm lens, f/2.0)",
+ "texture_detail": "High micro-detail on fabric weave, skin pores, and hair strands",
+ "post_processing": "Subtle film-like grain, natural color balance, no over-saturation or artificial HDR look"
+ },
+ "inset_element": {
+ "include": true,
+ "description": "Small rounded-square inset photo in the bottom-right corner showing the real, unaltered reference photo/headshot of the subject for identity comparison",
+ "style": "White rounded border, drop shadow, placed at bottom-right corner without obscuring the main subject's face"
+ },
+ "negative_prompt": "no torn or ripped suit fabric, no visible skin through suit tears, no cartoonish rendering, no extra limbs, no distorted hands, no harsh flat lighting, no blurry face, no mismatched identity"
+}</code></pre>
+
+</details>
+
+## Quiet moments in the garden
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2082748798162387379)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `character`
+- **ImgLume record:** [1931](https://imglume.com/prompt/1931)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/43b02e46-febc-463a-adc7-b01781e47d47/ec9159c4-fbfe-4370-a12a-21a18ffb42b9-1785476169302 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/43b02e46-febc-463a-adc7-b01781e47d47/9b0d93c2-b17b-4ced-8d65-ac4bd521ae0a-1785476169302 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/43b02e46-febc-463a-adc7-b01781e47d47/63695503-9f6b-4b8d-85bb-56abb39b0952-1785476169302 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A serene literary escape amidst blooming garden ruins, where quiet pages meet timeless daydreams. Set within a sunlit, ivy-covered stone archway, a young woman with short dark hair immerses herself in a rustic journal and classic literature. Dressed in a floral patterned vintage slip dress paired with brown leather boots, she is surrounded by lush green foliage and delicate pink roses. Whimsical illustrated thought bubbles drift overhead, symbolizing imagination and storytelling. Golden hour lighting filters through the ancient trees, casting a warm, magical glow over the cobblestone path.</code></pre>
+
+</details>
+
+## Dual Portrait: Photorealistic and Anime Versions of Same Person
+
+- **Original source:** [@mehvishs25 on X](https://x.com/mehvishs25/status/2082816881841639454)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [1929](https://imglume.com/prompt/1929)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/988de302-c144-4112-b1c2-52fc02c5ae99/664d7c55-5e29-4e07-a056-349118cc9a6e-1785475410122 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/988de302-c144-4112-b1c2-52fc02c5ae99/9010f600-1d2b-403d-9ddc-9ab28105a92e-1785475410122 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the sole identity reference, accurately preserving the subject’s facial features, hairstyle, proportions, and recognizable appearance. Create a premium vertical portrait featuring two versions of the same person: a lifelike, ultra-photorealistic main subject alongside a smaller, beautifully illustrated anime counterpart that clearly shares the same face, hair, outfit, and personality. The anime companion should be irresistibly affectionate—hugging the subject’s arm, leaning against them, flashing tiny finger hearts, or looking up with sparkling, adoring eyes. Meanwhile, the realistic version wears an adorably fake unimpressed or mildly embarrassed expression, as if pretending to be bothered while secretly enjoying the attention. Emphasize the playful chemistry between the two characters, with the anime version openly expressing affection and the real version subtly revealing warmth beneath the teasing attitude. Set the scene against a clean, pastel-inspired Korean influencer aesthetic with soft natural lighting, elegant composition, crisp photorealism for the main figure, refined anime illustration quality, and an overall luxurious, social-media-ready finish.
+
+Avoid: genuine anger or hostility, emotionless expressions, dark or eerie atmosphere, poor facial resemblance, plastic or doll-like rendering, distorted anatomy, extra limbs or fingers, messy backgrounds, text, logos, or watermarks.</code></pre>
+
+</details>
+
+## Fine art oil portrait of a young woman in chiaroscuro
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2082887338514944046)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1925](https://imglume.com/prompt/1925)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d6e3775e-fdea-4b25-ac8c-2553eb8e724c/3a3178dc-6667-4cd9-953e-9c43095eff03-1785469900067 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Dramatic, fine art oil portrait of a young woman with light brown hair styled in an elegant updo, featuring loose strands framing her face. She is captured in a three-quarter profile pose with a thoughtful expression, wearing a high-collared dark lace dress and ornate dangling earrings. The scene uses chiaroscuro lighting, with a soft light source illuminating the right side of her face, nose, and lips, while casting the rest of her features and the textured dark background into deep, moody shadow. The digital painting style emphasizes visible brushstrokes and a rich, classical texture reminiscent of Renaissance portraiture.</code></pre>
+
+</details>
+
+## Minimalist black-and-white editorial character illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2082758275179900940)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1923](https://imglume.com/prompt/1923)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3da18a13-5c16-415f-8ad7-0b4b6189c513/780f80ef-add6-4438-a444-125867a14877-1785465722229 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3da18a13-5c16-415f-8ad7-0b4b6189c513/d2fdecd5-6ffc-4410-86ac-5e5c84dd082c-1785465722229 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/3da18a13-5c16-415f-8ad7-0b4b6189c513/81db771e-156e-4e44-8e13-3072a9b8b570-1785465722229 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/3da18a13-5c16-415f-8ad7-0b4b6189c513/9b0659f0-9f45-4c21-818c-c28af56feeeb-1785465722229 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Minimalist black-and-white editorial character illustration of [CHARACTER] on a clean white background with abundant negative space. The character occupies approximately 30–40% of the frame in [POSE], wearing [CLOTHING] and interacting with [PROP] (phone, laptop, skateboard, shopping bag, etc.). Stylized proportions with a slightly oversized head, simplified facial features, small dot eyes, expressive eyebrows, tiny nose, and a subtle friendly smile. Loose casual streetwear with oversized silhouettes, chunky sneakers, simple accessories, and relaxed body language.
+Drawn using clean, confident black ink linework with varied line weights, rounded contours, soft sketch-like imperfections, and expressive hand-drawn strokes. Use only solid black and white with no grayscale, no color, and no gradients. Clothing is rendered with large black graphic shapes contrasted against white fabric, minimal folds, simple contour lines, and sparse hatching. Add only a soft ground shadow beneath the feet.
+The composition is centered with generous white margins, creating a modern editorial look. The background remains completely blank except for a subtle floor line or shadow. Overall aesthetic resembles contemporary indie webcomic illustrations, Scandinavian editorial drawings, playful lifestyle character design, and clean vector-inspired ink sketches. High-resolution, crisp line art, minimalistic, expressive, stylish, charming, hand-drawn, 2D illustration, monochrome, no background elements, 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## Expressive mixed-media portrait on reddish-brown toned paper
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2082819355273015723)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [1921](https://imglume.com/prompt/1921)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/03fb1827-0070-4883-8480-3a82750b97d7/5fe599ae-399d-4f61-9851-d91d41ae0ec2-1785465687313 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/03fb1827-0070-4883-8480-3a82750b97d7/ca64262d-8be5-4c05-9086-ac197be24928-1785465687313 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Expressive mixed-media portrait style on reddish-brown toned paper, rough textured background resembling warm sepia kraft paper, loose and gestural sketch lines combined with painterly strokes, visible construction lines and scribbles, semi-abstract rendering, face and neck highly refined with layered brushwork and subtle color blending, while the rest of the body remains unfinished and loosely suggested, fragmented edges and fading outlines, dynamic linework with pencil and ink feel, soft diffused lighting with warm and cool tonal contrasts, raw artistic process aesthetic, imperfect and organic, with visible strokes, cross-hatching, and color blocking, contemporary expressive realism style.</code></pre>
+
+</details>
 
 ## Minimalist hand-drawn doodle illustration
 
