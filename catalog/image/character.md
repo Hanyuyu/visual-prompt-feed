@@ -1,9 +1,215 @@
 # Character image prompts
 
-29 source-linked prompts, newest ImgLume records first.
+33 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Mid-century theatrical cartoon still
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2083469713498407039)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2015](https://imglume.com/prompt/2015)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed33ad0b-f369-4759-99a4-0cd7ad0307c1/fe65f545-155d-409d-a48e-3a7cd5d9b7e3-1785599153168 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ed33ad0b-f369-4759-99a4-0cd7ad0307c1/6d6da3fb-72de-450d-b3be-740c32d1c282-1785599153168 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ed33ad0b-f369-4759-99a4-0cd7ad0307c1/0dc93230-5f10-451c-bced-8de02c88fd08-1785599153168 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ed33ad0b-f369-4759-99a4-0cd7ad0307c1/6cfd9e6e-26ed-4f9d-933c-6b52e7df4433-1785599153168 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Mid-century theatrical cartoon still featuring [CHARACTER], with [HAIR TYPE], wearing [CLOTHING], and [CHARACTER], with [HAIR], wearing [CLOTHING], seated, inside [SCENERY]. Stage them in a lighthearted, good-humored interaction, with both characters fully visible, relaxed, and clearly reacting to each other. Design the figures with exaggerated early-1950s animation caricature: clean black contour lines, sharply simplified anatomy, elegant angular silhouettes, expressive eyebrows, stylized facial shapes, graceful hand gestures, and cheerful readable expressions. Render the entire image in a unified traditional cel-animation aesthetic, with the background following the same stylized visual language as the characters, using flat opaque colors, minimal hard-edged shading, simplified furniture and décor, subtle hand-painted texture, controlled perspective, and crisp theatrical staging. Use a [COLORS] palette and maintain a witty, charming, visually snappy mood.</code></pre>
+
+</details>
+
+## Young woman painting in a sunny European marketplace
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2083475997832212846)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2013](https://imglume.com/prompt/2013)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e958984c-9b6a-44e6-9139-7ea2a84cdae5/86d2414f-59a8-439e-8d64-a06962af530a-1785599118880 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e958984c-9b6a-44e6-9139-7ea2a84cdae5/a5f65081-3c56-44ba-af6e-8bcb0b9439e2-1785599118880 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e958984c-9b6a-44e6-9139-7ea2a84cdae5/f6cf6e6a-15c7-4abe-998c-c25983873a95-1785599118880 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A charming young woman with long, dark wavy hair, wearing a structured emerald-green dress with a modest neckline, stands outdoors in a cobblestone European marketplace. She holds a paint palette and brush, capturing the warm rustic stalls filled with cheeses and dried herbs under golden hour cinematic lighting.</code></pre>
+
+</details>
+
+## Graceful woman enjoying coffee on a European balcony
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2083440714830995771)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `food-drink`
+- **ImgLume record:** [2007](https://imglume.com/prompt/2007)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/313cb0f7-4b89-44b3-b402-481b3c2b1ab6/ef7f83cd-4c38-45d8-abe8-ab676c10879a-1785592825367 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/313cb0f7-4b89-44b3-b402-481b3c2b1ab6/fc01de76-b3d0-4c38-8c0b-7d002f6f7eca-1785592825367 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A graceful young woman with intricately braided dark hair, wearing a cozy long-sleeved red wrap dress, stands on an old-world stone balcony overlooking a European street. She leans gently against a decorative wrought-iron railing while holding a warm ceramic cup, bathed in the soft glow of golden hour cinematic lighting.</code></pre>
+
+</details>
+
+## Mixed-media vertical portrait of character with realistic full-body and black doodle-shadow
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2083413793611133195)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2002](https://imglume.com/prompt/2002)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0ef4f1a9-f5a2-4e91-b1e3-3416c8d68d0c/b1fbf64c-7853-4f47-a208-c73b45bc0779-1785582336814 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0ef4f1a9-f5a2-4e91-b1e3-3416c8d68d0c/891fe929-e7a6-48ac-bd59-31b5298ae48e-1785582336814 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0ef4f1a9-f5a2-4e91-b1e3-3416c8d68d0c/245b7ebf-064a-4662-a205-c863cfd32692-1785582336814 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded character reference image as the strict identity and outfit reference.
+
+Preserve the reference character’s:
+
+face identity
+
+facial proportions
+
+eyes
+
+nose
+
+lips
+
+skin tone
+
+hairstyle
+
+hair color
+
+visible hair accessories
+
+overall recognizable vibe
+
+outfit and styling
+
+Infer all identity, hairstyle, accessories, and clothing only from the uploaded reference. Do not add traits not present.
+
+Create a high-quality mixed-style vertical portrait showing:
+
+1. a realistic full-body version of the uploaded character/person
+
+2. a black hand-drawn doodle-shadow of the same character on the wall beside them
+
+Core concept: The real person and their doodle-shadow share a cute, mischievous pose. The real person performs a realistic version, while the doodle-shadow exaggerates it with chaotic cartoon energy. The mood is playful, stylish, funny, and social-media-friendly.
+
+Real person:
+
+realistic and photogenic
+
+keep the same outfit and styling from the reference
+
+cute, slightly embarrassed, playful expression
+
+natural body language
+
+actively joins the pose
+
+Doodle-shadow:
+
+black sketch line-art drawn on the wall
+
+not a real person or normal shadow
+
+resemble the person through hairstyle, accessories, outfit silhouette, and pose
+
+more energetic and exaggerated
+
+optional manga motion lines, hearts, stars, sparkles, and comic effects
+
+Random mischievous pose rule: Generate a different playful pose every time. The real person and doodle share the same pose idea but not identical execution. Avoid repeated pointing, finger-guns, stiff standing, mirrored poses, or fixed compositions.
+
+Examples include:
+
+idol pose
+
+silly dance
+
+ta-da
+
+mock surprise
+
+playful tiptoe
+
+sneaking away
+
+peekaboo
+
+dramatic overreaction
+
+balance pose
+
+victory pose
+
+shy troublemaker
+
+overconfident pose
+
+Composition:
+
+vertical 4:5 or 9:16
+
+full or nearly full body
+
+real person on one side
+
+doodle-shadow on a clean wall beside them
+
+similar height
+
+clear interaction
+
+Background:
+
+simple indoor studio or minimal room
+
+white, cream, or pale gray wall
+
+clean floor
+
+uncluttered
+
+soft sunlight or gentle wall shadow allowed
+
+Lighting:
+
+soft natural studio lighting
+
+bright, clean, playful
+
+face clearly visible
+
+Style quality:
+
+realistic photography
+
+black doodle-shadow
+
+faithful identity and outfit
+
+strong resemblance
+
+clean composition
+
+polished mixed-media portrait
+
+no obvious AI artifacts
+
+Negative prompt: Hardcoded hair/accessories/outfits not in reference, unrelated outfit changes, realistic second person, normal reflection/shadow, horror or monster shadow, full-color cartoon/anime human, weak resemblance, unrelated sketch, cluttered background, repeated or fixed poses, stiff body, bad hands, extra limbs/fingers, distortion, text, watermark, logo.</code></pre>
+
+</details>
 
 ## Rooftop Spider-Suit Portrait — Photorealistic Composite
 

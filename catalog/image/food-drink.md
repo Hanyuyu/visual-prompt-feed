@@ -1,9 +1,26 @@
 # Food Drink image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+7 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Graceful woman enjoying coffee on a European balcony
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2083440714830995771)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `food-drink`
+- **ImgLume record:** [2007](https://imglume.com/prompt/2007)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/313cb0f7-4b89-44b3-b402-481b3c2b1ab6/ef7f83cd-4c38-45d8-abe8-ab676c10879a-1785592825367 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/313cb0f7-4b89-44b3-b402-481b3c2b1ab6/fc01de76-b3d0-4c38-8c0b-7d002f6f7eca-1785592825367 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A graceful young woman with intricately braided dark hair, wearing a cozy long-sleeved red wrap dress, stands on an old-world stone balcony overlooking a European street. She leans gently against a decorative wrought-iron railing while holding a warm ceramic cup, bathed in the soft glow of golden hour cinematic lighting.</code></pre>
+
+</details>
 
 ## Instant Ramen ASMR Storyboard Infographic
 

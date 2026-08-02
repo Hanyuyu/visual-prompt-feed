@@ -1,9 +1,26 @@
 # Nature image prompts
 
-2 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Magical night river under luminous full moon
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083231605368258804)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [1978](https://imglume.com/prompt/1978)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c407bb4-4203-4e85-84c1-52dfbdb9c355/6dbaa29f-6122-446c-9ba4-a1453450f44b-1785529867647 "A magical night scene featuring a serene river lined with tall grasses, blooming lotus flowers, and wild irises, illuminated by the glow of a large, luminous full moon. Several empty wooden boats with lanterns float gently on the calm water, reflecting the moonlight. In the foreground, a graceful willow tree drapes over the shore, while mist rises among distant trees, and the sky above is filled with countless stars and a vibrant band of the Milky Way. The overall mood is tranquil, dreamy, and enchanting, with a painterly, fantasy art style.")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A magical night scene featuring a serene river lined with tall grasses, blooming lotus flowers, and wild irises, illuminated by the glow of a large, luminous full moon. Several empty wooden boats with lanterns float gently on the calm water, reflecting the moonlight. In the foreground, a graceful willow tree drapes over the shore, while mist rises among distant trees, and the sky above is filled with countless stars and a vibrant band of the Milky Way. The overall mood is tranquil, dreamy, and enchanting, with a painterly, fantasy art style.</code></pre>
+
+</details>
 
 ## Glowing sunrise sunflower painting
 

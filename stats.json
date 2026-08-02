@@ -1,19 +1,19 @@
 {
   "schemaVersion": "imglume.open-prompts.v1",
-  "generatedAt": "2026-07-31T17:37:19.614Z",
-  "total": 449,
+  "generatedAt": "2026-08-01T15:46:17.746Z",
+  "total": 485,
   "mediaTypes": {
-    "image": 269,
-    "video": 180
+    "image": 291,
+    "video": 194
   },
-  "authors": 122,
-  "sourcePosts": 427,
-  "mediaAssets": 908,
+  "authors": 125,
+  "sourcePosts": 464,
+  "mediaAssets": 976,
   "categories": {
     "animation": {
-      "total": 27,
+      "total": 26,
       "image": 0,
-      "video": 27
+      "video": 26
     },
     "architecture": {
       "total": 9,
@@ -26,44 +26,49 @@
       "video": 25
     },
     "character": {
-      "total": 52,
-      "image": 29,
-      "video": 23
+      "total": 57,
+      "image": 33,
+      "video": 24
     },
     "cinematic": {
-      "total": 146,
-      "image": 19,
-      "video": 127
+      "total": 158,
+      "image": 21,
+      "video": 137
     },
     "food-drink": {
-      "total": 22,
-      "image": 6,
-      "video": 16
+      "total": 26,
+      "image": 7,
+      "video": 19
     },
     "illustration-3d": {
-      "total": 15,
-      "image": 15,
+      "total": 16,
+      "image": 16,
       "video": 0
     },
     "nature": {
-      "total": 4,
-      "image": 2,
-      "video": 2
+      "total": 6,
+      "image": 3,
+      "video": 3
     },
     "photography": {
-      "total": 173,
-      "image": 173,
+      "total": 185,
+      "image": 185,
       "video": 0
     },
     "poster-design": {
-      "total": 15,
-      "image": 15,
+      "total": 16,
+      "image": 16,
       "video": 0
     },
     "product-ads": {
-      "total": 28,
+      "total": 31,
       "image": 9,
-      "video": 19
+      "video": 22
+    },
+    "product-brand": {
+      "total": 2,
+      "image": 1,
+      "video": 1
     },
     "travel": {
       "total": 13,
@@ -71,9 +76,9 @@
       "video": 5
     },
     "ugc": {
-      "total": 13,
+      "total": 14,
       "image": 0,
-      "video": 13
+      "video": 14
     },
     "ui-graphic": {
       "total": 1,
@@ -82,26 +87,26 @@
     }
   },
   "recommendedModels": {
-    "gptimage": 229,
-    "nanobanana": 40,
-    "seedance": 180
+    "gptimage": 250,
+    "nanobanana": 41,
+    "seedance": 194
   },
   "sourceModels": {
-    "gptimage": 72,
+    "gptimage": 75,
     "grok": 1,
     "kling": 5,
-    "midjourney": 4,
+    "midjourney": 5,
     "nanobanana": 40,
-    "other": 275,
-    "seedance": 70,
+    "other": 304,
+    "seedance": 73,
     "seedream": 3
   },
   "languages": {
-    "en": 376,
+    "en": 409,
     "English": 11,
     "ja": 1,
     "ko": 1,
-    "unknown": 42,
+    "unknown": 45,
     "zh": 18
   }
 }

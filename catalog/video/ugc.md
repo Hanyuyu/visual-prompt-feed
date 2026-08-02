@@ -1,9 +1,26 @@
 # UGC video prompts
 
-13 source-linked prompts, newest ImgLume records first.
+14 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Photorealistic smartphone selfie vlog at a Japanese strawberry farm
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2083520337157787838)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2016](https://imglume.com/prompt/2016)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ec81de19-e792-4789-8282-56013328b8a5/1a11a3fb-0249-4a4e-a749-76aa121cf826-1785599166079 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic smartphone selfie vlog that looks exactly like a real mobile phone recording. A young Korean woman (image = her face and hair) visits a beautiful strawberry farm in Japan on a sunny spring morning. She naturally speaks Japanese throughout the vlog. Holding her phone in selfie mode with realistic handheld movement, slight hand shake, authentic smartphone autofocus, and true-to-life colors, she smiles and says, 「今日はイチゴ狩りに来ました！」 ("Today I came strawberry picking!"). She walks through long rows of strawberry plants, carefully picks ripe red strawberries, and places them into a small woven basket. She chooses one fresh strawberry, takes a bite, smiles with genuine delight, and says, 「甘くておいしい！」 ("It's so sweet and delicious!"). As she continues picking, the basket gradually fills with strawberries. She proudly holds the full basket toward the camera, laughs naturally, then gives a warm wave and says, 「またね！」 ("See you!"), reaching toward the phone to end the recording. The video should feel exactly like a genuine smartphone vlog with natural human movement, consistent facial features, realistic strawberry picking, authentic outdoor lighting, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only real farm ambience, birds, gentle wind, footsteps, and natural outdoor sounds.</code></pre>
+
+</details>
 
 ## Young Korean woman cleaning a window – 30‑second documentary‑style video
 

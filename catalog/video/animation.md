@@ -1,65 +1,9 @@
 # Animation video prompts
 
-27 source-linked prompts, newest ImgLume records first.
+26 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
-
-## Seedance 2.0 Cinematic Anime Video Prompt
-
-- **Original source:** [@Ambani_Wessley on X](https://x.com/Ambani_Wessley/status/2083226872503029956)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `animation`, `cinematic`
-- **ImgLume record:** [1973](https://imglume.com/prompt/1973)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9175b6d3-4a4b-4d12-8566-b72fcac36d2b/c18338c5-5a97-4a2a-9b51-6a72a67ffd2b-1785519413953 "Image prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>Animate the provided first frame into a 15-second surreal comedy AI video in 1:1 square format. Keep the same rainy coastal fish market, same wet concrete floor, same realistic reflections, same Niko in yellow rain jacket, same expressive silver fish, same old fish seller, and same deadpan absurd comedy style throughout the entire video.
-STYLE:
-Surreal cinematic comedy, realistic AI short film, wet coastal fish market, muted blue-gray dawn light, warm stall bulbs, handheld low-angle camera energy, expressive physical comedy, believable water splashes, slightly stylized facial reactions, absurd but grounded. The tone should be funny and strange, not scary or violent.
-CHARACTER LOCK:
-Exactly three main characters appear:
-Niko is always the young courier in a faded yellow rain jacket, dark green cargo pants, sneakers, and delivery bag.
-The Fish is always the medium silver fish with expressive eyes and small orange fins.
-The Old Fish Seller is always the calm elderly vendor in blue apron and rain hat.
-Do not change their appearance, roles, scale, or identities.
-TIMELINE:
-0–1.5s:
-Start exactly from the first frame. Niko’s sneaker hovers above the fish on the wet market floor. The fish looks up, offended. Rain drips from the tarp, puddles ripple.
-1.5–3s:
-Niko lightly steps on the fish’s tail by accident. The fish squeaks and its eye narrows dramatically. Niko freezes mid-step and slowly looks down.
-3–4.5s:
-Close-up on the fish puffing up with ridiculous seriousness. Its scales shimmer, orange fins spread, and a tiny splash forms around it.
-4.5–6s:
-The fish slaps Niko’s ankle with its tail. Water splashes. Niko loses balance, arms windmilling, delivery bag swinging.
-6–7.5s:
-Niko slides backward across the wet concrete in a clumsy panic. The Old Fish Seller watches from the stall, completely calm.
-7.5–9s:
-The fish flops upright for one impossible comedic beat, glaring like a tiny kung fu master. Camera pushes in slightly.
-9–10.5s:
-Niko raises both hands as if apologizing, awkward smile, one foot still sliding. The fish launches upward from the puddle in a spinning arc.
-10.5–12s:
-Slow-motion comedic impact. The fish lightly tail-slaps Niko’s face. Water droplets fly across the frame, no injury, just absurd slapstick.
-12–13.5s:
-Niko spins once and lands sitting in a crate of ice, shocked and harmlessly embarrassed. Ice cubes scatter and bounce.
-13.5–15s:
-Final deadpan hero shot. The fish lands back in the puddle, proud and still. Niko sits stunned in the background. The Old Fish Seller calmly returns to work. End on the fish looking directly into camera.
-CAMERA:
-Use square-format comedy cinematography: low ground-level opening shot, fish eye close-up, handheld reaction shot, sliding wide shot, slow-motion slap shot, final deadpan centered frame. Keep the action readable and comedic.
-MOTION:
-Fish movement should be absurd but physically clear: tail twitch, puff up, splash slap, upright flop, spinning launch, tail slap, perfect landing.
-Niko’s movement is clumsy and human: freeze, look down, slip, windmill arms, slide, apologize, spin, land in ice crate.
-Water, puddles, ice, jacket fabric, delivery bag, tarps, and reflections should react naturally.
-LIGHTING:
-Soft blue-gray dawn light, warm market bulbs, wet reflections, subtle mist, realistic low-contrast morning atmosphere.
-ENDING:
-End with the silver fish victorious in the foreground puddle, Niko embarrassed in the ice crate behind it, and the vendor deadpan in the background.</code></pre>
-
-</details>
 
 ## Animated forest riverside picnic
 

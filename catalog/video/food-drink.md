@@ -1,9 +1,122 @@
 # Food Drink video prompts
 
-16 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic premium coffee commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2083415109536559588)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [1996](https://imglume.com/prompt/1996)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b4dcfbd-92f8-4ccb-9f60-64e0132aab04/d4f42f4e-e0e8-481c-b730-fbfa42508a19-1785576020249 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic premium coffee commercial featuring the same beautiful young woman consistently throughout the entire sequence. Maintain identical facial features, hairstyle, skin tone, body proportions, outfit, and accessories in every shot. She wears a fitted lavender ribbed tank top, light blue high-waisted jeans, delicate gold jewelry, and soft natural makeup. The setting is a bright Scandinavian-style kitchen transitioning into a stylish neighborhood café on a warm sunny morning.
+
+The video opens with a cinematic close-up of her face as soft golden sunlight streams through the kitchen window. She smiles gently toward the camera before placing a crystal-clear glass onto a wooden countertop.
+
+She slowly drops several large crystal-clear ice cubes into the glass. Cinematic macro shots capture the cubes splashing, tiny droplets flying through the air, and condensation forming on the glass.
+
+Next, she pours fresh cold milk into the glass. Close-up shots showcase the creamy liquid flowing around the ice while sunlight shines through the glass, creating beautiful reflections.
+
+She then slowly pours a rich double espresso over the milk. Ultra-detailed macro cinematography captures the espresso cascading into the glass, creating mesmerizing swirling layers of caramel, cream, and deep coffee tones. Slow-motion shots highlight every ripple and movement.
+
+She gently stirs the drink with a clear glass straw until the coffee becomes perfectly blended. Macro shots emphasize the silky textures, swirling patterns, ice moving naturally, and tiny bubbles rising to the surface.
+
+She lifts the finished iced latte, takes a refreshing sip, closes her eyes for a brief moment, and smiles with satisfaction.
+
+Carrying the drink, she walks through a charming tree-lined street toward a modern artisan bakery. Warm sunlight, gentle breeze, and soft shadows create an inviting atmosphere.
+
+Inside the bakery, she carefully selects a freshly baked buttery croissant using elegant serving tongs. Cinematic macro shots capture the flaky golden crust, crisp layers, and delicate crumbs falling naturally as it is placed into a paper bag.
+
+She steps outside the bakery holding both the iced latte and the warm croissant. Walking slowly through the peaceful neighborhood, she enjoys the fresh morning air before taking a bite of the croissant while holding the coffee.
+
+The commercial ends with a beautiful close-up of her smiling toward the camera while holding the iced latte. The camera slowly pulls back to reveal the cozy café, sunlit street, and relaxed morning atmosphere as the drink and pastry remain the visual heroes.
+
+Natural ambient audio only: birds chirping, gentle footsteps, ice cubes clinking, milk pouring, espresso flowing, coffee swirling, glass tapping, café ambience, bakery sounds, paper bag rustling, soft breeze, distant conversations, and leaves moving in the wind. No background music, no dialogue, no subtitles, no logos, no watermarks, and no on-screen text. Premium luxury food and beverage commercial, cinematic camera movement, realistic textures, physically accurate lighting, shallow depth of field, warm golden-hour colour grading, 16:9 widescreen, 4K HDR.
+
+Give a storyboard image for it in 16:9 using this prompt ..no text on storyboard image</code></pre>
+
+</details>
+
+## Handheld coffee vlog in a kitchen – Seedance 2.5 prompt
+
+- **Original source:** [@VishalAiLabs on X](https://x.com/VishalAiLabs/status/2083259837031559212)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [1985](https://imglume.com/prompt/1985)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/18f23218-89dc-4d67-b2f7-80a10fe8ad07/348cfc00-06b1-47f3-8ae2-4e7181a28d88-1785563418277 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject himself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+SUBJECT: Young man in his mid-20s, plain black t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+STORYBOARD:
+(3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+(3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+(3s, close-up) Tamps the grounds down firmly and evenly.
+(3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+(3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+(3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+(3s, macro shot) Steam wand hissing as it froths the milk.
+(3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+(3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+(3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.</code></pre>
+
+</details>
+
+## 15-Second Bisconni Cocomo Party Pack Commercial
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083386939756138745)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [1983](https://imglume.com/prompt/1983)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e2f7103d-0506-4653-ac92-86480580bbc2/ef9a7fc3-fdfc-403d-890f-9627073fb73d-1785559226031 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-energy, ultra-realistic 15-second commercial featuring a young woman with long wavy blonde hair, fair skin, bright blue eyes, and a confident, playful expression. She wears a colorful streetwear outfit consisting of a vibrant yellow oversized hoodie, denim shorts, white sneakers, and colorful wristbands. She skateboards with natural, realistic body movement and expressive facial performance. The featured product is a vibrant red plastic stand-up pouch of **Bisconni Cocomo Chocolate Filled Biscuits Party Pack**. The pouch features a large yellow **"PARTY PACK"** banner in bold red letters decorated with colorful party hats, the white **Bisconni** logo inside a red oval, the large **"Cocomo"** logo in rainbow gradient letters with a blue outline, the text **"CHOCOLATE FILLED BISCUITS"** in white beneath it, and a circular illustration of four smiling cartoon children on the front. Several cheerful cartoon kids peek from behind the pouch, while round light-brown chocolate-filled biscuits with embossed designs including a smiling car, star, sun face, train, and chocolate-topped biscuit appear throughout the commercial. Bright summer colors, commercial-grade realism, highly detailed textures, vibrant product branding, cinematic camera movement, realistic physics, crisp typography exactly matching the packaging, premium food-commercial quality, 4K.
+
+**Shot 1 (0:00–0:01.5):** Wide fisheye push into a colorful graffiti-covered skate bowl beneath bright midday sunshine. Chocolate cream ribbons begin swirling around the bowl while embossed Cocomo biscuits tumble playfully through the air. The blonde skater stands at the rim holding the vibrant red Cocomo Party Pack. Palm trees sway against a deep blue sky. Whip pan right transition.
+
+**Shot 2 (0:01.5–0:03):** Whip pan resolves into an extreme macro close-up of the Cocomo pouch. Condensation droplets sparkle across the glossy packaging while sunlight creates brilliant highlights over the rainbow Cocomo logo, the yellow PARTY PACK banner, and the smiling cartoon children. The camera slowly glides across the surface before a matched zoom transition.
+
+**Shot 3 (0:03–0:04.5):** Pull back reveals the blonde skater dropping into the bowl. Chocolate ribbons spiral around her skateboard while Cocomo biscuits float beside her in slow arcs. Graffiti walls streak past with energetic handheld movement. Speed-ramp transition.
+
+**Shot 4 (0:04.5–0:06):** At maximum speed, she thrusts the Cocomo Party Pack toward the camera. A dramatic burst of flowing chocolate filling erupts outward, carrying flying embossed biscuits toward the lens. Strong midday backlight creates glowing highlights. Smash cut.
+
+**Shot 5 (0:06–0:07.5):** The chocolate splash freezes into elegant suspended ribbons while biscuits rotate slowly through the sunlight. Every biscuit embossing remains visible as the camera performs a smooth left orbit around the floating action at approximately 20% speed.
+
+**Shot 6 (0:07.5–0:09):** Orbit rises into a dramatic overhead fisheye shot. The blonde skater lifts the Cocomo pouch triumphantly while chocolate ribbons spiral around her and dozens of biscuits circle like confetti. Bright sunshine illuminates the vibrant red packaging. Crane match transition.
+
+**Shot 7 (0:09–0:10.5):** Camera cranes downward as she lands an impressive skateboard trick. Chocolate streams wrap around the skateboard while biscuits bounce naturally around the landing. Motion blur enhances speed as she smiles confidently toward camera. Match cut.
+
+**Shot 8 (0:10.5–0:12):** Match cut into a smooth dolly push toward the smiling blonde skater extending the Cocomo Party Pack. Chocolate ribbons and embossed biscuits continue floating gracefully around her while warm sunlight sweeps across her face. Speed ramps gradually into slow motion before fading.
+
+**Shot 9 (0:12–0:13):** Fade into a tight cinematic push toward the pouch only inches from the lens. Condensation droplets slide naturally across the glossy packaging while shallow depth of field shifts gently across the PARTY PACK banner, Bisconni logo, rainbow Cocomo typography, cartoon children illustration, and chocolate-filled biscuit graphics. Match cut.
+
+**Shot 10 (0:13–0:15):** Hero ending. Slow orbit around the blonde skater frozen mid-air performing a skateboard trick while confidently presenting the Cocomo Party Pack directly toward the camera. Rich chocolate ribbons cascade around her as embossed biscuits fly through the frame. Bright sun flares sweep across the lens, ending on a crystal-clear hero shot of the package with every logo, illustration, color, and typography perfectly matching the original packaging.
+
+**Audio:** Upbeat tropical electro-pop soundtrack with premium commercial sound design. Realistic skateboard wheel rolls, ramp impacts, chocolate splash effects, biscuit impacts, energetic whooshes, camera transition swishes, sparkling packaging sounds, and a polished advertising mix synchronized precisely with every camera movement and transition.</code></pre>
+
+</details>
 
 ## Animated forest riverside picnic
 

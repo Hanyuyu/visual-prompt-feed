@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "imglume.open-prompts.v1",
+  "facet": "category",
+  "value": "product-brand",
+  "label": "Product Brand",
+  "count": 2,
+  "mediaTypes": {
+    "image": 1,
+    "video": 1
+  },
+  "ids": [
+    "byradar:2083378889225801886:0",
+    "byradar:2083529149331788156:0"
+  ]
+}

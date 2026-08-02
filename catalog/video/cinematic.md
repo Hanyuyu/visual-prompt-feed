@@ -1,63 +1,418 @@
 # Cinematic video prompts
 
-127 source-linked prompts, newest ImgLume records first.
+137 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Seedance 2.0 Cinematic Anime Video Prompt
+## Photorealistic Cinematic Documentary of a Chiropractic Session
 
-- **Original source:** [@Ambani_Wessley on X](https://x.com/Ambani_Wessley/status/2083226872503029956)
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2083402592282132693)
 - **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `animation`, `cinematic`
-- **ImgLume record:** [1973](https://imglume.com/prompt/1973)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9175b6d3-4a4b-4d12-8566-b72fcac36d2b/c18338c5-5a97-4a2a-9b51-6a72a67ffd2b-1785519413953 "Image prompt preview")
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2017](https://imglume.com/prompt/2017)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d0886650-523e-4e1e-a703-54578323dd11/97b935b8-7e20-4344-a6d9-49426f0116e8-1785599177746 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Animate the provided first frame into a 15-second surreal comedy AI video in 1:1 square format. Keep the same rainy coastal fish market, same wet concrete floor, same realistic reflections, same Niko in yellow rain jacket, same expressive silver fish, same old fish seller, and same deadpan absurd comedy style throughout the entire video.
-STYLE:
-Surreal cinematic comedy, realistic AI short film, wet coastal fish market, muted blue-gray dawn light, warm stall bulbs, handheld low-angle camera energy, expressive physical comedy, believable water splashes, slightly stylized facial reactions, absurd but grounded. The tone should be funny and strange, not scary or violent.
-CHARACTER LOCK:
-Exactly three main characters appear:
-Niko is always the young courier in a faded yellow rain jacket, dark green cargo pants, sneakers, and delivery bag.
-The Fish is always the medium silver fish with expressive eyes and small orange fins.
-The Old Fish Seller is always the calm elderly vendor in blue apron and rain hat.
-Do not change their appearance, roles, scale, or identities.
-TIMELINE:
-0–1.5s:
-Start exactly from the first frame. Niko’s sneaker hovers above the fish on the wet market floor. The fish looks up, offended. Rain drips from the tarp, puddles ripple.
-1.5–3s:
-Niko lightly steps on the fish’s tail by accident. The fish squeaks and its eye narrows dramatically. Niko freezes mid-step and slowly looks down.
-3–4.5s:
-Close-up on the fish puffing up with ridiculous seriousness. Its scales shimmer, orange fins spread, and a tiny splash forms around it.
-4.5–6s:
-The fish slaps Niko’s ankle with its tail. Water splashes. Niko loses balance, arms windmilling, delivery bag swinging.
-6–7.5s:
-Niko slides backward across the wet concrete in a clumsy panic. The Old Fish Seller watches from the stall, completely calm.
-7.5–9s:
-The fish flops upright for one impossible comedic beat, glaring like a tiny kung fu master. Camera pushes in slightly.
-9–10.5s:
-Niko raises both hands as if apologizing, awkward smile, one foot still sliding. The fish launches upward from the puddle in a spinning arc.
-10.5–12s:
-Slow-motion comedic impact. The fish lightly tail-slaps Niko’s face. Water droplets fly across the frame, no injury, just absurd slapstick.
-12–13.5s:
-Niko spins once and lands sitting in a crate of ice, shocked and harmlessly embarrassed. Ice cubes scatter and bounce.
-13.5–15s:
-Final deadpan hero shot. The fish lands back in the puddle, proud and still. Niko sits stunned in the background. The Old Fish Seller calmly returns to work. End on the fish looking directly into camera.
-CAMERA:
-Use square-format comedy cinematography: low ground-level opening shot, fish eye close-up, handheld reaction shot, sliding wide shot, slow-motion slap shot, final deadpan centered frame. Keep the action readable and comedic.
-MOTION:
-Fish movement should be absurd but physically clear: tail twitch, puff up, splash slap, upright flop, spinning launch, tail slap, perfect landing.
-Niko’s movement is clumsy and human: freeze, look down, slip, windmill arms, slide, apologize, spin, land in ice crate.
-Water, puddles, ice, jacket fabric, delivery bag, tarps, and reflections should react naturally.
-LIGHTING:
-Soft blue-gray dawn light, warm market bulbs, wet reflections, subtle mist, realistic low-contrast morning atmosphere.
-ENDING:
-End with the silver fish victorious in the foreground puddle, Niko embarrassed in the ice crate behind it, and the vendor deadpan in the background.</code></pre>
+<pre><code>Create a 30 second photorealistic cinematic documentary video in 16:9 at 30 frames per second inside a modest chiropractic treatment room. It must feel like genuine unscripted social media footage, with believable anatomy, natural skin texture, subtle breathing, realistic fabric folds, accurate hand contact, consistent proportions, and continuous motion.
+
+A slim athletic woman in her late thirties wears a dark forest green sleeveless workout top and matching leggings, with brown hair in a slightly messy bun. A calm male practitioner in his early thirties wears a faded pale yellow graphic shirt, loose brown trousers, and a gray towel over one shoulder. The room has white walls, a black segmented treatment table, a deep green cushion, an orange cabinet, a warm lamp, framed anatomy charts, and discreet clinical equipment. Bright ceiling panels create neutral soft light.
+
+At 0 to 3 seconds open with a close medium shot of the practitioner carefully supporting the seated woman’s head and shoulder. Use a quick natural handheld push closer, then show one small controlled movement, a restrained release sound, her surprised inhale, and a relieved laugh. No exaggerated twisting.
+
+At 3 to 7 seconds cut to a centered eye level medium shot. She touches the right side of her neck and lower back while describing years of tightness, vulnerable but composed. The practitioner listens behind her. Use subtle camera sway and realistic pauses.
+
+At 7 to 11 seconds show a brief mobility assessment from a wider three quarter angle. He gently guides her head left and right while watching her range. Add one close insert of his hands safely positioned at the jaw and upper neck, then her cautious side glance. Preserve wardrobe, hair, room layout, and hand placement across every cut.
+
+At 11 to 17 seconds show her lying on her side with her head on the green cushion. Frame a medium side view as he positions her bent leg and supports her shoulder and pelvis. She exhales, he applies one controlled adjustment, and the camera gives a tiny involuntary shake at the release. Cut close as she laughs in disbelief and relaxes.
+
+At 17 to 22 seconds return to the seated position. In an intimate front three quarter shot he places the gray towel softly behind her neck, checks her comfort, and performs one gentle controlled cervical adjustment. Her shoulders drop. Capture a quiet breath, moist eyes, and a small smile, never theatrical emotion.
+
+At 22 to 27 seconds hold a close medium shot while she touches her neck, turns her head farther than before, and becomes tearful with relief. The practitioner steps back. Use a slow handheld drift inward, realistic depth of field, and detailed facial micro expressions.
+
+At 27 to 30 seconds use a wider final shot. She stands, bends forward to test her movement, rises smiling, then gives the practitioner a brief grateful hug. End with her touching her neck and laughing softly, with the orange cabinet and anatomy chart visible.
+
+Edit with clean straight cuts and one subtle match cut between the opening and later seated adjustment. Use restrained grading with natural greens, warm yellow, soft orange accents, realistic highlight rolloff, and fine sensor grain. Avoid beauty filters, plastic skin, warped hands, duplicated limbs, unstable backgrounds, impossible neck motion, extreme cracking, medical claims, text, logos, captions, watermarks, or voiceover.
+
+Audio includes room tone, clothing movement, table creaks, soft breathing, dialogue murmurs, one restrained adjustment sound, and her genuine laugh. Add minimal emotional music with low pulsing piano and muted percussion at the start, warm cello and soft ambient pads after the first release, and a gentle hopeful chord during the final hug. Keep music beneath the human reactions.</code></pre>
+
+</details>
+
+## Ancient Red Dragon Protects Last Human Child in a Destroyed Kingdom
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2083466854845108706)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2004](https://imglume.com/prompt/2004)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8ac2b316-efaf-4585-9d6b-34ab2b136d9f/a6488031-6b6b-4345-b68e-b51843bee049-1785586519354 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic cinematic fantasy film featuring an original ancient red dragon protecting the last human child in a destroyed kingdom. Focus on emotional storytelling, realistic character movement, dramatic lighting, detailed environments, realistic physics, and seamless cinematic transitions.
+
+0:00–0:03 | The Last Child
+
+A 7-year-old human child walks alone through the ruins of an ancient kingdom at night, holding a tiny glowing lantern. Smoke and ash drift through the destroyed streets while distant flames illuminate the ruins.
+
+0:03–0:06 | The Threat
+
+Several enormous dark creatures emerge from the smoke and surround the frightened child. The child slowly steps backward as the creatures approach.
+
+0:06–0:10 | The Dragon Appears
+
+A gigantic ancient red dragon suddenly lands between the child and the creatures. Its massive wings spread wide, golden eyes glowing intensely, as it releases a powerful roar that echoes through the ruined kingdom.
+
+0:10–0:13 | The Protection
+
+The creatures retreat in fear. The dragon gently lowers one enormous wing around the child, shielding them from danger. The child looks up with tears in their eyes, realizing the dragon is protecting them.
+
+0:13–0:15 | Emotional Ending
+
+The dragon looks at the child before turning toward the burning horizon as dawn begins to rise. The child gently places a small hand against the dragon’s face. Warm sunrise light breaks through the smoke as the camera slowly pushes in.
+
+Visual Style: Epic Hollywood fantasy, photorealistic dragon, realistic child, cinematic volumetric lighting, highly detailed scales, atmospheric smoke, dramatic camera movement, shallow depth of field, realistic physics, 4K, emotional storytelling, seamless transitions.
+
+Camera: Wide establishing shot → low-angle creature reveal → dramatic dragon landing → close-up of dragon and child → emotional final shot.
+
+Audio: Distant wind and fire, creature growls, powerful dragon roar, cinematic orchestral buildup, emotional soft ending.
+
+Hook: What if the last human on Earth was protected by the creature everyone feared?</code></pre>
+
+</details>
+
+## Seedance 2.5 handheld camcorder montage of Korean idol CHASE daily routine
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2083418162331345309)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1999](https://imglume.com/prompt/1999)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8441eb95-7f4f-4ddf-8936-2c3180b9dbf9/5b92aa86-7890-450f-a9bf-b50829a5a2db-1785580235879 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>**CAMERA:**
+DV 16mm tape camcorder handheld feel. POV of CHASE holding the camera herself throughout each location, occasionally propped briefly for hands-free moments. Hand shake, misaligned framing, delayed focus pulls, clumsy zooms, occasional face cut-off framing, imperfect shots. Camcorder never appears on screen.
+
+**LOOK:**
+Soft, slightly blurry tape quality, faint tape noise, bloomed highlights, flickering auto-exposure, muted contrast, realistic skin tones — lighting shifts naturally per location (warm dorm light → cool van light → studio fluorescents → bright stage lights).
+
+**STYLE:**
+Fast-paced time-lapse montage feel — quick cuts stitched together across locations, sped-up transitional movement between them. Instead of synced dialogue, her voice plays as reflective voiceover narration over the visuals, tying the day together. Energy builds progressively from sleepy morning to high-adrenaline stage finish.
+
+**Character**
+
+CHASE — Korean idol , 20s. Long straight black hair, elegant yet lovely Korean features, dewy glass skin, coral pink lips, big eyes. Outfit changes naturally per location: cozy loungewear at the dorm, casual comfortable clothes in the van, modest athletic wear in the practice room, and a stage outfit for the final segment — each fully covering arms and torso.
+
+**Setting Progression**
+
+Dorm room (morning) → van interior (daytime) → practice room (afternoon) → backstage/stage (night).
+
+**Storyboard (voiceover narration over visuals)**
+
+1. *(~2s, dorm, propped camera, sleepy morning light)* She stretches, rubbing her eyes, hair messy. VOICEOVER (CHASE): "Every day starts the same way — way too early."
+
+2. *(~2s, dorm, handheld, quick motion)* She moves through her morning routine in fast, sped-up cuts — brushing hair, grabbing a bag. VOICEOVER (CHASE): "Get ready, grab everything, and go."
+
+3. *(~2s, van interior, handheld, window light)* She sits by the window, phone in hand, soft daylight passing over her face. VOICEOVER (CHASE): "The van's basically my second home at this point."
+
+4. *(~1.5s, van, macro insert)* Close-up on her hand adjusting a playlist on her phone, light flickering through the window. No narration — ambient road sound only.
+
+5. *(~2s, practice room, handheld, energetic)* She's mid-movement rehearsing choreography, camera catching quick glimpses of the mirror wall. VOICEOVER (CHASE): "Then it's hours of practice till my legs give out."
+
+6. *(~2s, practice room, propped camera, water break)* She wipes sweat, drinks water, breathless but smiling. VOICEOVER (CHASE): "But somehow I never get tired of this part."
+
+7. *(~2s, backstage, handheld, quick transition)* Hair and makeup blur past in quick cuts, staff moving around her, adrenaline building. VOICEOVER (CHASE): "And then suddenly, it's showtime."
+
+8. *(~2s, stage, wide-to-close, high energy finish)* Bright stage lights, her silhouette stepping out as the camera catches a final glimpse before cutting to black. VOICEOVER (CHASE): "This is the part that makes all of it worth it."</code></pre>
+
+</details>
+
+## High-end luxury cosmetics commercial with lavender
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2083378889225801886)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`, `product-brand`
+- **ImgLume record:** [1991](https://imglume.com/prompt/1991)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/061bf4e9-0c20-4062-aedb-b483c511de6d/5685611b-6847-43d5-bded-771ec422f76b-1785567663315 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-end luxury cosmetics commercial shot in 8k resolution, cinematic lighting. Extreme macro close-up of vibrant purple lavender flowers covered in sparkling dewdrops at golden hour sunrise, camera rack focus revealing a beautiful young woman with long wavy brown hair wearing a flowing lilac silk dress. She is holding a glass cosmetic jar labeled "ROZINO LAVENDER BLISS". Macro close-up of her applying smooth purple cream onto her wrist, then bringing her wrist to her nose, closing her eyes with a peaceful smile to inhale the calming scent. The scene transitions to her opening a lilac compact case and swiping cream, followed by an aerial cinematic wide shot of her standing gracefully in symmetrical rows of a misty blooming lavender field during sunset. Soft warm sunlight, atmospheric haze, dreamy aesthetic, ultra-realistic, shot on 35mm lens, shallow depth of field, slow-motion 60fps.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic K-pop MV featuring two young East Asian women
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083422886686031982)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1988](https://imglume.com/prompt/1988)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c53d6c10-5cf7-486a-b1a5-620e65b82ba2/b716ea4d-54f8-437c-b27a-827c013ca2d7-1785567626125 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second ultra-realistic K-pop MV featuring two young East Asian women with flawless synchronization, cinematic lighting, glossy skin, realistic hair and fabric physics, natural body motion, and 4K live-action quality. Vibrant hot pink, electric blue, and silver color palette. 0–2s: Wide shot in a bright circular pink studio with reflective floor. Pink-haired woman (left) and black-haired woman (right) perform energetic opening pose and synchronized dance. 2–4s: Medium close-up of the black-haired woman on a blue spotlight stage, confidently pointing at the camera. 4–6s: Pink-haired woman dances before shimmering blue-silver tinsel curtains, dramatic hair flip and fluid arm movements. 6–8s: Back to the pink studio. Both perform synchronized choreography with sharp arm waves, hip sways, and strong formations. 8–10s: Extreme close-up of both faces against a blue background, glossy makeup, subtle smiles, and direct eye contact. 10–14s: Solo shots at the tinsel backdrop. Pink-haired woman mouths lyrics and gestures confidently, followed by the black-haired woman with relaxed jacket styling. 14–18s: Pink studio. Coordinated jacket choreography, hair flips, powerful synchronized dance, ending hands-on-hips. 18–22s: Glamour close-ups. Black-haired woman under glittering bokeh lights, then pink-haired woman with wind-blown hair against a soft pink background. 22–24s: Blue spotlight stage. Mirrored black-haired performer effect with synchronized spins and flowing hair. 24–26s: Both walk confidently toward the camera in front of shimmering tinsel curtains, reflections visible on the floor. 26–29s: Final synchronized dance and ending pose in the pink circular studio, standing together and looking into the camera. Style: Hyper-realistic live action, Seedance 2.5-quality motion realism, perfect lip sync, natural weight shifts, flowing hair, realistic fabric simulation, polished K-pop music video cinematography.</code></pre>
+
+</details>
+
+## 30-second handheld stadium rap performance
+
+- **Original source:** [@EHuanglu on X](https://x.com/EHuanglu/status/2083246033761694117)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1987](https://imglume.com/prompt/1987)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/509c7163-daf8-4baa-9777-3ee3dd995400/0e27ef36-696b-4eda-a335-a80ac41164a8-1785563436326 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>@Image1 is the absolute reference for THE RAPPER and completely replaces every previous performer reference. Preserve his exact identity: middle-aged man with a high receding hairline, short salt-and-pepper hair, thick dark eyebrows, dark eyes and a full beard with strongly defined white-gray sections. Preserve his stocky build, black-white-dark-green horizontally striped T-shirt with black chest pocket, sand-colored knee-length chino shorts and chunky off-white sneakers. No changes to his face, body, hair, beard, clothes or proportions.
+
+A 30-second single continuous live stadium rap performance captured horizontally on an iPhone from the front audience section. Authentic handheld fan footage: physical hand tremor, operator breathing, imperfect reframing, rolling shutter, digital-zoom softness, momentary autofocus hunting and compressed phone-microphone sound. No cuts.
+
+The first frame already shows THE RAPPER full-body on the right third at the end of a stage runway. A huge sold-out stadium surrounds him. Exactly four adult backup dancers wait several meters behind him. Emerald, white and black LED graphics echo the stripes of his shirt. The stage floor remains solid, flat and continuous.
+
+A heavy original grime beat begins: deep sub-bass, dry kick, snapping snare and minimal low synth. The iPhone rapidly pinches from 1× to a shaky 5× digital zoom, briefly overshoots, then locks onto THE RAPPER in a full-body composition. Focus stays wide enough to preserve his feet and choreography.
+
+He begins rapping with a low-mid, forceful cadence and exact lip synchronization:
+
+THE RAPPER:
+“Walk in steady, put the weight on the beat,
+Every bar lands, every move stays clean.
+Hands up high when the bass comes down,
+I don’t chase the wave—I shake the whole ground!”
+
+Only these words are spoken. Each line is delivered in one controlled breath.
+
+On the first bar he performs two violent shoulder hits, a chest pop and a sharp forearm lock. His shirt and beard react naturally to momentum.
+
+On the second bar he executes fast heel-toe pivots, crosses one foot behind the other and glides sideways while keeping his heavy body convincingly grounded. The camera operator struggles to keep his sneakers in frame, corrects downward and catches the complete footwork.
+
+On the third bar the four dancers join in perfect synchronization. THE RAPPER leads a hard sequence: right stomp, left stomp, elbows strike outward, torso snaps backward, hands shoot overhead. Every movement lands precisely on a kick or snare.
+
+The instrumental cuts for one beat. He holds a deep wide stance, eyes fixed on the upper tiers. His chest rises with one visible breath.
+
+He shouts the final line while performing a rapid three-step, a controlled 180° pivot and one enormous downward arm strike. On “GROUND,” he stomps once. The bass returns with a massive impact; the LED floor sends a broad solid emerald light wave across the stage.
+
+The entire stadium copies his movement. The phone shakes from thousands of spectators stomping together. He breaks into a confident grin but continues bouncing in time, pointing from one side of the stadium to the other.
+
+The operator zooms rapidly back through 3× and 1× to 0.5× ultra-wide while turning 160° away from the stage in one continuous handheld sweep. Exposure briefly pumps, then recovers.
+
+Finish on the full stadium bowl: tens of thousands of people across every tier performing the same shoulder-hit and stomp combination, emerald wrist lights moving in broad geometric waves, stage remaining on the far-left edge. Audio continues with the crowd chanting “SHAKE THE GROUND,” live bass vibration and realistic phone compression. Rich emerald and white light, warm skin and deep blacks. Clear air without haze, smoke, confetti, mist, sparks or airborne particles.</code></pre>
+
+</details>
+
+## Seedance 2.5 frozen time + rewind effect
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2083389002552664385)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1986](https://imglume.com/prompt/1986)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/71c9f365-c16e-4482-b2ba-1c17e4b8b4d7/fbb4e701-6af4-4fe2-ae53-1118a739c92d-1785563427638 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.</code></pre>
+
+</details>
+
+## Handheld coffee vlog in a kitchen – Seedance 2.5 prompt
+
+- **Original source:** [@VishalAiLabs on X](https://x.com/VishalAiLabs/status/2083259837031559212)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [1985](https://imglume.com/prompt/1985)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/18f23218-89dc-4d67-b2f7-80a10fe8ad07/348cfc00-06b1-47f3-8ae2-4e7181a28d88-1785563418277 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject himself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen morning light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy coffee-prep vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: bean grinder whirring, portafilter tamping, steam wand hissing, cup clinking, milk frothing.
+SUBJECT: Young man in his mid-20s, plain black t-shirt, hair slightly tousled, minimal accessories. Calm, focused energy while making his morning coffee.
+SETTING: Small kitchen counter with an espresso machine on a bright morning. Natural daylight, coffee beans and a mug nearby, quiet atmosphere.
+STORYBOARD:
+(3s, propped medium shot) Places camera on the counter, switches on the machine. "Morning coffee, the proper way."
+(3s, overhead shot) Grinds fresh coffee beans, fine grounds falling into the portafilter.
+(3s, close-up) Tamps the grounds down firmly and evenly.
+(3s, handheld shot) Locks the portafilter into the machine. "Here we go."
+(3s, detail shot) Espresso streams slowly into a small cup. No dialogue.
+(3s, medium shot) Pours cold milk into a small steel pitcher. "Time for the milk."
+(3s, macro shot) Steam wand hissing as it froths the milk.
+(3s, propped shot) Pours frothed milk carefully over the espresso, forming light layers.
+(3s, warm ending shot) Holds the finished cup, takes a small sip, satisfied smile. "That's exactly what I needed."
+(3s, final shot) Reaches toward camera, still holding the cup. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural kitchen ambience — grinder whirring, tamping, steam hissing, milk pouring should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine focused smiles, occasional careful pauses while pouring, imperfect framing, focus breathing, bright morning light shifts. Should resemble a genuine personal coffee vlog on a consumer camcorder, not a commercial or AI-generated production.</code></pre>
+
+</details>
+
+## The Suit Was Still Listening
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2083124798461489228)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1984](https://imglume.com/prompt/1984)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cd40ea49-4a5e-47fd-ac31-9a4bb7ce7cc0/4c88123e-b40f-45d6-8f51-254941781531-1785559258196 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30 second cinematic short film titled The Suit Was Still Listening, presented in 16:9 with synchronized dialogue, environmental sound, and original music. The film must feel completely live action, physically grounded, and captured on location, never glossy or synthetic.
+
+Visual language: a rain soaked neighborhood laundromat at midnight, warm amber fluorescent tubes inside, cold blue street light and moving car reflections outside, wet pavement, fogged windows, chipped enamel machines, baskets, detergent boxes, loose receipts, realistic skin texture, natural eye moisture, subtle fabric lint, imperfect hair, restrained film grain, gentle halation, lifted shadows, rich but believable color. Wardrobe creates bold editorial color blocking: Mara wears a cobalt trench over a cream blouse, Noah wears a rust knit polo, the teenage attendant wears faded green workwear, and an elderly customer wears a pale gray suit and dark hat. Use expressive medium close shots, tactile inserts, occasional low angles, clean profile compositions, and brief handheld movement that feels operated by a human. Preserve consistent faces, clothing, props, screen direction, reflections, hand anatomy, and spatial continuity. Use realistic speech timing, breathing, blinking, eye focus, and precise lip synchronization.
+
+0 to 3 seconds. Exterior wide shot through falling rain. A lonely laundromat glows on a dark corner. A black sedan turns slowly into the street. Camera makes a subtle forward creep. Music begins with muted upright bass, brushed snare, a low analog pulse, and the rhythmic churn of washers.
+
+3 to 6 seconds. Interior macro shot through a round washer door. A red scarf turns through soap and water. Cut to Mara opening a dryer. A tiny black transmitter falls from the lining of a cream suit and strikes the tile with a sharp metallic click. The score briefly drops out.
+
+6 to 10 seconds. Low medium two shot. Noah freezes beside a folding table. He says quietly, You said clean the suit. Mara studies the transmitter in her palm and replies, I did. You hid a heartbeat in the lining. Keep the delivery controlled and intimate, not theatrical.
+
+10 to 14 seconds. Tight insert on the teenage attendant checking an old signal meter beside the change machine. A green needle jumps. He looks toward the fogged front window and says, It is still transmitting. Camera racks focus from the meter to white headlights sliding across the glass.
+
+14 to 18 seconds. The sedan stops outside. The elderly customer continues folding a shirt without looking up. He says, Then he is already here. Hold on Mara as the moving headlights carve across her face. Let silence, rain, and machine motors carry the tension.
+
+18 to 22 seconds. Noah whispers, Back door. The old man calmly turns the deadbolt on the back exit and answers, Too obvious. Mara notices a delivery rider outside pushing a rolling laundry cart past the window. Use a fast sequence of close shots: her eyes, the transmitter, the cart wheel, the sedan mirror.
+
+22 to 27 seconds. Mara crosses naturally behind a row of machines, slips the transmitter into a sealed laundry bag on the moving cart through an open service hatch, and returns without drawing attention. Noah asks, What did you do. Mara watches the cart continue down the wet street and says, Gave him a cleaner story.
+
+27 to 30 seconds. Exterior telephoto view. The black sedan pulls away and follows the cart. Cut back inside to a symmetrical medium shot of the four characters framed by spinning washer doors. The red scarf circles behind Mara like a slow warning light. She sits opposite Noah and says, Now tell me who owns the suit. End on the transmitter signal fading from the attendant meter as the final bass note lands.
+
+Sound design must include rain on glass, distant tires on wet road, washer motors, dryer buttons, fabric movement, the transmitter click, door lock, fluorescent hum, and soft room reflections around every voice. Dialogue must remain clean and naturally mixed above the music. Avoid visual distortion, artificial camera acceleration, floating objects, excessive shallow focus, oversharpening, plastic skin, extra fingers, unreadable signage, random background motion, or dreamlike effects.</code></pre>
+
+</details>
+
+## 15-Second Bisconni Cocomo Party Pack Commercial
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083386939756138745)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [1983](https://imglume.com/prompt/1983)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e2f7103d-0506-4653-ac92-86480580bbc2/ef9a7fc3-fdfc-403d-890f-9627073fb73d-1785559226031 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-energy, ultra-realistic 15-second commercial featuring a young woman with long wavy blonde hair, fair skin, bright blue eyes, and a confident, playful expression. She wears a colorful streetwear outfit consisting of a vibrant yellow oversized hoodie, denim shorts, white sneakers, and colorful wristbands. She skateboards with natural, realistic body movement and expressive facial performance. The featured product is a vibrant red plastic stand-up pouch of **Bisconni Cocomo Chocolate Filled Biscuits Party Pack**. The pouch features a large yellow **"PARTY PACK"** banner in bold red letters decorated with colorful party hats, the white **Bisconni** logo inside a red oval, the large **"Cocomo"** logo in rainbow gradient letters with a blue outline, the text **"CHOCOLATE FILLED BISCUITS"** in white beneath it, and a circular illustration of four smiling cartoon children on the front. Several cheerful cartoon kids peek from behind the pouch, while round light-brown chocolate-filled biscuits with embossed designs including a smiling car, star, sun face, train, and chocolate-topped biscuit appear throughout the commercial. Bright summer colors, commercial-grade realism, highly detailed textures, vibrant product branding, cinematic camera movement, realistic physics, crisp typography exactly matching the packaging, premium food-commercial quality, 4K.
+
+**Shot 1 (0:00–0:01.5):** Wide fisheye push into a colorful graffiti-covered skate bowl beneath bright midday sunshine. Chocolate cream ribbons begin swirling around the bowl while embossed Cocomo biscuits tumble playfully through the air. The blonde skater stands at the rim holding the vibrant red Cocomo Party Pack. Palm trees sway against a deep blue sky. Whip pan right transition.
+
+**Shot 2 (0:01.5–0:03):** Whip pan resolves into an extreme macro close-up of the Cocomo pouch. Condensation droplets sparkle across the glossy packaging while sunlight creates brilliant highlights over the rainbow Cocomo logo, the yellow PARTY PACK banner, and the smiling cartoon children. The camera slowly glides across the surface before a matched zoom transition.
+
+**Shot 3 (0:03–0:04.5):** Pull back reveals the blonde skater dropping into the bowl. Chocolate ribbons spiral around her skateboard while Cocomo biscuits float beside her in slow arcs. Graffiti walls streak past with energetic handheld movement. Speed-ramp transition.
+
+**Shot 4 (0:04.5–0:06):** At maximum speed, she thrusts the Cocomo Party Pack toward the camera. A dramatic burst of flowing chocolate filling erupts outward, carrying flying embossed biscuits toward the lens. Strong midday backlight creates glowing highlights. Smash cut.
+
+**Shot 5 (0:06–0:07.5):** The chocolate splash freezes into elegant suspended ribbons while biscuits rotate slowly through the sunlight. Every biscuit embossing remains visible as the camera performs a smooth left orbit around the floating action at approximately 20% speed.
+
+**Shot 6 (0:07.5–0:09):** Orbit rises into a dramatic overhead fisheye shot. The blonde skater lifts the Cocomo pouch triumphantly while chocolate ribbons spiral around her and dozens of biscuits circle like confetti. Bright sunshine illuminates the vibrant red packaging. Crane match transition.
+
+**Shot 7 (0:09–0:10.5):** Camera cranes downward as she lands an impressive skateboard trick. Chocolate streams wrap around the skateboard while biscuits bounce naturally around the landing. Motion blur enhances speed as she smiles confidently toward camera. Match cut.
+
+**Shot 8 (0:10.5–0:12):** Match cut into a smooth dolly push toward the smiling blonde skater extending the Cocomo Party Pack. Chocolate ribbons and embossed biscuits continue floating gracefully around her while warm sunlight sweeps across her face. Speed ramps gradually into slow motion before fading.
+
+**Shot 9 (0:12–0:13):** Fade into a tight cinematic push toward the pouch only inches from the lens. Condensation droplets slide naturally across the glossy packaging while shallow depth of field shifts gently across the PARTY PACK banner, Bisconni logo, rainbow Cocomo typography, cartoon children illustration, and chocolate-filled biscuit graphics. Match cut.
+
+**Shot 10 (0:13–0:15):** Hero ending. Slow orbit around the blonde skater frozen mid-air performing a skateboard trick while confidently presenting the Cocomo Party Pack directly toward the camera. Rich chocolate ribbons cascade around her as embossed biscuits fly through the frame. Bright sun flares sweep across the lens, ending on a crystal-clear hero shot of the package with every logo, illustration, color, and typography perfectly matching the original packaging.
+
+**Audio:** Upbeat tropical electro-pop soundtrack with premium commercial sound design. Realistic skateboard wheel rolls, ramp impacts, chocolate splash effects, biscuit impacts, energetic whooshes, camera transition swishes, sparkling packaging sounds, and a polished advertising mix synchronized precisely with every camera movement and transition.</code></pre>
+
+</details>
+
+## Colossal Giant vs Flying Dragon – Action Cinematic Scene
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2083219828471382503)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1980](https://imglume.com/prompt/1980)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df832b18-6d47-4ee6-b668-04acf30b7c4b/50b28db9-a55a-41ab-b0c2-41965bef2aed-1785542585871 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A colossal giant appears, striding through a lake; the ground shakes with every step, sending massive amounts of water splashing.
+
+A flying dragon appears, performing aerial acrobatics; the giant tries to catch it with his arms, but the dragon manages to dodge the giant's attempts to stomp on it.
+
+A fast-paced action scene with realistic cinematography.</code></pre>
+
+</details>
+
+## First-person POV journey through six worlds – photorealistic cinematic video
+
+- **Original source:** [@adilinthewild on X](https://x.com/adilinthewild/status/2083120787737972851)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1977](https://imglume.com/prompt/1977)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c6778bd-47f4-47e2-95a0-cd9ae669ac17/1423b701-6a57-4fe8-a662-8be71d36c1b1-1785525765534 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>image_1 is the first frame. The woman from
+image_1 — straight black hair, white short-sleeve collared shirt, navy pleated skirt, brown belt, braided bracelet — is holding the camera operator's hand and pulling him forward through the world. Camera is first-person POV, loose handheld, her hand visible in the lower right of frame gripping the operator's wrist, pulling. She walks ahead, glancing back over her shoulder occasionally. She walks, then runs, then sprints as the scale of the world gets bigger and more overwhelming. Every few seconds a vertical floor-to-ceiling insert appears ahead floating in open air — no border, no frame, no door, no arch, just a hard rectangular cut in space where one world ends and another begins — and she pulls him straight through it into the next world. Six locations total, one continuous uncut shot. Location 1 — 1970s apartment party interior from image_1: warm amber light, sequin curtain, strangers in background, she turns and pulls him out of the room forward. Location 2 — Petra, Jordan, midday: the narrow Siq canyon walls rising hundreds of meters on both sides, sunlight cutting down in a single strip, she runs pulling him through the corridor of ancient rock. Location 3 — Shibuya crossing, Tokyo, rush hour: hundreds of people crossing in every direction, she weaves pulling him through the crowd, neon signs and screens overhead in daylight. Location 4 — Sahara desert at golden hour: vast open dunes, no horizon line visible, wind moving the sand, she runs pulling him up a dune face, her skirt and hair flying. Location 5 — Venice, Italy, acqua alta flooding: St Mark's Square underwater, ankle-deep reflective water, pigeons displaced onto benches, she splashes forward pulling him across the flooded piazza. Location 6 — top of a mountain at dawn, clouds below: nothing ahead but open sky and light. She slows to a walk. Then stops. Still holding his hand. She turns and looks directly into the camera — directly at him — for the first time. Silence. Sound: party ambience fading, then canyon echo of running footsteps, then Tokyo crowd noise and distant traffic, then open desert wind, then Venice water splash and bells, then pure silence and wind at altitude. Her breathing gets heavier location by location. Style: photorealistic cinematic, 2.39:1 Cinemascope, warm film grain consistent across all six spaces, first-person handheld POV, one unbroken take from start to finish.</code></pre>
+
+</details>
+
+## Cinematic high-speed drone video over La Sagrada Família, Barcelona
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2083056488122380671)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [1975](https://imglume.com/prompt/1975)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/48841605-5cea-4b3c-9875-2e384d86564e/7f6ceb19-9d24-4134-a6ca-b4f0839e52d2-1785525726997 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic realistic high-speed drone video over Barcelona, Spain at golden hour, using the reference image as the exact location and flight-path guide. The drone starts very low above the Barcelona cityscape, almost skimming above the foreground rooftops and streets, facing La Sagrada Família. It accelerates quickly forward over the urban landscape, following the drawn path from the foreground toward the cathedral while maintaining a very low altitude. The drone then performs a dramatic climbing curve as La Sagrada Família fills the frame, executes a close cinematic orbit around the cathedral’s iconic spires, and after the orbit, pulls back while gaining altitude before tilting and opening toward the Barcelona skyline, Mediterranean Sea, Eixample grid, surrounding historic rooftops, golden-hour reflections, distant coastline, and glowing Barcelona atmosphere.
+
+The red drawn line must not appear in the video; it is only a hidden flight-path reference. Add powerful emotional cinematic music: deep cello melody, dramatic percussion rhythm, orchestral strings, subtle choir texture, epic rising percussion, and a grand heroic crescendo as the drone completes its orbit around La Sagrada Família and reaches the final panoramic reveal. No text, no subtitles, no logos, no graphic overlays.</code></pre>
 
 </details>
 
@@ -148,40 +503,6 @@ Beat 4 — The shimmering sea (14–20s): Through the window, the town gives way
 Beat 5 — Rails into the sea (20–25s): The track curves and runs so close to the shore that the rails seem to vanish straight into the water — the sea fills nearly the whole frame, waves lapping right up to the ballast. Foam catches the light. We're gliding along the edge of the ocean, the horizon line steady, gulls crossing in the distance. Hold on this until the shot ends.
 
 Technical spec: continuous POV, first-person, no cuts or transitions, natural handheld micro-motion, realistic morning ambient audio (station hum, cat, train chime, rail clatter, distant surf), authentic Japanese coastal-railway setting (Shimonada / Enoden-style seaside line), overcast-to-clear soft daylight, photoreal skin and fabric texture, 2.39:1 or 16:9, ultra-realistic.</code></pre>
-
-</details>
-
-## Blue Monster Victory Over Green Monster
-
-- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2083177210563952753)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `cinematic`
-- **ImgLume record:** [1955](https://imglume.com/prompt/1955)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/22cba4ea-e6a1-45d5-8ea2-fde55890b1d5/c9957466-68df-44ba-9e4a-05894dd8198a-1785513132529 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/22cba4ea-e6a1-45d5-8ea2-fde55890b1d5/a096fdf2-a7e1-406f-9a07-4f3e070627fd-1785513132529 "Image prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>Use [Image] as the start frame. The two giant monsters clash in a brutal fight. The green monster dominates at first, but the blue monster eventually overpowers it. The final frame shows the blue monster standing on its defeated opponent with one arm raised in victory.</code></pre>
-
-</details>
-
-## Giant Blue Monster City Invasion
-
-- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2083177210563952753)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `cinematic`
-- **ImgLume record:** [1954](https://imglume.com/prompt/1954)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0bff76fe-a5ae-45d2-bc4a-ca8d05c9b4a8/225d544d-d85d-4eb5-8c8b-d7b9faf5fa8f-1785513132529 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0bff76fe-a5ae-45d2-bc4a-ca8d05c9b4a8/26a4f055-e6b2-42a7-ada0-e41b2aac695e-1785513132529 "Image prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>A military force invades the city. Tanks, soldiers, and fighter jets attack a giant blue monster. Fearless, the monster smashes streets, destroys tanks and aircraft, and terrorizes the city.</code></pre>
 
 </details>
 

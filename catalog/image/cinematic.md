@@ -1,9 +1,51 @@
 # Cinematic image prompts
 
-19 source-linked prompts, newest ImgLume records first.
+21 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Endless colonnade of sentinel angel statues
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2083276993039069396)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2006](https://imglume.com/prompt/2006)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/55d42a73-c763-4919-ba50-17b4cfa8c3b9/00cd0c9b-b088-4371-89d7-a0a5f19e72c5-1785592817310 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/55d42a73-c763-4919-ba50-17b4cfa8c3b9/3f95ce49-4af6-4942-8284-8a10bdedb5c8-1785592817310 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/55d42a73-c763-4919-ba50-17b4cfa8c3b9/82a760ac-5538-46ea-ba60-7c0566c537ac-1785592817310 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/55d42a73-c763-4919-ba50-17b4cfa8c3b9/155e5f79-9ff1-40e2-a98c-7054844c4821-1785592817310 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>endless colonnade of sentinel angel statues lining a sheer coastal cliff face, hundreds of identical bowed-head figures with folded wings carved from the same continuous marble bedrock, streaked with iron-oxide rust bleeding down the white stone, colossal surf exploding against the cliff base, low dramatic storm light raking horizontally across the row for maximum scale contrast, birds swarming in the distance for scale, epic vertical composition,</code></pre>
+
+</details>
+
+## Legendary Samurai in Joseon-era Capital
+
+- **Original source:** [@Lily_collins3 on X](https://x.com/Lily_collins3/status/2083494134472712195)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2005](https://imglume.com/prompt/2005)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b4df37ec-29ee-4ade-8242-002505dc6d9f/db879398-a23f-4d90-b920-506fbc7cf2ed-1785586529950 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A legendary lone samurai stands in the heart of Korea’s Joseon-era capital, surrounded by traditional hanok architecture, stone streets, royal gates, fluttering banners, and distant mist-covered mountains. He wears weathered black and dark crimson samurai armor with intricate details, carrying a razor-sharp katana. Dozens of elite swordsmen slowly encircle him, gripping their blades, preparing to attack, their expressions filled with tension and determination.
+
+The samurai suddenly explodes into motion with unbelievable speed and athleticism. His footwork is extraordinary—powerful leg strength launches him across the battlefield with lightning-fast dashes, impossible pivots, aerial spins, and graceful acrobatic movements. He performs massive 360° and 720° sword twirls, creating elegant circular arcs that slice through the air. His cloak and hair flow dramatically as each spin generates visible wind and dust.
+
+The enemies hesitate in complete shock, their eyes wide with disbelief as they witness his unmatched mastery. Some instinctively step back while still holding their swords, unable to comprehend his speed and precision. Their expressions show fear, awe, and admiration before they even attempt to strike.
+
+The camera captures sweeping cinematic shots—low-angle tracking, fast orbiting camera movements, slow-motion close-ups of the spinning katana, dramatic aerial views, and dynamic follow shots emphasizing every powerful leap and rotation. Dust rises from the stone streets beneath each explosive step, loose leaves swirl through the air, and sunlight breaks through drifting clouds, creating volumetric rays across the battlefield.
+
+**The sword choreography is fluid, elegant, and highly realistic, inspired by classic samurai cinema combined with modern action cinematography. Every movement demonstrates overwhelming balance, agility, explosive leg power, and perfect control rather than brute force. The atmosphere is epic, tense, and majestic, with realistic physics, ultra-detailed textures, cinematic color grading, HDR lighting, shallow depth of field, motion blur, 8K quality, photorealistic rendering, and blockbuster-level visual effects. No modern elements, no firearms, no fantasy magic—only breathtaking martial mastery, precision, and speed.</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic fashion editorial of high-fashion model in Indonesian Independence Day themed gown
 

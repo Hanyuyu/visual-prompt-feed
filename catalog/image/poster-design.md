@@ -1,9 +1,26 @@
 # Poster Design image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+16 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## New York flat vector travel poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2083393222098010169)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `midjourney`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2000](https://imglume.com/prompt/2000)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/59f84ada-a586-4067-956f-26e9e1faaccd/890951dc-cd87-4161-be57-ea68df0c6585-1785580242242 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/59f84ada-a586-4067-956f-26e9e1faaccd/cd742de4-7b23-47d6-9938-65086fc98c64-1785580242242 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/59f84ada-a586-4067-956f-26e9e1faaccd/4acbe5ef-c9a8-4610-ab78-7a81b3641161-1785580242242 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Editorial travel poster illustration of [LANDMARK] in [CITY], [COUNTRY], flat vector art, ultra clean minimalism, mid-century modern, Scandinavian graphic design, foreground stylized landscape elements and a subtle pedestrian path with native vegetation and visitor silhouettes, midground the iconic landmark rendered in clean geometric forms with distinctive architectural details, background horizon featuring the surrounding skyline, natural landscape, or culturally significant structures unique to the location, muted pastel palette inspired by the destination, cool porcelain off-white ground, flat color blocking, tonal harmony, low contrast, soft diffused daylight, tinted shadows, spaced sans-serif lettering "[LANDMARK]" at bottom center, print-ready poster --ar 3:4 --v 8.2 --style raw --stylize 150 --chaos 4 --no yellow, cream, ivory, beige, sepia, gold, gradient, texture, noise, grain, photorealism, neon, saturated primaries, black</code></pre>
+
+</details>
 
 ## Movie poster layout with expansive white negative space
 

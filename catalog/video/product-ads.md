@@ -1,9 +1,104 @@
 # Product Ads video prompts
 
-19 source-linked prompts, newest ImgLume records first.
+22 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Second-by-second prompt for a luxury Hublot watch ad in Seedance
+
+- **Original source:** [@ridark_eth on X](https://x.com/ridark_eth/status/2083514198202446318)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2008](https://imglume.com/prompt/2008)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bc2366d4-e700-4f99-87be-0f893cb3c4b5/2bfafa18-b83e-4870-b9b2-c3e20ad10076-1785592843593 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[00:00] Macro shot of the strap under grazing side light.
+
+[00:03] Camera pans over the dial and movement components.
+
+[00:07] The case emerges from the darkness on a red rocky surface.</code></pre>
+
+</details>
+
+## 15-Second Bisconni Cocomo Party Pack Commercial
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2083386939756138745)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [1983](https://imglume.com/prompt/1983)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e2f7103d-0506-4653-ac92-86480580bbc2/ef9a7fc3-fdfc-403d-890f-9627073fb73d-1785559226031 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-energy, ultra-realistic 15-second commercial featuring a young woman with long wavy blonde hair, fair skin, bright blue eyes, and a confident, playful expression. She wears a colorful streetwear outfit consisting of a vibrant yellow oversized hoodie, denim shorts, white sneakers, and colorful wristbands. She skateboards with natural, realistic body movement and expressive facial performance. The featured product is a vibrant red plastic stand-up pouch of **Bisconni Cocomo Chocolate Filled Biscuits Party Pack**. The pouch features a large yellow **"PARTY PACK"** banner in bold red letters decorated with colorful party hats, the white **Bisconni** logo inside a red oval, the large **"Cocomo"** logo in rainbow gradient letters with a blue outline, the text **"CHOCOLATE FILLED BISCUITS"** in white beneath it, and a circular illustration of four smiling cartoon children on the front. Several cheerful cartoon kids peek from behind the pouch, while round light-brown chocolate-filled biscuits with embossed designs including a smiling car, star, sun face, train, and chocolate-topped biscuit appear throughout the commercial. Bright summer colors, commercial-grade realism, highly detailed textures, vibrant product branding, cinematic camera movement, realistic physics, crisp typography exactly matching the packaging, premium food-commercial quality, 4K.
+
+**Shot 1 (0:00–0:01.5):** Wide fisheye push into a colorful graffiti-covered skate bowl beneath bright midday sunshine. Chocolate cream ribbons begin swirling around the bowl while embossed Cocomo biscuits tumble playfully through the air. The blonde skater stands at the rim holding the vibrant red Cocomo Party Pack. Palm trees sway against a deep blue sky. Whip pan right transition.
+
+**Shot 2 (0:01.5–0:03):** Whip pan resolves into an extreme macro close-up of the Cocomo pouch. Condensation droplets sparkle across the glossy packaging while sunlight creates brilliant highlights over the rainbow Cocomo logo, the yellow PARTY PACK banner, and the smiling cartoon children. The camera slowly glides across the surface before a matched zoom transition.
+
+**Shot 3 (0:03–0:04.5):** Pull back reveals the blonde skater dropping into the bowl. Chocolate ribbons spiral around her skateboard while Cocomo biscuits float beside her in slow arcs. Graffiti walls streak past with energetic handheld movement. Speed-ramp transition.
+
+**Shot 4 (0:04.5–0:06):** At maximum speed, she thrusts the Cocomo Party Pack toward the camera. A dramatic burst of flowing chocolate filling erupts outward, carrying flying embossed biscuits toward the lens. Strong midday backlight creates glowing highlights. Smash cut.
+
+**Shot 5 (0:06–0:07.5):** The chocolate splash freezes into elegant suspended ribbons while biscuits rotate slowly through the sunlight. Every biscuit embossing remains visible as the camera performs a smooth left orbit around the floating action at approximately 20% speed.
+
+**Shot 6 (0:07.5–0:09):** Orbit rises into a dramatic overhead fisheye shot. The blonde skater lifts the Cocomo pouch triumphantly while chocolate ribbons spiral around her and dozens of biscuits circle like confetti. Bright sunshine illuminates the vibrant red packaging. Crane match transition.
+
+**Shot 7 (0:09–0:10.5):** Camera cranes downward as she lands an impressive skateboard trick. Chocolate streams wrap around the skateboard while biscuits bounce naturally around the landing. Motion blur enhances speed as she smiles confidently toward camera. Match cut.
+
+**Shot 8 (0:10.5–0:12):** Match cut into a smooth dolly push toward the smiling blonde skater extending the Cocomo Party Pack. Chocolate ribbons and embossed biscuits continue floating gracefully around her while warm sunlight sweeps across her face. Speed ramps gradually into slow motion before fading.
+
+**Shot 9 (0:12–0:13):** Fade into a tight cinematic push toward the pouch only inches from the lens. Condensation droplets slide naturally across the glossy packaging while shallow depth of field shifts gently across the PARTY PACK banner, Bisconni logo, rainbow Cocomo typography, cartoon children illustration, and chocolate-filled biscuit graphics. Match cut.
+
+**Shot 10 (0:13–0:15):** Hero ending. Slow orbit around the blonde skater frozen mid-air performing a skateboard trick while confidently presenting the Cocomo Party Pack directly toward the camera. Rich chocolate ribbons cascade around her as embossed biscuits fly through the frame. Bright sun flares sweep across the lens, ending on a crystal-clear hero shot of the package with every logo, illustration, color, and typography perfectly matching the original packaging.
+
+**Audio:** Upbeat tropical electro-pop soundtrack with premium commercial sound design. Realistic skateboard wheel rolls, ramp impacts, chocolate splash effects, biscuit impacts, energetic whooshes, camera transition swishes, sparkling packaging sounds, and a polished advertising mix synchronized precisely with every camera movement and transition.</code></pre>
+
+</details>
+
+## Ultra-realistic premium toothpaste commercial
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2083175225458643354)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [1976](https://imglume.com/prompt/1976)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7f7e78c3-ec8b-41e6-b6bd-83e8be494f7d/98f34f5d-14b4-46f4-9fad-c5b7c1452c27-1785525765512 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, pearl choker, bracelets, rings, manicured nails, and realistic hand anatomy throughout every shot. Replace the jeans with a stylish white pleated mini skirt while keeping the same top and accessories. Maintain perfect facial consistency throughout the commercial. Use the same premium toothpaste tube with identical branding, colors, and packaging in every scene.
+
+Create an ultra-realistic premium toothpaste commercial with a luxury lifestyle aesthetic. Set the entire commercial inside a modern designer bathroom featuring marble countertops, elegant mirrors, soft natural morning sunlight, warm neutral tones, floating soap bubbles, fresh towels, realistic reflections, shallow depth of field, cinematic colour grading, and premium commercial lighting.
+
+The commercial opens with a wide cinematic beauty shot of the woman smiling confidently while picking up the toothpaste from beside the sink and presenting it toward the camera. Transition into a close-up as she slowly twists open the toothpaste cap with satisfying ASMR detail. Follow with an extreme macro shot of the smooth white toothpaste being squeezed onto a premium soft-bristle toothbrush, highlighting its creamy texture and glossy finish.
+
+Next, show her brushing her teeth naturally while smiling in the mirror, surrounded by soft light and floating bubbles that create a fresh, luxurious atmosphere. She then rinses her mouth, looks into the mirror, and turns back toward the camera with a bright, healthy smile, revealing clean, radiant teeth.
+
+Finish with a premium hero shot where she holds the toothpaste beside her face while smiling confidently and giving a subtle thumbs-up. The toothpaste stands elegantly beside the toothbrush on the marble countertop as the camera slowly pushes in on the product before fading out.
+
+Visual Style: Luxury modern bathroom, soft natural light, warm pastel tones, marble surfaces, floating soap bubbles, realistic reflections, premium cinematic colour grading, shallow depth of field, elegant beauty aesthetic, photorealistic commercial quality.
+
+Camera &amp; Motion: Smooth cinematic camera movements, beauty close-ups, macro product shots, slow push-ins, shallow focus transitions, premium product cinematography, stabilized handheld and gimbal movements.
+
+Audio (ASMR): Cap opening click, toothpaste squeeze, soft toothbrush brushing, gentle water rinse, ceramic sink sounds, subtle bathroom ambience, soft breathing, realistic product handling sounds, no background music.
+
+Key Message: A healthier smile begins with every brush.
+
+Negative Prompt: No text, no subtitles, no watermarks, no duplicate people, no distorted hands, no deformed facial features, no AI artifacts, no cartoon style, no extra fingers, no flickering, no oversaturated colours, no low-resolution textures.</code></pre>
+
+</details>
 
 ## Ultra-realistic premium UGC iced coffee commercial
 

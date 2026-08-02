@@ -1,9 +1,30 @@
 # Illustration 3d image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+16 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-Premium 3D Caricature Portrait of Cheerful Young Woman
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2083198616253223207)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2010](https://imglume.com/prompt/2010)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4a7f7f95-db8a-417b-a4bc-e9c8d2a2afcf/cdbd3548-e951-4f1b-8622-b08a3606b3b9-1785594918182 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4a7f7f95-db8a-417b-a4bc-e9c8d2a2afcf/3db1ea58-58de-4cdb-a8cf-e99f1c053780-1785594918182 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-premium, hyper-detailed 3D caricature portrait of an irresistibly cheerful young woman with an oversized head and a tiny, perfectly proportioned body. She has a stylish short tousled dark-brown pixie haircut with soft textured layers, huge sparkling dark brown eyes looking playfully upward, long curled eyelashes, naturally thick eyebrows, glowing porcelain skin, rosy cheeks, and a dazzling open smile with perfectly aligned white teeth that instantly radiates happiness.
+She wears elegant pearl stud earrings, a shimmering rose-pink satin button-up blouse with subtle glitter highlights and rolled sleeves, a luxurious flowing black midi skirt with realistic fabric movement, and glossy mustard-yellow designer heels. She playfully holds the sides of her blouse while standing in a lively, confident pose with one knee slightly bent, creating an energetic and charming silhouette.
+Behind her is an enormous semi-transparent monochrome portrait of the same joyful face, softly blended into a breathtaking background of fiery orange, golden yellow, and warm amber watercolor textures with glowing particles, paint splashes, dreamy bokeh lights, and subtle light rays that create depth and visual drama.
+Elegant hand-lettered white calligraphy reading "You Look Beautiful" appears in the lower-right corner, surrounded by delicate butterflies, tiny hearts, sparkling stars, floral flourishes, and graceful ornamental swirls, seamlessly integrated into the composition.
+Style: Pixar-quality 3D caricature, Disney-inspired charm, premium digital illustration, cinematic lighting, volumetric glow, HDR color grading, glossy rendering, ultra-realistic textures, expressive facial features, vibrant warm palette, luxury poster design, immaculate composition, crisp focus, magazine-cover aesthetics, social-media optimized, highly shareable, emotionally uplifting, masterpiece, award-winning artwork, 8K ultra-HD, razor-sharp details, vertical 3:4 aspect ratio.</code></pre>
+
+</details>
 
 ## Heartwarming Pixar-inspired 3D chibi GOOD MORNING scene
 
