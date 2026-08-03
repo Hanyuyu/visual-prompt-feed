@@ -1,9 +1,171 @@
 # Nature video prompts
 
-3 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## K2: THE AVALANCHE
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2083767534285979730)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [2064](https://imglume.com/prompt/2064)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/be6585d9-9505-48ca-9341-2b354342f61a/868beab5-cb02-405f-98da-f2288abf5d98-1785664238843 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT
+15 seconds | 16:9 | Live-action mountaineering survival drama
+Fictional dramatization. Documentary-style visual realism.
+
+SETTING
+K2 during a summit push above Camp II.
+Steep snow-covered ridge with exposed rock faces, fixed ropes, deep ice walls and extreme alpine terrain.
+Altitude above 6,500 meters.
+Time: early morning.
+Thin air, sub-zero temperatures, powerful winds, drifting snow and distant mountain echoes.
+
+CLIMBERS
+A small expedition team of experienced high-altitude climbers ascending together on fixed ropes.
+Maintain consistent climbing suits, helmets, harnesses, oxygen equipment, backpacks and character identities throughout the sequence.
+Movement reflects realistic fatigue and the physical effects of extreme altitude.
+
+STORY
+
+00–04s — ESTABLISHING
+Wide documentary shot reveals the climbing team carefully ascending a narrow exposed ridge above Camp II.
+The immense slopes of K2 dominate the background while fixed ropes stretch upward into the clouds.
+Snow blows continuously across the ridge.
+
+04–08s — TENSION
+Cut to a handheld perspective following directly behind the climbers.
+Ice axes strike firmly into hard snow while crampons bite into the icy surface.
+Heavy breathing is audible through oxygen masks.
+One climber briefly looks uphill as subtle cracks appear in the snow above.
+
+08–12s — CLASH
+A massive slab avalanche suddenly fractures high above the ridge.
+The snowfield collapses naturally before accelerating downhill.
+Climbers instinctively attempt to anchor themselves to the fixed rope as a powerful wall of snow engulfs the ridge.
+The camera is violently swept into the avalanche, tumbling with realistic momentum, rapidly alternating between snow, sky, ice and rock while visibility disappears beneath dense powder.
+Avoid graphic injuries or gore.
+
+12–15s — AFTERMATH
+The camera lies partially buried beneath fresh snow, tilted toward the shattered ridge where pieces of rope and scattered climbing equipment remain visible.
+Fine snow falls across the lens while distant wind echoes through the mountains.
+End on unresolved tension.
+
+CAMERA
+Grounded expedition-documentary cinematography.
+
+Natural handheld instability.
+Realistic operator movement.
+Plausible helmet-mounted and shoulder-level perspectives.
+No impossible drone transitions.
+No excessive slow motion.
+
+LIGHTING
+Lighting originates entirely from the natural alpine environment.
+
+Cold early-morning sunlight diffuses through thin clouds and blowing snow.
+
+PHYSICS
+Real gravity and momentum.
+
+Climbers remain physically attached to fixed ropes until realistic force overwhelms anchors.
+Snow fractures, accelerates and behaves according to believable avalanche dynamics.
+Loose snow responds naturally to wind.
+
+HUMAN PERFORMANCE
+Restrained, believable behaviour under extreme stress.
+
+Heavy breathing from altitude.
+Careful foot placement.
+Constant balance corrections.
+Natural communication through brief gestures and short commands.
+Immediate instinctive reactions during the avalanche.
+No exaggerated action-movie movements.
+
+AUDIO
+Powerful alpine wind.
+Crunching crampons on hard snow.
+Ice axes striking ice.
+Harnesses and climbing gear rattling.
+Heavy breathing through oxygen masks.
+Distant cracking snow followed by the rapidly intensifying roar of the avalanche.
+Sound naturally muffles beneath dense snow.
+No oversized Hollywood trailer effects.
+
+VISUAL CHARACTER
+Photorealistic live-action footage.
+Observational high-altitude documentary character.
+Natural skin and fabric texture.
+Authentic mountaineering equipment.
+Subtle sensor noise.
+Natural motion blur.
+Imperfect handheld framing.
+Extreme environmental realism.
+
+Avoid:
+video-game aesthetics
+CGI appearance
+oversaturated colors
+impossible avalanche physics
+floating snow
+perfectly choreographed movement
+beauty-filter faces
+
+CONTINUITY
+Maintain character identity, climbing equipment, rope positions, terrain and lighting between shots.</code></pre>
+
+</details>
+
+## Cinematic 15s seamless relaxation video
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083618905885380850)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [2030](https://imglume.com/prompt/2030)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1758fe2b-2445-46fc-9e95-907a9bfa65d6/080d6edc-d7f7-433a-b426-b663ecd8d045-1785620122561 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 15s seamless relaxation video, vertical 9:16, hyper-realistic digital art, neon bioluminescence, dreamy.
+
+SCENE 1 — Glowing Stars &amp; Shore (0–5s, 3 angles):
+
+1A (0.0–1.7s) WIDE EYE-LEVEL: Serene tropical beach at night, NO pier or wooden structures. Starry indigo sky filled with drifting neon sparkles. Wet sand reflects soft moonlight, calm turquoise water. Camera slowly dollies forward along the shoreline.
+
+1B (1.7–3.4s) LOW-ANGLE MACRO: Camera drops to wet sand level. A small golden-orange glowing starfish rests in the lower-right foreground. Floating neon-cyan light particles drift gently around it like bioluminescent fireflies. Soft caustics dance on sand. Slow horizontal tracking.
+
+1C (3.4–5.0s) TOP-DOWN DRONE: Aerial view looking straight down at the curved shoreline. Golden starfish near the wet sand edge, surrounded by scattered cyan sparkles drifting over shallow glowing water. Smooth slow pan right, seamless dissolve to Scene 2.
+
+SCENE 2 — Natural Bioluminescent Surfing (5–10s, 3 angles):
+
+2A (5.0–6.7s) INSIDE-BARREL WATER-LEVEL: Clean, powerful turquoise wave curling naturally. Sharp black surfer silhouette glides smoothly through the right third. Neon cyan spray and bioluminescent droplets explode from the crest. Starry sky visible through the wave tube. Slow-motion tracking parallel to surfer.
+
+2B (6.7–8.4s) SIDE DRONE ANGLE: Wide shot of surfer carving along the face of a rolling bioluminescent wave. NO vortex or spiral, just fluid natural motion. Moonlight and stars reflect on the dark ocean. Slow smooth pan following the ride.
+
+2C (8.4–10.0s) SEMI-UNDERWATER VIEW: Camera positioned just below surface looking up through translucent glowing water. Surfer’s silhouette visible above, neon caustic patterns ripple across the sandy seabed. Slow upward tilt, dissolve to Scene 3.
+
+SCENE 3 — Palm Rooted on Shore (10–15s, 3 angles):
+
+3A (10.0–11.7s) LOW-ANGLE HEROIC: Tall palm tree firmly rooted in white sand at the water’s edge (NOT in the water). Leaves glow in gradient of neon green, electric yellow, and hot pink. Full moon in starry indigo sky casts golden reflection on calm ocean. Slow push-in.
+
+3B (11.7–13.4s) EYE-LEVEL PANORAMA: Camera at human height, panning gently along shoreline. Palm naturally positioned on right third, moon’s light-road stretches across water. Gentle waves lap the sand, palm leaves sway softly. Ambient glow particles float in air.
+
+3C (13.4–15.0s) CLOSE-UP MACRO + FADE: Soft macro close-up of palm’s glowing leaves and neon gradient against the moonlit sky. Image slowly dims, bloom intensifies, gentle fade-out to black on final beat.
+
+Style: vertical 9:16, 24fps, hyper-realistic digital art, bioluminescent turquoise water as anchor, warm gold + cool neon accents, cinematic glow and bloom, all slow-motion, dissolve cuts 0.5–0.8s between every shot, soft ambient particles, no text, calm and meditative, 8k ethereal lighting, consistent dreamy atmosphere.</code></pre>
+
+</details>
 
 ## High-end luxury cosmetics commercial with lavender
 

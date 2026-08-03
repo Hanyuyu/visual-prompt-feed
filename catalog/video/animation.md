@@ -1,9 +1,49 @@
 # Animation video prompts
 
-26 source-linked prompts, newest ImgLume records first.
+28 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hare and Tortoise race animation
+
+- **Original source:** [@sebatheepan on X](https://x.com/sebatheepan/status/2083768136172552259)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2079](https://imglume.com/prompt/2079)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/09e5c823-6e5b-4c3b-8c8a-6ea751542ac9/0c0edd43-34ba-4ac3-ba35-75559ca5ce01-1785681028382 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Once upon a time there lived a hare. The hare could run very fast. It was proud of its speed, One day, the hare saw a tortoise walking very slowly. The hare laughed at the tortoise and said, “Oh! You are so slow, such a slowcoach!” The tortoise said, “My dear friend, you are so proud. Let’s have a race to see who is faster. So the hare and the tortoise had a race. The hare ran very fast and very far. Then it turned back to see where the tortoise was. The tortoise was far behind the hare. It was walking so slowly!The proud hare thought, “The tortoise will take a very long time to come near me. Let me have a nap.” So it stopped running and went to sleep The tortoise slowly but steadily went past the hare. The hare suddenly woke up and saw the tortoise just crossing the finishing line. It started running very fast. But it was too late. The tortoise had already won the race. a fun 3d pixar style family animation</code></pre>
+
+</details>
+
+## 1950s Diner Time Freeze Cinematic Video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083600094906187999)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [2042](https://imglume.com/prompt/2042)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5091eea6-80cf-468d-b93e-afe4d8b53671/b8fe1729-9b54-426a-bea4-57886e73f08d-1785649514466 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+0-2s: [Medium Wide] A striking young woman sits alone at the counter, calmly sipping a milkshake. Behind her a waitress approaches with a tray of eggs, bacon and a coffee pot. An older lady starts rising from a nearby booth.
+2-5s: [Dynamic Tracking] The older lady collides into the waitress. Tray, plate, eggs and coffee explode upward in slow motion liquid ribbons and suspended droplets. Camera orbits the impact. Time locks at the peak. Every face frozen in shock. Only the girl at the counter keeps moving, unfazed.
+5-11s: [Slow 360° Orbital] Camera glides through the frozen diner. Coffee hangs as glassy ribbons, food floats weightlessly, patrons locked in startled expressions. The girl takes one slow sip, half-lidded eyes, while the frozen world reverses every droplet and person rewinding back to start.
+11-13s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again. The girl raises two fingers, softly calls her name. Waitress turns just as the older lady begins to stand, avoiding collision. A tiny smile crosses the girl's face.
+13-15s: [Extreme Close-Up] Hard cut to her face, one last slow sip, soft knowing smile, eyes almost closed. Shallow depth of field, creamy neon bokeh behind her.
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence.</code></pre>
+
+</details>
 
 ## Animated forest riverside picnic
 

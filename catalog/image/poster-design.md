@@ -1,9 +1,83 @@
 # Poster Design image prompts
 
-16 source-linked prompts, newest ImgLume records first.
+17 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-end editorial fashion poster
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2083538016568823867)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2045](https://imglume.com/prompt/2045)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f0259a47-4556-42ad-90fc-1e966e42ee32/64fc386c-3662-4676-82af-e38c43216764-1785651610743 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f0259a47-4556-42ad-90fc-1e966e42ee32/6589a39e-202a-48b4-919c-599bc8c55402-1785651610743 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "REFERENCE_IMAGE": "&lt;optional_subject_reference&gt;",
+ "MAIN_HEADLINE": "&lt;large_handwritten_phrase&gt;",
+ "LEFT_TEXT": "&lt;small_editorial_text&gt;",
+ "RIGHT_TEXT": "&lt;small_editorial_text&gt;",
+ "FOOTER_TEXT": "&lt;year_or_signature&gt;",
+ "BACKGROUND_COLOR": "&lt;hex_code_or_color_name&gt;",
+
+ "prompt": "Create a high-end editorial fashion poster inspired by luxury magazine covers and premium advertising campaigns. Preserve the identity of the subject from the REFERENCE_IMAGE while matching the overall artistic style.
+
+ Use a dramatic close-up portrait composition with the subject positioned slightly off-center. Capture the subject from a subtle low angle to create a powerful, confident appearance.
+
+ Add a strong radial motion blur effect extending outward from the center of the image while keeping the subject's face sharp and highly detailed.
+
+ Place MAIN_HEADLINE as one continuous handwritten brushstroke phrase flowing organically across the entire composition. Allow some portions of the lettering to appear behind the subject while other portions overlap the foreground.
+
+ Add LEFT_TEXT and RIGHT_TEXT as small uppercase editorial typography blocks with generous spacing.
+
+ Place FOOTER_TEXT subtly in one corner.
+
+ Style details:
+ - Oversized fashion sunglasses
+ - Minimal jewelry
+ - Natural skin texture
+ - Wind-swept hair
+ - Luxury fashion styling
+ - Elegant pose
+ - Cinematic color grading
+ - Fine film grain
+ - Soft highlights and deep shadows
+ - Premium studio photography quality
+
+ Background:
+ - Clean monochromatic backdrop
+ - Use BACKGROUND_COLOR as the dominant color
+ - Dynamic zoom-blur effect
+ - Soft glow and light bloom
+
+ Visual style:
+ - Vogue-inspired editorial design
+ - Luxury advertising aesthetic
+ - Photorealistic rendering
+ - Premium typography composition
+ - High-fashion magazine cover design
+
+ Negative prompt:
+ - watermark
+ - logo
+ - blurry face
+ - distorted anatomy
+ - duplicated accessories
+ - plastic skin
+ - excessive sharpening
+ - oversaturated colors
+ - low quality output",
+
+ "aspect_ratio": "4:5"
+}</code></pre>
+
+</details>
 
 ## New York flat vector travel poster
 

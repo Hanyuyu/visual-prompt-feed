@@ -1,9 +1,114 @@
 # Character image prompts
 
-33 source-linked prompts, newest ImgLume records first.
+39 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Colored Pencil illustration of a couple walking through a poppy field towards a sunrise ocean
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083905097944215773)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `character`, `illustration-3d`, `nature`
+- **ImgLume record:** [2087](https://imglume.com/prompt/2087)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/1838a33f-8a63-461d-b989-c3cc94f21873-1785685217698 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/b6ae0c7a-5be2-49f8-a054-98f816a54bae-1785685217698 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/f4269cee-1672-460d-9157-70421aa1b790-1785685217698 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. A young couple walks hand in hand away from the viewer along a narrow winding dirt path through a vast field of vivid red poppies in the foreground, with stems and buds interspersed. The woman wears a flowing white dress, the man a white shirt with rolled-up sleeves and dark trousers, their heads tilted gently toward each other. In the distance on a gentle hill sits a rustic stone house with a terracotta roof, flanked by tall slender cypress trees. A soft morning mist lingers over the hills and fields. Beyond the hills, a serene ocean stretches to the horizon under a glowing sunrise sky filled with soft pastel hues of pink, peach, lavender, and pale gold, complemented by scattered wispy clouds. A single sailboat drifts gently on the far horizon. The perspective is wide, showcasing the detailed poppies, the couple, the farmhouse, and the expansive calm seascape. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, romantic, and fresh, with cool morning light and delicate pastel tones dominating the palette.</code></pre>
+
+</details>
+
+## Hand-painted watercolor anime selfie illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2083762128889246083)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2084](https://imglume.com/prompt/2084)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5061c82-255a-4379-baf1-40842b403df5/f2e18d05-197c-4a0c-8aa9-5a05ef7642ff-1785683126284 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b5061c82-255a-4379-baf1-40842b403df5/31d57538-adf6-4946-9790-b7cfe54e1a6a-1785683126284 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the uploaded selfie into a charming hand-painted watercolor anime illustration while preserving the person's exact facial identity, hairstyle, pose, clothing, accessories, hand gesture, smartphone position, and overall composition. Keep the expression natural and friendly with a subtle smile. Simplify the face into cute rounded features with tiny black dot eyes, a tiny nose, rosy cheeks, and a soft, wholesome expression while remaining clearly recognizable.
+Render using delicate hand-drawn black ink outlines with slightly wobbly sketch lines and transparent watercolor washes. Soft pastel colors with visible watercolor texture, subtle pigment granulation, gentle color bleeding, and natural cold-press paper grain. Use light, airy shading with no harsh contrast. Preserve the black oversized T-shirt, gray pleated trousers, black belt, wristwatch, finger bandage, and white smartphone exactly as in the reference.
+Simplify unnecessary background details into a clean off-white watercolor backdrop with only faint hints of the mirror and room. Add a few tiny hand-drawn sparkle doodles and expressive ink marks around the character to enhance the playful aesthetic. Maintain loose brushwork, soft edges, warm neutral tones, and a cozy handmade sketchbook feel.
+Style: modern Japanese watercolor illustration, slice-of-life anime, minimalist storybook art, cozy journal sketch, expressive ink line art, soft watercolor painting, clean composition, high detail, adorable, elegant, 2D illustration, 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## Surreal maximalist fashion artwork
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2083879200336097658)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2073](https://imglume.com/prompt/2073)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a0a1f63-ba92-472f-bfad-167b077cfb35/327b677d-3e10-4f8b-a01b-2d5e104fb429-1785674818039 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Surreal maximalist fashion artwork, naturally beautiful young woman, full body, near foreground, facing camera with calm magnetic expression. Relaxed plain white cotton T shirt, faded medium blue straight leg jeans, shoulder length dark hair moving gently. Realistic facial features, natural skin texture. Behind her, immense lacquer black space erupts into hand painted ivory smoke, cobalt blue waves, vermilion flames, molten gold ornamental lines spiraling dramatically around her silhouette without obscuring her face. Tiny celestial stars, fine luminous threads, marbled color bleeding, intricate decorative details fill the darkness. Bold contrast, deep crushed blacks, glowing red and blue pigments, gilded highlights, vintage screen print texture, visible paper grain, slight misregistration, psychedelic celestial atmosphere. Striking fusion of photorealistic fashion portraiture and richly detailed mythological print art. --chaos 12 --ar 4:5 --raw --profile be6pjat --stylize 200 --weird 14 --hd</code></pre>
+
+</details>
+
+## New york travel character watercolor
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2083545785493241921)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2034](https://imglume.com/prompt/2034)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/adc9dc76-3e3f-493a-9823-36a8d936cfc9/2ffcd524-7065-4511-a143-6a42c2ed02c7-1785628509831 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/adc9dc76-3e3f-493a-9823-36a8d936cfc9/b3784e46-5d60-4109-9153-2925b9be9e23-1785628509831 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/adc9dc76-3e3f-493a-9823-36a8d936cfc9/e4ff2370-1849-4d18-99c3-b20b041cd7f2-1785628509831 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An illustration featuring delicate watercolors and rich ink, depicting a young Korean woman in her 20s traveling in New York, standing on a ferry deck with the Statue of Liberty rising in the distance behind her. She holds the railing with one hand, her long hair and light trench coat lifted by the harbor breeze, looking up with a bright delighted smile. A small crossbody bag and a folded map complete her traveler styling. Hand-drawn-style line art, translucent watercolor rendering, high-quality paper texture, sophisticated sketch-like style, composition automatically adjusted to fit the subject, joyful and warm expression, soft colors, design that makes use of white space, completely white background, large margins on all four sides, subject centered, faint watercolor suggestion of seagulls and gentle water ripples, no text, logos, or watermarks, ultra-high resolution, for wallpaper, 3:4</code></pre>
+
+</details>
+
+## Transform the image into a minimalist hand-drawn doodle illustration
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2083534483614306443)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2031](https://imglume.com/prompt/2031)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/208821a0-beed-419c-a45a-22aff10482b3/308a67e0-c414-4ca2-af29-6886dbf153c5-1785620131237 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/208821a0-beed-419c-a45a-22aff10482b3/437482ac-3000-45ac-985a-6432c0b927bc-1785620131237 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/208821a0-beed-419c-a45a-22aff10482b3/1608e2a6-c79f-47dc-94a9-a1e9c556add2-1785620131237 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/208821a0-beed-419c-a45a-22aff10482b3/35b57906-862b-47a4-8bfb-8fcb8872a810-1785620131237 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the image into a minimalist hand-drawn doodle illustration. Use simple brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, water color ink drawing, charming imperfections, simple cartoon illustration.</code></pre>
+
+</details>
+
+## Moody vintage portrait in mustard
+
+- **Original source:** [@Minahil42298354 on X](https://x.com/Minahil42298354/status/2083555046906638841)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2025](https://imglume.com/prompt/2025)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/759162f1-05d6-40f1-a782-373100f59dc7/bf763bf0-cf8e-479d-a00d-1d64ab381d84-1785607510083 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/759162f1-05d6-40f1-a782-373100f59dc7/cbf89274-cad4-4272-8153-d28cc15e1044-1785607510083 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/759162f1-05d6-40f1-a782-373100f59dc7/06e981ee-38ca-4bfe-bb40-62f1bb01a149-1785607510083 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/759162f1-05d6-40f1-a782-373100f59dc7/2ae30537-de60-4aab-8c85-a1bd4cdd5506-1785607510083 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A fine-art oil painting style portrait of a young woman with a classic updo hairstyle and soft, wavy tendrils framing her face, featuring expressive hazel-green eyes, light freckles across her nose and cheeks, and a thoughtful expression. She is wearing a vintage-style mustard-yellow long-sleeve dress accented with delicate lace panels on the bodice and sleeves, layered amber-gemstone pendant necklaces, and small gold hoop earrings, set against a moody, dark-toned textured backdrop with dramatic Rembrandt-style lighting.</code></pre>
+
+</details>
 
 ## Mid-century theatrical cartoon still
 

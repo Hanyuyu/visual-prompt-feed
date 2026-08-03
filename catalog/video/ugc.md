@@ -1,9 +1,124 @@
 # UGC video prompts
 
-14 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Smartphone selfie vlog on a Japanese shopping street
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2083755864616292618)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`, `ugc`
+- **ImgLume record:** [2074](https://imglume.com/prompt/2074)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7adf287e-e5df-4ebf-9f33-6e0e69fff145/38045b53-2ffc-42bc-a4fb-f4d01c44377a-1785676837095 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic smartphone selfie vlog that looks exactly like a real mobile phone recording. A young woman (image = her face and hair) is exploring a lively shopping street in Japan on a bright afternoon, filming herself in selfie mode with natural handheld movement, subtle hand shake, realistic autofocus, authentic smartphone stabilization, and true-to-life colors. She smiles at the camera and says, "Let's see what we find today!" As she walks through the busy street, she suddenly hears live music and turns the camera to reveal a talented Japanese street musician playing an acoustic guitar while a small crowd gathers around. Curious, she walks closer, stands quietly for a few moments, gently sways to the music, and smiles with genuine enjoyment. When the performance ends, she claps enthusiastically along with everyone else, gives the performer a thumbs-up, then turns the camera back to herself and says, "That was amazing!" She continues walking through the street, gives a warm wave to the camera, smiles brightly, and says, "See you in my next vlog. Bye!" before reaching toward the phone to stop the recording. The video should feel exactly like a genuine smartphone vlog with natural human movement, consistent facial features, authentic Japanese street atmosphere, realistic crowd behavior, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only real street ambience, conversations, footsteps, applause, and the live acoustic performance as part of the environment.</code></pre>
+
+</details>
+
+## Handheld mini DV camcorder kite‑flying vlog
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083763307672981913)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2060](https://imglume.com/prompt/2060)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/640442bf-1248-4045-925b-a48968e953d8/2e3463d3-21b0-47c7-8a2b-dd78f573f9f4-1785662130430 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright open-sky daylight. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic rather than polished cinematic footage.
+STYLE: Cozy outdoor kite-flying vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments, natural pauses. Focus on satisfying everyday sounds: kite fabric flapping in the wind, string spool unwinding, grass rustling underfoot, light breeze against the microphone.
+SUBJECT: Young woman in her mid-20s, plain windbreaker, hair tied back in a loose ponytail, minimal jewelry, no visible logos or branded items. Cheerful, carefree energy on a breezy afternoon.
+SETTING: Small open field on a bright breezy afternoon. Wide open sky, plain grass field, no visible signage, buildings with branding, or logos anywhere in frame.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on a low tripod in the grass, unrolls a plain kite. "Perfect windy day for this."
+→ (3s, overhead shot) Unwinds the string spool, checking it's free of tangles.
+→ (3s, close-up) Attaches the string firmly to the kite frame.
+→ (3s, handheld shot) Walks backward a few steps, testing the wind direction. "Feels strong enough today."
+→ (3s, detail shot) Releases the kite gently into the air. No dialogue.
+→ (3s, medium shot) Watches it climb higher, letting the string out slowly. "There it goes."
+→ (3s, macro shot) Kite fabric flapping steadily against the open sky.
+→ (3s, propped shot) Sits down on the grass, holding the string loosely.
+→ (3s, warm ending shot) Looks up at the kite soaring, happy smile. "Love days like this."
+→ (5s, final shot) Reels the string in slowly, glances toward camera. "See you next time." Reaches down and covers the lens as recording ends.
+AUDIO NOTES: Natural outdoor ambience — kite flapping, string unwinding, breeze, grass rustling should be clearly audible. Dialogue quiet and casual, as if speaking to a small personal audience.
+REALISM NOTES: Authentic body language, natural blinking, genuine cheerful smiles, occasional pauses adjusting the string, imperfect framing, focus breathing, bright open-sky lighting shifts. No copyrighted characters, logos, brand names, or recognizable public figures anywhere in frame. Fully original personal vlog content, not AI-generated or commercial in style.</code></pre>
+
+</details>
+
+## Handheld Home-Video Vlog of Woman Doing Laundry – 15s Photorealistic Montage
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2083779989414019109)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2059](https://imglume.com/prompt/2059)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0410881a-0466-48f2-be9a-82a6c893bfc0/592f7b67-721b-4f2a-83ae-4642f9ccb7e2-1785662116281 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15s handheld home-video vlog, 7-shot montage. Photorealistic phone footage with slight tilt, natural shake, window light, subtle film grain.
+
+A woman (use Image1 only for facial identity and hairstyle) does laundry alone on a quiet morning. Outfit: oversized cream linen shirt with rolled sleeves, grey knit shorts, loose cotton apron. Cozy sunlit laundry nook with an open front-load washer, overflowing basket, wooden drying rack, clothespins, and warm sunlight. She is the only person in the video.
+
+Sequence: untangles wet clothes → shakes out a shirt → checks a collar stain by the window → hangs it saying "Good enough." → finds a mismatched sock → struggles with a heavy bedsheet while laughing → finishes hanging it and quietly admires the sunlit laundry.
+
+Dialogue is natural spoken Korean (except "Good enough"), reacting casually to each moment. Ambient sound only: washer winding down, wet fabric, clothespins, rustling clothes, soft laughter, breeze. No subtitles, text, logos, or watermarks. Do not recreate or copy the reference image—use it only for facial identity and hairstyle.</code></pre>
+
+</details>
+
+## Photorealistic smartphone selfie vlog in a thrift store
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2083554590021026204)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2035](https://imglume.com/prompt/2035)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/66f93405-0ba1-449d-9bdb-08b8be454971/2e575442-0b1b-4435-a3fa-fa94e19a6272-1785628518408 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic smartphone selfie vlog that looks exactly like a real mobile phone recording. A young woman (image = her face and hair) visits a cozy thrift store on a sunny afternoon, filming everything herself with a handheld smartphone in selfie mode. The video features natural hand shake, realistic autofocus, slight exposure changes, authentic smartphone stabilization, and true-to-life colors. Smiling at the camera, she says, "Today's thrift store challenge—I'm only buying the first cute thing I find!" She walks through colorful racks of vintage clothes, shelves of accessories, plush toys, and home décor until she spots a random adorable oversized hat. Laughing, she immediately tries it on in front of a mirror, making funny poses and bursting into genuine laughter at how silly she looks. She decides to buy it, walks out of the store holding a small shopping bag, proudly shows her surprise find to the camera, smiles brightly, waves, and says, "See you in the next vlog. Bye!" before reaching toward the phone to stop the recording. The video should feel completely real with natural human movement, consistent facial features, realistic hand interactions, authentic thrift store lighting, no beauty filters, no CGI, no AI-plastic appearance, no subtitles, no logos, no watermark, and no background music—only real store ambience, footsteps, quiet conversations, clothing rustling, and natural environmental sounds.</code></pre>
+
+</details>
+
+## Super casual smartphone home video of office celebration
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083509483402403935)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2022](https://imglume.com/prompt/2022)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c9e9addd-5b9f-419f-957b-b2d5a39f473b/95dc531c-8aea-435a-b02c-023290f71955-1785605490096 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Super casual real smartphone home video footage, casual office celebration in a decorated break room, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth normal motion, rapidfire montage with quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of colleagues cutting cake, clapping and chatting, pure raw home video feel, no cinematic polish.
+Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of colleagues of all ages around her in the office break room, balloons and a small cake visible.
+0-2.5s: Shaky rapid cuts — main woman laughing near the decorated table, balloons in the background, quick flashes of colleagues clapping.
+2.5-5s: Abrupt jump cuts — close-up of her smiling while cutting the cake, then colleagues passing cake slices around.
+5-7.5s: Fast shaky — she chats animatedly with coworkers, casual office attire, laughter visible.
+7.5-10s: Quick cut close-up — warm smile toward camera, then jump to her laughing with a senior colleague nearby.
+10-12.5s: Abrupt edit — group gathered around the table, casual toast with paper cups, mixed ages chatting.
+12.5-15s: Final rapid transition — main woman relaxed among colleagues, soft smile, calm office memory ending with slight natural phone sway.
+Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion, authentic casual physics, stable main character consistency, no pro stabilization or effects.</code></pre>
+
+</details>
 
 ## Photorealistic smartphone selfie vlog at a Japanese strawberry farm
 

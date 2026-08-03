@@ -1,9 +1,48 @@
 # Travel image prompts
 
-8 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Travel postcard diorama prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2083463023868739670)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [2029](https://imglume.com/prompt/2029)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/658f94ce-903d-45d9-8f35-ecb4333440bb/1b03115c-ad4b-49e1-89df-a0baa0598d46-1785615916375 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/658f94ce-903d-45d9-8f35-ecb4333440bb/0490ee50-fae7-449b-b994-be8bb349a468-1785615916375 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/658f94ce-903d-45d9-8f35-ecb4333440bb/290188ad-c6b6-4f1d-a498-f1e06b765f3a-1785615916375 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Destination]:
+A highly detailed photorealistic Instagram-worthy travel postcard diorama of [DESTINATION], viewed from a slightly elevated angle. An authentic vintage postcard with rounded corners, paper texture, postal stamp, handwritten travel note, and postmark sits in the foreground. Emerging from the postcard is an intricate 3D papercraft world featuring the most iconic elements of [DESTINATION], built from layered paper-cut terrain, architecture, landmarks, vegetation, and coastline.
+A stylized collectible-traveler character stands naturally within the papercraft scene, designed to match the destination's atmosphere and culture. The character has premium cinematic styling, expressive pose, realistic proportions, fashionable travel outfit, subtle storytelling accessories, and integrates seamlessly into the miniature world.
+The background is a softly blurred real-world view of [DESTINATION], creating depth and a connection between reality and imagination. The postcard remains tack-sharp while the background has creamy bokeh.
+Handwritten text on the postcard feels personal, poetic, and destination-specific, expressing discovery, wonder, and hidden-gem travel. Elegant postal marks, destination stamp, and subtle ink illustrations complement the composition without cluttering it.
+Visual hierarchy: blurred real destination → authentic postcard → emerging papercraft landscape → traveler character.
+Luxury travel editorial aesthetic, warm natural light, shallow depth of field, premium paper textures, cinematic color grading, realistic shadows, handcrafted details, ultra-detailed papercraft construction, collectible figurine quality, travel-magazine cover quality, highly shareable social-media aesthetic, photorealistic, 8K, masterpiece.
+Destination-specific adaptation rules:
+Character outfit inspired by local climate and culture.
+Architecture reflects local building style.
+Landmark selection limited to 1–3 iconic features.
+Color palette inspired by the destination.
+Handwritten quote unique to the destination.
+Papercraft elements emerge naturally from the postcard surface.
+Avoid generic tourist attractions and overcrowded scenes.
+Emphasize hidden-gem, dreamy, storybook-travel feeling.
+Header
+[Destination], [Country]
+Paragraph
+Some places don't ask for attention — they simply stay with you.
+Closing line
+Go where the maps get quiet.
+Aspect ratio 1:1</code></pre>
+
+</details>
 
 ## Red-haired traveler in historic European town
 

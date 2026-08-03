@@ -1,9 +1,82 @@
 # Illustration 3d image prompts
 
-16 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Colored Pencil illustration of a couple walking through a poppy field towards a sunrise ocean
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083905097944215773)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `character`, `illustration-3d`, `nature`
+- **ImgLume record:** [2087](https://imglume.com/prompt/2087)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/1838a33f-8a63-461d-b989-c3cc94f21873-1785685217698 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/b6ae0c7a-5be2-49f8-a054-98f816a54bae-1785685217698 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/f4269cee-1672-460d-9157-70421aa1b790-1785685217698 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. A young couple walks hand in hand away from the viewer along a narrow winding dirt path through a vast field of vivid red poppies in the foreground, with stems and buds interspersed. The woman wears a flowing white dress, the man a white shirt with rolled-up sleeves and dark trousers, their heads tilted gently toward each other. In the distance on a gentle hill sits a rustic stone house with a terracotta roof, flanked by tall slender cypress trees. A soft morning mist lingers over the hills and fields. Beyond the hills, a serene ocean stretches to the horizon under a glowing sunrise sky filled with soft pastel hues of pink, peach, lavender, and pale gold, complemented by scattered wispy clouds. A single sailboat drifts gently on the far horizon. The perspective is wide, showcasing the detailed poppies, the couple, the farmhouse, and the expansive calm seascape. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, romantic, and fresh, with cool morning light and delicate pastel tones dominating the palette.</code></pre>
+
+</details>
+
+## Traditional Japanese lacquerware art, makie style
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083719305527472472)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2040](https://imglume.com/prompt/2040)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb77e378-fda7-414f-a7b9-5e116fa4fb9b/ffcb54a2-2b70-4c4e-a704-6ce8461562ac-1785645311874 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bb77e378-fda7-414f-a7b9-5e116fa4fb9b/3405f4f9-b255-4c4d-bd5f-178355096971-1785645311874 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bb77e378-fda7-414f-a7b9-5e116fa4fb9b/712c3098-6be7-472a-992d-9ff832f878e9-1785645311874 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Traditional Japanese lacquerware art, makie style, deep indigo blue and gold leaf, serene night landscape, pristine white lotus flower in foreground, dark blue lotus leaves with intricate golden veins, calm lake with subtle golden ripples, elegant golden blossoming trees, silhouette of Japanese pine tree, layered blue mountain silhouettes, solid ultramarine sky, flat colors, minimal shading, elegant minimalist aesthetic, highly detailed, masterpiece, 8k</code></pre>
+
+</details>
+
+## Travel postcard diorama prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2083463023868739670)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [2029](https://imglume.com/prompt/2029)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/658f94ce-903d-45d9-8f35-ecb4333440bb/1b03115c-ad4b-49e1-89df-a0baa0598d46-1785615916375 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/658f94ce-903d-45d9-8f35-ecb4333440bb/0490ee50-fae7-449b-b994-be8bb349a468-1785615916375 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/658f94ce-903d-45d9-8f35-ecb4333440bb/290188ad-c6b6-4f1d-a498-f1e06b765f3a-1785615916375 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Destination]:
+A highly detailed photorealistic Instagram-worthy travel postcard diorama of [DESTINATION], viewed from a slightly elevated angle. An authentic vintage postcard with rounded corners, paper texture, postal stamp, handwritten travel note, and postmark sits in the foreground. Emerging from the postcard is an intricate 3D papercraft world featuring the most iconic elements of [DESTINATION], built from layered paper-cut terrain, architecture, landmarks, vegetation, and coastline.
+A stylized collectible-traveler character stands naturally within the papercraft scene, designed to match the destination's atmosphere and culture. The character has premium cinematic styling, expressive pose, realistic proportions, fashionable travel outfit, subtle storytelling accessories, and integrates seamlessly into the miniature world.
+The background is a softly blurred real-world view of [DESTINATION], creating depth and a connection between reality and imagination. The postcard remains tack-sharp while the background has creamy bokeh.
+Handwritten text on the postcard feels personal, poetic, and destination-specific, expressing discovery, wonder, and hidden-gem travel. Elegant postal marks, destination stamp, and subtle ink illustrations complement the composition without cluttering it.
+Visual hierarchy: blurred real destination → authentic postcard → emerging papercraft landscape → traveler character.
+Luxury travel editorial aesthetic, warm natural light, shallow depth of field, premium paper textures, cinematic color grading, realistic shadows, handcrafted details, ultra-detailed papercraft construction, collectible figurine quality, travel-magazine cover quality, highly shareable social-media aesthetic, photorealistic, 8K, masterpiece.
+Destination-specific adaptation rules:
+Character outfit inspired by local climate and culture.
+Architecture reflects local building style.
+Landmark selection limited to 1–3 iconic features.
+Color palette inspired by the destination.
+Handwritten quote unique to the destination.
+Papercraft elements emerge naturally from the postcard surface.
+Avoid generic tourist attractions and overcrowded scenes.
+Emphasize hidden-gem, dreamy, storybook-travel feeling.
+Header
+[Destination], [Country]
+Paragraph
+Some places don't ask for attention — they simply stay with you.
+Closing line
+Go where the maps get quiet.
+Aspect ratio 1:1</code></pre>
+
+</details>
 
 ## Ultra-Premium 3D Caricature Portrait of Cheerful Young Woman
 

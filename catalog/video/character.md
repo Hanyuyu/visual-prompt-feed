@@ -1,9 +1,133 @@
 # Character video prompts
 
-24 source-linked prompts, newest ImgLume records first.
+27 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic Morning Routine Video
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2083806649219957060)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2065](https://imglume.com/prompt/2065)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cdc41530-1804-42cb-abf5-801d77f62ec7/acd71245-3c21-4da5-9b3c-dadc83e09ab1-1785668427830 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 15-second vertical morning routine video of a young woman in a modern luxury home. The video begins with her waking up in a cozy bedroom illuminated by warm golden sunrise light. She reaches to the bedside table, picks up her smartphone, checks the time, smiles softly, and stretches naturally. She walks into a bright minimalist bathroom and brushes her teeth while looking into the mirror. Next, she performs her skincare routine in front of the mirror, gently cleansing her face and applying toner, serum, and moisturizer with graceful, realistic movements. Finally, she walks into a stylish dining room, sits at a wooden breakfast table with toast, fresh fruit, coffee, and orange juice, takes a sip of coffee, and smiles while looking out the sunlit window. Warm golden-hour lighting, soft shadows, natural expressions, realistic body movement, elegant camera motion, shallow depth of field, photorealistic skin, luxury lifestyle aesthetic, cinematic color grading, ultra-realistic, 4K HDR, smooth transitions, premium commercial quality, vertical 9:16.</code></pre>
+
+</details>
+
+## Giant Hands Barbie Doll Styling 15s Vertical Video
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2083549761328554048)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2037](https://imglume.com/prompt/2037)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3bde9f7f-d23e-44ea-a170-a62e24dd1062/757628ce-13f9-4a49-8bd6-73fd016e8c02-1785634824445 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【风格】巨人之手娃娃穿搭（GWRM · Giant Hands Barbie Doll Styling），真实手机竖屏实拍质感（9:16 Vertical, Photorealistic），ins爆款粉色少女感，自然家居光
+【时长】15秒
+【场景】真实居家客厅：浅色木地板、白色衣柜、墙上挂着电视，自然窗光从侧面打进来；女主以真人芭比娃娃的比例站在地板上，画外伸进来的手比她整个人还大
+【角色】女主@图片1（被缩小成娃娃比例的真人，面部与身材保持真人质感，动作有轻微娃娃感的僵直和顿挫）
+【核心机制】比例差：一双巨大的手（正常人手，相对女主如巨人）从画外反复伸入画面为她换装——捏起、放下、脱衣、套衣、蹲下换鞋；女主全程配合但保持娃娃式的乖巧站姿，被摆弄时身体轻微晃动
+【常驻字幕】画面上方粉色手写花体英文标题"GWRM"，下方小字"Styled by Giant Hands Like a Barbie Doll"，配粉色蝴蝶结与星星装饰
+
+[00:00-00:02] 开场：把娃娃放下（Placement）
+巨手捏住女主的腰部把她从画外拎进来，轻轻放到木地板上站稳，她穿着粉格睡衣外套、白色吊带、白色蕾丝短裤和白袜，头上戴粉色睡眠眼罩，双脚落地时轻轻晃了一下才站定。
+
+[00:02-00:05] 第一步：摘眼罩、脱外套（Undress）
+巨手两指捏住她头上的粉色眼罩向上一摘；随后双手捏住粉格外套的两只袖口，把整件外套从她身上向后一褪、整件拎出画面，她只剩白吊带和蕾丝短裤，抬手揉了揉眼睛。
+
+[00:05-00:08] 第二步：护肤上妆（Skincare Close-up）
+切怼脸特写：巨大的手指蘸着乳白色面霜在她脸颊上轻轻抹开，她乖乖闭眼仰着脸；接着一根手指举起一面粉色小镜子递到她面前，她睁眼照镜子、抿嘴整理刘海。
+
+[00:08-00:11] 第三步：换新装（Dress Up）
+切回全景：巨手捧着一件绿色荷叶边抹胸上衣从她头顶套下、拉正下摆；再取一条粉白格子超短裙从她脚下向上提到腰间，抚平褶皱，她配合地抬起手臂又放下。
+
+[00:11-00:13.5] 第四步：换鞋袜（Shoes &amp; Socks）
+低角度贴地特写：巨手捏着粉色长筒蕾丝袜一只只往她腿上套、拉到膝盖；再把一双玫红色尖头高跟鞋摆到她脚边，捏着她的脚踝一只只塞进鞋里，指尖调整鞋跟站稳。
+
+[00:13.5-00:15] 收尾：走秀定格（Final Pose）
+巨手退出画面，女主独自站在地板中央，双手叉腰扭胯摆pose，接着原地转身甩了下头发，对镜头歪头一笑，画面定格在她的全身穿搭上。
+
+【音效】轻快甜美的ins风BGM打底，衣物摩擦的窸窣声、鞋跟磕地的"哒"声、手指擦面霜的细微声都保留真实录音质感，每次换装完成配一声轻"叮"，结尾定格配上扬收束音</code></pre>
+
+</details>
+
+## Morning Gym Routine
+
+- **Original source:** [@SeharShinwari on X](https://x.com/SeharShinwari/status/2083523126810267830)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `product-ads`
+- **ImgLume record:** [2023](https://imglume.com/prompt/2023)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c2f0778a-c330-445d-b7e1-91454b86fb39/9f406356-cc79-49e0-b734-d7a94210c988-1785605508397 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Video Prompt – Morning Gym Routine
+
+Style: Ultra-realistic, cinematic, luxury fitness commercial, natural morning light, handheld camera, shallow depth of field, realistic human movement, premium gym interior, 4K HDR, no AI artifacts, smooth camera motion.
+
+Character Consistency: A fit woman in her mid-20s with natural beauty, medium-length dark brown hair tied in a neat high ponytail, athletic build, light natural makeup, wearing a black fitted sports bra, high-waisted charcoal gray leggings, white training sneakers, and a black smartwatch. Maintain identical facial features, hairstyle, body proportions, clothing, and accessories throughout every scene.
+
+Scene 1 (0–3s) – Ready to Go
+
+Early morning. She sits on a gym bench, calmly tying her white sneakers. Soft golden sunlight enters through the large windows. Close-up of her hands tightening the laces, then a confident smile as she stands up.
+
+Scene 2 (3–5s) – Hydration
+
+She walks to a water station and fills a sleek reusable water bottle. Slow-motion water pouring, cinematic close-up of droplets, natural reflections, shallow depth of field.
+
+Scene 3 (5–11s) – Workout
+
+Fast-paced montage:
+
+* Walking confidently through the gym.
+* Running on the treadmill.
+* Performing dumbbell shoulder presses.
+* Romanian deadlifts with perfect form.
+* Short battle rope sequence.
+ Natural sweat, controlled breathing, realistic muscle movement, energetic but authentic.
+
+Scene 4 (11–13s) – Protein Shake
+
+She pours a chocolate protein shake into a shaker bottle, shakes it confidently, takes a refreshing sip while smiling.
+
+### **Scene 5 (13–15s) – Walk Out**
+
+She walks out of the gym with her gym bag over one shoulder, headphones on, morning sunlight behind her. The camera follows from behind as the gym doors close, ending with a confident cinematic slow-motion shot.
+
+Camera Style
+
+* Handheld cinematic camera
+* Smooth gimbal tracking shots
+* Close-ups with shallow depth of field
+* Slow motion at key moments
+* Natural lens flares
+* Commercial-style framing
+
+Color Grading
+
+Warm golden morning tones, realistic skin texture, clean whites, high contrast, premium fitness advertisement look.
+
+Negative Prompt
+
+Cartoon, anime, CGI, unrealistic body proportions, extra fingers, blurry face, distorted anatomy, flickering, low quality, oversaturated colors, robotic movement, AI artifacts, inconsistent clothing, inconsistent face, text, watermark, logo.</code></pre>
+
+</details>
 
 ## High-end luxury cosmetics commercial with lavender
 

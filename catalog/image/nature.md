@@ -1,9 +1,43 @@
 # Nature image prompts
 
-3 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Colored Pencil illustration of a couple walking through a poppy field towards a sunrise ocean
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083905097944215773)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `character`, `illustration-3d`, `nature`
+- **ImgLume record:** [2087](https://imglume.com/prompt/2087)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/1838a33f-8a63-461d-b989-c3cc94f21873-1785685217698 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/b6ae0c7a-5be2-49f8-a054-98f816a54bae-1785685217698 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2bf3edbb-7edd-4bd1-b2e6-5a72270134cc/f4269cee-1672-460d-9157-70421aa1b790-1785685217698 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. A young couple walks hand in hand away from the viewer along a narrow winding dirt path through a vast field of vivid red poppies in the foreground, with stems and buds interspersed. The woman wears a flowing white dress, the man a white shirt with rolled-up sleeves and dark trousers, their heads tilted gently toward each other. In the distance on a gentle hill sits a rustic stone house with a terracotta roof, flanked by tall slender cypress trees. A soft morning mist lingers over the hills and fields. Beyond the hills, a serene ocean stretches to the horizon under a glowing sunrise sky filled with soft pastel hues of pink, peach, lavender, and pale gold, complemented by scattered wispy clouds. A single sailboat drifts gently on the far horizon. The perspective is wide, showcasing the detailed poppies, the couple, the farmhouse, and the expansive calm seascape. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, romantic, and fresh, with cool morning light and delicate pastel tones dominating the palette.</code></pre>
+
+</details>
+
+## Colored Pencil illustration of poppy field with sunset ocean scene
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2083905097944215773)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `nature`
+- **ImgLume record:** [2086](https://imglume.com/prompt/2086)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b9a504a-e80b-43fe-8e3f-2238b52040bf/f2e38719-bcc2-4ad7-9157-91bf39bbf674-1785685217698 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2b9a504a-e80b-43fe-8e3f-2238b52040bf/224a166c-020a-46e6-a878-f23e9982ed05-1785685217698 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2b9a504a-e80b-43fe-8e3f-2238b52040bf/4f2a88c5-6104-41e1-bf81-6b3c3ac9043d-1785685217698 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant illustration featuring a field of vivid red poppies in the foreground, with stems and buds interspersed. The background reveals a serene ocean scene at sunset, with soft pastel hues of pink, orange, and purple filling the sky, complemented by scattered clouds. A single sailboat drifts gently on the horizon, capturing a sense of tranquility. The perspective is wide, showcasing both the detailed flowers and the expansive, calm sea. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful and picturesque, with warm tones dominating the palette.</code></pre>
+
+</details>
 
 ## Magical night river under luminous full moon
 

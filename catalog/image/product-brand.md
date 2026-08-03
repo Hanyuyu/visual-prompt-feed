@@ -5,7 +5,7 @@
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Brand Hero Triptych Banner Prompt
+## Senior Brand Art Director Triptych Hero Banner Prompt
 
 - **Original source:** [@AmirMushich on X](https://x.com/AmirMushich/status/2083529149331788156)
 - **Recommended model:** `gptimage`

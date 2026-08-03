@@ -3,12 +3,13 @@
   "facet": "category",
   "value": "ui-graphic",
   "label": "Ui Graphic",
-  "count": 1,
+  "count": 2,
   "mediaTypes": {
     "image": 1,
-    "video": 0
+    "video": 1
   },
   "ids": [
-    "byradar:2081581375790948730:0"
+    "byradar:2081581375790948730:0",
+    "byradar:2083532010933371220:0"
   ]
 }

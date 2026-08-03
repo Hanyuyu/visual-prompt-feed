@@ -1,9 +1,322 @@
 # Camera Moves video prompts
 
-25 source-linked prompts, newest ImgLume records first.
+32 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seedance 2.5 Beer Commercial Prompt – TALON
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2083854169782325248)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `product-ads`
+- **ImgLume record:** [2088](https://imglume.com/prompt/2088)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5c210ca8-b85e-4fbd-b49d-d45a63520bf8/3c8dbc20-51d7-4fb4-8f89-320d9f6d3931-1785685236290 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-energy American premium beer commercial in the kinetic visual language of top Spanish beer ads (Águila-style dynamism): extremely fast rhythmic cutting, aggressive camera movement, constant forward energy, product always the absolute hero. Shot on anamorphic cinema lenses with rich contrast, warm golden highlights, deep blacks, subtle film grain, perfect motion blur, and hyper-detailed product beauty. Every frame feels alive, expensive, and addictive.
+
+Brand: TALON
+Logo: bold condensed American industrial sans-serif “TALON” in pure gold, with a sharp geometric falcon talon gripping a single hop cone integrated into the letter “A”.
+Bottle: tall elegant amber-glass longneck, matte black body label with the gold TALON logo centered, thin gold foil neck collar, embossed talon mark on the shoulder, heavy cold condensation beads, liquid a luminous deep-golden amber with dense creamy white head when poured.
+
+0-2s: [Extreme close-up, rapid whip-pan] Ice explodes as a hand yanks a freezing TALON bottle from a metal cooler. Condensation flies. Instant cut.
+
+2-4s: [Dynamic tracking, low angle] Bottle spins in slow-motion mid-air against a blazing desert sunset highway, gold logo catching the last light. Hard cut.
+
+4-6s: [Handheld kinetic] Young crew in a vintage convertible flying down an empty American desert road at golden hour, wind ripping through hair, laughing. Driver raises a cold TALON without looking away from the road. Cut on the laugh.
+
+6-8s: [Macro beauty, 120fps] Perfect pour: thick golden liquid cascades into a chilled glass, dense foam rising in ultra-slow motion, tiny bubbles racing upward, condensation racing down the glass. Sound of liquid is almost tactile.
+
+8-10s: [Fast montage, 4 cuts in 2 seconds] Rooftop at dusk – city lights ignite. Friends clink bottles hard. Foam overflows. A girl throws her head back laughing. A guy points at the sky. Every cut lands on the bottle or the foam.
+
+10-13s: [Steadicam push through crowd] Night football tailgate, American flags, smoke from grills, pure energy. Someone cracks a TALON, the distinctive sound cuts through the noise. Camera finds the bottle first, then the smiling faces around it.
+
+13-16s: [Ultra-close product sequence] Three rapid macro shots:
+– condensation drop sliding down the gold logo
+– thick white head collapsing slowly over the rim
+– bottle rotating under hard practical light, label flashing gold
+Hard rhythmic cuts timed like drum hits.
+
+16-19s: [Aerial + ground hybrid] Drone diving over a nighttime desert campfire circle. Friends sit around the flames, bottles in hand. Camera lands on one bottle standing upright in the sand, glowing from the firelight, logo sharp. Instant cut to a hand grabbing it.
+
+19-22s: [Aggressive handheld, pure chaos energy] Bar bathroom mirror selfie energy turns into a full dance-floor explosion. Bottles raised high above the crowd. Liquid flying. Faces pure joy. Camera never stops moving, always finding the TALON label in the chaos.
+
+22-25s: [Slow-motion climax beauty] Single perfect bottle of TALON held against a black background, spinning slowly. Gold logo catches every light. Then the same bottle is slammed down onto a wooden table in real time – foam erupts. Freeze on the eruption for half a second.
+
+25-28s: [Final product hero] Extreme close-up of the open bottle and a full glass side-by-side, both sweating, foam perfect, gold logo glowing. Soft anamorphic flare. The word “TALON” appears in the same gold type over the image.
+
+28-30s: [Hard cut to pure black] Gold TALON logo + talon icon slam on screen with the line:
+“TALON. Grip the night.”
+Hold for one beat of pure silence, then cut to black.
+
+Cinematic anamorphic look, rich golden color grade, deep contrast, aggressive rhythmic editing, constant kinetic camera energy, hyper-detailed product macro photography, perfect condensation and liquid physics, zero dead frames, pure American freedom energy filtered through European beer-commercial precision, no dialogue, pure visual and emotional momentum.</code></pre>
+
+</details>
+
+## Cinematic anime-inspired samurai duel
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2083836982594318616)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2072](https://imglume.com/prompt/2072)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3737f1e-ff8c-48cb-9695-e7e04b47ccdc/281a07d2-4da4-4b0a-b948-20418784bb7b-1785674816791 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, anime-inspired samurai duel inside a dimly lit, ruined wooden temple with golden sunlight streaming through a broken roof. A fearless female warrior wearing a red kimono and black hakama faces a masked armored ninja in a tense standoff before launching into a fast-paced katana battle with glowing red sword trails, sparks, fluid dodges, and dramatic sword clashes. She spins, leaps into the air, locks blades mid-air, then unleashes a powerful fiery energy slash, defeating her opponent. She lands gracefully in a crouched pose with her katana extended as the defeated ninja falls behind her, ending with an intense over-the-shoulder glance toward the camera. Ultra-detailed, cinematic lighting, dynamic camera movements, slow motion, epic action, high-quality VFX, 4K.</code></pre>
+
+</details>
+
+## Cinematic Morning Routine Video
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2083806649219957060)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2065](https://imglume.com/prompt/2065)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cdc41530-1804-42cb-abf5-801d77f62ec7/acd71245-3c21-4da5-9b3c-dadc83e09ab1-1785668427830 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 15-second vertical morning routine video of a young woman in a modern luxury home. The video begins with her waking up in a cozy bedroom illuminated by warm golden sunrise light. She reaches to the bedside table, picks up her smartphone, checks the time, smiles softly, and stretches naturally. She walks into a bright minimalist bathroom and brushes her teeth while looking into the mirror. Next, she performs her skincare routine in front of the mirror, gently cleansing her face and applying toner, serum, and moisturizer with graceful, realistic movements. Finally, she walks into a stylish dining room, sits at a wooden breakfast table with toast, fresh fruit, coffee, and orange juice, takes a sip of coffee, and smiles while looking out the sunlit window. Warm golden-hour lighting, soft shadows, natural expressions, realistic body movement, elegant camera motion, shallow depth of field, photorealistic skin, luxury lifestyle aesthetic, cinematic color grading, ultra-realistic, 4K HDR, smooth transitions, premium commercial quality, vertical 9:16.</code></pre>
+
+</details>
+
+## Luxury fragrance boutique commercial
+
+- **Original source:** [@DaniaSafvi on X](https://x.com/DaniaSafvi/status/2083793278236070186)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2056](https://imglume.com/prompt/2056)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/30d74123-b9c9-438c-8bfb-57df33a2e0b9/452f2d99-0efc-4b6f-9b58-37d4c0c0f401-1785657930103 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Ultra-photorealistic, luxury commercial, cinematic, one continuous tracking shot, premium fragrance boutique, warm ambient lighting, realistic human movement, 35mm lens, shallow depth of field, HDR, 8K, smooth gimbal stabilization.
+
+Scene 1 (0–3s) – Entering the Store
+
+A stylish young man wearing a fitted black t-shirt and dark jeans walks into a luxurious perfume boutique. The camera follows from a front-left tracking angle as he confidently enters. Elegant wooden shelves filled with premium glass fragrance bottles glow under warm LED lighting. Polished white marble flooring reflects the lights, creating a premium atmosphere.
+
+Scene 2 (3–6s) – Walking Through the Aisle
+
+The camera smoothly tracks beside him as he walks slowly through the fragrance aisle, casually looking at the collection. Hundreds of luxury perfume bottles are neatly arranged on illuminated shelves. Soft reflections on the glass bottles, clean modern interior, cinematic depth of field, realistic body movement, natural walking pace.
+
+Scene 3 (6–10s) – Browsing the Collection
+
+The camera moves slightly closer while he turns his head toward the shelves, appreciating the premium fragrances. Close-up shots capture elegant perfume bottles with golden liquid, crystal-clear glass, metallic caps, soft bokeh in the background, warm luxury retail lighting, realistic facial expressions.
+
+Scene 4 (10–13s) – Hero Ending
+
+The camera slowly pushes in as he continues walking past the display with confidence. The luxury boutique stretches into the background, showcasing rows of illuminated perfume shelves and a premium showroom. Smooth cinematic motion, elegant atmosphere, luxury fashion commercial aesthetic, ultra-realistic details, clean composition, high-end color grading, no text, no watermark, no logos.</code></pre>
+
+</details>
+
+## BLACK HAWK DOWN
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2083559439161036833)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2043](https://imglume.com/prompt/2043)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/79770e80-cbea-43fb-b992-98c637d356c1/be68b252-0ca4-4308-98d5-b72b9b8eb3b5-1785649529824 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>BLACK HAWK DOWN
+
+FORMAT
+15 seconds | 16:9 | Live-action military rescue drama
+Fictional dramatization. Documentary-style visual realism.
+
+SETTING
+A fictional conflict zone where a military UH-60 Black Hawk has crash-landed after sustaining damage during an evacuation mission.
+Rocky desert valley with scattered boulders, burning wreckage, drifting dust and distant smoke columns.
+Time: late afternoon approaching sunset.
+Hot dry air with believable battlefield ambience.
+
+FORCES
+Military rescue team securing the crash site while hostile forces remain concealed around surrounding terrain.
+Maintain consistent uniforms, tactical gear, vehicles and character identities throughout the sequence.
+Grounded human behaviour.
+
+STORY
+
+00–04s — ESTABLISHING
+Wide documentary shot reveals the crashed UH-60 Black Hawk resting at an angle with damaged rotor blades and smoke rising from the fuselage.
+Scattered equipment surrounds the wreck.
+Rescue team cautiously advances toward the helicopter.
+Camera slowly pushes forward from a believable embedded-documentary position.
+Natural wind moves dust, smoke and debris.
+
+04–08s — TENSION
+Handheld perspective follows soldiers moving between rocks toward the helicopter.
+A crew member signals from inside the wreck while another provides security.
+Short hand signals and brief shouted commands.
+Camera follows behind with realistic footsteps, breathing, framing corrections and natural motion blur.
+Dust reacts naturally beneath movement.
+
+08–12s — CLASH
+Incoming distant fire forces the rescue team to take immediate cover while continuing extraction.
+Personnel move urgently between rocks and the helicopter.
+Nearby impacts throw dust into the air.
+Geography remains readable and consistent.
+Camera reacts naturally instead of anticipating events.
+No graphic injuries or gore.
+
+12–15s — AFTERMATH
+Rescuers begin pulling survivors away from the wreck while others provide security.
+Smoke drifts across the crash site.
+The damaged helicopter burns quietly in the background.
+Camera settles behind cover.
+One rescuer briefly looks back toward the aircraft.
+End on unresolved tension.
+
+CAMERA
+Grounded conflict-documentary cinematography.
+Wide environmental coverage.
+Medium handheld following shots.
+Brief close reaction shots.
+Natural handheld instability.
+Realistic operator movement.
+Plausible camera positions.
+No impossible drone transitions.
+No excessive slow motion.
+
+LIGHTING
+Natural late-afternoon sunlight.
+Warm golden light filtered through smoke and dust.
+Realistic exposure adaptation.
+Detailed shadows.
+Natural highlight roll-off.
+No artificial rim lighting.
+
+PHYSICS
+Real gravity and momentum.
+Believable equipment weight.
+Damaged rotor blades remain stationary.
+Dust reacts to footsteps.
+Smoke follows natural airflow.
+Loose debris behaves realistically.
+Authentic interaction with rocks, wreckage and terrain.
+
+HUMAN PERFORMANCE
+Restrained behaviour under extreme stress.
+Heavy breathing.
+Quick visual checks.
+Controlled communication.
+Natural hesitation.
+Urgency without heroic posing.
+
+AUDIO
+Dry desert wind.
+Burning helicopter crackling.
+Boots on gravel.
+Equipment movement.
+Short tactical commands.
+Distant gunfire and impacts with realistic acoustic delay.
+Occasional metallic creaks.
+No oversized Hollywood trailer effects.
+
+VISUAL CHARACTER
+Photorealistic live-action.
+Conflict-documentary realism.
+Natural skin texture.
+Authentic military uniforms and equipment.
+Realistic aircraft damage.
+Subtle sensor noise.
+Natural motion blur.
+Imperfect handheld framing.
+
+Avoid:
+video-game aesthetics
+CGI appearance
+excessive HDR
+oversaturated fire
+impossible explosions
+floating debris
+perfectly choreographed movement
+beauty-filter faces
+graphic gore
+
+CONTINUITY
+Maintain character identity, uniforms, equipment, helicopter damage, terrain and lighting between shots.
+Preserve geographic orientation and screen direction</code></pre>
+
+</details>
+
+## 1950s Diner Time Freeze Cinematic Video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083600094906187999)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [2042](https://imglume.com/prompt/2042)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5091eea6-80cf-468d-b93e-afe4d8b53671/b8fe1729-9b54-426a-bea4-57886e73f08d-1785649514466 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+0-2s: [Medium Wide] A striking young woman sits alone at the counter, calmly sipping a milkshake. Behind her a waitress approaches with a tray of eggs, bacon and a coffee pot. An older lady starts rising from a nearby booth.
+2-5s: [Dynamic Tracking] The older lady collides into the waitress. Tray, plate, eggs and coffee explode upward in slow motion liquid ribbons and suspended droplets. Camera orbits the impact. Time locks at the peak. Every face frozen in shock. Only the girl at the counter keeps moving, unfazed.
+5-11s: [Slow 360° Orbital] Camera glides through the frozen diner. Coffee hangs as glassy ribbons, food floats weightlessly, patrons locked in startled expressions. The girl takes one slow sip, half-lidded eyes, while the frozen world reverses every droplet and person rewinding back to start.
+11-13s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again. The girl raises two fingers, softly calls her name. Waitress turns just as the older lady begins to stand, avoiding collision. A tiny smile crosses the girl's face.
+13-15s: [Extreme Close-Up] Hard cut to her face, one last slow sip, soft knowing smile, eyes almost closed. Shallow depth of field, creamy neon bokeh behind her.
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence.</code></pre>
+
+</details>
+
+## Vertical Full-Body Fashion Transformation Video with ARRI ALEXA 35
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2083532010933371220)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `ui-graphic`
+- **ImgLume record:** [2021](https://imglume.com/prompt/2021)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/923c4410-507c-462a-b982-00543b36c781/3339eb6b-96c4-4fd3-a90b-88db405f0c65-1785605478293 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A STATIC FULL-BODY SHOT IN VERTICAL FORMAT, SHOT ON ARRI ALEXA 35 WITH A 50MM LENS, HEAD-TO-TOE VISIBLE, NO CROPPED FEET. SINGLE ASYMMETRIC COMPOSITION: A VERTICAL SMARTPHONE FASHION-APP UI OCCUPIES THE LEFT THIRD, WHILE THE MODEL STANDS ON THE RIGHT TWO-THIRDS. THE CAMERA REMAINS LOCKED AS SHE PERFORMS ONE SLOW CONTROLLED 360-DEGREE TURN WITH SMALL NATURAL POSE CHANGES.
+
+USE IMAGE 1 AS THE ONLY FACE AND IDENTITY REFERENCE. PRESERVE THE SAME FACE, EYE SPACING, JAWLINE, NOSE BRIDGE, HAIRLINE, HAIRSTYLE, SKIN TONE, AND NATURAL MAKEUP. USE IMAGE 2 AS THE EXCLUSIVE REFERENCE FOR THE LIGHT-BLUE RIBBED SHORT-SLEEVE SCOOP-NECK TOP. USE IMAGE 3 AS THE EXCLUSIVE REFERENCE FOR THE WHITE WRAP LONG SKIRT WITH SIDE WAIST RIBBON. USE IMAGE 4 AS THE EXCLUSIVE REFERENCE FOR THE BEIGE OPEN-TOE HOME SLIPPERS. USE IMAGE 5 AS THE EXCLUSIVE REFERENCE FOR THE DENIM-BLUE QUILTED SHOULDER BAG WITH DIAMOND STITCHING, FLAP, CHAIN-AND-LEATHER STRAP, AND METALLIC HARDWARE. PRESERVE THE ORIGINAL COLORS, MATERIALS, SHAPES, PROPORTIONS, AND DETAILS OF EACH REFERENCE.
+
+THE MODEL BEGINS IN A PLAIN FITTED BLACK TANK TOP AND CLEAN BLACK SHORTS. AS SHE ROTATES, EACH ITEM LEAVES THE LEFT PHONE UI AND AUTOMATICALLY FITS INTO PLACE.
+
+FIRST, THE LIGHT-BLUE TOP FITS NATURALLY OVER HER TORSO AND ARMS. SHE TILTS HER HEAD, WIDENS HER EYES, SMILES BRIGHTLY, AND LIGHTLY TOUCHES THE SLEEVE WITH A CUTE SURPRISED EXPRESSION.
+
+SECOND, THE WHITE WRAP LONG SKIRT COVERS THE BLACK SHORTS AND FORMS THE SAME SIDE RIBBON, LENGTH, WRAP, AND SOFT DRAPE AS IMAGE 3. SHE HOLDS THE SKIRT SIDES SLIGHTLY, MAKES A SMALL HALF-TWIRL, AND SHOWS A DELIGHTED SMILE.
+
+THIRD, THE BEIGE SLIPPERS FIT NATURALLY ONTO HER FEET. SHE LIFTS ONE FOOT SLIGHTLY, POINTS HER TOES, LOOKS DOWN WITH A PLAYFUL GRIN, THEN LOOKS BACK AT THE CAMERA WITH A TINY NOD.
+
+FOURTH, THE DENIM-BLUE QUILTED BAG SETTLES OVER HER SHOULDER AND BESIDE HER HIP. SHE HOLDS THE STRAP WITH ONE HAND, PLACES THE OTHER HAND NEAR HER CHEEK, LEANS SLIGHTLY TOWARD THE CAMERA, AND GIVES A CUTE CONFIDENT SMILE.
+
+AFTER THE FULL OUTFIT IS COMPLETE, SHE FACES THE CAMERA, MAKES A SMALL FINAL TWIRL, GENTLY HOLDS THE SKIRT WITH ONE HAND AND THE BAG STRAP WITH THE OTHER, LEANS FORWARD SLIGHTLY, AND SAYS IN KOREAN, “나 어때요?” WITH A SWEET, PLAYFUL, CURIOUS TONE. NATURAL KOREAN LIP MOVEMENT SYNCHRONIZED TO THE DIALOGUE, FOLLOWED BY A BRIGHT SMILE AND ONE SMALL BLINK.
+
+THE LEFT SIDE LOOKS LIKE A PREMIUM VERTICAL SMARTPHONE FASHION APP WITH ROUNDED CORNERS, BLUSH-PINK AND CREAM COLORS, CLEAN WHITE PRODUCT CARDS, A TOP NAVIGATION BAR, BACK ARROW, STATUS DOTS, AND SEARCH ICON. DISPLAY FOUR STACKED PRODUCT CARDS: TOP FROM IMAGE 2, BOTTOM FROM IMAGE 3, SHOES FROM IMAGE 4, ACCESSORY FROM IMAGE 5. ONLY ONE CARD ACTIVATOne spin. Four pieces. Endless style. Watching fashion transform in real time never gets old. AIFashion OOTD StyleTransformationES AT A TIME WITH A SOFT PINK GLOW. WHEN AN ITEM LEAVES ITS CARD, THE SLOT BECOMES EMPTY AND CHANGES TO A SIMPLE CHECKED STATE. KEEP THE UI CLEAN, STABLE, SPACIOUS, AND SEPARATED FROM THE MODEL.
+
+BRIGHT EVEN BEAUTY LIGHTING, NEUTRAL SOFT KEY LIGHT ON HER FACE, SOFT FILL, PALE-BLUE AND BLUSH-PINK BACKGROUND ACCENTS, CLEAN CONTACT SHADOWS, SUBTLE RIM LIGHT, SHARP CATCHLIGHTS. REALISTIC FABRIC DRAPING, BODY CONTACT, GRAVITY, COLLISION, SKIRT MOTION, SLIPPER ALIGNMENT, AND BAG SWING. CUTE PLAYFUL K-POP OOTD VARIETY SHOW AESTHETIC, PHOTOREALISTIC FACE, NATURAL PORES, DETAILED LIPS, EXPRESSIVE EYES, NATURAL CUTE FACIAL ACTING, NO STIFF POSTURE, NO CLOTHING CLIPPING, NO DUPLICATE ITEMS, NO DISTORTED HANDS, NO EXTRA FINGERS, NO FACE OCCLUSION, NO IDENTITY DRIFT, HIGH-FIDELITY CINEMATIC REALISM, SHARP FOCUS.</code></pre>
+
+</details>
 
 ## Futuristic Neon Motorcycle Ride Through Cyberpunk City and Post-Apocalyptic Wasteland
 

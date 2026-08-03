@@ -1,9 +1,382 @@
 # Product Ads video prompts
 
-22 source-linked prompts, newest ImgLume records first.
+28 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seedance 2.5 Beer Commercial Prompt – TALON
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2083854169782325248)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `product-ads`
+- **ImgLume record:** [2088](https://imglume.com/prompt/2088)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5c210ca8-b85e-4fbd-b49d-d45a63520bf8/3c8dbc20-51d7-4fb4-8f89-320d9f6d3931-1785685236290 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-energy American premium beer commercial in the kinetic visual language of top Spanish beer ads (Águila-style dynamism): extremely fast rhythmic cutting, aggressive camera movement, constant forward energy, product always the absolute hero. Shot on anamorphic cinema lenses with rich contrast, warm golden highlights, deep blacks, subtle film grain, perfect motion blur, and hyper-detailed product beauty. Every frame feels alive, expensive, and addictive.
+
+Brand: TALON
+Logo: bold condensed American industrial sans-serif “TALON” in pure gold, with a sharp geometric falcon talon gripping a single hop cone integrated into the letter “A”.
+Bottle: tall elegant amber-glass longneck, matte black body label with the gold TALON logo centered, thin gold foil neck collar, embossed talon mark on the shoulder, heavy cold condensation beads, liquid a luminous deep-golden amber with dense creamy white head when poured.
+
+0-2s: [Extreme close-up, rapid whip-pan] Ice explodes as a hand yanks a freezing TALON bottle from a metal cooler. Condensation flies. Instant cut.
+
+2-4s: [Dynamic tracking, low angle] Bottle spins in slow-motion mid-air against a blazing desert sunset highway, gold logo catching the last light. Hard cut.
+
+4-6s: [Handheld kinetic] Young crew in a vintage convertible flying down an empty American desert road at golden hour, wind ripping through hair, laughing. Driver raises a cold TALON without looking away from the road. Cut on the laugh.
+
+6-8s: [Macro beauty, 120fps] Perfect pour: thick golden liquid cascades into a chilled glass, dense foam rising in ultra-slow motion, tiny bubbles racing upward, condensation racing down the glass. Sound of liquid is almost tactile.
+
+8-10s: [Fast montage, 4 cuts in 2 seconds] Rooftop at dusk – city lights ignite. Friends clink bottles hard. Foam overflows. A girl throws her head back laughing. A guy points at the sky. Every cut lands on the bottle or the foam.
+
+10-13s: [Steadicam push through crowd] Night football tailgate, American flags, smoke from grills, pure energy. Someone cracks a TALON, the distinctive sound cuts through the noise. Camera finds the bottle first, then the smiling faces around it.
+
+13-16s: [Ultra-close product sequence] Three rapid macro shots:
+– condensation drop sliding down the gold logo
+– thick white head collapsing slowly over the rim
+– bottle rotating under hard practical light, label flashing gold
+Hard rhythmic cuts timed like drum hits.
+
+16-19s: [Aerial + ground hybrid] Drone diving over a nighttime desert campfire circle. Friends sit around the flames, bottles in hand. Camera lands on one bottle standing upright in the sand, glowing from the firelight, logo sharp. Instant cut to a hand grabbing it.
+
+19-22s: [Aggressive handheld, pure chaos energy] Bar bathroom mirror selfie energy turns into a full dance-floor explosion. Bottles raised high above the crowd. Liquid flying. Faces pure joy. Camera never stops moving, always finding the TALON label in the chaos.
+
+22-25s: [Slow-motion climax beauty] Single perfect bottle of TALON held against a black background, spinning slowly. Gold logo catches every light. Then the same bottle is slammed down onto a wooden table in real time – foam erupts. Freeze on the eruption for half a second.
+
+25-28s: [Final product hero] Extreme close-up of the open bottle and a full glass side-by-side, both sweating, foam perfect, gold logo glowing. Soft anamorphic flare. The word “TALON” appears in the same gold type over the image.
+
+28-30s: [Hard cut to pure black] Gold TALON logo + talon icon slam on screen with the line:
+“TALON. Grip the night.”
+Hold for one beat of pure silence, then cut to black.
+
+Cinematic anamorphic look, rich golden color grade, deep contrast, aggressive rhythmic editing, constant kinetic camera energy, hyper-detailed product macro photography, perfect condensation and liquid physics, zero dead frames, pure American freedom energy filtered through European beer-commercial precision, no dialogue, pure visual and emotional momentum.</code></pre>
+
+</details>
+
+## Tresemmé Luxury Haircare Commercial
+
+- **Original source:** [@IsabellaHan_ on X](https://x.com/IsabellaHan_/status/2083592859672826090)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2082](https://imglume.com/prompt/2082)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/07e75030-140d-4c23-ae03-e27d2318b16e/8889eb8b-c4d4-4fc8-bfec-21e2896f1cd4-1785681136951 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>TRESEMMÉ — PROFESSIONAL PERFORMANCE
+Use all uploaded reference images exactly as provided.
+Maintain complete consistency throughout the entire video.
+Do not modify the woman's face, hair colour, curl pattern, curl definition, bathroom environment, product packaging, lighting, reflections, or typography.
+The product packaging is authoritative and must remain unchanged throughout the entire commercial.
+The final result should resemble a premium beauty campaign rather than an AI-generated video.
+Aspect ratio: 16:9
+Duration: 15 seconds
+Style
+Luxury beauty commercial
+Soft natural lighting
+Realistic reflections
+Realistic water movement
+Realistic hair movement
+Documentary-style photography
+Natural colours
+Minimal colour grading
+Photorealistic appearance
+Ultra-detailed
+8K quality
+Avoid:
+Plastic skin
+Artificial hair
+Excessive contrast
+Oversaturation
+Distorted fingers
+Excessive sharpening
+Unrealistic reflections
+Heavy visual effects
+Cartoon-like animation
+SCENE 1 (0–3 seconds)
+Begin with an extreme close-up shot of the shampoo bottle.
+The bottle stands on a glossy marble surface.
+Tiny water droplets cover the packaging.
+Soft reflections move naturally across the bottle.
+The camera slowly moves toward the product.
+Elegant editorial typography appears beside the bottle.
+Display
+✦ HEALTHY SHINE
+✦ HYDRATION
+✦ LONG-LASTING MOISTURE
+Typography instructions
+Thin white lettering
+Elegant serif font
+Fine decorative lines
+Tiny water-droplet symbols
+Subtle botanical illustrations
+Soft shadows
+Smooth fade-in animation
+Luxury editorial appearance
+The typography must never cover the bottle.
+Voice-over
+"Healthy shine begins here."
+SCENE 2 (3–6 seconds)
+The woman enters the shower area.
+Water gently flows through her curls.
+She places the shampoo in the palm of her hand.
+She rubs the product between both hands.
+White foam gradually forms.
+She gently massages the foam into her hair.
+The camera captures the movement of the curls.
+Display
+◌ GENTLY CLEANSES
+◌ LOCKS IN MOISTURE
+◌ NOURISHES CURLS
+Typography instructions
+White lettering
+Fine dividing lines
+Water-inspired decorative symbols
+Smooth animation
+Minimalist appearance
+Voice-over
+"Gently cleansing while locking in moisture."
+SCENE 3 (6–10 seconds)
+The camera slowly moves closer to the woman's hair.
+Individual strands become visible.
+Water droplets move naturally through the curls.
+The curls appear healthy, smooth, soft, and hydrated.
+Display
+◆ SOFT
+◆ SMOOTH
+◆ DEFINED
+Typography instructions
+Elegant serif font
+Fine decorative symbols
+Smooth fade-in effect
+Luxury editorial appearance
+Voice-over
+"Soft. Smooth. Defined."
+SCENE 4 (10–13 seconds)
+The woman stands in front of the mirror.
+She gently touches her hair.
+The curls move naturally.
+She smiles softly toward the camera.
+Display
+❖ BEAUTIFULLY ALIVE
+Typography instructions
+Thin white lettering
+Soft reflections
+Delicate floral details
+Elegant dividing lines
+Magazine-inspired layout
+Voice-over
+"Every curl feels beautifully alive."
+SCENE 5 (13–15 seconds)
+Hero shot.
+The camera slowly moves toward the shampoo bottle.
+Water droplets remain visible on the package.
+Soft reflections appear across the marble surface.
+The final text appears in the lower-right corner of the frame.
+Display
+TRESEMMÉ
+— PROFESSIONAL PERFORMANCE —
+Typography instructions
+Bold white lettering
+Elegant serif font
+Fine decorative lines
+Soft fade-in animation
+Positioned in the lower-right corner
+Never covering the product
+Voice-over
+"Tresemmé. Professional performance."
+Important instructions
+The typography should feel like part of a luxury fashion magazine.
+Use:
+Fine decorative lines
+Tiny botanical illustrations
+Water-droplet symbols
+Elegant geometric details
+Delicate separators
+Do not use:
+Bright emojis
+Cartoon illustrations
+Stickers
+Neon effects
+Oversized text
+The product should always remain the centre of attention.</code></pre>
+
+</details>
+
+## Viral Premium Pizza Commercial
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2083803694886506640)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2076](https://imglume.com/prompt/2076)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8b651524-3a52-473e-8ea6-88529a16ad7f/354f003f-22b4-4cf6-b442-e2d44d6e758c-1785678933397 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8b651524-3a52-473e-8ea6-88529a16ad7f/414fc255-3922-44a4-af3e-99bfd977ccb0-1785678933397 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5 – 10s Viral Premium Pizza Commercial (3:4)
+Aspect Ratio: 3:4 (1080×1440)
+Duration: 10 seconds
+Style: Ultra-photorealistic, cinematic, luxury food commercial, Hollywood-quality, stop-scrolling, viral social media advertisement.
+Prompt
+Use the provided image as the identity reference for the woman. Preserve her facial features, hairstyle, makeup, blue gingham dress, and jewelry consistently throughout the video.
+Create an ultra-premium pizza commercial with warm golden lighting, realistic steam, floating flour particles, creamy bokeh, HDR, 8K textures, macro food cinematography, and flawless skin rendering.
+Scene 1 (0–2.5s)
+Open with an extreme macro shot of a premium wood-fired pizza fresh from the oven. Cheese bubbles, pepperoni glistens, basil sparkles with tiny water droplets, dramatic steam rises, and orange flames flicker in the background. Hyper-realistic food styling.
+Scene 2 (2.5–5s)
+Smooth cinematic dolly-in reveals the woman seated beside the pizza in a luxurious Italian restaurant. Warm amber lighting, blurred "PREMIUM PIZZA" neon sign behind her. She gives a confident smile while maintaining eye contact. Hair gently moves in a soft breeze.
+Scene 3 (5–7.5s)
+She lifts a pizza slice into a spectacular slow-motion cheese pull. Long stretchy mozzarella strands shimmer under cinematic lighting while oregano and parmesan fall in slow motion. Camera performs a smooth orbit around the pizza.
+Scene 4 (7.5–10s)
+She takes one elegant bite, smiles naturally, then the camera transitions into a dramatic hero shot of the rotating pizza surrounded by floating basil, tomatoes, olives, parmesan, chili flakes, and flour dust. Finish with a cinematic push-in on the pizza.
+Ending Text
+"ONE BITE. PURE PERFECTION."
+Premium gold typography with a subtle glow and elegant cinematic fade.
+Camera
+Cinema-grade gimbal movements, macro food cinematography, 85mm portrait lens, smooth dolly shots, slow orbit, rack focus between the pizza and the model, subtle handheld micro-movements, premium advertising composition.
+Lighting
+Golden-hour cinematic lighting, warm practical restaurant lights, volumetric rays, HDR reflections, realistic shadows, glowing cheese highlights, luxury commercial color grading.
+Quality Tags
+Ultra-realistic, 8K, HDR, IMAX quality, Netflix-style commercial, luxury food advertisement, premium restaurant branding, hyper-detailed textures, realistic physics, flawless facial consistency, physically accurate cheese stretch, realistic steam simulation, cinematic color grading, ray tracing, global illumination, masterpiece, stop-scrolling, viral-quality commercial.</code></pre>
+
+</details>
+
+## Ultra-realistic 15-second Paper Boat Aamras commercial in mango orchard
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2083752858042933605)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2053](https://imglume.com/prompt/2053)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2e4980c4-fed8-4720-b051-095e8c90aaa9/2caed050-65c5-473f-ab51-a431b0d6f494-1785653773493 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, and facial consistency throughout every shot. Dress her in a relaxed oversized white T-shirt, light denim shorts, and white sneakers.
+
+Create a 15-second ultra-realistic Paper Boat Aamras commercial inspired by nostalgia and Indian summers. The video opens with the girl smiling warmly into the camera while holding a chilled Paper Boat Aamras pouch beside her face. She gently shakes the pouch and walks through a beautiful mango orchard bathed in golden afternoon sunlight. She sits beneath a mango tree on a wooden swing, twists open the cap, and takes a refreshing sip. Cinematic macro shots capture tiny water droplets on the chilled pouch, the creamy mango drink flowing naturally, ripe Alphonso mangoes, and sunlight filtering through green leaves. She laughs while enjoying the peaceful summer atmosphere, then walks through the orchard carrying the pouch as a gentle breeze moves her hair. End with a premium hero shot of the Paper Boat Aamras pouch resting on a rustic wooden table beside fresh mangoes and leaves, while the girl smiles softly in the blurred background.
+
+Ultra-realistic beverage commercial, warm nostalgic Indian summer aesthetic, premium product cinematography, macro product shots, natural golden-hour lighting, realistic liquid physics, shallow depth of field, soft bokeh, commercial-grade color grading, 4K HDR, 16 :9, no subtitles or watermarks.</code></pre>
+
+</details>
+
+## Ultra-realistic premium sports commercial tennis video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2083581732989861954)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2026](https://imglume.com/prompt/2026)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c2ef6e91-70db-4814-a43c-f5afc6e0a806/fc869e03-03fc-4d92-9db4-2358d4f120bd-1785607525422 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, outfit, accessories, and realistic hand anatomy consistently throughout every shot. Replace the jeans with a white pleated tennis skirt, clean white athletic sneakers, white ankle socks, and a fitted white sleeveless athletic top. Tie her hair into a sleek high ponytail while maintaining identical facial features and perfect character consistency throughout the sequence.
+
+Create an ultra-realistic premium sports commercial featuring the same woman throughout the entire video. Set the film on a modern outdoor tennis court during golden hour with warm sunlight, lush green surroundings, premium sports facilities, realistic court textures, cinematic color grading, shallow depth of field, smooth camera movement, and photorealistic 4K HDR quality.
+
+The video opens with a cinematic beauty close-up of her face as she smiles confidently toward the camera. She gently gathers her hair and ties it into a sleek high ponytail while a soft breeze moves a few loose strands around her face.
+
+She walks toward a tennis bench, confidently picks up her premium tennis racket, adjusts her grip, bounces a tennis ball on the racket a few times, and walks onto the court with determination.
+
+A dramatic slow-motion sequence captures her tossing the tennis ball into the air before delivering a powerful serve. Multiple cinematic angles showcase the racket making clean contact with the ball as it flies across the court.
+
+The rally begins with dynamic forehand and backhand exchanges. She moves naturally across the baseline, sprinting for wide shots, performing quick footwork, and returning every ball with precision. Tracking shots, overhead drone views, and close-up action shots emphasize athletic movement and realistic body mechanics.
+
+After an intense rally, she wins the point with a perfectly placed cross-court winner. The tennis ball lands on the line as the opponent cannot return it.
+
+She walks calmly to the bench, places the racket down, wipes the sweat from her forehead with a soft white towel, and smiles with satisfaction.
+
+Next, she opens a chilled bottle of water, takes a refreshing drink, and enjoys the cool breeze while looking across the court. Tiny water droplets glisten on the bottle under the warm sunlight.
+
+The commercial ends with her standing confidently at the center of the tennis court holding the racket over her shoulder. She smiles directly at the camera, gently spins the racket once in her hand, raises her fist in a subtle victory celebration, and walks toward the net as the camera slowly pulls back to reveal the entire golden-hour tennis court.
+
+Style: Premium sports commercial, luxury athletic lifestyle, cinematic storytelling, realistic sports physics, dynamic camera movements, handheld and gimbal cinematography, aerial drone shots, slow-motion action sequences, realistic sweat and fabric movement, physically accurate lighting, shallow depth of field, commercial-grade colour grading, ultra-detailed, photorealistic 4K HDR.
+
+Natural Audio: Tennis ball bounces, racket impact, footsteps on the court, light wind, birds chirping, towel movement, water bottle opening, water sipping, distant crowd ambience, subtle applause, and natural outdoor sounds. No background music, no subtitles, no logos, no watermarks, and no on-screen text.
+
+Negative Prompt: No duplicate people, no distorted hands, no deformed body proportions, no unrealistic racket physics, no AI artifacts, no cartoon style, no extra fingers, no flickering, no oversaturated colours, no low-resolution textures, no text, no subtitles, no watermarks.</code></pre>
+
+</details>
+
+## Morning Gym Routine
+
+- **Original source:** [@SeharShinwari on X](https://x.com/SeharShinwari/status/2083523126810267830)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `product-ads`
+- **ImgLume record:** [2023](https://imglume.com/prompt/2023)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c2f0778a-c330-445d-b7e1-91454b86fb39/9f406356-cc79-49e0-b734-d7a94210c988-1785605508397 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Video Prompt – Morning Gym Routine
+
+Style: Ultra-realistic, cinematic, luxury fitness commercial, natural morning light, handheld camera, shallow depth of field, realistic human movement, premium gym interior, 4K HDR, no AI artifacts, smooth camera motion.
+
+Character Consistency: A fit woman in her mid-20s with natural beauty, medium-length dark brown hair tied in a neat high ponytail, athletic build, light natural makeup, wearing a black fitted sports bra, high-waisted charcoal gray leggings, white training sneakers, and a black smartwatch. Maintain identical facial features, hairstyle, body proportions, clothing, and accessories throughout every scene.
+
+Scene 1 (0–3s) – Ready to Go
+
+Early morning. She sits on a gym bench, calmly tying her white sneakers. Soft golden sunlight enters through the large windows. Close-up of her hands tightening the laces, then a confident smile as she stands up.
+
+Scene 2 (3–5s) – Hydration
+
+She walks to a water station and fills a sleek reusable water bottle. Slow-motion water pouring, cinematic close-up of droplets, natural reflections, shallow depth of field.
+
+Scene 3 (5–11s) – Workout
+
+Fast-paced montage:
+
+* Walking confidently through the gym.
+* Running on the treadmill.
+* Performing dumbbell shoulder presses.
+* Romanian deadlifts with perfect form.
+* Short battle rope sequence.
+ Natural sweat, controlled breathing, realistic muscle movement, energetic but authentic.
+
+Scene 4 (11–13s) – Protein Shake
+
+She pours a chocolate protein shake into a shaker bottle, shakes it confidently, takes a refreshing sip while smiling.
+
+### **Scene 5 (13–15s) – Walk Out**
+
+She walks out of the gym with her gym bag over one shoulder, headphones on, morning sunlight behind her. The camera follows from behind as the gym doors close, ending with a confident cinematic slow-motion shot.
+
+Camera Style
+
+* Handheld cinematic camera
+* Smooth gimbal tracking shots
+* Close-ups with shallow depth of field
+* Slow motion at key moments
+* Natural lens flares
+* Commercial-style framing
+
+Color Grading
+
+Warm golden morning tones, realistic skin texture, clean whites, high contrast, premium fitness advertisement look.
+
+Negative Prompt
+
+Cartoon, anime, CGI, unrealistic body proportions, extra fingers, blurry face, distorted anatomy, flickering, low quality, oversaturated colors, robotic movement, AI artifacts, inconsistent clothing, inconsistent face, text, watermark, logo.</code></pre>
+
+</details>
 
 ## Second-by-second prompt for a luxury Hublot watch ad in Seedance
 

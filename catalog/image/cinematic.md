@@ -1,9 +1,51 @@
 # Cinematic image prompts
 
-21 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Rainy Cyberpunk Megacity Night Scene
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2083808209576620187)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2077](https://imglume.com/prompt/2077)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7029ad73-b21e-4dc6-a7f8-d5856d1acc6e/912a578d-9276-49e2-aa5f-14fa18469ffa-1785678961768 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A rainy cyberpunk megacity at night, ultra-detailed cinematic street scene, dense futuristic Asian metropolis filled with towering neon signs in Japanese, Korean, Chinese, and Thai, glowing holographic advertisements, narrow market street packed with food stalls and small shops, wet asphalt reflecting vibrant blue, magenta, cyan, and purple neon lights.
+
+A lone figure seen from behind walks through the center of the street holding a transparent umbrella, wearing a long black coat with an intricate Japanese oni mask illustration on the back. Several pedestrians carrying umbrellas disappear into the distance. Steam rises from food vendors, cables and pipes crisscross overhead, futuristic skyscrapers fade into mist in the background, subtle volumetric fog, rain droplets illuminated by neon lighting.
+
+Highly cinematic composition, deep perspective, dramatic leading lines, moody atmosphere, dystopian future, Blade Runner-inspired aesthetic, Ghost in the Shell vibes, realistic reflections, puddles, glossy wet pavement, atmospheric haze, soft bloom, ray-traced global illumination, ultra-realistic textures, HDR lighting, 8K, photorealistic, extremely detailed, masterpiece, Unreal Engine 5, Octane Render, sharp focus, high contrast, film grain, anamorphic lens, 35mm cinematic photography, f/2.8, long exposure feeling, teal and magenta color grading.
+
+Negatives :
+
+low quality, blurry, cartoon, anime, low resolution, flat lighting, oversaturated, distorted perspective, duplicate people, deformed hands, extra limbs, watermark, logo, text artifacts, noise, compression artifacts, cropped, out of frame</code></pre>
+
+</details>
+
+## Titanic fallen angel deity over ocean bay
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2083659002462732340)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2039](https://imglume.com/prompt/2039)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4d88637c-cfd8-412d-973c-5bba62609edf/20ed1836-71d3-4d4f-b265-1b3aec39550a-1785643210886 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4d88637c-cfd8-412d-973c-5bba62609edf/6f296601-dfb9-4f4b-af93-429055da84a3-1785643210886 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4d88637c-cfd8-412d-973c-5bba62609edf/bd49cfb1-1139-434f-8730-2a31c3fa08a1-1785643210886 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4d88637c-cfd8-412d-973c-5bba62609edf/5625ac28-1d35-4538-ab33-6aa2acdccbf1-1785643210886 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>titanic fallen angel deity lying face-down and half-submerged across an entire ocean bay, its single visible wing curved into a natural harbor wall, a dense futuristic city of glass towers and light-strung bridges built directly into the wing's feather ridges, storm clouds parting for a single shaft of light illuminating the city, distant ships tracing the wing's silhouette for scale, epic wide cinematic shot,</code></pre>
+
+</details>
 
 ## Endless colonnade of sentinel angel statues
 
