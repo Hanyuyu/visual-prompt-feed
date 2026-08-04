@@ -1,9 +1,59 @@
 # Animation video prompts
 
-28 source-linked prompts, newest ImgLume records first.
+30 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## The Shadow Quit
+
+- **Original source:** [@sebatheepan on X](https://x.com/sebatheepan/status/2084023216440246455)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2128](https://imglume.com/prompt/2128)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0d2af307-629f-4c50-97f8-e193fed047cb/5504f4b3-ff77-4940-9173-fd66f1c4c73e-1785747999324 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{ "title": "The Shadow Quit", "style": "3D Pixar family animation. Warm suburban dusk, golden-hour lighting, stylized characters, handheld feel.", "shots": [ {"time":"00:00-00:03","type":"EXT. CLOSE-UP","action":"Mina's sneakers hit grass. She stops. Her shadow stays seated cross-legged.","camera":"Low angle, slight handheld wobble.","dialogue":"Mina: 'Come on, we have mac and cheese tonight!'"}, {"time":"00:03-00:05","type":"WIDE","action":"Mina stands confused. Her shadow points at the swing set, arms folded.","camera":"Static wide. Swing set silhouetted.","dialogue":"Shadow: (shakes head silently)"}, {"time":"00:05-00:08","type":"MEDIUM","action":"Mina crouches, pleading. Shadow draws hopscotch in dirt with dreamy lag.","camera":"Push-in on Mina's face.","dialogue":"Mina: 'You can swing tomorrow. I promise.'"}, {"time":"00:08-00:12","type":"OVERHEAD","action":"Shadow hops hopscotch alone. Mina watches, smiling. Leaves fall slow-motion.","camera":"Crane shot descending.","dialogue":"Mina: (soft giggle)"}, {"time":"00:12-00:16","type":"CLOSE-UP","action":"Shadow stops, reaches up for high-five.","camera":"Two-shot becoming extreme close-up. Sunset flares.","dialogue":"(none)"}, {"time":"00:16-00:19","type":"SLOW-MO CLOSE-UP","action":"Hands meet. Shadow reattaches with soft snap and ripple of light.","camera":"Macro lens. Dust particles explode.","dialogue":"(soft snap sound)"}, {"time":"00:19-00:24","type":"TRACKING","action":"Mina runs to house. Shadow runs beside her on grass, up wall, synced.","camera":"Side-tracking.","dialogue":"(none)"}, {"time":"00:24-00:30","type":"INT. WIDE","action":"Mina slides into chair. Shadow on wall steals macaroni with impossibly long arm.","camera":"Wide through doorway.","dialogue":"Mina: 'Hey!' (laughs)"} ] }</code></pre>
+
+</details>
+
+## 15-second stylized 2D hand-drawn naval battle animation on notebook paper
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2083891064449224712)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2124](https://imglume.com/prompt/2124)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6d988597-cc4f-462b-ac07-b980085119e4/d2fd39a0-9b21-4bba-9c78-d1c9ac7d7483-1785741757602 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second stylized 2D hand-drawn animation, top-down naval battle on old yellow lined notebook paper. Keep the notebook-paper world from start to finish, with blue horizontal lines and the red left margin line always visible. Subtle paper texture, pencil marks, and ink strokes should be emphasized. No live action, no 3D, no realistic faces, no modern objects, no narration, no subtitles.
+
+A childlike doodle naval battle gradually transforms into a legendary illustrated naval battle, then collapses back into doodles. The escalation should feel magical, as if imagination is taking over the paper.
+
+Two naval forces, red vs blue, advance across the notebook page. Include panokseon ships, rowing boats, flags, arrows, and cannons. A turtle ship sits at the center of the battle. At first everything is rough and childish, like simple notebook doodles. As the battle intensifies, the drawings become more detailed, with stronger ink lines, richer ship details, ink-like smoke, wave marks, and dramatic motion.
+
+A commander symbolizing Admiral Yi Sun-sin appears as a heroic silhouette, not a realistic portrait. As the animation progresses, his hand-drawn presence becomes more majestic and clearly defined while still staying within the notebook illustration style.
+
+Timeline:
+0–3s: A simple doodle naval battle begins on the notebook page. Red and blue fleets move toward each other.
+3–7s: The first collision begins. Arrows fly, cannons fire, ships crash, and the drawing style starts upgrading from rough doodles into more detailed ink illustration.
+7–11s: The battle reaches its grandest form. The turtle ship dominates the center, surrounded by detailed hand-drawn ships, smoke, waves, arrows, and rhythmic impacts. The scene feels legendary and heroic.
+11–15s: After a decisive charge and impact, everything breaks apart. Ships, waves, smoke, and figures collapse back into simple doodles, broken ink lines, and scattered pencil marks. The notebook page becomes strangely quiet again.
+
+Motion should be smooth and fluid, with sharp rhythmic impacts. Keep a minimum 24fps feeling. Maintain readable silhouettes from the top-down view, with the turtle ship clearly visible as the central object.
+
+Emotional flow: playful and curious at first, then increasingly solemn and heroic, reaching a mythic climax, then ending with a quiet, strange afterglow after the collapse.</code></pre>
+
+</details>
 
 ## Hare and Tortoise race animation
 

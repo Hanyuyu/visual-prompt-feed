@@ -1,9 +1,71 @@
 # Product Ads video prompts
 
-28 source-linked prompts, newest ImgLume records first.
+30 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Starbucks UGC coffee commercial storyboard
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084110948646932966)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`, `ugc`
+- **ImgLume record:** [2123](https://imglume.com/prompt/2123)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb1d3736-fedc-4bdd-b632-582f139156bb/767eacdd-692d-4f4c-8eb1-6bda12246100-1785741747750 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard as the exact visual reference. Preserve the same young woman throughout every scene with identical facial features, hairstyle, outfit, accessories, and expressions. Maintain the same convenience store, Starbucks coffee station, barista, menu display, and iced latte with consistent branding. Create an ultra-realistic premium UGC coffee commercial with cinematic handheld camera movement, warm natural lighting, shallow depth of field, and commercial-quality color grading.
+
+The woman records a selfie while walking into the store and says, "I'm craving a coffee right now." She notices the Starbucks counter, smiles, and says, "They have Starbucks here!" She selects an iced latte from the menu, places her order, and watches the barista prepare the drink. Cinematic macro shots capture ice cubes, fresh milk, rich espresso pouring, creamy coffee swirls, and condensation forming on the cup.
+
+She waits excitedly before receiving the finished iced latte, then holds it close to the camera for a premium hero reveal. She takes a refreshing sip, smiles naturally, and says, "Wow... that's so smooth." The video ends outside the store as she holds the drink beside her face, smiles at the camera, and says, "You have to try this."
+
+Style: Premium UGC lifestyle commercial, luxury café aesthetic, photorealistic coffee textures, macro product cinematography, smooth handheld and gimbal movements, realistic lighting, shallow depth of field, ultra-detailed 4K HDR.
+
+Audio: Natural store ambience, footsteps, payment sounds, coffee machine, ice clinking, milk and espresso pouring, cup handling, soft background conversations, and straw sipping. No subtitles, no captions, no watermarks, or extra logos beyond the product branding.</code></pre>
+
+</details>
+
+## Premium Luxury Eyewear Beach Commercial
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2083909727034003967)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `gptimage`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2097](https://imglume.com/prompt/2097)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/348ed5fc-0d9a-4a86-9e4c-0ea1e0a6bb99/81823d2f-5e1f-48df-90e3-8a29e89c900f-1785701778145 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic premium luxury eyewear commercial featuring the same young East Asian woman throughout the entire sequence. Maintain identical facial features, shoulder-length soft ash-brown wavy hair, glowing skin, body proportions, and outfit in every shot. She wears a fitted black crop top, black athletic shorts, white sandals, delicate silver jewelry, and stylish sunglasses resting on her head. Bright tropical beach, golden-hour sunlight, crystal-clear ocean, palm trees, premium luxury fashion campaign aesthetic, cinematic camera work, soft warm tones, realistic skin rendering.
+
+The video opens with her smiling warmly at the camera while standing barefoot near the shoreline, holding a pair of premium designer sunglasses beside her face. The lenses catch the golden sunlight as she softly says, "See every moment in style."
+
+A cinematic macro hero shot showcases the sunglasses resting on warm beach sand surrounded by seashells and sparkling water droplets. Close-up shots highlight the premium frame, polished hinges, elegant lenses, and luxurious craftsmanship. She gracefully puts on the sunglasses while maintaining eye contact with the camera.
+
+She strolls along the beach as gentle waves wash over her feet. Smooth tracking shots follow her while the ocean breeze naturally moves her hair. She occasionally adjusts the sunglasses, smiles confidently, and looks back toward the camera.
+
+She relaxes beneath palm trees, sipping fresh coconut water and laughing with friends. Cinematic close-ups capture the sunglasses reflecting the ocean, palm trees, and glowing sunset while emphasizing her effortless summer style.
+
+As golden hour approaches, she walks into the shallow waves, playfully splashing water while the sunset reflects across the ocean. Slow-motion shots capture sparkling water droplets, flowing hair, and beautiful reflections across the lenses.
+
+She sits quietly on the beach watching the sunset before taking one final selfie with the ocean behind her. The sunglasses remain the hero accessory, complementing the warm golden atmosphere.
+
+Final hero shot: she walks confidently toward the camera, removes the sunglasses, then gracefully places them back on while smiling.
+
+She says, "Style begins with the perfect view."
+
+The camera slowly pulls back to reveal the glowing beach, ocean waves, palm trees, and golden sunset as the sunglasses become the focal point.
+
+Natural ambient audio only: ocean waves, gentle breeze, birds, footsteps on sand, distant beach ambience, water splashes, leaves rustling, and soft laughter. No background music, no subtitles, no logos, no watermarks, and no on-screen text. Premium luxury fashion cinematography, ultra-realistic skin texture, physically accurate lighting, shallow depth of field, realistic reflections, smooth handheld and gimbal movement, 16:9 widescreen, 4K HDR.</code></pre>
+
+</details>
 
 ## Seedance 2.5 Beer Commercial Prompt – TALON
 

@@ -3,9 +3,9 @@
   "facet": "category",
   "value": "nature",
   "label": "Nature",
-  "count": 10,
+  "count": 11,
   "mediaTypes": {
-    "image": 5,
+    "image": 6,
     "video": 5
   },
   "ids": [
@@ -18,6 +18,7 @@
     "byradar:2083618905885380850:0",
     "byradar:2083767534285979730:0",
     "byradar:2083905097944215773:1",
-    "byradar:2083905097944215773:0"
+    "byradar:2083905097944215773:0",
+    "byradar:2084181102097248403:0"
   ]
 }

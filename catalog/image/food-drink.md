@@ -1,9 +1,50 @@
 # Food Drink image prompts
 
-7 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Coffee, Sunflowers & Summer Dreams
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2084181102097248403)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `nature`
+- **ImgLume record:** [2140](https://imglume.com/prompt/2140)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/09018cb1-e6e9-4afe-8a07-4070e0a54e73/84ccec50-3698-49f4-9f08-4ef1eae4d379-1785758468673 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cozy café moment and a golden sunflower field come together to create a warm, dreamy aesthetic. In the first scene, a young woman sits on the edge of an oversized iced coffee cup, enjoying her drink in a charming coffeehouse surrounded by soft sunlight and lush greenery. In the second scene, she stands gracefully in a vibrant sunflower field at sunset, wearing a beautiful sunflower-print dress and a straw hat while holding a bright sunflower.Together, the images capture a perfect blend of comfort, nature, and peaceful summer vibes with a soft, cinematic atmosphere.</code></pre>
+
+</details>
+
+## Ultra-photorealistic Pepsi luxury commercial featuring East Asian woman
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2083885633303630298)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [2091](https://imglume.com/prompt/2091)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3dcc79ac-c48a-485b-bb50-de919a8eb1dc/e6bd0afa-9086-4f56-918a-585dd7a1b108-1785691531866 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3dcc79ac-c48a-485b-bb50-de919a8eb1dc/f68d0c25-5dea-4bc0-8a49-57a73d145e82-1785691531866 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the provided image as the identity reference for the woman. Preserve her facial features, hairstyle, eye shape, expression, skin tone, makeup, and overall identity with maximum consistency.
+Transform the scene into an ultra-photorealistic Pepsi luxury commercial. The same beautiful young East Asian woman wears an elegant off-shoulder black knit sweater while holding an ice-cold classic glass Pepsi bottle close to her lips. Her long jet-black hair flows naturally in a soft breeze, with loose strands partially covering one eye to create a mysterious, high-fashion editorial look.
+Cool blue ambient lighting blends with dramatic golden sunset rays entering through a nearby window, creating a striking contrast between warm highlights and icy blue reflections. The Pepsi bottle is covered in realistic condensation, shimmering water droplets, frozen ice crystals, and lively carbonation bubbles. The iconic blue, red, and white Pepsi label is perfectly sharp and vibrant, becoming the visual focal point.
+She slowly raises the chilled bottle, makes confident eye contact with the camera, and takes a graceful sip. As the bottle touches her lips, sparkling water droplets, fizzy bubbles, and tiny ice particles burst outward in ultra-slow motion, creating a spectacular premium beverage advertising moment. Her hair gently moves in the breeze while light reflects beautifully through the glass.
+The camera performs a slow cinematic push-in from a medium close-up to an intimate beauty shot, finishing with an extreme close-up of the Pepsi bottle beside her face. Premium HDR color grading, soft blue neon accents, floating dust particles, cinematic lens flares, volumetric light rays, realistic glass reflections, and creamy bokeh create an unforgettable luxury commercial atmosphere.
+Camera: 85mm f/1.2 portrait lens, smooth cinematic dolly-in, subtle handheld stabilization, rack focus from the Pepsi bottle to her eye, ultra-shallow depth of field.
+Lighting: Golden-hour sunlight mixed with cool blue cinematic lighting, dramatic rim light, glossy reflections, premium beverage commercial illumination.
+Quality: Hyper-realistic skin texture, lifelike facial micro-expressions, realistic hair simulation, physically accurate liquid dynamics, crystal-clear glass reflections, Hollywood-level VFX, luxury fashion editorial, premium beverage advertising, 8K, HDR, masterpiece composition, award-winning commercial photography, stop-scrolling, viral-worthy, high-end Pepsi campaign, Seedance 2.5 optimized, 3:4 vertical aspect ratio.</code></pre>
+
+</details>
 
 ## Graceful woman enjoying coffee on a European balcony
 

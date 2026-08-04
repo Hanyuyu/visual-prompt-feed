@@ -1,9 +1,26 @@
 # Nature image prompts
 
-5 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Coffee, Sunflowers & Summer Dreams
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2084181102097248403)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `nature`
+- **ImgLume record:** [2140](https://imglume.com/prompt/2140)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/09018cb1-e6e9-4afe-8a07-4070e0a54e73/84ccec50-3698-49f4-9f08-4ef1eae4d379-1785758468673 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cozy café moment and a golden sunflower field come together to create a warm, dreamy aesthetic. In the first scene, a young woman sits on the edge of an oversized iced coffee cup, enjoying her drink in a charming coffeehouse surrounded by soft sunlight and lush greenery. In the second scene, she stands gracefully in a vibrant sunflower field at sunset, wearing a beautiful sunflower-print dress and a straw hat while holding a bright sunflower.Together, the images capture a perfect blend of comfort, nature, and peaceful summer vibes with a soft, cinematic atmosphere.</code></pre>
+
+</details>
 
 ## Colored Pencil illustration of a couple walking through a poppy field towards a sunrise ocean
 

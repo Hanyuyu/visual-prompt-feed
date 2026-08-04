@@ -1,9 +1,118 @@
 # UGC video prompts
 
-19 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vertical UGC-style grocery shopping vlog
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [2157](https://imglume.com/prompt/2157)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/39a81f7f-ba76-4fb8-9b43-8d3795d0737e/857988d3-c939-41e0-a9fa-fed1ac452695-1785777385959 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic UGC-style from lifestyle grocery shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. The video opens with the young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks toward the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, turning it slowly so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with a satisfied expression. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Close-up of her hand selecting fresh oranges, gently inspecting one before placing it into the cart. End with a close-up of her picking up a vibrant dragon fruit, rotating it naturally in her hand while admiring its color before placing it into the cart. Finish with her walking toward the checkout while smiling at the camera, pushing the cart under warm golden lighting.
+
+Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle commercial quality.</code></pre>
+
+</details>
+
+## Fresh Flower Pressing Vlog
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2084269139556761919)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2154](https://imglume.com/prompt/2154)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c494496-7278-40fc-a458-123c7e9946db/5e0fbee9-7fff-461a-9dda-52ea3f055707-1785775301189 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright natural daylight. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy flower-pressing vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: petals rustling, paper pages turning, book weight settling, tweezers picking up petals, gentle smoothing.
+SUBJECT: Young woman in her early 20s, plain linen dress, hair loose, minimal jewelry, no visible logos or branded items. Calm, gentle energy while preserving flowers.
+SETTING: Small table near a window on a bright afternoon. Soft daylight, a plain heavy book, freshly picked flowers laid out, no visible brand names or packaging in frame.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on the table, lays out a few fresh flowers. "Pressing some flowers today."
+→ (3s, overhead shot) Arranges petals flat between two sheets of plain paper.
+→ (3s, close-up) Uses tweezers to gently position a delicate petal.
+→ (3s, handheld shot) Closes the paper carefully over the flowers. "Just need to keep them flat."
+→ (3s, detail shot) Places the paper between the pages of a heavy book. No dialogue.
+→ (3s, medium shot) Stacks a few more books on top for weight. "That should do it."
+→ (3s, macro shot) A previously pressed flower being lifted out, delicate and flat.
+→ (3s, propped shot) Arranges the pressed flowers onto a small card.
+→ (3s, warm ending shot) Admires the finished arrangement, soft smile. "So delicate and pretty."
+→ (5s, final shot) Sets the card on the windowsill, reaches toward camera. "See you next batch." Hand covers lens as recording ends.
+AUDIO NOTES: Natural ambience — petals rustling, paper turning, book settling should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine soft smiles, occasional gentle pauses, imperfect framing, focus breathing, bright daylight shifts. No copyrighted characters, logos, brand names, or recognizable public figures anywhere in frame. Fully original personal vlog content, not AI-generated or commercial in style.</code></pre>
+
+</details>
+
+## Starbucks UGC coffee commercial storyboard
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084110948646932966)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`, `ugc`
+- **ImgLume record:** [2123](https://imglume.com/prompt/2123)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb1d3736-fedc-4bdd-b632-582f139156bb/767eacdd-692d-4f4c-8eb1-6bda12246100-1785741747750 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard as the exact visual reference. Preserve the same young woman throughout every scene with identical facial features, hairstyle, outfit, accessories, and expressions. Maintain the same convenience store, Starbucks coffee station, barista, menu display, and iced latte with consistent branding. Create an ultra-realistic premium UGC coffee commercial with cinematic handheld camera movement, warm natural lighting, shallow depth of field, and commercial-quality color grading.
+
+The woman records a selfie while walking into the store and says, "I'm craving a coffee right now." She notices the Starbucks counter, smiles, and says, "They have Starbucks here!" She selects an iced latte from the menu, places her order, and watches the barista prepare the drink. Cinematic macro shots capture ice cubes, fresh milk, rich espresso pouring, creamy coffee swirls, and condensation forming on the cup.
+
+She waits excitedly before receiving the finished iced latte, then holds it close to the camera for a premium hero reveal. She takes a refreshing sip, smiles naturally, and says, "Wow... that's so smooth." The video ends outside the store as she holds the drink beside her face, smiles at the camera, and says, "You have to try this."
+
+Style: Premium UGC lifestyle commercial, luxury café aesthetic, photorealistic coffee textures, macro product cinematography, smooth handheld and gimbal movements, realistic lighting, shallow depth of field, ultra-detailed 4K HDR.
+
+Audio: Natural store ambience, footsteps, payment sounds, coffee machine, ice clinking, milk and espresso pouring, cup handling, soft background conversations, and straw sipping. No subtitles, no captions, no watermarks, or extra logos beyond the product branding.</code></pre>
+
+</details>
+
+## 1-minute Japanese-style idol personal vlog
+
+- **Original source:** [@BubbleBrain on X](https://x.com/BubbleBrain/status/2084013378461478952)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [2106](https://imglume.com/prompt/2106)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/217a45ce-b8a4-4b63-8205-809021345573/30f571af-5ba4-49ae-84db-2ef0cc5cf659-1785722775949 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 1-minute Japanese-style idol personal vlog. The video should feel like a young Japanese idol casually filming her private daily life for her fans. Not a commercial, not a music video, but a genuine personal diary captured with a small camera or smartphone. The mood is warm, intimate, soft, and slightly nostalgic. The main character is a young female idol with a gentle personality. If a reference image is provided, keep her exact face identity, hairstyle, facial features, body proportions, and overall appearance consistent throughout the entire video. She should feel natural and comfortable in front of the camera: small smiles, shy reactions, fixing her hair, looking away while thinking, small laughs, casual expressions. Camera style: handheld selfie vlog, compact digital camera feeling, Japanese lifestyle vlog aesthetic, soft CCD-like image quality, subtle film grain, slightly warm tones, gentle highlight bloom, natural skin texture, soft focus, slight autofocus adjustments, imperfect framing. The camera should feel like she is holding it herself or placing it casually around her room. No commercial lighting. No perfect poses. No dramatic acting. No artificial influencer energy.
+0-8s: Morning bedroom introduction. The vlog starts with a close selfie shot. Soft sunlight comes through white curtains. The room feels cozy and personal: small decorations, books, cute accessories, a desk, plants, everyday objects. She looks into the camera with a sleepy smile. She waves softly and says: "Good morning. I'm filming a little vlog today." She laughs quietly, fixes her hair, and adjusts the camera. The feeling is like a private message to her fans.
+8-18s: Introducing herself. She walks around her room while talking casually. She introduces herself: her personality, what kind of person she is, and what she likes doing in her free time. Show small everyday details: choosing clothes, making a drink, checking her schedule, looking through photos on her phone. She occasionally looks away from the camera naturally while talking. She feels like a real person, not performing.
+18-30s: Introducing her cat Bubble. The mood becomes warmer and more playful. She calls: "Bubble..." The cat walks into the room. She smiles immediately and follows Bubble with the camera. Show cute natural moments: Bubble jumping onto the bed, sitting near the window, rubbing against her, looking curiously at the camera. She picks Bubble up gently and introduces: "This is Bubble. Bubble is my little family." She laughs because Bubble does not cooperate with the camera. The interaction feels spontaneous and real.
+30-45s: Her everyday hobbies. A soft lifestyle montage filmed casually. Show her doing things she enjoys:
+listening to music with headphones
+writing in a diary
+reading a magazine
+making coffee or tea
+taking selfies
+organizing small things in her room
+playing with Bubble She talks casually: "I like simple days like this." "I think small moments are my favorite." The atmosphere is peaceful and comforting.
+45-55s: A small outside moment. She goes outside for a short walk. Japanese neighborhood atmosphere: quiet streets, small cafes, bicycles, soft afternoon sunlight. She holds the camera while walking. She shows little things she finds interesting: a cute shop, flowers, a drink, a beautiful street corner. She smiles at the camera naturally.
+55-60s: Ending the vlog. Back at home. She sits with Bubble beside her. Selfie camera close-up. She smiles warmly and says: "Thank you for spending this little day with me and Bubble." "See you next time." She waves softly. The video ends with a gentle smile, natural room lighting, and a cozy diary-like feeling.
+
+Overall style: Japanese idol private vlog. Soft and nostalgic. Like a personal video diary from a small digital camera. Warm everyday moments. Cute but natural. Quiet happiness. Authentic fan connection. Visual references: Japanese lifestyle vlog atmosphere, soft CCD camera texture, early 2000s digital diary feeling, modern idol off-duty content. Avoid: luxury influencer style, fashion commercial look, perfect cinematic shots, heavy makeup, overly staged reactions, AI-generated smoothness, unrealistic movements.</code></pre>
+
+</details>
 
 ## Smartphone selfie vlog on a Japanese shopping street
 

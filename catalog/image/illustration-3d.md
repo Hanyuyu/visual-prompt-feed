@@ -1,9 +1,73 @@
 # Illustration 3d image prompts
 
-19 source-linked prompts, newest ImgLume records first.
+21 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hyperrealistic cinematic interior render of a trophy hall
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2084212073802744146)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2152](https://imglume.com/prompt/2152)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/17229956-0009-4487-b48b-4678f979783f/5110e7d7-7e58-4090-8d76-736098ada46c-1785773174232 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/17229956-0009-4487-b48b-4678f979783f/a44b661b-5516-4452-896f-7e436cdd3a63-1785773174232 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/17229956-0009-4487-b48b-4678f979783f/7f470870-d319-4b67-a049-f5f37dca0261-1785773174232 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/17229956-0009-4487-b48b-4678f979783f/257fc27c-6834-480a-b395-ccec81cefb2c-1785773174232 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>hyperrealistic cinematic interior render, a trophy hall lined with fragments of conquered gods and civilizations - cracked marble statue heads, broken halo-ring relics, salvaged banners - displayed like war trophies along bone-white ribbed walls, cold gold spotlighting each piece, somber imperial atmosphere,</code></pre>
+
+</details>
+
+## Vintage-style forest wetland illustration
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2084020765167427879)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2107](https://imglume.com/prompt/2107)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/31a18453-1506-43e7-a33f-360e0c249317/e9593086-0fde-427b-907d-fd5dce71ce89-1785722793342 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly detailed vintage-style landscape illustration of a quiet forest wetland at dusk, rendered with the look of an engraved print or scratchboard artwork. The scene is dominated by deep black silhouettes and warm golden linework, with a glowing sky that shifts from pale yellow at the horizon to soft orange and muted rose higher up, reflected in still dark water running through the center.
+
+Environment:
+• Dense woodland with tall, slender tree trunks framing both sides of the image
+• Mixed tree silhouettes, including bare branches and clustered pine canopies, receding into the distance
+• A narrow stream or flooded path runs from the foreground toward the center background, creating a strong visual corridor
+• Low grasses, reeds, and small plants line the banks and foreground edges
+• Background remains dark and uncluttered, with no buildings, animals, or human presence
+
+Lighting:
+• Strong backlit sunset glow centered on the horizon behind the trees
+• Warm luminous sky reflected in the water as elongated highlights
+• Trees and ground remain mostly in silhouette with fine illuminated edge detail
+• Avoid modern artificial lighting, harsh directional spotlighting, or blown-out highlights
+
+Materials:
+• Engraved ink-like texture with etched linework throughout trees, water, and vegetation
+• High contrast between matte black shadow masses and metallic-gold or cream-colored etched highlights
+• Water surface appears glossy and still, with delicate linear ripples and mirrored reflections
+• Bark, branches, and grasses show fine hand-carved texture
+
+Composition:
+• Symmetrical, centered composition with the waterway leading straight into the distance
+• Vertical tree trunks create a natural frame on both left and right sides
+• Horizon glow placed centrally, drawing the eye through the forest
+• Square aspect ratio, balanced negative space, landscape fills the entire frame
+
+Mood:
+Quiet, mysterious, contemplative twilight atmosphere with a timeless storybook print quality
+
+Shot as a square-format vintage engraving landscape, ultra-detailed linework, high contrast, dusk palette, reflective water, fine-art realism in etched print style.</code></pre>
+
+</details>
 
 ## Colored Pencil illustration of a couple walking through a poppy field towards a sunrise ocean
 

@@ -1,9 +1,132 @@
 # Travel video prompts
 
-8 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic Vlog Dubai - Burj Khalifa Observation Deck
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2084131147475501318)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2134](https://imglume.com/prompt/2134)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9d2dd24-4e76-4450-befb-d3b591a5c190/c0d200cd-4fdf-4534-8126-82f6d1179a6c-1785752433701 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>TITLE BURJ KHALIFA VLOG FORMAT 15 seconds | 16:9 | Live-action travel vlog Fictional dramatization. Documentary-style visual realism. SETTING The Burj Khalifa observation deck in Dubai. Floor-to-ceiling glass windows overlooking the entire Dubai skyline with visible Sheikh Zayed Road, Downtown Dubai, the Dubai Fountain and surrounding skyscrapers. Time: golden hour approaching sunset. Warm sunlight, clear atmosphere, gentle indoor ambience and distant city activity. CHARACTERS A small group of friends visiting the Burj Khalifa observation deck. Maintain consistent clothing, accessories, bags and character identities throughout the sequence. Natural tourist behaviour throughout the experience. STORY 00–04s — ESTABLISHING Wide documentary shot reveals the Burj Khalifa observation deck as visitors admire the panoramic skyline. The camera slowly walks toward the glass while Dubai stretches endlessly into the distance. Golden sunlight reflects naturally across the city. People move casually without acknowledging the camera. 04–08s — EXPLORATION Cut to a handheld vlog perspective following the group as they walk along the observation deck. One person points toward famous landmarks while another captures photos with a smartphone. Natural conversations, laughter and genuine reactions. The camera operator follows with realistic footsteps, subtle framing corrections and natural motion blur. 08–12s — HIGHLIGHT The group reaches the panoramic viewing area. One friend records a selfie video with the skyline filling the background while others admire the sunset. The camera circles naturally to reveal the immense height and scale of the city below. Wind lightly moves clothing near the outdoor terrace. No exaggerated cinematic movements. 12–15s — ENDING The camera settles beside the viewing glass. The group quietly watches the sunset as Dubai's city lights begin illuminating below. One person smiles toward the skyline before walking away. End on a calm, memorable travel moment. CAMERA Grounded travel-documentary cinematography. Mix: wide environmental coverage medium handheld following shots brief close reaction shots Natural handheld instability. Realistic operator movement. Plausible tourist camera positions. No impossible drone transitions. No excessive slow motion. LIGHTING Lighting originates entirely from the natural environment. Warm golden-hour sunlight entering through the observation windows. Natural exposure adapts between bright exterior views and interior spaces. Realistic highlight roll-off. Detailed shadows. No artificial rim lighting. PHYSICS Real gravity and momentum. Natural walking movement. Believable clothing motion. Hair responds subtly to breeze on the outdoor terrace. Realistic reflections on glass. Authentic interaction with railings, viewing telescopes and observation deck surfaces. HUMAN PERFORMANCE Relaxed, believable tourist behaviour. Natural smiles. Casual conversations. Occasional pointing toward landmarks. Small posture adjustments. Authentic reactions to the incredible height. No exaggerated influencer poses. AUDIO Soft crowd ambience. Footsteps on polished flooring. Quiet conversations. Occasional camera shutter sounds. Gentle air conditioning indoors. Light wind near the outdoor terrace. Distant city ambience far below. No oversized cinematic music or trailer effects. VISUAL CHARACTER Photorealistic live-action footage. Observational travel-documentary character. Natural skin texture. Authentic architectural detail. Realistic reflections. Subtle sensor noise. Natural motion blur. Imperfect handheld framing. Avoid: video-game aesthetics CGI appearance excessive HDR oversaturated colors impossible camera movement floating objects perfectly choreographed movement beauty-filter faces CONTINUITY Maintain character identity, clothing, observation deck layout, skyline orientation and lighting between shots. Preserve geographic orientation and screen direction. Every action begins from the physical state established by the previous shot.</code></pre>
+
+</details>
+
+## Luxury Sports Car Road Trip
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083911027989639467)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2118](https://imglume.com/prompt/2118)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d4d4e6df-0b66-4004-acfa-b330ee3a3dbc/26f51de8-114d-4306-b414-61fdaa2ecec2-1785741682357 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Reference: Use the uploaded storyboard as the exact visual sequence and timing reference.
+Duration: 15 seconds. Aspect ratio: 16:9
+Style: ultra realistic cinematic luxury travel commercial. First-person perspective.
+The same female hands remain visible throughout. Smooth seamless transitions. Photorealistic.
+Luxury sports car. Golden hour lighting.
+
+00:00–00:01 First-person view of hands holding car keys next to a luxury sports car.
+00:01–00:02 She looks at the keys, then up at the car. A quick decision.
+00:02–00:03 She opens the car door, hand gripping the handle.
+00:03–00:04 She sits inside, hands resting on the steering wheel, premium leather interior.
+00:04–00:05 The engine starts, hand shifts the gear smoothly.
+00:05–00:07 Fast driving along a coastal highway, wind through the open window, motion blur.
+00:07–00:09 The road transitions seamlessly into sharp mountain switchbacks.
+00:09–00:11 The scenery shifts into an open desert highway glowing under sunset light.
+00:11–00:13 The road dissolves into a European old-town street with cobblestones and warm lights.
+00:13–00:15 The scene transforms into an open highway with the sun setting ahead. Hold on the horizon.
+
+Camera: First-person only. Natural head movement. No cuts. Seamless cinematic transitions.
+Animation: Realistic driving motion, natural hand movement, smooth gear shifts.
+Quality: Ultra photorealistic. Luxury travel commercial. 8K. HDR. Soft cinematic lighting.</code></pre>
+
+</details>
+
+## Luxury Fashion Travel Trailer
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2084113223633248321)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2114](https://imglume.com/prompt/2114)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d131ff72-56cd-4557-b355-83a309d13bc1/b32bc011-ee15-4bd6-88af-9c0ba29fac4e-1785735383642 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Fast-paced, cinematic, luxury fashion, IMAX-quality visuals, dramatic lighting, premium color grading, energetic editing, no dialogue, powerful electronic trailer music with cinematic impacts.
+
+0:00–0:02
+
+Ultra-wide shot of automatic airport doors sliding open. The model steps in wearing sunglasses and headphones. Quick bass hit.
+
+0:02–0:04
+
+Fast tracking shot from the side as she confidently walks through the terminal, pulling a sleek carry-on. Motion blur and speed ramps.
+
+0:04–0:06
+
+Rapid montage:
+
+. Coffee picked up from a café
+. Boarding pass flips into her hand
+. Close-up of a luxury watch
+. Sneakers hitting the polished floor
+
+(0.5-second cuts)
+
+0:06–0:09
+
+Low-angle hero shot. She walks through the terminal as sunlight streams through massive windows. People blur past while she stays perfectly in focus.
+
+0:09–0:11
+
+Fast sequence:
+
+. Escalator ride
+. Airport departure board
+. Hair flip
+. Adjusts sunglasses
+. Camera orbit transition
+
+0:11–0:13
+
+Slow motion for a split second as she walks toward the boarding gate. Cinematic lens flares, dramatic trailer boom.
+
+0:13–0:15
+
+Final hero shot from behind as she walks through the jet bridge. She glances back over her shoulder for one frame before the screen cuts to black with a powerful cinematic impact sound.
+
+Editing Style
+
+. 0.3–1 second shots
+. Speed ramps
+. Whip pans
+. Match cuts
+. Flash-frame transitions
+. Bass drops synchronized with cuts
+. Cinematic trailer pacing
+. Confident runway-style walk throughout
+. No dialogue, only high-energy trailer music and cinematic sound design</code></pre>
+
+</details>
 
 ## Smartphone selfie vlog on a Japanese shopping street
 

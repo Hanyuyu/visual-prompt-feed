@@ -1,9 +1,258 @@
 # Camera Moves video prompts
 
-32 source-linked prompts, newest ImgLume records first.
+39 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Fusion core battle cinematic video prompt
+
+- **Original source:** [@Alin_Reaper05 on X](https://x.com/Alin_Reaper05/status/2084195457530478794)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2148](https://imglume.com/prompt/2148)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/420223cb-7fc8-46a0-97ba-251630d611d5/ca0c3252-21c7-42a2-98ab-dc9eabf4519e-1785764770185 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Close-quarters battle inside a fusion core that is undergoing controlled meltdown as a last-ditch weapon. Soldiers fight hand-to-hand on narrow catwalks while the core pulses brighter and hotter. Tracking shot following one fighter as he is thrown against a cooling line that ruptures, spraying superheated coolant. Slow-motion of the liquid freezing mid-air into sharp crystals that continue the fight. Final wide shot of the core reaching critical as the last two combatants are silhouetted against the expanding light.</code></pre>
+
+</details>
+
+## Cinematic ramen shop sequence with photorealistic realism
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2084118983507312869)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`, `food-drink`
+- **ImgLume record:** [2145](https://imglume.com/prompt/2145)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b3dca4f2-b97c-495b-a00b-860a29ff759a/22473268-282e-478d-aa99-7a18633e232d-1785760600561 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Photorealistic cinematic realism. A cramped, atmospheric late-night Tokyo ramen shop — steam curling off broth pots, red paper lanterns, worn wooden counter, dangling bulb lighting, condensation on the windows, rain-slicked street glowing outside, subtle handheld camera movement, rich analog film grain.
+0–4s: Medium-wide shot. A young woman in an oversized denim jacket sits alone at the counter, composed with the faintest hint of amusement, slowly slurping noodles with chopsticks. Behind her, a young cook crosses the narrow kitchen carrying two steaming bowls of ramen in one hand and a full kettle of hot broth in the other. Near the entrance, an elderly regular begins to rise from his stool to leave.
+4–8s: Dynamic tracking shot. The elderly man stumbles backward and collides heavily with the cook. The bowls, noodles, broth, and kettle explode upward into the air. Broth stretches into long steaming ribbons with suspended droplets, noodles frozen mid-arc, steam curling in slow motion. The camera immediately performs a smooth orbital move around the collision as time freezes at the exact peak of the spill. Every face is locked in an expression of shock. Only the young woman at the counter continues moving naturally, calmly lifting another bite to her mouth.
+8–17s: Slow 360-degree orbit. The camera gracefully circles the frozen shop. Broth hangs in midair like molten glass ribbons and floating spheres, noodles suspended in delicate loops, steam frozen into soft drifting clouds. The bowls, kettle, and chopsticks drift weightlessly in suspended time. The woman takes another slow bite, her eyes half-closed with an almost bored expression. Then the frozen world begins to rewind elegantly. Every droplet, every noodle, and every person moves backward with perfect precision, returning toward their original positions.
+17–24s: Medium shot. The rewind ends flawlessly. The cook is once again carrying the bowls and kettle steadily. The woman looks up and casually raises two fingers, softly calling the cook by name. The cook turns his head at exactly the right moment, stepping around the elderly man as he rises. The collision never happens. A subtle, private smile flickers across the cook's face.
+24–30s: Extreme close-up. Hard cut to the woman's face. She takes one final slow slurp with a knowing smile, her eyes almost completely closed. Very shallow depth of field. The red lanterns behind her melt into soft, warm bokeh.
+Visual Quality: Photorealistic, cinematic image quality with highly accurate fluid and steam simulation, realistic gravity and collisions, motion blur only on moving objects, stable character consistency, seamless cinematic temporal continuity, natural facial performances, and premium filmic color grading.</code></pre>
+
+</details>
+
+## Luxury runway fashion video with red corset and crystal‑studded denim
+
+- **Original source:** [@MelinaVale14 on X](https://x.com/MelinaVale14/status/2084177357095780378)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2131](https://imglume.com/prompt/2131)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75bec704-b379-4f3d-b6e2-bbc5168352df/75bb000f-2314-4f90-823f-78f11b9b99ef-1785750090712 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character: Young female fashion model with long blonde hair, flawless glowing skin, natural makeup, gold hoop earrings, confident runway presence, luxury editorial expression.
+
+Outfit: Bright red corset top, light-wash studded denim mini skirt with crystal embellishments, minimal jewelry, nude heels.
+
+0:00–0:03 — Luxury Detail
+
+Camera: Extreme macro close-up with a cinema macro lens.
+
+Action: Slow cinematic sweep across the crystal-studded waistband and denim texture. Light glides across every metallic detail, revealing premium craftsmanship.
+
+0:03–0:06 — Hero Entrance
+
+Camera: Wide-angle dolly shot from the front.
+
+Action: The model confidently walks toward the camera across the white seamless studio. Her skirt moves naturally with each step while soft studio lighting creates elegant shadows behind her.
+
+0:06–0:09 — Editorial Beauty
+
+Camera: Tight beauty close-up with a slow orbit.
+
+Action: The model gently turns her head toward the camera, maintaining confident eye contact. Hair moves subtly as beauty lighting creates soft highlights on her skin and accessories.
+
+0:09–0:12 — Fashion Showcase
+
+Camera: Full-body tracking shot transitioning into a slight low angle.
+
+Action: The model pauses, shifts her weight naturally, places one hand on her hip, then slowly pivots to showcase the silhouette and premium fit of the outfit.
+
+0:12–0:15 — Final Hero Shot
+
+Camera: Slowly rotating full-body shot finishing with a slight Dutch angle.
+
+Action: The model stands confidently in the center of the white studio, giving a final editorial pose while the camera circles around her. The lighting emphasizes the sparkle of the studded denim and the structured corset before fading to white.
+
+Visual Style Keywords: luxury fashion commercial, Vogue editorial, premium beauty campaign, cinematic runway, studio fashion film, IMAX quality, 4K HDR, macro product cinematography, elegant camera movement, realistic fabric physics, commercial-grade lighting, luxury color grading, ultra-detailed denim texture, polished skin, premium fashion photography.</code></pre>
+
+</details>
+
+## 15-second ultra-realistic GRWM office routine video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2084107248910152167)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2121](https://imglume.com/prompt/2121)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/140467a8-d88f-411d-b638-b17741c8ebbe/61119ac8-fa3a-4da4-a1d0-055ac20ffb79-1785741719726 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, and facial consistency throughout every shot. Maintain the same character consistently. Create a 15-second ultra-realistic GRWM office routine with 15 fast-paced cinematic shots (≈1 second each), smooth match cuts, whip pans, object transitions, premium lifestyle cinematography, and realistic motion.
+
+1. Alarm rings as she opens her eyes.
+
+2. She sits up, stretches, and smiles.
+
+3. Quick skincare splash in the bathroom.
+
+4. Applies light makeup in front of the mirror.
+
+5. Brushes and styles her hair.
+
+6. Changes into a chic office outfit.
+
+7. Puts on heels, watch, and earrings.
+
+8. Grabs her handbag, laptop, and coffee tumbler.
+
+9. Locks the apartment door behind her.
+
+10. Walks confidently through the apartment lobby.
+
+11. Hails a cab on a busy city street.
+
+12. Rides through downtown with cinematic city reflections.
+
+13. Steps out in front of a modern glass office building.
+
+14 Scans her access card and enters the office.
+
+15 Sits at her desk, opens her laptop, smiles at the camera, and begins working.
+
+Ultra-realistic commercial quality, smooth handheld and gimbal camera movement, natural expressions, realistic body movement, premium office interiors, luxury apartment, cinematic color grading, shallow depth of field, realistic reflections, 4K HDR, 16 9, no text, subtitles, logos, or watermarks.</code></pre>
+
+</details>
+
+## Handheld Mini DV Kitchen Vlog of Fruit Bowl Preparation
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083946644018761999)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`, `food-drink`
+- **ImgLume record:** [2117](https://imglume.com/prompt/2117)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a0d777dc-13be-4437-96b5-125e6e97ae6f/c15b84ed-0010-4d6b-86a2-4a7c48036073-1785741670844 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen daylight. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy quick kitchen vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: fruit placed on ceramic, soft rustling, cloth wiping, bowl shifting slightly.
+SUBJECT: Young woman in her late 20s, plain apron over a simple top, hair tied back, no visible logos or branded items. Calm, tidy energy during a quick kitchen task.
+SETTING: Small kitchen counter on a bright afternoon. Natural daylight, a plain ceramic bowl, fresh fruit laid out, no visible packaging or brand names in frame.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on the counter, sets down a plain bowl. "Quick fruit bowl refresh."
+→ (3s, close-up) Wipes each piece of fruit clean with a cloth.
+→ (3s, handheld shot) Arranges apples and oranges by color. "Looks so much nicer this way."
+→ (3s, detail shot) Places a small bunch of grapes on top. No dialogue.
+→ (3s, warm ending shot) Steps back, admires the bowl, smiles at the camera. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural ambience — fruit placed on ceramic, cloth wiping should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine tidy smile, imperfect framing, focus breathing, bright daylight shifts. No copyrighted characters, logos, brand names, or recognizable public figures anywhere in frame. Fully original personal vlog content, not AI-generated or commercial in style.</code></pre>
+
+</details>
+
+## Dodging bullets and summoning sea monsters
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2083811976854000027)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2101](https://imglume.com/prompt/2101)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/568e9c52-9b9e-455f-a351-bef7b9113eba/0c75ef64-57b2-428e-812e-9e502cca0430-1785710193921 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA MOVEMENT (IMAX-level blockbuster cinematography):
+
+Opening — Pursuit: Aggressive helicopter POV descent (Crane Down + Whip Pan), diving hard toward the male character as he's pinned against a cliff edge under heavy gunfire suppression.
+
+Escape — Plunge: Hard Dolly In + Speed Ramp as the man sprints and leaps off the cliff edge into the ocean below, camera falling with him in freefall, wind and motion blur intensifying.
+
+Submersion — Transition: Camera punches through the water surface on impact, transitioning seamlessly into an underwater Tracking shot following the man's descent, bubbles trailing, light refracting from above.
+
+Focus — The Gathering: Macro Push-In on the man's outstretched hand underwater, all five fingers spread as seawater begins spiraling and converging into his palm — slow, deliberate, hypnotic build.
+
+Formation: Extended Macro/Tracking hybrid as the swirling water mass grows from a thin current into a dense, coiling liquid form, gradually shaping into a shark's silhouette — fins, tail, and body contour emerging while remaining fluid and translucent.
+
+Climax — Breach: Reversed FPV Dive + Snap Zoom as the liquid shark erupts from beneath the water surface at explosive velocity, launching skyward.
+
+Impact: Bullet-Time Orbit + Pull-Out circling the liquid shark mid-flight as it lunges at the helicopter, jaws closing around the fuselage — Time-Freeze Resume on the moment of impact before the helicopter shatters and disintegrates, debris and water spray cascading down in slow-building chaos.
+
+One continuous unbroken take, zero lens distortion, maximum kinetic and dramatic impact throughout.
+
+PACING RULE:
+No static holds during pursuit/impact beats — ~1.5 second rhythm per action beat. Exception: brief selective slow-motion permitted during the water-to-shark formation sequence to emphasize the awe of the transformation.
+
+LIGHTING &amp; COLOR GRADE:
+Blockbuster cinematic quality, Kodak film grain texture, master-level realistic grading. Strong warm-cool contrast — helicopter and sky rendered in cold metallic blue-grey tones, while the ocean and liquid shark carry a luminous deep-blue-to-turquoise gradient. Sunlight refracting through spray and water droplets creates dramatic highlights. IMAX-scale wide depth of field, immense visual tension and scale.
+
+SCENE / STORYBOARD:
+An armed helicopter opens fire on a man, hunting him down. Cornered at a cliff's edge, he leaps into the ocean to escape the gunfire. Underwater, he steadies himself and extends one hand forward, fingers spread — the surrounding seawater begins spiraling and converging into his palm, the current thickening and growing from a thin stream into a dense swirling mass. The water gradually reshapes itself into the form of a shark — fins, tail, and torso clearly defined, yet remaining entirely liquid and translucent (not a physical shark — a shark formed entirely of water). The liquid shark bursts violently from his palm, breaching the ocean surface and launching into the air, jaws open, lunging at the helicopter exactly like a real shark. It clamps down and shatters the helicopter's fuselage on impact — the aircraft breaks apart and plummets, water spraying in all directions.
+
+CHARACTER:
+The man — composed, resolute expression, soaked hair clinging to his face, focused and unshaken. Visible muscle definition in his forearm and hand as he channels and shapes the water.
+
+NEGATIVE PROMPT:
+cartoon look, anime style, low quality, blurry, character distortion, stiff/unnatural water form, overly cartoonish shark, distorted helicopter structure, excessive camera shake, color inaccuracy, watermark, text</code></pre>
+
+</details>
+
+## Forged in Fire – Bladesmith Competition Video Prompt
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2084018642300141851)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2100](https://imglume.com/prompt/2100)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cde2f230-a373-460a-a325-6c3d8208596f/b87a12ec-d83f-4b5d-9a0b-c3a080254f43-1785710175607 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Reality TV bladesmith competition testing segment, multi-camera documentary production, bright industrial workshop lighting, sharp HD broadcast look, practical forge practicals, natural handheld shake on action cams, clean documentary texture, no cinematic film look.
+
+0-4s: [Medium Two-Shot] Martial arts master of clear Asian ancestry in black tactical shirt stands facing the young female bladesmith in her early 20s (work apron, focused). He holds her forged machete, turns the blade once under the lights. Looks her in the eye: “Are you ready?” She answers firmly “Yes.” Quick cut to her determined face, then to three classic ceramic garden gnomes lined up on sturdy stands behind them.
+
+4-7s: [Low-Angle Tracking + Rapid Cuts] Master steps in, raises the machete. Hard cut to side angle as he delivers a powerful overhead chop into the first gnome. Impact explodes in slow motion: ceramic shatters into sharp fragments, paint chips and dust fly outward. Time locks at peak penetration. Camera orbits the frozen blade buried in the broken gnome for one second. Quick insert ECU of the edge biting through the ceramic body.
+
+7-11s: [Dynamic Side Tracking] Action resumes. Master yanks the machete free, immediately follows with a heavy diagonal slash across the second gnome. Slow-motion again: the figure tears apart sideways, large colored pieces and shards scatter. Freeze at maximum destruction. Two rapid cuts: one over-shoulder from behind the master, one low angle under the flying fragments. Orbit holds for half a second on the locked impact.
+
+11-15s: [Handheld Close Action] Third strike — short, vicious downward chop into the third gnome. Slow-mo impact, the ceramic erupts into dozens of pieces, hat and beard flying. Full freeze. Camera pushes in and circles the frozen chaos for one beat. Quick insert of the master’s focused face mid-swing, then back to the locked blade.
+
+15-19s: [Series of Fast Cuts] Time resumes. Master pulls the machete out, turns it under the light. Tight ECU tracks along the edge: a few small nicks and rolled spots visible. Cut to his fingers testing the edge. Cut to the ruined garden gnomes still shedding fragments. Cut to the young woman’s tense expression as she watches.
+
+19-24s: [Medium Close-Up] Master lowers the blade, looks straight at her. Calm, professional delivery: “There are a couple of nicks on the edge… but your weapon, ma’am… it kills.” Hard cut to her face — a small, controlled smile of pride breaks through.
+
+24-28s: [Final ECU Montage] Extreme close-up of the nicked but still lethal edge catching the light. Cut to the shattered remains of the garden gnomes. Final frame holds on the young bladesmith’s quiet satisfaction as the master nods once.
+
+Realistic TV broadcast quality, detailed ceramic shatter physics, sharp edge detail, natural motion blur only on moving elements, stable characters, coherent impact timing, no artifacts, high rewatch value.</code></pre>
+
+</details>
 
 ## Seedance 2.5 Beer Commercial Prompt – TALON
 

@@ -1,9 +1,133 @@
 # Poster Design image prompts
 
-17 source-linked prompts, newest ImgLume records first.
+22 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Bold surreal editorial portrait with translucent overlay
+
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2084119003950440899)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2130](https://imglume.com/prompt/2130)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f8b7512-cf5b-4b36-896a-af8f274f3a50/c8d458d4-9644-4f59-93ac-5f1c5343ab94-1785750080286 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5f8b7512-cf5b-4b36-896a-af8f274f3a50/cc9de778-1a16-4a75-ac97-cc1ce62c11d0-1785750080286 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Bold surreal editorial portrait of [CHARACTER], shown in a centered frontal chest-up composition, wearing [CLOTHING]. Keep the portrait highly realistic and symmetrical, but interrupt one full vertical section of the subject with translucent overlay [ELEMENT], treated as a dominant surreal replacement strip that occupies roughly one-third to nearly one-half of the face, cutting from the top of the head through the eye, cheek, mouth, neck, and into the clothing. The replacement strip must feel structural and graphic, not subtle or decorative, with crisp hard edges and strong visual contrast. Build the background as a flat graphic poster field using [BACKGROUND], composed of large pastel rectangles, photo of a [SCENERY] circles, line clusters, cropped panels, and abstract inserts, with a few retro-print accents integrated across the composition. Use a [COLORS] palette, soft paper grain, slight print texture, clean edges, strong geometric balance, and a polished art-poster finish. Make the surreal intervention large, unmistakable, and visually commanding.Vertical 4:5.</code></pre>
+
+</details>
+
+## Minimalist watercolor travel poster illustration
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2083968147988856942)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2116](https://imglume.com/prompt/2116)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2ed2bc24-dcc8-4384-bba5-9a7dac135f62/bb3b2e35-3802-4527-8431-723784c34361-1785737904685 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2ed2bc24-dcc8-4384-bba5-9a7dac135f62/fb36e716-2f50-4777-a55e-8426903cdb83-1785737904685 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2ed2bc24-dcc8-4384-bba5-9a7dac135f62/44f9c9a0-7046-4c63-b2e6-947b09274da5-1785737904685 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Minimalist watercolor travel poster illustration of [LOCATION/LANDMARK], elegant architectural sketch with expressive ink linework and loose watercolor washes, bright white paper background with generous negative space, soft pastel palette of sky blue, warm beige, muted sage green, and subtle terracotta accents. Delicate urban details, tiny strolling pedestrians, lush trees, reflective water or plaza, atmospheric perspective, light paint splatters, hand-drawn imperfections, sophisticated editorial travel magazine aesthetic, contemporary architectural illustration, airy composition, refined watercolor textures, clean modern typography at the top reading "[CITY NAME]" with small editorial subtitle beneath, premium coffee-table art print, luxury travel poster, understated European sketchbook style, natural daylight, calm and inviting mood, highly detailed, elegant, minimal, museum-quality watercolor illustration, no heavy outlines, no photorealism, no frame, no border, 8k. Aspect Ratio</code></pre>
+
+</details>
+
+## Premium Advertising Poster for Doritos
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2083955020047794485)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2109](https://imglume.com/prompt/2109)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d52eb383-af73-4739-95ef-0e273d3f9e84/5f2b2828-6a24-41d6-b606-a714f3214037-1785729073734 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d52eb383-af73-4739-95ef-0e273d3f9e84/7b9bf7d5-ade5-47e7-ac9a-6041c4f0e75a-1785729073734 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium advertising poster for [Doritos] featuring [Doritos].
+Transform the product into the center of a cinematic miniature world inspired by its brand DNA, category, function, texture, flavor, material, emotional promise, and cultural energy.
+The product must remain the clear hero, accurate, recognizable, and visually dominant.
+Build a tiny world around it that feels specific to the product:
+- if it is a beverage, create a refreshing liquid, ice, fruit, condensation, splash, or flavor-driven world
+- if it is food, create an appetizing world of crumbs, cream, chocolate, steam, fruit, texture, or indulgence
+- if it is tech, create a precise futuristic world of light, glass, reflections, interfaces, particles, and engineered calm
+- if it is fashion, create an editorial world of motion, fabric, attitude, street energy, or luxury styling
+- if it is beauty or fragrance, create a sensual world of mist, petals, liquid, skin glow, glass, and refined materials
+- if it is home or lifestyle, create a clean aspirational world connected to comfort, performance, or everyday elevation
+Use miniature people, tiny props, environmental storytelling, scale contrast, cinematic lighting, premium commercial photography, shallow depth of field, crisp product detail, refined shadows, strong visual hierarchy, and polished campaign-level finishing.
+The poster should feel iconic, scroll-stopping, premium, imaginative, and commercially powerful.
+Do not make it look childish or toy-like unless the brand calls for playfulness. Keep it elegant, intentional, and agency-grade.
+Add tasteful poster typography inspired by the brand’s visual language, with a short 3-word slogan that fits the concept.
+Avoid copying any existing campaign. Create a fresh original visual universe for this exact brand and product.
+Aspect ratio: [4:5]</code></pre>
+
+</details>
+
+## Minimalist marker-pen travel poster of NEW YORK
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2083774102079467716)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2092](https://imglume.com/prompt/2092)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c1ad4f4-58a1-4787-93ab-bca4d469e9e7/31700448-0320-4941-b043-e7ed0cd0dcc8-1785693621300 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3c1ad4f4-58a1-4787-93ab-bca4d469e9e7/3cd27d78-7419-4afe-9cf5-87b2d7df46ae-1785693621300 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/3c1ad4f4-58a1-4787-93ab-bca4d469e9e7/9899e7a4-fde6-4f77-9eff-6e62aa75de9f-1785693621300 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 3:4 vertical minimalist marker-pen travel poster of NEW YORK CITY on warm ivory paper.
+
+STYLE:
+Use a rough hand-drawn marker-pen illustration style with thick cobalt-blue contours, broken edges, visible stroke direction, dry-skip texture, and incomplete flat fills. Keep the image graphic, clean, and naturally unfinished. Let the warm ivory paper remain visible in large uncolored areas.
+
+TEXT:
+Add the title "NEW YORK CITY" at the top in bold hand-drawn uppercase marker letters, slightly irregular, spontaneous, and organic.
+
+SCENE:
+Depict a storytelling scene aboard a ferry heading toward the Statue of Liberty. A couple stands near the deck railing in the lower third, one lightly leaning toward the other. The Statue of Liberty appears in the mid-distance as the main landmark, with a few simple water lines, a small gull hint, and a faint skyline suggestion far behind.
+
+COMPOSITION:
+Use the ferry railing as a simple foreground anchor, the couple as the emotional focal point, and the Statue of Liberty as the central location cue. Keep the water and sky minimal with generous blank paper around them.
+
+BACKGROUND SIMPLIFICATION:
+Include only 4 key cues: ferry railing, Statue of Liberty, water suggestion, and a faint skyline silhouette. Avoid extra passengers, dense waves, and cluttered harbor details.
+
+FINISH:
+The couple and railing should be moderately resolved. The statue and skyline should remain simplified, partially colored, and lightly outlined.
+
+no logos, no readable ferry text, no clutter, no photorealism, no polished digital look --ar 3:4 --v 8.2</code></pre>
+
+</details>
+
+## Contemporary Editorial Collage Portrait with Fashion Photography and Bauhaus Geometry
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2083856573982535929)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`, `poster-design`
+- **ImgLume record:** [2090](https://imglume.com/prompt/2090)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/92c64d8e-0080-48fa-88a6-7e805814ae74/28b27867-d639-4867-acdf-dbec86b62ea3-1785691516174 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/92c64d8e-0080-48fa-88a6-7e805814ae74/64e85d9f-afce-4b39-922a-dc25053559fd-1785691516174 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/92c64d8e-0080-48fa-88a6-7e805814ae74/beaf9146-6e14-4534-9164-2b30cefbf17c-1785691516174 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a contemporary editorial collage portrait that seamlessly merges fashion photography with modern geometric graphic design. Center a photorealistic waist-up portrait facing directly toward the camera with a neutral, confident expression. Split the composition vertically through the center of the face using a narrow graphic strip that transforms into an abstract visual journey—stacked architectural portals, tropical landscapes, geometric windows, repeating shapes, or layered surreal imagery that creates depth and visual illusion.
+Surround the portrait with a carefully balanced collage of Bauhaus-inspired geometric elements including large circles, rectangles, grids, thin line patterns, color blocks, halftone dots, minimal typography, botanical imagery, vintage photography fragments, architectural forms, desert plants, fruit, ocean textures, palm trees, or abstract design motifs. Every element should feel intentionally placed like a premium magazine cover.
+Use a sophisticated mid-century modern palette of soft coral, dusty salmon, muted teal, powder blue, warm cream, pastel yellow, sage green, sand beige, terracotta, and charcoal black, with subtle paper grain and matte printed texture.
+The portrait should remain highly realistic while the surrounding graphics are clean, flat, and minimalist. Maintain strong negative space, perfect symmetry with slight intentional asymmetry in supporting elements, crisp edges, and premium editorial art direction.
+Blend photography, surreal collage, Bauhaus geometry, Swiss graphic design, contemporary magazine layout, and luxury fashion campaign aesthetics into one cohesive composition. Fine-art print quality, ultra-detailed, cinematic lighting, matte finish, subtle vintage print texture, museum-poster aesthetic, 4:5 aspect ratio.</code></pre>
+
+</details>
 
 ## High-end editorial fashion poster
 

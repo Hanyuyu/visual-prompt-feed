@@ -1,9 +1,66 @@
 # Character image prompts
 
-39 source-linked prompts, newest ImgLume records first.
+42 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Minimalist black-and-white doodle illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2084205240543510967)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2150](https://imglume.com/prompt/2150)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2daebdbf-7747-4172-8f92-b918d74c3964/77162ca6-4d71-4a55-ac11-bc3e6900826f-1785766876101 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2daebdbf-7747-4172-8f92-b918d74c3964/ca0cf0ac-460c-4a0c-bae2-2d43a48bcb79-1785766876101 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2daebdbf-7747-4172-8f92-b918d74c3964/0ee039ac-a706-47a9-befa-4d065032e0bb-1785766876101 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the uploaded reference photo into a minimalist black-and-white hand-drawn doodle illustration while preserving the subject's pose, hairstyle, clothing, accessories, and overall composition. Use a cute, simple character design with a large rounded head, tiny dot eyes, a tiny button nose, small blush dots on the cheeks, and a minimal mouth. Draw with confident black ink lines of varying thickness, smooth slightly wobbly outlines, and almost no interior detail. Simplify all clothing into loose graphic shapes with minimal folds while keeping recognizable items such as jackets, scarves, bags, dresses, microphones, bows, jewelry, or hand poses. Preserve the original gesture and expression. Add only a few playful accent elements such as sparkle icons, tiny stars, or simple motion marks around the character. Place the original reference photo as a small rectangular inset in the upper-left corner with a generous white margin surrounding both the reference and illustration. Keep the illustration on a pure white background with no shading, no grayscale, no color, and no textures. Clean manga-inspired doodle aesthetic, cute sketchbook style, bold black line art, highly simplified, balanced composition, 1:1 aspect ratio.</code></pre>
+
+</details>
+
+## Ethereal Chinese Celestial Empress with Vermilion Phoenix
+
+- **Original source:** [@kingofdairyque on X](https://x.com/kingofdairyque/status/2083906468936339797)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [2132](https://imglume.com/prompt/2132)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e0319086-5ca6-4566-9b23-383a773715e5/6c82b9e8-50cf-42f2-9a82-55745055cd9b-1785752178369 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e0319086-5ca6-4566-9b23-383a773715e5/fd0f4d89-5d5c-4fb4-9696-98238f780401-1785752178369 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An ethereal Chinese celestial empress floating above the heavens, wearing an exquisite flowing Hanfu in crimson red, ivory white and rich gold embroidery, endless silk ribbons and translucent fabric dancing dramatically in the wind, ornate golden phoenix crown with intricate jewelry, elegant graceful pose, serene expression, massive divine Vermilion Phoenix soaring protectively behind her with blazing crimson feathers and glowing golden fire, ancient floating Chinese palaces and pagodas emerging from clouds, heavenly mountains, celestial kingdom, mystical fantasy atmosphere, divine light rays breaking through dramatic clouds, floating islands, magical golden particles, luxurious cinematic composition, ultra-detailed embroidery, volumetric lighting, god rays, atmospheric perspective, epic fantasy, mythical Chinese legend, masterpiece, breathtaking scale, Unreal Engine 5, Octane Render, ultra realistic fantasy illustration, hyper detailed, 8K, HDR, sharp focus, intricate textures, elegant color harmony of red, white and gold, dynamic flowing fabric, award-winning digital art.
+
+Negative Prompt:
+low quality, blurry, watermark, text, logo, signature, cropped, extra limbs, extra fingers, bad anatomy, deformed face, duplicate body, poorly drawn hands, noisy, oversaturated, flat lighting, modern clothing, western architecture, cartoon, anime, low resolution.
+
+--ar 2:3 --stylize 750 --quality 2</code></pre>
+
+</details>
+
+## Vibrant loose pen-and-watercolor fashion sketch of a young man
+
+- **Original source:** [@AiWithTariq on X](https://x.com/AiWithTariq/status/2083806705738276869)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2110](https://imglume.com/prompt/2110)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/baa4076a-c518-47e5-a379-18888dd09410/dbb0e438-302e-4dea-acca-a7216b47e74b-1785729080717 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vibrant loose pen-and-watercolor fashion sketch illustration, same expressive ink linework and colorful abstract watercolor wash style as reference. A young man wears an orange bandana tied around his head, black-framed glasses, chin resting on his hand, ring visible on finger, calm confident gaze directly at the camera. Wearing a tie-dye style multicolor t-shirt (pink, teal, orange, green splashes), thin necklace with a small pendant. Same abstract colorful brush-stroke background with blue, orange, and grey paint splashes, loose sketchy linework, and close-up camera angle as reference.
+Add stylish text "Mr. Tariq" in the top corner.</code></pre>
+
+</details>
 
 ## Colored Pencil illustration of a couple walking through a poppy field towards a sunrise ocean
 

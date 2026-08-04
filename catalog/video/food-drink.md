@@ -1,9 +1,143 @@
 # Food Drink video prompts
 
-19 source-linked prompts, newest ImgLume records first.
+24 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vertical UGC-style grocery shopping vlog
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2084264050717045019)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [2157](https://imglume.com/prompt/2157)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/39a81f7f-ba76-4fb8-9b43-8d3795d0737e/857988d3-c939-41e0-a9fa-fed1ac452695-1785777385959 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic UGC-style from lifestyle grocery shopping vlog filmed vertically on a smartphone with natural handheld movement and subtle camera shake. The video opens with the young woman entering a modern premium organic grocery store with warm ambient lighting, clean wooden shelves, fresh produce, and a bright minimalist interior. She holds the phone in selfie mode, smiles naturally, and gestures for viewers to follow her. She walks toward the refrigerated drinks section, scans the shelves, and picks up a green cold-pressed juice bottle, turning it slowly so the label faces the camera. Cut to a cinematic close-up as she twists the cap open and takes a refreshing sip beside a large sunlit window, smiling with a satisfied expression. Transition to a POV shot from inside a shopping cart as she pushes it through wide grocery aisles, occasionally looking down into the cart and smiling. Follow with an over-the-shoulder walking shot through beautifully organized shelves filled with premium groceries. Close-up of her hand selecting fresh oranges, gently inspecting one before placing it into the cart. End with a close-up of her picking up a vibrant dragon fruit, rotating it naturally in her hand while admiring its color before placing it into the cart. Finish with her walking toward the checkout while smiling at the camera, pushing the cart under warm golden lighting.
+
+Ultra-realistic, authentic creator content, premium grocery aesthetic, natural body language, realistic facial expressions, soft cinematic lighting, shallow depth of field, smooth transitions, realistic store ambience, subtle background music, 4K HDR, 24fps, clean color grading, lifestyle commercial quality.</code></pre>
+
+</details>
+
+## Cinematic ramen shop sequence with photorealistic realism
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2084118983507312869)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`, `food-drink`
+- **ImgLume record:** [2145](https://imglume.com/prompt/2145)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b3dca4f2-b97c-495b-a00b-860a29ff759a/22473268-282e-478d-aa99-7a18633e232d-1785760600561 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Photorealistic cinematic realism. A cramped, atmospheric late-night Tokyo ramen shop — steam curling off broth pots, red paper lanterns, worn wooden counter, dangling bulb lighting, condensation on the windows, rain-slicked street glowing outside, subtle handheld camera movement, rich analog film grain.
+0–4s: Medium-wide shot. A young woman in an oversized denim jacket sits alone at the counter, composed with the faintest hint of amusement, slowly slurping noodles with chopsticks. Behind her, a young cook crosses the narrow kitchen carrying two steaming bowls of ramen in one hand and a full kettle of hot broth in the other. Near the entrance, an elderly regular begins to rise from his stool to leave.
+4–8s: Dynamic tracking shot. The elderly man stumbles backward and collides heavily with the cook. The bowls, noodles, broth, and kettle explode upward into the air. Broth stretches into long steaming ribbons with suspended droplets, noodles frozen mid-arc, steam curling in slow motion. The camera immediately performs a smooth orbital move around the collision as time freezes at the exact peak of the spill. Every face is locked in an expression of shock. Only the young woman at the counter continues moving naturally, calmly lifting another bite to her mouth.
+8–17s: Slow 360-degree orbit. The camera gracefully circles the frozen shop. Broth hangs in midair like molten glass ribbons and floating spheres, noodles suspended in delicate loops, steam frozen into soft drifting clouds. The bowls, kettle, and chopsticks drift weightlessly in suspended time. The woman takes another slow bite, her eyes half-closed with an almost bored expression. Then the frozen world begins to rewind elegantly. Every droplet, every noodle, and every person moves backward with perfect precision, returning toward their original positions.
+17–24s: Medium shot. The rewind ends flawlessly. The cook is once again carrying the bowls and kettle steadily. The woman looks up and casually raises two fingers, softly calling the cook by name. The cook turns his head at exactly the right moment, stepping around the elderly man as he rises. The collision never happens. A subtle, private smile flickers across the cook's face.
+24–30s: Extreme close-up. Hard cut to the woman's face. She takes one final slow slurp with a knowing smile, her eyes almost completely closed. Very shallow depth of field. The red lanterns behind her melt into soft, warm bokeh.
+Visual Quality: Photorealistic, cinematic image quality with highly accurate fluid and steam simulation, realistic gravity and collisions, motion blur only on moving objects, stable character consistency, seamless cinematic temporal continuity, natural facial performances, and premium filmic color grading.</code></pre>
+
+</details>
+
+## Starbucks UGC coffee commercial storyboard
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084110948646932966)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`, `ugc`
+- **ImgLume record:** [2123](https://imglume.com/prompt/2123)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb1d3736-fedc-4bdd-b632-582f139156bb/767eacdd-692d-4f4c-8eb1-6bda12246100-1785741747750 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard as the exact visual reference. Preserve the same young woman throughout every scene with identical facial features, hairstyle, outfit, accessories, and expressions. Maintain the same convenience store, Starbucks coffee station, barista, menu display, and iced latte with consistent branding. Create an ultra-realistic premium UGC coffee commercial with cinematic handheld camera movement, warm natural lighting, shallow depth of field, and commercial-quality color grading.
+
+The woman records a selfie while walking into the store and says, "I'm craving a coffee right now." She notices the Starbucks counter, smiles, and says, "They have Starbucks here!" She selects an iced latte from the menu, places her order, and watches the barista prepare the drink. Cinematic macro shots capture ice cubes, fresh milk, rich espresso pouring, creamy coffee swirls, and condensation forming on the cup.
+
+She waits excitedly before receiving the finished iced latte, then holds it close to the camera for a premium hero reveal. She takes a refreshing sip, smiles naturally, and says, "Wow... that's so smooth." The video ends outside the store as she holds the drink beside her face, smiles at the camera, and says, "You have to try this."
+
+Style: Premium UGC lifestyle commercial, luxury café aesthetic, photorealistic coffee textures, macro product cinematography, smooth handheld and gimbal movements, realistic lighting, shallow depth of field, ultra-detailed 4K HDR.
+
+Audio: Natural store ambience, footsteps, payment sounds, coffee machine, ice clinking, milk and espresso pouring, cup handling, soft background conversations, and straw sipping. No subtitles, no captions, no watermarks, or extra logos beyond the product branding.</code></pre>
+
+</details>
+
+## Handheld Mini DV Kitchen Vlog of Fruit Bowl Preparation
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2083946644018761999)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`, `food-drink`
+- **ImgLume record:** [2117](https://imglume.com/prompt/2117)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a0d777dc-13be-4437-96b5-125e6e97ae6f/c15b84ed-0010-4d6b-86a2-4a7c48036073-1785741670844 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from bright kitchen daylight. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy quick kitchen vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: fruit placed on ceramic, soft rustling, cloth wiping, bowl shifting slightly.
+SUBJECT: Young woman in her late 20s, plain apron over a simple top, hair tied back, no visible logos or branded items. Calm, tidy energy during a quick kitchen task.
+SETTING: Small kitchen counter on a bright afternoon. Natural daylight, a plain ceramic bowl, fresh fruit laid out, no visible packaging or brand names in frame.
+STORYBOARD:
+→ (3s, propped medium shot) Places camera on the counter, sets down a plain bowl. "Quick fruit bowl refresh."
+→ (3s, close-up) Wipes each piece of fruit clean with a cloth.
+→ (3s, handheld shot) Arranges apples and oranges by color. "Looks so much nicer this way."
+→ (3s, detail shot) Places a small bunch of grapes on top. No dialogue.
+→ (3s, warm ending shot) Steps back, admires the bowl, smiles at the camera. "See you later." Hand covers lens as recording ends.
+AUDIO NOTES: Natural ambience — fruit placed on ceramic, cloth wiping should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine tidy smile, imperfect framing, focus breathing, bright daylight shifts. No copyrighted characters, logos, brand names, or recognizable public figures anywhere in frame. Fully original personal vlog content, not AI-generated or commercial in style.</code></pre>
+
+</details>
+
+## Premium lifestyle food commercial for mango pickle
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2083913109375516763)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `gptimage`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [2099](https://imglume.com/prompt/2099)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2c6fcd68-635c-4d69-8614-337900c5d403/1f2228cf-c755-4ff7-aa02-9803970f789c-1785708075919 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white fitted graphic T-shirt, and overall appearance consistently throughout every shot. Maintain perfect facial consistency, realistic hand anatomy, and natural expressions. Use the same premium glass jar of mango pickle with identical red lid, label, colors, branding, proportions, glossy oil texture, and packaging throughout the commercial.
+
+Create an ultra-realistic premium lifestyle food commercial set inside a cozy modern Indian kitchen during golden hour. Warm natural sunlight streams through the windows, illuminating rustic wooden countertops, fresh mangoes, garlic, red chilies, mustard seeds, and traditional Indian spices. Use cinematic commercial lighting, shallow depth of field, realistic reflections, macro food cinematography, premium color grading, and physically accurate materials.
+
+The commercial opens with a close-up of the woman smiling gently at the camera while noticing the pickle jar placed on the kitchen counter. She walks over naturally, picks up the jar, and admires it with a delighted expression.
+
+Transition to a cinematic macro beauty shot of the pickle jar surrounded by fresh mangoes and spices. Tiny droplets of oil glisten on the glass as warm sunlight highlights the premium packaging.
+
+Show an extreme macro shot as she slowly twists open the lid. Capture the satisfying movement of the cap and the glossy pickle coated in rich masala and aromatic oil.
+
+She gently stirs the pickle with a spoon, revealing juicy mango chunks covered in spices. Macro close-ups emphasize the thick masala, mustard seeds, chili flakes, and shimmering oil with slow cinematic camera movement.
+
+She serves a spoonful of pickle onto a plate of steaming white rice and dal. The camera follows the spoon in a smooth tracking shot as the pickle lands beautifully on the rice.
+
+She takes a bite, closes her eyes for a brief moment, and smiles with genuine satisfaction before giving a subtle "perfect" hand gesture toward the camera.
+
+Transition to a premium product lifestyle shot where the pickle jar rests elegantly beside fresh mangoes, garlic, dried red chilies, and bowls of traditional spices arranged on a rustic wooden table.
+
+Finish with a luxury hero product shot. The pickle jar stands prominently in the center while the woman gently places her hand beside it, smiles confidently toward the camera, and softly says, "Wah... kya swaad hai!" The camera slowly pushes in on the jar as warm golden sunlight creates a premium cinematic finish.
+
+Style: Premium lifestyle food commercial, luxury Indian kitchen aesthetic, ultra-realistic food textures, cinematic macro cinematography, smooth handheld and gimbal camera movements, shallow depth of field, commercial-grade lighting, photorealistic, ultra-detailed, 4K HDR.
+
+Audio: Natural kitchen ambience, glass jar handling, lid opening, spoon stirring, soft food serving sounds, gentle plate taps, realistic room ambience, subtle birds outside the window. No background music, no subtitles, no on-screen text, no watermarks, no logos beyond the product packaging.</code></pre>
+
+</details>
 
 ## Ultra-realistic premium coffee commercial
 

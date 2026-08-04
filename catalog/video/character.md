@@ -1,9 +1,141 @@
 # Character video prompts
 
-27 source-linked prompts, newest ImgLume records first.
+30 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxury runway fashion video with red corset and crystal‑studded denim
+
+- **Original source:** [@MelinaVale14 on X](https://x.com/MelinaVale14/status/2084177357095780378)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2131](https://imglume.com/prompt/2131)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75bec704-b379-4f3d-b6e2-bbc5168352df/75bb000f-2314-4f90-823f-78f11b9b99ef-1785750090712 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character: Young female fashion model with long blonde hair, flawless glowing skin, natural makeup, gold hoop earrings, confident runway presence, luxury editorial expression.
+
+Outfit: Bright red corset top, light-wash studded denim mini skirt with crystal embellishments, minimal jewelry, nude heels.
+
+0:00–0:03 — Luxury Detail
+
+Camera: Extreme macro close-up with a cinema macro lens.
+
+Action: Slow cinematic sweep across the crystal-studded waistband and denim texture. Light glides across every metallic detail, revealing premium craftsmanship.
+
+0:03–0:06 — Hero Entrance
+
+Camera: Wide-angle dolly shot from the front.
+
+Action: The model confidently walks toward the camera across the white seamless studio. Her skirt moves naturally with each step while soft studio lighting creates elegant shadows behind her.
+
+0:06–0:09 — Editorial Beauty
+
+Camera: Tight beauty close-up with a slow orbit.
+
+Action: The model gently turns her head toward the camera, maintaining confident eye contact. Hair moves subtly as beauty lighting creates soft highlights on her skin and accessories.
+
+0:09–0:12 — Fashion Showcase
+
+Camera: Full-body tracking shot transitioning into a slight low angle.
+
+Action: The model pauses, shifts her weight naturally, places one hand on her hip, then slowly pivots to showcase the silhouette and premium fit of the outfit.
+
+0:12–0:15 — Final Hero Shot
+
+Camera: Slowly rotating full-body shot finishing with a slight Dutch angle.
+
+Action: The model stands confidently in the center of the white studio, giving a final editorial pose while the camera circles around her. The lighting emphasizes the sparkle of the studded denim and the structured corset before fading to white.
+
+Visual Style Keywords: luxury fashion commercial, Vogue editorial, premium beauty campaign, cinematic runway, studio fashion film, IMAX quality, 4K HDR, macro product cinematography, elegant camera movement, realistic fabric physics, commercial-grade lighting, luxury color grading, ultra-detailed denim texture, polished skin, premium fashion photography.</code></pre>
+
+</details>
+
+## 15-second ultra-realistic GRWM office routine video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2084107248910152167)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2121](https://imglume.com/prompt/2121)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/140467a8-d88f-411d-b638-b17741c8ebbe/61119ac8-fa3a-4da4-a1d0-055ac20ffb79-1785741719726 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, and facial consistency throughout every shot. Maintain the same character consistently. Create a 15-second ultra-realistic GRWM office routine with 15 fast-paced cinematic shots (≈1 second each), smooth match cuts, whip pans, object transitions, premium lifestyle cinematography, and realistic motion.
+
+1. Alarm rings as she opens her eyes.
+
+2. She sits up, stretches, and smiles.
+
+3. Quick skincare splash in the bathroom.
+
+4. Applies light makeup in front of the mirror.
+
+5. Brushes and styles her hair.
+
+6. Changes into a chic office outfit.
+
+7. Puts on heels, watch, and earrings.
+
+8. Grabs her handbag, laptop, and coffee tumbler.
+
+9. Locks the apartment door behind her.
+
+10. Walks confidently through the apartment lobby.
+
+11. Hails a cab on a busy city street.
+
+12. Rides through downtown with cinematic city reflections.
+
+13. Steps out in front of a modern glass office building.
+
+14 Scans her access card and enters the office.
+
+15 Sits at her desk, opens her laptop, smiles at the camera, and begins working.
+
+Ultra-realistic commercial quality, smooth handheld and gimbal camera movement, natural expressions, realistic body movement, premium office interiors, luxury apartment, cinematic color grading, shallow depth of field, realistic reflections, 4K HDR, 16 9, no text, subtitles, logos, or watermarks.</code></pre>
+
+</details>
+
+## 1-minute Japanese-style idol personal vlog
+
+- **Original source:** [@BubbleBrain on X](https://x.com/BubbleBrain/status/2084013378461478952)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [2106](https://imglume.com/prompt/2106)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/217a45ce-b8a4-4b63-8205-809021345573/30f571af-5ba4-49ae-84db-2ef0cc5cf659-1785722775949 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 1-minute Japanese-style idol personal vlog. The video should feel like a young Japanese idol casually filming her private daily life for her fans. Not a commercial, not a music video, but a genuine personal diary captured with a small camera or smartphone. The mood is warm, intimate, soft, and slightly nostalgic. The main character is a young female idol with a gentle personality. If a reference image is provided, keep her exact face identity, hairstyle, facial features, body proportions, and overall appearance consistent throughout the entire video. She should feel natural and comfortable in front of the camera: small smiles, shy reactions, fixing her hair, looking away while thinking, small laughs, casual expressions. Camera style: handheld selfie vlog, compact digital camera feeling, Japanese lifestyle vlog aesthetic, soft CCD-like image quality, subtle film grain, slightly warm tones, gentle highlight bloom, natural skin texture, soft focus, slight autofocus adjustments, imperfect framing. The camera should feel like she is holding it herself or placing it casually around her room. No commercial lighting. No perfect poses. No dramatic acting. No artificial influencer energy.
+0-8s: Morning bedroom introduction. The vlog starts with a close selfie shot. Soft sunlight comes through white curtains. The room feels cozy and personal: small decorations, books, cute accessories, a desk, plants, everyday objects. She looks into the camera with a sleepy smile. She waves softly and says: "Good morning. I'm filming a little vlog today." She laughs quietly, fixes her hair, and adjusts the camera. The feeling is like a private message to her fans.
+8-18s: Introducing herself. She walks around her room while talking casually. She introduces herself: her personality, what kind of person she is, and what she likes doing in her free time. Show small everyday details: choosing clothes, making a drink, checking her schedule, looking through photos on her phone. She occasionally looks away from the camera naturally while talking. She feels like a real person, not performing.
+18-30s: Introducing her cat Bubble. The mood becomes warmer and more playful. She calls: "Bubble..." The cat walks into the room. She smiles immediately and follows Bubble with the camera. Show cute natural moments: Bubble jumping onto the bed, sitting near the window, rubbing against her, looking curiously at the camera. She picks Bubble up gently and introduces: "This is Bubble. Bubble is my little family." She laughs because Bubble does not cooperate with the camera. The interaction feels spontaneous and real.
+30-45s: Her everyday hobbies. A soft lifestyle montage filmed casually. Show her doing things she enjoys:
+listening to music with headphones
+writing in a diary
+reading a magazine
+making coffee or tea
+taking selfies
+organizing small things in her room
+playing with Bubble She talks casually: "I like simple days like this." "I think small moments are my favorite." The atmosphere is peaceful and comforting.
+45-55s: A small outside moment. She goes outside for a short walk. Japanese neighborhood atmosphere: quiet streets, small cafes, bicycles, soft afternoon sunlight. She holds the camera while walking. She shows little things she finds interesting: a cute shop, flowers, a drink, a beautiful street corner. She smiles at the camera naturally.
+55-60s: Ending the vlog. Back at home. She sits with Bubble beside her. Selfie camera close-up. She smiles warmly and says: "Thank you for spending this little day with me and Bubble." "See you next time." She waves softly. The video ends with a gentle smile, natural room lighting, and a cozy diary-like feeling.
+
+Overall style: Japanese idol private vlog. Soft and nostalgic. Like a personal video diary from a small digital camera. Warm everyday moments. Cute but natural. Quiet happiness. Authentic fan connection. Visual references: Japanese lifestyle vlog atmosphere, soft CCD camera texture, early 2000s digital diary feeling, modern idol off-duty content. Avoid: luxury influencer style, fashion commercial look, perfect cinematic shots, heavy makeup, overly staged reactions, AI-generated smoothness, unrealistic movements.</code></pre>
+
+</details>
 
 ## Cinematic Morning Routine Video
 

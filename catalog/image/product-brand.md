@@ -1,9 +1,26 @@
 # Product Brand image prompts
 
-1 source-linked prompts, newest ImgLume records first.
+2 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 90's Slop Collage → Maui & Sons
+
+- **Original source:** [@Ror_Fly on X](https://x.com/Ror_Fly/status/2084250097403998602)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-brand`
+- **ImgLume record:** [2153](https://imglume.com/prompt/2153)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c42feb69-027a-4ece-9501-918d86efd5ea/63d3124a-e3a3-4a33-9ca5-c4b789d8e5fb-1785773187602 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>collage, 2d shark constructed with magazine cut out components, Maui &amp; Sons, {neon orange, white background}, Hasselblad styling, vintage surf aesthetic branding elements, Maui &amp; Sons logo, vintage Surf magazine logo, organized meticulous chaos --ar 51:91 --profile eftl5ji zmuvoru lgaicxx lncun5f --stylize {80, 880} --hd</code></pre>
+
+</details>
 
 ## Senior Brand Art Director Triptych Hero Banner Prompt
 

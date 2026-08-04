@@ -1,9 +1,43 @@
 # Cinematic image prompts
 
-23 source-linked prompts, newest ImgLume records first.
+25 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic illustration of dramatic motocross double jump
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2084287980676510087)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2155](https://imglume.com/prompt/2155)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/96315d4f-b406-4a20-9924-980b1ebc921c/2da32aa2-4756-47f8-9451-4c95f54288d5-1785777367481 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/96315d4f-b406-4a20-9924-980b1ebc921c/1325c5ec-f235-4d50-904f-c9f3d7f5ab54-1785777367481 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>cinematic illustration of a dramatic motocross double jump. Two riders launching off a massive dirt mound simultaneously, captured in a sweeping wide shot adapted for vertical composition. The male rider is slightly ahead, his green motocross bike numbered 21 airborne with the front wheel pointed upward, green energy flaring around him. The female rider is right behind him, her orange motocross bike numbered 7 also airborne, orange energy blazing around her, her ponytail whipping upward in the wind. Both riders are suspended mid-air against a vivid blue sky with dramatic textured clouds rendered in thick, swirling palette knife strokes. Below them, the dirt launch ramp is visible with clods of brown earth flying off the lip. Stylized green trees line the horizon at the bottom of the frame. The vertical composition emphasizes the height of the jump, with the riders arcing upward through the frame. Strict style: heavy impasto oil painting, thick visible palette knife brushstrokes, vibrant expressive colors, dynamic motion blur created by paint texture, comic book energy, high contrast, photorealistic with painterly enhancement, 8k resolution. The sky dominates the upper portion with the riders at the apex of their jump in the center, and the dirt ramp and trees anchoring the bottom.</code></pre>
+
+</details>
+
+## Overhead view of young woman on brick pavement with vibrant accessories
+
+- **Original source:** [@chatgptpaglu on X](https://x.com/chatgptpaglu/status/2084147001634209923)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`
+- **ImgLume record:** [2138](https://imglume.com/prompt/2138)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ba65b704-d4c1-435f-88d6-898fdac13091/07a132c6-f831-4ff9-b228-943dc65c6cab-1785756380795 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ba65b704-d4c1-435f-88d6-898fdac13091/6e7fbd96-a02d-41bc-bd3c-c3f1a8506872-1785756380795 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-angle overhead perspective looking directly down at a young woman standing on a reddish-brown brick pavement in warm sunlight. She has wavy light-brown hair, expressive light blue eyes, and is looking straight up at the camera. She is wearing a fitted black mock-neck shirt, grey patterned trousers, and a vibrant yellow leather shoulder bag, holding a bouquet of fresh red roses wrapped in clear cellophane. Vintage cinematic film look, soft dramatic shadows, muted background tones with vibrant red and yellow accents, 35mm street photography, realistic lighting, --ar 9:16</code></pre>
+
+</details>
 
 ## Rainy Cyberpunk Megacity Night Scene
 
