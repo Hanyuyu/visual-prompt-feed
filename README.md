@@ -20,26 +20,26 @@ under CC BY 4.0. ImgLume's original curation and dataset structure are CC BY
 4.0; original prompt text and source media are marked `NOASSERTION`.
 
 <!-- DATASET-STATS:START -->
-**620 prompts** from **598 source posts** and **137 authors**, with **1199 source-media links**.
+**699 prompts** from **672 source posts** and **149 authors**, with **1342 source-media links**.
 
-Last feed refresh: `2026-08-03T17:51:27.402Z`
+Last feed refresh: `2026-08-04T17:47:08.814Z`
 
 | Category | Image | Video | Total |
 | --- | ---: | ---: | ---: |
-| Animation | 0 | [30](catalog/video/animation.md) | 30 |
+| Animation | [1](catalog/image/animation.md) | [34](catalog/video/animation.md) | 35 |
 | Architecture | [6](catalog/image/architecture.md) | [3](catalog/video/architecture.md) | 9 |
-| Camera Moves | 0 | [39](catalog/video/camera-moves.md) | 39 |
-| Character | [42](catalog/image/character.md) | [30](catalog/video/character.md) | 72 |
-| Cinematic | [25](catalog/image/cinematic.md) | [186](catalog/video/cinematic.md) | 211 |
-| Food Drink | [9](catalog/image/food-drink.md) | [24](catalog/video/food-drink.md) | 33 |
-| Illustration 3d | [21](catalog/image/illustration-3d.md) | 0 | 21 |
-| Nature | [6](catalog/image/nature.md) | [5](catalog/video/nature.md) | 11 |
-| Photography | [228](catalog/image/photography.md) | 0 | 228 |
-| Poster Design | [22](catalog/image/poster-design.md) | 0 | 22 |
-| Product Ads | [10](catalog/image/product-ads.md) | [30](catalog/video/product-ads.md) | 40 |
+| Camera Moves | 0 | [47](catalog/video/camera-moves.md) | 47 |
+| Character | [47](catalog/image/character.md) | [37](catalog/video/character.md) | 84 |
+| Cinematic | [29](catalog/image/cinematic.md) | [212](catalog/video/cinematic.md) | 241 |
+| Food Drink | [9](catalog/image/food-drink.md) | [27](catalog/video/food-drink.md) | 36 |
+| Illustration 3d | [24](catalog/image/illustration-3d.md) | 0 | 24 |
+| Nature | [7](catalog/image/nature.md) | [6](catalog/video/nature.md) | 13 |
+| Photography | [254](catalog/image/photography.md) | 0 | 254 |
+| Poster Design | [27](catalog/image/poster-design.md) | 0 | 27 |
+| Product Ads | [11](catalog/image/product-ads.md) | [35](catalog/video/product-ads.md) | 46 |
 | Product Brand | [2](catalog/image/product-brand.md) | [1](catalog/video/product-brand.md) | 3 |
-| Travel | [9](catalog/image/travel.md) | [11](catalog/video/travel.md) | 20 |
-| UGC | 0 | [23](catalog/video/ugc.md) | 23 |
+| Travel | [12](catalog/image/travel.md) | [11](catalog/video/travel.md) | 23 |
+| UGC | 0 | [27](catalog/video/ugc.md) | 27 |
 | Ui Graphic | [1](catalog/image/ui-graphic.md) | [1](catalog/video/ui-graphic.md) | 2 |
 <!-- DATASET-STATS:END -->
 

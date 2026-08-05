@@ -1,9 +1,376 @@
 # Character video prompts
 
-30 source-linked prompts, newest ImgLume records first.
+37 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Timestamp Editing Prompt
+
+- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2236](https://imglume.com/prompt/2236)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/136bff70-2d5a-4ae8-abfa-76775bd0c9fd/918efea4-fc8c-43a0-b53e-ff4ba8b79ded-1785865600742 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Edit 0:11-0:14. The character's expression changes from neutral to a warm smile as she looks at the camera. Keep everything else , lighting, camera movement, background , exactly the same.</code></pre>
+
+</details>
+
+## CHAS fan meeting montage in DV-style 16mm camcorder aesthetic
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2084614599928852918)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2232](https://imglume.com/prompt/2232)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b8419c83-00b3-4746-8d90-ccb4237c7419/952ac74a-d8dd-4d81-b5b5-9ce739d6dd6f-1785861424772 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+DV-style 16mm camcorder aesthetic with natural handheld movement. The entire sequence is filmed from CHASE's perspective as she records herself, occasionally setting the camera down for hands-free shots. Expect subtle shake, uneven framing, slow autofocus, awkward zooms, and the occasional partial crop of her face. The camcorder itself is never visible.
+
+LOOK:
+Soft analog tape texture with slight blur, faint tape grain, blooming highlights, auto-exposure flicker, muted contrast, and lifelike skin tones. Lighting evolves naturally across each location: warm vanity bulbs → cool daylight through the van window → dim soundcheck lighting → bright backstage entrance before the event.
+
+STYLE:
+Fast-paced anticipation montage with rapid cuts connecting each location. Transitional movement is slightly sped up to maintain momentum. A reflective voiceover carries the narrative instead of live dialogue. The mood gradually shifts from quiet preparation to nervous anticipation, ending with excitement just before greeting fans.
+
+Character
+
+CHASE — Korean idol (Image1), in her 20s. Long, straight black hair that is fully styled by the end. Dewy glass skin, large expressive eyes, and soft coral-pink lips. She begins in a dressing robe and later changes into a modest fan-meeting outfit with long sleeves, full coverage, and understated accessories.
+
+Location Progression
+
+Dressing room vanity (afternoon) → Moving van (daytime) → Empty venue during soundcheck (early evening) → Backstage entrance behind the curtain (evening).
+
+Storyboard (15 seconds, 8 shots)
+
+1. (~2s | Vanity | Camera on tripod | Warm lighting)
+CHASE quietly sits as someone off-camera finishes styling her hair while she looks into the mirror.
+Voiceover: "Every fan meeting begins with these peaceful moments."
+
+2. (~2s | Vanity | Close-up)
+Tight shot of hands carefully securing a hairpin in place. Only soft room ambience is heard.
+
+3. (~2s | Van | Handheld | Window light)
+Sitting beside the window, she absentmindedly fidgets with her hands while watching the city drift past.
+Voiceover: "The butterflies always arrive during the drive."
+
+4. (~2s | Van | Close handheld)
+She exhales slowly and looks down at her folded hands. Quiet road ambience only.
+
+5. (~2s | Empty stage | Handheld)
+Standing alone on stage, she tests the microphone as her voice echoes through the venue.
+Voiceover: "Hearing my own voice in an empty hall always feels surreal."
+
+6. (~2s | Soundcheck | Macro detail)
+Close-up of her hand adjusting the microphone stand while the echo fades into silence. No narration.
+
+7. (~1.5s | Backstage | Medium handheld)
+Waiting behind the curtain, she takes one deep breath as the muffled cheers from the audience grow louder.
+Voiceover: "Then suddenly..."
+
+8. (~1.5s | Backstage | Final shot)
+A genuine smile appears as she steps toward the bright stage lights.
+Voiceover: "...I remember they're all here for me."</code></pre>
+
+</details>
+
+## Full Moon Queen in Luxurious Bedroom
+
+- **Original source:** [@Ho_Neyy_ on X](https://x.com/Ho_Neyy_/status/2084669925239792076)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2230](https://imglume.com/prompt/2230)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e7affe2e-d87a-4428-ad72-4647a0eb6a13/77a76234-f4fb-4c3c-810a-124dc033ae0b-1785861381483 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A beautiful young East Asian woman with long black hair styled half-up, soft natural makeup, pearl ear cuff, layered gold necklace, wearing a white satin slip dress, stands in a luxurious modern bedroom. Warm morning sunlight streams through sheer curtains. She gently touching her hair while looking into a tall vintage mirror. Everything feels peaceful and elegant. The camera slowly dollies toward her from behind, revealing both the woman and her reflection. Ultra realistic, cinematic lighting, shallow depth of field, 4K, highly detailed skin, natural movement.
+
+Camera
+
+Slow dolly forward.
+
+Emotion
+
+Calm and relaxed. Ultra-realistic cinematic fantasy
+
+Same woman in every scene
+
+Long black hair
+
+White satin dress
+
+Pearl ear cuff and layered gold necklace remain consistent
+
+Photorealistic skin
+
+Hollywood VFX
+
+Volumetric lighting
+
+Smooth camera movement
+
+4K/8K quality
+
+Natural facial expressions
+
+Consistent character identity
+
+Magical white energy
+
+White werewolf with glowing icy blue eyes
+
+Thick, realistic white fur</code></pre>
+
+</details>
+
+## McDonald's shift turns into a giant burger monster showdown
+
+- **Original source:** [@egeberkina on X](https://x.com/egeberkina/status/2084338448786235568)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2220](https://imglume.com/prompt/2220)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/20cb2d36-75fd-4aa5-a7bb-a6e1e05c399c/72a3cb08-060e-42ea-b13c-cdfdfbe3c735-1785853004575 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>100% real-life filmed texture, iPhone documentary look, handheld single take, natural lighting, subtle breathing camera movement, random autofocus hunting, slight rolling shutter, realistic motion blur, lens dirt on edges, grounded physics, practical VFX only, authentic crowd reactions.
+
+Environment
+
+A busy McDonald's parking lot during lunch hour. Cars constantly pulling in. Families walking out carrying trays. Employees moving between parked cars. The sound of traffic, birds, distant conversations and fryers from inside. Everything feels like a real viral phone video.
+
+Main Character
+
+Use Image1 as the exact character reference.
+
+A tired McDonald's employee steps outside for a short break holding a tray with a Big Mac and fries. They look exhausted after a long shift.
+
+30-Second Continuous Sequence
+
+The employee slowly walks through the parking lot looking for somewhere to sit. They sigh, adjusting their hat while balancing the tray. Customers pass by without noticing them.
+
+Suddenly the entire ground begins vibrating. Car alarms start going off. People stop walking. A deep rumbling grows louder beneath the asphalt.
+
+The pavement violently cracks apart.
+
+A gigantic greasy burger monster erupts from underground, built from enormous beef patties, dripping cheese, lettuce, onions and sesame buns. Melted cheese stretches everywhere as it rises several stories high.
+
+The parking lot instantly erupts into panic. Cars reverse into each other. People drop their food and sprint away. Shopping bags fly through the air.
+
+The burger monster roars and crushes a parked SUV with one massive bun-covered fist before ripping a light pole from the ground.
+
+The handheld camera desperately follows the destruction, shaking as debris lands nearby.
+
+The camera finally lands back on the employee.
+
+Everyone else is running.
+
+The employee barely reacts.
+
+They calmly look at the monster...
+
+...then at the fries.
+
+With complete confidence, they pick up a single french fry.
+
+The fry begins emitting a faint golden glow.
+
+The glow intensifies.
+
+Hundreds... then thousands... of glowing fries materialize around the employee, orbiting like a perfectly synchronized swarm, spinning faster and faster while casting warm reflections across nearby cars.
+
+Wind generated by the spinning fries blows clothing, trash and napkins across the parking lot.
+
+The employee slowly raises one eyebrow...
+
+...and snaps their fingers.
+
+Every fry instantly launches forward like precision-guided missiles.
+
+The sky fills with streaks of golden fries.
+
+They slam into the burger monster from every direction in a spectacular chain reaction.
+
+Explosions of sesame seeds, lettuce, pickles, onions and cheese erupt into the air.
+
+The monster completely disintegrates into a massive food explosion raining harmless ingredients across the parking lot.
+
+Silence.
+
+Customers cautiously emerge from hiding.
+
+One child quietly picks up a falling fry.
+
+The employee casually brushes sesame seeds off their shoulder, shrugs, takes a bite of the Big Mac, and continues eating as if nothing happened.
+
+McDonald's logo appears.</code></pre>
+
+</details>
+
+## 1 on 1 Girl Mud Fight
+
+- **Original source:** [@MusicSatire on X](https://x.com/MusicSatire/status/2084300762646229370)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2210](https://imglume.com/prompt/2210)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/db6eb543-d8fa-4565-a574-ec0902763b6c/955d9def-c574-40b9-b8df-110173a07d05-1785844639599 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CHARACTER &amp; FIGHT SETUP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+&lt;&lt;&lt;image_1&gt;&gt;&gt;: Photorealistic, an athletic woman with dark hair slicked back and caked in mud,
+wearing a black athletic tank top and shorts soaked through and coated in wet brown mud,
+muscular toned arms and shoulders streaked with mud, skin texture and sweat catching
+real light, grinning with competitive joy mid-grapple.
+
+&lt;&lt;&lt;image_2&gt;&gt;&gt;: Photorealistic, an athletic woman with dark hair pulled back and streaked with
+mud, wearing a matching black athletic tank top and shorts soaked through and coated in
+wet brown mud, muscular toned arms locked in a grapple, skin texture and sweat catching
+real light, grinning with competitive intensity.
+
+VISUAL STYLE: Photorealistic, cinematic grain, natural daylight, true-to-life skin and
+mud texture, no stylization, no anime/illustrative rendering — this reads as real
+documentary/broadcast footage of a live event.
+
+SFX &amp; ENVIRONMENT: Open-air stadium mud-wrestling pit ringed by a tire wall, packed
+grandstand blurred in the background, bright overcast daylight, photorealistic lighting
+and atmosphere. Mud is thick, wet, and constantly re-splashing with realistic fluid
+dynamics — it must visibly re-coat both women throughout, never settling into a static
+texture. Ground is unstable and slick underfoot.
+
+SHOT — 15s CONTINUOUS ONE-TAKE, PHOTOREALISTIC REALISTIC GRAPPLE
+
+Photorealistic handheld with subtle shake, cinematic grain, camera crouched at mud-pit
+rim height, true-to-life depth of field. Opens already mid-clash (BEAT 1 — HOOK):
+&lt;&lt;&lt;image_1&gt;&gt;&gt; and &lt;&lt;&lt;image_2&gt;&gt;&gt; locked hand-to-hand at the centre of the pit, mud spraying up
+around their knees with realistic weight and splatter physics, faces close, both
+grinning through the strain, sweat and mud catching visibly on skin.
+
+Camera arcs in a slow low three-quarter orbit around the grapple (BEAT 2 — ESTABLISH),
+photorealistic depth of field keeping the tire wall and blurred crowd soft in the
+background pass, grounding the space before tightening back in.
+
+BEAT 3 — FIRST EXCHANGE: &lt;&lt;&lt;image_1&gt;&gt;&gt; drives forward, forcing &lt;&lt;&lt;image_2&gt;&gt;&gt;'s grip back and off
+balance; &lt;&lt;&lt;image_2&gt;&gt;&gt;'s knee slips in the mud, weight shifting hard to one side, free hand
+slapping down into the mud to catch balance — realistic recoil and cloth-impact
+deformation as wet fabric drags against skin — a genuine near-fall, sold with the same
+two-beat weight: the slip (strike-equivalent) and the catch (reaction).
+
+BEAT 5 — TACTICAL SHIFT: &lt;&lt;&lt;image_2&gt;&gt;&gt; recovers, drops her hips lower for leverage, and pivots
+the grapple, driving &lt;&lt;&lt;image_1&gt;&gt;&gt;'s locked arms sideways; &lt;&lt;&lt;image_1&gt;&gt;&gt;'s shoulder rotates with the
+turn, torso twisting off her base, mud flying off her forearm in the wrench with
+photorealistic droplet physics.
+
+BEAT 7 — LOW POINT: &lt;&lt;&lt;image_1&gt;&gt;&gt; loses the leverage fight entirely — &lt;&lt;&lt;image_2&gt;&gt;&gt; gets an underhook
+and drives her back and down toward the mud; &lt;&lt;&lt;image_1&gt;&gt;&gt;'s back hits the wet surface, arms
+still locked with &lt;&lt;&lt;image_2&gt;&gt;&gt;'s, a full-body splash fanning outward with true-to-life fluid
+displacement, breath forced out on contact, camera holding low and static for one beat,
+tight handheld grain, to sell the impact.
+
+BEAT 9 — THE SURGE: &lt;&lt;&lt;image_1&gt;&gt;&gt; uses the momentum of the fall to roll the grapple, hooking a
+leg and reversing position; &lt;&lt;&lt;image_2&gt;&gt;&gt; is pulled off her base and down into the mud beside
+her, both now scrambling at close quarters, grips resetting, mud coating both of them
+thicker and more matted with every second, photorealistic wet-skin sheen throughout.
+
+BEAT 10 — SET PIECE (SIGNATURE SHOT): both women surge upright together in one final
+push, hands locked, straining at a dead-even standstill, muscles visibly tensed under
+mud-slicked skin — then both feet slip simultaneously and they go down together in a
+full mutual splash, mud sheeting up on both sides with photorealistic splash dynamics,
+camera whip-panning down with the fall and holding low as the wave settles over them.
+
+BEAT 11–12 — CLIMAX / MEANING-SHIFT: camera settles close, shallow depth of field, as
+both surface from the mud at the same moment, grips still loosely locked, mud dripping
+in real time off jawlines and hair, both laughing openly now rather than straining — the
+contest resolves into shared exhaustion and delight rather than a clear winner,
+reframing the whole clash as play, not conflict.
+
+SFX: constant wet mud suction and splash throughout; grunts of effort; audio dips
+briefly (0.2s) into near-silence right before the mutual fall in BEAT 10, then full
+splash-impact release; both women's laughter rises over the final beat. Music: no —
+keep this fully diegetic, crowd murmur and mud sounds only.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code></pre>
+
+</details>
+
+## Jessy: Rooftop Run
+
+- **Original source:** [@AIwithJessica on X](https://x.com/AIwithJessica/status/2084528879574900870)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2201](https://imglume.com/prompt/2201)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b4ff3f80-a4fd-4db0-8e04-4e347e1afeac/8c247d01-db3c-499e-bf04-344b4afbf955-1785840419459 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-Second Video Prompt — "Jessy: Rooftop Run"
+
+PART 1 — 0:00–0:15
+
+Cut 1 (0–3s): Static locked-off shot, identical to the reference opening — Jessy sits on the wooden windowsill of her cozy, cluttered bedroom, looking out at the hazy NYC skyline. She says "All right," turns her head to face the camera directly, snaps her fingers, and says "Let's do this one more time." She pulls the headphones up onto her ears, tips backward naturally, and falls out the window, dropping smoothly out of frame.
+
+Cut 2 (3–4s): Camera catches her mid-fall from street level below — she twists upright in the air with a sharp, focused expression, fires a web upward with a quick wrist snap, and the camera pulls back into a wide rear-follow drone shot as the web yanks her out of the fall.
+
+Cut 3 (4–7s): Wide shot of a residential NYC street lined with brownstones and fire escapes. She swings low, just 3 meters above the ground, arms extended forward gripping the web, legs trailing together, back straight. At the bottom of the arc her feet skim the roof of a parked car — a quick, surprised laugh escapes her as she uses the contact to redirect. Camera banks hard, 40 degrees.
+
+Cut 4 (7–10s): She releases the web at the peak of the swing, arms opening wide for a brief weightless moment — then instead of swinging again, she runs straight along the vertical face of a brownstone wall, body leaned 45 degrees into the brick, 4–5 real running strides, jaw set in determined focus. She plants both feet, knees bending deep, then explodes off the wall and fires a new web across a wide intersection.
+
+Cut 5 (10–15s): The swing yanks her hard sideways, camera rolling 60 degrees. She dips low down a street packed with yellow taxis, just 2 meters off the ground, body streamlined, arms and legs trailing like an arrow. She releases the web, lands running full sprint, arms driving — then drops into a low controlled slide under a delivery truck's side mirror, one leg tucked, hand bracing the ground, and springs back up into her stride without losing speed, grinning with adrenaline. (End Part 1.)
+
+PART 2 — 0:15–0:30
+
+Cut 6 (15–17s): New angle — she plants one foot on the side of a moving taxi, pushes off its roof with a single explosive step, fires a web straight up at a tall building, and rockets skyward, shouting "WOOHOO!" with completely uncontrolled joy, mouth open, head tipping back.
+
+Cut 7 (17–21s): The drone rises with her. At the top of the arc she releases the web, body briefly weightless, arms open — then twists mid-air and lands a spinning heel-strike off the metal frame of a rooftop water tower, redirecting her momentum sideways instead of dropping. A sharp, focused grunt of effort, eyes locked on her next line of travel.
+
+Cut 8 (21–25s): Street level again — she descends a fire escape, hands catching each rail to control her speed, sneakers striking the metal steps in rhythm, scarf whipping behind her. At the bottom she vaults a low fence in one clean motion without breaking stride, laughing as a flock of pigeons scatters around her.
+
+Cut 9 (25–30s): Final wide shot at rooftop level — she fires one last web and swings up into open air, releasing at the peak. Arms open, body arched back, completely still for one breathless moment. Golden hour sky, warm orange-pink light, dramatic backlit clouds. She hangs tiny and centered against the glowing sky, rooftops and water towers below, eyes closed, face full of pure freedom, as she begins to fall back down. (End.)</code></pre>
+
+</details>
+
+## Serene high-angle anime scene of woman on mossy riverbank
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2084175738840703362)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [2190](https://imglume.com/prompt/2190)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/47095947-90ed-4792-97c5-b6020440a2c8/d9a249a8-4cae-4f8e-8fc0-0083fc4f7b51-1785827799262 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A serene high-angle scene of a young woman with long dark hair lying peacefully on a lush, moss-covered riverbank beside a flowing stream. She wears a dark camouflage knitted sweater. Her hand is initially raised toward leafy tree branches hanging overhead, slowly descending down to her side as she gazes softly upward with a tranquil expression. Sunlight filters through the leafy canopy, casting shimmering highlights across the rippling dark water. The artwork features a detailed, cinematic anime digital art style with soft atmospheric lighting, rich earthy green and brown tones, and smooth, gentle movement.</code></pre>
+
+</details>
 
 ## Luxury runway fashion video with red corset and crystal‑studded denim
 

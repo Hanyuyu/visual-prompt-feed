@@ -1,9 +1,26 @@
 # Nature video prompts
 
-5 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Serene high-angle anime scene of woman on mossy riverbank
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2084175738840703362)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [2190](https://imglume.com/prompt/2190)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/47095947-90ed-4792-97c5-b6020440a2c8/d9a249a8-4cae-4f8e-8fc0-0083fc4f7b51-1785827799262 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A serene high-angle scene of a young woman with long dark hair lying peacefully on a lush, moss-covered riverbank beside a flowing stream. She wears a dark camouflage knitted sweater. Her hand is initially raised toward leafy tree branches hanging overhead, slowly descending down to her side as she gazes softly upward with a tranquil expression. Sunlight filters through the leafy canopy, casting shimmering highlights across the rippling dark water. The artwork features a detailed, cinematic anime digital art style with soft atmospheric lighting, rich earthy green and brown tones, and smooth, gentle movement.</code></pre>
+
+</details>
 
 ## K2: THE AVALANCHE
 

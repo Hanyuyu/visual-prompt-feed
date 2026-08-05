@@ -1,9 +1,64 @@
 # Illustration 3d image prompts
 
-21 source-linked prompts, newest ImgLume records first.
+24 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Soft minimalist Korean webtoon style traveling family illustration
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2084507200140247246)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2213](https://imglume.com/prompt/2213)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/528c5436-3718-4771-a10b-a15826cfb2da/737929dd-32d4-4442-8470-e166c6598ca9-1785848795875 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/528c5436-3718-4771-a10b-a15826cfb2da/c71fd047-2e49-4fdb-b6c2-4f9c796b3add-1785848795875 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "BACKGROUND": "&lt;User-defined location, landmark, city, or environment&gt;",
+
+ "prompt": "Create a soft, minimalist illustration in a clean Korean webtoon style featuring a traveling family consisting of two parents and two children. The family should be standing together naturally and interacting with one another while exploring the chosen BACKGROUND location. Leave the exact setting entirely dependent on the user's input.\n\nStyle requirements:\n- Cute, simplified facial features with dot eyes and minimal mouths\n- Thin, clean line art\n- Soft pastel color palette with muted beige, sage green, dusty blue, cream, and light pink tones\n- Flat shading with subtle depth\n- Rounded character proportions and gentle expressions\n- Cozy, wholesome atmosphere\n- Hand-drawn appearance inspired by modern travel journals and illustrated postcards\n\nCharacter details:\n- Father carrying a backpack and holding a folded map\n- Mother carrying a camera, shoulder bag, or suitcase\n- One boy and one girl wearing comfortable travel clothes\n- Casual walking shoes and small travel accessories\n\nComposition:\n- Full-body vertical composition (4:5 aspect ratio)\n- Family positioned prominently in the foreground\n- Environmental elements placed in the background according to the user's chosen location\n- Plenty of open space around the characters\n- Balanced and uncluttered arrangement\n\nOptional additions:\n- Location title text at the top of the illustration\n- Trees, pathways, water, buildings, mountains, benches, clouds, flowers, or famous landmarks depending on the selected destination\n\nMood: peaceful, nostalgic, family-friendly, warm, and travel-themed."
+}</code></pre>
+
+</details>
+
+## Mixed-media urban photography portrait with vector overlay
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2084501119510651251)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `illustration-3d`, `photography`
+- **ImgLume record:** [2191](https://imglume.com/prompt/2191)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4756982f-cddc-4c9e-a27e-9db295b5b44c/8900c3b3-c619-47b8-a33c-79de39650381-1785829867455 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4756982f-cddc-4c9e-a27e-9db295b5b44c/af9f2a6d-d396-47df-accf-9cdc030e00a9-1785829867455 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4756982f-cddc-4c9e-a27e-9db295b5b44c/fa666c49-0936-4e42-8e51-0c050c58e3a5-1785829867455 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant, mixed-media urban photography portrait. The photographic base features [Variable 1: Description of the photorealistic subject, their action, and the specific urban environment]. The photograph is dynamically overlaid with bold, flat 2D cartoon vector illustrations consisting of [Variable 2: Specific 2D cartoon elements, graphic shapes, and their neon color palette]. The clean, flat vector graphics wrap around and interact playfully with the photorealistic subject, creating a surreal pop-art intervention. High contrast, streetwear aesthetic, bright sunlight, highly detailed. 1:1</code></pre>
+
+</details>
+
+## Playful cinematic 3D portrait
+
+- **Original source:** [@kingofdairyque on X](https://x.com/kingofdairyque/status/2084309971253026966)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `cinematic`, `illustration-3d`
+- **ImgLume record:** [2173](https://imglume.com/prompt/2173)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/ed2d5404-9a3b-492f-a473-7b30ac054f94-1785810974246 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/2bc9924d-999b-4dc6-b956-2a0f61102e19-1785810974246 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/d8164ad8-460b-490f-a4aa-938454ed5fdb-1785810974246 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/4c44576d-8eff-49d9-a216-265200a4a091-1785810974246 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Playful cinematic 3D portrait of [CHARACTER], with exaggerated asymmetric features: one oversized oval eye, one smaller offset eye, an elongated face, a huge joyful smile, uneven rounded teeth, and tactile softly textured skin. Dress the character in [CLOTHING] and use [COLORS] across hair, and wardrobe, with [ANIMAL] beside the character, designed with similarly playful asymmetry. Set the scene in [SCENERY], using bold color blocking, rounded graphic shapes, soft directional lighting, shallow depth of field, and polished handcrafted 3D textures. Keep the expression energetic, the proportions comically elastic, and the composition clean and fun. 4:5 AR.</code></pre>
+
+</details>
 
 ## Hyperrealistic cinematic interior render of a trophy hall
 

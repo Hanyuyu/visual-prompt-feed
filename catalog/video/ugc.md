@@ -1,9 +1,128 @@
 # UGC video prompts
 
-23 source-linked prompts, newest ImgLume records first.
+27 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Mukbang Vlog in Traditional Hanok Courtyard
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2084565506649096271)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [2227](https://imglume.com/prompt/2227)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57f4a2ac-bb7c-4194-9829-09b0774555b1/e80a41ee-51b3-40a0-aa2e-3a0194c3b124-1785857219184 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, 8-shot handheld phone vlog, photorealistic home-video style. Slight handheld shake, natural framing, bright summer daylight, soft breeze, fine film grain.
+
+A woman (image) returns to the same traditional hanok courtyard restaurant for another summer meal. (Image) provides only her face and hairstyle; outfit: light beige linen short-sleeve shirt with shoulders fully covered, top button open, casual and relaxed. She remains seated on the same side facing the camera throughout. No other faces appear; only a server's hands enter the frame.
+
+The table holds a steaming bowl of handmade kimchi mandu, crispy potato jeon, small side dishes (kimchi, pickled radish), chilled barley tea, soy dipping sauce, chopsticks, spoon, napkin, and a small fan gently moving in the breeze. Traditional wooden beams, tiled roofs, green plants, and afternoon cicadas create a cozy summer atmosphere.
+
+Shots
+
+1. Server places the hot dishes on the table. Steam rises dramatically. She smiles with excitement and says: "이번엔 뜨거운 거!"
+
+2. Close-up as she breaks a kimchi dumpling in half with chopsticks. Steam pours out and the filling stretches slightly. She softly blows on it.
+
+3. First bite. Loud crispy wrapper followed by juicy filling. She widens her eyes and quietly says: "와... 육즙 미쳤다."
+
+4. She dips a piece of potato jeon into soy sauce and takes a crunchy bite. She gives a thumbs up while chewing naturally.
+
+5. She sips cold barley tea after the hot food and smiles with relief: "이 조합 최고다."
+
+6. Close-up of another dumpling dipped generously in sauce. She enjoys several satisfying bites with natural chewing sounds while nodding happily.
+
+7. She finishes the last bite, wipes her mouth with a napkin, leans toward the camera, and whispers: "다음엔 뭐 먹지?"
+
+8. She laughs softly, waves goodbye, and walks out through the peaceful hanok courtyard as leaves sway in the breeze and cicadas continue singing.
+
+Audio
+
+Natural Korean dialogue only where specified. Live ambient audio only: steaming food, crispy bites, chopsticks, dipping sauce, chewing, tea pouring, birds, cicadas, light wind, and courtyard ambience. No music, subtitles, logos, watermarks, exaggerated facial expressions, or duplicated reference image.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC luxury creator review of sunglasses in a modern bedroom
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084608509837275231)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`, `ugc`
+- **ImgLume record:** [2223](https://imglume.com/prompt/2223)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/42d9f45e-7b0e-4750-b719-b71454c6e616/e9e8e31b-8121-46e9-9824-058ad9db670b-1785853052978 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded sunglasses, retail box, and leather carrying case as locked product references. Maintain perfect product consistency, including the frame shape, lenses, hinges, colors, materials, and proportions.
+
+Create an ultra-realistic UGC luxury creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
+
+The video begins with the woman sitting on the bed beside the retail box and leather case. Smiling at the camera, she says, "I genuinely wasn't expecting to love these this much." She picks up the box, opens it naturally, reveals the leather case, then slowly removes the sunglasses while continuing, "The packaging already feels incredibly premium."
+
+She rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, "The finish feels amazing, and they're incredibly lightweight."
+
+She puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, "Honestly... they look so good, and they're really comfortable on the eyes, even in bright sunlight."
+
+She turns slightly left and right so the sunglasses catch the sunlight from different angles before removing them with a smile. Walking back to the bed, she places the sunglasses beside the leather case and retail box, then picks them up one last time and holds them beside her face.
+
+Looking directly into the camera, she smiles warmly and says, "Definitely one of my favorite accessories this year." The camera slowly pushes in on the sunglasses before fading out.
+
+Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text.</code></pre>
+
+</details>
+
+## Super casual smartphone rooftop hangout video in Los Angeles at sunset
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2084471433686929712)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2212](https://imglume.com/prompt/2212)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2f6490f6-a6f2-4523-89e8-11e6d2ff985d/4d0d3802-a267-43d7-acef-1734fd8aab46-1785848785959 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Super casual real smartphone home video footage, rooftop hangout in Los Angeles with palm trees and city skyline visible at sunset, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with constant quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of friends chatting, snacking and enjoying the view, pure raw home video feel, no cinematic polish or heavy effects. Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of friends around her on the rooftop, LA skyline and palm trees visible in the sunset light. 0-2.5s: Shaky rapid cuts main woman laughing near the rooftop railing, sunset and palm trees behind her. 2.5-5s: Abrupt jump cuts close-up of her smiling with a drink, then friends passing snacks around. 5-7.5s: Fast shaky she chats animatedly, city skyline glowing in the background, friends laughing nearby. 7.5-10s: Quick cut close-up warm smile toward camera, then jump to her laughing with friends near the view. 10-12.5s: Abrupt edit group gathered around a small table, casual toast with cups, string lights starting to glow. 12.5-15s: Final rapid transition main woman relaxed among friends, soft smile, calm LA sunset memory ending with gentle phone sway. Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion with no low fps or choppy artifacts, authentic casual interactions and physics, stable main character consistency, no pro stabilization or effects.</code></pre>
+
+</details>
+
+## Super casual smartphone home video of Los Angeles backyard pool party
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2084501473480896933)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2188](https://imglume.com/prompt/2188)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d2fa738d-f34e-486b-af7d-ca310fb8f242/c44e720d-bdc7-449f-88c5-424f723fad13-1785827785124 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Super casual real smartphone home video footage, sunny Los Angeles backyard pool party with palm trees and string lights, natural mobile phone camera with slight authentic handheld shake, normal frame rate with smooth natural motion, rapidfire montage with constant quick jump cuts every 1-2 seconds like scrolling through phone memories, unpolished authentic phone recording of mixed ages swimming, eating and dancing near the pool, pure raw home video feel, no cinematic polish or heavy effects. Use the provided reference photo as the strict ONLY visual reference for the main woman. Maintain her exact appearance with zero deviation. Generate a mixed group of family and friends around her by the pool, palm trees, floats and drinks visible.
+0-2.5s: Shaky rapid cuts main woman laughing near the pool edge, sunlight sparkling on water, quick flashes of friends splashing.
+2.5-5s: Abrupt jump cuts close-up of her smiling with sunglasses, then friends passing cold drinks poolside.
+5-7.5s: Fast shaky she chats animatedly on a lounge chair, pool floats and palm trees visible.
+7.5-10s: Quick cut close-up cheerful smile toward camera, then jump to her laughing with family near the water.
+10-12.5s: Abrupt edit group gathered around a poolside table, snacks shared, playful splashing in background.
+12.5-15s: Fast rapid cuts she dances lightly near the pool, friends clapping and laughing along.
+15-17.5s: Shaky jump cuts close-up of her jumping playfully near the water edge, laughter all around.
+17.5-20s: Abrupt edit group taking a big splash together, mixed ages cheering happily.
+20-22.5s: Fast shaky she relaxes on a float, chatting with a friend nearby, sunlight glowing.
+22.5-25s: Quick cut close-up warm smile toward camera, then jump to her toasting drinks with friends. 25-27.5s: Abrupt edit everyone gathered close for a group moment, laughing near the pool.
+27.5-30s: Final rapid transition main woman relaxed poolside with the group, soft smile, calm summer memory ending with slight natural phone sway. Natural smartphone video quality, slight real handheld shake, smooth normal frame rate motion with no low fps or choppy artifacts, authentic casual interactions and physics, stable main character consistency, charming unpolished home phone recording, no pro stabilization or effects.</code></pre>
+
+</details>
 
 ## Vertical UGC-style grocery shopping vlog
 

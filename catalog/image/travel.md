@@ -1,9 +1,60 @@
 # Travel image prompts
 
-9 source-linked prompts, newest ImgLume records first.
+12 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## New York cute travel illustration
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084509150386721178)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2215](https://imglume.com/prompt/2215)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37d97a19-d97a-4e50-a74c-7c021cd9c2cd/46cdbc5a-67d7-4f92-8213-eb9cc86513bf-1785848827512 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/37d97a19-d97a-4e50-a74c-7c021cd9c2cd/bc56fc1b-94d0-4af3-a2fb-5786e3eaa763-1785848827512 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/37d97a19-d97a-4e50-a74c-7c021cd9c2cd/4bdf9404-5945-4d06-9503-972c824bfc3f-1785848827512 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A minimalist hand-drawn doodle illustration of [ICONIC LANDMARK] rising tall and slightly crooked in the center, a tiny doodle [LOCAL TRANSPORT ELEMENT] looping around the top, two small round tourists at the base pointing upward, a soft puffy cloud doodle drifting past. Simple brush-pen outlines with slightly wobbly, imperfect strokes. All details reduced to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, watercolor ink drawing with light transparent washes, charming imperfections, simple cartoon illustration. Generous white space, no readable text or signage lettering.</code></pre>
+
+</details>
+
+## Premium Travel Journal-Style Collage Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084296113302217152)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2193](https://imglume.com/prompt/2193)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b3f4648e-a8be-417a-876a-00353a1d58a0/ebf55af1-d235-44be-9a85-953479fcd641-1785832076182 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b3f4648e-a8be-417a-876a-00353a1d58a0/03dd0314-39fb-4b39-847b-5927f072d3d8-1785832076182 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b3f4648e-a8be-417a-876a-00353a1d58a0/1039df6f-6142-43d6-bb50-19de2a20529d-1785832076182 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium travel journal-style collage poster inspired by {LOCATION} on a clean off-white or textured paper background. Place a realistic hand holding a vertical travel pass or postcard at the center, featuring a vibrant landmark or iconic street scene with local architecture, transportation, and a warm cinematic sky. Design the lower section of the pass as an authentic local transit card or travel ticket. Surround the centerpiece with elegant black-and-white hand-drawn sketches, handwritten annotations, arrows, and labels showcasing famous landmarks, cultural symbols, native wildlife, traditional costumes, folk art, local cuisine, and iconic objects from the destination. Add bold serif titles reading "TRAVEL JOURNAL" and "{LOCATION}" at the top, with "{LOCATION}" at the bottom. Maintain a refined editorial layout with balanced spacing, realistic textures, vintage scrapbook aesthetics, high-detail line art, and a harmonious mix of monochrome illustrations and a single colorful focal point for a premium travel poster look. Aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Elegant black girl model at Taj Mahal with elephant
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2084094837012455860)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [2165](https://imglume.com/prompt/2165)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/674962d2-c959-4d6c-b882-cce7e839c9ef/d819e46c-19a2-4e34-8d06-1ac0303baab4-1785785788838 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/674962d2-c959-4d6c-b882-cce7e839c9ef/6637a90c-95ad-46f7-8b98-0732c5edc056-1785785788838 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/674962d2-c959-4d6c-b882-cce7e839c9ef/c99aa126-f1a2-430f-a288-76f35da3826a-1785785788838 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/674962d2-c959-4d6c-b882-cce7e839c9ef/43a23761-b286-4191-bedd-fcff55f38f92-1785785788838 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>a elegant long hair, black girl model wearing black summer dress, standing in front of the taj mahal with a big elephant touching her with its trunk, Whole body in frame shot from the side. Soft outdoor daylight, diffused lighting, warm highlights, gentle white tones, natural color grading. Natural skin texture, realistic facial proportions, confident yet friendly expression. High-end commercial photography, photorealistic, ultra-detailed, cinematic realism. Canon EOS R5, 85mm lens, f/1.2 aperture, shallow depth of field, creamy bokeh, sharp focus, 8K, the camera makes a close up, she is posing for the camera</code></pre>
+
+</details>
 
 ## Travel postcard diorama prompt
 

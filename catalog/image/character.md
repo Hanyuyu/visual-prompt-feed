@@ -1,9 +1,151 @@
 # Character image prompts
 
-42 source-linked prompts, newest ImgLume records first.
+47 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Contemporary expressive fine-art portrait illustration
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2084509479236944355)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2234](https://imglume.com/prompt/2234)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca7ed21f-be1e-45f5-b4e3-15fb8b30f0a4/a69a9038-db73-450b-a4d2-681aafcfcac1-1785861436274 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ca7ed21f-be1e-45f5-b4e3-15fb8b30f0a4/e5aadfb5-3a7d-40f0-b764-1b3324ed7b27-1785861436274 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Masterpiece contemporary expressive fine-art portrait style that seamlessly fuses classical oil painting, premium mixed-media illustration, and ultra-detailed multicolor ballpoint cross-hatching into a unique handcrafted aesthetic. Elegant painterly realism enhanced with intricate flowing ink linework, delicate cross-hatching, feathered shading, and transparent watercolor glazes, creating an exceptional balance between refined technical illustration and spontaneous artistic expression. Rich visible brush textures merge naturally with precise linear drafting, loose gestural strokes, subtle ink scribbles, organic splashes, and handcrafted imperfections, resulting in a sophisticated museum-quality finish.
+Ultra-realistic facial rendering with refined anatomy, lifelike skin translucency, natural pores, delicate freckles, expressive eyes, and smooth tonal transitions. Every strand of hair is individually illustrated using a harmonious combination of painterly strokes and ultra-fine ink lines, creating natural movement, softness, and remarkable dimensionality. Clothing and fabrics display luxurious tactile realism with layered folds, weathered natural textures, and expressive brushwork enhanced by intricate line detailing.
+Soft cinematic volumetric lighting combines warm golden illumination with subtle cool rim light, producing atmospheric depth, gentle shadows, and elegant three-dimensional form. Harmonious color grading features warm ivory, beige, sienna, burnt umber, muted amber, olive, deep indigo, teal, crimson, soft violet, and restrained complementary accents, delivering a refined editorial fine-art palette without oversaturation.
+Minimalist fine-art background consisting only of broad expressive oil-brush strokes blended with transparent watercolor washes and faint hand-drawn ink textures, featuring soft tonal gradients and organic brush movement, completely free of scenery, objects, ornaments, decorative patterns, or distracting elements. The clean artistic backdrop enhances the subject while preserving elegant negative space and visual focus.
+Museum-quality contemporary portrait illustration, editorial masterpiece aesthetic, premium handcrafted mixed-media realism, extraordinary detail, crisp focal rendering, organic edge transitions, timeless artistic sophistication, emotionally expressive, ultra-high fidelity, 8K, HDR, --ar 9:16.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic portrait of modern Batgirl with high‑tech Batmobile
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2084619521172685234)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2226](https://imglume.com/prompt/2226)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5ed8b955-7758-4018-85c4-90c70951df3a/4f4cde4c-17ab-4766-80ab-05de6cac0c16-1785857209464 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5ed8b955-7758-4018-85c4-90c70951df3a/a771ad0e-fd87-4c17-870a-8fe901922711-1785857209464 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5ed8b955-7758-4018-85c4-90c70951df3a/67d1550e-e094-4616-b2e4-321bb1a90f5a-1785857209464 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/5ed8b955-7758-4018-85c4-90c70951df3a/8376ac53-7c1a-4121-b5ae-aaad3b875f4d-1785857209464 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "prompt": "Ultra-realistic cinematic portrait of a gorgeous young woman as a sexy modern Batgirl, wearing a tight glossy black latex batsuit with white stockings that hugs her curves perfectly with red bat emblem, with a matching black latex cowl mask featuring pointed bat ears and white eye lenses. She has long dark hair partially visible under the mask, full lips, and a confident seductive expression. She is leaning casually against a custom matte-black Bugatti Chiron heavily modified as a high-tech Batmobile — featuring bat-wing spoilers, glowing red underlights, reinforced armor panels, bat emblem on the hood, and aggressive wide-body kit. The setting is a futuristic tech-filled Batcave with dark rocky walls, massive computer screens displaying city maps and data, blue holographic projections, the classic Batcomputer in the background, dramatic low-key lighting with red and blue LED accents reflecting on the shiny latex suit and car surface. Photorealistic, hyper-detailed textures on latex, metal, and skin, cinematic atmosphere, 8K resolution."
+}</code></pre>
+
+</details>
+
+## Hyper-realistic cinematic portrait of an ancient prophet with assault rifle on a burning battlefield
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2084489314256531599)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2218](https://imglume.com/prompt/2218)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca6fd233-6560-4550-93c7-594011df4be6/abe8c715-fff8-4fae-b1fe-0b4a9de5e53e-1785848883027 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A hyper-realistic cinematic portrait of a battle-worn ancient prophet seated calmly upon burning battlefield ruins, surrounded by towering flames, thick black smoke, glowing embers, and drifting ash. He has long dark wavy hair, a full rugged beard, weathered olive skin, and a solemn, unwavering expression. His head is slightly lowered, eyes filled with quiet determination and sorrow, illuminated by the inferno around him.
+
+He wears an ancient crimson-red robe over a worn beige tunic, both heavily stained with ash, soot, dirt, dried blood, burn marks, torn fabric, realistic folds, weathered textures, and centuries of wear. His bare feet rest naturally on broken rubble, cracked stone, spent shell casings, twisted metal debris, and burning wreckage.
+
+Across his lap rests an ultra-detailed modern military assault rifle with realistic steel construction, tactical optics, holographic sight, rail attachments, foregrip, magazine, worn Cerakote finish, carbon residue, scratches, chipped paint, engraved serial markings, metallic reflections, and battle damage. His hands gently cradle the rifle without aiming, symbolizing solemn resolve rather than aggression.
+
+The environment is an apocalyptic battlefield engulfed in towering flames, dense smoke columns, flying embers, glowing sparks, molten debris, collapsing ruins, burning vehicles in the far background, floating ash particles, atmospheric dust, cinematic heat distortion, and volumetric fire effects.
+
+Lighting is dramatic and cinematic, with intense orange firelight illuminating one side of the face, subtle cool ambient shadows balancing the opposite side, volumetric god rays piercing through smoke, realistic global illumination, physically accurate reflections, HDR dynamic range, ray-traced lighting, cinematic contrast, and deep shadow separation.
+
+The composition centers the ancient prophet in a commanding seated pose, framed symmetrically, with the rifle diagonally crossing the frame. The camera angle is slightly low, emphasizing dignity and presence while maintaining emotional intimacy. Background remains softly blurred through shallow depth of field, focusing attention entirely on the subject.
+
+Ultra-photorealistic skin textures with visible pores, subtle wrinkles, dirt accumulation, sweat, soot, natural facial hair strands, realistic cloth fibers, physically accurate metallic materials, cinematic smoke simulation, volumetric fog, atmospheric perspective, microscopic surface detail, film-grade color science, blockbuster movie realism.
+
+Masterpiece, award-winning cinematic photography, Unreal Engine 5 quality, Octane Render, Redshift Render, path tracing, global illumination, ray tracing, physically based rendering (PBR), ultra HDR, IMAX quality, Hollywood concept art, 16K resolution, hyperrealistic, ultra detailed, razor-sharp focus, museum-quality digital artwork.</code></pre>
+
+</details>
+
+## Cinematic jungle chase on a giant blue lynx
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2084298829336051811)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [2208](https://imglume.com/prompt/2208)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/909a3849-d6d9-459c-aa93-6d1e63fb18b5/5c07d8ea-a5ae-4756-b075-5b532e47cb6c-1785844625824 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/909a3849-d6d9-459c-aa93-6d1e63fb18b5/3cd32a4b-9fa1-4b57-9e16-f8a0f3ce6bcb-1785844625824 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A woman tells the villagers: "Torrential waters are approaching; the ground is shaking beneath your feet."
+
+Run toward the mountains.
+
+She sprints through the tropical rainforest amidst a torrential downpour.
+
+Handheld camera shot; chaos.
+
+A torrent of water chases the woman, tearing through the jungle; rapid motion blur.
+
+A massive lynx—muscular, with long blue fur and long ears—runs through the tropical rainforest in the pouring rain.
+
+The woman mounts the giant lynx and rides it; the beast races toward the mountains, rapidly climbing to the summit while leaping great distances with the woman on its back.
+
+A shot of the blonde woman atop the giant lynx—with its long blue fur and honey-colored eyes—perched high on a cliff overlooking the rainforest; below, a massive flood rages, with giant torrents of water submerging the jungle, sweeping away exotic villages and engulfing elephants in the deluge.
+
+They gaze out at the scene from the top of the cliff.
+
+photorealistic cinematic scene of high-octane action.</code></pre>
+
+</details>
+
+## Vera — The Crimson-Glass Enforcer Character Concept Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2084055801115873740)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [2159](https://imglume.com/prompt/2159)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/97fb6ce4-14ac-41f6-bd65-b3f98dacefef/d649c67d-d30e-4cc0-9b26-f8dbc176f245-1785786385126 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/97fb6ce4-14ac-41f6-bd65-b3f98dacefef/5d11c4ac-2373-4c8f-9c7d-5d8892bbfcee-1785786385126 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/97fb6ce4-14ac-41f6-bd65-b3f98dacefef/29dd06c6-3d91-49d5-babf-fd6cf79bcb5d-1785786385126 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GPT Image 2 Character Sheet Prompt:
+
+Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealism, no petite proportions.
+
+[PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, towering height, narrow waist, massive thick powerful hips and thighs, small adult head).
+
+[SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, short dark bob, clear wire-rimmed glasses, mature sharp face. Outfit: massive translucent-white tech-parka, tight crimson-red high-cut bodysuit, chunky crimson combat boots. Magic Ability: Freezes ambient moisture into razor-sharp crimson glass blades.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography: "VERA" in clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: Syndicate Enforcer", "CORE MOOD: Cold Precision", "VISUAL SIGNATURE: Crimson Glass Magic".- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (cold smirk, adjusting glasses, deadly focus, sideways glance).
+
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a lethal, elegant signature pose adjusting her glasses, maximum detail, perfect style-match to reference.
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: 4 small-to-medium dynamic stances (walking with supermodel strides, pulling her parka up, commanding a floating crimson glass blade, delivering a heavy kick), handwritten-style labels.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- 5 small square crops: mature sharp face with clear glasses, translucent white parka fabric, tight red bodysuit, chunky crimson boots, floating geometric crimson glass shard. Handwritten labels.</code></pre>
+
+</details>
 
 ## Minimalist black-and-white doodle illustration
 

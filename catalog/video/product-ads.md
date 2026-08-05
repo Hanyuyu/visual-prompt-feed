@@ -1,9 +1,108 @@
 # Product Ads video prompts
 
-30 source-linked prompts, newest ImgLume records first.
+35 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Full 30-Second Ad Prompt
+
+- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `product-ads`
+- **ImgLume record:** [2239](https://imglume.com/prompt/2239)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab9a36ba-36a3-4f5b-ad16-5d8122bfe9cb/e2334b3f-9743-42c5-850c-3b9bbf0d4144-1785865600742 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A sleek water bottle on a wooden table. Open with a close-up of condensation on the bottle, pull back to reveal a runner grabbing it mid-workout. She drinks, smiles, sets it down. Camera orbits the bottle as text appears: "Now Available." Bright commercial lighting throughout. Upbeat background music that swells at the end.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC luxury creator review of sunglasses in a modern bedroom
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084608509837275231)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`, `ugc`
+- **ImgLume record:** [2223](https://imglume.com/prompt/2223)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/42d9f45e-7b0e-4750-b719-b71454c6e616/e9e8e31b-8121-46e9-9824-058ad9db670b-1785853052978 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded sunglasses, retail box, and leather carrying case as locked product references. Maintain perfect product consistency, including the frame shape, lenses, hinges, colors, materials, and proportions.
+
+Create an ultra-realistic UGC luxury creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
+
+The video begins with the woman sitting on the bed beside the retail box and leather case. Smiling at the camera, she says, "I genuinely wasn't expecting to love these this much." She picks up the box, opens it naturally, reveals the leather case, then slowly removes the sunglasses while continuing, "The packaging already feels incredibly premium."
+
+She rotates the sunglasses slowly in front of the camera, showing the frame, hinges, and lenses as natural reflections glide across the surface. She smiles and says, "The finish feels amazing, and they're incredibly lightweight."
+
+She puts on the sunglasses, stands up, and walks toward a large full-length mirror. Looking at her reflection, she adjusts the frame naturally and says, "Honestly... they look so good, and they're really comfortable on the eyes, even in bright sunlight."
+
+She turns slightly left and right so the sunglasses catch the sunlight from different angles before removing them with a smile. Walking back to the bed, she places the sunglasses beside the leather case and retail box, then picks them up one last time and holds them beside her face.
+
+Looking directly into the camera, she smiles warmly and says, "Definitely one of my favorite accessories this year." The camera slowly pushes in on the sunglasses before fading out.
+
+Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro product cinematography, realistic reflections, detailed frame textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no logos, no watermarks, no on-screen text.</code></pre>
+
+</details>
+
+## Cinematic Luxury Skincare Commercial
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2084566509351735661)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2217](https://imglume.com/prompt/2217)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac688a35-5291-43b7-88b4-b6ad5ea3d26a/f08b42a3-fd18-466d-baa8-fa7cdb010d0a-1785848864961 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic luxury skincare commercial. Starts with a clear glass dropper bottle containing golden serum on a white marble surface, surrounded by delicate white jasmine blossoms and scattered dew droplets under warm sunlight. Transitions to an extreme close-up macro shot of a single glowing, golden oil droplet falling slowly from a glass pipette onto smooth human skin, absorbing seamlessly with a radiant glow. Concludes with a front-and-center reveal of a premium golden serum bottle resting atop a large, glistening clear cut-diamond pedestal, surrounded by soft shimmering golden bokeh particles. Warm studio lighting, ultra-realistic texture, 4K resolution, sleek high-end beauty aesthetic.</code></pre>
+
+</details>
+
+## Ultra-luxury skincare commercial with water droplet and glowing woman
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2084483345350889723)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2180](https://imglume.com/prompt/2180)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f579cb21-dbd6-42d3-8978-ebe69c388490/0f947d2f-baa0-4168-96c5-8b95a53b084e-1785823585478 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-luxury skincare commercial in photorealistic cinematic style. Open with a crystal-clear water droplet falling in slow motion into pure blue water, creating elegant ripples. A premium glass skincare cream jar rises gracefully from the water, surrounded by floating white flowers and sparkling droplets. Transition to a beautiful young woman with naturally glowing skin gently applying the cream to her face with a soft smile. Show luminous, hydrated skin with realistic texture and golden natural sunlight. End with a single water droplet suspended against a clean pastel-blue background to symbolize purity. Minimal luxury aesthetic, soft reflections, macro beauty shots, slow-motion water simulation, volumetric lighting, shallow depth of field, 8K HDR, smooth camera movements, premium beauty advertisement, no watermark, no logos, no text.</code></pre>
+
+</details>
+
+## Luxury cinematic commercial for high-end yellow lipstick
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2084479425710641551)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2179](https://imglume.com/prompt/2179)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed576ed3-1bc8-48ba-a524-b184e0edfd61/2eece1c6-25b2-488d-9a77-19d778b3ab7b-1785823574934 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A continuous, luxury cinematic commercial for a high-end luxury yellow lipstick set in an opulent golden-toned studio. The scene opens with an elegant woman with a chic low bun wearing a backless silk yellow slip dress standing in warm volumetric sunlight next to a mirrored gold table with a bouquet of glitter-dusted yellow tulips. The camera smoothly transitions between sweeping shot of her applying the yellow lipstick in front of an ornate gold mirror, and extreme macro close-ups showcasing the crystal-clear acrylic lipstick container decorated with intricate gold floral engravings. Floating sparkling gold dust particles, magical glitter, and glowing ribbons of fluid liquid gold swirl smoothly around the product. The scene ends with a heroic hero shot of the yellow lipstick standing on a reflective gold mirror table surrounded by sparkling tulips. Photorealistic, 8K resolution, high-end beauty advertisement aesthetic, soft cinematic lighting, warm golden color palette, 35mm lens look, hyper-detailed, seamless 60fps motion.</code></pre>
+
+</details>
 
 ## Starbucks UGC coffee commercial storyboard
 

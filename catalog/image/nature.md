@@ -1,9 +1,44 @@
 # Nature image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+7 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic jungle chase on a giant blue lynx
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2084298829336051811)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [2208](https://imglume.com/prompt/2208)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/909a3849-d6d9-459c-aa93-6d1e63fb18b5/5c07d8ea-a5ae-4756-b075-5b532e47cb6c-1785844625824 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/909a3849-d6d9-459c-aa93-6d1e63fb18b5/3cd32a4b-9fa1-4b57-9e16-f8a0f3ce6bcb-1785844625824 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A woman tells the villagers: "Torrential waters are approaching; the ground is shaking beneath your feet."
+
+Run toward the mountains.
+
+She sprints through the tropical rainforest amidst a torrential downpour.
+
+Handheld camera shot; chaos.
+
+A torrent of water chases the woman, tearing through the jungle; rapid motion blur.
+
+A massive lynx—muscular, with long blue fur and long ears—runs through the tropical rainforest in the pouring rain.
+
+The woman mounts the giant lynx and rides it; the beast races toward the mountains, rapidly climbing to the summit while leaping great distances with the woman on its back.
+
+A shot of the blonde woman atop the giant lynx—with its long blue fur and honey-colored eyes—perched high on a cliff overlooking the rainforest; below, a massive flood rages, with giant torrents of water submerging the jungle, sweeping away exotic villages and engulfing elephants in the deluge.
+
+They gaze out at the scene from the top of the cliff.
+
+photorealistic cinematic scene of high-octane action.</code></pre>
+
+</details>
 
 ## Coffee, Sunflowers & Summer Dreams
 

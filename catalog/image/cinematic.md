@@ -1,9 +1,125 @@
 # Cinematic image prompts
 
-25 source-linked prompts, newest ImgLume records first.
+29 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hyper-realistic cinematic portrait of an ancient prophet with assault rifle on a burning battlefield
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2084489314256531599)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2218](https://imglume.com/prompt/2218)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca6fd233-6560-4550-93c7-594011df4be6/abe8c715-fff8-4fae-b1fe-0b4a9de5e53e-1785848883027 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A hyper-realistic cinematic portrait of a battle-worn ancient prophet seated calmly upon burning battlefield ruins, surrounded by towering flames, thick black smoke, glowing embers, and drifting ash. He has long dark wavy hair, a full rugged beard, weathered olive skin, and a solemn, unwavering expression. His head is slightly lowered, eyes filled with quiet determination and sorrow, illuminated by the inferno around him.
+
+He wears an ancient crimson-red robe over a worn beige tunic, both heavily stained with ash, soot, dirt, dried blood, burn marks, torn fabric, realistic folds, weathered textures, and centuries of wear. His bare feet rest naturally on broken rubble, cracked stone, spent shell casings, twisted metal debris, and burning wreckage.
+
+Across his lap rests an ultra-detailed modern military assault rifle with realistic steel construction, tactical optics, holographic sight, rail attachments, foregrip, magazine, worn Cerakote finish, carbon residue, scratches, chipped paint, engraved serial markings, metallic reflections, and battle damage. His hands gently cradle the rifle without aiming, symbolizing solemn resolve rather than aggression.
+
+The environment is an apocalyptic battlefield engulfed in towering flames, dense smoke columns, flying embers, glowing sparks, molten debris, collapsing ruins, burning vehicles in the far background, floating ash particles, atmospheric dust, cinematic heat distortion, and volumetric fire effects.
+
+Lighting is dramatic and cinematic, with intense orange firelight illuminating one side of the face, subtle cool ambient shadows balancing the opposite side, volumetric god rays piercing through smoke, realistic global illumination, physically accurate reflections, HDR dynamic range, ray-traced lighting, cinematic contrast, and deep shadow separation.
+
+The composition centers the ancient prophet in a commanding seated pose, framed symmetrically, with the rifle diagonally crossing the frame. The camera angle is slightly low, emphasizing dignity and presence while maintaining emotional intimacy. Background remains softly blurred through shallow depth of field, focusing attention entirely on the subject.
+
+Ultra-photorealistic skin textures with visible pores, subtle wrinkles, dirt accumulation, sweat, soot, natural facial hair strands, realistic cloth fibers, physically accurate metallic materials, cinematic smoke simulation, volumetric fog, atmospheric perspective, microscopic surface detail, film-grade color science, blockbuster movie realism.
+
+Masterpiece, award-winning cinematic photography, Unreal Engine 5 quality, Octane Render, Redshift Render, path tracing, global illumination, ray tracing, physically based rendering (PBR), ultra HDR, IMAX quality, Hollywood concept art, 16K resolution, hyperrealistic, ultra detailed, razor-sharp focus, museum-quality digital artwork.</code></pre>
+
+</details>
+
+## Cinematic jungle chase on a giant blue lynx
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2084298829336051811)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [2208](https://imglume.com/prompt/2208)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/909a3849-d6d9-459c-aa93-6d1e63fb18b5/5c07d8ea-a5ae-4756-b075-5b532e47cb6c-1785844625824 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/909a3849-d6d9-459c-aa93-6d1e63fb18b5/3cd32a4b-9fa1-4b57-9e16-f8a0f3ce6bcb-1785844625824 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A woman tells the villagers: "Torrential waters are approaching; the ground is shaking beneath your feet."
+
+Run toward the mountains.
+
+She sprints through the tropical rainforest amidst a torrential downpour.
+
+Handheld camera shot; chaos.
+
+A torrent of water chases the woman, tearing through the jungle; rapid motion blur.
+
+A massive lynx—muscular, with long blue fur and long ears—runs through the tropical rainforest in the pouring rain.
+
+The woman mounts the giant lynx and rides it; the beast races toward the mountains, rapidly climbing to the summit while leaping great distances with the woman on its back.
+
+A shot of the blonde woman atop the giant lynx—with its long blue fur and honey-colored eyes—perched high on a cliff overlooking the rainforest; below, a massive flood rages, with giant torrents of water submerging the jungle, sweeping away exotic villages and engulfing elephants in the deluge.
+
+They gaze out at the scene from the top of the cliff.
+
+photorealistic cinematic scene of high-octane action.</code></pre>
+
+</details>
+
+## Playful cinematic 3D portrait
+
+- **Original source:** [@kingofdairyque on X](https://x.com/kingofdairyque/status/2084309971253026966)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `cinematic`, `illustration-3d`
+- **ImgLume record:** [2173](https://imglume.com/prompt/2173)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/ed2d5404-9a3b-492f-a473-7b30ac054f94-1785810974246 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/2bc9924d-999b-4dc6-b956-2a0f61102e19-1785810974246 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/d8164ad8-460b-490f-a4aa-938454ed5fdb-1785810974246 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b1f6a03d-7b91-489d-9b44-766e61d367f9/4c44576d-8eff-49d9-a216-265200a4a091-1785810974246 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Playful cinematic 3D portrait of [CHARACTER], with exaggerated asymmetric features: one oversized oval eye, one smaller offset eye, an elongated face, a huge joyful smile, uneven rounded teeth, and tactile softly textured skin. Dress the character in [CLOTHING] and use [COLORS] across hair, and wardrobe, with [ANIMAL] beside the character, designed with similarly playful asymmetry. Set the scene in [SCENERY], using bold color blocking, rounded graphic shapes, soft directional lighting, shallow depth of field, and polished handcrafted 3D textures. Keep the expression energetic, the proportions comically elastic, and the composition clean and fun. 4:5 AR.</code></pre>
+
+</details>
+
+## Camel Caravan Cinematic Film Strip
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2084328010820284910)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2168](https://imglume.com/prompt/2168)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8e40600f-8e62-42f5-828b-a1b865296302/6c959999-a707-405a-8374-45bdafba2c44-1785804771545 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A horizontal cinematic film strip divided into 9 distinct panels in a single row, telling a story of a camel caravan journeying through the desert.
+
+Strict Style Consistency:
+
+Hyper-detailed desert landscape, orange and gold color palette, massive glowing sun, rolling sand dunes with rippled textures, warm atmospheric lighting, cinematic composition, 8k resolution.
+
+Panel Sequence:
+1. Dawn Departure: Camel caravan silhouetted against rising sun, long shadows on sand, footprints in foreground, orange sky.
+2. The Oasis: Camels drinking from river oasis, palm trees, golden water reflecting sun, lush green contrast.
+3. Climbing the Dune: Camel struggling up steep sand dune, rider guiding it, massive sun behind, dramatic angle.
+4. The Mirage: Shimmering heat waves creating illusion of distant city, caravan approaching, dreamlike atmosphere.
+5. Ancient Ruins: Stone pillars and arches half-buried in sand, caravan passing through, mysterious atmosphere.
+6. Sand Storm: Wall of orange sand approaching, camels huddled together, dramatic tension, wind-blown sand.
+7. Night Camp: Caravan resting around fire under starry sky, campfire glow, silhouettes against night desert.
+8. Sunrise Hope: First light of dawn illuminating dunes, caravan moving forward again, golden light.
+9. Destination: Caravan arriving at distant city with minarets, sun setting behind, journey complete.
+Unified aesthetic: orange-gold palette, massive sun, detailed sand textures, cinematic lighting</code></pre>
+
+</details>
 
 ## Cinematic illustration of dramatic motocross double jump
 

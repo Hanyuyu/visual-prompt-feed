@@ -1,9 +1,312 @@
 # Animation video prompts
 
-30 source-linked prompts, newest ImgLume records first.
+34 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## A Peaceful Winter Night in Finland
+
+- **Original source:** [@JuliaClarky on X](https://x.com/JuliaClarky/status/2084553574089199732)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2216](https://imglume.com/prompt/2216)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/84a3edeb-ab26-485b-bbe7-a833e63837e1/47844bbb-a9be-4f09-82c4-1b9349c6f9c4-1785848845218 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code># **🎬 Prompt: "A Peaceful Winter Night in Finland"** **Style:** Beautiful **Pixar/DreamWorks-quality 3D animation**, cute stylized cartoon characters, soft rounded features, expressive eyes, cozy Nordic aesthetics, magical realism, warm cinematic lighting, volumetric light, fluffy snow simulation, highly detailed stylized environments, ultra-smooth animation, whimsical atmosphere, 9:16 vertical, 60 seconds, no dialogue, no narration, no text. ## **Scene 1 — A Cozy Winter Morning (0:00–0:08)** The camera slowly glides through fluffy snow-covered pine trees toward a tiny colorful Scandinavian wooden cottage with a red roof, glowing warm yellow windows, flower boxes buried beneath snow, tiny lanterns hanging beside the wooden door, and smoke gently curling from the chimney. The entire village is covered in thick sparkling snow that glitters like tiny diamonds under the soft winter sunrise. Inside the cottage, a cute 3D animated girl with big expressive eyes, rosy cheeks, a cream oversized knitted sweater, fuzzy wool socks, and messy brown hair slowly stretches beneath a fluffy white blanket. A tiny orange kitten sleeps curled beside her pillow. Warm golden sunlight pours through the frosted window, creating beautiful god rays filled with floating dust particles. **Ambient Sounds** • Soft winter wind. • Birds chirping gently. • Fireplace crackling. • Cat purring. • Wooden floor softly creaking. • Coffee gently pouring. • Steam quietly rising. --- ## **Scene 2 — Outside the Cottage (0:08–0:16)** She puts on a fluffy white beanie with a pom-pom, wraps a long knitted scarf around her neck, slips into oversized winter boots, and opens the little wooden door. A wave of crisp winter air enters the room. Snowflakes gently swirl around her. She smiles with sparkling eyes. As she steps outside... **CRUNCH...** Her boots sink into soft untouched snow. Every footprint stays behind. Tiny sparkling snow particles float into the air. Nearby... A small red fox watches curiously. Two little birds land on a snowy fence. A squirrel jumps across a pine branch causing powder snow to fall like glitter. The camera follows beside her with smooth floating movement. --- ## **Scene 3 — Magical Finnish Forest (0:16–0:26)** She walks through a magical stylized Finnish pine forest. Everything feels peaceful. Tall rounded pine trees covered in fluffy snow. Tiny mushrooms hidden beneath snow. Frozen berries hanging from branches. A gentle rabbit hops across the path. A family of reindeer slowly walks through the distance. Sunlight filters beautifully through snowy branches. Snowflakes slowly spin as they fall. She reaches out... One snowflake lands on her mitten. She smiles. The camera circles around her slowly. --- ## **Scene 4 — Frozen Lake (0:26–0:38)** She reaches a huge frozen lake. The surface looks like polished crystal. Tiny snowflakes drift across the ice. She carefully walks onto the frozen lake. Every step echoes softly. She sits on a tiny wooden dock covered in snow. She removes her mittens. Wraps both hands around a steaming mug of hot chocolate. The steam dances softly in the cold air. She watches the peaceful sky. Nothing happens... Only silence... Only nature... --- ## **Scene 5 — Aurora Begins (0:38–0:50)** The wind suddenly becomes softer. The stars slowly appear. One tiny green light glows across the horizon. It slowly grows... The Northern Lights gently awaken. Long flowing ribbons of emerald green... Turquoise... Soft purple... Blue... The aurora dances gracefully across the entire sky like glowing silk floating underwater. Its magical light reflects across the frozen lake. Tiny glowing particles gently float around the girl. Her eyes become wide with wonder. She quietly smiles. The soft green light reflects beautifully inside her eyes. A gentle breeze moves her scarf. The camera slowly circles around her while revealing the enormous colorful sky. --- ## **Scene 6 — Ending (0:50–1:00)** The camera slowly rises higher. Higher... Higher... The girl becomes smaller while sitting peacefully beside the frozen lake. The cozy little cabin glows warmly in the distance. Snow continues falling slowly. The magical aurora fills the entire sky. The forest sparkles beneath soft moonlight. Everything feels calm. Everything feels safe. Everything feels like home. The final frame shows endless snowy Finland glowing beneath dancing Northern Lights before slowly fading into darkness. --- # **🌲 Layered Ambient Sounds** * Soft Arctic wind moving through pine trees * Gentle fluffy snow crunch beneath boots * Tiny birds chirping * Distant raven * Fox footsteps in snow * Squirrel jumping between branches * Powder snow falling from trees * Fireplace crackling * Cat purring * Hot chocolate pouring * Mug gently placed on wooden dock * Steam softly escaping * Frozen lake subtle ice creaks * Fabric rustling * Wool scarf fluttering * Calm breathing * Absolute silence during the aurora * Very soft wind while the Northern Lights dance --- **Visual Style Keywords:** Pixar-quality 3D animation, DreamWorks style, Disney-inspired cozy winter aesthetic, stylized Finnish village, fluffy snow physics, cinematic volumetric lighting, magical realism, expressive cartoon character, ultra-detailed environments, warm cozy color palette, emerald aurora borealis, whimsical atmosphere, slow cinematic camera, peaceful storytelling, premium animated short film.</code></pre>
+
+</details>
+
+## Multi-shot 7-shot cel animation of Tsubame vs Garan fight
+
+- **Original source:** [@Dani__oros on X](https://x.com/Dani__oros/status/2084474998459396477)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2209](https://imglume.com/prompt/2209)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fa2eb95b-5014-45ba-8af8-89f304140eb9/e7d7ebc9-99b5-4213-94fd-e3e76d48802b-1785844637055 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fa2eb95b-5014-45ba-8af8-89f304140eb9/0b063138-bd46-4c92-a362-9b986bdcf08d-1785844637055 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/fa2eb95b-5014-45ba-8af8-89f304140eb9/ce555693-21b1-4dbf-a589-bb1d26e52fb4-1785844637055 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Multi-shot (7 shots).
+TSUBAME (Spear Girl) — 17, lean and small, sharp jawline, short black bob with long straight bangs, fierce dark-teal eyes; sleeveless white gi top with teal trim, black shorts, bandaged forearms and shins, split-toe boots; carries a two-meter spear with a slim leaf-blade head — the spearhead and her motion trails read cyan.
+GARAN (Brawler) — huge, over two meters, slab-muscled, shaved head, heavy brow, small pale eyes; bare-chested with a cracked stone-grey harness strap, massive taped fists, canvas trousers, iron-shod boots. Every slab he rips from the floor glows ember-orange in its tear-lines, and orange dust light clings to his hands.
+
+Style: 2D hand-drawn cel animation, film-grade sakuga action. Clear line art, flat cel shading with hard shadow boundaries; non-photoreal — no pore-level skin, no 3D volumetric render feel. Fighter colors LOCKED: Tsubame = cyan (spear-tip glint, afterimage trails, speed-lines), Garan = ember-orange (molten glow in every floor tear, rubble rim-light). All glows two-tone — white-hot core, saturated colored rim, trailing dust and embers that linger after each impact. World: desaturated slate-grey shattered arena with a huge faded mosaic emblem in the floor, so both hues detonate off it. The nearest glow is the key light — cyan rim on her, orange bounce on him and the rock. Bold corner-to-corner diagonals on action; fast beats drawn as key poses, smear frames, and impact frames — never continuous legible travel. Real mass everywhere: slabs are tons, not props. Camera: animation camerawork — snap-zooms, speed-lines, orbits, held frames, hit-stops all allowed.
+
+⚠️This video has STRICTLY 7 shots — do not add extra shots.
+⚠️SPATIAL LAYOUT (MAIN VIEW = from the SOUTH side, top-down axis west–east; screen-left = west, screen-right = east): Tsubame starts at the west edge facing east (screen-right, toward Garan); Garan stands ~18m east of her, facing west (screen-left, toward her). Her vault path travels west→east, rising diagonally toward the upper frame as she climbs the airborne chunks. 180° LINE: camera stays on the south side all clip — Tsubame on screen-left, Garan on screen-right, no swapping.
+⚠️ACTION VECTORS: (V1, SHOT 2) Garan hurls a car-sized slab two-handed, east→west (screen right→left), at Tsubame's center mass — she slides flat under it; it detonates on the floor west of her. (V2, SHOT 3) Garan's right-arm sweep flings a fan of rubble east→west — she runs into it and vaults the chunks. (V4, SHOT 5) Garan's right backhand sweeps east→west at her head as she reaches the fourth chunk — she plants the spear in the chunk and corkscrews around the shaft past the fist; one shard grazes her LEFT cheek. (V5, SHOT 7) Tsubame's spear thrust travels west→east (screen left→right) through the center of his final slab into Garan's crossed-forearm guard at chest height — he is driven east, heels carving trenches.
+
+⚠️Continuity across cuts: designs, colors, and arena damage stay identical and only progress, never reset — the left-cheek cut appears in SHOT 5 and persists bleeding a thin line through SHOTS 6–7; rubble and craters only accumulate.
+
+[SHOT 1] · Anticipation (~2s): scale-wide, static with a slow drift — two tiny figures on the vast cracked mosaic. Garan RIPS a car-sized slab out of the floor, orange light flaring in the tear-lines, and shoulders it; across the arena Tsubame drops low, spear leveled flat, one toe carving the dust. Her breathing is even; his grin is wide.
+[SHOT 2] · The slab (~2s): low lateral tracking with her — the slab comes in huge, right→left; she slides flat under its shadow, back scraping sparks, and it detonates behind her in a wall of grey dust with an orange core. She's up and sprinting before the debris lands.
+[SHOT 3] · The scatter (~2.5s): Garan tears the floor again and sweeps his arm — a shotgun fan of rubble fills the air right→left. She doesn't brake; she accelerates INTO it, first vault off the lowest chunk, drawn as anticipation pose → smear → landing pose. Lunge-track, background streaking.
+[SHOT 4] · The staircase (~2.5s, the money shot): low hero-angle orbit rising with her — Tsubame vaults chunk to airborne chunk up the diagonal, each foot-plant cracking the stone she leaves, cyan afterimage stitching one unbroken line through his barrage. Below and ahead, Garan's eyes narrow — he's reading it.
+[SHOT 5] · The backhand (~1.5s, brief slow-mo): his colossal backhand fills the frame right→left — she plants the spear in the fourth chunk and corkscrews around the shaft, the fist parting her hair, a shard opening a thin cut on her left cheek. Blood beads. Snap back to full speed as her feet find the chunk's edge.
+[SHOT 6] · The gate (~1s): held extreme close-up, slow push-in — her eyes only, no blink, cyan spearhead light reflected across them, the cheek-cut's red line sharp against the cel shading. Behind her focus, blurred, Garan heaves the biggest slab of the fight overhead, orange light pouring through its cracks.
+[SHOT 7] · The pierce (~3.5s): he hurls the colossal slab — she dives spear-first off the top chunk, left→right, and PIERCES STRAIGHT THROUGH ITS CENTER: the slab splits into two halves that peel past the camera. All sound — music and SFX — drops dead silent for the half-beat of the pierce; one deep concussive boom resolves it as the spear-tip slams into his crossed-forearm guard. Hit-stop on the impact frame, FX touching all four edges, near-white color-out. Then motion resumes: Garan is driven backward, iron heels carving twin trenches, the floor cratering — and holds his feet. Camera whips with her dive, freezes on the hit-stop, then eases back to a wide: both standing, dust ring expanding, the exchange over but the fight not.
+
+Environmental activity: no bystanders — an empty ruined arena; dust motes and small debris rain steadily after every impact; distant rumble of settling stone.
+Audio: music allowed and scored to the fight; full SFX — stone shear, rubble whistle, the silence-drop and single boom on the pierce.
+The two fighters remain two distinct, separate bodies in every frame, even at full contact. Faces, hands, and designs stay on-model start to finish — five-fingered hands with clean articulation, correct limb topology, character designs identical shot to shot. The spear keeps its slim leaf-blade shape and full two-meter length in every frame. Rubble flies on heavy ballistic arcs with real tonnage — each chunk accelerates, hits hard, and stays down; her foot-plants grip and crack the stone they leave (the SHOT 5 slow-mo and SHOT 7 hit-stop are deliberate, intentional holds). Full fluid high-frame-feel animation with a living camera throughout; matte hand-drawn cel surfaces; color stays disciplined to the locked cyan/orange/slate palette. No watermark, no on-screen text, no subtitles.
+15 seconds. 16:9.</code></pre>
+
+</details>
+
+## Hand-painted fantasy animated love story between an elf and a human
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2084523346771714331)
+- **Recommended model:** `seedance`
+- **Source model(s):** `nanobanana`, `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2203](https://imglume.com/prompt/2203)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e96c2b21-f277-4644-bc19-9cbbc12cbc44/4235d5dd-b4e1-48cc-8dd5-12b172dae420-1785842495394 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>IMPORTANT CHARACTER CONSISTENCY LOCK:
+
+Use the provided character sheets as the ONLY reference.
+
+Maintain the exact same:
+
+faces
+hairstyles
+eye colors
+outfits
+accessories
+proportions
+animation style
+color palette
+
+Lyra, Kael, and all elves must look identical in every scene.
+
+Do NOT redesign characters between shots.
+
+The entire video must feel like one continuous animated feature film, not separate clips.
+
+STYLE
+
+Create a hand-painted fantasy animated movie inspired by the emotional storytelling of classic Japanese animation.
+
+Visual style:
+
+watercolor backgrounds
+expressive character animation
+soft cinematic lighting
+magical realism
+gentle camera movements
+emotional facial expressions
+smooth transitions between scenes
+**SCENE 1 — "The World Beyond The Trees" (0:00-0:20)
+
+Visual:
+
+Aerial shot over an endless enchanted forest.
+
+Ancient trees reach the sky.
+Glowing flowers bloom.
+Small magical spirits fly through the air.
+The camera slowly moves toward the elf kingdom.
+Lyra walks through the forest.
+
+She touches an ancient tree.
+
+The tree glows.
+
+Lyra (softly):
+ "The forest remembers everything... every soul that has ever walked beneath these trees."
+
+She looks toward distant mountains.
+
+Lyra:
+ "But there is one world we have never understood... the world of humans."
+**SCENE 2 — "The Boy Who Found Magic" (0:20-0:40)
+
+Visual:
+
+A quiet human village surrounded by mountains.
+Kael walks alone carrying his sketchbook.
+
+He draws landscapes.
+
+He discovers a mysterious glowing seed inside ancient ruins.
+
+He touches it.
+
+The magic awakens.
+
+Kael (whispering):
+ "What are you?"
+
+The seed projects a vision of the elf forest.
+
+Kael looks amazed.
+
+Kael:
+ "A world hidden from everyone..."
+
+The portal opens.
+**SCENE 3 — "The First Meeting" (0:40-1:00)
+
+Visual:
+
+Kael enters the elf kingdom.
+
+The elves surround him.
+Guardians hold their weapons.
+
+Lyra steps forward.
+
+Silence.
+
+They look at each other.
+
+A glowing leaf falls between them.
+
+Elf Guardian:
+ "A human cannot belong here."
+
+Lyra looks at Kael.
+
+Lyra:
+ "Then why did the forest bring him?"
+
+Kael shows the glowing seed.
+
+Kael:
+ "I didn't choose this place... it chose me."
+
+Lyra reaches toward the seed.
+
+The magic reacts.
+**SCENE 4 — "Two Worlds, One Heart" (1:00-1:25)
+
+Emotional Montage With Dialogue
+
+Lyra teaches Kael about the forest.
+Lyra:
+ "Every tree has a story. Every river has a memory."
+
+Kael smiles.
+
+Kael:
+ "Humans forget too easily... maybe that's why we need stories."
+Scenes:
+
+Walking through glowing forests
+
+Sharing food during an elf festival
+
+Drawing each other
+
+Watching stars beside a magical lake
+
+Flying above clouds
+
+Lyra looks at the human world through Kael's drawings.
+Lyra:
+ "Your world is beautiful."
+
+Kael smiles.
+
+Kael:
+ "Only because I finally have someone to share it with."
+**SCENE 5 — "The Rule Of The Elves" (1:25-1:45)
+
+The elf council discovers them.
+
+Dark clouds cover the forest.
+The ancient tree begins losing its light.
+The elder elf speaks:
+Elder:
+ "Humans live for moments. Elves live for centuries. These paths were never meant to meet."
+Kael looks at Lyra.
+
+Kael:
+ "Maybe some things are worth changing."
+
+Lyra holds back tears.
+Lyra:
+ "I spent hundreds of years searching for something magical... and it was a human heart that found me."
+
+The portal begins closing.
+**SCENE 6 — "The Choice" (1:45-2:00)
+The glowing seed reveals the truth.
+
+Humans and elves were once connected.
+
+Love was never forbidden.
+
+Fear created the separation.
+
+Lyra and Kael place their hands on the ancient tree.
+
+Silver and golden magic combine.
+
+The forest blooms.
+Humans and elves reunite.
+
+Final shot:
+
+Lyra and Kael stand beneath the ancient tree.
+Kael:
+ "Do you think our worlds will remember this?"
+
+Lyra smiles.
+
+Lyra:
+ "No... but the forest will."
+Camera rises above the magical kingdom.
+
+The silver and golden leaves fly into the sky.
+
+END TITLE:
+ "Some hearts are born between worlds."</code></pre>
+
+</details>
+
+## LEGO Brick Airport Stop-Motion Animation
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084250743138406624)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2174](https://imglume.com/prompt/2174)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a8d8c678-d7e0-4cf2-ad53-4fa9d600bc8b/002df87e-96fe-4243-92ff-e7e92d14e191-1785813079237 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming LEGO Brick stop-motion animation set in a bright, colorful LEGO world. Every object, character, and environment is built entirely from authentic LEGO bricks with realistic plastic textures, visible studs, satisfying brick physics, and handcrafted stop-motion movement. Feature vibrant primary colors, clean blue skies, fluffy LEGO clouds, and cinematic toy photography.
+
+The video begins with an empty green LEGO baseplate. Individual LEGO bricks suddenly slide, snap, and click perfectly into place, constructing a massive international airport from the ground up. The runway forms first, followed by taxiways, terminal buildings, glass entrance halls, jet bridges, control tower, parking garage, baggage belts, fuel trucks, luggage carts, airport signs, seating areas, security checkpoints, and colorful landscaping. Every structure assembles piece by piece with satisfying snapping sounds and seamless stop-motion animation.
+
+Once the airport is complete, LEGO construction vehicles continue adding final details. A yellow LEGO crane lifts roof sections into place while bulldozers, forklifts, and service trucks move around the airport with precise toy-like movements. Tiny LEGO workers wearing bright safety helmets celebrate each completed section with enthusiastic waves and high-fives.
+
+The airport comes alive as LEGO passengers arrive carrying tiny brick-built suitcases. Families check in at colorful counters, security staff guide travelers, baggage handlers load luggage carts, and airport workers drive service vehicles across the tarmac. Every LEGO minifigure has expressive printed faces and playful stop-motion animation.
+
+A large LEGO passenger airplane slowly rolls out from the hangar as ground crew carefully position stairs, fuel trucks, baggage carts, and catering vehicles. The aircraft doors close, the engines begin spinning, and colorful navigation lights illuminate. Air traffic controllers wave from the control tower while passengers watch excitedly through the terminal windows.
+
+The airplane begins taxiing down the runway before accelerating smoothly. As it reaches takeoff speed, it gracefully lifts into the air with realistic LEGO motion while the camera follows the aircraft soaring above the completed airport. Below, the busy terminal, parked aircraft, service vehicles, and bustling passengers continue moving naturally.
+
+The final hero shot reveals the entire fully constructed LEGO airport from a cinematic aerial angle. The airplane flies overhead while construction vehicles, passengers, and airport staff celebrate below. Bright sunlight reflects off the colorful LEGO bricks as fluffy LEGO clouds drift slowly across the sky.
+
+Style: LEGO Brick stop-motion animation, authentic LEGO plastic textures, visible studs, realistic brick snapping physics, handcrafted animation, colorful toy world, cinematic macro photography, vibrant lighting, satisfying assembly sequences, playful family-friendly storytelling, premium stop-motion quality, ultra-detailed LEGO environment, seamless construction effects, 4K, 16:9, no subtitles, no logos, no watermarks, no on-screen text.</code></pre>
+
+</details>
 
 ## The Shadow Quit
 

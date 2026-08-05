@@ -1,9 +1,36 @@
 # Product Ads image prompts
 
-10 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vibrant Premium Fashion Advertisement
+
+- **Original source:** [@Wareenaa on X](https://x.com/Wareenaa/status/2084600204821672431)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2241](https://imglume.com/prompt/2241)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/55f742a9-ffea-485b-8da2-7e4ae6b14e02/da31cc4c-0747-45d2-9933-4d61b1b6c746-1785865628814 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant, premium fashion advertisement featuring the exact same young woman from the reference image, preserving her identical identity, facial structure, fair skin, soft freckles across the cheeks and nose, expressive brown eyes, and short blunt purple bob haircut with soft bangs.
+
+She is shown in a waist-up fashion portrait against a seamless soft lavender-purple studio background. The scene is illuminated with bright, clean professional studio lighting that creates soft natural shadows and a fresh commercial atmosphere.
+
+She wears a stylish one-shoulder sleeveless top featuring bold diagonal stripes in yellow, black, and white, paired with elegant high-waisted white tailored trousers. Her accessories include chic white cat-eye sunglasses with lightly tinted lenses and simple small stud earrings.
+
+The character is posed in a modern shopping lifestyle scene with a slight head tilt while looking at a slim modern smartphone held at eye level. Her left arm is bent upward, holding bright orange and vibrant yellow paper shopping bags. Her right hand holds the smartphone while also carrying electric blue, vibrant yellow, and white shopping bags with twisted paper handles.
+
+The colorful shopping bags create a balanced composition around the model, emphasizing a luxury shopping experience. The smartphone appears sleek and modern with a minimalist design.
+
+The overall mood is cheerful, fashionable, energetic, and premium, with a clean commercial aesthetic. Rich saturated colors, crisp details, realistic fabric textures, natural skin tones, highly detailed hair strands, photorealistic lighting, HDR, shallow depth of field, luxury retail campaign, modern lifestyle advertising, magazine-quality fashion photography, ultra-realistic, masterpiece, best quality, 8K.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic Pepsi luxury commercial featuring East Asian woman
 

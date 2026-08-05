@@ -1,9 +1,171 @@
 # Food Drink video prompts
 
-24 source-linked prompts, newest ImgLume records first.
+27 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Mukbang Vlog in Traditional Hanok Courtyard
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2084565506649096271)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [2227](https://imglume.com/prompt/2227)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57f4a2ac-bb7c-4194-9829-09b0774555b1/e80a41ee-51b3-40a0-aa2e-3a0194c3b124-1785857219184 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, 8-shot handheld phone vlog, photorealistic home-video style. Slight handheld shake, natural framing, bright summer daylight, soft breeze, fine film grain.
+
+A woman (image) returns to the same traditional hanok courtyard restaurant for another summer meal. (Image) provides only her face and hairstyle; outfit: light beige linen short-sleeve shirt with shoulders fully covered, top button open, casual and relaxed. She remains seated on the same side facing the camera throughout. No other faces appear; only a server's hands enter the frame.
+
+The table holds a steaming bowl of handmade kimchi mandu, crispy potato jeon, small side dishes (kimchi, pickled radish), chilled barley tea, soy dipping sauce, chopsticks, spoon, napkin, and a small fan gently moving in the breeze. Traditional wooden beams, tiled roofs, green plants, and afternoon cicadas create a cozy summer atmosphere.
+
+Shots
+
+1. Server places the hot dishes on the table. Steam rises dramatically. She smiles with excitement and says: "이번엔 뜨거운 거!"
+
+2. Close-up as she breaks a kimchi dumpling in half with chopsticks. Steam pours out and the filling stretches slightly. She softly blows on it.
+
+3. First bite. Loud crispy wrapper followed by juicy filling. She widens her eyes and quietly says: "와... 육즙 미쳤다."
+
+4. She dips a piece of potato jeon into soy sauce and takes a crunchy bite. She gives a thumbs up while chewing naturally.
+
+5. She sips cold barley tea after the hot food and smiles with relief: "이 조합 최고다."
+
+6. Close-up of another dumpling dipped generously in sauce. She enjoys several satisfying bites with natural chewing sounds while nodding happily.
+
+7. She finishes the last bite, wipes her mouth with a napkin, leans toward the camera, and whispers: "다음엔 뭐 먹지?"
+
+8. She laughs softly, waves goodbye, and walks out through the peaceful hanok courtyard as leaves sway in the breeze and cicadas continue singing.
+
+Audio
+
+Natural Korean dialogue only where specified. Live ambient audio only: steaming food, crispy bites, chopsticks, dipping sauce, chewing, tea pouring, birds, cicadas, light wind, and courtyard ambience. No music, subtitles, logos, watermarks, exaggerated facial expressions, or duplicated reference image.</code></pre>
+
+</details>
+
+## McDonald's shift turns into a giant burger monster showdown
+
+- **Original source:** [@egeberkina on X](https://x.com/egeberkina/status/2084338448786235568)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2220](https://imglume.com/prompt/2220)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/20cb2d36-75fd-4aa5-a7bb-a6e1e05c399c/72a3cb08-060e-42ea-b13c-cdfdfbe3c735-1785853004575 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>100% real-life filmed texture, iPhone documentary look, handheld single take, natural lighting, subtle breathing camera movement, random autofocus hunting, slight rolling shutter, realistic motion blur, lens dirt on edges, grounded physics, practical VFX only, authentic crowd reactions.
+
+Environment
+
+A busy McDonald's parking lot during lunch hour. Cars constantly pulling in. Families walking out carrying trays. Employees moving between parked cars. The sound of traffic, birds, distant conversations and fryers from inside. Everything feels like a real viral phone video.
+
+Main Character
+
+Use Image1 as the exact character reference.
+
+A tired McDonald's employee steps outside for a short break holding a tray with a Big Mac and fries. They look exhausted after a long shift.
+
+30-Second Continuous Sequence
+
+The employee slowly walks through the parking lot looking for somewhere to sit. They sigh, adjusting their hat while balancing the tray. Customers pass by without noticing them.
+
+Suddenly the entire ground begins vibrating. Car alarms start going off. People stop walking. A deep rumbling grows louder beneath the asphalt.
+
+The pavement violently cracks apart.
+
+A gigantic greasy burger monster erupts from underground, built from enormous beef patties, dripping cheese, lettuce, onions and sesame buns. Melted cheese stretches everywhere as it rises several stories high.
+
+The parking lot instantly erupts into panic. Cars reverse into each other. People drop their food and sprint away. Shopping bags fly through the air.
+
+The burger monster roars and crushes a parked SUV with one massive bun-covered fist before ripping a light pole from the ground.
+
+The handheld camera desperately follows the destruction, shaking as debris lands nearby.
+
+The camera finally lands back on the employee.
+
+Everyone else is running.
+
+The employee barely reacts.
+
+They calmly look at the monster...
+
+...then at the fries.
+
+With complete confidence, they pick up a single french fry.
+
+The fry begins emitting a faint golden glow.
+
+The glow intensifies.
+
+Hundreds... then thousands... of glowing fries materialize around the employee, orbiting like a perfectly synchronized swarm, spinning faster and faster while casting warm reflections across nearby cars.
+
+Wind generated by the spinning fries blows clothing, trash and napkins across the parking lot.
+
+The employee slowly raises one eyebrow...
+
+...and snaps their fingers.
+
+Every fry instantly launches forward like precision-guided missiles.
+
+The sky fills with streaks of golden fries.
+
+They slam into the burger monster from every direction in a spectacular chain reaction.
+
+Explosions of sesame seeds, lettuce, pickles, onions and cheese erupt into the air.
+
+The monster completely disintegrates into a massive food explosion raining harmless ingredients across the parking lot.
+
+Silence.
+
+Customers cautiously emerge from hiding.
+
+One child quietly picks up a falling fry.
+
+The employee casually brushes sesame seeds off their shoulder, shrugs, takes a bite of the Big Mac, and continues eating as if nothing happened.
+
+McDonald's logo appears.</code></pre>
+
+</details>
+
+## Mukbang Vlog in Traditional Hanok
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2084502013971439965)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2198](https://imglume.com/prompt/2198)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1b1d3f9f-6bc4-464f-8a6d-fece95f3f678/c2520f86-b3ef-4dd2-be21-1aaa806ab1e5-1785840376836 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, 7-shot handheld phone vlog, photorealistic home-video style. Slight handheld shake, natural framing, bright summer daylight, fine film grain.
+
+A woman (image) eats mul-naengmyeon alone in a traditional hanok courtyard restaurant. (Image) provides only her face and hairstyle; outfit: pale mint linen short-sleeve shirt with shoulders fully covered, top button closed, loosely tucked. She remains seated on the same side facing the camera throughout. No other faces appear; only a server's hands enter the frame.
+
+The table holds an icy stainless-steel bowl of mul-naengmyeon (buckwheat noodles, slushy broth, egg, cucumber, pear, ice), a cold water pitcher, mustard, vinegar, napkin, and chopsticks. Hanok beams, tiled roofs, potted plants, dappled sunlight, and distant cicadas create a cool summer atmosphere.
+
+**Shots**
+1. Bowl is served. She smiles: "와 시원하겠다."
+2. Overhead: server cuts noodles with scissors.
+3. She slurps noodles, shivers: "으으 차가워~"
+4. Tastes broth with pear and egg: "Brain freeze, worth it."
+5. Pours water and drinks.
+6. Eats the egg, nods: "이 집 진짜 잘하네."
+7. Finishes, leans back with eyes closed as the breeze passes.
+
+Natural Korean dialogue only where specified. Live ambient audio only: bowl, scissors, broth, slurping, water pouring, cicadas, courtyard ambience. No music, subtitles, logos, watermarks, or duplicated reference image.</code></pre>
+
+</details>
 
 ## Vertical UGC-style grocery shopping vlog
 

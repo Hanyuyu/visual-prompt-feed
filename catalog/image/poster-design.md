@@ -1,9 +1,143 @@
 # Poster Design image prompts
 
-22 source-linked prompts, newest ImgLume records first.
+27 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Clean hand-drawn editorial illustration of urban lifestyle
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2084607199515726223)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2229](https://imglume.com/prompt/2229)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/493015e1-fedc-4562-99a3-1e9a6a36b8ce/8751bf50-209f-4459-9eda-97793a792e3a-1785861371434 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/493015e1-fedc-4562-99a3-1e9a6a36b8ce/3b9da707-020d-4044-8519-8c5dfd55b3ef-1785861371434 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform this photo into a clean, hand-drawn editorial illustration with a modern urban lifestyle aesthetic. Preserve the exact composition, pose, clothing, headphones around the neck, smartphone, motorcycle, yellow e-scooters, glass fence, and apartment buildings in the background. Use bold black outlines, simplified geometric shapes, minimal facial details, soft beige and cream tones, muted brick red, slate blue, charcoal black, and warm yellow accents. Apply a textured paper/grain finish with subtle ink scratches and brush imperfections. Flatten the lighting with gentle shadows, giving it a cozy Scandinavian-inspired illustrated poster look. Maintain a calm, everyday city atmosphere while keeping the proportions accurate and the character recognizable from the original photo. High-quality digital illustration, flat colors, vector-inspired, minimalistic, artistic, clean linework, textured print aesthetic, 4:5 aspect ratio.
+
+Negative prompt (optional):
+
+Photorealistic, 3D render, anime, watercolor, oil painting, excessive detail, hyper-realistic skin, blurry, distorted anatomy, extra limbs, messy lines, noisy background, oversaturated colors, text, logo, watermark, low quality.</code></pre>
+
+</details>
+
+## Ultra-premium Instagram campaign poster for Maersk
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2084490159702290468)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2222](https://imglume.com/prompt/2222)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2155308d-e0ec-41e7-88d9-fd35c91da59d/d5552fbf-689c-4bb1-91c7-cad81aa2e468-1785853027968 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2155308d-e0ec-41e7-88d9-fd35c91da59d/ae1e5e3d-bd88-49b8-ba86-c264622ca098-1785853027968 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2155308d-e0ec-41e7-88d9-fd35c91da59d/9f5e6d25-22b5-4255-a9f9-481ff9eef12c-1785853027968 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-premium Instagram social media campaign poster for Maersk that looks like an official global brand campaign designed by Pentagram, AKQA, or DesignStudio for Behance and Cannes Lions.
+
+Aspect ratio 4:5 vertical, 8K ultra-high resolution, hyper-realistic commercial advertising, premium editorial composition, Scandinavian minimalist design language, bold corporate branding, clean visual hierarchy, generous negative space.
+
+Scene: A massive modern Maersk logistics hub at sunrise. In the foreground, a pristine Maersk-blue electric container truck drives confidently toward the camera from a premium logistics terminal. The truck is loaded with an official Maersk shipping container featuring the authentic Maersk star logo and corporate blue livery. The vehicle is positioned in a dramatic front three-quarter perspective, becoming the visual hero of the composition.
+
+Behind it, a state-of-the-art container terminal is alive with activity. Giant ship-to-shore cranes lift containers with precision, automated guided vehicles move seamlessly through the yard, and neatly stacked Maersk containers create a strong geometric rhythm. In the distance, an enormous Maersk container vessel is docked at the terminal with hundreds of containers onboard. Above the horizon, a modern cargo aircraft climbs into the sky, completing the end-to-end logistics story from sea to air.
+
+Human presence adds life to the campaign: logistics managers in safety helmets reviewing operations on digital tablets, crane operators coordinating container movement, forklift operators transporting cargo, dock workers inspecting containers, all captured naturally without looking at the camera. Every action feels authentic, creating a living industrial ecosystem rather than a staged corporate photo.
+
+The environment is clean, engineered and premium, inspired by Scandinavian industrial architecture with polished concrete, glass control towers, organized container stacks, calm ocean water, crisp blue skies and subtle atmospheric haze. The entire logistics hub feels efficient, sustainable and technologically advanced.
+
+The composition is bold and highly graphic. Oversized white negative space balances the industrial scene. Massive editorial typography reading “MOVE THE WORLD.” integrates into the architecture, partially overlapping containers without hiding important subjects. Thin technical grid lines, subtle route graphics, coordinate markers and minimal logistics-inspired design elements reinforce Maersk's engineering precision. Large Maersk-blue geometric panels anchor the composition, creating a modern corporate visual system without clutter.
+
+Colour palette: authentic Maersk Blue (#42B0D5), pure white, soft concrete grey, steel grey, deep ocean blue with restrained safety yellow accents. Scandinavian minimalism, clean contrast, premium corporate aesthetic.
+
+Lighting: bright natural morning daylight, soft diffused sunlight, realistic reflections on painted metal, shipping containers, truck bodywork and glass architecture, crisp atmospheric depth, premium commercial automotive and industrial photography.
+
+Captured on a Phase One XF IQ4 150MP medium-format camera with a Schneider Kreuznach 55mm lens, ultra-high dynamic range, razor-sharp details, realistic container textures, steel surfaces, tyre rubber, glass reflections, painted metal, subtle wear, authentic industrial materials, natural human skin texture and premium color science.
+
+The final image should feel like the hero cover of a Behance case study for Maersk's global integrated logistics campaign—modern, bold, clean, highly designed, unmistakably premium, and instantly recognizable as an official Maersk social media advertisement.</code></pre>
+
+</details>
+
+## Editorial Typography Poster
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2084503517709119999)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2197](https://imglume.com/prompt/2197)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7b3e08b0-11b2-4b87-af60-bb064d28deec/5fbb60ed-a692-44a7-aaad-6c9c499ba86c-1785840367009 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7b3e08b0-11b2-4b87-af60-bb064d28deec/855fb23e-58f0-48b3-8a00-bb179fd8fd1d-1785840367009 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 9:16 editorial typography poster from a single human-centered lifestyle moment.
+
+Use oversized typography as the main composition structure. Let the person, movement, city space, or everyday scene appear inside the letters, pass through them, or break beyond their edges. The image should feel integrated with the type, not simply placed behind text.Theme: [Custom Title]
+Subject: [Subject Gender Or Origin]
+Human state: [Human State]
+Color palette: [Color Palette]
+Series: HUMAN FRAGMENTS
+Year: 2026</code></pre>
+
+</details>
+
+## Premium Travel Journal-Style Collage Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084296113302217152)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2193](https://imglume.com/prompt/2193)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b3f4648e-a8be-417a-876a-00353a1d58a0/ebf55af1-d235-44be-9a85-953479fcd641-1785832076182 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b3f4648e-a8be-417a-876a-00353a1d58a0/03dd0314-39fb-4b39-847b-5927f072d3d8-1785832076182 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b3f4648e-a8be-417a-876a-00353a1d58a0/1039df6f-6142-43d6-bb50-19de2a20529d-1785832076182 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium travel journal-style collage poster inspired by {LOCATION} on a clean off-white or textured paper background. Place a realistic hand holding a vertical travel pass or postcard at the center, featuring a vibrant landmark or iconic street scene with local architecture, transportation, and a warm cinematic sky. Design the lower section of the pass as an authentic local transit card or travel ticket. Surround the centerpiece with elegant black-and-white hand-drawn sketches, handwritten annotations, arrows, and labels showcasing famous landmarks, cultural symbols, native wildlife, traditional costumes, folk art, local cuisine, and iconic objects from the destination. Add bold serif titles reading "TRAVEL JOURNAL" and "{LOCATION}" at the top, with "{LOCATION}" at the bottom. Maintain a refined editorial layout with balanced spacing, realistic textures, vintage scrapbook aesthetics, high-detail line art, and a harmonious mix of monochrome illustrations and a single colorful focal point for a premium travel poster look. Aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Vertical 3:4 commercial campaign poster prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084347909945151630)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2189](https://imglume.com/prompt/2189)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/da356b6d-6dba-4fb0-9790-edc8ac0622b5/ae6beba7-108e-424d-bce9-1c63ae6cbcf6-1785827793987 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/da356b6d-6dba-4fb0-9790-edc8ac0622b5/45072f43-c150-4a14-9329-2cd12bfcbc78-1785827793987 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/da356b6d-6dba-4fb0-9790-edc8ac0622b5/94904bf8-dab6-4504-a3c8-060cc8909fac-1785827793987 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 3:4 commercial campaign poster for a fictional [Product Category] brand.
+
+Brand: [Brand Name]
+Product: [Product Name]
+Main word: [Main Word]
+Tagline: [Tagline]
+Color palette: [Color Palette]
+Model: [Model]
+Key features: [Feature 1], [Feature 2], [Feature 3], [Feature 4]
+
+Use oversized bold typography with a strong one-point or diagonal perspective. The main word must feel integrated into the scene as a giant wall, corridor, street, stage, or spatial structure, with clear depth and readable letterforms.
+
+Place the character near the center of the composition. The character must hold the product and extend that hand toward the camera, creating an exaggerated foreground and a strong 3D wide-angle effect. The product should be the closest, largest, and sharpest element, followed by the character in the midground and the giant typography in the background.
+
+Keep the product shape accurate, realistic, and clearly branded. Add appropriate details such as condensation, ice, bubbles, fruit, sauce, steam, or packaging elements, but keep them controlled and secondary.
+
+Include a complete campaign layout with brand name, feature icons, vertical side text, campaign number, release date, product details, barcode, and micro typography. Avoid a thick footer bar that covers the character; distribute the information across the lower corners and side margins.
+
+High-resolution commercial photography, realistic skin and materials, strong perspective, dynamic pose, polished brand design, high visual impact.</code></pre>
+
+</details>
 
 ## Bold surreal editorial portrait with translucent overlay
 
