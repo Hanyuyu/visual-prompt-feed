@@ -1,9 +1,144 @@
 # Animation video prompts
 
-34 source-linked prompts, newest ImgLume records first.
+40 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30‑second stylized 3D animated short – Beggar and Crow
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2084900750690279501)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2291](https://imglume.com/prompt/2291)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/73921a4a-1c47-4caf-87a5-40f39801342a/cdde507a-1300-4ee0-b393-bb44e7dc8140-1785935308471 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second stylized 3D animated short with appealing rounded character design, expressive facial animation, tactile materials, warm cinematic lighting, playful physical comedy, and sincere emotion. No dialogue, subtitles, logos, or readable text.
+
+[0–5s — The Street]
+Frontal wide shot across a busy sidewalk: a weary, kind-eyed middle-aged beggar sits on the ground against an old stone wall, wearing the same patched coat and knitted cap throughout. A shallow donation plate rests in front of him. Pedestrians repeatedly cross between the camera and the beggar, briefly hiding him and emphasizing that he is overlooked. After one foreground passerby fills the frame, cut upward to a glossy black crow watching from a nearby tree branch, its head tilting with alert curiosity.
+[5–12s — Kindness]
+Return to the same frontal geography. A pedestrian takes the final bite from a half-eaten sandwich, pauses, and gently places the remaining half beside the beggar’s plate. Hold on the beggar’s grateful expression. The crow glides down and lands beside him. In a closer shared frame, the hungry beggar breaks off a piece of sandwich and offers it on his open palm. The crow cautiously takes it; their eyes meet, establishing trust.
+
+[12–16s — The Theft]
+A different passerby drops a paper banknote into the plate. Brief insert as it lands. The beggar’s shoulders lift, his tired face brightens, and he smiles with relief. Cut to the crow noticing this reaction. It snaps its head toward the plate, hops forward, grabs the same banknote in its beak, and launches away. The beggar freezes for one comic beat, then springs up and gives chase.
+[16–25s — The Chase]
+Accelerate through a clear, energetic multi-cut pursuit while preserving the crow’s route and the beggar’s direction of travel. The crow flies low between pedestrians; the beggar dodges around them, nearly collides with a fruit cart, regains balance, and keeps running. Lateral tracking through narrow streets between tall buildings; foreground bodies and street objects create fast parallax. The crow darts over the hood of a moving car at the last instant; the beggar skids past behind it as the driver brakes safely. Follow the banknote as the causal visual anchor, always secured in the crow’s beak. Alternate wide geography, close near-misses, and restrained handheld chase views. The crow finally turns into a quiet hidden courtyard and rises toward a wooden treehouse built inside a huge old tree.
+
+[25–30s — The Gift]
+The beggar follows up a rough wooden ladder and cautiously enters the small treehouse. Shift from frantic motion into stillness. Over his shoulder, reveal shelves and nests filled with many glittering found treasures: coins, paper money, rings, necklaces, brooches, watches, and polished trinkets. Warm golden shafts of light illuminate the collection. The beggar’s amazement slowly becomes an emotional smile as he realizes the crow deliberately led him here. The crow places the stolen banknote neatly on the treasure pile, turns toward him, and gives a mischievous, affectionate smile. End on a gentle two-shot of the unlikely friends beside the glowing treasure, with the crow nudging one small golden ring toward the beggar.
+
+Keep exactly one beggar, one crow, one sandwich, one donation plate, and the same stolen banknote throughout. Preserve clothing, character proportions, prop ownership, daylight direction, travel direction, and treehouse layout. Use expressive but believable body weight, cloth movement, wingbeats, landings, foot contact, traffic motion, and object interactions.
+
+Audio: lively city ambience, footsteps, cloth and paper rustle, soft crow calls, wingbeats, comic percussion during the theft, rapidly building orchestral rhythm through the chase, then warm strings and delicate piano for the final reveal.</code></pre>
+
+</details>
+
+## Metamorphosis Prompt
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2084697038457917578)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2290](https://imglume.com/prompt/2290)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/27bf554f-d870-4324-b839-17b9a9f52f09/dd97093c-f0fc-4f69-9d83-f416e4b923a1-1785935301360 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/27bf554f-d870-4324-b839-17b9a9f52f09/cd23ada8-21e8-45eb-a78d-94dcc999984c-1785935301360 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Metamorphosis PROMPT:
+
+Scene start:
+
+Begins with the reference image.
+
+This being, in profile, turns and looks at the camera, relaxed yet haughty, and speaks an unintelligible language.
+
+Scene development:
+
+The being transforms organically and fluidly into this creature with high detail. Horns grow; the transformation is gradual.
+
+This creature transforms into this creature fluidly with metamorphosis.
+
+Scene end:
+
+This creature looks at the camera and breathes fire.</code></pre>
+
+</details>
+
+## Luxury Dark Modern Mansion UI Interaction Video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2084615159692362062)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `animation`, `architecture`
+- **ImgLume record:** [2261](https://imglume.com/prompt/2261)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dec0c800-4393-4fc0-97f8-020325c2f539/0f2f2d34-c437-40ce-8a20-d79f0a08c3b7-1785903390339 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dec0c800-4393-4fc0-97f8-020325c2f539/0d801b2d-a318-45e8-8e26-4873797be5ca-1785903390339 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard as the exact reference for sequence, composition, pacing and timing. Duration: 10 seconds. Aspect Ratio: 16:9. Camera: completely static front camera, no movement, zoom, pan, tilt or rotation. Environment: pure black minimalist background with a glossy reflective floor. Scene: from the first frame, the luxury dark modern mansion from the reference is already fully built and centered. UI: at 1.0 second, two premium glassmorphism interfaces smoothly slide in from the left and right. Left interface: displays only large interior preview cards (living room, kitchen, bedroom, bathroom, office, luxury lounge), no text, icons or buttons, subtle floating animation. Right interface: displays large cards of available house designs (Luxury Dark Modern Mansion, Luxury Black A-frame Cabin, Curved Contemporary Villa, Minimalist Forest Residence), no text or icons, selected card receives an elegant glow animation. Hand: realistic male right hand from first-person perspective wearing a black smartwatch, interacting only with the right interface using smooth premium finger movements, each tap creating elegant glass ripples, soft glow and floating particles. Timeline: 0.0–1.0s the completed mansion stands with warm interior lights and no interfaces; 1.0–2.0s both interfaces slide in and settle with floating animation; 2.0–3.0s the hand taps the second house (Luxury Black A-frame Cabin); 3.0–4.0s the mansion elegantly disassembles into architectural modules and particles; 4.0–5.5s the A-frame cabin assembles realistically from foundation to final details; 5.5–6.5s the cabin remains complete and stable; 6.5–7.0s the hand taps the third house (Curved Contemporary Villa); 7.0–8.0s the A-frame cabin disassembles; 8.0–9.5s the curved villa assembles from foundation to completed architecture with landscape, waterfall, garage vehicle and lighting; 9.5–10.0s the villa stands fully completed while both interfaces continue floating and the hand slowly exits. Assembly style: every building is constructed realistically from thousands of architectural components in logical order including foundation, columns, structural frame, floors, walls, glass, doors, roof, facade materials, landscape and lighting. Animation: elegant architectural construction with mechanical precision, glowing guide lines, soft particles, premium assembly effects, smooth transitions and luxury product presentation. Quality: ultra realistic, luxury architectural visualization, photorealistic materials, HDR, 8K, premium cinematic lighting, perfect reflections and high-end rendering. Negative Prompt: camera movement, camera shake, text, labels, logos, icons, low quality, flickering, duplicated hands, deformed fingers, unstable UI, blurry textures, unfinished geometry, artifacts, incorrect construction order, unrealistic materials.</code></pre>
+
+</details>
+
+## Visualising voiceover with Seedance 2.5
+
+- **Original source:** [@pzf_ai on X](https://x.com/pzf_ai/status/2084617506941960646)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2252](https://imglume.com/prompt/2252)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1295508b-e8fb-4847-a3b2-0d3e94b083f2/7f805af0-cdb7-4273-b45c-21ac34377ad2-1785884471039 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use [image1] as the start of the video. She is speaking to an unseen person off camera. She says: "So I go to see this flat. Top floor, rent's half what it should be, and the agent won't come up the stairs with me." Then cut to the voice only of the woman from [image1] as she continues to talk as a voiceover only. As she talks, her words are visualised as a story in the same visual style. The voiceover is: "First room: shoes. Hundreds of pairs, all facing the door, laces done up. Second room's got rain in it. Indoor rain, proper raincloud pouring raindrops all over the carpet. Third room, there's a window looking out onto a beach in full summer. It was February." Illustrate the voiceover sequence to tell the story visually. Then cut back to [image1] and she says with a smile: "Anyway. I signed the lease that afternoon."</code></pre>
+
+</details>
+
+## Studio Ghibli-inspired cinematic cooking animation of grilled chicken shawarma wrap and mint-lime soda
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2084649816920146182)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [2250](https://imglume.com/prompt/2250)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c393b735-9245-4ff8-b931-ce240437c19c/9fa2f3ab-12e0-42c1-b542-ae128efdaec0-1785880275449 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious grilled chicken shawarma wrap and refreshing mint-lime soda being prepared step by step. Begin with slicing juicy shawarma meat on a vertical rotisserie, cutting fresh limes, adding ice, mint, and sparkling soda to a chilled glass, then assembling a warm tortilla with grilled chicken, lettuce, tomatoes, onions, purple cabbage, and creamy garlic sauce before rolling it into a perfect wrap. Finish with garnishing the drink with mint and lime, showcasing fizzy bubbles and the final plated meal on a rustic wooden counter in warm golden lighting, with highly detailed food, smooth camera movements, soft depth of field, and a magical hand-painted Ghibli aesthetic.</code></pre>
+
+</details>
+
+## Black-and-white 2D line-art slapstick animation of a girl trapped in a jar
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2084564342520123507)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2248](https://imglume.com/prompt/2248)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c08a9103-7506-40ca-a75a-eb1ba0af3ddc/b9834317-6d14-407f-a4be-5326dc3a6bba-1785871962278 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A funny black-and-white 2D line-art animation of a chubby girl with long hair eagerly opening a glass jar filled with cupcakes and wrapped candies. She reaches inside, but her hand gets stuck in the narrow neck of the jar. Refusing to let go, she stubbornly puts her other hand in to grab more treats, only to get both hands trapped. After pulling with all her strength, she accidentally flips the jar over her head, leaving it stuck on her face with a cupcake in her mouth and stars circling her head. Realizing the jar is now upside down, she tilts it back, causing all the cupcakes and candies to pour into her mouth and lap. She happily enjoys the unexpected feast with puffed cheeks in a playful, slapstick cartoon style with expressive squash-and-stretch animation.</code></pre>
+
+</details>
 
 ## A Peaceful Winter Night in Finland
 
@@ -22,7 +157,7 @@ their original authors. ImgLume curation is CC BY 4.0.
 
 </details>
 
-## Multi-shot 7-shot cel animation of Tsubame vs Garan fight
+## Multi-shot 7-shot 2D cel animation battle between Tsubame and Garan
 
 - **Original source:** [@Dani__oros on X](https://x.com/Dani__oros/status/2084474998459396477)
 - **Recommended model:** `seedance`
@@ -57,6 +192,7 @@ Style: 2D hand-drawn cel animation, film-grade sakuga action. Clear line art, fl
 
 Environmental activity: no bystanders — an empty ruined arena; dust motes and small debris rain steadily after every impact; distant rumble of settling stone.
 Audio: music allowed and scored to the fight; full SFX — stone shear, rubble whistle, the silence-drop and single boom on the pierce.
+
 The two fighters remain two distinct, separate bodies in every frame, even at full contact. Faces, hands, and designs stay on-model start to finish — five-fingered hands with clean articulation, correct limb topology, character designs identical shot to shot. The spear keeps its slim leaf-blade shape and full two-meter length in every frame. Rubble flies on heavy ballistic arcs with real tonnage — each chunk accelerates, hits hard, and stays down; her foot-plants grip and crack the stone they leave (the SHOT 5 slow-mo and SHOT 7 hit-stop are deliberate, intentional holds). Full fluid high-frame-feel animation with a living camera throughout; matte hand-drawn cel surfaces; color stays disciplined to the locked cyan/orange/slate palette. No watermark, no on-screen text, no subtitles.
 15 seconds. 16:9.</code></pre>
 

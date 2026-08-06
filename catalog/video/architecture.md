@@ -1,9 +1,26 @@
 # Architecture video prompts
 
-3 source-linked prompts, newest ImgLume records first.
+4 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxury Dark Modern Mansion UI Interaction Video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2084615159692362062)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `animation`, `architecture`
+- **ImgLume record:** [2261](https://imglume.com/prompt/2261)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dec0c800-4393-4fc0-97f8-020325c2f539/0f2f2d34-c437-40ce-8a20-d79f0a08c3b7-1785903390339 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dec0c800-4393-4fc0-97f8-020325c2f539/0d801b2d-a318-45e8-8e26-4873797be5ca-1785903390339 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard as the exact reference for sequence, composition, pacing and timing. Duration: 10 seconds. Aspect Ratio: 16:9. Camera: completely static front camera, no movement, zoom, pan, tilt or rotation. Environment: pure black minimalist background with a glossy reflective floor. Scene: from the first frame, the luxury dark modern mansion from the reference is already fully built and centered. UI: at 1.0 second, two premium glassmorphism interfaces smoothly slide in from the left and right. Left interface: displays only large interior preview cards (living room, kitchen, bedroom, bathroom, office, luxury lounge), no text, icons or buttons, subtle floating animation. Right interface: displays large cards of available house designs (Luxury Dark Modern Mansion, Luxury Black A-frame Cabin, Curved Contemporary Villa, Minimalist Forest Residence), no text or icons, selected card receives an elegant glow animation. Hand: realistic male right hand from first-person perspective wearing a black smartwatch, interacting only with the right interface using smooth premium finger movements, each tap creating elegant glass ripples, soft glow and floating particles. Timeline: 0.0–1.0s the completed mansion stands with warm interior lights and no interfaces; 1.0–2.0s both interfaces slide in and settle with floating animation; 2.0–3.0s the hand taps the second house (Luxury Black A-frame Cabin); 3.0–4.0s the mansion elegantly disassembles into architectural modules and particles; 4.0–5.5s the A-frame cabin assembles realistically from foundation to final details; 5.5–6.5s the cabin remains complete and stable; 6.5–7.0s the hand taps the third house (Curved Contemporary Villa); 7.0–8.0s the A-frame cabin disassembles; 8.0–9.5s the curved villa assembles from foundation to completed architecture with landscape, waterfall, garage vehicle and lighting; 9.5–10.0s the villa stands fully completed while both interfaces continue floating and the hand slowly exits. Assembly style: every building is constructed realistically from thousands of architectural components in logical order including foundation, columns, structural frame, floors, walls, glass, doors, roof, facade materials, landscape and lighting. Animation: elegant architectural construction with mechanical precision, glowing guide lines, soft particles, premium assembly effects, smooth transitions and luxury product presentation. Quality: ultra realistic, luxury architectural visualization, photorealistic materials, HDR, 8K, premium cinematic lighting, perfect reflections and high-end rendering. Negative Prompt: camera movement, camera shake, text, labels, logos, icons, low quality, flickering, duplicated hands, deformed fingers, unstable UI, blurry textures, unfinished geometry, artifacts, incorrect construction order, unrealistic materials.</code></pre>
+
+</details>
 
 ## Cinematic architectural presentation of SAHARA DUNE METROPOLIS
 

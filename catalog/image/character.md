@@ -1,9 +1,133 @@
 # Character image prompts
 
-47 source-linked prompts, newest ImgLume records first.
+52 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-detailed sci-fi anime character sheet for hero shooter "SUGAR POP"
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2084943718042448060)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2307](https://imglume.com/prompt/2307)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ceb4802b-ae42-4c25-9839-4b9566c099c9/9d58b966-8086-460f-bc7a-79f8fb48d006-1785949582823 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ceb4802b-ae42-4c25-9839-4b9566c099c9/14841bfe-99fa-45de-bb22-c1c46c651eb3-1785949582823 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>1️⃣character sheet:
+
+Ultra-detailed 16:9 sci-fi anime character design sheet, official hero shooter game character bible, clean premium editorial layout, minimalist white background.
+
+Character name "SUGAR POP", title "Candy Defender", subtitle "A hyper-energetic defender armed with oversized dessert-powered weaponry."
+
+Left section features a full-body hero illustration of a petite anime girl with short bubblegum-pink hair in candy-bun twin tails, bright cyan eyes, oversized colorful candy headphones with antennae, wearing futuristic white powered armor covered in glossy candy buttons, sprinkles, frosting textures, donut-like armor joints, cropped black inner suit, chunky mechanical boots, oversized gauntlets and playful candy-themed mechanical details. She holds a gigantic candy cannon resembling a frosted dessert blaster with striped barrel, dripping neon syrup, colorful plastic components and toy-like sci-fi engineering.
+
+Center section includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, armor proportions and equipment, neutral pose for production reference.
+
+Right section contains large equipment breakdown panels including the oversized candy cannon, circular candy-powered backpack energy core (front and side), close-up head profile, shoulder armor detail, torso armor detail and leg armor detail.
+
+Top left includes a vibrant color palette featuring bubblegum pink, orange, cyan, lime green, cream, lavender and chocolate brown.
+
+Style: official stylized hero shooter concept art, Overwatch 2, VALORANT skin design, Zenless Zone Zero, NIKKE, colorful sci-fi anime, premium AAA game artbook, glossy hard-surface mechanical design, candycore aesthetic, toy-inspired industrial design, highly detailed production-ready character sheet, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.</code></pre>
+
+</details>
+
+## Realistic premium caricature portrait prompt
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2084820646710943802)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2306](https://imglume.com/prompt/2306)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/46723c43-2b69-486a-8458-c051276f692d/864a4c1e-e1de-4021-bab2-aab620ab599a-1785947903343 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/46723c43-2b69-486a-8458-c051276f692d/8f6c4c76-704f-4541-9a89-c961ba58ec2f-1785947903343 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/46723c43-2b69-486a-8458-c051276f692d/9338ec8f-0465-4676-9148-b81e555923f7-1785947903343 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/46723c43-2b69-486a-8458-c051276f692d/fa6cb137-5a03-4a7c-8bdc-ba65bef5d828-1785947903343 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic premium caricature portrait of [NAME], instantly recognizable, with subtly exaggerated [FACIAL FEATURES], expressive [EXPRESSION], realistic skin texture, detailed hair, wearing [OUTFIT / ACCESSORY], posing with [POSE / ATTITUDE], cinematic studio lighting, editorial celebrity photography style, shallow depth of field, refined proportions, humorous but elegant likeness, ultra-detailed face, sharp focus, 4k, premium color grading</code></pre>
+
+</details>
+
+## Museum-quality contemporary mixed-media portrait
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2084932177398247737)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2293](https://imglume.com/prompt/2293)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/82fc787d-53e7-42d9-8c8d-0ae1f25e3fc6/5910cdad-b421-4fa3-a751-46517494858a-1785936974986 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/82fc787d-53e7-42d9-8c8d-0ae1f25e3fc6/a5c1c69d-9ee5-4f0d-91b4-ecaa27893fc6-1785936974986 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/82fc787d-53e7-42d9-8c8d-0ae1f25e3fc6/b5af52e0-6742-48bc-84a2-5da6c152c142-1785936974986 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A museum-quality contemporary mixed-media portrait style that seamlessly merges expressive digital oil painting, abstract expressionism, cinematic concept art, and urban fine-art aesthetics. The artwork is built entirely through richly layered acrylic and oil-like brushwork, where bold directional strokes, palette-knife textures, dry-brush marks, translucent paint washes, scratched pigment, and exposed canvas textures work together to create a handcrafted fine-art appearance. Every surface retains visible painterly texture, avoiding photographic smoothness while preserving convincing semi-realistic anatomy.
+The composition balances refined realism with expressive abstraction. The primary subject is rendered with sophisticated painterly modeling using multiple semi-opaque paint layers, while surrounding areas dissolve into energetic abstract fragments composed of gestural brushstrokes, broken color fields, expressive ink splashes, pigment drips, weathered erosion, distressed paint surfaces, and spontaneous artistic imperfections. Crisp focal details gradually transition into loose painterly passages, creating a natural visual rhythm.
+Expressive black ink calligraphic lines, charcoal sketch marks, graphite scribbles, and freehand construction strokes are subtly integrated throughout the composition, enhancing depth without dominating the painting. Fragmented geometric shapes—including soft-edged rectangles, irregular blocks, fractured polygons, and minimal angular forms—blend organically into the background as structural design elements rather than decorative overlays.
+The color palette is sophisticated and intentionally restrained, dominated by cool slate gray, blue-gray, smoky navy, charcoal, graphite, muted teal, steel blue, and soft ash tones, harmonized with warm ivory, cream, sandstone, light ochre, muted beige, dusty peach, warm skin tones, burnt sienna, raw umber, and soft mauve undertones. Carefully controlled accent colors of muted crimson, scarlet, coral-orange, salmon, and burnt orange appear selectively as expressive paint splashes, layered pigment, and abstract highlights, creating elegant visual energy without overwhelming the composition.
+Lighting is cinematic and atmospheric, featuring soft diffused illumination with subtle volumetric depth, warm facial highlights, cool environmental shadows, and gentle transitions achieved entirely through layered paint application rather than digital gradients. Matte pigments, opaque paint masses, translucent glazing, and rich surface textures produce exceptional dimensionality while preserving a handcrafted gallery-quality finish.
+The background consists of a minimalist abstract painterly environment composed of layered neutral paint fields, weathered canvas textures, faded brush marks, dry-brush effects, scratched surfaces, subtle paint drips, pigment splashes, distressed erosion, translucent washes, and expressive negative space. The backdrop remains understated, allowing the subject to emerge naturally while maintaining a premium editorial fine-art aesthetic.
+Ultra-detailed contemporary fine-art painting, expressive mixed-media craftsmanship, impressionistic realism, handcrafted acrylic-and-oil finish, editorial gallery aesthetic, sophisticated abstract expressionism, textured canvas surface, visible brush direction, layered pigments, elegant controlled chaos, premium museum-quality illustration, cinematic atmosphere, refined realism merged with expressive abstraction, no comic outlines, no cel shading, no glossy CGI, no artificial rendering.
+
+Aspect Ratio: 9:16 (Vertical)
+Negative Prompt: photorealistic rendering, 3D CGI, plastic surfaces, anime, cartoon, vector graphics, smooth gradients, glossy finish, flat colors, oversaturated neon colors, excessive geometric patterns, typography, logo, watermark, signature, frame, low detail, blurry, noise, compression artifacts.</code></pre>
+
+</details>
+
+## Cute watercolor anime portrait of a smiling young girl
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2084673313230778654)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [2266](https://imglume.com/prompt/2266)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/86ba7363-3e72-4e28-9b38-6e303eb091d5/63309d52-a3da-46de-9254-e5075b3a3af3-1785915950193 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/86ba7363-3e72-4e28-9b38-6e303eb091d5/5aa6c15b-c742-4d0c-932a-fc9a74c09644-1785915950193 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cute watercolor anime portrait of a smiling young girl with shoulder-length black hair, wearing a bright yellow bucket hat with embroidered lettering, visible braces, rosy cheeks, tiny gold necklace, oversized charcoal-gray T-shirt, soft expressive eyes, minimalist facial features, delicate black ink outlines, hand-painted watercolor texture, pastel color palette, clean white background with a tiny hand-drawn heart doodle, cozy Korean webtoon aesthetic, children's storybook illustration, soft paper grain, warm lighting, adorable expression, subtle blush, loose sketch lines, high-detail watercolor wash, whimsical and charming, slice-of-life illustration, Studio Ghibli-inspired warmth, modern Japanese illustration style, editorial character design, 8K.</code></pre>
+
+</details>
+
+## Premium Soft Anime 4-Panel Collage of Character in Café Setting
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2084623226773418026)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [2264](https://imglume.com/prompt/2264)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9b7e8b33-2bdf-4509-b905-ebb7473a5691/c7ab0bd0-a07c-4eed-a5dd-e2722ee44ca8-1785907806351 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the image into a premium soft anime illustration inspired by modern cinematic anime artwork. Maintain my exact identity while converting it into a beautifully hand-painted anime character with clean line art, soft gradients, expressive eyes, warm blush, smooth shading, and a dreamy aesthetic.
+
+Create a 4-panel collage with four different poses:
+1. Standing beside a flower-covered doorway while gently peeking around the wall with a sweet smile.
+2. Leaning on a cozy window surrounded by blooming flowers, resting the chin on one hand.
+3. Sitting on outdoor stone steps with one hand supporting the face, relaxed and smiling.
+4. Sitting on a wooden bench making a peace sign with a playful wink.
+
+Outfit: oversized white T-shirt, loose dark navy wide-leg jeans, pastel blue-and-white sneakers, minimal gold necklace and bracelet.
+
+Environment: charming café courtyard, wooden windows, climbing vines, colorful flowers, warm hanging lights, golden hour sunlight, soft bokeh, cozy romantic atmosphere.
+
+Style: ultra-detailed anime illustration, Studio Ghibli-inspired warmth, Makoto Shinkai-inspired lighting, cinematic composition, soft pastel colors, dreamy mood, high detail, 8K quality.
+
+Add subtle hand-drawn white doodle hearts, sparkles, and cute accent lines around each frame.
+
+No text, no watermark, no logo, no extra people, no face alteration.</code></pre>
+
+</details>
 
 ## Contemporary expressive fine-art portrait illustration
 

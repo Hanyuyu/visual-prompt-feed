@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "food-drink",
   "label": "Food Drink",
-  "count": 36,
+  "count": 39,
   "mediaTypes": {
-    "image": 9,
-    "video": 27
+    "image": 10,
+    "video": 29
   },
   "ids": [
     "byradar:2081057085077459251:0",
@@ -44,6 +44,9 @@
     "byradar:2084264050717045019:0",
     "byradar:2084502013971439965:0",
     "byradar:2084338448786235568:0",
-    "byradar:2084565506649096271:0"
+    "byradar:2084565506649096271:0",
+    "byradar:2084649816920146182:0",
+    "byradar:2084852008448905417:0",
+    "byradar:2084951678726341076:0"
   ]
 }

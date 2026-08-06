@@ -1,9 +1,85 @@
 # Cinematic image prompts
 
-29 source-linked prompts, newest ImgLume records first.
+32 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-fashion cinematic action sequence with blonde model in white power suit
+
+- **Original source:** [@theanu_Sayss on X](https://x.com/theanu_Sayss/status/2084933092448637372)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2282](https://imglume.com/prompt/2282)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ceb6cd97-c8cc-48a6-bb29-da9bc2d4484f/a7441b7f-5677-4b78-b7a5-7538a74222df-1785931093630 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-fashion cinematic action sequence inspired by the storyboard. A confident blonde female model wearing a sharp white tailored power suit with a long flowing coat, black futuristic sunglasses, and minimal luxury styling walks through a burning industrial environment.
+Shot 1 — Extreme Close-Up: Tight close-up of her face. Black sunglasses dominate the frame, with intense flames reflected in the lenses. Wind moves strands of blonde hair. She has a calm, fearless expression. Warm orange firelight, dramatic shadows, subtle analog film grain.
+Shot 2 — Hero Wide Shot: She walks directly toward the camera through massive flames and thick black smoke. Her white coat flows naturally in the wind. Explosions erupt behind her while she remains completely composed. Low-angle fashion-editorial composition.
+Shot 3 — Explosion Reveal: A huge fireball detonates behind her as she continues walking forward without reacting. Sparks, smoke and embers fill the atmosphere. Strong cinematic backlight creates a glowing silhouette around her.
+Shot 4 — Side Profile: Slow-motion side tracking shot as she walks past the flames. Her long blonde hair blows dramatically in the wind. Fire illuminates the edges of her white suit, creating a striking orange-and-white contrast.
+Shot 5 — Detail Shot: Macro fashion shot focused on the flowing white fabric of her coat as flames move in the foreground. Fabric ripples naturally, embers float through the air, shallow depth of field, luxurious fashion-commercial aesthetic.
+Shot 6 — Dynamic Medium Shot: She turns slightly toward the camera while walking, maintaining her confident expression. Her hair moves dramatically as digital glitches and horizontal scanlines briefly distort the background. Futuristic cyber-fashion atmosphere.
+Shot 7 — Hero Portrait: Full-body frontal shot. She stands centered against a massive wall of fire, surrounded by smoke and flying embers. Strong symmetrical composition, powerful fashion campaign imagery.
+Shot 8 — Motion Shot: She walks rapidly toward the camera as the background streaks with motion blur. Bright white light behind her creates a dramatic halo while her coat and hair flow backward. High-end cinematic commercial.
+Shot 9 — Final Close-Up: Extreme close-up of her face and sunglasses. Blonde hair moves around her face while subtle digital glitches, RGB separation and scanlines appear across the frame. Flames reflected in her sunglasses. She looks directly into the camera with an effortless, powerful expression.
+Overall visual style: ultra-realistic, premium luxury fashion commercial, cinematic anamorphic lens, 35mm film texture, high contrast, orange firelight against pristine white clothing, realistic fire and smoke physics, volumetric lighting, shallow depth of field, dynamic camera movement, subtle VHS/glitch overlays, film grain, sophisticated color grading, editorial fashion photography meets futuristic dystopian cinema, no text, no logos, consistent character and outfit throughout.</code></pre>
+
+</details>
+
+## Cinematic film strip of magical feather with Japanese landscape
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2084757066208440686)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2259](https://imglume.com/prompt/2259)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/81f72b70-ce40-448e-8970-012046ff0e14/4e68a283-92fb-4bdb-a3c6-1514cd74fb48-1785899203920 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A horizontal cinematic film strip divided into 8 distinct panels in a single row, showing a journey into a magical feather containing a Japanese landscape.
+
+Strict Style Consistency:
+Black feather with intricate barbs, golden-beige Japanese landscape inside (mountains, pagoda, moon, trees, water), detailed ink-wash painting style, warm golden lighting, hyper-detailed, 8k resolution.
+
+Panel Sequence:
+1. Full Feather: Complete black feather with golden landscape visible inside, moon glowing, pagoda silhouette, full composition.
+2. Edge Detail: Close-up of feather's edge barbs, landscape partially visible through gaps, moon peeking through.
+3. Mountain Approach: Camera moving toward golden mountains inside feather, detailed peaks, moon larger in frame.
+4. Pagoda Focus: Japanese pagoda becoming central, wooden details, stairs leading to water, trees around.
+5. Water Path: Golden reflection path on water leading to pagoda, ripples, moon reflection.
+6. Moon Close-up: Large full moon dominating frame, crater details, soft glow illuminating landscape.
+7. Tree Detail: Golden bonsai-style trees in foreground, intricate branches, leaves catching moonlight.
+8. Inner World: Fully inside the landscape, pagoda and mountains surrounding viewer, feather edges as frame border.
+
+Unified aesthetic: black feather, golden-beige palette, moonlit Japanese landscape, ink-wash style</code></pre>
+
+</details>
+
+## Cinematic editorial portrait in minimalist gallery with motion blur
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2084591709967523881)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`
+- **ImgLume record:** [2253](https://imglume.com/prompt/2253)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e113f89d-48b0-4a56-93c1-980f72e22d59/d7d4abf3-ec4c-4c9d-aee6-6135927956b1-1785890793514 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e113f89d-48b0-4a56-93c1-980f72e22d59/074da97f-288a-41e7-b7b2-ffa75e884512-1785890793514 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e113f89d-48b0-4a56-93c1-980f72e22d59/1838cf4c-f9af-43f4-b398-cbc8a871bf91-1785890793514 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e113f89d-48b0-4a56-93c1-980f72e22d59/cc382530-f26d-484f-8fc6-ca1fd340bc1e-1785890793514 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded image as the face reference and preserve the subject's exact identity, facial features, hairstyle, and expression. A cinematic fine-art editorial portrait of the subject standing perfectly still in the center of a crowded minimalist gallery while anonymous people move rapidly around them, creating dramatic long-exposure motion blur. The subject wears an elegant all-black tailored coat with a high neckline, maintaining a calm, emotionless gaze directly into the camera. Surrounding figures become soft ghost-like silhouettes with streaked movement, emphasizing isolation amid chaos. Warm tungsten lighting mixed with soft diffused ambient light creates a dreamy glow, subtle bloom, and rich cinematic contrast. Minimal cream-colored walls with no distractions, smooth gradients, and a clean gallery aesthetic. One blurred figure in a vivid crimson outfit adds a striking visual accent against the muted palette. Captured with a slow shutter speed (1/4–1 second) while the subject remains perfectly sharp, creating realistic motion trails and ethereal blur. Moody atmosphere, contemplative emotion, luxury fashion campaign, minimalist composition, shallow depth of field, subtle film grain, Leica SL3, 50mm Summilux f/1.4, photorealistic, ultra-detailed skin texture, HDR, 8K, masterpiece, vertical 9:16.</code></pre>
+
+</details>
 
 ## Hyper-realistic cinematic portrait of an ancient prophet with assault rifle on a burning battlefield
 

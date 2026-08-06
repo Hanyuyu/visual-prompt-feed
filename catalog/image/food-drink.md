@@ -1,9 +1,26 @@
 # Food Drink image prompts
 
-9 source-linked prompts, newest ImgLume records first.
+10 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic giant matcha pancake skyscraper
+
+- **Original source:** [@wiliam_web3 on X](https://x.com/wiliam_web3/status/2084951678726341076)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`, `veo`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2279](https://imglume.com/prompt/2279)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4be188e9-bd7b-4020-9bc6-68217d60ebba/e4fab577-a25c-40f1-8a6d-e3c7a0b7de9f-1785928588852 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4be188e9-bd7b-4020-9bc6-68217d60ebba/32e19c1f-a5f1-471f-89be-8f69f1583f0e-1785928588852 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic giant matcha pancake skyscraper, stacked layer by layer by tiny miniature construction workers wearing bright orange uniforms and yellow helmets. Mini cranes lift thick green matcha pancake slabs while workers climb ladders and scaffolding. Fine matcha powder dusting the surface, creamy white butter melting and dripping down, subtle steam rising. Soft morning sunlight, cinematic depth, hyper-detailed photo-realistic style. --ar 3:4</code></pre>
+
+</details>
 
 ## Coffee, Sunflowers & Summer Dreams
 

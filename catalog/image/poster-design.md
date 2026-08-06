@@ -1,9 +1,185 @@
 # Poster Design image prompts
 
-27 source-linked prompts, newest ImgLume records first.
+31 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium cafe advertisement poster prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2084869002665615462)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2304](https://imglume.com/prompt/2304)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed15cdf5-4de9-42ae-9140-79e18585687d/edcab192-7059-48e7-85ac-b698b173154b-1785945367891 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ed15cdf5-4de9-42ae-9140-79e18585687d/e2058573-d308-47ab-8d7b-8fdad665f7ae-1785945367891 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cafe advertisement poster featuring PRODUCT_NAME as the main subject. The composition should follow a clean, minimalist, editorial style with warm natural sunlight, soft plant shadows, elegant typography, and a sophisticated luxury aesthetic.\n\nPlace a beautifully styled drink at the center of the composition inside a transparent glass with realistic textures, reflections, condensation, and garnish details appropriate for the beverage.\n\nThe scene should include a wooden table, subtle decorative elements, blurred greenery, and soft beige backgrounds to create a warm and inviting atmosphere.\n\nDisplay the text in the following structure:\n\nTop section:\n• 'NEW MENU' headline\n• SUBTITLE\n\nMiddle section:\n• PRODUCT_NAME\n• DESCRIPTION\n\nBottom section:\n• PRICE\n\nStyle requirements:\n• Editorial food photography\n• Soft natural lighting\n• Cinematic composition\n• Luxury cafe branding\n• Elegant serif typography\n• Realistic shadows and highlights\n• Minimalist layout\n• High-detail product photography\n\nAspect ratio: 4:5.</code></pre>
+
+</details>
+
+## Elegant handcrafted travel journal poster for {CITY}
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084865072179052661)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2280](https://imglume.com/prompt/2280)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2591df4d-4cb9-437f-b507-b9f4313fc42f/1aea154f-3050-42cd-85b7-c6fd7c14381b-1785928609189 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2591df4d-4cb9-437f-b507-b9f4313fc42f/0a3e85f8-6023-4062-a977-2c425512ba36-1785928609189 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2591df4d-4cb9-437f-b507-b9f4313fc42f/36dc8cfa-b05c-4128-9bc5-e485d1d0706e-1785928609189 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an elegant handcrafted travel journal poster celebrating {CITY}, designed as a premium editorial travel illustration on warm textured watercolor paper.
+The composition is a top-down, slightly angled flat-lay where a fountain pen held by a human hand is actively drawing a flowing ink river/road that connects iconic landmarks of the city, making the artwork appear to come alive.
+The city name "{CITY}" appears prominently in large expressive brush-calligraphy at the upper left. Beneath it is a short poetic travel quote about the city in elegant handwritten script.
+Along the flowing ink path are highly detailed miniature architectural dioramas representing the city's most recognizable landmarks, seamlessly emerging from the paper. Include:
+the city's most famous monument or skyline icon
+a historic building or cultural landmark
+a famous street, waterfront, bridge, or public space
+an authentic café, food stall, restaurant, or local dining scene
+a signature local food and drink
+an iconic local vehicle or transportation (tram, metro, taxi, train, ferry, tuk-tuk, cable car, etc.)
+subtle local vegetation and street furniture
+Scatter realistic vintage travel memorabilia across the page:
+passport stamps customized for {CITY}
+transit ticket
+postage stamp
+instant polaroid photo of a famous view
+handwritten travel notes
+tiny doodles of birds, clouds, hearts, arrows, and decorative ink flourishes
+compass or navigation sketch (optional)
+Every landmark is rendered as an ultra-detailed miniature architectural model with cinematic realism, intricate textures, tiny people, street lamps, trees, pavement stones, water reflections, and handcrafted scale-model quality.
+The flowing dark-blue ink transforms into rivers, roads, waterfronts, or streets that naturally guide the eye through the composition.
+The entire layout feels balanced with generous negative space, resembling a luxury travel scrapbook mixed with an architect's sketchbook and a handcrafted pop-up paper diorama.
+Lighting is warm natural daylight from the upper right, producing soft realistic shadows that emphasize the miniature models.
+Color palette:
+warm cream textured paper
+deep navy fountain pen ink
+muted earth tones
+soft greens
+warm sandstone architecture
+subtle vintage travel colors
+Style keywords:
+handcrafted miniature diorama, paper engineering, editorial travel illustration, luxury travel poster, premium scrapbook, architectural scale model, tilt-shift realism, photorealistic miniatures, fountain pen illustration, watercolor paper texture, cinematic lighting, ultra-detailed, premium print design, whimsical yet elegant.
+Composition requirements:
+portrait orientation (4:5)
+top-down angled flat-lay
+large calligraphy title at top left
+writing hand with fountain pen at upper right
+flowing ink path through the center
+landmarks distributed from top to bottom
+decorative travel elements placed around the margins
+clean premium editorial balance
+no clutter
+highly legible typography
+Replace all text, tickets, stamps, quotes, and labels with authentic city-specific content for {CITY}.
+Ultra-realistic, 8K, exceptional detail, premium travel campaign quality, award-winning editorial illustration.</code></pre>
+
+</details>
+
+## Superstar Mid-Air Sports Poster Illustration
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084700198241206374)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2277](https://imglume.com/prompt/2277)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/384cd959-0fc1-4b86-b917-8b595515bc61/0351cb37-08bb-4810-a179-c53c343bd40e-1785926474622 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/384cd959-0fc1-4b86-b917-8b595515bc61/3411d55c-16d5-4a2a-9969-a16a02c9bfbf-1785926474622 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/384cd959-0fc1-4b86-b917-8b595515bc61/e9102ad4-e8a4-4238-a0aa-41c39c234d3e-1785926474622 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Superstar in a mid-air action pose performing a dunk, jumpshot, or intense celebration. Cinematic sports illustration style with highly detailed muscular anatomy, dramatic motion, realistic face featuring painterly polygon brush texture, explosive paint splashes behind the character matching the team's colors, bold typography with the player name in huge vertical letters, motivational quote text layout, sports stats and achievements infographic, clean minimal cream background, modern editorial composition.
+
+Streetwear-inspired sports poster aesthetic, premium ESPN × Nike × NBA campaign vibe, aggressive lighting, ultra-detailed jersey fabric, realistic sneakers, dynamic perspective, motion blur energy, bold graphic elements, grunge paint streaks, ink splatter effects, layered typography design, signature section, logo-inspired icons, collectible magazine cover feel, heroic sports energy, poster-ready composition, contemporary digital painting blended with graphic design.
+
+Color palette based on team colors (purple/gold for Lakers, green/black for Celtics, blue/white for Mavericks, purple/red for Raptors), sharp contrast, dramatic shadows, energetic composition, luxury sports branding aesthetic, high-detail sports portrait illustration, trending Behance poster design, modern athletic artwork, ultra-realistic, 8K, masterpiece.
+
+Style Keywords: Sports editorial poster, NBA legend artwork, athletic graphic design, dynamic basketball illustration, paint splash poster aesthetic, modern sports branding, cinematic athlete portrait, typography-heavy composition, Nike campaign vibe, collectible sports print, gritty digital painting, heroic basketball poster.</code></pre>
+
+</details>
+
+## Editorial poster featuring \[CHARACTER\]
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2084833680560947268)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2269](https://imglume.com/prompt/2269)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2ca35e2d-58d2-425b-8454-4a3dbeba4696/eb37150b-543a-44f3-96aa-a5ce6d597b48-1785918049072 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2ca35e2d-58d2-425b-8454-4a3dbeba4696/4a200d9f-4200-48ce-be49-81a3bf809eda-1785918049072 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2ca35e2d-58d2-425b-8454-4a3dbeba4696/801f0d07-1c3e-402a-9a05-9531f9748802-1785918049072 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/2ca35e2d-58d2-425b-8454-4a3dbeba4696/aadea2ec-cf75-492c-8094-d40d8a7bff0a-1785918049072 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Editorial poster featuring [CHARACTER] in strict left-facing profile, cropped from mid-torso, with [HAIR] forming a dominant graphic silhouette and [CLOTHING]. Place one large flat circular disk directly behind the head. Render crisp flat vector shapes, angular facial features, controlled black contour lines, screen-print grain, halftone dots, and woven grid texture. Construct the background from layered [BACKGROUND] while keeping the composition clean and the subject dominant. Limit the entire artwork to exactly four high-contrast colors: [PALETTE]. Add the minimalist title “[TITLE]” at the upper left in bold condensed uppercase sans serif, with the smaller headline “[HEADLINE]” directly beneath it; clear hierarchy, generous negative space, Vertical 4:5 AR.</code></pre>
+
+</details>
+
+## Premium commemorative postage stamp collection inspired by \[DESTINATION\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084588473689014648)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2244](https://imglume.com/prompt/2244)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dce4f6ee-befc-484e-8b94-21a59cbaf898/0d2e05a8-af55-4234-a12c-254f87dcfcd6-1785871878912 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dce4f6ee-befc-484e-8b94-21a59cbaf898/84d25175-04c5-4927-9a56-52c2ea6fe69b-1785871878912 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/dce4f6ee-befc-484e-8b94-21a59cbaf898/b34f5b9e-e6fd-43bd-bf95-a01de9ab4502-1785871878912 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium commemorative postage-stamp collection inspired by [DESTINATION], presented as a beautifully designed A4 vertical stamp sheet.
+
+Create 7–9 individual stamps featuring a thoughtful mix of iconic landmarks, architecture, local food, transportation, nature, cultural objects, and small everyday symbols that uniquely evoke [DESTINATION].
+
+All stamps must keep the same elegant 3:4 portrait proportion, but vary noticeably in physical size. Arrange them freely across the sheet with gentle asymmetry, visual rhythm, and comfortable white space — NOT a rigid grid.
+
+STYLE
+
+Premium Scandinavian minimalism with sophisticated contemporary postal design.
+
+Simplify each subject into elegant geometric forms, clean silhouettes, restrained details, subtle graphic abstraction, and refined editorial composition.
+
+Use a fresh but limited color palette inspired naturally by [DESTINATION].
+
+Keep the background clean warm-white or pure white.
+
+Avoid vintage sepia, excessive decoration, cartoonish illustration, photorealism, or generic tourist-poster aesthetics.
+
+STAMPS
+
+Every stamp must feel like a real collectible postage stamp:
+
+• crisp perforated edges
+• beautifully printed paper texture
+• country or destination name
+• authentic local currency symbol and realistic current postage denomination
+• subtle, elegant typography
+• one distinctive subject per stamp
+
+Research and use plausible current local postage values and currency conventions for [DESTINATION].
+
+Make every stamp visually different while maintaining one coherent art direction.
+
+Mix bold architectural compositions, close-up objects, landscapes, food, transportation, flora, and charming local details.
+
+PRESENTATION
+
+Show the complete A4 vertical commemorative stamp sheet straight-on, like a premium limited-edition postal release photographed or scanned for a design archive.
+
+The final result should feel exceptionally collectible, tactile, sophisticated, and physically believable — something so beautifully designed that the viewer would genuinely want to tear off and keep each stamp.
+
+No rigid grid. No identical stamp sizes. No excessive empty space. No mockup frame. No hands. No envelopes. A4 vertical ratio.</code></pre>
+
+</details>
 
 ## Clean hand-drawn editorial illustration of urban lifestyle
 
@@ -23,43 +199,6 @@ their original authors. ImgLume curation is CC BY 4.0.
 Negative prompt (optional):
 
 Photorealistic, 3D render, anime, watercolor, oil painting, excessive detail, hyper-realistic skin, blurry, distorted anatomy, extra limbs, messy lines, noisy background, oversaturated colors, text, logo, watermark, low quality.</code></pre>
-
-</details>
-
-## Ultra-premium Instagram campaign poster for Maersk
-
-- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2084490159702290468)
-- **Recommended model:** `gptimage`
-- **Source model(s):** `gptimage`
-- **Categories:** `poster-design`
-- **ImgLume record:** [2222](https://imglume.com/prompt/2222)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2155308d-e0ec-41e7-88d9-fd35c91da59d/d5552fbf-689c-4bb1-91c7-cad81aa2e468-1785853027968 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2155308d-e0ec-41e7-88d9-fd35c91da59d/ae1e5e3d-bd88-49b8-ba86-c264622ca098-1785853027968 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2155308d-e0ec-41e7-88d9-fd35c91da59d/9f5e6d25-22b5-4255-a9f9-481ff9eef12c-1785853027968 "Image prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>Create an ultra-premium Instagram social media campaign poster for Maersk that looks like an official global brand campaign designed by Pentagram, AKQA, or DesignStudio for Behance and Cannes Lions.
-
-Aspect ratio 4:5 vertical, 8K ultra-high resolution, hyper-realistic commercial advertising, premium editorial composition, Scandinavian minimalist design language, bold corporate branding, clean visual hierarchy, generous negative space.
-
-Scene: A massive modern Maersk logistics hub at sunrise. In the foreground, a pristine Maersk-blue electric container truck drives confidently toward the camera from a premium logistics terminal. The truck is loaded with an official Maersk shipping container featuring the authentic Maersk star logo and corporate blue livery. The vehicle is positioned in a dramatic front three-quarter perspective, becoming the visual hero of the composition.
-
-Behind it, a state-of-the-art container terminal is alive with activity. Giant ship-to-shore cranes lift containers with precision, automated guided vehicles move seamlessly through the yard, and neatly stacked Maersk containers create a strong geometric rhythm. In the distance, an enormous Maersk container vessel is docked at the terminal with hundreds of containers onboard. Above the horizon, a modern cargo aircraft climbs into the sky, completing the end-to-end logistics story from sea to air.
-
-Human presence adds life to the campaign: logistics managers in safety helmets reviewing operations on digital tablets, crane operators coordinating container movement, forklift operators transporting cargo, dock workers inspecting containers, all captured naturally without looking at the camera. Every action feels authentic, creating a living industrial ecosystem rather than a staged corporate photo.
-
-The environment is clean, engineered and premium, inspired by Scandinavian industrial architecture with polished concrete, glass control towers, organized container stacks, calm ocean water, crisp blue skies and subtle atmospheric haze. The entire logistics hub feels efficient, sustainable and technologically advanced.
-
-The composition is bold and highly graphic. Oversized white negative space balances the industrial scene. Massive editorial typography reading “MOVE THE WORLD.” integrates into the architecture, partially overlapping containers without hiding important subjects. Thin technical grid lines, subtle route graphics, coordinate markers and minimal logistics-inspired design elements reinforce Maersk's engineering precision. Large Maersk-blue geometric panels anchor the composition, creating a modern corporate visual system without clutter.
-
-Colour palette: authentic Maersk Blue (#42B0D5), pure white, soft concrete grey, steel grey, deep ocean blue with restrained safety yellow accents. Scandinavian minimalism, clean contrast, premium corporate aesthetic.
-
-Lighting: bright natural morning daylight, soft diffused sunlight, realistic reflections on painted metal, shipping containers, truck bodywork and glass architecture, crisp atmospheric depth, premium commercial automotive and industrial photography.
-
-Captured on a Phase One XF IQ4 150MP medium-format camera with a Schneider Kreuznach 55mm lens, ultra-high dynamic range, razor-sharp details, realistic container textures, steel surfaces, tyre rubber, glass reflections, painted metal, subtle wear, authentic industrial materials, natural human skin texture and premium color science.
-
-The final image should feel like the hero cover of a Behance case study for Maersk's global integrated logistics campaign—modern, bold, clean, highly designed, unmistakably premium, and instantly recognizable as an official Maersk social media advertisement.</code></pre>
 
 </details>
 

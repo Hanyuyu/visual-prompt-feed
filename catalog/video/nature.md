@@ -1,9 +1,51 @@
 # Nature video prompts
 
-6 source-linked prompts, newest ImgLume records first.
+7 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## MiniDV style beach walk video of a young Korean woman on Jeju Island
+
+- **Original source:** [@meng_dagg695 on X](https://x.com/meng_dagg695/status/2084597202882908299)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2245](https://imglume.com/prompt/2245)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5c4f90f-5fbe-46f9-9957-b61ccf82c804/31d16203-3831-45b2-8c1c-0098d0138d4e-1785871889395 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 23, natural everyday appearance, long black hair worn loose and slightly messy from the sea breeze, realistic skin texture with lightly sun-kissed cheeks, minimal makeup, cheerful and carefree personality. Wearing a loose white oversized linen shirt over a light blue tank top, beige linen shorts, white sandals, a woven straw hat, and a small canvas tote bag. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
+
+Location: A quiet beach on Jeju Island during an early summer morning. Soft golden sunlight, gentle ocean waves, black volcanic rocks, clear turquoise water, seashells scattered along the sand, a few distant fishermen, and a peaceful, uncrowded shoreline.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic vacation atmosphere, warm morning light, rich environmental details.
+
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting between the waves and her face, faded colours, soft contrast, slight motion blur, exposure pumping toward the bright ocean, MiniDV compression artifacts, no stabilization.
+
+00:00–00:03
+She walks barefoot along the shoreline carrying her sandals in one hand. Small waves wash over her feet as the camera briefly focuses on the water before finding her face.
+
+00:03–00:06
+She crouches to pick up a unique seashell, smiling as she brushes the sand away with her thumb. The operator moves closer, causing slight autofocus breathing.
+
+00:06–00:09
+Standing on a black volcanic rock, she watches the horizon while the sea breeze moves her hair and oversized shirt naturally.
+
+00:09–00:12
+She skips a flat stone across the calm water, laughing softly after it bounces several times. The camera shakes as the operator reacts a little too late.
+
+00:12–00:15
+She turns toward the camcorder with a warm smile, places the seashell inside her tote bag, and continues walking down the empty beach. The recording drifts toward the waves and abruptly cuts to black.
+
+Audio: Natural ambience only–gentle waves, seabirds, light wind, distant fishermen talking, footsteps on wet sand, water splashing, and rustling fabric. No music. No narration.
+
+Goal: A forgotten MiniDV home video from summer 2004, capturing a peaceful morning walk on Jeju Island that feels warm, imperfect, nostalgic, and completely authentic.</code></pre>
+
+</details>
 
 ## Serene high-angle anime scene of woman on mossy riverbank
 

@@ -1,26 +1,9 @@
 # Product Ads video prompts
 
-35 source-linked prompts, newest ImgLume records first.
+34 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
-
-## Full 30-Second Ad Prompt
-
-- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `camera-moves`, `product-ads`
-- **ImgLume record:** [2239](https://imglume.com/prompt/2239)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab9a36ba-36a3-4f5b-ad16-5d8122bfe9cb/e2334b3f-9743-42c5-850c-3b9bbf0d4144-1785865600742 "Image prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>A sleek water bottle on a wooden table. Open with a close-up of condensation on the bottle, pull back to reveal a runner grabbing it mid-workout. She drinks, smiles, sets it down. Camera orbits the bottle as text appears: "Now Available." Bright commercial lighting throughout. Upbeat background music that swells at the end.</code></pre>
-
-</details>
 
 ## Ultra-realistic UGC luxury creator review of sunglasses in a modern bedroom
 

@@ -1,24 +1,193 @@
 # Camera Moves video prompts
 
-47 source-linked prompts, newest ImgLume records first.
+50 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Full 30-Second Ad Prompt
+## Luxury Fashion Editorial Video with Seamless Wardrobe Transformations
 
-- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
+- **Original source:** [@MelinaVale14 on X](https://x.com/MelinaVale14/status/2084956081424302197)
 - **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `camera-moves`, `product-ads`
-- **ImgLume record:** [2239](https://imglume.com/prompt/2239)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab9a36ba-36a3-4f5b-ad16-5d8122bfe9cb/e2334b3f-9743-42c5-850c-3b9bbf0d4144-1785865600742 "Image prompt preview")
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2294](https://imglume.com/prompt/2294)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bfc824d-f400-4cd6-aed6-3d1951a68531/cfaba81a-5777-4bb3-a32b-3e6c0f730a8e-1785936990215 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>A sleek water bottle on a wooden table. Open with a close-up of condensation on the bottle, pull back to reveal a runner grabbing it mid-workout. She drinks, smiles, sets it down. Camera orbits the bottle as text appears: "Now Available." Bright commercial lighting throughout. Upbeat background music that swells at the end.</code></pre>
+<pre><code>Style: Premium fashion editorial • Luxury commercial • Cinematic realism • Vogue-inspired • Photorealistic • Soft golden-hour lighting • Elegant camera movement • Seamless wardrobe transitions • High-end interior design • Luxury architecture • Natural fabric simulation • 16:9 • 4K • HDR • Commercial-grade color grading
+
+Main Character (Continuity Lock):
+Use the uploaded reference model exactly. Preserve her facial features, hairstyle, eye color, skin tone, proportions, expression, gold earrings, layered gold necklaces, and overall identity throughout the entire video. Do not change her face or generate a different person. She remains the only character from beginning to end.
+0:00–0:02 | A Quiet Morning
+
+A luxurious modern penthouse bedroom is bathed in soft golden morning sunlight streaming through floor-to-ceiling sheer curtains. The model sits calmly on the edge of a perfectly made king-size bed wearing an elegant ivory knit lounge set consisting of a relaxed long-sleeve sweater and matching trousers. Marble accents, light oak flooring, linen textures, and minimalist designer furniture create an expensive editorial atmosphere. Slow cinematic push-in.
+0:02–0:04 | Toward the Wardrobe
+
+She stands and walks barefoot across the polished oak floor toward an impressive floor-to-ceiling designer wardrobe. The camera follows smoothly from behind as warm sunlight creates beautiful rim lighting around her silhouette. Her movements are graceful and confident.
+
+0:04–0:06 | The Dressing Room Reveal
+She opens the wardrobe doors to reveal an illuminated luxury dressing room rather than a traditional closet. Designer clothing, handbags, shoes, and accessories are displayed like artwork inside a premium boutique. Warm golden lighting fills the space while subtle floating dust particles create a magical editorial mood.
+
+As she steps inside, the camera performs a smooth 360° orbit. During the rotation, her lounge outfit transforms seamlessly into a sophisticated monochrome luxury look featuring an oversized cream blazer, fitted high-neck knit top, tailored wide-leg trousers, leather belt, elegant heels, and refined gold jewelry. The transformation is fluid, realistic, and invisible.
+
+0:06–0:10 | The Runway Walk
+She walks confidently through a bright marble hallway that resembles a luxury fashion gallery. Massive windows flood the corridor with natural light, creating beautiful reflections on polished stone floors.
+
+With every confident step, her outfit transforms effortlessly:
+
+Elegant beige tailored suit
+
+Modern black tailored evening suit
+Camel designer trench layered over a monochrome ensemble
+
+Each transition happens precisely on a footstep with seamless match cuts and realistic flowing fabric. Alternate between full-body tracking shots, low-angle runway shots, and elegant close-ups of tailoring, accessories, and movement.
+
+0:10–0:13 | Rooftop Reveal
+
+She opens towering glass doors leading to an exclusive rooftop terrace overlooking a breathtaking modern city skyline during golden hour. A gentle breeze naturally moves her hair and clothing as warm sunlight creates soft cinematic rim lighting.
+Her final transformation reveals an elegant couture ensemble with sculptural tailoring, luxurious fabric textures, and a dramatic flowing cape. The camera slowly orbits around her while the cape moves gracefully in the wind.
+0:13–0:15 | Hero Fashion Shot
+
+The camera settles into a dramatic wide shot as she stands confidently overlooking the glowing skyline. The golden sunset reflects across the city while her couture ensemble flows elegantly in the breeze. She turns naturally toward the camera with a poised editorial expression.
+
+A clean luxury fashion logo fades in with the tagline:
+"EVERY MORNING IS A NEW RUNWAY."
+
+Fade to black.</code></pre>
+
+</details>
+
+## 韩剧写实风格校园天台反击短片
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2084668685042491766)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2289](https://imglume.com/prompt/2289)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c136f87-c65a-4b73-8f08-ffb853d739d9/d68c029f-c6df-46e8-8c97-869373941873-1785934876451 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【画质风格】
+
+真人实拍级韩国电影写实质感,全程手持微晃镜头叠加院线级冷调色,青灰偏蓝的阴天色温,肤色保留冷白通透;针织开衫的绒感、百褶裙摆的翻动、发丝飘散、雨前阴云的压抑层次全部写实还原;粗粝胶片颗粒,浅景深人物特写为主;8K 电影级拍摄质感,2.39:1 宽画幅。
+
+【角色设定】
+
+· @她(女主,图片1):按参考图还原——黑发渐变粉色中长卷发,珍珠耳饰,白衬衫系酒红色蝴蝶结领结,米色针织开衫,黑色百褶短裙,黑色中筒袜配黑色乐福鞋;眼神从隐忍低垂到抬眼锐利,动作干脆利落,发力刚猛,擅长近身直拳、肘击与利落的扫踢。
+
+· 围堵人群:五六名穿深色制服风衣着的高个身影,面目始终处于虚焦或背光中,不给正面特写,只作为压迫感群像存在。
+
+· 场景:阴天放学后的教学楼天台,水泥地面,四周是锈迹斑驳的绿色铁丝网围栏,远处城市天际线灰蒙,风把云压得很低,地面散落着被扔掉的书包和课本。
+
+【运镜逻辑】
+
+开场手持镜头从她低垂的脸缓推,建立压抑;书包落地为爆发信号,镜头骤然一沉切入极速;随即进入六连切快速蒙太奇,每一切都是反击特写,快切之间插入两次不到一秒的微慢动作(Micro Slow-mo)拉出"快慢快慢"的爽剧节奏;群体溃退后镜头绕至她背后仰拍全景;最后一击时间放慢,镜头绕侧定格;收尾镜头缓缓后拉,全程张弛交替。
+
+【完整画面流程】
+
+开场:手持镜头微晃,天台上,她被五六道深色身影围在铁丝网前,低着头,粉色发梢被风吹得贴在颊侧,酒红色领结微微歪斜。一只手从画面外伸来,狠狠拍掉她怀里的书包——书包砸在水泥地上,课本散开的一瞬,她垂着的眼睫抬起,眼神骤然锐利。
+
+爆发:她贴着最近一道身影欺身而进,不退反进的瞬间镜头一沉,画面切入六连切快速蒙太奇,快慢交替,节奏抓人:
+
+1. 第一切【快】:近身直拳特写,她拧腰送肩一记直拳打在迎面身影胸口,对方整个人向后踉跄撞进同伴怀里,两人一起跌退,她的粉发梢甩出一道弧线
+
+2. 第二切【微慢】:抓腕反制特写,侧后方一只手抓向她肩膀,画面骤慢——她反手扣住对方手腕拧转,针织开衫的袖口绷紧,对方身体被带得侧翻,悬在半空的瞬间发丝与裙摆同时展开,随即画面弹回极速,对方摔在水泥地上滑出半米
+
+3. 第三切【快】:低位扫踢特写,她顺势沉身一记扫堂腿,乐福鞋鞋跟贴地划出半圆,正面扑来的身影被扫得双脚离地、横着摔倒,黑色中筒袜绷直的小腿线条利落有力
+
+4. 第四切【快】:肘击连段特写,两道身影同时从左右合围,她左肘后顶、右肘横扫,两声闷响连成一线,左右身影各自捂着腹部弯腰跪地,她站在两人中间,裙摆还在惯性摆动
+
+5. 第五切【微慢】:躲拳反击特写,最高的一道身影抡起拳头当头砸下,画面再度骤慢——她只侧头半寸,拳风擦着粉色发梢掠过,几缕断发缓缓飘起,她的眼睛在慢镜里冷冷抬起看向对方;画面弹回极速,她一记膝撞顶在对方腹部,对方弓身抱腹跪倒
+
+6. 第六切【快】:拽领终结特写,她一把拽住最后一人的衣领往下带,对方重心前栽的同时她抬膝再进半步急停——膝盖停在距对方面门一寸处,风压掀起对方额发,对方吓得瘫坐在地连连后爬
+
+六次切镜一气呵成,快慢两档交替咬合,每一帧都拉满反击张力。
+
+收束:镜头绕至她背后低角度仰拍全景,五六道身影或坐或爬,连滚带爬地退向天台门,门"哐"一声撞开又弹回。风掀起她的裙摆和开衫下摆,粉色发尾狂舞,她站在原地缓缓松开攥紧的拳,指节还微微发颤。
+
+终镜:画面放慢,她转过身,弯腰捡起地上的书包,一本一本把散落的课本拾回怀里,拍掉封面的灰。起身时她理了理歪掉的酒红色领结,对着镜头方向抬起眼——眼神已经恢复平静,只是不再低头。镜头缓缓后拉,她独自立在空旷天台正中,铁丝网外阴云翻涌,画面定格。
+
+【环境音效与台词】
+
+全程无背景音乐,原生天台空旷混响,风声持续作底:
+
+· 开场压抑:风穿过铁丝网的呜呜声,人群逼近的杂乱脚步与嗤笑低语(内容模糊不清),书包砸地的一声闷响,课本散落的哗啦声
+
+· 爆发瞬间:她蹬地欺身的一声鞋底摩擦,第一拳命中的厚重闷响瞬间盖过所有嘈杂
+
+· 六连切:拳肘命中的闷响错落密集,扫踢带起的低沉风声,摔地与滑地的连续钝响;两次微慢段所有声音骤然压低拉长,只剩衣料绷紧声、断发飘落的极轻声与她一次沉稳的呼吸,弹回极速时音效同步炸回
+
+· 群体溃退:杂乱仓皇的脚步与爬地声,天台铁门撞开又弹回的哐当声,随后只剩风声
+
+· 收尾:课本拾起的纸页摩擦声,拍灰的两下轻响,理领结的细微布料声,风声渐大,收在一声干净的定格静默
+
+· 人物状态:她全程不发一言,仅出招瞬间伴随极短促的吐气声;终镜前一次绵长的呼气,平静收场</code></pre>
+
+</details>
+
+## Handheld DV 16mm camcorder day-in-the-life montage of influencer CHASE
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2084728365668348364)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2288](https://imglume.com/prompt/2288)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3496353-6375-4133-b65a-560c66561a94/a68dddda-2d4a-420e-9f8b-3b1dffcee409-1785933076741 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm camcorder aesthetic. CHASE records herself throughout every location, mostly holding the camera directly and occasionally setting it down for brief hands-free shots. Preserve natural hand tremors, crooked composition, slow autofocus correction, awkward zooms, accidental face cropping, and moments where the framing briefly loses her. The physical camcorder is never visible.
+
+LOOK: Authentic soft tape-image texture with mild blur, subtle electronic grain, glowing highlights, small automatic-exposure fluctuations, restrained contrast, and natural skin tones. The lighting changes realistically between locations: warm morning light in the apartment → cooler daylight inside the car → intense colorful lighting backstage and onstage.
+
+STYLE: A fast, energetic day-in-the-life montage with sharp cuts between locations and slightly accelerated transitional movement. Reflective voiceover plays over the footage instead of synchronized dialogue. The pace gradually builds from a quiet sleepy morning into a high-energy performance finale.
+
+Character
+
+CHASE — an exceptionally beautiful Instagram influencer and rising pop performer in her 20s. Long glossy dark-brown hair, striking symmetrical features, large expressive eyes, flawless glowing skin, and soft pink lips. Slim, toned figure. Her outfit changes with each location: cozy loungewear at home, stylish casual clothing during the ride, and a glamorous performance outfit for the final scene. Each outfit fully covers her arms and torso.
+
+Setting Progression
+Stylish apartment bedroom in the morning → luxury van interior during the day → busy backstage area and concert stage at night.
+
+Storyboard — 15 seconds, 5 cuts
+(~3s, bedroom, camera resting on a table, soft morning light) She slowly sits up, stretches, fixes her messy hair, and hurriedly packs a small bag. VOICEOVER (CHASE): “Some mornings begin before I’m even fully awake.”
+
+(~3s, van interior, handheld selfie footage, natural window light) She sits beside the window as sunlight moves across her face, casually checking messages on her phone. VOICEOVER (CHASE): “I spend so much time on the road, this place almost feels like home.”
+
+(~3s, van interior, macro detail shot) Close-up of her fingers choosing a song from a playlist while passing sunlight flickers across the screen and her hand. No voiceover, only natural road noise.
+
+(~3s, backstage, fast handheld montage) Quick glimpses of makeup brushes, hair styling, costume adjustments, staff rushing past, and her taking one focused breath before going onstage. VOICEOVER (CHASE): “And then everything suddenly starts moving at once.”
+
+(~3s, stage, wide shot moving into a close-up, energetic finale) Bright stage lights ignite as she steps through the curtains. The camera catches her silhouette, then a brief confident smile before the image cuts to black. VOICEOVER (CHASE): “This moment is why I keep doing it.”</code></pre>
+
+</details>
+
+## 竹知了与紫色智界R7变形短片
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2084644638724395138)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2255](https://imglume.com/prompt/2255)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aedd41a6-f41d-4fa6-b476-a2248f8e9f4b/542f78b8-1294-42b3-87be-9556fa5d4fac-1785895015028 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>纯属虚构的荒诞动作短片。100%真实手机实拍质感，iPhone纪录片风格，30秒手持一镜到底，无剪辑、无转场。自然日光，轻微呼吸式镜头运动，偶发自动对焦迟疑，轻微滚动快门，真实动态模糊，镜头边缘带少量指纹和灰尘。所有变形、机械运动、撞击和碎片效果都必须具有沉重的现实物理反馈，呈现为全尺寸机械装置与实景特效，绝不能出现电子游戏、动画或廉价CG质感。保留现场原始声音和路人的真实反应。 环境 午后，一家繁忙的鸿蒙智行·智界授权汽车门店停车场。 巨大的落地玻璃展厅内停着数辆新车，销售人员正陪顾客看车。停车场车辆进出不断，工作人员拿着平板在车位间穿梭，几名顾客围着一辆停在室外展示区的紫色智界R7拍照。 现场充满城市车流声、轮胎碾过沥青的声音、门店广播、远处交谈声、鸟鸣和偶尔响起的车辆提示音。一切都像路人偶然拍下、即将病毒式传播的手机视频。 门店原有标识可以自然出现在环境中，但不添加字幕、广告标题或浮动文字。 主角 一位二十五岁左右的成年年轻美女
+，身材和穿着严格参考
+HO2iXF9a4AAZsco
+。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个发光的竹知了在她身体周围凭空出现，像一群完美同步的金色蜂群，在她头顶和肩膀周围高速盘旋。 旋转产生的强风吹动她的长发和衣角，将停车场里的宣传单、树叶、灰尘和塑料袋全部卷入空中。金色光芒映在周围汽车的玻璃与金属车漆上。 巨型机器人挥动紫色机械手臂，试图拍散竹知了群。机械拳头擦过地面，掀起碎石和尘土。 美女侧身迈开一步避过冲击，双脚重新站稳，身体重心压低，右手仍然牢牢控制细绳。 她突然将竹知了高高举起…… ……然后打了一个清脆的响指。 所有发光的竹知了瞬间向前发射。 天空被无数道金色轨迹划破。 第一批竹知了像精准制导的蜂群，猛烈撞击机器人的膝关节和脚踝；第二批绕着机器人高速盘旋，钻入肩部车轮、车门手臂和胸口灯带之间的机械缝隙。 机器人踉跄后退，机械脚掌在沥青上拖出两道深深的沟槽。它挥拳反击，却不断打空，每一次挥动都带起真实而沉重的气流。 最后一批竹知了在机器人胸前汇聚成高速旋转的金色圆环。 美女猛然向下一拉细绳。 所有竹知了同时发出一声震耳欲聋的巨大鸣叫。 一道肉眼可见的环形空气冲击波正面撞上机器人胸口。 在这一瞬间进入短暂慢动作：紫色机器人全身的机械锁扣依次弹开，车门护甲、车轮、玻璃、底盘和车身覆盖件在空中分离；金色竹知了从零件之间高速穿过，飞散的螺栓、灰尘和细小玻璃颗粒悬浮在阳光中。 这不是爆炸，也不是车辆被彻底摧毁。所有零件仍然属于同一辆紫色智界R7，没有火焰，没有人员受伤。 慢动作结束。 巨型机器人完全失去平衡，重重跪在停车场中央。它的机械结构迅速反向折叠：双腿收回底盘，车轮回到轮拱，车门重新闭合，车头、车顶和灯带准确复位。 伴随最后一声沉重的金属锁定声，机器人重新变回完整的紫色智界R7。 一片寂静。 车辆警报器逐渐停止。 顾客和销售人员小心翼翼地从展车后面探出头。一个销售人员迟疑地走向紫色R7，伸手摸了摸仍然发烫的引擎盖，又立刻把手缩了回来。 一个发光的竹知了缓缓落在美女肩膀上，光芒随即熄灭，重新变成普通竹制玩具。 她漫不经心地拍掉肩上的灰尘，收起细绳，经过已经恢复原状的紫色智界R7。 走出画面前，她回头看了一眼汽车，平静地小声说： “一千万以内最好玩的，还是这个。” 她再次转动竹知了，伴随着“呜哇、呜哇”的声音若无其事地继续向前走。 镜头没有切断，摄影者缓慢停下。画面最后同时保留她渐渐远去的背影、恢复原状的紫色智界R7，以及停车场后方鸿蒙智行·智界门店原有的门头标识。 严格限制 全片只有一个连续手持镜头；不航拍、不突然切换机位、不瞬移、不使用蒙太奇。美女、竹知了和紫色智界R7始终保持外观一致。只能有一辆R7变形，机器人所有零件均来自这辆车。 机器人必须具有真实重量、关节阻力、惯性和落地冲击，不能漂浮、瞬移或像橡胶玩具一样弯曲。竹知了群的运动必须有明确方向、空气阻力和碰撞反馈。 不出现驾驶员受伤、血液、人体撞击或真实人员死亡；不出现火灾与电池爆炸。不生成错误车型、乱码车标、额外手指、人物复制、车辆复制、卡通机器人、动漫光效、电子游戏HUD、字幕、贴纸、旁白、背景音乐或水印。现有门店标识自然入镜即可，不额外生成品牌宣传画面。</code></pre>
 
 </details>
 

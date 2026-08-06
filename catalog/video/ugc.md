@@ -1,9 +1,67 @@
 # UGC video prompts
 
-27 source-linked prompts, newest ImgLume records first.
+29 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Native Feed UGC Prompt Stack for 15s Talking Unboxing Video
+
+- **Original source:** [@rimtoln on X](https://x.com/rimtoln/status/2085006697446183285)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2305](https://imglume.com/prompt/2305)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e70a0b6c-1f9c-4a4c-be27-79ce12ddfa05/ca9618b7-3eeb-4b8b-aa0b-0f92f82624bd-1785947447512 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>subject who age vibe + product in hand
+action talk unbox apply swipe not freeze
+camera handheld iphone close-up slight shake
+lighting window soft ring ugly room real
+style native feed ugc not cinematic glam
+pacing 15s beats lip sync natural motion
+negative studio beauty filter overact crowd</code></pre>
+
+</details>
+
+## Late-2000s handheld vlog of an Indonesian woman hunting coconuts
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2084969852171939875)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`, `ugc`
+- **ImgLume record:** [2299](https://imglume.com/prompt/2299)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/496f1a95-b2ad-47cd-8595-40127568bcd6/6ab1b6c0-8864-45a5-95b4-acf4e765ae86-1785941471722 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized terracotta linen shirt, dusty burgundy wide-leg trousers, brown leather sandals, small gold hoop earrings, loose natural wavy hair. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+
+00:00–00:04 Walking through a peaceful tropical village lined with coconut trees, smiling into the camera. "Today we're hunting for fresh coconuts!"
+
+00:04–00:08 Stops at a small roadside coconut stall where a friendly local vendor expertly chops open a fresh green coconut. She watches with an excited reaction.
+
+00:08–00:12 Takes her first sip of fresh coconut water, smiles brightly, and says, "This is so refreshing!"
+
+00:12–00:16 Sits with local villagers on a wooden bench, chatting, laughing, and enjoying the relaxed atmosphere while holding the coconut.
+
+00:16–00:20 Tries opening another coconut herself using simple tools, struggles playfully, laughs, and the locals cheer and laugh with her.
+
+00:20–00:24 Scoops out the soft coconut flesh with a spoon, tastes it, and gives a happy thumbs-up to the camera.
+
+00:24–00:27 Walks slowly through the village, waving to children and locals while carrying the empty coconut shell.
+
+00:27–00:30 Stops beneath tall coconut trees, turns back toward the camera with a warm smile, waves, and says, "See you in my next adventure. Bye!" before naturally ending the recording.
+
+Natural ambience only: birds, palm leaves rustling, village conversations, coconut chopping sounds, footsteps, breeze, insects, and distant laughter. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera vacation vlog with authentic human movement and realistic interactions.</code></pre>
+
+</details>
 
 ## Mukbang Vlog in Traditional Hanok Courtyard
 

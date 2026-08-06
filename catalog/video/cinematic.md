@@ -1,73 +1,381 @@
 # Cinematic video prompts
 
-212 source-linked prompts, newest ImgLume records first.
+220 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## 30秒雨夜 Brutalist 建筑科幻恐怖序列
+## Premium 30‑second cinematic pop music video with luxury fashion
 
-- **Original source:** [@GlitterPixely on X](https://x.com/GlitterPixely/status/2084608069061726397)
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2084992037313507340)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2302](https://imglume.com/prompt/2302)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3246cbab-5219-4241-9e77-def3d804ebaa/d2714e65-1ad2-4e5c-a0b0-77f4675b67c7-1785943283278 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 30-second cinematic pop music video in 16:9 landscape with blockbuster production quality.
+
+The video features one female pop superstar and one male pop singer with youthful, attractive faces, expressive eyes, natural skin texture, confident stage presence, and authentic chemistry. Both artists remain visually consistent throughout every shot.
+
+The female artist wears a crystal-embellished blush corset, oversized pastel pink faux-fur jacket, glossy satin cargo pants, platform sneakers, layered diamond jewelry, shimmering body chains, glamorous editorial makeup, luminous skin, glossy lips, and flowing textured hair. The male artist wears an oversized powder-blue embellished trench coat, shimmering silver knit top, relaxed ivory trousers, crystal sneakers, tinted luxury sunglasses, layered silver chains, rings, bracelets, and premium pop-star accessories. Their outfits naturally react to wind and movement.
+
+Both artists actively perform the song with perfect lip synchronization, realistic mouth movements, expressive facial expressions, confident body language, and emotional delivery. They frequently sing directly into the camera. During instrumental moments they naturally interact with each other through elegant movement and subtle choreography. Reserve full choreography only for the chorus with professional backup dancers.
+
+Blend luxury pop music, Vogue fashion editorials, beauty campaigns, Y2K magazine aesthetics, and world-tour concert visuals. Every frame should resemble a global luxury fashion campaign while remaining fully photorealistic.
+
+Use oversized editorial typography throughout the video with bold condensed fonts, magazine layouts, barcode graphics, registration marks, index numbers, halftone textures, paper overlays, handwritten notes, star icons, heart graphics, sparkles, waveform graphics, glossy gradients, and premium motion graphics. Typography should naturally integrate into architecture, LED screens, mirrors, glass, streets, reflections, and stage environments. Use uplifting pop phrases such as "FEEL THE LOVE", "STAY GOLDEN", "FOREVER YOUNG", "POP VIBES", "HEARTBEAT", "LIVE THE MOMENT", and "SHINE BRIGHT". Do not repeat the same layout twice.
+
+Visual quality should resemble ARRI Alexa 65 with Cooke Anamorphic lenses, IMAX-quality cinematography, HDR color science, cinematic lens flares, volumetric haze, premium beauty lighting, elegant camera movement, shallow depth of field, ultra-realistic skin texture, blockbuster VFX, and luxury commercial production.
+
+Scene 1 (0–5s)
+Inside a luxurious pastel studio featuring giant LED walls, glossy reflective floors, sculptural lighting, mirrors, floating curtains, soft haze, and elegant fashion set design. The female artist opens the song singing directly into the camera while the male artist joins naturally. Oversized kinetic typography and editorial graphics animate around them.
+
+Scene 2 (5–10s)
+Golden-hour rooftop overlooking a modern skyline with reflective glass architecture, designer furniture, and warm sunlight. The artists walk together while singing confidently. Editorial typography wraps around the skyline and architecture.
+
+Scene 3 (10–15s)
+Blue-hour luxury shopping district filled with designer boutiques, giant LED billboards, luxury cars, colorful signs, and cinematic reflections. The artists perform naturally while the camera circles around them. Typography integrates into billboards and digital displays.
+
+Scene 4 (15–20s)
+A spectacular sold-out concert arena featuring massive LED screens, lasers, pyrotechnics, confetti, smoke, moving spotlights, synchronized lighting, professional dancers, and thousands of cheering fans. The artists perform the chorus with energetic choreography and perfect lip-sync.
+
+Scene 5 (20–25s)
+A luxury penthouse at night overlooking a breathtaking skyline with floor-to-ceiling windows, infinity pool reflections, crystal chandeliers, designer interiors, modern art, and elegant ambient lighting. The artists perform together in an intimate yet glamorous atmosphere while editorial graphics subtly float around them.
+
+Scene 6 (25–30s)
+A surreal luxury stage floating above golden clouds at sunrise with mirror floors, cinematic fog, shimmering particles, elegant architecture, and breathtaking golden light. The artists perform the emotional final chorus as dramatic close-ups alternate with cinematic hero shots. Massive elegant typography, fireworks, editorial graphics, lens flares, and premium motion design create an unforgettable blockbuster finale before fading to black.</code></pre>
+
+</details>
+
+## Ultra-realistic Hip Hop Music Video with Consistent Character
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2084962268505370835)
 - **Recommended model:** `seedance`
 - **Source model(s):** `seedance`
 - **Categories:** `cinematic`
-- **ImgLume record:** [2240](https://imglume.com/prompt/2240)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c9e255c-1a5f-4605-a0b2-3e74b3923534/ab955ea3-c145-4bf7-8aab-4da3f1678444-1785865617816 "Video prompt preview")
+- **ImgLume record:** [2297](https://imglume.com/prompt/2297)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fbb24d4c-5ac9-4a7b-84ee-2a441187b5a3/2ce4dbff-cc65-4733-9181-d08289716d01-1785941429704 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>[生成目标]生成一个30秒的实拍科幻恐怖序列。中心主体是 &lt;Explorer&gt;，主要事件是在雨夜 brutalist 建筑外被十二个生物机械体围困，最终以一声声波尖叫将所有敌人震碎成苍白装甲残片。镜头全程手持，无跳切，无物理接触，门始终关闭。
-[角色] &lt;Explorer&gt; 是一位年轻女性。短发，雀斑，脏污的脸，橙蓝拼色短款夹克，BQT 露脐上衣，米色补丁工装裤，工具腰带与腰包，无指手套。
-&lt;Entity&gt; 是十二个高大人形，每个姿态与轮廓各异。光滑 elongated 头颅，单只弯曲犄角，分段式躯干，细长四肢，苍白装甲，青铜点缀。
-[场景] &lt;Building&gt; 是雨夜 brutalist 建筑外立面。大型发光玻璃门，橙色应急照明，湿滑大理石广场，霓虹倒影，雾面玻璃墙。门侧为平滑建筑墙面，无独立立柱，无室内空间。
-[阶段1 / 0-3秒]初始状态：手持极端特写，&lt;Explorer&gt; 蜷缩在雨痕玻璃墙后，仅露出半张脸与一只眼睛。 主要事件：她窥视前方 &lt;Building&gt; 的发光玻璃门，背景虚化中三个 &lt;Entity&gt; 静立于雾中，头颅歪斜。 结束状态：镜头紧贴她面部，浅景深，霓虹在湿地面上漫开。
-[阶段2 / 3-6秒]初始状态：机位延续，&lt;Explorer&gt; 仍蹲伏。 主要事件：她猛然冲出掩体，在大理石广场上全力奔向玻璃门。镜头甩至她背后跟拍。 结束状态：她奔跑背影占画面中心，广场两侧 &lt;Entity&gt; 转头，镜头随脚步震动。
-[阶段3 / 6-9秒]初始状态：跟拍延续，&lt;Explorer&gt; 接近门。 主要事件：她在门前急停，透过玻璃看到更多 &lt;Entity&gt; 静立室内。她转身，后方黑暗中又浮现数个。 结束状态：镜头快速后拉，她被困在门前死角，门保持关闭。
-[阶段4 / 9-12秒]初始状态：极广镜头，从 &lt;Explorer&gt; 背后拍摄。 主要事件：她背抵门侧平滑墙面，十二个 &lt;Entity&gt; 呈松散包围圈逼近，苍白装甲在应急灯下反光。 结束状态：镜头低角度环绕她，她左右扫视，被围在中心。
-[阶段5 / 12-15秒]初始状态：过肩特写，&lt;Explorer&gt; 背贴墙面。 主要事件：后排 &lt;Entity&gt; 填满背景，瘦削身躯遮挡光源。她胸口剧烈起伏。 结束状态：镜头从她肩膀推近至面部，压迫感收紧。
-[阶段6 / 15-18秒]初始状态：面部极端特写，汗水与雨水混合。 主要事件：她抬眼上望，镜头随她颤抖的呼吸微震。背景虚化中，一只 &lt;Entity&gt; 歪头，犄角勾住霓虹。 结束状态：她眼神绝望，嘴唇微张。
-[阶段7 / 18-21秒]初始状态：同上极端特写。 主要事件：她双手抱头，张口发出巨大尖叫。可见的径向扭曲声波从她面部向外扩张，震得镜头与湿地同时颤抖。 结束状态：声波涟漪充满画面，她表情狰狞。
-[阶段8 / 21-24秒]初始状态：广角背拍，&lt;Explorer&gt; 抱头蹲伏。 主要事件：声波撞上包围圈，&lt;Entity&gt; 逐一碎裂成苍白装甲碎片与弯曲青铜犄角残片，慢动作中四散飞溅。 结束状态：碎片如雨落在湿滑大理石上，画面无火无烟。
-[阶段9 / 24-27秒]初始状态：低角度广角，&lt;Explorer&gt; 缓缓放下双手。 主要事件：她环顾空荡广场，眼神茫然。尘埃与碎片在脚边沉降，霓虹照亮寂静湿地。 结束状态：她独自靠墙，四周已无站立的 &lt;Entity&gt;。
-[阶段10 / 27-30秒]初始状态：面部特写，她低头看自己的双手。 主要事件：她抬眼望向空场，微张的嘴露出不可置信。一只弯曲的青铜犄角残片从她靴边滚过。 结束状态：镜头缓慢推近她困惑的表情，定格。
-[音频]无对白，无字幕。雨声环境音，湿脚步音，远处霓虹低频嗡鸣，紧张打击乐渐强，声波爆发时的低音下潜，碎片落地后的寂静。
-[保持一致性]保持 &lt;Explorer&gt; 的夹克、上衣、工装裤、腰带、雀斑、短发完全一致。保持 &lt;Entity&gt; 的光滑头颅、单犄角、分段躯干、细长四肢、苍白装甲、青铜点缀完全一致。保持 &lt;Building&gt; 的雨、霓虹、大理石、玻璃门、门侧墙面完全一致。手持摄影，压抑氛围。&lt;Explorer&gt; 与 &lt;Entity&gt; 之间无任何物理接触。门始终关闭。无独立立柱。无室内场景。</code></pre>
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She has long black hair in a sleek high ponytail with soft face-framing strands and wears a vibrant hot-pink cropped bomber jacket over a fitted black crop top, a black pleated mini skirt layered over biker shorts, white crew socks, chunky sneakers, silver hoop earrings, layered chain necklaces, and rings. Maintain perfect character consistency in every scene.
+
+Create an ultra-realistic premium American hip-hop music video inside a modern industrial studio with glossy black floors, neon pink and blue lighting, graffiti walls, chrome speakers, LED light bars, a professional drum kit, vintage leather furniture, subtle haze, and cinematic contrast.
+
+The video opens with an extreme close-up as she confidently adjusts the collar of her pink jacket, stares directly into the camera, smirks, and snaps her fingers to the beat. She turns sharply and walks toward the camera with effortless swagger while her jacket flows naturally. She performs energetic hip-hop choreography with shoulder pops, smooth footwork, body rolls, confident poses, and expressive hand gestures as the camera circles around her with dynamic handheld movement.
+
+She jumps onto the drum platform, twirls a drumstick between her fingers, then performs an energetic drum solo with realistic stick movement, powerful cymbal crashes, snare hits, and fast tom fills. The camera alternates between overhead, side-profile, macro close-ups, and dramatic low-angle shots synchronized with the rhythm.
+
+The performance continues beside a graffiti-covered roller shutter where she confidently squats, leans against stacked speakers, points toward the lens, and continues lip-syncing with playful attitude. She walks across the studio beneath moving spotlights, lounges briefly on a vintage leather sofa while nodding to the beat, then stands again as industrial fans create natural movement in her ponytail and jacket.
+
+The final performance takes place center stage beneath vibrant magenta and blue lights surrounded by drums, LED light bars, chrome speakers, and graffiti walls. She delivers the final lyrics with bold confidence, spins one drumstick in her hand, throws it toward the camera, crosses her arms with a confident smile, and holds a powerful hero pose as the camera slowly pulls back while the lights fade.
+
+Style: Premium rap music video, luxury editorial fashion aesthetic, cinematic handheld camera, wide-angle hero shots, smooth gimbal movement, realistic lip-sync, expressive performance, physically accurate lighting, natural fabric simulation, realistic skin texture, shallow depth of field, immersive concert atmosphere, photorealistic, ultra-detailed, 4K HDR, 24fps, 16:9 widescreen.
+
+Negative Prompt: No subtitles, no captions, no logos, no watermarks, no duplicate people, no distorted anatomy, no extra fingers, no AI artifacts, no flickering, no low-resolution textures, no cartoon style, no oversaturated colors, no inconsistent outfit or facial features.</code></pre>
 
 </details>
 
-## Music Video Prompt
+## Luxury Fashion Editorial Video with Seamless Wardrobe Transformations
 
-- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
+- **Original source:** [@MelinaVale14 on X](https://x.com/MelinaVale14/status/2084956081424302197)
 - **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `cinematic`
-- **ImgLume record:** [2238](https://imglume.com/prompt/2238)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a58e1d2-96fd-4cce-8fc4-459dd94825a1/69fa074d-3d26-4478-aca4-b8df7b462435-1785865600742 "Image prompt preview")
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2294](https://imglume.com/prompt/2294)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bfc824d-f400-4cd6-aed6-3d1951a68531/cfaba81a-5777-4bb3-a32b-3e6c0f730a8e-1785936990215 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Reference [@Audio1] for the music. A singer performs on a rooftop at golden hour, lips synced to the vocals. Quick cuts on every beat drop between close-up, medium shot, and drone-style wide shot. Wind in her hair, city skyline behind. Lighting shifts with the song's energy.</code></pre>
+<pre><code>Style: Premium fashion editorial • Luxury commercial • Cinematic realism • Vogue-inspired • Photorealistic • Soft golden-hour lighting • Elegant camera movement • Seamless wardrobe transitions • High-end interior design • Luxury architecture • Natural fabric simulation • 16:9 • 4K • HDR • Commercial-grade color grading
+
+Main Character (Continuity Lock):
+Use the uploaded reference model exactly. Preserve her facial features, hairstyle, eye color, skin tone, proportions, expression, gold earrings, layered gold necklaces, and overall identity throughout the entire video. Do not change her face or generate a different person. She remains the only character from beginning to end.
+0:00–0:02 | A Quiet Morning
+
+A luxurious modern penthouse bedroom is bathed in soft golden morning sunlight streaming through floor-to-ceiling sheer curtains. The model sits calmly on the edge of a perfectly made king-size bed wearing an elegant ivory knit lounge set consisting of a relaxed long-sleeve sweater and matching trousers. Marble accents, light oak flooring, linen textures, and minimalist designer furniture create an expensive editorial atmosphere. Slow cinematic push-in.
+0:02–0:04 | Toward the Wardrobe
+
+She stands and walks barefoot across the polished oak floor toward an impressive floor-to-ceiling designer wardrobe. The camera follows smoothly from behind as warm sunlight creates beautiful rim lighting around her silhouette. Her movements are graceful and confident.
+
+0:04–0:06 | The Dressing Room Reveal
+She opens the wardrobe doors to reveal an illuminated luxury dressing room rather than a traditional closet. Designer clothing, handbags, shoes, and accessories are displayed like artwork inside a premium boutique. Warm golden lighting fills the space while subtle floating dust particles create a magical editorial mood.
+
+As she steps inside, the camera performs a smooth 360° orbit. During the rotation, her lounge outfit transforms seamlessly into a sophisticated monochrome luxury look featuring an oversized cream blazer, fitted high-neck knit top, tailored wide-leg trousers, leather belt, elegant heels, and refined gold jewelry. The transformation is fluid, realistic, and invisible.
+
+0:06–0:10 | The Runway Walk
+She walks confidently through a bright marble hallway that resembles a luxury fashion gallery. Massive windows flood the corridor with natural light, creating beautiful reflections on polished stone floors.
+
+With every confident step, her outfit transforms effortlessly:
+
+Elegant beige tailored suit
+
+Modern black tailored evening suit
+Camel designer trench layered over a monochrome ensemble
+
+Each transition happens precisely on a footstep with seamless match cuts and realistic flowing fabric. Alternate between full-body tracking shots, low-angle runway shots, and elegant close-ups of tailoring, accessories, and movement.
+
+0:10–0:13 | Rooftop Reveal
+
+She opens towering glass doors leading to an exclusive rooftop terrace overlooking a breathtaking modern city skyline during golden hour. A gentle breeze naturally moves her hair and clothing as warm sunlight creates soft cinematic rim lighting.
+Her final transformation reveals an elegant couture ensemble with sculptural tailoring, luxurious fabric textures, and a dramatic flowing cape. The camera slowly orbits around her while the cape moves gracefully in the wind.
+0:13–0:15 | Hero Fashion Shot
+
+The camera settles into a dramatic wide shot as she stands confidently overlooking the glowing skyline. The golden sunset reflects across the city while her couture ensemble flows elegantly in the breeze. She turns naturally toward the camera with a poised editorial expression.
+
+A clean luxury fashion logo fades in with the tagline:
+"EVERY MORNING IS A NEW RUNWAY."
+
+Fade to black.</code></pre>
 
 </details>
 
-## Short Drama Prompt
+## 韩剧写实风格校园天台反击短片
 
-- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2084668685042491766)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
-- **Categories:** `cinematic`
-- **ImgLume record:** [2237](https://imglume.com/prompt/2237)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51791009-cc54-4b12-9c66-cff01626b1fd/9a1f6e0d-4849-44cc-9106-0072172e638b-1785865600742 "Image prompt preview")
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2289](https://imglume.com/prompt/2289)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c136f87-c65a-4b73-8f08-ffb853d739d9/d68c029f-c6df-46e8-8c97-869373941873-1785934876451 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Reference [@Image1] for the main character. Scene: Woman rushes through a rainy street at night, clutching an envelope. Camera tracks alongside her. She stops at a door, hesitates, knocks. Close-up on her face , nervous. Door opens, warm light spills out. Cinematic lighting, film grain, tense atmosphere.</code></pre>
+<pre><code>【画质风格】
+
+真人实拍级韩国电影写实质感,全程手持微晃镜头叠加院线级冷调色,青灰偏蓝的阴天色温,肤色保留冷白通透;针织开衫的绒感、百褶裙摆的翻动、发丝飘散、雨前阴云的压抑层次全部写实还原;粗粝胶片颗粒,浅景深人物特写为主;8K 电影级拍摄质感,2.39:1 宽画幅。
+
+【角色设定】
+
+· @她(女主,图片1):按参考图还原——黑发渐变粉色中长卷发,珍珠耳饰,白衬衫系酒红色蝴蝶结领结,米色针织开衫,黑色百褶短裙,黑色中筒袜配黑色乐福鞋;眼神从隐忍低垂到抬眼锐利,动作干脆利落,发力刚猛,擅长近身直拳、肘击与利落的扫踢。
+
+· 围堵人群:五六名穿深色制服风衣着的高个身影,面目始终处于虚焦或背光中,不给正面特写,只作为压迫感群像存在。
+
+· 场景:阴天放学后的教学楼天台,水泥地面,四周是锈迹斑驳的绿色铁丝网围栏,远处城市天际线灰蒙,风把云压得很低,地面散落着被扔掉的书包和课本。
+
+【运镜逻辑】
+
+开场手持镜头从她低垂的脸缓推,建立压抑;书包落地为爆发信号,镜头骤然一沉切入极速;随即进入六连切快速蒙太奇,每一切都是反击特写,快切之间插入两次不到一秒的微慢动作(Micro Slow-mo)拉出"快慢快慢"的爽剧节奏;群体溃退后镜头绕至她背后仰拍全景;最后一击时间放慢,镜头绕侧定格;收尾镜头缓缓后拉,全程张弛交替。
+
+【完整画面流程】
+
+开场:手持镜头微晃,天台上,她被五六道深色身影围在铁丝网前,低着头,粉色发梢被风吹得贴在颊侧,酒红色领结微微歪斜。一只手从画面外伸来,狠狠拍掉她怀里的书包——书包砸在水泥地上,课本散开的一瞬,她垂着的眼睫抬起,眼神骤然锐利。
+
+爆发:她贴着最近一道身影欺身而进,不退反进的瞬间镜头一沉,画面切入六连切快速蒙太奇,快慢交替,节奏抓人:
+
+1. 第一切【快】:近身直拳特写,她拧腰送肩一记直拳打在迎面身影胸口,对方整个人向后踉跄撞进同伴怀里,两人一起跌退,她的粉发梢甩出一道弧线
+
+2. 第二切【微慢】:抓腕反制特写,侧后方一只手抓向她肩膀,画面骤慢——她反手扣住对方手腕拧转,针织开衫的袖口绷紧,对方身体被带得侧翻,悬在半空的瞬间发丝与裙摆同时展开,随即画面弹回极速,对方摔在水泥地上滑出半米
+
+3. 第三切【快】:低位扫踢特写,她顺势沉身一记扫堂腿,乐福鞋鞋跟贴地划出半圆,正面扑来的身影被扫得双脚离地、横着摔倒,黑色中筒袜绷直的小腿线条利落有力
+
+4. 第四切【快】:肘击连段特写,两道身影同时从左右合围,她左肘后顶、右肘横扫,两声闷响连成一线,左右身影各自捂着腹部弯腰跪地,她站在两人中间,裙摆还在惯性摆动
+
+5. 第五切【微慢】:躲拳反击特写,最高的一道身影抡起拳头当头砸下,画面再度骤慢——她只侧头半寸,拳风擦着粉色发梢掠过,几缕断发缓缓飘起,她的眼睛在慢镜里冷冷抬起看向对方;画面弹回极速,她一记膝撞顶在对方腹部,对方弓身抱腹跪倒
+
+6. 第六切【快】:拽领终结特写,她一把拽住最后一人的衣领往下带,对方重心前栽的同时她抬膝再进半步急停——膝盖停在距对方面门一寸处,风压掀起对方额发,对方吓得瘫坐在地连连后爬
+
+六次切镜一气呵成,快慢两档交替咬合,每一帧都拉满反击张力。
+
+收束:镜头绕至她背后低角度仰拍全景,五六道身影或坐或爬,连滚带爬地退向天台门,门"哐"一声撞开又弹回。风掀起她的裙摆和开衫下摆,粉色发尾狂舞,她站在原地缓缓松开攥紧的拳,指节还微微发颤。
+
+终镜:画面放慢,她转过身,弯腰捡起地上的书包,一本一本把散落的课本拾回怀里,拍掉封面的灰。起身时她理了理歪掉的酒红色领结,对着镜头方向抬起眼——眼神已经恢复平静,只是不再低头。镜头缓缓后拉,她独自立在空旷天台正中,铁丝网外阴云翻涌,画面定格。
+
+【环境音效与台词】
+
+全程无背景音乐,原生天台空旷混响,风声持续作底:
+
+· 开场压抑:风穿过铁丝网的呜呜声,人群逼近的杂乱脚步与嗤笑低语(内容模糊不清),书包砸地的一声闷响,课本散落的哗啦声
+
+· 爆发瞬间:她蹬地欺身的一声鞋底摩擦,第一拳命中的厚重闷响瞬间盖过所有嘈杂
+
+· 六连切:拳肘命中的闷响错落密集,扫踢带起的低沉风声,摔地与滑地的连续钝响;两次微慢段所有声音骤然压低拉长,只剩衣料绷紧声、断发飘落的极轻声与她一次沉稳的呼吸,弹回极速时音效同步炸回
+
+· 群体溃退:杂乱仓皇的脚步与爬地声,天台铁门撞开又弹回的哐当声,随后只剩风声
+
+· 收尾:课本拾起的纸页摩擦声,拍灰的两下轻响,理领结的细微布料声,风声渐大,收在一声干净的定格静默
+
+· 人物状态:她全程不发一言,仅出招瞬间伴随极短促的吐气声;终镜前一次绵长的呼气,平静收场</code></pre>
+
+</details>
+
+## Handheld DV 16mm camcorder day-in-the-life montage of influencer CHASE
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2084728365668348364)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2288](https://imglume.com/prompt/2288)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3496353-6375-4133-b65a-560c66561a94/a68dddda-2d4a-420e-9f8b-3b1dffcee409-1785933076741 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm camcorder aesthetic. CHASE records herself throughout every location, mostly holding the camera directly and occasionally setting it down for brief hands-free shots. Preserve natural hand tremors, crooked composition, slow autofocus correction, awkward zooms, accidental face cropping, and moments where the framing briefly loses her. The physical camcorder is never visible.
+
+LOOK: Authentic soft tape-image texture with mild blur, subtle electronic grain, glowing highlights, small automatic-exposure fluctuations, restrained contrast, and natural skin tones. The lighting changes realistically between locations: warm morning light in the apartment → cooler daylight inside the car → intense colorful lighting backstage and onstage.
+
+STYLE: A fast, energetic day-in-the-life montage with sharp cuts between locations and slightly accelerated transitional movement. Reflective voiceover plays over the footage instead of synchronized dialogue. The pace gradually builds from a quiet sleepy morning into a high-energy performance finale.
+
+Character
+
+CHASE — an exceptionally beautiful Instagram influencer and rising pop performer in her 20s. Long glossy dark-brown hair, striking symmetrical features, large expressive eyes, flawless glowing skin, and soft pink lips. Slim, toned figure. Her outfit changes with each location: cozy loungewear at home, stylish casual clothing during the ride, and a glamorous performance outfit for the final scene. Each outfit fully covers her arms and torso.
+
+Setting Progression
+Stylish apartment bedroom in the morning → luxury van interior during the day → busy backstage area and concert stage at night.
+
+Storyboard — 15 seconds, 5 cuts
+(~3s, bedroom, camera resting on a table, soft morning light) She slowly sits up, stretches, fixes her messy hair, and hurriedly packs a small bag. VOICEOVER (CHASE): “Some mornings begin before I’m even fully awake.”
+
+(~3s, van interior, handheld selfie footage, natural window light) She sits beside the window as sunlight moves across her face, casually checking messages on her phone. VOICEOVER (CHASE): “I spend so much time on the road, this place almost feels like home.”
+
+(~3s, van interior, macro detail shot) Close-up of her fingers choosing a song from a playlist while passing sunlight flickers across the screen and her hand. No voiceover, only natural road noise.
+
+(~3s, backstage, fast handheld montage) Quick glimpses of makeup brushes, hair styling, costume adjustments, staff rushing past, and her taking one focused breath before going onstage. VOICEOVER (CHASE): “And then everything suddenly starts moving at once.”
+
+(~3s, stage, wide shot moving into a close-up, energetic finale) Bright stage lights ignite as she steps through the curtains. The camera catches her silhouette, then a brief confident smile before the image cuts to black. VOICEOVER (CHASE): “This moment is why I keep doing it.”</code></pre>
+
+</details>
+
+## Photorealistic police interrogation scene
+
+- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084956693562093999)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2281](https://imglume.com/prompt/2281)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d4646a66-1bb2-446f-b37d-37b800f85c4f/0dfc88cb-590a-4253-92eb-a0980704e753-1785930889558 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic psychological crime drama set in a police interrogation room. A detective presents crime scene photographs to a suspect. When one photo accidentally flips upside down, the suspect instinctively turns it the right way, unknowingly revealing knowledge only the culprit would have. The detective quietly realizes she has caught him.</code></pre>
+
+</details>
+
+## Cats riding a red mini motorcycle viewed from a car window
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2084901309988425731)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2268](https://imglume.com/prompt/2268)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f7215f24-568b-44a8-a2a6-342af00518db/77dafdd0-e801-4249-80ff-f2c2a08f3fb5-1785915976009 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly realistic cinematic shot filmed from inside a moving car looking out the side window, capturing two cats riding a small red mini motorcycle on a suburban road. An orange tabby cat is driving, gripping the handlebars with both front paws, mouth open in a surprised or determined expression, ears slightly back from the wind. Behind it, a fluffy pure white cat is perched as a passenger, holding up a shiny empty metal food bowl with one paw while the other rests for balance, mouth wide open as if meowing or yelling. The motorcycle is a compact red mini bike with a visible headlight, black tires, and a small license plate area. Background shows a typical American suburban street with houses, trees, power lines, a concrete barrier, other cars passing, and a partly cloudy sky. Dynamic motion blur on the background to convey speed, natural daylight, humorous and absurd vibe.</code></pre>
+
+</details>
+
+## Frantic first-person GoPro run through doors across eras ending at Galata Tower
+
+- **Original source:** [@ozansihay on X](https://x.com/ozansihay/status/2084737424081707183)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2265](https://imglume.com/prompt/2265)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab1bc443-94a4-4341-ba8e-d7259879a55a/90f57fa1-a42a-4d13-9383-2bfbb78a84b7-1785909673405 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A frantic first-person GoPro run through doors that jump from dinosaurs to a medieval battlefield, a Wild West duel, and finally Galata Tower in Istanbul — all in one continuous, ultra-real cinematic take.</code></pre>
+
+</details>
+
+## 竹知了与紫色智界R7变形短片
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2084644638724395138)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2255](https://imglume.com/prompt/2255)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aedd41a6-f41d-4fa6-b476-a2248f8e9f4b/542f78b8-1294-42b3-87be-9556fa5d4fac-1785895015028 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>纯属虚构的荒诞动作短片。100%真实手机实拍质感，iPhone纪录片风格，30秒手持一镜到底，无剪辑、无转场。自然日光，轻微呼吸式镜头运动，偶发自动对焦迟疑，轻微滚动快门，真实动态模糊，镜头边缘带少量指纹和灰尘。所有变形、机械运动、撞击和碎片效果都必须具有沉重的现实物理反馈，呈现为全尺寸机械装置与实景特效，绝不能出现电子游戏、动画或廉价CG质感。保留现场原始声音和路人的真实反应。 环境 午后，一家繁忙的鸿蒙智行·智界授权汽车门店停车场。 巨大的落地玻璃展厅内停着数辆新车，销售人员正陪顾客看车。停车场车辆进出不断，工作人员拿着平板在车位间穿梭，几名顾客围着一辆停在室外展示区的紫色智界R7拍照。 现场充满城市车流声、轮胎碾过沥青的声音、门店广播、远处交谈声、鸟鸣和偶尔响起的车辆提示音。一切都像路人偶然拍下、即将病毒式传播的手机视频。 门店原有标识可以自然出现在环境中，但不添加字幕、广告标题或浮动文字。 主角 一位二十五岁左右的成年年轻美女
+，身材和穿着严格参考
+HO2iXF9a4AAZsco
+。 她神态放松，右手拿着一个传统竹制发声玩具“竹知了”。竹知了由短竹筒、细绳和小竹片组成。她一边经过停车场，一边漫不经心地转动竹知了。 竹知了发出连续、滑稽而响亮的“呜哇、呜哇”鸣叫声。 她并不是超级英雄，没有盔甲，不发生身体变形，始终保持普通成年女性的真实外貌。 关键车辆 停车场中央只有一辆紫色智界R7发生变形。 必须准确保持紫色车漆、轿跑SUV车身比例、贯穿式前灯、车轮、车门、玻璃和车身覆盖件的视觉连续性。车辆内部无人，没有驾驶员和乘客。 变形过程必须清晰可读：车轮折叠成为肩部结构，车门展开成为前臂护甲，底盘向下延伸形成双腿，车头与贯穿式灯带上升成为胸部，紫色车顶折叠成机器人头部。所有零件均来自同一辆车，不凭空增加零件，不突然更换车型或颜色。 30秒连续镜头 镜头开始于美女右后方约一米半、与肩膀同高的位置。摄影者跟随她缓缓进入停车场，让她的上半身、手里的竹知了以及前方紫色智界R7同时处于画面中。 镜头不能突然飞起，不能切换机位，也不能拉远成为俯瞰全景。 美女一边走，一边悠闲地转动竹知了。连续的“呜哇、呜哇”声在停车场里格外明显。 几名销售人员和顾客好奇地回头看她，但没有人太在意。 突然，紫色智界R7的贯穿式灯带自行亮起。 竹知了每响一声，R7的车灯便同步闪烁一次。 美女逐渐放慢脚步。 智界R7的车身内部传出低沉的金属震动声。悬架猛然下沉，四条轮胎同时摩擦地面，附近车辆的警报器接连响起。 整辆紫色R7突然开始变形。 引擎盖向两侧裂开，车门旋转展开，车轮离开地面并锁入肩部；底盘向下伸展，两条沉重的机械腿砸落在沥青路面上，震出蜘蛛网状裂纹。 紫色智界R7在停车场中央站立起来，变成一台数层楼高的巨型机器人。 停车场瞬间陷入恐慌。 顾客丢下宣传册和咖啡四散奔逃。销售人员钻到展车后面躲避。购物袋、宣传单和遮阳帽被机器人起身产生的气流卷上半空。两辆正在倒车的汽车发生轻微碰撞，喇叭持续鸣响。 机器人发出沉重的机械咆哮，挥动由车门组成的巨大手臂，将停车场的一根灯杆打弯。它随后抬起机械脚掌，踩扁旁边的空置展示台，水泥碎片和灰尘向四周飞散。 摄影者慌张地向后退并侧身躲避，镜头剧烈摇晃。飞来的小块碎片撞在镜头附近，自动对焦短暂失准，然后重新锁定机器人。 镜头迅速回到美女身上。 所有人都在逃跑。 她却几乎没有反应。 她平静地抬头看了看巨型机器人…… ……然后低头看向手里的竹知了。 机器人转过身体，紫色金属脚掌刮过地面，向她迈出沉重的一步。每一步都令停车场地面震动，玻璃展厅随之颤抖。 美女只是轻轻扬起一侧眉毛。 她握紧细绳，突然加快手腕旋转速度。 竹知了的鸣叫声变得越来越急促。 “呜哇——呜哇——呜哇——” 竹筒内部开始透出淡淡的金色光芒。 光芒越来越强。 十个、数百个、成千上万个发光的竹知了在她身体周围凭空出现，像一群完美同步的金色蜂群，在她头顶和肩膀周围高速盘旋。 旋转产生的强风吹动她的长发和衣角，将停车场里的宣传单、树叶、灰尘和塑料袋全部卷入空中。金色光芒映在周围汽车的玻璃与金属车漆上。 巨型机器人挥动紫色机械手臂，试图拍散竹知了群。机械拳头擦过地面，掀起碎石和尘土。 美女侧身迈开一步避过冲击，双脚重新站稳，身体重心压低，右手仍然牢牢控制细绳。 她突然将竹知了高高举起…… ……然后打了一个清脆的响指。 所有发光的竹知了瞬间向前发射。 天空被无数道金色轨迹划破。 第一批竹知了像精准制导的蜂群，猛烈撞击机器人的膝关节和脚踝；第二批绕着机器人高速盘旋，钻入肩部车轮、车门手臂和胸口灯带之间的机械缝隙。 机器人踉跄后退，机械脚掌在沥青上拖出两道深深的沟槽。它挥拳反击，却不断打空，每一次挥动都带起真实而沉重的气流。 最后一批竹知了在机器人胸前汇聚成高速旋转的金色圆环。 美女猛然向下一拉细绳。 所有竹知了同时发出一声震耳欲聋的巨大鸣叫。 一道肉眼可见的环形空气冲击波正面撞上机器人胸口。 在这一瞬间进入短暂慢动作：紫色机器人全身的机械锁扣依次弹开，车门护甲、车轮、玻璃、底盘和车身覆盖件在空中分离；金色竹知了从零件之间高速穿过，飞散的螺栓、灰尘和细小玻璃颗粒悬浮在阳光中。 这不是爆炸，也不是车辆被彻底摧毁。所有零件仍然属于同一辆紫色智界R7，没有火焰，没有人员受伤。 慢动作结束。 巨型机器人完全失去平衡，重重跪在停车场中央。它的机械结构迅速反向折叠：双腿收回底盘，车轮回到轮拱，车门重新闭合，车头、车顶和灯带准确复位。 伴随最后一声沉重的金属锁定声，机器人重新变回完整的紫色智界R7。 一片寂静。 车辆警报器逐渐停止。 顾客和销售人员小心翼翼地从展车后面探出头。一个销售人员迟疑地走向紫色R7，伸手摸了摸仍然发烫的引擎盖，又立刻把手缩了回来。 一个发光的竹知了缓缓落在美女肩膀上，光芒随即熄灭，重新变成普通竹制玩具。 她漫不经心地拍掉肩上的灰尘，收起细绳，经过已经恢复原状的紫色智界R7。 走出画面前，她回头看了一眼汽车，平静地小声说： “一千万以内最好玩的，还是这个。” 她再次转动竹知了，伴随着“呜哇、呜哇”的声音若无其事地继续向前走。 镜头没有切断，摄影者缓慢停下。画面最后同时保留她渐渐远去的背影、恢复原状的紫色智界R7，以及停车场后方鸿蒙智行·智界门店原有的门头标识。 严格限制 全片只有一个连续手持镜头；不航拍、不突然切换机位、不瞬移、不使用蒙太奇。美女、竹知了和紫色智界R7始终保持外观一致。只能有一辆R7变形，机器人所有零件均来自这辆车。 机器人必须具有真实重量、关节阻力、惯性和落地冲击，不能漂浮、瞬移或像橡胶玩具一样弯曲。竹知了群的运动必须有明确方向、空气阻力和碰撞反馈。 不出现驾驶员受伤、血液、人体撞击或真实人员死亡；不出现火灾与电池爆炸。不生成错误车型、乱码车标、额外手指、人物复制、车辆复制、卡通机器人、动漫光效、电子游戏HUD、字幕、贴纸、旁白、背景音乐或水印。现有门店标识自然入镜即可，不额外生成品牌宣传画面。</code></pre>
+
+</details>
+
+## Studio Ghibli-inspired cinematic cooking animation of grilled chicken shawarma wrap and mint-lime soda
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2084649816920146182)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [2250](https://imglume.com/prompt/2250)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c393b735-9245-4ff8-b931-ce240437c19c/9fa2f3ab-12e0-42c1-b542-ae128efdaec0-1785880275449 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cozy Studio Ghibli-inspired cinematic cooking animation showing a delicious grilled chicken shawarma wrap and refreshing mint-lime soda being prepared step by step. Begin with slicing juicy shawarma meat on a vertical rotisserie, cutting fresh limes, adding ice, mint, and sparkling soda to a chilled glass, then assembling a warm tortilla with grilled chicken, lettuce, tomatoes, onions, purple cabbage, and creamy garlic sauce before rolling it into a perfect wrap. Finish with garnishing the drink with mint and lime, showcasing fizzy bubbles and the final plated meal on a rustic wooden counter in warm golden lighting, with highly detailed food, smooth camera movements, soft depth of field, and a magical hand-painted Ghibli aesthetic.</code></pre>
+
+</details>
+
+## MiniDV style beach walk video of a young Korean woman on Jeju Island
+
+- **Original source:** [@meng_dagg695 on X](https://x.com/meng_dagg695/status/2084597202882908299)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2245](https://imglume.com/prompt/2245)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5c4f90f-5fbe-46f9-9957-b61ccf82c804/31d16203-3831-45b2-8c1c-0098d0138d4e-1785871889395 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 23, natural everyday appearance, long black hair worn loose and slightly messy from the sea breeze, realistic skin texture with lightly sun-kissed cheeks, minimal makeup, cheerful and carefree personality. Wearing a loose white oversized linen shirt over a light blue tank top, beige linen shorts, white sandals, a woven straw hat, and a small canvas tote bag. Maintain consistent identity, clothing, hairstyle, and appearance throughout.
+
+Location: A quiet beach on Jeju Island during an early summer morning. Soft golden sunlight, gentle ocean waves, black volcanic rocks, clear turquoise water, seashells scattered along the sand, a few distant fishermen, and a peaceful, uncrowded shoreline.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior, natural body language, authentic vacation atmosphere, warm morning light, rich environmental details.
+
+Camera Style: Early-2000s Sony MiniDV camcorder. Heavy handheld shake, imperfect framing, autofocus hunting between the waves and her face, faded colours, soft contrast, slight motion blur, exposure pumping toward the bright ocean, MiniDV compression artifacts, no stabilization.
+
+00:00–00:03
+She walks barefoot along the shoreline carrying her sandals in one hand. Small waves wash over her feet as the camera briefly focuses on the water before finding her face.
+
+00:03–00:06
+She crouches to pick up a unique seashell, smiling as she brushes the sand away with her thumb. The operator moves closer, causing slight autofocus breathing.
+
+00:06–00:09
+Standing on a black volcanic rock, she watches the horizon while the sea breeze moves her hair and oversized shirt naturally.
+
+00:09–00:12
+She skips a flat stone across the calm water, laughing softly after it bounces several times. The camera shakes as the operator reacts a little too late.
+
+00:12–00:15
+She turns toward the camcorder with a warm smile, places the seashell inside her tote bag, and continues walking down the empty beach. The recording drifts toward the waves and abruptly cuts to black.
+
+Audio: Natural ambience only–gentle waves, seabirds, light wind, distant fishermen talking, footsteps on wet sand, water splashing, and rustling fabric. No music. No narration.
+
+Goal: A forgotten MiniDV home video from summer 2004, capturing a peaceful morning walk on Jeju Island that feels warm, imperfect, nostalgic, and completely authentic.</code></pre>
 
 </details>
 

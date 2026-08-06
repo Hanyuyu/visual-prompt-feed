@@ -1,24 +1,102 @@
 # Character video prompts
 
-37 source-linked prompts, newest ImgLume records first.
+38 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Timestamp Editing Prompt
+## Luxury Fashion Editorial Video with Seamless Wardrobe Transformations
 
-- **Original source:** [@TheAIColony on X](https://x.com/TheAIColony/status/2084630768345596145)
+- **Original source:** [@MelinaVale14 on X](https://x.com/MelinaVale14/status/2084956081424302197)
 - **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `character`
-- **ImgLume record:** [2236](https://imglume.com/prompt/2236)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/136bff70-2d5a-4ae8-abfa-76775bd0c9fd/918efea4-fc8c-43a0-b53e-ff4ba8b79ded-1785865600742 "Image prompt preview")
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2294](https://imglume.com/prompt/2294)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bfc824d-f400-4cd6-aed6-3d1951a68531/cfaba81a-5777-4bb3-a32b-3e6c0f730a8e-1785936990215 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Edit 0:11-0:14. The character's expression changes from neutral to a warm smile as she looks at the camera. Keep everything else , lighting, camera movement, background , exactly the same.</code></pre>
+<pre><code>Style: Premium fashion editorial • Luxury commercial • Cinematic realism • Vogue-inspired • Photorealistic • Soft golden-hour lighting • Elegant camera movement • Seamless wardrobe transitions • High-end interior design • Luxury architecture • Natural fabric simulation • 16:9 • 4K • HDR • Commercial-grade color grading
+
+Main Character (Continuity Lock):
+Use the uploaded reference model exactly. Preserve her facial features, hairstyle, eye color, skin tone, proportions, expression, gold earrings, layered gold necklaces, and overall identity throughout the entire video. Do not change her face or generate a different person. She remains the only character from beginning to end.
+0:00–0:02 | A Quiet Morning
+
+A luxurious modern penthouse bedroom is bathed in soft golden morning sunlight streaming through floor-to-ceiling sheer curtains. The model sits calmly on the edge of a perfectly made king-size bed wearing an elegant ivory knit lounge set consisting of a relaxed long-sleeve sweater and matching trousers. Marble accents, light oak flooring, linen textures, and minimalist designer furniture create an expensive editorial atmosphere. Slow cinematic push-in.
+0:02–0:04 | Toward the Wardrobe
+
+She stands and walks barefoot across the polished oak floor toward an impressive floor-to-ceiling designer wardrobe. The camera follows smoothly from behind as warm sunlight creates beautiful rim lighting around her silhouette. Her movements are graceful and confident.
+
+0:04–0:06 | The Dressing Room Reveal
+She opens the wardrobe doors to reveal an illuminated luxury dressing room rather than a traditional closet. Designer clothing, handbags, shoes, and accessories are displayed like artwork inside a premium boutique. Warm golden lighting fills the space while subtle floating dust particles create a magical editorial mood.
+
+As she steps inside, the camera performs a smooth 360° orbit. During the rotation, her lounge outfit transforms seamlessly into a sophisticated monochrome luxury look featuring an oversized cream blazer, fitted high-neck knit top, tailored wide-leg trousers, leather belt, elegant heels, and refined gold jewelry. The transformation is fluid, realistic, and invisible.
+
+0:06–0:10 | The Runway Walk
+She walks confidently through a bright marble hallway that resembles a luxury fashion gallery. Massive windows flood the corridor with natural light, creating beautiful reflections on polished stone floors.
+
+With every confident step, her outfit transforms effortlessly:
+
+Elegant beige tailored suit
+
+Modern black tailored evening suit
+Camel designer trench layered over a monochrome ensemble
+
+Each transition happens precisely on a footstep with seamless match cuts and realistic flowing fabric. Alternate between full-body tracking shots, low-angle runway shots, and elegant close-ups of tailoring, accessories, and movement.
+
+0:10–0:13 | Rooftop Reveal
+
+She opens towering glass doors leading to an exclusive rooftop terrace overlooking a breathtaking modern city skyline during golden hour. A gentle breeze naturally moves her hair and clothing as warm sunlight creates soft cinematic rim lighting.
+Her final transformation reveals an elegant couture ensemble with sculptural tailoring, luxurious fabric textures, and a dramatic flowing cape. The camera slowly orbits around her while the cape moves gracefully in the wind.
+0:13–0:15 | Hero Fashion Shot
+
+The camera settles into a dramatic wide shot as she stands confidently overlooking the glowing skyline. The golden sunset reflects across the city while her couture ensemble flows elegantly in the breeze. She turns naturally toward the camera with a poised editorial expression.
+
+A clean luxury fashion logo fades in with the tagline:
+"EVERY MORNING IS A NEW RUNWAY."
+
+Fade to black.</code></pre>
+
+</details>
+
+## Handheld DV 16mm camcorder day-in-the-life montage of influencer CHASE
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2084728365668348364)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2288](https://imglume.com/prompt/2288)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3496353-6375-4133-b65a-560c66561a94/a68dddda-2d4a-420e-9f8b-3b1dffcee409-1785933076741 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm camcorder aesthetic. CHASE records herself throughout every location, mostly holding the camera directly and occasionally setting it down for brief hands-free shots. Preserve natural hand tremors, crooked composition, slow autofocus correction, awkward zooms, accidental face cropping, and moments where the framing briefly loses her. The physical camcorder is never visible.
+
+LOOK: Authentic soft tape-image texture with mild blur, subtle electronic grain, glowing highlights, small automatic-exposure fluctuations, restrained contrast, and natural skin tones. The lighting changes realistically between locations: warm morning light in the apartment → cooler daylight inside the car → intense colorful lighting backstage and onstage.
+
+STYLE: A fast, energetic day-in-the-life montage with sharp cuts between locations and slightly accelerated transitional movement. Reflective voiceover plays over the footage instead of synchronized dialogue. The pace gradually builds from a quiet sleepy morning into a high-energy performance finale.
+
+Character
+
+CHASE — an exceptionally beautiful Instagram influencer and rising pop performer in her 20s. Long glossy dark-brown hair, striking symmetrical features, large expressive eyes, flawless glowing skin, and soft pink lips. Slim, toned figure. Her outfit changes with each location: cozy loungewear at home, stylish casual clothing during the ride, and a glamorous performance outfit for the final scene. Each outfit fully covers her arms and torso.
+
+Setting Progression
+Stylish apartment bedroom in the morning → luxury van interior during the day → busy backstage area and concert stage at night.
+
+Storyboard — 15 seconds, 5 cuts
+(~3s, bedroom, camera resting on a table, soft morning light) She slowly sits up, stretches, fixes her messy hair, and hurriedly packs a small bag. VOICEOVER (CHASE): “Some mornings begin before I’m even fully awake.”
+
+(~3s, van interior, handheld selfie footage, natural window light) She sits beside the window as sunlight moves across her face, casually checking messages on her phone. VOICEOVER (CHASE): “I spend so much time on the road, this place almost feels like home.”
+
+(~3s, van interior, macro detail shot) Close-up of her fingers choosing a song from a playlist while passing sunlight flickers across the screen and her hand. No voiceover, only natural road noise.
+
+(~3s, backstage, fast handheld montage) Quick glimpses of makeup brushes, hair styling, costume adjustments, staff rushing past, and her taking one focused breath before going onstage. VOICEOVER (CHASE): “And then everything suddenly starts moving at once.”
+
+(~3s, stage, wide shot moving into a close-up, energetic finale) Bright stage lights ignite as she steps through the curtains. The camera catches her silhouette, then a brief confident smile before the image cuts to black. VOICEOVER (CHASE): “This moment is why I keep doing it.”</code></pre>
 
 </details>
 

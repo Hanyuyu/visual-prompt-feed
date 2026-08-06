@@ -1,9 +1,43 @@
 # Nature image prompts
 
-7 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Tranquil Dreamlike Landscape with Red Sun and Solitary Figure
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2084673238492188866)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`, `seedream`
+- **Categories:** `nature`
+- **ImgLume record:** [2243](https://imglume.com/prompt/2243)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b90154ca-a724-445b-b711-cbba8b7901b7/6253b901-f6d3-42e5-877a-21f31a58a68e-1785871869351 "Seedream V5 pro") · [2](https://cdn.imglume.com/prompts/byradar/b90154ca-a724-445b-b711-cbba8b7901b7/1bf7c323-64cb-49f0-a1cb-e3aa3228d7e3-1785871869351 "Nano Banana 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A tranquil, dreamlike landscape featuring a large, glowing sun low on the horizon, casting a warm red hue across the sky and water. On the left, tall trees with vivid red foliage stand on a rocky shoreline, their reflection mirrored in the still water below. On the right, a solitary figure in red stands on a rock, gazing out over the serene scene, creating a sense of solitude and contemplation. The overall composition is balanced, with soft, ethereal lighting and a calm, introspective mood.</code></pre>
+
+</details>
+
+## Serene Dreamlike Landscape with Glowing Sun and Red Figure
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2084673238492188866)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`, `seedream`
+- **Categories:** `nature`
+- **ImgLume record:** [2242](https://imglume.com/prompt/2242)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/77132a6b-e379-4692-be6b-8a5dc142481d/aef2f499-b54e-462b-a1e1-da0d881730da-1785871869351 "Seedream V5 pro") · [2](https://cdn.imglume.com/prompts/byradar/77132a6b-e379-4692-be6b-8a5dc142481d/1db4f746-a239-4fe2-bc96-59a9c653f2b3-1785871869351 "Nano Banana 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A serene, dreamlike landscape featuring a large glowing sun low on the horizon, casting a warm red and pink hue across the sky and water. On the left, tall trees with vibrant red foliage stand atop rocky terrain, their branches reaching out and partially silhouetted against the sun. The water below is calm and reflective, mirroring the sun and trees. A solitary figure in red stands on a rocky outcrop, gazing at the tranquil scene, evoking a sense of solitude, wonder, and tranquility. The composition is balanced, with a soft, ethereal quality and a surreal, painterly style.</code></pre>
+
+</details>
 
 ## Cinematic jungle chase on a giant blue lynx
 

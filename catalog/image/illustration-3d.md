@@ -1,9 +1,57 @@
 # Illustration 3d image prompts
 
-24 source-linked prompts, newest ImgLume records first.
+25 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic portrait with 3D chibi and floating music player
+
+- **Original source:** [@de_mon010 on X](https://x.com/de_mon010/status/2084578836952531055)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `illustration-3d`, `photography`
+- **ImgLume record:** [2260](https://imglume.com/prompt/2260)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/98cc5883-b820-443e-b6be-d8ee987dee68/ad86dd08-baac-4945-bffe-cf26918fec9a-1785903372229 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 4:5 ultra-realistic cinematic portrait based on the uploaded reference image, preserving the subject’s facial features, hairstyle, skin tone, body proportions, sunglasses, accessories, and overall identity with maximum accuracy.
+
+Place the subject in a modern outdoor urban environment with a sleek glass building façade, tiled pavement, black metal railing, and soft natural daylight. Position the subject casually leaning one arm on the railing with the other hand in the pocket, looking away from the camera for a relaxed, confident lifestyle aesthetic.
+
+Behind the subject, add a large floating minimalist dark-gray music player interface with rounded corners and subtle drop shadows. The interface should feature:
+
+Square album artwork (sunset silhouette over the ocean)
+Playlist label: PLAYING FROM PLAYLIST
+Playlist name: Chill Vibes
+Song title: Sunset Drive Artist: Ocean Avenue
+Progress bar with timestamps
+Playback controls (shuffle, previous, play, next, repeat)
+Favorite (heart) icon
+Modern streaming app UI inspired by Spotify/Apple Music (without using logos)
+
+Beside the subject, include a high-quality 3D chibi cartoon version of the same person with: Matching brown button-up shirt, light blue wide-leg jeans, white sneakers, bracelet, watch, and necklace
+Matching leaning pose against the railing with crossed legs
+Premium Pixar-inspired 3D rendering with realistic materials, soft lighting, and detailed textures
+
+Maintain:
+
+Eye-level camera angle
+Soft natural lighting
+Shallow depth of field
+Sharp focus on both the subject and Photorealistic skin textures and fabric details
+Premium Instagram editorial aesthetic
+Clean color grading with subtle contrast
+Ultra-detailed, 8K, HDR, realistic reflections, soft shadows, professional photography, lifestyle fashion portrait. chibi
+Balanced composition with the music player occupying the upper-left background
+
+Oversized head and expressive eyes
+Identical hairstyle, beard, sunglasses, skin tone, and facial features</code></pre>
+
+</details>
 
 ## Soft minimalist Korean webtoon style traveling family illustration
 

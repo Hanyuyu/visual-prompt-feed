@@ -1,9 +1,128 @@
 # Travel image prompts
 
-12 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Elegant handcrafted travel journal poster for {CITY}
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2084865072179052661)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2280](https://imglume.com/prompt/2280)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2591df4d-4cb9-437f-b507-b9f4313fc42f/1aea154f-3050-42cd-85b7-c6fd7c14381b-1785928609189 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2591df4d-4cb9-437f-b507-b9f4313fc42f/0a3e85f8-6023-4062-a977-2c425512ba36-1785928609189 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2591df4d-4cb9-437f-b507-b9f4313fc42f/36dc8cfa-b05c-4128-9bc5-e485d1d0706e-1785928609189 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an elegant handcrafted travel journal poster celebrating {CITY}, designed as a premium editorial travel illustration on warm textured watercolor paper.
+The composition is a top-down, slightly angled flat-lay where a fountain pen held by a human hand is actively drawing a flowing ink river/road that connects iconic landmarks of the city, making the artwork appear to come alive.
+The city name "{CITY}" appears prominently in large expressive brush-calligraphy at the upper left. Beneath it is a short poetic travel quote about the city in elegant handwritten script.
+Along the flowing ink path are highly detailed miniature architectural dioramas representing the city's most recognizable landmarks, seamlessly emerging from the paper. Include:
+the city's most famous monument or skyline icon
+a historic building or cultural landmark
+a famous street, waterfront, bridge, or public space
+an authentic café, food stall, restaurant, or local dining scene
+a signature local food and drink
+an iconic local vehicle or transportation (tram, metro, taxi, train, ferry, tuk-tuk, cable car, etc.)
+subtle local vegetation and street furniture
+Scatter realistic vintage travel memorabilia across the page:
+passport stamps customized for {CITY}
+transit ticket
+postage stamp
+instant polaroid photo of a famous view
+handwritten travel notes
+tiny doodles of birds, clouds, hearts, arrows, and decorative ink flourishes
+compass or navigation sketch (optional)
+Every landmark is rendered as an ultra-detailed miniature architectural model with cinematic realism, intricate textures, tiny people, street lamps, trees, pavement stones, water reflections, and handcrafted scale-model quality.
+The flowing dark-blue ink transforms into rivers, roads, waterfronts, or streets that naturally guide the eye through the composition.
+The entire layout feels balanced with generous negative space, resembling a luxury travel scrapbook mixed with an architect's sketchbook and a handcrafted pop-up paper diorama.
+Lighting is warm natural daylight from the upper right, producing soft realistic shadows that emphasize the miniature models.
+Color palette:
+warm cream textured paper
+deep navy fountain pen ink
+muted earth tones
+soft greens
+warm sandstone architecture
+subtle vintage travel colors
+Style keywords:
+handcrafted miniature diorama, paper engineering, editorial travel illustration, luxury travel poster, premium scrapbook, architectural scale model, tilt-shift realism, photorealistic miniatures, fountain pen illustration, watercolor paper texture, cinematic lighting, ultra-detailed, premium print design, whimsical yet elegant.
+Composition requirements:
+portrait orientation (4:5)
+top-down angled flat-lay
+large calligraphy title at top left
+writing hand with fountain pen at upper right
+flowing ink path through the center
+landmarks distributed from top to bottom
+decorative travel elements placed around the margins
+clean premium editorial balance
+no clutter
+highly legible typography
+Replace all text, tickets, stamps, quotes, and labels with authentic city-specific content for {CITY}.
+Ultra-realistic, 8K, exceptional detail, premium travel campaign quality, award-winning editorial illustration.</code></pre>
+
+</details>
+
+## Venice Before Everyone Wakes
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2084696546671841280)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [2273](https://imglume.com/prompt/2273)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b0dcb25e-9109-4e7d-b00a-712a81d75809/47738d8b-435d-4790-9cdf-3c4dbb1cc51d-1785922259819 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic travel photograph in portrait (9:16).
+
+Scene: Venice just before sunrise, completely peaceful with empty canals and no tourists. Warm golden sunlight spills across historic Venetian buildings with soft reflections dancing on the calm water.
+
+A beautiful woman wearing a flowing vintage cream dress stands gracefully on an elegant stone bridge, holding a classic mirrorless camera while quietly admiring the sunrise. Her dress gently moves in the morning breeze, creating a sense of elegance and freedom.
+
+Below, a single traditional gondola glides silently through the canal, leaving delicate ripples behind. Window flower boxes, weathered pastel buildings, ornate balconies, old lanterns, and intricate bridge railings add authentic Venetian charm.
+
+The atmosphere feels calm, luxurious, and timeless—as if the entire city belongs to her for a few magical minutes.
+
+Golden hour lighting, volumetric sun rays, cinematic composition, soft haze, ultra-detailed architecture, realistic water reflections, shallow depth of field, premium travel photography, editorial luxury aesthetic, National Geographic quality, Vogue Travel style, HDR, 8K, masterpiece, warm color grading, natural skin tones, highly detailed textures, scroll-stopping composition, no text, no watermark, no crowds, no modern distractions.</code></pre>
+
+</details>
+
+## Breakfast Where the Mountains Touch the Sky
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2084796141112340571)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2267](https://imglume.com/prompt/2267)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/26fbc11a-236d-4c4e-a4ca-50c51dba144f/4064d106-fea5-4eb9-8c61-505db04bd63d-1785915963433 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic luxury travel photograph in portrait (9:16).
+
+Scene: A handcrafted wooden breakfast boat gently floats on a perfectly calm crystal-clear alpine lake at sunrise. The water is completely still, creating flawless mirror reflections of towering snow-capped mountains, evergreen forests, and a glowing golden sky.
+
+A beautiful stylish female traveler sits elegantly at the floating breakfast table, wearing a cozy cream knit sweater with a flowing ivory skirt. She peacefully holds a warm cup of coffee while gazing toward the majestic mountains, embracing the silence of the morning. Her posture feels natural, relaxed, and luxurious.
+
+The breakfast setting is beautifully arranged with freshly baked croissants, artisan pastries, fluffy pancakes topped with berries, seasonal fruits, orange juice, cappuccino, handcrafted ceramic plates, polished cutlery, linen napkins, fresh wildflowers in a glass vase, and a small travel journal. Everything looks refined, warm, and inviting.
+
+The floating wooden platform has elegant craftsmanship with rich walnut textures, blending seamlessly with the crystal-clear water. Beneath the surface, smooth lake stones are faintly visible through the transparent water, adding depth and realism.
+
+Surrounding the lake are dramatic alpine peaks glowing with the first light of sunrise, soft morning mist drifting above the water, dense pine forests, and a secluded luxury mountain lodge tucked into the distant shoreline.
+
+Atmosphere: peaceful, exclusive, and dreamlike, as if the traveler has discovered a hidden luxury retreat untouched by time.
+
+Ultra-realistic, cinematic golden hour lighting, volumetric sun rays, flawless mirror reflections, luxury travel editorial photography, Aman Resorts × Four Seasons alpine aesthetic, Vogue Travel style, National Geographic quality, HDR, 8K, ultra-detailed textures, realistic water physics, natural skin tones, shallow depth of field, warm color grading, premium composition, scroll-stopping masterpiece, no text, no watermark, no crowds, no boats, no modern buildings, no distractions.</code></pre>
+
+</details>
 
 ## New York cute travel illustration
 
