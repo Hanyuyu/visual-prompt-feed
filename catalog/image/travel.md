@@ -1,9 +1,55 @@
 # Travel image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+17 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic portrait of a woman on a luxury yacht
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2085409218623103308)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [2434](https://imglume.com/prompt/2434)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b172f0a5-77aa-4e76-a67a-ef5dcb1a6fda/e485dd33-7385-44ce-9d76-6e513b36c347-1786102633175 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b172f0a5-77aa-4e76-a67a-ef5dcb1a6fda/d177d21f-f690-4fd6-b8a0-a76752504fb1-1786102633175 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An ultra-realistic close-up portrait of an elegant young woman enjoying a sunny afternoon aboard a luxury yacht cruising across a pristine tropical lagoon. She is captured from a three-quarter rear angle, her body turned away from the camera as she glances back with a relaxed, radiant smile. She has flawless fair skin, a softly sculpted oval face, expressive dark eyebrows, delicate facial features, naturally rosy lips, and luminous skin. Her long chestnut-brown wavy hair flows freely in the ocean breeze. She is dressed in a sleek black sleeveless top, accessorized with vintage-inspired oval sunglasses featuring a slim gold frame and a minimalist rose-gold wristwatch. Behind her, sparkling turquoise water stretches to the horizon beneath a vivid blue sky filled with towering white clouds, creating an idyllic luxury travel atmosphere. Warm natural sunlight enhances the rich ocean colors and subtle skin tones. Shallow depth of field, premium travel editorial style, lifelike skin detail, crisp hair strands, HDR photography, cinematic realism, flagship smartphone camera quality, ultra-detailed 8K.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic luxury travel photograph of a Tuscan vineyard at golden hour
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2084942615762624993)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [2323](https://imglume.com/prompt/2323)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/01c918f5-3bf3-434b-bca6-3f790ab25a54/45ca72d3-8b82-4bfd-ab75-2417c592051c-1785985341924 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic luxury travel photograph in portrait (9:16).
+
+Scene: A breathtaking Tuscan vineyard during harvest season at golden hour. Endless rows of ripe grapevines flow across rolling hills, glowing beneath the warm evening sun. Tall cypress trees, rustic stone villas, and winding country roads complete the timeless Italian countryside.
+
+In the foreground, beneath a magnificent centuries-old olive tree, a beautiful stylish female traveler relaxes at an elegant rustic wooden table. She wears a flowing cream linen dress, a wide-brim straw hat resting beside her, and subtle gold jewelry. She gently raises a glass of deep red Tuscan wine while admiring the endless vineyards. Her expression is peaceful, elegant, and completely immersed in the moment.
+
+Beside the table are two vintage Italian bicycles with wicker baskets filled with fresh lavender and grapes, adding a romantic countryside charm. The table is beautifully arranged with an artisan charcuterie board, aged cheeses, fresh figs, grapes, olives, warm bread, olive oil, handmade pasta, a bottle of premium Chianti wine, linen napkins, elegant crystal glassware, and wildflowers in a rustic ceramic vase.
+
+Golden sunlight filters through the olive tree branches, casting soft dappled shadows across the table. A gentle breeze moves the dress and vineyard leaves while birds glide across the glowing sky. In the distance, an authentic Tuscan stone farmhouse overlooks the hills, creating a peaceful luxury escape.
+
+Atmosphere: romantic, slow living, luxury countryside retreat, authentic Italian harvest season, peaceful and timeless.
+
+Ultra-realistic, cinematic golden hour lighting, volumetric sun rays, rich warm color grading, Vogue Travel editorial photography, National Geographic quality, Aman Resorts aesthetic, HDR, 8K, ultra-detailed textures, realistic skin tones, shallow depth of field, premium luxury travel photography, masterpiece composition, scroll-stopping image, no text, no watermark, no crowds, no modern vehicles, no distractions.</code></pre>
+
+</details>
 
 ## Elegant handcrafted travel journal poster for {CITY}
 

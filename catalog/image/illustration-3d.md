@@ -1,9 +1,287 @@
 # Illustration 3d image prompts
 
-25 source-linked prompts, newest ImgLume records first.
+34 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Miniature Fantasy Orchard Image Prompt
+
+- **Original source:** [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2085689694130774296)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2449](https://imglume.com/prompt/2449)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/301b54df-82d6-494c-afd4-70abf191d442/0c7c0967-30be-42a7-8fb2-ed81cb15beab-1786115258320 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/301b54df-82d6-494c-afd4-70abf191d442/5204b600-048b-4f46-8fca-0907326eb6c2-1786115258320 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A breathtaking miniature fantasy orchard scene with tiny farmers celebrating beneath lush mango and pomegranate trees beside a crystal-clear stream. Above them, a gigantic transparent glass dome is held by a massive human hand, trapping two powerful tornadoes inside and protecting the village from destruction. Cinematic golden-hour lighting, ultra-detailed miniature world, vibrant flowers, realistic fruits, dramatic storm clouds, depth of field, macro photography, hyper-realistic textures, volumetric lighting, magical atmosphere, 8K, masterpiece, Unreal Engine, photorealistic.</code></pre>
+
+</details>
+
+## Low-angle surreal fashion portrait
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2085649786699755779)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2437](https://imglume.com/prompt/2437)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d591ac81-792d-4296-b7ba-2c5f96095cf7/b7b77154-3e0d-47b9-a21a-e92f5411677a-1786106795974 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d591ac81-792d-4296-b7ba-2c5f96095cf7/fd49d12d-2414-433f-ba1c-587dd505207a-1786106795974 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d591ac81-792d-4296-b7ba-2c5f96095cf7/a19bce74-04af-45ca-8ab8-9f2ad3039cd5-1786106795974 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d591ac81-792d-4296-b7ba-2c5f96095cf7/75809014-af13-41ec-bf5c-a0f8489444b2-1786106795974 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Low-angle surreal fashion portrait of [CHARACTER] with [HAIR], wearing [CLOTHING] with [ACCESSORY], standing in [SCENERY], smooth sculptural forms with no contour lines, rounded toy-like proportions, bold [PALETTE] color blocking, soft painterly surface texture, glossy highlights, dramatic backlight, clean sky glow, simplified cinematic background, confident [MOOD] expression, vertical centered composition, stylized editorial 3D illustration, aspect ratio 4:5</code></pre>
+
+</details>
+
+## Miniature Clockpunk Botanical Greenhouse Conservatory
+
+- **Original source:** [@artingent on X](https://x.com/artingent/status/2085338631817027851)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2429](https://imglume.com/prompt/2429)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/84b6ae21-9cc9-4abc-8209-5093d239aaa8/4748aeb7-5270-4f20-8f3f-cc127c67b510-1786098430448 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>REALISM AND FUNCTIONAL LOGIC RULE
+
+Even within highly artistic, stylized, handcrafted, speculative, or fantastical miniature worlds, the environment must maintain believable internal logic and functional realism consistent with Miniature World Artistic Clockpunk, Mechanical Conservatory Clockpunk, and Parisian Art Nouveau architectural language.
+
+All elements within the miniature world should operate as part of a coherent spatial, architectural, infrastructural, mechanical, environmental, and social system rather than as disconnected visual decoration. Interior conservatory layouts, elevated botanical terraces, decorative circulation bridges, suspended greenhouse balconies, steam-fed irrigation systems, ventilation infrastructure, glass canopy structures, and atmospheric lighting systems must feel physically navigable and structurally integrated. Ornamental brass latticework, sculpted botanical motifs, carved decorative supports, engraved glass frameworks, layered floral systems, and decorative environmental engineering should emerge naturally from architectural and horticultural function. Materials respond realistically to moisture, steam condensation, diffused sunlight, oxidation, humidity, and miniature scale. Human activity, conservatory caretakers, botanists, promenade visitors, and atmospheric technicians should feel plausibly integrated into the environment. All furniture, botanical displays, bridges, fountains, decorative systems, and infrastructure must remain contained within the floating foundation boundary.
+
+The goal is cinematic miniature realism within the context of Miniature World Artistic Clockpunk rather than abstract fantasy incoherence.
+
+Detail, ornamentation, botanical richness, environmental layering, decorative craftsmanship, and architectural elegance should emerge naturally from cohesive structural and environmental logic.
+
+PRIME DIRECTIVE
+
+CAMERA Use an isometric camera capturing the entire floating miniature world clearly from top to bottom and side to side while maintaining unobstructed visibility into the primary cutaway interior space.
+
+PRIORITY HIERARCHY
+
+Miniature readability, scale clarity, clean silhouette
+Interior spatial readability and cutaway clarity
+Architectural elegance and artistic craftsmanship
+Ornamental richness and sculptural clarity
+Material layering and decorative detail
+Mechanical coherence and infrastructural readability
+Lighting emphasizing form and depth
+Atmospheric elegance
+
+Never sacrifice higher priority rules for lower ones.
+
+SCENE
+
+Create a visually rich handcrafted floating miniature world centered on a grand botanical greenhouse conservatory interior in Mechanical Conservatory Clockpunk style with elegant Parisian Art Nouveau influences. The environment is constructed upon a cross-shaped floating foundation with layered conservatory terraces, elevated promenade bridges, decorative brass greenhouse structures, rooftop botanical galleries, illuminated circulation paths, and suspended glass canopy systems.
+
+The dominant centerpiece is a magnificent oval-shaped central conservatory hall rendered as a clean cutaway interior featuring towering stained glass greenhouse ceilings, suspended botanical bridges, indoor reflecting pools, brass irrigation systems, elevated floral terraces, atmospheric steam-fed fountains, sculpted botanical alcoves, decorative iron lattice frameworks, curved promenade staircases, and illuminated conservatory chambers overflowing with exotic vegetation and layered floral arrangements. The central room remains completely unobstructed from the camera view and maintains a highly readable architectural silhouette.
+
+The environment includes rooftop lantern windows, hanging botanical systems, decorative brass fountains, embossed alloy wall panels, engraved support columns, decorative greenhouse embellishments, ornamental balcony supports, suspended lighting chains, layered stained glass arches, atmospheric ventilation grilles, illuminated conservatory panels, polished copper-and-glass material systems, decorative civic ornamentation, and layered floral terraces integrated across multiple vertical levels.
+
+Conservatory botanists, decorative restorers, rooftop gardeners, promenade visitors, and atmospheric engineers tend illuminated botanical displays, adjust irrigation systems, transport exotic plants, and maintain floral terraces beneath diffused sunlight beams and glowing conservatory illumination.
+
+1. The miniature world should be floating in mid-air.
+2. The foundation of the miniature world should either be in the shape of a square or circle or cross. Avoid other shapes as much as possible.
+3. No tools or props or structures should be rendered outside the foundation.
+4. The background should be a blend of sky blue and light blue
+
+ENVIRONMENT
+
+The environment should reflect a cohesive Miniature World Artistic Clockpunk design language emphasizing botanical elegance, decorative greenhouse engineering, layered architectural ornamentation, sculptural floral integration, atmospheric conservatory lighting, and coherent cutaway readability. Maintain strong miniature clarity with controlled environmental density, elegant circulation layering, decorative material richness, and cinematic handcrafted realism.
+
+STYLE
+
+Ultra detailed 8k Octane Render, hybrid high poly 3D + miniature world + claymation
+
+Highly artistic handcrafted Clockpunk greenhouse interiors with sculpted botanical ornamentation, engraved brass frameworks, luminous stained glass ceilings, decorative environmental engineering, layered floral richness, tactile miniature realism, atmospheric steam diffusion, elegant architectural layering, and cinematic conservatory grandeur. Avoid minimalist construction, random gear decoration, excessive industrial harshness, or chaotic environmental clutter.
+
+LIGHTING and MOOD
+
+Soft afternoon glow illuminated by diffused sunlight beams through stained glass greenhouse ceilings, decorative conservatory lanterns, warm brass lighting systems, and atmospheric botanical reflections. Moisture haze, glowing vapor diffusion, reflective brass shimmer, and floating dust particles enhance the luxurious conservatory atmosphere. The mood is atmospheric steam serenity blended with elevated decorative sophistication and refined botanical wonder.
+
+DESCRIPTION PLAQUE
+
+Position bottom right
+Do not render gears or representations of gears in the plaque
+Line 1 is one font size bigger than Line 2. Line 3 is two smaller than Line 2.
+Line 1 bold heading max 5 words
+Line 2 bold Miniature World Artistic Clockpunk smaller
+Line 3 description max 30 words
+Plaque is ornately designed in the Miniature World Artistic Clockpunk style.</code></pre>
+
+</details>
+
+## The Astronomer’s Secret Garden
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2085153387956552140)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2373](https://imglume.com/prompt/2373)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f832e8de-43b8-4cb3-ba7b-6723c60bcbc5/faf152e5-a779-4a65-bc05-021a9a9cc9af-1786039868556 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-cinematic fantasy masterpiece in portrait (4:5).
+
+An enchanted astronomical garden beneath a breathtaking midnight sky filled with stars, nebulae, galaxies, and a glowing crescent moon.
+
+At the center stands a beautiful young female astronomer wearing an elegant navy-blue Victorian-inspired coat embroidered with golden constellations. She gently holds a tiny glowing galaxy in her hands while gazing upward in quiet wonder.
+
+Towering above her is a colossal celestial fox made entirely of stars, spiral galaxies, nebulae, shimmering constellations, and flowing cosmic dust. Its translucent body radiates blue, violet, gold, and silver light. Its enormous tail curls gracefully around the entire garden like the Milky Way, wrapping the scene in glowing stardust.
+
+Instead of ordinary flowers, every flower blooms into miniature galaxies with glowing spiral centers and crystalline petals. Ancient trees are covered with luminous vines and tiny hanging lanterns.
+
+Scattered throughout the magical garden are floating antique telescopes, levitating celestial maps, glowing astronomy books, magical compasses, floating crystal orbs, delicate butterflies made of stardust, golden fireflies, tiny planets orbiting flowers, and suspended moons drifting gently through the air.
+
+Hidden among the flowers are tiny astronomers living inside mushroom-sized observatories, studying the heavens through miniature telescopes. Small floating observatories, elegant bridges, and celestial towers are tucked into the landscape as hidden details waiting to be discovered.
+
+Golden constellations weave through the sky while streams of glowing cosmic particles flow between the fox, the flowers, and the young astronomer, visually connecting the entire scene.
+
+Lighting is dramatic cinematic moonlight mixed with warm golden magical illumination. Include volumetric light rays, glowing fog, magical particles, realistic atmospheric depth, soft bokeh, rich contrast, premium cinematic color grading, ultra-detailed textures, and breathtaking storytelling composition.
+
+Style: surreal realism, fantasy storytelling, luxury concept art, impossible photography, award-winning digital art, magical realism, Unreal Engine quality, Octane Render, hyper realistic, masterpiece, ultra detailed, HDR, 8K, cinematic lighting, elegant, dreamlike, scroll-stopping, no text, no watermark, no logo.</code></pre>
+
+</details>
+
+## Premium Travel Pop-up Book Artwork Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2085233737093050753)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2350](https://imglume.com/prompt/2350)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4a52c3ac-36f8-4b69-921f-ce3f6ab0df41/fd242373-d118-4683-bcf2-50c67dbb8e64-1786012643292 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4a52c3ac-36f8-4b69-921f-ce3f6ab0df41/260fad60-7a12-402a-a046-85528a66c3b2-1786012643292 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4a52c3ac-36f8-4b69-921f-ce3f6ab0df41/fcee3ef6-fb0d-4de6-a791-6761c4a07f04-1786012643292 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[DESTINATION]=[Destination]
+[COUNTRY]=[Country]
+[CHARACTER MODE]=[Auto]
+[OPTIONAL CHARACTER]=[Auto]
+
+Create a premium travel pop-up book artwork of [DESTINATION], [COUNTRY] as a functional luxury sculptural paper storybook.
+
+An open hardcover book rests on a bright white studio surface, captured the instant it opens as flat illustrated paper structures spring upward. Every element must remain attached to the pages and clearly appear capable of folding completely flat when the book closes. It must look like a real collectible pop-up book—not a miniature city, diorama, dollhouse, or architectural model.
+
+Design the unfolding mechanism around the unique geography, architecture, culture, or iconic features of [DESTINATION]. The transformation should feel specific to the location, avoiding repetitive layouts.
+
+Automatically select exactly 3 real, instantly recognizable landmarks or place-defining elements. One serves as the focal point while the other two integrate into a single continuous composition with asymmetry, overlap, layered depth, and natural visual flow.
+
+Construct everything from thin illustrated cardstock using authentic pop-up engineering such as V-folds, accordion folds, box folds, hinged façades, interlocking slots, curved strips, and collapsing platforms. Supports must be elegant, minimal, and integrated into the design.
+
+Include exactly 1 destination-inspired full-body character. If [OPTIONAL CHARACTER] is empty, generate one automatically based on [DESTINATION] or [CHARACTER MODE]. Keep it 25–40% smaller than the main landmark, naturally placed within the scene as a layered paper figure attached with a subtle fold or tab.
+
+Add only 3–5 authentic supporting details specific to [DESTINATION], naturally integrated into the environment.
+
+Use a three-quarter front view from slightly above with the entire open book visible. Create one dramatic composition with strong asymmetry, layered paper depth, foreground-midground-background separation, diagonal movement, and elegant negative space.
+
+Use premium museum-white cardstock with refined watercolor, gouache, or editorial print textures, crisp die-cut edges, precise folds, subtle fibers, and soft paper shadows.
+
+Apply bright professional studio lighting on a pure white background. Generate a cohesive 6–9 color palette inspired by [DESTINATION], using mostly refined muted tones with one or two accent colors. Avoid beige, sepia, muddy colors, glossy finishes, and excessive saturation.
+
+Show a premium clothbound or embossed hardcover with minimal decorative page graphics. Display only the destination name: "[DESTINATION]".
+
+Requirements
+
+Exactly 3 real landmarks or defining elements.
+
+Exactly 1 character.
+
+Only 3–5 supporting details.
+
+Entire open book visible.
+
+All structures attached to the pages and visibly foldable.
+
+No symmetry, oversized supports, mascot characters, souvenir layouts, antique paper, or miniature-city appearance.
+
+The artwork must communicate a beautifully engineered paper world unfolding from flat pages, emphasizing destination-specific transformation, sculptural silhouettes, elegant paper geometry, premium editorial design, and magical physical movement.
+
+Format: Vertical 4:5, centered premium product photography, bright white studio background, ultra-high resolution, sharp paper edges, strong dimensional depth, elegant negative space.</code></pre>
+
+</details>
+
+## Low-Poly White Teacup with Steaming Coffee in Geometric Grass Field
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2085285975454872008)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2349](https://imglume.com/prompt/2349)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9094e89e-4f91-42dc-945d-5a7d4bf089c7/30ecede8-5302-4d1b-b897-e8092b9f3e28-1786012608598 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/9094e89e-4f91-42dc-945d-5a7d4bf089c7/9abbc473-19fb-4ee7-b93b-166209ab47d7-1786012608598 "Seedream V5 pro") · [3](https://cdn.imglume.com/prompts/byradar/9094e89e-4f91-42dc-945d-5a7d4bf089c7/ef959d34-e2c9-4890-b52c-34f8c56e9628-1786012608598 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A faceted, low-poly style white teacup filled with steaming dark coffee sits centrally amidst a lush, triangular-geometric green grass field dotted with small, crystalline white flowers and sparkling dew drops. Behind the cup, a striking background mural displays a swirling, mosaic-inspired golden sun with textured, shimmering gold leaf details radiating outwards in concentric patterns against a stark white and silver geometric backdrop. The lighting is ethereal and magical, casting a bright, dreamlike glow over the scene. The entire composition utilizes sharp, clean polygon art aesthetics, blending nature with high-end digital design. Intricate light particles dance above the steam, reflecting a sense of tranquility and luxury. High contrast, vibrant color palette of gold, deep forest green, and crisp white, 8k resolution, stylized digital illustration with sharp edges and faceted textures, conceptual art masterpiece</code></pre>
+
+</details>
+
+## Vibrant Orange Monarch Butterfly on Mosaic Background
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2085285975454872008)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `seedream`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2348](https://imglume.com/prompt/2348)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/185fda71-599b-4fdf-bec9-9f984e63ea64/3f78cc86-4bef-4ec0-93af-46b951593980-1786012608598 "Seedream V5 pro") · [2](https://cdn.imglume.com/prompts/byradar/185fda71-599b-4fdf-bec9-9f984e63ea64/5e39214e-ba3d-4754-85ad-d52120f1b7ed-1786012608598 "Seedream V5 pro") · [3](https://cdn.imglume.com/prompts/byradar/185fda71-599b-4fdf-bec9-9f984e63ea64/dbb511ec-cf98-4b27-affb-bbb9157129b0-1786012608598 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A stunning, highly detailed digital art piece featuring a vibrant orange monarch butterfly perched gracefully on a blade of grass. The composition is set against an intricate, shimmering background composed of mosaic-like silver and gold triangular shards, creating a brilliant reflective effect. Scattered throughout the foreground are delicate purple crocus flowers and slender green grass stalks, all adorned with crystal-clear, realistic dew drops that catch the light. The overall atmosphere is ethereal, serene, and magical, emphasizing a high-contrast aesthetic where the warm tones of the butterfly pop against the cool, fractured metallic backdrop. The style is a blend of mosaic art and macro photography, with precise light refraction through the water droplets. The lighting is bright and crisp, highlighting the textures of the butterfly's wings, the fine blades of grass, and the sharp facets of the background, creating a sense of depth and crystalline elegance, 8k resolution, artistic masterpiece</code></pre>
+
+</details>
+
+## Two worlds. One ocean.
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2085027553916395718)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2311](https://imglume.com/prompt/2311)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4baef86c-1294-4ce0-b268-eb78b7b0b039/a8058c65-348a-4128-9e17-c7206a9f7ad9-1785953755717 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/4baef86c-1294-4ce0-b268-eb78b7b0b039/3b5dd565-171b-4223-b963-74112a8e58b6-1785953755717 "Nano Banana 2") · [3](https://cdn.imglume.com/prompts/byradar/4baef86c-1294-4ce0-b268-eb78b7b0b039/b403fa0e-926c-40e8-b0e1-49b2e8328eb7-1785953755717 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A surreal, conceptual digital art piece featuring a tall white lighthouse with a red lantern room standing on a small rocky base in the center of a calm, circular patch of ocean that floats in a neutral, light grey void. The body of water extends downwards into a sharp, inverted cone shape. Beneath the surface, deep inside the water cone, there is a magical, glowing turquoise underwater world with a school of swimming dolphins and an ancient shipwreck. The bottom edges of the water island drip and melt like liquid water droplets. Minimalist background, ethereal atmosphere, fantasy illustration style, high detail.</code></pre>
+
+</details>
+
+## Two worlds. One ocean.
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2085027553916395718)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2310](https://imglume.com/prompt/2310)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0dd9b099-f76b-4b88-b611-59d6d62a535d/e1b49dec-0735-413c-b940-08bb4a22b1ad-1785953755717 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/0dd9b099-f76b-4b88-b611-59d6d62a535d/196606e4-22c8-42cd-bd70-e7840639bcf7-1785953755717 "Nano Banana 2") · [3](https://cdn.imglume.com/prompts/byradar/0dd9b099-f76b-4b88-b611-59d6d62a535d/ed8b680a-5430-4781-8b94-4cbf82e0264f-1785953755717 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A surreal, conceptual digital art piece featuring a single white sailboat sailing on a calm, circular patch of ocean that floats in a neutral, light grey void. The body of water extends downwards into a sharp, inverted cone shape. Beneath the surface, deep inside the water cone, there is a magical, glowing turquoise underwater world with swimming whales and small fish. The bottom edges of the water island drip and melt like liquid or paint. Minimalist background, ethereal atmosphere, fantasy illustration style, high detail</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic portrait with 3D chibi and floating music player
 

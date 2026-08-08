@@ -1,11 +1,135 @@
 # Animation video prompts
 
-40 source-linked prompts, newest ImgLume records first.
+46 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## 30‑second stylized 3D animated short – Beggar and Crow
+## Seedance 2.0
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2085376367949238387)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2435](https://imglume.com/prompt/2435)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/728b68db-411f-4ddb-8e01-a9169ac6d8e7/b889c2b0-70ab-4616-8304-b01888552705-1786102695935 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 15 seconds. Aspect Ratio: 16:9. Style: AAA animated feature film. Pixar-quality. DreamWorks-quality. Ultra detailed. Highly expressive characters. Photorealistic fur. Stylized realism. Cinematic lighting. Warm golden forest sunlight. Volumetric god rays. Dynamic motion blur. High energy. Strong squash and stretch. Natural forest environment. Consistent character design.
+
+Characters: Cute gray rabbit with large expressive eyes, long ears and funny facial expressions. One angry gray wolf with realistic fur, sharp teeth and exaggerated cartoon emotions.
+
+Environment: Dense green forest, forest trail, flying leaves, dust, small rocks and sunlight streaming through the trees.
+
+Camera: Dynamic FPV. 24mm cinematic lens. Fast tracking shots. Smooth handheld stabilization. Speed ramps. Whip pans. Orbit shots. Low-angle action camera. Cinematic focus transitions.
+
+Scene 1 (0.0–2.0s): The rabbit sprints at full speed through the forest while the wolf aggressively chases only a few meters behind. Leaves, twigs and dirt explode beneath their feet. Fast forward tracking shot emphasizes intense speed.
+
+Scene 2 (2.0–3.8s): The exhausted rabbit trips over a root and slides across the ground, landing face-first with his tongue hanging out. The wolf rapidly closes the distance. Camera drops to ground level and pushes dramatically toward the rabbit.
+
+Scene 3 (3.8–5.5s): The rabbit notices a pair of futuristic glowing running shoes lying on the trail. His eyes widen in excitement as he desperately reaches toward them while the wolf prepares to pounce. Fast cinematic push-in toward the glowing shoes.
+
+Scene 4 (5.5–7.2s): The rabbit instantly slips on both shoes. Blue energy ignites around the soles. Electric arcs wrap around his feet as the shoes power up with an intense futuristic glow. The wolf freezes in confusion. Macro close-ups highlight the activation sequence.
+
+Scene 5 (7.2–9.3s): The rabbit launches forward with explosive speed, leaving only a brilliant blue energy trail behind. A powerful gust of wind, dust and flying leaves slams into the wolf. The camera races alongside the glowing streak through the forest.
+
+Scene 6 (9.3–11.7s): The rabbit circles around the wolf at extreme speed. Multiple glowing afterimages appear as a bright blue vortex forms around the wolf. The terrified wolf spins frantically, unable to track the rabbit. Fast orbit camera moves in perfect sync with the vortex.
+
+Scene 7 (11.7–13.5s): Top-down cinematic view. The rabbit accelerates even faster. The glowing blue spiral tightens and becomes brighter while leaves, dust and debris rise into the air. The dizzy wolf remains trapped at the center of the spinning vortex.
+
+Scene 8 (13.5–15.0s): The rabbit instantly stops beside the glowing running shoes with a confident smile and casually rests one foot on a sneaker. Behind him, the dizzy wolf crashes head-first into a tree, sending leaves flying everywhere. The rabbit laughs proudly while the stunned wolf slowly slides down the trunk. End with a cinematic hero shot under warm golden sunlight with shallow depth of field.</code></pre>
+
+</details>
+
+## Pixar-style animated action sequence of a girl chased by a wolf in a forest
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2085590295593537544)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2414](https://imglume.com/prompt/2414)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4639190a-fc78-4fae-a18f-142acecd2b02/a3ffd505-b064-42fb-997a-0fef4f8981eb-1786090133076 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style &amp; Vibe: AAA animated feature film, Pixar-quality, DreamWorks-quality, 16:9 aspect ratio. A dynamic 15-second music comedy mystery sequence with hyper-detailed ASMR-style audio-visual cues (crunching leaves, electrical crackles, heavy breathing). Ultra-detailed, highly expressive characters, stylized realism, cinematic lighting, warm golden forest sunlight, volumetric god rays, dynamic motion blur, high energy, strong squash and stretch. Characters: a cute little girl with a ponytail curled at the end with bangs, wearing a yellow bomber jacket over a pink flowery shirt and yellow sweatpants, initially wearing simple sneakers. One angry gray wolf with realistic fur, sharp teeth, and exaggerated cartoon emotions. Environment: Dense natural green forest, forest trail, flying leaves, dust, small rocks, and sunlight streaming through the trees. Camera: Dynamic FPV, 24mm cinematic lens, fast tracking shots, smooth handheld stabilization, speed ramps, whip pans, orbit shots, low-angle action camera, cinematic focus transitions. Action Sequence: [0.0–1.2s] she sprints at full speed through the forest while the wolf aggressively chases only a few meters behind. Leaves and dirt explode beneath their feet. Fast forward tracking shot emphasizes intense speed. [1.2–2.2s] The exhausted Pamella trips and slides across the ground, landing face-first. The wolf rapidly closes the distance. Camera drops to ground level and pushes dramatically toward her. [2.2–3.2s] she notices a pair of futuristic glowing running shoes lying on the trail. Her eyes widen in excitement as she desperately reaches toward them while the wolf prepares to pounce. Fast cinematic push-in. [3.2–4.2s] she instantly slips on both shoes. Blue energy ignites around the soles. Electric arcs wrap around her feet as the shoes power up with an intense futuristic glow (ASMR crackling sound). The wolf freezes in confusion. Macro close-ups. [4.2–5.4s] she launches forward with explosive speed, leaving only a brilliant blue energy trail behind. A powerful gust of wind and dust slams into the wolf. [5.4–6.8s] She circles around the wolf at extreme speed Multiple glowing afterimages appear as a bright blue vortex forms around the wolf. The terrified wolf spins frantically Fast orbit camera in perfect sync. [6.8–8.2s] Top-down cinematic view. She accelerates even faster The glowing blue spiral tightens; leaves and debris rise into the air. The dizzy wolf remains trapped at the center [8.2–10.0s] the girl instantly stops beside the glowing running shoes, confidently resting one foot on a sneaker. She smirks and says playfully in English, "Too slow!" Behind her, the dizzy wolf crashes head-first into a tree. She laughs proudly as the stunned wolf slowly slides down the trunk. End with a cinematic hero shot with shallow depth of field.</code></pre>
+
+</details>
+
+## Realistic photo of 2 Corinthians 4:4 verse
+
+- **Original source:** [@Blue_Eyes on X](https://x.com/Blue_Eyes/status/2085214278269730901)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2354](https://imglume.com/prompt/2354)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1a95b321-2d01-4e9a-bb91-87dcdb958e4f/fb5919c4-a840-4d84-a909-64623f744f9b-1786016758349 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>“In their case the god of this world has blinded the minds of the unbelievers, to keep them from seeing the light of the gospel of the glory of Christ, who is the image of God.”</code></pre>
+
+</details>
+
+## 30‑second Clockwork Pop‑up Tome Animation
+
+- **Original source:** [@ShadeLurk on X](https://x.com/ShadeLurk/status/2085166694591517020)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2352](https://imglume.com/prompt/2352)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57285ee5-4231-416e-a082-fcb6270975a8/9b2ae7e8-f8be-4d6e-94fd-42c4cd0d1a55-1786012730527 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An image-to-video clip, 30 seconds, dark opulent gothic fantasy anime style — rich red-black-gold palette, luminous teal and violet accents, intricate filigree, dramatic lighting. No background music. This prompt directs only motion, camera and staging; all dialogue is in English. The entire story unfolds from a magical clockwork pop-up tome on a night desk; every scene change is a metallic page-turn (shhk) of thin engraved brass plates. 0.0-0.8s — static macro shot at mug-height: warm lamplight upper left, cold moonlight rim right; a massive antique leather tome with an ornate brass clock-face cover shudders once, golden light leaking from its page edges. 0.8-1.6s — punch-in to the clasp: tiny gears rotate like lock tumblers and it springs open, ka-chak; the cover rises on hidden hinges. 1.6-2.9s — the cover swings 180 degrees and a clockwork city rises from the gutter: massed golden gears lift and interlock in tiers, engraved brass plates unfold into gothic clock towers, pendulums drop into swing, a rich tick-tock chorus swelling; slow half-orbit at tabletop height. 2.9-3.7s — in one frame every gear locks and every pendulum halts; the whirring dies to absolute silence; one motionless beat. 3.7-5.0s — the central gear rises like an elevator carrying the white-haired rabbit girl up in a swirl of golden light-dust; she lands in a crouch, ears snapping upright, turns a full panicked circle, crimson coat flaring — Rabbit girl: "Oh no, oh no! The clocks — ALL the clocks have stopped!" — push-in to her stricken face. 5.0-5.7s — the page turns itself, shhk, lamplight flaring through the plate, wiping the frame. 5.7-6.8s — a mountain of stacked gears assembles tier by tier; at its summit the mother-gear, engraved with roman numerals, turns with majestic slowness; camera tilts up the slope. 6.8-8.2s — from the page's shadow, glossy black ink flows upward and gathers into the ink sorceress — hooded liquid cloak, gold trim, two violet eyes with clock-hand pupils, frozen watches and violet butterflies tangled in her trail; she glides to the summit and raps the mother-gear with her bent golden clock-hand staff, tik. 8.2-9.2s — black ink crawls across the gear in branching vines and it grinds dead; ink tendrils race down the cliffs, freezing pendulums in a spreading domino of silence — Narrator (warm storybook voice): "For a wicked sorceress had poured her ink into the heart of time itself." 9.2-10.0s — the sorceress pirouettes, funnels back into shadow with a giggle, one violet eye winking last; a lone ink drop falls from the gear in slow motion. 10.0-10.7s — shhk: the spread rises into a child's bedroom bookshelf in miniature — antique spines in wine, navy and gold, a tiny working oil lamp. 10.7-11.8s — tracking along the middle shelf: the rabbit girl hauls a miniature copy of the tome half her size, wedges it between storybooks, pats it twice, slips behind a bookend — Rabbit girl (whispering): "She'll find it. She always finds the good books." 11.8-12.9s — the girl in blue rises into frame like an ascending bookmark, rendered as a printed illustration with delicately torn paper edges; her flat hand tips the tiny tome out; it opens and golden light fans across her printed face. 12.9-14.0s — the light widens into a doorway: brass arches unfold like a camera iris, gears spinning along the frame — the girl pops from print to dimension in one breath, layers springing forward, blue eyes blinking awake, playing cards and white butterflies scattering; the rabbit girl leaps out and catches her hand. 14.0-15.0s — Rabbit girl: "No time to explain — well, actually, there's NO time at all! Come on!" — they leap together into the iris of light, light-dust and gear-sparks sucked in after them. 15.0-15.7s — shhk: wipe to dark splendor — a banquet table rises on columns of turning gears, black lace runner rolling out, towers of red-and-gold bone-china teacups teetering but never falling; the two heroines rise seated at the near end. 15.7-17.1s — at the far end the lady in the checkered top hat rises, elegant, a jeweled clockwork medallion on the hat's band, white butterflies at her shoulders; she pours from a silver teapot: glowing golden gears tumble out, ting, and roll the table's length to the girl's saucer — Lady: "Spare parts! Time always needs spare parts — take them, take them!" — her medallion chiming once. 17.1-18.6s — violet butterflies spiral inward above the table and condense into the grinning cat — luminous grin first, then teal eyes, then sleek black body, pendulum tail; one paw sweeps and a ribbon of glowing butterflies settles into a lit path toward the dark gear-mountain on the next page — Cat (purring): "The sorceress is that-a-way. Do wind her up nicely~". 18.6-19.4s — the cat dissolves in reverse until only the grin remains, swinging once; a teacup tower topples and the lady catches it one-handed without looking. 19.4-20.0s — the girl pockets the gears with a determined nod; the page corner lifts, light flaring through the engraving. 20.0-20.9s — the confrontation spread rises: the ink-frozen mother-gear looms and the sorceress surges up before it, cloak spreading like wings, pupils narrowing; low angle from behind the skidding heroines. 20.9-21.8s — quick inserts: the girl slotting the golden gears one-two-three into a brass socket, each flaring alight; the sorceress lunging, ink stretching into claws. 21.8-22.6s — a giant golden winding key rises between the heroines; they grip it, feet braced — Both: "One... two... WIND!" — the claw a hair from their backs. 22.6-23.7s — one full turn: the mother-gear shatters its black shell, shards spinning off as sparks; a wave of warm gold races back along every ink vine, and the whole gear-city shudders alive in sequence, pendulums swinging, a rolling tick-tock chorus as the camera pulls back fast. 23.7-24.5s — the sorceress's cloak unravels into harmless streamers; tiny gears whirl around her, cha-chak, and she shrinks into a small disgruntled ink-stained cuckoo bird. 24.5-25.0s — the rabbit girl posts the bird through the door of a gilt cuckoo clock; it snaps shut and instantly chirps "cuckoo!"; the heroines high-five against the shining mother-gear. 25.0-26.2s — the restored city glows, every gear turning: the pair bow on the central gear, the lady raises her teapot, the floating grin swings like a hammock trailing butterflies, golden light-motes drifting down; camera descends from tower height. 26.2-27.4s — the rabbit girl swings her friend once in a happy circle — Rabbit girl: "Thank you! Time flies — so you'd best fly home before bedtime!" — the girl waves to each friend, medallion chiming, grin bobbing. 27.4-28.3s — the girl steps into the brass doorway and folds from dimension back into print, layers closing like a fan, edges returning to torn paper; she slides down into the pages like a bookmark, her flat hand waving last. 28.3-29.4s — the city sinks and folds in reverse birth order, cha-shunk, cha-shunk; the rabbit girl rides the last great gear down, saluting, ears folding from view last. 29.4-30.0s — the cover closes, the clasp's gears lock, ka-chak; the camera settles into the exact opening macro framing — one muffled "tick... tock." from inside, the cover's hands twitching once; faint gold letters gleam: THE END; end on the quiet book.</code></pre>
+
+</details>
+
+## The Umbrella Escape
+
+- **Original source:** [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2085033492870488195)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2346](https://imglume.com/prompt/2346)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/811517fa-0bca-48da-9860-e30cace3a5e7/498c411c-d473-498c-8e10-bafe8abdd442-1786008504669 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{ "title": "The Umbrella Escape", "style": "3D Pixar family animation. Rainy city afternoon, vibrant reflections on wet pavement, action-comedy chase, warm and cool contrast, dynamic camera.", "shots": [ {"time":"00:00-00:03","type":"CLOSE-UP","action":"Kid in yellow raincoat opens a bright red umbrella. A gust of wind hits. The umbrella inverts and yanks free.","camera":"Macro, raindrops flying.","dialogue":"Umbrella: 'FREEDOM!' Kid: 'Hey!'"}, {"time":"00:03-00:06","type":"TRACKING","action":"Umbrella surfs down the sidewalk, opening and closing to dodge pedestrians. It hops over a puddle like a skipping stone.","camera":"Low tracking, fast.","dialogue":"Umbrella: 'Can't catch me! I'm born to fly!'"}, {"time":"00:06-00:09","type":"WIDE","action":"Umbrella weaves through a flock of pigeons. They scatter. One pigeon gets caught inside and spins out dizzy.","camera":"Chaotic wide.","dialogue":"Pigeon: 'What the-'"}, {"time":"00:09-00:12","type":"ACTION","action":"Umbrella surfs a puddle wave, then catches a crosswind and smacks into a lamppost, spinning around it like a tetherball.","camera":"Spinning camera with umbrella.","dialogue":"Umbrella: 'Wheee! Okay, that hurt.'"}, {"time":"00:12-00:15","type":"TRACKING","action":"A street sweeper approaches. The umbrella gets sucked into the brush, spins wildly, and launches out like a frisbee.","camera":"Following shot, fast.","dialogue":"Umbrella: 'I REGRET NOTHING!'"}, {"time":"00:15-00:18","type":"WIDE","action":"Umbrella glides toward a tree, sticks perfectly in the branches, and sighs. Kid arrives below, out of breath.","camera":"Wide, rain falling.","dialogue":"Kid: 'Got... you...'"}, {"time":"00:18-00:22","type":"TWO-SHOT","action":"Kid climbs up. Reaches for umbrella. Umbrella closes tight, refusing. Kid pouts. Umbrella opens one eye.","camera":"Close two-shot in the tree.","dialogue":"Umbrella: 'I'm not coming back. I tasted the wild.' Kid: 'I'll let you pick the movie.'"}, {"time":"00:22-00:25","type":"CLOSE-UP","action":"Umbrella pauses. Opens fully. Gently covers the kid from the rain, settling onto their shoulder.","camera":"Warm push-in.","dialogue":"Umbrella: 'Fine. But I'm driving next time.'"}, {"time":"00:25-00:28","type":"WIDE","action":"Kid walks home under the umbrella. The umbrella steers them left, then right, playfully. They splash through puddles together.","camera":"Wide, beautiful rainy street.","dialogue":"Kid: 'You're impossible.' Umbrella: 'Thank you.'"}, {"time":"00:28-00:30","type":"TITLE CARD","action":"Black screen. Title 'THE UMBRELLA ESCAPE' in raindrop letters with a red umbrella icon.","camera":"Static.","dialogue":"(soft rain)"} ] }</code></pre>
+
+</details>
+
+## The Snail Express
+
+- **Original source:** [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2084914835553202214)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2318](https://imglume.com/prompt/2318)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8b21e48a-3f54-4262-8dbc-d7fb283f4aae/b4164fc7-b8db-47da-bf6b-835cb9b19675-1785976946262 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{ "title": "The Snail Express", "style": "3D Pixar family animation. Lush garden macro world, golden hour, action-comedy with slow-motion heroics against real-time chaos, vibrant and dynamic.", "shots": [ {"time":"00:00-00:03","type":"EXTREME CLOSE-UP","action":"Snail Shelldon ties a leaf-cape to his shell, blows a party whistle. Ladybug passenger buckles into a leaf-harness.","camera":"Macro, shallow depth of field.","dialogue":"Shelldon: 'All aboard the Express!' Ladybug: 'This is a terrible idea!'"}, {"time":"00:03-00:05","type":"WIDE","action":"Shelldon launches onto a garden hose. An ant pushing a pebble freezes in terror.","camera":"Static then rapid pan.","dialogue":"Ant: 'WRONG TRACK!'"}, {"time":"00:05-00:08","type":"TRACKING","action":"Shelldon glides in glorious slow-motion. Dewdrops hang in air. Ladybug screams joyfully.","camera":"360 bullet-time rotation around snail.","dialogue":"Ladybug: 'WE ARE GONNA DIE!' Shelldon: 'Keep all limbs inside the ride!'"}, {"time":"00:08-00:11","type":"WIDE","action":"Sprinkler activates ahead. Real-time water jets blast. Shelldon enters the water-arc tunnel in slow-mo.","camera":"Low angle, water silhouettes.","dialogue":"Ladybug: 'TUNNEL!'"}, {"time":"00:11-00:14","type":"CLOSE-UP","action":"Shelldon's determined face. Water droplets hit his shell, refracting rainbows.","camera":"Macro face close-up.","dialogue":"Shelldon: 'Choo... choo...'"}, {"time":"00:14-00:17","type":"WIDE","action":"Lawnmower roars to life in distance. Ants scatter in panic. Shelldon is still mid-crossing.","camera":"Rapid zoom out.","dialogue":"Ant Guard: 'CODE GREEN! CODE GREEN!'"}, {"time":"00:17-00:22","type":"TRACKING","action":"Lawnmower blades spin fast toward Shelldon. He inches forward heroically. Ladybug covers her eyes.","camera":"Low tracking shot, grass blurring.","dialogue":"Ladybug: 'I want my mommy!' Shelldon: 'Next stop: Destiny!'"}, {"time":"00:22-00:26","type":"WIDE SLOW-MO","action":"Lawnmower passes directly over Shelldon. Grass blades bend around him like a Moses moment. He emerges with a grass blade on his head like a trophy.","camera":"Under-slug angle through grass.","dialogue":"(triumphant orchestral hit)"}, {"time":"00:26-00:28","type":"CLOSE-UP","action":"Shelldon reaches the hose end. Ladybug kisses the dirt. Shelldon tips an imaginary hat.","camera":"Push-in.","dialogue":"Shelldon: 'Thank you for riding Snail Express.'"}, {"time":"00:28-00:30","type":"TITLE CARD","action":"Black screen. Title 'THE SNAIL EXPRESS' appears in bold colorful letters with a tiny leaf-cape fluttering.","camera":"Static.","dialogue":"(party whistle toot)"} ] }</code></pre>
+
+</details>
+
+## Pixar-style 30-second 3D animated short of a beggar and a crow
 
 - **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2084900750690279501)
 - **Recommended model:** `seedance`

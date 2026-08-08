@@ -1,11 +1,196 @@
 # Character image prompts
 
-52 source-linked prompts, newest ImgLume records first.
+59 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Ultra-detailed sci-fi anime character sheet for hero shooter "SUGAR POP"
+## Editorial flat-vector portrait of a character
+
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2085570109276561801)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2415](https://imglume.com/prompt/2415)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/98d0810e-4dda-4b37-98da-d50018b1d8e4/0304ae5b-ee1a-4163-99e8-0ff297ee96b7-1786090149190 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/98d0810e-4dda-4b37-98da-d50018b1d8e4/4d40d334-0fb6-4476-9586-a2e9da1a8036-1786090149190 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/98d0810e-4dda-4b37-98da-d50018b1d8e4/19c60150-90eb-452f-8d4c-cba42f421c49-1786090149190 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/98d0810e-4dda-4b37-98da-d50018b1d8e4/f873f0f9-37f7-4f91-bf08-0eeab635052a-1786090149190 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Editorial flat-vector portrait of [CHARACTER] in a tight bust crop and three-quarter view, with the head tilted slightly downward, wearing [EYEWEAR] and [ACCESSORY]. Style the hair as [HAIRCUT] and dress the subject in [CLOTHING] with a high sculptural collar. Render the face, hair, clothing, and accessories as clean interlocking color shapes with sharp geometric edges, hard-edged shadows, minimal linework, and no gradients. Limit the artwork to [COLORS]. Place the figure against [BACKGROUND], using one simple rectangular shadow shape to frame the head without clutter. Keep the expression calm and self-assured, the silhouette bold, and the composition sleek, fashion-forward, and graphic; Vertical 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## Clean minimalist anime-style illustration prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2085231398731030699)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2369](https://imglume.com/prompt/2369)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b9aaa10-4dfb-4d8e-a942-ae7c7f025812/52db06f1-9885-46b4-bee5-33f1ac732661-1786029524714 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5b9aaa10-4dfb-4d8e-a942-ae7c7f025812/97323d97-3dbc-484b-ba99-fc1b13e95700-1786029524714 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "SUBJECT": "&lt;user description or reference image&gt;",
+ "HAIRSTYLE": "&lt;optional&gt;",
+ "POSE": "&lt;optional&gt;",
+
+ "prompt": "Create a clean, minimalist anime-style illustration of SUBJECT in a soft, hand-drawn style. Preserve delicate facial features, large expressive eyes, subtle blush tones, soft lips, and detailed hair strands with fine sketch-like line work. The character should be positioned in the center of the composition with a calm and natural pose: POSE. Hairstyle: HAIRSTYLE.\n\nUse a light, nearly white background with plenty of negative space and faint watercolor textures. Apply a combination of ink outlines, pastel shading, and soft highlights while maintaining a polished, high-quality illustration style. Add realistic clothing folds, subtle skin shading, and fine details without making the image overly complex.\n\nStyle references: modern webtoon illustration, Japanese anime-inspired artwork, watercolor textures, elegant line art, soft cinematic lighting, clean composition, highly detailed face, natural colors, minimal background, premium illustration quality.\n\nNegative prompt: text, watermark, logo, signature, extra limbs, distorted anatomy, low resolution, blurry details, excessive saturation, cluttered background, cropped body, unrealistic proportions.",
+
+ "aspect_ratio": "1:1"
+}</code></pre>
+
+</details>
+
+## Spider-Woman coffee break on skyscraper rooftop
+
+- **Original source:** [@Giulia_4i on X](https://x.com/Giulia_4i/status/2085327525945987417)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [2366](https://imglume.com/prompt/2366)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/753ab027-2353-455d-8471-2ba21454c50c/544ea086-844f-4ad0-b854-ef7d69e4cf8e-1786029425984 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/753ab027-2353-455d-8471-2ba21454c50c/2a5d8024-da14-4124-ac24-e31bc5d57b65-1786029425984 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/753ab027-2353-455d-8471-2ba21454c50c/94fbf4b0-ae01-4722-b4f5-cc9418ee2fc7-1786029425984 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "type": "image_prompt",
+ "description": {
+ "subject": {
+ "main": "[NAME] as Spider-Woman.",
+ "appearance": "Long hair tied in a high bun with loose face-framing strands, soft friendly smile, looking directly at the camera.",
+ "face": "No mask or gloves, face fully visible with natural makeup."
+ },
+ "outfit": {
+ "costume": "Tailor-made Spider-Woman suit crafted from high-density neoprene and textured stretch fabric with visible microfiber weave. Red torso panel featuring a matte embossed web pattern and a black vinyl spider emblem. Matte black side panels, sleeves, and legs with subtle satin stitching accents. Red web-pattern forearm panels and integrated rubber-soled boots."
+ },
+ "pose": {
+ "body": "Sitting casually with crossed legs on the concrete ledge of a skyscraper. Left leg folded in front of the right.",
+ "head": "Head tilted slightly left, looking gently downward toward the camera.",
+ "hands": {
+ "right": "Holding a disposable cardboard takeaway coffee cup at chest level.",
+ "left": "Resting naturally on the left knee."
+ }
+ },
+ "environment": {
+ "location": "Rooftop of a tall skyscraper with a weathered concrete ledge overlooking a vast modern metropolis.",
+ "time": "Golden hour at sunset.",
+ "background": "Expansive urban skyline with long shadows and atmospheric depth."
+ },
+ "props": [
+ "Disposable cardboard takeaway coffee cup"
+ ],
+ "lighting": {
+ "type": "Natural golden hour backlighting.",
+ "details": "Warm sunset light creates soft rim lighting around the hair and shoulders, gentle reflected highlights across the suit's textures and facial features, soft natural shadows, cinematic contrast."
+ },
+ "mood": "Relaxed, intimate, cinematic, and urban. A quiet coffee break contrasts naturally with the high-performance superhero suit.",
+ "camera": {
+ "equipment": "Full-frame camera (Sony A7R V or Canon EOS R5) with an 85mm f/1.4 prime lens.",
+ "angle": "Slightly low-angle medium shot.",
+ "settings": {
+ "aperture": "f/2.0",
+ "shutter_speed": "1/500s",
+ "iso": 100
+ }
+ },
+ "quality": {
+ "style": "Professional editorial fashion and cosplay photography.",
+ "details": "Ultra-sharp focus on the eyes, realistic lens rendering, shallow depth of field, smooth natural bokeh, wide dynamic range, preserved highlight and shadow detail, highly detailed textures, strong three-dimensional depth, photorealistic, 8K."
+ },
+ "aspect_ratio": "9:16",
+ "negative_prompt": "mask, gloves, extra people, low resolution, blurry, noise, overexposed, underexposed, cartoon, CGI, anime, illustration, deformed anatomy, bad hands, extra fingers, duplicated limbs, cropped face, watermark, logo, text, oversaturated colors, excessive HDR, plastic skin, artificial smile"
+ }
+ }</code></pre>
+
+</details>
+
+## Zendaya at the beach in a white bodycon dress
+
+- **Original source:** [@michaelrabone on X](https://x.com/michaelrabone/status/2085048683830141238)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [2356](https://imglume.com/prompt/2356)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52bb72e4-2376-4cf2-8b0d-91d805dd2a33/931466d1-4354-49e4-932d-4ecad11c9d40-1786016785487 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Zendaya at the beach wearing a glamorous white bodycon dress, Kodak Tri-X 400 35mm black and white film, film grain, dust, and scratches, golden hour light leaks --no glasses --ar 16:9 --raw --stylize 75 --hd --v 8.2</code></pre>
+
+</details>
+
+## Realistic oil painting portrait
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2085233273081602198)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2351](https://imglume.com/prompt/2351)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f987cdab-dfa6-46ab-b8dc-1e767f60de2d/78dc6da4-95ce-4f96-bef3-98d0f9d40e5b-1786012675976 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f987cdab-dfa6-46ab-b8dc-1e767f60de2d/3ddaff55-795d-479e-af2a-c2d689ef8ff5-1786012675976 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f987cdab-dfa6-46ab-b8dc-1e767f60de2d/121d4130-c4cf-4db0-881c-63f59963dced-1786012675976 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/f987cdab-dfa6-46ab-b8dc-1e767f60de2d/c78792ed-cb33-4598-a78d-89441c7e6a11-1786012675976 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic oil painting style, thick impasto brush strokes, visible palette knife texture, hand-painted portrait look, semi-realistic classical painting, soft neutral color palette, warm skin tones, textured canvas background, rough plaster wall texture, painterly lighting, soft shadows, high detail brushwork, traditional portrait painting style, fine art oil portrait, realistic yet slightly stylized, visible paint layers, studio lighting, muted colors, European classical oil painting style, handmade paint texture, subtle highlight strokes on skin, natural imperfections, artistic portrait illustration style.</code></pre>
+
+</details>
+
+## Triptych Graphic Poster of Japanese Manga-Style Character
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2085198214693843417)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`, `poster-design`
+- **ImgLume record:** [2347](https://imglume.com/prompt/2347)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f355181-eb65-4df7-a273-6ab6cebf76c9/40d063f0-115a-4bfb-97b9-b8a47577417f-1786012565007 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5f355181-eb65-4df7-a273-6ab6cebf76c9/d52d62fd-ae94-4210-8513-bcf3511ea5f6-1786012565007 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a triptych graphic poster on a vertical canvas divided into three horizontal panels, featuring the same Japanese manga-style character in every panel. Keep the face, eyes, nose, mouth, face shape, age, and hair color identical, changing only the hairstyle, bangs, expression, head angle, glasses, and accessories like a professional character design sheet. Each panel should be a shoulder-up portrait with bold graphic poster aesthetics, thick clean line art, minimal detail, and large flat color shapes. Choose three distinct moods inspired by the chat history, expressing each through a single dominant color with only black and white added. Instead of a traditional background, immerse the character within the atmosphere itself so the ambient color naturally reflects onto the skin, hair, and clothing, creating the feeling that the character exists inside the light and air of that world. No text, logos, UI elements, or speech bubbles. Each panel should work as a standalone artwork while forming a cohesive series together.</code></pre>
+
+</details>
+
+## The Cosmic Cartographer
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2085016995167441222)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2322](https://imglume.com/prompt/2322)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b15406fb-f6e8-41fd-9790-b5bd4b26417e/9a655292-90b6-4117-827f-19338343b2b8-1785985322358 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic, museum-quality digital artwork in portrait orientation (9:16).
+
+A beautiful young woman is centered in the composition. The left half of her is completely photorealistic with natural skin texture, expressive blue-gray eyes, soft cinematic lighting, and flowing dark hair.
+
+The right half gradually transforms into a living universe. Her hair dissolves into luminous blue, violet, and indigo nebulae filled with billions of tiny stars. Elegant golden constellations connect across space like celestial blueprints. Ancient astronomical maps, delicate compass circles, orbital diagrams, mathematical sketches, and glowing navigation lines weave naturally through the galaxy.
+
+Small floating observatories, celestial towers, brass telescopes, astrolabes, and tiny architectural structures orbit gracefully among planets and star clusters, as if mapping the cosmos. Saturn-like planets, glowing moons, distant galaxies, and shimmering cosmic dust add incredible depth.
+
+The transformation should feel organic rather than split exactly in half, with glowing particles blending seamlessly between the human portrait and the universe. Rich navy blues contrast beautifully with warm gold accents, creating a premium luxury sci-fi aesthetic.
+
+Minimal background, cinematic volumetric lighting, subtle rim light, soft depth of field, extraordinary micro-details, breathtaking realism, elegant composition, masterpiece quality, award-winning digital art, 8K, HDR, ultra sharp, highly detailed, no text, no watermark, no logos, no frame, no extra limbs, no deformed features.</code></pre>
+
+</details>
+
+## Ultra-detailed sci-fi anime character design sheet for 'SUGAR POP' – Candy Defender
 
 - **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2084943718042448060)
 - **Recommended model:** `gptimage`

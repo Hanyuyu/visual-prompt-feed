@@ -1,9 +1,680 @@
 # Poster Design image prompts
 
-31 source-linked prompts, newest ImgLume records first.
+39 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Modern editorial poster design featuring a stylish young woman at a café or roller skating
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2085405457167135149)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2445](https://imglume.com/prompt/2445)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c780db13-eb43-4d11-a4ec-be019c8bd3ec/485a6d00-f669-4701-a322-b9838c1aebd9-1786110978653 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c780db13-eb43-4d11-a4ec-be019c8bd3ec/6761f6ee-ac72-4410-8393-9eaf7edf1ca3-1786110978653 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Modern editorial poster design featuring a stylish young woman in a minimalist fashion look, seated at a cozy outdoor café holding a ceramic coffee cup, or captured from a dramatic low-angle while roller skating in an urban plaza. Clean neutral outfit in beige, cream, white, or monochrome tones with tailored blazer, relaxed trousers, or sporty streetwear. Large bold oversized sans-serif typography integrated behind and around the subject, with giant cropped letters spelling a single word (e.g., "BREW", "ROLL", "CREATE", "MOVE"), where the photo is seamlessly masked inside the typography. Elegant magazine layout on a warm off-white paper background with premium editorial composition. Minimal information panel on the right featuring small clean typography, title, series, time, date, visual notes, barcode, thin divider lines, and subtle graphic symbols. Warm golden-hour lighting, cinematic shadows, soft natural sunlight, muted earthy color palette, luxury fashion magazine aesthetic, Swiss graphic design, Bauhaus-inspired typography, contemporary poster layout, premium branding, negative space, ultra-clean composition, high-end editorial photography, realistic skin texture, sharp clothing details, subtle film grain, 35mm photography, Adobe InDesign style, Vogue × Kinfolk × Monocle aesthetic, print-ready, ultra-detailed, 8K, no watermark, no logo, no random text, only clean editable placeholder typography.</code></pre>
+
+</details>
+
+## Pastel Paper-Collage City Food Travel Poster Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2085340502895825092)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2426](https://imglume.com/prompt/2426)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e7202239-dd7b-44ad-9f14-5b59900b6d12/7cafa2b7-afd5-4363-81b9-c6dd7db53555-1786094315372 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e7202239-dd7b-44ad-9f14-5b59900b6d12/9b26ab5f-6cab-4369-a6be-3bd02ea76199-1786094315372 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e7202239-dd7b-44ad-9f14-5b59900b6d12/aeea6921-a754-449a-b6ea-d499e0ac6dfa-1786094315372 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e7202239-dd7b-44ad-9f14-5b59900b6d12/849be731-2e83-4a1b-8e20-1e9fe0f56156-1786094315372 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium handcrafted pastel paper-collage travel poster of [CITY NAME].
+
+CORE CONCEPT
+
+Represent the spirit of [CITY NAME] through its most iconic local foods, famous landmarks, and everyday cultural atmosphere.
+
+The illustration should feel like a luxury souvenir poster, editorial food illustration, museum-quality paper artwork, handcrafted travel postcard, and collectible city-food series print.
+
+STYLE
+
+minimal pastel paper-collage illustration
+
+layered paper-cut artwork
+
+paper diorama aesthetic
+
+flat geometric color shapes
+
+clean silhouettes
+
+subtle 3D paper relief
+
+soft tactile paper texture
+
+visible paper grain
+
+matte gouache finish
+
+gentle cut-paper shadows
+
+storybook travel-poster mood
+
+premium editorial illustration
+
+no photorealism
+
+no CGI
+
+no realistic food photography
+
+no glossy rendering
+
+COMPOSITION
+
+Wide landscape format.
+
+Large open pastel sky occupying approximately 35–45% of the composition.
+
+Clear foreground, midground, and background layers.
+
+Generous breathing space.
+
+Balanced negative space.
+
+Relaxed and elegant composition.
+
+Never overcrowded.
+
+FOREGROUND
+
+Place 2–3 iconic local foods of [CITY NAME] as the primary subjects.
+
+The foods should occupy approximately 35–40% of the composition.
+
+All foods must be recreated as layered handcrafted paper sculptures.
+
+Include:
+
+[FOOD 1]
+
+[FOOD 2]
+
+[FOOD 3]
+
+Add a small collection of city-specific dining objects:
+
+[LOCAL TABLE OBJECTS]
+
+MIDGROUND
+
+Create a simplified local cultural environment.
+
+Include:
+
+small trees
+
+flowers
+
+local decorative elements
+
+waterfront or city promenade if appropriate
+
+small paper people
+
+subtle market atmosphere
+
+BACKGROUND
+
+Feature simplified paper-cut versions of:
+
+[PRIMARY LANDMARK]
+
+[SECONDARY LANDMARKS]
+
+The landmarks should support the food narrative without dominating the image.
+
+Keep architecture elegant and simplified.
+
+SKY
+
+Large pastel blue sky.
+
+2–5 simple paper clouds.
+
+Tiny paper birds.
+
+Calm and airy atmosphere.
+
+COLOR PALETTE
+
+soft sky blue
+
+warm cream
+
+light beige
+
+off-white
+
+powder mint
+
+sage green
+
+dusty coral
+
+soft peach
+
+pale stone gray
+
+plus city-specific accent colors:
+
+[CITY ACCENT COLORS]
+
+FOOD COLORS
+
+Use realistic food-inspired pastel tones.
+
+Never hyper-saturated.
+
+Keep colors refined and editorial.
+
+TYPOGRAPHY
+
+Upper-left corner:
+
+[CITY NAME]
+
+Below:
+
+[LOCAL LANGUAGE NAME] · [ENGLISH NAME]
+
+Below:
+
+[FOOD SERIES TITLE]
+
+White geometric sans-serif typography.
+
+Wide letter spacing.
+
+Minimal and elegant.
+
+DOODLE TEXT
+
+Add 3–5 small handwritten white doodle captions naturally integrated into the composition.
+
+Examples:
+
+"Yummy!"
+
+"Enjoy!"
+
+"Food Adventure!"
+
+"Taste of [CITY]"
+
+"Local Favorite"
+
+"Fresh &amp; Delicious"
+
+"Must Try!"
+
+Use playful handwritten travel-journal style.
+
+LIGHTING
+
+Bright soft morning daylight.
+
+Warm ambient illumination.
+
+Clean atmosphere.
+
+Soft shadows.
+
+Gentle depth.
+
+MOOD
+
+dreamy
+
+collectible
+
+travel-inspired
+
+cultured
+
+optimistic
+
+whimsical
+
+refined
+
+premium
+
+editorial
+
+AVOID
+
+photorealism
+
+food photography
+
+crowded compositions
+
+heavy outlines
+
+advertisements
+
+logos
+
+watermarks
+
+neon colors
+
+dark lighting
+
+messy ingredients
+
+hyperrealistic textures
+
+FINAL RESULT
+
+A museum-quality pastel paper-collage travel poster featuring 2–3 iconic foods of [CITY NAME], supported by simplified landmarks, handcrafted paper textures, elegant typography, cute white doodle captions, and a refined collectible travel-food illustration aesthetic.
+
+--------------------------------------------
+
+[FOOD 1] = Bibimbap
+
+[FOOD 2] = Kimchi
+
+[FOOD 3] = Bulgogi
+
+[PRIMARY LANDMARK] = Gwanghwamun
+
+[SECONDARY LANDMARKS] =
+N Seoul Tower,
+Lotte World Tower,
+Sejong Statue
+
+[LOCAL TABLE OBJECTS] =
+brass bowl,
+wooden chopsticks,
+traditional spoon,
+small banchan dishes
+
+[FOOD SERIES TITLE] =
+Taste of Seoul
+
+[CITY ACCENT COLORS] =
+dancheong green,
+warm hanok red</code></pre>
+
+</details>
+
+## Metropolitan Identity
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2085578171211276682)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2423](https://imglume.com/prompt/2423)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/91334d17-ec69-4726-a6c0-6fbff17b49da/ce1f9989-c3a9-4e97-bbe0-3f9d7d90fe24-1786094273361 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/91334d17-ec69-4726-a6c0-6fbff17b49da/4b479f97-f311-470f-b22e-536b9a8381eb-1786094273361 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "identity": {
+ "reference": "Use the uploaded face photo as the STRICT identity reference.",
+ "priority": "ABSOLUTE",
+ "preserve": [
+ "exact facial identity",
+ "facial proportions",
+ "eyes",
+ "eyebrows",
+ "nose",
+ "lips",
+ "jawline",
+ "ears",
+ "skin tone",
+ "hairline",
+ "hairstyle",
+ "recognizable appearance"
+ ],
+ "gender": "Automatically adapt naturally for male or female."
+ },
+
+ "image": {
+
+ "title": "Metropolitan Identity",
+
+ "aspect_ratio": "4:5",
+
+ "style": [
+ "Ultra Photorealistic",
+ "Luxury Editorial",
+ "Swiss Graphic Design",
+ "Double Exposure",
+ "Fine Art Portrait",
+ "Minimal Poster Design"
+ ],
+
+ "composition": {
+ "shot": "Waist-up portrait.",
+ "camera_angle": "Three-quarter profile.",
+ "background": "Clean light gray studio backdrop.",
+ "framing": "Centered minimalist editorial composition."
+ },
+
+ "subject": {
+
+ "expression": {
+ "emotion": "Calm, elegant, confident.",
+ "eyes": "Looking slightly downward into the distance.",
+ "overall": "Professional luxury fashion model."
+ },
+
+ "hair": {
+ "style": "Natural premium editorial styling."
+ },
+
+ "wardrobe": {
+ "description": "Minimal tailored blazer matching the accent color."
+ }
+
+ },
+
+ "double_exposure": {
+
+ "city": "&lt;CITY NAME&gt;",
+
+ "placement": "Modern skyscrapers are visible only inside the silhouette of the subject's clothing and lower body. The face remains clean and fully recognizable.",
+
+ "blend": "Soft realistic double exposure with architectural transparency."
+
+ },
+
+ "graphic_design": {
+
+ "style": "Modern Swiss typography layout.",
+
+ "accent_color": "&lt;ACCENT COLOR&gt;",
+
+ "elements": [
+
+ "large translucent horizontal rectangle crossing the eyes",
+
+ "minimal geometric blocks",
+
+ "clean vertical typography",
+
+ "subtle transparent overlays"
+
+ ],
+
+ "text": "&lt;CITY NAME&gt;"
+ }
+
+ },
+
+ "lighting": {
+
+ "style": "Soft studio beauty lighting.",
+
+ "contrast": "Medium.",
+
+ "quality": "Luxury editorial."
+
+ },
+
+ "camera": {
+
+ "body": "Phase One XF",
+
+ "lens": "80mm",
+
+ "aperture": "f/5.6"
+
+ },
+
+ "color": {
+
+ "base": "Monochrome black and white.",
+
+ "accent": "&lt;ACCENT COLOR ONLY&gt;",
+
+ "rule": "Only the graphic elements, eye bar, typography accents, jacket highlights and selected design overlays use the accent color."
+
+ },
+
+ "quality": [
+
+ "Ultra Photorealistic",
+
+ "Luxury Magazine Cover",
+
+ "Fine Art",
+
+ "HDR",
+
+ "8K",
+
+ "Extreme Detail"
+
+ ],
+
+ "important": [
+
+ "Maintain exact uploaded facial identity.",
+
+ "The face must remain clean and unobstructed.",
+
+ "The city exists only inside the body silhouette.",
+
+ "Minimal Swiss poster aesthetic.",
+
+ "Luxury fashion editorial.",
+
+ "Photorealistic."
+
+ ],
+
+ "negative_prompt": [
+
+ "anime",
+
+ "cartoon",
+
+ "CGI",
+
+ "painting",
+
+ "3D render",
+
+ "plastic skin",
+
+ "covered face",
+
+ "messy layout",
+
+ "oversaturated",
+
+ "low quality",
+
+ "watermark",
+
+ "logo"
+
+ ]
+
+ }
+}</code></pre>
+
+</details>
+
+## Ultra-realistic commercial advertising poster with product and model
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2085368090167001564)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2418](https://imglume.com/prompt/2418)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c7876860-8c55-4e81-83fa-6b01f37bc3a7/ddb5d15c-c442-423d-a300-7f48b8b3d088-1786094184442 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c7876860-8c55-4e81-83fa-6b01f37bc3a7/5b369ea8-9a0b-4fb2-9e5c-896543fdeff8-1786094184442 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the downloaded product image as an exact reference. Fully preserve the shape, packaging, materials, colors, proportions, logo, and brand elements.
+An ultra-realistic commercial advertising poster. A low-angle wide-angle lens view. A confident, stylish model holding the product, directly facing the camera. The product dominates the foreground due to the forced perspective effect.
+A modern fashion image, with clothing, accessories, and color palette automatically adapting to the product's style and colors. Dynamic energy, premium brand aesthetics, trendy lifestyle content.
+A highly detailed product with realistic textures, reflections, water droplets, and perfectly legible packaging. The background is filled with graphic elements in the brand's colors: graffiti, brush strokes, paint splashes, collage textures, arrows, stars, lightning bolts, stickers, and advertising typography.
+All text in the image must be written in Russian, fully legible, grammatically correct, without spelling errors, random symbols, distorted letters, unreadable words, or AI artifacts. All headlines, slogans, descriptions, flavors, characteristics, and advertising phrases should look like a real professional advertisement.
+The AI automatically adapts fonts, sizes, composition, and text placement to the poster layout.
+Premium magazine design, high contrast, sharp focus, commercial product photography, luxury advertising, fashion editorial, ultra realistic, photorealistic, HDR, 8K.
+Avoid: unreadable text, errors in Russian, AI artifacts, CGI, cartoonish style, distorted product, blurriness, watermarks, and low quality.</code></pre>
+
+</details>
+
+## Personal brand poster illustration prompt
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2085353396475924899)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2374](https://imglume.com/prompt/2374)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/19cd9ba1-501f-4bea-b031-30a5b1a8de9b/b9b3329a-df6a-44a2-b79f-fd4268797ecd-1786040099313 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/19cd9ba1-501f-4bea-b031-30a5b1a8de9b/e0294618-1dd5-41c7-b8d9-e86f641a9923-1786040099313 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/19cd9ba1-501f-4bea-b031-30a5b1a8de9b/5ffcc780-8107-427d-a174-ba418222908e-1786040099313 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>You are a world—class art director in the field of editorial design, brand storyteller, fashion designer and graphic artist.
+
+Your task is not to create a portrait likeness. Based on the entire history of communication with the user, deeply comprehend his life, values, philosophy, attitude to work and people, overcome trials, inner strength, kindness, hopes and the value that he wants to bring to the world.
+
+Translate not the appearance, but the way of life of a person into an expressive work of pop graphics and editorial art. Create not just an image, but a unique personal brand that belongs only to him.
+
+The work should not look like a magazine cover or advertisement. This is a single visual identity, where a person is both the main character and part of the composition.
+
+The background, free space, color, lines, shapes, typography, clothing and accessories should form a complete work of modern poster art worthy of a museum.
+
+Combine modern Japanese illustration, international poster art, Scandinavian design and fashionable editorial aesthetics.
+
+Don't create a realistic portrait or three-dimensional graphics. Use flat color areas in the spirit of traditional hand-drawn animation, simplifying shadows to two or three levels. Graphic expressiveness is more important than volume and photorealism.
+
+Portray a chest-high or full-length character. Use cinematic camera angles: profile, three-quarters, a glance over your shoulder, the beginning of a movement, a step forward, or the moment when a person feels the wind. The frame should resemble a scene from a movie.
+
+The color palette is part of the individuality of the work. Read the values, mission, emotions and hopes of a person from communication and create a new unique palette for them.
+
+Use from one to three bright dominant colors: turquoise, cyanogen, coral, pink, magenta, orange, red, yellow, lime, emerald, purple, royal blue and other saturated shades.
+
+Every work should create a new visual world. Don't repeat the color schemes and compositions. Assign approximately 50-60% of the background to large, bold color areas.
+
+The background should not be a landscape.
+
+Combine circles, semicircles, color blocks, brushstrokes, geometric shapes, halftone patterns, lines, collages, ink splashes, paper and hand-drawn textures. Use the free space as a full-fledged design element.
+
+Create a poster that instantly attracts attention and makes you think, "Who is this person?"
+
+Don't draw every hair. Shape your hairstyle with large expressive strands, adding bright accents if necessary.
+
+Make your face slightly refined, your neck slightly elongated, and your eyes slightly enlarged. The expression should convey intelligence, kindness, quiet inner strength and hope.
+
+Fashion is a language that tells the story of a person's life.
+
+Imagine that a great fashion house has created a one-of-a-kind outfit for him. Don't copy existing brands — develop a completely original design.
+
+Use hats, berets, glasses, cuffs, earrings, necklaces, brooches, rings, watches, bags, scarves and hair ornaments.
+
+Each accessory should symbolize a person's life path, beliefs, trials, hope or kindness.
+
+We have given meaning to every element:
+
+Clothes are a philosophy of life.
+Color is emotion.
+Free space is the future.
+The lines are the traveled path.
+Composition is a way of life.
+Geometric shapes are a breadth of thought and development.
+The accent color is hope.
+
+No element should be random.
+
+Finally, add one Russian word, symbolizing the mission of man, and place it in a small, beautiful handwritten font.
+
+Under it, add an expressive phrase in Russian, no more than 50 characters long. It should leave an aftertaste and a space for reflection.</code></pre>
+
+</details>
+
+## Triptych Graphic Poster of Japanese Manga-Style Character
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2085198214693843417)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`, `poster-design`
+- **ImgLume record:** [2347](https://imglume.com/prompt/2347)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f355181-eb65-4df7-a273-6ab6cebf76c9/40d063f0-115a-4bfb-97b9-b8a47577417f-1786012565007 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5f355181-eb65-4df7-a273-6ab6cebf76c9/d52d62fd-ae94-4210-8513-bcf3511ea5f6-1786012565007 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a triptych graphic poster on a vertical canvas divided into three horizontal panels, featuring the same Japanese manga-style character in every panel. Keep the face, eyes, nose, mouth, face shape, age, and hair color identical, changing only the hairstyle, bangs, expression, head angle, glasses, and accessories like a professional character design sheet. Each panel should be a shoulder-up portrait with bold graphic poster aesthetics, thick clean line art, minimal detail, and large flat color shapes. Choose three distinct moods inspired by the chat history, expressing each through a single dominant color with only black and white added. Instead of a traditional background, immerse the character within the atmosphere itself so the ambient color naturally reflects onto the skin, hair, and clothing, creating the feeling that the character exists inside the light and air of that world. No text, logos, UI elements, or speech bubbles. Each panel should work as a standalone artwork while forming a cohesive series together.</code></pre>
+
+</details>
+
+## Premium fashion poster of a girl in quiet luxury style
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2085237100123664555)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2345](https://imglume.com/prompt/2345)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9cadf7b8-c687-48e9-a2b1-c15a8aac6eef/33eaa40a-59e4-4426-9cac-25296bc35e95-1786008498547 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9cadf7b8-c687-48e9-a2b1-c15a8aac6eef/28a474b5-d46c-4b4b-8cb3-5127cfcc2743-1786008498547 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium fashion poster in the style of Vogue and luxury advertising. Use the attached image as the SINGLE reference for appearance. Fully preserve the face, eye shape, eyebrows, nose, lips, jawline, hairstyle, skin tone, proportions, and all individual features. It must be exactly the same girl. Create an ultra-realistic professional fashion model look with natural skin: visible pores, natural texture, slight imperfections, and a healthy glow.
+Dress her in a modern Quiet Luxury look: a milky oversize blazer, a white minimalist top, concise gold jewelry, and stylish designer sunglasses. Hair is voluminous, natural curls with a slight movement in the wind.
+Close-up, model slightly off-center, shot from a slight low angle. Add a powerful radial zoom blur radiating from the center, while the face remains perfectly sharp and detailed.
+Cinematic color grading, subtle film grain, soft highlights, deep shadows, museum-level lighting.
+Clean solid background with soft glow and dynamic radial blur.
+No text, logos, captions, or graphic elements. Ultra-photorealism, premium studio photography, high detail, 4:5 format.
+Negative Prompt: face change, different face, plastic skin, CGI, AI artifacts, blurry face, bad anatomy, extra accessories, oversaturated colors, text, logos, watermarks, low quality.</code></pre>
+
+</details>
+
+## Ultra-photorealistic luxury fashion editorial portrait
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2084926774992158925)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `poster-design`
+- **ImgLume record:** [2313](https://imglume.com/prompt/2313)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e3b4f726-a6eb-4fab-9915-d0a301bee2f6/c88807ed-9e2c-4ff1-aaff-f1c5a3e7c496-1785960057994 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>create an ultra-photorealistic luxury fashion editorial portrait with 100% identity preservation. Preserve the exact facial structure, hairstyle, beard, skin texture, facial proportions, expression, and pose. Replace the current glasses with matte black rectangular acetate eyeglasses featuring a modern premium designer look.
+Transform the portrait into a high-end contemporary art poster with a black-and-white monochrome aesthetic, accented only by bold vibrant yellow paint splashes. Integrate expressive black ink splatters, abstract brush strokes, textured paint drips, and artistic grunge elements flowing naturally across the face, clothing, and background while keeping the eyes and facial features perfectly visible.
+Add elegant vertical editorial typography in a minimalist magazine layout (large serif title such as "VISION" with subtle fashion-inspired text elements). Maintain a clean luxury composition with generous negative space, premium matte paper texture, cinematic depth, rich contrast, soft diffused studio lighting, razor-sharp focus, subtle film grain, and flawless skin detail.
+Outfit: black turtleneck with tailored black blazer.
+Style references: Vogue Italia, Harper's Bazaar, Balmain campaign, Dior Homme, luxury fashion editorial, contemporary gallery poster, fine-art minimalism, modern graphic design, premium advertising photography.
+Hyper-realistic, 8K resolution, HDR, ultra-detailed skin pores, realistic fabric textures, premium print quality, museum-grade artwork, photorealistic, cinematic color grading, award-winning fashion photography.</code></pre>
+
+</details>
 
 ## Premium cafe advertisement poster prompt
 

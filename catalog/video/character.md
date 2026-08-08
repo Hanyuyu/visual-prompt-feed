@@ -1,9 +1,327 @@
 # Character video prompts
 
-38 source-linked prompts, newest ImgLume records first.
+48 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld documentary style bedroom montage of a woman with cat, phone call, and dinner
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2085640281941307648)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2439](https://imglume.com/prompt/2439)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e3da2799-4da7-4a8a-bf46-708ad2f56d09/957c0e1e-a75e-4daa-8699-12e8cb697ea7-1786106823251 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of accidental real-life capture. Slightly imperfect framing, subtle handheld shake, tiny reframing adjustments, gentle exposure breathing, and autofocus that settles half a beat late. Realistic skin texture, soft indoor natural light, film grain, shallow depth of field. Relaxed breathing, natural blinking, restrained and authentic performance. Total of 7 shots.
+The woman from @ Image 1 is wearing a matching cotton pajama set consisting of a scoop-neck sleeveless top and loose shorts made from the same fabric and design. Barefoot, she lies on her stomach across a lived-in, slightly messy bed in her bedroom, browsing a mobile shopping page on a black smartphone. A house cat jumps onto the bed seeking attention, and she affectionately plays with it. Moments later, a friend calls. She answers, chats, and eventually bursts into laughter. The doorbell rings, so she ends the call and gets up to collect her dinner.
+Shot 1 (0–2s):
+She is already moving. One thumb scrolls through a shopping page while she frowns slightly, thinking. She quietly mutters in Korean: "아, 뭐 살랬더라…" ("Ah... what was I going to buy again?"). Lips synchronize naturally. Her bare feet gently sway behind her. A low handheld camera glides along the edge of the mattress, with soft bedding partially obscuring the foreground.
+Shot 2 (2–4s):
+The house cat jumps onto the bed, compressing the blanket as it walks toward her forearm and lets out a single meow. The camera gives a slight jolt from the impact, then quickly reframes from the phone to an over-the-shoulder view that includes her face, hands, phone, and cat.
+Shot 3 (4–6s):
+She turns warmly toward the cat, stroking it once from its forehead to its shoulders. In a gentle, affectionate tone she says: "우리 애기 왔어?" ("Did my baby come?"). Lip sync is clear and natural. The camera pushes in briefly through the cat's softly blurred foreground toward her face and hand.
+Shot 4 (6–8s):
+A friend's ringtone sounds. She glances down, confirms the caller, swipes to answer, and brings the phone to her ear. The camera moves in a loose semicircle from a slightly tilted overhead angle, capturing the entire answering motion.
+Shot 5 (8–11s):
+Her friend begins talking. She responds first with confusion, then disbelief: "어, 왜? 진짜 거짓말." ("Huh? Why? No way, you're kidding."). Immediately afterward she naturally bursts into laughter. The cat kneads the blanket beside her. A close handheld side angle keeps both her phone and profile within the same focal plane.
+Shot 6 (11–13s):
+A clear doorbell interrupts the laughter. Both she and the cat turn toward the bedroom door. She braces one hand on the mattress to get up. The camera reacts a fraction too late, briefly turning toward the door before naturally correcting back to her rising movement.
+Shot 7 (13–15s):
+Still on the phone, she hurriedly says: "어, 나 밥 왔다. 끊어." ("My food's here. I'll hang up."). She ends the call with her thumb, gets off the bed, and walks toward the door while the cat follows across the blankets. The camera slides low beneath her elbow and tilts upward as she stands in one continuous motion.
+Sound:
+No music. Only raw production sound: bedding rustling, quiet breathing, finger taps on the phone, the soft impact of the cat jumping onto the bed, one natural meow, faint purring, a single short incoming ringtone, call connection tone, the friend's voice through the phone, the woman's four Korean lines with accurate lip sync, a genuine brief laugh, one clear doorbell, the tap ending the call, and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark. Never render a reference sheet or duplicate the subject.</code></pre>
+
+</details>
+
+## 30s 9-cut DV 16mm style video of CHASE daily routine
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2085657903227105315)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2433](https://imglume.com/prompt/2433)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/32bdf94b-0431-4f7b-9718-15292de05c5b/ce346e05-35dd-40ed-ae60-48b483ce1261-1786102598662 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30s | 16:9 | 9 cuts
+Style: DV 16mm tape camcorder, handheld POV by CHASE. Natural shake, soft focus, clumsy framing/zooms, delayed autofocus, tape noise, bloomed highlights, auto-exposure flicker, muted contrast. Full-day montage: calm GRWM → intense workout → relaxed wind-down. Voiceover over visuals.
+Character: CHASE, Korean idol (20s), long black hair, glass skin. Outfit: robe/loungewear → modest long-sleeve gym wear + leggings/joggers → robe/loungewear.
+Locations: Bedroom vanity → gym entrance → gym weights/cardio → stretching mat → walking home → couch.
+
+1. Vanity, hair up. VO: "Some mornings start slow before they start fast."
+2. Puts on gym top. VO: "Okay—gym clothes on, let's go."
+3. Walks into gym. VO: "Time to actually do something with this energy."
+4. Lifts weights. VO: "Every set gets a little harder than the last."
+5. Close-up: hands gripping weight, sweat. Ambient only.
+6. Cardio, pushing through. VO: "This is always the part I want to quit."
+7. Stretching. VO: "But finishing always feels worth it."
+8. Walking home, towel on shoulder. VO: "And then it's just the quiet walk back."
+9. Flops onto couch, eyes closed. VO: "Best part of the whole day, honestly."</code></pre>
+
+</details>
+
+## MiniDV自拍视频｜东方海妖风
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2085539666472665473)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2422](https://imglume.com/prompt/2422)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c97be034-8e58-4ffa-9808-50ca483de27f/0e5095b2-9b86-4161-8d86-0b58910f9562-1786094255275 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>同一位24岁东亚白衣女主角 @0ba07db1-974c-467d-80dc-d9dffddac0ba 穿着 @27d48282-8e11-4b4e-94aa-f77a7eb8fbc1 ，五官、年龄和气质全程一致。黑色湿润瞳孔，秀气鼻梁，自然淡粉嘴唇；皮肤保留毛孔、眼下细纹，不磨皮、不使用网红妆。
+
+女主角始终亲自用右手拿着银灰色MiniDV摄像机拍摄——没有摄影师。自拍距离约45厘米；展示环境时，她必须先转动手腕和身体，让镜头经过自己的肩膀、衣袖或栏杆，再朝向景物；转回自拍也必须存在完整的物理转动过程。
+
+禁止在女主自拍时出现她的第三人称背影、全身跟拍、航拍或外部摄影机视角。镜头转向环境时，女主只能通过伸出的左手、白色衣袖、裙摆边缘、影子或现场声音继续存在于画面中。
+
+16:9 MiniDV宽屏模式，自然手持，略带行走抖动、不完美构图、短暂失焦、自动对焦迟疑、白平衡漂移、曝光呼吸、动态模糊、细微隔行拖影、DV颗粒、柔和高光晕和真实磁带色彩。
+
+每段内部是一个连续15秒自拍镜头，不切镜。六段之间是游记式时间跳切，允许天气和光线变化，但人物、服装、发饰、MiniDV和声音必须一致。
+
+女主声音是一位20多岁东亚女性的自然普通话，柔和、温暖、好奇，偶尔因走路或爬坡轻微喘气。不是古装剧念白、AI旁白、播音员或网红式高能口播。15秒MiniDV自拍视频｜东方海妖风 @b061c722-4fae-42c2-aa5d-48e9dd7dc6df
+
+这不是普通宫殿，而是一座建在云海之上的古老潮汐神殿。殿内矗立着难以想象的巨大白玉龙台：层叠莲瓣基座、盘旋龙身、海浪、贝壳、鱼鳞与潮纹全部由泛旧白玉雕成。高大的盘龙石柱支撑着深色木质殿顶，柱间不断涌入冷白水汽，白玉表面残留湿润水痕。
+
+海妖风通过真实环境表现：冷湿水汽、珍珠与贝母色反光、远处潮汐低频、偶尔滴落的海水、若隐若现的女性吟唱。不要直接出现鱼尾或夸张怪物。
+
+女主仍是前面同一人物、同一张脸、同一套白色至淡粉渐变汉服。冷湿水汽让她耳边碎发微微贴住脸颊，皮肤出现湿润反光；白色薄纱在蓝灰色水光下呈现淡淡贝母色，不是突然换装。银色发簪、乳白珠饰和腕上暗红穗带保持不变。
+
+她始终用右手亲自拿MiniDV自拍，没有摄影师。
+
+0—4秒
+
+录像从女主沿着白玉龙台底部缓慢行走时开始。
+
+她将MiniDV举在面前，脸位于画面右下方，巨大的白玉雕刻从她头顶延伸出画面。这里比外面昏暗，MiniDV自动增益明显升高，暗部出现轻微彩色噪点；背后明亮云层则产生柔和过曝。
+
+冷水汽掠过她的脸，她本能地缩了一下肩膀，呼出的气息在镜头前形成很淡的白雾。她用左手摸了一下潮湿的衣袖，低声说道：
+
+“这里怎么……突然这么冷。”
+
+她说话时并未故意制造神秘感，只是身体对温度产生真实反应。
+
+4—8秒
+
+她先抬头观察龙台，然后通过右手腕将摄像机从自己缓慢转向外侧。
+
+镜头经过她潮湿的碎发、银色发簪和白色衣袖，随后从近距离仰拍巨大的莲瓣基座、盘龙雕像与后方盘龙石柱。这是她站在龙台下方能够拍到的真实角度，不是航拍或外部全景。
+
+自动对焦先停在近处斑驳水痕上，随后才移向高处龙首。她在画面外轻声说道：
+
+“这座龙台……像从海里升起来的。”
+
+她的声音偏离麦克风方向，被殿内低沉回声和水声轻微遮挡。
+
+8—11秒
+
+她的话刚结束，龙台背后的阴影中传来一小段女性吟唱。
+
+那不是背景音乐，而是位于殿内远处的真实声音：音量很低，只有一个柔和、空灵的长音，经过石柱与巨大穹顶反射，方向难以判断。声音里夹杂轻微潮汐低频，像从龙台下方的中空结构传来。
+
+女主的手腕立刻停住，画面保持在略微倾斜的白玉雕刻上。她没有马上转身，而是先屏住呼吸，侧耳确认。
+
+随后她把摄像机转回自己，眼神越过镜头望向声音来源，压低声音问：
+
+“等等……你们听到了吗？”
+
+11—15秒
+
+吟唱短暂停止。她自然眨眼一次，嘴角原本好奇的笑意逐渐消失。
+
+龙台底部传来一声水滴落入深水的清晰回响。紧接着，第二个更近的女性长音从她左后方响起。她肩膀轻轻绷紧，呼吸变浅，慢慢看向自己的翻转屏，像是在确认摄像机是否也录到了。
+
+她重新望向镜头，声音低得几乎像耳语：
+
+“刚才唱歌的……不是我。”
+
+说完，她没有尖叫或逃跑，而是缓慢把摄像机转向龙台背后的黑暗通道。画面经过她的肩膀和潮湿衣袖，最终停在白玉雕刻下方一片微微震动的浅水上。
+
+水面出现一圈没有可见落点的涟漪。录像在第三声极轻、极远的吟唱中自然结束。
+
+**现场声音：**殿内冷风、衣料受潮后的轻微摩擦、石柱回声、滴水、远处潮汐低频、来自龙台后方的女性吟唱。无配乐、无旁白。
+
+**海妖风表演要求：**女主不进行魅惑式摆拍。真实反应顺序必须是感到寒冷 → 观察龙台 → 听见声音 → 屏住呼吸确认 → 意识到声音并非自己。使用细微眼神变化、自然眨眼、吞咽、肩膀绷紧和变浅的呼吸表现不安。
+
+**补充负面约束：**无摄影师、无第三人称全身镜头、无外部环绕运镜；无突然换装、无鱼尾、无蓝色皮肤、无尖牙、无夸张妖怪变身；无性感舞蹈、无夸张魅惑表演；女主没有张嘴唱歌，神秘吟唱必须来自龙台后方的空间；无背景配乐、无恐怖音效轰炸、无水下滤镜、无宫殿液化、无雕像突然活动、无字幕或水印。</code></pre>
+
+</details>
+
+## Bullet Train Blitz
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2085575144668270810)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2410](https://imglume.com/prompt/2410)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aaf95625-75a7-46f7-be4a-0a20cd822914/cefb0296-1749-4369-85e4-e8b59ff8069b-1786086129991 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The setting/location is inside an electric train that is in motion with passengers inside. The train is running on its rail that is cutting across the desert. The camera recording starts from outside above the train recording it moving in lightening speed at 360° then we start dolly-in fast and then slows down as it enters into one of the train coaches with a few passengers, then cuts to one side of the door where the door is kicked and open with a bang, a japanese woman is being chased by a group of 5 to 7 men, but when she reaches the other end of the coach, instead of continuing to run, she stops then turns aroumd to face the 5 to 7 thugs who were chasing her, suddenly she make a Kungfu pose and boom they start to fight.... the japanese woman who is good in kungfu amd kickboxing deals with them thoroughly breaking there limps and they are crying with some funny painful sounds, then cuts to above the train on the ceiling from outside another group of 2 men who she also deals with them, it ends while she looking at the camera</code></pre>
+
+</details>
+
+## East Asian woman in hot spring selfie video (SEEDANCE 2.0)
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2085433231755694511)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [2407](https://imglume.com/prompt/2407)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c3f3f8f-ad37-4c36-9904-037b504c72c1/448f91bb-d051-4bc6-8445-89252f482b3e-1786084002879 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cùng một người phụ nữ Đông Á 24 tuổi, mặc đồ trắng, @0ba07db1-974c-467d-80dc-d9dffddac0ba, đeo kính @27d48282-8e11-4b4e-94aa-f77a7eb8fbc1, vẫn giữ nguyên các đường nét trên khuôn mặt, độ tuổi và tính cách xuyên suốt. Cô ấy có đôi mắt đen, đôi mũi thanh tú và đôi môi hồng nhạt tự nhiên; làn da vẫn giữ nguyên lỗ chân lông và những nếp nhăn nhỏ dưới mắt, không hề bị làm mờ hay sử dụng bất kỳ loại mỹ phẩm thời thượng nào.
+
+Người phụ nữ tự cầm chiếc máy quay MiniDV màu xám bạc bằng tay phải trong suốt buổi chụp hình—không có người quay phim nào hỗ trợ. Khoảng cách chụp chân dung tự họa khoảng 45 cm; khi muốn thể hiện khung cảnh xung quanh, cô ấy phải xoay cổ tay và thân người trước để ống kính đi qua vai, tay áo hoặc lan can trước khi hướng vào cảnh vật; quay lưng lại để chụp chân dung tự họa cũng đòi hỏi một sự xoay người hoàn toàn.
+
+Góc nhìn người thứ ba từ phía sau, toàn thân, từ trên cao hoặc góc nhìn bên ngoài của nhân vật nữ chính đều bị cấm trong các cảnh tự chụp. Khi máy quay lia đến môi trường xung quanh, nhân vật nữ chính chỉ được xuất hiện trong khung hình thông qua bàn tay trái duỗi thẳng, tay áo trắng, gấu váy, bóng hoặc âm thanh môi trường.
+
+Chế độ màn ảnh rộng MiniDV 9:16, quay phim cầm tay tự nhiên, rung nhẹ khi đi bộ, bố cục không hoàn hảo, một vài cảnh mờ thoáng qua, hiện tượng lấy nét tự động bị gián đoạn, lệch cân bằng trắng, hiện tượng thay đổi độ phơi sáng, hiện tượng nhòe chuyển động, hiện tượng xen kẽ nhẹ, nhiễu hạt DV, quầng sáng mềm mại và màu sắc chân thực của băng.
+
+Mỗi phân đoạn chứa một cảnh tự chụp liên tục dài 15 giây không cắt ghép. Sáu phân đoạn được phân tách bằng các bước nhảy thời gian theo kiểu nhật ký du lịch, cho phép thay đổi thời tiết và ánh sáng, nhưng người trong ảnh, quần áo, phụ kiện tóc, máy quay MiniDV và âm thanh phải nhất quán.
+
+Giọng nói của nữ chính là giọng của một phụ nữ khoảng hai mươi tuổi đến từ Đông Á, nói tiếng Quan thoại tự nhiên—nhẹ nhàng, ấm áp và tò mò, thỉnh thoảng hơi hụt hơi vì đi bộ hoặc leo đồi. Đó không phải là lời dẫn chuyện của một bộ phim cổ trang, giọng lồng tiếng AI, lời bình luận của người dẫn chương trình, hay những bài độc thoại đầy năng lượng của một người nổi tiếng trên mạng. Hình ảnh 2 (@28adccf9-9808-4662-ac52-16dd086899b9) là góc nhìn selfie dưới nước của nữ chính khi đang ngâm mình trong suối nước nóng.</code></pre>
+
+</details>
+
+## Handheld night beach video of two kittens dancing
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2085343381333696648)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2367](https://imglume.com/prompt/2367)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29417595-ea70-4d76-acd2-e534a25dee36/34e87e54-9ba8-41c0-bc41-e2a9e67f90d5-1786029490653 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 10-second realistic handheld video at night on a wet sandy beach. A tiny white kitten with grey markings on its head stands upright on its hind legs in shallow water, front paws raised like it’s dancing or balancing, looking curiously at the camera. A small light-brown (ginger) kitten walks toward it, then also rises onto its hind legs beside the white one, both cats standing side-by-side with paws up in a playful, almost human-like pose. Gentle ocean waves roll in the dark background, wet sand glistening under soft night lighting. Cute, slightly shaky handheld footage, adorable and whimsical atmosphere</code></pre>
+
+</details>
+
+## Ultra-photorealistic cinematic snowboarding video with consistent character and outfit
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2085241791587213590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [2341](https://imglume.com/prompt/2341)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ece71539-fbda-4ba3-8d7b-bf4b7f0f56a6/e45e4575-3eb2-4609-9626-3f3872f72717-1786004210085 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character identity. Keep the same face, facial proportions, hairstyle, eyebrows, eyes, nose, lips, skin tone, body build, and overall appearance in every scene. Do not redesign, replace, or alter the character. Maintain 100% identity consistency throughout the video.
+
+Outfit Lock
+Keep the exact same outfit in every clip: premium matte black snowboarding jacket, black insulated snow pants, matte black helmet, reflective black ski goggles, black gloves, black snowboard boots, black snowboard with subtle silver accents. No outfit changes, no color changes, no accessory changes. Maintain perfect outfit consistency throughout the video.
+
+ Style: Ultra-photorealistic live-action cinematic, IMAX scale, 8K HDR, 120 FPS, physically accurate snow simulation, premium Hollywood action film, realistic human movement, NOT animation, NOT CGI style, NOT cartoon.
+
+CLIP 1
+Use the uploaded reference image as the exact character identity. Keep 100% facial identity consistency and the exact same snowboard outfit throughout the video.
+A towering alpine mountain covered in pristine deep snow during a dramatic golden sunrise. Powerful mountain winds blow across the ridge, creating drifting snow particles. A handsome athletic Korean male snowboarder wearing a premium matte black snowboarding jacket, insulated black snow pants, matte black helmet, reflective black ski goggles, black gloves, black snowboard boots, and a matte black snowboard with subtle silver accents stands on the mountain ridge.
+
+0–2 seconds: Extreme cinematic close-up of his face. Cold breath is visible in the freezing air. Wind moves loose snow around him while his eyes lock onto the slope ahead with calm determination. Slow cinematic push-in camera.
+
+2–4 seconds: He explosively pushes forward and begins descending the steep mountain. Powerful carving turns send enormous clouds of powder into the air. The camera tracks extremely close beside the snowboard, capturing detailed snow spray and realistic board flex.
+
+4–6 seconds: A high-speed FPV drone races only meters behind him as he rapidly weaves between snow-covered pine trees, exposed rocks, and natural ice formations. The speed continuously increases with intense kinetic camera movement.
+
+6–8 seconds: The mountain suddenly shakes. A deafening roar echoes across the valley as a gigantic avalanche breaks loose from the summit. Massive walls of snow, exploding ice, and dense powder begin rushing directly toward him. The camera briefly reveals the enormous scale of the avalanche before returning to the chase.
+
+8–10 seconds: He glances over his shoulder, immediately lowers his body into an aggressive racing stance, and accelerates even faster. Snow explodes behind his board while the avalanche rapidly closes the distance. End the clip just as he launches toward a massive natural snow cliff, cutting before takeoff for a seamless transition.
+
+Cinematic IMAX lighting, realistic snow physics, authentic live-action movement, physically accurate momentum, dynamic FPV drone chase, ultra-low tracking shots, handheld action camera energy, volumetric sunlight, dramatic mountain atmosphere, premium Hollywood action cinematography, ultra-realistic textures, no fantasy elements, no animation, no unrealistic body motion.</code></pre>
+
+</details>
+
+## Fox Spirit Woman – Interactive Game Encounter Cinematic
+
+- **Original source:** [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2085180676748501216)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2333](https://imglume.com/prompt/2333)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/501d9320-f522-4d61-a37d-91fdb1014671/fe360726-12fa-4e15-8214-9395a83b5b22-1785999972908 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Aspect Ratio: 16:9
+
+🎭 Character Description
+
+The Fox Spirit Woman — A mysterious, ethereal woman with pale porcelain skin, dressed in a flowing red-and-black silk kimono with intricate gold embroidery. She wears a detailed white fox mask with elegant red markings, covering the upper half of her face. Her movements are slow, graceful, and slightly otherworldly. Long dark hair flows beneath the mask. She carries an aura of ancient mystery — calm, deliberate, quietly seductive in a supernatural way.
+
+🎬 PART 1 (0:00–0:15) — The Discovery
+
+Cut Scene 1 (0:00–0:05): First-person POV inside a dark gaming room lit by deep red neon LEDs. Slow push-in toward an ultrawide curved monitor on a sleek black desk with a pink-and-white mechanical keyboard and RGB glow.
+
+Cut Scene 2 (0:05–0:10): The monitor reveals the fox spirit woman standing beneath a glowing full moon in a misty ancient Japanese shrine — cherry blossoms drifting, stone lanterns glowing, fog curling around wooden architecture.
+
+Cut Scene 3 (0:10–0:15): The woman slowly lifts her head, sensing the viewer. She turns toward the screen. Viewer's hand rises into frame, reaching toward the glass. Tension builds with a soft ambient hum.
+
+🎬 PART 2 (0:15–0:30) — The Contact
+
+Cut Scene 4 (0:15–0:20): Mirrored movement — the woman raises her hand from inside the screen in perfect sync with the viewer's hand outside it. Slow motion, fingertips inching closer.
+
+Cut Scene 5 (0:20–0:25): The moment of contact — the monitor liquefies into a glowing portal. Circular ripples burst across the glass, blue-white energy pulses outward, golden particles drift through the room.
+
+Cut Scene 6 (0:25–0:30): Her hand pushes fully through the portal into the real world. Fingers grip the edge of the monitor frame as the screen surface bends and ripples like disturbed water.
+
+🎬 PART 3 (0:30–0:45) — The Emergence
+
+Cut Scene 7 (0:30–0:35): She pulls herself through with slow, eerie fluidity, climbing onto the desk. Her kimono drapes over the monitor edge as the shrine glows behind her like an open doorway.
+
+Cut Scene 8 (0:35–0:40): She rises to a kneeling position on the desk, fully in the real world now. The room's red neon light mixes with the portal's blue glow, casting dramatic dual-toned lighting across her figure.
+
+Cut Scene 9 (0:40–0:45): She turns slowly toward the camera, lifts the fox mask just enough to reveal a faint, mysterious smile, and stares directly into the lens. The portal behind her seals shut with a final ripple of light.
+
+Cut to black.</code></pre>
+
+</details>
+
+## Cinematic ultra realistic street dancer video with fisheye lens
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2084854408286789707)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2321](https://imglume.com/prompt/2321)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a591c72a-be43-4bb5-a599-b831bb0bec02/f1bbd602-26ed-4030-9451-478f42011197-1785985258389 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic ultra realistic 15 second video in 16 9 aspect ratio shot on a severe fisheye lens A young male street dancer with short dreadlocks wearing an oversized retro basketball jersey and baggy techwear pants He aggressively walks toward the camera in a sunlit concrete skatepark covered in vibrant metallic graffiti The camera operates from a dynamic low angle dolly moving backward Quick rhythmic cuts to a close up of his face as he smirks and grabs the camera lens with heavy silver rings on his fingers The camera violently tilts and pans as he breakdances on cracked concrete stairs Harsh midday sunlight casts deep sharp shadows High energy motion blur Urban street culture vibe Sync visual cuts to a heavy bass hip hop beat</code></pre>
+
+</details>
 
 ## Luxury Fashion Editorial Video with Seamless Wardrobe Transformations
 
@@ -97,6 +415,73 @@ Storyboard — 15 seconds, 5 cuts
 (~3s, backstage, fast handheld montage) Quick glimpses of makeup brushes, hair styling, costume adjustments, staff rushing past, and her taking one focused breath before going onstage. VOICEOVER (CHASE): “And then everything suddenly starts moving at once.”
 
 (~3s, stage, wide shot moving into a close-up, energetic finale) Bright stage lights ignite as she steps through the curtains. The camera catches her silhouette, then a brief confident smile before the image cuts to black. VOICEOVER (CHASE): “This moment is why I keep doing it.”</code></pre>
+
+</details>
+
+## AI Film Trailer Scene 1 - 30秒真人电影质感 圆桌会议
+
+- **Original source:** [@Cia0_exe on X](https://x.com/Cia0_exe/status/2084919925173559656)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2285](https://imglume.com/prompt/2285)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bc8cef5b-f699-4b46-a7a8-143892b4e8fa/8362fa7e-7d5f-4a7f-8ada-241157f09628-1785958330146 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Chinese Prompt : #seedance 2.5
+参考@ image1作为窗外月面景观。参考@ image2至@ image14的人物设定，完全按照各自参考图呈现五官、发色、瞳色、服饰、配饰、武器与所有装饰细节，以写实真人电影质感重新呈现（非动画、非插画），辨识度完全一致，不进行任何重新设计。
+本段仅出现@ image2、@ image3、@ image4、@ image5、@ image6、@ image7、@ image8、@ image9、@ image10；@ image11、@ image12、@ image13、@ image14在本段完全不出现。
+
+30秒真人电影质感，16:9，4K，24fps，电影级运镜，每2秒变换一次机位、焦段与运动方向。
+【画质】真实皮肤质感与毛孔、次表面散射、发丝根根分明、金属与宝石的真实反射、布料真实织纹与重量、35mm胶片颗粒、真实变形宽银幕镜头耀斑、浅景深。
+
+【场景锁定】
+大厅：月球上一座正圆形白色大厅，直径约二百米，穹顶高不见顶。南侧为唯一的正门，一对高约十米的无缝白色门扇。北侧为整面弧形巨窗，窗外是@ image1的冰白月面荒原与压满天空的巨大月球。东侧最远端数百米外是异星乐团的阶梯高台，@ image2独自站在高台边缘背对众人。
+圆桌：位于大厅正中央，纯白无缝圆形石桌，直径约八米，桌面完全平整光滑，无任何花纹、雕刻、接缝或装饰，边缘为圆角；桌面较低，坐下时约与胸口齐平；材质为哑光抛光月岩，能映出模糊倒影。
+座椅：十一张完全相同的纯白高背椅，沿圆桌均匀分布，椅背高、直、无扶手、无雕饰。
+钟位定义：以最靠近北侧巨窗的那张椅子为十二点钟位，顺时针编号；六点钟位为最靠近南侧正门的那张椅子，全片始终空置。
+光线：唯一主光源为北侧巨窗射入的暖象牙金日光，方向自始至终不变，所有人物与圆桌的投影方向全程一致，无任何其他方向的硬光源。
+【场景锁定结束】
+
+【空间张力】因距离极远，乐声与门开声都带明显延迟与超长混响；每一次正门开启的声音比上一次更沉更响；六点钟位的空椅始终在构图中被强调。
+【色彩设计】基底为中性冷白月岩与象牙白，阴影偏冷蓝灰；高调电影调色，高光柔和溢出、暗部保留细节、低对比。每个阵营入场时为纯白空间带来自己的色彩污染并持续累积。
+
+【角色专属灵气特效】
+@ image2：悬浮的发光乐谱环缓慢旋转，指挥棒尖端拖出细长光轨。
+@ image3：全身热浪把画面强烈扭曲，火星不断上升，纯白地面留下持续扩大的焦痕，瞳孔深处白炽光闪动。
+@ image4：黑色灰烬如细雪自她周身飘落，黑色长指甲边缘渗出细烟，头顶浮现暗红余烬环。
+@ image5：厚重的金色光晕随她移动，空气中浮起仪式般的金色微尘。
+@ image6：赤铜色光折射，外袍上的金箔碎片不断剥落并悬浮在她身后。
+@ image7：绝对无任何灵气特效——任何飘散的火星、灰烬、花瓣、光尘一旦靠近他都会瞬间熄灭消散，周身形成一圈干净的真空区域。
+@ image8：白色花朵与金色光点持续漂浮环绕，脚下白石缝里冒出细小新芽。
+@ image9：细根沿地面向前蔓延又缩回，小臂青蓝色光脉流动，身后扬起细密土尘。
+@ image10：红黑色肩甲边缘持续剥落暗红碎片，脚下阴影比其他人更深更浓。
+
+【本段座位】@ image3坐三点钟位、@ image4坐四点钟位；@ image5坐七点钟位、@ image6坐八点钟位，@ image7站于@ image5椅正后方；@ image8坐十二点钟位、@ image9坐一点钟位、@ image10坐两点钟位。五、六、九、十、十一点钟位在本段结束时仍为空椅。
+【乐团分层】第0秒起远处传来延迟的低音弦乐；@ image3与@ image4入场时加入低音铜管与战鼓，@ image5与@ image6入场时加入全体弦乐与定音鼓，@ image8与@ image9与@ image10入场时加入木管、竖琴与玻璃琴；音乐全程不中断，逐层增厚。
+
+0-2秒｜自极高空俯冲的航拍长镜、24mm：@ image1的冰白月面荒原全景，巨大月球压满天空，镜头俯冲穿过白色尖峰切入大厅穹顶并持续下坠，纯白圆桌与十一张白椅在深处逐渐显形。
+2-4秒｜超长焦压缩全景、200mm：自圆桌西侧望向东侧最远端，@ image2与异星乐团在数百米外被压缩成一片微小轮廓，浮尘在窗光柱中翻涌；一个延迟到达的低音滚过空间；南侧正门无声开启。
+4-6秒｜低角度双人跟拍配合dolly zoom、35mm：@ image3与@ image4并肩踏
+
+18-20秒｜横移微距串联、100mm：@ image8头顶漂浮的白色花冠与新芽；@ image9兽骨护腕的裂纹与小臂青蓝色流动光脉；@ image10红黑色碎裂肩甲的锋利边缘与异常浓重的脚下阴影。
+20-22秒｜桌面贴地长焦、135mm：五种灵气在白桌中央第一次相接——火星、灰烬、金尘、金箔、花瓣与细根互相排斥又缠绕，桌面像水面一样映出全部颜色。
+22-24秒｜三人落座广角、35mm：@ image8、@ image9、@ image10在十二至两点钟位落座，桌面中央的灵气骤然平息下来。
+24-26秒｜正上方垂直俯拍缓慢旋转、24mm：三个阵营各据一方，白色地面已被三种颜色染上，四张白椅仍空；画面最远处仍可见微小的乐团高台。
+26-28秒｜跨桌超长焦对切、200mm：@ image3与@ image10隔桌对视，两人之间的空气因热浪而扭曲，中间是空着的六点钟座位；@ image7在景深外纹丝不动。
+28-30秒｜正面对称广角缓慢后拉、28mm：正门第四次开启，声音比前三次更沉；纯金色的光泼进大厅，逆光中出现单独一道剪影；乐声骤然收束到只剩一个从远处延迟传来的大提琴泛音。
+
+【台词】全程英语，各自音色不同，音量克制、贴近麦克风，因大厅巨大而带明显混响：
+9秒｜@ image4（冷淡带笑意的女低音）："Eleven chairs. Someone has been counting on us dying."
+15秒｜@ image5（克制威严的女声）："The chamber is white so we can see what we stain."
+21秒｜@ image9（苍老缓慢的女声）："The stone still remembers being a mountain. Give it a moment."
+27秒｜@ image3（低沉沙哑的男声）："Three courts. Four empty chairs. I like these odds."
+
+【约束】@ image2至@ image10的服饰、配饰与武器全程与参考图完全一致；@ image7全程站立不落座且周身始终无任何灵气特效；@ image11、@ image12、@ image13、@ image14不出现在本段任何画面中；灵气特效持续累积不重置；动作自然克制、重心真实，杜绝任何僵硬或不自然的关节角度；画面完全无字幕、无文字、无标题、无水印。
+【音频】巨大空间的超长混响、带延迟的脚步声、衣料摩擦、椅子推开的轻响、@ image8金枪杵地的清响、窗外低频的月面风鸣；远处管弦乐全程不断并逐层增厚。</code></pre>
 
 </details>
 

@@ -1,9 +1,124 @@
 # Cinematic image prompts
 
-32 source-linked prompts, newest ImgLume records first.
+36 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 电影感东方仙侠场景：白玉长廊与悬浮山岛
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2085386658732515811)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2403](https://imglume.com/prompt/2403)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0bb7fdaa-5bd7-4dda-a425-ddbe40191770/30461ddc-e0ff-4f6b-a804-c7a3cbe1673e-1786075576480 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>一张电影感的东方仙侠场景图，cinematic wide shot，严格的 one-point perspective 单点透视。
+主体是一条悬浮在云海之上的白玉长廊，从画面右下角向左上方深处急剧收缩，消失点落在画面
+左侧三分之一处。长廊上方是白玉梁枋与藻井，雕满缠枝卷云与螭龙纹，边缘描极细的金线；
+一整排立柱沿廊排开，柱身为深朱红色漆木，柱头与柱础是白玉透雕，越向深处柱距越密、
+尺寸越小。长廊中段矗立一座巨大的白玉圆环月洞装饰，环身盘绕浮雕云龙，环内透出远处的
+蓝天与云。
+
+长廊地面是抛光如镜的白玉，完整倒映上方的天空与积云——画面下半部几乎全是倒影中的云，
+虚实交错。廊外侧是深色木质镂空花格栏杆。
+
+三位年轻女子立于栏杆边向外眺望，全部背影，身量极小，仅占画面高度的十分之一：一位穿
+青绿色广袖襦裙，两位穿月白与淡青色褙子，长发垂落，衣袖被风轻轻带起。
+
+画面左侧是一座悬浮的山岛，覆满深绿松柏与垂落的藤萝，岛下垂着一道细长的白色瀑布散入
+云中；更远的云海里隐约浮着数座层叠的中式楼阁，尺度极小，被雾气柔化。
+
+天空是明亮通透的蔚蓝，缀满大朵蓬松的白色积云，云层有清晰的体积与层次。暖金色阳光从
+画面右侧低角度斜射入廊，在朱红柱身与白玉雕花上镀出明亮高光，柱间形成 backlit 光晕与
+柔和的 lens flare 星芒；廊内阴影是干净的冷蓝灰。
+
+色彩为暖金、朱红、白玉与蔚蓝白云的高对比组合，明亮通透，饱和饱满但不艳俗。质感：
+cinematic film still，shallow depth of field 使前景柱子轻微虚化，强烈的 aerial
+perspective 让远景层层变淡；建筑雕饰细节极其繁复精密。整体空灵、辽阔、梦幻。</code></pre>
+
+</details>
+
+## Cinematic portrait of Cailee Spaeny as Rogue
+
+- **Original source:** [@Giulia_4i on X](https://x.com/Giulia_4i/status/2085425675444343142)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2397](https://imglume.com/prompt/2397)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d8a72aa6-87ae-4f91-8a84-daa4b0092f8b/5daf54f8-95eb-44b9-b663-927191fa9f51-1786062958997 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d8a72aa6-87ae-4f91-8a84-daa4b0092f8b/ba70a2ba-e6f7-4108-b11b-ba9234f07ece-1786062958997 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d8a72aa6-87ae-4f91-8a84-daa4b0092f8b/35511233-5fef-416d-b121-47b3d5173cff-1786062958997 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d8a72aa6-87ae-4f91-8a84-daa4b0092f8b/636eb81e-aef9-4e41-a399-baa1f6ed787d-1786062958997 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"A high-fidelity cinematic medium portrait shot of [NAME] as Rogue from X-Men, captured from a three-quarters front view at eye level.
+She stands in a confident, heroic posture with her right hand subtly raised near chest level and her left hand resting on her hip, looking directly into the camera lens with a subtle, expressive smile. She has a toned, athletic physique with balanced proportions. Her hair is voluminous, featuring a prominent, natural white streak framing her face, complemented by soft makeup that subtly highlights her eyes and lips.
+She wears a faithful X-Men Rogue superhero costume made of high-density tactical fabric in rich emerald green and bright yellow. Over her shoulders, she wears an open, distressed brown leather bomber jacket with authentic texture. Her outfit is completed with matte yellow fine-leather gloves with folded cuffs and a brown leather utility belt featuring a detailed circular metallic buckle.
+The scene is illuminated by dramatic backlit lighting, with warm amber, yellow, and green light beams emerging diagonally from an abstract background, creating a strong rim light along her silhouette and subtle optical lens flares. Soft ambient front fill lighting preserves high contrast while revealing fine facial expressions and rich fabric textures.
+Technical Style: Shot on an 85mm prime lens with a full-frame sensor at f/2.8 aperture, ISO 100, and 1/250s shutter speed. Hyper-realistic cinematic portrait photography, pin-sharp focus on her irises, natural optical depth of field, sharp tactile textures on the leather and fabric, zero noise, wide dynamic range, 9:16 aspect ratio."</code></pre>
+
+</details>
+
+## Horizontal cinematic film strip of golden eagle flight over symmetrical mountains
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2085389897519546619)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2380](https://imglume.com/prompt/2380)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/15c0d05d-7d96-409a-834d-74cb84b543dc/c5400d8a-0a69-406b-bdcc-44533f992476-1786041947606 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A horizontal cinematic film strip divided into 8 distinct panels in a single row, showing the flight sequence of a majestic golden eagle over symmetrical mountains.
+
+Strict Style Consistency:
+
+Metallic gold and obsidian black eagle, white and gold sculptural mountains, perfect symmetry, mirror reflection on water surface, deep navy to azure gradient background, high-end 3D digital art, luxury minimalist aesthetic, crisp cinematic lighting, 8k resolution.
+
+Panel Sequence:
+
+1. Wings Folded: Eagle with wings partially folded, diving downward, talons extended, dynamic pose, mountains below.
+2. Wings Opening: Eagle's wings beginning to spread, feathers catching light, upward motion, mountain peaks in background.
+3. Full Spread: Eagle with wings fully extended (original image), soaring forward, symmetrical composition, perfect reflection.
+4. Gliding: Eagle gliding smoothly, wings slightly angled, serene pose, mountains reflecting perfectly below.
+5. Turning: Eagle banking left, one wing higher than other, dynamic turn, asymmetric but balanced composition.
+6. Climbing: Eagle ascending steeply, wings powerful, rising above mountain peaks, dramatic angle.
+7. Soaring High: Eagle at highest point, small in frame, vast mountain landscape below, epic scale.
+8. Diving Again: Eagle folding wings, diving back toward mountains, full circle motion, dynamic finale.
+
+Unified aesthetic: gold-black eagle, white-gold mountains, perfect symmetry, mirror reflection, luxury 3D
+
+Model: Seedance 2.0</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic close-up portrait of a fashion model (vertical 9:16)
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2085064288566186144)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2328](https://imglume.com/prompt/2328)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/17908cb0-a5b4-4d29-8317-93d21bfd9be4/38ea6fd5-74f1-446b-a8e6-180cc42e5ecf-1785991611506 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/17908cb0-a5b4-4d29-8317-93d21bfd9be4/f0056a18-df32-4f1d-9a7d-8025abfbf453-1785991611506 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the attached image as the SINGLE reference for appearance. Fully preserve the face, eye shape, eyebrows, nose, lips, jawline, hairstyle, skin tone, and all individual features. This must be exactly the same girl. Natural professional fashion model with realistic skin: natural texture, visible pores, light peach fuzz, natural imperfections, healthy glow. No plastic skin, retouching, or changes to appearance.
+Create an ultra-realistic cinematic close-up portrait. Only one expressive eye is visible, softly peeking from under thick, voluminous, natural wavy hair. Golden sunset light beautifully backlights the eyelashes and hair, creating a warm glow.
+Light natural makeup: dusty pink lips, gentle peach blush, natural eyebrows, and maximally realistic skin. The rest of the face is softly hidden by hair and artistic blur, fully focusing attention on the eye. Slight head tilt, vintage film grain, warm light flares, shallow depth of field, cinematic color grading, Vogue Editorial atmosphere, museum-level lighting, ultra-photorealism, ultra-high detail, vertical format 9:16.</code></pre>
+
+</details>
 
 ## High-fashion cinematic action sequence with blonde model in white power suit
 

@@ -1,9 +1,26 @@
 # Product Ads image prompts
 
-11 source-linked prompts, newest ImgLume records first.
+12 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic summer skincare product photography of Golden Glow - Bronzing Elixir
+
+- **Original source:** [@wiliam_web3 on X](https://x.com/wiliam_web3/status/2085663511225516095)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2431](https://imglume.com/prompt/2431)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/891846e9-0683-4e01-9a07-0c5405499238/b261e7c7-da75-469f-82e1-95d5fad15a9d-1786098474872 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/891846e9-0683-4e01-9a07-0c5405499238/30d93dc2-c148-4960-857a-835c37d1dd1d-1786098474872 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/891846e9-0683-4e01-9a07-0c5405499238/fc9f56da-7dcb-479e-817d-2b032e51fcb2-1786098474872 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/891846e9-0683-4e01-9a07-0c5405499238/bad87325-9459-4d28-bbe1-5ac088ebf177-1786098474872 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic summer skincare product photography of a bronzing drop bottle named "Golden Glow - Bronzing Elixir", rectangular matte bottle in warm sun-kissed bronze tone with a clean white cap, placed diagonally on wet beach sand as a gentle ocean wave washes over it, delicate sea foam and tiny bubbles surrounding the base, water partially flowing across the label, fine sand texture visible beneath shallow clear water, golden sunlight casting natural highlights and soft shadows, high-detail water ripples and realistic foam patterns, fresh summer aesthetic, minimal clean branding centered and sharp, warm golden-hour beach lighting, cinematic top-down flat lay composition, natural reflections on wet surface, editorial beauty campaign style, ultra-detailed, photorealistic 8K, soft warm color grading, luxury skincare advertisement Aspect ratio 4.5</code></pre>
+
+</details>
 
 ## Vibrant Premium Fashion Advertisement
 

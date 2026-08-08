@@ -1,9 +1,81 @@
 # Architecture image prompts
 
-6 source-linked prompts, newest ImgLume records first.
+8 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Artistic Gothicpunk Urban Metro Station Exterior
+
+- **Original source:** [@artingent on X](https://x.com/artingent/status/2085339593050841276)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`
+- **ImgLume record:** [2402](https://imglume.com/prompt/2402)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9a02df55-3d70-451d-bc6f-26a0006379fb/51b025fe-63ab-43ec-95a8-cfe6e8ce54c1-1786075552291 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SCENE
+Do not render gears or representations of gears in the scene.
+A visually rich Artistic Gothicpunk exterior scene expressed through a melancholic, bustling environment centered around an urban metro station exterior reimagined in Gothicpunk style, interpreted through neo-gothicpunk variation and influenced by east asian gothic fusion design language. The scene is presented as a dense exterior transit hub with arch-dominated entrances and layered vertical access structures. The environment conveys bustling activity through commuters and transit flow, reflecting an overcast day and emphasizing interaction between infrastructure and atmosphere.
+
+ENVIRONMENT
+Set within a dense urban gothic district featuring layered, multi-tiered spatial complexity at a mixed scale hierarchy. The layout is defined by layered façade stacking shaped through hybrid material construction logic, with compact density. Structures use concrete gothic reinterpretation, oxidized metal, and etched glass panels. Surfaces exhibit damp, reflective worn, and layered qualities. Ornamentation includes illuminated inlay ornamentation, metal overlays, and arch recessions integrated into entrances. Crowds in gothic attire reinforce scale. The environment exists in a smog-heavy ecological state.
+
+STYLE
+Artistic Gothicpunk expressed through neo-gothicpunk with east asian gothic fusion influence. The visual output emphasizes atmospheric texture blending and evenly distributed detail. Composition follows multi-focal composition with depth separation. Depth structure uses light-separated depth and haze layering. Color strategy is cool muted palette with luminous accents. Rendering approach is cinematic realism with high resolution clarity.
+
+CAMERA
+Captured from eye level using architectural framing that emphasizes entry structures and crowd flow. Motion feel includes crowd flow motion and drifting haze.
+
+LIGHTING and MOOD
+Illuminated by glowing windows, internal light, and diffused sky light with multi-directional lighting. Light quality is ambient soft with luminous accents. Color temperature is cool, establishing a subdued, melancholic mood. Atmospheric effects include smog, haze, and light diffusion.
+
+DESCRIPTION PLAQUE
+Position bottom right
+Do not render gears or representations of gears
+The plaque is constructed aesthetically with ornate decorations in an artistic gothicpunk style
+Gothic Metro Concourse
+Artistic Gothicpunk
+A dense transit hub of arches and shadow, where crowds move beneath layered structures in a haze of muted light.</code></pre>
+
+</details>
+
+## Minimal luxury monument showcase
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2085185852138025145)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `seedream`
+- **Categories:** `architecture`
+- **ImgLume record:** [2368](https://imglume.com/prompt/2368)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8f5e55a7-fb77-42a9-982b-98633ad5a3ba/2a4db319-cd75-4922-be16-d4f9e64ae0d7-1786029497692 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8f5e55a7-fb77-42a9-982b-98633ad5a3ba/f28f380f-be90-49ef-a890-d4e64a6c2598-1786029497692 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8f5e55a7-fb77-42a9-982b-98633ad5a3ba/2ea3702f-be7d-4707-ab6b-e2fbc3877bc7-1786029497692 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8f5e55a7-fb77-42a9-982b-98633ad5a3ba/9dccba6e-5583-465f-ae2e-78e618d87c37-1786029497692 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium minimalist architectural presentation of [LANDMARK NAME] in [COUNTRY/CITY].
+
+The landmark should emerge as the only focal point, sculpted in elegant metallic gold while the surrounding city is rendered entirely in matte white as a clean architectural scale model.
+
+Place the landmark precisely at the center, softly glowing with warm golden illumination that naturally draws attention. The surrounding streets, buildings, plazas, and urban layout should appear simplified, monochromatic, and highly minimal, emphasizing the monument’s importance.
+
+Use a refined museum exhibition aesthetic with luxury branding, abundant negative space, soft global illumination, subtle ambient occlusion, delicate shadows, and ultra-clean geometry.
+
+Add a sophisticated serif title centered near the top:
+
+[COUNTRY] | [LANDMARK NAME]
+
+in elegant gold typography.
+
+The overall composition should feel like an Apple-style product reveal, luxury architectural visualization, premium tourism branding, and high-end editorial design.
+
+Style: minimalist architecture, monochrome white city model, golden centerpiece, museum display, luxury presentation, clean geometric forms, cinematic lighting, soft gradients, photorealistic 3D render, ultra-detailed, octane render, global illumination, elegant typography, premium branding, calm aesthetic, high-end architectural visualization, 8K.</code></pre>
+
+</details>
 
 ## Sprawling Futuristic Gothic Megacity
 

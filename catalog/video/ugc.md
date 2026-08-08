@@ -1,9 +1,218 @@
 # UGC video prompts
 
-29 source-linked prompts, newest ImgLume records first.
+33 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Low-quality iPhone style purikura booth video with subject from Image1
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2085356505864224959)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2409](https://imglume.com/prompt/2409)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/129ddb8e-a638-41ff-98aa-6f946348c26d/2850ea08-9ec8-4a8d-bc6d-237051919498-1786086109293 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject: Person from Image1. Face and hairstyle must match Image1 completely do not transform into a different person. Outfit: casual everyday streetwear. Ignore the outfit, background, pose, and bottom text from Image. Even if image quality is rough, facial features must remain clearly defined. 16:9 horizontal. Entire video has an old iPhone low-quality everyday-video look. Constant heavy noise and compression artifacts throughout.
+Setting: Small purikura/photo sticker booth inside a convenience store or arcade corner, bright colorful booth interior with soft ring-light glow, curtain partially visible at entrance. Touch screen menu and any on-screen text/templates are not legible.
+Timeline:
+0–4s: Steps into booth alone, sits/stands facing the touch screen, fumbles tapping through menu options, slightly confused, mutters low: "wait which one do I press—"
+4–8s: Randomly picks a frame template on screen, screen changes (colors/light shift, but text illegible), adjusts stance getting ready, glances at self in the screen's mirror reflection.
+8–11s: Countdown light blinks on screen, tries to strike a cute/awkward pose alone — overdoes it slightly, feels silly.
+11–14s: Flash fires, immediately breaks pose and laughs at own reflection on screen, covers mouth briefly, still laughing: "oh my god that was so awkward."
+14–17s: Steps out through curtain to the sticker printer outside the booth, printer whirs, sticker sheet slides out, picks it up and looks at it (photo content on sticker is @Image 1 face reference, but text/graphics illegible).
+17–19s: Peels one sticker off the sheet, sticks it onto the back of phone case, presses it down with thumb, looks at camera with a satisfied grin, freeze on final frame.
+Camera: Loose 1–1.5s cuts. Old iPhone, vertical, standard 1x lens (no distortion, standard field of view), handheld with slight natural shake during booth entry/exit, more static during in-booth pose moment, colorful booth lighting causing off white balance (magenta/pink cast typical of purikura booths), brief flash overexposure burst.
+Sound: No BGM. Ambient store/arcade background noise (faint chatter, other machines), touch screen tap sounds, countdown beep, shutter click/flash, printer whirring/output sound, laughter, close and slightly muffled voice (booth echo).
+Style: Unedited low-quality phone video look. No color grading, no film look, no cinematic look, no beauty filter, no CG texture. No fisheye/ultra-wide (0.5x)/action-cam look, no barrel distortion, no vignette, no black lens-round at frame edges — flat standard field of view, frame filled edge to edge. Real skin texture maintained (pores, flyaway hairs, natural oil sheen). No cut consolidation, no scene skipping. No on-screen text (booth screen, sticker sheet graphics/text must be illegible).</code></pre>
+
+</details>
+
+## 15‑second photorealistic shopping vlog selfie in a modern womenswear store
+
+- **Original source:** [@beechinour on X](https://x.com/beechinour/status/2085437314163990763)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2406](https://imglume.com/prompt/2406)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fbec7072-65fe-4d32-989d-a09b6f24e382/645ab884-7b93-4296-91e4-2679a3758ad2-1786079770373 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an exactly 15-second photorealistic shopping vlog in 16:9: extremely sharp 4K compact-camera detail, natural HDR, accurate skin, realistic motion and perfect identity continuity. No VHS, grain, subtitles, logos, watermarks or graphics.
+
+SUBJECT: A 21-year-old American woman with long wavy chestnut hair, light everyday makeup and an expressive, approachable face. Fitted black long-sleeve top, light-blue straight jeans, sneakers and a small black shoulder bag. Keep her face, hair, outfit, bag and jewellery identical through every cut. She talks like a normal friend, never a presenter.
+
+STORE: A large modern high-street womenswear shop resembling an upscale European fast-fashion retailer without real branding. Cream walls, black fixtures, mirrors, warm-neutral spotlights, polished floor, fitting rooms, folded denim and dense racks of blazers, tops, dresses, knitwear and trousers. Adult shoppers browse independently. No readable brands, signs, price tags or labels.
+
+CAMERA: The same compact camera stays in her hand throughout. Every frame is one-handed arm’s-length selfie, her mirror reflection holding it, or her rotating it outward to show clothes. Never place it down, prop it up, pass it to anyone or use an external angle. Sharp 20–24mm-equivalent wide lens, mild barrel distortion, deep focus, reliable eye autofocus and true 24fps with 1/48-second blur. Stabilization controls impacts but retains footstep bob, wrist sway, breathing, grip shifts, late pans and imperfect reframing. Preserve pores, flyaways, teeth, fabric and accurate reflections without beauty filtering or fake bokeh. Exposure stays face-priority but shifts subtly between mirrored aisles and the fitting-room corridor. Fast wrist turns show slight rolling-shutter skew and natural background blur while her face and garments remain sharply resolved.
+
+EDITING IS CRITICAL: Use 12 clips and 11 hard jump cuts. Most cuts remain in the same aisle or beside the same rack, with only a small jump in pose, expression, camera distance, garment position or sentence. Remove mundane pauses and bits of walking. Cut mid-gesture, during camera turns and inside sentences for the fast rhythm of an edited social vlog. Geography and identity stay coherent despite time compression. No fades, transitions, whip effects or cinematic montage. Cuts are not beat-synced; some happen for no narrative reason and simply skip a fraction of an ordinary action.
+
+CLIP 1 — 0.0–1.2:
+
+Walking into the store in loose selfie framing:
+
+“Okay, I’m literally just getting—”
+
+CLIP 2 — 1.2–2.3:
+
+Jump cut a few steps inside, nearly the same angle but her hair and bag have shifted:
+
+“—one top. That’s it.”
+
+CLIP 3 — 2.3–3.4:
+
+She rotates the camera toward a crowded rack and slides hangers with her free hand. Hangers clack; no dialogue.
+
+CLIP 4 — 3.4–4.6:
+
+Jump cut beside the same rack. In selfie view she holds a dark-red top against herself:
+
+“Wait, this is cute.”
+
+CLIP 5 — 4.6–5.5:
+
+Cut to a nearby mirror, camera visible in her hand. She checks the top. Her female friend, mostly off-camera, says, “No.” She turns: “Really?”
+
+CLIP 6 — 5.5–6.4:
+
+Close selfie micro-cut in the same spot. She laughs:
+
+“Okay, rude.”
+
+CLIP 7 — 6.4–7.6:
+
+She rotates toward a blazer rail and pulls out a charcoal jacket. Focus briefly transfers from mirror to fabric.
+
+CLIP 8 — 7.6–8.8:
+
+Jump cut in the same aisle. The top and jacket now rest over her free arm. Looking down:
+
+“Why do I already have four things?”
+
+CLIP 9 — 8.8–9.8:
+
+Near-identical angle after another micro-cut. Friend: “Because you picked them up.” She smiles: “Fair.”
+
+CLIP 10 — 9.8–11.2:
+
+Cut to her walking past another rack. She pans across dresses, passes the item she wants, then corrects back. No dialogue.
+
+CLIP 11 — 11.2–13.2:
+
+Mirror near the fitting rooms. Holding the jacket against herself:
+
+“Do I need this?”
+
+Friend: “No.” She smiles, ignoring the answer.
+
+CLIP 12 — 13.2–15.0:
+
+Close walking selfie approaching the fitting rooms, garments over her free arm:
+
+“Okay, I’m trying it on.”</code></pre>
+
+</details>
+
+## Handheld night-time dance studio vlog by influencer
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2085350644915765377)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2398](https://imglume.com/prompt/2398)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d032b005-d53c-435b-9082-94ae702db16a/746fe6da-0bac-4885-864e-24829b12f5ed-1786062972251 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+DV 16mm tape camcorder handheld aesthetic. POV of a beautiful influencer-style woman filming herself directly by hand. Keep natural hand shake, slightly crooked framing, delayed focus pulls, awkward zooms, occasional moments where her face is partly cut off, and imperfect framing that briefly loses the subject. Every shot is filmed by the woman herself in selfie-cam or first-person style, except for one brief moment when she props the camera down. The camcorder itself never appears on screen.
+
+LOOK:
+Soft digital tape look with a subtle vintage camcorder feel. Slight blur, faint tape noise, softly blooming highlights in dim light, mild flicker in auto-exposure, low contrast, realistic skin tones.
+
+STYLE:
+Late-night post-practice vlog mood — tired, calm, a little out of breath, but clearly happy and satisfied. Quiet, natural, unposed energy. Handheld all the way through, slower and more intimate than a daytime gym vlog. Occasional heavy breathing between lines.
+
+CHARACTER: A beautiful Instagram-style brunette model in her 20s. Long dark brown hair tied back or slightly messy after rehearsal, attractive feminine features, glowing skin with a light sweat sheen, expressive eyes, slim fit build. Wearing a modest fitted long-sleeve athletic top, loose joggers or sweatpants, and sneakers. No jewelry.
+
+SETTING:
+An empty dance rehearsal studio late at night. Mirror wall on one side, wooden floor, a speaker in the corner, a towel and water bottle near the wall, dim overhead lighting, dark hallway visible outside the studio windows.
+
+STORYBOARD:
+(~2s, propped camera near the mirror, medium shot) She walks into frame catching her breath, wipes sweat from her forehead, gives a small exhausted smile. “Finally done… it’s way too late.”
+(~2s, handheld, slow drift across the room and back to her) The camera loosely pans over the empty mirrors and quiet studio, then returns to her face. (softly, off-screen): “Whole studio’s empty now.”
+(~2s, medium handheld near the wall) She grabs her water bottle, takes a long drink, lowers it, and exhales in relief. “I really needed that.”
+(~2s, propped camera facing the mirror, wider shot) She sets the camera down, steps back, does a short sharp dance combo, then laughs at herself when she finishes. (~2s, arm’s-length selfie close-up finish) She picks the camera back up, towel over her shoulder, cheeks flushed, still breathing a little heavy. She gives a small tired wave and a genuine smile. “Okay, I’m going home. Good night</code></pre>
+
+</details>
+
+## Handheld Morning Vlog of Emma with Dog
+
+- **Original source:** [@maxxmalist on X](https://x.com/maxxmalist/status/2085422370362110168)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2385](https://imglume.com/prompt/2385)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ec5bd2d0-6717-4c7e-b4a8-2fa4d3130705/f7836d98-d33e-492b-8b37-cae52ce5c3e4-1786050351904 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping outside her apartment building with her dog. The first 20–30 seconds are entirely handheld. Later she occasionally places the camera on a park bench, low stone wall, picnic table, or the ground for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.
+
+LOOK: Warm analog tape texture with gentle film grain, slightly softened sharpness, subtle halation around sunlight, realistic skin tones, low contrast, tiny exposure shifts, and natural motion blur. It should feel like authentic footage from someone's everyday life rather than a polished commercial.
+
+STYLE: A relaxed morning lifestyle vlog. Quiet, cozy, and spontaneous. She occasionally laughs at her dog, pauses to look around, adjusts the leash, brushes hair away from her face, and speaks naturally in short sentences with comfortable pauses.
+
+CHARACTER: EMMA — a beautiful white woman in her mid-20s. Long light brown hair in a messy ponytail, green eyes, minimal makeup, oversized gray hoodie, black biker shorts, white sneakers, and a small crossbody bag. She is walking a happy golden retriever.
+
+SETTING: A peaceful suburban neighborhood on a sunny morning. Tree-lined sidewalks, quiet residential streets, birds singing, a small park with benches, green grass, and soft golden morning light. Very few people are around.
+
+SCENES:
+
+The vlog opens in selfie mode. Emma holds the camera while leaving her apartment building with the golden retriever excitedly pulling on the leash.
+"Good morning."
+She smiles.
+"Someone couldn't wait."
+The dog eagerly sniffs everything as they walk down the sidewalk.
+She laughs quietly.
+"He has to inspect every single tree."
+Still holding the camera, she walks into a small neighborhood park.
+The dog suddenly stops and stares at a squirrel.
+"Oh... there we go."
+She smiles and gently shakes her head.
+She places the camera on a nearby bench for a wider angle while throwing a tennis ball.
+The dog happily chases after it.
+"Worth waking up early."
+She picks the camera back up.
+Walking slowly through the park, she looks up at the trees for a moment.
+"It's actually really peaceful out here."
+The dog returns with the ball but drops it halfway.
+She laughs.
+"Close enough."
+She sits on the bench while the dog lies beside her.
+She scratches behind his ears.
+"I think he's happier than I am."
+She stands up and continues walking.
+The camera stays in selfie mode as they head toward home.
+"Coffee is definitely next."
+She smiles into the lens.
+"See you later."
+She gives a small wave and ends the recording.</code></pre>
+
+</details>
 
 ## Native Feed UGC Prompt Stack for 15s Talking Unboxing Video
 

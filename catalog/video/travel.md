@@ -1,9 +1,133 @@
 # Travel video prompts
 
-13 source-linked prompts, newest ImgLume records first.
+17 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second ultra-realistic cinematic travel vlog of a young woman
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2085617736940662980)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2416](https://imglume.com/prompt/2416)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/80a303ac-8e78-437a-8578-724cd814b276/91bdc485-52c1-4379-98d5-d7b1b9fa5571-1786090187033 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic cinematic travel vlog featuring the same young woman throughout the entire sequence. Maintain identical facial features, hairstyle, makeup, skin tone, body proportions, and outfit consistency unless naturally changed during the journey. Premium lifestyle cinematography, luxury airport aesthetic, authentic travel atmosphere, smooth handheld and gimbal camera movement, realistic body language, 4K HDR, 16:9.
+
+The video opens with a close-up of her smiling into the camera in her bedroom beside an open suitcase. She finishes a light makeup routine, zips her luggage, picks up her passport, and says, "New adventure... let's go!" She leaves home, loads her suitcase into a cab, and films the city through the window while saying, "On the way to the airport."
+
+She arrives at the airport, checks the departure board, checks in her luggage, clears security, browses duty-free stores, grabs a coffee, and smiles at the camera saying, "Boarding starts in a few minutes." She walks through the boarding gate, enters the aircraft, settles into her window seat, watches planes outside, and says, "Ready for takeoff!"
+
+During the flight, she enjoys a beautifully served meal, records the tray, takes a bite, and says, "The lunch is actually delicious." She watches the clouds through the window, reads a magazine, and relaxes before the aircraft lands.
+
+After arrival, she exits the airport, waves at the camera, gets into another cab, and says, "Made it to a new country!" The cab passes famous city landmarks before reaching a luxury hotel. She checks in, enters her room, opens the curtains to reveal the skyline, freshens up with a quick skincare and light makeup routine, changes into comfortable sleepwear, smiles at the camera saying, "Time to rest... tomorrow the real adventure begins." She switches off the bedside lamp as the camera slowly pulls back.
+
+Ultra-realistic travel cinematography, authentic airport ambience, realistic announcements, rolling suitcase sounds, aircraft cabin atmosphere, soft background music, premium hotel interiors, cinematic lighting, natural facial expressions, smooth transitions, shallow depth of field, luxury commercial quality, no subtitles, no logos, no watermarks, no on-screen text.</code></pre>
+
+</details>
+
+## East Asian woman in hot spring selfie video (SEEDANCE 2.0)
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2085433231755694511)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [2407](https://imglume.com/prompt/2407)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c3f3f8f-ad37-4c36-9904-037b504c72c1/448f91bb-d051-4bc6-8445-89252f482b3e-1786084002879 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cùng một người phụ nữ Đông Á 24 tuổi, mặc đồ trắng, @0ba07db1-974c-467d-80dc-d9dffddac0ba, đeo kính @27d48282-8e11-4b4e-94aa-f77a7eb8fbc1, vẫn giữ nguyên các đường nét trên khuôn mặt, độ tuổi và tính cách xuyên suốt. Cô ấy có đôi mắt đen, đôi mũi thanh tú và đôi môi hồng nhạt tự nhiên; làn da vẫn giữ nguyên lỗ chân lông và những nếp nhăn nhỏ dưới mắt, không hề bị làm mờ hay sử dụng bất kỳ loại mỹ phẩm thời thượng nào.
+
+Người phụ nữ tự cầm chiếc máy quay MiniDV màu xám bạc bằng tay phải trong suốt buổi chụp hình—không có người quay phim nào hỗ trợ. Khoảng cách chụp chân dung tự họa khoảng 45 cm; khi muốn thể hiện khung cảnh xung quanh, cô ấy phải xoay cổ tay và thân người trước để ống kính đi qua vai, tay áo hoặc lan can trước khi hướng vào cảnh vật; quay lưng lại để chụp chân dung tự họa cũng đòi hỏi một sự xoay người hoàn toàn.
+
+Góc nhìn người thứ ba từ phía sau, toàn thân, từ trên cao hoặc góc nhìn bên ngoài của nhân vật nữ chính đều bị cấm trong các cảnh tự chụp. Khi máy quay lia đến môi trường xung quanh, nhân vật nữ chính chỉ được xuất hiện trong khung hình thông qua bàn tay trái duỗi thẳng, tay áo trắng, gấu váy, bóng hoặc âm thanh môi trường.
+
+Chế độ màn ảnh rộng MiniDV 9:16, quay phim cầm tay tự nhiên, rung nhẹ khi đi bộ, bố cục không hoàn hảo, một vài cảnh mờ thoáng qua, hiện tượng lấy nét tự động bị gián đoạn, lệch cân bằng trắng, hiện tượng thay đổi độ phơi sáng, hiện tượng nhòe chuyển động, hiện tượng xen kẽ nhẹ, nhiễu hạt DV, quầng sáng mềm mại và màu sắc chân thực của băng.
+
+Mỗi phân đoạn chứa một cảnh tự chụp liên tục dài 15 giây không cắt ghép. Sáu phân đoạn được phân tách bằng các bước nhảy thời gian theo kiểu nhật ký du lịch, cho phép thay đổi thời tiết và ánh sáng, nhưng người trong ảnh, quần áo, phụ kiện tóc, máy quay MiniDV và âm thanh phải nhất quán.
+
+Giọng nói của nữ chính là giọng của một phụ nữ khoảng hai mươi tuổi đến từ Đông Á, nói tiếng Quan thoại tự nhiên—nhẹ nhàng, ấm áp và tò mò, thỉnh thoảng hơi hụt hơi vì đi bộ hoặc leo đồi. Đó không phải là lời dẫn chuyện của một bộ phim cổ trang, giọng lồng tiếng AI, lời bình luận của người dẫn chương trình, hay những bài độc thoại đầy năng lượng của một người nổi tiếng trên mạng. Hình ảnh 2 (@28adccf9-9808-4662-ac52-16dd086899b9) là góc nhìn selfie dưới nước của nữ chính khi đang ngâm mình trong suối nước nóng.</code></pre>
+
+</details>
+
+## 30‑second smartphone travel vlog of a Tokyo arrival
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2085307691937767921)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [2360](https://imglume.com/prompt/2360)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a12c4a28-6902-4e80-9189-6be4333a0753/9815ecbe-7908-46bf-9c3b-4f4e530cecb0-1786021039268 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. A 30-second photorealistic smartphone travel vlog filmed entirely like a real mobile phone recording with natural handheld movement, subtle hand shake, realistic autofocus, slight exposure shifts, authentic smartphone stabilization, and true-to-life colors. No cinematic camera moves, no beauty filters, no CGI look.
+Scene 1 (0:00–0:04) – Airport entrance. She pulls a small suitcase toward the check-in counter, smiles at the selfie camera, and says, "Today's a travel day!"
+Scene 2 (0:04–0:07) – Airport terminal. She holds up her boarding pass while walking toward the departure gate, excitedly showing the busy terminal.
+Scene 3 (0:07–0:11) – Airplane window seat. She records the plane taking off, then turns the camera toward herself with the clouds visible through the window, smiling with excitement.
+Scene 4 (0:11–0:15) – Landing. The aircraft touches down smoothly, and she captures her first glimpse of Tokyo through the airplane window.
+Scene 5 (0:15–0:19) – Arrival hall. She walks through the airport with her suitcase, following the exit signs, looking excited for the adventure.
+Scene 6 (0:19–0:24) – First moments in Tokyo. She steps outside into the lively streets, filming colorful signs, passing trains, cafés, and busy crosswalks while saying, "I finally made it!"
+Scene 7 (0:24–0:28) – Exploring the city. She strolls through the streets, records the atmosphere, smiles at the camera, and points toward the city ahead.
+Scene 8 (0:28–0:30) – Final selfie. She stops, gives a cheerful wave, smiles brightly, and says, "Let's explore!" before reaching toward the phone to end the recording.
+Audio: Natural ambience only—airport announcements, rolling suitcase wheels, airplane cabin sounds, engine noise during takeoff and landing, footsteps, city traffic, train sounds, people talking, and light wind. No background music, no subtitles, no logos, and no watermarks. The entire video should feel exactly like a genuine smartphone travel vlog with natural human movement and consistent appearance throughout.</code></pre>
+
+</details>
+
+## 7-shot cinematic handheld smartphone food vlog at Korean night market
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2085185518774685846)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `travel`
+- **ImgLume record:** [2327](https://imglume.com/prompt/2327)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/769cdf40-182b-461e-bdb1-a4ce1e63ab27/1d55d926-09e1-47f3-aafe-b7c93b3d620c-1785991601513 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>7-shot cinematic handheld smartphone food vlog, ultra-photorealistic, authentic travel VLOG aesthetic. Natural handheld movement with subtle focus breathing, casual framing, realistic exposure shifts, warm evening lantern lighting, shallow depth of field, soft film grain, immersive documentary realism.
+
+A young woman (reference image) explores a lively Korean night market and sits at a small outdoor street-food stall. The reference image determines only her facial identity and hairstyle. Outfit: oversized cream linen shirt with sleeves rolled to the forearms, dark relaxed-fit trousers, white sneakers, simple canvas shoulder bag. She stays seated at the same counter facing the camera throughout the meal. No other faces are visible—only the vendor's hands occasionally enter the frame while preparing food.
+
+The counter is filled with a sizzling black stone plate of Korean cheese dakgalbi (spicy chicken, melted mozzarella, cabbage, rice cakes, sweet potatoes, sesame seeds, green onions), chilled barley tea, stainless chopsticks, wooden spoon, pickled radish, kimchi, and paper napkins. The background features glowing neon Korean signs, hanging lanterns, rising steam, distant conversations, food stalls, and a vibrant summer evening atmosphere.
+
+Shots
+
+1. The sizzling dakgalbi arrives with steam rising dramatically. She smiles excitedly and says:
+"와... 냄새 진짜 좋다!"
+
+2. Close overhead shot as the vendor stretches the melted cheese across the pan with metal tongs.
+
+3. She wraps cheesy chicken around a rice cake, takes a big bite, laughs, and fans her mouth playfully from the heat.
+
+4. She sips cold barley tea, exhales with relief, then quietly says:
+"이 조합 최고다."
+
+5. She picks up kimchi and pickled radish between bites while enjoying the smoky flavors.
+
+6. Nearly finished meal. She gives a satisfied nod and says:
+"다음에 또 와야겠다."
+
+7. Empty sizzling plate remains on the counter. She leans back smiling while colorful neon reflections glow behind her as the bustling night market continues.
+
+Audio Design
+
+Only authentic environmental sound: sizzling grill, bubbling cheese, chopsticks, metal utensils, tea pouring, distant market chatter, footsteps, soft breeze, and ambient city nightlife. No background music, subtitles, logos, watermarks, duplicate reference images, or artificial sound effects.</code></pre>
+
+</details>
 
 ## Late-2000s handheld vlog of an Indonesian woman hunting coconuts
 

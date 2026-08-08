@@ -1,9 +1,87 @@
 # Product Ads video prompts
 
-34 source-linked prompts, newest ImgLume records first.
+38 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Futuristic Luxury Beauty Commercial Lipstick
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2085584596041941450)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2420](https://imglume.com/prompt/2420)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab70ddc7-6b29-4924-b894-b4d0b189f9cc/22ee2bcc-7aaa-4dc2-a474-17b3877f429a-1786094227469 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A futuristic luxury beauty commercial featuring a premium black-and-gold lipstick floating against a sleek black background. Interactive glassmorphism-style beauty interfaces appear on both sides, displaying different lipstick shades and realistic lip previews. A manicured hand with glossy red nails smoothly taps through multiple lipstick colors, instantly changing the central lipstick shade and matching the lip preview from red to pink to nude. Elegant golden particles and subtle light flares add a premium feel. The sequence ends with an extreme macro close-up of the lipstick being applied smoothly to soft natural lips, revealing a flawless satin finish. Cinematic product lighting, macro photography, realistic skin and lip texture, smooth transitions, elegant UI animation, luxury beauty advertising, photorealistic, ultra-detailed, premium commercial aesthetic, shallow depth of field, 4K HDR, sophisticated black-and-gold visual style.
+
+Negative prompt:
+
+ blurry, low quality, distorted lips, deformed hands, extra fingers, warped lipstick, inconsistent product shape, flickering UI, unreadable text, watermark, logo distortion, unnatural skin, artifacts, shaky camera, cartoon, CGI look.</code></pre>
+
+</details>
+
+## Cinematic 3D commercial video for MR. VIET Dried Mango with Chocolate & Coconut
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2085578558681039233)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2413](https://imglume.com/prompt/2413)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2d6da85c-691c-4967-891b-925c383ffeff/32588904-28e4-4c7e-b2ed-72ce79601015-1786086299002 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 3D commercial product video for gourmet dried fruit snacks, vertical 9:16 aspect ratio. Sequence begins with a high-definition close-up of fresh ripe yellow and red mangos on branches with lush green leaves in warm golden sunlight. Seamlessly transitions into a single ripe mango floating against a glowing warm background, transforming into golden dried mango slices floating weightlessly in mid-air. Next, a fresh cracked coconut bursts open alongside a smooth, rich swirl of melted milk chocolate. Dried mango slices dipped in dark chocolate float upward while fine white coconut flakes sprinkle down around them like snow. The sequence culminates in a black snack pouch labeled "MR. VIET Dried Mango with Chocolate &amp; Coconut" floating in the center of the frame, surrounded by floating chocolate-dipped dried mango pieces and fine coconut shreds. Dynamic physics, warm ambient studio lighting, ultra-detailed textures, slow-motion physics, 8k render, photorealistic, advertising food commercial style.</code></pre>
+
+</details>
+
+## Premium iced coffee commercial
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2085054605390700968)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [2339](https://imglume.com/prompt/2339)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a366b914-33c3-4569-87bd-4f6bb2b39565/77081fb0-3ef0-4ad8-a67a-78d78c917b1c-1786004177197 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A hand reaches toward a floating iced coffee on a sunny street, which instantly transforms into a premium studio commercial with cinematic lighting, dynamic coffee splashes, floating ice and beans, macro condensation shots, slow-motion coffee pour, and a dramatic hero shot before fading to black. Ultra-photorealistic, luxury beverage ad, 8K.</code></pre>
+
+</details>
+
+## Ultra-realistic 15-second premium beauty commercial for MOXIE Curl Cream
+
+- **Original source:** [@sha_zdiii on X](https://x.com/sha_zdiii/status/2085010715862061224)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2338](https://imglume.com/prompt/2338)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57af83df-6c5d-4ab6-8587-8ceeeb2ed622/c82bac70-e311-417b-acbe-c84c870dde1a-1786000080730 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic 15-second premium beauty commercial featuring the uploaded MOXIE Beauty Super Defining Curl Cream exactly as provided. Preserve the packaging, logo, colors, label, proportions and every detail unchanged.
+
+A beautiful Indian woman (23–26 years old) with naturally curly dark hair stands inside a luxury modern bathroom with soft morning sunlight. She notices slight frizz, then picks up the MOXIE Curl Cream from a white marble shelf. Cinematic macro shot as she squeezes the cream into her palm, showing a rich silky texture. She gently applies the cream through her curls using slow graceful movements. Her curls become hydrated, glossy, soft and perfectly defined. She smiles confidently and performs a slow-motion hair flip while sunlight creates luxurious highlights across her hair.
+
+Finish with an editorial hero product shot on a premium white stone pedestal with floating Sweet Almond Oil, Cocoa Butter and Mango Butter inspired elements. Keep the product perfectly sharp and centered while the woman remains softly blurred in the background touching her curls.
+
+Luxury beauty campaign, Vogue editorial aesthetic, L'Oréal Paris commercial quality, cinematic lighting, ultra photorealistic, natural skin texture, realistic hair physics, smooth camera movements, macro beauty shots, shallow depth of field, premium color grading, HDR, 8K, no CGI look, no text except final slogan “DEFINE EVERY CURL”.</code></pre>
+
+</details>
 
 ## Ultra-realistic UGC luxury creator review of sunglasses in a modern bedroom
 

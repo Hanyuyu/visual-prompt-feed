@@ -1,9 +1,70 @@
 # Food Drink video prompts
 
-29 source-linked prompts, newest ImgLume records first.
+31 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium iced coffee commercial
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2085054605390700968)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [2339](https://imglume.com/prompt/2339)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a366b914-33c3-4569-87bd-4f6bb2b39565/77081fb0-3ef0-4ad8-a67a-78d78c917b1c-1786004177197 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A hand reaches toward a floating iced coffee on a sunny street, which instantly transforms into a premium studio commercial with cinematic lighting, dynamic coffee splashes, floating ice and beans, macro condensation shots, slow-motion coffee pour, and a dramatic hero shot before fading to black. Ultra-photorealistic, luxury beverage ad, 8K.</code></pre>
+
+</details>
+
+## 7-shot cinematic handheld smartphone food vlog at Korean night market
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2085185518774685846)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `travel`
+- **ImgLume record:** [2327](https://imglume.com/prompt/2327)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/769cdf40-182b-461e-bdb1-a4ce1e63ab27/1d55d926-09e1-47f3-aafe-b7c93b3d620c-1785991601513 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>7-shot cinematic handheld smartphone food vlog, ultra-photorealistic, authentic travel VLOG aesthetic. Natural handheld movement with subtle focus breathing, casual framing, realistic exposure shifts, warm evening lantern lighting, shallow depth of field, soft film grain, immersive documentary realism.
+
+A young woman (reference image) explores a lively Korean night market and sits at a small outdoor street-food stall. The reference image determines only her facial identity and hairstyle. Outfit: oversized cream linen shirt with sleeves rolled to the forearms, dark relaxed-fit trousers, white sneakers, simple canvas shoulder bag. She stays seated at the same counter facing the camera throughout the meal. No other faces are visible—only the vendor's hands occasionally enter the frame while preparing food.
+
+The counter is filled with a sizzling black stone plate of Korean cheese dakgalbi (spicy chicken, melted mozzarella, cabbage, rice cakes, sweet potatoes, sesame seeds, green onions), chilled barley tea, stainless chopsticks, wooden spoon, pickled radish, kimchi, and paper napkins. The background features glowing neon Korean signs, hanging lanterns, rising steam, distant conversations, food stalls, and a vibrant summer evening atmosphere.
+
+Shots
+
+1. The sizzling dakgalbi arrives with steam rising dramatically. She smiles excitedly and says:
+"와... 냄새 진짜 좋다!"
+
+2. Close overhead shot as the vendor stretches the melted cheese across the pan with metal tongs.
+
+3. She wraps cheesy chicken around a rice cake, takes a big bite, laughs, and fans her mouth playfully from the heat.
+
+4. She sips cold barley tea, exhales with relief, then quietly says:
+"이 조합 최고다."
+
+5. She picks up kimchi and pickled radish between bites while enjoying the smoky flavors.
+
+6. Nearly finished meal. She gives a satisfied nod and says:
+"다음에 또 와야겠다."
+
+7. Empty sizzling plate remains on the counter. She leans back smiling while colorful neon reflections glow behind her as the bustling night market continues.
+
+Audio Design
+
+Only authentic environmental sound: sizzling grill, bubbling cheese, chopsticks, metal utensils, tea pouring, distant market chatter, footsteps, soft breeze, and ambient city nightlife. No background music, subtitles, logos, watermarks, duplicate reference images, or artificial sound effects.</code></pre>
+
+</details>
 
 ## Bold high-energy food commercial cinematography with dynamic splash shots
 

@@ -1,9 +1,1665 @@
 # Cinematic video prompts
 
-220 source-linked prompts, newest ImgLume records first.
+256 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30 seconds | 16:9 | live-action human drama
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2085578655267446818)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2450](https://imglume.com/prompt/2450)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c5a2d701-2540-479c-bb7f-294517485b8b/2d762afa-407c-43b6-973a-bb2740decdf6-1786119383410 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30 seconds | 16:9 | live-action human drama
+Fictional dramatization. Documentary-style visual realism.
+
+SETTING
+A busy Indian city during a heavy monsoon evening.
+[flooded roadside / traffic intersection / narrow market street / rain-soaked urban roads / residential street / apartment entrance].
+Time: evening.
+Heavy rainfall, strong wind, flooded streets, vehicle headlights reflecting across wet asphalt and realistic urban background activity.
+
+CHARACTERS
+An office worker returning home and an experienced auto-rickshaw driver.
+
+Maintain consistent clothing, umbrella, backpack, auto-rickshaw and character identities throughout the sequence.
+Human behaviour remains grounded and restrained.
+
+STORY
+
+00–05s — ESTABLISHING
+Wide observational shot establishing a rain-soaked city during evening rush hour.
+
+Office workers hurry beneath umbrellas while motorcycles, buses, auto-rickshaws and cars slowly navigate flooded roads.
+
+One office worker stands beneath a small roadside shelter unsuccessfully trying to find transportation.
+
+Camera slowly advances from a believable documentary position.
+
+Heavy rain naturally strikes roads, rooftops, vehicles and umbrellas while water flows along the roadside.
+
+05–10s — CONNECTION
+Cut to a closer handheld perspective following the office worker stepping into the rain and attempting to hail passing vehicles.
+
+Several occupied auto-rickshaws continue driving past before an older green-and-yellow auto-rickshaw gradually slows and stops.
+
+The driver quietly smiles and gestures for the passenger to get inside.
+
+Camera operator follows behind with natural footsteps, small framing corrections and realistic motion blur.
+
+Rainwater splashes naturally beneath footsteps and passing vehicles.
+
+10–16s — JOURNEY
+The auto-rickshaw pulls away into slow-moving traffic.
+
+Heavy rain continues reducing visibility while windshield wipers, headlights and roadside reflections create realistic monsoon conditions.
+
+The driver carefully navigates through flooded intersections as stalled motorcycles, pedestrians beneath shop awnings and traffic congestion remain visible.
+
+Keep geography readable so the journey remains spatially consistent.
+
+Camera reacts naturally to changing road conditions rather than anticipating them.
+
+Avoid exaggerated driving or unrealistic weather effects.
+
+16–21s — BREAKDOWN
+The auto-rickshaw enters a deeper flooded street where water reaches the lower body panels.
+
+The engine begins sputtering before suddenly losing power and coming to a stop in the submerged road.
+
+The driver calmly attempts to restart the engine several times while surrounding traffic slowly moves around them.
+
+Camera gradually closes the distance from a believable documentary position as rain continues falling across the stalled vehicle and flooded roadway.
+
+21–26s — SHARED EFFORT
+The driver quietly steps into knee-deep floodwater and begins pushing the auto-rickshaw toward the roadside.
+
+Without hesitation, the passenger immediately steps out into the rain and joins the driver.
+
+Together they push the vehicle through the flooded street while passing motorists and pedestrians briefly watch before continuing on.
+
+After reaching shallower water, the driver makes one final attempt to restart the engine.
+
+The engine starts with a rough vibration before settling into a steady idle.
+
+26–30s — AFTERMATH
+The auto-rickshaw arrives beside the apartment entrance.
+
+The passenger quietly pays the fare before discreetly leaving extra money in the driver's hand.
+
+The driver notices only after the passenger has already begun walking away through the rain.
+
+He briefly calls out but the passenger simply raises one hand without turning back.
+
+The driver smiles quietly, places the money safely inside the dashboard compartment and drives back into the rain as another waiting passenger raises a hand beside the roadside.
+
+End on quiet humanity rather than sentimentality.
+
+CAMERA
+Grounded observational-documentary cinematography.
+
+Mix:
+wide environmental coverage
+medium handheld following shots
+brief close reaction shots
+
+Natural handheld instability.
+Realistic operator movement.
+Plausible camera positions.
+No impossible drone transitions.
+No excessive slow motion.
+
+LIGHTING
+Lighting originates from the actual environment.
+
+Natural exposure changes when moving between streetlights, shop lighting, apartment lighting, vehicle headlights and darker flooded roads.
+Realistic highlight roll-off.
+Deep but detailed shadows.
+No artificial rim lighting around characters.
+
+PHYSICS
+Real gravity and momentum.
+
+Feet maintain contact with flooded terrain.
+The auto-rickshaw responds naturally to potholes, standing water and uneven road surfaces.
+Rainwater splashes realistically beneath moving feet and tires.
+Clothing responds naturally to wind and rainfall.
+Water flows naturally through drains and across road surfaces.
+Characters physically interact with the vehicle, seats, handles, doors and surrounding environment.
+
+HUMAN PERFORMANCE
+Restrained, believable behaviour under difficult weather conditions.
+
+Heavy breathing after running through rain and pushing the vehicle.
+Quick visual checks of surrounding traffic.
+Small posture adjustments while seated and while pushing.
+Natural hesitation, patience, kindness and quiet gratitude.
+No exaggerated emotional reactions.
+
+AUDIO
+Heavy rainfall.
+Vehicle engines.
+Auto-rickshaw engine vibration.
+Repeated engine restart attempts.
+Water splashing beneath tires and footsteps.
+Windshield wipers.
+Passing horns.
+Traffic ambience.
+Distant thunder.
+Quiet conversation between driver and passenger.
+Engine finally restarting.
+Rain gradually softening during the final moments.
+
+No oversized Hollywood trailer effects.
+
+VISUAL CHARACTER
+Photorealistic live-action footage.
+Observational documentary character.
+Natural skin texture.
+Realistic wet fabric and material response.
+Subtle sensor noise.
+Natural motion blur.
+Imperfect handheld framing.
+
+Avoid:
+video-game aesthetics
+CGI appearance
+excessive HDR
+oversaturated colors
+impossible flooding
+floating water
+perfectly choreographed movement
+beauty-filter faces
+
+CONTINUITY
+Maintain consistent character identity, clothing, umbrella, backpack, auto-rickshaw, flooded streets, rainfall intensity and lighting throughout the sequence.
+
+Preserve geographic orientation and screen direction.
+
+Every action begins from the physical state established by the previous shot, creating one continuous uninterrupted 30-second narrative from the office worker searching for transport to the quiet act of generosity before both characters continue their separate journeys.</code></pre>
+
+</details>
+
+## Miniature Fantasy Orchard Video Prompt
+
+- **Original source:** [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2085689694130774296)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2448](https://imglume.com/prompt/2448)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29a067ca-c9a5-4d9f-acac-9bfe38e44d69/fd1e9225-f100-4ac7-a451-15c3f27b6d5b-1786115258320 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/29a067ca-c9a5-4d9f-acac-9bfe38e44d69/8232a7a0-88f9-4b6f-9ebc-5776dfc9dbb1-1786115258320 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic miniature world where tiny farmers happily harvest mangoes and pomegranates in a peaceful orchard. Suddenly, two giant tornadoes approach from the dark sky. A colossal human hand slowly lowers a transparent glass dome over the entire orchard, trapping the tornadoes inside. The storms spin violently against the glass while the village remains completely safe. Tiny farmers cheer, wave their hats, and celebrate as flowers sway, fruit trees move gently, and water flows naturally. Dynamic camera movements, macro photography, realistic physics, volumetric clouds, dramatic lighting, ultra-detailed environment, magical atmosphere, smooth animation, photorealistic, cinematic, 8K.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic luxury lifestyle video of a woman and puppy in a modern office
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2085687617614655861)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2444](https://imglume.com/prompt/2444)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3efaeb7f-bb65-4af5-9877-a94e752ed482/0326d151-461a-49b8-a18b-2c18c4dd2dde-1786110959131 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3efaeb7f-bb65-4af5-9877-a94e752ed482/b547d03c-1b28-4ae8-a4ca-73b542e4543a-1786110959131 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic luxury lifestyle video of a beautiful young woman entering a bright, modern, minimalist workspace with floor-to-ceiling windows overlooking a breathtaking city skyline. Soft morning sunlight fills the room, creating a warm and premium atmosphere.
+
+She is dressed in a crisp oversized white shirt, elegant white tailored pants, and premium clean white sneakers. Her styling is minimalist and sophisticated. She wears absolutely no earrings, no ear jewelry, no ear cuffs, no nose ring, no bracelets, no watch, and no rings. Her ears are completely bare and clearly visible. Only a thin, elegant gold necklace is allowed. Her long silky black hair flows naturally with a calm, confident smile.
+
+A tiny adorable cream-colored Pomeranian puppy happily follows her into the room, wagging its tail.
+
+Scene 1 (0–2s): She opens the glass office door and walks inside while the little puppy follows closely behind. The camera tracks smoothly from behind.
+
+Scene 2 (2–4s): She walks toward a luxurious wooden desk with a sleek silver laptop placed neatly on it. The puppy sits beside the chair and looks up at her.
+
+Scene 3 (4–6s): She gracefully sits down, opens the laptop, and begins typing naturally. Close-up shots show her fingers typing on the keyboard, the glowing screen, and her focused yet relaxed expression.
+
+Scene 4 (6–8s): The puppy gently places its front paws on her leg, looking at her with adorable eyes. She smiles softly, pets the puppy for a moment, then continues working.
+
+Scene 5 (8–10s): Side-profile cinematic shot of her working while sunlight streams through the large windows. The city skyline in the background is softly blurred, creating a premium editorial look.
+
+Scene 6 (10–12s): The camera slowly pulls back to reveal the elegant office, modern furniture, indoor plants, warm lighting, and the puppy peacefully lying beside her chair while she continues typing confidently on the laptop.
+
+Ultra-realistic, photorealistic, luxury lifestyle commercial, cinematic storytelling, Vogue editorial aesthetic, Apple-style minimal workspace, HDR, realistic skin texture, natural hair movement, realistic typing animation, soft morning sunlight, shallow depth of field, smooth gimbal camera movement, cinematic color grading, 8K, masterpiece, ultra-detailed, premium film quality, highly realistic, 24fps.</code></pre>
+
+</details>
+
+## Handheld documentary style bedroom montage of a woman with cat, phone call, and dinner
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2085640281941307648)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2439](https://imglume.com/prompt/2439)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e3da2799-4da7-4a8a-bf46-708ad2f56d09/957c0e1e-a75e-4daa-8699-12e8cb697ea7-1786106823251 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of accidental real-life capture. Slightly imperfect framing, subtle handheld shake, tiny reframing adjustments, gentle exposure breathing, and autofocus that settles half a beat late. Realistic skin texture, soft indoor natural light, film grain, shallow depth of field. Relaxed breathing, natural blinking, restrained and authentic performance. Total of 7 shots.
+The woman from @ Image 1 is wearing a matching cotton pajama set consisting of a scoop-neck sleeveless top and loose shorts made from the same fabric and design. Barefoot, she lies on her stomach across a lived-in, slightly messy bed in her bedroom, browsing a mobile shopping page on a black smartphone. A house cat jumps onto the bed seeking attention, and she affectionately plays with it. Moments later, a friend calls. She answers, chats, and eventually bursts into laughter. The doorbell rings, so she ends the call and gets up to collect her dinner.
+Shot 1 (0–2s):
+She is already moving. One thumb scrolls through a shopping page while she frowns slightly, thinking. She quietly mutters in Korean: "아, 뭐 살랬더라…" ("Ah... what was I going to buy again?"). Lips synchronize naturally. Her bare feet gently sway behind her. A low handheld camera glides along the edge of the mattress, with soft bedding partially obscuring the foreground.
+Shot 2 (2–4s):
+The house cat jumps onto the bed, compressing the blanket as it walks toward her forearm and lets out a single meow. The camera gives a slight jolt from the impact, then quickly reframes from the phone to an over-the-shoulder view that includes her face, hands, phone, and cat.
+Shot 3 (4–6s):
+She turns warmly toward the cat, stroking it once from its forehead to its shoulders. In a gentle, affectionate tone she says: "우리 애기 왔어?" ("Did my baby come?"). Lip sync is clear and natural. The camera pushes in briefly through the cat's softly blurred foreground toward her face and hand.
+Shot 4 (6–8s):
+A friend's ringtone sounds. She glances down, confirms the caller, swipes to answer, and brings the phone to her ear. The camera moves in a loose semicircle from a slightly tilted overhead angle, capturing the entire answering motion.
+Shot 5 (8–11s):
+Her friend begins talking. She responds first with confusion, then disbelief: "어, 왜? 진짜 거짓말." ("Huh? Why? No way, you're kidding."). Immediately afterward she naturally bursts into laughter. The cat kneads the blanket beside her. A close handheld side angle keeps both her phone and profile within the same focal plane.
+Shot 6 (11–13s):
+A clear doorbell interrupts the laughter. Both she and the cat turn toward the bedroom door. She braces one hand on the mattress to get up. The camera reacts a fraction too late, briefly turning toward the door before naturally correcting back to her rising movement.
+Shot 7 (13–15s):
+Still on the phone, she hurriedly says: "어, 나 밥 왔다. 끊어." ("My food's here. I'll hang up."). She ends the call with her thumb, gets off the bed, and walks toward the door while the cat follows across the blankets. The camera slides low beneath her elbow and tilts upward as she stands in one continuous motion.
+Sound:
+No music. Only raw production sound: bedding rustling, quiet breathing, finger taps on the phone, the soft impact of the cat jumping onto the bed, one natural meow, faint purring, a single short incoming ringtone, call connection tone, the friend's voice through the phone, the woman's four Korean lines with accurate lip sync, a genuine brief laugh, one clear doorbell, the tap ending the call, and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark. Never render a reference sheet or duplicate the subject.</code></pre>
+
+</details>
+
+## Stylish young woman’s evening journey through a modern city
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2085663271277801709)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2436](https://imglume.com/prompt/2436)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a4f7e70-5be0-4d61-a449-c32910e24498/3bc8192d-14da-422e-b214-4419267cbc22-1786106771239 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A stylish young woman finishes her workday in a modern corporate office. She closes her laptop, gathers her belongings, and walks confidently through the open workspace as coworkers wave goodbye. She exits a sleek glass office building during golden hour, slipping on sunglasses as warm sunlight reflects off the skyscrapers. A cinematic tracking shot follows her crossing a busy city intersection before she steps into a premium café. She orders an iced latte, waits while the barista prepares it, then enjoys the first sip by a large window overlooking the bustling streets. As dusk falls, she strolls through an illuminated shopping district, browsing boutique storefronts and stopping to admire a luxury window display. She continues through a vibrant pedestrian street filled with lights, live music, and evening energy before arriving at a rooftop terrace. The final sequence captures her relaxing with the city skyline glowing behind her as she smiles at the camera, ending with a wide aerial shot of the city at night.</code></pre>
+
+</details>
+
+## 30s 9-cut DV 16mm style video of CHASE daily routine
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2085657903227105315)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2433](https://imglume.com/prompt/2433)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/32bdf94b-0431-4f7b-9718-15292de05c5b/ce346e05-35dd-40ed-ae60-48b483ce1261-1786102598662 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30s | 16:9 | 9 cuts
+Style: DV 16mm tape camcorder, handheld POV by CHASE. Natural shake, soft focus, clumsy framing/zooms, delayed autofocus, tape noise, bloomed highlights, auto-exposure flicker, muted contrast. Full-day montage: calm GRWM → intense workout → relaxed wind-down. Voiceover over visuals.
+Character: CHASE, Korean idol (20s), long black hair, glass skin. Outfit: robe/loungewear → modest long-sleeve gym wear + leggings/joggers → robe/loungewear.
+Locations: Bedroom vanity → gym entrance → gym weights/cardio → stretching mat → walking home → couch.
+
+1. Vanity, hair up. VO: "Some mornings start slow before they start fast."
+2. Puts on gym top. VO: "Okay—gym clothes on, let's go."
+3. Walks into gym. VO: "Time to actually do something with this energy."
+4. Lifts weights. VO: "Every set gets a little harder than the last."
+5. Close-up: hands gripping weight, sweat. Ambient only.
+6. Cardio, pushing through. VO: "This is always the part I want to quit."
+7. Stretching. VO: "But finishing always feels worth it."
+8. Walking home, towel on shoulder. VO: "And then it's just the quiet walk back."
+9. Flops onto couch, eyes closed. VO: "Best part of the whole day, honestly."</code></pre>
+
+</details>
+
+## THE ODYMAN (SMART SHOT) – THE LAST ASCENT
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2085430542665986189)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2428](https://imglume.com/prompt/2428)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f8d9e1e9-30df-467c-9a90-ec4d5179753d/902e0217-35e9-4de0-9a8a-ced9b9110d1f-1786098385615 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THE ODYMAN (SMART SHOT)
+
+THE LAST ASCENT
+
+Duration: 15 Seconds
+
+Use the exact same visual lock throughout.
+
+The character, world, monsters, lighting, and physics must remain identical so the entire sequence feels like one continuous cinematic shot.
+
+---
+
+SHOT LIST
+
+1–2 seconds
+
+A powerful pull from the Athena statue.
+
+The character launches at extreme speed between two towering marble columns.
+
+The web is fully taut.
+
+His armor vibrates from the intense velocity.
+
+---
+
+2–3 seconds
+
+He releases the web.
+
+Performs a smooth half-spin in midair.
+
+Fires a new web from the opposite hand.
+
+THWIP.
+
+The web anchors to the peak of a massive temple.
+
+A sharp turn with realistic centrifugal force.
+
+---
+
+3–4 seconds
+
+Low-angle tracking shot.
+
+He skims only centimeters above the ancient stone road.
+
+Dust erupts beneath him.
+
+Horse riders instinctively duck as he flashes past.
+
+---
+
+4–5 seconds
+
+A colossal monster smashes apart a giant marble statue.
+
+Massive stone fragments explode across the street.
+
+He swings directly through the raining debris without losing momentum.
+
+---
+
+5–6 seconds
+
+Side tracking shot.
+
+Still attached to the web, he runs several steps along the temple wall.
+
+He pushes off and launches back into open air.
+
+---
+
+6–7 seconds
+
+Extreme wide aerial shot.
+
+The entire Greek city stretches into the distance.
+
+The monster relentlessly pursues dozens of fleeing soldiers.
+
+Smoke and dust engulf the city.
+
+He remains the only figure moving at extraordinary speed above the chaos.
+
+---
+
+7–8 seconds
+
+He executes two rapid consecutive swings.
+
+THWIP.
+
+THWIP.
+
+Each swing naturally increases his momentum.
+
+The rhythm feels fast, fluid, and physically accurate.
+
+---
+
+8–9 seconds
+
+He narrowly misses the gigantic head of a Zeus statue.
+
+With only a slight tilt of his body, he slips past by inches.
+
+The camera subtly follows the evasive movement.
+
+---
+
+9–10 seconds
+
+He threads between towering marble pillars.
+
+His cape snaps violently in the wind.
+
+The web remains fully stretched as gravity and momentum pull him through a sweeping arc.
+
+---
+
+10–11 seconds
+
+He swings through the center of a collapsing marketplace.
+
+Citizens scatter.
+
+Broken columns crash behind him.
+
+Dust and sunlight fill the air.
+
+---
+
+11–12 seconds
+
+He releases one web.
+
+Half-rolls through the air.
+
+Fires another.
+
+THWIP.
+
+The web locks onto the tallest tower in the city.
+
+---
+
+12–13 seconds
+
+The final swing accelerates.
+
+An immense pull launches him upward.
+
+His body arches naturally under gravity.
+
+His cape ripples with realistic weight.
+
+---
+
+13–14 seconds
+
+The camera follows from below as he rises above the city.
+
+Below, horse riders, fleeing soldiers, shattered temples, drifting dust, and the colossal monster continue in chaos.
+
+---
+
+14–15 seconds
+
+Hero ending.
+
+He soars into the glowing golden sky.
+
+He becomes a striking silhouette against the sun.
+
+Cut to black.
+
+---
+
+AUDIO
+
+No music.
+
+Use only natural sounds:
+
+- Wind
+- Air rushing past
+- Ocean waves
+- Seagulls
+- Horse footsteps
+- Web firing
+- Web tension
+- Armor scraping
+- Breaking stone
+- Falling rubble
+- The character's breathing
+- Soldiers' screams
+- Monster growls
+- City ambience and echoes
+
+No dialogue.
+
+No narration.
+
+No on-screen text.</code></pre>
+
+</details>
+
+## Cinematic 3D commercial video for MR. VIET Dried Mango with Chocolate & Coconut
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2085578558681039233)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2413](https://imglume.com/prompt/2413)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2d6da85c-691c-4967-891b-925c383ffeff/32588904-28e4-4c7e-b2ed-72ce79601015-1786086299002 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 3D commercial product video for gourmet dried fruit snacks, vertical 9:16 aspect ratio. Sequence begins with a high-definition close-up of fresh ripe yellow and red mangos on branches with lush green leaves in warm golden sunlight. Seamlessly transitions into a single ripe mango floating against a glowing warm background, transforming into golden dried mango slices floating weightlessly in mid-air. Next, a fresh cracked coconut bursts open alongside a smooth, rich swirl of melted milk chocolate. Dried mango slices dipped in dark chocolate float upward while fine white coconut flakes sprinkle down around them like snow. The sequence culminates in a black snack pouch labeled "MR. VIET Dried Mango with Chocolate &amp; Coconut" floating in the center of the frame, surrounded by floating chocolate-dipped dried mango pieces and fine coconut shreds. Dynamic physics, warm ambient studio lighting, ultra-detailed textures, slow-motion physics, 8k render, photorealistic, advertising food commercial style.</code></pre>
+
+</details>
+
+## Homeless man transformation cinematic video prompt
+
+- **Original source:** [@KrevixAi on X](https://x.com/KrevixAi/status/2085308923439968281)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2412](https://imglume.com/prompt/2412)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b9463a8-373f-4781-b3b8-77fc38b072ba/71187d70-f588-41aa-8985-56f7a1919d94-1786086263352 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A large overweight homeless man with messy long hair, tangled beard, oversized worn-out clothing, dirty shoes, and a tired expression.
+He is simply walking down the street minding his own business.
+He has no intention of entering the tailor shop.
+By the end, he remains large and heavyset, but now looks incredibly stylish, confident, and charismatic.
+TIMELINE
+0:00–0:02 — TARGET SPOTTED
+Busy city street.
+People walk past colorful storefronts.
+A large homeless man slowly shuffles down the sidewalk carrying worn bags.
+His clothes are ripped.
+His hair is messy.
+His beard is wild.
+Inside the tailor shop—
+A tailor glances through the window.
+Suddenly—
+His eyes widen.
+Extreme close-up.
+Target acquired.
+DING.
+The tailor bursts through the front door.
+0:02–0:05 — THE ABDUCTION
+FWIP.
+The measuring tape launches through the air like a lasso.
+The homeless man freezes.
+Before he can react—
+YANK.
+He is pulled toward the tailor shop.
+The camera aggressively follows.
+The shop door swings open.
+Fabric flies everywhere.
+The homeless man slides across the floor in complete confusion.
+His eyes widen.
+What is happening?
+0:05–0:08 — FASHION HURRICANE
+The tailor enters full speed mode.
+FWIP.
+Tape measure wraps around shoulders.
+FWIP.
+Around waist.
+FWIP.
+Around arms.
+The homeless man spins slowly on a fitting platform.
+Colorful fabrics explode through the room.
+Scissors flash.
+Threads fly.
+Buttons launch through the air.
+Mirror reflections show the tailor appearing in multiple places simultaneously.
+The homeless man struggles to follow anything.
+0:08–0:11 — LEGENDARY TAILOR TECHNIQUE
+The tailor unleashes his ultimate fashion combo.
+SHK.
+SNIP.
+BRRRRRRT.
+The sewing machine activates like a race car engine.
+Fabric pieces fly around the room.
+Jackets appear.
+Vests appear.
+Accessories appear.
+Everything assembles midair.
+The camera spins around the fitting platform.
+The homeless man becomes surrounded by a cyclone of clothing and fabric.
+Only occasional glimpses reveal the transformation happening underneath.
+0:11–0:13 — FINAL ADJUSTMENTS
+Everything suddenly slows down.
+Extreme close-ups.
+A collar aligned.
+A pocket square adjusted.
+A button secured.
+A watch straightened.
+A jacket sleeve perfectly tailored.
+Warm sunlight glows through floating fabric fibers.
+The tailor calmly inspects the silhouette.
+Perfect.
+0:13–0:15 — THE REVEAL
+The fabric cyclone disappears.
+Silence.
+The homeless man stands in front of a giant mirror.
+His eyes slowly widen.
+He remains large and heavyset.
+But now he looks incredible.
+A perfectly tailored suit.
+Elegant layers.
+Luxury styling.
+Confident posture.
+Movie-star presence.
+People outside the shop stop and stare through the window.
+One passerby drops their coffee.
+The tailor casually folds his scissors.
+CHK.
+The transformed man adjusts his jacket.
+A confident smile appears.
+Final cinematic shot:
+He walks back onto the street.
+The same sidewalk.
+The same city.
+But now everyone turns their heads as he passes.</code></pre>
+
+</details>
+
+## 15-Second Cinematic Noise-Cancellation Commercial
+
+- **Original source:** [@AIwithJessica on X](https://x.com/AIwithJessica/status/2085561508122239035)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2411](https://imglume.com/prompt/2411)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd2f1e94-9d9c-4711-a097-a0cc2e47d29d/e1fb23d8-55c5-4e63-b891-d2cd916fb60c-1786086183999 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Cinematic Noise-Cancellation Commercial
+16:9, real-time playback, hard cuts only at listed timestamps, no slow motion.
+
+REFERENCE LOCK
+@img1 is the sole reference for the headphones. Preserve exact colour (light powder-blue), mesh headband, aluminium-finish earcups, telescoping arms, ear cushions, hinge/logo detail, materials and proportions exactly as shown. Do not invent extra branding, alter the colour, or change earcup shape. Identical across every shot.
+
+CHARACTER LOCK
+MAIN CHARACTER — Jessy: woman, early-to-mid 30s, wearing a cream oversized sweater, black joggers, white sneakers. Small grey carry-on beside her chair.
+
+BOYFRIEND: man, early 30s, navy bomber jacket, white T-shirt, beige trousers, black backpack.
+GIRLFRIEND (arguing pair, background): woman, late 20s, deep-red trench coat, black travel outfit, silver cabin suitcase.
+
+LOCATION
+Premium international airport departure lounge at night. Panoramic windows overlook a rain-covered runway with taxiing aircraft. Cool blue terminal light, warm lounge lamps, polished floors, modern grey seating. No readable signage, logos, or airline branding.
+
+0.0–3.2s — Loud Airport Chaos
+Wide front shot, 35mm. Jessy asleep in a lounge chair, head tilted against the headrest. The @img1 headphones rest on the seat beside her hand; carry-on at her feet. ~5m behind her, the girlfriend drags her suitcase past while the boyfriend follows, shouting loudly — never touching her. She turns and shouts back repeatedly as they pass the windows. Audio: overlapping male/female shouting, airport announcements, suitcase wheels, distant crying baby, aircraft hum, rain on glass — all very loud.
+
+3.2–5.0s — She Wakes
+Medium three-quarter close-up. Jessy jolts awake, head lifts toward the couple. Irritated expression — narrowed eyes, tight jaw, brief temple rub. Noise still at full volume.
+
+5.0–6.5s — Headphones Discovered
+Close product shot. Her hand enters frame, grips the mesh headband correctly, lifts the @img1 headphones. Earcups rotate only within realistic mechanical range. Arguing couple blurred and audible in background.
+
+6.5–8.2s — Noise Cancellation Activates
+Medium side-profile. Jessy sits upright, holds the headphones with both hands, expands the headband naturally, places them correctly over both ears — left earcup on left ear, right on right, hinge/logo correctly oriented. At the exact frame both cushions seal, all sound cuts instantly. One brief low-frequency pressure-drop, then absolute silence — no argument, announcements, wheels, aircraft, or rain.
+
+8.2–11.3s — Silent Argument and Slap
+Over-the-shoulder shot from behind Jessy, one earcup visible in foreground. Couple continues arguing visually by the windows — completely silent. Girlfriend stops, turns, shouts silently, delivers one realistic open-handed slap. Boyfriend recoils, shocked, resumes silent gesturing — never retaliates. A passerby glances over. Total silence throughout.
+
+11.3–13.2s — Peace Restored
+Tight three-quarter close-up. Jessy watches the silent chaos, gives a subtle satisfied smile, reclines and closes her eyes. Headphones remain prominently visible and correctly positioned. Silence continues.
+
+13.2–15.0s — Final Frame
+Wide symmetrical shot. Jessy sleeps peacefully wearing the @img1 headphones in the foreground; the couple's silent argument continues in the background; an aircraft taxis through rain outside. Gentle backward dolly, clean negative space above Jessy for end-card text.
+
+AUDIO DIRECTION
+0.0–8.2s: couple's shouting dominates announcements, luggage wheels, crying baby, rain and aircraft noise. At the exact seal moment: one brief pressure-drop, then immediate absolute silence. 8.2–15.0s: no voices, slap sound, announcements, ambience, aircraft, rain, music, or effects of any kind.
+
+VISUAL STYLE
+Ultra-realistic premium consumer-electronics/travel commercial. Natural skin texture, accurate hands, realistic airport lighting, physically correct luggage movement, restrained performances, clean product reflections.
+
+GLOBAL CONSTRAINTS
+No changing headphone colour/design, no extra headphones, no incorrect earcup orientation, no distorted headband, no clipping through hair, no invented logos, no malformed hands, no character/clothing changes, no boyfriend touching/attacking the girlfriend, no repeated slaps or injuries, no exaggerated comedy, no disappearing luggage, no readable airport text or airline branding, no audible sound after the seal point, no subtitles, watermark, or slow motion.</code></pre>
+
+</details>
+
+## Bullet Train Blitz
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2085575144668270810)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2410](https://imglume.com/prompt/2410)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aaf95625-75a7-46f7-be4a-0a20cd822914/cefb0296-1749-4369-85e4-e8b59ff8069b-1786086129991 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The setting/location is inside an electric train that is in motion with passengers inside. The train is running on its rail that is cutting across the desert. The camera recording starts from outside above the train recording it moving in lightening speed at 360° then we start dolly-in fast and then slows down as it enters into one of the train coaches with a few passengers, then cuts to one side of the door where the door is kicked and open with a bang, a japanese woman is being chased by a group of 5 to 7 men, but when she reaches the other end of the coach, instead of continuing to run, she stops then turns aroumd to face the 5 to 7 thugs who were chasing her, suddenly she make a Kungfu pose and boom they start to fight.... the japanese woman who is good in kungfu amd kickboxing deals with them thoroughly breaking there limps and they are crying with some funny painful sounds, then cuts to above the train on the ceiling from outside another group of 2 men who she also deals with them, it ends while she looking at the camera</code></pre>
+
+</details>
+
+## Young East Asian woman web‑swinging across New York City
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2085559822502728160)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2405](https://imglume.com/prompt/2405)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2760fdb2-448b-4bbc-b916-cc8a51b45e0e/71872669-13ec-4350-a1b6-c8cc9b87e125-1786079753530 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young East Asian woman in modern casual streetwear with headphones, white gloves, and teal ballet pointe shoes, photorealistic.
+
+SHOT 1
+
+Feet on a balcony overlooking New York City. Smiling warmly, she says, "Hello! Follow me!" before putting on her headphones and intentionally falling backward off the balcony. She fires a web from her wrist in a Spider-Man style swing, soaring across the city before landing smoothly on the roof of a moving car.
+
+SHOT 2
+
+Using Spider-Man style web swinging, she launches into the air, releases the web, and lands on the side of a building. She runs confidently across the vertical wall before firing another web and swinging back down toward the street.
+
+SHOT 3
+
+She lands on the street, laughs excitedly, then jumps onto a car roof and shoots another web into the sky. Swinging upward, she shouts, "WHOOO!" before floating high above New York City in a relaxed pose, with the skyline stretching beneath her.</code></pre>
+
+</details>
+
+## Handheld backstage vlog of MILA before the show
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2085428157495283935)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2400](https://imglume.com/prompt/2400)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/189a61ab-82e3-4ebb-996b-524b831e0d92/c38952b0-a74f-4074-86a3-4b9ca1df441c-1786067160162 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Handheld DV 16mm camcorder aesthetic, first-person / selfie POV. MILA always holds the camera herself. Keep natural hand shake, slightly messy framing, delayed autofocus, awkward zoom-ins and zoom-outs, and occasional moments where part of her face gets cropped. The camcorder itself is never visible on screen.
+
+LOOK:
+Soft vintage DV tape quality with slight blur, subtle tape noise, gently bloomed highlights, mild auto-exposure flicker, low contrast, and realistic skin tones.
+
+STYLE:
+Bright, playful backstage vlog energy with a polished pop-star feel. Natural smiles, direct eye contact, candid excitement, and quick handheld moments that feel spontaneous and fun.
+
+CHARACTER:
+MILA — a beautiful Instagram-style brunette model and performer in her 20s. Long dark brown hair, glowing skin, attractive feminine features, glossy lips, expressive eyes, slim fit figure. Wearing a stylish stage outfit with soft glam makeup and delicate sparkly earrings.
+
+SETTING:
+Backstage hallway of a music show venue, with dressing room doors, MILA’s name tag on one of the doors, a snack table, overhead PA speaker, and blurred staff occasionally moving through the background.
+
+SEQUENCE:
+
+1. Selfie: she peeks into the hallway with a grin.
+ “Hi guys, I’m backstage right now.”
+2. Quick pan down the corridor.
+ “This place seriously goes on forever.”
+3. She stops at her dressing room and points to the name tag.
+ “That’s my room.”
+4. Close-up of the name tag as she taps it.
+Ambient backstage audio only.
+5. Quick outfit check near a mirror with a playful little turn.
+ “Okay... stage look check.”
+6. At the snack table, she grabs a small snack.
+ “Just grabbing a tiny pre-show snack.”
+7. Mid-bite, the PA announcement cuts in. She laughs.
+ “Oh wow—right on time.”
+8. Selfie ending: she hears the countdown, gives a wave and a finger-heart, then hurries toward the stage.
+ “That’s my cue — see you after the show!”</code></pre>
+
+</details>
+
+## Pharaoh escapes police on bicycle in New York
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2085417663090569224)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `grok`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2390](https://imglume.com/prompt/2390)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a74f5ca3-54b1-43ae-b6c5-1ea9195339fc/5553e5ef-3cc8-486c-a9f6-f6cbcbba6d6b-1786058797189 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a74f5ca3-54b1-43ae-b6c5-1ea9195339fc/82396d20-6e38-42df-8446-283416b7abb8-1786058797189 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Scene start:
+
+A character dressed in white, speaking in a deep voice, says:
+
+"Judging by your appearance, the evolution of your civilization is relative."
+
+"What makes you think you can hold me?"
+
+Scene progression:
+
+Immediately after, the character in white breaks free from his handcuffs and runs off, laughing.
+
+The police chase after him, trying to catch him.
+
+The character in white finds a bicycle, hops on, and pedals away while laughing; the police fail to catch him and crash their patrol car into a shop window.
+
+The Pharaoh laughs and keeps pedaling, popping a wheelie on the bike.
+
+Meanwhile, onlookers watch in amazement.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic vertical video of a young Korean woman in a pastel bedroom
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2085338630692692405)
+- **Recommended model:** `seedance`
+- **Source model(s):** `grok`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2387](https://imglume.com/prompt/2387)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f30390a0-3d59-4966-a689-156e8af577bb/3692f144-d1dd-4ada-a03c-ea7fd5745172-1786054574029 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic vertical video, 15 seconds. A beautiful young Korean woman in a cozy pastel bedroom during a bright spring morning. She wears the same blush pink plaid dress with cream long sleeves, a delicate bow at the neckline, and a black ribbon in her long wavy hair. The room is softly decorated with pastel wall art, flowers, books, and warm natural window light. Every shot features a different camera angle with smooth cinematic transitions, natural movement, and subtle expressions.
+
+Shot 1 (0–2s): Extreme close-up of fresh pink flowers on the desk. The camera slowly slides past the flowers, revealing her softly smiling face in the background through a shallow depth of field.
+
+Shot 2 (2–4s): Close-up of her hands gently straightening the ribbon on the front of her dress. The camera tilts upward to her face as she finishes adjusting it.
+
+Shot 3 (4–6s): Side-profile medium shot. She slowly turns toward the window, sunlight illuminating her face as a gentle breeze moves a few loose strands of hair. She closes her eyes for a brief moment and smiles peacefully.
+
+Shot 4 (6–8s): Over-the-shoulder shot from behind. She looks at the pastel decorations and photo cards on the wall, lightly touching one with her fingertips before turning back.
+
+Shot 5 (8–10s): Front medium close-up. The camera slowly circles around her while she tilts her head slightly, blinks naturally, and gives a soft, genuine smile. Her long wavy hair sways gently with the breeze.
+
+Shot 6 (10–13s): Low-angle close-up from tabletop level beside the vase of flowers. She leans forward slightly, resting her hands together, looking directly into the camera with warm, expressive eyes before giving a subtle playful wink.
+
+Shot 7 (13–15s): Wide shot. She walks toward the window, gently parts the sheer curtains, and warm morning sunlight floods the room. She glances back over her shoulder with a sweet smile as the camera slowly pulls away, ending on a dreamy, peaceful frame.
+
+Style: Ultra-photorealistic, premium Korean lifestyle commercial, natural body language, realistic facial expressions, lifelike eye movement and blinking, subtle breathing, physically accurate hair and fabric simulation, smooth cinematic camera movement, shallow depth of field, creamy bokeh, soft pastel color palette, warm morning sunlight, luxury editorial photography aesthetic, 35mm and 85mm lens look, 24 fps, HDR, 8K.</code></pre>
+
+</details>
+
+## Abandoned Amusement Park Storm Sequence
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2085266065878143211)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2386](https://imglume.com/prompt/2386)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dc628439-68bf-4ca7-9656-89e2a12a7cde/f290237b-a0ba-43d3-8330-6328ef33c305-1786054561155 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>00:00–00:03 — Wide cinematic shot of an abandoned amusement park at dusk. Dark storm clouds roll in fast. A teenage boy in a red jacket walks alone.
+00:03–00:06 — Strong wind hits. A loose metal sign swings violently and crashes behind him. He starts running.
+00:06–00:09 — He reaches the old carousel and climbs onto a faded wooden horse as heavy rain begins.
+00:09–00:12 — Lightning flashes, illuminating the entire park in stark white. The carousel slowly starts turning from the wind.
+00:12–00:15 — Rain hammers the metal roof. He holds on tightly as the carousel spins faster.
+00:15–00:18 — Another lightning strike reveals a girl in a yellow raincoat standing at the entrance, watching him.
+00:18–00:21 — She steps inside the spinning carousel as the storm intensifies.
+00:21–00:24 — The boy looks at her. Both stay silent while rain pours and the ride turns.
+00:24–00:27 — Camera slowly pushes in to a medium two-shot. Another lightning flash freezes the moment.
+00:27–00:30 — Final close-up of their faces as rain streaks down. Atmosphere: eerie, melancholic, charged with quiet tension.</code></pre>
+
+</details>
+
+## Prehistoric concert scene with cave people and dinosaurs, ultra-realistic multi-shot video
+
+- **Original source:** [@ozansihay on X](https://x.com/ozansihay/status/2085420070952649179)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2382](https://imglume.com/prompt/2382)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/136eadc4-cbd6-4f04-ace4-4f45fa24afe7/883ec0a6-1533-4080-9a42-947e35f5e41a-1786046180817 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Tarih öncesi çağlarda geçen bir konser sahnesi. Sahnede mağara adamları var, tarih öncesi insanlar, anlaşılmaz bir dilde şarkı söylüyorlar. Etrafta dinozorlar da dolaşıyor. Konseri izleyen kalabalık bir topluluk var. Çekim multi-shot olacak, doğal ve belgesel havasında bir kamera hissi olmalı. Görsel stil ultra gerçekçi olmalı.</code></pre>
+
+</details>
+
+## CHASE fan meeting video montage
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2085290323656466469)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2381](https://imglume.com/prompt/2381)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a2d092c6-8745-41bc-8a47-d3ddb1ed7b2e/1ccb7f0e-e5ee-4c64-a5be-11f71d8957c3-1786041980531 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+DV-style 16mm camcorder aesthetic with natural handheld movement. The entire sequence is filmed from CHASE's perspective as she records herself throughout the fan meeting, occasionally setting the camera down on tables or chairs for hands-free shots. Expect subtle shake, uneven framing, slow autofocus, awkward zooms, brief overexposure from stage lights, and the occasional partial crop of her face. The camcorder itself is never visible.
+
+LOOK:
+Soft analog tape texture with slight blur, faint tape grain, blooming highlights, auto-exposure flicker, muted contrast, and lifelike skin tones. Lighting evolves naturally across each location: bright stage lighting → warm fan-meeting hall lighting → soft candid corner lighting → golden exit lighting after the event.
+
+STYLE:
+Fast-paced yet heartfelt montage with rapid cuts connecting memorable moments during the fan meeting. Transitional movement is slightly sped up while emotional moments linger naturally. A reflective voiceover replaces live dialogue. The mood shifts from initial excitement to heartfelt gratitude, ending with a quiet sense of fulfillment after meeting everyone.
+
+---
+Character
+
+CHASE — Korean idol (Image1), in her 20s. Long, straight black hair fully styled. Dewy glass skin, large expressive eyes, and soft coral-pink lips. Wearing the same modest fan-meeting outfit with long sleeves, full coverage, and understated accessories, now slightly softened by a full day of activity.
+
+---
+Location Progression
+
+On stage during fan meeting (evening) → Signing table → Small candid area backstage → Venue exit after the event (night).
+
+---
+Storyboard (15 seconds, 8 shots)
+
+1. (~2s | Stage | Handheld | Bright stage lighting)
+CHASE walks onto the stage as warm applause fills the venue. She gives a shy wave while slowly panning the camera across the cheering crowd without lingering on individual faces.
+Voiceover: "The moment I step out... all the nerves disappear."
+
+2. (~2s | Stage | Handheld close-up)
+She laughs softly after making eye contact with someone in the audience, briefly covering her smile with one hand before lowering the camera.
+
+3. (~2s | Signing table | Camera resting on table)
+The camera captures her carefully decorating a page with a small doodle before sliding it forward to an unseen attendee.
+Voiceover: "Every conversation becomes a memory I'll keep."
+
+4. (~2s | Signing table | Close handheld)
+Close-up of her writing a signature and placing a tiny heart beside it. Only the gentle sounds of pens and pages turning are heard.
+
+5. (~2s | Backstage candid corner | Handheld)
+She quietly opens a small box containing thoughtful fan letters and handmade gifts, smiling warmly as she looks through them.
+Voiceover: "It's amazing how much kindness can fit into one room."
+
+6. (~2s | Detail shot | Macro)
+Close-up of her fingertips gently tracing a handwritten note before carefully placing it back inside the box. No narration.
+
+7. (~1.5s | Venue exit | Medium handheld)
+Walking down a quiet hallway after the event, she glances back toward the now-empty venue and lets out a contented sigh.
+Voiceover: "And just like that..."
+
+8. (~1.5s | Outside venue | Final shot)
+She looks up at the night sky, smiles naturally at the camera, and gives a small grateful wave before lowering it, ending on softly blurred city lights.
+Voiceover: "...I can't wait to do it all again."</code></pre>
+
+</details>
+
+## BLACK RAIN — "TWO WOMEN, ONE BAR"
+
+- **Original source:** [@MusicSatire on X](https://x.com/MusicSatire/status/2085319904148734055)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2371](https://imglume.com/prompt/2371)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0bdea18e-add9-426c-8fed-44dbb0290f07/54006aec-0191-4958-8634-4bdad4433de7-1786033587628 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+BLACK RAIN — "TWO WOMEN, ONE BAR" · 8 SHOTS / 15 SECONDS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+#image1 : A lean athletic woman, ~168cm, steel-gray eyes, short tousled black hair with vivid
+crimson-dyed streaks falling across her face, sharp striking features. She wears a floor-length
+black satin halter evening gown with a deep plunging neckline, low open back, and a high thigh slit
+that exposes her leg to the hip; a fine silver chain drapes down her bare back, a thin silver thigh
+holster high on her right leg, black stiletto heels. Elegant, feral, precise. Fights Wing Chun —
+close range, centreline trapping, chain punches.
+@image2: A tall statuesque woman ~178cm with an hourglass figure and long limbs, warm olive skin,
+strong dark brows, hazel-green eyes and long thick black hair in loose waves past her shoulders. She
+wears a floor-length taupe-mocha evening gown with a deep plunging V neckline, thin straps crossing
+in an X across a fully open back, metallic silver-grey embroidered lace appliqué across the bodice
+and hip, fitted to the thigh with a high side slit, and a long flowing chiffon skirt with a sweeping
+train. Poised, contemptuous, unhurried. Fights savate — long whipping high kicks, controls distance.
+SFX &amp; ENVIRONMENT: Late-night hotel cocktail bar, empty. Long backlit marble bar, glowing shelf of
+liquor bottles, brass foot rail, crystal glassware, velvet stools, mirrored columns, low amber light.
+Active: shattering crystal, bursting bottles, liquor pooling and catching light, cracking mirrors,
+splintering stools, a slow ceiling fan throwing moving shadows. Faint jazz piano from an empty room.
+The pale chiffon train drags through spilled liquor and darkens as the fight goes on.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+OPPONENT SHEET — #image2
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+PHYSICAL BUILD: Tall, statuesque, ~178cm. Curved hourglass frame over long limbs — she has
+ reach and she knows it. Heavier and stronger than Black Rain, not faster.
+FACE/HAIR: Warm olive skin, strong dark brows, hazel-green eyes, full lips, high
+ cheekbones. Long thick black hair in loose waves past the shoulders.
+COSTUME: Floor-length taupe/mocha gown — deep plunging V neckline, thin straps that
+ cross in an X across a fully open back, metallic silver-grey embroidered lace
+ appliqué scrolling over the bodice and hip, fitted through the thigh, high side
+ slit, then a long flowing chiffon skirt with a sweeping train.
+FIGHT STYLE: Savate / taekwondo. Long whipping high kicks, side kicks to hold distance,
+ fights at the end of her reach. Unhurried, contemptuous.
+SIGNATURE DETAIL: The chiffon train — it billows on every kick, catches the light, and becomes
+ a liability once it's soaked in liquor.
+CONTRAST NOTE: Both fighters are dark-haired — separate them by GOWN (black satin vs pale
+ taupe chiffon), HAIR (short choppy with crimson streaks vs long loose waves),
+ and BUILD (compact vs statuesque).
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+────────────────────────────────────────
+SHOT 1 — [0:00–0:02] — Tight Two-Shot, slow drift back — HOOK
+Already mid-fight. @image2's high roundhouse whips in, chiffon train flaring wide behind her; #image1
+catches it on a raised forearm block that drives her back a full step, heels skidding on marble.
+Without cutting, the camera drifts back as #image2 chambers and fires a second, lower kick — #image1
+ducks under it, crimson streaks sweeping across frame, and the kick smashes a row of crystal glasses
+off the bar behind her, shards fanning out. Black satin against pale taupe chiffon, clearly separated.
+Camera: tight, low, drifting back to reveal both women full-body. Speed: real-time.
+SFX: shin-on-forearm slap, skid on stone, glass burst. Music: low sultry spy-jazz bass on the block.
+SHOT 2 — [0:02–0:04.5] — Side-Profile Tracking, continuous — ESTABLISH + FIRST DAMAGE
+One unbroken tracking move right-to-left along the bar. #image2 advances behind three probing kicks —
+front, side, hook — her long limbs and sweeping train filling the frame; #image1 , compact and low,
+slips, weaves and rolls under all three without ever closing the distance. Mirrored columns doubling
+them both. On the fourth, #image2's long side kick punches through the guard and lands flush on
+@image1's ribs: her torso crunches toward the impact, one arm clamping her side, breath grunting out
+as she's driven backward into the bar edge, glassware rattling behind her. Camera holds on her
+through the full reaction.
+Speed ramping: real-time → slow-motion on the third dodge → real-time through the landed kick.
+SFX: three escalating fabric-and-air whooshes, 0.2s silence, then deep body thud + rattling glass.
+SHOT 3 — [0:04.5–0:07] — Low Hero Angle, rising with the action — THE ANSWER
+Camera at knee height, tilting up and orbiting slightly as #image1 counters. She fires a rising hook
+kick — thigh slit flashing fully open, leg extending above waist height — that grazes #image2 chin,
+snapping her head back an inch, long black waves whipping across her face. In the same continuous
+shot #image1 sweeps a wine bottle off the bar and swings it at the temple; #image2 blocks with a
+crossed forearm and the bottle bursts against it, dark wine and glass fanning across both women in
+slow-motion, staining the pale taupe silk in a spreading dark bloom. Camera rises to eye level
+through the burst.
+Speed ramping: real-time kick → slow-motion through the bottle burst → real-time.
+SFX: whoosh past the jaw, glass-on-bone crack, liquid roar, wine dripping off fabric.
+SHOT 4 — [0:07–0:09] — Wide Action, static then slow push — ESCALATION
+#image1 snatches a velvet bar stool and drives it forward; for one beat both women strain against it,
+the stool between them. Then #image2 rips it aside and lands a spinning back kick into @image1's
+stomach: #image1 doubles forward instantly, both arms wrapping her midsection, breath forced visibly
+out, staggering back three steps and dropping to one knee among the broken glass. The stool splinters
+across the floor; #image2 soaked train sweeps through the spilled liquor as she turns. Camera holds
+wide, then pushes slowly in on the kneeling figure.
+Speed: real-time into slow-motion on the kick's contact, holding slow through the stagger.
+SFX: wood clatter, hard body impact, splintering, knee hitting wet marble.
+SHOT 5 — [0:09–0:10.5] — Static Medium Close, locked — THE LOW POINT
+No camera movement at all. #image1 on one knee in a pool of spilled liquor, glass around her, soaked
+hair across her face, breathing hard. #image2 walks slowly into frame behind her, unhurried, kicking
+off her heels one at a time, barefoot now, the ruined train dragging wet behind her. Hold.
+Speed: real-time.
+SFX: music drops to a single held bass note. Dripping. Two heels hitting the floor. Nothing else.
+SHOT 6 — [0:10.5–0:14] — ECU pulling into Medium, one continuous move — POWER SHIFT + SURGE
+ECU on #image1 's steel-gray eyes refocusing — she's stopped watching the hands and locked onto the
+hips. The camera pulls back with her as she rises and, instead of retreating from the incoming kick,
+steps INTO it, jamming #image2's thigh before the leg can extend, catching a fistful of the soaked
+chiffon train and yanking the standing leg out from under her; #image2s balance visibly collapses,
+arms windmilling. #image1 immediately unloads a chain-punch flurry up the centreline — sternum (chest
+caves back a half-step), chin (head jolts up, arms flailing to guard), nose (head whips sideways,
+long hair snapping across the turn, guard breaking apart) — driving #image2 backward along the bar,
+glassware sweeping off and shattering in their wake.
+Camera: continuous pull-back into a fast tracking move alongside them. Speed: real-time.
+SFX: near-silence on the ECU, then wet fabric tearing, smothering thud, rapid knuckle impacts,
+continuous glass smash, driving percussion surging in.
+SHOT 7 — [0:14–0:15] — Slow Dolly Out — MEANING-SHIFT PAYOFF
+#image2 on her back in the wreckage, chest heaving, ruined taupe gown soaked dark, looking up.
+#image1 stands over her, straightens her own gown, then reaches down and pulls a tiny black earpiece
+from #image2 ear — identical to her own. She looks at it. Looks at the woman on the floor. Neither
+says anything. Camera slow dolly out revealing the entire destroyed bar and two women in ruined
+evening gowns. Speed: real-time, settling to a held wide.
+SFX: glass settling, jazz piano returning from the empty next room, one ice cube clink.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</code></pre>
+
+</details>
+
+## Young Korean woman feeding stray cats in a narrow alley – 30‑second cinematic scene
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2085000847369572429)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2364](https://imglume.com/prompt/2364)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f4f93a61-03d3-4d40-8414-b8c56b21afbf/30bd3b90-ea2b-491c-9baf-563b28cbbd56-1786023063810 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young Korean woman, early 20s, oversized knit sweater over jeans, hair down and natural, gentle warm expression, quietly affectionate personality.
+Location: Narrow residential alley with scattered potted plants, late afternoon. Small food bowls on the ground, low concrete walls, utility poles overhead, soft shifting shadows from trees. No stores, no crowds.
+Visual Style: Ultra-realistic documentary realism, tender unscripted feeling, warm late-afternoon light.
+Camera Style:
+Early 2000s DV camcorder, handheld close framing, autofocus shifting between her and the cats, faded soft contrast, mild grain. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She walks into the alley carrying a small bag of cat food.
+00:03–00:06 → She crouches down, then pours food into a bowl on the ground.
+00:06–00:09 → A stray cat approaches cautiously; she stays still, watching patiently.
+00:09–00:12 → The cat begins eating; she smiles, whispering "천천히 먹어" ("Eat slowly").
+00:12–00:15 → Another cat appears from behind a plant pot, sniffing curiously.
+00:15–00:18 → She gently sets down a second bowl for it, moving slowly.
+00:18–00:21 → She sits back on her heels, watching both cats eat contentedly.
+00:21–00:24 → She reaches out slowly, giving one cat a gentle pat on the head.
+00:24–00:27 → The cat leans into her hand briefly, then returns to eating.
+00:27–00:30 → She looks at camera saying "내일도 또 올게" ("I'll come again tomorrow"), smiling as it fades.
+Audio: Cats eating softly, faint wind, distant birds, fabric rustling. Her dialogue as noted above. No music.
+Goal: A tender, quiet alley moment gentle, warm, deeply authentic.</code></pre>
+
+</details>
+
+## Lamborghini STO cinematic commercial
+
+- **Original source:** [@IsabellaHan_ on X](https://x.com/IsabellaHan_/status/2085283220677967883)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2363](https://imglume.com/prompt/2363)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c9d95664-4906-45fb-be20-ef7838d85ddf/5c7b22e3-67bc-4946-8325-06e370a4dc96-1786021080774 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An ultra-realistic cinematic automotive commercial opens on an olive-green Lamborghini STO parked along a narrow stone-paved street in a picturesque Italian village surrounded by centuries-old buildings covered with ivy and illuminated by warm golden-hour sunlight.
+
+The sequence cuts to an extreme close-up of the black multi-spoke wheel as the vibrant orange brake caliper catches the light. Carbon-fiber details, reflections, and metallic surfaces are captured with the precision of a luxury advertisement.
+
+Inside the cockpit, a hand lifts the iconic red start button cover before pressing the engine ignition button. Soft interior lighting illuminates the dashboard as the engine roars to life.
+
+The camera shifts to an overhead view of the exposed V10 engine bay, revealing intricate carbon-fiber panels, metallic framework, and mechanical details worthy of an engineering masterpiece.
+
+The Lamborghini accelerates through narrow Italian village roads before emerging onto open coastal highways overlooking crystal-blue water beneath a glowing sunset sky. Aerial shots reveal winding roads weaving through rolling hills lined with cypress trees, vineyards, and ancient stone walls.
+
+The pace intensifies as the vehicle attacks dramatic mountain passes, sweeping around cliffside roads while the camera alternates between low-angle tracking shots, dynamic drone footage, side profiles, and front-facing perspectives that emphasize speed, elegance, and precision.
+
+The atmosphere suddenly shifts as dark storm clouds gather above the landscape. Lightning illuminates the sky while heavy winds sweep across the hills. Electric bolts strike the ground around the car, sending sparks and glowing fragments of energy across the road surface.
+
+As the storm reaches its peak, powerful streams of energy surround the Lamborghini. The olive-green exterior gradually transforms into a brilliant orange finish while arcs of electricity dance across the bodywork and sparks erupt beneath the tires as the vehicle continues racing forward.
+
+The storm suddenly disappears, revealing clear skies and warm golden sunlight. The Lamborghini glides effortlessly through the countryside before arriving beneath the grand entrance of a luxurious Italian hotel. The driver's door opens, and an elegantly dressed woman carrying a designer handbag steps onto the stone pavement.
+
+The film concludes with an extreme close-up of the iconic golden Lamborghini emblem emerging from the darkness as dramatic reflections glide across the polished surface.
+
+Ultra-realistic automotive commercial, photorealistic CGI, luxury advertising aesthetic, cinematic camera movement, realistic reflections, detailed carbon fiber, dynamic motion blur, natural lighting, dramatic visual effects, IMAX quality, 8K.
+
+No text, subtitles, logos, watermarks, distortions, deformed wheels, unrealistic reflections, or incorrect proportions.</code></pre>
+
+</details>
+
+## Photorealistic cinematic airport terminal collision sequence
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2085290947747643718)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2362](https://imglume.com/prompt/2362)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f90a4352-b991-423c-a39e-3556b622ce1d/3a8a55ce-12ef-4400-97e5-a47497690bbf-1786021060918 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic modern American airport terminal, polished marble floors, floor-to-ceiling glass windows, distant departure boards glowing, chrome luggage carts, soft daylight mixed with warm overhead practicals, subtle handheld texture, rich lived-in travel-day detail, heavy film grain. Shot with modern realism and precise temporal control.
+Use the provided reference image as the exact character lock for the bald bearded man in black sunglasses and dark hoodie. Maintain perfect facial structure, beard, head shape, skin texture and clothing consistency at all times.
+0-5s: [Medium Wide] The bald man walks briskly through the terminal. He turns sharply to check a gate sign and collides hard into a food-cart vendor carrying a full tray of coffee cups, pastries and a thermos. Impact is sudden and physical.
+5-12s: [Dynamic Tracking into Super Slow-Motion] Collision detonates. Tray, coffee cups, pastries and thermos explode upward. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera orbits smoothly around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the bald man remains free to move. He freezes for one beat with a clear "I fucked up" expression, then quickly grabs a croissant and a floating coffee cup from the debris.
+12-22s: [Tracking Shot] Still inside the frozen terminal, he walks toward the boarding gate while taking deliberate sips of coffee then bites of croissant. All passengers, the vendor and flying food stay perfectly suspended in mid-air.
+22-27s: [Medium Shot] Just as he reaches the gate and is about to scan his boarding pass, time snaps back to normal speed. Everything that was floating crashes down at once — cups, pastries, tray and thermos slam onto the floor with a loud chaotic impact. The vendor and passengers react in sudden real-time shock.
+27-30s: [Medium Close-Up] He pauses, turns slightly, raises his eyebrows and gives a small casual "it is what it is" shrug with a quiet half-smile of acceptance, still holding the remaining food.
+Photorealistic, ultra-detailed fluid and object physics, perfect volume and surface tension on liquids, sharp motion blur only on moving elements, stable character, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.</code></pre>
+
+</details>
+
+## Handheld VHS‑style trainee flashback montage of Korean dancer Chase
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2085224480155279563)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2357](https://imglume.com/prompt/2357)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4e522efd-7f6e-4ce0-a098-d56997ffaa8d/306f2a74-c670-4bcc-b3a7-b402ffedd203-1786016792290 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Handheld DV 16mm camcorder POV. CHASE films herself throughout. Natural shake, imperfect framing, slow focus, clumsy zooms, tape aesthetic. Camera never visible.
+LOOK:
+Soft VHS/DV quality with slight blur, tape noise, bloomed highlights, auto-exposure flicker, realistic skin tones. Lighting changes by location.
+STYLE:
+Nostalgic trainee flashback montage with reflective voiceover. Raw, emotional, determined. Quick cuts showing growth from exhaustion to quiet confidence.
+CHARACTER:
+CHASE (Image), Korean trainee, late teens/early 20s. Long black hair in a ponytail/braid, minimal makeup, simple long-sleeve practice clothes and joggers.
+LOCATIONS:
+Dorm → Vocal room → Dance studio → Hallway → Evaluation room.
+STORYBOARD (20s, 8 cuts):
+Wakes before sunrise in the dorm. VO: "Back then, mornings started before the sun."
+Vocal warmups at the mic. VO: "Every note mattered."
+Misses a note, exhales, tries again. Ambient only.
+Repeats choreography in the studio. VO: "I practiced that same move a hundred times."
+Close-up of tired feet dancing. Ambient only.
+Resting in the hallway with a small smile. VO: "Sometimes, something finally clicked."
+Waiting before evaluators. VO: "Then it was time to prove it."
+Close-up before performing. VO: "That version of me started everything."</code></pre>
+
+</details>
+
+## Cinematic 3D fantasy battle between fire and ice elemental warriors
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2085298028236202426)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2355](https://imglume.com/prompt/2355)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ea584c74-a2e6-4be9-8ef8-dad484ae67ec/f33d6582-2c30-46d0-a54f-9221dd06b9e3-1786016779488 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, high-octane 3D fantasy action scene featuring two elemental female warriors clashing in battle. On the left, a fierce dark-haired warrior in red leather armor with glowing fiery flames and burning embers wrapped around her arm. On the right, a graceful warrior with flowing hair in white and ice-blue attire, wielding a glowing blue ice-rose whip sword. They charge and leap toward each other across a desolate landscape filled with ancient crumbling stone pillars under a stormy sunset sky. As they collide in mid-air, fiery orange magical aura clashes directly against bright blue ice energy, creating a massive cinematic explosion of light, embers, blue rose petals, and flying debris. Dynamic camera pan, slow-motion impact, hyper-realistic 8K CGI, Unreal Engine 5 render style, dramatic lighting.</code></pre>
+
+</details>
+
+## Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang at golden hour
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2085277106960007654)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2344](https://imglume.com/prompt/2344)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/98ce71b5-fcfb-4c7a-9fe9-c7a8b24ecd0a/2d4d8d01-c8c2-47d3-974d-9f89427b9f4f-1786008368489 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 30-second video of a glamorous blonde woman driving a classic dark-green 1960s Ford Mustang coupe through a tree-lined city avenue at golden hour. She wears a patterned silk headscarf, large brown sunglasses, a brown blazer, and large statement rings (one yellow diamond, one emerald).
+
+Stylish slow-motion tracking shots of the car speeding past buildings and traffic. Close-up of her focused face, sunglasses catching the golden light. Close-up of her hands on the wooden steering wheel, rings glinting. Rear-view mirror reflection of her eyes. Her jeweled hand resting on the car door, wind catching a loose strand of hair from the headscarf.
+
+A red traffic light glowing as the Mustang idles, engine humming, heat shimmer off the hood. A motorcycle with a passenger weaves through traffic beside her. Wide low-angle shot of the Mustang's grille and headlights as it accelerates past camera. A bearded man in a black beanie stands on the sidewalk, watching the Mustang drive away into the sunlit street, his gaze lingering.
+
+New scenes: A brief shot of pedestrians and café awnings blurring past in the background bokeh. An aerial/drone-style shot pulling back to reveal the full tree-lined avenue as the Mustang weaves gently between light and shadow from the trees. A final slow-motion hero shot — the Mustang turning a corner into direct sunset flare, silhouette and lens flare dominating the frame, her profile briefly lit gold before the light overtakes the frame.
+
+Warm sunset lighting, lens flares, motion blur, elegant and mysterious atmosphere, high-end commercial style, anamorphic lens feel, shallow depth of field, watermark-free.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic vertical video of a Korean woman in a cozy bedroom
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2085211763214028933)
+- **Recommended model:** `seedance`
+- **Source model(s):** `grok`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2343](https://imglume.com/prompt/2343)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/33011ac8-eb92-46ef-87ae-2efc71bbf51e/363c5d50-872e-41d9-8b35-3a4701982be4-1786004224862 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman relaxes in her cozy bedroom at night, wearing the same oversized white T-shirt. Warm bedside lamp lighting creates a soft, intimate atmosphere while photo prints decorate the wall behind her. The video consists of multiple natural handheld selfie shots, as if filmed on a phone for a personal vlog.
+
+Shot 1 (0–2s): Front selfie shot. She smiles warmly at the camera while maintaining eye contact, then gives a playful wink. A few loose strands of hair fall naturally across her face.
+
+Shot 2 (2–4s): Extreme close-up from a slightly lower angle. She gently brushes the hair away from her face, smiles softly, and blinks naturally as the camera subtly moves closer.
+
+Shot 3 (4–6s): Three-quarter side selfie. She slowly turns her head toward the warm bedside lamp, smiles to herself, then looks back at the camera. Her hair moves naturally with the motion.
+
+Shot 4 (6–8s): Over-the-shoulder selfie. She briefly glances toward the photo wall behind her, then laughs quietly before turning back toward the camera. The handheld movement feels natural and authentic.
+
+Shot 5 (8–10s): Close-up selfie. She leans slightly closer to the camera, gives another playful wink followed by a soft smile, then gently tilts her head as the camera slowly pulls back, ending with a cozy bedroom ambiance.
+
+Style: Ultra-photorealistic, natural facial expressions, realistic blinking, subtle breathing, lifelike hair physics, authentic smartphone handheld movement, warm ambient lighting, shallow depth of field, premium cinematic color grading, 24 fps, 8K, cozy Korean bedroom aesthetic.</code></pre>
+
+</details>
+
+## ELORHIA Hydrating Gel Serum cinematic commercial
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2085232751699968019)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2342](https://imglume.com/prompt/2342)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3f5cbb6-f04f-4ee0-85ce-d3a44c4835d8/687882f0-6b07-41e5-b516-8cb03719c0e7-1786004216519 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic multi-scene commercial: [0-2s] Macro shot of a luxury taupe leather handbag, glowing golden zipper opens as a tiny woman in a white silk dress steps out holding a skincare bottle with magical sparkles. [2-4s] Transition to a woman looking down at her silver wristwatch, miniature woman standing on the watch face. [4-6s] Woman holding a grocery bag with the tiny woman inside next to a glowing serum bottle. [6-8s] Hands opening a large cream leather designer bag revealing the miniature woman with the product. [8-10s] White luxury shopping bag on a marble surface with crystals, miniature woman holding the bottle. [10-14s] Product macro hero shot of "ELORHIA Hydrating Gel Serum" glass bottle on a clear pedestal with floating water droplets, white flowers, and aloe vera under bright studio lighting. 8k photorealistic beauty commercial.</code></pre>
+
+</details>
+
+## Ultra-photorealistic cinematic snowboarding video with consistent character and outfit
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2085241791587213590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [2341](https://imglume.com/prompt/2341)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ece71539-fbda-4ba3-8d7b-bf4b7f0f56a6/e45e4575-3eb2-4609-9626-3f3872f72717-1786004210085 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character identity. Keep the same face, facial proportions, hairstyle, eyebrows, eyes, nose, lips, skin tone, body build, and overall appearance in every scene. Do not redesign, replace, or alter the character. Maintain 100% identity consistency throughout the video.
+
+Outfit Lock
+Keep the exact same outfit in every clip: premium matte black snowboarding jacket, black insulated snow pants, matte black helmet, reflective black ski goggles, black gloves, black snowboard boots, black snowboard with subtle silver accents. No outfit changes, no color changes, no accessory changes. Maintain perfect outfit consistency throughout the video.
+
+ Style: Ultra-photorealistic live-action cinematic, IMAX scale, 8K HDR, 120 FPS, physically accurate snow simulation, premium Hollywood action film, realistic human movement, NOT animation, NOT CGI style, NOT cartoon.
+
+CLIP 1
+Use the uploaded reference image as the exact character identity. Keep 100% facial identity consistency and the exact same snowboard outfit throughout the video.
+A towering alpine mountain covered in pristine deep snow during a dramatic golden sunrise. Powerful mountain winds blow across the ridge, creating drifting snow particles. A handsome athletic Korean male snowboarder wearing a premium matte black snowboarding jacket, insulated black snow pants, matte black helmet, reflective black ski goggles, black gloves, black snowboard boots, and a matte black snowboard with subtle silver accents stands on the mountain ridge.
+
+0–2 seconds: Extreme cinematic close-up of his face. Cold breath is visible in the freezing air. Wind moves loose snow around him while his eyes lock onto the slope ahead with calm determination. Slow cinematic push-in camera.
+
+2–4 seconds: He explosively pushes forward and begins descending the steep mountain. Powerful carving turns send enormous clouds of powder into the air. The camera tracks extremely close beside the snowboard, capturing detailed snow spray and realistic board flex.
+
+4–6 seconds: A high-speed FPV drone races only meters behind him as he rapidly weaves between snow-covered pine trees, exposed rocks, and natural ice formations. The speed continuously increases with intense kinetic camera movement.
+
+6–8 seconds: The mountain suddenly shakes. A deafening roar echoes across the valley as a gigantic avalanche breaks loose from the summit. Massive walls of snow, exploding ice, and dense powder begin rushing directly toward him. The camera briefly reveals the enormous scale of the avalanche before returning to the chase.
+
+8–10 seconds: He glances over his shoulder, immediately lowers his body into an aggressive racing stance, and accelerates even faster. Snow explodes behind his board while the avalanche rapidly closes the distance. End the clip just as he launches toward a massive natural snow cliff, cutting before takeoff for a seamless transition.
+
+Cinematic IMAX lighting, realistic snow physics, authentic live-action movement, physically accurate momentum, dynamic FPV drone chase, ultra-low tracking shots, handheld action camera energy, volumetric sunlight, dramatic mountain atmosphere, premium Hollywood action cinematography, ultra-realistic textures, no fantasy elements, no animation, no unrealistic body motion.</code></pre>
+
+</details>
+
+## Cinematic 8K Luxury Skincare Commercial for HOUSE OF LIGHT Radiance Serum
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2085213286925266973)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2337](https://imglume.com/prompt/2337)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d7f7b44d-d961-4be8-8378-d4ef591499bb/7fbcf5e7-6f1f-481d-a6f0-2347e3bff6f0-1786000052752 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 8k luxury skincare commercial sequence. It begins with a slow pan across a sunlit minimalist hallway featuring massive concrete pillars, marble floors, and sheer white curtains blowing in a gentle breeze during the golden hour. The camera transitions smoothly to a close-up profile of a young East Asian woman with flawless, glowing skin standing by a window, eyes closed peacefully in the warm sunlight with a soft lens flare. This shifts to a macro close-up of her hand gently touching her cheek, highlighting radiant skin texture with a shallow depth of field. The video concludes with a professional product shot of a clear glass dropper bottle with a silver cap and the label "HOUSE OF LIGHT Radiance Serum" resting on a reflective marble surface against a backdrop of soft flowing silk, with sparkling light refractions and high-end studio lighting. Photorealistic, ultra-detailed, commercial aesthetic, 9:16 aspect ratio.</code></pre>
+
+</details>
+
+## Fox Spirit Woman – Interactive Game Encounter Cinematic
+
+- **Original source:** [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2085180676748501216)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2333](https://imglume.com/prompt/2333)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/501d9320-f522-4d61-a37d-91fdb1014671/fe360726-12fa-4e15-8214-9395a83b5b22-1785999972908 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Aspect Ratio: 16:9
+
+🎭 Character Description
+
+The Fox Spirit Woman — A mysterious, ethereal woman with pale porcelain skin, dressed in a flowing red-and-black silk kimono with intricate gold embroidery. She wears a detailed white fox mask with elegant red markings, covering the upper half of her face. Her movements are slow, graceful, and slightly otherworldly. Long dark hair flows beneath the mask. She carries an aura of ancient mystery — calm, deliberate, quietly seductive in a supernatural way.
+
+🎬 PART 1 (0:00–0:15) — The Discovery
+
+Cut Scene 1 (0:00–0:05): First-person POV inside a dark gaming room lit by deep red neon LEDs. Slow push-in toward an ultrawide curved monitor on a sleek black desk with a pink-and-white mechanical keyboard and RGB glow.
+
+Cut Scene 2 (0:05–0:10): The monitor reveals the fox spirit woman standing beneath a glowing full moon in a misty ancient Japanese shrine — cherry blossoms drifting, stone lanterns glowing, fog curling around wooden architecture.
+
+Cut Scene 3 (0:10–0:15): The woman slowly lifts her head, sensing the viewer. She turns toward the screen. Viewer's hand rises into frame, reaching toward the glass. Tension builds with a soft ambient hum.
+
+🎬 PART 2 (0:15–0:30) — The Contact
+
+Cut Scene 4 (0:15–0:20): Mirrored movement — the woman raises her hand from inside the screen in perfect sync with the viewer's hand outside it. Slow motion, fingertips inching closer.
+
+Cut Scene 5 (0:20–0:25): The moment of contact — the monitor liquefies into a glowing portal. Circular ripples burst across the glass, blue-white energy pulses outward, golden particles drift through the room.
+
+Cut Scene 6 (0:25–0:30): Her hand pushes fully through the portal into the real world. Fingers grip the edge of the monitor frame as the screen surface bends and ripples like disturbed water.
+
+🎬 PART 3 (0:30–0:45) — The Emergence
+
+Cut Scene 7 (0:30–0:35): She pulls herself through with slow, eerie fluidity, climbing onto the desk. Her kimono drapes over the monitor edge as the shrine glows behind her like an open doorway.
+
+Cut Scene 8 (0:35–0:40): She rises to a kneeling position on the desk, fully in the real world now. The room's red neon light mixes with the portal's blue glow, casting dramatic dual-toned lighting across her figure.
+
+Cut Scene 9 (0:40–0:45): She turns slowly toward the camera, lifts the fox mask just enough to reveal a faint, mysterious smile, and stares directly into the lens. The portal behind her seals shut with a final ripple of light.
+
+Cut to black.</code></pre>
+
+</details>
+
+## Photorealistic Cinematic Frozen-Time Diner Scene
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2085200942060691807)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2331](https://imglume.com/prompt/2331)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5565182a-4a86-49b5-acee-f166d399d510/579dc999-b6b2-48b3-92bd-6b6c717d4296-1785995797998 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1990s American diner, red vinyl booths, neon signs, chrome details, checkerboard floor, soft natural window light mixed with warm practicals, subtle handheld texture, rich lived-in period detail, heavy film grain. Shot with modern realism and precise temporal control.
+
+Use the provided reference image as the exact character lock for the bald bearded man in black sunglasses and dark hoodie. Maintain perfect facial structure, beard, head shape, skin texture and clothing consistency at all times.
+
+0-5s: [Medium Wide] The bald man sits in a red vinyl booth. He stands up, turns, and collides hard into a waitress carrying a full breakfast tray (eggs, bacon, toast, coffee pot). Impact is sudden and physical.
+
+5-12s: [Dynamic Tracking into Super Slow-Motion] Collision detonates. Tray, plate, eggs, bacon strips and coffee pot explode upward. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera orbits smoothly around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the bald man remains free to move. He freezes for one beat with a clear “I fucked up” expression, then quickly grabs two bacon strips and a fried egg from the floating debris.
+
+12-22s: [Tracking Shot] Still inside the frozen diner, he walks toward the exit door while taking deliberate bites of bacon then egg. All patrons, waitress and flying food stay perfectly suspended in mid-air.
+
+22-27s: [Medium Shot] Just as he reaches the door and is about to push it open, time snaps back to normal speed. Everything that was floating crashes down at once — plates, eggs, bacon, tray and coffee slam onto the floor with a loud chaotic impact. The waitress and patrons react in sudden real-time shock.
+
+27-30s: [Medium Close-Up] He pauses, turns slightly, raises his eyebrows and gives a small casual “it is what it is” shrug with a quiet half-smile of acceptance, still holding the remaining food.
+
+Photorealistic, ultra-detailed fluid and object physics, perfect volume and surface tension on liquids, sharp motion blur only on moving elements, stable character, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.</code></pre>
+
+</details>
+
+## 7-shot cinematic handheld smartphone food vlog at Korean night market
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2085185518774685846)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `travel`
+- **ImgLume record:** [2327](https://imglume.com/prompt/2327)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/769cdf40-182b-461e-bdb1-a4ce1e63ab27/1d55d926-09e1-47f3-aafe-b7c93b3d620c-1785991601513 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>7-shot cinematic handheld smartphone food vlog, ultra-photorealistic, authentic travel VLOG aesthetic. Natural handheld movement with subtle focus breathing, casual framing, realistic exposure shifts, warm evening lantern lighting, shallow depth of field, soft film grain, immersive documentary realism.
+
+A young woman (reference image) explores a lively Korean night market and sits at a small outdoor street-food stall. The reference image determines only her facial identity and hairstyle. Outfit: oversized cream linen shirt with sleeves rolled to the forearms, dark relaxed-fit trousers, white sneakers, simple canvas shoulder bag. She stays seated at the same counter facing the camera throughout the meal. No other faces are visible—only the vendor's hands occasionally enter the frame while preparing food.
+
+The counter is filled with a sizzling black stone plate of Korean cheese dakgalbi (spicy chicken, melted mozzarella, cabbage, rice cakes, sweet potatoes, sesame seeds, green onions), chilled barley tea, stainless chopsticks, wooden spoon, pickled radish, kimchi, and paper napkins. The background features glowing neon Korean signs, hanging lanterns, rising steam, distant conversations, food stalls, and a vibrant summer evening atmosphere.
+
+Shots
+
+1. The sizzling dakgalbi arrives with steam rising dramatically. She smiles excitedly and says:
+"와... 냄새 진짜 좋다!"
+
+2. Close overhead shot as the vendor stretches the melted cheese across the pan with metal tongs.
+
+3. She wraps cheesy chicken around a rice cake, takes a big bite, laughs, and fans her mouth playfully from the heat.
+
+4. She sips cold barley tea, exhales with relief, then quietly says:
+"이 조합 최고다."
+
+5. She picks up kimchi and pickled radish between bites while enjoying the smoky flavors.
+
+6. Nearly finished meal. She gives a satisfied nod and says:
+"다음에 또 와야겠다."
+
+7. Empty sizzling plate remains on the counter. She leans back smiling while colorful neon reflections glow behind her as the bustling night market continues.
+
+Audio Design
+
+Only authentic environmental sound: sizzling grill, bubbling cheese, chopsticks, metal utensils, tea pouring, distant market chatter, footsteps, soft breeze, and ambient city nightlife. No background music, subtitles, logos, watermarks, duplicate reference images, or artificial sound effects.</code></pre>
+
+</details>
+
+## 30-second photorealistic cinematic video with strict source separation using Seedance 2.5
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2085003686485295601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2324](https://imglume.com/prompt/2324)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7459b9d6-aa62-4ea8-bef7-2ec143006c46/fe9da49a-8273-4b72-8540-cdb125657730-1785991568937 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 30 seconds, Single continuous shot, photorealistic, cinematic.
+
+SOURCES — STRICT SEPARATION:
+- IMAGE 1 = the ONLY source of visual/photographic content (100%). Every pixel of
+ appearance in the output derives from Image 1: the subject and the entire scene,
+ including background.
+- VIDEO 1 = motion source ONLY. It contributes no appearance, no identity, no
+ background, and no color/lighting — only movement, timing, and camera behavior.
+
+CRITICAL — CLEAN RENDER, ZERO ANNOTATIONS:
+The final video must contain zero graphical annotations of any kind — no grid lines,
+guide lines, tracking lines, crosshairs, registration marks, wireframes, mocap or
+skeletal overlays, watermarks, timecodes, or text overlays. Any such marks appear in
+the references only as production guides; render only the clean underlying
+photographic content.
+
+IDENTITY (from Image 1, locked):
+The subject is defined entirely by Image 1 — face, bone structure, skin, eyes, hair,
+body type, age, and wardrobe exactly as shown. Keep this appearance locked and stable
+from the first frame to the last: no morphing, no feature drift, no blending with any
+person from Video 1, even during fast or extreme motion. The performer on screen is
+always the subject from Image 1.
+
+PERFORMANCE / MOTION (from Video 1, transferred exactly):
+Take the motion of the subject in Video 1 and apply it exactly to the subject from
+Image 1. This includes all body movement, gestures, posture, weight shifts, facial
+expressions, micro-expressions, blinks, eye movement, lip movement (fully lip-synced),
+timing, and pacing. Transfer the performance, not the performer — replicate Video 1's
+movement precisely while the appearance stays 100% Image 1.
+
+BACKGROUND — ANIMATE THE IMAGE 1 SCENE:
+Bring the background of Image 1 to life with natural, physically plausible motion so
+the frame never looks like a still with a moving cutout. Every applicable background
+element should move believably and continuously — e.g. swaying foliage, drifting
+clouds, rippling water, moving light and shadow, blowing fabric/hair, ambient crowd or
+traffic motion, dust, steam, or reflections — appropriate to what actually appears in
+Image 1. This motion is generated for realism and ambience; it is not copied from
+Video 1's background. Keep it subtle, coherent, and grounded — pleasing and realistic,
+never chaotic or distracting.
+
+CAMERA (from Video 1, matched shot-for-shot):
+Follow Video 1's camera exactly — replicate every pan, tilt, dolly, truck, zoom,
+push-in, pull-out, handheld sway, roll, and shake with identical direction, speed, and
+timing, so the virtual camera tracks the reference frame by frame. Match Video 1's
+framing, lens, and depth of field.
+
+FOREGROUND OBJECTS &amp; OCCLUSION:
+Any objects in front of the subject are subject to the same camera motion — they must
+move, parallax, and reframe with the camera in a physically grounded way, maintaining
+correct relative position, scale, and perspective throughout. The subject must never
+pass through, clip, overlap, or glitch through foreground objects; occlusions stay
+physically accurate, with objects realistically blocking or revealing parts of the
+subject as the camera and performance dictate. Keep every object stable and properly
+anchored.
+
+AUDIO:
+Follow Video 1's audio track precisely, fully synced to the visuals.
+
+OUTPUT:
+Cinematic, photorealistic, sharp focus, natural physics, consistent lighting anchored
+to Image 1, clean uncluttered frame.</code></pre>
+
+</details>
+
+## Cinematic ultra realistic street dancer video with fisheye lens
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2084854408286789707)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2321](https://imglume.com/prompt/2321)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a591c72a-be43-4bb5-a599-b831bb0bec02/f1bbd602-26ed-4030-9451-478f42011197-1785985258389 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic ultra realistic 15 second video in 16 9 aspect ratio shot on a severe fisheye lens A young male street dancer with short dreadlocks wearing an oversized retro basketball jersey and baggy techwear pants He aggressively walks toward the camera in a sunlit concrete skatepark covered in vibrant metallic graffiti The camera operates from a dynamic low angle dolly moving backward Quick rhythmic cuts to a close up of his face as he smirks and grabs the camera lens with heavy silver rings on his fingers The camera violently tilts and pans as he breakdances on cracked concrete stairs Harsh midday sunlight casts deep sharp shadows High energy motion blur Urban street culture vibe Sync visual cuts to a heavy bass hip hop beat</code></pre>
+
+</details>
+
+## Superhero Brawl on Cargo Plane – 15s Video Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2084981604498464871)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2317](https://imglume.com/prompt/2317)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a8122db-c662-432d-a405-2fa9662f0ec8/c94115bb-9ef1-4861-a4ca-400b9cfa91af-1785970554074 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second video, 5 shots, 16:9 aspect ratio. Photorealistic blockbuster superhero brawl, ARRI ALEXA aesthetic, 35mm film look, anamorphic lens flares, high dynamic range, cold desaturated dawn grade, heavy motion blur, volumetric clouds, fine film grain, practical sparks and debris.
+
+DIRECTOR'S INTENT: Two powerful superhumans brawl on top of a screaming cargo plane—every hit must visibly dent and wreck the aircraft, while the plane keeps flying level through it all.
+
+CHARACTERS (keep designs 100% consistent across all shots, fully original—no logos, no real brands):
+- HERO — REFERENCE Image 1: Use the person from Image 1 as the agile hero. Keep his face, hairstyle, and glasses IDENTICAL to Image 1 in every shot. He wields twin katanas and moves fast and acrobatically, with cocky and confident body language.
+- VOID: A 7-foot humanoid sheathed in living, glossy jet-black liquid biomass that ripples like oil; jagged elongated white eye-markings, a wide maw of translucent fangs, and long whip-like tendrils erupting from his back and shoulders.
+
+ENVIRONMENT: On top of a massive generic twin-engine heavy cargo freighter aircraft (high-wing military-style transport, no airline branding) cruising at high altitude above an endless sea of clouds at blue-gold dawn; brutal 800 km/h slipstream, freezing thin air, the fuselage flexing. The plane stays airborne and flying steadily the whole time.
+
+[0s–3s] Shot 1: Sweeping aerial crane-down WIDE establishing the cargo plane slicing through clouds, then snaps to the two figures clashing on the spine of the fuselage. Camera orbits slightly.
+Audio: Deafening wind roar, twin-engine scream, a hybrid orchestral war drum hits hard.
+
+[3s–6s] Shot 2: Low-angle MEDIUM tracking on the fuselage—VOID swings a massive tendril fist; the HERO (face matching Image 1) ducks and the blow CAVES a crater into the aluminum hull, peeling cargo-bay panels that rip away into the slipstream. Camera shakes on impact.
+Audio: Thunderous metal CRUNCH, shrieking tearing aluminum, wind howl.
+
+[6s–9s] Shot 3: Tight handheld CLOSE-UP on the HERO (face matching Image 1)—he unleashes a lightning-fast twin-katana slash combo; VOID blocks with his tendrils and the blades ring off them in a shower of sparks, the clash blowing both back a step.
+HERO: "That all you got, slick?"
+No cuts mid-shot, natural handheld shake, motion blur only.
+Audio: Ringing steel clang, sparks crackle, hero's confident voice, tendril whip-snap.
+
+[9s–12s] Shot 4: Over-the-shoulder MEDIUM—VOID hurls the HERO into the wing root; the impact buckles the wing and throws up a burst of sparks, the plane shudders and rocks but holds its course, both fighters skid toward the edge clinging to bent metal. Camera whip-tilts with the rocking plane.
+Audio: Heavy metal slam, alarm whine, groaning structural metal, rushing air.
+
+[12s–15s] Shot 5: Slow-motion ramp WIDE—the cargo plane keeps flying level through the clouds, twin contrails streaming behind, as the two fighters collide mid-air in a final clash and land back on the dented fuselage. Freeze on the impact, the HERO (face matching Image 1) crouched and ready, as cracks of dawn light burst behind them.
+Audio: Deep impact boom ramps into slow-motion low rumble, score swells, hard cut to a single second of wind-only silence at 14.5s.
+
+Audio bed: Continuous high-altitude wind roar + cargo-plane engine scream throughout; hybrid orchestral-percussion score building from 0s→12s; metal groans and impact booms on every hit; brief silence beat at 14.5s.
+
+Camera notes: Dynamic crane, orbit, tracking, and handheld; motion blur on all fast action; NO random angle changes within a single shot.</code></pre>
+
+</details>
 
 ## Premium 30‑second cinematic pop music video with luxury fashion
 
@@ -246,6 +1902,73 @@ Storyboard — 15 seconds, 5 cuts
 (~3s, backstage, fast handheld montage) Quick glimpses of makeup brushes, hair styling, costume adjustments, staff rushing past, and her taking one focused breath before going onstage. VOICEOVER (CHASE): “And then everything suddenly starts moving at once.”
 
 (~3s, stage, wide shot moving into a close-up, energetic finale) Bright stage lights ignite as she steps through the curtains. The camera catches her silhouette, then a brief confident smile before the image cuts to black. VOICEOVER (CHASE): “This moment is why I keep doing it.”</code></pre>
+
+</details>
+
+## AI Film Trailer Scene 1 - 30秒真人电影质感 圆桌会议
+
+- **Original source:** [@Cia0_exe on X](https://x.com/Cia0_exe/status/2084919925173559656)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2285](https://imglume.com/prompt/2285)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bc8cef5b-f699-4b46-a7a8-143892b4e8fa/8362fa7e-7d5f-4a7f-8ada-241157f09628-1785958330146 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Chinese Prompt : #seedance 2.5
+参考@ image1作为窗外月面景观。参考@ image2至@ image14的人物设定，完全按照各自参考图呈现五官、发色、瞳色、服饰、配饰、武器与所有装饰细节，以写实真人电影质感重新呈现（非动画、非插画），辨识度完全一致，不进行任何重新设计。
+本段仅出现@ image2、@ image3、@ image4、@ image5、@ image6、@ image7、@ image8、@ image9、@ image10；@ image11、@ image12、@ image13、@ image14在本段完全不出现。
+
+30秒真人电影质感，16:9，4K，24fps，电影级运镜，每2秒变换一次机位、焦段与运动方向。
+【画质】真实皮肤质感与毛孔、次表面散射、发丝根根分明、金属与宝石的真实反射、布料真实织纹与重量、35mm胶片颗粒、真实变形宽银幕镜头耀斑、浅景深。
+
+【场景锁定】
+大厅：月球上一座正圆形白色大厅，直径约二百米，穹顶高不见顶。南侧为唯一的正门，一对高约十米的无缝白色门扇。北侧为整面弧形巨窗，窗外是@ image1的冰白月面荒原与压满天空的巨大月球。东侧最远端数百米外是异星乐团的阶梯高台，@ image2独自站在高台边缘背对众人。
+圆桌：位于大厅正中央，纯白无缝圆形石桌，直径约八米，桌面完全平整光滑，无任何花纹、雕刻、接缝或装饰，边缘为圆角；桌面较低，坐下时约与胸口齐平；材质为哑光抛光月岩，能映出模糊倒影。
+座椅：十一张完全相同的纯白高背椅，沿圆桌均匀分布，椅背高、直、无扶手、无雕饰。
+钟位定义：以最靠近北侧巨窗的那张椅子为十二点钟位，顺时针编号；六点钟位为最靠近南侧正门的那张椅子，全片始终空置。
+光线：唯一主光源为北侧巨窗射入的暖象牙金日光，方向自始至终不变，所有人物与圆桌的投影方向全程一致，无任何其他方向的硬光源。
+【场景锁定结束】
+
+【空间张力】因距离极远，乐声与门开声都带明显延迟与超长混响；每一次正门开启的声音比上一次更沉更响；六点钟位的空椅始终在构图中被强调。
+【色彩设计】基底为中性冷白月岩与象牙白，阴影偏冷蓝灰；高调电影调色，高光柔和溢出、暗部保留细节、低对比。每个阵营入场时为纯白空间带来自己的色彩污染并持续累积。
+
+【角色专属灵气特效】
+@ image2：悬浮的发光乐谱环缓慢旋转，指挥棒尖端拖出细长光轨。
+@ image3：全身热浪把画面强烈扭曲，火星不断上升，纯白地面留下持续扩大的焦痕，瞳孔深处白炽光闪动。
+@ image4：黑色灰烬如细雪自她周身飘落，黑色长指甲边缘渗出细烟，头顶浮现暗红余烬环。
+@ image5：厚重的金色光晕随她移动，空气中浮起仪式般的金色微尘。
+@ image6：赤铜色光折射，外袍上的金箔碎片不断剥落并悬浮在她身后。
+@ image7：绝对无任何灵气特效——任何飘散的火星、灰烬、花瓣、光尘一旦靠近他都会瞬间熄灭消散，周身形成一圈干净的真空区域。
+@ image8：白色花朵与金色光点持续漂浮环绕，脚下白石缝里冒出细小新芽。
+@ image9：细根沿地面向前蔓延又缩回，小臂青蓝色光脉流动，身后扬起细密土尘。
+@ image10：红黑色肩甲边缘持续剥落暗红碎片，脚下阴影比其他人更深更浓。
+
+【本段座位】@ image3坐三点钟位、@ image4坐四点钟位；@ image5坐七点钟位、@ image6坐八点钟位，@ image7站于@ image5椅正后方；@ image8坐十二点钟位、@ image9坐一点钟位、@ image10坐两点钟位。五、六、九、十、十一点钟位在本段结束时仍为空椅。
+【乐团分层】第0秒起远处传来延迟的低音弦乐；@ image3与@ image4入场时加入低音铜管与战鼓，@ image5与@ image6入场时加入全体弦乐与定音鼓，@ image8与@ image9与@ image10入场时加入木管、竖琴与玻璃琴；音乐全程不中断，逐层增厚。
+
+0-2秒｜自极高空俯冲的航拍长镜、24mm：@ image1的冰白月面荒原全景，巨大月球压满天空，镜头俯冲穿过白色尖峰切入大厅穹顶并持续下坠，纯白圆桌与十一张白椅在深处逐渐显形。
+2-4秒｜超长焦压缩全景、200mm：自圆桌西侧望向东侧最远端，@ image2与异星乐团在数百米外被压缩成一片微小轮廓，浮尘在窗光柱中翻涌；一个延迟到达的低音滚过空间；南侧正门无声开启。
+4-6秒｜低角度双人跟拍配合dolly zoom、35mm：@ image3与@ image4并肩踏
+
+18-20秒｜横移微距串联、100mm：@ image8头顶漂浮的白色花冠与新芽；@ image9兽骨护腕的裂纹与小臂青蓝色流动光脉；@ image10红黑色碎裂肩甲的锋利边缘与异常浓重的脚下阴影。
+20-22秒｜桌面贴地长焦、135mm：五种灵气在白桌中央第一次相接——火星、灰烬、金尘、金箔、花瓣与细根互相排斥又缠绕，桌面像水面一样映出全部颜色。
+22-24秒｜三人落座广角、35mm：@ image8、@ image9、@ image10在十二至两点钟位落座，桌面中央的灵气骤然平息下来。
+24-26秒｜正上方垂直俯拍缓慢旋转、24mm：三个阵营各据一方，白色地面已被三种颜色染上，四张白椅仍空；画面最远处仍可见微小的乐团高台。
+26-28秒｜跨桌超长焦对切、200mm：@ image3与@ image10隔桌对视，两人之间的空气因热浪而扭曲，中间是空着的六点钟座位；@ image7在景深外纹丝不动。
+28-30秒｜正面对称广角缓慢后拉、28mm：正门第四次开启，声音比前三次更沉；纯金色的光泼进大厅，逆光中出现单独一道剪影；乐声骤然收束到只剩一个从远处延迟传来的大提琴泛音。
+
+【台词】全程英语，各自音色不同，音量克制、贴近麦克风，因大厅巨大而带明显混响：
+9秒｜@ image4（冷淡带笑意的女低音）："Eleven chairs. Someone has been counting on us dying."
+15秒｜@ image5（克制威严的女声）："The chamber is white so we can see what we stain."
+21秒｜@ image9（苍老缓慢的女声）："The stone still remembers being a mountain. Give it a moment."
+27秒｜@ image3（低沉沙哑的男声）："Three courts. Four empty chairs. I like these odds."
+
+【约束】@ image2至@ image10的服饰、配饰与武器全程与参考图完全一致；@ image7全程站立不落座且周身始终无任何灵气特效；@ image11、@ image12、@ image13、@ image14不出现在本段任何画面中；灵气特效持续累积不重置；动作自然克制、重心真实，杜绝任何僵硬或不自然的关节角度；画面完全无字幕、无文字、无标题、无水印。
+【音频】巨大空间的超长混响、带延迟的脚步声、衣料摩擦、椅子推开的轻响、@ image8金枪杵地的清响、窗外低频的月面风鸣；远处管弦乐全程不断并逐层增厚。</code></pre>
 
 </details>
 

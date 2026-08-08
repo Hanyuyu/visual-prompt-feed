@@ -1,9 +1,199 @@
 # Camera Moves video prompts
 
-50 source-linked prompts, newest ImgLume records first.
+56 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld documentary style bedroom montage of a woman with cat, phone call, and dinner
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2085640281941307648)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2439](https://imglume.com/prompt/2439)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e3da2799-4da7-4a8a-bf46-708ad2f56d09/957c0e1e-a75e-4daa-8699-12e8cb697ea7-1786106823251 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot candid observational footage. Do not use a single camera angle or continuous take. Handheld documentary style with the feeling of accidental real-life capture. Slightly imperfect framing, subtle handheld shake, tiny reframing adjustments, gentle exposure breathing, and autofocus that settles half a beat late. Realistic skin texture, soft indoor natural light, film grain, shallow depth of field. Relaxed breathing, natural blinking, restrained and authentic performance. Total of 7 shots.
+The woman from @ Image 1 is wearing a matching cotton pajama set consisting of a scoop-neck sleeveless top and loose shorts made from the same fabric and design. Barefoot, she lies on her stomach across a lived-in, slightly messy bed in her bedroom, browsing a mobile shopping page on a black smartphone. A house cat jumps onto the bed seeking attention, and she affectionately plays with it. Moments later, a friend calls. She answers, chats, and eventually bursts into laughter. The doorbell rings, so she ends the call and gets up to collect her dinner.
+Shot 1 (0–2s):
+She is already moving. One thumb scrolls through a shopping page while she frowns slightly, thinking. She quietly mutters in Korean: "아, 뭐 살랬더라…" ("Ah... what was I going to buy again?"). Lips synchronize naturally. Her bare feet gently sway behind her. A low handheld camera glides along the edge of the mattress, with soft bedding partially obscuring the foreground.
+Shot 2 (2–4s):
+The house cat jumps onto the bed, compressing the blanket as it walks toward her forearm and lets out a single meow. The camera gives a slight jolt from the impact, then quickly reframes from the phone to an over-the-shoulder view that includes her face, hands, phone, and cat.
+Shot 3 (4–6s):
+She turns warmly toward the cat, stroking it once from its forehead to its shoulders. In a gentle, affectionate tone she says: "우리 애기 왔어?" ("Did my baby come?"). Lip sync is clear and natural. The camera pushes in briefly through the cat's softly blurred foreground toward her face and hand.
+Shot 4 (6–8s):
+A friend's ringtone sounds. She glances down, confirms the caller, swipes to answer, and brings the phone to her ear. The camera moves in a loose semicircle from a slightly tilted overhead angle, capturing the entire answering motion.
+Shot 5 (8–11s):
+Her friend begins talking. She responds first with confusion, then disbelief: "어, 왜? 진짜 거짓말." ("Huh? Why? No way, you're kidding."). Immediately afterward she naturally bursts into laughter. The cat kneads the blanket beside her. A close handheld side angle keeps both her phone and profile within the same focal plane.
+Shot 6 (11–13s):
+A clear doorbell interrupts the laughter. Both she and the cat turn toward the bedroom door. She braces one hand on the mattress to get up. The camera reacts a fraction too late, briefly turning toward the door before naturally correcting back to her rising movement.
+Shot 7 (13–15s):
+Still on the phone, she hurriedly says: "어, 나 밥 왔다. 끊어." ("My food's here. I'll hang up."). She ends the call with her thumb, gets off the bed, and walks toward the door while the cat follows across the blankets. The camera slides low beneath her elbow and tilts upward as she stands in one continuous motion.
+Sound:
+No music. Only raw production sound: bedding rustling, quiet breathing, finger taps on the phone, the soft impact of the cat jumping onto the bed, one natural meow, faint purring, a single short incoming ringtone, call connection tone, the friend's voice through the phone, the woman's four Korean lines with accurate lip sync, a genuine brief laugh, one clear doorbell, the tap ending the call, and soft cat footsteps. No subtitles, no on-screen text, no logo, no watermark. Never render a reference sheet or duplicate the subject.</code></pre>
+
+</details>
+
+## Bullet Train Blitz
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2085575144668270810)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2410](https://imglume.com/prompt/2410)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aaf95625-75a7-46f7-be4a-0a20cd822914/cefb0296-1749-4369-85e4-e8b59ff8069b-1786086129991 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The setting/location is inside an electric train that is in motion with passengers inside. The train is running on its rail that is cutting across the desert. The camera recording starts from outside above the train recording it moving in lightening speed at 360° then we start dolly-in fast and then slows down as it enters into one of the train coaches with a few passengers, then cuts to one side of the door where the door is kicked and open with a bang, a japanese woman is being chased by a group of 5 to 7 men, but when she reaches the other end of the coach, instead of continuing to run, she stops then turns aroumd to face the 5 to 7 thugs who were chasing her, suddenly she make a Kungfu pose and boom they start to fight.... the japanese woman who is good in kungfu amd kickboxing deals with them thoroughly breaking there limps and they are crying with some funny painful sounds, then cuts to above the train on the ceiling from outside another group of 2 men who she also deals with them, it ends while she looking at the camera</code></pre>
+
+</details>
+
+## Handheld backstage vlog of MILA before the show
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2085428157495283935)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2400](https://imglume.com/prompt/2400)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/189a61ab-82e3-4ebb-996b-524b831e0d92/c38952b0-a74f-4074-86a3-4b9ca1df441c-1786067160162 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Handheld DV 16mm camcorder aesthetic, first-person / selfie POV. MILA always holds the camera herself. Keep natural hand shake, slightly messy framing, delayed autofocus, awkward zoom-ins and zoom-outs, and occasional moments where part of her face gets cropped. The camcorder itself is never visible on screen.
+
+LOOK:
+Soft vintage DV tape quality with slight blur, subtle tape noise, gently bloomed highlights, mild auto-exposure flicker, low contrast, and realistic skin tones.
+
+STYLE:
+Bright, playful backstage vlog energy with a polished pop-star feel. Natural smiles, direct eye contact, candid excitement, and quick handheld moments that feel spontaneous and fun.
+
+CHARACTER:
+MILA — a beautiful Instagram-style brunette model and performer in her 20s. Long dark brown hair, glowing skin, attractive feminine features, glossy lips, expressive eyes, slim fit figure. Wearing a stylish stage outfit with soft glam makeup and delicate sparkly earrings.
+
+SETTING:
+Backstage hallway of a music show venue, with dressing room doors, MILA’s name tag on one of the doors, a snack table, overhead PA speaker, and blurred staff occasionally moving through the background.
+
+SEQUENCE:
+
+1. Selfie: she peeks into the hallway with a grin.
+ “Hi guys, I’m backstage right now.”
+2. Quick pan down the corridor.
+ “This place seriously goes on forever.”
+3. She stops at her dressing room and points to the name tag.
+ “That’s my room.”
+4. Close-up of the name tag as she taps it.
+Ambient backstage audio only.
+5. Quick outfit check near a mirror with a playful little turn.
+ “Okay... stage look check.”
+6. At the snack table, she grabs a small snack.
+ “Just grabbing a tiny pre-show snack.”
+7. Mid-bite, the PA announcement cuts in. She laughs.
+ “Oh wow—right on time.”
+8. Selfie ending: she hears the countdown, gives a wave and a finger-heart, then hurries toward the stage.
+ “That’s my cue — see you after the show!”</code></pre>
+
+</details>
+
+## Handheld VHS‑style trainee flashback montage of Korean dancer Chase
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2085224480155279563)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2357](https://imglume.com/prompt/2357)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4e522efd-7f6e-4ce0-a098-d56997ffaa8d/306f2a74-c670-4bcc-b3a7-b402ffedd203-1786016792290 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Handheld DV 16mm camcorder POV. CHASE films herself throughout. Natural shake, imperfect framing, slow focus, clumsy zooms, tape aesthetic. Camera never visible.
+LOOK:
+Soft VHS/DV quality with slight blur, tape noise, bloomed highlights, auto-exposure flicker, realistic skin tones. Lighting changes by location.
+STYLE:
+Nostalgic trainee flashback montage with reflective voiceover. Raw, emotional, determined. Quick cuts showing growth from exhaustion to quiet confidence.
+CHARACTER:
+CHASE (Image), Korean trainee, late teens/early 20s. Long black hair in a ponytail/braid, minimal makeup, simple long-sleeve practice clothes and joggers.
+LOCATIONS:
+Dorm → Vocal room → Dance studio → Hallway → Evaluation room.
+STORYBOARD (20s, 8 cuts):
+Wakes before sunrise in the dorm. VO: "Back then, mornings started before the sun."
+Vocal warmups at the mic. VO: "Every note mattered."
+Misses a note, exhales, tries again. Ambient only.
+Repeats choreography in the studio. VO: "I practiced that same move a hundred times."
+Close-up of tired feet dancing. Ambient only.
+Resting in the hallway with a small smile. VO: "Sometimes, something finally clicked."
+Waiting before evaluators. VO: "Then it was time to prove it."
+Close-up before performing. VO: "That version of me started everything."</code></pre>
+
+</details>
+
+## Ultra-photorealistic cinematic snowboarding video with consistent character and outfit
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2085241791587213590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [2341](https://imglume.com/prompt/2341)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ece71539-fbda-4ba3-8d7b-bf4b7f0f56a6/e45e4575-3eb2-4609-9626-3f3872f72717-1786004210085 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character identity. Keep the same face, facial proportions, hairstyle, eyebrows, eyes, nose, lips, skin tone, body build, and overall appearance in every scene. Do not redesign, replace, or alter the character. Maintain 100% identity consistency throughout the video.
+
+Outfit Lock
+Keep the exact same outfit in every clip: premium matte black snowboarding jacket, black insulated snow pants, matte black helmet, reflective black ski goggles, black gloves, black snowboard boots, black snowboard with subtle silver accents. No outfit changes, no color changes, no accessory changes. Maintain perfect outfit consistency throughout the video.
+
+ Style: Ultra-photorealistic live-action cinematic, IMAX scale, 8K HDR, 120 FPS, physically accurate snow simulation, premium Hollywood action film, realistic human movement, NOT animation, NOT CGI style, NOT cartoon.
+
+CLIP 1
+Use the uploaded reference image as the exact character identity. Keep 100% facial identity consistency and the exact same snowboard outfit throughout the video.
+A towering alpine mountain covered in pristine deep snow during a dramatic golden sunrise. Powerful mountain winds blow across the ridge, creating drifting snow particles. A handsome athletic Korean male snowboarder wearing a premium matte black snowboarding jacket, insulated black snow pants, matte black helmet, reflective black ski goggles, black gloves, black snowboard boots, and a matte black snowboard with subtle silver accents stands on the mountain ridge.
+
+0–2 seconds: Extreme cinematic close-up of his face. Cold breath is visible in the freezing air. Wind moves loose snow around him while his eyes lock onto the slope ahead with calm determination. Slow cinematic push-in camera.
+
+2–4 seconds: He explosively pushes forward and begins descending the steep mountain. Powerful carving turns send enormous clouds of powder into the air. The camera tracks extremely close beside the snowboard, capturing detailed snow spray and realistic board flex.
+
+4–6 seconds: A high-speed FPV drone races only meters behind him as he rapidly weaves between snow-covered pine trees, exposed rocks, and natural ice formations. The speed continuously increases with intense kinetic camera movement.
+
+6–8 seconds: The mountain suddenly shakes. A deafening roar echoes across the valley as a gigantic avalanche breaks loose from the summit. Massive walls of snow, exploding ice, and dense powder begin rushing directly toward him. The camera briefly reveals the enormous scale of the avalanche before returning to the chase.
+
+8–10 seconds: He glances over his shoulder, immediately lowers his body into an aggressive racing stance, and accelerates even faster. Snow explodes behind his board while the avalanche rapidly closes the distance. End the clip just as he launches toward a massive natural snow cliff, cutting before takeoff for a seamless transition.
+
+Cinematic IMAX lighting, realistic snow physics, authentic live-action movement, physically accurate momentum, dynamic FPV drone chase, ultra-low tracking shots, handheld action camera energy, volumetric sunlight, dramatic mountain atmosphere, premium Hollywood action cinematography, ultra-realistic textures, no fantasy elements, no animation, no unrealistic body motion.</code></pre>
+
+</details>
+
+## Cinematic ultra realistic street dancer video with fisheye lens
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2084854408286789707)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2321](https://imglume.com/prompt/2321)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a591c72a-be43-4bb5-a599-b831bb0bec02/f1bbd602-26ed-4030-9451-478f42011197-1785985258389 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic ultra realistic 15 second video in 16 9 aspect ratio shot on a severe fisheye lens A young male street dancer with short dreadlocks wearing an oversized retro basketball jersey and baggy techwear pants He aggressively walks toward the camera in a sunlit concrete skatepark covered in vibrant metallic graffiti The camera operates from a dynamic low angle dolly moving backward Quick rhythmic cuts to a close up of his face as he smirks and grabs the camera lens with heavy silver rings on his fingers The camera violently tilts and pans as he breakdances on cracked concrete stairs Harsh midday sunlight casts deep sharp shadows High energy motion blur Urban street culture vibe Sync visual cuts to a heavy bass hip hop beat</code></pre>
+
+</details>
 
 ## Luxury Fashion Editorial Video with Seamless Wardrobe Transformations
 
