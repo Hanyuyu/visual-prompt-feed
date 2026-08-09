@@ -1,9 +1,26 @@
 # Cinematic image prompts
 
-36 source-linked prompts, newest ImgLume records first.
+37 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Lone motorcyclist in hyper-speed vortex
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2085799967176745223)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2467](https://imglume.com/prompt/2467)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0a34336d-bce3-44a2-97bc-71c01bcc3ceb/ac5c8fc8-43f5-4a66-88fe-b453dc36870a-1786148755566 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A lone motorcyclist wearing a sleek black leather jacket and helmet, viewed from behind, riding a dark modern motorcycle along a surreal, infinite surface that blends into a vortex of light. The perspective is centered and low, creating a powerful sense of high-speed motion through a digital, futuristic tunnel. The floor appears as a reflective, dark glass-like plane streaked with intense light trails in electric blues, whites, and vibrant orange-yellow flames. The background is a brilliant, blinding point of light at the vanishing horizon, surrounded by a kaleidoscopic explosion of vertical light streaks that simulate hyper-speed travel. The lighting is cinematic, high-contrast, and dynamic, with the motorcycle's glowing red taillight providing a sharp anchor point against the chaotic, fluid surroundings. The overall atmosphere is intense, adrenaline-fueled, and ethereal, evoking themes of cybernetic speed and otherworldly journeys. Photorealistic, 8k resolution, dramatic motion blur, sharp focus on the motorcycle, intricate textures of leather and metallic components, synthwave color palette, hyper-detailed rendering. -</code></pre>
+
+</details>
 
 ## 电影感东方仙侠场景：白玉长廊与悬浮山岛
 

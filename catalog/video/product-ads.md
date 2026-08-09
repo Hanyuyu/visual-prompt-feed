@@ -1,9 +1,103 @@
 # Product Ads video prompts
 
-38 source-linked prompts, newest ImgLume records first.
+40 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## EVENTONE-C Premium Skincare Commercial
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2085974043463950576)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2504](https://imglume.com/prompt/2504)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/95f07597-c7a4-484e-9413-a8319470daf7/e44fc24b-bd82-497b-80b6-0a665325ef8f-1786186557058 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Format: 9:16 Vertical | 14 Seconds | 4K | Photorealistic | Premium Skincare Commercial
+
+Character: A girl’s image as the ONLY facial identity reference. Preserve her exact face, eyes, nose, lips, eyebrows, skin tone, long wavy brown hair and overall appearance in every shot.
+
+Product: EVENTONE-C box and cream tube from the storyboard as the exact product reference. Keep packaging, logo, colors and design consistent.
+
+Create a premium cinematic product-opening shot. The EVENTONE-C cream box and tube stand elegantly on a clean white luxury skincare background. Soft warm studio lighting, subtle reflections and shallow depth of field. Camera slowly pushes toward the product while the packaging remains sharp and readable.
+
+On-screen text:
+EVENTONE-C
+L-Glutathione + Vitamin C Cream
+
+Smooth, luxurious beauty-commercial movement.
+
+Cut to the same girl from the uploaded reference image standing in front of a mirror in a bright, elegant room. Medium close-up transitioning into a close-up of her face. She gently touches her cheek while looking at her reflection. Show natural-looking dark spots, mild pigmentation and uneven skin tone without making her face look damaged or unrealistic.
+
+On-screen text:
+Dark Spots • Pigmentation • Uneven Skin Tone
+
+Keep her facial identity exactly consistent with the reference image.
+
+Close-up of the same girl. She gently applies a small amount of EVENTONE-C cream to her cheek using her fingertip. Show a beautiful macro shot of the smooth white cream texture on her skin, followed by her gently spreading it.
+
+Soft beauty lighting, realistic skin texture, natural hand movement, elegant cinematic camera motion.
+
+On-screen text:
+L-Glutathione + Vitamin C
+
+Create a clean cinematic split-screen transition.
+
+BEFORE: Same girl, same face and hairstyle, showing natural dark spots, pigmentation and uneven tone.
+
+AFTER: Same girl, identical facial identity, hairstyle and camera angle, with visibly brighter and more even-looking skin.
+
+Use a smooth left-to-right transition between BEFORE and AFTER. Do not change her facial structure or identity.
+
+On-screen labels:
+BEFORE | AFTER
+
+Transition back to the EVENTONE-C box and tube standing together in the center of a premium white beauty environment. Add a subtle soft glow, elegant reflections and cinematic depth of field. Camera slowly moves closer to the product.
+
+On-screen text:
+Visible Results in 4 Weeks
+
+Then show:
+
+✓ Reduce Dark Spots &amp; Pigmentation
+✓ Brighter &amp; More Even-Toned Skin
+✓ Gentle &amp; Smooth Skin
+✓ For All Skin Types
+
+Final frame:
+
+EVENTONE-C
+L-Glutathione + Vitamin C Cream
+For Radiant &amp; Flawless Skin Complexion</code></pre>
+
+</details>
+
+## ATELIER INK 12 CORE colors product showcase video
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2085741118369792221)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2452](https://imglume.com/prompt/2452)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9f6df536-440e-40ed-91ea-cf146503c50e/421cd9b2-a58f-42e2-844b-7491a5a0be13-1786123596752 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shot on iPhone front camera, natural HDR, slight exposure shifts, real skin tones, authentic UGC creator energy, warm indoor natural light
+A bright casual room — warm natural light from the side, a clean desk surface with the ATELIER INK 12 CORE colors set in its clear transparent plastic case, the colorful marker caps visible through the case walls, a white sketchpad open beside it. A young woman sits close to the front camera, relaxed and natural, speaking slowly and genuinely.
+Action and dialogue sequence:
+She picks up the full ATELIER INK clear case with both hands and holds it up to the front camera, the 12 colorful caps facing the lens, the label readable. She looks at it for a beat — then at the camera: "Okay I need to show you these." She sets the case down, pulls out the green G04 marker, uncaps it slowly, sniffs the tip, pauses. Looks at camera: "Why does it smell like that." Genuine. Unhurried.
+She opens the sketchpad and draws a slow deliberate star with the green marker. Holds the paper up to the lens. Says nothing for a beat — just lets the color speak. Then quietly: "That color is insane." She picks up the cobalt blue B17, draws beside the green. Holds it up again. "The pigment is so good."
+She sets the paper down. Looks directly into the camera. Taps the marker cap slowly against her lip. One breath. Then: "Honestly — if you draw, if you doodle — just get these." She lifts the full clear case up to the lens, all 12 caps facing camera. Holds it there. Smiles slowly. Says nothing.</code></pre>
+
+</details>
 
 ## Futuristic Luxury Beauty Commercial Lipstick
 

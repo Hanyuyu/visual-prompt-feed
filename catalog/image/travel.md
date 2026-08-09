@@ -1,9 +1,82 @@
 # Travel image prompts
 
-17 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium editorial travel illustration prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2085939245026529335)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2518](https://imglume.com/prompt/2518)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ded23dcf-baea-4962-9ac7-bf9da6984216/8d8d7860-8387-4af3-b181-5f3c17c64740-1786195051619 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ded23dcf-baea-4962-9ac7-bf9da6984216/6ab9886a-5c45-40c9-a61b-1e2bf9ac102c-1786195051619 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ded23dcf-baea-4962-9ac7-bf9da6984216/ddf26790-40a8-4a10-8480-5f6f839f75c3-1786195051619 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium editorial travel illustration of [DESTINATION], [COUNTRY/REGION] using a minimal layered cutout illustration style. IMPORTANT: This must NOT look like a busy handmade paper craft artwork. Instead, it should feel like a premium Scandinavian editorial poster, a modern travel magazine cover, a sophisticated museum-shop print, and an elegant minimalist paper collage design.
+
+STYLE: minimal layered cutout illustration, large clean paper shapes, editorial paper collage aesthetic, bold geometric masses, simplified layered depth, soft subtle shadows, clean cut edges with slightly rounded corners, ultra simplified shape language, no photorealism, no handcrafted DIY feeling, no excessive texture, no visual clutter.
+
+TEXTURE: extremely subtle paper grain only, smooth premium paper surface, almost invisible texture, no embossed texture, no heavy paper fibers.
+
+COMPOSITION: vertical 9:16 poster layout, strong foreground/midground/background separation, large open breathing space, refined negative space, balanced premium editorial composition, minimal object density, avoid overcrowding.
+
+FOREGROUND: minimal landscape forms only, clean abstract terrain representing [DESTINATION'S NATURAL FEATURE / WATERFRONT / LANDSCAPE], minimal environmental details, avoid dense plants and excessive flowers.
+
+MIDGROUND: [ICONIC LANDMARK / ARCHITECTURAL ANCHOR], simplified architectural masses of nearby buildings or structures, strong recognizable silhouettes, minimal window detail.
+
+BACKGROUND: [DISTANT NATURAL FEATURE / MOUNTAIN / SKYLINE / LANDSCAPE ELEMENT] in the far distance, large clean sun, simple rounded clouds, spacious atmosphere.
+
+ARCHITECTURE: simplified isometric-inspired forms, geometric buildings, minimal window patterns, reduced micro-detail.
+
+COLOR &amp; LIGHTING: limited color palette (4–6 colors) featuring [PRIMARY COLOR], [SECONDARY COLOR], crisp white, soft slate blue, and pale grey, vibrant but restrained tones, clean white balance, bright neutral daylight, slightly cool-neutral lighting, fresh crisp whites, no yellow tint, no warm sepia tone, soft directional shadows only, flat but elegant dimensional feeling.
+
+MOOD: calm, modern, refined, premium, slightly whimsical, mature high-end travel branding aesthetic.
+
+TYPOGRAPHY: minimal elegant sans-serif typography with the text "[DESTINATION]", clean spacing and alignment, suitable size.
+
+QUALITY: ultra clean edges, high resolution, print-ready, no blur, no noise, visually organized, premium design-forward aesthetic.
+
+COMPOSITION:
+ASPECT RATIO: 4:5 vertical poster format.</code></pre>
+
+</details>
+
+## Mediterranean coastal harbor
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2086029084472009068)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [2510](https://imglume.com/prompt/2510)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7549c9fe-c26c-4c1b-a855-db73bda835cf/1cfb8c9a-540a-4887-936c-76ab980c3343-1786190762927 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/7549c9fe-c26c-4c1b-a855-db73bda835cf/a6ff96d7-48c3-440e-8a65-88b9614d4591-1786190762927 "Seedream V5 pro") · [3](https://cdn.imglume.com/prompts/byradar/7549c9fe-c26c-4c1b-a855-db73bda835cf/44e59e08-1b07-4d53-a303-ea35497b5a41-1786190762927 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An exquisite impressionistic oil painting of a Mediterranean coastal harbor scene, rendered in a heavy impasto technique with thick, visible palette-knife brushstrokes creating a tactile, three-dimensional surface. The composition uses a strong diagonal: a rocky shoreline and a line of small moored wooden rowboats lead the eye from the upper right down toward the lower left.
+
+The foreground and left half of the canvas are dominated by the sea, painted in horizontal choppy strokes of deep navy, cerulean, turquoise, and pale blue, suggesting gentle movement and reflected light sparkling across the water surface. The brushwork on the water is loose and directional, with each wavelet a separate confident stroke.
+
+A line of five or six small wooden rowboats is moored diagonally from the shore into the water, angled toward the viewer. The boats are painted in varying shades of white, cream, and dark navy-blue, showing their curved hulls and interior bench seats. The brushwork on the boats is loose, capturing the play of light and shadow on their rounded forms.
+
+To the right and center rises a rocky, elevated coastline painted in warm earthy tones — ochre, burnt orange, terracotta, and warm brown — contrasting strongly with the cool blues of the water. Several trees with rounded bushy canopies are scattered along the cliffside in shades of olive and forest green. A tall, slender cypress-like tree stands prominently near the center of the shoreline.
+
+Two Mediterranean-style buildings sit on the shore: a smaller white structure nestled among the trees on the left, and a larger, more prominent building on the right with a terracotta-tiled roof and light-colored sunlit walls.
+
+The upper portion features a bright, airy sky composed of broad sweeping strokes of pale blue, white, and hints of soft warm yellow, suggesting a clear sunny Mediterranean day with light wispy clouds. The lighting is bright and consistent, with warm sunlight bathing the shoreline and buildings while the water reflects the cool sky.
+
+The color palette pairs cool blues and turquoise of the sea against warm ochre, terracotta, and olive of the land. Blending impressionism with realism, the mood is peaceful, sunlit, and atmospheric. The background sky is a soft blurred wash of light. Heavy impasto, thick paint ridges catching natural light, no text.
+
+text, watermark, logo, signature, photograph, 3d render, anime, cartoon, chibi, flat illustration, smooth blending, photorealistic, watercolor wash, neon, fluorescent, night scene, sunset, storm, large modern ship, yacht, sailboat with sails up, people, faces, cars, city skyline, snow, forest interior, mountains, river, lake, dark moody, black sky, single boat only</code></pre>
+
+</details>
 
 ## Ultra-realistic portrait of a woman on a luxury yacht
 

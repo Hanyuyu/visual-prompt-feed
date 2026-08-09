@@ -1,9 +1,95 @@
 # Character video prompts
 
-48 source-linked prompts, newest ImgLume records first.
+51 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium K-pop music video with ultra‑realistic stage performance
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2086016633479520749)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2506](https://imglume.com/prompt/2506)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e306db5d-404d-47c8-ab71-a21b628cda46/c4fe0b80-9bb7-4aca-86e9-bd6e07ecb83a-1786186576665 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Premium K-pop music video, cinematic, ultra-realistic, luxury beauty commercial aesthetics, fast-paced editing, IMAX-quality cinematography, dynamic camera movement, dramatic stage lighting, crisp skin details, soft beauty lighting, no dialogue, high-energy K-pop instrumental, 4K HDR.
+
+Character: STRICT FACE LOCK — Use the exact facial features from the reference image without any changes. Maintain the same eye color, face shape, nose, lips, freckles, hairstyle, hair color, skin tone, and identity throughout every shot.
+
+0:00–0:03 | Glam Room
+
+Extreme close-ups of makeup brushes sweeping across her cheeks, eyeliner being applied, lipstick touch-up, hair stylist fixing loose strands, earrings clipped on. Camera rapidly cuts between macro beauty shots, mirror reflections, makeup products, and confident eye contact. Flash transitions sync with the beat.
+
+0:03–0:07 | Backstage Energy
+
+She confidently walks through a busy backstage corridor while stylists, dancers, and crew rush past. A stylist adjusts her jacket mid-walk, another hands her a microphone. Fast tracking shots, whip pans, low-angle hero shots, dramatic blue and pink lighting, quick slow-motion hair flip before continuing forward.
+
+0:07–0:11 | Stage Entrance
+
+The countdown reaches zero. Massive LED screens illuminate. She grabs the microphone, takes a deep breath, and confidently walks through giant stage curtains. Powerful backlight silhouettes her as smoke cannons fire and the crowd erupts. The camera circles around her in one smooth cinematic motion before revealing the huge arena.
+
+0:11–0:15 | Main Character Moment
+
+She steps to center stage beneath dazzling spotlights. Wind machines lift her hair as confetti begins to fall. She strikes a powerful idol pose, makes direct eye contact with the camera, and gives a confident smile. The camera rapidly pulls back to reveal thousands of glowing light sticks filling the stadium before cutting to black on the final beat.</code></pre>
+
+</details>
+
+## Cinematic Luxury Rooftop Café Vlog at Golden Hour
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2085954236819665186)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2486](https://imglume.com/prompt/2486)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/28d9b8bf-799d-449c-aa0c-d6b0bef6b4e3/8171f5aa-e117-4521-85e3-8686c807be29-1786174011953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 15-second ultra-realistic luxury lifestyle vlog following a young woman enjoying a peaceful evening at a rooftop café overlooking a modern city skyline. She relaxes with a cappuccino and dessert, chats naturally with the camera, takes in the panoramic views, and enjoys the warm golden-hour atmosphere before ending the moment with a smile. Smooth drone reveals, cinematic gimbal movements, authentic lip-sync, natural facial expressions, realistic skin texture, flowing hair, elegant fashion, premium café ambiance, warm sunlight reflecting across glass skyscrapers, shallow depth of field, soft film grain, ARRI Alexa 35 aesthetic, 4K HDR, premium editorial quality, seamless character consistency, no text, no logos.</code></pre>
+
+</details>
+
+## Seedance 2.5 wingsuit descent
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2085739923475222853)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2454](https://imglume.com/prompt/2454)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51c90425-a4af-496b-8e3c-d634dc7ce721/c370ee0e-2499-4518-afc6-83dbf19276f5-1786123659041 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[STYLE + CAMERA + ATMOSPHERE]
+Gritty, raw handheld 35mm film aesthetic with natural film grain. Harsh direct sunlight creating high-contrast shadows over the NYC skyline. Continuous single-take handheld tracking shot (3rd-person / over-the-shoulder) with no cuts. Atmosphere: high-altitude wind, realistic urban canyon physics, sudden wingsuit deployment. Audio: heavy rhythmic breathing, intense wind howl, fabric snap of wingsuit opening, high-speed air rush between buildings, near-miss whooshes, soft landing roll, street noise, final bite sounds.
+
+[IMAGE REFERENCES]
+Use the provided image as the single strict visual reference for the male character. Exact face, full dark beard, black North Face cap, black sunglasses, white “JUSTFORBALLERS” t-shirt. He wears a backpack at the start. Body proportions, posture and clothing locked from the reference.
+
+[TIMELINE SECOND BY SECOND]
+0-3s: [Handheld medium] Bearded man in white t-shirt, black cap, sunglasses and backpack stands on the edge of a NYC skyscraper rooftop. He looks straight into the camera with calm intensity, then turns and launches into a clear, controlled forward somersault in slow motion as he leaves the roof.
+3-5s: [Continuous freefall] He completes the somersault and falls head-first. At exactly 1.5 seconds into the fall he deploys his wingsuit with a sharp snap. The wingsuit inflates fully and he levels out.
+5-12s: [High-speed tracking] Camera stays locked behind him as he rockets at full speed through the urban canyons of midtown Manhattan. He weaves tightly between skyscrapers, banking hard left and right, glass facades and windows streaking past at extreme velocity.
+12-18s: [Low-level chaos] He drops lower, flying just above street level. He almost collides with a yellow taxi that suddenly turns the corner, banks hard to avoid it, then narrowly misses a delivery van. He dips under a traffic light and threads between two buses.
+18-23s: [Street-level action] Still flying extremely low, he dodges a startled cat that bolts across the sidewalk, skims past a group of pedestrians who scatter, and banks sharply to avoid an open truck door. The camera stays locked behind him through every near-miss.
+23-26s: [Landing] He flares the wingsuit hard, touches down with both feet on the sidewalk and immediately rolls forward to kill the speed. He stands up, peels off the wingsuit in one fluid motion and drops it on the ground beside him.
+26-28s: [Street level] He walks a few steps still wearing the backpack and stops right in front of a classic NYC hot-dog cart. The vendor hands him a steaming hot dog fresh off the grill.
+28-30s: [Close continuous] He turns, looks directly into the camera, takes a big bite of the hot dog and chews with a satisfied expression as the shot holds.
+
+[STYLE &amp; QUALITY BOOSTERS]
+Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion blur, high dynamic range, coherent physics (fabric, air, wingsuit, impact, roll, near-misses), stable character from the reference, realistic urban reflections and wind, no artifacts, movie-level stability, pure single continuous take.</code></pre>
+
+</details>
 
 ## Handheld documentary style bedroom montage of a woman with cat, phone call, and dinner
 

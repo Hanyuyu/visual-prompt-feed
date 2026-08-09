@@ -1,9 +1,56 @@
 # Nature video prompts
 
-8 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic Japanese coastal travel vlog
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2085942757110288502)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2489](https://imglume.com/prompt/2489)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29f45e10-1dc6-414d-a2a7-8a1c7b7fa570/3b45e220-4294-4db6-9e22-0367314d961d-1786174030870 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Scene 1 (0–3 sec)
+A beautiful young Japanese woman begins a morning adventure in a quiet coastal town. She walks beside the ocean with her smartphone in selfie mode, smiling naturally as gentle waves move behind her.
+
+Scene 2 (3–6 sec)
+She explores a small seaside fishing harbor, watches local fishermen preparing their boats, and casually records the colorful boats and peaceful morning atmosphere.
+
+Scene 3 (6–9 sec)
+She discovers a small local seafood market. She looks around curiously, interacts naturally with a friendly vendor, and receives a freshly prepared local snack.
+
+Scene 4 (9–12 sec)
+She walks through a narrow traditional Japanese street lined with small wooden houses and shops. She stops at a tiny souvenir store and picks up a handmade ceramic item.
+
+Scene 5 (12–15 sec)
+She continues toward a rocky coastline and carefully walks along a scenic ocean path. The camera captures waves crashing against the rocks while she films the view.
+
+Scene 6 (15–18 sec)
+She reaches a quiet hidden beach. She removes her shoes, walks along the wet sand, and lets the ocean water touch her feet while laughing naturally toward the camera.
+
+Scene 7 (18–21 sec)
+She sits at a small outdoor seaside café, enjoys an iced matcha drink and a light dessert, and casually talks to the smartphone camera.
+
+Scene 8 (21–24 sec)
+Golden-hour sunlight begins to cover the coastline. She walks toward a small lighthouse on a hill, filming the glowing ocean and surrounding scenery.
+
+Scene 9 (24–27 sec)
+At sunset, she stands near the lighthouse overlooking the ocean. Her hair moves gently in the sea breeze as she watches the sun disappear below the horizon.
+
+Scene 10 (27–30 sec)
+Final selfie shot. She turns toward the camera, smiles brightly, waves goodbye and says: “What a beautiful day. See you on my next adventure. Bye!”
+
+Overall style: Ultra-realistic Japanese smartphone travel vlog, same beautiful Japanese woman and consistent appearance throughout, natural handheld phone footage, realistic human movement, authentic facial expressions, real ocean ambience, waves, wind and distant harbor sounds, cinematic natural lighting, realistic colors, documentary-style travel footage, no artificial movements, no text, no subtitles, no watermark.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic cinematic snowboarding video with consistent character and outfit
 

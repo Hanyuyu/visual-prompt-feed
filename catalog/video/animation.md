@@ -1,9 +1,26 @@
 # Animation video prompts
 
-46 source-linked prompts, newest ImgLume records first.
+47 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxurious ASMR Skincare Facial 3D Pixar Animation
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2085927821126324588)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2485](https://imglume.com/prompt/2485)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/39af7c18-0ace-4ce9-b301-e739df0636a7/1658a602-71a2-4774-8843-7c16d23c7136-1786174000506 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D Pixar Disney style animation. Close-up macro video of a young woman enjoying a luxurious ASMR skincare facial at an elegant spa. She has big expressive brown eyes, freckles, brown hair tied in a neat bun, and wears a soft plush pink headband and towel. An aesthetician in a sleek white spa uniform applies soothing skincare creams, serum droplets, a jade roller, and a sheet mask onto her face. Highly detailed texture, smooth glossy skin with a glass-skin effect, warm romantic candle lighting, pastel pink and gold luxurious spa room, soft bokeh background, hyper-realistic textures, 4k resolution, 60fps.</code></pre>
+
+</details>
 
 ## Seedance 2.0
 

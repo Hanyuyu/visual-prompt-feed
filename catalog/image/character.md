@@ -1,9 +1,227 @@
 # Character image prompts
 
-59 source-linked prompts, newest ImgLume records first.
+66 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Dark cinematic fantasy-warrior portrait
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2085769307217391725)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2527](https://imglume.com/prompt/2527)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/96d77d0e-f3d8-40e6-9b5d-dee280239f81/429e12c1-1d57-4eaa-aeaa-5e01398cc1c6-1786205433815 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dark, cinematic, hyper-realistic fantasy-warrior portrait of a battle-worn, long-haired male warrior sitting calmly amid the ruins of a burning battlefield. He is positioned centrally in a powerful seated pose, leaning slightly forward with an exhausted but intimidating expression, his head subtly lowered and eyes staring intensely toward the viewer. He has long, messy, wavy dark-brown hair, strands falling naturally across his face, a thick rugged beard, weathered skin, subtle dirt and soot across his forehead and cheeks, and a hardened expression suggesting years of war.
+
+He wears a tattered, ancient crimson-red robe/cloak draped loosely around his body, layered over a worn beige or earth-toned tunic. The fabric is heavily weathered, dusty, scorched, frayed, and stained from battle, with realistic folds and dramatic flowing fabric around his legs. One bare foot is partially visible against the ruined ground.
+
+The warrior is holding a large modern military-style rifle diagonally across his body, gripping it naturally with both hands. The firearm has realistic metallic construction, detailed mechanical components, rails, magazine, barrel, scratches, worn surfaces, subtle grime, and battle damage. Keep the weapon physically believable and integrated naturally into the pose.
+
+He sits upon charred rubble, broken stone, fragments of destroyed structures, and partially burned debris. Around him, an enormous battlefield is engulfed in flames. Thick layers of volumetric smoke, fire, ash, glowing embers, sparks, and atmospheric haze fill the background. Intense orange and deep red firelight illuminates the right side of the scene while cooler smoky teal-gray shadows surround the left side, creating dramatic cinematic color contrast.
+
+Strong warm rim lighting from the flames outlines his hair, shoulders, robe, and weapon. A subtle soft light falls across his face, revealing detailed skin texture, beard strands, individual hairs, wrinkles, pores, dirt, and sweat. His face remains partially shadowed, creating a mysterious and intimidating atmosphere.
+
+The composition should feel like a dark biblical-warrior meets post-apocalyptic military artwork, combining ancient clothing with modern battlefield technology. The overall mood is solemn, powerful, tragic, epic, and haunting rather than action-oriented.
+
+Highly detailed cinematic realism, photorealistic textures, realistic human anatomy, intricate fabric texture, individual hair strands, realistic metal reflections, physically accurate fire and smoke, volumetric lighting, atmospheric perspective, dramatic chiaroscuro, deep shadows, glowing embers floating through the air, subtle film grain, muted cinematic color grading, rich reds, burnt orange, charcoal black and smoky teal tones, shallow depth of field, dramatic contrast, painterly cinematic finish, epic concept-art quality, 8K detail, ultra-sharp subject, realistic environmental lighting, masterpiece composition.
+
+Camera: medium-full portrait shot, slightly low camera angle, 50mm cinematic lens, centered composition, natural perspective, subject occupying most of the frame, background softly diffused by smoke and fire, strong foreground-to-background depth.
+
+Aspect ratio: 4:5 vertical
+
+Quality: ultra-detailed, 4K/8K, cinematic realism
+
+Lighting: dramatic firelight + soft diffused facial illumination + strong rim light
+
+Style: photorealistic dark cinematic fantasy, post-apocalyptic war photography, premium movie concept art</code></pre>
+
+</details>
+
+## Polished 3×3 character-expression portrait sheet of a young adult male
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2085722243263508831)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `illustration-3d`
+- **ImgLume record:** [2519](https://imglume.com/prompt/2519)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed7ba590-5784-42d3-9dcb-e354498d5398/16df3024-e7a7-4a47-9fe3-a4f6bc6af609-1786197016214 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a polished 3×3 character-expression portrait sheet featuring the same normal young adult male character use image for face reference throughout all panels. He has short, slightly tousled dark hair, natural eyebrows, warm expressive eyes, light stubble, a defined but friendly face, and realistic youthful proportions. Keep his facial identity, hairstyle, skin tone, and clothing consistent across every panel. Arrange the portraits in a clean 3×3 grid with rounded-square panels and soft white spacing.
+
+Center panel: full-body character standing confidently with a relaxed slight smile, wearing a modern casual outfit — dark bomber jacket over a plain light T-shirt, dark jeans and clean sneakers, hands casually in pockets.
+
+Surrounding panels: close-up or half-body portraits showing different expressive emotions and poses:
+
+1. unimpressed / skeptical expression, gray background
+
+2. playful confident smirk with one raised eyebrow, purple background
+
+3. genuinely angry expression, arms crossed, red background
+
+4. happy mischievous grin, arms crossed, blue background
+
+5. calm friendly smile, warm black-to-gold background
+
+6. annoyed pout, arms crossed, green background
+
+7. frustrated skeptical expression, arms crossed, green background
+
+8. stressed / embarrassed expression with one hand on his forehead, orange-brown background
+
+Style: high-end polished 3D animated movie character, modern stylized realism, attractive ordinary young man, subtle caricature but natural proportions, realistic skin texture, detailed eyes and hair, expressive eyebrows and facial muscles, cinematic soft lighting, subtle rim lighting, smooth materials, vibrant studio backgrounds, professional character-expression sheet, consistent character identity in every panel, clean symmetrical composition, rounded corners, white borders, sharp focus, premium 3D rendering, 4K.</code></pre>
+
+</details>
+
+## 5-panel photographic character reference card
+
+- **Original source:** [@vladimircherner on X](https://x.com/vladimircherner/status/2085834266303238310)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [2513](https://imglume.com/prompt/2513)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ceef34c7-8432-4800-9e4d-f6c72c6c862f/75049d6e-483b-453d-9675-120d8225a730-1786194983541 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ceef34c7-8432-4800-9e4d-f6c72c6c862f/0ffda222-2085-43e9-b069-b7f03e1a080d-1786194983541 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ceef34c7-8432-4800-9e4d-f6c72c6c862f/e44f0b51-38cd-4b25-baa6-212c31a29b69-1786194983541 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ceef34c7-8432-4800-9e4d-f6c72c6c862f/ee45f211-0b11-45c4-b8fa-6b2c232ece28-1786194983541 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Render a 16:9 five-panel photographic character reference card, 4K. Every field describes the finished sheet.
+SHEET: HEAD ZONE left — a huge frontal face panel beside a narrow column of two smaller head panels; a wider stretch of backdrop separates it from BODY ZONE right — two equal full-figure panels. Panels formed by bare spacing, each edge the backdrop continuing, free of drawn borders.
+CROP: the two body panels begin at the base of the neck just above the collarbones — the figure stands complete from that line down to the floor, the head living only in the three head panels.
+MEDIUM: 35mm film on Kodak Portra 400, gentle roll-off, fine natural grain across all five panels, each a photographed frame of a real woman on a studio floor.
+FACE: use the supplied portrait as the exact facial identity reference. Eastern European woman of twenty, oval face over high flat cheekbones, straight narrow nose, full mouth, light copper brows, porcelain complexion holding one continuous even tone from hairline to collarbone. Irises muted low-chroma grey-green with a dark limbal ring. Micro-asymmetry: left eyelid crease a fraction lower, right mouth corner higher. High detail, bright skin, natural skin texture and realistic gloss, natural glow, skin grain, soft matte finish, every pore and fine line retained.
+HAIR: long copper-ginger in loose waves past the chest, off-centre part; in profile swept behind the ear; from behind a rounded crown, low uneven nape hairline, hair splitting over the shoulder blades.
+BUILD: slim and long-limbed, narrow squared shoulders, visible collarbones, flat waist, narrow hips with a compact high-set rounded seat and long thigh line.
+WARDROBE: pale pink ribbed cropped tee ending above the navel, a small flat-printed cartoon kitten face on the chest; light-blue distressed denim cut-offs, frayed white hem; black hard-shell knee pads on both knees; black padded wrist guards on both forearms; plain white low-top canvas sneakers, white laces and rubber soles, ankles bare.
+POSTURE: arms hanging with a gap from the body, weight even on both feet, shoulders squared and dropped back, chin level, expression flat, eyes level to camera — the same stance throughout.
+SCENE: neutral grey seamless cyclorama #8A8A8A curving into a wall-to-floor sweep, real depth behind the figure, brightness pooling behind her, darker to the edges. An apple box and a C-stand sit in that depth, out of focus — visible only in the body panels; the head panels melt the background into an even grey field.
+LIGHT: large soft key from camera-left at 45°, neutral 5600K, feathered shadow edge; soft fill at 2:1 from a reflector camera-right, open shadows. A thin bright line of light traces the outer edge of the shoulder, jaw and hair, lifting the silhouette clear of the grey — a narrow restrained band rather than a halo, on the hair and cheekbone in the head panels, on the shoulders and outer arm in the body panels. Soft shadow under the feet. Identical light throughout.
+LOOK: filmic-neutral — neutral white balance, natural skin free of cast, low-medium saturation, soft white roll-off. 85mm at f/5.6 throughout, the frontal face panel resolving to full detail with individual eyelashes, iris texture and pore structure all crisp over one unbroken even complexion, Kodak Portra 400 grain.
+PANELS
+1 head, 0° frontal, crown to collarbones, dominant: facial geometry, grey-green irises, one even skin tone.
+2 head, 90° right profile, head and neck, small: nose line, jaw angle.
+3 head, 180° from behind, head and neck, small: crown, part line, nape hairline.
+4 body, 0° frontal, base of the neck to the floor with air below the soles, HEAD ABSENT: pink tee with chest print, bare midriff, denim cut-offs, knee pads, wrist guards, sneakers.
+5 body, 180° from behind, base of the neck to the floor with air below the soles, HEAD ABSENT: plain pink ribbed back with straight hem, denim back with two patch pockets over a compact rounded seat, knee-pad straps buckled behind each knee.
+INFO: a text block in the upper-left corner, typeset as printed annotation on the backdrop clear of the photographs: "ZORIANA" in uppercase at a clearly readable display size, then three lines of comfortably legible body text, each about a third the height of the name and each running unbroken across a single line: "Height: 176 cm", "Voice: low, quiet, unhurried, chest-resonant, flat-toned, precise, faintly hoarse", "Character: bold, blunt, private, stubborn, unflinching, dry-humoured, restless" — light on the grey, generous letter spacing, clean sans-serif. The expression stays flat and neutral in every panel, the wording above being printed text rather than direction.
+LOCK: all five panels the same woman — identical facial geometry, grey-green eyes, hairline, one even unmarked skin tone, hair and build; same sweep, light, grade, grain and optics; identical crop line at the neck, the head appearing solely in panels 1-3. Every wardrobe element repeats identically in both body panels.</code></pre>
+
+</details>
+
+## Charming illustrated portrait of a young woman in editorial vector style
+
+- **Original source:** [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2085669919786738070)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2492](https://imglume.com/prompt/2492)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6a93d973-fb53-42cc-a0f8-ab7fb2cc66cd/55b746f4-22da-4846-b954-f88be6c76c0b-1786176046007 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6a93d973-fb53-42cc-a0f8-ab7fb2cc66cd/64bcd318-c2a9-4c55-be54-7fa8e85d75c9-1786176046007 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming illustrated portrait inspired by a real photo of a young woman with voluminous curly auburn hair, reimagined as a playful editorial-style vector artwork. Preserve her recognizable facial features, relaxed pose, delicate freckles, rosy cheeks, soft pastel-blue eye makeup, and light blue off-the-shoulder embroidered blouse, while simplifying the forms with expressive hand-drawn outlines and painterly textured fills. Scatter tiny floral doodles naturally throughout her curls to add a whimsical touch. Place the portrait against a smooth turquoise backdrop decorated with sketched white stars, tiny sparkles, and a crescent moon, creating a dreamy celestial atmosphere reminiscent of a modern children’s picture book. Use a clean flat color palette, subtle paper texture, organic brush strokes, and a warm handcrafted aesthetic with a polished editorial feel.</code></pre>
+
+</details>
+
+## Hailee Steinfeld as Spider-Gwen editorial photograph
+
+- **Original source:** [@Giulia_4i on X](https://x.com/Giulia_4i/status/2085786864590504057)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [2465](https://imglume.com/prompt/2465)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52a72bf2-d23f-4118-aff1-1b7230054a46/099bcbb9-bf86-4fc1-b184-9ce66693656f-1786144554770 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/52a72bf2-d23f-4118-aff1-1b7230054a46/bdd82389-f333-4283-b5c1-f5b69e9613a6-1786144554770 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/52a72bf2-d23f-4118-aff1-1b7230054a46/b1b16e31-0995-45ea-8f63-cd31312dc2cd-1786144554770 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-resolution editorial photograph in a 9:16 aspect ratio, captured from a low angle looking slightly upward in a medium full shot. [NAME] portrays an unmasked Gwen Stacy (Ghost-Spider), crouched in a low, heroic landing pose on a worn, slightly cracked concrete sidewalk in a gritty urban alleyway at night.
+
+She has an athletic physique, a short bob haircut with realistic hair texture, and a serene, confident expression while looking slightly into the camera lens. Her eyes are subtly defined with soft makeup, eyeliner, and mascara. She wears a high-tech Ghost-Spider tactical suit crafted from high-density spandex, matte neoprene, and flexible synthetic textures. A raised white hood frames her face, revealing an inner lining with visible purple and black web stitching and tactile reliefs, transitioning into matte black legs and torso, finished with turquoise ballerina-style shoes over structured black socks.
+
+Her body is subtly angled with legs fully flexed and weight supported on the balls of her feet. Her left hand rests on her left knee, while her right arm is bent with the elbow resting on her right knee and hand relaxed. The background features an exposed brick wall covered in naturally weathered, colorful graffiti art in shades of magenta, blue, purple, yellow, and green.
+
+The lighting is diegetic urban night lighting with rich, preserved deep shadows and high dynamic range. Shot on a full-frame camera with a 35mm lens, the image displays surgical sharpness on her eyes and facial textures, natural material rendering, professional color fidelity, and a shallow depth of field with a soft background bokeh.</code></pre>
+
+</details>
+
+## Ultra-detailed 16:9 futuristic anime character design sheet for CYBER ANGEL
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2085685695855948244)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2459](https://imglume.com/prompt/2459)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/48eec3e8-2821-4022-b4e5-f3ed153d4758/808dd0f9-c53d-415f-9a85-e2600bee9787-1786136217431 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/48eec3e8-2821-4022-b4e5-f3ed153d4758/a514296a-f244-48b4-96be-19a9d4bfd8cb-1786136217431 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>1️⃣character sheet:
+
+Ultra-detailed 16:9 futuristic anime character design sheet, official AAA sci-fi game character bible, clean editorial layout, premium white UI background with pink cyber interface accents. Character name "CYBER ANGEL", title "Pink Protocol", subtitle "A digital guardian powered by emotion, speed and advanced cyber technology."
+
+Left panel features a full-body hero illustration of a futuristic cyber angel girl with long silver-white hair, bright blue eyes, and a cute but powerful expression. She wears a pink-and-white cyber fashion combat outfit combining futuristic streetwear and angelic technology: oversized cropped jacket, heart-shaped chest armor, mechanical accessories, utility belts, thigh straps, asymmetrical stockings, armored sneakers, glowing pink details and holographic elements. She has cat-ear inspired cyber headphones, antenna modules and a futuristic backpack system with cables and floating digital components.
+
+The character carries a cute futuristic energy weapon and is accompanied by a small floating robotic companion with pink armor, glowing core and playful design.
+
+Center panel includes professional model sheet turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, cyber equipment, outfit structure and proportions. Show the full silhouette, backpack shape, headphone design, weapon placement and mechanical details.
+
+Right panel includes detailed close-up panels showing cyber headphones, face details, heart chest module, backpack core, jacket materials, leg armor, gloves, boots and futuristic accessories.
+
+Include weapon &amp; pet section featuring a pink futuristic energy blaster, robotic companion unit, cables, energy core and cyber accessories.
+
+Add a clean color palette featuring neon pink, pastel blue, white, soft lavender, black and holographic rainbow accents.
+
+Style: official anime sci-fi character sheet, Cyberpunk × Zenless Zone Zero × Honkai Star Rail aesthetic, premium AAA game artbook illustration, kawaii cyber technology design, futuristic idol combat fashion, highly detailed mechanical costume, clean UI interface, production-ready character bible, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no extra limbs, no deformed anatomy.</code></pre>
+
+</details>
+
+## Premium studio portrait with realistic and Pixar-inspired 3D mini version
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2085728335980572757)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2458](https://imglume.com/prompt/2458)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/54308376-1896-4fe9-8c24-164825322178/179c613b-c87d-40db-8349-dd15567d4a95-1786132013602 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/54308376-1896-4fe9-8c24-164825322178/5a388f97-32f3-4145-a989-0c4cb7219a52-1786132013602 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the uploaded person into a premium studio portrait featuring both a realistic human version and a Pixar-inspired 3D mini version of the same person.
+FORMAT LOCK
+Vertical 3:4 composition. Full-body portrait. Clean centered composition. Minimalist light-gray seamless studio background. Premium commercial photography.
+IDENTITY LOCK
+Use the uploaded image as the only identity source. Preserve the exact facial identity, facial structure, skin tone, hairstyle, glasses, tattoos, outfit, body proportions, and recognizable appearance. Both characters must clearly represent the same person.
+REALISTIC CHARACTER
+Place the realistic person behind the mini character with a relaxed, confident posture. Rest one hand naturally on the mini character’s oversized head. Maintain realistic skin texture, clothing details, and professional studio-quality lighting.
+PIXAR MINI CHARACTER
+Create a premium Pixar-inspired 3D mini version of the same person with a large expressive head, smaller body, bright eyes, soft facial features, and playful proportions. Preserve the same hairstyle, glasses, tattoos, clothing, and recognizable facial identity in a stylized form.
+POSE &amp; COMPOSITION
+The Pixar mini character stands slightly closer to the camera while the realistic person stands behind. Both look directly at the camera with natural smiles and friendly interaction. The relationship should feel playful, warm, and visually balanced.
+LIGHTING &amp; STYLE
+Soft professional studio lighting. Gentle shadows. Cinematic reflections. Ultra-detailed skin and fabric textures. Premium commercial photography. Pixar-quality 3D rendering. Luxury Instagram campaign aesthetic. Sharp focus. Ultra-realistic 8K quality.
+NEGATIVE PROMPT
+Avoid changing the person’s identity, hairstyle, glasses, tattoos, outfit, or proportions. Avoid blurry details, distorted anatomy, extra limbs, unrealistic expressions, plastic textures, cluttered backgrounds, text, logos, watermarks, or low-quality rendering.</code></pre>
+
+</details>
 
 ## Editorial flat-vector portrait of a character
 

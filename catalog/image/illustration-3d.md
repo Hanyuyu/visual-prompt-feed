@@ -1,24 +1,102 @@
 # Illustration 3d image prompts
 
-34 source-linked prompts, newest ImgLume records first.
+36 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Miniature Fantasy Orchard Image Prompt
+## Polished 3×3 character-expression portrait sheet of a young adult male
 
-- **Original source:** [@Arzoo12sh on X](https://x.com/Arzoo12sh/status/2085689694130774296)
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2085722243263508831)
 - **Recommended model:** `gptimage`
-- **Source model(s):** `gptimage`, `seedance`
-- **Categories:** `illustration-3d`
-- **ImgLume record:** [2449](https://imglume.com/prompt/2449)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/301b54df-82d6-494c-afd4-70abf191d442/0c7c0967-30be-42a7-8fb2-ed81cb15beab-1786115258320 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/301b54df-82d6-494c-afd4-70abf191d442/5204b600-048b-4f46-8fca-0907326eb6c2-1786115258320 "Video prompt preview")
+- **Source model(s):** `other`
+- **Categories:** `character`, `illustration-3d`
+- **ImgLume record:** [2519](https://imglume.com/prompt/2519)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed7ba590-5784-42d3-9dcb-e354498d5398/16df3024-e7a7-4a47-9fe3-a4f6bc6af609-1786197016214 "Image prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>A breathtaking miniature fantasy orchard scene with tiny farmers celebrating beneath lush mango and pomegranate trees beside a crystal-clear stream. Above them, a gigantic transparent glass dome is held by a massive human hand, trapping two powerful tornadoes inside and protecting the village from destruction. Cinematic golden-hour lighting, ultra-detailed miniature world, vibrant flowers, realistic fruits, dramatic storm clouds, depth of field, macro photography, hyper-realistic textures, volumetric lighting, magical atmosphere, 8K, masterpiece, Unreal Engine, photorealistic.</code></pre>
+<pre><code>Create a polished 3×3 character-expression portrait sheet featuring the same normal young adult male character use image for face reference throughout all panels. He has short, slightly tousled dark hair, natural eyebrows, warm expressive eyes, light stubble, a defined but friendly face, and realistic youthful proportions. Keep his facial identity, hairstyle, skin tone, and clothing consistent across every panel. Arrange the portraits in a clean 3×3 grid with rounded-square panels and soft white spacing.
+
+Center panel: full-body character standing confidently with a relaxed slight smile, wearing a modern casual outfit — dark bomber jacket over a plain light T-shirt, dark jeans and clean sneakers, hands casually in pockets.
+
+Surrounding panels: close-up or half-body portraits showing different expressive emotions and poses:
+
+1. unimpressed / skeptical expression, gray background
+
+2. playful confident smirk with one raised eyebrow, purple background
+
+3. genuinely angry expression, arms crossed, red background
+
+4. happy mischievous grin, arms crossed, blue background
+
+5. calm friendly smile, warm black-to-gold background
+
+6. annoyed pout, arms crossed, green background
+
+7. frustrated skeptical expression, arms crossed, green background
+
+8. stressed / embarrassed expression with one hand on his forehead, orange-brown background
+
+Style: high-end polished 3D animated movie character, modern stylized realism, attractive ordinary young man, subtle caricature but natural proportions, realistic skin texture, detailed eyes and hair, expressive eyebrows and facial muscles, cinematic soft lighting, subtle rim lighting, smooth materials, vibrant studio backgrounds, professional character-expression sheet, consistent character identity in every panel, clean symmetrical composition, rounded corners, white borders, sharp focus, premium 3D rendering, 4K.</code></pre>
+
+</details>
+
+## Miniature 3D paper-craft travel illustration
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2085947435445354577)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2495](https://imglume.com/prompt/2495)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e15390bb-324e-4467-bf9c-09cfeb9368db/433edc87-f337-4eed-9b74-dc768e15c084-1786178152610 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e15390bb-324e-4467-bf9c-09cfeb9368db/7c9ad6da-18ab-4e90-86c0-8548bfcec7c8-1786178152610 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e15390bb-324e-4467-bf9c-09cfeb9368db/09ca416f-0951-4868-8fbc-404eb4ed0236-1786178152610 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e15390bb-324e-4467-bf9c-09cfeb9368db/aed0a1b2-8a4d-4b42-973b-14f100783c2b-1786178152610 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming miniature 3D paper-craft travel illustration of [DESTINATION], designed like a delicate handmade travel postcard. Feature recognizable local landmarks and cultural elements as tiny handcrafted models, arranged on a narrow floating landscape strip. Include small details such as local transportation, trees, street lamps, water, birds, clouds, and subtle travel elements like an airplane with a dotted flight path.
+
+Use a soft white textured paper background, gentle natural lighting, pastel colors, subtle shadows, and a whimsical handcrafted aesthetic. The landmarks should look like they are made from paper, clay, wood, and miniature craft materials, with realistic tiny textures and charming imperfections.
+
+Keep the composition minimal, clean, airy, and centered, with plenty of negative space around the miniature scene. Add a small elegant handwritten-style title at the bottom reading “[DESTINATION]”.
+
+Style: miniature diorama, handcrafted paper art, travel postcard, whimsical 3D illustration, soft pastel palette, tactile textures, macro photography feel, delicate details, cozy artistic aesthetic, high resolution, vertical 9:16 composition.</code></pre>
+
+</details>
+
+## The Library of Memories
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2085668279717351725)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2493](https://imglume.com/prompt/2493)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5083a68a-6461-41b5-aed1-77b484db50fe/b9e38243-088a-41ed-9110-30c125975cf9-1786176070763 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-cinematic fantasy masterpiece in portrait (4:5).
+
+An ancient open book rests on a beautifully aged wooden desk beside an antique glowing lantern. The scene is bathed in warm golden cinematic light with soft shadows and magical atmosphere.
+
+Instead of ordinary pages, the pages gracefully fold upward into the gigantic silhouette of a peaceful young woman deeply absorbed in reading.
+
+Inside her silhouette exists an impossible living library stretching endlessly into infinity.
+
+Include towering floating bookshelves, spiral staircases illuminated by golden light, suspended bridges made entirely from books, glowing reading rooms, floating candles, giant celestial clocks frozen in time, flying paper cranes, magical scrolls drifting through the air, tiny librarians walking across book bridges carrying glowing manuscripts, hidden reading balconies, stained-glass windows, spiral galaxies, colorful nebulae, constellations woven between bookshelves, glowing planets visible through arched library windows, and streams of golden light connecting every section of the library.
+
+Thousands of glowing golden letters rise from the open book, swirling around the silhouette before transforming into sparkling constellations across the night sky.
+
+The foreground includes vintage fountain pens, parchment papers, old keys, magnifying glasses, wax seals, stacked antique books, and delicate dust particles glowing in the warm light.
+
+The atmosphere is peaceful, nostalgic, magical, and dreamlike with volumetric light rays, floating dust, realistic paper textures, rich golden highlights, cinematic depth of field, dramatic composition, soft bokeh, premium color grading, and extraordinary attention to detail.
+
+Style: surreal realism, fantasy storytelling, luxury concept art, impossible photography, award-winning digital art, hyper realistic, ultra detailed, masterpiece, Unreal Engine quality, Octane Render, 8K, HDR, cinematic lighting, magical realism, elegant composition, scroll-stopping, no text, no watermark, no logo.</code></pre>
 
 </details>
 

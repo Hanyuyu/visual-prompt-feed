@@ -1,9 +1,487 @@
 # Travel video prompts
 
-17 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## THE PEOPLE WHO DON'T WANT TO BE FOUND
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2085961080883618249)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2525](https://imglume.com/prompt/2525)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a29c7bfe-12de-4f40-b62f-fa1b23dfa094/c0695e89-6e60-40c9-b6ca-61d9c149f4fa-1786203401460 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THE PEOPLE WHO DON'T WANT TO BE FOUND
+
+FORMAT
+30 seconds | 16:9 | live-action adventure vlog / documentary
+Fictional dramatization. Fictionalized Indigenous community. Not a recreation of any specific real isolated tribe.
+Authentic handheld travel-vlog realism with cinematic documentary cinematography.
+
+CORE CONCEPT
+A young travel vlogger and an experienced local Amazon guide travel deep into the rainforest by small wooden boat, hoping to document signs of a remote, isolated Indigenous community. They unexpectedly notice distant human figures across the river. The guide immediately signals them to stop and leave. The encounter remains distant and observational; the visitors never approach, communicate with, or enter the community's territory.
+
+CHARACTERS
+
+VLOGGER
+Young adult travel filmmaker, practical expedition clothing, weathered backpack, compact handheld camera, small microphone, natural appearance.
+Curious and energetic at the beginning, gradually becoming quiet and cautious.
+
+LOCAL GUIDE
+Experienced Amazonian river guide, practical field clothing, calm and observant, familiar with the river and rainforest.
+He communicates primarily through subtle gestures and brief whispered instructions.
+Maintain identical faces, clothing, backpacks, camera equipment and physical characteristics throughout the entire sequence.
+
+ENVIRONMENT
+
+Deep Amazon rainforest during humid late afternoon.
+Dense layered vegetation, enormous trees, vines, broad leaves, muddy riverbanks, dark water reflecting the canopy, floating vegetation, insects, distant birds and constantly moving foliage.
+Heavy humidity visible through moisture on skin, wet clothing and condensation on camera equipment.
+No tourist infrastructure, roads, buildings or modern development visible in the deep rainforest.
+
+STORYBOARD
+
+00–04s — COLD OPEN
+
+Begin with authentic handheld selfie footage from inside a narrow wooden canoe moving through a remote Amazon river.
+The vlogger quietly addresses the camera while holding it close to his face.
+He looks excited but slightly nervous.
+He suddenly turns the camera toward the guide.
+The guide has stopped paddling and is staring toward dense vegetation on the riverbank.
+The guide raises one finger to his lips, signaling silence.
+Natural boat rocking, water movement and imperfect handheld framing.
+
+04–08s — INTO THE UNKNOWN
+
+Cut to a forward-facing handheld view from inside the moving canoe.
+The boat glides deeper into an increasingly narrow section of river surrounded by dense vegetation.
+The vlogger whispers to the camera while keeping his voice low.
+The guide carefully scans both banks.
+A strange human-sized movement briefly disappears behind vegetation far ahead.
+The camera attempts to follow it but loses the subject naturally behind leaves.
+Do not reveal the community yet.
+
+08–12s — DISCOVERY
+
+The guide suddenly stops the canoe.
+The camera moves toward him as he quietly points toward the opposite riverbank.
+On the muddy shoreline are fresh human footprints and several simple recently used objects partially concealed beneath vegetation.
+The vlogger's expression changes from excitement to uncertainty.
+He slowly lowers the camera.
+Nobody speaks for a moment.
+
+12–16s — THE SIGHTING
+
+Longer observational shot across the river.
+Through multiple layers of dense foliage, several distant human figures briefly become visible on the far bank.
+They remain very small in frame and partially obscured by vegetation.
+They do not approach the camera.
+The vlogger instinctively raises the camera to record but the guide immediately places a hand on his arm and signals him to stop filming.
+The camera lowers slightly, creating an imperfect partially obstructed view.
+
+16–20s — REALIZATION
+
+Close handheld shot of the vlogger looking toward the guide.
+The guide whispers quietly that they need to leave.
+The vlogger looks back toward the distant riverbank.
+Another figure briefly appears between the trees before disappearing.
+No dialogue explaining the tribe.
+The audience understands the significance through the characters' reactions.
+
+20–24s — RETREAT
+
+The guide slowly turns the canoe around without sudden movement.
+The wooden boat pivots naturally in the narrow river.
+The vlogger looks backward over his shoulder while keeping the camera low.
+The distant figures remain barely visible through vegetation for a moment before disappearing completely.
+The camera shakes subtly with the boat's movement.
+
+24–27s — DISTANCE
+
+The canoe moves away downstream.
+The vlogger looks directly into the camera.
+He is no longer excited; he is visibly processing what just happened.
+He quietly says:
+
+"We should leave them alone."
+
+Keep the delivery natural, understated and unscripted rather than dramatic.
+
+27–30s — FINAL IMAGE
+
+Long observational shot from inside the departing canoe.
+The camera looks back toward the distant rainforest.
+For a brief moment, one indistinct human figure stands between the trees on the riverbank.
+The figure remains far away and partially concealed.
+The canoe continues downstream until vegetation completely blocks the view.
+Cut to black.
+No victory moment.
+No chase.
+No confrontation.
+No direct contact.
+
+CAMERA SYSTEM
+
+Authentic modern travel-vlog camera language.
+Primary camera:
+handheld mirrorless / compact cinema camera operated by the vlogger.
+Mix:
+selfie-vlog framing
+handheld observational shots
+over-the-shoulder views
+long-lens distant observation
+low camera position inside the canoe
+brief environmental wides
+
+Camera should feel physically operated by a real person sitting inside a moving canoe.
+Natural hand movement.
+Small framing corrections.
+Occasional imperfect focus.
+Subtle autofocus adjustments.
+Natural motion blur.
+Minor camera shake caused by the moving boat.
+
+Do not use impossible drone transitions.
+Do not create perfectly stabilized cinematic movements.
+The camera should sometimes struggle to see through foliage.
+
+ENVIRONMENTAL PHYSICS
+
+The canoe has believable weight and displacement.
+Water reacts naturally to the paddle and hull.
+Small waves move around the canoe.
+Vegetation moves independently in the humid breeze.
+Leaves brush naturally against the canoe.
+Clothing responds to humidity and wind.
+Wet surfaces remain visibly wet.
+Water droplets occasionally accumulate on the camera lens.
+Insects move naturally through foreground and background.
+No floating objects without physical cause.
+
+HUMAN PERFORMANCE
+
+The vlogger begins naturally enthusiastic and curious.
+His behavior gradually changes when the guide signals him to stop.
+Use subtle eye movements, lowered voice, controlled breathing and hesitation.
+The guide remains calm and experienced rather than frightened.
+The guide's decision to leave is immediate but restrained.
+No screaming.
+No exaggerated fear.
+No heroic behavior.
+No theatrical reactions.
+
+VISUAL REALISM
+
+Photorealistic live-action footage.
+Authentic Amazon rainforest density.
+Natural skin texture.
+Real wet fabric.
+Real mud and water interaction.
+Subtle sweat and humidity on skin.
+Natural imperfections in clothing and equipment.
+Realistic depth separation through foliage.
+Natural atmospheric haze.
+Subtle digital sensor noise.
+Organic motion blur.
+Natural color reproduction.
+Avoid excessive HDR.
+Avoid oversaturated tropical greens.
+Avoid fantasy-jungle aesthetics.
+
+AUDIO
+
+Synchronized production audio.
+Constant Amazon rainforest ambience:
+insects
+birds
+distant animal calls
+moving water
+wind through leaves
+paddle entering water
+wooden canoe creaking
+clothing movement
+quiet breathing
+
+Vlogger's voice recorded naturally close to the camera.
+Dialogue should sound spontaneous and quiet.
+At the sighting, environmental sound becomes the dominant element.
+No dramatic musical swell during the discovery.
+No oversized Hollywood trailer effects.
+No artificial cinematic bass hits.
+
+LIGHTING
+
+Natural late-afternoon rainforest lighting.
+Soft sunlight filters through the canopy.
+Strong variations between bright patches and deep green shadow.
+Natural reflections on the river.
+Realistic exposure changes as the camera turns from the bright river toward darker vegetation.
+Occasional sun flare caused naturally by the lens.
+No artificial rim lighting.
+No studio lighting.
+
+CONTINUITY
+
+The same vlogger, guide, canoe, backpacks, clothing and camera equipment remain consistent throughout.
+The canoe's physical position, direction of travel and orientation must remain coherent.
+The river geography remains consistent.
+The same rainforest density, weather and lighting conditions continue throughout.
+The distant community remains geographically across the same riverbank.
+The figures must never suddenly appear close to the camera.
+Every shot begins from the physical state established by the previous shot.
+The final shot must clearly feel like the same continuous expedition recorded moments earlier.
+
+NEGATIVE CONSTRAINTS
+
+Do not depict a specific real isolated tribe.
+Do not use recognizable cultural identifiers from a real Indigenous community.
+Do not portray the Indigenous people as primitive, savage, threatening or supernatural.
+Do not show direct contact.
+Do not show the vlogger entering their settlement.
+Do not show confrontation or pursuit.
+Do not create weapons or threatening gestures.
+Do not use stereotypical costumes.
+Do not create fantasy or adventure-movie jungle imagery.
+No CGI appearance.
+No video-game aesthetics.
+No excessive HDR.
+No oversaturated colors.
+No impossible camera movements.
+No artificial slow motion.
+No perfectly choreographed movement.
+No beauty-filter faces.
+No subtitles or watermarks.
+
+OVERALL CREATIVE DIRECTION
+
+The film should feel like genuine expedition footage that unexpectedly becomes extraordinary.
+The first half feels like an adventurous travel vlog.
+The middle shifts into quiet uncertainty.
+The final seconds become observational and respectful.
+The emotional payoff is not "we found a tribe."
+The emotional payoff is realizing that the people being observed have their own world and choosing to leave it undisturbed.</code></pre>
+
+</details>
+
+## 29-second vertical cinematic INS-style lifestyle travel Vlog in Kenting, Taiwan
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2085957124388266274)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2499](https://imglume.com/prompt/2499)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b3c29f4f-8d3f-4f6b-88e8-7bae7e9dc93f/741b92b2-55dc-4690-81f3-4d81c342f2a9-1786182386221 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 29-second vertical 9:16 cinematic INS-style lifestyle travel Vlog in Kenting, Taiwan, featuring one identical young Asian woman throughout all 15 shots.
+
+Character Lock
+
+Same woman, same face, facial proportions, hairstyle, body shape, skin tone, makeup, and identity in every shot. Never change her face or generate a different woman.
+
+Fixed outfit throughout:
+
+- Vintage washed-denim fitted bustier top
+- Caramel-brown asymmetrical layered sheer mini skirt
+- Gray distressed buckle ankle boots
+- Light woven handbag
+- Add a vintage helmet only while riding the scooter
+
+Visual Style
+
+Bright natural Kenting summer, warm sunlight, tropical coast, blue ocean, authentic Taiwanese street life, realistic skin texture, natural micro-expressions, sea breeze, subtle handheld smartphone shake, natural exposure shifts and motion blur. Candid lifestyle footage, not commercial or studio-looking.
+
+Fast cuts; each shot has one main action. No dialogue.
+
+15 Shots
+
+01 | 0:00–0:02 — Departure
+Girl beside a vintage cream scooter on a sunny Kenting street. Looks at camera with puffed cheeks and excited expression, then puts on helmet. Handheld push-in.
+
+02 | 0:02–0:03.8 — Helmet Selfie
+Sitting on scooter, close front-camera selfie. Touches helmet, winks, pouts, then smiles. Tropical street background, slight camera shake.
+
+03 | 0:03.8–0:05.8 — Coastal Ride
+Low-angle rear tracking shot of her riding along a coastal road. Ocean, tropical plants, wind-blown hair and skirt, natural motion blur. Safe relaxed speed.
+
+04 | 0:05.8–0:07.7 — Ocean View
+Parks by the coast, removes helmet, fixes windblown hair, then looks at the ocean with a subtle smile. Warm backlight and sparkling sea.
+
+05 | 0:07.7–0:09.5 — Beach Selfie
+Close beach selfie. Squints, puffs cheeks and pouts, hair blows across face, laughs and tucks it behind her ear. Authentic phone-camera look.
+
+06 | 0:09.5–0:11.2 — Feel the Breeze
+By the sea, reaches one hand into the wind. Looks at hand, closes eyes enjoying the breeze, then smiles playfully at camera. Skirt and bag move naturally.
+
+07 | 0:11.2–0:13 — Local Snack Shop
+Enters a traditional Kenting snack shop through a fabric curtain. Peeks at camera, blinks, gestures for camera to follow. Steam creates a natural transition.
+
+08 | 0:13–0:15 — Steamed Bun
+At wooden table, picks up hot steamed bun, blows twice, takes a bite, reacts to heat, then chews with a satisfied cute expression. Visible steam.
+
+09 | 0:15–0:16.8 — Bun Reaction
+Close selfie with bun in foreground. Looks at filling, eyes widen, gives small thumbs-up and nods happily. Casual handheld feel.
+
+10 | 0:16.8–0:18.7 — Bubble Tea
+Outside drink shop, holds transparent bubble tea toward camera, takes a big sip, then smiles with puffed cheeks and satisfied eyes. Ice reflections visible.
+
+11 | 0:18.7–0:20.5 — Pearl Stuck
+Bubble tea pearl gets stuck in straw. She freezes, looks confused, taps cup, pearl suddenly comes through, then laughs with surprise.
+
+12 | 0:20.5–0:22.4 — Street Shopping
+Walks through small Kenting shops. Finds a cute straw hat, puts it on, tilts head, pretends to think seriously, then raises eyebrow and smiles.
+
+13 | 0:22.4–0:24.3 — Sunset Ride
+Golden-hour scooter ride through Kenting. Warm backlight and lens flare. She briefly looks back at camera with a playful smile, then faces forward. Safe speed.
+
+14 | 0:24.3–0:26.7 — Night Market Snack
+Night market close selfie. Takes a bite of street food, reacts because it is hot, fans mouth, then smiles and gives an enthusiastic “delicious” nod.
+
+15 | 0:26.7–0:29 — Final Selfie
+Night-market selfie with bubble tea. Holds drink beside face, pouts, winks, smiles shyly, looks at lights, turns back and gently waves. End on her natural smile with warm colorful bokeh.
+
+Sound
+
+No dialogue. Use natural ocean waves, wind, scooter engine, road noise, shop ambience, steam, food sounds, chewing, bubble-tea sipping, ice clinking, footsteps, night-market crowd noise, plus light upbeat summer music.
+
+Final Look
+
+Authentic, warm, healing Kenting summer travel diary. Natural smartphone footage, realistic skin and lighting, subtle handheld movement, candid expressions, fast-paced editing, consistent character and outfit throughout. Avoid face changes, identity changes, excessive beauty retouching, studio lighting, CGI appearance, or commercial fashion-video styling.</code></pre>
+
+</details>
+
+## Ultra-realistic Japanese coastal travel vlog
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2085942757110288502)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2489](https://imglume.com/prompt/2489)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29f45e10-1dc6-414d-a2a7-8a1c7b7fa570/3b45e220-4294-4db6-9e22-0367314d961d-1786174030870 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Scene 1 (0–3 sec)
+A beautiful young Japanese woman begins a morning adventure in a quiet coastal town. She walks beside the ocean with her smartphone in selfie mode, smiling naturally as gentle waves move behind her.
+
+Scene 2 (3–6 sec)
+She explores a small seaside fishing harbor, watches local fishermen preparing their boats, and casually records the colorful boats and peaceful morning atmosphere.
+
+Scene 3 (6–9 sec)
+She discovers a small local seafood market. She looks around curiously, interacts naturally with a friendly vendor, and receives a freshly prepared local snack.
+
+Scene 4 (9–12 sec)
+She walks through a narrow traditional Japanese street lined with small wooden houses and shops. She stops at a tiny souvenir store and picks up a handmade ceramic item.
+
+Scene 5 (12–15 sec)
+She continues toward a rocky coastline and carefully walks along a scenic ocean path. The camera captures waves crashing against the rocks while she films the view.
+
+Scene 6 (15–18 sec)
+She reaches a quiet hidden beach. She removes her shoes, walks along the wet sand, and lets the ocean water touch her feet while laughing naturally toward the camera.
+
+Scene 7 (18–21 sec)
+She sits at a small outdoor seaside café, enjoys an iced matcha drink and a light dessert, and casually talks to the smartphone camera.
+
+Scene 8 (21–24 sec)
+Golden-hour sunlight begins to cover the coastline. She walks toward a small lighthouse on a hill, filming the glowing ocean and surrounding scenery.
+
+Scene 9 (24–27 sec)
+At sunset, she stands near the lighthouse overlooking the ocean. Her hair moves gently in the sea breeze as she watches the sun disappear below the horizon.
+
+Scene 10 (27–30 sec)
+Final selfie shot. She turns toward the camera, smiles brightly, waves goodbye and says: “What a beautiful day. See you on my next adventure. Bye!”
+
+Overall style: Ultra-realistic Japanese smartphone travel vlog, same beautiful Japanese woman and consistent appearance throughout, natural handheld phone footage, realistic human movement, authentic facial expressions, real ocean ambience, waves, wind and distant harbor sounds, cinematic natural lighting, realistic colors, documentary-style travel footage, no artificial movements, no text, no subtitles, no watermark.</code></pre>
+
+</details>
+
+## Ultra-realistic luxury travel vlog on a tropical beach resort
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2085954895908319392)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2483](https://imglume.com/prompt/2483)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/19350f61-816d-49d8-a3a2-b1799215317f/d1d92fee-7eb5-4ed1-a30e-ec9035238e00-1786173981047 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 15-second ultra-realistic luxury travel vlog following a young woman exploring a breathtaking tropical beach resort. She strolls along a wooden boardwalk toward a private cabana, relaxes with a fresh coconut while sharing her experience with the camera, walks barefoot along the shoreline as gentle waves roll in, and finishes the day on a palm tree swing overlooking the crystal-clear ocean. Smooth drone and gimbal cinematography, authentic lip-sync, natural facial expressions, realistic ocean and wind physics, premium resort architecture, warm tropical sunlight, shallow depth of field, subtle film grain, ARRI Alexa 35 aesthetic, DSLR-quality visuals, 4K HDR, seamless character consistency, luxury travel commercial style, no text, no logos.</code></pre>
+
+</details>
+
+## 大理洱海 30 秒旅行 Vlog 视频 Prompt
+
+- **Original source:** [@joshesye on X](https://x.com/joshesye/status/2085666281030869392)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2479](https://imglume.com/prompt/2479)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9a269dd1-9153-4dd2-82f0-02353cd36ae3/bc2dff03-bcfa-4e1c-b810-7e1e8507e4bc-1786169810938 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9a269dd1-9153-4dd2-82f0-02353cd36ae3/837264a3-4b49-4dd2-9091-24ef88f54804-1786169810938 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>基础设定：基于这张分镜故事板的信息，生成一段充满日式电影美学与叙事感的 粉色罐装气泡水专业商业广告。仅生成0-30秒的画面内容
+
+风格设定：
+视觉基调： 现代日式青春电影美学，模拟 120 中画幅胶片（Medium Format Film） 的通透空气感，或数字电影机加装 柔光滤镜（Black Pro-Mist） 的纯净质感。画面干净，颗粒感极弱。
+光影色调：高调逆光（High-key Backlight） 与漫反射环境光。高光轻微溢出（Bloom/Halation），呈现柔和的樱花粉与阳光白；暗部保留通透的冷青色（Cyan-blue）。整体呈现低对比度、低饱和度的日系治愈调色。
+不要生成背景音乐，仅生成音效。
+
+画面内容：生成一段 30 秒、16:9 竖屏、真实朋友手持拍摄的云南旅行 Vlog。
+
+以参考图中的女性为主角，在整个视频中保持她的面部特征、发型、五官、肤色、身材比例和自然表情一致。不要改变身份，不要换脸，不要变成其他人。主角穿着适合云南旅行的清爽日常穿搭，可以是浅色短袖或薄衬衫、休闲长裙或牛仔短裤、舒适运动鞋，背一个小背包。整体气质自然放松，像真实游客，不是模特摆拍。
+
+视频质感是朋友拿手机全天跟拍的真实旅行 Vlog。画面有自然手持运镜、随意构图、轻微晃动、偶尔对焦不完美、真实抓拍感。不要商业广告质感，不要电影大片感，不要夸张转场，不要人工特效。主角举止自然，像真实旅行中和朋友互动，偶尔看镜头、笑、整理头发、拿手机拍照、走路、停下来观察风景。
+
+0–5 秒：清晨从云南大理的民宿出发。主角背着小背包，从带木门、白墙、绿植和院落感的温馨民宿走出来。她低头查看手机路线，然后抬头对着朋友的镜头自然微笑，随手整理头发，向巷子外走去。镜头从后方和侧后方跟拍，有朋友手持拍摄的轻微晃动。画面里有清晨柔和阳光、安静石板路、白族风格建筑、街边绿植和刚开门的小店。环境声包括鸟叫、远处人声、脚步声和清晨街道声音。
+
+5–11 秒：大理古城街道探索。镜头跟随她在古城街道慢慢走。两侧有白墙灰瓦、木质招牌、鲜花、小咖啡馆、云南小吃店和游客。她走进一家小咖啡馆或街边饮品店，买一杯饮料，接过饮料时自然地笑。她对着镜头简单说一句中文：“今天先去洱海。”然后继续走过街头小店，停下来拍一张照片，低头看相机预览，又忍不住笑。镜头保持近距离，捕捉不经意的真实瞬间，不要摆拍。
+
+11–18 秒：前往洱海。环境从古城街道自然过渡到洱海边的公路和开阔湖景。主角坐在电动车后座或步行来到洱海边，海风吹动她的头发。她第一次看到洱海时明显变得兴奋，回头看向镜头笑，然后快步走向湖边。镜头跟随她走在洱海生态廊道上，旁边有蓝色湖面、远处苍山、白色栏杆、树影和骑行的人。她停下来望向湖面，拿手机拍照，手扶栏杆，表情自然放松。环境声有风声、湖水声、自行车经过声和远处游客说话声。
+
+18–24 秒：喜洲稻田和白族村落午后。镜头切到阳光下的稻田小路，主角和朋友一起走在田边。背景有绿色稻田、白族民居、远山、蓝天和慢慢移动的云。她蹲下看路边小花，起身时回头对镜头笑。她和朋友在村口小摊买当地小吃，边走边吃，表情真实轻松。镜头在人群和小巷之间自然移动，偶尔轻微晃动，像朋友随手记录旅行片段。不要刻意设计动作，不要夸张表演。
+
+24–30 秒：洱海日落结束时刻。金色傍晚，主角坐在洱海边或湖边长椅上，手里拿着饮料，安静看日落。湖面有细碎波光，远处是苍山轮廓和晚霞。朋友的镜头从她侧后方慢慢后退，先拍到她的侧脸和被风吹动的头发，再带出洱海、天空和宁静傍晚景色。最后她回头看向镜头，轻轻笑一下，说一句中文：“云南真的好舒服。”画面停留在真实旅行回忆感上，温暖、松弛、自然。
+
+视觉风格：真实个人旅行 Vlog 素材，像智能手机或小型无反相机拍摄。自然日光，真实曝光，轻微手持晃动，随意构图，真实真人反应，纪录片式写实风格。不要电影商业质感，不要精致广告大片感，不要刻意摆拍姿势，不要人工转场特效，不要文字叠加，不要 Logo，不要水印。
+
+全程保持参考图女性的面部身份、发型、五官、肤色、身材比例和自然表情一致。不要换脸，不要变成其他女性，不要过度美颜，不要二次元，不要网红滤镜感。全程无字幕、无背景音乐，仅保留真实环境声、脚步声、风声、人声、市集声、湖水声、鸟叫声和朋友拍摄时的自然声音。</code></pre>
+
+</details>
+
+## Maldives Travel Blog
+
+- **Original source:** [@underwoodxie96 on X](https://x.com/underwoodxie96/status/2085672413354922204)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2461](https://imglume.com/prompt/2461)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b24ac83-b28a-45bd-9dc7-3931cbf3fa8a/6f25e548-9267-484e-9e88-fd3c3a4e0e25-1786140394995 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 15-second vertical 9:16 Maldives bikini vacation travel vlog. The footage is filmed on a smartphone by a friend following the same adult Asian woman. It should feel like an authentic personal vacation memory posted on social media, not a commercial advertisement or a staged fashion shoot. Use natural handheld camerawork, subtle movement from the camera operator’s footsteps, and casual but attractive everyday framing. The visual mood is bright, dreamy, relaxed, and romantic, dominated by creamy white, pale gold, and transparent Tiffany blue. Use natural sunlight, realistic skin tones, crystal-clear water, fine white sand, subtle smartphone lens flare, and gentle handheld breathing motion. Subject lock: the same adult Asian woman, approximately 25 years old, with long slightly wavy black hair, healthy natural body proportions, and light natural makeup. Throughout the entire video, she wears the same ivory-white bikini, the same lightweight semi-sheer white sarong tied around her waist, simple shell earrings, and no shoes. Strictly preserve the same facial identity, hairstyle, body proportions, clothing colors, and accessories. She naturally enjoys the vacation and occasionally smiles toward her friend’s camera without performing exaggerated fashion poses. [00:00-00:04] Morning inside a Maldives overwater villa bedroom. From a medium following shot behind her, film the woman walking barefoot toward a floor-to-ceiling window and opening the white sheer curtains with both hands. Warm morning sunlight enters the room, suddenly revealing an endless turquoise, crystal-clear ocean and a wooden deck outside. The ocean breeze moves the curtains, her long hair, and her sarong. The smartphone lens produces a subtle natural flare as it faces the sunlight. The friend filming moves one step closer. End with the woman standing at the window and looking toward the sea, her right hand still lightly holding the curtain. [00:04-00:08] Continue in the same direction as she faces the ocean. Cut to a following angle behind and slightly to her left on the overwater deck. She walks lightly along the wooden boardwalk toward the sea, her bare feet touching the wood while the breeze naturally lifts her hair and sarong. The camera rises and falls subtly with the operator’s footsteps. At the end of the walkway, she looks back toward the friend filming and gives a relaxed, natural smile, then extends her right foot toward the steps leading into the sea. End with her right foot suspended above the first step and her body still facing the ocean. [00:08-00:12] Continue the downward movement of her right foot. From a low, close angle, film her entering the crystal-clear shallow sea. When her right foot touches the water, it creates a small realistic splash and expanding ripples. Refracted sunlight produces moving patterns across her legs. The camera operator remains on the steps and slowly moves closer. She walks until the water reaches her knees, brushes her right hand across the surface, and looks back toward the camera with a smile. End with her standing in the water, facing the sunset direction, her right hand still close to the surface. [00:12-00:15] Golden-hour sunset. Make a natural cut to a wooden swing beside the white-sand beach. Wearing exactly the same outfit, she sits on the swing and lightly holds both ropes. The swing moves gently forward in response to her body weight while the sea breeze lifts her long hair and white sarong. The camera slowly moves backward from behind and to her side, revealing the orange-pink sky, calm ocean, and golden sunset reflection. During the final second, she looks back toward the friend filming and gives a soft, peaceful smile. Hold on a screenshot-worthy final composition containing the woman, the swing, the sunset, and the golden reflection across the sea. Use only authentic environmental sound: gentle waves, ocean breeze, bare feet on wood, shallow-water splashes, distant seabirds, and a very soft natural laugh. No dialogue, no narration, no subtitles, and no embedded music. Continuity requirements: preserve the same face, hairstyle, body proportions, ivory-white bikini, white sarong, and accessories throughout the video. Maintain consistent movement direction and connect the ending action of each segment to the next. Water splashes, hair, fabric, waves, and swing movement must show believable weight, inertia, and wind response. Avoid identity or wardrobe changes, distracting extra people, malformed hands or limbs, unmotivated teleportation within shots, and any text, watermark, logo, or overly commercial posing.</code></pre>
+
+</details>
 
 ## 30-second ultra-realistic cinematic travel vlog of a young woman
 

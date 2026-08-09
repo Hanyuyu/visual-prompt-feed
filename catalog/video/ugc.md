@@ -1,9 +1,115 @@
 # UGC video prompts
 
-33 source-linked prompts, newest ImgLume records first.
+36 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld cooking vlog in a warm kitchen – Seedance 2.5 video prompt
+
+- **Original source:** [@AnatoliKopadze on X](https://x.com/AnatoliKopadze/status/2086063513907171692)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [2526](https://imglume.com/prompt/2526)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b02a6652-e548-4c03-9a2a-658bab2c386b/45041002-be5c-4e5e-8f59-6c70edcbc5df-1786203427953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her propping the camera against a jar of flour on the kitchen counter, shooting her from a three-quarter angle as she cooks. She picks it up for close-ups of the food, then sets it back. The camera gets flour dust on the lens at one point — she wipes it with her sleeve and keeps going. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing when something sizzles, exposure breathing between the dark counter and the bright stove, and imperfect framing throughout. The camera itself is never visible.
+
+LOOK: Warm kitchen lighting — a single overhead fixture casting yellowish light, the stove adding a bright warm glow on the food. Steam and smoke catch the light. Gentle film grain heavy in the shadows, slightly softened sharpness, subtle halation from the stove flame. Her face is warm and golden. It should feel like authentic footage from someone's everyday life rather than a polished commercial.
+
+STYLE: A comfortable, slightly chaotic cooking vlog. She talks to the camera like a friend is in the room. Small laughs, pauses, fixing her hair, wiping her hands on the apron, tasting and reacting. She makes small mistakes and laughs at herself. She speaks in short, natural sentences with frequent pauses. Never rush dialogue. Leave quiet moments between lines.
+
+CHARACTER: A beautiful woman in her late 20s. Long dark brown hair tied back in a low messy bun with a kitchen towel over her shoulder, warm olive skin, brown eyes, no makeup. She wears a cream-colored linen shirt with the sleeves rolled up and a dark green apron. Flour on her cheek. Natural, relaxed, a little messy.
+
+SETTING: A small home kitchen in the evening. White tile counter, a gas stove with a well-used pan, a cutting board with onions and garlic, a jar of flour, a wooden spoon, a glass of red wine. The overhead light is the only source. A window above the sink shows darkness outside. Intimate and slightly cluttered.
+
+SCENES:
+
+The vlog opens with the camera propped against a flour jar. She chops an onion, eyes watering.
+"I don't know why I keep doing this to myself."
+She wipes her eye with the back of her wrist. Picks up the camera, holds it close to the cutting board.
+"Look. The onion won."
+Sets it back. Pours olive oil into the pan. It sizzles loud. She jumps.
+She adds the onion. Steam rises into the light. She stirs.
+"Okay that smells better."
+She sips from a glass of wine. Looks at the camera.
+"Don't judge."
+She adds garlic. It sizzles harder. She moves the pan off the heat.
+"Too hot. Always too hot."
+She picks up the camera, selfie mode, flour on her cheek. She hasn't noticed.
+"It's going to be fine. Probably."
+She tastes from the wooden spoon, winces, then nods.
+"Okay. Yeah. It's good."
+Flour dust on the lens. She wipes it with her sleeve. A smile. The frame goes dark. Cut.</code></pre>
+
+</details>
+
+## 30-second vertical AI UGC product commercial for premium coffee machine
+
+- **Original source:** [@SadiaMalik182 on X](https://x.com/SadiaMalik182/status/2085947010293883115)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2477](https://imglume.com/prompt/2477)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d0c420a7-29f3-4f9a-b48b-bfac782ca1ac/53be509a-ba7f-409c-902f-b40f73c6b8fe-1786169746332 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second vertical AI UGC product commercial (9:16) for a premium coffee machine.
+
+Style: Ultra-realistic, cinematic, social-media UGC, premium lifestyle, 4K HDR, natural lighting, smooth handheld camera, realistic human motion, luxury color grading.
+
+Scene 1 (0–5s)
+A creator walks into a modern kitchen holding a coffee mug and says, "I finally tried this coffee machine."
+
+Scene 2 (5–10s)
+Close-up shots of opening the coffee bean container, adding beans, filling water, and pressing the power button. Natural hand movements and satisfying button clicks.
+
+Scene 3 (10–17s)
+Macro shots of coffee grinding, rich crema forming, steam rising, and coffee slowly pouring into a glass cup. Beautiful golden morning sunlight.
+
+Scene 4 (17–23s)
+The creator takes the first sip, smiles naturally, and says, "This honestly tastes amazing."
+
+Scene 5 (23–27s)
+Premium product showcase with smooth orbit shots, close-ups of the controls, metallic finish, and elegant kitchen background.
+
+Scene 6 (27–30s)
+Hero shot of the coffee machine beside a fresh cup of coffee with soft cinematic lighting. End with the creator holding the cup and smiling at the camera.
+
+Requirements:
+Vertical 9:16, 30 seconds, AI UGC style, realistic creator vibe, premium product advertising, natural expressions, realistic hands, smooth camera movement, clean transitions, cinematic quality, no logos or watermarks.</code></pre>
+
+</details>
+
+## ATELIER INK 12 CORE colors product showcase video
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2085741118369792221)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2452](https://imglume.com/prompt/2452)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9f6df536-440e-40ed-91ea-cf146503c50e/421cd9b2-a58f-42e2-844b-7491a5a0be13-1786123596752 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shot on iPhone front camera, natural HDR, slight exposure shifts, real skin tones, authentic UGC creator energy, warm indoor natural light
+A bright casual room — warm natural light from the side, a clean desk surface with the ATELIER INK 12 CORE colors set in its clear transparent plastic case, the colorful marker caps visible through the case walls, a white sketchpad open beside it. A young woman sits close to the front camera, relaxed and natural, speaking slowly and genuinely.
+Action and dialogue sequence:
+She picks up the full ATELIER INK clear case with both hands and holds it up to the front camera, the 12 colorful caps facing the lens, the label readable. She looks at it for a beat — then at the camera: "Okay I need to show you these." She sets the case down, pulls out the green G04 marker, uncaps it slowly, sniffs the tip, pauses. Looks at camera: "Why does it smell like that." Genuine. Unhurried.
+She opens the sketchpad and draws a slow deliberate star with the green marker. Holds the paper up to the lens. Says nothing for a beat — just lets the color speak. Then quietly: "That color is insane." She picks up the cobalt blue B17, draws beside the green. Holds it up again. "The pigment is so good."
+She sets the paper down. Looks directly into the camera. Taps the marker cap slowly against her lip. One breath. Then: "Honestly — if you draw, if you doodle — just get these." She lifts the full clear case up to the lens, all 12 caps facing camera. Holds it there. Smiles slowly. Says nothing.</code></pre>
+
+</details>
 
 ## Low-quality iPhone style purikura booth video with subject from Image1
 

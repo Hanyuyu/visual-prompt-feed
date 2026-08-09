@@ -1,9 +1,237 @@
 # Camera Moves video prompts
 
-56 source-linked prompts, newest ImgLume records first.
+62 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic delivery-rider story with orange brand identity
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2086051510929309837)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2516](https://imglume.com/prompt/2516)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd338176-a244-482b-9f52-e64893c29bf5/57eb7b36-7339-4d53-846d-816571d945a3-1786195023033 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic delivery-rider story with a strong orange brand identity. She wears a professional orange delivery jacket, orange helmet, dark fitted cargo pants, practical sneakers, and an orange delivery backpack. Her scooter/motorbike is also orange with subtle matching details. Keep the same outfit, bike, helmet, and backpack consistent in every scene.
+The video opens with her relaxing at home when her phone suddenly receives a new food-delivery order. She checks the notification, quickly grabs her orange helmet and delivery bag, and heads outside with a focused but energetic expression.
+She starts her orange scooter, pulls onto a busy city street, and navigates through realistic traffic. Use dynamic tracking shots, helmet-mounted POV, low-angle wheel shots, side tracking shots, and close-ups of her focused face and hands controlling the bike.
+She checks her watch while stopped safely at a traffic signal, realizes she needs to move quickly, and continues through the city. Show her arriving at the restaurant, parking the scooter, rushing inside, and receiving a freshly packed food order from the staff.
+She secures the package inside her orange delivery bag and immediately rides toward the customer's location. Show fast-paced but safe city movement, changing streets, traffic, sunlight reflections, and realistic urban atmosphere.
+She arrives at the destination, quickly removes her helmet, grabs the delivery bag, and walks toward the customer. She hands over the food with a warm smile, checks her phone showing the completed delivery, and looks relieved and proud.
+Finish with a cinematic hero shot of her getting back onto the orange scooter and riding away through the glowing city street as the camera follows from behind.
+Style: Premium cinematic commercial, realistic delivery-rider lifestyle, energetic storytelling, strong orange-and-black visual identity, natural expressions, realistic traffic, authentic urban environments, dynamic handheld and gimbal camera movement, dramatic low angles, POV shots, shallow depth of field, realistic motion blur, physically accurate lighting, detailed fabric and vehicle textures, photorealistic 4K HDR, polished brand-film quality.</code></pre>
+
+</details>
+
+## Premium K-pop music video with ultra‑realistic stage performance
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2086016633479520749)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2506](https://imglume.com/prompt/2506)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e306db5d-404d-47c8-ab71-a21b628cda46/c4fe0b80-9bb7-4aca-86e9-bd6e07ecb83a-1786186576665 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Premium K-pop music video, cinematic, ultra-realistic, luxury beauty commercial aesthetics, fast-paced editing, IMAX-quality cinematography, dynamic camera movement, dramatic stage lighting, crisp skin details, soft beauty lighting, no dialogue, high-energy K-pop instrumental, 4K HDR.
+
+Character: STRICT FACE LOCK — Use the exact facial features from the reference image without any changes. Maintain the same eye color, face shape, nose, lips, freckles, hairstyle, hair color, skin tone, and identity throughout every shot.
+
+0:00–0:03 | Glam Room
+
+Extreme close-ups of makeup brushes sweeping across her cheeks, eyeliner being applied, lipstick touch-up, hair stylist fixing loose strands, earrings clipped on. Camera rapidly cuts between macro beauty shots, mirror reflections, makeup products, and confident eye contact. Flash transitions sync with the beat.
+
+0:03–0:07 | Backstage Energy
+
+She confidently walks through a busy backstage corridor while stylists, dancers, and crew rush past. A stylist adjusts her jacket mid-walk, another hands her a microphone. Fast tracking shots, whip pans, low-angle hero shots, dramatic blue and pink lighting, quick slow-motion hair flip before continuing forward.
+
+0:07–0:11 | Stage Entrance
+
+The countdown reaches zero. Massive LED screens illuminate. She grabs the microphone, takes a deep breath, and confidently walks through giant stage curtains. Powerful backlight silhouettes her as smoke cannons fire and the crowd erupts. The camera circles around her in one smooth cinematic motion before revealing the huge arena.
+
+0:11–0:15 | Main Character Moment
+
+She steps to center stage beneath dazzling spotlights. Wind machines lift her hair as confetti begins to fall. She strikes a powerful idol pose, makes direct eye contact with the camera, and gives a confident smile. The camera rapidly pulls back to reveal thousands of glowing light sticks filling the stadium before cutting to black on the final beat.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic vertical video of a Korean woman in a cozy bedroom
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2085931701088174312)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2497](https://imglume.com/prompt/2497)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fc509287-e04f-4db7-a305-12d6154a1431/09515aa6-aa5d-414b-aedb-1bf7accc1d22-1786178186364 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman spends a peaceful evening in her cozy bedroom, wearing the same oversized cream-white T-shirt. Soft warm lamp light mixes with cool moonlight coming through the window, creating a calm late-night atmosphere. The video is filmed entirely as natural handheld smartphone selfies, like a personal vlog.
+
+Shot 1 (0–2s): Close front selfie. She looks out the window for a moment, then turns toward the camera with a gentle smile and softly tucks a strand of hair behind her ear.
+
+Shot 2 (2–4s): Slightly high-angle selfie. She sits on the bed hugging a fluffy pillow, tilts her head playfully, then smiles with a natural blink while the phone gently shakes.
+
+Shot 3 (4–6s): Mirror selfie. She slowly walks toward a full-length mirror, briefly looks at her reflection, then smiles at the phone with relaxed confidence. Warm fairy lights softly glow in the background.
+
+Shot 4 (6–8s): Side-profile selfie near the bedside table. She picks up a small photo frame, smiles nostalgically, then looks back into the camera with a subtle laugh. Her hair sways naturally as she moves.
+
+Shot 5 (8–10s): Front close-up selfie. She leans comfortably against the headboard, gives a tiny finger-heart toward the camera, then finishes with a warm smile while the camera slowly pulls away, revealing the cozy bedroom ambiance.
+
+Style: Ultra-photorealistic, realistic Korean beauty, authentic smartphone handheld movement, natural blinking, subtle breathing, lifelike hair simulation, soft warm lamp lighting with gentle moonlight, cinematic shallow depth of field, premium film color grading, 24 fps, 8K, intimate cozy Korean bedroom aesthetic.</code></pre>
+
+</details>
+
+## Seedance 2.5 Morning Routine Shot List
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2085943905577734483)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2481](https://imglume.com/prompt/2481)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0668f4e2-b149-4db9-9298-c6369de68725/fc3ae68c-84cb-47ca-9d23-c9b86695cfca-1786173950335 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SHOT 1: ECU, 85mm push-in / on the phone screen as it shakes on rumpled sheets / SFX: alarm, sheet rustle.
+
+SHOT 2: WS, 35mm handheld jolt / Rhythmic cut into her jolting upright through side light, throwing the blanket aside, and planting her feet on the floor in one rushed motion, still in a sleep tee and lounge shorts / SFX: mattress bounce, blanket whip, sharp breath.
+
+SHOT 3: MCU, 50mm slide / Cut on action into face wash at the sink, droplets catching the top light / SFX: faucet rush, water slap.
+
+SHOT 4: Insert shot, 85mm lens focus / Match cut into the toothbrush held at a natural forward brushing angle against the front teeth; hand relaxed and upright, mint foam and mirror eye / SFX: bristle scrape, sink drip.
+
+SHOT 5: Interior fridge view, 24mm wide / Object pass into the camera inside the fridge looking out as the door snaps open and her hand darts in, blue light framing a hurried grab for breakfast ingredients / SFX: fridge hum, bottle clink, shelf scrape.
+
+SHOT 6: Insert shot, 50mm handheld / Rhythmic cut into egg and toast hitting the pan under warm practical light / SFX: butter sizzle, chop tap.
+
+SHOT 7: MCU, centered 50mm push-in / Match cut into one rushed bite, a quick clock glance, and an immediate rise from the chair / SFX: crunch, ceramic clink, chair scrape.
+
+SHOT 8: Bird’s-eye, 35mm overhead / Match cut on action as the sleep tee disappears under a fitted top and tailored jacket; then her keys, transit card, and bag get scooped up in one messy grab / SFX: fabric whip, key jingle, zipper pull, bag rustle.
+
+SHOT 9: MS, 35mm pan / Camera slips into a rushed outfit change as the sleep tee disappears under a fitted top and tailored jacket; then her keys, transit card, and bag get scooped up in one messy grab / SFX: fabric whip, key jingle, zipper pull, bag rustle.
+
+SHOT 10: Insert shot, 50mm overhead / Match cut into lace-up shoes slamming on as the laces yank tight in one impatient pull / SFX: sole thump, lace tug, short breath.
+
+SHOT 11: WS, 24mm parallel / Whip pan transition into her, now in the tailored outside outfit, rushing through the apartment corridor into bright light without breaking stride / SFX: latch click, rapid footsteps, hallway air.
+
+SHOT 12: MS to CU, 35mm glide, 85mm push-in / Sound bridge into the metro interior as she grips the pole and slips through just before the closing doors, reflected chrome streaking around her and the city blurring outside / SFX: train rattle, carriage screech, door warning chime, light breath.
+
+SHOT 13: Insert to MCU, 50mm snap zoom / Smash cut to the office entrance as her access card hits the reader, the glass door unlocks, and she slips through before dropping into her chair and opening her laptop / SFX: badge beep, door click, laptop chime.
+
+SHOT 14: OTS, 35mm handheld / Rhythmic cut into her fingers racing across the keyboard with blue monitor light illuminating her face / SFX: keyboard clicks, notification sounds, mouse click.
+
+SHOT 15: WS, 24mm pull-out / Match cut back to the bedroom composition from the opening shot as she collapses onto the bed after a long day / SFX: body drop, fabric rustle, heavy exhale.</code></pre>
+
+</details>
+
+## Escape the Infected
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2085677344422039989)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2475](https://imglume.com/prompt/2475)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/360c1e1f-2fb7-45bb-b213-27df512af53d/9ab231be-cd38-444f-b7fe-9b96885a63bd-1786165559118 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA
+Third person cinematic tracking camera with ultra realistic handheld movement. The camera follows closely behind the survivor with natural operator shake, realistic running vibrations, subtle motion blur, occasional whip pans, and authentic lens breathing. Every shot feels like a real cameraman sprinting through the building while trying to keep up. Smooth but imperfect movement with believable inertia.
+
+LOOK
+Ultra photorealistic survival horror. Gritty abandoned office interiors illuminated by flickering fluorescent lights and emergency exit signs. Volumetric dust, realistic shadows, cinematic contrast, subtle film grain, HDR lighting, physically accurate materials, damp concrete floors, broken glass, smoke drifting through hallways.
+
+STYLE
+Grounded Hollywood survival thriller. Claustrophobic, tense, immersive, fast paced, realistic. Inspired by modern zombie films without stylized action or exaggerated cinematography.
+
+CHARACTER
+@Image1
+
+A terrified young American woman in her early 20s with long messy black hair, pale skin, expressive brown eyes, and natural features. She wears oversized dark streetwear consisting of a loose black hoodie, baggy cargo pants, and worn sneakers. Sweat covers her face, her hair sticks to her forehead, and her breathing is heavy from exhaustion. She remains the exact same person with identical clothing, hairstyle, facial features, proportions, and accessories throughout every shot.
+
+SETTING
+A massive abandoned office building with endless corridors, shattered glass partitions, overturned desks, scattered paperwork, abandoned elevators, emergency stairwells, exposed ceiling pipes, flickering fluorescent lights, smoke filled hallways, damaged ceiling tiles, and dim emergency lighting.
+
+ZOMBIES
+Dozens of aggressive infected humans with pale skin, torn office clothing, blood stains, frantic sprinting animations, violent movements, and realistic anatomy. They move with terrifying speed while remaining physically believable. No mutations, monsters, or fantasy creatures.
+
+STORYBOARD (15s, 6 cuts)
+
+(~0 to 2.5s, Rear Tracking)
+The camera races closely behind the survivor as she sprints through a long abandoned office corridor. Emergency lights flash overhead while her heavy breathing echoes through the empty building. Zombie screams and pounding footsteps grow louder behind her. Natural handheld camera shake from the operator running.
+
+(~2.5 to 5s, Front Tracking)
+The camera runs backward in front of her, capturing genuine panic on her face. Tears mix with sweat as she gasps for air. Behind her, dozens of infected burst through shattered office doors and flood into the hallway, knocking over furniture while closing the distance.
+
+(~5 to 7.5s, Side Tracking)
+The camera keeps pace beside her as she crashes through an open office, weaving around overturned desks and broken chairs before vaulting over a fallen filing cabinet. The infected climb over furniture, smash through glass partitions, and continue chasing only a few meters behind.
+
+(~7.5 to 10s, Over the Shoulder)
+The camera shifts just behind her shoulder as she slams open a heavy fire door into a dim concrete stairwell. The infected swarm through the doorway behind her, their screams echoing throughout the building while footsteps thunder down the stairs.
+
+(~10 to 12.5s, Close Tracking)
+She bursts into another corridor lined with abandoned cubicles and flickering fluorescent lights. An infected suddenly lunges from a side office, barely missing her before crashing violently into a wall. The camera jolts realistically as the operator narrowly avoids the collision while continuing the chase.
+
+(~12.5 to 15s, Wide Tracking)
+The survivor reaches a reinforced security door and throws herself through before slamming it shut. Seconds later, the infected horde crashes into the metal door with overwhelming force. The door rattles violently as dozens of hands pound against it. Dust falls from the ceiling while she collapses against the door, breathing heavily. The camera slowly pulls back as the pounding continues. Cut to black.
+
+CONSISTENCY RULES
+Maintain the exact same female survivor, clothing, hairstyle, facial features, body proportions, and accessories throughout every shot. Keep the same abandoned office building layout, lighting, debris, and atmosphere. Zombies must remain consistent in appearance and behavior. Camera movement must always feel handheld and physically believable. Running speed, lighting direction, shadows, and environmental details remain continuous across all cuts.
+
+NEGATIVE PROMPTS
+Male survivor, outdoor scenes, daylight, streets, cars, first person POV, drone shots, floating camera, superhero action, slow zombies, cartoon style, anime, CGI appearance, AI artifacts, duplicated characters, deformed anatomy, mutated monsters, impossible building layouts, unrealistic explosions, magical effects, excessive gore, text overlays, subtitles, logos, watermarks, inconsistent clothing, changing hairstyles, changing faces.</code></pre>
+
+</details>
+
+## Seedance 2.5 wingsuit descent
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2085739923475222853)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2454](https://imglume.com/prompt/2454)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51c90425-a4af-496b-8e3c-d634dc7ce721/c370ee0e-2499-4518-afc6-83dbf19276f5-1786123659041 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[STYLE + CAMERA + ATMOSPHERE]
+Gritty, raw handheld 35mm film aesthetic with natural film grain. Harsh direct sunlight creating high-contrast shadows over the NYC skyline. Continuous single-take handheld tracking shot (3rd-person / over-the-shoulder) with no cuts. Atmosphere: high-altitude wind, realistic urban canyon physics, sudden wingsuit deployment. Audio: heavy rhythmic breathing, intense wind howl, fabric snap of wingsuit opening, high-speed air rush between buildings, near-miss whooshes, soft landing roll, street noise, final bite sounds.
+
+[IMAGE REFERENCES]
+Use the provided image as the single strict visual reference for the male character. Exact face, full dark beard, black North Face cap, black sunglasses, white “JUSTFORBALLERS” t-shirt. He wears a backpack at the start. Body proportions, posture and clothing locked from the reference.
+
+[TIMELINE SECOND BY SECOND]
+0-3s: [Handheld medium] Bearded man in white t-shirt, black cap, sunglasses and backpack stands on the edge of a NYC skyscraper rooftop. He looks straight into the camera with calm intensity, then turns and launches into a clear, controlled forward somersault in slow motion as he leaves the roof.
+3-5s: [Continuous freefall] He completes the somersault and falls head-first. At exactly 1.5 seconds into the fall he deploys his wingsuit with a sharp snap. The wingsuit inflates fully and he levels out.
+5-12s: [High-speed tracking] Camera stays locked behind him as he rockets at full speed through the urban canyons of midtown Manhattan. He weaves tightly between skyscrapers, banking hard left and right, glass facades and windows streaking past at extreme velocity.
+12-18s: [Low-level chaos] He drops lower, flying just above street level. He almost collides with a yellow taxi that suddenly turns the corner, banks hard to avoid it, then narrowly misses a delivery van. He dips under a traffic light and threads between two buses.
+18-23s: [Street-level action] Still flying extremely low, he dodges a startled cat that bolts across the sidewalk, skims past a group of pedestrians who scatter, and banks sharply to avoid an open truck door. The camera stays locked behind him through every near-miss.
+23-26s: [Landing] He flares the wingsuit hard, touches down with both feet on the sidewalk and immediately rolls forward to kill the speed. He stands up, peels off the wingsuit in one fluid motion and drops it on the ground beside him.
+26-28s: [Street level] He walks a few steps still wearing the backpack and stops right in front of a classic NYC hot-dog cart. The vendor hands him a steaming hot dog fresh off the grill.
+28-30s: [Close continuous] He turns, looks directly into the camera, takes a big bite of the hot dog and chews with a satisfied expression as the shot holds.
+
+[STYLE &amp; QUALITY BOOSTERS]
+Photorealistic 8K, ultra-detailed textures, cinematic lighting, perfect motion blur, high dynamic range, coherent physics (fabric, air, wingsuit, impact, roll, near-misses), stable character from the reference, realistic urban reflections and wind, no artifacts, movie-level stability, pure single continuous take.</code></pre>
+
+</details>
 
 ## Handheld documentary style bedroom montage of a woman with cat, phone call, and dinner
 

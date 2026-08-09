@@ -1,9 +1,70 @@
 # Food Drink video prompts
 
-31 source-linked prompts, newest ImgLume records first.
+33 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld cooking vlog in a warm kitchen – Seedance 2.5 video prompt
+
+- **Original source:** [@AnatoliKopadze on X](https://x.com/AnatoliKopadze/status/2086063513907171692)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [2526](https://imglume.com/prompt/2526)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b02a6652-e548-4c03-9a2a-658bab2c386b/45041002-be5c-4e5e-8f59-6c70edcbc5df-1786203427953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her propping the camera against a jar of flour on the kitchen counter, shooting her from a three-quarter angle as she cooks. She picks it up for close-ups of the food, then sets it back. The camera gets flour dust on the lens at one point — she wipes it with her sleeve and keeps going. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing when something sizzles, exposure breathing between the dark counter and the bright stove, and imperfect framing throughout. The camera itself is never visible.
+
+LOOK: Warm kitchen lighting — a single overhead fixture casting yellowish light, the stove adding a bright warm glow on the food. Steam and smoke catch the light. Gentle film grain heavy in the shadows, slightly softened sharpness, subtle halation from the stove flame. Her face is warm and golden. It should feel like authentic footage from someone's everyday life rather than a polished commercial.
+
+STYLE: A comfortable, slightly chaotic cooking vlog. She talks to the camera like a friend is in the room. Small laughs, pauses, fixing her hair, wiping her hands on the apron, tasting and reacting. She makes small mistakes and laughs at herself. She speaks in short, natural sentences with frequent pauses. Never rush dialogue. Leave quiet moments between lines.
+
+CHARACTER: A beautiful woman in her late 20s. Long dark brown hair tied back in a low messy bun with a kitchen towel over her shoulder, warm olive skin, brown eyes, no makeup. She wears a cream-colored linen shirt with the sleeves rolled up and a dark green apron. Flour on her cheek. Natural, relaxed, a little messy.
+
+SETTING: A small home kitchen in the evening. White tile counter, a gas stove with a well-used pan, a cutting board with onions and garlic, a jar of flour, a wooden spoon, a glass of red wine. The overhead light is the only source. A window above the sink shows darkness outside. Intimate and slightly cluttered.
+
+SCENES:
+
+The vlog opens with the camera propped against a flour jar. She chops an onion, eyes watering.
+"I don't know why I keep doing this to myself."
+She wipes her eye with the back of her wrist. Picks up the camera, holds it close to the cutting board.
+"Look. The onion won."
+Sets it back. Pours olive oil into the pan. It sizzles loud. She jumps.
+She adds the onion. Steam rises into the light. She stirs.
+"Okay that smells better."
+She sips from a glass of wine. Looks at the camera.
+"Don't judge."
+She adds garlic. It sizzles harder. She moves the pan off the heat.
+"Too hot. Always too hot."
+She picks up the camera, selfie mode, flour on her cheek. She hasn't noticed.
+"It's going to be fine. Probably."
+She tastes from the wooden spoon, winces, then nods.
+"Okay. Yeah. It's good."
+Flour dust on the lens. She wipes it with her sleeve. A smile. The frame goes dark. Cut.</code></pre>
+
+</details>
+
+## Cinematic Luxury Rooftop Café Vlog at Golden Hour
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2085954236819665186)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2486](https://imglume.com/prompt/2486)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/28d9b8bf-799d-449c-aa0c-d6b0bef6b4e3/8171f5aa-e117-4521-85e3-8686c807be29-1786174011953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 15-second ultra-realistic luxury lifestyle vlog following a young woman enjoying a peaceful evening at a rooftop café overlooking a modern city skyline. She relaxes with a cappuccino and dessert, chats naturally with the camera, takes in the panoramic views, and enjoys the warm golden-hour atmosphere before ending the moment with a smile. Smooth drone reveals, cinematic gimbal movements, authentic lip-sync, natural facial expressions, realistic skin texture, flowing hair, elegant fashion, premium café ambiance, warm sunlight reflecting across glass skyscrapers, shallow depth of field, soft film grain, ARRI Alexa 35 aesthetic, 4K HDR, premium editorial quality, seamless character consistency, no text, no logos.</code></pre>
+
+</details>
 
 ## Premium iced coffee commercial
 

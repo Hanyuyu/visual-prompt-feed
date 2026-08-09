@@ -1,9 +1,36 @@
 # Nature image prompts
 
-9 source-linked prompts, newest ImgLume records first.
+10 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Stormy sea fishing boat
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2086029084472009068)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `seedream`
+- **Categories:** `nature`
+- **ImgLume record:** [2511](https://imglume.com/prompt/2511)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f260a486-dfb6-4e4d-974e-8b69ff4774f8/3eb9c2d1-bae4-4ec4-89b5-dc6f06f2da03-1786190762927 "Seedream V5 pro") · [2](https://cdn.imglume.com/prompts/byradar/f260a486-dfb6-4e4d-974e-8b69ff4774f8/599b70fa-269d-4662-89ed-be4ccd0a4694-1786190762927 "Seedream V5 pro") · [3](https://cdn.imglume.com/prompts/byradar/f260a486-dfb6-4e4d-974e-8b69ff4774f8/ea774661-c21c-4f09-8910-dc6780c5a2f9-1786190762927 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An exquisite impressionistic oil painting of a small weathered fishing boat battling through a turbulent stormy sea, rendered in a heavy impasto technique with thick, bold, visible palette-knife brushstrokes creating a tactile, three-dimensional surface. The brushstrokes are deliberately large and chunky — each stroke is a broad confident slab of paint, not fine detail. The composition centers on the boat at the middle of the canvas, surrounded by crashing waves and a dark looming sky.
+
+The upper portion is dominated by heavy, dark, swirling storm clouds painted in aggressive sweeping strokes of deep indigo, slate grey, and muted teal, with thick raised streaks of white and pale blue suggesting light breaking through the storm. The cloud brushwork is bold and directional, conveying atmospheric pressure and movement. Each cloud is built from only a few massive palette-knife sweeps.
+
+The sea in the middle ground is choppy and agitated, painted in varying shades of deep navy, dark blue, turquoise, and white. The white paint is applied in thick, raised, sculptural dabs to represent foam and spray of crashing waves. The water swirls around the boat in large swirling strokes, emphasizing the chaotic energy of the ocean. Each wave crest is a single bold knife-stroke, not fine blending.
+
+Centrally located is a small, weathered fishing boat with a small cabin and visible windows. It is painted in warmer tones — ochres, browns, and muted reds — contrasting strongly with the cool blues of the water. The boat is tilted by the force of the waves. The brushwork on the boat is loose and simplified, capturing the overall shape and its interaction with the water rather than mechanical detail.
+
+The foreground is filled with jagged dark rocks rendered in bold, heavy strokes of black, brown, and deep red, interspersed with thick white and blue highlights where water splashes against them. The rocks provide a grounded, heavy base anchoring the composition.
+
+The color palette pairs cool</code></pre>
+
+</details>
 
 ## Tranquil Dreamlike Landscape with Red Sun and Solitary Figure
 

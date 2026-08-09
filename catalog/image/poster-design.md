@@ -1,9 +1,161 @@
 # Poster Design image prompts
 
-39 source-linked prompts, newest ImgLume records first.
+44 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium editorial travel illustration prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2085939245026529335)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2518](https://imglume.com/prompt/2518)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ded23dcf-baea-4962-9ac7-bf9da6984216/8d8d7860-8387-4af3-b181-5f3c17c64740-1786195051619 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ded23dcf-baea-4962-9ac7-bf9da6984216/6ab9886a-5c45-40c9-a61b-1e2bf9ac102c-1786195051619 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ded23dcf-baea-4962-9ac7-bf9da6984216/ddf26790-40a8-4a10-8480-5f6f839f75c3-1786195051619 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium editorial travel illustration of [DESTINATION], [COUNTRY/REGION] using a minimal layered cutout illustration style. IMPORTANT: This must NOT look like a busy handmade paper craft artwork. Instead, it should feel like a premium Scandinavian editorial poster, a modern travel magazine cover, a sophisticated museum-shop print, and an elegant minimalist paper collage design.
+
+STYLE: minimal layered cutout illustration, large clean paper shapes, editorial paper collage aesthetic, bold geometric masses, simplified layered depth, soft subtle shadows, clean cut edges with slightly rounded corners, ultra simplified shape language, no photorealism, no handcrafted DIY feeling, no excessive texture, no visual clutter.
+
+TEXTURE: extremely subtle paper grain only, smooth premium paper surface, almost invisible texture, no embossed texture, no heavy paper fibers.
+
+COMPOSITION: vertical 9:16 poster layout, strong foreground/midground/background separation, large open breathing space, refined negative space, balanced premium editorial composition, minimal object density, avoid overcrowding.
+
+FOREGROUND: minimal landscape forms only, clean abstract terrain representing [DESTINATION'S NATURAL FEATURE / WATERFRONT / LANDSCAPE], minimal environmental details, avoid dense plants and excessive flowers.
+
+MIDGROUND: [ICONIC LANDMARK / ARCHITECTURAL ANCHOR], simplified architectural masses of nearby buildings or structures, strong recognizable silhouettes, minimal window detail.
+
+BACKGROUND: [DISTANT NATURAL FEATURE / MOUNTAIN / SKYLINE / LANDSCAPE ELEMENT] in the far distance, large clean sun, simple rounded clouds, spacious atmosphere.
+
+ARCHITECTURE: simplified isometric-inspired forms, geometric buildings, minimal window patterns, reduced micro-detail.
+
+COLOR &amp; LIGHTING: limited color palette (4–6 colors) featuring [PRIMARY COLOR], [SECONDARY COLOR], crisp white, soft slate blue, and pale grey, vibrant but restrained tones, clean white balance, bright neutral daylight, slightly cool-neutral lighting, fresh crisp whites, no yellow tint, no warm sepia tone, soft directional shadows only, flat but elegant dimensional feeling.
+
+MOOD: calm, modern, refined, premium, slightly whimsical, mature high-end travel branding aesthetic.
+
+TYPOGRAPHY: minimal elegant sans-serif typography with the text "[DESTINATION]", clean spacing and alignment, suitable size.
+
+QUALITY: ultra clean edges, high resolution, print-ready, no blur, no noise, visually organized, premium design-forward aesthetic.
+
+COMPOSITION:
+ASPECT RATIO: 4:5 vertical poster format.</code></pre>
+
+</details>
+
+## Premium cinematic anime editorial poster of a shinobi with product mockup
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2085972453663404398)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`, `poster-design`
+- **ImgLume record:** [2515](https://imglume.com/prompt/2515)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd956718-32da-4b93-8626-0174f09b98ca/7991f56d-8be1-40a4-a9a0-9f18bd271cec-1786195012782 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dd956718-32da-4b93-8626-0174f09b98ca/797b18ea-ffc5-4d9a-a767-a009cce5cd79-1786195012782 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cinematic anime editorial poster and device mockup featuring a mysterious young male shinobi standing alone in a rain-soaked minimalist landscape. He wears a long flowing black cloak with subtle deep-red traditional cloud motifs, dark shinobi sandals, and a black forehead protector. His long black hair moves slightly in the wind, with a calm, serious expression and his body turned slightly away while looking back toward the camera.
+Behind him, use huge condensed bold black typography reading “RAVEN KING”, integrated into the composition and partially obscured by the character. Add elegant handwritten text on the left reading “Silence is Power” and small vertical Japanese typography on the right. Surround the character with scattered black feathers floating through the air.
+The ground is glossy and reflective, creating a strong mirror reflection of the character. Add dramatic Japanese ink-brush strokes sweeping across the lower background, mixed with soft gray mist and subtle atmospheric texture. Minimal cream/off-white background, black typography, muted charcoal tones, and restrained dark red accents. High-end fashion editorial meets cinematic anime key art, sophisticated Japanese graphic design, strong negative space, dramatic composition, sharp character details, realistic fabric folds, cinematic lighting, subtle film grain, premium poster aesthetic.
+Then present the finished poster as a realistic premium product mockup: an open modern laptop on a warm beige desk displaying the exact poster fullscreen, with a modern smartphone standing beside it displaying the same artwork. Soft morning sunlight enters through a window, creating natural diagonal shadows on a warm neutral wall. Minimal ceramic vase with green branches on the left, small stationery items on the right, realistic materials and reflections, shallow depth of field, luxury creative-studio atmosphere, photorealistic product photography.
+9:16 poster artwork, ultra-detailed, cinematic, clean typography, coherent composition, no watermark, no unnecessary objects.</code></pre>
+
+</details>
+
+## Pastel pop advertising illustration
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2085920561348108308)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2500](https://imglume.com/prompt/2500)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1d28e1c7-0fdd-46b9-9f44-faa5807fb679/f90419d1-6ca2-4217-b67e-562268f1b7ca-1786182405206 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1d28e1c7-0fdd-46b9-9f44-faa5807fb679/38ade60b-c173-468a-aab7-c4f398af6e1a-1786182405206 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1d28e1c7-0fdd-46b9-9f44-faa5807fb679/09fb635f-9901-43b3-994a-89c85574c130-1786182405206 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/1d28e1c7-0fdd-46b9-9f44-faa5807fb679/6ce5f78a-1164-475d-b8d2-8ff53db072db-1786182405206 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Pastel pop advertising illustration of [HUMAN] beside a tilted [BREW] can bursting through a dramatic splash, with a large sliced [FLAVOR] fruit in the foreground and scattered angular fragments around the scene. Add the title “[TITLE]” in bold clean display lettering. Use a pastel [PALETTE] palette, a bright geometric background with large diagonal color blocks, crisp stylized liquid shapes, semi-flat shading, subtle halftone texture, clean commercial poster composition, energetic summer mood, product-focused layout, vertical 4:5.</code></pre>
+
+</details>
+
+## Premium Y2K Fashion Poster of Wareen
+
+- **Original source:** [@Wareenaa on X](https://x.com/Wareenaa/status/2085729369637654720)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2472](https://imglume.com/prompt/2472)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9e3dd868-fbe0-4547-9cca-813ab2d119bf/0cdfae81-e05b-4a00-82df-94e159d4efc4-1786157149385 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium Y2K fashion poster featuring the same character, Wareen: a young woman with fair skin, natural freckles, expressive brown eyes, and a short vibrant purple bob haircut with soft bangs.
+
+Mint-green seamless studio background with soft shadows, transparent bubbles, white sparkling stars, and curved glowing light trails. She wears a pastel blue-pink-green tie-dye halter crop top with lime-green stitching, a lavender ribbed cardigan worn off the shoulders, matching high-waisted lavender cargo trousers with zipper pockets and chain details, chunky white sneakers, a colorful Y2K headscarf, colorful beaded necklace, flower earrings, and small star/heart sticker decals on her arms.
+
+Create two separate fashion-editorial compositions:
+1. Full-body pose sitting confidently on white geometric display blocks, one foot on a lower block, leaning forward with arms resting on her knees.
+2. A closer seated fashion pose, relaxed and stylish, with one hand supporting her head.
+
+Add glossy 3D pastel typography reading “WAREEN” at the top, with small “PROJECT BY LICERIA” above it and “@Wareenaa” at the bottom. No “Happy Birthday” text and no “Soo Jin Ae”.
+
+Playful Y2K pop aesthetic, vibrant pastel colors, high-fashion editorial photography, crisp details, glossy poster design, realistic skin and hair, professional studio lighting, soft shadows, ultra-realistic, 8K.</code></pre>
+
+</details>
+
+## Ultra-Premium Instagram Campaign Poster for Royal Enfield Continental GT 650
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2085689888280846711)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2457](https://imglume.com/prompt/2457)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1d311ec5-b4cf-4bdb-be37-e8dffab486f3/c38896b1-b150-4dc7-874a-2c33dd8ec47b-1786131994088 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1d311ec5-b4cf-4bdb-be37-e8dffab486f3/08d1f053-c126-4a26-aa84-2a05393baf08-1786131994088 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-premium Instagram social media campaign poster for the Royal Enfield Continental GT 650 that feels like an official Royal Enfield global campaign created by AKQA, Wieden+Kennedy and Pentagram, featured on Behance and awarded at Cannes Lions.
+
+4:5 vertical composition, 8K ultra-high resolution, hyper-realistic commercial motorcycle photography, premium editorial advertising, cinematic realism, handcrafted visual storytelling, bold minimalist graphic design.
+
+The hero motorcycle is the latest Royal Enfield Continental GT 650 in British Racing Green with chrome engine, polished twin exhausts, classic wire-spoke wheels, sculpted café-racer fuel tank, authentic Royal Enfield badging, clip-on handlebars and factory specification. The motorcycle dominates nearly 70% of the composition from a dramatic low front three-quarter angle, photographed with impeccable realism and perfect proportions. Every reflection, weld, spoke, tyre tread, cooling fin and brushed-metal surface is physically accurate. [oai_citation:1‡Royal Enfield](https://t.co/fNN8BnWgvw)
+
+The motorcycle is parked outside a beautifully restored industrial brick warehouse transformed into a contemporary motorcycle workshop and riders' café. Vintage brick walls, black steel-framed windows, polished concrete, handcrafted leather furniture, subtle Royal Enfield heritage details and warm industrial architecture create an authentic café-racer environment. A few modern classic motorcycles are softly blurred in the background, reinforcing riding culture without distracting from the hero bike.
+
+A young rider wearing a premium black leather jacket, dark denim, heritage riding boots and an open-face helmet casually leans against the motorcycle while removing leather riding gloves. The posture feels natural and confident, never posed. Another rider inside the café laughs with friends over coffee, creating the feeling of an active motorcycle community rather than a staged photoshoot.
+
+The entire composition is designed as a premium social media advertisement, not a wallpaper. Large editorial typography reading:
+
+RIDE
+YOUR
+LEGEND.
+
+integrates into the architecture using oversized white and muted cream lettering. The motorcycle partially overlaps the typography, creating depth and premium graphic hierarchy. Small technical labels, subtle grid lines, café-racer inspired geometric panels and minimal editorial annotations create a sophisticated design language without clutter.
+
+Colour palette: British Racing Green, deep charcoal black, warm brick red, vintage cream, brushed aluminium, chrome silver, leather brown and subtle Royal Enfield red accents. The design feels timeless, handcrafted and authentic.
+
+Lighting is warm late-afternoon golden hour with soft sunlight entering through industrial windows, creating rich reflections across chrome surfaces, realistic shadows, beautiful paint depth and premium commercial motorcycle photography. Slight atmospheric dust catches the light, adding depth without becoming cinematic smoke.
+
+Captured on a Phase One XF IQ4 150MP medium-format camera with an 80mm Schneider Kreuznach lens, ultra-high dynamic range, shallow but realistic depth of field, flawless colour science, premium analogue film aesthetic inspired by Kodak Portra 400, natural skin tones, crisp metal textures and exceptional material realism.
+
+Design style combines Royal Enfield heritage, Scandinavian editorial minimalism, luxury automotive advertising and premium Instagram campaign design. Large areas of negative space, clean composition, bold typography, modern graphic blocks and magazine-quality layout create a scroll-stopping social media poster.
+
+Avoid: motorcycle wallpaper aesthetic, racing track, speed effects, drifting, wheelies, fire, smoke, neon lighting, cyberpunk, unrealistic reflections, AI artifacts, floating elements, excessive grunge, overdesigned graphics, fantasy environments, plastic materials, exaggerated HDR, oversized logos, cheap dealership styling, or cluttered composition.
+
+The final artwork should look like the hero cover of an official Royal Enfield global campaign—timeless, handcrafted, premium and instantly desirable, making viewers want to stop scrolling and ride.</code></pre>
+
+</details>
 
 ## Modern editorial poster design featuring a stylish young woman at a café or roller skating
 
