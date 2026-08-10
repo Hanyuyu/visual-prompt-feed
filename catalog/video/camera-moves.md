@@ -1,9 +1,172 @@
 # Camera Moves video prompts
 
-62 source-linked prompts, newest ImgLume records first.
+69 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic amateur cryptid sighting footage
+
+- **Original source:** [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2086150525888720985)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2588](https://imglume.com/prompt/2588)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29566e8e-b16b-4924-81f4-636cacf9dd2e/fd798e3a-da89-4d84-be00-df54d6540287-1786278952376 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic amateur cryptid sighting footage. Cheap handheld camcorder look, low-quality image, unstable zoom, bad autofocus, heavy digital grain, compression artifacts, shaky framing, harsh breathing close to the microphone, accidental overexposure through the trees, raw found-footage realism. No polished cinema look.
+
+One unseen camera operator only, frightened adult hiker breathing heavily behind the camera. One massive Bigfoot-like forest creature: tall, broad, covered in dark matted hair, humanlike posture, heavy natural movement, never cartoonish.
+
+Dense forest in daylight, uneven ground, wet leaves, tree trunks, foggy depth, broken branches, deep natural shadows.
+
+Authentic low-grade camcorder texture, believable forest sound, realistic creature anatomy, limited but clear reveal, unstable autofocus, strong viral payoff, natural movement, terrifying realism, no comedy, no clean digital polish.
+
+0-5s: Shaky handheld POV - The camera moves through the forest, breathing loud, branches hitting the lens. The operator whispers in French: “Attends… attends… c’est quoi ça là-bas ?” The image struggles to focus between trees.
+
+5-10s: Messy zoom-in - Through the trees, a huge hairy figure is barely visible in the distance, half-hidden behind a trunk. The operator mutters: “Non… non… c’est pas possible…” The creature slowly steps forward into a small patch of light.
+
+10-15s: Unstable push and panic reframing - The Bigfoot-like creature turns its head toward the camera. Clear view for only a second: massive shoulders, long arms, wet dark fur, heavy breathing. The operator gasps and whispers: “Oh mon Dieu…”
+
+15-20s: Violent shake, partial loss of frame - The creature suddenly lets out a deep roar and takes two fast steps toward camera. The operator panics, stumbles backward, drops the camera toward the ground. The last image catches the creature rushing closer through the trees before the footage cuts to black.</code></pre>
+
+</details>
+
+## Close-up of chameleon scales
+
+- **Original source:** [@magnific on X](https://x.com/magnific/status/2086030453757415590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `nature`
+- **ImgLume record:** [2554](https://imglume.com/prompt/2554)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/db0b6bfe-62f1-460b-a894-144a8d2aa38b-1786234833707 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/58f93c4a-74cc-48c3-8329-ac56bed7fd81-1786234833707 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/26f369e7-b217-4a5e-b22a-06d04c67e3b0-1786234833707 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/b0d957da-c03c-4727-b3ac-3cf7052ed10e-1786234833707 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/4f761d75-234b-44f6-8e02-92d41a5ed567-1786234833707 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/93548e3e-6834-47cd-9d7a-008f376d80b3-1786234833707 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Simple steady zoom in on the chameleon's bumpy scaled skin perched on the arm, camera stays straight and centered, ending in a close-up macro of the scale texture, no strange angles, no camera shake, harsh direct flash lighting look, grainy point-and-shoot camera aesthetic, dark background</code></pre>
+
+</details>
+
+## Close-up of hedgehog quills
+
+- **Original source:** [@magnific on X](https://x.com/magnific/status/2086030453757415590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`
+- **ImgLume record:** [2553](https://imglume.com/prompt/2553)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/546b987b-cf46-44a8-87a0-5aa60cd27e46/cec68253-04ef-4edc-9609-03d0f131466a-1786234833707 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/546b987b-cf46-44a8-87a0-5aa60cd27e46/254bf539-a83e-45f5-b7f2-2ffabc3e8824-1786234833707 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/546b987b-cf46-44a8-87a0-5aa60cd27e46/2f03c299-cbc6-4339-8fae-a13872285eb6-1786234833707 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/546b987b-cf46-44a8-87a0-5aa60cd27e46/bab95439-7467-4dcf-9c21-104b6163fe9e-1786234833707 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/546b987b-cf46-44a8-87a0-5aa60cd27e46/9460fb9c-b8c3-4122-958f-7f19bc5e4767-1786234833707 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/546b987b-cf46-44a8-87a0-5aa60cd27e46/679ab704-c799-454c-9f4b-baa8779ea978-1786234833707 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Simple steady zoom in on the hedgehog's spiky quills as a hand pets it, camera stays straight and centered, ending in a close-up of the quill texture, no strange angles, no camera shake, harsh direct flash lighting look, grainy point-and-shoot camera aesthetic, dark background</code></pre>
+
+</details>
+
+## Close-up of parrot eye
+
+- **Original source:** [@magnific on X](https://x.com/magnific/status/2086030453757415590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`
+- **ImgLume record:** [2552](https://imglume.com/prompt/2552)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37bd6ac8-40ad-41ee-885c-beba388517b9/eaef0752-e4f8-47ef-afa8-bebbf7c322eb-1786234833707 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/37bd6ac8-40ad-41ee-885c-beba388517b9/cb87b738-c1f8-4c02-812b-d467a2ea1c35-1786234833707 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/37bd6ac8-40ad-41ee-885c-beba388517b9/80c5abc8-7cdc-40cb-9e89-cdf1ba9fe65f-1786234833707 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/37bd6ac8-40ad-41ee-885c-beba388517b9/db47acff-a5f4-410c-84d9-6ab2a30cbdcf-1786234833707 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/37bd6ac8-40ad-41ee-885c-beba388517b9/2f5ebe9f-bb86-44fe-a96f-d6f7d80652f4-1786234833707 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/37bd6ac8-40ad-41ee-885c-beba388517b9/546dad6d-70c7-41c0-a07f-bcb7bc46bb0a-1786234833707 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Smooth slow push-in camera movement toward the parrot's eye, ending in a close-up of the eye and surrounding feather detail, natural gentle motion, harsh direct flash lighting look, grainy point-and-shoot camera aesthetic, candid snapshot feel https://t.co/l4qQBuGUCw</code></pre>
+
+</details>
+
+## Close-up of cat fur and eyes
+
+- **Original source:** [@magnific on X](https://x.com/magnific/status/2086030453757415590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`
+- **ImgLume record:** [2551](https://imglume.com/prompt/2551)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0c2720bc-140e-4d49-931e-3941f4b515e2/9b6c34a4-815a-4905-8c33-1719ff59d4d6-1786234833707 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0c2720bc-140e-4d49-931e-3941f4b515e2/de50e7ef-5d1c-4a91-a881-88522eabf3ae-1786234833707 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0c2720bc-140e-4d49-931e-3941f4b515e2/342f181d-fe55-4b75-bf8f-2d34ca04a85c-1786234833707 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0c2720bc-140e-4d49-931e-3941f4b515e2/795fc352-dec6-4f27-b8ca-772a30548be3-1786234833707 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/0c2720bc-140e-4d49-931e-3941f4b515e2/68a5be01-935b-490c-957e-8c9ebc01e703-1786234833707 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/0c2720bc-140e-4d49-931e-3941f4b515e2/18c20ce4-4d1b-4dba-9cb6-3d95538094b4-1786234833707 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Simple steady zoom in on the fluffy cat sitting on the kitchen counter at night, camera stays straight and centered, ending in a close-up macro of the fur texture and eyes, no strange angles, no camera shake, harsh direct flash lighting look, grainy point-and-shoot camera aesthetic, dark background</code></pre>
+
+</details>
+
+## 15-second nostalgic early-2000s trainee flashback video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2085936538798506430)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2545](https://imglume.com/prompt/2545)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65d9143d-3b36-45d7-acbb-1b2b9bfe2e5f/ec0ee7c1-d545-4a7e-b79b-056bdd5f23f8-1786222266534 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>@CHASE is the same character throughout. Maintain strict facial, hairstyle and appearance consistency.
+
+Create a 15-second nostalgic early-2000s trainee flashback filmed entirely on a handheld DV/16mm camcorder. Raw personal-footage aesthetic: natural camera shake, imperfect framing, slow autofocus, clumsy micro-zooms, slight blur, tape noise, motion smearing, bloomed highlights and occasional exposure flicker. No modern polished cinematography.
+
+STORY:
+0–2s: Before sunrise, she wakes exhausted in a trainee dorm. “Nobody saw how it started.”
+2–4s: She enters an empty dance studio, turns on the light and prepares to practice.
+4–6s: In a vocal room, she misses a difficult note, exhales and tries again. “There were days I thought I wasn't good enough.”
+6–9s: Repeatedly practices choreography, makes mistakes, then keeps going.
+9–11s: Quick DV close-ups of worn sneakers, tired hands, sweat and a movement finally landing perfectly.
+11–13s: Exhausted in a hallway, she smiles quietly, hears the practice music and gets back up. “But somehow… I kept coming back.”
+13–15s: She walks toward a brightly lit evaluation room, pauses, takes a breath and enters. “Maybe that was enough to begin.” Cut to black.
+Raw, intimate and emotional. Subtle acting, realistic exhaustion and determination. Hard cuts, authentic room ambience, footsteps and breathing. Soft emotional music gradually builds. Make it feel like forgotten personal trainee footage, not a music video.</code></pre>
+
+</details>
+
+## Star Wars Lightsaber Duel Prompt for Seedance 2.5
+
+- **Original source:** [@ObsceneSelene on X](https://x.com/ObsceneSelene/status/2085925587416473675)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2532](https://imglume.com/prompt/2532)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e156c7b8-a843-4cec-8555-9fc866840569/92d36d84-8166-409b-9792-deb4a8f76feb-1786207578494 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Drop in a couple of selfies and 7 second clips of each of your voices and modify the first part👇
+
+[Character Reference Mapping] Image1 is [Name], use Audio1 for [her/his] voice and [Accent Name] accent, [she/he] is [Height]. [Affiliation: Jedi/Sith], wielding a [Saber Color] lightsaber. Image2 is [Name], use Audio2 for [her/his] voice and [Accent Name] accent, [she/he] is [Height]. [Affiliation: Jedi/Sith], wielding a [Saber Color] lightsaber.
+[Star Wars Lightsaber Duel Intro: Location - Describe Star Wars Planet/Environment here, e.g., Mustafar, Coruscant Underworld, Ach-To]
+Script Prompt Global Style: Cinematic anamorphic widescreen, ultra-sharp digital cinema lens, gritty star wars aesthetic with realistic atmosphere, thick smoke and embers catching the light, heavy color grading matching the environment, dramatic high-contrast key lighting, 2.39:1 aspect ratio. Background audio features the low menacing hum of idling lightsabers, distant wind howling, violent plasma sizzling, and a tense cinematic synth drone.
+
+[00:00 - 00:04] Shot 1: Wide low-angle composition framing the environment on the bottom third. The two opponents stand twenty feet apart, shrouded in shadow. Camera slowly tracks forward between them. Both characters ignite their lightsabers simultaneously with a sharp snap-hiss, illuminating their faces in stark [Saber Color 1] and [Saber Color 2] glows. Image1 sneers and throws out a calm, arrogant opening taunt in their specific accent, dropping into a classic combat stance.
+
+[00:04 - 00:07] Shot 2: Fast whip-pan into a tight medium tracking shot as Image2 lunges forward. Blades clash with a blinding flash and a heavy audio thud. Image2 scoffs mid-strike, shouting a quick jab of verbal retaliation right into Image1's face before stepping back to spin their blade.
+
+[00:07 - 00:12] Shot 3: Wide dynamic tracking shot following both characters as they engage in a rapid, aggressive exchange of strikes and parries across the terrain. Sparks fly and burn marks streak across the environment as plasma cuts through metal and stone. Image1 laughs off a near-miss, calling out Image2's clumsy form mid-sequence while seamlessly flipping out of reach.
+
+[00:12 - 00:16] Shot 4: Extreme close-up profile shot of both hilts locked together in the center third. Plasma blades buzz violently and spit bright sparks where energy fields grind. Camera slowly tilts up to capture the intense glare and sweat on their faces. Image2 delivers a bitter, quiet piece of personal banter right into the struggle, answered by Image1's low, mocking chuckles as they shove each other apart.
+
+[00:16 - 00:21] Shot 5: Medium wide shot capturing the immediate separation. Camera orbits low as Image2 circles around an environmental obstacle, keeping their weapon high. Image1 tracks them closely, casually twirling their saber and delivering sarcastic commentary on the fight so far, mocking Image2 to make the next move.
+
+[00:21 - 00:26] Shot 6: High-angle over-the-shoulder tracking shot as Image2 snaps and unleashes a furious, relentless flurry of strikes. The movement is chaotic and heavy, forcing Image1 onto the back foot to desperately block each strike. Sharp banter flies back and forth between breathy grunts and harsh plasma impacts as the emotional heat reaches its boiling point.
+
+[00:26 - 00:30] Shot 7: Rapid zoom into an extreme close-up of a massive overhead double-handed strike. Blinding lens overexposure and lens flare burst across the frame as both sabers collide with maximum force. The audio distorts with a deafening, blown-out lightsaber impact and heavy bass drop, washing the screen into a chaotic, spark-filled match-cut exit.</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic delivery-rider story with orange brand identity
 

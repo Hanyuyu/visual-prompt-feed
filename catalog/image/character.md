@@ -1,9 +1,81 @@
 # Character image prompts
 
-66 source-linked prompts, newest ImgLume records first.
+69 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxury Caricature Portrait Prompt
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2086079106794541267)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2577](https://imglume.com/prompt/2577)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0287f03c-493c-492e-aa30-e5b7546b9bd8/90926cb4-dda7-426e-99dc-cdabe51ad94c-1786270512718 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0287f03c-493c-492e-aa30-e5b7546b9bd8/74c72b3e-a6ac-44e5-a6b8-7d73846e118b-1786270512718 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0287f03c-493c-492e-aa30-e5b7546b9bd8/dde7e1ec-7750-4525-96f9-0f2eac6ebf51-1786270512718 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0287f03c-493c-492e-aa30-e5b7546b9bd8/bcf19fc8-c2ef-4e66-aa09-c84211fb67eb-1786270512718 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic premium caricature portrait of [NAME], instantly recognizable, with subtly exaggerated [FACIAL FEATURES], expressive [EXPRESSION], realistic skin texture, detailed hair, wearing [OUTFIT / ACCESSORY], posing with [POSE / ATTITUDE], cinematic studio lighting, editorial celebrity photography style, shallow depth of field, refined proportions, humorous but elegant likeness, ultra-detailed face, sharp focus, 4k, premium color grading.</code></pre>
+
+</details>
+
+## Photorealistic fashion-adventure images of Wareen skydiving over alpine landscape
+
+- **Original source:** [@Wareenaa on X](https://x.com/Wareenaa/status/2086318480425644397)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [2571](https://imglume.com/prompt/2571)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f03efa85-bf84-4863-9e9f-13590f8180bd/348d324b-86da-40be-b80d-4187547d1cec-1786262164518 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f03efa85-bf84-4863-9e9f-13590f8180bd/d17250e5-6326-4d34-8942-9436724fe5e0-1786262164518 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create two separate photorealistic fashion-adventure images of the same character, Wareen: a young woman with fair skin, natural freckles, expressive brown eyes, and a short vibrant purple bob haircut with soft bangs.
+
+Wareen wears a pale sage-green full-body skydiving/flight suit with a high collar and zipper, small red and black embroidered patches on both sleeves, a heavy black-and-brown skydiving harness, dark-framed clear glasses, and light-colored sneakers.
+
+She is flying high above a breathtaking alpine landscape with snow-capped mountain peaks, green valleys, and a large turquoise-blue lake beneath a clear bright blue sky with thin wispy clouds. A large inflated ram-air parachute in orange, red, and yellow is visible above her, connected by thin suspension lines.
+
+IMAGE 1: Dynamic medium full-body frontal view, Wareen flying toward the camera with both arms stretched wide, hands open, legs bent naturally behind her, smiling with an excited joyful expression.
+
+IMAGE 2: Wider cinematic full-body aerial view, Wareen centered in the sky with arms spread and legs bent, showing more of the enormous mountain range and turquoise lake below.
+
+Bright natural daylight, crisp realistic shadows, wind-blown purple hair, realistic fabric and harness details, adventurous sports photography, high-energy composition, photorealistic, ultra-detailed, cinematic, 8K.</code></pre>
+
+</details>
+
+## Minimalist watercolor illustration of a stylish young woman in everyday moments
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2086047521588265370)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2550](https://imglume.com/prompt/2550)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5baf4849-5a60-4ece-8377-d04426efc7ce/e05eee15-305e-4331-a95b-8186eb8891f5-1786230638371 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5baf4849-5a60-4ece-8377-d04426efc7ce/e52f5164-439b-4fc5-a30b-764c0cbc1141-1786230638371 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5baf4849-5a60-4ece-8377-d04426efc7ce/46cb3987-aaaa-44ec-be9f-4afb0d58c848-1786230638371 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/5baf4849-5a60-4ece-8377-d04426efc7ce/322ac202-0799-4305-820c-2ff31ead8dbb-1786230638371 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Minimalist watercolor illustration on textured ivory handmade paper, soft pastel palette, delicate ink outlines, subtle watercolor bleeding, cozy storybook aesthetic, lots of clean negative space.
+A stylish young woman in modern casual clothing is the main subject, captured in a calm,emotional everyday moment. She wears an oversized trench coat or cardigan layered over soft neutral clothing, a long flowing skirt or wide-leg pants,leather loafers or ankle boots, and a simple crossbody bag. Medium-length natural hair gently frames her face.
+
+The composition is intentionally small within the canvas, leaving generous empty space around the character. Soft expressive pose with gentle emotions, surrounded by tiny floating watercolor splashes, subtle butterflies, flowers, leaves, or seasonal elements depending on the scene.
+
+Examples of scenes:
+• Squatting beside a bouquet of blue roses while gently touching one flower.
+• Standing quietly while holding a wrapped bouquet against her chest.
+• Resting peacefully beneath a large tree with eyes closed.
+• Reaching upward toward a single apple hanging from a tree branch while carrying a basket of freshly picked apples.
+
+Hand-painted watercolor textures, soft shadows, elegant brush strokes, muted earthy colors, warm natural atmosphere, peaceful lifestyle illustration, Japanese stationery art style, minimal editorial illustration, whimsical yet realistic proportions, premium watercolor painting, ultra-detailed, 8K.</code></pre>
+
+</details>
 
 ## Dark cinematic fantasy-warrior portrait
 

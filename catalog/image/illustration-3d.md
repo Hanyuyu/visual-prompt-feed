@@ -1,9 +1,114 @@
 # Illustration 3d image prompts
 
-36 source-linked prompts, newest ImgLume records first.
+39 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cozy Winter Storybook Illustration
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2086271702372409592)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2585](https://imglume.com/prompt/2585)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/504a7dd2-be0f-4e4e-8983-37d3ce7fb602/b3eee547-7e36-42a8-ae9f-fe4450c2d464-1786274781567 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/504a7dd2-be0f-4e4e-8983-37d3ce7fb602/0739e9db-3020-4cf9-8ce5-90d67c7e055c-1786274781567 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/504a7dd2-be0f-4e4e-8983-37d3ce7fb602/3640b475-070e-4d95-b78d-12822d155e45-1786274781567 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming vertical winter storybook illustration in a cozy hand-painted, whimsical folk-art style. Depict a cluster of colorful, narrow European-style cottages covered in thick, fluffy snow, with steep triangular roofs, glowing windows, tiny balconies, chimneys, and simple decorative details. Surround the houses with delicate bare branches, small red and golden berries, and evergreen foliage.
+
+In the foreground, place a rustic wooden sled holding a warm steaming mug and a simple red planter filled with lush evergreen branches and winter foliage. Add gentle falling snow throughout the scene.
+
+Use a soft warm cream background, a limited palette of deep red, forest green, mustard yellow, white, and muted natural tones. Keep the artwork flat yet richly textured, with visible watercolor/gouache brushwork, slightly imperfect hand-drawn outlines, charming simplified shapes, and a cozy handmade children’s picture-book feeling.
+
+Composition: centered, balanced, vertically framed, layered foreground/middle/background, generous negative space, no photorealism, no 3D rendering, no glossy digital effects. Whimsical Scandinavian/European winter postcard aesthetic, cozy Christmas atmosphere, nostalgic handmade illustration, delicate paper texture, soft muted lighting, highly detailed but simple and adorable.
+
+Aspect ratio: 4:5 vertical.</code></pre>
+
+</details>
+
+## Minimalist Doodle Illustration of Street Scene
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2086297043279258079)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2566](https://imglume.com/prompt/2566)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd20f477-3795-45f8-b741-56a2c87f5324/fc9b7ed6-e66e-41e5-8054-132ba6e91d93-1786258070655 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dd20f477-3795-45f8-b741-56a2c87f5324/a7b28fdc-5b98-482f-8332-5ad2930602ab-1786258070655 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the reference image into a charming minimalist doodle illustration while keeping the original white-grounded background and the complete street environment recognizable.
+
+Preserve the original subject, pose, outfit, handbag, red taxis, buildings, road, and overall composition, but simplify everything into cute, playful, childlike forms. Use loose brush-pen outlines with naturally uneven, slightly wobbly hand-drawn strokes and tiny imperfections. Keep the white/light background visible around the illustrated elements, with the city scene softly simplified rather than removed.
+
+Add subtle watercolor-ink textures, minimal pastel washes, expressive cartoon-like features, and a clean sketchbook aesthetic. The final artwork should feel airy, adorable, whimsical, handmade, and effortlessly hand-sketched while still retaining the recognizable original setting.</code></pre>
+
+</details>
+
+## Handcrafted Miniature Travel Diorama Prompt
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2086125703427436788)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2540](https://imglume.com/prompt/2540)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/99084b7f-230a-4928-b16c-46fdfea89f69/0903d331-069c-475d-96c9-47b481c60907-1786218126587 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/99084b7f-230a-4928-b16c-46fdfea89f69/831a6df3-541e-4027-9657-ddb0833db3b1-1786218126587 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "prompt": {
+ "concept": "A charming miniature 3D travel diorama inspired by [DESTINATION], designed as an elegant handmade postcard.",
+ "scene": "Create a narrow floating landscape strip featuring tiny handcrafted versions of the destination's most recognizable landmarks, architecture, and cultural details. Arrange the elements naturally as a compact miniature world.",
+ "landmarks": {
+ "description": "Include iconic local landmarks recreated as miniature paper-craft models using layered paper, clay, painted wood, cardboard, and other handcrafted materials.",
+ "details": "Add tiny local transportation, miniature trees, streetlights, pathways, water features, birds, fluffy clouds, and other subtle environmental elements that help identify [DESTINATION]."
+ },
+ "travel_elements": {
+ "airplane": "Place a tiny handcrafted airplane above the scene with a delicate dotted flight trail.",
+ "atmosphere": "Include subtle postcard-inspired travel details while keeping the overall composition uncluttered."
+ },
+ "materials": "Paper, folded cardstock, handmade clay, lightweight wood, cardboard, miniature craft materials, and tactile handmade surfaces.",
+ "texture": "Show realistic miniature textures, visible paper fibers, gentle folds, tiny imperfections, handcrafted edges, subtle paint variations, and authentic artisanal details.",
+ "background": "Soft white textured paper background with a clean studio-like appearance and generous negative space surrounding the miniature landscape.",
+ "lighting": "Gentle natural diffused lighting with soft highlights, delicate ambient shadows, and subtle depth that emphasizes the handcrafted miniature forms.",
+ "color_palette": "Soft pastel colors with warm, muted, harmonious tones and a light whimsical travel-postcard feel.",
+ "composition": {
+ "layout": "Minimal, centered, airy composition.",
+ "orientation": "Vertical 9:16.",
+ "negative_space": "Leave generous clean space around the miniature scene to create an elegant premium postcard aesthetic."
+ },
+ "typography": {
+ "text": "[DESTINATION]",
+ "placement": "Centered near the bottom of the image.",
+ "style": "Small, elegant handwritten lettering that feels delicate and refined."
+ },
+ "visual_style": [
+ "miniature diorama",
+ "handcrafted paper sculpture",
+ "3D paper art",
+ "travel postcard illustration",
+ "whimsical miniature world",
+ "soft pastel aesthetic",
+ "macro photography look",
+ "tactile handmade textures",
+ "delicate craftsmanship",
+ "cozy artistic atmosphere",
+ "high-resolution detail"
+ ],
+ "final_result": "A polished yet charming miniature travel postcard that feels physically handcrafted, photographed like a tiny real-world diorama, with a magical, cozy, premium artistic quality."
+ }
+}</code></pre>
+
+</details>
 
 ## Polished 3×3 character-expression portrait sheet of a young adult male
 

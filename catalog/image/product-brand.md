@@ -1,9 +1,38 @@
 # Product Brand image prompts
 
-2 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Energy Drink Concept Design
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2086006299154858137)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-brand`
+- **ImgLume record:** [2565](https://imglume.com/prompt/2565)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e8bf7d9d-f8a4-4a7f-a9af-b99df2c51288/f3c23512-ff92-4078-b722-fbd2873b39f1-1786258047658 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e8bf7d9d-f8a4-4a7f-a9af-b99df2c51288/7e4ef2bb-3bd1-4af1-ad4b-ffdd7bbae69a-1786258047658 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e8bf7d9d-f8a4-4a7f-a9af-b99df2c51288/d8513ee2-a0ff-4782-a8bf-6044b466e2af-1786258047658 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[BRAND NAME] → Premium Energy Drink Concept
+
+Transform [BRAND NAME] into a futuristic, premium energy drink brand using its existing logo, colors, typography, shapes, proportions, and visual personality as the core creative DNA.
+
+Do not simply place the logo on a generic can. Reimagine the identity into a distinctive energy drink with a custom can silhouette, intelligent label system, signature energy graphics, flavor identity, premium typography, metallic accents, embossing, realistic aluminum texture, and condensation.
+
+Create a sophisticated 3:4 vertical product-design board featuring one dominant photorealistic hero can in 3/4 view, plus front, side, back, angled, and detail views. Include a matching multipack/box and refined design callouts for logo integration, color palette, flavor concept, materials, energy graphic system, and label structure.
+
+Use high-end commercial product photography, controlled reflections, dramatic but realistic lighting, soft shadows, and a clean futuristic studio environment. Make every design decision specific to [BRAND NAME] and commercially believable.
+
+Minimal typography, no random text, no clutter, no generic energy-drink clichés, and no excessive effects. Ultra-realistic, bold, futuristic, sporty, premium, collectible, launch-ready.
+
+ASPECT RATIO: STRICT 3:4 VERTICAL</code></pre>
+
+</details>
 
 ## 90's Slop Collage → Maui & Sons
 

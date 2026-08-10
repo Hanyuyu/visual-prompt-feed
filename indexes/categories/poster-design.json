@@ -3,9 +3,9 @@
   "facet": "category",
   "value": "poster-design",
   "label": "Poster Design",
-  "count": 44,
+  "count": 50,
   "mediaTypes": {
-    "image": 44,
+    "image": 50,
     "video": 0
   },
   "ids": [
@@ -52,6 +52,12 @@
     "byradar:2085729369637654720:0",
     "byradar:2085920561348108308:0",
     "byradar:2085972453663404398:0",
-    "byradar:2085939245026529335:0"
+    "byradar:2085939245026529335:0",
+    "byradar:2086083487979733101:0",
+    "byradar:2085998179875697029:1",
+    "byradar:2085919406367047984:0",
+    "byradar:2086309838808551892:0",
+    "byradar:2086327571743211650:0",
+    "byradar:2086471987543564666:0"
   ]
 }

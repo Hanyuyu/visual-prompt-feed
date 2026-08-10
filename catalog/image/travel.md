@@ -1,9 +1,30 @@
 # Travel image prompts
 
-19 source-linked prompts, newest ImgLume records first.
+20 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic Luxury Safari Magazine Cover
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2086118881702162601)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [2590](https://imglume.com/prompt/2590)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1a8263f3-62f3-4b84-8cf6-12464d28bf74/09a8da78-2b1f-4e78-8c77-31755f24ba16-1786283132971 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic luxury safari travel magazine cover featuring a confident South Asian man seated inside an open safari vehicle during golden hour in the African savannah. He wears an olive-green linen short-sleeve safari shirt with matching tailored shorts and premium black sunglasses. His posture is relaxed, with one arm resting naturally on the vehicle's side rail while looking off into the distance with a calm, adventurous expression.
+In the softly blurred background, a herd of elephants, including a baby elephant, walks across golden grasslands dotted with iconic acacia trees. The safari vehicle roof frames the upper portion of the composition, creating a premium cinematic perspective.
+Photographed on a full-frame DSLR, 85mm lens, f/1.8, ultra-high-resolution RAW. Warm cinematic natural lighting, physically accurate shadows, realistic skin pores, subtle imperfections, fine facial hair, detailed fabric textures, authentic linen wrinkles, true-to-life colors, shallow depth of field, crisp focus on the subject, premium editorial color grading, luxury travel advertisement aesthetic, National Geographic × Condé Nast Traveller quality, hyper-realistic, 8K.
+Magazine cover design with elegant minimalist typography, premium serif headline "WILD ELEGANCE", subtitle "Luxury Safari Experiences", clean editorial layout, refined spacing, sophisticated travel branding, luxury brochure aesthetics, high-end print-ready composition.
+Negative Prompt: cartoon, anime, CGI, illustration, painting, plastic skin, wax skin, beauty filter, AI artifacts, blurry, low resolution, distorted anatomy, extra fingers, extra limbs, oversaturated colors, watermark, logo, random text, compression artifacts.</code></pre>
+
+</details>
 
 ## Premium editorial travel illustration prompt
 

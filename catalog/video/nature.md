@@ -1,9 +1,26 @@
 # Nature video prompts
 
-9 source-linked prompts, newest ImgLume records first.
+10 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Close-up of chameleon scales
+
+- **Original source:** [@magnific on X](https://x.com/magnific/status/2086030453757415590)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `nature`
+- **ImgLume record:** [2554](https://imglume.com/prompt/2554)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/db0b6bfe-62f1-460b-a894-144a8d2aa38b-1786234833707 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/58f93c4a-74cc-48c3-8329-ac56bed7fd81-1786234833707 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/26f369e7-b217-4a5e-b22a-06d04c67e3b0-1786234833707 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/b0d957da-c03c-4727-b3ac-3cf7052ed10e-1786234833707 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/4f761d75-234b-44f6-8e02-92d41a5ed567-1786234833707 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/87da2536-1cac-4bd6-972c-4235b828d1c9/93548e3e-6834-47cd-9d7a-008f376d80b3-1786234833707 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Simple steady zoom in on the chameleon's bumpy scaled skin perched on the arm, camera stays straight and centered, ending in a close-up macro of the scale texture, no strange angles, no camera shake, harsh direct flash lighting look, grainy point-and-shoot camera aesthetic, dark background</code></pre>
+
+</details>
 
 ## Ultra-realistic Japanese coastal travel vlog
 

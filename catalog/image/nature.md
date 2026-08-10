@@ -1,9 +1,33 @@
 # Nature image prompts
 
-10 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Oil painting of a butterfly in a golden wheat field at sunrise
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2086374982989251027)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [2580](https://imglume.com/prompt/2580)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/048a85d2-20ad-457b-bb3d-9bad309d9688/49a634fc-08c2-4d92-9fe6-f76c6bc19b47-1786270595516 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/048a85d2-20ad-457b-bb3d-9bad309d9688/4aa26ffa-336f-4a55-9e60-efe6bf493c11-1786270595516 "Model: Seedream V5 pro")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Oil painting of a butterfly resting on a golden wheat stalk at sunrise,
+warm backlit sunlight glowing through misty wheat field, soft golden
+hour lighting, delicate detailed butterfly wings with orange, black
+and green patterns, dew droplets sparkling like bokeh, blurred hazy
+background with silhouetted trees, tall wheat ears in foreground with
+fine visible brush texture, warm color palette of gold, amber and
+soft green, romantic atmospheric mood, classical fine art painting
+style, vertical composition, shallow depth of field, cinematic light rays</code></pre>
+
+</details>
 
 ## Stormy sea fishing boat
 

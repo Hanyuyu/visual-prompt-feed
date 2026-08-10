@@ -1,9 +1,256 @@
 # Poster Design image prompts
 
-44 source-linked prompts, newest ImgLume records first.
+50 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Social media post design prompt
+
+- **Original source:** [@doganuraldesign on X](https://x.com/doganuraldesign/status/2086471987543564666)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2600](https://imglume.com/prompt/2600)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/77ab197c-3d52-4645-90a0-529bc8840bb8/0a71a9dc-eaef-434e-8291-400effd6c5fb-1786291648475 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/77ab197c-3d52-4645-90a0-529bc8840bb8/b532a27d-8129-438d-9956-f87c38257e47-1786291648475 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/77ab197c-3d52-4645-90a0-529bc8840bb8/f86a6866-f27b-4488-8aa2-38321783f38f-1786291648475 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/77ab197c-3d52-4645-90a0-529bc8840bb8/39ac45f6-6fe0-4e9e-86f5-65b99f73685d-1786291648475 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Social media post design of [SUBJECT], bold editorial art direction, modern retro typography, condensed display type, oversized headlines, asymmetric modular grid, generous negative space, tactile paper-like surfaces, clean photographic cutouts, warm natural sunlight, soft shadows, restrained pastel palette, muted cream backgrounds, teal accents, occasional saturated color blocks, smooth tonal transitions, high-contrast editorial photography, playful image crops, thin rules and minimal icons, structured information hierarchy, premium lifestyle magazine aesthetic, relaxed coastal atmosphere</code></pre>
+
+</details>
+
+## Personal Brand Editorial Poster Prompt
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2086327571743211650)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2591](https://imglume.com/prompt/2591)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fe4b7b51-76ac-454a-85aa-06db99a2de98/74684efc-8bc6-460a-92a7-b3f7de8a276f-1786283152049 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fe4b7b51-76ac-454a-85aa-06db99a2de98/f1a07091-bccf-4c90-b4a8-aa55cf98bfd6-1786283152049 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/fe4b7b51-76ac-454a-85aa-06db99a2de98/b0003d53-23b1-4afa-b8c9-987f760cacb3-1786283152049 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>You are a world-class art director specializing in editorial design, brand storytelling, fashion, and graphic art.
+
+Your task is not to create a portrait likeness of a person. Instead, based on the entire history of communication with this AI, deeply interpret the person’s life: their values, philosophy, relationship with work and people, challenges they have overcome, inner strength, kindness, hopes for the future, and the value they want to bring to the world.
+
+Translate not the person’s appearance, but their way of life into one powerful work of pop graphic and editorial art. Analyze their life rather than their physical features. Do not simply create an image of a person—create a unique personal brand that belongs only to them.
+
+The artwork must not look like a magazine cover or an advertisement. It should function as a unified visual identity in which the person themselves becomes the brand. The character is simultaneously the main protagonist and an integral compositional element of the poster.
+
+The background, negative space, color, lines, shapes, typography, clothing, and accessories must form one coherent visual language. Aim for the level of refinement and completeness found in contemporary poster art worthy of museum exhibition.
+
+Visual Language
+
+Combine:
+
+- contemporary Japanese illustration,
+- international poster art,
+- Scandinavian design,
+- high-fashion editorial aesthetics.
+
+Do not create a realistic portrait or 3D computer-generated artwork.
+
+Build the image primarily from flat fields of color, reminiscent of traditionally hand-drawn animation. Simplify shadows into only two or three tonal levels. Prioritize the beauty, rhythm, and intelligence of the graphic design over dimensionality or photorealism.
+
+Feel free to depict the character from the chest up or full-body. Use cinematic compositions such as:
+
+- profile,
+- three-quarter view,
+- looking over the shoulder,
+- the moment before movement,
+- taking a step forward,
+- or the instant when the person feels the wind.
+
+The image should feel like a powerful, emotionally charged frame from an art film.
+
+Color
+
+The color palette is part of the person’s identity.
+
+Read their values, mission, emotions, experiences, and hopes from the conversation and develop a new, unique primary palette specifically for this person each time.
+
+Use one to three bold dominant colors. Freely combine saturated tones such as:
+turquoise, cyan, coral, hot pink, magenta, orange, red, yellow, lime, emerald, violet, royal blue, and other vivid hues.
+
+Every artwork must create a new visual world. Do not repeat the same color schemes or compositions.
+
+Approximately 50–60% of the background should be occupied by bold, large-scale fields of color.
+
+The background must not be a landscape.
+
+Graphic Composition
+
+Freely combine:
+
+- circles,
+- semicircles,
+- color blocks,
+- expressive brushstrokes,
+- geometric shapes,
+- halftone patterns,
+- graphic lines,
+- collage elements,
+- ink splashes,
+- paper texture,
+- hand-drawn marks and imperfections.
+
+Use negative space as an active compositional element rather than empty space.
+
+The poster should immediately capture attention and make the viewer think:
+
+“Who is this person?”
+
+Do not render every individual strand of hair. Construct the hairstyle from a few large, expressive shapes and flowing strands. Add vivid color accents when appropriate.
+
+Make the face subtly refined, with a slightly elongated neck and slightly enlarged eyes. The expression should naturally communicate:
+
+intelligence, kindness, quiet inner strength, and hope for the future.
+
+Fashion as Storytelling
+
+Fashion is the language through which the person’s life story is told.
+
+Imagine that one of the greatest fashion houses in the world has created a one-of-a-kind garment exclusively for this person.
+
+Do not imitate any existing brand. Design the clothing completely from scratch.
+
+Freely incorporate:
+
+- hats,
+- berets,
+- distinctive headwear,
+- glasses,
+- sunglasses,
+- ear cuffs,
+- earrings,
+- necklaces,
+- brooches,
+- rings,
+- watches,
+- bags,
+- scarves,
+- hair ornaments,
+- and other jewelry.
+
+Every accessory must carry meaning. Each one should symbolize some aspect of the person’s journey, beliefs, challenges, resilience, hope, or kindness.
+
+Symbolic System
+
+Give meaning to every element of the image.
+
+- Clothing symbolizes the person’s philosophy of life.
+- Color represents emotion.
+- Negative space represents the future.
+- Lines represent the path already traveled.
+- Composition represents their way of living.
+- Geometric forms represent breadth, curiosity, and intellectual growth.
+- The accent color represents hope.
+
+Nothing should be chosen randomly.
+
+Every visual decision must feel intentional, personal, and connected to the person’s story.
+
+Final Typography
+
+At the end, add one English word that symbolizes the person’s mission.
+
+Set it in a small, elegant, handwritten script.
+
+Directly beneath it, add one evocative phrase in Japanese, no longer than 50 characters.
+
+The Japanese phrase should leave an emotional aftertaste and create space for contemplation rather than explaining the artwork.
+
+Do not directly explain the meaning of the image.
+
+Complete the work as a singular piece of editorial graphic art and personal visual identity—an artwork that makes the viewer pause and wonder:
+
+“What kind of life has this person lived, and what kind of future are they trying to create?”</code></pre>
+
+</details>
+
+## Authentic 1960s American Advertising Poster
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2086309838808551892)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2575](https://imglume.com/prompt/2575)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5d46d823-9362-48f0-a6bd-bb7f56fef5e9/2f562c79-5834-47ae-9a3a-4e76637175d0-1786266323652 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5d46d823-9362-48f0-a6bd-bb7f56fef5e9/5ff14e3a-1f2c-43e0-a975-bd9259fdf7e3-1786266323652 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5d46d823-9362-48f0-a6bd-bb7f56fef5e9/61e314ab-347b-4860-96d2-b728d8cf90a6-1786266323652 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/5d46d823-9362-48f0-a6bd-bb7f56fef5e9/72321fb2-cf8d-4117-8302-fbd7d8029b2d-1786266323652 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Authentic 1960s American advertising poster for [BREW], vintage mid-century commercial illustration, [PERSON DESCRIPTION] holding a frosty glass bottle of [BREW], bright optimistic lifestyle scene, nostalgic Americana atmosphere, bold [COLOR 1] and [COLOR 2] color palette, elegant retro typography, the text “[BREW]” prominently integrated into the poster design, authentic screen print texture, subtle paper grain, hand-painted illustration style, vintage Madison Avenue advertising aesthetic, clean composition, highly detailed, warm cinematic lighting, premium poster design, authentic 1960s print imperfections, painterly realism, soft brushwork, vertical composition 4:5</code></pre>
+
+</details>
+
+## Premium Y2K-inspired fashion editorial poster of a stylish young woman
+
+- **Original source:** [@mehvishs25 on X](https://x.com/mehvishs25/status/2085919406367047984)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2542](https://imglume.com/prompt/2542)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dedfbe98-49af-428a-87df-2560e23a7742/7f58d2bb-74f9-4d5c-95dc-7842b9311013-1786220150586 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium Y2K-inspired fashion editorial poster featuring a stylish young woman with fair skin, soft natural freckles, warm brown eyes, and a sleek chin-length violet bob haircut with wispy bangs.
+The setting is a seamless pastel mint-green studio with soft diffused lighting, subtle shadows, floating translucent bubbles, sparkling white stars, and elegant glowing light ribbons that create a dreamy, modern atmosphere.
+The model is seated confidently on a stack of clean white geometric display blocks, leaning slightly forward with her elbows resting on her knees and one sneaker placed on a lower block. Her expression is calm, confident, and effortlessly fashionable, with a natural editorial pose.
+She wears a pastel tie-dye halter crop top blending sky blue, blush pink, and mint shades with contrast lime stitching, layered beneath an oversized lavender ribbed cardigan draped casually off her shoulders. Pair it with matching high-waisted lavender utility cargo pants featuring zipper pockets, metallic hardware, and delicate chain details. Complete the outfit with chunky white platform sneakers, a colorful Y2K-inspired patterned headscarf, playful beaded jewelry, floral earrings, and tiny holographic star and heart stickers decorating her arms.
+Add oversized glossy 3D pastel typography at the top with a fictional fashion collection title (not a person's name), a small minimalist creative studio credit above it, and a subtle social-style handle at the bottom. The typography should feel modern, playful, and integrated naturally into the composition.
+Overall style: luxury Y2K pop fashion, premium editorial magazine cover, vibrant pastel palette, glossy design elements, realistic skin texture, detailed hair strands, professional studio lighting, soft shadows, crisp focus, ultra-photorealistic, high-fashion campaign aesthetic, 8K resolution.</code></pre>
+
+</details>
+
+## Blue Current Editorial Sports Poster
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2085998179875697029)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2533](https://imglume.com/prompt/2533)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0ae74d94-421f-48ee-abbe-10c16fd96df0/ec441f34-c97a-45be-9b0c-61c5d47ecf21-1786211719771 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0ae74d94-421f-48ee-abbe-10c16fd96df0/0cf5688a-ab9e-434d-b75b-a33530fd06b7-1786211719771 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Luxury sports editorial poster featuring a professional male swimmer underwater during a powerful freestyle stroke, dramatic perspective with one arm extending directly toward the camera, crystal-clear turquoise swimming pool, energetic water splashes, realistic bubbles, shimmering caustic light rays, athletic muscular physique, swim goggles, Olympic training aesthetic. Shot with an ultra-wide waterproof lens, frozen action, cinematic sports photography, ultra-detailed skin, realistic water physics, vibrant aqua tones, premium commercial campaign lighting. Designed as a high-end Swiss editorial magazine cover with oversized bold condensed typography integrated behind and around the subject as a photo mask, elegant cream paper background, minimalist information column including title, series, visual notes, date, barcode, registration marks, editorial grid layout, modern graphic design, luxury sports branding, clean composition, sharp typography, premium print aesthetic, photorealistic, 8K, no watermark.</code></pre>
+
+</details>
+
+## Ultra-detailed modern pop-art portrait of a confident East Asian woman
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2086083487979733101)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2529](https://imglume.com/prompt/2529)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3e3d56cc-af29-43b2-98db-8db16498559f/1d9f5423-de10-4283-8268-f994a373f031-1786207534478 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3e3d56cc-af29-43b2-98db-8db16498559f/84abb276-4b5b-43f3-8c0e-fbe3cba56f6a-1786207534478 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-detailed modern pop-art portrait of a confident East Asian woman in a clean left-side profile, looking slightly upward with a calm, determined expression. She has a sleek chin-length bob haircut with soft wispy bangs, silky jet-black hair with a subtle natural shine, softly arched eyebrows, expressive dark brown almond-shaped eyes, delicate eyelashes, a refined nose, naturally full lips, elegant feminine facial contours, a graceful jawline, and smooth luminous natural skin with subtle pores and realistic texture.
+She is wearing oversized vibrant yellow wired over-ear headphones with a matte finish and a minimalist black oversized off-shoulder hoodie featuring realistic fabric folds and a soft premium cotton texture.
+The background features a bold solid yellow canvas with a large centered hot-pink circle positioned behind her head, creating a striking contemporary graphic composition inspired by Japanese pop-art posters and minimalist editorial design.
+Dramatic studio lighting with soft shadows, ultra-clean composition, crisp edge definition, premium digital illustration, hyper-realistic mixed-media rendering, smooth gradients, vibrant high-contrast colors, poster-quality artwork, modern branding aesthetic, centered composition, 8K resolution, Adobe Illustrator + Photoshop hybrid style, flawless detailing, magazine cover quality, minimalistic luxury design, contemporary visual identity, no text, no watermark, no logo.
+Negative Prompt:
+low quality, blurry, noisy, pixelated, distorted face, asymmetrical eyes, extra ears, extra headphones, duplicate features, bad anatomy, bad proportions, masculine facial features, oversaturated skin, flat lighting, messy background, text, watermark, logo, frame, artifacts, cropped head, low resolution.</code></pre>
+
+</details>
 
 ## Premium editorial travel illustration prompt
 

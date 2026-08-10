@@ -1,9 +1,26 @@
 # Food Drink video prompts
 
-33 source-linked prompts, newest ImgLume records first.
+34 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Anime-style cooking video of spicy cheesy ramen
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2085935002043510831)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [2531](https://imglume.com/prompt/2531)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/321bcfaa-06f4-4e92-ac68-e6104c66ac31/4d85c53e-081b-4cfa-ac25-1eb1432b5e38-1786207564635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a short anime-style cooking video showing hands preparing spicy cheesy ramen: pick instant spicy ramen from a wooden pantry, place a small pot on a gas stove, pour in water and boil the noodles over vivid blue flames. Add dark red spicy sauce and a slice of yellow cheese, then stir with chopsticks until creamy and glossy. Pour the ramen into a white bowl, then serve it on a wooden table with chopsticks and a red can of cola. Cozy, cinematic lighting, detailed food textures, smooth close-up shots, and satisfying cooking sounds.</code></pre>
+
+</details>
 
 ## Handheld cooking vlog in a warm kitchen – Seedance 2.5 video prompt
 

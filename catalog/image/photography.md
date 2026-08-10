@@ -1,9 +1,663 @@
 # Photography image prompts
 
-348 source-linked prompts, newest ImgLume records first.
+375 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-photorealistic lifestyle photograph of a Southeast Asian woman shopping in a modern Asian supermarket
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2086354173176762556)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2599](https://imglume.com/prompt/2599)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/db50b12b-4f2f-43d9-9313-c663820b0161/cb730d3f-0c0e-4109-8945-070c9f0a3e76-1786291644294 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/db50b12b-4f2f-43d9-9313-c663820b0161/1c872bdd-ed45-42ba-8c07-a2ea30e222c1-1786291644294 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/db50b12b-4f2f-43d9-9313-c663820b0161/ab969599-7c5e-4787-b4ca-66b1635cb80f-1786291644294 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/db50b12b-4f2f-43d9-9313-c663820b0161/72699ee5-05b7-40d3-bbd4-680f9666876c-1786291644294 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic vertical 9:16 lifestyle photograph of a beautiful young adult Southeast Asian woman shopping casually inside a stylish contemporary Asian supermarket. Full-body composition with a natural candid feel, captured from a slightly low eye-level perspective using a 35mm lens for realistic proportions and subtle environmental depth.
+
+She is standing beside a refrigerated drinks section, casually resting her right elbow against the refrigerator frame. Her body is turned slightly toward the camera while her gaze is directed down toward the smartphone in her left hand, giving the impression of an unposed everyday shopping moment. Her right hand lightly holds the strap of a small shoulder bag. One leg is relaxed while the other crosses slightly in front, creating a natural fashion-editorial stance.
+
+She has long, naturally straight dark-brown hair with soft face-framing strands, healthy natural skin texture, delicate Southeast Asian facial features, and a subtle relaxed expression. Her makeup is minimal and fresh, with soft natural lips and lightly defined eyes.
+
+She wears a fitted cream-colored ribbed short-sleeve top layered beneath a loose pastel-blue cropped cardigan with delicate buttons. The cardigan has natural fabric texture and subtle folds. She pairs it with high-waisted wide-leg light-wash denim jeans with a relaxed silhouette and realistic denim creases. Clean white low-top sneakers complete the outfit. A small pastel shoulder bag hangs naturally at her side.
+
+Beside her is a modern silver shopping basket trolley with black wheels. Inside are a few casually placed grocery items, including colorful beverage cans, packaged snacks, and a small yellow shopping bag, while most of the basket remains empty.
+
+The supermarket interior feels premium, modern, and distinctly Asian, with polished light flooring, clean white shelving, subtle wood accents, and contemporary signage. Behind her, a large illuminated refrigerator contains neatly arranged fruit drinks, sparkling beverages, milk bottles, and colorful cans in soft yellow, peach, orange, green, and white tones. Another aisle extends into the background with neatly organized snacks and convenience foods.
+
+Warm overhead lighting mixes naturally with the cool white glow from the refrigerator, creating soft highlights and realistic shadows. The scene has a cozy evening-shopping atmosphere with a sophisticated lifestyle-editorial aesthetic.
+
+Color palette: cream, pastel blue, soft peach, warm yellow, white, light denim, and subtle wood tones.
+
+Style: modern Southeast Asian lifestyle photography, candid supermarket fashion, premium editorial photography, contemporary Asian aesthetic, subtle Xiaohongshu-inspired visual style, cozy everyday shopping mood.
+
+Ultra-photorealistic DSLR photography, RAW image quality, HDR, realistic skin pores and texture, detailed hair strands, authentic fabric and denim texture, physically accurate lighting, realistic reflections on refrigerator glass, detailed beverage packaging, natural shadows, realistic proportions, subtle background bokeh, crisp subject focus, cinematic depth, true-to-life colors, premium commercial photography, 8K UHD, highly detailed, no text overlays, no watermark.</code></pre>
+
+</details>
+
+## Two high school girls hugging on a Korean school staircase, photorealistic smartphone photo
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2086309596327817390)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `photography`
+- **ImgLume record:** [2596](https://imglume.com/prompt/2596)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c4ffc080-74d9-454d-ab7e-393585755498/02f065f5-00e6-4f70-ab4e-0d8b56b3157f-1786291589592 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c4ffc080-74d9-454d-ab7e-393585755498/8a810d44-7965-466e-977b-9869e47deadc-1786291589592 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c4ffc080-74d9-454d-ab7e-393585755498/28fdeff4-20b8-49e2-8140-83c32c1adc85-1786291589592 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>2 female high school students standing on a school staircase, warmly hugging each other, subtle happy smiles, looking at each other instead of the camera, unaware of the camera, candid moment, authentic Korean school stairwell, soft afternoon sunlight, shot on iPhone 16 Pro, natural HDR, realistic smartphone photo, handheld, slightly imperfect framing, natural colors, everyday moment, photorealistic,</code></pre>
+
+</details>
+
+## High-end photorealistic studio portrait of a male subject
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2086314459736506804)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2595](https://imglume.com/prompt/2595)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e62e2d38-130c-4891-b44b-d24d4b6fc239/cc9ab7fc-bfc1-4f81-92e8-1b3d55248749-1786291573472 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e62e2d38-130c-4891-b44b-d24d4b6fc239/798ec6df-ab43-4c03-8748-fdcdb7617060-1786291573472 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e62e2d38-130c-4891-b44b-d24d4b6fc239/988ebfe8-70d4-46de-b570-2e5c211d5d6b-1786291573472 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-end photorealistic studio portrait of a male subject, framed from the chest up, facing directly toward the camera with a calm, neutral and confident expression. The subject has well-defined masculine facial features, realistic natural skin texture, detailed eyes, subtle pores, clean grooming, and neatly styled hair. He is wearing a simple oversized black crew-neck T-shirt. Use a minimal seamless studio background with a smooth purple-to-deep-blue gradient. Dramatic cinematic two-tone lighting: vibrant magenta/pink rim light from the left side and cool electric-blue light from the right, creating subtle colored highlights along the face, ears, hair and shoulders while maintaining natural skin tones. Soft frontal fill light keeps facial details clear, with controlled shadows and strong dimensionality. Symmetrical composition, centered head and shoulders, eye-level camera, straight-on perspective, medium close-up, 85mm portrait lens look, shallow depth of field, crisp facial focus, soft background falloff, premium fashion/editorial photography, cinematic color grading, realistic skin, high dynamic range, professional studio photography, ultra-detailed, clean composition, no props, no text, no logos.</code></pre>
+
+</details>
+
+## Ultra-realistic casual smartphone photo of a young woman indoors
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2086368790875684984)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2593](https://imglume.com/prompt/2593)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e4bddbe2-0bdc-42d1-b1d3-e0ff98c062e3/290d8dca-c513-479d-ac05-ef2ac601e224-1786285217045 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e4bddbe2-0bdc-42d1-b1d3-e0ff98c062e3/fea8967b-a364-46c9-9ceb-84eed821b99e-1786285217045 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic casual smartphone photo of a young woman standing indoors against a simple light gray wall. She has long, straight dark brown to black hair parted naturally in the middle, falling loosely over her shoulders and down her back. She has a soft natural face, minimal makeup, relaxed eyes, and a warm subtle closed-mouth smile.
+She is wearing a loose oversized black graphic T-shirt. Her body is turned slightly sideways toward the camera, with her head gently tilted toward the camera. One hand is raised naturally near her hair, lightly touching a strand beside her shoulder. She looks directly at the camera with a relaxed, playful, slightly shy expression.
+Simple home interior, plain pale gray wall in the background, a small electrical outlet visible on the right side. Natural indoor ambient lighting, slightly dim and soft, realistic shadows, ordinary everyday environment.
+Camera style: vertical smartphone video frame, handheld casual recording, slightly low-resolution social-media video quality, mild natural motion softness, subtle smartphone lens distortion, realistic skin texture, unfiltered appearance, candid moment, no professional photography, photorealistic, authentic human proportions.
+
+Negative prompt: overly beautiful model look, heavy makeup, perfect studio lighting, plastic skin, beauty filter, CGI, anime, cartoon, exaggerated eyes, distorted face, extra fingers, malformed hands, unrealistic body, excessive sharpness, oversaturated colors, watermark, text, logo.</code></pre>
+
+</details>
+
+## Young woman fashion portrait in tropical setting
+
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2086368734667829403)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `photography`
+- **ImgLume record:** [2592](https://imglume.com/prompt/2592)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8cdab9a3-e059-42d9-b606-eda4dbfd3393/a3e31d05-58d1-4248-80f8-b08280d58b66-1786283176039 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8cdab9a3-e059-42d9-b606-eda4dbfd3393/da44503b-0747-4c11-9cf0-4315b1f03f65-1786283176039 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8cdab9a3-e059-42d9-b606-eda4dbfd3393/9d4f563b-5cf8-4866-968c-7239b1d8b1e6-1786283176039 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8cdab9a3-e059-42d9-b606-eda4dbfd3393/f7a64549-a64b-4430-999e-0c49d4d90985-1786283176039 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject:
+A young woman with a natural, elegant appearance, warm fair-to-light skin tone, medium-brown hair pulled back into a neat low ponytail with a few soft strands framing her face. She has natural eyebrows, subtle makeup, clear skin texture, and a calm, composed expression. She looks directly toward the camera with a relaxed, confident gaze. Her posture is upright and casual, viewed from a dramatic low-angle perspective, with one hand gently raised near her hair while the other arm rests naturally at her side.
+
+Clothing &amp; accessories:
+She wears a fresh pastel-mint green cropped button-up shirt with long sleeves, a small collar, and neatly arranged buttons. The shirt has a relaxed contemporary fashion aesthetic. She pairs it with light-blue relaxed-fit distressed denim jeans featuring subtle worn details and natural fabric texture. A simple dark bracelet is worn on one wrist. Keep the styling tasteful, modern, casual, and fashion-editorial.
+
+Environment &amp; lighting:
+Outdoor tropical setting beneath a bright blue sky with soft, naturally formed white clouds. Tall palm leaves frame the upper-left corner, creating a subtle sense of depth and location. Bright daytime sunlight illuminates the subject naturally, producing soft highlights on her hair and clothing while maintaining realistic skin tones. The overall atmosphere is fresh, airy, summery, and vibrant.
+
+Camera &amp; visual style:
+Low-angle full-body fashion photograph, camera positioned slightly below the subject for an expressive perspective. Shot on a 35mm lens, natural daylight, realistic depth of field, crisp subject detail, subtle background separation, authentic fabric textures, realistic skin texture, balanced exposure, high dynamic range, cinematic color grading, professional lifestyle photography, natural proportions, photorealistic rendering, ultra-detailed, clean composition, high resolution.</code></pre>
+
+</details>
+
+## Ultra-realistic Luxury Safari Magazine Cover
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2086118881702162601)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [2590](https://imglume.com/prompt/2590)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1a8263f3-62f3-4b84-8cf6-12464d28bf74/09a8da78-2b1f-4e78-8c77-31755f24ba16-1786283132971 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic luxury safari travel magazine cover featuring a confident South Asian man seated inside an open safari vehicle during golden hour in the African savannah. He wears an olive-green linen short-sleeve safari shirt with matching tailored shorts and premium black sunglasses. His posture is relaxed, with one arm resting naturally on the vehicle's side rail while looking off into the distance with a calm, adventurous expression.
+In the softly blurred background, a herd of elephants, including a baby elephant, walks across golden grasslands dotted with iconic acacia trees. The safari vehicle roof frames the upper portion of the composition, creating a premium cinematic perspective.
+Photographed on a full-frame DSLR, 85mm lens, f/1.8, ultra-high-resolution RAW. Warm cinematic natural lighting, physically accurate shadows, realistic skin pores, subtle imperfections, fine facial hair, detailed fabric textures, authentic linen wrinkles, true-to-life colors, shallow depth of field, crisp focus on the subject, premium editorial color grading, luxury travel advertisement aesthetic, National Geographic × Condé Nast Traveller quality, hyper-realistic, 8K.
+Magazine cover design with elegant minimalist typography, premium serif headline "WILD ELEGANCE", subtitle "Luxury Safari Experiences", clean editorial layout, refined spacing, sophisticated travel branding, luxury brochure aesthetics, high-end print-ready composition.
+Negative Prompt: cartoon, anime, CGI, illustration, painting, plastic skin, wax skin, beauty filter, AI artifacts, blurry, low resolution, distorted anatomy, extra fingers, extra limbs, oversaturated colors, watermark, logo, random text, compression artifacts.</code></pre>
+
+</details>
+
+## Photorealistic portrait of a young woman in a modern bedroom
+
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2086389225415749699)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2589](https://imglume.com/prompt/2589)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4ba67eff-092e-4f00-8997-73a27668bc40/78309f3e-8657-4a0b-9a1d-3b24c5d6c664-1786283121906 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4ba67eff-092e-4f00-8997-73a27668bc40/30b64a0a-3805-4dba-9cf2-42739cf7d5fe-1786283121906 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4ba67eff-092e-4f00-8997-73a27668bc40/8dbcdc45-9da2-4a73-a0ba-0cf12fb6a4b3-1786283121906 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4ba67eff-092e-4f00-8997-73a27668bc40/15c07c15-01ec-4ae4-a48f-d9d42cf558ab-1786283121906 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject description:
+A young woman with a natural, refined appearance and light-to-medium skin tone. She has dark brown hair gathered into a relaxed low ponytail, with a few loose strands softly framing her face. Her features are natural and realistic, with subtle makeup, softly defined eyebrows, and authentic skin texture. She has a calm, thoughtful expression while looking slightly toward the right side of the room. She is seated comfortably on the polished floor in a relaxed, composed pose, with one hand resting naturally beside her and the other placed gently on a folded textile.
+
+Clothing &amp; accessories:
+She wears a simple rust-orange sleeveless cropped top with clean, minimal styling and a high-waisted, flowing slate-gray wrap skirt with visible pleats and natural fabric texture. The skirt is arranged loosely around her seated position. She wears understated silver-toned bangles and a delicate bracelet, keeping the overall styling elegant and casual. No prominent logos or branded elements.
+
+Environment &amp; lighting:
+A bright, modern bedroom with warm wooden furniture, a neatly arranged bed, pale walls, large floor-to-ceiling windows, and a clean glossy tiled floor that creates subtle natural reflections. A striped garment hangs near the left side of the room, while a folded blue-and-white textile lies beneath her hand. Soft daylight enters through the large windows, creating gentle illumination across the room, realistic shadows, and a peaceful morning atmosphere. Keep the environment uncluttered and authentic.
+
+Camera &amp; visual style:
+Photorealistic lifestyle photography, 50mm lens, eye-level to slightly low camera perspective, natural depth of field, soft window light, realistic exposure, subtle cinematic color grading, highly detailed fabric textures, authentic skin texture, natural hair strands, accurate hands and proportions, gentle background separation, crisp focus on the subject, warm neutral tones, high dynamic range, professional editorial photography, high resolution.</code></pre>
+
+</details>
+
+## High-end fashion beach photo of \[NAME\]
+
+- **Original source:** [@Giulia_4i on X](https://x.com/Giulia_4i/status/2086369392019792042)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2587](https://imglume.com/prompt/2587)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1b013305-cc00-46e1-9df6-37b4516fde3c/8f66e42b-cecc-4877-91dd-59a74f9877d4-1786278936838 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1b013305-cc00-46e1-9df6-37b4516fde3c/16b9b606-2451-4a3b-b327-85af61d14a3d-1786278936838 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1b013305-cc00-46e1-9df6-37b4516fde3c/a1e72f28-08c4-4203-89de-06ec87d0c3fb-1786278936838 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An exceptional, high-end professional fashion and photojournalism photograph in a 9:16 vertical aspect ratio captures a stunning, naturalistic photorealistic image of [NAME] on a sun-drenched tropical beach. Her sun-kissed skin glows with natural moisture and hydration, reflecting the bright direct late-morning sunlight which creates subtle dimension without harsh lines. Her long, naturally wavy hair is adorned with small clusters of fresh white jasmine flowers on the left side, and she looks directly into the camera with a confident, direct gaze. She wears a precise application of polished natural-style makeup, including a defined red lipstick and soft pink blush, complemented by small dangling floral earrings made of natural elements. Her fit, athletic, and naturally curvy hourglass figure is showcased in a dark forest green textured one-piece monokini swimsuit featuring a clean-cut halter neck, intricate side cutouts, and tie strings. She is captured mid-stride in a dynamic pose from a medium-low angle, looking softly up to enhance her presence, as she slightly turns with her right arm angled forward and hips twisted to highlight the swimwear details. She walks on fine white sand, with gentle turquoise ocean waves in the mid-ground and a natural coastline with distant hills under a clear blue sky in the background, framed by lush palm fronds in the top right corner. The scene is illuminated by direct, bright natural daylight, creating sharp highlights and deep natural shadows that naturally saturate skin and hair, with natural reflections on the water. The overall quality is marked by exceptional sharpness and detail, High Dynamic Range (HDR), minimal digital noise, perfect texture rendering of skin pores and fabric weave, and professional color grading, focusing sharply on the subject.</code></pre>
+
+</details>
+
+## Wholesome cinematic anime-inspired lifestyle portrait with magical manga shadows
+
+- **Original source:** [@selinatasnim1 on X](https://x.com/selinatasnim1/status/2086261961189462076)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2583](https://imglume.com/prompt/2583)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/74641401-e240-44b5-8740-157840ad7388/ed1ebca1-8619-48cb-aa98-26130b91b950-1786274722329 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/74641401-e240-44b5-8740-157840ad7388/b62ca79e-30e0-4612-b2f6-edc295183056-1786274722329 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a wholesome, cinematic anime-inspired lifestyle portrait of a cute young woman with a short pastel-pink bob haircut. She is wearing an oversized vintage red plaid flannel shirt, relaxed baggy blue jeans, and classic canvas sneakers. Beside her is a fluffy gray-and-white British Shorthair cat wearing a tiny matching plaid bandana.
+
+They are naturally interacting in a warm, candid moment, illuminated by soft golden-hour sunlight against a clean minimalist beige wall. The sunlight creates long, gentle shadows on the wall and ground.
+
+Add a whimsical magical element: the shadows are transformed into playful hand-drawn manga illustrations. The woman's shadow becomes an adorable chibi anime version of herself in a joyful, energetic pose. The cat's shadow transforms into a funny cartoon version of the cat, playfully waving, dancing, or reaching toward her.
+
+The illustrated shadows should feel naturally integrated into the real environment, as if the pencil-drawn characters are emerging directly from the shadows. Include delicate pencil-sketch linework, expressive manga motion marks, tiny hearts, stars, butterflies, and spontaneous doodles woven organically into the shadow shapes.
+
+Overall aesthetic: cozy slice-of-life anime, modern manga illustration blended with premium editorial photography, whimsical storytelling, minimalist composition, warm cinematic lighting, authentic candid emotion, dreamy atmosphere.
+
+Highly detailed realistic fur, natural skin texture and tones, realistic fabric details, subtle environmental textures, soft atmospheric depth, realistic sunlight and shadow behavior, shallow depth of field, 50mm photography look, Kodak Portra 400-inspired color rendering, photorealistic subject combined with hand-drawn manga shadow art, sophisticated visual balance, premium composition, ultra-detailed, cinematic, magical yet believable, masterpiece quality, 8K.</code></pre>
+
+</details>
+
+## Ultra-Realistic Cinematic Street Fashion Portrait of a Young Asian Woman
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2086321313858429100)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2582](https://imglume.com/prompt/2582)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4b3ea78e-9705-414d-8118-dafd0c9d80d8/fba81d54-90bd-40eb-a8a3-3c7e92a4fc12-1786270671308 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4b3ea78e-9705-414d-8118-dafd0c9d80d8/64d6ccfa-f5a3-4746-9e9e-82f02ada07d0-1786270671308 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>ULTRA-REALISTIC CINEMATIC STREET FASHION PORTRAIT — 8K, RAW DSLR QUALITY, MASTERPIECE, HYPER-DETAILED, PHOTOREALISTIC.
+Use the FIRST UPLOADED IMAGE as the MAIN SCENE, CAMERA ANGLE, POSE, COMPOSITION, BACKGROUND, AND BODY POSITION REFERENCE. Use the SECOND UPLOADED IMAGE as the EXCLUSIVE FACIAL IDENTITY REFERENCE.
+A young Asian woman standing casually on a wide asphalt road with bold alternating black-and-white painted stripes. Photographed from a high overhead/bird’s-eye perspective, looking directly up toward the camera with a calm, confident, slightly cool expression. Her body is relaxed, both hands naturally inside her pants pockets, with one leg slightly bent and crossed casually in front of the other. Preserve the exact overall pose, perspective, framing, and visual composition of the first reference image.
+
+FACE &amp; IDENTITY — CRITICAL:
+
+Use the SECOND uploaded photo to reproduce the person's facial identity as accurately as possible. Preserve her exact facial structure, face shape, forehead, eyebrows, eyes, eyelids, nose shape, lips, cheeks, jawline, chin, ears, natural skin texture, complexion, and natural facial proportions. Do not replace, redesign, beautify, masculinize, feminize, or stylize her face. The final face must clearly remain the same person from the facial reference.
+
+HAIR:
+
+The hairstyle must follow the person in the SECOND uploaded facial reference. Preserve her natural hair characteristics, hairline, texture, thickness, length, volume, and overall hairstyle. Do not copy the hairstyle from the first scene reference.
+
+OUTFIT:
+
+Generate a RANDOM feminine modern streetwear outfit that is completely different from the clothing in both reference images. The outfit can be an oversized T-shirt, relaxed-fit shirt, hoodie, bomber jacket, varsity jacket, denim jacket, casual blazer, or other stylish contemporary streetwear piece, paired with relaxed or loose-fit pants and fashionable sneakers.
+
+Randomize the clothing colors, patterns, and design while keeping the entire outfit cohesive, realistic, feminine, trendy, stylish, and effortless.
+
+ACCESSORIES:
+
+Random subtle feminine accessories are allowed, such as a watch, bracelet, simple rings, small earrings, or a minimal necklace. Keep accessories natural, understated, and realistic.
+
+LIGHTING &amp; VISUAL STYLE:
+
+Natural outdoor daylight, soft realistic shadows, authentic asphalt texture, realistic fabric texture, natural skin tones, cinematic color grading, subtle film grain, realistic depth and perspective, premium street-fashion photography aesthetic, RAW DSLR quality.
+
+CAMERA &amp; COMPOSITION:
+
+High-angle bird’s-eye/top-down photography, camera positioned directly above the subject, full-body shot, vertical 9:16 composition, subject centered in frame, realistic head-to-body proportions, natural anatomy. Preserve the strong geometric black-and-white road stripes from the first reference image.
+
+IMPORTANT:
+
+FIRST IMAGE = scene, pose, camera angle, body position, composition, background.
+
+SECOND IMAGE = facial identity, facial structure, hairstyle, hair characteristics, skin texture, and facial features.
+
+Do not mix the identity or hairstyle from the first image with the person from the second image.
+
+NEGATIVE PROMPT:
+
+different person, altered facial identity, face swap error, changed facial structure, different eyes, different nose, different lips, different jawline, different ears, altered skin tone, excessive beautification, beauty filter, plastic skin, excessive skin smoothing, anime, cartoon, CGI, 3D render, illustration, doll face, unrealistic face, oversized head, tiny head, unnatural body proportions, bad anatomy, deformed hands, extra fingers, missing fingers, duplicated limbs, distorted legs, floating feet, unnatural pose, blurry face, low resolution, excessive sharpening, unrealistic clothing, watermark, logo, text, cropped body, altered facial identity, masculine facial features, unrealistic body proportions.</code></pre>
+
+</details>
+
+## Ultra-photorealistic 8K HDR editorial photograph of a 1969 Chevrolet Camaro powersliding in a desert
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2086330475560255655)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2579](https://imglume.com/prompt/2579)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7450b0ae-fd58-484a-90e4-ff5b392e7377/cc709fd4-8712-465c-a77b-77e49b163b00-1786270559196 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7450b0ae-fd58-484a-90e4-ff5b392e7377/89733325-cb6f-41d5-b920-2035caee86c1-1786270559196 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic 8K UHD RAW HDR automotive editorial photograph of a 1969 first-generation Chevrolet Camaro, glossy black body with a clean white roof, performing an aggressive high-speed powerslide on an open desert dirt road. Thick realistic dust erupts from the rear tires with natural turbulence, flying gravel and sharp tire tracks conveying extreme speed.
+
+A young female driver leans slightly toward the open window, left arm casually resting on the door, right hand gripping the wheel. Her face is clearly visible, sharp and unobstructed, eyes focused forward, calm confident expression, windblown hair, natural skin texture. No reflections, shadows, or glass obstructing his face.
+
+Composition: vertical 9:16, dramatic high-angle aerial front 3/4 view from approximately 45–70° above, as if tracked by a drone. Car fills 75–80% of frame, white roof clearly visible, massive dust trail behind it, slight negative space ahead to emphasize motion.
+
+Lighting: golden-hour sunset, warm directional light on the car and driver, subtle natural rim light, realistic glossy reflections, long dramatic shadows, perfectly balanced facial exposure.
+
+Look: premium automotive editorial photography, cinematic Kodak Portra 400 aesthetic, warm earthy tones, golden highlights, slightly cool shadows, natural saturation, medium contrast, high dynamic range, subtle analog film grain.
+
+Vehicle: authentic 1969 Camaro proportions, pristine glossy black paint, white roof, classic five-spoke racing wheels, realistic torque deformation on rear tires, dust on lower body, crisp chrome and body-line details.
+
+Camera: Sony A1 II, FE 50mm f/1.2 GM, 50mm, f/2.8, 1/2500s, ISO 200, continuous AF, tracking/panning. Ultra-sharp focus on driver’s face, hands, roof and front body; natural motion blur only on wheels and dust.
+
+Environment: vast barren desert landscape, clear warm sky, unobstructed horizon, cinematic atmospheric dust.
+
+Quality: physically accurate lighting, realistic reflections, natural skin, authentic vehicle materials, realistic dust simulation, true-to-life motion physics, hyper-detailed, cinematic, premium editorial, IMAX-quality realism.
+
+Negative: CGI, cartoon, anime, AI artifacts, low resolution, oversaturated colors, overprocessed HDR, blurry/obscured face, reflective glass over face, distorted car, warped panels, duplicated wheels, unrealistic dust, deformed hands/face, plastic skin, excessive sharpening, watermark, text, logo, cropped vehicle, out of frame, compression artifacts, ghosting.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic portrait of a young woman on a beach at golden hour
+
+- **Original source:** [@mehvishs25 on X](https://x.com/mehvishs25/status/2086129586916807065)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2578](https://imglume.com/prompt/2578)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f46f8fd4-5c86-45e1-befe-087a32a6951c/f7fa6ed3-99e3-4042-b6a2-5501c9a8ba63-1786270531571 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f46f8fd4-5c86-45e1-befe-087a32a6951c/600698a5-929c-4439-9352-b1bc18a8cb4e-1786270531571 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic portrait of a beautiful young adult woman standing on a serene beach during an overcast golden-hour evening. She has long, naturally wavy dark brown hair flowing gently in the sea breeze, soft natural makeup, delicate facial features, warm expressive eyes, and a sweet subtle smile.
+
+Her head is slightly tilted toward the camera in a charming candid pose. She is wearing an elegant strapless white satin maxi dress with natural fabric folds and a fitted silhouette. Relaxed posture, one hand gently holding the side of the dress, natural body proportions.
+
+Behind her is a beautiful ocean with soft rolling waves, wet sandy shoreline, subtle footprints, and a cloudy pastel blue-gray sky. Soft diffused natural lighting, realistic skin texture, fine hair strands, cinematic depth of field, photorealistic photography, DSLR quality, 85mm lens, shallow depth of field, natural colors, high detail, 4K, candid vacation photography, vertical composition, 9:16.</code></pre>
+
+</details>
+
+## Ultra-realistic candid smartphone selfie of a Japanese schoolgirl in a classroom
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2086297740602958251)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2574](https://imglume.com/prompt/2574)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9edfcc0f-e4c9-4aef-aefc-fff1dc5476bf/fa610e13-8bc8-4a97-a4d8-91af807aa875-1786262197728 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9edfcc0f-e4c9-4aef-aefc-fff1dc5476bf/c52160f9-321b-45b4-a685-5a736962f6d1-1786262197728 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic candid smartphone selfie of a beautiful young East Asian woman sitting at a wooden desk in a bright Japanese classroom. She has shoulder-length straight dark brown hair with soft wispy bangs framing her face, natural makeup, clear fair skin, subtle pink lips, and a calm slightly dreamy expression. She rests her cheek gently against the back of her right hand, with her elbow placed on the desk, looking directly into the camera.
+She is wearing a loose white and navy blue Japanese-style school track jacket with dark navy panels, white piping details, ribbed cuffs, and a black collar. Her pose is relaxed and natural, as if casually taking a selfie during class.
+On the wooden desk in front of her are an open textbook and a colorful Japanese-language manga/textbook with illustrated characters. In the background, there is a large green chalkboard with handwritten Japanese equations and notes, a wall-mounted air conditioner, large classroom windows with white curtains, and bright daylight streaming through the windows. A dark patterned school bag or jacket is visible on the right side.
+Photography: handheld smartphone front-camera selfie, slightly wide-angle perspective, camera positioned close to her face at desk level, natural arm-length framing, realistic lens distortion, soft daylight, authentic classroom atmosphere, subtle imperfections, highly detailed realistic skin and hair, natural shadows, photorealistic, candid Japanese school-life aesthetic, 4K, no studio lighting, no artificial beauty filter.
+Negative prompt: anime girl, cartoon, CGI, plastic skin, excessive makeup, over-smoothing, unrealistic eyes, distorted face, extra fingers, malformed hands, duplicate limbs, blurry face, artificial pose, oversaturated colors, studio portrait, watermark, logo, unreadable distorted text.</code></pre>
+
+</details>
+
+## Ultra-photorealistic luxury fashion portrait
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2086314876960403868)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2573](https://imglume.com/prompt/2573)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/68b81fa1-a63b-41e7-972c-e3e804d1bbba/fed32932-746e-4159-9a55-2790114abce5-1786262194990 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic full-body luxury fashion portrait using the reference image for the same facial identity. Preserve her facial features, skin tone, eyes, nose, lips, and natural expression. Keep the elegant braided updo, soft makeup, geometric earrings, and delicate pendant.
+
+She is seated gracefully on a plush taupe tufted sofa, wearing the same floor-length floral patchwork gown with its exact colors, patterns, fabric, and flowing silhouette, paired with metallic strappy heels. Warm natural sunlight enters from the side, creating soft highlights and realistic shadows. Dark charcoal curtains and a sophisticated luxury living-room setting form the background.
+
+High-end fashion editorial photography, natural skin texture, realistic fabric folds, cinematic lighting, 50mm lens, shallow depth of field, ultra-photorealistic 8K detail, natural anatomy, realistic hands and feet, no text, no logo, no watermark.</code></pre>
+
+</details>
+
+## Ultra-photorealistic full-body fashion photo
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2086321998746267983)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2572](https://imglume.com/prompt/2572)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/48f51f8b-2ddb-4dde-a7a1-9b8f75c4b51f/dcc87384-01d5-432e-af1f-f81042c97313-1786262169815 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-photorealistic full-body fashion photo of a stylish young woman standing in a luxury tropical villa beside a swimming pool. Long dark hair, black sunglasses, black oversized floral shirt, white cargo jogger pants, silver watch, black-and-white sneakers. Lush palm and monstera plants, modern beige villa, poolside loungers, warm natural daylight, realistic skin and fabric texture, cinematic fashion photography, 9:16 vertical, 8K, natural anatomy.</code></pre>
+
+</details>
+
+## Photorealistic fashion-adventure images of Wareen skydiving over alpine landscape
+
+- **Original source:** [@Wareenaa on X](https://x.com/Wareenaa/status/2086318480425644397)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [2571](https://imglume.com/prompt/2571)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f03efa85-bf84-4863-9e9f-13590f8180bd/348d324b-86da-40be-b80d-4187547d1cec-1786262164518 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f03efa85-bf84-4863-9e9f-13590f8180bd/d17250e5-6326-4d34-8942-9436724fe5e0-1786262164518 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create two separate photorealistic fashion-adventure images of the same character, Wareen: a young woman with fair skin, natural freckles, expressive brown eyes, and a short vibrant purple bob haircut with soft bangs.
+
+Wareen wears a pale sage-green full-body skydiving/flight suit with a high collar and zipper, small red and black embroidered patches on both sleeves, a heavy black-and-brown skydiving harness, dark-framed clear glasses, and light-colored sneakers.
+
+She is flying high above a breathtaking alpine landscape with snow-capped mountain peaks, green valleys, and a large turquoise-blue lake beneath a clear bright blue sky with thin wispy clouds. A large inflated ram-air parachute in orange, red, and yellow is visible above her, connected by thin suspension lines.
+
+IMAGE 1: Dynamic medium full-body frontal view, Wareen flying toward the camera with both arms stretched wide, hands open, legs bent naturally behind her, smiling with an excited joyful expression.
+
+IMAGE 2: Wider cinematic full-body aerial view, Wareen centered in the sky with arms spread and legs bent, showing more of the enormous mountain range and turquoise lake below.
+
+Bright natural daylight, crisp realistic shadows, wind-blown purple hair, realistic fabric and harness details, adventurous sports photography, high-energy composition, photorealistic, ultra-detailed, cinematic, 8K.</code></pre>
+
+</details>
+
+## Luxury rooftop portrait of a woman at blue hour
+
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2086324027396899297)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2570](https://imglume.com/prompt/2570)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/560f51cc-f543-44b7-b9e0-436f134bd6ca/3e70bb78-0158-486a-85af-7419caef5f42-1786262139189 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/560f51cc-f543-44b7-b9e0-436f134bd6ca/78ffcdd2-9d9e-4c00-86e0-905167cb97ae-1786262139189 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic luxury rooftop lifestyle portrait of a young woman during blue hour in a modern city. She has fair skin with realistic natural texture, softly defined facial features, and shoulder-length blonde hair styled in a relaxed, slightly tousled manner, with a few loose strands naturally framing her face. Her expression is calm and confident, with a subtle closed-mouth smile and direct eye contact with the camera.
+
+She is standing naturally beside a sleek rooftop railing, using one hand lightly against the railing while the other arm rests comfortably at her side. Her posture is relaxed and elegant, with a slight three-quarter turn toward the camera. The composition should feel like a candid luxury travel photograph rather than a heavily posed studio image.
+
+She is wearing a deep red, elegant one-piece swimsuit with wide shoulder straps and clean, structured tailoring. The fabric should have a realistic matte texture with subtle stitching and natural folds. Keep accessories minimal and sophisticated, small understated earrings and a delicate bracelet, with no visible logos or branding.
+
+The setting is a high-end rooftop terrace overlooking a large modern city skyline at dusk. Tall illuminated skyscrapers rise in the background, with countless warm city lights gradually appearing as the sky transitions from soft lavender and pink near the horizon to deeper blue above. Include a glass-and-metal balcony railing, contemporary rooftop architecture, subtle architectural lighting, and a few tasteful outdoor furnishings. The city should remain recognizable as an urban environment without referencing a specific celebrity or person.
+
+Use soft twilight ambient light combined with subtle warm architectural lighting on the terrace. The woman's face should be naturally illuminated with gentle, balanced highlights while retaining realistic shadows and skin texture. The distant city lights should produce a beautiful soft bokeh effect.
+
+Camera and style: shot on an 85mm full-frame portrait lens, natural perspective, medium shallow depth of field, professional luxury lifestyle photography, cinematic blue-hour color grading, realistic skin tones, detailed individual hair strands, accurate fabric texture, high dynamic range, crisp facial details, subtle film grain, realistic city-light bokeh, balanced exposure, sophisticated composition, photorealistic 4K detail.</code></pre>
+
+</details>
+
+## Ultra-realistic high-fashion black-and-white portrait of a young East Asian woman
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2086108268318114288)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2562](https://imglume.com/prompt/2562)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/71609ba6-fe39-4c4c-ac18-f0f48c53dcf3/73eb6046-e8b6-4304-8ecd-e412705e2d7d-1786253744647 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/71609ba6-fe39-4c4c-ac18-f0f48c53dcf3/0c0f0dfc-e901-45b6-b358-ed0bf4742eda-1786253744647 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic, breathtaking high-fashion black-and-white beauty portrait designed to instantly stop the scroll. A stunning young East Asian woman with an effortlessly captivating presence, long, thick, slightly tousled dark hair naturally framing and partially covering her face. Her luminous skin has realistic pores, delicate texture, subtle highlights, and soft natural radiance.
+Her face is the undeniable focal point: expressive almond-shaped eyes with intense natural catchlights, perfectly defined yet realistic brows, elegant winged eyeliner, long separated lashes, a refined sculpted nose, softly defined cheekbones, and naturally full glossy lips slightly parted with a subtle glimpse of teeth. Her gaze locks directly onto the camera with a quietly confident, mysterious, magnetic expression that creates immediate visual connection.
+She poses in an elegant three-quarter angle, head slightly tilted toward the camera, with one hand naturally resting behind her hair. A graceful bare shoulder enters the foreground, adding depth and sophisticated editorial sensuality without appearing provocative. Hair strands gently fall across parts of her face, creating an authentic candid-fashion feel.
+VISUAL HOOK: extreme facial detail, mesmerizing eye contact, dramatic facial framing, strong foreground/background separation, instantly recognizable silhouette, intimate camera proximity, emotionally captivating expression.
+Soft directional studio lighting creates sculpted cheekbones, delicate facial shadows, luminous skin highlights, and beautiful tonal depth. Deep blacks balanced with clean silvery highlights, sophisticated monochrome grading, subtle analog film grain, refined editorial contrast, realistic skin texture, individual flyaway hairs visible.
+Minimalist light-gray studio background with extremely clean negative space, no distractions. Luxury beauty campaign × Korean fashion editorial × cinematic magazine cover aesthetic.
+Shot on an 85mm portrait lens, close camera distance, shallow depth of field, razor-sharp focus on the eyes and lips, natural optical compression, creamy background falloff, cinematic framing, professional studio photography, photorealistic, ultra-detailed, high dynamic range, realistic anatomy, authentic skin texture, 8K-quality detail.
+Composition: vertical 3:4, face positioned prominently in the upper-center frame, eyes near the visual focal point, shoulder creating a strong diagonal leading line toward the face, balanced negative space, premium editorial composition.
+Overall mood: mysterious, elegant, luxurious, effortlessly beautiful, emotionally magnetic, sophisticated, timeless — the kind of portrait that makes someone pause mid-scroll and look twice.</code></pre>
+
+</details>
+
+## Photorealistic fashion portrait of a young woman in a minimalist café-inspired apartment
+
+- **Original source:** [@DaniaSafvi on X](https://x.com/DaniaSafvi/status/2085989988127433116)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2558](https://imglume.com/prompt/2558)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9835f28b-afcf-4e81-a2e3-e1b746800efd/7af47fac-7b65-44f4-9e91-44a8015e9126-1786245334796 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic fashion portrait of a young woman standing indoors in a warm, minimalist café-inspired apartment. She has long, voluminous wavy dark brown hair cascading over her shoulders, soft natural makeup, subtle pink lips, and delicate facial features. She is looking slightly to the side with a calm, elegant expression. She wears a fitted black ruched spaghetti-strap crop top with textured gathered fabric, paired with high-waisted cream-white pleated wide-leg trousers. A black lightweight jacket is casually draped over one arm. Minimal silver necklace with a tiny pendant and a delicate bracelet.
+Warm golden-hour sunlight streaming through a window, creating soft natural shadows and beautiful highlights across her hair and skin. Cream/beige walls, a tall green indoor plant on the left, framed minimalist botanical artwork on the wall, a small white table with an iced coffee and a fashion book on the right. Cozy sophisticated lifestyle aesthetic, clean composition, realistic fabric texture, natural skin texture, soft cinematic lighting, shallow depth of field, editorial fashion photography, premium Instagram aesthetic.
+Camera: vertical 4:5 composition, medium-full body shot, eye-level perspective, 50mm lens, f/2.0, soft background blur, highly detailed, photorealistic, natural proportions, realistic hands, realistic hair strands, subtle film grain, warm neutral color palette, high-end fashion editorial photography, 8K.</code></pre>
+
+</details>
+
+## Hyperrealistic vertical 4K UHD portrait
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2085945746986262941)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2557](https://imglume.com/prompt/2557)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/21f42a70-9173-4478-9c88-332896199447/f20001bb-9be6-4e8f-a0d1-42be95086e42-1786243234571 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/21f42a70-9173-4478-9c88-332896199447/f899549b-ffc4-497f-b84d-7aa66bfaca8d-1786243234571 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/21f42a70-9173-4478-9c88-332896199447/99e40405-21e8-4c4f-96af-fcfa6ac8d3a0-1786243234571 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/21f42a70-9173-4478-9c88-332896199447/a0a2551f-2e7e-4643-b94c-cd457e02226b-1786243234571 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Hyperrealistic vertical 4K UHD portrait of me, preserving my actual face and features. I am seated, leaning slightly forward, with a relaxed and calm expression. Background: smooth, rich gradient of orange and yellow tones, creating a soft yet vivid warm ambient lighting. Studio-level lighting produces a glowing cinematic effect with gentle shadow behind. I wear a loose dark cloak or fabric, naturally draping. Mood: artistic and slightly surreal, with contrasting lighting and a golden-warm palette. Overall style: realistic, cinematic, with soft light and stunning UHD-level detail. Lighting is richly golden, cinematic warm tones, bright highlights, balanced shadows, conveying a sense of professional color grading.</code></pre>
+
+</details>
+
+## Ultra-realistic high-fashion editorial portrait of Korean adult
+
+- **Original source:** [@sha_zdiii on X](https://x.com/sha_zdiii/status/2086129251603091715)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`
+- **ImgLume record:** [2556](https://imglume.com/prompt/2556)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/18ca2676-f19a-4aa0-b564-30225ab5028f/282b3399-8450-4341-bdf3-ab72c9944eea-1786239049991 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/18ca2676-f19a-4aa0-b564-30225ab5028f/e846a944-be10-4e01-a2a5-14d0e2bb227a-1786239049991 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic, high-fashion editorial portrait of a [GENDER: adult Korean woman / adult Korean man] in their [AGE RANGE: mid-20s], photographed in a luxurious dark cinematic studio.
+The subject has [FACIAL STYLE: refined Korean features / sharp elegant features], [SKIN TONE], expressive [EYE COLOR] eyes, and [HAIR STYLE + COLOR]. Keep the face natural, premium, realistic, and highly photogenic with visible skin texture, realistic pores, fine hair strands, and no plastic or over-retouched appearance.
+Wardrobe: [OUTFIT] in [COLOR], styled in a sophisticated luxury-fashion aesthetic. The clothing should feature premium fabric texture such as [VELVET / SATIN / WOOL / SILK], elegant tailoring, subtle folds, and refined details. Add [ACCESSORIES: watch / earrings / ring / necklace / none] for a polished editorial look.
+Pose the subject in a [POSE: seated cross-legged / leaning against a wall / standing with one hand in pocket / sitting sideways / looking over shoulder] position with effortless confidence. Their body is slightly angled away from the camera while the face turns toward [CAMERA / SIDE LIGHT / OFF-CAMERA]. Expression should feel [CALM / MYSTERIOUS / CONFIDENT / SERIOUS / SOFT], creating a strong fashion-campaign presence.
+Use dramatic cinematic lighting with one warm directional key light coming from [UPPER LEFT / SIDE / ABOVE], illuminating only the face, shoulders, and selected fabric highlights. Add a very subtle [COOL / WARM] rim light behind the subject for separation. Keep the background almost completely dark with deep shadows and a soft textured light gradient.
+Composition should feel like a premium magazine cover. Place the model on the [LEFT / RIGHT] side of the frame and leave clean negative space on the opposite side for typography.
+Add elegant minimal editorial text:
+[MAIN TITLE]
+[TAGLINE]
+Use refined high-fashion serif typography in [IVORY / OFF-WHITE / SOFT GOLD], small and tasteful, aligned neatly within the negative space. Keep the text premium and minimal, never overpowering the subject.
+Camera style: luxury editorial photography, [85mm / 105mm] portrait lens, shallow depth of field, sharp focus on the eyes, natural facial details, cinematic contrast, rich blacks, controlled highlights, subtle film grain, high dynamic range, sophisticated color grading, photorealistic photography, 8K detail.
+Mood: [MIDNIGHT LUXURY / QUIET POWER / TIMELESS ELEGANCE / MODERN MYSTERY / DARK ROMANCE].
+No extra props unless specified, no visible studio equipment, no watermark, no brand logos, no CGI look, no deformed hands, no distorted anatomy, no excessive skin smoothing, no cartoon effect.</code></pre>
+
+</details>
+
+## Photorealistic indoor lifestyle portrait of a young woman in a modern cozy kitchen
+
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2086182617775518158)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2548](https://imglume.com/prompt/2548)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/524f0205-4f00-450e-88a1-dc6b75f8f7c2/b3f455f8-5f68-4bd1-b821-ca8e971a4565-1786226458876 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/524f0205-4f00-450e-88a1-dc6b75f8f7c2/8c485a34-a762-4c86-8ce7-f053d58534b5-1786226458876 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic indoor lifestyle portrait of a young woman in a modern, cozy apartment. She has fair skin, long auburn-red hair gathered into a relaxed low ponytail, with a few loose strands naturally framing her face. Her expression is warm and friendly, with a subtle genuine smile and relaxed eyes looking toward the camera.
+
+She is seated comfortably in a natural three-quarter pose, turned slightly toward the camera, with one hand resting naturally on her knee and the other positioned comfortably beside her. Her posture should appear relaxed and authentic rather than overly posed.
+
+She wears a soft pink floral lounge dress with delicate small flower patterns, thin straps, subtle decorative edging, and natural fabric folds. Add a simple understated ring and minimal accessories. Keep the styling casual, tasteful, and everyday, with no visible logos or branding.
+
+The room has a warm contemporary interior with vertical wooden panels, light neutral walls, polished wooden flooring, and a small kitchen area in the background. A straw-colored decorative hat hangs on the wall, while a fruit arrangement containing bananas and oranges adds a natural touch to the setting. Warm interior lighting combines with soft daylight entering from the side.
+
+Camera and style: shot on an 85mm portrait lens, natural eye-level perspective, soft diffused window light, subtle warm indoor illumination, realistic skin texture, detailed individual hair strands, authentic fabric texture, shallow depth of field, cinematic color grading, balanced exposure, natural shadows, professional lifestyle photography, high detail, photorealistic 4K quality.</code></pre>
+
+</details>
+
+## Ultra-realistic high-fashion studio portrait of a Korean woman
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2086125121086058829)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2547](https://imglume.com/prompt/2547)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7c911903-33c3-4cd6-afd0-3f6ba4a115b3/2163c291-6485-4ba8-aaae-464320b6dd8d-1786226434277 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7c911903-33c3-4cd6-afd0-3f6ba4a115b3/d60bdee4-95c0-46a1-8257-ae31dc6cdf72-1786226434277 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7c911903-33c3-4cd6-afd0-3f6ba4a115b3/fc5f7443-f879-4c41-a3c3-2d128345b66c-1786226434277 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/7c911903-33c3-4cd6-afd0-3f6ba4a115b3/933019cf-45e8-4d4d-b2ff-c485836ab911-1786226434277 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic high-fashion studio photoshoot of a beautiful young adult Korean woman in her early 20s, standing elegantly against a deep matte-black seamless studio background. She has refined Korean facial features, clear natural skin, expressive dark brown eyes, and long, silky dark-brown hair styled naturally with subtle movement.
+
+She wears an elegant, sophisticated black satin off-shoulder midi dress with a refined fitted silhouette, delicate fabric texture, and tasteful styling that complements the dark studio environment. The outfit is attractive, fashionable, and luxurious without looking overly revealing.
+
+Pose her with effortless confidence and graceful body language—slightly angled toward the camera, one hand resting naturally near her waist while the other hangs relaxed, with a subtle head tilt and calm, captivating expression.
+
+Use extremely minimal cinematic lighting: a single soft directional key light illuminating only her face, upper body, and silhouette, with very subtle rim lighting separating her from the black background. Keep the surroundings almost completely dark. Deep shadows, controlled highlights, soft skin tones, dramatic contrast, and a premium fashion-editorial atmosphere.
+
+Shot like a luxury magazine campaign, 85mm portrait lens, shallow depth of field, precise focus on the eyes, realistic skin texture, natural facial details, subtle film grain, sophisticated composition, photorealistic photography, high dynamic range, cinematic tonal depth, 8K detail.
+
+No props, no visible studio equipment, no text, no logos, no watermark.</code></pre>
+
+</details>
+
+## Nighttime Balcony Portrait of a Young Woman
+
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2086160618818773221)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `photography`
+- **ImgLume record:** [2544](https://imglume.com/prompt/2544)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bf39515f-585d-4e82-b000-5ccf9c0ea3f5/b5589346-572d-4dfc-81f1-0bd6c35a22b5-1786222248374 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bf39515f-585d-4e82-b000-5ccf9c0ea3f5/ffcac013-194b-4c62-a0ad-76d2ac13e9a2-1786222248374 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bf39515f-585d-4e82-b000-5ccf9c0ea3f5/b63f58b6-d976-420b-a423-3c898af14612-1786222248374 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/bf39515f-585d-4e82-b000-5ccf9c0ea3f5/9c42c106-71df-4dda-8c56-64493bb9f250-1786222248374 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic nighttime lifestyle portrait of a young woman relaxing on a modern apartment balcony. She has fair skin, soft natural facial features, light blonde hair pulled into a loose low ponytail, with a few delicate strands naturally framing her face. Her expression is calm and composed, with a subtle relaxed smile and her eyes looking naturally toward the camera. She is seated comfortably in a woven outdoor chair with a casual, balanced posture and one leg naturally positioned across the other.
+
+She is wearing a simple white sleeveless athletic-style top with a clean neckline and light beige casual shorts. The clothing should appear comfortable and understated, with realistic cotton fabric, natural folds, and subtle stitching. Keep accessories minimal and tasteful, with no visible logos or branding.
+
+The setting is a modern high-rise balcony at night, featuring white metal railings, a contemporary woven chair, and the distant glow of city buildings visible through the balcony. The dark evening sky creates strong contrast with the softly illuminated surroundings. Small points of city light appear in the background, adding depth without distracting from the subject.
+
+Use soft professional portrait lighting focused naturally on the subject, with gentle highlights across the face and hair and controlled shadows around the balcony. Add subtle ambient city illumination in the background for a realistic nighttime atmosphere. The overall mood should feel peaceful, modern, and sophisticated.
+
+Camera/style: photographed with an 85mm portrait lens, natural perspective, medium depth of field, realistic background separation, professional lifestyle photography, cinematic nighttime color grade, subtle warm highlights against cool evening surroundings, accurate skin texture, detailed individual hair strands, realistic fabric textures, natural shadows, high dynamic range, sharp facial details, balanced composition, photorealistic 4K quality, authentic photographic appearance.</code></pre>
+
+</details>
+
+## Nano banana pro promotional and Cinematic Prompt
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2085914015390458233)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2541](https://imglume.com/prompt/2541)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f7e4cb4d-f820-4191-a2ab-51d737367f85/363edcf4-263e-4a66-934a-6f7f3c171e6d-1786220122392 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f7e4cb4d-f820-4191-a2ab-51d737367f85/85b438d7-29a0-484f-9afb-20287217727c-1786220122392 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic luxury commercial product photography of a premium transparent water bottle standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text. Model: Nano banana pro</code></pre>
+
+</details>
+
+## Photorealistic portrait of a young adult male at a luxury resort jet ski scene
+
+- **Original source:** [@pictsbyai on X](https://x.com/pictsbyai/status/2086003983752012191)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2538](https://imglume.com/prompt/2538)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/67cc0f84-490d-4316-8ded-a363817f032b/103133ec-fd49-49fa-aa4c-436d00ea43c1-1786218080847 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly detailed, photorealistic portrait of a young adult male standing barefoot, embodying a confident and sophisticated luxury resort lifestyle. He wears dark square sunglasses and an unbuttoned blue-and-white vertically striped linen shirt that reveals his warm tan chest, paired with loose, crisp white linen pants. His short, dark brown hair features a natural, messy wavy texture on top with distinct windblown flyaways. Positioned center-left, his body is turned at a 45-degree angle to the right, while his head turns sharply into a left profile, his concealed gaze directed far left. His mouth is neutral with lips gently closed, and his relaxed eyebrows are barely visible above the frames, projecting a serious, guarded demeanor. His shoulders are pulled back in a relaxed posture, his weight shifted onto his straight back left leg, while his right leg rests slightly forward and bent at the knee. Both hands are tucked deep into the front pockets of his linen pants, with only his left wrist and forearm visible. He stands directly on the white fiberglass deck and black grooved traction mats of a pristine jet ski located in the foreground, which features a dark blue textured vinyl seat, black handlebars and scattered water droplets. Beyond the watercraft, the deep midground opens to a pristine dark blue mosaic-tiled infinity pool with an overflowing edge, its slightly rippled surface reflecting the sky above. To the right midground, a modern minimalist building displays a perfectly smooth, matte, warm cream stucco wall with a clean architectural edge and a small glass railing fixture, accompanied by a manicured garden bed holding a thriving olive tree with a gnarled thin trunk and silvery-green leaves. The background falls away into a deep spatial depth, revealing coastal green shrubs on a low-left hillside that lead down to a vast, deep ocean blue with a gentle surface texture, ending in a crisp horizon line against a highly saturated sky blue backdrop. The scene captures a warm, breezy summer day characterized by highly directional, hard natural sunlight originating from a single source high and to the left. This bright, slightly warm daylight casts short, deep black shadows with harsh defined edges to the right of the subject, underneath the jet ski hull, and deep within the folds of his linen garments. Brilliant specular highlights strike the top of the dark blue jet ski seat, the bright white hull, the subject's nose, and his right shoulder, contrasting sharply against the minimal ambient fill. The image is captured straight-on through pristine digital photography using a 35mm to 50mm lens at an aperture of f/8 to f/11, ensuring a tack-sharp, deep depth of field across all layers without any grain. Shot with a fast shutter speed of 1/1000s at ISO 100 to perfectly freeze the subtle water movement, the composition is further refined in post-processing with enhanced blue channel saturation, increased clarity to emphasize the linen folds and water ripples, meticulously protected highlights, and a warm white balance adjustment, all flawlessly framed in a 3:4 aspect ratio.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic close-up portrait of a rugged man in cyberpunk lighting
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2085928194805223624)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2528](https://imglume.com/prompt/2528)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d8842c42-b0a5-4402-b471-9abfded431e8/dba63a29-b590-4ce8-840c-e8e567c725d1-1786207519443 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic close-up portrait of a rugged adult man wearing a dark knitted beanie and black high-neck sweater, short dark hair, thick eyebrows, piercing blue eyes looking slightly upward, full neatly trimmed beard and mustache, strong masculine facial features, detailed skin texture and pores, subtle facial lines, dramatic split lighting with intense neon magenta/pink light from the left and electric cyan/blue light from the right, deep dark background, cyberpunk atmosphere, high contrast, moody expression, shallow depth of field, sharp focus on the eyes and face, volumetric neon glow, rich saturated colors, professional studio photography, 85mm portrait lens, f/1.4, HDR, photorealistic, extremely detailed, cinematic color grading, 8K.</code></pre>
+
+</details>
 
 ## Photorealistic Editorial Lifestyle Portrait of a Young Woman in an Industrial Loft
 

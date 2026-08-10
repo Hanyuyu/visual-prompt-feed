@@ -1,9 +1,581 @@
 # Cinematic video prompts
 
-278 source-linked prompts, newest ImgLume records first.
+293 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium cinematic 15-second continuous-shot transformation from realistic live-action to anime to Hollywood blockbuster
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2086452771029647477)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2601](https://imglume.com/prompt/2601)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/896bb3f2-afaa-4b2d-843d-6f6710184fe4/df62173c-f86c-4079-823f-cc37b618b51e-1786291683419 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cinematic 15-second transformation story following the SAME young female protagonist continuously through three visual styles: realistic live-action → high-end anime/3D animation → Hollywood blockbuster.
+
+0–5s — REALISTIC WORLD
+A stylish young woman walks alone through a modern city at night.
+
+Rain falls lightly. Neon signs reflect across the wet street. She wears a sophisticated black streetwear outfit with subtle red accents.
+
+She hears a powerful hip-hop beat.
+
+She stops.
+
+Close-up of her eyes.
+
+She looks toward camera and begins a confident dance-inspired movement.
+
+Typography appears:
+“WHO ARE YOU?”
+
+Camera rapidly pushes toward her hand as she raises it toward the lens.
+
+5–10s — ANIMATED WORLD
+The exact hand movement triggers the transformation.
+
+The live-action city smoothly becomes a breathtaking high-end animated world.
+
+The SAME girl, SAME outfit, SAME pose and SAME movement continue without interruption.
+
+Stylized energy particles surround her. Buildings stretch upward. Neon colors pulse with the beat.
+
+She performs a powerful choreographed movement through the animated city.
+
+Typography dynamically forms around her:
+
+“WHO YOU CHOOSE TO BE.”
+
+Use fluid premium animation, detailed facial expressions, realistic cloth movement and cinematic camera choreography.
+
+10–15s — HOLLYWOOD BLOCKBUSTER
+During her final animated movement, the environment suddenly transforms into an epic Hollywood-style cinematic cityscape.
+
+The SAME girl lands on a rooftop overlooking a massive glowing metropolis.
+
+Realistic wind moves her hair and clothes. Dramatic clouds, atmospheric haze, anamorphic lens flare and powerful backlighting create blockbuster scale.
+
+Camera circles her as she turns toward the lens.
+
+Final beat.
+
+She confidently smiles.
+
+Huge cinematic typography appears:
+
+“BECOME UNSTOPPABLE.”
+
+Final hero frame with dramatic music impact and premium movie-trailer finish.
+
+VISUAL RULE: The transformation should feel like ONE continuous shot/story—not three separate clips. Preserve the girl's identity, clothing, movement, camera direction and emotional expression through every style transition.</code></pre>
+
+</details>
+
+## Gritty Handheld 16mm Cinematic Journey Through Pseudo-Feudal Japanese Street
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2086421987602121205)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2597](https://imglume.com/prompt/2597)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ea0f69b4-b27f-4d25-8be5-2c8eb115f3ce/b09dcb64-6586-43dd-9882-8d1238ceeeb4-1786291612202 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[STYLE + CAMERA + ATMOSPHERE]
+
+Gritty 16mm cinéma vérité, authentic documentary footage from a lived-in contemporary Japanese street with strong pseudo-feudal aesthetics. Organic film grain, pure natural daylight mixed with soft red paper lantern glow and subtle modern neon from traditional wooden storefronts, heavy shoulder-mounted handheld shake, no stabilization, soft focus falls, subtle light leaks, raw and elegant, lived-in realism. Continuous imperfect handheld observation, camera constantly breathing and shifting with aggressive energy.
+
+[TIMELINE SECOND BY SECOND]
+
+0-1.5s: [Close Handheld Tracking] Young Japanese woman in aggressive urban streetwear (asymmetrical short black hair with undercut, cropped black tactical jacket over layered tank, baggy cargo pants with straps, heavy combat boots, silver chains, fierce natural expression) strides forward with powerful posture down a narrow stone-paved street lined with traditional wooden merchant houses, noren curtains and hanging lanterns. Camera stays tight on her sharp profile and upper body. She glances sideways with quiet intensity.
+
+1.5-3s: [Unsteady Following Shot] She cuts through a small flow of pedestrians in mixed modern and traditional-inspired work clothes. Camera stays close behind and to the side, bouncing hard with every step. A delivery bicycle weaves past; she adjusts her path without slowing, eyes locked ahead.
+
+3-4.5s: [Handheld Medium] A group of schoolkids on bikes suddenly cuts across her path. She steps aside with fluid aggression, locks eyes with the nearest kid for a half-second of hard mutual recognition, then continues. Plaza energy remains chaotic around her.
+
+4.5-6s: [Raw Side Tracking] Camera swings unsteadily to her side as she passes an open-front traditional workshop. A craftsman looks up; she gives a barely perceptible nod without breaking stride. Light shifts across her face, chains and hair as the camera breathes with her movement.
+
+6-7.5s: [Close Imperfect Push] She slows near a small street stall selling grilled skewers under a weathered wooden sign. Buys one with a quick cash exchange, takes a bite while still moving. Camera stays tight, catching the ordinary transaction and her unguarded micro-expression.
+
+7.5-9s: [Unsteady Following] She resumes walking under the shadow of an elevated modern walkway that crosses the old street. A long group of office workers parts slightly as she passes through them without acknowledgment. Residual motion and city hum everywhere.
+
+9-10.5s: [Raw Tracking] Camera stays close and imperfect as she moves past flickering lanterns and a row of rounded modern scooters parked against wooden facades. Her gait remains strong and uninterrupted, face catching shifting daylight and soft red glow.
+
+10.5-12s: [Handheld Side] She steps aside for a moment against a weathered stone pillar near a small shrine gate, watches the street flow for one second with a quiet, grounded look, then pushes off again at the same aggressive pace.
+
+12-15s: [Continuous Raw Following Shot] Camera continues behind her as she disappears deeper into the narrow street past more wooden houses, hanging signs and moving people. The shot stays imperfect and unresolved, breathing with her natural rhythm, ending on the ongoing energy of everyday life in this lived-in pseudo-feudal Japanese present.
+
+[STYLE &amp; QUALITY BOOSTERS]
+
+Photorealistic 16mm film emulation, heavy organic grain, authentic period-to-present Japanese details (wooden architecture, noren, lanterns, stone paving mixed with modern street life), natural skin and fabric texture, imperfect handheld physics, subtle film weave, coherent motion, pure cinéma vérité texture, 16:9 aspect ratio.</code></pre>
+
+</details>
+
+## Ultra-realistic amateur cryptid sighting footage
+
+- **Original source:** [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2086150525888720985)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2588](https://imglume.com/prompt/2588)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29566e8e-b16b-4924-81f4-636cacf9dd2e/fd798e3a-da89-4d84-be00-df54d6540287-1786278952376 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic amateur cryptid sighting footage. Cheap handheld camcorder look, low-quality image, unstable zoom, bad autofocus, heavy digital grain, compression artifacts, shaky framing, harsh breathing close to the microphone, accidental overexposure through the trees, raw found-footage realism. No polished cinema look.
+
+One unseen camera operator only, frightened adult hiker breathing heavily behind the camera. One massive Bigfoot-like forest creature: tall, broad, covered in dark matted hair, humanlike posture, heavy natural movement, never cartoonish.
+
+Dense forest in daylight, uneven ground, wet leaves, tree trunks, foggy depth, broken branches, deep natural shadows.
+
+Authentic low-grade camcorder texture, believable forest sound, realistic creature anatomy, limited but clear reveal, unstable autofocus, strong viral payoff, natural movement, terrifying realism, no comedy, no clean digital polish.
+
+0-5s: Shaky handheld POV - The camera moves through the forest, breathing loud, branches hitting the lens. The operator whispers in French: “Attends… attends… c’est quoi ça là-bas ?” The image struggles to focus between trees.
+
+5-10s: Messy zoom-in - Through the trees, a huge hairy figure is barely visible in the distance, half-hidden behind a trunk. The operator mutters: “Non… non… c’est pas possible…” The creature slowly steps forward into a small patch of light.
+
+10-15s: Unstable push and panic reframing - The Bigfoot-like creature turns its head toward the camera. Clear view for only a second: massive shoulders, long arms, wet dark fur, heavy breathing. The operator gasps and whispers: “Oh mon Dieu…”
+
+15-20s: Violent shake, partial loss of frame - The creature suddenly lets out a deep roar and takes two fast steps toward camera. The operator panics, stumbles backward, drops the camera toward the ground. The last image catches the creature rushing closer through the trees before the footage cuts to black.</code></pre>
+
+</details>
+
+## 30‑second photorealistic live‑action comedy scene with East Asian woman reading in a townhouse
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2086137358358040994)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2586](https://imglume.com/prompt/2586)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57c82e27-b5de-4fef-979f-932eaa74133e/792e7ca1-2d51-424a-ba1b-db0f7d0728db-1786278922283 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second photorealistic live-action comedy, 16:9 horizontal, 4K, 30fps. Adult East Asian woman, late 20s, long glossy black wavy hair, natural makeup, expressive dark eyes. Fitted midnight-blue satin lounge dress, turquoise socks. She carries an ornate navy-and-gold hardcover book with geometric decoration, no readable text.
+
+Real lived-in townhouse bedroom and narrow hallway: honey-oak floors, cream walls, framed art, beige patterned bed, grey velvet bench, faded Persian rug, sheer daylight curtains, cast-iron radiator, vintage brass-and-white ceiling fan. Heavy black medicine ball in hallway. Maintain perfect character, wardrobe, book, prop, environment, lighting and spatial continuity.
+
+0–5s: Waist-height wide 24mm phone-camera shot. She walks toward camera reading, absorbed. Her socked foot hits the medicine ball; she briefly loses balance and protects the book.
+
+5–10s: She stumbles sideways into the bedroom and falls onto the bed. Realistic weight, inertia, hair and satin movement; mattress visibly compresses and rebounds. Book stays in her hands.
+
+10–15s: Side close-up. She sits up, checks the exact line and immediately keeps reading. Ball rebounds behind her, rolls toward her. She notices it, calmly leans backward as it passes her face, sits upright and pulls the blanket over herself without stopping.
+
+15–20s: Low angle toward rotating ceiling fan. Ball bounces into the blades, producing believable collisions, spin, gravity and rebounds. Fan wobbles and dust shakes loose. Ball drops and rolls across the room.
+
+20–24s: Ball hits cast-iron radiator with believable heavy impact, briefly compresses, drops to the wood floor and rolls away. Radiator vibrates subtly.
+
+24–30s: Wide bedside shot. She lies under blanket reading, completely calm. Ball rolls back from hallway and lightly hits bed frame. She stops, looks at it, then slowly looks directly into camera with a deadpan, mildly irritated expression. Beat. She looks back at the book and continues reading. Hold final absurdly calm image for one second.
+
+STYLE / PHYSICS: Photorealistic live action, authentic human movement, realistic skin, hair, cloth, weight, collisions, gravity, momentum, motion blur and mattress compression. Soft daylight, natural shadows, slight phone-lens distortion, deep focus, subtle handheld vibration and minor exposure shifts. Comedy comes from realistic physics and deadpan reaction, never cartoon behavior.
+
+EDITING / SOUND: Fast comedic cuts with consistent screen direction, one imperfect whip-pan during chaos. Understated comedy music, footsteps, fabric, book sounds, mattress impact, ball collisions, fan wobble, radiator vibration and rolling-ball audio. Music drops during final deadpan look.
+
+NEGATIVE: No subtitles, watermark, readable text, anime, animation, cartoon physics, CGI appearance, exaggerated expressions, object deformation, identity drift or continuity errors.</code></pre>
+
+</details>
+
+## Cinematic 8K stylized 3D continuous shot of a young man transforming his Mazda RX-7 into a mech in a neon cyberpunk city
+
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2086305479257694497)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2584](https://imglume.com/prompt/2584)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c8cd5168-cd20-4976-b704-6066bc2d16c2/3e2d5f43-8e9e-4ef8-8897-654aa56534bc-1786274741500 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 8K stylized 3D continuous shot. A young man in a blue bandana uses a holographic smartwatch to deploy mechanical arms that wash his muddy Mazda RX-7. The car upgrades, surging with blue electricity and turning from white to glossy black with glowing purple energy. The black car speeds through a rain-slicked neon cyberpunk city at night. A windshield HUD activates, and the car leaps, transforming mid-air into a giant bipedal mech with the driver visible in the glowing chest cockpit. The mech lands heavily on the street, then uses blue jet thrusters to fly up and stand heroically on a skyscraper roof.</code></pre>
+
+</details>
+
+## Necromancer Battle Cinematic Video Prompt for Seedance 2.5
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2086091812440305965)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2581](https://imglume.com/prompt/2581)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3f7f9bb3-664d-41d2-9a21-4acde6788552/f0e64ba6-0596-4de1-8016-a954bc18d3df-1786270630911 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic live-action blockbuster, continuous single-take steadicam orbit, Arri Alexa 35mm anamorphic, cinematic haze, volumetric fog, overcast grey battlefield light, high production value, FHD, realistic physics.
+
+Use the provided reference image [ref_image] for the man’s exact facial features, skin tone and full dark beard. Bone helmet covers the upper half of his face so only the mouth and thick beard remain visible. Dark bone-and-iron necromancer armor with glowing green runes, heavy black cape.
+
+[TIMELINE]
+
+0-1.5s: Steadicam already orbiting. He snaps both hands open with hypnotic fluid force — green necrotic sparks explode around his fingers as he lets out a low, guttural roar.
+
+1.5-3s: Thrusts one palm down in a sharp, almost dance-like motion. Three armored skeletons explode upward from the mud while he screams a short, intense command.
+
+3-4.5s: Enemy crossbow bolts fly toward him. He raises a glowing bone-shield with a slow, hypnotic circular gesture that shatters them mid-air, eyes locked and breathing hard.
+
+4.5-6s: Points sharply right with theatrical precision. A massive rotting knight erupts from the ground and smashes an enemy as he growls through gritted teeth.
+
+6-7.5s: Enemy cavalry charges. He spins with fluid, almost serpentine movement and launches a whip of pure necrotic energy, roaring as the lead horse collapses.
+
+7.5-9s: Two ghostly wraiths rise beside him. He guides them with hypnotic, wave-like arm motions while shouting a deep, commanding cry.
+
+9-10.5s: He clenches both fists and spreads them wide in a powerful, rhythmic motion — bone spikes shoot from the earth, impaling three spearmen as he lets out a fierce yell.
+
+10.5-12s: More corpses claw free. He directs them with precise, almost trance-like hand gestures, voice rising in intensity.
+
+12-15s: BULLET-TIME: Six attackers surround him. Time freezes into extreme slow-motion as the steadicam continues its orbit. At the peak he throws both arms outward with hypnotic, explosive force and detonates a spherical green force-shield, screaming a raw, guttural battle cry that launches every attacker backward through the air.
+
+15-16.5s: Real-time snaps back. He immediately points at the ground with a sharp, fluid motion — a new wave of undead soldiers bursts upward while he growls another command.
+
+16.5-18s: Enemy mage hurls a fireball. He catches it mid-air with one hand in a slow, hypnotic grasp, converts it into green necrotic energy and blasts the mage while roaring.
+
+18-19.5s: Raises both arms high in a dramatic, almost ritualistic sweep. A circle of skeletal warriors rises in perfect sync as he lets out a deep, echoing shout.
+
+19.5-21s: He walks forward through the chaos, cape billowing, directing different undead units with sharp yet fluid, hypnotic gestures and short intense shouts.
+
+21-22.5s: Casts a rapid succession of bone projectiles with rhythmic, almost dance-like arm movements, voice rising with every throw.
+
+22.5-24s: A giant undead troll erupts behind him. He guides it forward with a powerful, sweeping motion and a fierce roar.
+
+24-25.5s: Lifts one hand skyward in a slow, commanding arc — dark energy rains down, raising dozens more corpses as he screams into the grey sky.
+
+25.5-27s: Steadicam pushes closer. Green runes on his armor flare while he continues fluid, hypnotic casting motions, breathing heavy and intense.
+
+27-28.5s: Final gesture: he points forward with absolute control and lets out one last powerful battle cry as the entire undead horde surges past camera.
+
+28.5-30s: Camera completes the continuous orbit into a powerful medium close-up of his bone-helmed face and exposed beard, mouth still open from the final roar, as the battlefield fills with marching undead.
+
+Photorealistic, Arri Alexa look, cinematic haze, volumetric light, perfect motion blur, coherent physics, stable character, ultra-detailed bone armor and textures, blockbuster production value.</code></pre>
+
+</details>
+
+## 30s cinematic thriller at a rainy gas‑station mini‑mart
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2086315451970433265)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2576](https://imglume.com/prompt/2576)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9e7d4aff-0b77-4ed2-b1c7-e83855ea0b0f/e6668c7f-65c2-4985-bbfa-f11d4c685573-1786266363466 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use &lt;&lt;image&gt;&gt;only for the WOMAN’s face, identity, hair, skin texture, and body proportions. Do not copy its background, clothing, lighting, or composition.
+
+30s cinematic thriller, photorealistic. Rainy gas-station mini-mart after a car crash. Controlled handheld camera, fluorescent practicals, intermittent red/blue police lights, wet asphalt, haze, realistic sweat/grime, shallow DOF, film grain. No music.
+
+CAST: WOMAN throughout: torn dark jacket, jeans, scraped forearm, messy half-loose hair, sweaty, aggressive and adrenaline-fueled. CLERK: tired 40s man, green vest/flannel, cautious. STRANGER appears only in S9, dark silhouette, face never visible. No other people.
+
+DIALOGUE RULE: Korean, natural quiet speech, perfect lip-sync. Action must completely stop before speaking; speaker faces camera/front 3/4 with unobstructed mouth and remains still during the line. No VO/off-screen speech. S9 silent.
+
+S1 0–2.5: Woman bursts in, grabs unlabeled water from cooler, rushes to counter.
+
+S2 2.5–5: Slams bottle down, stops, faces camera: “붕대 있어요? 빨리요.”
+
+S3 5–7.5: Clerk cautiously gets bandage kit, stops, faces camera: “저기… 괜찮으신 거예요?” Places kit down.
+
+S4 7.5–9.5: Woman grabs kit, stops: “신경 꺼요.” Clerk backs away.
+
+S5 9.5–12: She sits by window, opens kit and wraps forearm. Police lights/wreck briefly visible outside. No dialogue.
+
+S6 12–14.5: Finishes bandage, stops, faces camera: “…살아있네.” Then drinks water.
+
+S7 14.5–16.5: Watches police lights through rainy glass, sets bottle down. No dialogue.
+
+S8 16.5–18.5: Hears something, clenches fist, rises and faces door. No dialogue.
+
+S9 18.5–22: Stranger bursts in and grabs her. Brief raw struggle—she twists free, elbows/shoves him, shelf rattles, bottle rolls, she forces him outside. His face never visible. No dialogue.
+
+S10 22–25: She reaches door, stops, looks back at clerk: “문 잠가요. 아무도 안 들여보내고.” Then exits.
+
+S11 25–30: She sprints through rain, jumps into dark sedan, starts instantly, reverses and speeds away from the police and crash. Police car passes the now-empty station too late. Door remains open/swinging.
+
+CONTINUITY: Same woman/face, store layout, door, red OPEN sign, water bottle and bandage progression throughout. No duplicated props/people, no weapons/blood/gore, no subtitles/text/logos/watermarks, no beauty retouching, no slow motion/speed ramps.</code></pre>
+
+</details>
+
+## Leviathan Protocol Storm Sequence
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2086020754135519452)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2567](https://imglume.com/prompt/2567)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/543d3aa6-e791-4671-a078-4af2c5c6307c/54877fa4-e939-414a-b450-2fd9068794ea-1786258111354 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>reference_lock:
+main_character:
+source: "@Image1"
+context: "face reference"
+instructions:
+- preserve exact face, hairstyle, facial structure, outfit silhouette, and body proportions
+- single character only, no duplicates
+- realistic human anatomy
+
+sea_monster:
+source: "@Image2"
+context: "sea monster reference"
+instructions:
+- preserve exact anatomy, silhouette, scale, translucent water body, and vortex core
+- no mutation or redesign
+- realistic movement weight
+
+visual_style:
+rendering: "Photorealistic CGI, ultra-detailed ocean simulation, cinematic realism, natural motion blur"
+color_palette: [steel blue, charcoal gray, deep ocean black, cold white]
+atmosphere: "Violent storm ocean, heavy mist, crashing waves, whirlpools, spray, fog, destruction"
+
+environment:
+location: "Massive open storm ocean beneath dark overcast skies"
+elements:
+- violent waves
+- rotating vortices
+- airborne mist and spray
+- collapsing wave walls
+- large whirlpools
+
+subjects:
+hero:
+description: "Tactical airborne hero based on @Image1 wearing a black tactical jacket"
+motion: "Realistic flight inertia, fabric and hair movement, dynamic stabilization"
+
+colossus:
+description: "Massive humanoid sea entity based on @Image2"
+structure:
+- translucent ocean-water body
+- internal vortex currents
+- turbulent water circulation
+- gigantic whirlpool lower body
+interaction: "Massive splashes, runoff, mist displacement, wave turbulence"
+
+physics:
+- realistic ocean and splash physics
+- flight inertia and momentum
+- dynamic mist and cloth movement
+- vortex pressure distortion
+- heavy collision force
+- airborne water particles
+
+sequence_timeline:
+- shot: "SHOT 01 — THE APPROACH"
+  camera: "Rear tracking shot above violent waves"
+  action: "Hero accelerates toward the distant Colossus as spray and mist trail behind; creature rapidly grows larger"
+
+- shot: "SHOT 02 — THE ENGAGEMENT"
+  camera: "Wide orbital tracking shot"
+  action: "Hero performs aggressive evasive maneuvers around the Colossus as massive water arms strike the ocean"
+
+- shot: "SHOT 03 — THE CHARGE"
+  camera: "Medium aerial tracking shot"
+  action: "Hero rapidly ascends into storm clouds, stops mid-air, and charges a concentrated energy attack"
+
+- shot: "SHOT 04 — THE STRIKE"
+  camera: "Fast first-person dive into the Colossus core"
+  action: "Hero crashes into the vortex center, triggering a massive ocean explosion, shockwave, and vortex implosion"
+
+- shot: "SHOT 05 — THE AFTERMATH"
+  camera: "Extreme aerial wide shot"
+  action: "Hero hovers above the battlefield as massive ripple waves expand and the storm gradually stabilizes"
+
+negative_prompt:
+- low quality
+- blurry or washed-out image
+- unrealistic water or waves
+- character or creature inconsistency
+- changing face or hairstyle
+- duplicates or extra limbs
+- broken anatomy
+- unstable proportions
+- incorrect vortex
+- unrealistic movement or physics
+- weak splash interaction
+- poor mist simulation
+- random camera movement
+- continuity errors
+- temporal flicker
+- ghosting
+- anime, cartoon, stylized, plastic, toy-like rendering</code></pre>
+
+</details>
+
+## Underground Fashion Film in Parking Garage
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2086166303425855712)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2563](https://imglume.com/prompt/2563)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1bb7e870-5ecc-47d4-9131-22effceecff1/e8e27035-c391-4993-a7f5-f47cb83e12e4-1786258003429 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15 second cinematic underground fashion film in 16:9 inside a real concrete multilevel parking garage at night. Two stylish adult women are the central subjects. One has long straight black hair with blunt bangs, narrow dark futuristic sunglasses, a distressed silver and black sleeveless graphic top, layered metallic necklaces, stacked bracelets, fingerless black gloves, loose dark trousers, chunky black footwear and a large worn black shoulder bag. The second has long pale blonde hair under a fitted black beanie, oversized rectangular black sunglasses, a fitted white top, oversized black jacket slipping casually from her shoulders, a short dark skirt, black thigh high socks, chunky shoes, silver jewelry and a large textured handbag. Use an extremely wide vintage fisheye lens with visible barrel distortion and strong perspective stretching. The camera should feel like a real person holding a small early digital camcorder at arm length. Preserve tiny framing mistakes, slight horizon drift, natural hand vibration, physical footsteps, unpredictable body proximity, realistic autofocus breathing and occasional motion blur. Never make movement perfectly stabilized or mechanically smooth. Open extremely close to both women crouching beside a black motorcycle, staring calmly into the lens while a fluorescent fixture blooms above them. Rapidly orbit and tilt around them as they adjust sunglasses, move their hair and casually interact with the camera. Cut to a dramatic floor level detail of the motorcycle engine, rear wheel, frame, dark metal and chrome reflecting harsh ceiling light. Show both women crouching over an open bag with believable personal objects scattered on the concrete. Insert a brief near black rhythmic cut. Return with an intimate overhead fisheye angle while they search through the bag. The blonde woman raises a tiny silver compact camera toward the lens. One woman stands and crosses the painted white pedestrian stripes while the other collects her bag. Follow them through the garage with loose handheld backward movement. Include concrete pillars, curved driving lanes, yellow curb paint, white directional markings, a black parked car and a white van deep in the background. Around the middle create one very brief three image editorial collage of the dark haired woman from different close perspectives, then immediately return to natural live action. Show her walking away carrying the heavy black bag before both women turn and confidently walk back toward the camera. As they approach, allow the fisheye perspective to enlarge their faces, hands and clothing naturally. Finish by returning to the motorcycle where they crouch close to the camera again, creating a seamless visual loop to the opening shot. Lighting must come almost entirely from practical cold fluorescent garage fixtures with slightly green white color, blown highlights around lamps, deep soft shadows under eyes and clothing, subdued concrete colors and imperfect exposure changes as the camera turns. Image texture should resemble compressed early digital video with mild grain, restrained sharpness, slight chromatic fringing, subtle sensor noise and realistic skin texture. Preserve individual fingers, jewelry, fabric folds, hair strands and physically correct contact with bags, clothing and motorcycle surfaces. Avoid glossy commercial perfection, beauty retouching, floating objects, warped hands, changing clothing, duplicated accessories or impossible architecture. Edit with fast confident cuts synchronized to an original approximately 150 BPM underground electro beat combining distorted kick drum, dry snare, gritty bass, metallic percussion, dark synth pulses and subtle parking garage ambience. Add faint footsteps, clothing movement, bag hardware rattles and motorcycle metal sounds beneath the music. No dialogue. No voiceover. No readable logos or titles.</code></pre>
+
+</details>
+
+## Luxurious cinematic skincare commercial for INVENTIKO Bio-Serum
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2086029877073826044)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2560](https://imglume.com/prompt/2560)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d6a30935-0aed-4d99-8ce7-bc8f87f1cb68/1293be64-6493-476c-94e2-48abffa2241d-1786249659446 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a luxurious cinematic skincare commercial featuring a dark green glass serum bottle labeled “INVENTIKO Bio-Serum 38%”. Start with an extreme close-up of the serum bottle covered in realistic water droplets, placed on a glossy black wet surface under dramatic teal-blue lighting. Slowly transition to a macro shot of a golden serum droplet falling from a glass dropper in slow motion. Cut to an ultra-realistic close-up of a young woman’s flawless skin as the serum droplet gently lands on her cheek, highlighting smooth hydrated skin and natural glow. Finish with a premium product hero shot of the open serum bottle on a clean white stone countertop, black dropper cap beside it, warm sunlight streaming through window blinds, creating elegant shadows. Photorealistic, luxury beauty commercial, macro cinematography, shallow depth of field, smooth camera movements, realistic liquid physics, glossy reflections, soft skin texture, premium advertising aesthetic, 4K, highly detailed, cinematic lighting, no unnecessary text, vertical 9:16.</code></pre>
+
+</details>
+
+## Blonde Female Hero vs Nine Female Ninjas
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2086150537431658741)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2546](https://imglume.com/prompt/2546)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f492113d-6aa8-46f8-b6ee-19fc0dbca99f/f5ac8413-e8a4-4fed-8ed6-76ba4a6eb760-1786222319926 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>IMG_1 = BLONDE FEMALE HERO CHARACTER SHEET** Use as the exact hero identity and costume reference. The hero is a **blonde-haired female Image1 superhero**. Preserve her face, blonde hairstyle, body proportions, clothing layers, colors, gloves, wrist web-launcher details, cargo pants, and shoes exactly. She is the **central protagonist and primary visual focus of the entire sequence**. She has **NO MASK and NO HOOD covering her head**. The blonde female hero must always be clearly distinguishable from the nine enemy ninjas. --- **@IMG_2 Image2 = NINE FEMALE NINJA ENEMY SHEET** Use as the exact enemy squad reference. There are exactly **NINE female ninja assassins**. Preserve their red-and-black costumes, body proportions, masks, hairstyles, armor, weapons, and the white fox-mask leader. Do not duplicate or remove any ninja. The nine ninjas must remain visually separate and readable throughout the fight. --- ### CORE FIGHTING RULE The entire sequence is: **ONE BLONDE FEMALE HERO VS. NINE FEMALE NINJAS.** The blonde female hero begins and remains at the **center of the action**. At 00:02–00:04, the camera pulls back to clearly reveal: **ONE BLONDE FEMALE HERO Image1 SURROUNDED BY NINE FEMALE NINJAS. Image2 The white fox-mask leader stands slightly forward among the nine. At 00:04–00:11, the nine ninjas attack using coordinated tag-team choreography. Do NOT make all nine attack randomly at once. Each ninja enters, attacks, exits, and creates an opening for the next attacker. At 00:14–00:16, all **NINE female ninjas** launch into the air toward the blonde heroine from different trajectories. At 00:16–00:19, the blonde heroine performs the 360-degree dual-wrist web attack. The resulting large suspended web must capture **ALL NINE FEMALE NINJAS**. The final composition must clearly show: **BLONDE FEMALE HERO IN THE FOREGROUND + NINE FEMALE NINJAS TRAPPED IN THE WEB BEHIND HER.** ### IMPORTANT NEGATIVE PROMPT ADDITIONS No male hero. No male protagonist. No seven-ninja formation. No eight-ninja formation. No ten-ninja formation. No duplicated ninja. No missing ninja. Exactly **NINE female ninja enemies**. The blonde-haired female hero must always remain the central protagonist.</code></pre>
+
+</details>
+
+## 15-second nostalgic early-2000s trainee flashback video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2085936538798506430)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2545](https://imglume.com/prompt/2545)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65d9143d-3b36-45d7-acbb-1b2b9bfe2e5f/ec0ee7c1-d545-4a7e-b79b-056bdd5f23f8-1786222266534 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>@CHASE is the same character throughout. Maintain strict facial, hairstyle and appearance consistency.
+
+Create a 15-second nostalgic early-2000s trainee flashback filmed entirely on a handheld DV/16mm camcorder. Raw personal-footage aesthetic: natural camera shake, imperfect framing, slow autofocus, clumsy micro-zooms, slight blur, tape noise, motion smearing, bloomed highlights and occasional exposure flicker. No modern polished cinematography.
+
+STORY:
+0–2s: Before sunrise, she wakes exhausted in a trainee dorm. “Nobody saw how it started.”
+2–4s: She enters an empty dance studio, turns on the light and prepares to practice.
+4–6s: In a vocal room, she misses a difficult note, exhales and tries again. “There were days I thought I wasn't good enough.”
+6–9s: Repeatedly practices choreography, makes mistakes, then keeps going.
+9–11s: Quick DV close-ups of worn sneakers, tired hands, sweat and a movement finally landing perfectly.
+11–13s: Exhausted in a hallway, she smiles quietly, hears the practice music and gets back up. “But somehow… I kept coming back.”
+13–15s: She walks toward a brightly lit evaluation room, pauses, takes a breath and enters. “Maybe that was enough to begin.” Cut to black.
+Raw, intimate and emotional. Subtle acting, realistic exhaustion and determination. Hard cuts, authentic room ambience, footsteps and breathing. Soft emotional music gradually builds. Make it feel like forgotten personal trainee footage, not a music video.</code></pre>
+
+</details>
+
+## Star Wars Lightsaber Duel Prompt for Seedance 2.5
+
+- **Original source:** [@ObsceneSelene on X](https://x.com/ObsceneSelene/status/2085925587416473675)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2532](https://imglume.com/prompt/2532)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e156c7b8-a843-4cec-8555-9fc866840569/92d36d84-8166-409b-9792-deb4a8f76feb-1786207578494 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Drop in a couple of selfies and 7 second clips of each of your voices and modify the first part👇
+
+[Character Reference Mapping] Image1 is [Name], use Audio1 for [her/his] voice and [Accent Name] accent, [she/he] is [Height]. [Affiliation: Jedi/Sith], wielding a [Saber Color] lightsaber. Image2 is [Name], use Audio2 for [her/his] voice and [Accent Name] accent, [she/he] is [Height]. [Affiliation: Jedi/Sith], wielding a [Saber Color] lightsaber.
+[Star Wars Lightsaber Duel Intro: Location - Describe Star Wars Planet/Environment here, e.g., Mustafar, Coruscant Underworld, Ach-To]
+Script Prompt Global Style: Cinematic anamorphic widescreen, ultra-sharp digital cinema lens, gritty star wars aesthetic with realistic atmosphere, thick smoke and embers catching the light, heavy color grading matching the environment, dramatic high-contrast key lighting, 2.39:1 aspect ratio. Background audio features the low menacing hum of idling lightsabers, distant wind howling, violent plasma sizzling, and a tense cinematic synth drone.
+
+[00:00 - 00:04] Shot 1: Wide low-angle composition framing the environment on the bottom third. The two opponents stand twenty feet apart, shrouded in shadow. Camera slowly tracks forward between them. Both characters ignite their lightsabers simultaneously with a sharp snap-hiss, illuminating their faces in stark [Saber Color 1] and [Saber Color 2] glows. Image1 sneers and throws out a calm, arrogant opening taunt in their specific accent, dropping into a classic combat stance.
+
+[00:04 - 00:07] Shot 2: Fast whip-pan into a tight medium tracking shot as Image2 lunges forward. Blades clash with a blinding flash and a heavy audio thud. Image2 scoffs mid-strike, shouting a quick jab of verbal retaliation right into Image1's face before stepping back to spin their blade.
+
+[00:07 - 00:12] Shot 3: Wide dynamic tracking shot following both characters as they engage in a rapid, aggressive exchange of strikes and parries across the terrain. Sparks fly and burn marks streak across the environment as plasma cuts through metal and stone. Image1 laughs off a near-miss, calling out Image2's clumsy form mid-sequence while seamlessly flipping out of reach.
+
+[00:12 - 00:16] Shot 4: Extreme close-up profile shot of both hilts locked together in the center third. Plasma blades buzz violently and spit bright sparks where energy fields grind. Camera slowly tilts up to capture the intense glare and sweat on their faces. Image2 delivers a bitter, quiet piece of personal banter right into the struggle, answered by Image1's low, mocking chuckles as they shove each other apart.
+
+[00:16 - 00:21] Shot 5: Medium wide shot capturing the immediate separation. Camera orbits low as Image2 circles around an environmental obstacle, keeping their weapon high. Image1 tracks them closely, casually twirling their saber and delivering sarcastic commentary on the fight so far, mocking Image2 to make the next move.
+
+[00:21 - 00:26] Shot 6: High-angle over-the-shoulder tracking shot as Image2 snaps and unleashes a furious, relentless flurry of strikes. The movement is chaotic and heavy, forcing Image1 onto the back foot to desperately block each strike. Sharp banter flies back and forth between breathy grunts and harsh plasma impacts as the emotional heat reaches its boiling point.
+
+[00:26 - 00:30] Shot 7: Rapid zoom into an extreme close-up of a massive overhead double-handed strike. Blinding lens overexposure and lens flare burst across the frame as both sabers collide with maximum force. The audio distorts with a deafening, blown-out lightsaber impact and heavy bass drop, washing the screen into a chaotic, spark-filled match-cut exit.</code></pre>
+
+</details>
+
+## Anime-style cooking video of spicy cheesy ramen
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2085935002043510831)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [2531](https://imglume.com/prompt/2531)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/321bcfaa-06f4-4e92-ac68-e6104c66ac31/4d85c53e-081b-4cfa-ac25-1eb1432b5e38-1786207564635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a short anime-style cooking video showing hands preparing spicy cheesy ramen: pick instant spicy ramen from a wooden pantry, place a small pot on a gas stove, pour in water and boil the noodles over vivid blue flames. Add dark red spicy sauce and a slice of yellow cheese, then stir with chopsticks until creamy and glossy. Pour the ramen into a white bowl, then serve it on a wooden table with chopsticks and a red can of cola. Cozy, cinematic lighting, detailed food textures, smooth close-up shots, and satisfying cooking sounds.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic vertical video of a Korean woman's peaceful morning selfie vlog
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2086055156127592779)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2530](https://imglume.com/prompt/2530)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e80ae0f2-7d35-465d-bc97-a079b8c35755/074c0734-14cf-4dc8-bc06-3b4a5dba565d-1786207547795 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic vertical video, 10 seconds. A beautiful young Korean woman enjoys a peaceful slow morning in her cozy bedroom, wearing an oversized cream-white T-shirt. Soft golden sunlight enters through sheer curtains, creating a fresh dreamy atmosphere. Natural smartphone selfie vlog aesthetic.
+Shot 1 (0–2s): Close selfie beside the window. She opens the curtain slightly, squints gently at the sunlight, then smiles at the camera.
+Shot 2 (2–4s): High-angle selfie sitting on the bed. She stretches her arms naturally, yawns softly, then laughs at herself.
+Shot 3 (4–6s): Mirror selfie. She casually fixes her messy hair while looking at her reflection, then turns the phone toward herself with a relaxed smile.
+Shot 4 (6–8s): Side selfie at the desk. She picks up a warm cup of coffee, takes a small sip, and looks toward the camera with sleepy morning eyes.
+Shot 5 (8–10s): Front close-up. She sits by the window holding the cup with both hands, smiles warmly, and slowly lowers the phone.
+Style: Ultra-photorealistic, natural Korean beauty, realistic smartphone camera, subtle handheld motion, authentic morning expressions, soft sunlight, realistic skin texture, lifelike hair, shallow depth of field, cinematic color grading, 24fps, 8K.</code></pre>
+
+</details>
 
 ## THE PEOPLE WHO DON'T WANT TO BE FOUND
 

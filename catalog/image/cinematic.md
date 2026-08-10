@@ -1,9 +1,62 @@
 # Cinematic image prompts
 
-37 source-linked prompts, newest ImgLume records first.
+38 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 9-panel cinematic storyboard of an ancient pharaoh awakening in the modern world
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2086211311818404033)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `seedream`, `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2559](https://imglume.com/prompt/2559)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/86ca8b4d-9d9c-42d1-9c60-8643d005a494/b4e0191b-7363-449c-8efb-3b789dd2b076-1786249632021 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 9-panel cinematic storyboard layout, 3 rows x 3 columns grid.
+
+Genre: River of Time. Arc: An ancient pharaoh awakens in the modern world, battling shadows of the past to forge a new reality..
+
+Use one cohesive visual treatment throughout, guided by the reference's painterly material and surface detail.
+
+Let panel 01 introduce the uploaded reference world, then continue its location, season, color grade, and story through the remaining panels.
+
+When the brief includes a recurring character or animal, keep its identity and appearance consistent across the sequence. Do not invent extra bystanders.
+
+World card: natural environment only - landscapes, water, sky, plants, wildlife, seasons, and natural light. Keep physical motion plausible and preserve the reference's medium, palette, light, and texture.
+
+Lighting: cool moonlight through mist, silver-blue night atmosphere, soft glow. Camera: energetic tracking shot following the subject with readable speed and direction. Mood: energetic forward momentum, active movement, vivid physical action.
+
+Tone: energetic, vivid, and forward-moving.
+
+ENERGY DIRECTIVE: every panel shows decisive action, speed, force or impact. Use strong verbs, acceleration, readable motion blur and debris; no passive drifting.
+
+Panel 01: The camera aggressively zooms into the pharaoh's face, his eyes igniting with golden light as particles of golden dust begin to swirl around him. Frame: bold wide action frame with strong leading lines and immediate momentum.
+
+Panel 02: The pharaoh sharply turns his head, his gaze fixed forward through fracturing visions of ancient pyramids and modern metropolises, creating a sense of clashing worlds. Frame: dynamic mid-shot with diagonal energy and visible motion blur.
+
+Panel 03: The camera rapidly tracks the pharaoh as he lunges forward, striking at an unseen threat, leaving a trail of golden light, with spectral battle imagery flashing by. Frame: tight impact close-up at the peak of the movement.
+
+Panel 04: The camera makes a sharp orbit around the pharaoh, showing him at the center of a raging vortex of sand, gold coins, and fragments of ancient artifacts, symbolizing the chaos of time. Frame: low or high angle chase framing with speed cues in the foreground.
+
+Panel 05: The pharaoh punches through a wall of light and shadow, tearing the fabric of reality, his figure instantly moving forward, leaving only shimmering particles behind. Frame: sweeping high-energy reveal of the full arena of action.
+
+Panel 06: The camera rapidly zooms into the pharaoh's face, his eyes still glowing, but now reflecting a calm new, unknown world, hinting at the battle's end. Frame: dynamic mid-shot with diagonal energy and visible motion blur.
+
+Panel 07: The shadow of a giant, spectral opponent momentarily engulfs the pharaoh, creating tension and hinting the fight is not over, before dissipating. Frame: tight impact close-up at the peak of the movement.
+
+Panel 08: The camera moves rapidly, showing the golden particles from the battle slowly settling like dust against a dark, but now more stable, sky. Frame: low or high angle chase framing with speed cues in the foreground.
+
+Panel 09: The pharaoh raises his hand, emitting a soft golden light that illuminates a small area around him, symbolizing acceptance of the new reality and finding peace. Frame: decisive power frame landing the final beat with force.
+
+Layout: Thin black borders, numbers 01-09 in corners, consistent color grading and lighting.</code></pre>
+
+</details>
 
 ## Lone motorcyclist in hyper-speed vortex
 

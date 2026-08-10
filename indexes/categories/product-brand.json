@@ -3,14 +3,15 @@
   "facet": "category",
   "value": "product-brand",
   "label": "Product Brand",
-  "count": 3,
+  "count": 4,
   "mediaTypes": {
-    "image": 2,
+    "image": 3,
     "video": 1
   },
   "ids": [
     "byradar:2083378889225801886:0",
     "byradar:2083529149331788156:0",
-    "byradar:2084250097403998602:0"
+    "byradar:2084250097403998602:0",
+    "byradar:2086006299154858137:0"
   ]
 }

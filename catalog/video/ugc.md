@@ -1,9 +1,66 @@
 # UGC video prompts
 
-36 source-linked prompts, newest ImgLume records first.
+38 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hyper-realistic UGC vlog of fashion decision livestream
+
+- **Original source:** [@Rosey_watson on X](https://x.com/Rosey_watson/status/2086281029913133211)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2564](https://imglume.com/prompt/2564)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f524ed16-954e-492d-a13e-5a7ba507d772/bf5973b3-ab41-4845-ad57-ba2ed6f3d3ac-1786258021467 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a hyper-realistic, premium UGC-style vlog video featuring a young adult female creator livestreaming from her stylish bedroom/dressing room. Natural smartphone camera quality, authentic handheld movement, realistic skin texture, natural lighting, casual Gen-Z energy, spontaneous facial expressions, and believable live-stream interaction.
+
+0–4 sec:
+She stands in front of her open wardrobe holding two dresses, one red and one another color. She looks genuinely confused and slightly laughs at herself.
+
+Girl: “Okay guys, I seriously cannot decide… red or this one?”
+
+She turns the camera slightly toward the dresses and looks at the live comments.
+
+4–9 sec:
+She reads the live chat, reacting naturally to comments coming in quickly. One follower suggests: “RED! ❤️”
+
+She suddenly looks excited and says:
+
+Girl: “Wait… someone said red. Okay, I’m listening to you!”
+
+9–15 sec:
+Quick vlog-style transition/cut. She appears wearing the red dress, looks into the camera, does a quick spin, and smiles confidently.
+
+Girl: “Yep. You guys chose right. Red it is!”
+
+End with her laughing and walking toward the camera as the livestream comments continue appearing naturally on screen.
+
+Style: authentic UGC livestream, vlog aesthetic, realistic smartphone footage, natural imperfections, genuine reactions, subtle handheld camera shake, believable live comments, premium but not overly polished, realistic audio, natural room ambience, fast social-media pacing, seamless 15-second storytelling.</code></pre>
+
+</details>
+
+## Tiniest newborn kitten reaching out
+
+- **Original source:** [@JinxLovesCats on X](https://x.com/JinxLovesCats/status/2086204996895330578)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2561](https://imglume.com/prompt/2561)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6efb8fa3-2a00-49ce-b45d-48426abc327b/547e55fd-0360-44c4-9bfb-ce9b1cb7ef3b-1786249686214 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Tiniest little newborn kitten with wide little eyes peeking out from under a blanket with it arm out stretched like it’s reaching for you. So adorable. Amateur photograph.</code></pre>
+
+</details>
 
 ## Handheld cooking vlog in a warm kitchen – Seedance 2.5 video prompt
 
