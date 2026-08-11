@@ -1,9 +1,264 @@
 # Product Ads video prompts
 
-42 source-linked prompts, newest ImgLume records first.
+51 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium ultra-photorealistic 15-second fintech commercial for BUDGETPIXEL AI TRADING
+
+- **Original source:** [@iam_mian7 on X](https://x.com/iam_mian7/status/2086737645720490244)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2659](https://imglume.com/prompt/2659)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b873cd1-b32c-4398-a13e-cc494b11bd3f/f7df3b69-10a3-4566-bef6-05beb4bf877e-1786362990447 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, ultra-photorealistic 15-second commercial for BUDGETPIXEL AI TRADING, a futuristic AI-powered trading platform. High-end fintech advertising, cinematic neon aesthetic, sophisticated, energetic, realistic UI, 16:9, 4K, 24fps.
+
+0–3s — The Market Awakens
+Nighttime futuristic city. Massive digital billboards across skyscrapers display the BUDGETPIXEL AI TRADING logo and a professional live-style market interface. Neon reflections cover wet streets. Camera rapidly flies between skyscrapers toward one giant billboard showing realistic candlestick charts moving naturally. Display BTC/USD, a realistic market price, percentage change, price axis, time axis, and volume bars.
+
+3–6s — AI-Powered Trading
+Seamless transition into a sleek smartphone held by a trader. The BUDGETPIXEL AI TRADING app opens with a professional dashboard featuring real-time-style candlestick charts, AI market insights, watchlist, portfolio value, and order panel. An elegant AI indicator analyzes the chart, then the trader taps BUY. Show a subtle, premium confirmation animation.
+
+6–9s — Trade Anywhere
+Fast cinematic montage:
+
+- Laptop displaying detailed multi-timeframe candlestick charts.
+- Tablet showing AI-powered portfolio analytics.
+- Smartphone displaying a dynamic market watchlist.
+- Futuristic office LED wall displaying financial charts.
+
+Charts update smoothly with realistic green and red candlesticks, volume indicators, and clean financial data visualization.
+
+9–12s — A Brand Across the City
+Camera pulls outside into the futuristic city. BUDGETPIXEL AI TRADING advertisements dominate the environment: giant neon skyscraper billboards, digital bus shelters, futuristic subway screens, LED storefronts, and massive holographic advertisements. Consistent logo and branding across every screen.
+
+12–15s — Hero Shot
+All visual elements converge into one premium smartphone hero shot floating against a dark futuristic background. The screen displays a sophisticated candlestick chart, AI analysis panel, portfolio overview, and BUDGETPIXEL AI TRADING logo. Subtle neon particles and realistic reflections surround the device.
+
+FINAL END CARD:
+BUDGETPIXEL AI TRADING
+“See the Market. Make Your Move.”
+
+Ultra-photorealistic fintech commercial, premium product cinematography, realistic smartphone and laptop materials, accurate screen reflections, professional candlestick charts, green and red market candles, volume indicators, sophisticated AI interface, smooth camera transitions, cinematic neon lighting, futuristic city atmosphere, shallow depth of field, realistic hands, crisp typography, consistent branding, physically accurate reflections, sharp UI, no glitches, no distorted screens, no random logos, no unreadable text.</code></pre>
+
+</details>
+
+## Luxurious Lipstick Product Showcase
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2086653037632799170)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2655](https://imglume.com/prompt/2655)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca377ec3-213f-435b-a069-767af5fd7ec2/8b1281b2-c207-4514-8abc-a9a7df802273-1786358722546 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A luxurious lipstick product showcase featuring four elegant gold lipstick tubes in different pink and nude shades. Close-up beauty shots of hands holding and arranging the lipsticks on a decorative silver tray, with soft pink roses and a stylish beauty setup in the background. Smooth cinematic camera movements, shallow depth of field, realistic product textures, glossy highlights, soft luxury lighting, premium cosmetics advertising aesthetic, elegant feminine atmosphere, high-end commercial look, vertical 9:16 composition.</code></pre>
+
+</details>
+
+## Instant Ignition (15-Second Beverage Campaign)
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2086725003505004739)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [2651](https://imglume.com/prompt/2651)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e1c1d1ad-49bf-414b-8749-298874484279/c360321e-ca57-46bf-8ad3-05edf194c191-1786352525970 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Project: Instant Ignition (15-Second Beverage Campaign)
+Format: Text-to-Video with Image Anchor (Start Frame)
+
+[00:00 - 00:03] THE HOOK (The Crack &amp; Activation)
+• Visual &amp; Camera: Begins on the start frame image anchor. Macro tight shot on the top of the condensation-covered 'IGNITE' energy drink can, gripped tightly by a hand wearing a black fingerless workout glove.
+• Action / Movement: The gloved hand pulls back the metal tab in hyper-slow motion. The tab cracks open instantly, releasing a dramatic burst of cold vapor that shoots out of the opening.
+• Audio / Sound Design: Loud, exaggerated metal crack sound effect syncing directly into an immediate, heavy, high-tempo 120-BPM electronic beat.
+• On-Camera / Voice: None. Pure sensory ignition and rapid pace activation.
+
+[00:03 - 00:07] THE SENSORY BURST (Macro Rapid Flow)
+• Visual &amp; Camera: Rapid rhythmic transitions moving from a close-up slice to an extreme close-up of a glass rim.
+• Action / Movement: A bright yellow lemon slice tumbles downward and is sliced in mid-air with explosive speed, spraying tiny juice droplets. Cut to electric orange 'IGNITE' liquid pouring furiously into a chilled glass as a violent, effervescent storm of bubbles bursts over the rim.
+• Audio / Sound Design: Rhythmic audio sync—sharp "SWOOSH" of the blade, deep rushing splash of the pour, and an intense fizzy crackle over the heavy beat.
+• On-Camera / Voice: None. Continuous visual and audio momentum.
+
+[00:07 - 00:11] THE IGNITION &amp; EXPANSION (The Shift)
+• Visual &amp; Camera: Medium shot of an intense young athlete at eye-level under dramatic lighting, followed by a double-speed backward camera zoom.
+• Action / Movement: The athlete takes a fast, powerful sip from the 'IGNITE' can. As they swallow, their eyes light up with energy, looking directly into the camera. The camera pulls back at high speed through a dynamic, changing urban backdrop from a graffiti wall into a neon-lit night cityscape.
+• Audio / Sound Design: Music beat swells to a peak; crisp ice-clinking sound layers over the track.
+• Dialogue (Real-time on-camera): "Full power unlocked."
+
+[00:11 - 00:15] THE HERO SLAM SIGN-OFF
+• Visual &amp; Camera: Low-angle cinematic shot focusing on a wet concrete surface.
+• Action / Movement: The athlete's gloved hand slams the full 'IGNITE' can onto the wet concrete, sending a sharp, symmetrical splash of water and liquid outward. The motion freezes smoothly on the steady, tack-sharp can with condensation glistening on the bold logo.
+• Audio / Sound Design: Heavy impact "THUD" combined with a water splash sound, settling into a final, punchy synth chord.
+• On-Screen Text / Call to Action: "Fuel the Flow."</code></pre>
+
+</details>
+
+## Luxury Perfume Advertisement Video Prompt
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2086686230029402183)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2645](https://imglume.com/prompt/2645)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed50d0f5-545e-4646-b2a1-44f837ae8bd7/e042699d-0835-481e-b0d3-df602aa75fae-1786348255157 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Close-up of the same woman gently spraying the perfume on her neck. Fine fragrance mist visible in the warm light, elegant expression, soft golden lighting, natural hair movement, shallow depth of field, cinematic beauty commercial, photorealistic, 4K.</code></pre>
+
+</details>
+
+## Luxury Perfume Advertisement Video Prompt
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2086686230029402183)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2644](https://imglume.com/prompt/2644)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ec75561e-67be-4898-ba65-e320de858549/8e6c9112-8506-41f2-b80b-d14c499ad863-1786348255157 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Luxury perfume bottle on a clean glossy black surface, warm amber lighting, subtle golden smoke, elegant dark background, soft reflections, premium fragrance advertisement, cinematic close-up, slow camera push-in, photorealistic, 4K.</code></pre>
+
+</details>
+
+## Luxury Perfume Advertisement Video Prompt
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2086686230029402183)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2643](https://imglume.com/prompt/2643)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6916fbea-a3e9-47b4-9d89-5f9abc140dce/1b5d07fc-e450-4528-9957-08d2fc89b094-1786348255157 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The same woman confidently walking toward the camera through a modern luxury interior. Same burnt-orange satin dress and long dark hair, warm golden lights, clean reflective floor, subtle atmospheric smoke, smooth tracking camera, elegant feminine presence, photorealistic, 4K.</code></pre>
+
+</details>
+
+## Luxury Perfume Advertisement Video Prompt
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2086686230029402183)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2642](https://imglume.com/prompt/2642)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/352a2d34-71cb-40a7-8b5f-36073652fc10/c926c05f-cbc2-4a45-986d-d95dd04019e7-1786348255157 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A beautiful confident woman wearing an elegant burnt-orange satin dress, long dark hair, standing in a luxurious dark interior with soft vertical golden lights behind her. Calm confident expression, subtle smoke, cinematic medium shot, slow camera movement, photorealistic, 4K.</code></pre>
+
+</details>
+
+## 15-second vertical UGC phone case advertisement
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2086650743478735143)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2636](https://imglume.com/prompt/2636)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/87be9232-5d7b-467e-bce8-f4b503ae5449/c85974ef-039f-46be-9d61-20070cd22d34-1786346127969 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second vertical 9:16 UGC-style phone case advertisement that feels authentic, premium, and social-media ready.
+
+A confident young woman in her mid-20s stands in a bright, modern apartment with soft natural daylight. She holds her smartphone toward the camera, showing a sleek premium phone case with a clean minimalist design. She smiles naturally and speaks directly to the camera as if recommending the case to a friend. Her appearance, outfit, phone, and phone case remain identical throughout the entire video.
+
+She speaks directly to the camera:
+
+“I’ve been using this case for a few weeks, and I honestly love it. It’s slim, feels amazing in my hand, and still gives my phone the protection I need. Plus, it looks so clean. Definitely one of my favorite phone accessories.”
+
+Storyboard:
+
+Scene 1: Close-up of the phone and case in her hand as she introduces it, rotating the phone slightly to reveal the back, edges, and camera protection.
+
+Scene 2: She holds the phone naturally in one hand, showing how slim the case looks while pressing the buttons and running her fingers across the smooth textured surface.
+
+Scene 3: She casually places the phone on a table and picks it back up, demonstrating the everyday practicality and secure grip of the case.
+
+Scene 4: She takes a quick mirror selfie, then turns the phone toward the camera to show how the case complements the phone’s original design.
+
+Scene 5: Final hero shot holding the phone beside her face with a clean, premium apartment background. She smiles confidently at the camera and says, “Definitely recommend.”
+
+The video should have realistic smartphone camera quality, natural handheld movement, genuine facial expressions, subtle autofocus adjustments, realistic lighting, smooth transitions, accurate lip sync, and a polished yet authentic UGC aesthetic. The phone and case must remain physically consistent throughout every shot. The case geometry, color, material, buttons, camera cutouts, edges, and proportions remain unchanged. The case stays sharply detailed and clearly visible whenever shown, with no warped branding, distorted geometry, or changing product design.</code></pre>
+
+</details>
+
+## Liquid Portal (15-Second Beverage Campaign)
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2086663334133215401)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [2634](https://imglume.com/prompt/2634)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d641cbdb-6efb-45e9-9fde-7c24cd8d91d4/b012c298-465e-4842-8ea0-9123393e9d49-1786344101916 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Project: Liquid Portal (15-Second Beverage Campaign)
+Format: Text-to-Video with Image Anchor (Start Frame)
+
+---
+[00:00 - 00:03] THE HOOK (Sensory Ignition)
+• Visual &amp; Camera: Macro tight shot focused on the sealed lid of a vibrant bubble tea cup. A hand enters the frame holding a wide straw.
+• Action / Movement: Straw pierces the sealed top in hyper-slow motion. A tiny burst of tea droplets sprays outward against the lens.
+• Audio / Sound Design: Exaggerated "POP" sound effect with a deep sub-bass drop that echoes outward.
+• On-Camera / Voice: None. Pure focus on sound and immediate visual feedback.
+
+---
+[00:03 - 00:08] THE PORTAL TRANSITION (The Core Visual)
+• Visual &amp; Camera: Seamless whip-pan tracking shot following the liquid moving upward through the transparent straw.
+• Action / Movement: As the drinker takes a sip, the background rapidly dissolves from a dim indoor setting into a vivid, glowing candy-cloud dreamscape. Glowing boba pearls float softly into the air around the cup, defying gravity.
+• Audio / Sound Design: A magical, airy "WHOOSH" sound layering into a rhythmic synth-pop track.
+• On-Camera / Voice: Character takes a deep, satisfied sip, eyes closing as the vibrant colors reflect off their face.
+
+---
+[00:08 - 00:12] REAL-TIME EXPRESSION &amp; PRODUCT SENSORY
+• Visual &amp; Camera: Medium shot, eye-level. Warm fantasy lighting transitioning back toward a clean studio setup.
+• Action / Movement: Character opens their eyes, looks directly at the camera with an energized, genuine smile, and speaks one quick line.
+• Audio / Sound Design: Music dips slightly under spoken words; gentle ice-clinking sound in the background.
+• Dialogue (Real-time on-camera): "Okay... that actually just transported me."
+
+---
+[00:12 - 00:15] THE HERO SIGN-OFF
+• Visual &amp; Camera: Smooth backward camera movement settling into a balanced hero shot of the beverage cup sitting on a sleek, colorful pedestal.
+• Action / Movement: Light sweeps across the condensation on the outside of the cup. Brand logo is perfectly centered and crisp.
+• Audio / Sound Design: Music hits a final, punchy beat. A clean, subtle bubble-pop sound effect at the end.
+• On-Screen Text / Call to Action: "Escape the Ordinary."</code></pre>
+
+</details>
 
 ## Ultra-realistic UGC luxury sunglasses review in modern bedroom
 

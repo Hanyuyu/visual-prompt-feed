@@ -1,9 +1,125 @@
 # Animation video prompts
 
-49 source-linked prompts, newest ImgLume records first.
+51 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cat Businessman Vertical Video
+
+- **Original source:** [@_YashalAli on X](https://x.com/_YashalAli/status/2086703112040128906)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2646](https://imglume.com/prompt/2646)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d6e1095a-1eed-4a5a-8518-73802857438d/af0dcd05-a231-47bc-8367-33b0aeaed4e1-1786350315410 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact main female character. Keep her facial features, long black hair, makeup, skin tone, and overall appearance consistent throughout. Photorealistic cinematic style, natural expressions, realistic movement, 9:16 vertical.
+
+0–4 sec: The woman stands in her stylish living room, getting ready to leave. She grabs her bag, looks at her cute cat sitting on the sofa, and says, “Be good while I’m gone.” She closes the door.
+
+4–7 sec: The moment the door closes, the cat looks toward the door. It suddenly stands upright and transforms into a tiny, sophisticated businessman wearing a miniature black suit and glasses.
+
+7–11 sec: The cat confidently walks to a tiny desk, opens a laptop, adjusts its glasses, and starts typing extremely seriously. Close-up of its focused expression.
+
+11–15 sec: The woman suddenly opens the front door because she forgot something. The cat instantly transforms back into a normal cat and jumps onto the sofa, pretending to sleep. She looks suspiciously at the cat.
+
+Final shot: Close-up of the cat slowly opening one eye and smirking.</code></pre>
+
+</details>
+
+## MAKING MANGO JUICE 10-second cinematic 3D animation
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2086432002501444056)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [2614](https://imglume.com/prompt/2614)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5012e4c0-c97c-433d-9677-6ad362efdf50/4451d39a-6574-4e10-a849-dd8637a2f492-1786310562777 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5012e4c0-c97c-433d-9677-6ad362efdf50/80152b21-22c5-468d-bc01-a4fb5060a86b-1786310562777 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 10-second cinematic 3D animated food video titled “MAKING MANGO JUICE”.
+
+Use the uploaded storyboard as the STRICT visual and shot-sequence reference.
+
+IMPORTANT:
+Follow all 8 storyboard shots in the exact order.
+Do not add, remove, merge, or rearrange shots.
+Each shot lasts exactly 1.25 seconds.
+Total video duration: exactly 10 seconds.
+
+Maintain EXACT character consistency throughout the entire video:
+The same young woman appears in every character shot.
+She has dark brown hair in a casual ponytail, expressive brown eyes, a friendly youthful face, a yellow short-sleeve T-shirt, and a dark olive-green apron.
+Do not change her face, hairstyle, clothing, body proportions, or character design between shots.
+Maintain the same warm, cozy kitchen, lighting direction, color palette, props, counter, cutting board, mangoes, blender, and glass throughout the sequence.
+VISUAL STYLE:
+High-quality cinematic 3D animated film, polished stylized realism, detailed food textures, realistic mango pulp, natural liquid physics, expressive character animation, warm natural kitchen lighting, soft shadows, cinematic composition, smooth camera movement, realistic materials, vibrant but natural colors.
+SHOT 1 — 0.00–1.25s
+WIDE ESTABLISHING SHOT.
+The woman stands behind the kitchen counter surrounded by fresh ripe mangoes.
+She looks toward the camera, smiles warmly, and gives a small friendly wave.
+A clean empty drinking glass is visible on the counter.
+Camera makes a very subtle cinematic push-in.
+Natural character movement and realistic hand motion.
+SHOT 2 — 1.25–2.50s
+MEDIUM SHOT.
+Cut smoothly to the same woman.
+She confidently raises one ripe mango beside her face and looks toward the camera with a cheerful expression.
+Mango slices and pieces are arranged on the cutting board in front of her.
+Her other hand rests naturally near the cutting board.
+Keep her face and outfit identical to Shot 1.
+SHOT 3 — 2.50–3.75s
+CLOSE-UP.
+Cut to her hands preparing the mango.
+She holds the mango firmly on the wooden cutting board and makes a clean controlled knife cut.
+Show the knife moving naturally through the mango flesh.
+Capture detailed golden mango texture and small natural juice movement.
+No exaggerated or dangerous knife motion.
+SHOT 4 — 3.75–5.00s
+EXTREME CLOSE-UP.
+Fresh golden mango cubes fall naturally into a transparent blender jar.
+Several mango pieces drop from above and bounce naturally inside the blender.
+Use realistic gravity and food physics.
+Camera follows the falling mango pieces with a subtle downward movement.
+SHOT 5 — 5.00–6.25s
+MEDIUM CLOSE-UP.
+The same woman pours water or milk from a transparent measuring jug into the blender containing the mango pieces.
+Show a continuous realistic liquid stream.
+The woman looks focused and cheerful.
+Keep the blender, mango pieces, kitchen and lighting consistent.
+SHOT 6 — 6.25–7.50s
+PERFECT OVERHEAD TOP-DOWN SHOT.
+Camera looks directly down into the transparent blender.
+The blender starts mixing the mango and liquid.
+The mixture rapidly transforms into a smooth bright golden-orange liquid.
+Create a beautiful natural vortex in the center.
+Show realistic swirling liquid physics and smooth blending.
+No camera shake.
+SHOT 7 — 7.50–8.75s
+CINEMATIC CLOSE-UP.
+The same woman pours the freshly blended mango juice from the blender into a tall transparent glass.
+Show a smooth continuous golden-orange stream.
+The glass gradually fills with fresh mango juice.
+Capture subtle natural foam and realistic liquid reflections.
+Keep the woman's appearance consistent in the background.
+SHOT 8 — 8.75–10.00s
+WIDE FINAL REVEAL.
+Return to the cozy kitchen.
+The same woman holds the finished mango juice toward the camera with a happy, satisfied smile.
+Fresh mangoes remain visible on the counter.
+She slightly raises the glass as a final presentation gesture.
+Camera performs a subtle cinematic push-in.
+End on a clean, visually satisfying final frame.</code></pre>
+
+</details>
 
 ## MiniMax H3 Prompt: 15-second anime sports-game player stats screen opening
 

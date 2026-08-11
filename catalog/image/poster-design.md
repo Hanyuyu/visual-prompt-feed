@@ -1,9 +1,325 @@
 # Poster Design image prompts
 
-50 source-linked prompts, newest ImgLume records first.
+57 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vintage Collage Travel Poster
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2086675794211021181)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2662](https://imglume.com/prompt/2662)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eef6a7cf-bc5f-4142-bcd5-2ac85e0bab08/b03a3464-30ac-49d2-9622-54930014c17f-1786365111112 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eef6a7cf-bc5f-4142-bcd5-2ac85e0bab08/acac3a9c-e139-4f73-bff3-2232ea1771d5-1786365111112 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/eef6a7cf-bc5f-4142-bcd5-2ac85e0bab08/20162fbd-478c-4a42-ad11-ae39a7080c55-1786365111112 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vintage editorial travel poster for [CITY], [COUNTRY], using an artistic travel collage / layered postcard composition rather than a conventional skyline poster.
+
+Main creative concept: Create a large, recognizable silhouette or profile of [ICONIC LANDMARK / SYMBOL] as the central visual frame. Inside and around this silhouette, seamlessly blend multiple scenes from the destination — iconic architecture, streets, bridges, landscapes, local transportation, people, and atmospheric elements — creating the feeling that the entire city exists within one artistic composition.
+
+The central landmark should partially dissolve into the surrounding city imagery using layered photographic-illustration textures, torn-paper edges, subtle double exposure, ink textures, and vintage print effects.
+
+Include several smaller graphic elements around the main composition:
+
+vintage postage stamp featuring the destination
+distressed passport/travel stamp
+old luggage tag
+small destination map fragment
+street sign
+tiny local transportation detail
+subtle handwritten or typewriter-style travel markings
+
+Add one strong foreground element representing the city, such as a taxi, vintage bus, bicycle, boat, tram, tuk-tuk, or local vehicle.
+
+Typography: At the top, use large elegant uppercase lettering:
+
+[CITY]
+
+Underneath:
+
+[COUNTRY]
+
+Add a small classic travel slogan:
+
+[ICONIC SLOGAN]
+
+Use bold vintage sans-serif typography with generous letter spacing.
+
+Visual style: sophisticated 1940s–1960s travel advertising, vintage European poster design, editorial collage, screen-printed artwork, distressed paper, faded ink, subtle grain, imperfect registration, layered textures, elegant negative space, cinematic atmosphere, artistic realism.
+
+Color palette: warm ivory paper, deep navy, muted blue, burnt orange, terracotta, faded beige, charcoal, and small golden-yellow accents. Keep colors slightly desaturated and harmonious.
+
+Create a thin aged-paper border around the poster.
+
+The composition should feel like a rare collectible vintage travel poster discovered in an old railway station, artistic and premium rather than generic.
+
+Portrait 4:5, highly detailed, sophisticated graphic design, strong visual hierarchy, nostalgic, cinematic, no modern 3D-rendered look.</code></pre>
+
+</details>
+
+## Warm Hand-Drawn Alcohol-Marker Travel Poster Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2086685317822890146)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2661](https://imglume.com/prompt/2661)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1d0498aa-047f-4c73-9c11-0a0c8f801ecc/456e6a90-7a8c-4e90-ad07-8c1fd87f7455-1786365075550 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1d0498aa-047f-4c73-9c11-0a0c8f801ecc/c1c84f29-83f8-456f-a1f3-6155cf38df37-1786365075550 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1d0498aa-047f-4c73-9c11-0a0c8f801ecc/36fcd868-ab49-4d03-b5e1-6f6fc0ef8587-1786365075550 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[DESTINATION] = [CITY NAME]
+[LANDMARK] = [PRIMARY LANDMARK]
+
+Create a vertical 4:5 alcohol-marker travel poster of [LANDMARK] in [DESTINATION], viewed from a low pedestrian viewpoint. Make it feel like an affectionate, imperfect travel memory, not a photorealistic rendering, postcard, map, landmark collage, or cinematic panorama.
+
+TYPOGRAPHY
+
+Keep the top 14–16% open warm ivory paper.
+
+At the top center, write exactly:
+
+“[CITY NAME]” — large, bold black marker capitals.
+
+Below it:
+
+“[SHORT TRAVEL PHRASE]” — smaller vermilion-red handwritten marker lettering.
+
+Keep both lines highly legible and separate from the landmark. No additional text.
+
+SCENE
+
+Place [LANDMARK] prominently in the upper-center, preserving its most recognizable silhouette and defining features while simplifying unnecessary detail.
+
+Reduce surrounding architecture to 2–3 broad building masses. Add one simple local vehicle, a few tiny pedestrians, and a young female traveler walking across the lower-center foreground while looking upward.
+
+Dress her in a vivid vermilion-red coat over cream clothing, with natural warm-peach skin tones. Make her warm colors contrast against the cool slate-blue and pale blue-gray architecture.
+
+DEPTH &amp; MARKER STYLE
+
+Foreground: saturated colors, 2–3 overlapping marker passes, visible chisel-tip strokes, darker shadow overlaps, and thick broken black contours.
+
+Midground: medium-density slate-blue / blue-gray marker strokes, 1–2 passes, moderately thick broken outlines.
+
+Background: progressively reduce saturation, density, contrast, detail, and contour weight. Use pale blue-gray single-pass strokes with thin, incomplete outlines that gently merge into the ivory sky.
+
+Use broad vertical strokes for buildings and short directional strokes for streets. Leave approximately 40% of the warm ivory paper exposed.
+
+STYLE CONSTRAINTS
+
+Keep the illustration simplified, tactile, graphic, airy, nostalgic, and slightly imperfect, with only major architectural forms and a few window suggestions.
+
+Avoid: photorealism, repetitive window grids, dense skyline detail, realistic reflections, uniform outlines, digital gradients, watercolor effects, black-filled shadows, excessive detail, clutter, or extra typography.
+
+Overall: sophisticated mid-century-inspired travel-book illustration recreated with expressive alcohol markers, with strong foreground-to-background atmospheric perspective and an unmistakable sense of place.</code></pre>
+
+</details>
+
+## Premium contemporary naïve illustration transformation prompt
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2086683713568412008)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2657](https://imglume.com/prompt/2657)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7144dbb0-afe2-42be-abbe-a1ab9028f925/104992a3-9e01-4132-9c56-2dc830a9998a-1786360898210 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7144dbb0-afe2-42be-abbe-a1ab9028f925/59907475-5682-4f88-a2a7-9a49bb8e30bb-1786360898210 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>MAIN PROMPT
+Transform the uploaded image into a premium contemporary naïve illustration while preserving the exact facial identity, facial structure, hairstyle, expression, body proportions, pose, clothing silhouette, composition, and overall scene from the reference image.
+FORMAT LOCK
+Vertical 3:4 composition. Preserve the original framing, camera angle, perspective, subject placement, and overall composition. Clean centered layout with a premium poster aesthetic.
+IDENTITY LOCK
+Preserve the exact facial features, hairstyle, expression, body proportions, clothing silhouette, and recognizable identity. Simplify the illustration without changing the person’s appearance.
+ILLUSTRATION STYLE
+Create a contemporary authorial naïve illustration with a minimalist hand-drawn aesthetic. Use playful proportions, slightly irregular hand-drawn outlines, expressive decorative linework, and intentionally imperfect craftsmanship. Simplify forms while keeping the subject immediately recognizable.
+COLOR SYSTEM
+Use flat high-contrast color blocks with a refined contemporary palette. No gradients. No shadows. No realistic lighting. No 3D effects. Clean graphic shapes with bold visual balance.
+STYLE
+Premium designer poster. Editorial illustration. Modern naïve art. Handmade graphic illustration. Museum-quality print design. Minimalist composition. Contemporary art-book aesthetic. Expressive handcrafted character. Ultra-clean premium artwork.
+NEGATIVE PROMPT
+Avoid photorealism, gradients, shadows, 3D effects, CGI appearance, digital painting, excessive detail, messy linework, blurry edges, distorted anatomy, extra limbs, text, logos, watermarks, or low-quality rendering.</code></pre>
+
+</details>
+
+## Warm Minimal Watercolor City Poster Meta Prompt — Aqua Blue Summer Version
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2086483127174631627)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2616](https://imglume.com/prompt/2616)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dbf18b4b-528e-4db4-8776-ad44e5dac9a2/ff788fa4-0c27-4e60-8109-b146849737d0-1786314700432 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dbf18b4b-528e-4db4-8776-ad44e5dac9a2/7ac9b7b8-93ee-4ed1-adc7-7f4d80f189c7-1786314700432 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/dbf18b4b-528e-4db4-8776-ad44e5dac9a2/33a126d1-c5ea-40f1-8ef3-bddc85908b4c-1786314700432 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/dbf18b4b-528e-4db4-8776-ad44e5dac9a2/e00a3b4a-01f0-4e89-8d00-4bfd85b4ba3d-1786314700432 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Warm Minimal Watercolor City Poster Meta Prompt — Aqua Blue Summer Version
+
+Create a 3:4 vertical soft watercolor city poster with a warm handmade postcard feeling.
+
+Theme:
+A gentle, emotionally warm, minimal city postcard illustration for [CITY_NAME], capturing the city’s unique atmosphere, local charm, and quiet everyday beauty in a simple and comforting way.
+
+Top text:
+City name: “[CITY_NAME]”
+English emotional phrase: “[ENGLISH_TEXT]”
+
+Typography placement:
+Place the city name prominently in the upper area of the poster, either top center or slightly upper-left depending on the composition.
+Place the English emotional phrase just below the city name in a smaller, softer handwritten or lightly editorial style.
+The typography should feel naturally integrated into the poster, with generous breathing space around it.
+Use a handwritten, lightly printed, or softly editorial style that matches the handmade watercolor mood.
+
+Main subject:
+A simple, friendly, minimal watercolor scene that clearly represents [CITY_NAME].
+Show one main city-specific moment rather than a crowded landmark collage.
+The scene should include:
+- one signature landmark, street, coastline, hill view, village scene, canal, park, harbor, old town lane, or neighborhood corner of [CITY_NAME],
+- one or two small human figures enjoying a peaceful everyday moment,
+- and a few local details that naturally belong to the city.
+
+Before drawing, identify the unique city feeling of [CITY_NAME]:
+1. one main visual anchor that represents the city,
+2. one everyday lifestyle moment,
+3. one local environmental or cultural detail,
+4. one calm and simple composition that feels specific to this city.
+
+Scene guidance:
+Depict [CITY_NAME] as a warm yet refreshing, airy postcard scene.
+Focus on one cohesive setting, not multiple landmarks pasted together.
+Show a peaceful everyday moment such as walking, sitting, strolling, looking at the view, holding flowers, sharing a quiet conversation, or enjoying the street atmosphere.
+Include only a few city-specific supporting details such as:
+[LOCAL_DETAIL_1], [LOCAL_DETAIL_2], [LOCAL_DETAIL_3]
+
+Illustration style:
+Use delicate pencil sketch lines and soft brown hand-drawn outlines.
+The drawing should feel gentle, rounded, simple, friendly, and slightly imperfect, like a handmade illustration.
+If people appear, facial details should be minimal: tiny curved eyes, soft rosy cheeks, a small gentle smile, and no overly realistic anatomy.
+
+Color direction:
+Use a refreshing blue-and-yellow summer palette.
+75% cool blues and blue-grays: sky blue, cyan, pale aqua, powder blue, faded turquoise, soft blue-gray, and selective cobalt.
+15% clean white and warm off-white paper highlights.
+10% pale lemon yellow, soft butter yellow, sunlit cream, or light golden accents.
+
+Blue should clearly dominate the poster, while yellow adds warmth and visual rhythm.
+Use yellow only as refined accents in awnings, window light, flowers, umbrellas, pastries, signs, clothing details, drink labels, or sunlit building edges.
+Do not create an all-blue flat background.
+Keep the overall tone low-saturation, soft, breezy, and watercolor-light.
+
+Watercolor technique:
+Use translucent washes, soft blue bleeding, subtle pigment granulation, wet-on-dry textures, gentle brush blooms, pale layered shadows, visible handmade paper texture, minimal splashes, and delicate watery reflections where appropriate.
+Yellow washes should feel like light touching paper.
+Preserve a soft handmade postcard feeling with slightly uneven painted edges and visible cold-pressed watercolor paper grain.
+
+Composition:
+Reserve clean space in the upper area for the city name and English emotional phrase.
+Place the main subject slightly below center.
+Keep the background clean and airy.
+Add only a few small watercolor doodles such as hearts, dots, stars, flowers, clouds, leaves, or simple underline marks.
+The overall image should feel comforting, cheerful, peaceful, refreshing.</code></pre>
+
+</details>
+
+## Elegant Woman Mixed-Media Portrait Illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2086304206177419324)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2609](https://imglume.com/prompt/2609)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/61d2ec0e-a415-447d-96d2-2e0c3b65ebb8/e4368cd2-b8fb-4693-83b1-e7887f06a5bb-1786306264358 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/61d2ec0e-a415-447d-96d2-2e0c3b65ebb8/d1fa63e4-e722-4e87-a298-6f1f8e8292c4-1786306264358 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Editorial mixed-media portrait illustration of an elegant woman with long, flowing wavy light-brown hair, subtle confident smile, natural facial features, wearing a stylish blue-and-white striped layered outfit. Highly detailed hand-painted illustration with realistic facial rendering combined with flat graphic shapes. Bold cobalt blue, warm cream, and vivid coral-red geometric background, large overlapping circles, arches, abstract lines, halftone dots, paint splashes, fine botanical sketches, textured paper collage, screen-print imperfections, subtle grain, layered poster composition, sophisticated fashion editorial aesthetic, dynamic flowing fabric, strong visual contrast, refined color harmony, vintage-modern graphic design, vertical composition, premium magazine poster artwork, intricate details, 4K.</code></pre>
+
+</details>
+
+## Bald Man Mixed-Media Portrait Illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2086304206177419324)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2608](https://imglume.com/prompt/2608)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/505cf8c9-e191-4cad-a964-49b179cae5ea/f171f601-b63b-45e9-a1d1-24dfbae9b1ec-1786306264358 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/505cf8c9-e191-4cad-a964-49b179cae5ea/0899d1c7-db8b-4976-951a-33bfd298a28d-1786306264358 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Editorial mixed-media portrait illustration of a bald man wearing large black rectangular glasses and an oversized deep-blue fashion coat, resting his face gently in both hands with a calm, thoughtful expression. Realistic facial details blended with stylized hand-painted illustration, bold cobalt blue, warm cream, and coral-red geometric collage background, overlapping circles and semicircles, abstract lines, halftone patterns, textured brush strokes, subtle ink imperfections, paper grain, screen-print texture, minimalist graphic elements, sophisticated contemporary poster design, strong symmetrical composition, rich navy and royal-blue clothing with subtle fabric texture, artistic magazine-cover aesthetic, refined color palette, vertical 4:5 composition, highly detailed, 4K.</code></pre>
+
+</details>
+
+## Universal Miniature Suitcase Travel Poster Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2086377637711434188)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2603](https://imglume.com/prompt/2603)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/09e3f7b2-ee9f-4ab6-b782-3d8f9cb1b070/482a3360-50b5-4535-b69c-b450f9a05f33-1786295734462 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/09e3f7b2-ee9f-4ab6-b782-3d8f9cb1b070/d3205ae9-36fe-4752-90f1-4f8c14eb7995-1786295734462 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/09e3f7b2-ee9f-4ab6-b782-3d8f9cb1b070/a0d01858-dbb6-4369-a104-0a721a917f06-1786295734462 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical travel poster for [CITY, COUNTRY], designed as a highly detailed miniature 3D paper-cut city emerging from an open vintage travel suitcase.
+
+The entire destination exists inside the suitcase as a handcrafted miniature world. Build the scene using layered cardstock, precision paper cutouts, folded paper, embossed paper, paper sculpture, and delicate handcrafted miniature elements. Every architectural feature should feel physically constructed from paper, with visible paper fibers, subtle folds, cut edges, layered depth, realistic miniature shadows, and tactile handcrafted details.
+
+CITY-SPECIFIC CONTENT:
+Populate the miniature world with the most recognizable landmarks, architecture, skyline elements, traditional buildings, streets, bridges, monuments, natural scenery, local transportation, vegetation, cultural details, and distinctive geographic features of [CITY, COUNTRY]. Prioritize accurate and recognizable landmarks rather than generic buildings.
+
+Create a strong sense of depth:
+
+foreground: miniature streets, trees, people, vehicles and local details
+middle ground: major landmarks and architectural highlights
+background: skyline, mountains, coastline or other defining landscape
+far background: layered paper sky, clouds, sun/moon and subtle atmospheric elements
+
+Add one creative travel-related visual metaphor unique to the destination, such as a giant paper airplane, floating postcard, passport stamp, luggage tag, map fragment, folded paper sun, flying birds, postage stamps, or another clever element that naturally interacts with the miniature city.
+
+The suitcase should be an elegant vintage leather travel suitcase, open toward the viewer, with realistic leather texture, brass hardware, buckles, handles and subtle age marks. The miniature city should appear physically built inside it rather than digitally pasted onto it.
+
+Surround the suitcase with a few tasteful travel ephemera elements such as a vintage map, postcard, passport, ticket, city guide, or luggage tag, carefully arranged without making the composition cluttered.
+
+Above the suitcase, include elegant editorial typography:
+
+[CITY NAME]
+[COUNTRY]
+
+Typography should be minimal, sophisticated, spacious and inspired by classic mid-century travel posters, with clean geometric lettering and restrained vintage colors.
+
+VISUAL STYLE: premium handcrafted papercraft, miniature architectural diorama, vintage travel poster, sophisticated editorial illustration, tactile paper textures, layered cardstock, realistic paper shadows, precision cutting, subtle embossing, delicate imperfections, nostalgic travel aesthetic, museum-quality craftsmanship, cinematic studio lighting, soft ambient shadows, refined composition, elegant negative space.
+
+COLOR PALETTE: muted destination-inspired colors, warm ivory background, sophisticated navy/blue, earthy neutrals, subtle terracotta or muted accent colors, slightly faded archival-print appearance.
+
+CAMERA &amp; COMPOSITION: vertical 4:5 composition, slightly elevated three-quarter view, centered suitcase, highly readable city silhouette, strong foreground-to-background depth, miniature scale clearly visible, balanced composition, premium commercial art direction.
+
+QUALITY: ultra-detailed, realistic miniature craftsmanship, crisp architectural details, physically believable paper construction, high-end editorial travel campaign, collectible vintage poster aesthetic.
+
+IMPORTANT: Do not copy any existing travel poster. Do not reproduce a specific reference composition. Create an original miniature world specifically designed around [CITY, COUNTRY]. Avoid generic landmarks and prioritize recognizable local identity.
+
+Aspect ratio: 4:5.</code></pre>
+
+</details>
 
 ## Social media post design prompt
 

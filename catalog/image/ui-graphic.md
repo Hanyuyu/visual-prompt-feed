@@ -1,9 +1,26 @@
 # Ui Graphic image prompts
 
-2 source-linked prompts, newest ImgLume records first.
+3 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Web design prompt for Grok Imagine 2.0
+
+- **Original source:** [@doganuraldesign on X](https://x.com/doganuraldesign/status/2086545458235679044)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `ui-graphic`
+- **ImgLume record:** [2612](https://imglume.com/prompt/2612)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e59dc7d4-ec7c-4284-bc67-4d0bdcefc824/ba46e778-9d43-4ab2-8174-4e58978ff172-1786310460075 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e59dc7d4-ec7c-4284-bc67-4d0bdcefc824/508d57a0-e309-415d-8d2d-747586d8e352-1786310460075 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e59dc7d4-ec7c-4284-bc67-4d0bdcefc824/4d8c22be-c7d9-41c8-90e8-4d1931ca983f-1786310460075 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e59dc7d4-ec7c-4284-bc67-4d0bdcefc824/926132bf-161c-4341-ac8a-21fbce5a4c52-1786310460075 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Design of [SUBJECT], minimalist editorial art direction, high-end web design aesthetic, oversized elegant serif typography, clean geometric sans-serif supporting type, left-aligned hero content, generous negative space, visual hierarchy weighted toward the left, large product imagery positioned on the right, asymmetric editorial composition, floating rounded content cards surrounding the main visual, subtle thin geometric construction lines, soft dimensional shadows, warm white background, restrained pastel palette of butter yellow, mint green, powder blue, blush pink and warm beige, crisp black typography, smooth photographic cutouts, polished product-render feel, refined premium atmosphere</code></pre>
+
+</details>
 
 ## Premium commemorative postage-stamp collection
 

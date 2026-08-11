@@ -1,9 +1,67 @@
 # Cinematic image prompts
 
-38 source-linked prompts, newest ImgLume records first.
+40 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## The Woman Who Opened the Night
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2086739085482496471)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2667](https://imglume.com/prompt/2667)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6ed6d290-cfe3-47a2-901f-69da935388a0/0b9d9620-94dc-4d21-9c7f-c4f401f8aa9d-1786373430212 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A breathtaking cinematic fantasy portrait of a beautiful woman standing on the edge of a skyscraper above a vast futuristic city at night. She reaches upward with both hands and physically pulls the dark stormy sky apart like an enormous silk curtain, revealing a spectacular hidden universe behind it.
+
+Inside the opening, show a gigantic glowing planet, swirling galaxies, distant moons, golden constellations, nebula clouds and thousands of brilliant stars. Streams of golden stardust fall from the opening into the city below.
+
+The woman wears an elegant flowing midnight-blue gown that gradually dissolves into sparkling stars. Her long hair moves naturally in the cosmic wind. Below her, the city glows with warm lights, rooftop gardens, futuristic towers, waterfalls and subtle flying vehicles.
+
+Create dramatic scale, strong depth, realistic lighting, volumetric atmosphere, deep midnight blues contrasted with warm golden cosmic light, extremely detailed architecture, realistic fabric and hair, cinematic photography, premium fantasy movie-poster quality, breathtaking and mysterious, visually designed to make viewers stop and explore the details.
+
+Portrait composition, 4:5 aspect ratio, subject positioned in the lower-middle area with the enormous cosmic opening dominating the upper half.
+
+No text, no typography, no logos, no watermark, no border.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic portrait of a woman with Lamborghini in rain-soaked Manhattan
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2086596397768626588)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2630](https://imglume.com/prompt/2630)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/524d9a24-e451-4658-9d5e-dbd4550e5c95/6fe35aa4-4f97-4d1c-8ef7-67fed8ea7497-1786342269248 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/524d9a24-e451-4658-9d5e-dbd4550e5c95/60afb6f6-7cc2-4b45-86b9-cfde1d6c5f19-1786342269248 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic 9:16 portrait set on a rain-soaked Manhattan avenue at night.
+
+A stunning, elegant woman in a flowing black evening gown walks confidently toward the camera, her long dark hair and dress moving naturally in the wind. She holds a luxury car key casually in one hand.
+
+Behind her, position a sleek matte-black Lamborghini supercar facing the camera, its sharp LED headlights glowing through light mist.
+
+Surround the scene with towering New York skyscrapers, illuminated billboards, yellow taxis, distant traffic lights, pedestrians softly blurred in the background, rising street steam, subtle falling rain, and dramatic reflections across the wet asphalt.
+
+Use a low cinematic camera angle so the woman dominates the foreground while the Lamborghini remains clearly visible behind her.
+
+Luxury fashion editorial meets neo-noir blockbuster movie scene. Photorealistic skin, realistic fabric textures, dramatic depth of field, volumetric lighting, glossy rain reflections, rich blacks, warm city lights, subtle cool highlights, atmospheric mist, premium cinematic color grading, extremely detailed, sophisticated and visually striking.
+
+Make the frame feel like a frozen moment from a high-budget luxury film rather than a posed car photoshoot.
+
+No text, no watermark, no added graphics, no collage.</code></pre>
+
+</details>
 
 ## 9-panel cinematic storyboard of an ancient pharaoh awakening in the modern world
 

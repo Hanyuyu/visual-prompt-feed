@@ -1,9 +1,106 @@
 # UGC video prompts
 
-38 source-linked prompts, newest ImgLume records first.
+41 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Gym bathroom vertical video with detailed timeline
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2086672776539349033)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2647](https://imglume.com/prompt/2647)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ec673d9e-c500-40f9-8687-b678ee048329/a8ae5993-36ee-468b-957e-8f308311518f-1786350338360 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Person from Image1; face and hairstyle must match exactly. Ignore the reference outfit/background/pose/text. Black gym tank, sweaty workout look. 9:16 vertical.
+
+16s gym bathroom: Old iPhone 1x standard lens, static propped-on-sink angle, heavy constant noise/compression, harsh cool-green fluorescent lighting, unedited low-quality phone footage.
+
+0–3s: Enters breathless, approaches sink, glances at phone.
+3–7s: Turns tap, splashes cold water on face, gasps/exhales.
+7–11s: Grips sink, catches breath, looks into mirror, wipes face.
+11–14s: Stares at reflection, pushes wet hair back: low husky voice, "...three more sets. I got this."
+14–16s: Pats face dry, glances at phone, turns to leave; freeze mid-turn.
+
+Bathroom echo, tap/splash, heavy breathing, paper towel sound, muffled voice. Real pores, sweat, flushed skin, wet hair. No BGM, text, legible signage, cinematic grading, beauty filter, fisheye, distortion, vignette, scene skipping, or cut consolidation.</code></pre>
+
+</details>
+
+## 15-second vertical UGC phone case advertisement
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2086650743478735143)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2636](https://imglume.com/prompt/2636)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/87be9232-5d7b-467e-bce8-f4b503ae5449/c85974ef-039f-46be-9d61-20070cd22d34-1786346127969 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second vertical 9:16 UGC-style phone case advertisement that feels authentic, premium, and social-media ready.
+
+A confident young woman in her mid-20s stands in a bright, modern apartment with soft natural daylight. She holds her smartphone toward the camera, showing a sleek premium phone case with a clean minimalist design. She smiles naturally and speaks directly to the camera as if recommending the case to a friend. Her appearance, outfit, phone, and phone case remain identical throughout the entire video.
+
+She speaks directly to the camera:
+
+“I’ve been using this case for a few weeks, and I honestly love it. It’s slim, feels amazing in my hand, and still gives my phone the protection I need. Plus, it looks so clean. Definitely one of my favorite phone accessories.”
+
+Storyboard:
+
+Scene 1: Close-up of the phone and case in her hand as she introduces it, rotating the phone slightly to reveal the back, edges, and camera protection.
+
+Scene 2: She holds the phone naturally in one hand, showing how slim the case looks while pressing the buttons and running her fingers across the smooth textured surface.
+
+Scene 3: She casually places the phone on a table and picks it back up, demonstrating the everyday practicality and secure grip of the case.
+
+Scene 4: She takes a quick mirror selfie, then turns the phone toward the camera to show how the case complements the phone’s original design.
+
+Scene 5: Final hero shot holding the phone beside her face with a clean, premium apartment background. She smiles confidently at the camera and says, “Definitely recommend.”
+
+The video should have realistic smartphone camera quality, natural handheld movement, genuine facial expressions, subtle autofocus adjustments, realistic lighting, smooth transitions, accurate lip sync, and a polished yet authentic UGC aesthetic. The phone and case must remain physically consistent throughout every shot. The case geometry, color, material, buttons, camera cutouts, edges, and proportions remain unchanged. The case stays sharply detailed and clearly visible whenever shown, with no warped branding, distorted geometry, or changing product design.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC luxury watch review in modern bedroom
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2086668137198678351)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2635](https://imglume.com/prompt/2635)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9220c6ab-18e2-4616-be01-347774d25f28/32d084e2-68de-424c-86f2-5871b1cdae3d-1786344144442 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded luxury watch and its packaging as locked product references. Maintain perfect product consistency, including the watch face, hands, dial details, case shape, crown, bracelet, materials, colors, proportions, and reflections.
+
+Create an ultra-realistic UGC luxury watch review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
+
+The video begins with the woman sitting on the bed beside the watch box. She smiles at the camera and says, "I honestly didn't expect to love this watch this much." She picks up the box, opens it naturally, and reveals the watch. She gently lifts it from the packaging and brings it closer to the camera, saying, "The packaging already feels so premium."
+
+She rotates the watch between her fingers, showing the dial, bracelet, crown, and polished details as warm sunlight creates realistic reflections across the metal. She says, "Look at those details... it feels incredibly well made."
+
+She puts the watch on her wrist and adjusts the bracelet naturally. Cut to a close-up of her wrist as she moves it through the sunlight, showcasing the watch from different angles.
+
+She walks toward a full-length mirror, checks the watch with a confident smile, adjusts her sleeve, and poses naturally while looking at her reflection.
+
+She returns to the bed, picks up the watch box, then holds her wrist beside her face for a final lifestyle shot. Looking directly into the camera, she smiles and says, "Definitely one of my favorite accessories."
+
+Finish with a cinematic macro push-in on the watch as it rests on the luxury packaging, with warm reflections across the dial and bracelet.
+
+Ultra-realistic UGC fashion content, authentic creator review, cinematic handheld smartphone movement, luxury bedroom, macro watch cinematography, realistic metal reflections, detailed dial textures, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, 4K HDR, 16:9, no subtitles, no watermarks, no on-screen text, no unnecessary logos.</code></pre>
+
+</details>
 
 ## Hyper-realistic UGC vlog of fashion decision livestream
 

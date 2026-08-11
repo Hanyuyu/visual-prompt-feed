@@ -1,9 +1,239 @@
 # Food Drink video prompts
 
-34 source-linked prompts, newest ImgLume records first.
+39 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic European Lifestyle Influencer Vlog at a Cozy Café
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2086726879277728209)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [2656](https://imglume.com/prompt/2656)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52f72539-315a-4953-bfbf-a84b78fc7846/45d3b4d2-31c3-4470-9eba-6cb5358a6482-1786360857803 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 30-second ultra-realistic eurpeon lifestyle influencer vlog following a young creator from leaving her apartment to enjoying a relaxing morning at a cozy specialty café. She walks through a charming neighborhood, orders an iced vanilla latte and a fresh butter croissant, captures the coffee-making process, shares an honest first-taste review, and ends the vlog strolling back through the lively streets. Documentary-style storytelling, natural smartphone camera movement, cinematic B-roll, fluent English lip-sync, realistic food textures, authentic café atmosphere, warm morning light, premium color grading, seamless scene continuity, Seedance 2.5-quality realism, no text, no logos.</code></pre>
+
+</details>
+
+## Instant Ignition (15-Second Beverage Campaign)
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2086725003505004739)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [2651](https://imglume.com/prompt/2651)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e1c1d1ad-49bf-414b-8749-298874484279/c360321e-ca57-46bf-8ad3-05edf194c191-1786352525970 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Project: Instant Ignition (15-Second Beverage Campaign)
+Format: Text-to-Video with Image Anchor (Start Frame)
+
+[00:00 - 00:03] THE HOOK (The Crack &amp; Activation)
+• Visual &amp; Camera: Begins on the start frame image anchor. Macro tight shot on the top of the condensation-covered 'IGNITE' energy drink can, gripped tightly by a hand wearing a black fingerless workout glove.
+• Action / Movement: The gloved hand pulls back the metal tab in hyper-slow motion. The tab cracks open instantly, releasing a dramatic burst of cold vapor that shoots out of the opening.
+• Audio / Sound Design: Loud, exaggerated metal crack sound effect syncing directly into an immediate, heavy, high-tempo 120-BPM electronic beat.
+• On-Camera / Voice: None. Pure sensory ignition and rapid pace activation.
+
+[00:03 - 00:07] THE SENSORY BURST (Macro Rapid Flow)
+• Visual &amp; Camera: Rapid rhythmic transitions moving from a close-up slice to an extreme close-up of a glass rim.
+• Action / Movement: A bright yellow lemon slice tumbles downward and is sliced in mid-air with explosive speed, spraying tiny juice droplets. Cut to electric orange 'IGNITE' liquid pouring furiously into a chilled glass as a violent, effervescent storm of bubbles bursts over the rim.
+• Audio / Sound Design: Rhythmic audio sync—sharp "SWOOSH" of the blade, deep rushing splash of the pour, and an intense fizzy crackle over the heavy beat.
+• On-Camera / Voice: None. Continuous visual and audio momentum.
+
+[00:07 - 00:11] THE IGNITION &amp; EXPANSION (The Shift)
+• Visual &amp; Camera: Medium shot of an intense young athlete at eye-level under dramatic lighting, followed by a double-speed backward camera zoom.
+• Action / Movement: The athlete takes a fast, powerful sip from the 'IGNITE' can. As they swallow, their eyes light up with energy, looking directly into the camera. The camera pulls back at high speed through a dynamic, changing urban backdrop from a graffiti wall into a neon-lit night cityscape.
+• Audio / Sound Design: Music beat swells to a peak; crisp ice-clinking sound layers over the track.
+• Dialogue (Real-time on-camera): "Full power unlocked."
+
+[00:11 - 00:15] THE HERO SLAM SIGN-OFF
+• Visual &amp; Camera: Low-angle cinematic shot focusing on a wet concrete surface.
+• Action / Movement: The athlete's gloved hand slams the full 'IGNITE' can onto the wet concrete, sending a sharp, symmetrical splash of water and liquid outward. The motion freezes smoothly on the steady, tack-sharp can with condensation glistening on the bold logo.
+• Audio / Sound Design: Heavy impact "THUD" combined with a water splash sound, settling into a final, punchy synth chord.
+• On-Screen Text / Call to Action: "Fuel the Flow."</code></pre>
+
+</details>
+
+## Creative mixed-media video of stylus-driven transformation from cartoon to real French toast
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2086637783318487379)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2650](https://imglume.com/prompt/2650)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/21e99f4c-e1ca-4a7e-b73e-a6e6236948ae/c8345ec5-792b-4aeb-9bbb-b30185fa7cd8-1786352501694 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Concept: A creative mixed-media video blending live-action culinary footage with dynamic 2D line-art animations using a stylus interaction.
+
+Scene Breakdown
+00:00 - 00:01 | The Prep
+
+Visual: A hand taps a light-blue stylus onto a slice of bread soaking in egg mixture.
+
+Effect: The real-life scene instantly transforms into a stylized black-and-yellow 2D cartoon sketch.
+
+00:01 - 00:04 | The Cook
+
+Visual: Top-down view of the cartoon bread cooking in a cast-iron skillet with melting butter.
+
+Effect: A stylus tap converts the animated toast into golden-brown, real-life French toast sizzling in the pan.
+
+00:04 - 00:08 | The Plating
+
+Visual: Cartoon-drawn French toast on a dark plate, accented with animated steam and powdered sugar sifted overhead.
+
+Effect: A final stylus touch morphs the animated plate into a gourmet dish complete with powdered sugar, fresh berries, mint leaves, and maple syrup pouring from a boat.</code></pre>
+
+</details>
+
+## Liquid Portal (15-Second Beverage Campaign)
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2086663334133215401)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [2634](https://imglume.com/prompt/2634)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d641cbdb-6efb-45e9-9fde-7c24cd8d91d4/b012c298-465e-4842-8ea0-9123393e9d49-1786344101916 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Project: Liquid Portal (15-Second Beverage Campaign)
+Format: Text-to-Video with Image Anchor (Start Frame)
+
+---
+[00:00 - 00:03] THE HOOK (Sensory Ignition)
+• Visual &amp; Camera: Macro tight shot focused on the sealed lid of a vibrant bubble tea cup. A hand enters the frame holding a wide straw.
+• Action / Movement: Straw pierces the sealed top in hyper-slow motion. A tiny burst of tea droplets sprays outward against the lens.
+• Audio / Sound Design: Exaggerated "POP" sound effect with a deep sub-bass drop that echoes outward.
+• On-Camera / Voice: None. Pure focus on sound and immediate visual feedback.
+
+---
+[00:03 - 00:08] THE PORTAL TRANSITION (The Core Visual)
+• Visual &amp; Camera: Seamless whip-pan tracking shot following the liquid moving upward through the transparent straw.
+• Action / Movement: As the drinker takes a sip, the background rapidly dissolves from a dim indoor setting into a vivid, glowing candy-cloud dreamscape. Glowing boba pearls float softly into the air around the cup, defying gravity.
+• Audio / Sound Design: A magical, airy "WHOOSH" sound layering into a rhythmic synth-pop track.
+• On-Camera / Voice: Character takes a deep, satisfied sip, eyes closing as the vibrant colors reflect off their face.
+
+---
+[00:08 - 00:12] REAL-TIME EXPRESSION &amp; PRODUCT SENSORY
+• Visual &amp; Camera: Medium shot, eye-level. Warm fantasy lighting transitioning back toward a clean studio setup.
+• Action / Movement: Character opens their eyes, looks directly at the camera with an energized, genuine smile, and speaks one quick line.
+• Audio / Sound Design: Music dips slightly under spoken words; gentle ice-clinking sound in the background.
+• Dialogue (Real-time on-camera): "Okay... that actually just transported me."
+
+---
+[00:12 - 00:15] THE HERO SIGN-OFF
+• Visual &amp; Camera: Smooth backward camera movement settling into a balanced hero shot of the beverage cup sitting on a sleek, colorful pedestal.
+• Action / Movement: Light sweeps across the condensation on the outside of the cup. Brand logo is perfectly centered and crisp.
+• Audio / Sound Design: Music hits a final, punchy beat. A clean, subtle bubble-pop sound effect at the end.
+• On-Screen Text / Call to Action: "Escape the Ordinary."</code></pre>
+
+</details>
+
+## MAKING MANGO JUICE 10-second cinematic 3D animation
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2086432002501444056)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`, `food-drink`
+- **ImgLume record:** [2614](https://imglume.com/prompt/2614)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5012e4c0-c97c-433d-9677-6ad362efdf50/4451d39a-6574-4e10-a849-dd8637a2f492-1786310562777 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5012e4c0-c97c-433d-9677-6ad362efdf50/80152b21-22c5-468d-bc01-a4fb5060a86b-1786310562777 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 10-second cinematic 3D animated food video titled “MAKING MANGO JUICE”.
+
+Use the uploaded storyboard as the STRICT visual and shot-sequence reference.
+
+IMPORTANT:
+Follow all 8 storyboard shots in the exact order.
+Do not add, remove, merge, or rearrange shots.
+Each shot lasts exactly 1.25 seconds.
+Total video duration: exactly 10 seconds.
+
+Maintain EXACT character consistency throughout the entire video:
+The same young woman appears in every character shot.
+She has dark brown hair in a casual ponytail, expressive brown eyes, a friendly youthful face, a yellow short-sleeve T-shirt, and a dark olive-green apron.
+Do not change her face, hairstyle, clothing, body proportions, or character design between shots.
+Maintain the same warm, cozy kitchen, lighting direction, color palette, props, counter, cutting board, mangoes, blender, and glass throughout the sequence.
+VISUAL STYLE:
+High-quality cinematic 3D animated film, polished stylized realism, detailed food textures, realistic mango pulp, natural liquid physics, expressive character animation, warm natural kitchen lighting, soft shadows, cinematic composition, smooth camera movement, realistic materials, vibrant but natural colors.
+SHOT 1 — 0.00–1.25s
+WIDE ESTABLISHING SHOT.
+The woman stands behind the kitchen counter surrounded by fresh ripe mangoes.
+She looks toward the camera, smiles warmly, and gives a small friendly wave.
+A clean empty drinking glass is visible on the counter.
+Camera makes a very subtle cinematic push-in.
+Natural character movement and realistic hand motion.
+SHOT 2 — 1.25–2.50s
+MEDIUM SHOT.
+Cut smoothly to the same woman.
+She confidently raises one ripe mango beside her face and looks toward the camera with a cheerful expression.
+Mango slices and pieces are arranged on the cutting board in front of her.
+Her other hand rests naturally near the cutting board.
+Keep her face and outfit identical to Shot 1.
+SHOT 3 — 2.50–3.75s
+CLOSE-UP.
+Cut to her hands preparing the mango.
+She holds the mango firmly on the wooden cutting board and makes a clean controlled knife cut.
+Show the knife moving naturally through the mango flesh.
+Capture detailed golden mango texture and small natural juice movement.
+No exaggerated or dangerous knife motion.
+SHOT 4 — 3.75–5.00s
+EXTREME CLOSE-UP.
+Fresh golden mango cubes fall naturally into a transparent blender jar.
+Several mango pieces drop from above and bounce naturally inside the blender.
+Use realistic gravity and food physics.
+Camera follows the falling mango pieces with a subtle downward movement.
+SHOT 5 — 5.00–6.25s
+MEDIUM CLOSE-UP.
+The same woman pours water or milk from a transparent measuring jug into the blender containing the mango pieces.
+Show a continuous realistic liquid stream.
+The woman looks focused and cheerful.
+Keep the blender, mango pieces, kitchen and lighting consistent.
+SHOT 6 — 6.25–7.50s
+PERFECT OVERHEAD TOP-DOWN SHOT.
+Camera looks directly down into the transparent blender.
+The blender starts mixing the mango and liquid.
+The mixture rapidly transforms into a smooth bright golden-orange liquid.
+Create a beautiful natural vortex in the center.
+Show realistic swirling liquid physics and smooth blending.
+No camera shake.
+SHOT 7 — 7.50–8.75s
+CINEMATIC CLOSE-UP.
+The same woman pours the freshly blended mango juice from the blender into a tall transparent glass.
+Show a smooth continuous golden-orange stream.
+The glass gradually fills with fresh mango juice.
+Capture subtle natural foam and realistic liquid reflections.
+Keep the woman's appearance consistent in the background.
+SHOT 8 — 8.75–10.00s
+WIDE FINAL REVEAL.
+Return to the cozy kitchen.
+The same woman holds the finished mango juice toward the camera with a happy, satisfied smile.
+Fresh mangoes remain visible on the counter.
+She slightly raises the glass as a final presentation gesture.
+Camera performs a subtle cinematic push-in.
+End on a clean, visually satisfying final frame.</code></pre>
+
+</details>
 
 ## Anime-style cooking video of spicy cheesy ramen
 

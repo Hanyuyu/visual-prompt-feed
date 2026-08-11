@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "character",
   "label": "Character",
-  "count": 121,
+  "count": 122,
   "mediaTypes": {
     "image": 69,
-    "video": 52
+    "video": 53
   },
   "ids": [
     "byradar:2080926065468620896:0",
@@ -129,6 +129,7 @@
     "byradar:2086150537431658741:0",
     "byradar:2086047521588265370:0",
     "byradar:2086318480425644397:0",
-    "byradar:2086079106794541267:0"
+    "byradar:2086079106794541267:0",
+    "byradar:2086677274217381905:0"
   ]
 }

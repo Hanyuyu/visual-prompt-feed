@@ -1,9 +1,137 @@
 # Travel image prompts
 
-20 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vintage Collage Travel Poster
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2086675794211021181)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [2662](https://imglume.com/prompt/2662)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eef6a7cf-bc5f-4142-bcd5-2ac85e0bab08/b03a3464-30ac-49d2-9622-54930014c17f-1786365111112 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eef6a7cf-bc5f-4142-bcd5-2ac85e0bab08/acac3a9c-e139-4f73-bff3-2232ea1771d5-1786365111112 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/eef6a7cf-bc5f-4142-bcd5-2ac85e0bab08/20162fbd-478c-4a42-ad11-ae39a7080c55-1786365111112 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vintage editorial travel poster for [CITY], [COUNTRY], using an artistic travel collage / layered postcard composition rather than a conventional skyline poster.
+
+Main creative concept: Create a large, recognizable silhouette or profile of [ICONIC LANDMARK / SYMBOL] as the central visual frame. Inside and around this silhouette, seamlessly blend multiple scenes from the destination — iconic architecture, streets, bridges, landscapes, local transportation, people, and atmospheric elements — creating the feeling that the entire city exists within one artistic composition.
+
+The central landmark should partially dissolve into the surrounding city imagery using layered photographic-illustration textures, torn-paper edges, subtle double exposure, ink textures, and vintage print effects.
+
+Include several smaller graphic elements around the main composition:
+
+vintage postage stamp featuring the destination
+distressed passport/travel stamp
+old luggage tag
+small destination map fragment
+street sign
+tiny local transportation detail
+subtle handwritten or typewriter-style travel markings
+
+Add one strong foreground element representing the city, such as a taxi, vintage bus, bicycle, boat, tram, tuk-tuk, or local vehicle.
+
+Typography: At the top, use large elegant uppercase lettering:
+
+[CITY]
+
+Underneath:
+
+[COUNTRY]
+
+Add a small classic travel slogan:
+
+[ICONIC SLOGAN]
+
+Use bold vintage sans-serif typography with generous letter spacing.
+
+Visual style: sophisticated 1940s–1960s travel advertising, vintage European poster design, editorial collage, screen-printed artwork, distressed paper, faded ink, subtle grain, imperfect registration, layered textures, elegant negative space, cinematic atmosphere, artistic realism.
+
+Color palette: warm ivory paper, deep navy, muted blue, burnt orange, terracotta, faded beige, charcoal, and small golden-yellow accents. Keep colors slightly desaturated and harmonious.
+
+Create a thin aged-paper border around the poster.
+
+The composition should feel like a rare collectible vintage travel poster discovered in an old railway station, artistic and premium rather than generic.
+
+Portrait 4:5, highly detailed, sophisticated graphic design, strong visual hierarchy, nostalgic, cinematic, no modern 3D-rendered look.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic travel photograph of a young East Asian woman on a beach at sunset
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2086645222524752379)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [2638](https://imglume.com/prompt/2638)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4166c553-919c-4a6b-8b50-c51c90a744d2/13d74ab2-1680-40e0-ba6a-a61af9530dc6-1786346184723 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4166c553-919c-4a6b-8b50-c51c90a744d2/bef02f8c-605c-41f0-83d3-c238e6025d2b-1786346184723 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4166c553-919c-4a6b-8b50-c51c90a744d2/55063553-e924-421a-9992-77a315f4e557-1786346184723 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4166c553-919c-4a6b-8b50-c51c90a744d2/bca5f68d-e657-49af-b92e-3d7d757e6ec3-1786346184723 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic travel photograph of a young East Asian woman standing on a sandy beach during a breathtaking sunset, captured in a vertical 3:4 composition. She is wearing a delicate white dress with intricate blue floral prints, ruffled shoulder straps, and a fitted silhouette. Her long, naturally tousled dark hair flows gently in the evening breeze. She is standing beside a dark metal beach railing, turning her upper body slightly away from the camera while looking back over her shoulder with a soft, calm, slightly curious expression.
+Behind her is a beautiful coastal landscape with shimmering ocean water reflecting the warm sunset, distant dark mountains across the horizon, and a city skyline with a tall tower on the left side. Several beachgoers are naturally scattered along the shoreline, adding authentic scale and atmosphere. The sandy beach contains subtle footprints and realistic texture.
+The sky transitions beautifully from soft blue at the top into pale yellow, warm orange, and glowing golden tones near the horizon, with delicate pink-orange wispy clouds stretching across the sky. Natural golden-hour backlighting creates a subtle rim light around her hair and shoulders while keeping realistic facial details and skin texture.
+Photography style: ultra-realistic smartphone travel photography, natural candid composition, realistic skin pores and hair strands, authentic environmental lighting, subtle depth of field, realistic ocean reflections, atmospheric perspective, high dynamic range, balanced exposure, cinematic color grading, soft sunset glow, natural shadows, highly detailed, photorealistic, 4K, no artificial beauty filter, no excessive sharpening, no plastic skin, authentic vacation photograph, 3:4 vertical aspect ratio.</code></pre>
+
+</details>
+
+## Mid-century travel picture-book illustration prompt for American cities
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2086508308001865864)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2621](https://imglume.com/prompt/2621)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/250f3204-06d3-427b-8d70-d585b136e780/5ec103a3-b38d-4a6c-b267-b8c25d3ff73b-1786327239485 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/250f3204-06d3-427b-8d70-d585b136e780/67da6b84-a3ce-4794-a7dd-6062ec7595f4-1786327239485 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/250f3204-06d3-427b-8d70-d585b136e780/0ac1a6a7-5ccc-499b-9db8-f59cc22fc380-1786327239485 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[DESTINATION] = [CITY NAME]
+
+Create a charming vertical 4:5 mid-century travel picture-book illustration of [DESTINATION], inspired by playful 1950s–60s European city books.
+
+Depict the city as an affectionate, imperfect travel memory—not a map, postcard, architectural rendering, landmark collage, or cinematic panorama.
+
+Include:
+• 1 distinctive primary landmark
+• 1 smaller secondary landmark
+• 1 distant/partially hidden local feature
+• 1 recognizable local vehicle
+• 3–5 subtle everyday city details
+• 5–6 ordinary people doing simple local activities
+
+Compress these naturally into one imaginary street, plaza, park, or waterfront. Keep the primary landmark slightly off-center, with open foreground, shallow theatrical depth, gentle curves, and generous museum-white negative space. The city should be recognizable without feeling geographically accurate.
+
+STYLE:
+Hand-drawn picture-book illustration with loose charcoal/navy ink, trembling contours, crooked architecture, uneven proportions, sparse windows, simplified silhouettes, occasional double strokes, and minimal detail. Use the fewest lines necessary. Slightly awkward, intelligent, warm, humorous, and handmade.
+
+PEOPLE:
+Simple expressive figures with oversized heads, thin legs, narrow bodies, tiny faces, tilted accessories, and awkward but readable gestures. Show ordinary local life, not celebrities, models, stereotypes, or tourist clichés.
+
+COLOR:
+Use a restrained 6–7 color destination-specific palette with flat matte gouache shapes, uneven brush edges, white gaps, slight misregistration, and occasional color spilling beyond ink. Mostly unpainted sky/paper. No gradients or realistic shading.
+
+MEMORY DISTORTION:
+Gently compress geography and distort scale: distant landmarks may appear nearby, roads may curve strangely, buildings may overlap, and people/vehicles may be slightly oversized or undersized. Keep it balanced, affectionate, and culturally respectful.
+
+OPTIONAL TEXT:
+“[DESTINATION]” in small uneven hand-drawn capitals near the bottom. No slogans, dates, labels, logos, or promotional text.
+
+AVOID:
+Photorealism, map-like accuracy, landmark checklists, aerial views, cinematic lighting, technical perspective, dense crowds, detailed ornament, polished vector art, CGI, 3D rendering, gradients, sepia/beige paper, artificial aging, distressed textures, and hyper-detailed watercolor.
+
+Overall feeling: [DESTINATION] remembered lovingly-recognizable, spacious, human, humorous, slightly improbable, and beautifully imperfect.</code></pre>
+
+</details>
 
 ## Ultra-realistic Luxury Safari Magazine Cover
 

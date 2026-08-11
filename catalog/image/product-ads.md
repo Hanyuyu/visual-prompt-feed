@@ -1,9 +1,26 @@
 # Product Ads image prompts
 
-12 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Avant-garde sports fashion advertising with monumental tennis ball sculpture
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2086775895017361435)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2666](https://imglume.com/prompt/2666)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/850aea23-2f90-4de9-abb5-e67719df99ee/cfb9d17a-9de1-4d93-8e8b-2a3776dbd48a-1786369297027 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/850aea23-2f90-4de9-abb5-e67719df99ee/d469fd75-0234-4d8a-b096-661f160b29d1-1786369297027 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Avant-garde sports fashion, advertising, a huge tennis ball set up like a monumental sculpture, a male athlete sprawled across the curved surface of the ball like modern furniture, the huge word "GOAL" in bold typography behind, the background of the burnt green studio, shiny mirrored floor, luxurious sports editorial style, cinematic lighting, ultra-pure composition, 1:1</code></pre>
+
+</details>
 
 ## Ultra-realistic summer skincare product photography of Golden Glow - Bronzing Elixir
 

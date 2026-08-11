@@ -1,9 +1,43 @@
 # Illustration 3d image prompts
 
-39 source-linked prompts, newest ImgLume records first.
+41 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Fully armored android in fetal pose
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2086559615878082837)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2640](https://imglume.com/prompt/2640)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/448709a6-7905-40d0-9d40-d006d6a62b9b/63377d93-cb59-4298-aa5d-99189863d10d-1786346261247 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/448709a6-7905-40d0-9d40-d006d6a62b9b/81d569bd-dce2-419e-9b94-8246b7dbb587-1786346261247 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/448709a6-7905-40d0-9d40-d006d6a62b9b/d0643555-245f-4094-b1f0-de2d5a04f394-1786346261247 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/448709a6-7905-40d0-9d40-d006d6a62b9b/3c275b59-c7a7-4b60-aa69-61ff584469da-1786346261247 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>a fully armored android figure curled into a tight fetal pose suspended in a clean white void, glossy black and white segmented plating with articulated joint housings at knees elbows and shoulders, long dark hair draped over the face, exposed red wiring bundle at the neck connecting to floating holographic terminal displays showing code readouts, high-key clinical studio lighting, monochrome color palette with a single red accent, ultra-detailed CGI render, Octane render, ultra-clean product photography style, vertical portrait composition</code></pre>
+
+</details>
+
+## Surreal Japanese fashion editorial illustration
+
+- **Original source:** [@liluocheng13 on X](https://x.com/liluocheng13/status/2086258839507325204)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2618](https://imglume.com/prompt/2618)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c325b75-382e-44df-b491-e0da67591d3d/5ea8c75a-fa09-4948-baf6-af6b6ae42fa6-1786318836410 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3c325b75-382e-44df-b491-e0da67591d3d/3beb7814-69d9-4707-a191-3769230bd4df-1786318836410 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/3c325b75-382e-44df-b491-e0da67591d3d/eef6f74f-5d3e-4d2d-b483-cbbfb3f04071-1786318836410 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/3c325b75-382e-44df-b491-e0da67591d3d/fd118d05-2715-4df9-8a28-4795058d9bff-1786318836410 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Surreal Japanese fashion editorial, ultra detailed semi realistic anime illustration blended with cinematic photography. Extreme low angle wide angle composition, dramatic forced perspective, 20mm ultra wide lens, camera nearly touching the ground angled sharply upward. Right foreground: beautiful young East Asian woman, elegant slender figure, delicate face, straight dark brown black hair with soft bangs, calm melancholic expression. Wearing a large elegant white sun hat with thin black ribbon, extravagant sculptural ivory white haute couture sleeveless dress with floral waist ornaments, enormous multilayered skirt of translucent organza, silk and chiffon ribbons exploding and spiraling toward the camera in the wind. White high heeled ankle strap shoes. She stands beside a pristine white Mediterranean style villa under an intensely clear cobalt blue summer sky, brilliant midday sunlight, hard clean shadows. Left side: impossible gigantic vertical tower of violently crushed vehicles - white trucks, vans, compact cars, yellow taxis, orange construction vehicles, twisted chassis, exposed engines, broken axles, tangled steel, glass fragments, cables - stacked surreally skyward, vehicles hanging sideways and upside down. Wreckage intertwined with delicate white blossoms and pale vegetation. Water violently splashing at the base, sparkling droplets frozen in sunlight. Strong diagonal visual flow, deep spatial layering, monumental scale. Japanese contemporary illustration aesthetic, premium anime realism, delicate ink contour lines, realistic anatomy, refined facial rendering, extremely detailed fabric folds, transparent chiffon, metallic reflections, shattered glass, intricate mechanical textures, luminous vibrant atmosphere, masterpiece fashion key visual, luxury art book cover, god tier information density. --chaos 12 --ar 4:5 --stylize 500 --hd</code></pre>
+
+</details>
 
 ## Cozy Winter Storybook Illustration
 
