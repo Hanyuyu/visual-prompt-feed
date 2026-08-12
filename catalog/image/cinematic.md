@@ -1,9 +1,73 @@
 # Cinematic image prompts
 
-40 source-linked prompts, newest ImgLume records first.
+42 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic black-and-white fantasy editorial portrait of the author surrounded by mysterious hooded crowd
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2087028978888720695)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2722](https://imglume.com/prompt/2722)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/32c5f466-6608-42f9-949f-c96348124cd5/084a7db9-2760-4808-b976-3584d6d8e8b5-1786446718021 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic black-and-white fantasy editorial portrait of me standing confidently in the center of a large mysterious crowd. The camera is positioned at approximately chest-to-eye level, with me as the clear focal subject. My body is shown from approximately the waist/chest up, while several dark hooded figures surround me in the foreground and background.
+Pose &amp; expression: I am standing upright and composed, looking slightly to the side rather than directly at the camera, with a calm, serious, powerful expression. Natural posture, elegant presence.
+Hair: Keep my natural hair color converted to monochrome and style it into an elegant, intricate braided updo with soft loose strands framing the face. The hairstyle should look sophisticated and cinematic.
+Clothing: Replace my clothing with an elegant light-colored formal/fantasy dress, long sleeves, refined high-fashion design, modest neckline, smooth flowing fabric. Add an elaborate statement collar/neckpiece with metallic ornamental details.
+Crowd: Surround me with many mysterious figures wearing deep black hooded robes. Their faces should remain mostly hidden in shadow, creating a dramatic anonymous crowd. The foreground figures should partially obscure the lower and side portions of the frame, naturally creating a tunnel-like composition that draws attention toward me.
+Lighting: Extremely dramatic cinematic lighting. The central woman is brightly illuminated while the surrounding hooded figures remain almost completely black and shadowed. Strong subject separation, soft highlights on the face, deep shadows, atmospheric contrast.
+Color &amp; style: Strictly black and white monochrome, high contrast, cinematic film photography, dark fantasy editorial aesthetic, subtle film grain, realistic skin texture, detailed fabric, dramatic atmosphere, sophisticated composition.
+Composition: Vertical portrait, central symmetrical framing, shallow depth of field, central subject in sharp focus, background crowd slightly softer, foreground silhouettes blurred and dark, cinematic depth and perspective.
+Important identity instructions: My uploaded face must remain recognizable as the exact same person. Do not change my facial features or make me resemble a different person. Do not add glasses or sunglasses. No text, watermark, logo, or extra objects.</code></pre>
+
+</details>
+
+## The Neon Dragon Awakens
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2086953162225946676)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2720](https://imglume.com/prompt/2720)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/72e0c4e6-9150-4ab4-a3c4-54c3ce0b5c91/b1ede42a-41eb-4f00-8049-354ac8fc53ab-1786446701394 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/72e0c4e6-9150-4ab4-a3c4-54c3ce0b5c91/bfe71fd5-b1fb-4ed3-9f5c-78e5c483437c-1786446701394 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-cinematic 9:16 cyberpunk movie still titled “The Neon Dragon Awakens.”
+
+Nighttime in a vast futuristic metropolis during heavy rain. Towering glass skyscrapers disappear into the dark clouds, surrounded by glowing neon advertisements, holographic signs, flying vehicles, atmospheric fog and steam rising from the streets.
+
+In the foreground, show a lone female biker stopped on a sleek futuristic black superbike. She is viewed mostly from behind, wearing a stylish black cyberpunk jacket and boots, staring upward toward an enormous curved digital billboard wrapped around a skyscraper.
+
+The billboard displays a gigantic holographic Chinese-style dragon made from brilliant crimson, magenta, electric blue and white energy. Capture the exact moment when something impossible begins happening: the dragon’s head and front claws are emerging beyond the flat surface of the billboard, as though the digital creature is becoming physically real.
+
+Parts of its body should still remain inside the screen, breaking apart into glowing pixels and holographic fragments where the digital world transitions into reality.
+
+The dragon looks directly toward the biker with intensely glowing eyes. Its enormous scale should make the biker and motorcycle look tiny by comparison.
+
+Rain falls through the neon light. Wet asphalt creates beautiful mirror reflections across the street. Steam drifts between buildings. Small futuristic vehicles and flying cars add depth and scale.
+
+Composition should feel like the opening frame of a high-budget cyberpunk science-fiction movie, with strong foreground, middle ground and deep city background specifically designed for image-to-video animation.
+
+Photorealistic cinematic lighting, dramatic volumetric atmosphere, realistic rain, extremely detailed dragon scales, holographic particle effects, realistic motorcycle materials, deep blacks, brilliant neon reflections, strong depth, subtle motion tension, anamorphic cinematic feel, epic scale, premium VFX quality, razor-sharp subject detail.
+
+The scene must instantly make the viewer wonder: “What happens when the dragon completely escapes?”
+
+No logos, no watermark, no captions, no readable brand names, no malformed motorcycle, no extra limbs, no duplicate dragon, no cartoon appearance.
+
+Vertical 9:16 composition, cinematic poster quality, visually spectacular and scroll-stopping.</code></pre>
+
+</details>
 
 ## The Woman Who Opened the Night
 

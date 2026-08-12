@@ -1,9 +1,212 @@
 # UGC video prompts
 
-41 source-linked prompts, newest ImgLume records first.
+46 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second ultra-realistic early-2000s Korean home video
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2087119362486620321)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2734](https://imglume.com/prompt/2734)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f60a0449-cc9e-474c-bdbe-917ba9385ba8/a82e06b7-f14a-4616-bed6-212e1f1df135-1786459266016 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic documentary/home-video of the SAME young Korean woman throughout. Early 20s, natural appearance, realistic skin, minimal makeup, warm personality. Faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace. Black wavy hair in a messy side ponytail with wispy bangs. Keep identical face, body, outfit, hairstyle and identity throughout.
+
+Location: Quiet authentic Korean residential neighborhood in late morning: narrow concrete alleys, low-rise homes, terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires, mature trees and weathered concrete walls. No shops, cafés, ads, crowds or commercial activity.
+
+Visual style: Ultra-realistic candid documentary footage with genuine unscripted behavior. Early-2000s consumer DV camcorder aesthetic, casually filmed by a friend: heavy handheld shake, imperfect framing, autofocus hunting, lens breathing, exposure pumping between sun/shade, occasional motion blur, subtle rolling shutter, mild compression artifacts, faded colors, soft contrast and slight sensor noise. No stabilization, cinematic moves, modern grading or beauty filters.
+
+00:00–00:03: Outside a small house, she sits on a low concrete wall adjusting her ponytail with both hands. Breeze moves loose hair. She smiles naturally. Camera struggles to focus.
+
+00:03–00:06: She walks into the narrow alley. Camera follows imperfectly. She briefly looks back. Moving tree shadows and sunlight naturally affect exposure.
+
+00:06–00:09: A stray cat approaches. She notices it, smiles and crouches down. Camera reacts slightly late and drifts off-center.
+
+00:09–00:12: She gently pets and feeds the cat. Autofocus shifts between her face and the animal. Leaves create flickering sunlight.
+
+00:12–00:15: She continues down the alley, casually avoiding a bicycle. She smiles at something off-camera. Camera briefly points too low before correcting.
+
+00:15–00:18: Beside her house, she hangs laundry. Fabrics sway in the breeze. Clouds briefly cover the sun, causing natural exposure changes.
+
+00:18–00:21: She fixes a piece of laundry, gives a small laugh and brushes hair away. Camera moves slightly closer with imperfect autofocus.
+
+00:21–00:24: On a quiet terrace, she sits with a ceramic coffee cup, takes a sip and watches the neighborhood. She brushes hair behind her ear. Loose handheld side angle.
+
+00:24–00:26: Close side profile. Someone off-camera greets her. She turns, waves, smiles warmly and says, “Annyeong.” Camera catches it slightly late and briefly loses focus.
+
+00:26–00:29: She walks slowly down a tree-lined residential lane holding the coffee cup. She notices the camera, gives a small genuine smile, looks away and continues walking.
+
+00:29–00:30: Camera shakes and drifts toward the trees/houses. Recording abruptly cuts to black mid-motion, like an old camcorder being switched off.
+
+Audio: Natural ambience only — birds, distant motorcycles, wind, leaves, faint chatter, cat sounds, footsteps and laundry movement. “Annyeong” clearly audible. No music, narration or sound design.
+
+Goal: One continuous-feeling forgotten early-2000s Korean home video: warm, candid, imperfect and deeply believable. Natural blinking, breathing, walking, expressions and environmental motion. No staged poses, glossy skin, cinematic movement, modern color grading or AI-looking perfection.</code></pre>
+
+</details>
+
+## Ultra-realistic 30-second Japanese city smartphone vlog
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2087120544424431758)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2731](https://imglume.com/prompt/2731)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/26255fa5-ed39-4321-bee5-c989356517db/5207d8a1-9d9d-488c-a37b-e0c4ae6b497b-1786455094289 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic 30-second 16:9 vertical UGC smartphone vlog featuring the same young Japanese woman spending a casual day in a Japanese city. She wears a plain bright orange jacket matching Pollo AI’s #FF4900 brand color, dark casual pants, simple sneakers, and premium bright orange wireless headphones with no logos or text. Start inside a cozy Japanese apartment where her phone is placed stationary on a table; she picks up the headphones, puts them on naturally, smiles at the camera, then picks up the phone and switches into handheld selfie footage. She walks through the apartment, adjusts her headphones, grabs her keys and leaves. Outside, show authentic Japanese streets with vending machines, bicycles, utility poles, small shops, pedestrians, cars and crosswalks, naturally switching between selfie and rear-camera footage. While walking, she notices a small convenience store, enters casually, picks a cold bottled drink from the refrigerator, briefly smiles toward the camera, pays at the counter and walks back outside. She opens the drink and takes a sip while continuing to walk, creating a spontaneous everyday Japanese vlog moment. During golden hour, warm sunlight naturally reflects on the orange headphones as she walks, smiles and touches them while enjoying her music. Add realistic shop lighting, refrigerator reflections, Japanese shelves and products, natural pedestrians, hair movement, footsteps and city ambience. End at a lively street corner where she smiles at the camera, briefly turns the phone toward the orange headphones for a casual close-up, then continues walking as the recording naturally stops. Use realistic smartphone autofocus, slight focus hunting, exposure changes, subtle handheld shake, natural motion blur, imperfect framing, realistic skin and hair texture, authentic expressions and natural body movement. Make it cinematic through beautiful real-world lighting and atmosphere, but never polished or commercial. No gimbal shots, studio lighting, beauty filters, excessive bokeh, slow motion, artificial colors, perfect compositions or staged acting. Keep the same woman, hairstyle, outfit, orange jacket and headphones perfectly consistent throughout.</code></pre>
+
+</details>
+
+## Backseat POV holding tiny kitten in car
+
+- **Original source:** [@JinxLovesCats on X](https://x.com/JinxLovesCats/status/2086841556397428739)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2697](https://imglume.com/prompt/2697)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5e5ba39-af4b-4be3-a5aa-c0b61b3f8d63/d2dbb8b9-ef40-4f6a-8087-e9bd4088df1c-1786423662216 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>POV: you’re riding in the backseat of the car and you hold a tiny tiny kitten up so that it can see outside the window and smell and also feel the breeze. Totally realistic video. We just see a part of the arm and the hand holding up the tiny kitten.</code></pre>
+
+</details>
+
+## Late-night gym vlog by a glamorous European fitness influencer
+
+- **Original source:** [@YourAlphaMom on X](https://x.com/YourAlphaMom/status/2086883879705571790)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2687](https://imglume.com/prompt/2687)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b2f2c4dd-6406-4e51-a7d8-297a4a5dab53/33bd88e6-59ec-497e-bed1-12811b40b632-1786402615985 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+DV 16mm tape camcorder handheld aesthetic. A gorgeous glamorous European fitness influencer films herself directly by hand in selfie-cam and first-person style. Keep realistic hand shake, slightly crooked framing, delayed autofocus, awkward zoom-ins and zoom-outs, occasional motion blur, and small framing mistakes where part of her face briefly slips out of frame. Mix handheld selfie footage with a few fixed external shots. Important: never show her placing, adjusting, or setting up a camera. When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began. The camera itself must never appear on screen.
+
+LOOK:
+Soft digital tape camcorder look with subtle vintage DV character. Slight blur, faint tape noise, mild highlight bloom under gym lighting, subtle auto-exposure flicker, muted contrast, realistic skin texture, believable indoor lighting, realistic skin tones.
+
+STYLE:
+A realistic late-night gym vlog with a sexy Instagram-model vibe. The tone is playful, confident, a little flirty, slightly breathless, and natural. She is clearly attractive and charismatic, but the video should still feel like a believable self-recorded vlog, not a polished commercial. Fast clean jump cuts, strong continuity, natural body language, no awkward dead moments.
+
+CHARACTER:
+An exceptionally beautiful glamorous European brunette woman in her mid-20s. She has a highly photogenic face, large almond-shaped brown eyes, long lashes, full glossy lips, sculpted cheekbones, a refined nose, flawless lightly tanned glowing skin, and long thick glossy dark-brown hair tied in a high ponytail. She looks like a high-end Instagram fitness and lifestyle influencer, not an ordinary gym visitor. She has a slim, feminine, athletic hourglass figure. She wears polished soft-glam makeup, a fitted stylish long-sleeve athletic crop top, high-waisted fitted leggings, clean white sneakers, and a towel around her neck or over one shoulder. No jewelry.
+
+SETTING:
+A quiet modern gym late at night. Mirror wall, dumbbell rack, flat bench, stretching mat, a water bottle on a bench, soft warm overhead lights, mostly empty space, calm atmosphere, no crowd, no trainer, no extra people.
+
+IMPORTANT CONTINUITY RULES:
+The same woman must remain fully consistent in every shot. No face changes, no hairstyle changes, no outfit changes, no body changes. No extra people appearing. No duplicated limbs. No broken hands. No disappearing water bottle. No broken gym equipment. No impossible movements. No camera visible. No camera setup shown. Keep her beautiful, polished, and photogenic in every shot.
+
+STORYBOARD (30 seconds total, 10 cuts):
+
+1. (~3s, arm’s-length selfie)
+She walks slowly through the gym holding the camera herself, slightly out of breath but smiling confidently.
+Dialogue: “Okay… late-night gym vlog.”
+
+2. (~3s, handheld pan across the room and back to her)
+The camera drifts across the dumbbell rack, mirror wall, and empty gym floor, then returns to her face.
+Dialogue: “It’s basically empty in here.”
+
+3. (~3s, mirror selfie angle)
+She stops near the mirror, adjusts her ponytail, glances at herself, then smirks at the lens.
+Dialogue: “I look tired, but we’re still doing this.”
+
+4. (~3s, fixed external medium shot)
+Jump cut to a fixed shot. She is already in position near the bench, picks up a pair of dumbbells, and gets ready. No camera setup shown. No dialogue.
+
+5. (~3s, same fixed shot)
+She performs a short controlled set of dumbbell shoulder presses or dumbbell chest presses with clean form, then lowers the weights and exhales with a smile.
+Dialogue: “That woke me up fast.”
+
+6. (~3s, handheld walking selfie)
+She picks the vlog back up in selfie mode, towel over one shoulder, breathing a little harder as she walks a few steps.
+Dialogue: “Upper body done… and I’m already dying.”
+
+7. (~3s, tight handheld close-up)
+She grabs the water bottle, takes a drink, lowers it, and exhales in relief.
+Dialogue: “Best part of the workout.”
+
+8. (~3s, fixed external wider shot facing the mirror)
+Jump cut to a fixed shot. She does a quick playful stretch, a small mirror pose, then laughs softly at herself.
+Dialogue: “A little stretch so I can pretend I’m disciplined.”
+
+9. (~3s, handheld close selfie)
+Her cheeks are slightly flushed, she brushes back a loose strand of hair, smiling in a tired but satisfied way.
+Dialogue: “I always say quick workout… and then stay forever.”
+
+10. (~3s, arm’s-length selfie ending)
+She walks toward the exit, still filming herself, gives a tired little wave and a genuine smile.
+Dialogue: “Okay, I’m done. Good night.”
+
+FINAL INSTRUCTION:
+The result must feel like a real self-recorded late-night gym vlog by a glamorous Instagram fitness influencer. Prioritize realistic handheld motion, strong continuity, believable pacing, natural breathing, attractive appearance, and subtle imperfection. Keep it sexy, polished, and realistic — not artificial, not stiff, not boring.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic candid home-video of a young Korean woman in a residential neighborhood
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2086806078105551218)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [2675](https://imglume.com/prompt/2675)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/107bb3ff-0cb4-4d10-ba9e-c47eb551b4b1/2220ab39-54fd-497d-8d87-a675eec4c793-1786387967909 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic candid home-video sequence of a young Korean woman in her early 20s living an ordinary late morning in a quiet Korean residential neighborhood.
+
+SUBJECT:
+Young Korean woman, natural everyday appearance, realistic skin texture, minimal makeup, black wavy hair in a messy side ponytail with wispy bangs. Faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, simple black cord necklace. Warm, relaxed personality. Keep her face, body, hairstyle, clothing, and appearance perfectly consistent throughout.
+
+SETTING:
+Authentic Korean residential neighborhood — narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires and mature trees. Quiet, lived-in atmosphere. No shops, advertisements, crowds, cafés, or commercial activity.
+
+VISUAL STYLE:
+Ultra-realistic documentary home-video footage from an early-2000s consumer DV camcorder. Imperfect handheld operation, natural camera shake, awkward framing, occasional reframing, autofocus hunting, slight lens breathing, exposure pumping between sunlight and shade, subtle motion blur, mild rolling shutter, faded colors, soft contrast, slight digital compression and sensor noise. No stabilization, no cinematic camera moves, no modern color grading. Everything must feel genuinely captured, not AI-generated.
+
+TIMELINE:
+00:00–00:05 — Outside her small house, she sits on a low concrete wall adjusting her messy ponytail. Wind moves loose strands of hair. She casually smiles while the camera struggles to lock focus.
+
+00:05–00:10 — She walks into a narrow residential alley. A stray cat approaches. She crouches naturally, pets it and gently feeds it. Autofocus shifts imperfectly between her face and the cat.
+
+00:10–00:15 — In a small front yard, she hangs laundry on a clothesline. Fabric moves naturally in the breeze while sunlight and cloud shadows subtly change the exposure.
+
+00:15–00:20 — She sits on a quiet terrace with a simple ceramic coffee cup, casually watching the neighborhood and brushing loose hair behind her ear. Handheld side angle with natural camera drift.
+
+00:20–00:25 — Close side profile. Someone off-camera casually greets her. She turns, smiles warmly, raises her hand and naturally says, “Annyeong.” The camera reacts slightly late.
+
+00:25–00:30 — She walks slowly down a tree-lined residential lane holding her coffee. She notices the camera, gives a small genuine smile, then looks away and continues walking. The recording abruptly cuts to black mid-motion like an old camcorder being switched off.
+
+AUDIO:
+Only authentic location sound: birds, distant motorcycles, light wind, rustling leaves, faint neighborhood chatter, cat sounds, footsteps on concrete, laundry moving on the clothesline and subtle residential ambience. Natural Korean speech only. No music, narration, cinematic sound effects, or artificial sound design.
+
+GOAL:
+Make it feel like a forgotten personal home video from the early 2000s — intimate, spontaneous, imperfect, warm, mundane and deeply believable. Prioritize realistic human motion, natural facial expressions, physical interaction, environmental detail and consistent identity over cinematic beauty.</code></pre>
+
+</details>
 
 ## Gym bathroom vertical video with detailed timeline
 

@@ -1,9 +1,43 @@
 # Product Ads video prompts
 
-51 source-linked prompts, newest ImgLume records first.
+53 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic Luxury Diamond Advertisement Prompt
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2087048124523254024)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2726](https://imglume.com/prompt/2726)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aec05f9f-b23b-4f98-a9b1-35e2a6f8fdbc/e3eb7eab-e8f3-45b4-a91e-d949896148cd-1786450929882 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A black jewelry box slowly opens to reveal a flawless diamond. The camera pushes in for an extreme close-up as a gloved hand lifts the diamond. As it rises, electric-blue energy and realistic lightning begin forming around it. The diamond floats in the air while powerful lightning strikes in the background, with glowing particles, volumetric lighting, realistic reflections and physically accurate diamond refraction. Smooth cinematic camera movement, dramatic lighting, photorealistic CGI, premium commercial quality, realistic physics, highly detailed, consistent diamond throughout the entire shot. Created with Seedance 2.5.</code></pre>
+
+</details>
+
+## Luxurious Perfume Commercial Video Sequence
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2087079838368801151)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2712](https://imglume.com/prompt/2712)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/524f15db-78fd-4788-abc3-72486a4382f5/56f1e7f8-59ad-4935-997e-c5df714450b8-1786442455794 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>ultra-detailed high-fashion luxury perfume commercial, exactly 8 cinematic shots sequence: [0-2s] Macro shot of a single drop creating slow-motion concentric ripples on liquid gold surface. [2-4s] Glowing molten gold veins traveling across dark obsidian marble. [4-6s] Anti-gravity droplets merging to form a polished black quartz pedestal. [6-8s] Transparent molten glass wrapping into a sleek geometric bottle shape. [8-10s] Liquid gold swirling inside the glass bottle like an internal metallic nebula. [10-12s] Brushed-gold metallic cap locking on top as a bright studio light sweeps across creating glass refractions and lens flare. [12-14s] Bottle settling on the damp quartz pedestal with warm golden fog pooling around base. [14-16s] Centered hero shot of the product standing motionless with floating gold micro-particles, high contrast, elegant studio lighting, hyper-realistic 8k render, photorealistic physics.</code></pre>
+
+</details>
 
 ## Premium ultra-photorealistic 15-second fintech commercial for BUDGETPIXEL AI TRADING
 

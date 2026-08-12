@@ -1,9 +1,26 @@
 # Product Ads image prompts
 
-13 source-linked prompts, newest ImgLume records first.
+14 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium minimalist product advertisement
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2086994618517000244)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2716](https://imglume.com/prompt/2716)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4aaa18ce-f094-4fd9-8a2c-6fd1527e3eb5/10ea7440-341e-42e8-81be-8a5fed79e613-1786442505937 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4aaa18ce-f094-4fd9-8a2c-6fd1527e3eb5/d09105f3-55d5-40dd-942c-bbbed2ccbdf4-1786442505937 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a panoramic 21:9 format. Use a seamless studio background matching the dominant color of the product (or the user-specified color) with a soft radial gradient and subtle vignette. On the far left, place a generic red web- pattern glove performing a web-shooting hand gesture. A realistic white spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.</code></pre>
+
+</details>
 
 ## Avant-garde sports fashion advertising with monumental tennis ball sculpture
 

@@ -1,9 +1,264 @@
 # Camera Moves video prompts
 
-76 source-linked prompts, newest ImgLume records first.
+78 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second photorealistic cinematic sequence of a Black woman navigating a lakeside music festival
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2087082935648239913)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2732](https://imglume.com/prompt/2732)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c243d31-84e2-4fa1-806b-12fee772f334/6864b320-8e79-49bf-ae3c-ddd96212da57-1786455172105 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[3_panel_ref] is a three-panel character turnaround (front, left profile, rear) that strictly defines one single continuous Black woman: short black hair with a sharp undercut on one side, large gold hoop earrings, thick gold curb-chain necklace, fitted black short-sleeve crop top exposing the midriff, baggy green woodland-camouflage cargo pants with large side pockets, and black-and-white Nike high-top sneakers with leopard-print heel and tongue panels. Use only her exact face, body proportions, hair, clothing and accessories. Do not use the plain studio background or any lighting from this image.
+
+[outdoor_ref] provides the outdoor lakeside music festival environment at blue-hour dusk: dense standing crowd, main stage with large LED screens and vibrant purple-cyan-pink lighting, scattered white and colored tents, flags, gravel paths, dark forested hills, and calm reflective lake water. Use this only for location layout, spatial depth, ambient lighting mix (cool dusk sky + warm practical tent lights + stage color spill), and background crowd density. Do not promote any specific individuals from this image into the main subject role.
+
+Generate a continuous 30-second photorealistic cinematic sequence of the exact same woman from [3_panel_ref] advancing through the dense festival crowd of [outdoor_ref] while carrying a clear plastic cup of beer in each hand. Her path is a single continuous forward trajectory from deep inside the packed crowd toward a slightly clearer edge near the water where her friends wait. All camera work and cuts preserve the unbroken sense of her physical progress and direction of travel. No dialogue, no subtitles, no on-screen text.
+
+0-3s:
+
+Hybrid SnorriCam + Steadicam locked on her face and upper torso. She pushes and weaves through tightly packed bodies, constantly bumped from left, right and behind. Both beer cups tilt and liquid sloshes; her expression cycles between tight frustration and stubborn determination. She never stops advancing. Stage lights and crowd motion blur behind her.
+
+3.0-4.5s:
+
+Medium side tracking shot. A tall man shoulders into her hard — brief slow-motion impact, beer liquid arcs upward, then hard speed-ramp recovery as she re-centers and keeps moving forward.
+
+4.5-6.0s:
+
+Extreme close-up on her right hand clamped around the plastic cup. Foam and golden liquid sway violently with each jolt; knuckles and gold chain details sharp.
+
+6.0-7.5s:
+
+Low-angle close-up of her Nike sneakers with leopard accents stepping carefully between other people’s feet, discarded cups and uneven grass, still pushing ahead.
+
+7.5-9.0s:
+
+Tight facial close-up with rapid zoom-in to her eyes and the swinging gold hoop earring. She glances sideways at a near-miss, jaw tight, then locks forward again.
+
+9.0-10.5s:
+
+Medium three-quarter shot. She ducks under a raised dancing arm, speed-ramp on the duck and straighten, beers held high, continuing the same forward line.
+
+10.5-12.0s:
+
+Slightly elevated back three-quarter. A surge of people passes; her crop top and gold chain catch stage light as she twists her torso to slip through without stopping.
+
+12.0-13.5s:
+
+Extreme close-up on the left beer cup as it is jolted — liquid nearly overflows, catching a purple stage flash, then settles as she stabilizes.
+
+13.5-15.0s:
+
+Dutch-angle medium shot. She brushes past a person with a large backpack; camo cargo pockets scrape fabric; her stride never breaks.
+
+15.0-16.5s:
+
+Close-up on the undercut side of her head and short black hair moving with the motion, gold earring flashing.
+
+16.5-18.0s:
+
+Slightly high angle looking down as she navigates a tighter cluster near tents; bodies part just enough for her to thread through, still advancing.
+
+18.0-19.5s:
+
+Slow-motion medium close-up of her upper body and face as a drift of stage fog and colored light crosses her; skin, gold jewelry and black fabric catch the colors while she keeps walking.
+
+19.5-21.0s:
+
+Side tracking speed-ramp. She sidesteps a couple holding hands, beers lifted protectively, path still straight toward the water edge.
+
+21.0-22.5s:
+
+Extreme close-up on her slightly parted lips and focused eyes looking ahead, concentration unbroken.
+
+22.5-24.0s:
+
+Medium full-body as the crowd density begins to thin near the lake. She picks up a half-step of speed while still carefully balancing both cups.
+
+24.0-25.5s:
+
+Tracking from behind as she emerges into a small clearer zone. Two female friends in casual festival clothes are waiting a few meters ahead, already noticing her.
+
+25.5-27.0s:
+
+Medium shot as she reaches them, stops, still holding both beers upright. Shoulders begin to drop.
+
+27.0-30s:
+
+Close-up on her face. She releases a long, deep sigh of pure relief, a small tired smile appears, eyes soften toward her friends. Soft bokeh of lake water and residual stage lights behind her. Hold the final frame.
+
+Visual treatment: photorealistic live-action, natural blue-hour mixed with vibrant stage color spill, shallow depth of field on all close-ups, grounded handheld energy that never loses her continuous forward path. Audio: dense overlapping crowd murmur and chatter, distant muffled bass and music from the main stage, liquid sloshing inside the cups, soft body impacts and fabric rustle, her slightly elevated breathing, final clear relieved exhalation. No added music bed beyond the distant stage sound. Keep the woman’s identity, clothing, cup ownership and direction of travel completely stable across every cut.</code></pre>
+
+</details>
+
+## Fast-paced photorealistic cinematic sequence of cat adoption at shelter
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2087069668217630979)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2725](https://imglume.com/prompt/2725)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fc095c7a-b66f-47c3-8387-b302c6541683/53979dd0-251b-4c99-88c1-48a69e4633c1-1786450922107 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a fast-paced, photorealistic cinematic sequence using the provided Caden character reference and provided cat character reference.
+
+CHARACTER REFERENCE PRIORITY:
+The uploaded Caden character sheet is the absolute source of truth for Caden's face, identity, hairstyle, skin tone, body proportions, clothing, shoes, and accessories.
+The uploaded cat character sheet is the absolute source of truth for the cat's face, fur color, markings, eyes, body proportions, ears, paws, tail, and overall appearance.
+
+Do not redesign, reinterpret, beautify, or alter either character.
+Caden and the cat must remain visually identical throughout the entire sequence.
+
+FORMAT:
+15 seconds, 16:9, photorealistic cinematic film, fast pacing, realistic movement, natural performances, premium Hollywood cinematography, 4K HDR.
+
+SETTING:
+A modern, warm animal adoption shelter during daytime. Large windows, natural daylight, clean glass cat enclosures, wooden details, scratching posts, toys, blankets, and several naturally behaving cats in the background.
+
+0–2 seconds:
+Start with a WIDE EXTERIOR ESTABLISHING SHOT of the shelter. Caden walks quickly toward the entrance carrying an empty pet carrier. Camera tracks backward smoothly in front of him. Natural daylight and realistic glass reflections.
+
+2–5 seconds:
+MATCH CUT through the glass doors into a FAST INTERIOR TRACKING SHOT. Caden enters and looks around. Camera moves alongside him at waist height as he passes multiple cat enclosures.
+
+Quick natural background activity: cats playing, stretching, sleeping, and moving around. No exaggerated animal behavior.
+
+5–8 seconds:
+FAST MONTAGE:
+LOW ANGLE close-up of a cat batting a toy.
+OVER-THE-SHOULDER shot of Caden looking through an enclosure.
+CLOSE-UP of Caden briefly smiling at a playful cat.
+SIDE TRACKING SHOT as he continues walking.
+
+Keep all cuts motivated by Caden's movement and maintain spatial continuity.
+
+8–11 seconds:
+Caden suddenly notices something farther down the room.
+
+CAMERA shifts from a medium side profile into a subtle PUSH-IN toward his face.
+
+CUT TO CADEN'S POV:
+The exact cat from the uploaded cat reference is sitting quietly inside an enclosure, separated from the other active cats.
+
+The cat looks toward Caden.
+
+11–13 seconds:
+Caden walks toward the enclosure and slowly crouches down.
+
+CAMERA performs a smooth LOW THREE-QUARTER ANGLE around Caden, revealing the cat in the foreground.
+
+Cut between Caden's eyes and the cat's eyes.
+
+13–15 seconds:
+EXTREME CLOSE-UP of the cat slowly approaching the glass.
+
+Caden raises his hand and places it gently against the glass.
+
+The cat places one paw directly against the same spot.
+
+Hold for a brief natural beat.
+
+END FRAME:
+Close-up side profile showing Caden and the cat looking at each other through the glass.
+
+The final frame must transition naturally into Part 2.
+Continue DIRECTLY from the final frame of Part 1.
+
+ABSOLUTE CONTINUITY:
+Use the exact same Caden from the provided character reference.
+Use the exact same cat from the provided cat reference.
+Do not change their faces, clothing, hairstyle, body proportions, fur markings, eye color, or appearance.
+
+Maintain the same cinematic visual language, lighting quality, lens characteristics, environment, and realistic motion.
+
+15–17 seconds:
+Begin on the exact close-up from Part 1: Caden's hand against the glass and the cat's paw touching it.
+
+Caden gives a small natural smile.
+
+CAMERA gently pulls backward and arcs around them, transitioning from the intimate close-up into a wider view.
+
+17–20 seconds:
+MATCH CUT to the adoption desk.
+
+Caden quickly completes the adoption paperwork.
+
+Use three fast cinematic shots:
+CLOSE-UP of the pen moving across the paper.
+INSERT SHOT of Caden signing.
+MEDIUM SHOT of a shelter worker handing Caden the carrier containing the exact same cat.
+
+Keep the cat's appearance completely consistent with the reference.
+
+20–23 seconds:
+REAR TRACKING SHOT following Caden as he walks toward the shelter exit carrying the cat carrier.
+
+Camera moves smoothly at shoulder height.
+
+Cut to a LOW ANGLE close-up of Caden's shoes crossing the doorway.
+
+The shelter doors open and bright natural daylight enters the frame.
+
+23–26 seconds:
+MATCH CUT to Caden arriving home.
+
+He walks into a modern, comfortable living room carrying the carrier.
+
+CAMERA TRACKS BACKWARD in front of him.
+
+He places the carrier gently on the floor.
+
+Caden crouches and opens the door.
+
+26–28 seconds:
+LOW CAT-LEVEL CAMERA ANGLE.
+
+The exact same cat cautiously steps out of the carrier.
+
+The cat looks around the room naturally.
+
+Camera slowly tracks sideways with the cat as it explores.
+
+28–30 seconds:
+The cat walks toward the couch and jumps beside Caden.
+
+Caden sits comfortably and begins gently petting the cat.
+
+FINAL SHOT:
+MEDIUM-WIDE STATIC CINEMATIC FRAME.
+
+Caden casually watches TV while the cat settles beside him. He gently pets it without looking directly at the camera.
+
+The cat relaxes against him.
+
+Natural room ambience.
+
+No dialogue.
+No narration.
+No text.
+No emotional voice-over.
+No forced reaction.
+No dramatic ending.
+
+Simply hold the natural moment for the final second and CUT TO BLACK.
+
+VISUAL STYLE:
+Photorealistic cinematic film, premium animal adoption commercial aesthetic, realistic human anatomy, realistic cat behavior, physically accurate fur, detailed eyes, natural skin texture, realistic fabric, cinematic depth of field, subtle handheld movement, smooth tracking shots, motivated camera transitions, natural lighting, realistic shadows, realistic reflections, controlled motion blur, cinematic color grading, 4K HDR, high production value.</code></pre>
+
+</details>
 
 ## Montage multi-shot candid observational footage of a woman in pajamas with a cat
 

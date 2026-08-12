@@ -1,9 +1,91 @@
 # Nature image prompts
 
-11 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Dynamic action shot of a snowboarder
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2087136651990442388)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`, `photography`
+- **ImgLume record:** [2738](https://imglume.com/prompt/2738)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5fca040-7ba9-4d69-9d03-925058b57550/443b4ea3-73cb-4e65-8758-d8919cff095d-1786463428125 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d5fca040-7ba9-4d69-9d03-925058b57550/9ddce431-b494-4709-87f2-ea9414b79c77-1786463428125 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dynamic action shot of a man snowboarder with a nice hairstyle wearing a modest, structured blue-and-white patterned athletic top with extended coverage, matching leggings, and a grey backpack, carving swiftly down a steep, sunlit snowy mountain slope under a brilliant blue sky, kicking up a dramatic spray of powdery snow crystals with cinematic lighting.</code></pre>
+
+</details>
+
+## Dreamy pastel butterfly over lavender field with sunrise cottage
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2087114356307738956)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [2728](https://imglume.com/prompt/2728)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51fe725c-1960-49fd-8ac5-74381eb96177/e87c9779-e421-4d1e-9beb-c070a8ba452b-1786450982963 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/51fe725c-1960-49fd-8ac5-74381eb96177/29c57f1b-1c34-487f-8a91-e834c4d359a9-1786450982963 "Nano Banana 2") · [3](https://cdn.imglume.com/prompts/byradar/51fe725c-1960-49fd-8ac5-74381eb96177/c2ac93b5-1ef1-4085-8c15-eebe7f1e2fd6-1786450982963 "Seedream V5 pro")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dreamy, pastel-colored scene featuring a close-up of a delicate butterfly with iridescent pale pink, lavender, and white wings, captured mid-flight amidst a lush field of tall lavender stalks. The butterfly's wings are translucent and luminous, catching soft morning light, with subtle hints of blue and gold shimmering across their surface.
+
+Tall lavender stalks dominate the foreground and sides of the composition, their flower clusters rendered in thick, textured impasto dabs of purple, violet, and mauve paint, creating a tactile three-dimensional surface. The stems and leaves are painted in looser, more fluid strokes of muted sage green and cool grey, grounding the composition. The lavender frames a central negative space where the butterfly floats as the focal point.
+
+In the soft misty background, a quaint cottage with gently glowing warm amber windows sits amidst a magical foggy landscape at sunrise. The cottage is small and picturesque with a rustic roof, nestled among soft silhouetted trees. The fog drifts across the midground between the lavender and the cottage, creating layered depth and an ethereal, enchanting atmosphere.
+
+The sky above is a gentle gradient of soft pink, pale lavender, and light grey, with a warmer golden glow emanating from the upper-center where the sunrise light filters through the haze. The lighting is soft and diffused, with a brighter warm glow behind the flowers creating a sense of depth and keeping the focus on the butterfly and central lavender stalks.
+
+Sparkling light particles and tiny luminous dust motes float through the air throughout the scene, catching the pastel light and enhancing the whimsical and serene mood. The particles are delicate and scattered, denser near the light source and sparser at the edges.
+
+The color palette is dominated by soft purples, mauve, lavender, pale pink, and muted green, with warm golden-amber accents from the cottage windows and sunrise glow. The painterly style adds a soft, romantic touch to</code></pre>
+
+</details>
+
+## Elegant white swans forming a heart on a misty lake
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2086884637352345983)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [2685](https://imglume.com/prompt/2685)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51899b41-3771-4ee2-9fda-fb8a2e80a1bc/6ab0583a-aa15-415d-bffb-dcf94491bf22-1786402518702 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A pair of elegant white swans floating on a calm, misty lake, their long necks arched toward each other to form a perfect heart shape, their pristine white feathers creating soft ripples on the glassy, dark blue water which perfectly reflects their forms. The background features a serene, foggy marshland with tall reeds silhouetted against the soft pastel light of a sunrise or sunset. The sun is a pale, glowing orb visible through the haze on the horizon, casting gentle orange and pink hues across the tranquil sky and reflecting faintly on the water's surface. The composition is vertical and symmetrical, emphasizing a romantic, peaceful, and ethereal atmosphere. High-resolution nature photography, cinematic lighting, soft focus, serene mood, hyper-realistic, dreamy aesthetic, intricate textures of water and feathers, wide-angle lens, tranquil morning mist, 8k resolution</code></pre>
+
+</details>
+
+## Crimson Forest Aerial Road
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2086806779363783146)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `nature`, `photography`
+- **ImgLume record:** [2676](https://imglume.com/prompt/2676)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4fd66376-579e-408b-a43d-f9c754de219b/7437a11d-50cb-403b-a210-81e35ccb8bb4-1786387983068 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4fd66376-579e-408b-a43d-f9c754de219b/e511a01e-71d5-4fb6-84c5-125a3d9db7f7-1786387983068 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4fd66376-579e-408b-a43d-f9c754de219b/f3d53e29-1afb-4a3f-a447-b7aaf3034895-1786387983068 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4fd66376-579e-408b-a43d-f9c754de219b/b25fcded-7aa7-4f43-a7f2-e25718220736-1786387983068 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic aerial drone photograph looking down over a vast dense coniferous forest, with the entire forest covered in intense crimson, ruby-red and deep magenta foliage. A narrow winding dirt road cuts naturally through the center of the forest, disappearing into the trees in the distance. Tall pine and fir trees create layers of depth across rolling forested terrain.
+
+Soft natural daylight with a pale blue sky and a few subtle white clouds, realistic atmospheric perspective, rich but controlled crimson color palette, dark burgundy shadows and muted earthy road tones. Photorealistic tree detail, natural irregular vegetation, cinematic aerial composition, high-altitude drone photography, 24mm equivalent lens, realistic depth and scale, premium color grading, subtle film grain, HDR, ultra-detailed, 8K.
+
+No people, cars, buildings, power lines, text or watermark.</code></pre>
+
+</details>
 
 ## Oil painting of a butterfly in a golden wheat field at sunrise
 

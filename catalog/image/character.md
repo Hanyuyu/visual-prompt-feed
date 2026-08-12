@@ -1,9 +1,55 @@
 # Character image prompts
 
-69 source-linked prompts, newest ImgLume records first.
+70 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 2:1 Premium Cinematic Character Identity Board Prompt
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2086877769858768936)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2686](https://imglume.com/prompt/2686)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f4cfc3a8-6464-49f1-985e-26db1ea45365/b760435f-3ec4-4f5d-af0c-2bf9836384ef-1786402572188 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 2:1 premium cinematic CHARACTER IDENTITY BOARD using Image A as the sole character and style reference.
+
+Match Image A exactly: same identity, proportions, hairstyle, outfit, colors, visual medium, linework, shading and texture. Do not redesign or reinterpret. Correct obvious anatomy or generation errors like hands without changing the intended design. without sword and yellow dots.
+
+REFERENCE LOOK LOCK
+First analyze Image A and establish a strict visual identity lock from all observable character traits, proportions, design details and stylistic rules. Apply this locked identity consistently across every angle, pose and expression. Nothing may drift, relocate, disappear, duplicate or be invented; only perspective-dependent visibility may change.
+
+COMPOSITION
+Use a clean minimal background color chosen to contrast clearly and elegantly with the character’s palette. Avoid grids, blueprints and standard turnaround-sheet design. Never overlap or crop the studies.
+
+RIGHT 25%: HERO PORTRAIT
+The rightmost 25% must be a full-height, edge-to-edge close-up portrait completely filling that area with no margins or empty space. Match Image A’s identity, art style, lighting, colors and background treatment exactly. Keep the face and defining head silhouette clearly readable. Place no text or other studies over it.
+
+LEFT 10%: EXPRESSIONS
+Reserve the leftmost 10% for exactly four expression portraits. Place the four clearly separated expression portraits vertically.
+
+Give each portrait a strong, distinctly different emotion and head direction: front-facing, left three-quarter, right three-quarter and side profile. The gaze should naturally follow each head angle. Do not repeat the same angle or expression. Preserve the exact same facial identity, proportions, features and art style in all four portraits.
+
+CENTER 65%: BODY STUDIES
+Use the central 65% for:
+
+- one large off-center hero full-body pose, facing directly toward the viewer with the head straight, eyes clearly visible and the face sharp, unobstructed and easy to recognize
+- back full-body view in a different pose
+- side full-body view in a different pose
+- one top-down body angle
+- one low-angle body angle
+
+Keep all views fully visible, clearly separated and consistent with the locked reference identity.
+
+No text, arrows, labels, handwritten notes, annotation marks, silhouettes, detail studies, seated poses, leaning poses, crouching poses, environments, extra characters, alternate costumes, logos, watermarks, style drift, malformed anatomy, inconsistent features, duplicated details, obscured faces or overlapping figures.</code></pre>
+
+</details>
 
 ## Luxury Caricature Portrait Prompt
 

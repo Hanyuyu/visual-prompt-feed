@@ -1,9 +1,26 @@
 # Food Drink video prompts
 
-39 source-linked prompts, newest ImgLume records first.
+40 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic Korean Convenience Store Snack Challenge Vlog
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2086685268787278176)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [2690](https://imglume.com/prompt/2690)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c3a67d5f-8083-4eb8-bf32-2f06f8660eb4/c32467c5-a69c-469c-a525-a9941e0e7a82-1786408829975 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 30-second ultra-realistic Korean lifestyle vlog following a young creator as she takes on a convenience store snack challenge in the heart of Seoul. She walks through lively city streets, browses colorful aisles filled with trending snacks, checks out with her favorite picks, and enjoys an honest taste test just outside the store. Authentic selfie-style moments blend seamlessly with cinematic B-roll, capturing genuine reactions, detailed food close-ups, and the vibrant atmosphere of everyday Korea. Natural handheld camera movement, realistic lip-sync, expressive facial animation, premium food textures, documentary realism, physically accurate lighting, seamless scene continuity, bright daytime ambiance, Seedance 2.5-quality visuals, no text, no logos.</code></pre>
+
+</details>
 
 ## Cinematic European Lifestyle Influencer Vlog at a Cozy Café
 

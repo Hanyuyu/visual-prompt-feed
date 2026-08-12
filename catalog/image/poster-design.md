@@ -1,9 +1,379 @@
 # Poster Design image prompts
 
-57 source-linked prompts, newest ImgLume records first.
+63 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Swiss International Style Typographic Fashion Travel Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087033302477898089)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2745](https://imglume.com/prompt/2745)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/be16cdca-cb4f-4cd2-90a1-0b5b9e171bf0/dde1e993-00dd-4324-b58b-0b88adffcc5c-1786463518003 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/be16cdca-cb4f-4cd2-90a1-0b5b9e171bf0/8267ef24-aacb-4764-af1b-2acc34aec7ad-1786463518003 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/be16cdca-cb4f-4cd2-90a1-0b5b9e171bf0/71321f90-6701-43c5-bbea-87d962609e6f-1786463518003 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical graphic poster in the Swiss International Typographic Style, combining an ultra-photorealistic portrait of a fictional top-tier Korean female K-pop idol with enormous geometric typography featuring [CITY NAME].
+
+CORE COMPOSITION
+
+Make the city name a major architectural element occupying most of the frame. The portrait, typography, authentic cityscape, geometric graphics, and grid must feel like one unified design system.
+
+Show a waist-up, strictly frontal portrait of an elegant, charismatic Korean female idol with refined natural features, realistic skin texture, expressive eyes, and direct eye contact. Her face must remain sharp, fully recognizable, unobstructed, and visually dominant even while integrated into the typography.
+
+Do not imitate any specific real celebrity; create an original fictional idol with a premium global K-pop editorial presence.
+
+CITY — [CITY NAME]
+
+Use an authentic, recognizable cityscape belonging specifically to [CITY NAME], with appropriate architecture, skyline elements, landmarks, and urban depth.
+
+For NEW YORK, use believable Manhattan skyscrapers, Midtown architecture, bridge elements, and layered urban structures. When replacing the city, automatically replace all architecture and visual references accordingly.
+
+Allow selected parts of the cityscape to appear inside and through the oversized letters.
+
+TYPOGRAPHY
+
+Render [CITY NAME] in enormous geometric sans-serif lettering inspired by Swiss International Graphic Design.
+
+The letters should:
+
+occupy most of the frame
+
+follow a strict modular grid
+
+function as architectural structures
+
+create strong visual rhythm
+
+interact naturally with the portrait
+
+reveal portions of the cityscape
+
+Keep the city name perfectly spelled, clearly legible, and structurally clean. Never allow distorted or nonsensical letterforms.
+
+GRAPHIC SYSTEM
+
+Use:
+
+strict modular grid
+
+asymmetric but balanced composition
+
+precise alignment
+
+strong hierarchy
+
+generous negative space
+
+circles, squares, rectangles
+
+thin rules and diagonal lines
+
+geometric framing elements
+
+Add restrained editorial micro-details such as small captions, numerical codes, coordinate-style numbers, minimalist pictograms, and technical labels.
+
+Keep these elements subtle and secondary.
+
+FASHION
+
+Dress the idol in sophisticated contemporary urban fashion inspired by [CITY NAME]: structured jacket, minimalist top, tailored outerwear, or elevated streetwear.
+
+The styling should feel luxury editorial rather than casual, with no visible brand logos.
+
+CAMERA &amp; LIGHTING
+
+85mm portrait-lens aesthetic, frontal camera angle, waist-up framing, natural portrait compression, realistic facial proportions.
+
+Use soft cinematic daylight with controlled directional contrast, realistic shadows, natural highlight roll-off, and accurate skin rendering. Preserve genuine skin texture without plastic-looking retouching.
+
+COLOR PALETTE
+
+Primary:
+Black · White · Warm Gray
+
+Accents:
+International Red · Deep Royal Blue · Mustard Yellow
+
+Use accent colors sparingly to maintain the disciplined Swiss aesthetic.
+
+PRINT FINISH
+
+Add a subtle premium print character:
+
+fine Portra-inspired film grain
+
+matte paper texture
+
+extremely subtle dust and micro-scratches
+
+refined editorial print finish
+
+Keep texture understated and sophisticated.
+
+FINAL AESTHETIC
+
+Ultra-photorealistic 8K-quality fashion photography fused with museum-level Swiss graphic design, creating a clean, modern, luxurious, conceptual, architectural, and highly curated poster.
+
+The portrait, typography, cityscape, grid, geometry, color, and texture must feel organically designed together.
+
+AVOID: Blur, low quality, bad anatomy, extra fingers, duplicate faces, distorted features, plastic skin, broken/misspelled text, generic cityscapes, clutter, oversaturation, noise, watermarks, logos, celebrity imitation, cartoon/anime style, AI artifacts.</code></pre>
+
+</details>
+
+## Premium Vintage Travel Poster Through a City Window
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2087100105929417025)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2743](https://imglume.com/prompt/2743)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ff8d80c-e86e-497c-bb2d-4da0944501b2/13a32719-c04d-4f55-b517-1762248d6fa8-1786463504958 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7ff8d80c-e86e-497c-bb2d-4da0944501b2/c0286b9c-a07c-4c6c-b7e8-e7767563d835-1786463504958 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7ff8d80c-e86e-497c-bb2d-4da0944501b2/94a51817-4ff5-402e-8d63-3a7f39ab5b46-1786463504958 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/7ff8d80c-e86e-497c-bb2d-4da0944501b2/08f8627d-b73e-4ba7-bdcc-a28c5efaddbd-1786463504958 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vintage editorial travel poster for [CITY], [COUNTRY], inspired by classic mid-century tourism posters and sophisticated retro graphic design.
+
+Creative Concept — “A Journey Through the City”:
+Show the destination from inside a recognizable local form of transportation, such as a subway, tram, train, bus, cable car, ferry, boat, or vintage vehicle. The foreground contains the stylized interior and a large window that acts as the main visual frame, while the world outside reveals the character of the city.
+
+Through the window, artistically incorporate [ICONIC LANDMARK 1], [ICONIC LANDMARK 2], [FAMOUS STREET/AREA], [LOCAL ARCHITECTURE], [LOCAL TRANSPORTATION], and other recognizable cultural elements. Arrange them naturally within the scene rather than creating a generic skyline.
+
+Create a strong sense of depth, movement, and travel: foreground transportation interior, middle-ground streets and people, and a distant atmospheric cityscape. Add tiny storytelling details such as pedestrians, vehicles, street signs, glowing windows, clouds, birds, reflections on the glass, local advertisements, and subtle environmental details.
+
+Visual Style: sophisticated vintage travel-poster illustration, mid-century graphic design, clean geometric shapes, simplified architectural forms, elegant silhouettes, layered flat colors, subtle atmospheric perspective, carefully controlled negative space, authentic screen-printed texture, slightly imperfect ink edges, aged paper grain, nostalgic but premium editorial aesthetic.
+
+Color Palette: use a refined destination-inspired palette of warm ivory, muted blues, deep navy, dusty terracotta, soft beige, and one distinctive accent color associated with the destination. Keep the colors slightly faded and harmonious.
+
+Typography:
+Large elegant uppercase title at the top:
+
+[CITY]
+
+Smaller text underneath:
+
+[COUNTRY]
+
+Add a short poetic travel slogan:
+
+[CITY SLOGAN]
+
+Include a small vintage transportation ticket, route number, destination emblem, travel stamp, or local symbol integrated into the design.
+
+The transportation window should feel like a portal into the destination, making the viewer feel as if they are physically traveling through the city.
+
+Overall mood: nostalgic, cinematic, adventurous, sophisticated, collectible, timeless, premium tourism advertising.
+
+Portrait 4:5 composition, museum-quality travel poster, strong visual hierarchy, beautiful negative space, highly detailed illustration, authentic vintage print texture, no photorealism, no modern 3D rendering.</code></pre>
+
+</details>
+
+## Mid-century travel-ad illustration with humans, vehicle, and animal
+
+- **Original source:** [@kingofdairyque on X](https://x.com/kingofdairyque/status/2087026724944937236)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2707](https://imglume.com/prompt/2707)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a8b6c2a7-972b-4be0-afb3-fd252438b087/27198912-5770-4ed4-9308-3d3c0e4850fd-1786438234688 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a8b6c2a7-972b-4be0-afb3-fd252438b087/f963aa96-0665-49aa-b1c5-f1bb5c6b2064-1786438234688 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a8b6c2a7-972b-4be0-afb3-fd252438b087/54e62bcf-56d0-4b22-976f-0ab76332539d-1786438234688 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a8b6c2a7-972b-4be0-afb3-fd252438b087/13782c8d-6962-4630-9a10-73c72a5d8ebc-1786438234688 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Mid-century travel-ad illustration featuring [HUMANS] riding [VEHICLE], accompanied by [ANIMAL]. Dress them in [CLOTHING] using [PALETTE]. Place the scene in [SCENERY], with lush stylized foliage framing the figures and vehicle. Render with flat gouache-like color shapes, visible dry-brush strokes, simplified facial features, crisp graphic silhouettes, hand-painted texture, decorative botanical forms, and warm sunlit color harmony. Keep the composition elegant, cheerful, fashion-forward, and distinctly 1960s European advertising. Aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Premium cinematic anime editorial poster prompt
+
+- **Original source:** [@sha_zdiii on X](https://x.com/sha_zdiii/status/2086842913749963239)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2701](https://imglume.com/prompt/2701)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b1e0f1a-a918-4e60-9362-87ce238c78d4/197fc05f-124b-42bf-9988-b5df11be03c8-1786429867734 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5b1e0f1a-a918-4e60-9362-87ce238c78d4/a423fd7c-048f-49c6-85eb-537d5404dc63-1786429867734 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium viral cinematic anime editorial poster featuring a mysterious [MALE / FEMALE] shinobi standing alone in a glossy reflective minimalist landscape, body slightly turned away while looking back toward the viewer, long dark hair moving in the wind, calm powerful expression, elegant flowing black cloak with sophisticated [CLOAK MOTIFS / ACCENT DETAILS]. Behind the character, place huge condensed bold typography reading “[MAIN TITLE]”, integrated into the composition and partially hidden behind the character. Add a stylish handwritten phrase on the left: “[SHORT TAGLINE]”, with subtle vertical Japanese-inspired typography on the right. Surround the character with floating black feathers, subtle particles, dramatic Japanese ink-brush strokes, atmospheric mist, and a strong mirror reflection on the wet ground. Use an eye-catching premium color palette of [MAIN COLOR] + [SECONDARY COLOR] + black + soft metallic accents, against a clean cream/smoky background. High-end Japanese fashion editorial meets cinematic anime key art, dramatic negative space, luxury poster design, ultra-detailed character, realistic flowing fabric, sharp facial details, cinematic lighting, subtle film grain, sophisticated typography, visually addictive social-media aesthetic, iconic composition, 9:16 vertical, ultra high quality, no watermark, no devices, no laptop, no phone, standalone poster only.
+Boy example: [MALE] [SHADOW ASCENT] [Power Walks Quietly] [Deep Teal + Ember Orange]
+Girl example: [FEMALE] [LUNA VEIL] [Grace Moves in Silence] [Midnight Plum + Rose Gold]</code></pre>
+
+</details>
+
+## Fluorescent Marker Travel Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2086874218734731590)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2700](https://imglume.com/prompt/2700)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e15ad82f-fcb1-4552-8b2e-71eca5329042/c93c2f2e-a911-437c-8bc1-a60092a77969-1786429859506 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e15ad82f-fcb1-4552-8b2e-71eca5329042/ef5ed60f-4e53-4cc9-8d3b-ecf1b3caa8a3-1786429859506 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e15ad82f-fcb1-4552-8b2e-71eca5329042/b1a878d6-c204-467b-94e3-25b21c61290b-1786429859506 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>ASPECT RATIO: 4:5
+
+[DESTINATION] = [CITY / COUNTRY NAME]
+
+Create a bold, sophisticated vertical 4:5 travel art poster for [DESTINATION], drawn entirely with only four fluorescent highlighter markers on pure bright white paper:
+
+🟧 Fluorescent Orange
+🟨 Fluorescent Yellow
+🟩 Fluorescent Green
+🟦 Fluorescent Blue
+
+COMPOSITION
+
+Select 2–3 real, instantly recognizable landmarks or architectural symbols that genuinely represent [DESTINATION].
+
+Use one dominant landmark as the visual anchor, supported by one or two smaller landmarks. Integrate everything into one continuous, asymmetrical composition using overlap, cropping, scale contrast, and generous negative space.
+
+Do not arrange landmarks side-by-side like a tourist brochure. Keep the architecture highly simplified but immediately recognizable.
+
+HIGHLIGHTER STYLE
+
+Construct the artwork only with visible broad-tip highlighter strokes — no black ink, pencil, fine outlines, or digital fills.
+
+Use quick sweeping marks, transparent overlaps, uneven saturation, streaks, gaps, imperfect edges, visible stroke beginnings and endings, and occasional strokes extending beyond the architecture.
+
+Do not carefully color inside buildings. Use a limited number of confident strokes to suggest rather than fully render the landmarks. Leave significant areas unpainted so the viewer mentally completes the forms.
+
+Up close, the artwork should feel almost abstract; from a distance, [DESTINATION] should become unmistakable.
+
+COLOR &amp; WHITE SPACE
+
+Use only fluorescent orange, yellow, green, and blue. Use all four throughout the composition and allow them to overlap naturally.
+
+Keep approximately 50–60% of the pure white paper untouched. No gradients, shadows, black, gray, beige, pastel colors, or additional shades.
+
+TYPOGRAPHY
+
+Integrate the exact text “[DESTINATION]” naturally into the composition using the same fluorescent highlighters. Make it spontaneous, expressive, handwritten, and visually integrated rather than a conventional poster heading.
+
+STYLE
+
+Contemporary editorial illustration, experimental architectural sketching, Swiss graphic-design restraint, expressive marker art, museum-shop travel artwork, sophisticated handmade imperfection, bold negative space.
+
+Avoid: photorealism, detailed architectural rendering, conventional skyline compositions, rigid grids, decorative borders, watercolor, vintage textures, cream/beige paper, and generic tourism-poster aesthetics.
+
+FINAL FEEL: A destination remembered through only four fluorescent highlighters — energetic marks, enormous white space, imperfect strokes, and just enough architectural information for [DESTINATION] to suddenly emerge from abstraction.
+
+High resolution, vertical 4:5, pristine pure-white background.</code></pre>
+
+</details>
+
+## Fresh airy elegant city travel poster prompt
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2086843715063316892)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2694](https://imglume.com/prompt/2694)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e56fab05-a4c9-4257-99dc-aaefa3420241/58ff76fe-14a9-413c-b6e0-4bb3fac11e8b-1786415131343 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e56fab05-a4c9-4257-99dc-aaefa3420241/ab133bfb-7488-493b-b132-639f64520964-1786415131343 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e56fab05-a4c9-4257-99dc-aaefa3420241/6ecdcf45-9535-4117-a0d7-b63205622b5a-1786415131343 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e56fab05-a4c9-4257-99dc-aaefa3420241/d39407e5-fd95-456e-97cc-fdfb59452c37-1786415131343 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a fresh, airy, elegant city travel poster that feels uniquely designed for [CITY_NAME], not reused from another city.
+
+IMPORTANT COMPOSITION RULE:
+Before drawing, identify the unique “city DNA” of [CITY_NAME]:
+1. one primary landmark or skyline feature,
+2. one local movement or transport cue,
+3. one everyday lifestyle moment,
+4. one native plant / local environmental detail,
+5. one spatial composition that fits this city specifically.
+
+Do NOT reuse the same layout formula across cities.
+Avoid defaulting to:
+- a shop always on the right,
+- a signboard always on the left,
+- people always sitting at a café table,
+- the same foreground flower bed,
+- the same lamppost position,
+- the same waterfront promenade composition.
+
+Each city must have a different scene structure, chosen from its real atmosphere:
+harbour lookout, laneway street, riverside park, beach walk, hilltop viewpoint, market corner, tram street, ferry quay, botanical garden, old town street, coastal boardwalk, cultural square, or skyline overlook.
+
+Typography:
+Place “[CITY_NAME]” in the upper-left with generous typography-safe negative space.
+Add one short refined English caption that matches the city mood.
+Keep the typography elegant, minimal, and premium.
+
+Scene adaptation:
+Automatically adapt the scene to [CITY_NAME].
+Use one iconic primary landmark as the main visual anchor.
+Add only 2–4 supporting local details that truly belong to the city.
+Do not create a landmark collage.
+Do not overfill the background.
+
+People:
+Use only 3–6 small figures.
+Each person should perform a city-specific everyday action:
+walking, sketching, cycling, waiting for a tram, boarding a ferry, carrying a surfboard, taking a quiet photo, reading in a park, jogging by the water, browsing a small market.
+Avoid crowd scenes.
+Avoid one dominant hero character.
+People should feel naturally placed within the city, not copied from previous posters.
+
+Local details:
+Use local transport, signage, street furniture, plants, food, architecture, and leisure details only when they fit the city.
+Transport signs must not always appear as a large vertical signboard.
+They may appear subtly as a tram stop marker, ferry route board, station clock, bike lane symbol, beach patrol flag, small metro icon, or painted pavement mark.
+
+Style:
+Japanese stationery aesthetic,
+luxury sticker illustration,
+premium commercial flat-vector travel poster,
+clean thin outlines,
+consistent line weight,
+flat colors only,
+soft minimal shapes,
+calm editorial composition.
+
+Palette:
+Use pale powder blue, soft sky blue, and mist blue as the atmospheric base.
+Use warm cream, soft beige, sage green, and muted gray-green for architecture and nature.
+Use dusty rose or blush pink only as tiny accents on flowers, signs, awnings, clothing, or small decorative details.
+Keep the palette refined, toned-down, and high-end.
+
+Mood:
+fresh, minimal, elegant, calm, refined,
+high-end travel postcard,
+quiet lifestyle branding,
+open space, breathing room, relaxed local rhythm.
+
+Negative prompt:
+No realism.
+No watercolor.
+No painterly effects.
+No photorealism.
+No heavy shading.
+No gradients.
+No paper texture.
+No dense background.
+No repeated café-on-right layout.
+No repeated signboard-on-left layout.
+No generic tourist poster collage.
+No crowded street.
+No oversized people.
+No dramatic lighting.</code></pre>
+
+</details>
 
 ## Vintage Collage Travel Poster
 

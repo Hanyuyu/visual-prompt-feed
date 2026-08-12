@@ -1,9 +1,203 @@
 # Character video prompts
 
-53 source-linked prompts, newest ImgLume records first.
+57 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second photorealistic cinematic sequence of a Black woman navigating a lakeside music festival
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2087082935648239913)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2732](https://imglume.com/prompt/2732)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c243d31-84e2-4fa1-806b-12fee772f334/6864b320-8e79-49bf-ae3c-ddd96212da57-1786455172105 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[3_panel_ref] is a three-panel character turnaround (front, left profile, rear) that strictly defines one single continuous Black woman: short black hair with a sharp undercut on one side, large gold hoop earrings, thick gold curb-chain necklace, fitted black short-sleeve crop top exposing the midriff, baggy green woodland-camouflage cargo pants with large side pockets, and black-and-white Nike high-top sneakers with leopard-print heel and tongue panels. Use only her exact face, body proportions, hair, clothing and accessories. Do not use the plain studio background or any lighting from this image.
+
+[outdoor_ref] provides the outdoor lakeside music festival environment at blue-hour dusk: dense standing crowd, main stage with large LED screens and vibrant purple-cyan-pink lighting, scattered white and colored tents, flags, gravel paths, dark forested hills, and calm reflective lake water. Use this only for location layout, spatial depth, ambient lighting mix (cool dusk sky + warm practical tent lights + stage color spill), and background crowd density. Do not promote any specific individuals from this image into the main subject role.
+
+Generate a continuous 30-second photorealistic cinematic sequence of the exact same woman from [3_panel_ref] advancing through the dense festival crowd of [outdoor_ref] while carrying a clear plastic cup of beer in each hand. Her path is a single continuous forward trajectory from deep inside the packed crowd toward a slightly clearer edge near the water where her friends wait. All camera work and cuts preserve the unbroken sense of her physical progress and direction of travel. No dialogue, no subtitles, no on-screen text.
+
+0-3s:
+
+Hybrid SnorriCam + Steadicam locked on her face and upper torso. She pushes and weaves through tightly packed bodies, constantly bumped from left, right and behind. Both beer cups tilt and liquid sloshes; her expression cycles between tight frustration and stubborn determination. She never stops advancing. Stage lights and crowd motion blur behind her.
+
+3.0-4.5s:
+
+Medium side tracking shot. A tall man shoulders into her hard — brief slow-motion impact, beer liquid arcs upward, then hard speed-ramp recovery as she re-centers and keeps moving forward.
+
+4.5-6.0s:
+
+Extreme close-up on her right hand clamped around the plastic cup. Foam and golden liquid sway violently with each jolt; knuckles and gold chain details sharp.
+
+6.0-7.5s:
+
+Low-angle close-up of her Nike sneakers with leopard accents stepping carefully between other people’s feet, discarded cups and uneven grass, still pushing ahead.
+
+7.5-9.0s:
+
+Tight facial close-up with rapid zoom-in to her eyes and the swinging gold hoop earring. She glances sideways at a near-miss, jaw tight, then locks forward again.
+
+9.0-10.5s:
+
+Medium three-quarter shot. She ducks under a raised dancing arm, speed-ramp on the duck and straighten, beers held high, continuing the same forward line.
+
+10.5-12.0s:
+
+Slightly elevated back three-quarter. A surge of people passes; her crop top and gold chain catch stage light as she twists her torso to slip through without stopping.
+
+12.0-13.5s:
+
+Extreme close-up on the left beer cup as it is jolted — liquid nearly overflows, catching a purple stage flash, then settles as she stabilizes.
+
+13.5-15.0s:
+
+Dutch-angle medium shot. She brushes past a person with a large backpack; camo cargo pockets scrape fabric; her stride never breaks.
+
+15.0-16.5s:
+
+Close-up on the undercut side of her head and short black hair moving with the motion, gold earring flashing.
+
+16.5-18.0s:
+
+Slightly high angle looking down as she navigates a tighter cluster near tents; bodies part just enough for her to thread through, still advancing.
+
+18.0-19.5s:
+
+Slow-motion medium close-up of her upper body and face as a drift of stage fog and colored light crosses her; skin, gold jewelry and black fabric catch the colors while she keeps walking.
+
+19.5-21.0s:
+
+Side tracking speed-ramp. She sidesteps a couple holding hands, beers lifted protectively, path still straight toward the water edge.
+
+21.0-22.5s:
+
+Extreme close-up on her slightly parted lips and focused eyes looking ahead, concentration unbroken.
+
+22.5-24.0s:
+
+Medium full-body as the crowd density begins to thin near the lake. She picks up a half-step of speed while still carefully balancing both cups.
+
+24.0-25.5s:
+
+Tracking from behind as she emerges into a small clearer zone. Two female friends in casual festival clothes are waiting a few meters ahead, already noticing her.
+
+25.5-27.0s:
+
+Medium shot as she reaches them, stops, still holding both beers upright. Shoulders begin to drop.
+
+27.0-30s:
+
+Close-up on her face. She releases a long, deep sigh of pure relief, a small tired smile appears, eyes soften toward her friends. Soft bokeh of lake water and residual stage lights behind her. Hold the final frame.
+
+Visual treatment: photorealistic live-action, natural blue-hour mixed with vibrant stage color spill, shallow depth of field on all close-ups, grounded handheld energy that never loses her continuous forward path. Audio: dense overlapping crowd murmur and chatter, distant muffled bass and music from the main stage, liquid sloshing inside the cups, soft body impacts and fabric rustle, her slightly elevated breathing, final clear relieved exhalation. No added music bed beyond the distant stage sound. Keep the woman’s identity, clothing, cup ownership and direction of travel completely stable across every cut.</code></pre>
+
+</details>
+
+## Photorealistic comedic vertical video of a girl searching for her phone in a cozy apartment
+
+- **Original source:** [@nusratsid1 on X](https://x.com/nusratsid1/status/2087055493445378066)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2710](https://imglume.com/prompt/2710)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e32dd0a5-3457-4b0e-9813-7dd4628679fd/5354f5bd-9626-4548-b462-193f738afaff-1786440400297 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic, relatable comedy video in a modern cozy apartment, 9:16 vertical format. Use the reference girl as the main character and maintain perfect character consistency.
+
+0–3 sec: The girl suddenly realizes her phone is missing. Her expression changes from relaxed to confused and then panicked. She quickly checks her pockets and looks around the room.
+
+3–6 sec: She starts frantically searching the apartment—checking the sofa cushions, coffee table, kitchen counter, and under a pillow. She looks increasingly stressed.
+
+6–9 sec: She gets on the floor and searches underneath the couch and bed. She is using a bright flashlight to look around, but the flashlight is actually coming from the missing phone that she is unknowingly holding in her other hand.
+
+9–12 sec: She continues searching faster, moving around the room while holding the phone up like a flashlight. She suddenly stops. Slowly looks down at the phone in her hand.
+
+12–15 sec: Close-up of her face as she realizes what happened. She gives an awkward, embarrassed smile and looks directly into the camera. Add a tiny comedic pause.
+
+Voice-over:
+
+“I spent five minutes looking for my phone… while using my phone’s flashlight.”
+
+Final text:
+
+“Modern problems require… no brain at all. 😂”
+
+Style: Photorealistic, natural acting, authentic expressions, realistic apartment lighting, handheld camera feel, quick comedic cuts, subtle camera shake, cinematic depth of field, realistic skin texture, natural movement, high detail, 4K. No exaggerated cartoon behavior, no background music—only natural room sounds and subtle comedic timing.</code></pre>
+
+</details>
+
+## Two characters parkour vault on non‑existent rooftop with independent hair and cloth physics
+
+- **Original source:** [@Primee32 on X](https://x.com/Primee32/status/2086843227009601585)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`
+- **ImgLume record:** [2695](https://imglume.com/prompt/2695)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b654f247-1ad7-4cc0-af1b-fb099c3071a8/cb4f9fb5-6ad9-445a-a303-73983d7fdf79-1786419331555 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>14 seconds. Two characters. One unbroken move — vault, sprint, gap jump, landing. No cuts. No stitching. Seedance 2.5, one timestamped prompt. Each body runs its own hair and cloth physics — nothing shared, nothing copy-pasted. Two independent simulations agreeing on the same wind, one frame apart. $0 permit. Rooftop that doesn't exist.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic candid home-video of a young Korean woman in a residential neighborhood
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2086806078105551218)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [2675](https://imglume.com/prompt/2675)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/107bb3ff-0cb4-4d10-ba9e-c47eb551b4b1/2220ab39-54fd-497d-8d87-a675eec4c793-1786387967909 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic candid home-video sequence of a young Korean woman in her early 20s living an ordinary late morning in a quiet Korean residential neighborhood.
+
+SUBJECT:
+Young Korean woman, natural everyday appearance, realistic skin texture, minimal makeup, black wavy hair in a messy side ponytail with wispy bangs. Faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, simple black cord necklace. Warm, relaxed personality. Keep her face, body, hairstyle, clothing, and appearance perfectly consistent throughout.
+
+SETTING:
+Authentic Korean residential neighborhood — narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires and mature trees. Quiet, lived-in atmosphere. No shops, advertisements, crowds, cafés, or commercial activity.
+
+VISUAL STYLE:
+Ultra-realistic documentary home-video footage from an early-2000s consumer DV camcorder. Imperfect handheld operation, natural camera shake, awkward framing, occasional reframing, autofocus hunting, slight lens breathing, exposure pumping between sunlight and shade, subtle motion blur, mild rolling shutter, faded colors, soft contrast, slight digital compression and sensor noise. No stabilization, no cinematic camera moves, no modern color grading. Everything must feel genuinely captured, not AI-generated.
+
+TIMELINE:
+00:00–00:05 — Outside her small house, she sits on a low concrete wall adjusting her messy ponytail. Wind moves loose strands of hair. She casually smiles while the camera struggles to lock focus.
+
+00:05–00:10 — She walks into a narrow residential alley. A stray cat approaches. She crouches naturally, pets it and gently feeds it. Autofocus shifts imperfectly between her face and the cat.
+
+00:10–00:15 — In a small front yard, she hangs laundry on a clothesline. Fabric moves naturally in the breeze while sunlight and cloud shadows subtly change the exposure.
+
+00:15–00:20 — She sits on a quiet terrace with a simple ceramic coffee cup, casually watching the neighborhood and brushing loose hair behind her ear. Handheld side angle with natural camera drift.
+
+00:20–00:25 — Close side profile. Someone off-camera casually greets her. She turns, smiles warmly, raises her hand and naturally says, “Annyeong.” The camera reacts slightly late.
+
+00:25–00:30 — She walks slowly down a tree-lined residential lane holding her coffee. She notices the camera, gives a small genuine smile, then looks away and continues walking. The recording abruptly cuts to black mid-motion like an old camcorder being switched off.
+
+AUDIO:
+Only authentic location sound: birds, distant motorcycles, light wind, rustling leaves, faint neighborhood chatter, cat sounds, footsteps on concrete, laundry moving on the clothesline and subtle residential ambience. Natural Korean speech only. No music, narration, cinematic sound effects, or artificial sound design.
+
+GOAL:
+Make it feel like a forgotten personal home video from the early 2000s — intimate, spontaneous, imperfect, warm, mundane and deeply believable. Prioritize realistic human motion, natural facial expressions, physical interaction, environmental detail and consistent identity over cinematic beauty.</code></pre>
+
+</details>
 
 ## 15-Second Cinematic Hawaii Travel Vlog
 

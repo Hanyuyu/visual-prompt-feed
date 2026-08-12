@@ -1,9 +1,36 @@
 # Nature video prompts
 
-10 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Jungle Build ASMR Video with Seedance 2.5
+
+- **Original source:** [@Dheepanratnam on X](https://x.com/Dheepanratnam/status/2086796242474897501)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [2698](https://imglume.com/prompt/2698)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60c991b8-238e-40d2-8bb3-3822701166ff/12e2a218-6836-49c6-936d-b3c96edc6903-1786423679362 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>First &amp; Last Frame (FLF2V) using [StartFrame] and [EndFrame].
+
+[CAMERA]: Fixed locked tripod shot, 24mm wide lens facing the cliff edge. Zero camera drift.
+
+[TIMELINE &amp; MOTION]:
+- 00:00 - 00:12 (Timelapse Build Phase 1): 100x speed timelapse. Two craftsmen work synchronously. Builder 1 chisels bedrock and excavates the pool basin; Builder 2 mixes mortar and lays stone blocks around the pool rim. Flying stone dust, rapid mallet impacts, and sweeping sun shadows.
+- 00:12 - 00:18 (Mid-Build ASMR Relaxation Pause): Speed drops to 24fps normal motion. The two builders sit at the edge of the finished pool frame, sharing coconut water, talking softly, and watching eagles soar over the canyon mist.
+- 00:18 - 00:26 (Timelapse Build Phase 2): 100x speed timelapse resumes. Builders install bamboo decking, smooth waterproof pool lining, route natural stream water into the basin, and place rattan loungers and lanterns.
+- 00:26 - 00:30 (Sunset Cinematic Reveal): Normal speed. Builders step out of frame. Pool fills to the brim, overflowing smoothly into the canyon as dusk settles and warm pool lights turn on.
+
+[ASMR AUDIO]: Crisp stone chiseling, mallet thuds, water filling pool (gush-trickle), coconut cracking sound, wind over canyon, serene evening atmosphere.</code></pre>
+
+</details>
 
 ## Close-up of chameleon scales
 

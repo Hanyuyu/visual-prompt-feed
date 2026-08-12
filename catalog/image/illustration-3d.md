@@ -1,11 +1,28 @@
 # Illustration 3d image prompts
 
-41 source-linked prompts, newest ImgLume records first.
+42 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Fully armored android in fetal pose
+## Dreamy pastel butterfly resting on lavender flower with sunrise cottage
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2087114356307738956)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2729](https://imglume.com/prompt/2729)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/faf1b478-b700-4711-ab7e-33541251b46b/a5df8bcc-f4b6-4d4b-ab0a-ddd2b739d8f4-1786450982963 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/faf1b478-b700-4711-ab7e-33541251b46b/47191664-f504-485f-ae57-2bc21aa8fbf6-1786450982963 "Nano Banana 2") · [3](https://cdn.imglume.com/prompts/byradar/faf1b478-b700-4711-ab7e-33541251b46b/d55792e9-abeb-4176-993e-8dae968f8bf0-1786450982963 "Seedream V5 pro")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dreamy, pastel-colored scene featuring a close-up of a delicate butterfly resting on a lavender flower, with soft purple wildflowers filling the misty foreground. In the background, a quaint cottage with glowing windows sits amidst a magical, foggy landscape at sunrise, creating an ethereal and enchanting atmosphere. Sparkling light particles float through the air, enhancing the whimsical and serene mood of the image. The painterly style adds a soft, romantic touch to the composition.</code></pre>
+
+</details>
+
+## Fully armored android figure in fetal pose
 
 - **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2086559615878082837)
 - **Recommended model:** `gptimage`

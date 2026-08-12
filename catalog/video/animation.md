@@ -1,34 +1,87 @@
 # Animation video prompts
 
-51 source-linked prompts, newest ImgLume records first.
+52 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Cat Businessman Vertical Video
+## Cozy indoor dance with animated anime and Spider‑Gwen overlays
 
-- **Original source:** [@_YashalAli on X](https://x.com/_YashalAli/status/2086703112040128906)
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2087136847734734939)
 - **Recommended model:** `seedance`
-- **Source model(s):** `other`
+- **Source model(s):** `gptimage`, `seedance`
 - **Categories:** `animation`
-- **ImgLume record:** [2646](https://imglume.com/prompt/2646)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d6e1095a-1eed-4a5a-8518-73802857438d/af0dcd05-a231-47bc-8367-33b0aeaed4e1-1786350315410 "Video prompt preview")
+- **ImgLume record:** [2741](https://imglume.com/prompt/2741)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/16a00acd-1254-4400-9167-f900b2b89a50/82ace2e7-da76-4a61-b4fc-cfc86d15e01a-1786463486350 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Use the uploaded reference image as the exact main female character. Keep her facial features, long black hair, makeup, skin tone, and overall appearance consistent throughout. Photorealistic cinematic style, natural expressions, realistic movement, 9:16 vertical.
+<pre><code>Setting: A cozy indoor room with warm, ambient lighting, featuring posters on the wall, a hanging lamp, and modern furniture.
 
-0–4 sec: The woman stands in her stylish living room, getting ready to leave. She grabs her bag, looks at her cute cat sitting on the sofa, and says, “Be good while I’m gone.” She closes the door.
+Subject: A young woman with long dark hair, wearing a gray hooded jacket, performing a rhythmic, choreographed hand and body motion dance in front of the camera.
 
-4–7 sec: The moment the door closes, the cat looks toward the door. It suddenly stands upright and transforms into a tiny, sophisticated businessman wearing a miniature black suit and glasses.
+Key Visual Effects:
 
-7–11 sec: The cat confidently walks to a tiny desk, opens a laptop, adjusts its glasses, and starts typing extremely seriously. Close-up of its focused expression.
+Animated Framing &amp; Transitions: As she moves her hands to form frames and geometric shapes (triangles, rectangles) in front of her face and upper body, colorful animated overlays appear inside the framed spaces.
 
-11–15 sec: The woman suddenly opens the front door because she forgot something. The cat instantly transforms back into a normal cat and jumps onto the sofa, pretending to sleep. She looks suspiciously at the cat.
+Anime &amp; Superhero Styles:
 
-Final shot: Close-up of the cat slowly opening one eye and smirking.</code></pre>
+The initial overlays display an anime-style digital avatar matching her expressions.
+
+Midway through, the overlay switches to a Spider-Gwen / Spider-Verse comic style, complete with a hooded mask and neon cityscape backgrounds.
+
+The animation dynamically shifts and transforms along with her hand movements, smoothly blending back into real life by the end of the clip.</code></pre>
+
+</details>
+
+## 30-Second Slapstick Cartoon Fight: Plague Doctor vs Sick Villager
+
+- **Original source:** [@airina_xyz on X](https://x.com/airina_xyz/status/2086806944719736839)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2733](https://imglume.com/prompt/2733)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c6b05cf-ed87-41d9-a71a-179316392ea9/688ea4d6-f572-47a2-814a-785a0258bffb-1786457141785 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6c6b05cf-ed87-41d9-a71a-179316392ea9/6ba26e41-7e55-4cf6-ade4-39ed2a21e74b-1786457141785 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>No music, only sfx
+
+30-SECOND FIGHT — PLAGUE DOCTOR vs. SICK VILLAGER
+
+Tone: exaggerated slapstick cartoon, frantic expressions, harmless impacts, no blood. Location: crowded medieval market street. Characters: Plague Doctor, Sick Villager.
+
+0:00–0:15 — THE ARGUMENT
+
+0:00–0:02.5 — Shot 1 — Medium two-shot The Plague Doctor leans forward until his enormous beaked mask is inches from the Villager’s face. PLAGUE DOCTOR: “You are clearly contagious!” VILLAGER: “I’VE GOT ALLERGIES!”
+
+0:02.5–0:05 — Shot 2 — Villager close-up The Villager angrily points at the doctor, then suddenly sneezes violently: “ACHOO!” His floppy cap spins halfway around his head. VILLAGER: “See?! Completely normal!”
+
+0:05–0:07.5 — Shot 3 — Doctor close-up The Doctor recoils dramatically, wipes his beak with both hands and screams: PLAGUE DOCTOR: “YOU SNEEZED ON THE BEAK!”
+
+0:07.5–0:10 — Shot 4 — Low-angle two-shot The Villager pounds his chest indignantly. VILLAGER: “YOU’RE THE ONE DRESSED LIKE A GIANT SICK CROW!” The Doctor gasps, personally offended.
+
+0:10–0:12.5 — Shot 5 — Tight doctor close-up The Doctor furiously points to his mask. PLAGUE DOCTOR: “THIS IS PROFESSIONAL MEDICAL ATTIRE!”
+
+0:12.5–0:15 — Shot 6 — Wide shot Both step forward, nose versus beak, shouting over each other incomprehensibly. Their fingers jab the air faster and faster until they accidentally poke each other in the chest. Silence. They glare.
+
+0:15–0:30 — TOTAL SLAPSTICK CHAOS
+
+0:15–0:17.5 — Shot 7 — Medium shot The Villager gives the Doctor an angry two-handed shove. The Doctor waddles backward into a vegetable stall, accidentally sitting inside a basket of cabbages.
+
+0:17.5–0:20 — Shot 8 — Fast close-up Furious, the Doctor grabs a cabbage and bonks it down onto the Villager’s head. The cabbage stays there like a leafy helmet. VILLAGER: “HEY!”
+
+0:20–0:22.5 — Shot 9 — Side shot The Villager charges headfirst. The Doctor sidesteps. The Villager barrels straight through hanging laundry and emerges completely wrapped in a huge pair of medieval trousers.
+
+0:22.5–0:25 — Shot 10 — Wide shot Still trapped in the trousers, the Villager blindly kicks backward. His foot catches the Doctor’s backside, launching the Doctor face-first into a hanging sack of flour.
+
+0:25–0:27.5 — Shot 11 — Close-up A completely flour-covered Doctor rises like a white ghost. The Villager stares… then starts laughing uncontrollably. The Doctor angrily shakes himself, creating a giant flour cloud.
+
+0:27.5–0:30 — Shot 12 — Final wide shot Inside the flour cloud, silhouettes flail wildly: slaps, kicks, grabbing hands, spinning bodies. Suddenly both tumble out and collapse side-by-side. The Villager coughs. The Doctor slowly turns toward him. PLAGUE DOCTOR: “…That cough sounded suspicious.” VILLAGER: “DON’T START.”</code></pre>
 
 </details>
 
