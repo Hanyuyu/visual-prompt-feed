@@ -1,9 +1,72 @@
 # Poster Design image prompts
 
-63 source-linked prompts, newest ImgLume records first.
+65 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium cinematic double-exposure fashion portrait poster
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2087414158950277277)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2797](https://imglume.com/prompt/2797)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/465972fd-34f4-4e42-98d7-ff1fc41a71eb/92a44d92-8274-44a4-bc40-8b1e9c41ab56-1786532852706 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/465972fd-34f4-4e42-98d7-ff1fc41a71eb/73e14468-9b56-4601-b1e4-7b1f799d2ad0-1786532852706 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cinematic double-exposure portrait poster of the subject in a clean, soft beige studio environment, 4:5 aspect ratio. Use a sophisticated visual style combining Luxury Fashion Campaign, Apple Commercial, Premium Editorial Photography, and Hollywood Cinematic Poster aesthetics.
+
+Feature a large, highly realistic side-profile portrait of the subject facing left, occupying approximately 70–75% of the frame height. The expression should be calm, confident, and elegant, with extremely sharp and detailed facial features, realistic skin texture, natural proportions, and refined editorial lighting. Behind the portrait, add strong horizontal motion-blur streaks moving toward the right, creating speed and dynamic energy while remaining clean, controlled, and premium.
+
+In the foreground, include a full-body version of the exact same subject, approximately 30–35% of the overall frame height. Both versions must clearly be the same person with identical facial identity, facial features, skin tone, hairstyle, body shape, and overall visual characteristics. The double-exposure effect should feel like one seamless identity rather than two separate images.
+
+The full-body subject wears a premium casual beige-toned outfit consisting of a relaxed-fit beige overshirt or jacket, neutral inner shirt, light-wash loose-fit jeans, modern casual sneakers, and transparent-frame modern glasses. Pose the subject naturally and confidently with both hands inside the trouser pockets, one leg naturally crossed in front of the other, and the body slightly leaning in a relaxed fashion-editorial posture. The head and eyes should be subtly directed toward the typography rather than looking directly at the camera.
+
+Behind the full-body subject, integrate large futuristic typography reading exactly “SARAH NABILA”. The typography should be bold, futuristic, modern, premium, slightly transparent, layered, and dimensional, with parts naturally hidden behind the subject to create convincing foreground-background integration. It must feel embedded into the composition rather than appearing as flat ordinary text.
+
+Add minimal futuristic graphic direction around the composition: subtle geometric shapes, thin technical lines, translucent panels, fine grid details, minimal interface elements, futuristic markers, layered graphics, and subtle depth effects. Keep these elements elegant, restrained, and secondary to the subject.
+
+Use premium soft studio lighting with gentle facial highlights, soft shadows, controlled contrast, natural skin texture, subtle cinematic glow, and a realistic soft shadow beneath the full-body subject. Lighting, color, and depth must remain consistent across both subject versions.
+
+Maintain ultra-realistic facial details, realistic fabric and denim textures, sharp subject focus, cinematic depth, premium neutral color grading, sophisticated visual hierarchy, realistic anatomy, natural proportions, and professional high-end advertising photography.
+
+Create a seamless double-exposure composition using subtle transparency, controlled layering, motion-blur integration, depth separation, natural overlaps, and cinematic compositing so the portrait, full-body subject, typography, and background transition naturally into one cohesive fashion poster.
+
+The final image should look like an exclusive international fashion-branding campaign: clean, modern, luxurious, sophisticated, cinematic, and professionally art-directed.
+
+Aspect Ratio: 4:5.
+
+The only permitted text is “SARAH NABILA”.
+
+Do not include any logo, watermark, extra text, extra names, random letters, random numbers, distorted typography, duplicate facial features, deformed hands, extra fingers, unnatural body proportions, low-resolution details, plastic-looking skin, exaggerated VFX, or cluttered background.</code></pre>
+
+</details>
+
+## Premium editorial city poster with oversized city name typography
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2087113728185749607)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2770](https://imglume.com/prompt/2770)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cd20b718-7592-482a-bc13-a0291c4a60f7/6cfa2595-af77-45f4-af80-c95532bd122c-1786509653845 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "CITY_NAME": "&lt;city name&gt;",
+ "SUBJECT": "&lt;uploaded image&gt;",
+
+ "prompt": "Recreate the reference image as a premium editorial city poster. Replace the original person with SUBJECT while preserving SUBJECT's identity, facial features, hairstyle, hair color, skin tone, and natural appearance. SUBJECT must be standing in the SAME pose, SAME body orientation, SAME framing, SAME scale, and approximately the SAME position as the reference subject.\n\nReplace the original city with CITY_NAME and rebuild the surrounding skyline, landmarks, architecture, bridge, and urban photography specifically for CITY_NAME. Replace all city-specific labels, coordinates, location information, and captions accordingly.\n\nCRITICAL TYPOGRAPHY COMPOSITION: The oversized CITY_NAME typography must be physically layered OVER the standing character, exactly like the reference. Do NOT place all of the city text behind the subject. The large CITY_NAME letters must pass across the subject's body and overlap her clothing and lower torso, visibly covering portions of her. At the same time, some portions of the typography should remain behind her head and shoulders. Create a true foreground/background collage: BACKGROUND CITY IMAGERY → SUBJECT → FOREGROUND OVERSIZED CITY_NAME LETTERS. The foreground letters must visibly obscure portions of the subject while the subject remains recognizable through the gaps and around the typography. The large letters should intersect the character naturally rather than appearing as text floating beside her.\n\nThe oversized CITY_NAME typography should dominate the composition and extend almost across the entire poster width. Integrate grayscale city photography inside selected portions of the letters. Keep the typography bold, geometric, heavy, and editorial. Make the letters large enough to cross directly over the subject's torso and lower body.\n\nPreserve the EXACT visual language and color code of the reference: warm cream/off-white background, deep black oversized typography, grayscale city photography, red accent blocks, blue accent elements, and yellow/gold accent elements. Do NOT create a new color palette based on CITY_NAME. Keep the same approximate colors, saturation, contrast, and proportions as the reference.\n\nPreserve the reference's structured editorial grid, thin lines, geometric circles, dots, rectangles, technical markings, small uppercase labels, coordinates, and minimalist information blocks. Adapt only the city-related content to CITY_NAME.\n\nMaintain the same vertical poster composition, subject placement, typography scale, graphic layering, spacing, photographic treatment, and premium magazine aesthetic. The final result should look like the same poster design system recreated for a different city and subject, with CITY_NAME typography clearly crossing OVER and physically overlapping the character."
+}</code></pre>
+
+</details>
 
 ## Swiss International Style Typographic Fashion Travel Poster
 

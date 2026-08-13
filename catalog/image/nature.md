@@ -1,9 +1,26 @@
 # Nature image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+16 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Photorealistic lifestyle photograph of a young woman on a mountain peak
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2087394451014537381)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`, `photography`
+- **ImgLume record:** [2784](https://imglume.com/prompt/2784)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/86bb07f4-6ae7-4ed6-a265-56527a82f231/1d58397f-e8d9-4a91-9f8f-241f512dd551-1786522319965 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic, high-resolution lifestyle photograph of the same young woman with brown hair styled in a high ponytail, wearing a light cream-colored sweater, dark leggings, thick white socks, and white sneakers, sitting on a high rocky mountain peak overlooking a vast, breathtaking alpine valley with snow-capped peaks in the background. In the composition, she sits in profile with her knees tucked up, leaning her head on her hand with her eyes closed in a peaceful, serene expression as she enjoys the fresh mountain breeze, accompanied by a vintage canvas backpack with leather straps resting on the rock beside her. The lighting is bright and natural daylight with soft clouds drifting below, and the shot is captured from a slightly elevated angle with a shallow depth of field that keeps the traveler sharply in focus while softly blurring the magnificent distant mountain ranges.</code></pre>
+
+</details>
 
 ## Dynamic action shot of a snowboarder
 

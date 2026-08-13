@@ -1,9 +1,43 @@
 # Cinematic image prompts
 
-42 source-linked prompts, newest ImgLume records first.
+44 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Odysseus movie still, Caesar
+
+- **Original source:** [@KnightWorld on X](https://x.com/KnightWorld/status/2087274563004481784)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2769](https://imglume.com/prompt/2769)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/933f8d76-198f-4887-a87a-02015b3b8b77/18e241a7-d191-44f5-92ea-4462fb933fcf-1786505453629 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Odysseus movie still, Caius Julius Caesar standing in front of his army, dramatic composition, rule of third framing Centered at very bottom, small barely visible but legible font: "KnightWorld"</code></pre>
+
+</details>
+
+## Glamorous Marina Scene with Fashionable Woman and Yellow Porsche
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2087273846051385705)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2761](https://imglume.com/prompt/2761)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a4f3e081-9209-485c-ac8b-92e27e060b51/0d2b8726-b570-4fc9-9f3b-923ff9768d45-1786488902171 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a4f3e081-9209-485c-ac8b-92e27e060b51/2f60c471-8aa1-4182-b644-cf8dde0ae88a-1786488902171 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a4f3e081-9209-485c-ac8b-92e27e060b51/fd8df74d-15b3-44ef-a611-353ab3d414b6-1786488902171 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a4f3e081-9209-485c-ac8b-92e27e060b51/4d52883a-adbd-49b0-87d6-9033fba8bab0-1786488902171 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A glamorous scene unfolds in an exclusive marina on a bright, sunny day, radiating timeless elegance. A confident woman, exuding high-fashion cool and absolute self-assurance, perches on the glossy fender of a yellow Porsche cabrio sports car with black alloy wheels. She wears a striking pink one-piece swimsuit with white trim, paired with square-framed sunglasses, high-heeled slides, and gold jewelry. Direct midday sunlight strikes her from high from the front-right, highlighting her toned physique and creating defined shadows on the sun-baked cobblestones. The background is a crisp, clean backdrop of white luxury yachts with a written ‘Keor’ on it docked under a clear, deep cobalt blue sky. It is a stunning cinematic moment, capturing a narrative of timeless jet-set luxury and powerful, statuesque grace in a coastal paradise.</code></pre>
+
+</details>
 
 ## Cinematic black-and-white fantasy editorial portrait of the author surrounded by mysterious hooded crowd
 

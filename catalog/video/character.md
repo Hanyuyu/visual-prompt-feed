@@ -1,9 +1,129 @@
 # Character video prompts
 
-57 source-linked prompts, newest ImgLume records first.
+60 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Morning routine influencer vlog
+
+- **Original source:** [@ZoeyBennettAi on X](https://x.com/ZoeyBennettAi/status/2087454748064772104)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2800](https://imglume.com/prompt/2800)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd2b6678-0292-49b9-926d-617a08d3f707/315e7a11-2430-49de-b752-1fafc3b9d98c-1786532890003 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character: Use the uploaded girl as the exact character reference. Preserve her facial features, blue eyes, long wavy brown hair, skin tone, and overall appearance consistently throughout every shot. Keep her natural, friendly personality and realistic expressions.
+
+Scene 1 — Wake Up (0–3s)
+Selfie-style handheld shot in a bright modern bedroom. She wakes up, looks into the phone camera with a sleepy smile and casually says:
+“Good morning! Come spend the morning with me.”
+Natural morning light coming through the curtains.
+
+Scene 2 — Getting Ready (3–6s)
+Quick handheld vlog shot in the bathroom. She brushes her hair, applies simple skincare, then looks at the camera and smiles. Natural bathroom ambience, realistic movements.
+
+Scene 3 — Making Coffee (6–9s)
+Camera switches to a casual POV/handheld angle in the kitchen. She prepares fresh coffee, pours it into a ceramic mug, picks it up and says:
+“First… coffee.”
+Close-up of coffee pouring with realistic sound.
+
+Scene 4 — Outfit Check (9–12s)
+Full-body mirror-vlog shot. She adjusts her outfit, fixes her hair, then turns toward the camera with a confident smile. Casual handheld phone movement, no overly polished commercial look.
+
+Scene 5 — Leaving Home (12–15s)
+Selfie camera as she walks toward the apartment door holding her coffee and bag. She looks into the camera and says:
+“Okay, let’s go!”
+She opens the door and walks out.
+
+Visual Style: Authentic lifestyle influencer vlog, realistic smartphone camera, subtle handheld movement, natural exposure, shallow depth of field, realistic skin texture, seamless continuity, spontaneous expressions.
+
+Audio: Natural dialogue + room ambience + coffee pouring + footsteps + subtle outdoor sounds. No background music.</code></pre>
+
+</details>
+
+## Expressive emotional video of East Asian woman with handheld drift
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2087440325455511711)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`
+- **ImgLume record:** [2789](https://imglume.com/prompt/2789)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/63117085-a51b-46bc-bac9-7155f936e5dc/ffe00d74-bfc9-433f-b52a-2993418d9234-1786526488582 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the reference image as the starting frame. Maintain exact character consistency: young East Asian woman, grey sleeveless top, large thin silver hoop earrings, soft overcast lighting, and a completely blurred coastal background. Maintain a subtle, continuous handheld camera drift, with her hair gently moving in the wind throughout.
+
+Sequence of actions:
+
+1. She suppresses a cry—lips press tightly together, chin trembles, chest heaves with a sharp inhale. Tears pool in her eyes but do not fall.
+2. The emotion breaks. Her eyes squeeze shut, her mouth opens into a sob, and tears begin rolling down both cheeks. Her head tilts slightly downward.
+3. The front collar of her grey shirt is pulled straight upward from the bottom edge of the frame, naturally stretching over her chin, mouth, and nose. The fabric must deform realistically around her facial features. No hands, fingers, or arms enter the frame.
+4. The fabric releases and naturally falls back to her collarbones. Her face is revealed again—eyes slightly open and looking downward, mouth open as she takes heavy, exhausted breaths.</code></pre>
+
+</details>
+
+## Cozy indoor room dance with holographic cyberpunk transformations
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2087386090315616601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2773](https://imglume.com/prompt/2773)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f614a78b-1509-4964-9989-f7fab99ace0f/d2fd2210-f5fb-488f-8be5-6de8edec1aae-1786518032461 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Setting: A cozy modern indoor room with warm ambient lighting, stylish wall posters, a hanging pendant lamp, and contemporary furniture, filmed with a cinematic handheld camera look.
+
+Subject: A young woman with long dark hair wearing a gray oversized hooded jacket performs a smooth, rhythmic choreographed hand-and-body dance directly in front of the camera. Her movements are expressive, precise, and naturally synchronized with the visual effects.
+
+Key Visual Effects:
+
+Holographic Framing &amp; Transitions: As she moves her hands to create triangles, rectangles, circles, and other geometric frames around her face and body, glowing holographic outlines appear in the air. Each frame activates a different visual world inside it, reacting instantly to her hand movements.
+
+Futuristic Cyberpunk Style: The first frames reveal a futuristic digital version of the woman with glowing neon accents, subtle facial tracking, holographic particles, and a high-tech cyberpunk city environment.
+
+Neon Transformation: As the dance progresses, the visuals evolve into a bold futuristic superhero-inspired aesthetic with luminous clothing details, glowing energy effects, neon skyscrapers, rain reflections, and animated light trails surrounding her digital counterpart.
+
+The holographic worlds continuously morph, rotate, and expand with every gesture. Digital particles flow between the real and virtual environments, creating seamless transitions where parts of the futuristic world briefly appear in the real room before dissolving back into reality.
+
+Ending: The final geometric frame closes around her face, the holographic effects rapidly fade away, and everything smoothly returns to the original cozy room, leaving only subtle glowing particles as she finishes her final pose.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic racing video with character in sleek black-and-red suit
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2087167673511616691)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2746](https://imglume.com/prompt/2746)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e5c37282-b975-4712-8f4d-8edf11e15835/efbd0fbe-5557-4c32-81b4-b40b0520870c-1786467646016 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout the video. She wears a sleek black-and-red racing suit, white racing gloves, sporty sneakers, silver earrings, and a high ponytail. Maintain perfect character consistency in every scene.
+Create an ultra-realistic cinematic Formula-style racing experience inside a premium racing facility with dramatic garage lighting, glossy floors, racing screens, tire stacks, pit equipment, and a futuristic race circuit.
+The video opens with an extreme close-up as she tightens her racing gloves and confidently looks into the camera. She walks through the garage toward a powerful Formula-style car, runs her hand across the bodywork, puts on her helmet, and climbs into the cockpit.
+The car launches onto the circuit at incredible speed. Dynamic tracking shots capture sharp corners, tire smoke, glowing brake discs, cockpit POV, wheel close-ups, and dramatic low-angle racing shots. She confidently handles every turn while city lights streak across the background.
+She enters the final straight, accelerates toward the finish line, and crosses it at full speed. She parks in the pit lane, removes her helmet, smiles at the camera, and raises one fist in celebration.
+Style: Premium motorsport commercial, cinematic action photography, realistic vehicle physics, dynamic camera movement, motion blur, dramatic lighting, realistic skin and hair, 4K HDR, 24fps, 16:9.
+Negative Prompt: No subtitles, logos, watermarks, duplicate people, distorted anatomy, extra fingers, flickering, unrealistic vehicle deformation, cartoon style, inconsistent character or outfit.</code></pre>
+
+</details>
 
 ## 30-second photorealistic cinematic sequence of a Black woman navigating a lakeside music festival
 
@@ -97,43 +217,6 @@ Medium shot as she reaches them, stops, still holding both beers upright. Should
 Close-up on her face. She releases a long, deep sigh of pure relief, a small tired smile appears, eyes soften toward her friends. Soft bokeh of lake water and residual stage lights behind her. Hold the final frame.
 
 Visual treatment: photorealistic live-action, natural blue-hour mixed with vibrant stage color spill, shallow depth of field on all close-ups, grounded handheld energy that never loses her continuous forward path. Audio: dense overlapping crowd murmur and chatter, distant muffled bass and music from the main stage, liquid sloshing inside the cups, soft body impacts and fabric rustle, her slightly elevated breathing, final clear relieved exhalation. No added music bed beyond the distant stage sound. Keep the woman’s identity, clothing, cup ownership and direction of travel completely stable across every cut.</code></pre>
-
-</details>
-
-## Photorealistic comedic vertical video of a girl searching for her phone in a cozy apartment
-
-- **Original source:** [@nusratsid1 on X](https://x.com/nusratsid1/status/2087055493445378066)
-- **Recommended model:** `seedance`
-- **Source model(s):** `seedance`
-- **Categories:** `character`, `cinematic`
-- **ImgLume record:** [2710](https://imglume.com/prompt/2710)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e32dd0a5-3457-4b0e-9813-7dd4628679fd/5354f5bd-9626-4548-b462-193f738afaff-1786440400297 "Video prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>Create a highly realistic, relatable comedy video in a modern cozy apartment, 9:16 vertical format. Use the reference girl as the main character and maintain perfect character consistency.
-
-0–3 sec: The girl suddenly realizes her phone is missing. Her expression changes from relaxed to confused and then panicked. She quickly checks her pockets and looks around the room.
-
-3–6 sec: She starts frantically searching the apartment—checking the sofa cushions, coffee table, kitchen counter, and under a pillow. She looks increasingly stressed.
-
-6–9 sec: She gets on the floor and searches underneath the couch and bed. She is using a bright flashlight to look around, but the flashlight is actually coming from the missing phone that she is unknowingly holding in her other hand.
-
-9–12 sec: She continues searching faster, moving around the room while holding the phone up like a flashlight. She suddenly stops. Slowly looks down at the phone in her hand.
-
-12–15 sec: Close-up of her face as she realizes what happened. She gives an awkward, embarrassed smile and looks directly into the camera. Add a tiny comedic pause.
-
-Voice-over:
-
-“I spent five minutes looking for my phone… while using my phone’s flashlight.”
-
-Final text:
-
-“Modern problems require… no brain at all. 😂”
-
-Style: Photorealistic, natural acting, authentic expressions, realistic apartment lighting, handheld camera feel, quick comedic cuts, subtle camera shake, cinematic depth of field, realistic skin texture, natural movement, high detail, 4K. No exaggerated cartoon behavior, no background music—only natural room sounds and subtle comedic timing.</code></pre>
 
 </details>
 

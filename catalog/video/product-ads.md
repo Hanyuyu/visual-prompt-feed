@@ -5,6 +5,197 @@
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
+## Photorealistic 24‑second vertical skincare livestream shopping video for Ambervine Vitamin C Glow Serum
+
+- **Original source:** [@AmControo on X](https://x.com/AmControo/status/2087535894303522859)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2814](https://imglume.com/prompt/2814)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2d56baca-a35c-4f85-b48e-8404f2eacfc8/33e81071-fed9-478d-9745-df6b34e8d7e4-1786545438535 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic 24-second vertical 9:16 premium skincare livestream shopping video using all four provided references.
+
+REFERENCE ROLES:
+1 = exact AMBERVINE Vitamin C Glow Serum bottle. Preserve bottle shape, color, cap, label and branding.
+2 = exact female influencer. Preserve her face, blue eyes, long voluminous curly black hair, skin tone and appearance. NO glasses.
+3 = outer livestream interface. Preserve comments, viewer count, LIVE indicator, Follow button, hearts and Ambervine shopping card.
+4 = exact smartphone product page. Use it ONLY for the digital screen inside the phone.
+
+The entire video must feel like ONE continuous real mobile beauty livestream, not a traditional commercial.
+
+IMPORTANT UI RULE:
+The outer livestream interface is a FIXED OVERLAY attached to the 9:16 screen. Comments, viewer count, LIVE indicator, Follow button, hearts and shopping card remain locked in their exact positions throughout the video.
+
+Camera movement affects ONLY the influencer's video area. Never zoom, crop, move, resize or hide the livestream UI.
+
+Do not generate random comments. Use only these four controlled comments:
+“Your skin is glowing!”
+“What’s your routine?”
+“What serum are you using?”
+“Where can I get it?”
+
+Existing comments remain readable and visually stable. Do not rewrite, translate, morph or distort them.
+
+VOICE:
+Young adult female voice, warm natural American accent. Friendly, conversational beauty-influencer tone. Energetic but relaxed, slightly fast livestream pacing. Natural breathing, pauses, smiles and intonation. NOT a commercial announcer. NOT robotic.
+
+ALL dialogue is spoken ON CAMERA with accurate natural lip-sync. No detached voiceover.
+
+0–3.5 SEC:
+The influencer is already live, smiling at camera while holding Ambervine serum near her chest.
+
+She notices the comments, briefly looks toward them, then back to camera.
+
+She says naturally:
+“Okay, you guys keep asking what I use on my skin…”
+
+Playful and slightly amused, with a natural pause after “skin.”
+
+3.5–7.5 SEC:
+She raises the Ambervine serum closer to camera, briefly looks at it, then back at camera.
+
+She says:
+“It’s actually this — Ambervine Vitamin C Glow Serum.”
+
+Casual and confident, slight emphasis on “this.”
+
+Use ONLY a subtle push-in inside the influencer video area. The influencer and serum become slightly larger, but the livestream UI remains completely fixed and visible.
+
+Do NOT zoom the full 9:16 screen or push comments off-screen.
+
+7.5–11.5 SEC:
+Return naturally to normal livestream framing.
+
+She lowers the serum slightly and gestures naturally toward her cheek.
+
+She says:
+“It’s so lightweight, and it gives my skin such a nice glow.”
+
+Warm and genuine, like personal advice. Small natural smile.
+
+11.5–15 SEC:
+The “Where can I get it?” comment becomes relevant. She smiles and responds:
+
+“Oh, you want the link? I’ll show you.”
+
+Playful, natural delivery. At the end, she begins reaching toward her phone.
+
+15–18 SEC:
+Continue seamlessly from the previous movement.
+
+She picks up the smartphone and brings it naturally toward the camera.
+
+The phone physically moves closer; do NOT zoom the entire livestream frame.
+
+The outer livestream interface remains fixed around the video.
+
+PHONE SCREEN — CRITICAL:
+Reference 4 is the EXACT digital screen appearance.
+
+When the phone becomes visible, reproduce the Ambervine product page shown in Reference 4.
+
+Preserve its visible elements:
+AMBERVINE
+Ambervine Vitamin C Glow Serum
+Brightens • Hydrates • Glow
+4.9
+(1.2K reviews)
+10K+ sold
+$29.00
+You save $16.00 (36%)
+Free shipping
+30-day returns
+Secure checkout
+Large pink “Shop Now” button
+Same icons, layout, spacing and general screen structure.
+
+The phone screen must NOT be redesigned or reinterpreted.
+
+Do NOT change the product image, price, rating, sold count, language, text, button or layout.
+
+Do NOT add livestream comments, hearts, viewer count or Follow buttons INSIDE the phone. Those belong only to the outer livestream.
+
+18–20 SEC:
+The phone is close enough for the screen to be clearly readable.
+
+Hold it relatively steady.
+
+She says naturally:
+“Just tap right here.”
+
+Same warm American voice and conversational livestream delivery.
+
+Her index finger moves toward the exact “Shop Now” button shown in Reference 4.
+
+20–21.5 SEC:
+She taps the existing “Shop Now” button ONCE.
+
+The finger must contact the correct button.
+
+The tap does NOT cause a page transition.
+
+The screen remains on the SAME Ambervine product page.
+
+No pop-up.
+No checkout page.
+No confirmation screen.
+No language change.
+No interface redesign.
+No screen morphing.
+
+21.5–24 SEC:
+Her finger moves away.
+
+The same phone screen remains visible briefly, then she brings the phone slightly back toward herself and looks at the camera with a warm smile.
+
+She says:
+“And you’re all set.”
+
+Friendly and reassuring, not salesy.
+
+CONTINUITY:
+Same influencer, face, curly hair, clothing, environment, lighting, serum, voice and livestream interface from beginning to end.
+
+PRODUCT:
+Ambervine bottle must remain identical to Reference 1. No morphing, label changes, color changes or duplicated bottles.
+
+CAMERA:
+Natural livestream movement only. Subtle push-in during product reveal. Physical phone movement during phone interaction. No dramatic cinematic movements.
+
+REALISM:
+Photorealistic skin and hair, realistic hands and fingers, natural blinking, breathing, facial expressions and gestures, believable lip-sync, realistic phone reflections and precise finger interaction.
+
+STRICTLY AVOID:
+Different face or hairstyle.
+Glasses.
+Extra people.
+Extra skincare products.
+Random comments.
+Unreadable or distorted comments.
+Moving or disappearing livestream UI.
+Livestream UI inside the phone.
+Different phone screen.
+Changed product image.
+Changed price, rating or sold count.
+Changed language.
+Random pop-ups.
+Screen transitions.
+Garbled text.
+Deformed hands.
+Extra fingers.
+Multiple phones.
+Subtitles.
+Captions.
+Watermarks.
+Chinese language or speech.</code></pre>
+
+</details>
+
 ## Cinematic Luxury Diamond Advertisement Prompt
 
 - **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2087048124523254024)
@@ -19,23 +210,6 @@ their original authors. ImgLume curation is CC BY 4.0.
 <summary>Full prompt</summary>
 
 <pre><code>Create a cinematic luxury diamond advertisement with a dark premium aesthetic. A black jewelry box slowly opens to reveal a flawless diamond. The camera pushes in for an extreme close-up as a gloved hand lifts the diamond. As it rises, electric-blue energy and realistic lightning begin forming around it. The diamond floats in the air while powerful lightning strikes in the background, with glowing particles, volumetric lighting, realistic reflections and physically accurate diamond refraction. Smooth cinematic camera movement, dramatic lighting, photorealistic CGI, premium commercial quality, realistic physics, highly detailed, consistent diamond throughout the entire shot. Created with Seedance 2.5.</code></pre>
-
-</details>
-
-## Luxurious Perfume Commercial Video Sequence
-
-- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2087079838368801151)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `product-ads`
-- **ImgLume record:** [2712](https://imglume.com/prompt/2712)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/524f15db-78fd-4788-abc3-72486a4382f5/56f1e7f8-59ad-4935-997e-c5df714450b8-1786442455794 "Video prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>ultra-detailed high-fashion luxury perfume commercial, exactly 8 cinematic shots sequence: [0-2s] Macro shot of a single drop creating slow-motion concentric ripples on liquid gold surface. [2-4s] Glowing molten gold veins traveling across dark obsidian marble. [4-6s] Anti-gravity droplets merging to form a polished black quartz pedestal. [6-8s] Transparent molten glass wrapping into a sleek geometric bottle shape. [8-10s] Liquid gold swirling inside the glass bottle like an internal metallic nebula. [10-12s] Brushed-gold metallic cap locking on top as a bright studio light sweeps across creating glass refractions and lens flare. [12-14s] Bottle settling on the damp quartz pedestal with warm golden fog pooling around base. [14-16s] Centered hero shot of the product standing motionless with floating gold micro-particles, high contrast, elegant studio lighting, hyper-realistic 8k render, photorealistic physics.</code></pre>
 
 </details>
 

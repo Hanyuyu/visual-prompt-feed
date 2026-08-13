@@ -1,9 +1,517 @@
 # Camera Moves video prompts
 
-78 source-linked prompts, newest ImgLume records first.
+83 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Jungle Speeder Escape
+
+- **Original source:** [@Saifullahkqalf on X](https://x.com/Saifullahkqalf/status/2087423144374202749)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2810](https://imglume.com/prompt/2810)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/09d23852-5db0-484b-917d-2491eb080bfb/991f7c03-a700-49b8-8692-ddc8d9ca393f-1786545335763 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"From above a boundless ocean of storm-lashed jungle canopy, the camera plunges through churning fog toward a tiny streak of light knifing between colossal tree trunks. Lock-on: a speeder skimming a raised root-highway at insane speed, rain hammering its hull in silver sheets. The camera slingshots ahead through a curtain of falling water, whips back, then drops tight to the rear thrusters — steam bursting off hot metal, shredded leaves and spray whipping past, warning lights strobing red through the mist. Wind shears a massive branch loose; it crashes down in an explosion of bark and orchids as the rider snaps a last-inch swerve beneath it, then threads through a cathedral of hanging vines, buttress roots, and a hollowed fallen trunk in one fluid line — startled macaws detonating outward in a blur of scarlet and blue. The camera darts through the same gaps, glued to the motion, wet leaves slapping the lens. One final bend around a moss-shrouded giant and sudden calm: the camera blasts outward past the treeline into a reveal of a vast river gorge, the storm breaking open above it, shafts of sunlight piercing the fog, and a thousand-foot waterfall feeding the river below — mist rising off the jungle floor and igniting into a rainbow."</code></pre>
+
+</details>
+
+## Expressive emotional video of East Asian woman with handheld drift
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2087440325455511711)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`
+- **ImgLume record:** [2789](https://imglume.com/prompt/2789)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/63117085-a51b-46bc-bac9-7155f936e5dc/ffe00d74-bfc9-433f-b52a-2993418d9234-1786526488582 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the reference image as the starting frame. Maintain exact character consistency: young East Asian woman, grey sleeveless top, large thin silver hoop earrings, soft overcast lighting, and a completely blurred coastal background. Maintain a subtle, continuous handheld camera drift, with her hair gently moving in the wind throughout.
+
+Sequence of actions:
+
+1. She suppresses a cry—lips press tightly together, chin trembles, chest heaves with a sharp inhale. Tears pool in her eyes but do not fall.
+2. The emotion breaks. Her eyes squeeze shut, her mouth opens into a sob, and tears begin rolling down both cheeks. Her head tilts slightly downward.
+3. The front collar of her grey shirt is pulled straight upward from the bottom edge of the frame, naturally stretching over her chin, mouth, and nose. The fabric must deform realistically around her facial features. No hands, fingers, or arms enter the frame.
+4. The fabric releases and naturally falls back to her collarbones. Her face is revealed again—eyes slightly open and looking downward, mouth open as she takes heavy, exhausted breaths.</code></pre>
+
+</details>
+
+## The Contract Boyfriend – 30‑second cinematic video
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2087376796308410440)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2778](https://imglume.com/prompt/2778)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7407652e-ea0b-4075-9358-40507b02224e/532decc1-135a-4102-ad3c-680b284db2d0-1786522251006 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THE CONTRACT BOYFRIEND — 30-SECOND CINEMATIC VIDEO PROMPT
+
+FORMAT: 16:9 landscape
+DURATION: 30 seconds
+STYLE: Premium live-action K-drama cinematography, realistic performances, cinematic romantic drama with subtle comedy and emotional tension.
+CHARACTER CONSISTENCY — ABSOLUTE PRIORITY
+Use the provided male character reference and female character reference as the single sources of truth for their identities.
+
+STRICT FACE &amp; IDENTITY LOCK.
+
+Maintain the exact same faces, facial proportions, skin tones, hairstyles, body proportions, ages, and identities throughout every shot.
+
+Use the provided Outfit A and Outfit B references exactly.
+
+OUTFIT SEQUENCE
+
+Male Lead
+
+Outfit A: black oversized hoodie, black baseball cap, black baggy pants, dark sneakers — used during the rainy first-meeting/opening sequence.
+
+Outfit B: use the provided male Outfit B reference exactly — used during the relationship montage and final scene.
+
+Female Lead
+Outfit A: use the provided female Outfit A reference exactly — used during the opening/rain sequence and initial contract meeting.
+
+Outfit B: use the provided female Outfit B reference exactly — used during the relationship montage and final scene.
+
+Do not mix, redesign, or randomly change outfits.
+TIMELINE
+
+0–5 SEC — THE OFFER
+
+SHOT 1 — ESTABLISHING / 0–2s
+
+Nighttime Seoul street during heavy rain.
+
+Wide cinematic shot. Neon signs reflect across wet asphalt. Cars pass through the frame, headlights creating soft streaks through the rain.
+
+The male lead in Outfit A walks alone beneath the rain, black hoodie up and black cap low over his eyes.
+
+Camera: slow lateral tracking shot → gradually pushes toward him.
+
+He looks tired and completely unaware of what's about to happen.
+
+SHOT 2 — 2–5s
+
+A sleek black car suddenly stops beside him.
+
+The passenger window lowers.
+
+The female lead in Outfit A looks directly at him.
+
+Calm. Confident. Completely unfazed by the rain.
+
+She holds out a contract.
+
+HER:
+“Thirty days. Pretend to be my boyfriend.”
+
+He looks at the contract.
+
+Then at her.
+
+Completely confused.
+HIM:
+“…What?”
+
+Camera: tight over-the-shoulder shot from behind her → rack focus onto his stunned expression.
+
+CUT.
+
+5–13 SEC — THE CONTRACT BECOMES REAL
+
+SHOT 3 — 5–7s
+Hard cut to Outfit B for BOTH characters.
+
+They walk side-by-side through a stylish Seoul shopping district.
+
+She casually links her arm through his for the cameras.
+
+He awkwardly looks down at their arms.
+
+Camera: smooth Steadicam tracking backward in front of them.
+
+He slowly starts smiling.
+
+SHOT 4 — 7–9s
+
+Fast montage.
+
+They're sitting across from each other at a small late-night restaurant.
+
+She steals food from his plate without asking.
+
+He looks offended for half a second.
+
+Then laughs.
+
+Camera: intimate 50mm medium close-up, shallow depth of field.
+
+SHOT 5 — 9–11s
+
+They walk beneath city lights.
+
+She says something that makes him laugh unexpectedly.
+
+He looks at her for a moment longer than necessary.
+
+She doesn't notice.
+
+Camera: side-profile tracking shot → subtle push-in on his expression.
+
+This is the FIRST clear indication that he's catching feelings.
+
+SHOT 6 — 11–13s
+
+Inside a quiet car at night.
+
+She falls asleep against the window.
+
+He notices.
+
+He gently adjusts the temperature and quietly moves a strand of hair away from her face without waking her.
+
+He smiles to himself.
+
+Then immediately looks away when she shifts.
+
+Camera: close-up on his hand → rack focus to his soft expression.
+
+No dialogue.
+
+13–20 SEC — HE REALIZES IT
+
+SHOT 7 — 13–16s
+
+Montage becomes slightly slower and more emotional.
+
+They stand together under an umbrella after rain.
+
+She casually leans against his shoulder.
+
+He freezes for a second.
+
+Then relaxes.
+
+His expression says everything.
+
+Camera: medium two-shot, slow circular dolly movement around them.
+
+SHOT 8 — 16–18s
+
+He watches her laughing with someone across a room.
+
+The background becomes softly blurred.
+
+His smile slowly fades into something more serious.
+
+He realizes:
+
+He's no longer pretending.
+
+Camera: extreme close-up on his eyes → slow rack focus from her blurred figure to him.
+
+SHOT 9 — 18–20s
+
+Close-up of the contract sitting on a table.
+
+The final date is circled:
+
+DAY 30.
+
+His hand rests beside it.
+
+He looks at the contract.
+
+Then toward her.
+
+A subtle nervous expression.
+
+He clearly expects something to happen after today.
+
+CUT.
+
+20–30 SEC — THE END
+
+SHOT 10 — 20–23s
+
+Quiet upscale café.
+
+Both characters in Outfit B.
+
+They sit across from each other.
+
+The atmosphere is noticeably different from the playful montage.
+
+He looks nervous.
+
+She looks completely normal.
+
+He finally gathers the courage to speak.
+
+HIM:
+“So… that's it?”
+
+She looks at him.
+
+A tiny pause.
+
+Camera: slow push-in toward her face.
+
+SHOT 11 — 23–26s
+
+She calmly picks up her phone.
+
+Checks something.
+
+Then looks back at him.
+
+Completely matter-of-fact.
+
+HER:
+“Contract's terminated.”
+
+She puts her phone away.
+
+He blinks.
+
+HIM:
+“Wait… I thought—”
+
+He stops himself.
+His expression reveals that he had genuinely hoped this would continue.
+
+No dramatic crying.
+
+Just quiet disappointment.
+
+Camera: close-up on his face, holding for an extra beat.
+
+SHOT 12 — 26–30s — FINAL BEAT
+
+She stands, picks up her bag, and walks toward the exit.
+
+He watches her leave.
+
+He looks genuinely hurt.
+
+Then, as if remembering something, he calls after her:
+
+HIM:
+“That's it?”
+
+She stops.
+Turns halfway around.
+
+Looks at him.
+
+Gives him a tiny, completely effortless shrug.
+
+HER:
+“Duh. What did you expect?”
+She turns around and walks away.
+
+He just sits there.
+
+Speechless.
+
+His expression says:
+
+He expected more because somewhere along the way, the fake relationship became real to him.
+
+FINAL CAMERA: slow push-in on his face as he watches her disappear through the doorway.
+
+CUT TO BLACK.
+
+PERFORMANCE DIRECTION
+
+FEMALE LEAD
+
+Never play her as cruel.
+
+She is confident, emotionally controlled, slightly amused, and completely comfortable walking away.
+
+Her final shrug should feel effortless rather than exaggerated.
+
+She should give the impression that she always knew exactly where the contract ended.
+MALE LEAD
+
+His feelings must develop visually rather than through exposition.
+
+Beginning:
+confused → awkward → amused
+
+Middle:
+comfortable → protective → quietly affectionate
+
+End:
+hopeful → confused → disappointed
+
+Do NOT make him overly dramatic or desperate.
+The audience should realize:
+
+He fell first.
+
+CAMERA &amp; CINEMATOGRAPHY
+
+Premium Korean drama visual language.
+
+Use:
+
+24fps cinematic motion
+
+35mm and 50mm lens aesthetics
+
+Shallow depth of field for emotional moments
+
+Smooth Steadicam tracking
+
+Slow dolly pushes
+
+Controlled handheld movement during intimate moments
+
+Natural rack focus
+
+Wide establishing shots for Seoul
+
+Medium two-shots for relationship chemistry
+
+Tight facial close-ups for emotional beats
+
+Camera movement should feel motivated and seamless.
+
+No random camera movements.
+
+No abrupt changes in character positioning.
+Maintain consistent screen direction and spatial continuity between shots.
+
+LIGHTING &amp; COLOR
+Opening:
+cool nighttime tones, wet streets, neon reflections, realistic rain.
+
+Relationship montage:
+warmer natural lighting gradually introduced as their connection grows.
+Final scene:
+soft neutral café lighting with slightly cooler shadows.
+
+The visual palette should subtly transition from cold → warm → emotionally neutral.
+
+AUDIO
+
+Rain ambience and distant city noise during opening.
+
+Soft atmospheric music begins when she offers the contract.
+
+Music becomes warmer and lighter during the relationship montage.
+
+Music subtly drops out when she says:
+
+“Contract's terminated.”
+
+Leave a brief beat of silence before her final shrug.
+End with the soft sound of the café ambience as he watches her leave.
+Natural dialogue, realistic lip sync, believable vocal performances.
+NEGATIVE PROMPT
+face drift, identity change, different actors, inconsistent characters, outfit switching, incorrect outfit, mixed outfits, redesigned clothing, hairstyle change, age change, body proportion change, facial distortion, uncanny face, plastic skin, beauty filter, exaggerated expressions, melodramatic crying, cheesy romance, exaggerated kissing, overacting, cartoon, anime, CGI appearance, unrealistic rain, floating objects, bad hands, extra fingers, missing fingers, distorted anatomy, duplicate characters, random people blocking subjects, inconsistent environment, teleportation, jump cuts that break continuity, impossible camera movement, inconsistent screen direction, warped background, flickering, frame interpolation artifacts, motion blur on faces, low resolution, oversharpening, text, subtitles, watermark, logo, unwanted typography</code></pre>
+
+</details>
+
+## POV River-to-Campfire Trout Cooking Sequence (30s Video)
+
+- **Original source:** [@abxxai on X](https://x.com/abxxai/status/2087189194720657649)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `food-drink`
+- **ImgLume record:** [2777](https://imglume.com/prompt/2777)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b47cda92-83d9-499f-94e3-7e264e613d4b/d3914a74-872b-4bb7-bc01-e9dccf673c39-1786518098511 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SCENE CONTEXT
+POV river-to-campfire sequence at a jade-green alpine river through birch/cedar forest, late-afternoon light. A trout is caught, cleaned, seasoned, grilled over an open fire, then eaten, with one sip from a glass bottle while it cooks. 30s, four continuous segments, three hard cuts, real chest-mounted action camera.
+
+ACTIVE REFERENCES
+@location1: jade-green river, granite boulders, gravel bar, stone fire-ring, tree-stump table, birch/cedar tree line, faint peaks. 100% matches reference.
+@hands1: sun-tanned forearms, light-blond arm hair, olive sleeve rolled to elbow, braided wrist cord. Same fly rod, folding knife, wood board, wire grill basket, plain glass bottle, brown fizzy liquid, no label. 100% matches reference.
+
+LOCATION MAP
+Segment A: river foreground, tree line behind. Segments B-D: gravel bar foreground, fire-ring and stump table midground, tree line and peaks background. POV chest-to-eye height, moving only with the body. Key light low, behind camera-left.
+
+FIRST FRAME / BLOCKING
+Non-empty opening frame: already mid-cast, rod raised, line already peeling off the reel. Water fills the lower two-thirds, forest/sky the top third.
+
+FORMAT MODE
+Controlled multi-shot, three HARD CUTs, camera does not cut anywhere else:
+A (0-9s) river, one continuous take. HARD CUT.
+B (9-21s) board, one continuous take. HARD CUT.
+C (21-27s) fire, one continuous take. HARD CUT.
+D (27-30s) eating, one continuous take.
+
+OPTICS
+84° in A easing to 63° through the fight. 63° easing to 18° across B. 63° opening to 29° in C. 29° held in D. No drift within any segment.
+
+CAMERA
+Chest-height POV, moving only with body motion — forward stroke on the cast, downward tilt on the knife and grate, forward lean when hands work close. Soft highlight roll-off on bright water and hot metal.
+
+ACTION
+A: rod arcs, line whistles; tip snaps down as the trout strikes; rod pumps, reel clicking, fish surfacing closer each pump; hand closes behind the gills, lifts the fish clear, holds it still one beat as water streams off. B: boots cross the gravel, fish set on the board, knife meets scales, scrapes tail to head; one clean line opens the belly, organs lift free; fish rinses in the shallows, pink cloud drifting off; salt, pepper, herbs scatter over the flesh; fish folds into the basket, latch clacks. C: kindling catches from a breath, flame licks up; basket lowers onto the grate, skin bubbles and browns, smoke lifts. D: bottle tips up for one swallow; fork pauses a half-second at the flesh before splitting it open, steam lifting as a piece rises toward camera, one quiet exhale closing the shot.
+
+PERFORMANCE
+Hands stay continuously busy with real working tasks, never idle. Pore-level realism: vellus arm hair in the breeze, capillary flush from cold water. Movements read practiced, unhurried, one deliberate pause at the fish-lift and one at the first bite, restrained and human, never cartoonish.
+
+PHYSICS
+No floating props. Correct contact shadows under every prop, every segment. Water carries real weight and splash. Fire holds true flicker, heat-shimmer, smoke on a light breeze. Mass and inertia carry through the rod bend, the fish's thrashing and the latch.
+
+LIGHTING
+WB locked 5600K, warm low sun behind camera-left as key, cool sky fill through A-B. From C onward, ember-orange fire light adds a low rim on hands and fish alongside the same key.
+
+COLOR GRADE
+Cool jade-green river/forest in A, warm honey wood and pale gravel in B, ember-orange fire glow and seared skin in C-D. Color tied to source and surface, not a flat list.
+
+AUDIO
+Warm acoustic guitar bed under everything, mixed low, sitting quietly beneath the natural sound. Diegetic: river current and line-whistle opening A, splash and reel-drag through the fight; gravel footsteps opening B, knife-on-wood, one clean cut sound, rinse-splash, hinge-click closing it; twig-snap opening C, crackle into sizzle; glass clink and swallow opening D, fork scrape, steam hiss, one quiet chuckle closing the shot. No subtitles.
+
+STYLE
+8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, true action-camera color science.
+
+OUTPUT SETTINGS
+Real-time throughout, no speed ramping, FOV holds exactly as stated per segment with no drift across any hard cut.
+
+POSITIVE LOCKS
+Same hands, sleeve and wrist cord across all four segments. Same rod, knife, board, basket and bottle, no substitutions across any cut. Same river, gravel bar and fire-ring geometry held across every segment. Fish skin and flesh stay anatomically real. Eyes stay natural — no eye glow. Contact shadows read clearly every segment. No logos, no UI, no subtitles anywhere in frame.</code></pre>
+
+</details>
+
+## Cinematic fashion/lifestyle video sequence
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2087144498258128996)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2767](https://imglume.com/prompt/2767)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff89735c-8100-47ac-a1d6-2b17d9618b17/463a1f31-4daa-48c9-ad2d-9e2b45dd944d-1786505425960 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Make the video feel like a cinematic fashion/lifestyle sequence with varied shots and natural storytelling. Start with a wide environmental shot showing her full body and surroundings, then transition into a full-body tracking shot as she slowly walks through the breeze. Move into a medium three-quarter shot where she naturally brushes windblown hair away from her face and briefly looks into the distance with a soft, thoughtful expression. Follow with a medium-long side-profile shot as a stronger gust moves her hair and coat while the camera slowly arcs around her. End with an intimate close-up matching the reference image, her eyes gently closed as she tilts her face toward the breeze with a subtle peaceful expression. Use smooth cinematic camera movements, realistic walking and body mechanics, natural breathing, detailed hair and fabric physics, changing wind intensity, realistic depth and motion blur. Avoid making every shot a close-up or keeping her static. Preserve her exact face, identity, hairstyle, outfit, body proportions, jewelry, and overall appearance throughout. No exaggerated expressions, no talking, no sudden movements, no face morphing or outfit changes.</code></pre>
+
+</details>
 
 ## 30-second photorealistic cinematic sequence of a Black woman navigating a lakeside music festival
 

@@ -1,9 +1,226 @@
 # UGC video prompts
 
-46 source-linked prompts, newest ImgLume records first.
+52 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Late-night gym horror found-footage video
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2087411756293394676)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [2809](https://imglume.com/prompt/2809)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9bd34602-0163-44c8-91b4-da5ea5c79353/cfad67f5-6cb8-417b-bc3b-cded22f3ac08-1786537208913 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Person from Image1; facial features and hairstyle must match exactly. Ignore the reference outfit, background, pose, and text. She wears a black gym tank top, dark workout leggings, and looks naturally sweaty after training. 9:16 vertical format.
+
+30-second late-night gym psychological horror / found-footage sequence: Ultra-realistic old iPhone 1x standard lens, raw low-quality phone footage, heavy compression and constant digital noise, harsh cool-green fluorescent gym lighting, natural exposure, no cinematic grading. The gym is almost completely empty late at night. Realistic ambient gym sounds, distant machine hum, footsteps, breathing and room echo.
+
+0–6s — Weight training: She is alone in the nearly empty gym doing heavy weightlifting. She performs controlled dumbbell curls and then a heavy shoulder press, visibly struggling and breathing heavily. Sweat builds naturally on her face and arms. She finishes the set, puts the weights down, catches her breath, grabs her phone and heads toward the bathroom.
+
+6–10s — Entering bathroom: She enters the empty gym bathroom, places her phone near the sink, looks exhausted, drinks water and splashes cold water onto her face. She wipes her face and looks into the mirror while recovering.
+
+10–14s — Something appears: While staring at her reflection, a strange dark human-like monster silhouette suddenly appears faintly behind her in the mirror. She doesn't notice it immediately. She looks down, takes a breath, then slowly looks back at the mirror.
+
+14–18s — Fear: The shadowy figure is now noticeably closer behind her. She suddenly notices it and freezes. Her breathing becomes faster. She slowly turns around, but there is nothing behind her. She looks back at the mirror and the creature is still there, even closer.
+
+18–22s — Escape: She gasps in genuine fear, grabs her phone and immediately runs out of the bathroom. Her footsteps echo through the empty gym corridor. She keeps looking behind her while running.
+
+22–26s — Back into the gym: She rushes back into the main gym area, visibly panicked. She quickly looks around the empty gym, then spots her gym bag where she left it. She runs toward it, grabs the bag and hurriedly puts the strap over her shoulder.
+
+26–30s — Final escape: Without stopping, she runs toward the gym exit with her bag. She pushes through the doors and escapes outside. Just before leaving, she briefly looks back toward the dark gym interior. Nothing is visible. She quickly turns and runs away. Freeze mid-run as the footage ends.
+
+Maintain realistic skin pores, sweat, flushed skin, damp hair, natural body movement and authentic fear. The monster should be subtle, dark and unsettling rather than an exaggerated CGI creature. Keep the entire sequence visually consistent with raw old-iPhone footage.
+
+Audio: Heavy breathing, weights hitting the floor, gym equipment sounds, footsteps, water splashing, bathroom echo, phone handling sounds, door opening, distant nighttime ambience. No music.
+
+Negative: No BGM, no dialogue, no text, no readable signage, no beauty filter, no cinematic color grading, no fisheye, no distortion, no vignette, no jump cuts, no scene skipping, no time compression, no exaggerated CGI monster, no gore.</code></pre>
+
+</details>
+
+## Morning Scooter Journey Vlog
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2087465121421590940)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2805](https://imglume.com/prompt/2805)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/17fc93f8-e386-408d-948b-467192bc084a/e4bdc787-4c37-46f2-b2a2-32f2a5e93689-1786537139276 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young woman wakes up, gets ready for the day, leaves her apartment, prepares her vintage scooter with realistic step-by-step movements, and rides through multiple neighborhoods to meet her friend. After a natural journey across the city, she arrives, parks the scooter, removes her helmet, and shares a warm hug before smiling at the camera. Ultra-realistic lifestyle vlog, authentic smartphone footage, precise English lip-sync, realistic scooter handling, natural body movement, seamless continuity, soft morning light, immersive city ambience, documentary-style realism, and consistent character identity.</code></pre>
+
+</details>
+
+## Late-night gym vlog by a glamorous European fitness influencer
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2087475043731443781)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2799](https://imglume.com/prompt/2799)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5bed6f9d-51f4-4d0d-979f-8e103a5714f5/18209434-83d2-4b51-890f-a357f554425f-1786532877088 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+DV 16mm tape camcorder handheld aesthetic. A gorgeous glamorous European fitness influencer films herself directly by hand in selfie-cam and first-person style. Keep realistic hand shake, slightly crooked framing, delayed autofocus, awkward zoom-ins and zoom-outs, occasional motion blur, and small framing mistakes where part of her face briefly slips out of frame. Mix handheld selfie footage with a few fixed external shots. Important: never show her placing, adjusting, or setting up a camera. When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began. The camera itself must never appear on screen.
+
+LOOK:
+Soft digital tape camcorder look with subtle vintage DV character. Slight blur, faint tape noise, mild highlight bloom under gym lighting, subtle auto-exposure flicker, muted contrast, realistic skin texture, believable indoor lighting, realistic skin tones.
+
+STYLE:
+A realistic late-night gym vlog with a sexy Instagram-model vibe. The tone is playful, confident, a little flirty, slightly breathless, and natural. She is clearly attractive and charismatic, but the video should still feel like a believable self-recorded vlog, not a polished commercial. Fast clean jump cuts, strong continuity, natural body language, no awkward dead moments.
+
+CHARACTER:
+An exceptionally beautiful glamorous European brunette woman in her mid-20s. She has a highly photogenic face, large almond-shaped brown eyes, long lashes, full glossy lips, sculpted cheekbones, a refined nose, flawless lightly tanned glowing skin, and long thick glossy dark-brown hair tied in a high ponytail. She looks like a high-end Instagram fitness and lifestyle influencer, not an ordinary gym visitor. She has a slim, feminine, athletic hourglass figure. She wears polished soft-glam makeup, a fitted stylish long-sleeve athletic crop top, high-waisted fitted leggings, clean white sneakers, and a towel around her neck or over one shoulder. No jewelry.
+
+SETTING:
+A quiet modern gym late at night. Mirror wall, dumbbell rack, flat bench, stretching mat, a water bottle on a bench, soft warm overhead lights, mostly empty space, calm atmosphere, no crowd, no trainer, no extra people.
+
+IMPORTANT CONTINUITY RULES:
+The same woman must remain fully consistent in every shot. No face changes, no hairstyle changes, no outfit changes, no body changes. No extra people appearing. No duplicated limbs. No broken hands. No disappearing water bottle. No broken gym equipment. No impossible movements. No camera visible. No camera setup shown. Keep her beautiful, polished, and photogenic in every shot.
+
+STORYBOARD (30 seconds total, 10 cuts):
+
+(~3s, arm’s-length selfie) She walks slowly through the gym holding the camera herself, slightly out of breath but smiling confidently. Dialogue: “Okay… late-night gym vlog.”
+
+(~3s, handheld pan across the room and back to her) The camera drifts across the dumbbell rack, mirror wall, and empty gym floor, then returns to her face. Dialogue: “It’s basically empty in here.”
+
+(~3s, mirror selfie angle) She stops near the mirror, adjusts her ponytail, glances at herself, then smirks at the lens. Dialogue: “I look tired, but we’re still doing this.”
+
+(~3s, fixed external medium shot) Jump cut to a fixed shot. She is already in position near the bench, picks up a pair of dumbbells, and gets ready. No camera setup shown. No dialogue.
+
+(~3s, same fixed shot) She performs a short controlled set of dumbbell shoulder presses or dumbbell chest presses with clean form, then lowers the weights and exhales with a smile. Dialogue: “That woke me up fast.”
+
+(~3s, handheld walking selfie) She picks the vlog back up in selfie mode, towel over one shoulder, breathing a little harder as she walks a few steps. Dialogue: “Upper body done… and I’m already dying.”
+
+(~3s, tight handheld close-up) She grabs the water bottle, takes a drink, lowers it, and exhales in relief. Dialogue: “Best part of the workout.”
+
+(~3s, fixed external wider shot facing the mirror) Jump cut to a fixed shot. She does a quick playful stretch, a small mirror pose, then laughs softly at herself. Dialogue: “A little stretch so I can pretend I’m disciplined.”
+
+(~3s, handheld close selfie) Her cheeks are slightly flushed, she brushes back a loose strand of hair, smiling in a tired but satisfied way. Dialogue: “I always say quick workout… and then stay forever.”
+
+(~3s, arm’s-length selfie ending) She walks toward the exit, still filming herself, gives a tired little wave and a genuine smile. Dialogue: “Okay, I’m done. Good night.”
+
+FINAL INSTRUCTION:
+The result must feel like a real self-recorded late-night gym vlog by a glamorous Instagram fitness influencer. Prioritize realistic handheld motion, strong continuity, believable pacing, natural breathing, attractive appearance, and subtle imperfection. Keep it sexy, polished, and realistic — not artificial, not stiff, not boring.</code></pre>
+
+</details>
+
+## Leg day gym vlog video with Seedance 2.5
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2087401954955940285)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2796](https://imglume.com/prompt/2796)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff0694ba-a3fd-4045-b815-1eaaa2a67284/fbcad0e7-0664-4347-9348-fef7cf27ce8a-1786532834346 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject: Person from (Image1). Face and hairstyle must match (Image1) completely do not transform into a different person. Outfit: casual black gym gear, fitted tank top and leggings/shorts, workout gloves optional, hair tied back. Ignore the outfit, background, pose, and bottom text from Image1. Even if image quality is rough, facial features must remain clearly defined. 16:9 Horizontal. Entire video has an old iPhone low-quality everyday-vlog look. Constant heavy noise and compression artifacts throughout.
+Setting: Real gym environment free weights area, mirrors, equipment in background. No legible text/signage/gym branding visible anywhere in frame.
+Timeline:
+0–5s: Selfie-angle walking into gym, phone held at arm's length, energetic but casual, talking directly to camera: "okay so today's a leg day, kind of dreading it but let's go."
+5–10s: Sets phone down propped against a weight plate or gym bag on the floor, wide shot of self setting up for squats, adjusting the bar, quick glance at camera before starting.
+10–16s: Mid-set, hard training moment visible effort/strain, controlled breathing, grunts slightly on the last rep, racks the bar, breathing heavy.
+16–21s: Picks phone back up, selfie angle again, sweaty, out of breath, talking to camera candidly: "that set nearly killed me... but okay, three more exercises then I'm done for today."
+21–26s: Quick cut to a different exercise (lunges or dumbbell rows), phone propped again at a new angle, focused training shot, natural gym ambience.
+26–30s: Final selfie moment, wiping sweat with towel, wrapping up, casual sign-off talking to camera: "alright that's it for today's session, see you guys tomorrow," small tired smile, freeze on final frame.
+Camera: Loose 1–1.5s cuts, mix of handheld selfie angle and propped static wide shots. Old iPhone, vertical, standard 1x lens (no distortion, standard field of view), natural handheld shake during selfie segments, static during training segments, harsh gym fluorescent lighting with off white balance (slightly cool tint).
+Sound: No BGM. Ambient gym noise (weights clanking, distant chatter, treadmill hum in background), heavy breathing during training, natural talking voice with slight handheld mic distortion during selfie segments, gym echo/reverb during propped shots.
+Style: Unedited low-quality phone vlog look. No color grading, no film look, no cinematic look, no beauty filter, no CG texture. No fisheye/ultra-wide (0.5x)/action-cam look, no barrel distortion, no vignette, no black lens-round at frame edges flat standard field of view, frame filled edge to edge. Real skin texture maintained (pores, sweat sheen, flushed skin, flyaway hairs). No cut consolidation, no scene skipping. No on-screen text (any gym signage, equipment labels must be illegible).</code></pre>
+
+</details>
+
+## 30-second ultra-realistic candid home video of an elderly Korean man in a quiet residential neighborhood
+
+- **Original source:** [@beechinour on X](https://x.com/beechinour/status/2087359288649949620)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2785](https://imglume.com/prompt/2785)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dabe20a3-151b-49bb-92e3-6a376363c953/e22d4378-b9b0-42a5-a6e0-83e4eb73602e-1786522343857 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic candid home-video sequence of an elderly Korean man in his mid-70s living an ordinary late morning in a quiet Korean residential neighborhood.
+SUBJECT: Elderly Korean man, natural everyday appearance, realistic weathered skin texture, deep smile lines and age spots, short thinning grey hair neatly combed back, slightly stooped but sturdy posture. Loose beige button-up short-sleeve shirt, dark grey slacks worn slightly high on the waist, brown leather sandals over thin grey socks, simple metal wristwatch. Warm, unhurried personality. Keep his face, body, hairstyle, clothing, and appearance perfectly consistent throughout.
+SETTING: Authentic Korean residential neighborhood — narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, bicycles, utility poles, overhead wires and mature trees. Quiet, lived-in atmosphere. No shops, advertisements, crowds, cafés, or commercial activity.
+VISUAL STYLE: Ultra-realistic documentary home-video footage from an early-2000s consumer DV camcorder. Imperfect handheld operation, natural camera shake, awkward framing, occasional reframing, autofocus hunting, slight lens breathing, exposure pumping between sunlight and shade, subtle motion blur, mild rolling shutter, faded colors, soft contrast, slight digital compression and sensor noise. No stabilization, no cinematic camera moves, no modern color grading. Everything must feel genuinely captured, not AI-generated.
+TIMELINE:
+00:00–00:05 — Outside his small house, he sits on a low concrete wall slowly fanning himself with a folded newspaper. Wind moves the leaves above him. He squints slightly into the light and gives a small easy smile while the camera struggles to lock focus.
+00:05–00:10 — He walks into a narrow residential alley with slow, deliberate steps, hands loosely clasped behind his back. A stray cat approaches. He stops, bends down carefully with one hand braced on his knee, and gently scratches its head. Autofocus shifts imperfectly between his face and the cat.
+00:10–00:15 — In a small front yard, he waters a row of potted plants with a dented metal watering can, pausing to pick off a dead leaf. Water drips naturally while sunlight and cloud shadows subtly change the exposure.
+00:15–00:20 — He sits on a quiet terrace with a small ceramic cup of barley tea, casually watching the neighborhood, one hand resting on his knee. He exhales slowly, content. Handheld side angle with natural camera drift.
+00:20–00:25 — Close side profile. Someone off-camera casually greets him. He turns unhurriedly, smiles warmly with deep creases around his eyes, raises his hand slightly and naturally says, "어, 안녕하세요." The camera reacts slightly late.
+00:25–00:30 — He walks slowly down a tree-lined residential lane, hands behind his back, newspaper tucked under one arm. He notices the camera, gives a small amused nod, then looks away and continues walking. The recording abruptly cuts to black mid-motion like an old camcorder being switched off.
+AUDIO: Only authentic location sound: birds, distant motorcycles, light wind, rustling leaves, faint neighborhood chatter, cat sounds, slow footsteps on concrete, water trickling from the can and subtle residential ambience. Natural Korean speech only. No music, narration, cinematic sound effects, or artificial sound design.
+GOAL: Make it feel like a forgotten personal home video from the early 2000s — intimate, spontaneous, imperfect, warm, mundane and deeply believable. Prioritize realistic human motion, natural facial expressions, physical interaction, environmental detail and consistent identity over cinematic beauty.</code></pre>
+
+</details>
+
+## Handheld DV 16mm daily vlog footage
+
+- **Original source:** [@PhedEU on X](https://x.com/PhedEU/status/2087155737784918460)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2747](https://imglume.com/prompt/2747)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c908c534-9391-4e62-9aa9-875e00d58a32/223d3a22-057f-4aaf-9d32-5cdc78772e82-1786467914075 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA: Handheld DV 16mm daily vlog footage. The video MUST begin with her holding the camera at arm's length in selfie mode while stepping out of an old stone doorway into a narrow street. The first 20–30 seconds are entirely handheld. Later she occasionally sets the camera on a windowsill, café ledge, or low seawall for wider shots. Keep subtle handheld shake, drifting composition, autofocus hunting, rushed reframing, uneven zooms, exposure breathing, brief accidental face cropping, and imperfect framing throughout. The camera itself is never visible.
+
+LOOK: Warm analog tape texture with gentle film grain, softened sharpness, subtle halation where sunlight cuts between buildings, faint salt-air haze, realistic skin tones, low contrast, tiny exposure shifts, natural motion blur. Authentic everyday footage, not a polished commercial.
+
+STYLE: A quiet Mediterranean morning coffee-run vlog. Unhurried, warm, spontaneous. She talks to the camera in short sentences with comfortable pauses, reacts to the street around her, laughs easily.
+
+CHARACTER: ELENA — a Mediterranean woman in her mid-20s. Dark wavy hair in a loose bun, olive skin, minimal makeup, small gold hoops, oversized white linen shirt, denim shorts, leather sandals, canvas tote on one shoulder.
+
+SETTING: A sun-washed coastal old town just after sunrise. Narrow limestone alleys, pastel shutters, bougainvillea spilling over walls, glimpses of the sea between buildings, distant church bells and scooters, almost no people. A sleepy stray cat on a warm step.
+
+SCENES:
+
+The vlog opens in selfie mode as Elena steps out of the doorway into the bright alley, squinting.
+"Morning."
+She walks, sunlight strobing between buildings across her face.
+"Okay it's already hot. Of course it is."
+She reaches a tiny corner kiosk and orders an iced coffee, camera still handheld, framing half-wrong.
+She sets the camera on the counter ledge for a wide shot while she waits, drumming her fingers.
+A stray cat appears at her feet and stares up.
+She crouches down to it.
+"Hi. You again."
+The cat rubs against her leg. She laughs.
+"I have a bodyguard now."
+She picks the camera back up, coffee in the other hand, and walks toward the water, the cat trotting behind for a few steps.
+She sits on the low seawall, sea behind her, and takes the first sip.
+"Worth it. Every time."
+She looks off at the water for a moment, hair moving in the breeze, then back to the lens.
+"Okay. Work now."
+A small wave.
+"See you later."</code></pre>
+
+</details>
 
 ## 30-second ultra-realistic early-2000s Korean home video
 

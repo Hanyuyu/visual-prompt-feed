@@ -1,9 +1,101 @@
 # Travel video prompts
 
-25 source-linked prompts, newest ImgLume records first.
+29 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld selfie vlog of a Korean woman’s market adventure
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2087534625186832811)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2818](https://imglume.com/prompt/2818)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a56b7f85-3557-4501-879c-c5ea8bb071c4/916fd20b-2553-4868-b8f6-10dd0edc8d05-1786549637891 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>&lt;&lt;&lt;image_1&gt;&gt;&gt; = the woman's facial identity and hair only, do not inherit her outfit, pose, background or lighting from it. One continuous handheld front-facing phone selfie vlog, always her own point of view with the phone in her own hand at arm's length — no third-person or external camera, no tripod, no cinematic move. Real modern-smartphone look: mild handheld shake, walking bounce, occasional autofocus hunting, small exposure shifts, minor framing flaws, natural front-lens distortion; soft warm natural daylight turning to early evening, natural uncorrected phone color, no color grade, no beauty filter, no skin smoothing. The same one woman with the same face and hair throughout, holding the phone herself in every shot. Two casual, trendy outfits only, the exact styling chosen naturally — one look from the market entrance through the gift shop, a clearly different one from the photo booth onward, each identical within its half, her face and hair unchanged across the single outfit change. No subtitles, no on-screen text, no logo, no watermark; no brand or character names. Never render a reference sheet or duplicate a subject. Diegetic sound only, no background music: market bustle and chatter, footsteps, a sizzling street-food stall, quiet shop room-tone, café ambience, a photo-booth shutter, wind at the lookout, a bus engine and street sounds; each spoken line delivered frontally and lip-visible.
+
+A young Korean woman in her early twenties, natural everyday beauty, is walking into a lively traditional street market on her day off, already holding her phone out at arm's length to film herself; she sweeps the phone across the bustling stalls then back to her own grinning face and says, upbeat: "I’m at the market!" She keeps walking through the busy market, naturally bouncing the phone with her steps, glancing at colorful stalls and briefly turning the camera toward interesting food and people before bringing it back to her smiling face; she laughs softly and continues walking without dialogue. She stops at a sizzling street-food stall, picks up a hot skewer and holds it right up to the selfie camera, eyeing how good it looks, and says, delighted: "Wow, this looks freaking amazing..!" She gives a quick happy reaction after tasting it, then continues walking through the market while holding the phone herself. She steps into a tiny gift-and-stationery shop full of cute little things, browsing the shelves with a grin; she picks up a small item, looks at it and then at the camera with a playful worried expression, and says: "I think my wallet might be in danger here." After leaving the shop, she briefly stops at a cozy little café or drink stand, holds a simple takeaway drink close to the selfie camera, takes a quick sip and smiles contentedly at the lens before continuing on, with only natural café and street ambience.
+
+Later that same day, now wearing the clearly different second casual outfit, she pops into a photo booth and throws a quick peace sign at the booth screen with a little bounce, and says, excited: "Oh, four-cut photos! Yay~~" A realistic photo-booth shutter clicks immediately after her pose. A beat later she is standing at a hilltop city lookout, the wind lifting her hair; she turns to the front camera to speak, then glances back at the sweeping city view, words trailing off in awe, and says, impressed: "The view here is seriously..." She pauses naturally for a moment, taking in the scenery while the wind and distant city sounds continue. Finally she settles into a window seat on the bus home, streetlights sliding by behind her; she looks pleasantly exhausted after the day, gives a big sleepy yawn, then smiles and waves at the lens and lowers the phone to a calm, settled finish, and she says, drowsy: "That’s it for today!"
+
+Keep the entire sequence fast, casual and spontaneous, with natural transitions between locations and enough brief visual moments to fill approximately 30 seconds without making the dialogue feel rushed.</code></pre>
+
+</details>
+
+## 30-second photorealistic smartphone travel vlog of a Japanese woman at a summer festival
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2087407192031068528)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [2781](https://imglume.com/prompt/2781)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fbd11103-1ac4-48c8-93c6-143587eb1bda/8312bc3a-91f0-4f6a-8316-6ec220143267-1786522297754 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 30-second photorealistic smartphone travel vlog. A young Japanese woman wearing a pastel yukata explores a traditional Japanese summer festival at night. She films herself in selfie mode with natural handheld movement, realistic phone camera quality, and authentic ambient sounds. She walks through lantern-lit streets, buys fresh takoyaki and smiles after taking a bite, plays a traditional festival game and wins a small plush toy, then watches a spectacular fireworks display with the crowd, capturing her genuine excitement. She ends the vlog by waving at the camera and saying, "Thanks for coming with me. See you next time. Bye!" The video should feel natural, cinematic, and realistic with consistent appearance, smooth human motion, and authentic festival atmosphere.:</code></pre>
+
+</details>
+
+## Cinematic 14-second travel vlog in heritage garden with young girl
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2087403935938093367)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2780](https://imglume.com/prompt/2780)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd688674-6111-4f59-abe6-94a2244410ff/be48bfdc-417f-4af9-9218-b9e5294c4c64-1786522290291 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 14-second cinematic travel vlog using the provided image as the exact location reference. Show a stylish young girl vlogging while walking through this beautiful heritage garden, keeping the same grand historic building, colorful flowers, wet pathway, greenery, palm trees and overall atmosphere from the reference image. Start with a wide establishing shot of the location, then show the girl smiling and talking naturally to her camera, turning the camera to reveal the beautiful surroundings. Include smooth walking shots, close-ups of flowers and architecture, natural reactions and a joyful spin. Use warm golden sunlight, realistic people, cinematic depth of field, smooth handheld/gimbal movement, natural ambient city sounds and ultra-realistic 4K quality. End with a beautiful wide shot of the same location. No text, no logos, no artificial-looking elements, and preserve the reference location accurately.</code></pre>
+
+</details>
+
+## Ultra-realistic handheld travel vlog of a woman’s day from morning to sunset
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087165084397420849)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2749](https://imglume.com/prompt/2749)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fa316b4b-affe-40df-9552-eeb21a6ab6f1/79d7969a-dc05-43d3-82e5-1bbb68fa609e-1786471878000 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An ultra-realistic handheld travel vlog filmed by a friend following the main character throughout the day. Use the woman from the reference image as the main subject. Maintain her exact facial identity, hairstyle, facial features, and body proportions consistently throughout the entire video.
+
+The camera should feel like a genuine personal vlog camera rather than a commercial production. Use natural handheld movement, casual framing, subtle imperfections in human camera operation, and an authentic everyday atmosphere. Avoid scripted acting. The woman behaves naturally, interacting with her surroundings as she would in a real travel vlog.
+
+0–5s: Morning departure. The woman leaves a cozy apartment carrying a small backpack. She checks her phone, smiles toward the camera, adjusts her hair, and begins walking outside. The camera follows her from behind with slight natural shakiness, as if a friend is casually filming her. Morning sunlight fills the scene, with quiet neighborhood streets and people beginning their day.
+
+5–12s: Exploring the city. The camera follows her through local streets. She visits a small café, buys a drink, briefly talks to the camera, and laughs naturally. She continues through a street market, looks around at small shops, and takes casual photos. The camera remains close to her, capturing spontaneous everyday moments.
+
+12–20s: Arriving at the beach. She takes public transportation or walks toward the coast. The environment gradually transitions from busy city streets into a peaceful seaside town. The ocean breeze naturally moves her hair. She becomes visibly excited when she sees the ocean for the first time. The camera follows her along the beach as she picks up a seashell, watches the waves, and naturally interacts with people nearby.
+
+20–27s: Summer beach afternoon. She meets friends at the beach. Everyone chats, laughs, and plays casually near the water. The camera naturally moves between the group, capturing genuine candid moments rather than staged performances. She eventually looks back toward the camera and smiles naturally.
+
+27–30s: Ending moment. Golden-hour sunset. She sits near the ocean holding a drink while quietly watching the sunset. The camera slowly moves backward, gradually revealing the beach, waves, and peaceful evening atmosphere. The final moment should feel like a genuine personal travel memory captured spontaneously.
+
+Visual style: Ultra-realistic authentic travel-vlog footage. Ultra-realistic smartphone or mirrorless-camera appearance. Natural daylight and believable environmental lighting. Casual handheld movement with subtle camera shake and imperfect human operation. Genuine human reactions and spontaneous interactions. Documentary-level realism with highly detailed skin, hair, clothing, environments, and natural textures.
+
+No cinematic commercial aesthetic. No dramatic posing. No artificial transitions. No text overlays. No logos. No face changes. No identity changes.
+
+The entire 30-second generation should feel like one continuous, coherent day captured by a real friend-not a collection of disconnected AI-generated scenes.</code></pre>
+
+</details>
 
 ## 30-second ultra-realistic handheld boyfriend vlog in Tokyo
 

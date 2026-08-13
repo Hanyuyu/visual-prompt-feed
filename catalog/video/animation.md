@@ -1,9 +1,259 @@
 # Animation video prompts
 
-52 source-linked prompts, newest ImgLume records first.
+61 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Prompt 1
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2087514392036553144)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2821](https://imglume.com/prompt/2821)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df5c1a98-5a15-42a2-832e-205ba5ac8694/71c78d55-d46f-4dfb-802d-aca116fa3333-1786549855290 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/df5c1a98-5a15-42a2-832e-205ba5ac8694/8752cd66-d0da-417a-9d98-eca1dc2b7131-1786549855290 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/df5c1a98-5a15-42a2-832e-205ba5ac8694/1b22aaeb-2795-4f87-a01c-72e6acf80319-1786549855290 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Prompt 1:
+
+风格：绘本童话动画，画布上的水粉与油画棒质感，每个表面都有明显的干笔点画与画布纹理，质朴平面的造型配柔和的手绘边缘，克制的暖色调——灰蓝色天空、赤陶橙色地面、奶白色云朵、柔和的赭黄与鼠尾草绿建筑、近乎全黑的巨兽——温柔的绘本童趣，24帧每秒，禁止赛璐璐上色，禁止日式动漫线条，禁止3D渲染，禁止照片写实。
+
+主体：@beast（与输入图2完全一致100%）——一只体型巨大的圆润生物，通体近乎墨黑偏绿，密集的鳞片状笔触，宽圆的口鼻，两只大大的白色圆眼配极小的黑色瞳孔，宽阔笑容里排着一列白色小三角牙齿，脸颊上有一块圆形赤陶橙色腮红，头顶是奶白与浅棕色的锥形角，背脊上是一排赤陶橙色三角尖刺，短粗的前肢带淡奶油色爪子；它的表情始终好奇温和，绝不凶恶，动作像一只友善的大型动物一样柔软而有重量感。@knight（与输入图1完全一致100%）——一个年幼的小骑士男孩，肤色白皙，圆润的粉红脸颊，浓密的棕色眉毛和大大的蓝灰色眼睛，戴着黑色宽檐锥形头盔，面罩上翻，盔顶插着一根锈橙色羽毛，身穿黑色横向条纹板甲带细密的奶白色缝线，披着长长飘动的锈橙色斗篷，手持一把细长黑剑，剑格为淡奶油色，剑柄末端是圆形黑色球状。@city——一座古老的欧洲小镇，粉彩赭黄、鼠尾草绿与奶白色的建筑配瓦片屋顶，一根高高的红砖烟囱冒着白烟，赤陶色鹅卵石地面，穿着十九世纪深色外套与礼帽的小小镇民。
+
+场景：绘本小镇边缘，灰蓝色天空下漂浮着厚厚的奶白色棉花状云朵；屋顶与地平线之间是一片开阔的赤陶色广场。
+
+动作——巨兽降临，小骑士决定挺身而出：
+镜头1（0:00–0:04）——宽幅侧视：巨兽庞大的头颅从红砖烟囱旁的屋顶后方缓缓升起，眨了一次眼。硬切。
+镜头2（0:04–0:08）——高空俯拍正对赤陶色广场：数十个渺小的镇民四散奔逃，帽子被甩飞，一只小狗跟着一起跑。硬切。
+镜头3（0:08–0:12）——宽幅镜头：巨兽跨过一排房屋，黑色的躯体占满画面右侧，落脚处扬起尘土，镇民在前景中不断跑过。硬切。
+镜头4（0:12–0:16）——极特写巨兽面部：一只巨大的白色眼睛占满画面，极小的黑色瞳孔向下移动，注视着下方某个微小的东西。硬切。
+镜头5（0:16–0:21）——低角度：小骑士双脚牢牢站定在鹅卵石上，眉头压低露出坚定的怒容，拔出黑剑高高举起，橙色斗篷在身后猎猎作响。硬切。
+镜头6（0:21–0:26）——侧向跟拍：小骑士沿着赤陶色地面全速奔跑冲向巨兽，长剑前指，斗篷飞扬，身后粉彩色建筑化作模糊的色块掠过。硬切。
+镜头7（0:26–0:30）——宽幅双人构图：渺小的骑士急停并张开双臂拦在路中；巨兽将巨大的头颅低垂向他，好奇地歪了歪头。定格保持。
+
+摄影：降临用缓慢的固定宽幅；人群用静止的正俯视鸟瞰；迈步用轻柔的横向移动；眼部特写用缓慢推进；拔剑用低角度英雄视角；奔跑用平滑的侧向跟随，背景化为柔和的绘画涂抹；对峙用静止宽幅。所有运镜保持柔和从容——绘本般的节奏，禁止甩镜，禁止抖动。
+
+音效：温暖俏皮的管弦乐配轻快木管与拨弦，低沉柔和的隆隆脚步声，惊慌的人群嘈杂与零星喊叫，布料被风吹动的声音，巨兽发出的一声低沉友善的咕噜。无对白，无字幕。
+
+限制条件：16:9画幅。巨兽必须与输入图2完全一致100%，骑士必须与输入图1完全一致100%——不得出现形象漂移；务必保持白色圆眼、单侧赤陶色腮红、奶白与浅棕锥形角、橙色背刺，以及骑士的橙色羽毛、黑色条纹板甲与锈橙色斗篷。每一帧都必须保留水粉画布纹理；禁止平滑的数码渐变，禁止照片写实，禁止3D渲染，禁止日式动漫风格。巨兽全程友善好奇——不得龇牙咆哮，不得表现攻击性，眼睛不得发光。无血迹，无伤害，无暴力破坏。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+
+</details>
+
+## Prompt 2
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2087514392036553144)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2820](https://imglume.com/prompt/2820)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9b2824dd-c6a5-44c9-8049-8169ddc48c90/4f09df9f-9597-4040-b667-4c57670e5a47-1786549855290 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9b2824dd-c6a5-44c9-8049-8169ddc48c90/0ff718df-b7df-47a0-ab88-7aae7543fd2c-1786549855290 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9b2824dd-c6a5-44c9-8049-8169ddc48c90/c13cc34b-6515-4121-afe0-68745e94c56f-1786549855290 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Prompt 2:
+
+风格：绘本童话动画，画布上的水粉与油画棒质感，每个表面都有明显的干笔点画与画布纹理，质朴平面的造型配柔和的手绘边缘，克制的暖色调——灰蓝色天空、赤陶橙色地面、奶白色云朵、柔和的赭黄与鼠尾草绿建筑、近乎全黑的巨兽——温柔的绘本童趣，24帧每秒，禁止赛璐璐上色，禁止日式动漫线条，禁止3D渲染，禁止照片写实。
+
+参考：@scene1 是上一段已生成的视频片段——请将其作为风格、配色、画布纹理、角色设计、体型比例关系与光线的连续性参考。本段直接承接该片段的最后一帧，即渺小的骑士张开双臂站立、巨兽将头低垂向他的画面。必须与 @scene1 完全一致；不得重新调整风格，不得改变巨兽的身体比例或小镇的配色。
+
+主体：@beast（与 @scene1 及输入图2完全一致100%）——那只体型巨大的圆润近黑色生物，密集的鳞片状笔触，大大的白色圆眼配极小黑色瞳孔，白色小三角牙齿，圆形赤陶橙色腮红，奶白与浅棕色锥形角，赤陶橙色背刺，短粗前肢带淡奶油色爪子；全程俏皮温顺。@knight（与 @scene1 及输入图1完全一致100%）——那个圆润粉颊、蓝灰色眼睛的小骑士男孩，黑色宽檐锥形头盔配锈橙色羽毛，黑色条纹板甲，锈橙色斗篷，以及那把剑格为奶白色的细长黑剑。@girl——一个小女孩，亮橙色齐耳短发，赤陶色印花裙，圆润的粉红脸颊和一双惊喜的大眼睛，站在镇民之中。@city（与 @scene1 完全一致100%）——同一座粉彩赭黄、鼠尾草绿与奶白色的小镇，配那根高高的红砖烟囱。
+
+场景：与 @scene1 结尾处相同的小镇边缘赤陶色广场，直接延续。
+
+动作——骑士攀爬上去准备进攻，结果巨兽只是想玩：
+镜头1（0:00–0:04）——骑士沿着巨兽庞大的侧腹全速奔跑，在那面黑色鳞片高墙前显得极其渺小，随后抓住它的身侧。硬切。
+镜头2（0:04–0:08）——他手脚并用爬上鳞片，翻身攀上巨兽背部，落在两根赤陶色锥刺之间。硬切。
+镜头3（0:08–0:12）——巨兽背上的低角度英雄视角：骑士站起身，稳稳立在橙色尖刺之间，将黑剑高举过头，斗篷在风中翻飞。硬切。
+镜头4（0:12–0:15）——极特写：巨兽两只巨大的白色眼睛一起向上翻转，回头看向肩上那个小小的身影。停顿半拍。硬切。
+镜头5（0:15–0:20）——宽幅镜头：巨兽非但没有攻击，反而像小狗一样顽皮地侧身扑倒在地，一只短粗的爪子在空中挥舞；骑士毫发无伤地滚落进一团柔软的尘土里，坐起身眨着眼，头盔歪到了一边。硬切。
+镜头6（0:20–0:24）——巨兽翻身仰躺，四肢朝天，尾巴摇摆，咧嘴而笑；骑士站起身放下剑，一脸茫然地盯着它。硬切。
+镜头7（0:24–0:27）——人群中橙发女孩的特写，双手交扣在下巴前，露出灿烂无比的笑容。硬切。
+镜头8（0:27–0:30）——终幕宽幅：全镇的人围聚在巨兽身旁，小小的镇民挥舞着帽子，巨兽把下巴搁在地上开心地咧嘴笑着，骑士站在它的口鼻上，剑已垂下。云朵缓缓飘过中定格保持。
+
+摄影：攀爬用快速的侧向跟随；举剑用低角度倾斜英雄视角；眼部用缓慢推进；扑倒用静止宽幅以呈现完整的喜剧体型对比；终幕人群用柔和的后拉移动。所有运镜保持轻柔从容——绘本般的节奏，禁止抖动，禁止甩镜。
+
+音效：攀爬时英雄主题乐逐渐高涨，在眼部特写处完全静音一拍，随后在扑倒瞬间转为温暖诙谐的木管与拨弦。柔和沉重的躯体落地闷响，一团扬尘声，巨兽发出愉快的低沉呼噜声，人群欢快的笑声与喝彩逐渐推向终幕。无对白，无字幕。
+
+限制条件：16:9画幅。必须与 @scene1 及两张输入图完全一致100%——相同的巨兽设计、相同的骑士设计、相同的小镇配色、相同的画布纹理，两段之间不得出现形象漂移或风格跳变。每一帧都必须保留水粉画布纹理；禁止平滑的数码渐变，禁止照片写实，禁止3D渲染，禁止日式动漫风格。巨兽全程顽皮亲昵——不得龇牙咆哮，不得表现攻击性，眼睛不得发光。无人受伤，无血迹，无暴力破坏。骑士的跌落必须柔和且富有喜剧感。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+
+</details>
+
+## Part2 - 5-second cinematic 2D cel animation chase sequence
+
+- **Original source:** [@Dustfinger2077 on X](https://x.com/Dustfinger2077/status/2087481078575489296)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2813](https://imglume.com/prompt/2813)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9c3b68c-da86-43c9-ba6b-61b83760afd8/9e985fdc-6ffc-43cc-b780-c8b0df0f1100-1786545381989 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Part2 - 5 second, cinematic-quality 2D cel animation, image-to-video. Strictly adhere to @image1 for the female lead, the dragon, costumes, color scheme, and art style. Maintain the female lead’s consistent facial features, orange-red long hair, deep emerald-green outfit, and orange tights; the dragon must retain its emerald-green scales, milky-white long horns and belly, orange wing membranes, and slender build. Maintain a high-quality 2D cel-shaded style throughout, featuring sharp lines, blocky shading, dynamic foreshortening, and a color palette of emerald green, orange, and milky white. 0–2.2 seconds: The heroine rides the dragon as they fly at high speed through a sea of golden clouds. The camera flies backward close to the side of the dragon’s head; a strong wide-angle shot and foreshortening perspective place the dragon’s head and near wing in the foreground, with the heroine positioned behind them. She smiles excitedly as her orange-red hair flows in the wind; the dragon also displays a joyful, energetic expression. Moving in perfect sync, they weave smoothly from side to side between columns of clouds. Rapid parallax shifts, fluid camera movement, strong winds, and the powerful sound of flapping wings. 2.2–3.2 seconds: The camera glides smoothly to a frontal view. The heroine’s smile suddenly vanishes, and the dragon’s pupils contract. The clouds ahead abruptly darken as a massive Norse mythological storm eagle—composed of thunderclouds and blue lightning—bursts through the clouds, spreading its wings to block their path. The music drops instantly, replaced by a piercing, prolonged cry and the rumble of thunder. 3.2–5 seconds: The dragon abruptly rolls onto its side and turns, fleeing immediately. The heroine leans forward, pressing herself tightly against the dragon’s neck and clinging firmly as it folds its wings and dives sharply, then weaves at high speed through the lightning and scattered clouds to escape. The camera follows closely from the rear-side, with the wing tips sweeping dramatically past the lens in the foreground, while the giant eagle’s massive shadow rapidly looms from above the clouds. The scene ends with the heroine turning her head to see the danger closing in, her face etched with tension. Constraints: The first half must convey joy, freedom, and a strong sense of speed; once danger appears, the mood must immediately shift to tense escape. Action and transitions must be clear, with flight sequences and camera movements exceptionally fluid. Strictly adhere to the character design and 2D cel-shaded art style shown in @image1. Prohibited: 3D, realism, stylistic deviations, changes to facial features or clothing, body distortion, extra limbs, the rider detaching from the eagle, text, subtitles, logos, dialogue, and gory imagery.</code></pre>
+
+</details>
+
+## Part1 - Joyful 5-second 2D cel-shaded aerial animation
+
+- **Original source:** [@Dustfinger2077 on X](https://x.com/Dustfinger2077/status/2087481078575489296)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2812](https://imglume.com/prompt/2812)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b450c0f2-02c4-42ac-b0d3-fb96f02ae0d5/699718dc-f7e6-49da-bbd5-7594630be635-1786545381989 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Part1 - 5 seconds, cinematic 2D cel-shaded animation, image-to-video, joyful multi-cut aerial filler. Use @image1 to strictly preserve the girl, dragon, clothing, colors, proportions, and art style. Maintain bold cel shading, clean angular lines, dynamic foreshortening, and the emerald, orange, and cream palette. 0–1.5s — Pure exhilaration: Front-facing wide-angle camera flies backward just ahead of the dragon. They burst through a soft cloud at high speed. The dragon’s head fills the foreground through strong foreshortening; the smiling girl appears behind it with her fiery hair streaming through the air. Girl, laughing: “Faster!” The dragon’s eyes brighten. It answers with an excited chirp and accelerates. 1.5–3.2s — Playful dive: Cut beneath the dragon as it rolls smoothly onto one side and dives through a glowing ring of golden clouds. The girl throws one hand into the air and laughs freely. The dragon playfully snaps at a drifting cloud puff, making it burst across its face. It blinks in surprise, then shakes the mist away while the girl laughs even harder. 3.2–5s — Shared joy: Side-tracking close-up. The girl leans forward and affectionately rubs the dragon’s neck. Girl, smiling: “Show-off.” The dragon gives her a proud sideways glance and performs one effortless upward spiral. The camera pulls into a wide shot as they rise above the golden cloud sea together, leaving a curved trail of sparkling mist. End on their joyful silhouettes crossing the sunlight. Sound: Warm adventurous music, smooth rushing wind, playful dragon chirps, natural laughter, and powerful but relaxed wingbeats. Dialogue must be clearly audible and accurately lip-synced. Constraints: Keep the flight fast but graceful, with smooth camera movement and coherent spatial continuity. No danger, injuries, fear, fighting, style drift, photorealism, 3D, deformation, extra limbs, costume changes, subtitles, text, logos, or narration.</code></pre>
+
+</details>
+
+## Part3 - 15-second epic 2D cel animation chase through Norse trials
+
+- **Original source:** [@Dustfinger2077 on X](https://x.com/Dustfinger2077/status/2087481078575489296)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2811](https://imglume.com/prompt/2811)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a1ca40ad-1f42-4a34-870e-1245860b8f0f/0ed02335-0013-40d4-a5fa-d8aee03d226e-1786545381989 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Part3 - 15 seconds, Cinema-quality 2D cel animation, image-to-video. Reference: Strictly adhere to @image1 for the female lead, the dragon, color scheme, and art style. The female lead is the daughter of Odin; maintain her distinctive facial features, long orange-red hair, deep emerald-green attire, and orange stockings. The dragon must retain its emerald-green scales, milky-white belly, long horns, orange wing membranes, and slender, dragon-like form. Consistently use sharp lines, block shading, strong perspective, and a color palette of emerald green, orange, and milky white throughout; do not convert to 3D or a realistic style. Overall: The scene opens with a high-speed chase. The heroine rides the dragon through the trials of Norse mythology, performing a series of left-to-right serpentine maneuvers, rolls, steep climbs, and dives, with the pace continuously intensifying until she finally breaks through the clouds and emerges into the serene dawn. Ensure that the proportions, colors, and structure of the character, her attire, and the dragon remain consistent throughout; hair and fabric should flow naturally in the direction of flight. 0–2.2 seconds: Begin directly with intense action. The dragon leans nearly vertically to one side as it speeds through the gap between two floating giant rune stones; glowing spears and shattering arrows whiz past from all sides. Low-angle side shot showing the heroine leaning forward and gripping her mount tightly. The dragon instantly folds its wings, narrowly slipping through the closing gap. Strong winds, the flapping of wings, and the metallic sound of metal cutting through the air. 2.2–4.4 seconds: Plunges into the realm of the Fire Giants. A lava giant swings a blazing giant axe from within the volcanic cloud. The dragon quickly dodges left and dives downward to evade the axe blade, then climbs rapidly along the glowing surface of the axe. The camera spirals in pursuit, with a river of lava and burning runes below. 4.4–6.6 seconds: A match cut transitions from fire to ice and snow. The dragon folds its wings and dives vertically into a narrow glacial valley, weaving right–left–right to dodge massive icicles. The heroine ducks to avoid the ice blades; the camera shifts to a view beneath the dragon’s belly. Just as the ice bridge collapses, the dragon spreads its wings and soars sharply upward, skimming the fissure. 6.6–8.9 seconds: Plunges into a black thundercloud. Lightning forms an ever-shifting labyrinth of Norse runes. The dragon soars, dives, and zigzags left and right; each time it brushes past a bolt of lightning, blue-and-white celluloid shock frames appear. The heroine raises her glowing runic javelin and cleaves through the final lightning barrier. Thunderclaps and drumbeats accelerate in unison. 8.9–11.4 seconds: They burst out of the clouds, with the raging midnight ocean below. A gigantic World Serpent bursts from the sea. The dragon dives low over the water, causing the sea to form exaggerated blue arcs; it then soars upward along the serpent’s coiled body. The serpent opens its jaws to strike, and the dragon spirals upward at high speed, passing between its massive fangs. The camera follows closely behind, passing through the serpent’s mouth. 11.4–13 seconds: The dragon plunges vertically into a sky tunnel composed of ravens, shattered shields, glowing branches of the World Tree, and golden runes. All trials rapidly fall behind, the music reaches its climax; the dragon smashes through the thick cloud layer. 13–15 seconds: The rhythm suddenly softens. The dragon spreads its wings over the dawn-lit sea of clouds and glides quietly. The heroine relaxes her body and gently strokes the dragon’s neck. The camera slowly pulls back, as warm golden sunlight illuminates the emerald and orange silhouettes; the World Tree faintly emerges from the mist in the distance. The drumming ceases, leaving only a gentle breeze, the dragon’s breath, and ethereal Norse chanting. The scene freezes on a serene, magnificent wide-angle shot. Restrictions: Strictly maintain the high-quality 2D cel-shaded style of @image1; actions should be fast-paced, but each trial must be clearly discernible. Prohibited: art style drift, 3D, realism, character costume changes, facial alterations, body distortion, extra limbs, riders detaching from the dragon, modern objects, text, subtitles, logos, dialogue, and gory imagery.</code></pre>
+
+</details>
+
+## Luxurious Salon ASMR Hair Treatment Animation
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2087432083316822489)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2808](https://imglume.com/prompt/2808)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/633c46c2-62ca-4b42-a5e8-6d901cebeedc/243e5cbd-6ade-4e22-bf34-4018300d6191-1786537196867 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D Pixar-style animation, 8K resolution, vertical portrait orientation, 3:4 aspect ratio. A cozy, luxurious salon ASMR hair treatment session sequence. A cute young animated woman with long, silky black hair wearing a plush white bathrobe is reclining comfortably at a sleek white shampoo bowl. A cheerful stylist with a neat messy bun and apron gently washes, shampoos, and massages her hair. The clip features close-up details of water pouring from a golden faucet, rich white foam lathering, a wooden scalp massage brush working through soft foam, drops of hair oil being massaged into the scalp, smooth wooden combing, and drying with a white towel. Ending with the woman sitting up, smiling brightly at the camera, showcasing super shiny, voluminous, soft hair. Cozy aesthetic with warm glowing candles, marble countertops, white orchids, and golden accents. Cinematic lighting, soft depth of field, ultra-smooth camera movement, realistic fluid physics, relaxing and soothing atmosphere. --ar 3:4</code></pre>
+
+</details>
+
+## Kenjiro Moonlit Standoff Cinematic Animation
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2087332322421158214)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2791](https://imglume.com/prompt/2791)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e2b403f2-4951-4022-bf06-fadbe8f29ad1/faeca9ed-cf03-4622-8cbd-23ea1841f3ef-1786528542180 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e2b403f2-4951-4022-bf06-fadbe8f29ad1/2ac2a8dc-b6bb-4576-b5a3-8bbe8a0c5632-1786528542180 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e2b403f2-4951-4022-bf06-fadbe8f29ad1/205ee0bc-af7b-45e2-a7a7-7e87496547cd-1786528542180 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 2.5D animation: fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture on skin, cloth and buildings, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin.
+
+WORLD: A moonlit field of tall white pampas grass, palette of midnight indigo and bone white, one crimson-red accent, drifting fireflies, layered fog depth, wind sweeping the grass.
+
+CHARACTERS: - HERO: KENJIRO @[Image1] A tall slim shinobi-samurai with a facial scar and wolf-like topknot, wearing a massive oversized faded-indigo haori, thick rope belt, thin bandage-wrapped ankles, a vibrant crimson tattered scarf, and a dark-iron skeletal prosthetic arm. Elongated stylized proportions, painterly matte skin with brush-stroke shading.- RIVAL: A massive shadowed samurai silhouette with a glowing straw hat.
+
+CINEMATIC STANDOFF SHOT DESIGN (6 Filmic Cuts with Expressions):• SHOT 1 (0–2s | Hero Arrival): Medium shot of Kenjiro stepping into the moonlit clearing, confident lethal body language. The wind howls, sweeping the tall white grass violently around him.• SHOT 2 (2–4s | Unknown Figure): OTS behind Kenjiro, the rival samurai visible as a massive shadowed silhouette at the far end of the field. Identity obscured.• SHOT 3 (4–6s | Recognition): Reverse OTS from behind the rival, framing Kenjiro's scarred face. His expression shifts to a grim, steely recognition. His eyes narrow.• SHOT 4 (6–9s | Expression Exchange): Alternating close-ups: Kenjiro's eyes filled with cold determination → the rival's glowing eyes under the straw hat. No words. Tension through micro-expressions.• SHOT 5 (9–11s | Weapons Ready): Macro insert of Kenjiro's dark-iron prosthetic hand slowly gripping the hilt of his katana, the metal clinking softly. The promise of conflict.• SHOT 6 (11–15s | Wide Standoff): Wide shot framing both characters at distance facing each other in the moonlight. White pampas grass and drifting fireflies between them. Neither moves. The crimson scarf whips violently in the wind. Hold final frame.
+
+Weighty natural animation, heavy coat and crimson scarf reacting to strong wind, filmic 24fps shutter, shallow depth of field.
+
+NOT flat 2D cartoon, no bold outlines, no cel shading, not glossy CGI, not Unreal Engine, no photorealism.</code></pre>
+
+</details>
+
+## 3D cinematic Newspaper delivery
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2087384436619067805)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2782](https://imglume.com/prompt/2782)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c28d2257-d33c-48a9-88ad-045b9ae54fe1/ae24004b-2d40-4fc4-b448-2f8406d1e155-1786522308498 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second high-quality 3D cinematic animated short about a young newspaper delivery girl trying to complete her morning route, but the entire city seems determined to make her late. She wears a bright yellow delivery jacket, dark pants, sneakers, and a delivery backpack filled with newspapers. Expressive face, charming animated-film aesthetic, detailed environments, realistic 3D animation.
+
+Sunrise over a busy city. The girl wakes up, checks her watch, gasps, grabs a stack of newspapers and rushes outside with her bicycle.
+
+She jumps onto the bicycle and races through the streets, delivering newspapers to houses while checking the growing pile in her backpack.
+
+A huge traffic jam blocks the road. She looks frustrated, quickly turns around, and squeezes through a narrow side street.
+
+A city bus suddenly blocks her path. She brakes hard, jumps off the bicycle, runs around the bus, then hops back on and speeds away.
+
+She reaches a crowded intersection. Pedestrians cross everywhere, a dog runs across her path, and a delivery truck blocks another route. She dodges everything with quick, comedic movements.
+
+She spots a shortcut through a lively market. She races between stalls, narrowly avoiding boxes and carts while newspapers fly slightly from her backpack.
+
+She arrives at the final apartment building, jumps off the bicycle, grabs the last newspaper, and races up the stairs two steps at a time.
+
+She delivers the final newspaper, checks her watch, exhales with relief, and smiles proudly. Outside the window, the chaotic city continues rushing by as she gives the camera a playful “Made it!” expression.
+
+Dynamic cinematic camera, fast tracking shots, low-angle bicycle shots, overhead city shots, whip pans, comedic timing, realistic motion blur, detailed city traffic, expressive character animation, warm sunrise lighting, cinematic depth of field, polished AAA animated-film quality, 4K, 24fps, 16:9.
+
+Negative Prompt: No subtitles, no on-screen text, no logos, no watermarks, no duplicate characters, no distorted anatomy, no flickering, no unnatural motion, no low-detail environments.</code></pre>
+
+</details>
+
+## Ancient Chinese army vs massive wild boar – cinematic animation
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2087214738115788870)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2757](https://imglume.com/prompt/2757)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/088bc5b8-af88-437b-9c8e-88325f87ff41/9241e183-0489-41c8-9a4e-fdacde466157-1786480254961 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/088bc5b8-af88-437b-9c8e-88325f87ff41/d3ce49c8-c0ab-4027-a555-d283a887d722-1786480254961 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/088bc5b8-af88-437b-9c8e-88325f87ff41/76c81f2f-0d16-4a65-9b93-aa36a8090850-1786480254961 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>STYLE: Painterly digital matte-painting animation, faceted low-poly brushstroke forms, flat angular color planes with visible palette-knife edges, muted desaturated palette — overcast grey-blue sky, pale salmon-pink creature flesh, dusty blue-grey armor, ochre mud — with deep crimson red as the ONLY saturated accent color. Cinematic wide-lens battle framing, heavy atmospheric haze, film grain, 24fps, no cel-shading, no anime linework, no 3D game-engine render.
+
+SUBJECT: @beast (matches input image 2 100%) — a colossal quadrupedal boar-demon with pale salmon-pink faceted hide, jagged dark spines running down its back, two large curved ivory tusks, a small black eye, blood-smeared snout and dripping jaws, moving with immense heavy mass. @army (matches input image 1 100%) — an ancient East-Asian army: a young armored commander with black bangs and an orange cloak riding a pale horse, flanked by rows of grey-lamellar infantry and cavalry in conical helmets carrying long spears, with tall crimson banners bearing a single bold white character.
+
+LOCATION: A vast open battlefield plain under a heavy overcast sky, churned brown mud, scattered spears and broken shields, distant ranks of soldiers fading into grey haze on the horizon.
+
+ACTION — the beast breaks a formation, takes a wound, and is left alone as the sole survivor:
+SHOT 1 (0:00–0:03) — Low ground-level angle: the beast charges from frame left across the muddy plain toward the massed army line, banners rippling on the ridge behind them. CUT.
+SHOT 2 (0:03–0:06) — The beast's head smashes into two cavalrymen on pale horses; both riders are hurled from their saddles, cloaks flaring. CUT.
+SHOT 3 (0:06–0:09) — Side profile: the beast tears through the infantry ranks, a crimson banner passing behind its spines. CUT.
+SHOT 4 (0:09–0:12) — Tight close-up: a spear thrusts in from frame right and buries into the beast's neck; blood runs down the faceted hide as it recoils. CUT.
+SHOT 5 (0:12–0:16) — The beast throws its head upward and flings a soldier high into the empty grey sky; the body tumbles small against the clouds. CUT.
+SHOT 6 (0:16–0:19) — Low insert: crushed shields and armor half-sunk in churned mud, a spear shaft snapping under weight. CUT.
+SHOT 7 (0:19–0:22) — The beast rears and roars beneath a huge crimson banner filling the upper frame. CUT.
+SHOT 8 (0:22–0:25) — Sudden silence. Slow wide shot of the aftermath: the plain scattered with fallen bodies, upright spears and abandoned banners, mist drifting low. CUT.
+SHOT 9 (0:25–0:28) — The beast rises from among the bodies in the middle distance, pushing itself upright on its front limbs, breath steaming. CUT.
+SHOT 10 (0:28–0:30) — Front-on close-up of the beast's face — tusks, wet snout, the small black eye — as it opens its jaws and roars directly into the lens. Hold. Cut to black.
+
+CAMERA: Locked-off low angles and slow lateral tracking for the charge; a rapid handheld push-in with shake for the spear impact; a static wide with a very slow forward creep for the aftermath; a slow low crane-up into the final face close-up. Shallow depth of field on all close inserts, distant ranks always soft in haze.
+
+AUDIO: Deep guttural beast breathing and roars, heavy hooves and body impacts in wet mud, snapping wood, distant shouting soldiers, banner cloth flapping in wind — then near-total silence with only low wind for the aftermath shot, broken by the final roar. Low sub-bass drone underneath. No music, no dialogue, no subtitles.
+
+CONSTRAINTS: 16:9 aspect ratio. The beast must match input image 2 100% and the soldiers, armor, horses and banners must match input image 1 100% — no identity drift across cuts. Keep the desaturated grey-blue and salmon-pink palette with crimson banners as the only saturated color; no bright colors, no orange fire, no glowing effects, no eye glow. Painterly faceted brushstroke rendering held in every frame — no photorealism, no 3D game-engine look, no cel-shaded anime style. Blood is stylized flat crimson shapes, not realistic gore. No slow-motion except the soldier thrown into the sky. No text, letters, logos or subtitles anywhere in frame except the single character already printed on the banners.</code></pre>
+
+</details>
 
 ## Cozy indoor dance with animated anime and Spider‑Gwen overlays
 

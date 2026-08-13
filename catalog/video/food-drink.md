@@ -1,9 +1,238 @@
 # Food Drink video prompts
 
-40 source-linked prompts, newest ImgLume records first.
+44 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Realistic Late-Night Kitchen Smartphone Video
+
+- **Original source:** [@AIWithRay on X](https://x.com/AIWithRay/status/2087544594384773346)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2822](https://imglume.com/prompt/2822)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a0588e2e-0f09-400c-82a5-ddef9a872773/e87089e0-f803-41ac-8c01-b0315118716c-1786553741195 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT: 30-second horizontal 16:9 realistic smartphone video.
+
+Create an authentic, imperfect everyday late-night kitchen phone recording, as if a friend casually left a phone recording on the counter. Use a standard smartphone camera with mild autofocus hunting, subtle exposure shifts, natural motion blur, compression artifacts, and slightly uneven handheld framing. No polished commercial look.
+
+00–05s — WALKING IN
+
+The character walks into a quiet home kitchen carrying a small grocery bag. They set it on the counter, sigh quietly, and pull out a few simple ingredients.
+
+They glance at the phone for a second before turning back toward the counter.
+
+Camera remains several feet away at counter height, as if casually recording from a nearby surface.
+
+05–10s — GETTING STARTED
+
+They wash their hands, turn on the kitchen light, and begin preparing the ingredients.
+
+A cutting board shifts slightly against the counter. They pause to move it into a better position.
+
+The character looks tired but relaxed, occasionally brushing their hair away from their forehead.
+
+10–15s — COOKING
+
+They place a pan on the stove and begin cooking.
+
+Steam gradually becomes visible. The phone autofocus briefly shifts between the character and the foreground pan before settling again.
+
+They stir the food, taste a tiny amount, think for a moment, then add a little more seasoning.
+
+No readable labels or packaging should be visible.
+
+15–20s — SMALL MISTAKE
+
+The character gets distracted for a moment and notices the food starting to cook more quickly than expected.
+
+They immediately lower the heat and give a small amused shake of their head.
+
+They quietly mutter something like:
+
+“Yeah… almost forgot about that.”
+
+The delivery should feel spontaneous and understated.
+
+20–25s — FINISHING
+
+They finish preparing the food, turn off the stove, and carefully transfer the meal onto a plate.
+
+They wipe a small splash from the counter with a paper towel.
+
+Natural movements only—nothing overly choreographed.
+
+25–30s — QUIET ENDING
+
+They sit at the kitchen table with the finished meal.
+
+They take one bite, pause, and give a small satisfied smile.
+
+They look toward the phone and quietly say:
+
+“Honestly… not bad.”
+
+They pick up the fork again and continue eating as the camera keeps recording for another moment before the clip naturally ends.
+
+AUDIO
+
+Natural kitchen ambience only: refrigerator hum, ventilation, running water, utensil sounds, pan sizzling, footsteps, clothing movement, cupboard and drawer sounds, plate and fork noises, and subtle room ambience.
+
+No music.
+
+Dialogue should sound spontaneous and conversational, with natural pauses and imperfect delivery.
+
+VISUAL REALISM
+
+Authentic smartphone footage, ordinary warm household lighting, realistic skin texture, natural shadows, mild phone-camera sharpening, subtle compression noise, imperfect exposure, slight autofocus changes, believable reflections, natural steam, realistic food textures, and ordinary kitchen imperfections.
+
+STRICTLY AVOID: cinematic color grading, beauty filters, artificial skin smoothing, dramatic slow motion, music, subtitles, captions, logos, readable text, perfect lighting, excessive camera shake, exaggerated acting, unrealistic food or steam, duplicated objects, warped hands, unnatural facial expressions, scene cuts, time jumps, or skipping the described actions.</code></pre>
+
+</details>
+
+## Cinematic handheld food vlog of Korean night market with cheesy dakgalbi
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2087543946260172925)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [2819](https://imglume.com/prompt/2819)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/25b4b080-0db6-4a05-b019-ebb1303eef12/6317c386-5fa3-4de5-a1cd-8d60c1cb8600-1786549665425 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>7-shot cinematic handheld smartphone food vlog, ultra-photorealistic, authentic travel VLOG aesthetic. Natural handheld movement with subtle focus breathing, casual framing, realistic exposure shifts, warm evening lantern lighting, shallow depth of field, soft film grain, immersive documentary realism.
+
+A young woman image explores a lively Korean night market and sits at a small outdoor street-food stall. The reference image determines her facial identity, complete outfit, she wears an orange top with a yellow collar and a thin gold necklace. red-painted nails that have gold accents and designs. Multiple chunky gold rings on her fingers., accessories and hairstyle. She stays seated at the same counter facing the camera throughout the meal. No other faces are visible—only the vendor's hands occasionally enter the frame while preparing food.
+
+The counter is filled with a sizzling black stone plate of Korean cheese dakgalbi (spicy chicken, melted mozzarella, cabbage, rice cakes, sweet potatoes, sesame seeds, green onions), chilled barley tea, stainless chopsticks, wooden spoon, pickled radish, kimchi, and paper napkins. The background features glowing neon Korean signs, hanging lanterns, rising steam, distant conversations, food stalls, and a vibrant summer evening atmosphere.
+
+Shots:
+
+1. The sizzling dakgalbi arrives with steam rising dramatically. She smiles excitedly and says:
+
+"와... 냄새 진짜 좋다!"
+
+2. Close overhead shot as the vendor stretches the melted cheese across the pan with metal tongs.
+
+3. She wraps cheesy chicken around a rice cake, takes a big bite, laughs, and fans her mouth playfully from the heat.
+
+4. She sips cold barley tea, exhales with relief, then quietly says:
+
+"이 조합 최고다."
+
+5. She picks up kimchi and pickled radish between bites while enjoying the smoky flavors.
+
+6. Nearly finished meal. She gives a satisfied nod and says:
+
+"다음에 또 와야겠다."
+
+7. An empty sizzling plate remains on the counter. She leans back smiling while colorful neon reflections glow behind her as the bustling night market continues.
+
+Audio Design
+
+Only authentic environmental sound: sizzling grill, bubbling cheese, chopsticks, metal utensils, tea pouring, distant market chatter, footsteps, soft breeze, and ambient city nightlife. No background music, subtitles, logos, watermarks, duplicate reference images, or artificial sound effects.</code></pre>
+
+</details>
+
+## Woman preparing coffee and toast in kitchen, photorealistic cinematic video
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2087453798520524984)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [2804](https://imglume.com/prompt/2804)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4d277661-de2c-4b64-9605-682872834f3d/dd1b5b32-43a9-4184-9112-f6a76e399ace-1786537116304 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Maintain the exact same woman, appearance, outfit, apartment kitchen, warm morning lighting, realistic cinematic style, and visual continuity from the reference video.
+
+Continue the original 10-second sequence exactly as shown. After she finishes preparing her coffee and toast, she sits at the kitchen table with her coffee and bread.
+
+10–15 seconds: She picks up the bread, takes a natural bite, gently chews, and enjoys her breakfast. She then takes a small sip of coffee and ends with a subtle, relaxed smile.
+
+Photorealistic, cinematic, natural body and hand movements, realistic food texture, smooth camera motion, soft morning sunlight, shallow depth of field. Keep the character and environment perfectly consistent. No sudden cuts, no extra people, no face or hand distortion.</code></pre>
+
+</details>
+
+## POV River-to-Campfire Trout Cooking Sequence (30s Video)
+
+- **Original source:** [@abxxai on X](https://x.com/abxxai/status/2087189194720657649)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `food-drink`
+- **ImgLume record:** [2777](https://imglume.com/prompt/2777)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b47cda92-83d9-499f-94e3-7e264e613d4b/d3914a74-872b-4bb7-bc01-e9dccf673c39-1786518098511 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SCENE CONTEXT
+POV river-to-campfire sequence at a jade-green alpine river through birch/cedar forest, late-afternoon light. A trout is caught, cleaned, seasoned, grilled over an open fire, then eaten, with one sip from a glass bottle while it cooks. 30s, four continuous segments, three hard cuts, real chest-mounted action camera.
+
+ACTIVE REFERENCES
+@location1: jade-green river, granite boulders, gravel bar, stone fire-ring, tree-stump table, birch/cedar tree line, faint peaks. 100% matches reference.
+@hands1: sun-tanned forearms, light-blond arm hair, olive sleeve rolled to elbow, braided wrist cord. Same fly rod, folding knife, wood board, wire grill basket, plain glass bottle, brown fizzy liquid, no label. 100% matches reference.
+
+LOCATION MAP
+Segment A: river foreground, tree line behind. Segments B-D: gravel bar foreground, fire-ring and stump table midground, tree line and peaks background. POV chest-to-eye height, moving only with the body. Key light low, behind camera-left.
+
+FIRST FRAME / BLOCKING
+Non-empty opening frame: already mid-cast, rod raised, line already peeling off the reel. Water fills the lower two-thirds, forest/sky the top third.
+
+FORMAT MODE
+Controlled multi-shot, three HARD CUTs, camera does not cut anywhere else:
+A (0-9s) river, one continuous take. HARD CUT.
+B (9-21s) board, one continuous take. HARD CUT.
+C (21-27s) fire, one continuous take. HARD CUT.
+D (27-30s) eating, one continuous take.
+
+OPTICS
+84° in A easing to 63° through the fight. 63° easing to 18° across B. 63° opening to 29° in C. 29° held in D. No drift within any segment.
+
+CAMERA
+Chest-height POV, moving only with body motion — forward stroke on the cast, downward tilt on the knife and grate, forward lean when hands work close. Soft highlight roll-off on bright water and hot metal.
+
+ACTION
+A: rod arcs, line whistles; tip snaps down as the trout strikes; rod pumps, reel clicking, fish surfacing closer each pump; hand closes behind the gills, lifts the fish clear, holds it still one beat as water streams off. B: boots cross the gravel, fish set on the board, knife meets scales, scrapes tail to head; one clean line opens the belly, organs lift free; fish rinses in the shallows, pink cloud drifting off; salt, pepper, herbs scatter over the flesh; fish folds into the basket, latch clacks. C: kindling catches from a breath, flame licks up; basket lowers onto the grate, skin bubbles and browns, smoke lifts. D: bottle tips up for one swallow; fork pauses a half-second at the flesh before splitting it open, steam lifting as a piece rises toward camera, one quiet exhale closing the shot.
+
+PERFORMANCE
+Hands stay continuously busy with real working tasks, never idle. Pore-level realism: vellus arm hair in the breeze, capillary flush from cold water. Movements read practiced, unhurried, one deliberate pause at the fish-lift and one at the first bite, restrained and human, never cartoonish.
+
+PHYSICS
+No floating props. Correct contact shadows under every prop, every segment. Water carries real weight and splash. Fire holds true flicker, heat-shimmer, smoke on a light breeze. Mass and inertia carry through the rod bend, the fish's thrashing and the latch.
+
+LIGHTING
+WB locked 5600K, warm low sun behind camera-left as key, cool sky fill through A-B. From C onward, ember-orange fire light adds a low rim on hands and fish alongside the same key.
+
+COLOR GRADE
+Cool jade-green river/forest in A, warm honey wood and pale gravel in B, ember-orange fire glow and seared skin in C-D. Color tied to source and surface, not a flat list.
+
+AUDIO
+Warm acoustic guitar bed under everything, mixed low, sitting quietly beneath the natural sound. Diegetic: river current and line-whistle opening A, splash and reel-drag through the fight; gravel footsteps opening B, knife-on-wood, one clean cut sound, rinse-splash, hinge-click closing it; twig-snap opening C, crackle into sizzle; glass clink and swallow opening D, fork scrape, steam hiss, one quiet chuckle closing the shot. No subtitles.
+
+STYLE
+8K photorealistic — no 3D render, no game engine, no game-cutscene aesthetic. Naturalistic master cinematography, fine film grain, true action-camera color science.
+
+OUTPUT SETTINGS
+Real-time throughout, no speed ramping, FOV holds exactly as stated per segment with no drift across any hard cut.
+
+POSITIVE LOCKS
+Same hands, sleeve and wrist cord across all four segments. Same rod, knife, board, basket and bottle, no substitutions across any cut. Same river, gravel bar and fire-ring geometry held across every segment. Fish skin and flesh stay anatomically real. Eyes stay natural — no eye glow. Contact shadows read clearly every segment. No logos, no UI, no subtitles anywhere in frame.</code></pre>
+
+</details>
 
 ## Cinematic Korean Convenience Store Snack Challenge Vlog
 

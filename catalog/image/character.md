@@ -1,9 +1,176 @@
 # Character image prompts
 
-70 source-linked prompts, newest ImgLume records first.
+77 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Thoughtful Owl in Yellow Sweater Illustration
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2087507859021996109)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2816](https://imglume.com/prompt/2816)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c3570766-fd84-4204-a980-3e324d0f1ddd/96b91a5d-76a0-4b51-8a95-16b563377b5e-1786549541582 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A whimsical anthropomorphic illustration of a small fluffy owl standing at the edge of a calm body of water. The owl wears a pair of round reading glasses with thin gold-metal frames perched on its beak, and a tiny knitted sweater in soft mustard-yellow with a subtle cable pattern. The owl has large expressive amber eyes, cream and brown feathers with soft texture, rendered with fine colored-pencil detail on the plumage and the knit stitch texture of the sweater.
+
+Artistic technique: digital painting mimicking traditional watercolor and colored pencil. Characteristic watercolor pigment bleeding in the background washes, combined with sharp fine-line colored-pencil detail defining feather texture, glasses frames, and sweater stitches.
+
+Color palette: muted, earthy, and cool-toned. Dominant colors — soft beige and cream (background and owl underbelly), warm brown and slate gray (owl wings and markings), mustard-yellow (sweater), thin gold (glasses frames). Accent — pale periwinkle blue wildflowers tying the scene together.
+
+Background: minimalist, soft-focus wash of cream and light beige, suggesting a hazy overcast day. Delicate sketchy renderings of tall grasses and small blue flowers framing the owl. A single fallen blue flower near the owl's feet. Subtle water reflection mirroring the owl's lower body and the grassy bank.
+
+Lighting: soft, diffuse, and even, typical of an overcast day. No harsh shadows or high-contrast highlights. Gentle storybook quality. Cozy, nostalgic, and endearing atmosphere, like a classic children's book illustration.</code></pre>
+
+</details>
+
+## Raspberry Bunny character sheet
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2087168054568558738)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2803](https://imglume.com/prompt/2803)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a09e26b5-4283-42bb-a090-309f09c23ec2/3bf0ffaa-d068-48d7-97bc-34208951a48a-1786534902234 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a09e26b5-4283-42bb-a090-309f09c23ec2/1b11222a-4614-44f6-a49d-f041ef97803f-1786534902234 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-detailed 16:9 kawaii fantasy character design sheet, official anime game character bible, clean premium editorial layout, elegant ivory-white background with soft raspberry-pink accents. Character name "RASPBERRY BUNNY", title "Sweet Recipe", subtitle "A cheerful pastry mage who turns berries, cream and a little bunny magic into happiness."
+
+Left panel features a large full-body hero illustration of a cute anime pastry girl with long honey-blonde curled twin tails, bright aqua eyes and a cheerful expression. She wears an elaborate raspberry-themed pink-and-white Lolita patisserie dress with puff sleeves, striped fabric, layered ruffled skirt, white apron, chocolate-brown bows, mint ribbon accents, raspberry decorations and tiny bunny ornaments. A whimsical dessert headpiece features tall pink-and-white striped rabbit ears, whipped cream and a fresh raspberry. She holds an ornate cream whisk wand decorated with ribbons and dessert details, accompanied by a tiny floating white bunny familiar.
+
+Center panel includes professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, costume, bunny headpiece, fluffy bunny tail and accessories, neutral production-reference pose.
+
+Right panel contains close-up detail panels showing the raspberry bunny headpiece, mint-and-white back bow with heart charm, bunny ornament, layered raspberry skirt decorations and lace craftsmanship.
+
+Bottom section includes prop breakdowns for the magical whisk wand, bunny familiar, Mary Jane shoe and striped stocking, plus fabric &amp; pattern swatches featuring pink stripes, white ruffles and pink polka dots. Include a soft color palette of raspberry pink, blush pink, mint, chocolate brown and warm cream.
+
+Style: official kawaii fantasy RPG character sheet, Japanese Lolita fashion, magical patisserie girl, premium anime game artbook illustration, soft pastel rendering, intricate lace and ruffles, dessertcore, bunnycore, highly detailed costume design, charming collectible-game character aesthetic, production-ready concept art, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.</code></pre>
+
+</details>
+
+## Waist-up editorial portrait with flat paper collage
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2087423650685407396)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2802](https://imglume.com/prompt/2802)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fc630456-8243-4a36-b2ae-e46e4e84f4d3/94375704-be0d-477a-875e-4e709495792d-1786532916104 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fc630456-8243-4a36-b2ae-e46e4e84f4d3/bdc9b304-112c-4fe3-8831-3d1503025f8b-1786532916104 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/fc630456-8243-4a36-b2ae-e46e4e84f4d3/3953b288-2751-4000-b1ec-48da147b0969-1786532916104 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Waist-up editorial portrait of [CHARACTER] in a calm three-quarter pose, with [HAIR], wearing [CLOTHING], oversized geometric sunglasses, bold circular earrings, layered necklaces, and holding [OBJECT] near the shoulder. Stylized [ANIMAL] beside the figure, constructed from the same flat cut-paper shapes and simplified graphic anatomy. Hand-cut paper collage with angular facial planes, minimal features, sharp silhouette edges, flat opaque color blocks, visible paper fibers, subtle screen-print grain, slight color misregistration, dry crayon-like marks, and no dimensional modeling. Controlled [COLOR] palette. Background made from [ELEMENTS], arranged as overlapping rectangles, rounded panels, striped inserts, hand-drawn grids, and small geometric accents on warm speckled off-white paper. Maintain a balanced modern editorial composition, strong negative space, crisp color separation, and tactile handmade print aesthetics.</code></pre>
+
+</details>
+
+## Kenjiro Character Concept Art Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2087332322421158214)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2790](https://imglume.com/prompt/2790)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/afc173bf-1e31-4602-a32d-2f436fb6c6a7/2aecffd1-08d9-4123-93d7-2da86f841fef-1786528542180 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/afc173bf-1e31-4602-a32d-2f436fb6c6a7/9b6c7ed0-1420-4180-9309-acb2665c65de-1786528542180 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/afc173bf-1e31-4602-a32d-2f436fb6c6a7/95be5549-50cc-4008-90e8-1cb6d10ecbd4-1786528542180 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background.
+
+THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: shapes defined purely by value and color cuts with NO outlines and NO lineart of any kind, hard-edged brush shapes, muted desaturated palette identical to the reference, identical overall brightness and contrast (light, airy, white-background — do NOT darken), soft single-source lighting with shadows as clean flat cut shapes. Every figure — the centerpiece, turnarounds, poses, expression heads, and detail crops — must look like it was painted by the same artist, in the same file, as the reference image.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no graphite lines, no cel-shading, no anime style, no 3D render look, no soft volumetric shading, no glossy highlights, no ambient occlusion, no added contrast, no darkened or moody color grading, no photorealism. If the reference lacks a feature, this sheet lacks it too. Render small figures as if cropped from a larger painting, never as simplified icons.
+
+[PROPORTIONS]: Match the reference's exact body proportions in every figure — elongated fashion-illustration anatomy (10 heads tall, small head, long slender limbs, narrow waist). Do not normalize proportions in the smaller studies.
+
+[SUBJECT_DESCRIPTION]: Young battle-weary shinobi-samurai, facial scar, messy wolf-like topknot. Left arm is a skeletal prosthetic made of dark-iron and bone. Outfit: massive oversized asymmetrical faded-indigo haori coat, thick rope belt, skinny ash-gray pants, bandage-wrapped ankles, straw sandals. Accessories: vibrant crimson tattered scarf, sleek katana.
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography of the name "KENJIRO" in a clean, heavy sans-serif condensed font.- Metadata Block: "ROLE", "CORE MOOD", and "VISUAL SIGNATURE" in a clean sans-serif font.- MINI TURNAROUND: 3 small vertical figures — "neutral", "back view", "profile" — painted in the identical reference style, no outlines.- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances underneath.- EXPRESSION STUDY (Bottom Left): exactly 4 small close-up headshots with subtle expression shifts (deadpan, narrowing eyes, quiet fury, side-glance).
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a lethal, relaxed signature pose resting his hand on his katana, maximum detail, rendered as a perfect style-match to the reference image.
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: exactly 4 small-to-medium figures in dynamic casual stances (adjusting prosthetic arm, drawing katana, sitting cross-legged, wind blowing scarf), each with a small handwritten-style label underneath, all in the identical reference style.
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- Exactly 5 small square close-up crops of unique features: the dark-iron prosthetic hand, the crimson tattered scarf, the facial scar, the braided rope belt, and the katana hilt.- Each crop gets a clean handwriting-style label underneath.</code></pre>
+
+</details>
+
+## Gothic Wine
+
+- **Original source:** [@carlon_ariel on X](https://x.com/carlon_ariel/status/2087181749902094610)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2768](https://imglume.com/prompt/2768)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1b7b4551-79e6-464f-b237-aafabc087d52/75de3c92-051d-449d-b97d-7375604d229b-1786505447745 "wine red gothic lolita dress, monochromatic wine red color palette, deep burgundy velvet fabric, burgundy floral lace, burgundy embroidery, high Victorian lace collar, embroidered neckline, fitted corset bodice, ornate baroque embroidery, layered lace ruffles, long puff sleeves, fitted lace cuffs, structured waistline, dramatic bell-shaped skirt, voluminous layered skirt, tiered ruffle skirt, matching burgundy overskirt, matching burgundy underskirt, scalloped lace hem, rose embroidery, all decorative elements in wine red, all lace in wine red, all embroidery in wine red, all ribbons in wine red, elegant noble silhouette")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>wine red gothic lolita dress, monochromatic wine red color palette, deep burgundy velvet fabric, burgundy floral lace, burgundy embroidery, high Victorian lace collar, embroidered neckline, fitted corset bodice, ornate baroque embroidery, layered lace ruffles, long puff sleeves, fitted lace cuffs, structured waistline, dramatic bell-shaped skirt, voluminous layered skirt, tiered ruffle skirt, matching burgundy overskirt, matching burgundy underskirt, scalloped lace hem, rose embroidery, all decorative elements in wine red, all lace in wine red, all embroidery in wine red, all ribbons in wine red, elegant noble silhouette</code></pre>
+
+</details>
+
+## Ultra-detailed oriental dark fantasy character sheet of JADE SPIRIT, Soul Warden
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2087171906541965724)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2763](https://imglume.com/prompt/2763)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c9db7876-00c5-4ba3-8fd4-578d9e12f375/a224c5b3-7623-432f-bc58-7bc917c46912-1786492858088 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c9db7876-00c5-4ba3-8fd4-578d9e12f375/71f4665e-1181-4744-8a4b-dc821932dfe0-1786492858088 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-detailed 16:9 oriental dark fantasy character design sheet, official anime RPG character bible, elegant parchment-white background with subtle traditional Chinese cloud motifs and refined red seal accents. Character name "JADE SPIRIT", title "Soul Warden", subtitle "A wandering spirit keeper who seals restless souls beneath moonlit jade."
+
+Main section features a mysterious young female spirit warden with pale skin, long flowing black hair with subtle teal highlights, braided side locks, crimson eyes and an elegant expression. She wears a dark Chinese-inspired fantasy outfit combining black, deep jade, muted teal and crimson: short layered dress, oversized flowing bell sleeves covered in luminous jade cloud patterns, traditional knotted ornaments, red tassels, jade pendants, talisman charms and black platform heels. A dark ceremonial hat decorated with red cords, jade ornaments and hanging paper talismans frames her silhouette.
+
+Include professional turnaround views (Front, Side, Back), perfectly consistent anatomy, hairstyle, costume, sleeve patterns, talismans and accessories.
+
+Right panel contains detailed close-ups of ceremonial hat, hanging talisman, jade hair ornaments, embroidered sleeve patterns, waist charms, tassels and platform shoes. Bottom section includes a refined color palette of ivory, charcoal black, deep jade, muted teal, crimson red and warm gray, plus pattern swatches featuring stylized clouds, geometric Chinese motifs, jade symbols and spirit-sealing talismans.
+
+Style: official oriental fantasy RPG character sheet, Chinese supernatural folklore, jiangshi-inspired spirit warden aesthetic, premium anime game artbook illustration, elegant ink-inspired ornamentation, intricate fabric embroidery, mystical jade accessories, subtle ghostly atmosphere, production-ready concept art, masterpiece, best quality, ultra detailed, 8K, clean composition, no watermark, no logo, no deformed anatomy, no extra limbs.</code></pre>
+
+</details>
+
+## Krea 2 System Prompt for 2D Anime Turnaround Model Sheet
+
+- **Original source:** [@IamEmily2050 on X](https://x.com/IamEmily2050/status/2087117148707492254)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2752](https://imglume.com/prompt/2752)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca86ac16-93b8-42cd-8fc5-7e2b4de1567b/53cd5396-a0d7-4337-82ad-4863887842e0-1786476052354 "@iamemily2050") · [2](https://cdn.imglume.com/prompts/byradar/ca86ac16-93b8-42cd-8fc5-7e2b4de1567b/bfd968ee-1ac3-4560-9c28-aaae2accd124-1786476052354 "@iamemily2050") · [3](https://cdn.imglume.com/prompts/byradar/ca86ac16-93b8-42cd-8fc5-7e2b4de1567b/ab8b272a-8b05-499f-8c51-dc1854179dc9-1786476052354 "@iamemily2050") · [4](https://cdn.imglume.com/prompts/byradar/ca86ac16-93b8-42cd-8fc5-7e2b4de1567b/cac2507d-9e60-4f7c-a901-18dbe75c0194-1786476052354 "@iamemily2050")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a [exact aspect ratio] horizontal [2D anime / illustrated] turnaround model sheet. The page contains exactly [three or four] complete full-body drawings of one fictional adult character, arranged [one evenly spaced horizontal row / another simple explicit layout] on [one shared baseline]. Every figure is shown from [crown to sole] at equal scale.
+
+From left to right: [front view], [three-quarter view], [profile], [rear view]. Every view has the same face, body proportions, haircut, clothing, and visible equipment. The character stands in [one neutral repeated pose], with [hand position] and [foot position]. The figures do not overlap.
+
+The character has [three to five identity anchors: face, skin tone, eye colour, hair silhouette, one distinctive feature]. They wear [one coherent outfit described through silhouette, materials, closures, and one or two fixed equipment items].
+
+The page background is [plain drafting-paper colour]. Use [line treatment], [shading method], [lighting], and [material treatment].
+
+The sheet contains only the declared full-body views, shared baseline, and empty background. Generate face studies, hands, props, expressions, colour swatches, and fabric callouts as a separate sheet.</code></pre>
+
+</details>
 
 ## 2:1 Premium Cinematic Character Identity Board Prompt
 
