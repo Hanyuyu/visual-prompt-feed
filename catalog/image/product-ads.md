@@ -1,9 +1,105 @@
 # Product Ads image prompts
 
-14 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Commercial Storyboard Sheet for MIXUE Coffee Boba Sundae
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2087579223028621602)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2848](https://imglume.com/prompt/2848)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7c72adb3-0137-49a8-8e20-5112eb9758db/a785c5d6-8939-48e3-979b-29c264ba62da-1786596045875 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7c72adb3-0137-49a8-8e20-5112eb9758db/884fc73a-3716-4e58-9169-3c115c27a93c-1786596045875 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium professional commercial storyboard sheet in 3:4 landscape, designed exactly like a real production storyboard.
+
+LAYOUT — LOCKED
+
+- 2 columns × 3 rows = exactly 6 storyboard panels
+- Each panel has a dark deep-red header bar at the top
+- Header divided into 3 sections: NO. | VISUAL | ACTION / DIALOGUE
+- Large cinematic image area on the left
+- Narrow white information area on the right
+- Large white numbered circle in the upper-left corner of every visual
+- Thin black/gray panel borders
+- Clean white background
+- Professional advertising storyboard / pre-production document aesthetic
+- Realistic printed storyboard appearance
+- All text must be sharp, clean and highly legible
+- No extra panels, no title page, no decorative elements
+
+PANEL 1
+
+TIME: 0–2s
+CAMERA: Wide Shot, Slow Push In
+ACTION: A young Indonesian woman with shoulder-length black hair, sleeveless dark maroon top, light beige pants and black shoulder bag walks toward a red MIXUE ice cream and tea outlet on a hot day.
+DIALOGUE: Customer: “Wah... lagi panas banget.”
+
+Visual: Full exterior storefront, prominent red MIXUE sign, glass entrance, red-and-white interior visible through windows, woman seen from behind walking toward the entrance. Bright realistic daylight.
+
+PANEL 2
+
+TIME: 2–4s
+CAMERA: Follow Shot, Handheld
+ACTION: The woman enters the MIXUE outlet, looks at the menu and approaches the counter to order.
+DIALOGUE: Customer: “Mbak, Coffee Boba Sundae satu ya.”
+
+Visual: Same woman opening the red-framed glass door, realistic MIXUE interior, menu boards, tables and chairs visible, natural handheld documentary framing.
+
+PANEL 3
+
+TIME: 4–6s
+CAMERA: Medium Shot
+ACTION: A smiling female cashier in a black MIXUE uniform and black cap receives the order. The customer stands opposite her at the counter.
+DIALOGUE: Pelayan: “Baik kak, Coffee Boba Sundae satu ya.”
+
+Visual: Realistic counter interaction, POS machine, promotional menu stand, cashier smiling naturally, consistent characters and wardrobe.
+
+PANEL 4
+
+TIME: 6–8s
+CAMERA: Medium Close Up
+ACTION: The cashier begins preparing the Coffee Boba Sundae at the soft-serve machine.
+DIALOGUE: Pelayan: “Sebentar ya kak, lagi diproses.”
+
+Visual: Cashier from behind/side, black uniform and cap, red MIXUE interior, professional soft-serve machine dispensing vanilla ice cream into a transparent cup.
+
+PANEL 5
+
+TIME: 8–10s
+CAMERA: Close Up
+ACTION: Vanilla soft-serve ice cream is smoothly dispensed and spiraled into the transparent MIXUE cup.
+DIALOGUE: —
+
+Visual: Macro food-commercial shot, creamy white vanilla soft serve forming perfect smooth swirls, transparent branded cup, stainless-steel machine background, realistic texture and lighting.
+
+PANEL 6
+
+TIME: 10–12s
+CAMERA: Extreme Close Up
+ACTION: Coffee syrup is poured over the vanilla soft serve and glossy black boba pearls are added on top.
+DIALOGUE: —
+
+Visual: Premium appetizing macro shot of the finished Coffee Boba Sundae, vanilla soft serve, dark coffee syrup flowing over the cream, shiny black boba pearls, transparent cup, realistic highlights and rich food photography.
+
+VISUAL CONTINUITY
+
+Use the same woman, same cashier, same clothing, same MIXUE location, same cup and same product throughout all panels. Every shot must naturally continue from the previous one.
+
+FINAL QUALITY -
+
+Photorealistic cinematic commercial photography, premium advertising storyboard, realistic human anatomy, authentic Indonesian retail environment, natural expressions, detailed props, realistic reflections, physically accurate lighting, professional camera composition, high-end food cinematography.
+
+IMPORTANT: Generate the storyboard as a single finished 6-panel production sheet, not six separate images. Keep the exact 2×3 composition and information-card layout. The result should look like a professionally designed agency storyboard prepared for a commercial shoot.</code></pre>
+
+</details>
 
 ## Premium minimalist product advertisement
 

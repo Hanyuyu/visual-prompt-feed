@@ -1,9 +1,105 @@
 # Travel video prompts
 
-29 source-linked prompts, newest ImgLume records first.
+32 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Lifestyle vlogger explores European city and records street musician – ultra-realistic travel vlog
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2087770248451850664)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2861](https://imglume.com/prompt/2861)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/99df574a-e879-4119-820b-4231ebd98810/b734932d-8e2e-44bd-9fc2-d3044ffc91d9-1786604572708 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A lifestyle vlogger explores a lively European city, discovers a talented street musician performing in a plaza, records the performance, shares her genuine reaction, and supports the musician with a tip before continuing her walk. Ultra-realistic travel vlog, authentic smartphone footage with cinematic B-roll, natural English lip-sync, realistic guitar performance, expressive facial animations, seamless scene continuity, immersive city ambience, and premium documentary-style visuals.</code></pre>
+
+</details>
+
+## 15-second ultra-photorealistic travel vlog of a young European woman
+
+- **Original source:** [@SyntheSarah on X](https://x.com/SyntheSarah/status/2087737206459044262)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [2855](https://imglume.com/prompt/2855)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aaa542be-8069-46a8-9b92-bbad808710c8/1b16d07d-81e7-4b58-8c76-19ddcfcae789-1786600514381 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-photorealistic travel vlog featuring the SAME young European woman throughout the entire video. She has natural skin texture, subtle facial imperfections, realistic hair movement, authentic body proportions, and completely natural expressions. The video must look like genuine footage recorded by a real travel creator, NOT AI-generated or cinematic CGI.
+
+SHOT 1 — 0–3 seconds:
+Selfie-style handheld footage. The woman walks naturally down a beautiful European old-town street in the morning. She holds a small vlog camera at arm's length, looks directly into the lens and gives a subtle genuine smile. Natural walking bounce, slight handheld shake, realistic breathing and hair movement. Background includes pedestrians casually walking, parked bicycles, small cafés, textured historic buildings and soft morning sunlight.
+
+SHOT 2 — 3–6 seconds:
+She turns the camera away from herself toward the street. A natural handheld pan reveals detailed European architecture, outdoor café tables, people having coffee, bicycles passing and a small bakery. The camera movement is imperfect and human, with slight exposure adjustment as it moves from shadow into sunlight.
+
+SHOT 3 — 6–9 seconds:
+Cut naturally back to selfie footage. She continues walking and briefly says something casually to the camera with natural lip movement and relaxed facial expressions. A light breeze moves a few strands of her hair. People pass behind her naturally without looking at the camera. Realistic depth, authentic street ambience and subtle camera shake.
+
+SHOT 4 — 9–12 seconds:
+POV-style footage from her camera as she enters a small local café. The camera moves naturally through the doorway toward a wooden table with a freshly prepared coffee and a small pastry. Realistic reflections on glass, steam rising subtly from the coffee, natural indoor lighting, background conversations and realistic movement.
+
+SHOT 5 — 12–15 seconds:
+She sits outside the café and turns the camera back toward herself. She takes a small sip of coffee, looks into the lens and smiles naturally. The camera remains handheld and slightly imperfect. Background pedestrians, bicycles and café activity continue moving naturally. End with a subtle realistic focus shift from her face toward the street behind her.
+
+VISUAL REQUIREMENTS:
+Absolute photorealism, real-world physics, realistic human motion, authentic handheld smartphone/vlog camera behavior, natural skin pores and texture, realistic eyes and hair, physically accurate lighting and shadows, natural exposure changes, realistic reflections, detailed European environment, believable background pedestrians, consistent face and clothing across every shot.
+
+Avoid overly smooth camera movements, artificial beauty filters, plastic skin, exaggerated expressions, perfect symmetry, CGI appearance, dramatic movie-style transitions, unrealistic background motion, floating objects, warped hands, distorted faces or AI-looking details.
+
+The final result should feel like an actual 15-second travel vlog filmed spontaneously by a real European woman on a high-quality handheld camera.</code></pre>
+
+</details>
+
+## Handheld DV travel vlog of Old Jerusalem with CHASE
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2087557665882841282)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [2840](https://imglume.com/prompt/2840)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/649ac191-963d-4f06-ba0b-db528159124f/95796cad-7595-474d-990d-f59d4ecb3e1d-1786583487175 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Handheld DV 16mm camcorder aesthetic, first-person/selfie POV. CHASE always holds the camera. Natural hand shake, imperfect framing, delayed autofocus, clumsy zooms, occasional face cropping. The camcorder is never visible.
+
+LOOK:
+Soft vintage DV tape quality with slight blur, subtle tape noise, mild highlight bloom, flickering auto-exposure, muted contrast, natural skin tones.
+
+STYLE:
+Raw, candid travel vlog. Genuine reactions, eye contact, spontaneous energy, quick handheld shots capturing real people and everyday life around Old Jerusalem. Nothing feels staged or professionally filmed.
+
+CHARACTER:
+CHASE, British female traveler in her 20s. Long straight brown hair, natural fair skin, soft British features, blue eyes, natural lips, slim figure. Wearing modest casual travel clothing with natural makeup and simple accessories.
+SETTING:
+Historic streets of Old Jerusalem surrounding Masjid al-Aqsa with narrow ancient stone alleyways, crowded markets, small shops, food vendors, wooden doors, stone arches, local families, elderly people, children, pedestrians, and worshippers naturally passing by.
+
+SEQUENCE:
+
+1. Selfie: walks into a crowded Old Jerusalem street, turning the camera toward the people, shops, vendors, and busy street around her. “There’s so much happening here.”
+2. Whip pan toward a busy market street. A vendor prepares food while people walk closely past the camera. Someone notices CHASE filming and naturally smiles.
+3. Walks through a narrow stone alley, filming elderly men sitting outside shops, families walking together, children passing by, and vendors interacting with customers. Ambient street audio only.
+4. Turns a corner and suddenly sees Masjid al-Aqsa ahead. She stops walking and slowly raises the camera toward it as people continue moving naturally around her. “Wow…”
+5. Walks into the courtyard with the crowd, filming the historic architecture, worshippers, families, children, and people quietly moving through the space. Ambient audio only.
+6. Walks slowly through the courtyard, occasionally turning the camera toward herself before pointing it back toward the people and surroundings. “This place feels so peaceful.”
+7. Sits quietly in the courtyard and films the people passing through the frame. She says nothing, letting the natural conversations, footsteps, birds, and surrounding atmosphere fill the audio.
+8. Selfie ending: walks back through the old streets during golden hour, turns the camera toward herself with a quiet smile, then points it back toward Masjid al-Aqsa and the people around her. “I’ll never forget this.”</code></pre>
+
+</details>
 
 ## Handheld selfie vlog of a Korean woman’s market adventure
 

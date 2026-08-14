@@ -1,9 +1,202 @@
 # Poster Design image prompts
 
-65 source-linked prompts, newest ImgLume records first.
+68 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-fashion editorial poster of weightless female model with abstract mixed-media background
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2087702999879803314)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2875](https://imglume.com/prompt/2875)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7a46a0ca-dbad-425f-94fe-2929d9b77644/c10626b7-f2ea-430f-bf57-822f331585fd-1786613174572 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-fashion editorial fashion poster featuring a young female model captured in a dynamic, weightless mid-air pose, leaning diagonally backward with both arms extended naturally to the sides. She has long, thick, tousled dark wavy hair flowing naturally with the movement, elegant feminine facial features, defined cheekbones, a refined jawline, subtle natural makeup, and a confident yet introspective expression, looking slightly toward the side.
+
+She wears an oversized, partially unbuttoned white dress shirt with naturally flowing fabric and realistic folds, styled in a sophisticated high-fashion manner, paired with relaxed black tailored trousers and clean white high-top sneakers. Capture the entire body from head to shoes with elegant elongated proportions, graceful feminine posture, and realistic anatomy.
+
+The female model is surrounded by an expressive abstract mixed-media paint composition: dramatic sweeping strokes of black, charcoal gray, soft gray, and white, forming circular and spiral brush movements around her body. Add metallic gold paint splashes, scattered gold fragments, thin geometric golden arcs, triangles, lines, and delicate splatters integrated into the artwork.
+
+Use a pure white minimalist background, creating strong contrast between the monochrome clothing, dark brushwork, and metallic gold accents. The paint should appear energetic and hand-painted, with visible brush textures, dry-brush marks, ink splatters, fluid strokes, and layered artistic imperfections.
+
+Composition: vertical luxury fashion campaign poster, full-body female subject centered, dynamic diagonal movement, generous white negative space, artwork flowing organically from top to bottom around the figure, sophisticated luxury editorial aesthetic.
+
+Lighting: soft studio lighting, subtle directional highlights on the face and clothing, realistic skin texture, natural shadows, crisp fabric detail, refined high-end fashion photography.
+
+Style: luxury fashion editorial + contemporary abstract expressionism + mixed-media magazine artwork, sophisticated black/white/gold palette, premium commercial campaign, photorealistic female model integrated seamlessly into painterly artwork, ultra-detailed, sharp focus, high-end retouching, 8K quality, clean composition, cinematic elegance.
+
+Aspect ratio: 4:5 or 2:3 vertical.</code></pre>
+
+</details>
+
+## Metropolitan Identity
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2087768610995585232)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `poster-design`
+- **ImgLume record:** [2873](https://imglume.com/prompt/2873)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2395991d-daf0-4f95-834a-48124a7b995e/0477c2ed-6745-4c17-8dbf-b682423bd1ba-1786613132629 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2395991d-daf0-4f95-834a-48124a7b995e/6a181bc5-1a84-4cc1-abef-ddfbc87d74ad-1786613132629 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+"identity": {
+"reference": "Use the uploaded face photo as the STRICT identity reference.",
+"priority": "ABSOLUTE",
+"preserve": [
+"exact facial identity",
+"facial proportions",
+"eyes",
+"eyebrows",
+"nose",
+"lips",
+"jawline",
+"ears",
+"skin tone",
+"hairline",
+"hairstyle",
+"recognizable appearance"
+],
+"gender": "Automatically adapt naturally for male or female."
+},
+"image": {
+"title": "Metropolitan Identity",
+"aspect_ratio": "4:5",
+"style": [
+"Ultra Photorealistic",
+"Luxury Editorial",
+"Swiss Graphic Design",
+"Double Exposure",
+"Fine Art Portrait",
+"Minimal Poster Design"
+],
+"composition": {
+"shot": "Waist-up portrait.",
+"camera_angle": "Three-quarter profile.",
+"background": "Clean light gray studio backdrop.",
+"framing": "Centered minimalist editorial composition."
+},
+"subject": {
+"expression": {
+"emotion": "Calm, elegant, confident.",
+"eyes": "Looking slightly downward into the distance.",
+"overall": "Professional luxury fashion model."
+},
+"hair": {
+"style": "Natural premium editorial styling."
+},
+"wardrobe": {
+"description": "red"
+}
+},
+"city": "&lt;New York&gt;",
+"placement": "Modern skyscrapers are visible only inside the silhouette of the subject's clothing and lower body. The face remains clean and fully recognizable.",
+"blend": "Soft realistic double exposure with architectural transparency."
+},
+"graphic_design": {
+"style": "Modern Swiss typography layout.",
+"accent_color": "&lt;ACCENT COLOR&gt;",
+"elements": [
+"large translucent horizontal rectangle crossing the eyes",
+"minimal geometric blocks",
+"clean vertical typography",
+"subtle transparent overlays"
+],
+"text": "&lt;New York&gt;"
+}
+},
+"lighting": {
+"style": "Soft studio beauty lighting.",
+"contrast": "Medium.",
+"quality": "Luxury editorial."
+},
+"camera": {
+"body": "Phase One XF",
+"lens": "80mm",
+"aperture": "f/5.6"
+},
+"color": {
+"base": "Monochrome black and white.",
+"accent": "&lt;ACCENT COLOR ONLY&gt;",
+"rule": "Only the graphic elements, eye bar, typography accents, jacket highlights and selected design overlays use the accent color."
+},
+"quality": [
+"Ultra Photorealistic",
+"Luxury Magazine Cover",
+"Fine Art",
+"HDR",
+"8K",
+"Extreme Detail"
+],
+"important": [
+"Maintain exact uploaded facial identity.",
+"The face must remain clean and unobstructed.",
+"The city exists only inside the body silhouette.",
+"Minimal Swiss poster aesthetic.",
+"Luxury fashion editorial.",
+"Photorealistic."
+],
+"negative_prompt": [
+"anime",
+"cartoon",
+"CGI",
+"painting",
+"3D render",
+"plastic skin",
+"covered face",
+"messy layout",
+"oversaturated",
+"low quality",
+"watermark",
+"logo"
+]
+}
+}</code></pre>
+
+</details>
+
+## Vintage Engraved New York Poster Illustration
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087398393522139264)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2841](https://imglume.com/prompt/2841)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff2c290b-c8f2-4781-a2b9-0857aacd64d5/7d4b91e7-2211-49ae-a3d9-2560c193a4ce-1786587639855 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ff2c290b-c8f2-4781-a2b9-0857aacd64d5/baf1d51f-f56e-4dc8-9644-9911be6e2038-1786587639855 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ff2c290b-c8f2-4781-a2b9-0857aacd64d5/d182e280-2bfc-434c-86b1-390dfd5e7dca-1786587639855 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical retro screen-print poster illustration centered on [SUBJECT / LANDMARK / CITY / ERA]. The composition should feel like a refined vintage travel or cultural print, while remaining adaptable to any location, historical period, landmark, or subject.
+
+TYPOGRAPHY: Place the primary title "[MAIN TITLE]" in a bold, condensed uppercase sans-serif, positioned within a balanced area of negative space. Add a smaller supporting line "[SECONDARY HEADLINE / LOCATION / DATE]" beneath it. Maintain strong typographic hierarchy, restrained spacing, and an authentic archival-poster character.
+
+MAIN SUBJECT: Feature [PRIMARY SUBJECT] as the dominant visual element, positioned within the lower or side third of the composition. Use a distinctive pose, silhouette, or profile that communicates the character of the subject. Include carefully rendered defining details, natural contours, expressive features, clothing or architectural details, and subtle highlights without making the artwork photorealistic.
+
+GEOMETRIC ANCHOR: Introduce one bold, simple geometric shape behind or around the main subject to create visual separation and establish a strong graphic focal point.
+
+BACKGROUND: Construct the environment as several flat, layered graphic planes rather than a conventional realistic scene. Use recognizable elements associated with [LOCATION / SUBJECT] — distant silhouettes, architectural forms, structural details, vegetation, terrain, atmospheric elements, or cultural motifs. Avoid a strong vanishing point. Build depth through overlapping shapes, scale, linework, and tonal density. Render clouds, smoke, mist, foliage, or atmospheric details as controlled stippled clusters where appropriate.
+
+RENDERING STYLE: Authentic vintage screen-print / silkscreen poster aesthetic. Create all tonal modeling exclusively through stippling, halftone patterns, and varying dot density — concentrated dots for shadows and sparse dots for highlights. No smooth gradients, airbrushing, photorealistic shading, or digital 3D rendering. Use crisp contour lines with consistent visual weight, subtle riso-style registration shifts, imperfect ink edges, natural paper grain, and faint woven-print texture. The result should feel physically printed rather than digitally rendered.
+
+COLOR SYSTEM: Use exactly four carefully selected high-contrast colors appropriate to the subject: [COLOR 1], [COLOR 2], [COLOR 3], [COLOR 4]. Do not introduce additional hues. Generate intermediate tonal values exclusively through stipple density, halftone overlap, and ink coverage, never by adding new colors.
+
+COMPOSITION: Strong editorial balance, clear focal hierarchy, generous negative space, layered depth, bold silhouette design, authentic vintage graphic-design proportions, and carefully controlled visual density. Keep the artwork sophisticated, collectible, and suitable for a premium travel or cultural poster.
+
+OUTPUT: 4:5 vertical aspect ratio, edge-to-edge poster composition, high detail, crisp print-ready appearance, cohesive screen-print texture, no modern photographic elements.</code></pre>
+
+</details>
 
 ## Premium cinematic double-exposure fashion portrait poster
 

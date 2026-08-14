@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "product-ads",
   "label": "Product Ads",
-  "count": 67,
+  "count": 71,
   "mediaTypes": {
-    "image": 14,
-    "video": 53
+    "image": 15,
+    "video": 56
   },
   "ids": [
     "byradar:2081027263487721784:0",
@@ -75,6 +75,10 @@
     "byradar:2086775895017361435:0",
     "byradar:2086994618517000244:0",
     "byradar:2087048124523254024:0",
-    "byradar:2087535894303522859:0"
+    "byradar:2087557181856186686:0",
+    "byradar:2087579223028621602:0",
+    "byradar:2087750967500697864:0",
+    "byradar:2087831000235880943:0",
+    "byradar:2087791730913603891:0"
   ]
 }

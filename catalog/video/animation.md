@@ -1,86 +1,242 @@
 # Animation video prompts
 
-61 source-linked prompts, newest ImgLume records first.
+66 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Prompt 1
+## Cinematic Anime Cartoon Forest Adventure with Boy and Animal Friends
 
-- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2087514392036553144)
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2087781003754602664)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
 - **Categories:** `animation`
-- **ImgLume record:** [2821](https://imglume.com/prompt/2821)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df5c1a98-5a15-42a2-832e-205ba5ac8694/71c78d55-d46f-4dfb-802d-aca116fa3333-1786549855290 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/df5c1a98-5a15-42a2-832e-205ba5ac8694/8752cd66-d0da-417a-9d98-eca1dc2b7131-1786549855290 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/df5c1a98-5a15-42a2-832e-205ba5ac8694/1b22aaeb-2795-4f87-a01c-72e6acf80319-1786549855290 "Image prompt preview")
+- **ImgLume record:** [2886](https://imglume.com/prompt/2886)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6783c769-1965-4548-b250-9f152794d4ed/951c8d08-5ee1-4462-9df6-cf3d1aebbb83-1786625685415 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Prompt 1:
+<pre><code>Create a 14-second cinematic anime/cartoon video in a lush green forest beside a wide, crystal-clear river filled with many colorful fish swimming naturally underwater. Keep the same boy, outfit, face, and cartoon style throughout.
 
-风格：绘本童话动画，画布上的水粉与油画棒质感，每个表面都有明显的干笔点画与画布纹理，质朴平面的造型配柔和的手绘边缘，克制的暖色调——灰蓝色天空、赤陶橙色地面、奶白色云朵、柔和的赭黄与鼠尾草绿建筑、近乎全黑的巨兽——温柔的绘本童趣，24帧每秒，禁止赛璐璐上色，禁止日式动漫线条，禁止3D渲染，禁止照片写实。
-
-主体：@beast（与输入图2完全一致100%）——一只体型巨大的圆润生物，通体近乎墨黑偏绿，密集的鳞片状笔触，宽圆的口鼻，两只大大的白色圆眼配极小的黑色瞳孔，宽阔笑容里排着一列白色小三角牙齿，脸颊上有一块圆形赤陶橙色腮红，头顶是奶白与浅棕色的锥形角，背脊上是一排赤陶橙色三角尖刺，短粗的前肢带淡奶油色爪子；它的表情始终好奇温和，绝不凶恶，动作像一只友善的大型动物一样柔软而有重量感。@knight（与输入图1完全一致100%）——一个年幼的小骑士男孩，肤色白皙，圆润的粉红脸颊，浓密的棕色眉毛和大大的蓝灰色眼睛，戴着黑色宽檐锥形头盔，面罩上翻，盔顶插着一根锈橙色羽毛，身穿黑色横向条纹板甲带细密的奶白色缝线，披着长长飘动的锈橙色斗篷，手持一把细长黑剑，剑格为淡奶油色，剑柄末端是圆形黑色球状。@city——一座古老的欧洲小镇，粉彩赭黄、鼠尾草绿与奶白色的建筑配瓦片屋顶，一根高高的红砖烟囱冒着白烟，赤陶色鹅卵石地面，穿着十九世纪深色外套与礼帽的小小镇民。
-
-场景：绘本小镇边缘，灰蓝色天空下漂浮着厚厚的奶白色棉花状云朵；屋顶与地平线之间是一片开阔的赤陶色广场。
-
-动作——巨兽降临，小骑士决定挺身而出：
-镜头1（0:00–0:04）——宽幅侧视：巨兽庞大的头颅从红砖烟囱旁的屋顶后方缓缓升起，眨了一次眼。硬切。
-镜头2（0:04–0:08）——高空俯拍正对赤陶色广场：数十个渺小的镇民四散奔逃，帽子被甩飞，一只小狗跟着一起跑。硬切。
-镜头3（0:08–0:12）——宽幅镜头：巨兽跨过一排房屋，黑色的躯体占满画面右侧，落脚处扬起尘土，镇民在前景中不断跑过。硬切。
-镜头4（0:12–0:16）——极特写巨兽面部：一只巨大的白色眼睛占满画面，极小的黑色瞳孔向下移动，注视着下方某个微小的东西。硬切。
-镜头5（0:16–0:21）——低角度：小骑士双脚牢牢站定在鹅卵石上，眉头压低露出坚定的怒容，拔出黑剑高高举起，橙色斗篷在身后猎猎作响。硬切。
-镜头6（0:21–0:26）——侧向跟拍：小骑士沿着赤陶色地面全速奔跑冲向巨兽，长剑前指，斗篷飞扬，身后粉彩色建筑化作模糊的色块掠过。硬切。
-镜头7（0:26–0:30）——宽幅双人构图：渺小的骑士急停并张开双臂拦在路中；巨兽将巨大的头颅低垂向他，好奇地歪了歪头。定格保持。
-
-摄影：降临用缓慢的固定宽幅；人群用静止的正俯视鸟瞰；迈步用轻柔的横向移动；眼部特写用缓慢推进；拔剑用低角度英雄视角；奔跑用平滑的侧向跟随，背景化为柔和的绘画涂抹；对峙用静止宽幅。所有运镜保持柔和从容——绘本般的节奏，禁止甩镜，禁止抖动。
-
-音效：温暖俏皮的管弦乐配轻快木管与拨弦，低沉柔和的隆隆脚步声，惊慌的人群嘈杂与零星喊叫，布料被风吹动的声音，巨兽发出的一声低沉友善的咕噜。无对白，无字幕。
-
-限制条件：16:9画幅。巨兽必须与输入图2完全一致100%，骑士必须与输入图1完全一致100%——不得出现形象漂移；务必保持白色圆眼、单侧赤陶色腮红、奶白与浅棕锥形角、橙色背刺，以及骑士的橙色羽毛、黑色条纹板甲与锈橙色斗篷。每一帧都必须保留水粉画布纹理；禁止平滑的数码渐变，禁止照片写实，禁止3D渲染，禁止日式动漫风格。巨兽全程友善好奇——不得龇牙咆哮，不得表现攻击性，眼睛不得发光。无血迹，无伤害，无暴力破坏。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+A cute boy fishes from the riverbank and catches a big fish. Show the beautiful forest and wide river with many colorful fish swimming underwater. The boy happily pulls the fish out of the water and looks excited.
+At another spot beside the same river, the boy makes a small campfire and roasts the big fish on a wooden stick. The fish slowly becomes golden and delicious while smoke rises gently. The river and green forest remain visible in the background.
+The boy sits beside the campfire with a cute chubby panda, bear, fox, rabbit, and squirrel. They all sit together and happily share the cooked fish. The animals smile, laugh, and talk to each other in English while enjoying the meal. End with a wide cinematic shot showing the boy, all his animal friends, the campfire, beautiful river, and lush forest.
+Style: Cute high-quality anime/cartoon, expressive characters, vibrant colors, cinematic lighting, smooth animation, detailed forest and river, warm friendship atmosphere, consistent characters throughout. No cows, no logos, no watermark, no text.</code></pre>
 
 </details>
 
-## Prompt 2
+## Cinematic anime video sequence from hacker to Batman Batmobile
 
-- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2087514392036553144)
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2087734863311081770)
 - **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `animation`
-- **ImgLume record:** [2820](https://imglume.com/prompt/2820)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9b2824dd-c6a5-44c9-8049-8169ddc48c90/4f09df9f-9597-4040-b667-4c57670e5a47-1786549855290 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9b2824dd-c6a5-44c9-8049-8169ddc48c90/0ff718df-b7df-47a0-ab88-7aae7543fd2c-1786549855290 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9b2824dd-c6a5-44c9-8049-8169ddc48c90/c13cc34b-6515-4121-afe0-68745e94c56f-1786549855290 "Image prompt preview")
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2878](https://imglume.com/prompt/2878)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3eb0be30-5921-476c-ab33-bab05cb577f5/1a0a6f40-e16c-442c-b88b-e0c865fc9654-1786613201947 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Prompt 2:
+<pre><code>{
+ "video_generation_payload": {
+ "resolution": "4K",
+ "fps": 24,
+ "base_style": "Cinematic anime, masterpiece",
+ "sequence": [
+ {
+ "frame": 0,
+ "prompt": "Hacker in black hoodie eating pizza at desk in dark room."
+ },
+ {
+ "frame": 48,
+ "prompt": "Boots on desk, monitor displaying red anime face."
+ },
+ {
+ "frame": 96,
+ "prompt": "Hands typing on keyboard, surveillance monitors behind."
+ },
+ {
+ "frame": 144,
+ "prompt": "Yellow roses on desk, armored suit in illuminated closet."
+ },
+ {
+ "frame": 192,
+ "prompt": "Close-up tactical black armor, armored fist clenching."
+ },
+ {
+ "frame": 240,
+ "prompt": "Batman cowl with glowing white eyes."
+ },
+ {
+ "frame": 288,
+ "prompt": "Batman approaches jet-powered Batmobile in wet bunker."
+ },
+ {
+ "frame": 336,
+ "prompt": "Cockpit interior, hands on throttle, boot on gas pedal."
+ },
+ {
+ "frame": 384,
+ "prompt": "Batmobile jet engines ignite, launching from tunnel."
+ },
+ {
+ "frame": 432,
+ "prompt": "Batmobile drifting through rain-slicked neon city."
+ },
+ {
+ "frame": 480,
+ "prompt": "Batman diving straight down a towering skyscraper."
+ },
+ {
+ "frame": 528,
+ "prompt": "Batman leaping across rainy city rooftops."
+ },
+ {
+ "frame": 576,
+ "prompt": "Batman standing on gargoyle overlooking glowing city."
+ }
+ ]
+ }
+}</code></pre>
 
-风格：绘本童话动画，画布上的水粉与油画棒质感，每个表面都有明显的干笔点画与画布纹理，质朴平面的造型配柔和的手绘边缘，克制的暖色调——灰蓝色天空、赤陶橙色地面、奶白色云朵、柔和的赭黄与鼠尾草绿建筑、近乎全黑的巨兽——温柔的绘本童趣，24帧每秒，禁止赛璐璐上色，禁止日式动漫线条，禁止3D渲染，禁止照片写实。
+</details>
 
-参考：@scene1 是上一段已生成的视频片段——请将其作为风格、配色、画布纹理、角色设计、体型比例关系与光线的连续性参考。本段直接承接该片段的最后一帧，即渺小的骑士张开双臂站立、巨兽将头低垂向他的画面。必须与 @scene1 完全一致；不得重新调整风格，不得改变巨兽的身体比例或小镇的配色。
+## The final boss entry
 
-主体：@beast（与 @scene1 及输入图2完全一致100%）——那只体型巨大的圆润近黑色生物，密集的鳞片状笔触，大大的白色圆眼配极小黑色瞳孔，白色小三角牙齿，圆形赤陶橙色腮红，奶白与浅棕色锥形角，赤陶橙色背刺，短粗前肢带淡奶油色爪子；全程俏皮温顺。@knight（与 @scene1 及输入图1完全一致100%）——那个圆润粉颊、蓝灰色眼睛的小骑士男孩，黑色宽檐锥形头盔配锈橙色羽毛，黑色条纹板甲，锈橙色斗篷，以及那把剑格为奶白色的细长黑剑。@girl——一个小女孩，亮橙色齐耳短发，赤陶色印花裙，圆润的粉红脸颊和一双惊喜的大眼睛，站在镇民之中。@city（与 @scene1 完全一致100%）——同一座粉彩赭黄、鼠尾草绿与奶白色的小镇，配那根高高的红砖烟囱。
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2087767196974121057)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2858](https://imglume.com/prompt/2858)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f528c281-b708-4ccd-8a37-e4dac6f0e17d/5ddb0d97-487c-4f01-a1bc-b70eec5e0bb8-1786604513923 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
-场景：与 @scene1 结尾处相同的小镇边缘赤陶色广场，直接延续。
+<details>
+<summary>Full prompt</summary>
 
-动作——骑士攀爬上去准备进攻，结果巨兽只是想玩：
-镜头1（0:00–0:04）——骑士沿着巨兽庞大的侧腹全速奔跑，在那面黑色鳞片高墙前显得极其渺小，随后抓住它的身侧。硬切。
-镜头2（0:04–0:08）——他手脚并用爬上鳞片，翻身攀上巨兽背部，落在两根赤陶色锥刺之间。硬切。
-镜头3（0:08–0:12）——巨兽背上的低角度英雄视角：骑士站起身，稳稳立在橙色尖刺之间，将黑剑高举过头，斗篷在风中翻飞。硬切。
-镜头4（0:12–0:15）——极特写：巨兽两只巨大的白色眼睛一起向上翻转，回头看向肩上那个小小的身影。停顿半拍。硬切。
-镜头5（0:15–0:20）——宽幅镜头：巨兽非但没有攻击，反而像小狗一样顽皮地侧身扑倒在地，一只短粗的爪子在空中挥舞；骑士毫发无伤地滚落进一团柔软的尘土里，坐起身眨着眼，头盔歪到了一边。硬切。
-镜头6（0:20–0:24）——巨兽翻身仰躺，四肢朝天，尾巴摇摆，咧嘴而笑；骑士站起身放下剑，一脸茫然地盯着它。硬切。
-镜头7（0:24–0:27）——人群中橙发女孩的特写，双手交扣在下巴前，露出灿烂无比的笑容。硬切。
-镜头8（0:27–0:30）——终幕宽幅：全镇的人围聚在巨兽身旁，小小的镇民挥舞着帽子，巨兽把下巴搁在地上开心地咧嘴笑着，骑士站在它的口鼻上，剑已垂下。云朵缓缓飘过中定格保持。
+<pre><code>Cinematic 3D animated cartoon style, feature-animation quality, stylized exaggerated character proportions, highly expressive facial animation, soft subsurface skin shading, detailed cloth and hair simulation, shallow depth of field, polished studio-animation render, completely original character designs that must not resemble any existing or copyrighted character. Vertical 9:16. 15 seconds, EIGHT hard-cut shots. No dialogue, no speech, no lip-sync — this is pure physical comedy. CHARACTER LOCK — these designs must stay identical in every single shot. THE BOSS: an enormous heavyset man in his forties, towering and barrel-chested, thick dark shoulder-length hair swept back, a full black beard, heavy brows, and a permanently grave unimpressed expression. An immaculate charcoal three-piece suit with a dark shirt and no tie, sleeves pushed up over huge forearms. Enormous hands. He never once looks amused — he stays completely serious from the first frame to the last, which is the entire joke. THE CHILD: a small toddler girl around three years old, round cheeks, huge dark eyes, messy dark hair with a single crooked yellow clip, a butter-yellow dungaree dress over a white top, tiny yellow shoes, and one wax crayon tucked behind her ear. Utterly confident, treats herself as being in charge. THE CREW: eight identical broad-shouldered men in matching dark suits ringed around a huge table, stone-faced and attentive. PROPS: a huge table covered in large technical blueprints and drawings, a fistful of fat wax crayons, four crayon drawings on paper — wobbly stick figures, a lopsided sun, a scribbled house — and one small notebook. LOCATION: a grand dark wood-panelled study with floor-to-ceiling windows, heavy rain running down the glass, brass desk lamps, the huge table at the centre. LIGHTING ARC — this must progress across the video: the first half is cold blue-grey storm light through the streaming windows with hard shadows. From the fifth shot onward the rain eases and warm lamp light and breaking sunlight take over, finishing in full warm golden light. The room warms exactly as the plan gets sillier, while his face never changes. SHOT 1 — 0.0s to 2.0s — WIDE low angle: the boss looms over the huge blueprint-covered table with his crew ringed around it, cold storm light on their faces, and he taps one enormous finger down onto the plans with total finality. Slow push-in. HARD CUT. SHOT 2 — 2.0s to 4.0s — MEDIUM: the tiny girl toddles in dragging a crayon drawing almost as big as she is, reaches up on tiptoes and lays it flat on top of the blueprints. Nobody reacts. Static. HARD CUT. SHOT 3 — 4.0s to 6.0s — CLOSE: without looking down, his huge hand slides the crayon drawing off the table and it flutters to the floor. He continues studying the plans. Static. HARD CUT. SHOT 4 — 6.0s to 8.0s — MEDIUM: she comes back and lays down three more drawings, then climbs onto a chair and spreads them until the entire table is covered in crayon, the blueprints completely buried. Static. HARD CUT. SHOT 5 — 8.0s to 10.0s — EXTREME CLOSE on the boss's face: he looks down at a table that is now entirely crayon drawings. One heavy brow lifts a fraction. Nothing else moves. Behind him the rain eases and warm light creeps across the panelling. Slow push-in. HARD CUT. SHOT 6 — 10.0s to 12.0s — CLOSE: he picks up one crayon drawing between two enormous fingers, holds it up to the light and studies it with complete professional gravity — a wobbly stick figure beside a lopsided sun. Static. HARD CUT. SHOT 7 — 12.0s to 13.5s — WIDE: he plants the crayon drawing dead centre of the table and points at it. Every man leans in and nods gravely, and one of them pulls out a small notebook and starts writing. Static. HARD CUT. SHOT 8 — 13.5s to 15.0s —</code></pre>
 
-摄影：攀爬用快速的侧向跟随；举剑用低角度倾斜英雄视角；眼部用缓慢推进；扑倒用静止宽幅以呈现完整的喜剧体型对比；终幕人群用柔和的后拉移动。所有运镜保持轻柔从容——绘本般的节奏，禁止抖动，禁止甩镜。
+</details>
 
-音效：攀爬时英雄主题乐逐渐高涨，在眼部特写处完全静音一拍，随后在扑倒瞬间转为温暖诙谐的木管与拨弦。柔和沉重的躯体落地闷响，一团扬尘声，巨兽发出愉快的低沉呼噜声，人群欢快的笑声与喝彩逐渐推向终幕。无对白，无字幕。
+## Photorealistic cinematic 1950s diner rewind scene
 
-限制条件：16:9画幅。必须与 @scene1 及两张输入图完全一致100%——相同的巨兽设计、相同的骑士设计、相同的小镇配色、相同的画布纹理，两段之间不得出现形象漂移或风格跳变。每一帧都必须保留水粉画布纹理；禁止平滑的数码渐变，禁止照片写实，禁止3D渲染，禁止日式动漫风格。巨兽全程顽皮亲昵——不得龇牙咆哮，不得表现攻击性，眼睛不得发光。无人受伤，无血迹，无暴力破坏。骑士的跌落必须柔和且富有喜剧感。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087523289707196763)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [2850](https://imglume.com/prompt/2850)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/850b2f28-7532-43bf-ae57-c8dfc3d60223/204c8d88-f05a-44fb-853d-03ba45b82f83-1786596122502 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl's face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.</code></pre>
+
+</details>
+
+## Cozy cluttered apartment morning scene with eccentric old man and sarcastic cat
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2087600066747912286)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2849](https://imglume.com/prompt/2849)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3852e5d0-cad3-45d8-a355-10da9b2d5b78/dfe46b47-cc59-42b4-95bb-cb903d8df1fe-1786596088589 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Global Setting] Cozy cluttered apartment at morning light, mismatched furniture, cat toys everywhere, sunny windowsills, warm nostalgic atmosphere. 3D stylized animation with rounded appealing characters, exaggerated expressive proportions, playful physical comedy, sincere warmth.
+
+[Character 1 : The Eccentric Old Man] Age 75+, round belly, wispy white hair, faded cardigan, slippers with holes, spectacles sliding down nose. Speaks rarely, mostly actions and facial expressions. Same worn cardigan throughout.
+
+[Character 2 : The Sarcastic Cat] Rotund orange tabby with unimpressed expression. Occasional meows with personality. Mostly silent, expressive face. No subtitles.
+
+[Opening, 0–4s] Wide shot. Old man sits in armchair holding tiny spoon, facing cat on coffee table. He says warmly: "Breakfast time?" Cat meows dismissively, turns head away. Old man sighs, looks at spoon sadly.
+
+[Chaos Attempt 1, 4–10s] Old man chases cat around apartment with tiny spoon. Cat leaps onto bookshelf, knocking books everywhere. Old man stumbles, glasses fall, catches himself on couch. Cat looks down smugly, meows once (sarcastic). Old man points accusingly at cat, shakes head.
+
+[Chaos Attempt 2, 10–18s] Old man sits on floor, eats applesauce himself, makes exaggerated yummy faces. Cat walks over slowly, sniffs spoon, takes ONE tiny lick. Old man freezes, eyes wide with hope. Cat walks away dismissively. Old man celebrates silently fist pump, wipes happy tear.
+
+[Sweet Moment, 18–24s] Old man lies on floor exhausted. Cat reluctantly curls on his chest, purring softly. Old man gently strokes the cat. Quiet peaceful moment. Cat closes eyes, comfortable. Old man's face shows pure love. No words.
+
+[Closing, 24–30s] Both dozing in warm golden sunlight. Old man snores softly. Cat opens one eye with tiny satisfied smirk. Nuzzles closer affectionately. Camera pulls back revealing messy apartment knocked plants, toys, scattered meals. Two best friends at peace, bathed in warm light.
+
+[CONSISTENCY] One old man (cardigan, spectacles), one orange tabby. Same apartment, toys, window light. All emotion through faces and body language. Minimal dialogue. Cat speaks only 2-3 times max. Old man speaks only 1-2 times. Rest is visual storytelling.
+
+Audio: Warm domestic ambience, spoon clinking gently, rare meows (brief), rare old man voice (brief), footsteps, books tumbling, couch creaking, cat purring, soft nostalgic strings on tenderness, old man's soft snores, gentle piano fading to silence.</code></pre>
+
+</details>
+
+## Giran - 龙的痒痒场景系列
+
+- **Original source:** [@migrok293703 on X](https://x.com/migrok293703/status/2087580686261628997)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2831](https://imglume.com/prompt/2831)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/def85e29-31c2-45b9-8793-05e6d0e5fa79/852c7f00-2085-4bd5-ab79-ae17b4a653e0-1786562510384 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>场景一：地牢中，巨龙被囚禁在一张大桌子上，双臂张开，手腕和脚踝都被铐住，只露出双脚和腋窝。两个身披斗篷的人类分别站在巨龙两侧。巨龙用日语愤怒地咆哮着，扬言要将他们碾碎。它拼命挣扎，试图挣脱束缚，但即使如此也无法挣脱。场景二：两个身披斗篷的人类发出狡黠的笑声，随后各自掏出一根羽毛。巨龙略感困惑和不安，用日语自言自语道：“这是做什么用的？”场景三：一个人类伸出一根羽毛，轻柔地拂过巨龙的腋窝，动作流畅而连贯。我们听到人类用日语戏谑地说着“こち​​ょこちょこちょ”，背景中传来龙因怕痒而发出的闷闷的笑声。场景4：龙的上半身特写，人类用羽毛轻柔而持续地挠着龙的腋窝，龙咧嘴一笑，闭着眼睛，发出闷闷的笑声，用它那咯咯笑着的声音说：“哎呀，别挠了。”在再次发出压抑的咯咯笑声之前。场景5：另一个人走到桌子尽头，靠近龙的脚边，咧嘴一笑，伸出羽毛，轻轻地、有节奏地上下拂过龙的脚底，用日语问它是否喜欢这里，我们听到龙的咯咯笑声越来越大。场景6：镜头转向龙的全身，一个人用羽毛挠龙的腋窝，另一个人挠龙的脚底。龙闭着眼睛咧嘴大笑，压抑的咯咯笑声越来越歇斯底里，它几乎无法抑制自己的笑声。但最终，龙再也忍不住了，放声大笑起来，而两个人继续挠它。场景7：两个人继续挠龙的痒，龙笑着扭动着身体，但它无法挣脱束缚。巨龙一边大笑一边用日语命令他们俩停下来，然后他们挠他痒痒的时候，他又开始狂笑起来。</code></pre>
+
+</details>
+
+## THE SHIPWRIGHT 15‑second 360° animation prompt
+
+- **Original source:** [@koldo2k on X](https://x.com/koldo2k/status/2087266427980095968)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2827](https://imglume.com/prompt/2827)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/56fb962b-3306-4388-8617-ebb20e02fd2d/2a6af0a9-be51-4860-837f-da932397e9ff-1786560098979 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/56fb962b-3306-4388-8617-ebb20e02fd2d/244210d0-b977-40ba-a675-230abee68d27-1786560098979 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate the reference images, in my case I made them with Midjourney, and used this prompt in @Hailuo_AI Minimax H3 🎨✨
+
+REFERENCE ROLES
+Image 1 defines the environment architecture only — arched timber shipyard framework, hanging pulleys, ropes, beams and tool fragments. Reinterpret entirely as bold ink linework and flat color. Ignore its painterly rendering and lighting.
+Image 2 defines the character's full silhouette, wardrobe (apron, tool belt, mallet), proportions and stance, for use across a complete 360-degree rotation.
+Reinterpret entirely as bold ink linework and flat color. Ignore its original pose beyond providing the base standing silhouette.
+
+Create a 15-second, 16:9 seamless-loop 360-degree character turnaround sequence titled THE SHIPWRIGHT, part of THE LAST KEEL adventure series. Draw from graphic-novel ink linework, bold crosshatch shading, dynamic diagonal panel-assembly cuts, adventure-pulp poster energy, hard silhouette action reveals, ink-splatter accents, warm ochre, rust and umber palette. Aim for 65% swashbuckling build-up energy and 35% rugged craftsman grit: bold, propulsive, satisfying. Never soft gradients, painterly blur, slow atmospheric dissolve, static stillness. Build the sequence as a continuous 360-degree character turntable rotation with the shipyard environment assembling around him in rhythmic bursts. The shipwright from Image 2 rotates smoothly and continuously on a fixed spot for one full turn, occupying the central frame throughout. At four evenly spaced points in the rotation, hard comic-panel cuts snap new environment fragments from Image 1 into place around him, timber beams locking in, ropes and pulleys dropping into frame, tool-belt items appearing one by one, the mallet materializing in his hand, until the full scene and his complete gear are assembled by the final quarter-turn. The final frame must exactly match the opening frame in pose, framing and assembled environment, so the rotation completes a perfect seamless loop with no jump or freeze.
+
+TYPOGRAPHY &amp; CREDITS: All on-screen text must remain perfectly sharp, stable and legible at all times. Use only the exact text provided. No Chinese characters, no garbled, warped, stretched or misspelled text. Each role and each name appears only once per loop cycle. Label: "THE SHIPWRIGHT" bold condensed comic-lettering style. Subtitle: "THE LAST KEEL" smaller wide-tracked label, always paired directly beneath the main label, never near the character. Hierarchy: bold name label + smaller wide-tracked series tag, both treated as a single unit that never overlaps or touches the character silhouette at any point.
+
+ANIMATION STYLE: the label unit draws on large and centered in open negative space at roughly the 4-second mark, ink strokes forming fast, held briefly at full size then a quick ink-drag transition pulls and shrinks the entire unit into the bottom-right corner by the 6-second mark, where it settles small and static like a printed watermark mark for the remainder of the loop. Once settled in the corner, it stays fixed, minimal and out of the character's rotation path for the rest of the sequence, then wipes off with a brief ink-splatter flash just before the loop point so the final frame stays text-free and matches the opening frame exactly. Hold the label fully formed and motionless for 0.9–1.3 seconds both at its centered appearance and once settled in the corner. Vary the transitions aggressively and mix freely from this dense palette, using four of them as the primary build-reveal cuts synchronized to the quarter-turns of the rotation: panel-slam cuts, diagonal panel-split reconfigurations, silhouette action wipes, ink-splatter flash cuts, crosshatch wipes, hard color-block cuts, whip-pan zoom punches, black-frame impact cuts, action-line radial wipes, comic-gutter slice cuts. Keep every transition crisp, fast, propulsive and strictly collage-driven. No soft dissolves, fluid morphs, gentle fades or organic morphing. The character's rotation itself must stay smooth and continuous underneath the hard-cut environment assembly and the label's corner-settling motion.
+
+BGM: an original 15-second loop-friendly title cue, 65% driving build-up energy and 35% rugged satisfaction, structured so the downbeat at 0s and the downbeat at 15s match exactly for a seamless loop. Instrumentation: driving snare rolls, brass stabs, low horn hits, plucked strings, taut percussion accents, four rhythmic "construction hit" accents synced to each quarter-turn assembly cut, plus a distinct ink-drag whoosh synced to the label's move into the corner.
+
+TIMELINE:
+0s: opening downbeat with snare roll.
+4s: label draws on centered, brass stab underscores it. 6s: ink-drag whoosh as the label shrinks into the corner; first construction-hit accent as beams lock in.
+8s: second construction-hit as tools appear.
+12s: full rhythm and third construction-hit as the mallet materializes.
+15s: rhythm resolves back to the opening downbeat, label wiped clean, completing the loop with no freeze.
+Keep it driving, bold and propulsive. Never orchestral bombast without rhythm, cheerful melody, ambient pads. Do not imitate any existing melody. Add precise, short transition whooshes and impact hits synchronized to each quarter-turn construction cut and both label movements. Keep them designed, restrained and loop-consistent so the audio also cycles cleanly.</code></pre>
 
 </details>
 

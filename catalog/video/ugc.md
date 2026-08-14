@@ -1,9 +1,109 @@
 # UGC video prompts
 
-52 source-linked prompts, newest ImgLume records first.
+54 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Photorealistic 15-second UGC-style ice cream advertisement
+
+- **Original source:** [@thisismariaa25 on X](https://x.com/thisismariaa25/status/2087831000235880943)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2900](https://imglume.com/prompt/2900)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40b1adbf-2584-4f14-a683-c7c63cef93fc/c3631e96-1485-4557-85c5-21fe4e8a91d6-1786638126884 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic 15-second UGC-style advertisement in 16:9 featuring the provided female model. She is wearing a white and black polka dot halter top with high-waisted wide-leg blue jeans, small gold hoop earrings, minimal jewelry, natural makeup, and loose slightly wavy hair. The setting is a bright, cozy modern kitchen with soft afternoon sunlight pouring through the windows, creating a warm, inviting atmosphere. The video should feel like it was casually filmed by a real content creator recommending her latest grocery find. Use subtle handheld camera movement, natural lighting, realistic skin textures, shallow depth of field, authentic facial expressions, and premium food cinematography. Keep the pacing relaxed and conversational, never overly polished or scripted.
+
+Scene 1 (0–5 seconds)
+Medium shot of her leaning against the kitchen counter while holding an unopened pint of Halo Top Blueberry Crumble ice cream. She smiles naturally at the camera with a slightly guilty expression before laughing.
+
+Dialogue:
+"I absolutely love ice cream... like, I genuinely need some after every meal. But those calories add up so fast."
+
+Natural pauses and a tiny laugh make it feel unscripted.
+
+Scene 2 (5–10 seconds)
+She opens the pint, the lid makes a satisfying pop, and she scoops out a generous spoonful. Cut to beautiful close-ups of the creamy ice cream showing blueberry swirls and buttery crumble pieces. She takes a bite and her eyes light up with a genuine smile.
+
+Dialogue:
+"So I've been obsessed with this Halo Top Blueberry Crumble instead."
+
+Scene 3 (10–15 seconds)
+She casually holds the pint toward the camera while taking another spoonful. She shrugs slightly and smiles like she's sharing a secret with a friend.
+
+Dialogue:
+"The whole pint is only 350 calories, it's packed with protein, and honestly... it tastes like actual blueberry crumble. I literally keep one in my freezer now."
+
+End with her taking one more bite while smiling at the camera.
+
+Audio should include soft kitchen ambience, the lid opening, spoon scraping the ice cream, and subtle upbeat background music that stays underneath the dialogue. The dialogue should sound spontaneous with natural breathing, tiny pauses, and conversational pacing rather than like a commercial voiceover. The final video should feel authentic, cozy, relatable, and premium, like a genuine creator sharing her favorite healthier dessert with friends.</code></pre>
+
+</details>
+
+## Handheld smartphone vlog of a young American woman in a Tokyo convenience store (15s)
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2087801376105701864)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2895](https://imglume.com/prompt/2895)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/02a143b0-23a7-4e67-80ea-cad7c900640c/7de7ccee-2a59-4ceb-af19-5752cb4fa66f-1786633912471 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA
+Third person handheld smartphone camera operated by a friend walking a few steps behind the girl. Casual vlog footage, not professional cinematography. Natural handheld shake, subtle footsteps vibration, imperfect framing, occasional autofocus adjustment and realistic phone-camera exposure. The camera follows her naturally at walking speed.
+
+LOOK
+Ordinary smartphone video recorded by a friend. Natural lighting, realistic skin texture, natural hair movement, normal phone sharpening and compression, slightly imperfect exposure. No cinematic polish or beauty filter.
+
+STYLE
+Simple everyday lifestyle vlog. Relaxed, spontaneous and believable. No dramatic acting or cinematic choreography.
+
+CHARACTER
+@Image1
+
+The same young American woman from the reference image. Long black hair, naturally pretty face, brown eyes, cream oversized sweatshirt, loose baggy pants and casual sneakers. Keep her exact appearance consistent throughout.
+
+SETTING
+A normal convenience store in Tokyo, Japan. Ordinary Japanese neighborhood outside, glass storefront, bright fluorescent interior, narrow aisles, refrigerated drink cases, Japanese snacks and drinks, baskets and a few ordinary customers.
+
+STORYBOARD (15s, ONE CONTINUOUS TAKE)
+
+(~0 to 4s, Following Shot)
+The girl walks normally toward the convenience store. The camera follows casually from several feet behind her at walking speed. Her hair and oversized sweatshirt move naturally as she walks.she turns back towards the camera and gives a smile and a gesture to camera to follow her then She reaches the entrance and opens the glass door.
+
+(~4 to 7s, Entering)
+The camera follows her inside. She walks naturally down the aisle toward the refrigerated drinks. The camera stays behind and slightly to her side with realistic handheld movement.
+
+(~7 to 11s, Refrigerator)
+She reaches the refrigerator and stops. She opens the glass door, looks through the drinks, selects one bottled drink and takes it out. The camera moves slightly closer while remaining handheld.
+
+(~11 to 15s, Ending)
+She closes the refrigerator door while holding the drink. She turns naturally toward the camera, looks at the person filming her and gives a small genuine smile while holding the drink. The camera remains slightly shaky and ends naturally.
+
+AUDIO
+Realistic synchronized location audio throughout the entire recording. No dialogue, no talking, no narration, no voiceover and no music.
+
+Include natural footsteps on the pavement and store floor, subtle clothing and hair movement, distant Tokyo street traffic, passing bicycles, faint outdoor city ambience, the glass entrance door opening and closing, the convenience-store door chime, quiet footsteps from other customers, refrigerator compressor hum, the refrigerator door seal opening, bottles and shelves making subtle sounds when she takes the drink, and normal low-level store ambience.
+
+Audio should sound like it was captured directly by a smartphone microphone positioned several feet away. Slightly imperfect recording quality, natural volume changes as the camera moves closer and farther away, realistic room acoustics and subtle background noise.
+
+REALISM RULES
+One continuous take. The girl always walks forward naturally. The camera operator physically follows her from behind or slightly beside her. All actions happen in real time and in order: walk, enter, walk to refrigerator, open refrigerator, take drink, close refrigerator, turn toward camera, smile. Natural ambient audio continues continuously with no artificial sound effects.
+
+NEGATIVE PROMPTS
+Speech, talking, dialogue, narration, voiceover, music, lip-sync, silent environment, missing footsteps, missing door chime, artificial sound effects, walking backward, reverse walking, selfie camera, first person POV, floating camera, drone footage, perfect stabilization, cinematic tracking, cuts, transitions, time jumps, speed ramping, hyperlapse, exaggerated acting.</code></pre>
+
+</details>
 
 ## Late-night gym horror found-footage video
 

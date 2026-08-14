@@ -1,198 +1,448 @@
 # Product Ads video prompts
 
-53 source-linked prompts, newest ImgLume records first.
+56 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Photorealistic 24‑second vertical skincare livestream shopping video for Ambervine Vitamin C Glow Serum
+## 30-second ultra-realistic cinematic horror-comedy ad for Philosophy Fresh Cream Body Lotion
 
-- **Original source:** [@AmControo on X](https://x.com/AmControo/status/2087535894303522859)
+- **Original source:** [@h0llyzen_ on X](https://x.com/h0llyzen_/status/2087791730913603891)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
-- **Categories:** `product-ads`
-- **ImgLume record:** [2814](https://imglume.com/prompt/2814)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2d56baca-a35c-4f85-b48e-8404f2eacfc8/33e81071-fed9-478d-9745-df6b34e8d7e4-1786545438535 "Video prompt preview")
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [2904](https://imglume.com/prompt/2904)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9493a733-5408-4ee8-a898-0bc0800809b0/05066164-e1e4-49a1-80b7-019e686551af-1786638677959 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Create a photorealistic 24-second vertical 9:16 premium skincare livestream shopping video using all four provided references.
+<pre><code>Create a 30-second ultra-realistic cinematic live-action horror-comedy advertisement for Philosophy Fresh Cream Body Lotion / Rich Body Cream. The entire first 20 seconds must feel like a genuinely terrifying high-budget supernatural horror film. Do not make it feel like a comedy until the vampire delivers the skincare line. The humor must come entirely from the contrast between the terrifying situation and the vampire being genuinely disgusted by her dry skin.
 
-REFERENCE ROLES:
-1 = exact AMBERVINE Vitamin C Glow Serum bottle. Preserve bottle shape, color, cap, label and branding.
-2 = exact female influencer. Preserve her face, blue eyes, long voluminous curly black hair, skin tone and appearance. NO glasses.
-3 = outer livestream interface. Preserve comments, viewer count, LIVE indicator, Follow button, hearts and Ambervine shopping card.
-4 = exact smartphone product page. Use it ONLY for the digital screen inside the phone.
+FORMAT:
+30 seconds, 16:9 widescreen, cinematic live-action, photorealistic, premium beauty-commercial production quality, realistic human performances, realistic rain, realistic skin, physically accurate lighting, dramatic horror cinematography, shallow depth of field, natural motion, detailed environments, subtle film grain, rich blacks, cold blue-gray night color palette with occasional warm highlights. No cartoon look, no exaggerated comedy acting, no cheesy vampire effects.
 
-The entire video must feel like ONE continuous real mobile beauty livestream, not a traditional commercial.
+MAIN CHARACTER:
+A beautiful young woman in her early 20s with long naturally wavy medium-brown hair, warm hazel-green eyes, soft realistic facial features, natural makeup, realistic skin texture. She must maintain the exact same facial identity and appearance throughout the entire video. She is wearing a dark fitted waterproof jacket over a simple dark top, dark jeans, and practical ankle boots. Her clothing is completely soaked by the rain by the middle of the scene. Her performance is natural and genuinely frightened, never exaggerated or comedic.
 
-IMPORTANT UI RULE:
-The outer livestream interface is a FIXED OVERLAY attached to the 9:16 screen. Comments, viewer count, LIVE indicator, Follow button, hearts and shopping card remain locked in their exact positions throughout the video.
-
-Camera movement affects ONLY the influencer's video area. Never zoom, crop, move, resize or hide the livestream UI.
-
-Do not generate random comments. Use only these four controlled comments:
-“Your skin is glowing!”
-“What’s your routine?”
-“What serum are you using?”
-“Where can I get it?”
-
-Existing comments remain readable and visually stable. Do not rewrite, translate, morph or distort them.
-
-VOICE:
-Young adult female voice, warm natural American accent. Friendly, conversational beauty-influencer tone. Energetic but relaxed, slightly fast livestream pacing. Natural breathing, pauses, smiles and intonation. NOT a commercial announcer. NOT robotic.
-
-ALL dialogue is spoken ON CAMERA with accurate natural lip-sync. No detached voiceover.
-
-0–3.5 SEC:
-The influencer is already live, smiling at camera while holding Ambervine serum near her chest.
-
-She notices the comments, briefly looks toward them, then back to camera.
-
-She says naturally:
-“Okay, you guys keep asking what I use on my skin…”
-
-Playful and slightly amused, with a natural pause after “skin.”
-
-3.5–7.5 SEC:
-She raises the Ambervine serum closer to camera, briefly looks at it, then back at camera.
-
-She says:
-“It’s actually this — Ambervine Vitamin C Glow Serum.”
-
-Casual and confident, slight emphasis on “this.”
-
-Use ONLY a subtle push-in inside the influencer video area. The influencer and serum become slightly larger, but the livestream UI remains completely fixed and visible.
-
-Do NOT zoom the full 9:16 screen or push comments off-screen.
-
-7.5–11.5 SEC:
-Return naturally to normal livestream framing.
-
-She lowers the serum slightly and gestures naturally toward her cheek.
-
-She says:
-“It’s so lightweight, and it gives my skin such a nice glow.”
-
-Warm and genuine, like personal advice. Small natural smile.
-
-11.5–15 SEC:
-The “Where can I get it?” comment becomes relevant. She smiles and responds:
-
-“Oh, you want the link? I’ll show you.”
-
-Playful, natural delivery. At the end, she begins reaching toward her phone.
-
-15–18 SEC:
-Continue seamlessly from the previous movement.
-
-She picks up the smartphone and brings it naturally toward the camera.
-
-The phone physically moves closer; do NOT zoom the entire livestream frame.
-
-The outer livestream interface remains fixed around the video.
-
-PHONE SCREEN — CRITICAL:
-Reference 4 is the EXACT digital screen appearance.
-
-When the phone becomes visible, reproduce the Ambervine product page shown in Reference 4.
-
-Preserve its visible elements:
-AMBERVINE
-Ambervine Vitamin C Glow Serum
-Brightens • Hydrates • Glow
-4.9
-(1.2K reviews)
-10K+ sold
-$29.00
-You save $16.00 (36%)
-Free shipping
-30-day returns
-Secure checkout
-Large pink “Shop Now” button
-Same icons, layout, spacing and general screen structure.
-
-The phone screen must NOT be redesigned or reinterpreted.
-
-Do NOT change the product image, price, rating, sold count, language, text, button or layout.
-
-Do NOT add livestream comments, hearts, viewer count or Follow buttons INSIDE the phone. Those belong only to the outer livestream.
-
-18–20 SEC:
-The phone is close enough for the screen to be clearly readable.
-
-Hold it relatively steady.
-
-She says naturally:
-“Just tap right here.”
-
-Same warm American voice and conversational livestream delivery.
-
-Her index finger moves toward the exact “Shop Now” button shown in Reference 4.
-
-20–21.5 SEC:
-She taps the existing “Shop Now” button ONCE.
-
-The finger must contact the correct button.
-
-The tap does NOT cause a page transition.
-
-The screen remains on the SAME Ambervine product page.
-
-No pop-up.
-No checkout page.
-No confirmation screen.
-No language change.
-No interface redesign.
-No screen morphing.
-
-21.5–24 SEC:
-Her finger moves away.
-
-The same phone screen remains visible briefly, then she brings the phone slightly back toward herself and looks at the camera with a warm smile.
-
-She says:
-“And you’re all set.”
-
-Friendly and reassuring, not salesy.
-
-CONTINUITY:
-Same influencer, face, curly hair, clothing, environment, lighting, serum, voice and livestream interface from beginning to end.
+VAMPIRE:
+A terrifying, elegant male vampire in his late 30s to early 40s. Extremely pale realistic skin, sharp cheekbones, dark wet hair, deep-set intense eyes, subtle visible fangs, wearing a long black Victorian-inspired coat. He should initially look genuinely dangerous and supernatural, like a serious gothic horror film villain. He must NOT look cartoonish, goofy, campy, or like Halloween cosplay. His eventual comedic behavior should come only through his extremely serious, judgmental attitude toward the woman's dry skin.
 
 PRODUCT:
-Ambervine bottle must remain identical to Reference 1. No morphing, label changes, color changes or duplicated bottles.
+Use the uploaded reference image of the Philosophy Fresh Cream Body Lotion as the exact product reference. Preserve the recognizable white tube, black cap, minimalist black typography, packaging proportions, and overall appearance. Do not redesign the packaging or invent a different bottle. When the product appears, it must look like a real luxury beauty product photographed for a premium skincare campaign. The product label should remain clean and legible.
 
-CAMERA:
-Natural livestream movement only. Subtle push-in during product reveal. Physical phone movement during phone interaction. No dramatic cinematic movements.
+SCENE 1 — 0:00–0:04
 
-REALISM:
-Photorealistic skin and hair, realistic hands and fingers, natural blinking, breathing, facial expressions and gestures, believable lip-sync, realistic phone reflections and precise finger interaction.
+Open on a huge cinematic wide shot of a deserted forest road at night during a violent thunderstorm.
 
-STRICTLY AVOID:
-Different face or hairstyle.
-Glasses.
-Extra people.
-Extra skincare products.
-Random comments.
-Unreadable or distorted comments.
-Moving or disappearing livestream UI.
-Livestream UI inside the phone.
-Different phone screen.
-Changed product image.
-Changed price, rating or sold count.
-Changed language.
-Random pop-ups.
-Screen transitions.
-Garbled text.
-Deformed hands.
-Extra fingers.
-Multiple phones.
-Subtitles.
-Captions.
-Watermarks.
-Chinese language or speech.</code></pre>
+The road is completely empty, surrounded by tall dense trees on both sides. Heavy rain pours down. Thick mist hangs low over the asphalt. Her dark car is stopped in the middle of the road with its headlights illuminating the rain and fog. The headlights flicker slightly. Lightning suddenly tears across the sky, briefly revealing the enormous forest surrounding her.
+
+The atmosphere should feel isolated and threatening, as if she is miles away from civilization.
+
+Camera: slow cinematic push toward the stranded car from a low wide angle.
+
+Lighting: extremely dark night environment, cold blue-gray moonlight, bright white lightning flashes, wet reflective asphalt.
+
+Audio: heavy rain, distant thunder, strong wind moving through trees. No music yet. No dialogue.
+
+SCENE 2 — 0:04–0:07
+
+Cut inside the car.
+
+Close-up of the woman sitting behind the steering wheel. She looks frightened and confused. She tries the ignition again. Nothing happens.
+
+She looks at the dashboard, then slowly looks out through the rain-covered windshield.
+
+Her breathing becomes slightly heavier.
+
+Lightning flashes across her face.
+
+She hesitates, then reluctantly opens the driver's door.
+
+Camera: tight close-up, subtle handheld movement, intimate horror-film framing.
+
+Audio: rain hitting the windshield, windshield wipers, engine clicking unsuccessfully, nervous breathing.
+
+No dialogue.
+
+SCENE 3 — 0:07–0:10
+
+She steps out into the storm.
+
+Medium-wide shot from behind and slightly to the side as she walks toward the front of the car.
+
+She slowly raises the hood.
+
+The wind pushes her wet hair across her face.
+
+She looks around.
+
+The forest is completely still for a moment.
+
+Then, very faintly in the distance, she hears an unsettling animal-like howl from somewhere deep inside the trees.
+
+She freezes.
+
+Camera: slow push-in toward her as she realizes she is not alone.
+
+Audio: distant howl, wind, rain, low thunder.
+
+SCENE 4 — 0:10–0:12
+
+Extreme close-ups.
+
+Her fingers grip the edge of the car hood and tremble slightly.
+
+Cut to her other hand.
+
+Her fingertips are visibly shaking.
+
+Cut to a close-up of her face.
+
+Tiny beads of sweat mix with rainwater on her forehead. Her eyes scan the darkness.
+
+She is trying to remain calm but is clearly terrified.
+
+Camera: macro close-ups, shallow depth of field, subtle handheld instability.
+
+Lighting: occasional lightning briefly illuminates her face.
+
+Audio: her breathing, rain, distant wind.
+
+SCENE 5 — 0:12–0:14
+
+She suddenly hears something behind her.
+
+A sharp rustling sound from the trees.
+
+She freezes.
+
+Slowly turns her head.
+
+Then slowly turns her entire body.
+
+Over-the-shoulder shot reveals a dark forest behind her.
+
+At first, there is nothing.
+
+She takes one cautious step backward.
+
+Another branch snaps.
+
+She looks deeper into the forest.
+
+A tall dark human figure is barely visible between the trees.
+
+Lightning flashes.
+
+The figure is gone.
+
+She is horrified.
+
+Camera: slow rack focus from her shoulder to the distant darkness.
+
+Audio: branch snapping, wind suddenly dropping, her breath becoming faster.
+
+SCENE 6 — 0:14–0:17
+
+The woman suddenly hears rapid footsteps behind her.
+
+She turns and runs.
+
+Handheld camera follows her from behind as she sprints down the wet road.
+
+Her hair flies behind her. Her jacket is soaked. Her breathing is frantic.
+
+Do not make this action comedic. It should feel like a serious horror chase.
+
+She looks over her shoulder while running.
+
+Nothing visible.
+
+She turns forward again.
+
+Her foot catches on something.
+
+She falls hard onto the wet asphalt.
+
+Camera drops with her.
+
+She gasps in pain.
+
+SCENE 7 — 0:17–0:20
+
+Low-angle POV from the ground.
+
+The woman looks upward.
+
+Two black boots slowly enter frame.
+
+The camera slowly tilts upward.
+
+The figure is standing directly over her.
+
+Long black coat.
+
+Pale hands.
+
+Dark wet hair.
+
+He takes one slow step closer.
+
+Another lightning flash reveals his face.
+
+He is unmistakably a vampire.
+
+Pale skin, intense eyes, subtle fangs.
+
+The woman realizes what she is looking at.
+
+Her eyes widen.
+
+She backs away helplessly.
+
+She closes her eyes tightly, expecting to be attacked.
+
+The horror music reaches its maximum intensity.
+
+Then...
+
+Silence.
+
+SCENE 8 — 0:20–0:23
+
+Extreme close-up of the vampire's face.
+
+He looks down at her.
+
+His terrifying expression slowly changes.
+
+Not into a goofy expression.
+
+Instead, he looks genuinely disappointed.
+
+He looks at her exposed forearm.
+
+Then back at her face.
+
+He slightly wrinkles his nose.
+
+He quietly says, with complete seriousness:
+
+"Tch. Tch. Tch."
+
+Pause.
+
+Then:
+
+"Your skin is so dry..."
+
+The delivery should sound like a vampire who has encountered something genuinely unpleasant.
+
+No comedic music yet.
+
+The seriousness makes the line funny.
+
+SCENE 9 — 0:23–0:26
+
+The vampire leans slightly closer.
+
+He examines her skin with disgust.
+
+Then immediately pulls his hand away.
+
+He says:
+
+"I don't even want to touch you."
+
+Pause.
+
+He reaches inside his long black coat.
+
+The woman looks confused and terrified.
+
+She expects him to pull out something dangerous.
+
+Instead, he slowly pulls out the Philosophy Fresh Cream Body Lotion tube.
+
+He holds it out toward her.
+
+Completely deadpan:
+
+"Use this."
+
+This is the comedic payoff.
+
+Keep the vampire's face completely serious.
+
+SCENE 10 — 0:26–0:28
+
+Cut immediately from the horror scene into a luxurious cinematic product shot.
+
+The Philosophy Fresh Cream Body Lotion tube stands upright on a wet black stone surface.
+
+The exact uploaded product packaging must be preserved.
+
+Rain droplets glisten on the surface.
+
+Soft fog moves behind the product.
+
+Dark gothic forest atmosphere remains in the background, connecting the product shot to the story.
+
+A subtle lightning flash illuminates the tube from behind.
+
+Camera: extremely slow luxury-commercial push-in.
+
+Lighting: premium beauty-product lighting, soft rim light around the white tube, controlled highlights, rich shadows, elegant reflections.
+
+The product must be the hero.
+
+SCENE 11 — 0:28–0:30
+
+Final clean luxury beauty-commercial frame.
+
+The Philosophy Fresh Cream Body Lotion tube remains centered against the dark atmospheric background.
+
+Elegant white text fades onto screen:
+
+PHILOSOPHY
+FRESH CREAM BODY LOTION
+
+Then underneath:
+
+"Even vampires have standards."
+
+Hold for the final beat.
+
+A final distant thunder rumble fades out.
+
+OVERALL DIRECTION:
+
+The first 20 seconds must feel like a serious supernatural horror movie. Make the audience genuinely believe the woman is about to be attacked by a vampire. The forest should feel enormous, isolated, wet, cold, and dangerous. Use cinematic suspense, realistic fear, restrained acting, slow reveals, negative space, darkness, lightning flashes, shallow depth of field, handheld chase photography, and realistic environmental detail.
+
+The comedic twist must not be telegraphed early.
+
+Do NOT make the vampire funny visually. Do NOT make him smile at the camera. Do NOT make him wink. Do NOT use goofy facial expressions. Do NOT use cartoon sound effects. His seriousness is what makes the situation funny.
+
+The joke is that this terrifying supernatural creature has apparently encountered something worse than human blood: extremely dry skin.
+
+The product reveal should then transition into an expensive, sophisticated skincare commercial.
+
+Maintain strict character consistency throughout the entire video. Maintain the same woman's face, hair, body proportions, clothing, and appearance in every shot. Maintain the same vampire identity and costume throughout his appearance.
+
+No subtitles except the intentional final product text. No unnecessary on-screen text during the horror sequence. No dialogue from the woman. No narrator. No logos or brands other than the exact Philosophy product shown in the uploaded reference.
+
+CINEMATOGRAPHY:
+High-end theatrical horror cinematography mixed with premium luxury skincare advertising. 35mm and 50mm cinematic lenses, shallow depth of field for close-ups, wide anamorphic-feeling compositions for the forest, realistic lens breathing, subtle handheld camera during the chase, slow controlled camera movement during suspense, realistic motion blur, natural rain interaction, physically accurate reflections on wet asphalt, detailed skin texture, realistic wet hair, realistic fabric behavior, cinematic contrast, atmospheric fog, volumetric moonlight, dramatic lightning.
+
+PACE:
+0–14 seconds: slow, tense buildup.
+14–20 seconds: rapid horror escalation.
+20–26 seconds: sudden deadpan comedic reveal.
+26–30 seconds: elegant luxury product finish.
+
+The final result should feel like a genuinely expensive horror movie that suddenly turns into a luxury skincare advertisement for the funniest possible reason.</code></pre>
+
+</details>
+
+## Photorealistic 15-second UGC-style ice cream advertisement
+
+- **Original source:** [@thisismariaa25 on X](https://x.com/thisismariaa25/status/2087831000235880943)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2900](https://imglume.com/prompt/2900)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40b1adbf-2584-4f14-a683-c7c63cef93fc/c3631e96-1485-4557-85c5-21fe4e8a91d6-1786638126884 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic 15-second UGC-style advertisement in 16:9 featuring the provided female model. She is wearing a white and black polka dot halter top with high-waisted wide-leg blue jeans, small gold hoop earrings, minimal jewelry, natural makeup, and loose slightly wavy hair. The setting is a bright, cozy modern kitchen with soft afternoon sunlight pouring through the windows, creating a warm, inviting atmosphere. The video should feel like it was casually filmed by a real content creator recommending her latest grocery find. Use subtle handheld camera movement, natural lighting, realistic skin textures, shallow depth of field, authentic facial expressions, and premium food cinematography. Keep the pacing relaxed and conversational, never overly polished or scripted.
+
+Scene 1 (0–5 seconds)
+Medium shot of her leaning against the kitchen counter while holding an unopened pint of Halo Top Blueberry Crumble ice cream. She smiles naturally at the camera with a slightly guilty expression before laughing.
+
+Dialogue:
+"I absolutely love ice cream... like, I genuinely need some after every meal. But those calories add up so fast."
+
+Natural pauses and a tiny laugh make it feel unscripted.
+
+Scene 2 (5–10 seconds)
+She opens the pint, the lid makes a satisfying pop, and she scoops out a generous spoonful. Cut to beautiful close-ups of the creamy ice cream showing blueberry swirls and buttery crumble pieces. She takes a bite and her eyes light up with a genuine smile.
+
+Dialogue:
+"So I've been obsessed with this Halo Top Blueberry Crumble instead."
+
+Scene 3 (10–15 seconds)
+She casually holds the pint toward the camera while taking another spoonful. She shrugs slightly and smiles like she's sharing a secret with a friend.
+
+Dialogue:
+"The whole pint is only 350 calories, it's packed with protein, and honestly... it tastes like actual blueberry crumble. I literally keep one in my freezer now."
+
+End with her taking one more bite while smiling at the camera.
+
+Audio should include soft kitchen ambience, the lid opening, spoon scraping the ice cream, and subtle upbeat background music that stays underneath the dialogue. The dialogue should sound spontaneous with natural breathing, tiny pauses, and conversational pacing rather than like a commercial voiceover. The final video should feel authentic, cozy, relatable, and premium, like a genuine creator sharing her favorite healthier dessert with friends.</code></pre>
+
+</details>
+
+## Leisure Hydration lemonade commercial
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2087750967500697864)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2856](https://imglume.com/prompt/2856)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5d2559dd-69fe-4a2b-b1c8-820c76cc1bcc/0193baff-8bd7-4780-86eb-1d045776f5c4-1786604494623 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A clean, bright, modern kitchen commercial for “Leisure Hydration” lemonade electrolyte drink. Soft natural daylight, white marble countertop, fresh lemons and mint leaves scattered around.
+
+Start with a close-up of a tall yellow-and-white aluminum can covered in condensation droplets. The can has playful cartoon lemon character with headphones and a yellow umbrella, text “lemonade”, “leisure HYDRATION”, “5g SUGAR”, “NON CARBONATED”, “electrolyte refresher”, “+ VITAMINS, MAGNESIUM, ADAPTOGENS”. Elegant white text overlay “Hydrate Smarter.” appears.
+
+A woman’s hand reaches in and picks up the can. Cut to a beautiful East Asian woman with long straight black hair, wearing a white tank top. She brings the can to her lips, closes her eyes, and takes a refreshing sip. She then lowers the can, opens her eyes, and gives a bright, genuine smile while looking at the camera.
+
+She continues smiling and speaking naturally while holding the can near her face. Quick cut to a dynamic product shot of the same can surrounded by flying lemon slices, mint leaves, and dramatic water splashes against a bright white background with soft sunlight rays.
+
+She then holds the can forward toward the camera with a big cheerful smile, presenting the product. Soft, fresh, lifestyle commercial style, high-end beverage ad, vibrant yellow and white color palette, clean and refreshing mood.
+
+Voiceover (friendly female voice):
+“I’ve been loving this Leisure Hydration lemonade. It’s packed with electrolytes, only 5 grams of sugar, non-carbonated, and includes vitamins, magnesium, and adaptogens. It’s my go-</code></pre>
+
+</details>
+
+## Ultra-realistic premium matcha commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2087557181856186686)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [2838](https://imglume.com/prompt/2838)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c9158e9-05bf-47fe-a4f0-262d131df8bc/9f4a6fae-8720-4055-8ec1-89fb32a6ea21-1786583459576 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic premium matcha commercial featuring the same young woman consistently throughout the entire sequence. Maintain identical facial features, hairstyle, skin tone, body proportions, outfit, and accessories in every shot. She wears a fitted cream knit top, beige high-waisted trousers, delicate gold jewelry, and soft natural makeup. The setting is a bright minimalist kitchen transitioning into an elegant Japanese-inspired tea café on a warm morning.
+
+The video opens with a cinematic close-up as she stands beside a sunlit kitchen window and gently smiles toward the camera. She places a handcrafted ceramic cup on a wooden counter.
+
+Macro shots capture her scooping vibrant green matcha powder into the cup, adding warm water, and whisking it rapidly with a traditional bamboo whisk. The matcha forms a silky layer of fine bubbles as sunlight reflects across the surface.
+
+She slowly pours creamy steamed oat milk into the matcha, creating beautiful green-and-white swirling patterns. Extreme close-ups capture the liquid blending, tiny bubbles, and realistic steam.
+
+She lifts the finished matcha latte, takes a slow sip, and smiles naturally. She then walks through a peaceful tree-lined street toward a stylish Japanese café.
+
+Inside, she selects a delicate matcha pastry and sits beside a large window overlooking the street. She takes a bite while enjoying another sip of her drink.
+
+The commercial ends with a premium hero shot of the matcha latte beside the pastry and bamboo whisk while she smiles softly in the background.
+
+Natural ambient audio only: whisking, liquid pouring, ceramic tapping, footsteps, birds, gentle café ambience, soft breeze, distant conversations. No dialogue, subtitles, logos, watermarks, or on-screen text. Premium beverage cinematography, realistic textures, physically accurate lighting, macro food photography, shallow depth of field, warm cinematic color grading, 4K HDR, 16:9.</code></pre>
 
 </details>
 

@@ -1,9 +1,44 @@
 # Cinematic image prompts
 
-44 source-linked prompts, newest ImgLume records first.
+45 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-photorealistic cinematic floating futuristic city above stormy ocean
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2087440072656470348)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2843](https://imglume.com/prompt/2843)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/727ed552-d4c4-487a-bf1c-50357b556f8f/6b060c0d-2931-4fe8-88a0-a23b63d9e881-1786587673781 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/727ed552-d4c4-487a-bf1c-50357b556f8f/8665cbad-f3b0-4547-be72-b9079d0911eb-1786587673781 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>1. Create an ultra-photorealistic, breathtaking cinematic 8K image of a colossal futuristic city floating thousands of meters above an endless ocean of dark storm clouds at sunset.
+
+A lone mysterious traveler stands in the extreme foreground on a gigantic glass observation platform, seen from behind, wearing an elegant futuristic black coat with subtle metallic details. Their silhouette is sharply defined against the enormous city ahead.
+
+The floating city is impossibly massive: towering futuristic skyscrapers, suspended highways, glowing architecture, enormous circular structures, flying vehicles leaving subtle light trails, waterfalls cascading from the underside of the city into the clouds below, and countless tiny illuminated windows creating a sense of immense scale.
+
+Far below, violent thunderstorms illuminate the clouds with distant lightning. Above the city, enormous golden sun rays break through the storm, creating dramatic volumetric god rays.
+
+Composition: cinematic wide-angle establishing shot, traveler positioned slightly off-center, strong foreground-to-background depth, enormous sense of scale, leading lines directing the eye toward the heart of the city.
+
+Lighting: dramatic golden-hour sunlight mixed with cool blue atmospheric shadows, realistic reflections on glass and metal, volumetric fog, physically accurate global illumination.
+
+Atmosphere: mysterious, awe-inspiring, majestic, slightly ominous, like humanity has discovered a civilization beyond Earth.
+
+Extremely detailed architecture, realistic materials, realistic atmospheric perspective, natural depth of field, subtle film grain, HDR, physically accurate shadows, cinematic color grading, razor-sharp details, realistic human proportions.
+
+NO text, NO logos, NO watermark, NO distorted anatomy, NO duplicate buildings, NO cartoon appearance.
+
+The image must look like a frame from an extraordinarily expensive Hollywood science-fiction film, captured with a large-format cinema camera.</code></pre>
+
+</details>
 
 ## Odysseus movie still, Caesar
 

@@ -1,9 +1,264 @@
 # Food Drink video prompts
 
-44 source-linked prompts, newest ImgLume records first.
+47 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Late-night Spanish fitness influencer cooking vlog
+
+- **Original source:** [@rom1trs on X](https://x.com/rom1trs/status/2087523260271350109)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2851](https://imglume.com/prompt/2851)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3fd9aa66-6f4a-4990-8ef7-8e015c5dd087/3c20be60-62da-4a26-9449-f7a20039558b-1786596204279 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+
+Handheld digital camcorder aesthetic, landscape framing.
+
+A gorgeous Spanish fitness and food influencer films herself by hand in selfie-cam and first-person style while cooking a late-night high-protein meal after training.
+
+Keep realistic hand shake, slightly crooked framing, autofocus briefly hunting between her face and the food, awkward zoom-ins onto the pan, occasional motion blur, brief lens steam-up over the hot pan that clears naturally, and small framing mistakes where her face or the pan edge slips out of frame.
+
+Mix handheld selfie footage with a few fixed external shots.
+
+Important: never show her placing, adjusting, or setting up a camera.
+
+When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began.
+
+The camera itself must never appear on screen or in the window reflection.
+
+LOOK:
+
+Warm late-night kitchen light.
+
+A single warm pendant over the counter, cool blue night visible through the window behind her, under-cabinet strip light glowing on the backsplash.
+
+Slight camcorder softness, faint noise in the shadows, mild bloom on the pendant.
+
+Food realism is the core of the look: real sizzle with fine oil spatter, steam rising and curling from the pan, honest food textures with sear marks and glistening surfaces, knife cuts that separate cleanly, droplets on rinsed vegetables.
+
+Realistic skin texture, post-workout glow, slightly damp hairline, realistic skin tones.
+
+STYLE:
+
+A realistic late-night what-I-eat-after-training vlog.
+
+The tone is relaxed, hungry, funny, quietly confident, and natural, talking to the lens like a friend while her hands keep working.
+
+She is clearly attractive and charismatic, but the video must feel like a believable self-recorded kitchen vlog, not a food commercial.
+
+Fast clean jump cuts, strong continuity, natural body language, real kitchen sounds, sizzle, chopping, no awkward dead moments.
+
+CHARACTER:
+
+An exceptionally beautiful Spanish woman in her mid-20s.
+
+Highly photogenic face, dark expressive brown eyes, thick dark brows, warm golden-tan skin, a full mouth, a defined jawline, and long thick wavy dark hair pulled into a loose messy bun with waves escaping at the neck.
+
+Fit, strong, feminine build, clearly fresh from training.
+
+Minimal worn-off makeup, glowing slightly sweaty skin.
+
+She wears an oversized washed-black hoodie with sleeves pushed up to the elbows, visible black leggings, thick socks, no shoes, and tiny stud earrings.
+
+A small kitchen towel over one shoulder for most of the video.
+
+SETTING:
+
+A small warm real apartment kitchen at night.
+
+Wooden counter with knife marks, a gas hob with one cast-iron pan, a cutting board with chicken breast and vegetables, a bowl of cooked rice, a bottle of olive oil, salt in a small dish, a fridge with magnets and photos, dishes drying on a rack, dark window over the sink reflecting the warm kitchen.
+
+Lived-in and slightly cluttered.
+
+No other people, no pets.
+
+IMPORTANT CONTINUITY RULES:
+
+The same woman must remain fully consistent in every shot.
+
+No face changes, no hair changes beyond the bun loosening slightly, no outfit changes, no body changes.
+
+The meal progresses in one direction only: raw ingredients, then chopping, then searing, then plating, then eating, and never reverses or regenerates.
+
+Food already cooked never becomes raw again.
+
+Hands and knife are the top priority: five fingers always, correct knife grip with curled guiding fingers, clean cuts, the knife never bends and never passes through her hand.
+
+The pan, board, oil bottle and rice bowl stay in the same positions.
+
+Steam and sizzle must behave with real physics.
+
+No extra people, including in the dark window reflection, and the reflection never shows a camera.
+
+No duplicated limbs.
+
+No camera visible.
+
+No camera setup shown.
+
+Keep her beautiful, warm, and photogenic in every shot.
+
+STORYBOARD:
+
+30 seconds total, 10 cuts.
+
+1. (~3s, arm's-length selfie)
+
+She leans on the counter in the hoodie, hair in a messy bun, clearly post-workout, and grins tiredly at the lens.
+
+Dialogue:
+"Trained late. Starving. Let's cook."
+
+2. (~3s, handheld pan across the counter and back to her)
+
+The camera drifts across the board with raw chicken and vegetables, the pan, the rice bowl, then back up to her face.
+
+Dialogue:
+"Ten minute meal. Watch."
+
+3. (~3s, fixed external medium shot from across the counter)
+
+Jump cut.
+
+She is already chopping a red pepper with quick confident cuts, guiding fingers curled, pieces falling evenly.
+
+No camera setup shown.
+
+No dialogue, just the knife on the board.
+
+4. (~3s, same fixed shot)
+
+She slices the chicken breast into strips, seasons it from the salt dish with a high pinch, and rubs it in with her fingertips.
+
+Dialogue:
+"Protein first. Always."
+
+5. (~3s, tight handheld first-person shot over the pan)
+
+Oil shimmering, she lays the chicken strips in one by one and they hit with a loud real sizzle, fine spatter, steam rising into the lens which fogs for a beat and clears.
+
+No dialogue, just the sizzle.
+
+6. (~3s, handheld selfie while the pan sizzles behind her)
+
+She turns the camera on herself, fanning steam away from her face, laughing.
+
+Dialogue:
+"The smell. You have no idea."
+
+7. (~3s, tight handheld close-up of the pan)
+
+She flips the strips with tongs, showing deep golden sear marks, tosses in the peppers, and shakes the pan once so everything jumps and resettles.
+
+Dialogue:
+"That colour? That's the whole point."
+
+8. (~3s, fixed external shot)
+
+Jump cut.
+
+She plates it: rice pressed from the bowl, chicken and peppers over the top, a last drizzle of olive oil in a thin ribbon, and she wipes the plate rim with the towel like a chef, then smirks at her own seriousness.
+
+Dialogue:
+"Yes, I wiped the rim. Let me live."
+
+9. (~3s, tight handheld close-up)
+
+First fork bite, steam still coming off it, she chews, closes her eyes for a beat and nods slowly.
+
+Dialogue:
+"Ten minutes. That's it. Ridiculous."
+
+10. (~3s, arm's-length selfie ending)
+
+Plate in one hand, camera in the other, she backs out of the kitchen toward the sofa, flicking the kitchen light off with her elbow.
+
+Dialogue:
+"Okay. Eating. Good night."
+
+FINAL INSTRUCTION:
+
+The result must feel like a real self-recorded late-night cooking vlog by an athlete who actually cooks.
+
+The highest priorities are correct hands and knife work at close range, one-directional cooking progression that never reverses, real sizzle, steam and food texture, honest warm kitchen light against the dark window, and subtle imperfection.
+
+Keep it warm, hungry, and real.
+
+Not a food commercial, not overhead recipe content, not stiff.</code></pre>
+
+</details>
+
+## Ultra-realistic premium chocolate dessert commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2087557181856186686)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [2839](https://imglume.com/prompt/2839)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/859a32a0-5743-4596-b422-31630ffddac3/49afa7e5-7bdc-40a5-8355-4684e3a41ffc-1786583459576 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic premium chocolate dessert commercial featuring the same young woman consistently throughout the entire sequence. Maintain identical facial features, hairstyle, skin tone, body proportions, outfit, and accessories in every shot. She wears a fitted burgundy sleeveless top, cream wide-leg trousers, delicate gold jewelry, and soft natural makeup. The setting is a luxurious modern kitchen transitioning into an elegant European-style dessert café during golden hour.
+
+The video opens with a cinematic close-up of her smiling beside a marble kitchen counter as she places a dark chocolate bar onto a wooden board.
+
+Macro shots capture her breaking the chocolate into pieces and dropping them into a glass bowl. She slowly pours warm cream over the chocolate, creating glossy swirls as the chocolate melts.
+
+She stirs the mixture until it becomes perfectly smooth and silky. Extreme macro shots showcase the rich texture, glossy surface, and slow chocolate ribbons falling from the spoon.
+
+She pours the chocolate into a beautiful dessert glass, adds whipped cream, chocolate shavings, and fresh berries, then gently places it on the counter.
+
+She takes the first spoonful, closes her eyes for a moment, and smiles with genuine satisfaction.
+
+Carrying the dessert, she walks through a charming European-style street toward a luxury café. Inside, she sits near a large window while warm sunlight creates soft reflections across the glass.
+
+The final hero shot showcases the finished chocolate dessert surrounded by chocolate pieces, berries, and elegant tableware while she enjoys another spoonful in the softly blurred background.
+
+Natural ambient audio only: chocolate breaking, cream pouring, spoon stirring, glass tapping, footsteps, café ambience, soft conversations, and gentle street sounds. No background music, dialogue, subtitles, logos, watermarks, or on-screen text.</code></pre>
+
+</details>
+
+## Ultra-realistic premium matcha commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2087557181856186686)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [2838](https://imglume.com/prompt/2838)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c9158e9-05bf-47fe-a4f0-262d131df8bc/9f4a6fae-8720-4055-8ec1-89fb32a6ea21-1786583459576 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic premium matcha commercial featuring the same young woman consistently throughout the entire sequence. Maintain identical facial features, hairstyle, skin tone, body proportions, outfit, and accessories in every shot. She wears a fitted cream knit top, beige high-waisted trousers, delicate gold jewelry, and soft natural makeup. The setting is a bright minimalist kitchen transitioning into an elegant Japanese-inspired tea café on a warm morning.
+
+The video opens with a cinematic close-up as she stands beside a sunlit kitchen window and gently smiles toward the camera. She places a handcrafted ceramic cup on a wooden counter.
+
+Macro shots capture her scooping vibrant green matcha powder into the cup, adding warm water, and whisking it rapidly with a traditional bamboo whisk. The matcha forms a silky layer of fine bubbles as sunlight reflects across the surface.
+
+She slowly pours creamy steamed oat milk into the matcha, creating beautiful green-and-white swirling patterns. Extreme close-ups capture the liquid blending, tiny bubbles, and realistic steam.
+
+She lifts the finished matcha latte, takes a slow sip, and smiles naturally. She then walks through a peaceful tree-lined street toward a stylish Japanese café.
+
+Inside, she selects a delicate matcha pastry and sits beside a large window overlooking the street. She takes a bite while enjoying another sip of her drink.
+
+The commercial ends with a premium hero shot of the matcha latte beside the pastry and bamboo whisk while she smiles softly in the background.
+
+Natural ambient audio only: whisking, liquid pouring, ceramic tapping, footsteps, birds, gentle café ambience, soft breeze, distant conversations. No dialogue, subtitles, logos, watermarks, or on-screen text. Premium beverage cinematography, realistic textures, physically accurate lighting, macro food photography, shallow depth of field, warm cinematic color grading, 4K HDR, 16:9.</code></pre>
+
+</details>
 
 ## Realistic Late-Night Kitchen Smartphone Video
 

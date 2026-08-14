@@ -1,9 +1,286 @@
 # Camera Moves video prompts
 
-83 source-linked prompts, newest ImgLume records first.
+88 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15-second handheld boyfriend vlog of a Japanese woman walking in Tokyo
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2087737420766937336)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`
+- **ImgLume record:** [2859](https://imglume.com/prompt/2859)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8b93d333-5720-4b15-b9e6-a06c97f9daa0/dd6103a3-54d3-4fa3-89a2-2361191f10c2-1786604561550 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second single continuous unbroken handheld boyfriend vlog featuring one cute Japanese young adult woman in Tokyo.
+
+Character: Same woman throughout. Natural Japanese appearance, long dark hair, cute casual outfit, tiny shoulder bag. Keep her FULL BODY visible head-to-toe at all times—never crop her head, hands, legs, or feet.
+
+0–5s: She walks naturally along a charming Tokyo side street. Boyfriend follows 2–3 meters behind with a handheld phone/mirrorless camera. She notices him filming, turns slightly, smiles and playfully says, “Are you filming me again?” She laughs and keeps walking.
+
+5–10s: She notices a tiny Japanese dessert shop, points toward it and says, “Look! That one!” She smiles excitedly while continuing forward. The boyfriend naturally adjusts the camera to keep her entire body in frame.
+
+10–15s: She walks a few more steps, then turns back toward the camera with a warm, spontaneous smile. End naturally while she continues walking.
+
+Style: Photorealistic authentic boyfriend vlog, medium-wide full-body framing, natural handheld shake, realistic walking movement, autofocus breathing, slight motion blur, natural Tokyo lighting and background activity, genuine expressions and accurate lip-sync.
+
+Strict: One continuous take, no cuts, no transitions, no zoom-in, no cropping, no face/identity changes, no outfit changes, no CGI, no text, no logos, no commercial look.</code></pre>
+
+</details>
+
+## Ultra-premium Gen-Z music commercial video
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2087746267250327636)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2857](https://imglume.com/prompt/2857)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ef34d94f-3ec9-4f5c-9fc0-9ed8ae8b3aee/3a324b33-892f-45c8-b153-ab9f843d4e05-1786604510000 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Ultra-premium Gen-Z music commercial, hyper-realistic, cinematic 8K, high-end fashion campaign, energetic hip-hop track, fast beat-synced editing, viral social-media aesthetic, realistic skin and fabric textures, natural lighting, polished professional choreography, dynamic handheld + gimbal camera movement, crisp motion blur, bold kinetic typography, premium color grading, no CGI look, no cartoon style, no watermark.
+
+Main Character: A confident young female dancer with a stylish Gen-Z fashion look, natural makeup, expressive face, realistic hair movement, fashionable oversized streetwear mixed with luxury accessories. Keep her appearance, outfit, hairstyle, and identity consistent throughout.
+
+Scene 1 — 0–3s | Beat Drop
+
+Nighttime premium urban location with neon architecture and wet reflective pavement.
+
+Extreme close-up of her sneakers hitting the ground exactly on the first beat. Cut rapidly to her eyes, jewelry, hands, and confident expression.
+
+She looks directly into the camera.
+
+Typography hits the screen:
+“FEEL THE BEAT.”
+
+Letters appear with aggressive kinetic motion, slight zoom, shake, and rhythmic distortion synchronized perfectly to the music.
+
+Scene 2 — 3–7s | Dance Explosion
+
+Beat drops harder.
+
+She launches into a fast, highly polished Gen-Z hip-hop choreography: sharp footwork, body isolations, confident hand movements, quick turns and attitude-driven poses.
+
+Camera constantly changes:
+low-angle tracking → 360° orbit → close-up → wide shot → fast push-in.
+
+Use seamless match cuts between movements. Every camera transition lands precisely on the beat.
+
+Typography flashes between movements:
+
+“MOVE.”
+“ENERGY.”
+“NO LIMITS.”
+
+Large bold typography briefly fills the frame without hiding the dancer.
+
+Scene 3 — 7–11s | Viral Moment
+
+Music reaches its fastest section.
+
+The dancer performs the signature highlight move directly toward the camera.
+
+Camera pushes forward while she moves backward, creating a powerful perspective effect. Quick speed ramp into slow motion for one key movement, then instantly snap back to full speed.
+
+Add subtle realistic light streaks, reflections, lens flares, and environmental movement.
+
+Typography rapidly assembles around her:
+
+“THIS IS YOUR MOMENT.”
+
+Each word appears individually on beat with modern kinetic animation.
+
+Scene 4 — 11–15s | Hero Finish
+
+Final beat.
+
+She executes one final sharp move, spins, then stops confidently facing the camera.
+
+Music hits a clean final bass impact.
+
+Camera performs a dramatic cinematic push-in as the environment briefly falls into shallow depth of field.
+
+She gives a confident smile.
+
+Final typography appears huge and centered:
+
+“OWN THE MOMENT.”
+
+Small premium subtitle underneath:
+
+“MOVE DIFFERENT.”
+
+End on a clean freeze-frame hero shot with subtle camera movement, luxury fashion-commercial finish, realistic lighting, crisp details, authentic Gen-Z attitude.
+
+Music: Fast modern hip-hop/trap instrumental, heavy bass, punchy drums, crisp hi-hats, energetic beat drops, designed for rapid choreography and typography synchronization.
+
+Editing: Extremely tight 0.3–1 second cuts, beat-synced transitions, speed ramps, whip transitions, match cuts, kinetic typography, occasional slow-motion impact shots, professional music-video pacing.
+
+Visual quality: Premium global fashion campaign + viral Gen-Z music video, realistic human motion, authentic dance physics, natural facial expressions, detailed clothing movement, cinematic depth of field, high-end commercial cinematography.</code></pre>
+
+</details>
+
+## Photorealistic cinematic 1950s diner rewind scene
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087523289707196763)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [2850](https://imglume.com/prompt/2850)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/850b2f28-7532-43bf-ae57-c8dfc3d60223/204c8d88-f05a-44fb-853d-03ba45b82f83-1786596122502 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1950s American diner, chrome stools, red vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.
+
+0-4s: [Medium Wide] A striking young woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick milkshake through a straw. Behind her a young waitress in classic uniform approaches with a tray of eggs and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.
+
+4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.
+
+8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.
+
+17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl's face.
+
+24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.
+
+Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.</code></pre>
+
+</details>
+
+## Continuous tracking shot of rusted automaton in overgrown megacity
+
+- **Original source:** [@sebatheepan on X](https://x.com/sebatheepan/status/2087454978336063743)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2837](https://imglume.com/prompt/2837)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/734e6a45-8152-4043-99ef-d3a054f6bbc7/f80a7ed8-f28a-4895-b153-91d91619eac6-1786579238566 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Continuous tracking shot through a collapsed megacity overgrown with radioactive jungle. Subject: a three-foot-tall rusted automaton with a cracked glass faceplate, exposed copper wiring for hair, and piston-driven limbs. It sprints across tilting skyscraper beams, vaults through broken windows, slides under fallen monorail cars, grapples up vines wrapped around a transmission tower, and leaps between two collapsing buildings as the jungle reclaims the concrete in real-time. Dust motes, god-rays through canopy, rust particles, volumetric fog. Cinematic 8K, photorealistic decay textures.</code></pre>
+
+</details>
+
+## The City that Woke Up
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2087373094185050119)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2836](https://imglume.com/prompt/2836)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5acc268a-d95d-4423-92eb-1b5780f14d3e/5a827db9-da5c-4963-af02-3c34f9d8a41f-1786572932600 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 50-second ultra-cinematic photorealistic fantasy adventure sequence with a grand, mysterious, emotional atmosphere. The video should feel like a scene from a high-budget fantasy film. Use continuous visual storytelling with seamless transitions, maintaining perfect environmental, architectural, lighting, and character consistency throughout.
+
+Core concept: An ancient city buried beneath a vast desert suddenly awakens after thousands of years. A lone explorer discovers the entrance, walks into the forgotten city, and accidentally activates an enormous ancient mechanism that transforms the dead civilization back to life.
+
+0–7 seconds — THE DISCOVERY
+
+Begin with an enormous cinematic aerial shot of an endless golden desert during sunset. Massive sand dunes stretch toward the horizon beneath dramatic clouds. Wind moves the sand naturally.
+
+The camera slowly descends toward a lone explorer walking across the dunes carrying an old weathered lantern and wearing a long beige expedition cloak. Their footprints trail behind them.
+
+Suddenly, the explorer stops.
+
+Beneath the sand, a gigantic circular stone structure begins emerging as the wind blows the sand away. Ancient geometric symbols become visible across its surface.
+
+7–14 seconds — THE HIDDEN DOOR
+
+The camera moves rapidly toward the explorer and follows behind them as they approach the enormous circular structure.
+
+The explorer places one hand against the ancient stone.
+
+A tiny golden light appears beneath their palm.
+
+The light rapidly travels through thousands of engraved lines across the entire door like glowing veins.
+
+The massive stone doorway slowly splits open.
+
+A powerful wave of ancient dust rushes outward.
+
+The camera moves through the doorway directly behind the explorer, maintaining continuous motion.
+
+14–22 seconds — THE FORGOTTEN CITY
+
+Reveal an enormous underground civilization hidden beneath the desert.
+
+Vast golden temples, colossal statues, suspended bridges, giant stone towers, ancient canals and enormous circular machines disappear into the darkness.
+
+The explorer walks forward slowly.
+
+Their lantern illuminates the path.
+
+As they pass, small ancient crystals embedded in the walls begin glowing one after another, creating a chain reaction of golden illumination stretching deep into the city.
+
+The camera rises above the explorer to reveal the true scale of the civilization.
+
+22–30 seconds — THE AWAKENING
+
+The explorer reaches a gigantic circular chamber containing a mysterious mechanical device thousands of years old.
+
+At its center is a floating crystalline sphere.
+
+The explorer touches it.
+
+Everything becomes completely silent for one moment.
+
+Then the sphere releases a massive pulse of golden energy.
+
+The energy travels through the city like lightning.
+
+Ancient machines begin rotating.
+
+Giant statues slowly move their heads.
+
+Water suddenly begins flowing through previously dry canals.
+
+Thousands of tiny lights illuminate across the buildings.
+
+The dead city begins coming alive.
+
+30–38 seconds — THE CITY RETURNS
+
+The camera launches upward from the chamber and flies through the ancient city at high speed.
+
+Massive mechanical structures rotate into position.
+
+Bridges unfold.
+
+38–45 seconds — THE TRANSFORMATION
+
+The camera continues rising through the enormous underground ceiling.
+
+The stone ceiling begins opening above the city.
+
+Thousands of tons of sand cascade downward around the edges while sunlight pours into the ancient civilization.
+
+The transformation should feel enormous and physically believable rather than magical-looking or cartoonish.
+
+45–50 seconds — THE FINAL REVEAL
+
+The camera pulls dramatically backward and upward through the opening in the desert.
+
+uildings, cars, guns or modern technology.</code></pre>
+
+</details>
 
 ## Jungle Speeder Escape
 

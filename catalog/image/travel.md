@@ -1,9 +1,92 @@
 # Travel image prompts
 
-23 source-linked prompts, newest ImgLume records first.
+24 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Insanely photorealistic travel selfie on Himalayan valley
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2087527616274473246)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [2880](https://imglume.com/prompt/2880)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b413d7e4-24ba-4c36-bd2f-b4cf316f69dc/ce811eb2-73e9-45d2-b223-ad6bf7d83c42-1786613231576 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b413d7e4-24ba-4c36-bd2f-b4cf316f69dc/c5ef2c28-9b4c-4cf4-a810-0248ee2cf226-1786613231576 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an insanely photorealistic, breathtaking travel selfie of a beautiful young woman standing on a high mountain viewpoint, with an enormous emerald-green Himalayan valley exploding across the background. The image should feel like a once-in-a-lifetime travel moment captured accidentally on a smartphone, not like a staged photoshoot.
+
+SUBJECT
+
+A naturally beautiful young woman with long, silky blonde hair, subtle natural waves, luminous fair skin with authentic pores and fine facial texture, expressive brown eyes, softly rosy cheeks, delicate features, and a warm, captivating smile. She looks directly into the camera with a spontaneous, confident expression that immediately creates an emotional connection.
+
+She holds the smartphone at arm’s length, producing a dynamic foreground perspective. Her extended arm naturally leads the viewer into the frame. Her other hand is raised casually, pointing toward the spectacular mountains behind her as if saying “Look at this!”
+
+VIRAL FASHION + CULTURAL DETAIL
+
+She wears a fitted olive-green sleeveless dress, elegant and minimalist, with realistic fabric texture and natural folds.
+
+Her head is wrapped in a striking dark burgundy, black, and muted-gold traditional woven headscarf, decorated with several small antique-gold coin ornaments hanging naturally across her forehead and temple.
+
+The combination of modern fashion + traditional-inspired styling + extraordinary scenery creates an instantly recognizable visual hook.
+
+THE BACKGROUND — THE WOW FACTOR
+
+Behind her is a jaw-dropping mountain panorama:
+
+endless emerald-green terraced hills
+
+dramatic layered valleys
+
+dense forests covering the mountainsides
+
+tiny hillside villages and rooftops scattered naturally through the landscape
+
+winding terraces creating mesmerizing geometric patterns
+
+towering rugged mountains fading into atmospheric haze
+
+warm sunlight sweeping across the valley
+
+clear soft-blue sky
+
+subtle golden-hour mist between distant mountains
+
+Make the landscape feel enormous, giving the viewer the sensation that they are standing on the edge of the world.
+
+CINEMATIC VISUAL IMPACT
+
+Use golden-hour sunlight striking the woman from the side, creating a subtle luminous rim light around her hair while warm highlights sparkle across the distant terraces.
+
+Create extreme depth and scale: razor-sharp facial detail in the foreground, naturally softened middle-distance scenery, and atmospheric mountains disappearing into the horizon.
+
+The image should have the visual impact of a viral Instagram travel photograph + luxury fashion campaign + National Geographic-style mountain discovery.
+
+CAMERA
+
+Photographed on a modern flagship smartphone using a slightly wide-angle front camera, authentic handheld selfie perspective, natural lens characteristics, realistic perspective distortion, beautifully composed foreground arm, sharp eyes, realistic skin texture, HDR exposure, natural shadows, subtle lens flare, and cinematic tonal range.
+
+No obvious AI look. No studio perfection. It must look like a real person captured an unbelievable moment while traveling.
+
+COMPOSITION
+
+Vertical 3:4 aspect ratio.
+
+Place the woman's face slightly above center while keeping as much breathtaking landscape as possible visible around her. Her extended arm creates a powerful diagonal leading line toward her face. Her pointing hand creates a second visual line toward the mountains.
+
+The composition should make viewers stop immediately while scrolling, with the first impression being:
+
+“WAIT… WHERE IS THIS?”
+
+REALISM
+
+Ultra-photorealistic, 8K detail, physically accurate lighting, realistic skin pores, individual hair strands, authentic fabric fibers, naturally imperfect human features, realistic jewelry reflections, accurate mountain textures, atmospheric perspective, true-to-life colors, subtle smartphone-camera processing, high dynamic range, crisp eyes, natural depth of field.</code></pre>
+
+</details>
 
 ## Vintage Collage Travel Poster
 

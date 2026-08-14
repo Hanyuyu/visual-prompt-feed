@@ -1,9 +1,321 @@
 # Character video prompts
 
-60 source-linked prompts, newest ImgLume records first.
+67 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Tomboy Rapper Seedance 2.0
+
+- **Original source:** [@AiwithLucas_ on X](https://x.com/AiwithLucas_/status/2087903507802423334)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2901](https://imglume.com/prompt/2901)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4f576d34-15c7-4927-9742-08bffe3c71de/a68b6439-fa41-4be5-b132-70527687e606-1786638128118 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Character: A young East Asian woman with light brownish-gray long straight hair and air bangs, fresh no-makeup makeup look, wearing a loose white long-sleeved shirt with a slightly open collar. Her skin is delicate and translucent, with a cool, relaxed, and casual tension. Maintain consistent identity, clothing, hairstyle, and appearance throughout the video.
+
+Location: By an indoor window with ample afternoon sunlight, white blinds, and off-white walls. Sunlight filters through the blinds, casting parallel stripes of light and shadow. The space is clean, minimalist, with a lazy and quiet home atmosphere, free of clutter.
+
+Visual Style: Fresh Japanese realistic texture. Rap movements are relaxed and on-beat without appearing forced. Body movements and facial expressions match the rhythm. Strong play of light and shadow, translucent glowing skin, and soft, clean overall tones.
+
+Camera Style: Lightweight handheld camera texture with subtle natural breathing jitter. Small-scale tracking shots following the rap rhythm. Real light and dark layers under natural light, soft focus, preserving original light and shadow texture without over-grading or excessive skin smoothing.
+
+00:00–00:02
+Standing against the wall by the blinds, she lightly pinches her shirt collar, head tilted back slightly, looking lazily at the camera, nodding to the rap intro beat. Striped light shadows move slowly across her face, creating a soft and quiet scene.
+
+00:02–00:04
+Medium shot at eye level, her body sways gently to the beat, one hand naturally raised, fingers tapping the air. Her mouth opens slightly to follow the rhythm, shirt hem swaying with movement, light flowing slowly over her shoulders.
+
+00:04–00:06
+Close-up shot pushing in, she tilts her head slightly to the beat, making natural rap hand gestures. Her eyes have a relaxed 'cool' look, lips sync with lyrics. Light and shadow from the blinds alternate on her neck, full of atmosphere.
+
+00:06–00:09
+Slightly wider shot, her body pops gently on heavy beats, one hand resting at her side, the other waving with the rhythm. Movements are sharp but not stiff. Sunlight prints clear stripes on her white shirt.
+
+00:09–00:11
+Profile close-up, she turns toward the blinds and sings softly. The jawline is sharp under the light, hair brushing against her cheek. The camera has a natural slight breathing jitter.
+
+00:11–00:13
+Switching back to a front close-up, she tilts an eyebrow at the camera, fingers sliding down the shirt collar, precisely hitting a rap pause. Her gaze is lazy yet powerful, light and shadow intersecting at the collarbone.
+
+00:13–00:15
+Ending still, she returns to leaning against the wall with a faint smile. As the final heavy beat drops, she looks up at the camera. Blind shadows rest quietly on her body as the screen fades out slowly.
+
+Audio: Natural sound field rap track—clear close-up rap vocals, crisp and fast drum beats, paired with faint ambient white noise and slight wind sounds outside. No heavy reverb, overall relaxed yet rhythmic.
+
+Goal: Create a lazy and relaxed window-side impromptu rap clip, using blind shadows to set the mood. Movements are natural and perfectly timed, clean, healing, yet possessing a cool tension, like a casual daily recording.</code></pre>
+
+</details>
+
+## Zombie Attack with Seedance 2.5
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2087759896901284150)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2882](https://imglume.com/prompt/2882)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3a214e8d-31f8-481f-8854-c21cc85d186c/718d7725-c7db-4eb7-8d48-bb51ef8820af-1786617081709 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character (image) A scans items behind a convenience-store counter, blank hollow stare; uneasy customer nearby, flickering fluorescent lights, realistic Korean horror.
+Her fingers freeze on the scanner; repeated beeps, tense silence, cold atmosphere.
+She violently convulses against the counter; customer stumbles, snack rack falls.
+She collapses behind the counter; arm twitches at an unnatural angle.
+She rises again with slack face, wide unfocused eyes, and unnaturally bent joints.
+Customers scream and back away as others freeze in panic.
+Her jaw stretches impossibly wide as she lunges over the counter.
+She vaults over the counter with backward-bending limbs, moving unnaturally fast.
+She stands between the aisles, back to camera, head tilted at a broken angle, blocking the exit.
+A young customer looks up at her in terror, tears forming.
+Another customer freezes by the drink fridge, her reflection flickering in the glass.
+She charges down the narrow aisle, knocking shelves and cans down.
+Customers shove toward the exit; one trips over a basket and scrambles up.
+She crashes through a shelf display near the door, reaching for fleeing customers.
+She grabs a customer's jacket and yanks them back.
+A customer grabs the fire extinguisher and pulls the pin with shaking hands.
+White powder blasts her face; she recoils into the drink cooler.
+Another customer keeps her back with a mop.
+She knocks the mop aside and grabs the hot-water kettle; steam bursts as she recoils.
+She staggers toward the glass door, silhouetted by flickering neon.
+She crashes through the glass door into the empty night street, shards scattering.
+Powder-covered customers stare into the empty street through the shattered doorway. Final CCTV angle, quiet horror ending.</code></pre>
+
+</details>
+
+## 15-second ultra-realistic Y2K rap/pop music video
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2087754389624860911)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2868](https://imglume.com/prompt/2868)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4e8953e8-276f-409f-8558-9a2371d1b0b6/c01f7343-31f6-4f2a-bd21-a1f4f91e1882-1786608666930 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded storyboard image as the exact visual reference for the sequence. Use the uploaded character image as the exact character reference. Preserve her facial identity, eye color, skin tone, long straight black hair, body proportions, makeup, and outfit consistently throughout every shot. She wears a hot-pink leather biker jacket over a white crop top, layered silver chain necklaces, gold star earrings, deep red lipstick, and dark oversized pants. Maintain the same recognizable performer in every scene.
+
+Create a 15-second ultra-realistic Y2K rap/pop music video inspired by early-2000s music television aesthetics, filmed with an exaggerated ultra-wide fisheye lens. The visuals should feel energetic, glossy, slightly surreal, and heavily stylized, with dramatic lens distortion, dynamic camera movement, and fast beat-synchronized editing.
+
+— Light-Up Reveal:
+Begin in complete darkness inside a long futuristic black corridor. The rectangular wall lights suddenly switch on one after another, creating a rapid chase effect toward the performer. She stands completely still in silhouette with her arms spread. On the final light hit, the overhead lights illuminate her face as she immediately begins lip-syncing directly toward the camera.
+
+ — Fisheye Close-Up:
+Hard cut to an extreme fisheye close-up of her face. She leans aggressively toward the lens, performs confident hand gestures, points directly at the camera, and briefly pushes her palm toward the lens, making her hand appear dramatically oversized from the fisheye distortion.
+
+ Chrome Room:
+Cut to a glossy futuristic white-and-chrome room. She performs a playful, confident dance with shoulder movements, small footwork, and sharp hand gestures. The camera smoothly slides sideways at knee height while chrome surfaces create strong reflections and parallax.
+
+6–8s — Graffiti/Dollar Set:
+Hard cut to an abstract orange-and-lime studio filled with oversized glossy black geometric shapes featuring generic dollar symbols. She performs in profile while lip-syncing, then suddenly turns her head toward the camera on the beat. Her ponytail and jacket move naturally with the turn.
+
+8–10s — Dancer Performance:
+Reveal two anonymous female backup dancers wearing glossy black full-coverage futuristic outfits and dark visor sunglasses. They flank the performer and perform synchronized Y2K choreography while she dominates the center, pointing toward the lens and bouncing confidently to the rhythm.
+
+10–12s — Beam Dome:
+Cut to a dramatic low-angle shot. She stands on a small pedestal inside a dark futuristic dome as powerful white light beams switch on around her one at a time. She raises both arms and continues performing while the lights create intense silhouettes and lens bloom.
+
+ — Chrome Macro:
+Extreme tilted fisheye close-up of half her face against a quilted metallic-silver wall. She gives a playful smirk and delivers a final lyric directly into the lens. Her jewelry catches the light and her hair moves naturally.
+
+ — Final Lens Hit:
+Return to the neon starburst set. She performs the final beat directly into the camera, steps closer, reaches one hand toward the lens until it fills the frame, then freezes in a powerful confident pose. Hard cut to black exactly on the final beat.
+
+Visual style: authentic early-2000s Y2K music television, ultra-wide fisheye distortion, glossy futuristic production design, aggressive close-ups, fast hard cuts, dynamic low angles, smooth lateral camera slides, realistic body weight and movement, natural hair and clothing physics, realistic jewelry movement, cinematic lighting, strong lens bloom, subtle digital-video texture, energetic performance, photorealistic character rendering, high temporal consistency, 24fps,
+
+Audio: original upbeat Y2K-inspired rap/pop track with punchy drums, playful synths</code></pre>
+
+</details>
+
+## Ultra-premium Gen-Z music commercial video
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2087746267250327636)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2857](https://imglume.com/prompt/2857)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ef34d94f-3ec9-4f5c-9fc0-9ed8ae8b3aee/3a324b33-892f-45c8-b153-ab9f843d4e05-1786604510000 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Ultra-premium Gen-Z music commercial, hyper-realistic, cinematic 8K, high-end fashion campaign, energetic hip-hop track, fast beat-synced editing, viral social-media aesthetic, realistic skin and fabric textures, natural lighting, polished professional choreography, dynamic handheld + gimbal camera movement, crisp motion blur, bold kinetic typography, premium color grading, no CGI look, no cartoon style, no watermark.
+
+Main Character: A confident young female dancer with a stylish Gen-Z fashion look, natural makeup, expressive face, realistic hair movement, fashionable oversized streetwear mixed with luxury accessories. Keep her appearance, outfit, hairstyle, and identity consistent throughout.
+
+Scene 1 — 0–3s | Beat Drop
+
+Nighttime premium urban location with neon architecture and wet reflective pavement.
+
+Extreme close-up of her sneakers hitting the ground exactly on the first beat. Cut rapidly to her eyes, jewelry, hands, and confident expression.
+
+She looks directly into the camera.
+
+Typography hits the screen:
+“FEEL THE BEAT.”
+
+Letters appear with aggressive kinetic motion, slight zoom, shake, and rhythmic distortion synchronized perfectly to the music.
+
+Scene 2 — 3–7s | Dance Explosion
+
+Beat drops harder.
+
+She launches into a fast, highly polished Gen-Z hip-hop choreography: sharp footwork, body isolations, confident hand movements, quick turns and attitude-driven poses.
+
+Camera constantly changes:
+low-angle tracking → 360° orbit → close-up → wide shot → fast push-in.
+
+Use seamless match cuts between movements. Every camera transition lands precisely on the beat.
+
+Typography flashes between movements:
+
+“MOVE.”
+“ENERGY.”
+“NO LIMITS.”
+
+Large bold typography briefly fills the frame without hiding the dancer.
+
+Scene 3 — 7–11s | Viral Moment
+
+Music reaches its fastest section.
+
+The dancer performs the signature highlight move directly toward the camera.
+
+Camera pushes forward while she moves backward, creating a powerful perspective effect. Quick speed ramp into slow motion for one key movement, then instantly snap back to full speed.
+
+Add subtle realistic light streaks, reflections, lens flares, and environmental movement.
+
+Typography rapidly assembles around her:
+
+“THIS IS YOUR MOMENT.”
+
+Each word appears individually on beat with modern kinetic animation.
+
+Scene 4 — 11–15s | Hero Finish
+
+Final beat.
+
+She executes one final sharp move, spins, then stops confidently facing the camera.
+
+Music hits a clean final bass impact.
+
+Camera performs a dramatic cinematic push-in as the environment briefly falls into shallow depth of field.
+
+She gives a confident smile.
+
+Final typography appears huge and centered:
+
+“OWN THE MOMENT.”
+
+Small premium subtitle underneath:
+
+“MOVE DIFFERENT.”
+
+End on a clean freeze-frame hero shot with subtle camera movement, luxury fashion-commercial finish, realistic lighting, crisp details, authentic Gen-Z attitude.
+
+Music: Fast modern hip-hop/trap instrumental, heavy bass, punchy drums, crisp hi-hats, energetic beat drops, designed for rapid choreography and typography synchronization.
+
+Editing: Extremely tight 0.3–1 second cuts, beat-synced transitions, speed ramps, whip transitions, match cuts, kinetic typography, occasional slow-motion impact shots, professional music-video pacing.
+
+Visual quality: Premium global fashion campaign + viral Gen-Z music video, realistic human motion, authentic dance physics, natural facial expressions, detailed clothing movement, cinematic depth of field, high-end commercial cinematography.</code></pre>
+
+</details>
+
+## Handheld DV travel vlog of Old Jerusalem with CHASE
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2087557665882841282)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [2840](https://imglume.com/prompt/2840)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/649ac191-963d-4f06-ba0b-db528159124f/95796cad-7595-474d-990d-f59d4ecb3e1d-1786583487175 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Handheld DV 16mm camcorder aesthetic, first-person/selfie POV. CHASE always holds the camera. Natural hand shake, imperfect framing, delayed autofocus, clumsy zooms, occasional face cropping. The camcorder is never visible.
+
+LOOK:
+Soft vintage DV tape quality with slight blur, subtle tape noise, mild highlight bloom, flickering auto-exposure, muted contrast, natural skin tones.
+
+STYLE:
+Raw, candid travel vlog. Genuine reactions, eye contact, spontaneous energy, quick handheld shots capturing real people and everyday life around Old Jerusalem. Nothing feels staged or professionally filmed.
+
+CHARACTER:
+CHASE, British female traveler in her 20s. Long straight brown hair, natural fair skin, soft British features, blue eyes, natural lips, slim figure. Wearing modest casual travel clothing with natural makeup and simple accessories.
+SETTING:
+Historic streets of Old Jerusalem surrounding Masjid al-Aqsa with narrow ancient stone alleyways, crowded markets, small shops, food vendors, wooden doors, stone arches, local families, elderly people, children, pedestrians, and worshippers naturally passing by.
+
+SEQUENCE:
+
+1. Selfie: walks into a crowded Old Jerusalem street, turning the camera toward the people, shops, vendors, and busy street around her. “There’s so much happening here.”
+2. Whip pan toward a busy market street. A vendor prepares food while people walk closely past the camera. Someone notices CHASE filming and naturally smiles.
+3. Walks through a narrow stone alley, filming elderly men sitting outside shops, families walking together, children passing by, and vendors interacting with customers. Ambient street audio only.
+4. Turns a corner and suddenly sees Masjid al-Aqsa ahead. She stops walking and slowly raises the camera toward it as people continue moving naturally around her. “Wow…”
+5. Walks into the courtyard with the crowd, filming the historic architecture, worshippers, families, children, and people quietly moving through the space. Ambient audio only.
+6. Walks slowly through the courtyard, occasionally turning the camera toward herself before pointing it back toward the people and surroundings. “This place feels so peaceful.”
+7. Sits quietly in the courtyard and films the people passing through the frame. She says nothing, letting the natural conversations, footsteps, birds, and surrounding atmosphere fill the audio.
+8. Selfie ending: walks back through the old streets during golden hour, turns the camera toward herself with a quiet smile, then points it back toward Masjid al-Aqsa and the people around her. “I’ll never forget this.”</code></pre>
+
+</details>
+
+## Continuous tracking shot of rusted automaton in overgrown megacity
+
+- **Original source:** [@sebatheepan on X](https://x.com/sebatheepan/status/2087454978336063743)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2837](https://imglume.com/prompt/2837)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/734e6a45-8152-4043-99ef-d3a054f6bbc7/f80a7ed8-f28a-4895-b153-91d91619eac6-1786579238566 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Continuous tracking shot through a collapsed megacity overgrown with radioactive jungle. Subject: a three-foot-tall rusted automaton with a cracked glass faceplate, exposed copper wiring for hair, and piston-driven limbs. It sprints across tilting skyscraper beams, vaults through broken windows, slides under fallen monorail cars, grapples up vines wrapped around a transmission tower, and leaps between two collapsing buildings as the jungle reclaims the concrete in real-time. Dust motes, god-rays through canopy, rust particles, volumetric fog. Cinematic 8K, photorealistic decay textures.</code></pre>
+
+</details>
+
+## Person from Image1 morning bathroom routine vertical video
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2087528917972431102)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2824](https://imglume.com/prompt/2824)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/36faf78e-96b8-4ac6-ac13-76a9ea9a8d5a/e35aa1b3-400c-434d-bef1-4d8ac79f815b-1786557951573 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject: Person from Image1. Face and hairstyle must match Image1 exactly; do not change identity. Ignore its outfit, background, pose, and text. Outfit: oversized casual sleepwear, messy morning look. 9:16 vertical.
+
+Old iPhone everyday-video aesthetic throughout: static phone propped on bathroom sink, standard 1x lens, no distortion, heavy noise/compression, slight mirror steam, warm/off-white overhead lighting. Natural skin, pores, flyaways, under-eye tiredness. No beauty filter, grading, cinematic/CG look, fisheye, vignette, or legible text.
+
+0–4s: Groggy, walks in yawning, glances at phone/mirror, rubs eyes.
+4–8s: Brushes messy hair and mutters, “okay... five more minutes wasn't enough.”
+8–12s: Steps on bathroom scale, looks down, gives a subtle eye-roll/sigh/shrug, steps off.
+12–16s: Opens small closet, holds up two shirts one after another, indecisive.
+16–19s: Chooses the first, tosses the other aside, looks at camera and says softly, “…this one. good enough for today,” with a tired smile; freeze final frame.
+
+Bathroom clutter: toothpaste/skincare bottles, but all labels illegible. Sound only: bathroom ambience, hairbrush, scale beep/click, fabric rustle, close muffled sleepy voice with slight bathroom reverb. Keep all cuts and actions; no skipped scenes or on-screen text.</code></pre>
+
+</details>
 
 ## Morning routine influencer vlog
 
