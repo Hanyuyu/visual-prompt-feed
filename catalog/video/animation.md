@@ -1,9 +1,397 @@
 # Animation video prompts
 
-66 source-linked prompts, newest ImgLume records first.
+73 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second cinematic animated short with a Taoist warrior and reluctant giant
+
+- **Original source:** [@usamaworld1 on X](https://x.com/usamaworld1/status/2088146871713689825)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2954](https://imglume.com/prompt/2954)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6bcc04c1-61f3-4cf4-9b7d-c11057c8f008/9243d5c1-56b5-45bd-a0c3-d75ded4450d4-1786704969246 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+Visual style:high-end Western animated feature film,stylized,realism,expressive characters,cinematic,lighting,detailed environments,polished 3D animation,natural physics,expressive facial animation,comedic timing,dynamic cinematic camera movement.
+Keep the character designs completely consistent throughout entire video.
+Scene 1,0-5s:The New Target
+Begin with a quiet atmospheric mountain landscape.
+A gentle mountain breeze passes through the frame.The camera slowly tilts downward, revealing top of a large woven bamboo conical hat [from reference image]
+The girl's long dark hair moves naturally in the wind beneath the hat.The camera continues slowly downward until her face [from reference image] is revealed.
+She looks completely calm and slightly annoyed.
+She picks up the phone and says in a casual,matter-of-fact voice:He's the new target? Got it.
+She rolls her eyes.
+Subtle wind,distant birds,soft mountain ambience,cinematic silence before the dialogue.
+Scene 2,5-11s:The Reluctant Partner
+Cut to a dramatic wide shot.
+The female Taoist stands on edge of a huge mountain cliff [from reference image].Vast mountains,mist and clouds stretch into distance.
+Behind her,the gigantic blue-gray stone-skinned giant [from reference image] is crouching on ground,taking a rest.His enormous body towers over landscape.
+She casually turns toward him and says:
+Time to work.
+The giant slowly raises his head with an exhausted expression.
+He looks deeply annoyed.
+I haven't rested enough yet!
+His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+The Taoist remains completely unfazed.
+Scene 3,11-23s:The Car Argument
+Cut to Taoist walking confidently toward a rugged vintage open-top convertible parked nearby.
+She gets into driver's seat,starts the engine and casually says:
+Come on,come on.Let's go.
+The giant stands behind the vehicle,looking at tiny car with disbelief.
+He complains:
+Why do YOU get to drive while I have to run again?
+The Taoist looks back at him without sympathy.
+Then build a car big enough for you.
+She immediately turns forward and drives away.
+The giant stands frozen for a beat.
+The vehicle disappears down the mountain road,leaving a small cloud of exhaust and dust drifting directly into his face.
+He slowly wipes dust from his face with an irritated expression.
+Comedic timing,exaggerated facial animation,but grounded physical movement.
+Scene 4,23-30s:The Road Trip
+Cut to a beautiful cinematic mountain highway.
+The Taoist drives tiny open-top convertible through the winding road.
+Far behind her,the gigantic stone-skinned giant is running after the car.
+His enormous footsteps shake small pieces of dust from road.
+Camera pulls progressively wider,revealing absurd scale difference between them.
+Taoist casually drives ahead,completely relaxed.
+The giant runs behind her,visibly exhausted and still complaining.
+End on a wide cinematic shot of tiny car and enormous giant traveling together through vast mountain landscape.
+The final feeling should be:two completely mismatched partners who somehow work perfectly together.
+Camera language:slow atmospheric opening,dramatic reveal,fast comedic cuts in middle,energetic tracking shot at end
+Sound design:mountain wind,subtle, birds,footsteps,engine ignition, gravel and tire sounds,giant footsteps,natural environmental ambience.Dialogue should be crisp and clearly synchronized with lip movement.
+No superhero references,no existing copyrighted characters, no green superhero appearance,no text overlays.</code></pre>
+
+</details>
+
+## Heavy Metal Sakuga: Knight vs Magma Titan
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2088145684440441260)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2950](https://imglume.com/prompt/2950)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d0700482-d0f7-41bd-a08b-043d0c669553/27d0dbdd-3293-47ea-9209-49d0f0464522-1786700969040 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 15-second horizontal 16:9 original dark fantasy action anime video from the provided first frame.
+
+CRITICAL ENTITY LOCK:
+There must be exactly 2 main entities in the entire video: IGNIS (blackened steel knight with obsidian greatsword) and SURTR (4-meter magma elemental titan with spiked hammer).
+Do not add secondary knights, goblins, rock minions, or background demons.
+Maintain strict visual consistency for Ignis's runic greatsword, blackened armor, crimson heat cracks, and Surtr's basalt rock plates and glowing magma core throughout all cuts.
+
+Entity identity:
+IGNIS: Blackened steel knight, torn crimson cape, glowing red armor joints, runic obsidian Zweihänder greatsword, heavy kinetic fighting style.
+SURTR: 4-meter basalt and molten rock titan, burning yellow eyes, spiked iron magma hammer, tectonic power.
+
+Video style:
+High-budget Japanese dark fantasy anime feature film quality, heavy-metal industrial aesthetic, high-contrast lighting from liquid magma, extreme physical weight, fluid weapon animation, dynamic time-dilation effects.
+
+Camera and pacing:
+Relentless heavy-metal action transitioning into an ultra-detailed slow-motion impact freeze:
+0.0s - 8.5s: Rapid kinetic tracking as knight and magma titan trade heavy weapon strikes, shattering obsidian platforms and dodging lava waves.
+8.5s - 12.0s: DRAMATIC SLOW-MOTION TIME-DILATION: Time slows to a 120fps crawl as the hammer slams the sword guard; individual lava droplets, sparks, and heat waves hover frozen in mid-air around Ignis's strained face.
+12.0s - 15.0s: Explosive snap back to full velocity with a shockwave detonation, ending on a triumphant victory pose.
+
+Action timing:
+0.0s - 2.5s:
+SURTR slams his magma hammer down, sending a wave of liquid rock. IGNIS drives his greatsword into the ground, blocking the wave with a runic red energy shield.
+
+2.5s - 5.5s:
+IGNIS charges forward, boots spraying sparks on rock. High-speed weapon clash: greatsword slashes against hammer, sending a white-hot spark shower into the camera.
+
+5.5s - 8.5s:
+IGNIS spins underneath a heavy arm swing, slicing SURTR’s magma leg. SURTR rears back for a colossal overhead two-handed hammer crush. IGNIS raises his sword to block.
+
+8.5s - 12.0s:
+SLOW-MOTION IMPACT PEAK (120FPS): Hammer hits sword guard. Time dilates to an absolute crawl. Camera zooms close on the point of impact. Molten lava drops, glowing embers, and metal sparks float motionless in mid-air. Heat ripples distortion around Ignis's helmet visor.
+
+12.0s - 15.0s:
+REAL-TIME SNAP BACK: Kinetic shockwave detonates with a sonic blast, shattering the ground crater. IGNIS channels runic power, thrusting his blade into Surtr's core, shattering the titan into a rain of embers. Final freeze frame.
+
+Motion quality:
+Fluid 2D animation, realistic liquid magma physics, flawless 120fps slow-motion particle suspended animation, extreme weapon weight simulation, zero character clipping.
+
+Environment:
+Subterranean obsidian cavern, rivers of liquid golden magma, lava falls, towering basalt pillars, rusted iron chains, floating heat embers.
+
+Final output:
+15 seconds, horizontal 16:9, original high-budget dark fantasy anime, exactly 2 main entities, brutal physical velocity, dramatic slow-motion peak, no subtitles, no watermarks, no logos.</code></pre>
+
+</details>
+
+## The Tiny Umbrella – 20‑second cinematic 3D animated short
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2087851888645714422)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2948](https://imglume.com/prompt/2948)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/509a40ca-c364-402a-9752-6ecb3d6d2b67/db616a1c-6618-44c1-a89c-f43667894358-1786698771641 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic 20-second 3D animated short with completely original characters and a heartwarming story.
+
+0–4 sec — Hook:
+A tiny, adorable brown ant walks through a beautiful forest floor carrying a tiny red berry. Suddenly, a huge raindrop crashes beside him. He looks up in shock as heavy rain begins falling.
+
+4–8 sec — Discovery:
+The ant notices a small green caterpillar curled up beneath a broken leaf, trembling as rainwater slowly floods around him. The ant drops his berry and rushes toward him.
+
+8–13 sec — Problem solving:
+The ant struggles to drag the large leaf over the caterpillar. He slips several times, but refuses to give up. Finally, he manages to pull the leaf into place, creating a tiny umbrella over the caterpillar.
+
+13–17 sec — Friendship:
+The rain stops. Sunlight breaks through the clouds. The caterpillar looks at the exhausted ant with huge grateful eyes and gently touches his tiny hand.
+
+17–20 sec — Emotional payoff:
+The caterpillar suddenly climbs onto the ant’s back and they walk together through the sparkling forest. The ant smiles proudly. Camera slowly pulls back to reveal the two tiny friends walking beneath a giant glowing mushroom.
+
+Animation: expressive facial reactions, adorable body language, subtle comedy, cinematic camera movement, realistic rain droplets, soft fur/skin textures, detailed forest environment, beautiful volumetric lighting, shallow depth of field, polished high-end 3D animation, smooth natural movement, emotional storytelling.
+
+Audio: gentle rain, tiny footsteps, soft forest ambience, subtle emotional music that becomes warm and uplifting at the ending.
+
+Important: original non-IP characters, no recognizable copyrighted characters, no logos, no text, no watermark.</code></pre>
+
+</details>
+
+## Kung Fu Kids Comedy Battle in Traditional Temple Courtyard
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2087992627924701554)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2930](https://imglume.com/prompt/2930)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/78768563-4a09-4e2e-a80b-73b9feeef076/496b0ad2-53df-401c-9acb-f8d2e2e18580-1786675837276 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Global Setting] A traditional kung fu temple courtyard at golden hour, stone
+walls with calligraphy, bamboo stalks, red lanterns, peaceful serene setting. 3D
+stylized anime aesthetic rounded appealing characters, exaggerated expressive
+proportions, big sparkly eyes, comedic action animation style.
+
+[Character 1 Boy] Age 8-10, spiky orange anime hair, oversized white kung fu
+gi (too big, sleeves falling), headband tied crooked, determined serious face
+(but trying too hard), energetic stance. Self-proclaimed "kung fu master."
+
+[Character 2 Girl] Age 8-10, long pink pigtails with ribbons, matching small
+pink kung fu gi, headband perfectly placed, skeptical expression, hands on hips.
+Actual skills.
+
+[Opening, 0–4s] Wide shot of temple courtyard. Boy in dramatic kung fu stance,
+shouting: "I am the LEGENDARY MASTER OF WIND STRIKE!" Girl sighs: "You just
+learned this yesterday." Boy points at her: "PREPARE YOURSELF!" Girl cracks
+knuckles: "This will be quick."
+
+[Comedic Battle Phase 1, 4–12s] Boy throws slow-motion dramatic punch, sleeves
+flapping everywhere covering his face. Girl easily sidesteps: "You're punching
+air." Boy recovers, attempts spinning kick, rotates too far, stumbles: "I meant
+to do a double spin!" Girl does perfect precise kick, boy flies backward into
+pile of hay dramatically. Boy pops up: "I let you win!" Girl: "Sure you did."
+Boy attempts ancient "secret technique" — just wiggles his fingers mysteriously.
+Girl stares: "That's not kung fu, that's jazz hands." Boy gasps: "It's ANCIENT
+MAGIC!" Girl: "It's ridiculous."
+
+[Epic Slow-Motion Moment, 12–18s] Boy charges with warrior cry: "AIIYAHHH!"
+Camera enters slow-motion at 40% speed. Boy's movement is perfectly exaggerated
+ face scrunched up with effort, sleeves billowing dramatically, hair defying
+gravity. Girl prepares to counter, eyes calm and focused, background blurs. As
+boy gets close, girl executes perfect counter-strike in slow-mo, boy flies
+backward in slow-motion arc, expression shocked, leaves and dust particles
+suspend around him beautifully. Return to normal speed.
+
+[Comedic Recovery, 18–24s] Boy lands hard, dazed stars circling his head (anime
+style). Girl helps him up: "You okay?" Boy jumps up: "YES! Again!" Attempts
+helicopter kick, spins out of control, dizzy, crashes into lantern (doesn't break,
+just wobbles). Girl just shakes her head laughing. Boy: "That lantern was STRONG."
+Girl: "The lantern is fine. YOU'RE the problem."
+
+[Final Stand, 24–30s] They face each other one last time, both in dramatic kung
+fu poses. Golden light catching both their faces. Boy: "This time I'll definitely
+win!" Girl smiles: "No you won't." They charge at each other, both doing exaggerated
+kicks, meet mid-air in freeze-frame, both suspended in mid-kick looking equally
+confused. Girl: "Um, now what?" Boy: "I don't know!" They both tumble down
+laughing, rolling in grass, sunshine warm and golden. End on them lying in
+courtyard laughing, friendship and silliness, genuine joy.
+
+[CONSISTENCY] Same two anime children, boy (orange hair, oversized gi), girl
+(pink pigtails, fitted gi). Traditional temple courtyard, golden hour lighting
+throughout. Exaggerated anime kung fu moves mixed with genuine combat skills. Boy
+is goofy and enthusiastic, girl is competent and amused. Physical comedy with
+respect.
+
+Audio: Serene temple ambience, birds, wind through bamboo, boy's dramatic
+shouting "AIIYAHHH!", girl's sarcastic comments, footsteps and movement sounds,
+exaggerated punch and kick whoosh sounds, comedic impacts (soft, not violent),
+slow-motion section: all sounds deepen and stretch (warrior cry becomes deep
+tone, movement becomes whooshing), lantern wobbling (bong sound), both kids
+laughing, wind chimes from temple, bright anime action music building, soft
+nostalgic strings on final friendship moment, kids' genuine laughter.</code></pre>
+
+</details>
+
+## 30-second cinematic animated short of a Taoist warrior and a reluctant giant
+
+- **Original source:** [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2087884261294809255)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2910](https://imglume.com/prompt/2910)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b1bddaf-d254-4169-bd45-1e126a7a74c2/2b4fc2f8-ee12-4843-9c70-f0ed6dbd8250-1786646457370 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+Visual style: high-end Western animated feature film, stylized realism, expressive characters, cinematic lighting, detailed environments, polished 3D animation, natural physics, expressive facial animation, comedic timing, dynamic cinematic camera movement.
+Keep the character designs completely consistent throughout the entire video.
+Scene 1, 0-5s: The New Target
+Begin with a quiet atmospheric mountain landscape.
+A gentle mountain breeze passes through the frame. The camera slowly tilts downward, revealing the top of a large woven bamboo conical hat [from the reference image]
+The girl's long dark hair moves naturally in the wind beneath the hat. The camera continues slowly downward until her face [from the reference image] is revealed.
+She looks completely calm and slightly annoyed.
+She picks up the phone and says in a casual, matter-of-fact voice:
+"He's the new target? Got it."
+She rolls her eyes.
+Subtle wind, distant birds, soft mountain ambience, cinematic silence before the dialogue.
+Scene 2, 5-11s: The Reluctant Partner
+Cut to a dramatic wide shot.
+The female Taoist stands on the edge of a huge mountain cliff [from the reference image]. Vast mountains, mist and clouds stretch into the distance.
+Behind her, the gigantic blue-gray stone-skinned giant [from the reference image] is crouching on the ground, taking a rest. His enormous body towers over the landscape.
+She casually turns toward him and says:
+"Time to work."
+The giant slowly raises his head with an exhausted expression.
+He looks deeply annoyed.
+"I haven't rested enough yet!"
+His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+The Taoist remains completely unfazed.
+Scene 3, 11-23s: The Car Argument
+Cut to the Taoist walking confidently toward a rugged vintage open-top convertible [from the reference image] parked nearby.
+She gets into the driver's seat, starts the engine and casually says:
+"Come on, come on. Let's go."
+The giant stands behind the vehicle, looking at the tiny car with disbelief.
+He complains:
+"Why do YOU get to drive while I have to run again?"
+The Taoist looks back at him without sympathy.
+"Then build a car big enough for you."
+She immediately turns forward and drives away.
+The giant stands frozen for a beat.
+The vehicle disappears down the mountain road, leaving a small cloud of exhaust and dust drifting directly into his face.
+He slowly wipes the dust from his face with an irritated expression.
+Comedic timing, exaggerated facial animation, but grounded physical movement.
+Scene 4, 23-30s: The Road Trip
+Cut to a beautiful cinematic mountain highway.
+The Taoist drives the tiny open-top convertible through the winding road.
+Far behind her, the gigantic stone-skinned giant is running after the car.
+His enormous footsteps shake small pieces of dust from the road.
+The camera pulls progressively wider, revealing the absurd scale difference between them.
+The Taoist casually drives ahead, completely relaxed.
+The giant runs behind her, visibly exhausted and still complaining.
+End on a wide cinematic shot of the tiny car and enormous giant traveling together through the vast mountain landscape.
+The final feeling should be: two completely mismatched partners who somehow work perfectly together.
+Camera language: slow atmospheric opening, dramatic reveal, fast comedic cuts in the middle, energetic tracking shot at the end.
+Sound design: mountain wind, subtle birds, footsteps, engine ignition, gravel and tire sounds, giant footsteps, dust, natural environmental ambience. Dialogue should be crisp and clearly synchronized with lip movement.
+No superhero references, no existing copyrighted characters, no green superhero appearance, no logos, no text overlays.</code></pre>
+
+</details>
+
+## Neo-Tokyo Rooftop Infiltration Cyberpunk Anime Video
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2087924584343359798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2907](https://imglume.com/prompt/2907)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/be4cc985-f73c-4b00-9935-0b35a83972fb/c2acb708-11dd-4d76-a2f5-05b5fa694966-1786642772319 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 15-second horizontal 16:9 original cyberpunk action anime video from the provided first frame.
+
+CRITICAL ENTITY LOCK:
+There must be exactly 2 main characters in the entire video: KAI (male hacker in techwear trench coat) and REN (female cyborg enforcer with mantis blades).
+Do not add corporate guards, extra droids, secondary mercenaries, or flying SWAT units.
+Maintain strict visual consistency for Kai's cyan eye, orange gauntlet glow, trench coat, and Ren's black armored suit, crimson heat vents, and mantis blades throughout all cuts.
+
+Character identity:
+KAI: Male hacker, charcoal techwear trench coat, cyan cybernetic eye, neon orange holographic gauntlet, high-tech stealth parkour movement.
+REN: Female cyborg enforcer, matte-black armored bodysuit, glowing crimson vents, silver ponytail, dual retractable mantis blades, hyper-speed combat.
+
+Video style:
+High-budget Japanese anime feature film quality (90s Ghost in the Shell meets Psycho-Pass sakuga action), rainy Neo-Tokyo noir atmosphere, fluid blade combat physics, high-contrast neon reflections, hyper-kinetic pacing.
+
+Camera and pacing:
+Hyper-fast, relentless action pacing blending high-tech stealth with lethal velocity:
+0.0s - 3.0s: High-speed tracking camera as Kai drops onto rainy rooftop and deploys holographic decoys to dodge Ren's glass-shattering skylight drop.
+3.0s - 7.5s: Low-angle arc tracking as Ren speed-blitzes decoys while Kai slides under obstacles and swings via grapple wire.
+7.5s - 12.0s: Intense close-combat clash; EMP bullet deflection spark frame leading to Kai launching an orange virus ground shockwave.
+12.0s - 15.0s: High-speed server data steal followed by Kai leaping backward off the skyscraper edge into rain and neon twilight, ending on a crisp cliffhanger freeze.
+
+Action timing:
+0.0s - 2.0s:
+Infiltration start. KAI drops onto wet rooftop. REN shatters the glass skylight, landing with glowing crimson mantis blades. KAI fires 3 holographic orange decoys.
+
+2.0s - 4.5s:
+REN slices two decoys in red energy arcs. Real KAI slides under heavy steel pipes, firing a grapple line to swing upward toward the server terminal.
+
+4.5s - 7.5s:
+REN wall-runs up a steel crane, sparks flying. KAI swings into frame, firing an EMP pistol shot. REN deflects the bullet with her blade in a blinding flash.
+
+7.5s - 10.5s:
+Both hit the rain-soaked helipad. KAI slams his gauntlet down, sending neon orange malware streams locking REN's armored joints in digital glitch artifacts.
+
+10.5s - 13.0s:
+KAI vaults past REN, snatching the glowing quantum data drive from the rooftop vault. REN purges the virus with a burst of red steam from her armor vents.
+
+13.0s - 15.0s:
+KAI leaps backward off the rooftop edge into the rainy neon abyss holding the drive. REN looks down from the ledge. Final cinematic freeze frame.
+
+Motion quality:
+Fluid 2D animation, realistic rain physics, precise blade trajectory rendering, flawless holographic glitters, zero body warping, crisp line art consistency.
+
+Environment:
+Rain-slicked Neo-Tokyo rooftop, glowing neon kanji signs, holographic security barriers, torrential night rain, steam vents, wet asphalt reflections.
+
+Final output:
+15 seconds, horizontal 16:9, original high-budget cyberpunk anime, exactly 2 main characters, explosive velocity, lethal stealth action, no subtitles, no watermarks, no logos.</code></pre>
+
+</details>
+
+## Mixed-reality stop-motion food transformation video
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2087821976270450985)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [2906](https://imglume.com/prompt/2906)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0e9c6b52-bbac-4263-a188-932b7c53a627/9a71511c-bdd1-4a10-bc42-b48240142bf4-1786642751806 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a short, visually satisfying mixed-reality stop-motion video where [DRAWN OBJECT/SKETCH] seamlessly transforms into [REAL INGREDIENT/OBJECT]. A person uses a smartphone and colored pencil on a [SURFACE], sketching each item before it magically becomes real through smooth, seamless transformations. Show [INGREDIENTS] being added to [CONTAINER], then [COOKING/BLENDING/PREPARATION ACTION], followed by serving into [DISH]. Finish with the artist sketching [TOPPINGS/FINAL DETAILS], which instantly materialize into real food, creating a vibrant, aesthetically arranged [FINAL DISH]. Use realistic textures, natural hand movements, satisfying stop-motion timing, clean composition, soft lighting, and seamless transitions between pencil drawings and real objects.</code></pre>
+
+</details>
 
 ## Cinematic Anime Cartoon Forest Adventure with Boy and Animal Friends
 

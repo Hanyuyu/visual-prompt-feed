@@ -1,9 +1,45 @@
 # Food Drink video prompts
 
-47 source-linked prompts, newest ImgLume records first.
+49 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## First-person POV cooking scene of Japanese Omurice
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2088120951045259738)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2951](https://imglume.com/prompt/2951)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ce74092a-e289-4378-bf32-a78a1e844063/20f474b4-64df-48c2-bc7a-a554166bfde8-1786700978724 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A aesthetic, warm, first-person POV cooking scene featuring a young woman preparing Japanese Omurice:
+
+Prep: Close-up of raw eggs cracked into a white bowl, followed by a cube of butter melting in a hot cast-iron skillet. Whisking &amp; Interaction: A young woman with blonde hair and a light blue oversized hoodie whisking eggs with chopsticks in a modern white-tiled kitchen. A hand gently tucks a strand of hair behind her ear as she looks up and smiles. Cooking: She pours the eggs into the pan, swirling to form a smooth, soft omelet, then carefully places it over a molded bed of fried rice. The Reveal: A knife slice opens the omelet down the middle, revealing a runny, soft-scrambled interior drizzled with ketchup as she smiles next to the finished plate.</code></pre>
+
+</details>
+
+## Young female chef levitates dish in busy kitchen
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2088108029522911384)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2934](https://imglume.com/prompt/2934)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a141a57c-c60c-4431-a1b3-037d15691fbd/6124c061-46e4-4d39-a810-a53ac74d4430-1786690526926 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young female chef in a white double-breasted chef’s coat stands in the middle of a busy professional kitchen, holding a large white plate with medium-rare steak, roasted potatoes, yellow sauce, and microgreens. Suddenly the food slowly levitates and floats in mid-air above the plate in dramatic slow motion while she looks shocked. The pieces gently land back perfectly on the plate. She then presents the dish to a stern older male head chef behind the pass who inspects it and says “It’s a go.” Cinematic lighting, steam, open flames, copper pans, highly detailed, realistic, film still style.</code></pre>
+
+</details>
 
 ## Late-night Spanish fitness influencer cooking vlog
 

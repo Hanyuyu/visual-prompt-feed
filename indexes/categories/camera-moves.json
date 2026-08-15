@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "camera-moves",
   "label": "Camera Moves",
-  "count": 88,
+  "count": 93,
   "mediaTypes": {
     "image": 0,
-    "video": 88
+    "video": 93
   },
   "ids": [
     "byradar:2080958236564316266:0",
@@ -96,6 +96,11 @@
     "byradar:2087454978336063743:0",
     "byradar:2087523289707196763:0",
     "byradar:2087746267250327636:0",
-    "byradar:2087737420766937336:0"
+    "byradar:2087737420766937336:0",
+    "byradar:2087638993110237342:0",
+    "byradar:2088036921184223468:0",
+    "byradar:2088100115965771805:0",
+    "byradar:2088122680142930199:0",
+    "byradar:2088099038839316601:0"
   ]
 }

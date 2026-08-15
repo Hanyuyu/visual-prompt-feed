@@ -1,48 +1,412 @@
 # UGC video prompts
 
-54 source-linked prompts, newest ImgLume records first.
+58 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Photorealistic 15-second UGC-style ice cream advertisement
+## 15-second vertical GRWM fashion video of a young Korean woman
 
-- **Original source:** [@thisismariaa25 on X](https://x.com/thisismariaa25/status/2087831000235880943)
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2088118499306828164)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
-- **Categories:** `product-ads`, `ugc`
-- **ImgLume record:** [2900](https://imglume.com/prompt/2900)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40b1adbf-2584-4f14-a683-c7c63cef93fc/c3631e96-1485-4557-85c5-21fe4e8a91d6-1786638126884 "Video prompt preview")
+- **Categories:** `ugc`
+- **ImgLume record:** [2949](https://imglume.com/prompt/2949)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/787f4b28-d901-4fb4-a64f-5ef7abca8280/5426f446-39c9-463f-a1f2-a75981da528c-1786698854412 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Create a photorealistic 15-second UGC-style advertisement in 16:9 featuring the provided female model. She is wearing a white and black polka dot halter top with high-waisted wide-leg blue jeans, small gold hoop earrings, minimal jewelry, natural makeup, and loose slightly wavy hair. The setting is a bright, cozy modern kitchen with soft afternoon sunlight pouring through the windows, creating a warm, inviting atmosphere. The video should feel like it was casually filmed by a real content creator recommending her latest grocery find. Use subtle handheld camera movement, natural lighting, realistic skin textures, shallow depth of field, authentic facial expressions, and premium food cinematography. Keep the pacing relaxed and conversational, never overly polished or scripted.
+<pre><code>15-second vertical 16:9 fashion UGC GRWM video. Super casual real smartphone home-video footage of a young woman getting ready for a spontaneous weekend night out. The video feels like an authentic memory captured on her phone and later posted as a GRWM. Natural, imperfect, intimate, stylish, and believable. No commercial polish.
 
-Scene 1 (0–5 seconds)
-Medium shot of her leaning against the kitchen counter while holding an unopened pint of Halo Top Blueberry Crumble ice cream. She smiles naturally at the camera with a slightly guilty expression before laughing.
+MAIN SUBJECT
+
+Young Korean woman in her early 20s, natural everyday appearance, realistic skin texture, minimal makeup, warm expressive personality, long dark wavy hair with loose natural strands.
+
+She wears a fitted white ribbed tank top and relaxed low-rise blue jeans at the beginning of the video. Final outfit: oversized black leather jacket over a fitted white top, dark charcoal mini skirt, sheer black tights, black knee-high boots, small black shoulder bag, and minimal silver jewelry.
+
+Maintain identical facial identity, skin tone, body proportions, hairstyle, and appearance throughout the entire video. Clothing and accessories must remain physically consistent once introduced.
+
+LOCATION
+
+Small lived-in bedroom with a full-length mirror, unmade bed, clothing casually placed on a chair, open wardrobe, small vanity, cosmetics, jewelry tray, handbag, shoes, and warm apartment lighting. Soft blue evening light enters through the window while a warm bedside lamp illuminates the room.
+
+The environment should feel personal and naturally messy rather than staged.
+
+No studio environment. No luxury showroom. No commercial set.
+
+VISUAL STYLE
+
+Super casual real smartphone home video footage.
+
+Authentic social-media GRWM aesthetic. Realistic smartphone dynamic range, natural skin texture, imperfect exposure, subtle digital sharpening, ordinary indoor noise, realistic motion blur, believable shadows, and natural color reproduction.
+
+The footage should feel spontaneously recorded at home by a real person.
+
+No beauty filters. No cinematic color grading. No artificial film grain. No CGI appearance. No overly perfect skin. No fashion-commercial polish.
+
+CAMERA STYLE
+
+Super casual real smartphone home video footage captured by the creator herself.
+
+Slight authentic handheld shake, imperfect framing, occasional awkward camera positioning, small arm movements, natural walking bounce, subtle autofocus hunting, realistic exposure adaptation between window light and warm room lighting, slight smartphone sharpening, normal frame rate, natural motion blur, and occasional focus shifts.
+
+The phone is frequently repositioned between her hand, the bed, and the mirror.
+
+Use casual selfie footage, handheld rear-camera footage, mirror recording, close-up phone footage, and spontaneous room-level framing.
+
+Some compositions should be slightly off-center or imperfect.
+
+No professional stabilization. No gimbal. No cinematic tracking. No dramatic lens changes. No artificial depth of field. No polished fashion-film cinematography.
+
+PERFORMANCE
+
+Natural creator behavior.
+
+She is not acting like a model. She casually talks to the phone, makes small spontaneous reactions, checks her outfit, fixes her hair, laughs at herself, and moves naturally around the bedroom.
 
 Dialogue:
-"I absolutely love ice cream... like, I genuinely need some after every meal. But those calories add up so fast."
 
-Natural pauses and a tiny laugh make it feel unscripted.
+“Get ready with me for tonight. I had no idea what to wear, but I think this might actually work.”
 
-Scene 2 (5–10 seconds)
-She opens the pint, the lid makes a satisfying pop, and she scoops out a generous spoonful. Cut to beautiful close-ups of the creamy ice cream showing blueberry swirls and buttery crumble pieces. She takes a bite and her eyes light up with a genuine smile.
+Natural conversational delivery with realistic pauses, breathing, blinking, and accurate lip synchronization.
 
-Dialogue:
-"So I've been obsessed with this Halo Top Blueberry Crumble instead."
+⸻
 
-Scene 3 (10–15 seconds)
-She casually holds the pint toward the camera while taking another spoonful. She shrugs slightly and smiles like she's sharing a secret with a friend.
+STORYBOARD
 
-Dialogue:
-"The whole pint is only 350 calories, it's packed with protein, and honestly... it tastes like actual blueberry crumble. I literally keep one in my freezer now."
+00:00–00:03 — “WHAT DO I WEAR?”
 
-End with her taking one more bite while smiling at the camera.
+Selfie-style handheld phone footage.
 
-Audio should include soft kitchen ambience, the lid opening, spoon scraping the ice cream, and subtle upbeat background music that stays underneath the dialogue. The dialogue should sound spontaneous with natural breathing, tiny pauses, and conversational pacing rather than like a commercial voiceover. The final video should feel authentic, cozy, relatable, and premium, like a genuine creator sharing her favorite healthier dessert with friends.</code></pre>
+She sits on the edge of her bed surrounded by two or three clothing options.
+
+She looks into the phone and says:
+
+“Get ready with me for tonight.”
+
+She quickly holds up a jacket toward the camera, makes an unsure expression, then looks toward the clothes on the bed.
+
+The framing is slightly crooked as she adjusts the phone in her hand.
+
+She laughs quietly.
+
+00:03–00:06 — OUTFIT CHANGE
+
+Quick natural handheld transition.
+
+She is now wearing the white top, dark charcoal mini skirt, sheer black tights, and oversized black leather jacket.
+
+She stands in front of the full-length mirror while holding the phone.
+
+She pulls the jacket into position, looks at herself, then looks at the phone screen.
+
+She says:
+
+“I think this might actually work.”
+
+The camera briefly loses focus as she moves closer to the mirror before recovering naturally.
+
+00:06–00:09 — ACCESSORIES
+
+Close handheld phone shot from the vanity.
+
+She picks up small silver earrings from the jewelry tray.
+
+Cut naturally to a mirror angle as she puts them on.
+
+She quickly runs her fingers through her hair, allowing loose strands to fall naturally around her face.
+
+She grabs the small black shoulder bag from the bed.
+
+Natural jewelry movement and realistic hand interaction.
+
+00:09–00:12 — SHOES + FINAL CHECK
+
+Low casual phone angle.
+
+She sits on the edge of the bed and pulls on her black knee-high boots.
+
+The phone is slightly tilted, creating an imperfect home-video composition.
+
+She stands up, grabs her bag, and looks at herself in the mirror.
+
+She turns slightly from side to side to check the outfit.
+
+Natural fabric movement, realistic leather reflections, believable body mechanics.
+
+00:12–00:15 — FINAL GRWM MOMENT
+
+Handheld mirror shot.
+
+She steps backward and gives the phone a quick full-outfit view.
+
+She adjusts the shoulder bag and lightly fixes her hair.
+
+She looks directly into the phone camera, smiles naturally, and says:
+
+“Okay… I’m actually obsessed.”
+
+She gives a small laugh, picks up her keys, and walks toward the bedroom door.
+
+The phone moves slightly with her hand.
+
+Recording ends naturally mid-motion.
+
+⸻
+
+AUDIO
+
+Authentic smartphone microphone recording.
+
+Natural bedroom ambience, subtle room tone, clothing movement, jewelry sounds, footsteps, bag movement, keys lightly jingling, and realistic household sounds.
+
+Her voice should sound naturally recorded in the room rather than professionally recorded.
+
+Very subtle background music may be present at low volume, similar to casual social-media GRWM content, but natural voice and room ambience remain dominant.
+
+No cinematic sound design.
+
+No exaggerated transitions.
+
+PHYSICAL REALISM
+
+Realistic human anatomy and hand proportions.
+
+Natural walking, sitting, standing, turning, and dressing movements.
+
+Correct hand-to-clothing interactions.
+
+Realistic leather jacket movement.
+
+Natural skirt and fabric folds.
+
+Realistic tights and boot interaction.
+
+Natural hair physics with individual strands moving during head movement.
+
+Realistic jewelry reflections and movement.
+
+Correct mirror reflections.
+
+No duplicated objects.
+
+No warped fingers.
+
+No impossible reflections.
+
+No floating clothing.
+
+No unnatural body mechanics.
+
+CONTINUITY LOCK
+
+Maintain the exact same woman throughout the entire video.
+
+Preserve facial identity, skin texture, hairstyle, body proportions, and natural appearance.
+
+Preserve the bedroom layout and lighting direction.
+
+Once the final outfit appears, maintain the exact same jacket, top, skirt, tights, boots, jewelry, and handbag.
+
+No spontaneous wardrobe changes.
+
+No changing accessories.
+
+No hairstyle changes.
+
+GENERATION REQUIREMENTS
+
+15 seconds.
+
+9:16 vertical.
+
+Super casual real smartphone home-video aesthetic.
+
+Authentic GRWM behavior.
+
+Realistic handheld phone movement.
+
+Natural imperfect framing.
+
+Realistic autofocus hunting.
+
+Natural exposure adaptation.
+
+Normal frame-rate motion.
+
+Accurate lip synchronization.
+
+Consistent identity.
+
+Consistent wardrobe.
+
+Realistic hair, fabric, leather.</code></pre>
+
+</details>
+
+## MiniDV style rooftop scene with young Korean woman
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2088110866000691610)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2946](https://imglume.com/prompt/2946)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a5df30e-e9a5-496f-a6f3-a5a2132efdb1/d1eee7c3-b499-417d-abb8-1080cfa57f47-1786698736443 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean Woman naturally attractive, realistic skin, minimal makeup, long dark hair loosely tied back. Wearing a faded sage-green oversized sweatshirt, charcoal lounge shorts, white socks, worn house slippers, and a thin silver necklace. Preserve her exact identity and appearance throughout.
+
+Location: Weathered Seoul apartment rooftop in warm late-afternoon light. Concrete walls, rusty pipes, metal cabinets, potted plants, folding table, water containers, drying towels, tangled wires, dense neighboring rooftops, distant high-rises and hazy mountains. Gentle breeze.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Authentic Korean residential details, candid behavior, natural imperfections, faded colors, soft contrast, DV compression, motion blur, autofocus hunting, exposure shifts, imperfect framing, handheld shake, occasional accidental zooms. No stabilization or modern cinematic movement.
+
+00:00–00:03: She enters carrying a small cardboard box, places it on the table, and takes out a few household items. The camera briefly points at the floor before finding her.
+
+00:03–00:06: She notices dry leaves on the potted plants and crouches to remove them. Wind blows hair across her face; she casually brushes it away.
+
+00:06–00:09: She waters the plants. The camera accidentally focuses on the water instead of her face. She notices, laughs softly, then continues.
+
+00:09–00:12: She sits at the table, opens a cold canned drink, and quietly looks over the rooftops as laundry moves in the breeze.
+
+00:12–00:15: Someone calls from a neighboring rooftop. She looks over, laughs, then turns back and raises her drink slightly toward the camera. The operator accidentally zooms in too far; autofocus struggles and the video abruptly cuts.
+
+Audio: Natural rooftop ambience only—wind, birds, traffic, water, footsteps, rattling pipes, distant voices and AC units. No music, narration, or added effects.
+
+Goal: Feel like a forgotten personal MiniDV recording from the early 2000s—mundane, intimate, imperfect, spontaneous, and genuinely nostalgic.</code></pre>
+
+</details>
+
+## Rainy Afternoon Errand – 15‑second analogue home video
+
+- **Original source:** [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2087842594344800270)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [2933](https://imglume.com/prompt/2933)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5fe2268a-bbfc-4dec-a105-7c6f6b662e37/f9207041-d6b2-45a4-928b-0aa17b631144-1786684300768 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Concept: "Rainy Afternoon Errand"
+Create an authentic 15-second analogue home-video recording filmed with a handheld Hi8/VHS-C camcorder. The camcorder is never visible. The audience only sees the recorded footage, as if watching a digitized family videotape. This is not a vlog, commercial, or cinematic production—just a friend casually filming another friend during an ordinary day.
+Use authentic analogue camcorder aesthetics: soft SD resolution, subtle VHS tape grain, faint interlacing, analogue colour bleed, mild tracking imperfections, slight autofocus hunting, natural handheld shake, tiny framing errors, realistic motion blur, washed-out colours, and faint tape hiss. Avoid HDR, beauty filters, cinematic grading, perfect stabilization, or modern digital sharpness.
+A young Korean woman in her early twenties wears a fitted pastel crop top, mid-rise vintage blue denim shorts, white ankle socks, classic white sneakers, and a lightweight oversized windbreaker tied around her waist. She carries a small canvas shoulder bag, and her appearance reflects a nostalgic late-90s/early-2000s Korean street style without referencing any specific year.
+The scene takes place on a quiet residential street after a light summer rain. The pavement is still damp, small puddles reflect nearby buildings, bicycles are parked outside shops, neighbours walk by with umbrellas, and local cafés and convenience stores create a peaceful everyday atmosphere.
+The footage begins as she exits a small neighbourhood convenience store carrying a drink and a paper shopping bag. She pauses under the awning, looks up at the cloudy sky, and smiles as a light drizzle begins again. She playfully extends her hand to feel a few raindrops before noticing the unseen camera operator. She laughs, gives a friendly wave, briefly twirls once in the drizzle, then continues walking down the wet street. The camera follows naturally behind as reflections shimmer on the pavement and a city bus quietly passes in the background. The recording ends naturally as she disappears farther down the street.
+Generation Requirements
+Produce one continuous 15-second recording with no cuts or transitions. Maintain consistent identity, realistic anatomy, natural walking, authentic human expressions, believable interactions, and physically accurate rain effects. Include realistic ambient sounds such as soft rain, distant traffic, birds, footsteps on wet pavement, and neighbourhood ambience. Avoid AI artifacts, duplicated pedestrians, warped anatomy, floating objects, modern cinematic effects, or anything that reveals the footage as AI-generated. The final result should feel indistinguishable from a genuine nostalgic analogue home video recorded by a friend.</code></pre>
+
+</details>
+
+## 5am Dawn Run Vlog
+
+- **Original source:** [@rom1trs on X](https://x.com/rom1trs/status/2087866473142272229)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `ugc`
+- **ImgLume record:** [2916](https://imglume.com/prompt/2916)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a9d8a761-8564-4d6e-a10a-68fd56305b7c/3cd626c9-af15-4eb5-83a4-bf3ce61c1faa-1786650721233 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA Mini-DV tape camcorder handheld aesthetic, vertical framing. A gorgeous athletic Scandinavian running influencer films herself directly by hand in selfie-cam and first-person style during a dawn run. Keep realistic hand shake amplified by her stride, slightly crooked framing, delayed autofocus hunting in low dawn light, awkward zoom-ins and zoom-outs, occasional motion blur, wind buffeting the mic, and small framing mistakes where part of her face or the horizon briefly slips out of frame. Mix handheld selfie footage with a few fixed external shots. Important: never show her placing, adjusting, or setting up a camera. When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began. The camera itself must never appear on screen.
+
+LOOK:
+
+Soft digital tape camcorder look with vintage DV character. Slight blur, faint tape noise, visible highlight bloom as the sun breaks the horizon, subtle auto-exposure flicker and hunting as she turns toward and away from the light, muted contrast in the shadows, realistic skin texture with visible pores and sweat sheen, cool blue pre-dawn ambient light warming to gold, realistic skin tones, real lens flare when facing the sun.
+
+STYLE:
+
+A realistic 5am dawn run vlog with a confident athletic lifestyle vibe. The tone is breathless, upbeat, a little self-deprecating, and natural. She is clearly attractive and charismatic, but the video must feel like a believable self-recorded run vlog, not a polished Nike commercial. Fast clean jump cuts, strong continuity, natural body language, audible real breathing that gets heavier across the video, no awkward dead moments.
+
+CHARACTER:
+
+An exceptionally beautiful athletic Scandinavian woman in her mid-20s. Highly photogenic face, clear pale blue eyes, light freckles across the nose and cheeks, defined jawline, a natural full mouth, fair skin flushing pink at the cheeks from cold and effort, long thick ash-blonde hair in a low ponytail with loose strands escaping around the face. She looks like a high-end running and lifestyle influencer, not an ordinary jogger. Lean, long-limbed, athletic runner's build. Bare minimal makeup, slightly glossy skin from sweat. She wears a fitted long-sleeve technical running top in muted olive, matching high-waisted running shorts, a thin black running watch, low-profile running shoes, and small wired-look earbuds. No other jewelry.
+
+SETTING:
+
+A long empty coastal boardwalk at first light. Wooden slats underfoot, low dunes and beach grass on one side, flat grey sea and a breaking orange sunrise on the other, a single wooden railing, scattered gulls, one weathered bench, faint sea mist. Completely empty, no other runners, no dog walkers, no cars, no extra people. Cold still air with visible breath at the start.
+
+IMPORTANT CONTINUITY RULES:
+
+The same woman must remain fully consistent in every shot. No face changes, no hairstyle changes, no outfit changes, no body changes, no shoe changes. Her hair gets progressively looser and more windblown but stays the same colour and length. No extra people appearing. No duplicated limbs. No broken hands. No impossible running gait. No feet sliding or skating on the boardwalk. No changing weather or sun position beyond a natural gradual sunrise. No camera visible. No camera setup shown. Keep her beautiful, athletic, and photogenic in every shot.
+
+STORYBOARD (30 seconds total, 10 cuts):
+
+1. (~3s, arm's-length selfie) She jogs slowly onto the boardwalk holding the camera herself, visible breath in the cold air, squinting and grinning at the lens.
+Dialogue: "Five a.m. Why do I do this."
+
+2. (~3s, handheld pan across the sea and back to her) The camera swings out over the water toward the orange sunrise, lens flare blooming, then swings back to her face.
+Dialogue: "Okay. That's worth it."
+
+3. (~3s, low first-person shot of her feet) She tilts the camera down at her own shoes striking the wooden slats, then tilts back up to the empty boardwalk ahead. No dialogue.
+
+4. (~3s, fixed external medium shot) Jump cut to a fixed shot from the side of the boardwalk. She is already running past camera at a steady pace, hair swinging, breathing hard. No camera setup shown. No dialogue.
+
+5. (~3s, same fixed shot, wider) She slows to a walk, hands on hips, chest heaving, and laughs at herself as she catches her breath.
+Dialogue: "That hill was not on the map."
+
+6. (~3s, handheld walking selfie) She picks the vlog back up in selfie mode, wiping her forehead with her wrist, cheeks bright red, walking a few steps.
+Dialogue: "Three kilometres in and I'm cooked."
+
+7. (~3s, tight handheld close-up) She takes a long drink from a small handheld water flask, lowers it, and exhales a satisfied laugh.
+Dialogue: "Best water of my life."
+
+8. (~3s, fixed external wide shot facing the sunrise) Jump cut. She stands at the railing in silhouette against the rising sun, stretches her arms overhead, then rolls her shoulders out.
+Dialogue: "Little stretch so nothing snaps later."
+
+9. (~3s, handheld close selfie) Loose blonde strands stuck to her damp forehead, she brushes them back, smiling in a tired and genuinely happy way, sun now warm on her face.
+Dialogue: "This is the good part. Right here."
+
+10. (~3s, arm's-length selfie ending) She walks slowly away down the boardwalk still filming herself, gives a tired little wave, and grins.
+Dialogue: "Okay. Coffee. Bye."
+
+FINAL INSTRUCTION:
+
+The result must feel like a real self-recorded dawn run vlog by a genuine running influencer. Prioritize realistic handheld motion driven by her stride, strong continuity, believable pacing, audible natural breathing that intensifies, sweat and flush that build over the video, attractive appearance, and subtle imperfection. Keep it warm, real, and cinematic in a documentary way. Not artificial, not stiff, not stock-footage clean.</code></pre>
+
+</details>
+
+## DELURE Sunscreen UGC Video Advert
+
+- **Original source:** [@The_Kremlinn on X](https://x.com/The_Kremlinn/status/2087770891518128429)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2905](https://imglume.com/prompt/2905)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de23dffc-0637-4478-a57c-79c0f4309f01/937f2792-c2d3-4107-a515-037e1af28df0-1786642565656 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>WOMAN = a 26-year-old British woman, natural relatable UGC style, warm fair skin that reddens easily in the sun, light freckles across nose and cheeks, shoulder-length wavy light-brown hair loose, soft brows, blue-grey eyes, everyday face with minimal makeup, wearing a strappy pastel summer top with sunglasses pushed up on her head. Authentic girl-next-door energy. Appearance only.
+
+CITY = a sunny city street on a blazing hot summer afternoon, bright pavements, shopfronts, street trees, heat haze shimmering, an intensely bright sun high in a clear blue sky, harsh direct sunlight, strong warm highlights and glare. Environment only.
+
+DELURE = a sleek modern sunscreen bottle, clean minimal pastel-and-white packaging, the brand name "DELURE" printed clearly and legibly across the front in a modern sans-serif font, premium skincare look. Product only.
+
+SCENE: a warm, authentic UGC-style sunscreen advert. A young British woman walks through a sunny city on a blazing hot day; the harsh sun is reddening her cheeks. She stops, takes a DELURE sunscreen bottle from her bag, and applies the cream to her cheeks; the redness fades and her skin calms back to normal, healthy and happy. She smiles, relieved. The advert ends on a clean product shot of the DELURE bottle.
+
+TECHNICAL: 16:9 (or 9:16 vertical if preferred for UGC), bright natural handheld UGC-style camera, warm sunny summer color grade, crisp and clean, realistic self-filmed advert feel, shallow depth of field on the product shots, photorealistic.
+
+CUTS:
+CUT 1 (0-3s): Zoom straight into the blazing bright sun high in the clear blue sky, intense glare and lens flare, heat haze. Then tilt down to the woman walking along the sunny city street, squinting slightly against the heat, fanning herself.
+CUT 2 (3-6s): Camera zooms in on her FACE — warm and sunlit, her cheeks visibly flushed and reddened from the harsh sun, a slightly uncomfortable expression. Close on the reddened cheeks.
+CUT 3 (6-9s): She stops, reaches into her bag, and pulls out the DELURE sunscreen bottle. She squeezes a little cream onto her fingertips and gently applies it to her reddened cheeks, smoothing it in.
+CUT 4 (9-12s): Close-up on her CHEEKS — the redness visibly fading and calming, her skin returning to its normal healthy warm-fair tone, soothed and even. She relaxes, the discomfort gone, and smiles softly with relief.
+CUT 5 (12-15s): Camera shifts to a clean hero product shot of the DELURE sunscreen bottle held up in the sunlight (or resting on a bright surface), the brand name "DELURE" sharp and clearly legible, sunlight catching the packaging. A polished final beat.
+
+RULES: References are appearance only, do not recreate. Keep the woman's face and identity consistent across every cut. The brand name "DELURE" must be spelled correctly and rendered clearly and legibly on the bottle. The cheek redness must visibly reduce between CUT 2 and CUT 4 to sell the product benefit. Bright, warm, sunny mood throughout — clean and aspirational, authentic UGC feel not overly polished. Sound design: cheerful light summer ambience, city sounds, an upbeat friendly tone. Follow the camera path: sun → face → cheeks → sunscreen, as specified.</code></pre>
 
 </details>
 

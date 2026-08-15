@@ -1,9 +1,299 @@
 # Character video prompts
 
-67 source-linked prompts, newest ImgLume records first.
+75 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic historical documentary video of a young Korean woman in a Joseon palace
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2088201365617361216)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2964](https://imglume.com/prompt/2964)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/25c4a4cd-b299-4367-a85a-a6fc2de7d0f5/4342d081-bd90-46e8-b06e-bbf848e86cea-1786711231931 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the attached storyboard as the exact visual reference. Keep the same main character throughout the entire video.
+
+MAIN CHARACTER
+
+A beautiful young Korean woman in her early twenties, long straight black hair, natural makeup, elegant modern Korean fashion. She wears a soft ivory fitted blouse, deep burgundy ankle-length pleated skirt, delicate black flats, and a small structured brown leather shoulder bag. Simple pearl earrings. Natural expressions and subtle smile. Keep her face, hairstyle, outfit, accessories and body proportions identical throughout.
+
+STYLE
+
+Ultra-realistic historical documentary, photorealistic Joseon Dynasty Korea, authentic palace environment, natural human movement, realistic skin texture, warm afternoon sunlight, subtle handheld camera, 50mm documentary lens, gentle film grain, realistic depth of field. No fantasy or supernatural elements.
+
+Duration: 30 seconds
+Aspect Ratio: 16:9
+Frame Rate: 24fps
+Audio: authentic palace ambience, footsteps, wind, birds, fabric movement and distant Korean conversations. No background music.
+
+LOCATION
+
+Authentic Joseon-era royal palace inspired by Gyeongbokgung. Wooden corridors, tiled roofs, stone pathways, traditional gardens, lotus pond and beautiful palace courtyards. Every background person wears historically accurate Joseon clothing.
+
+SEQUENCE
+
+0–4s — Palace entrance
+She slowly enters through a massive traditional palace gate. Two guards walk past naturally. She looks upward at the architecture with genuine amazement. Camera gently tracks backward.
+
+4–8s — Painted corridor
+She walks beneath a long wooden corridor covered with intricate colorful traditional paintings. Sunlight passes between the pillars, creating natural patterns across the floor. She lightly touches a wooden pillar and smiles.
+
+8–12s — Traditional garden
+She walks through a peaceful royal garden filled with trees, stone paths and blooming flowers. A few Joseon-era women pass naturally in the background. She stops briefly to admire the scenery.
+
+12–16s — Lotus pond
+She approaches a beautiful lotus pond. She crouches slightly and watches koi fish moving beneath the water. A gentle breeze moves her hair and skirt naturally.
+
+16–20s — Traditional craft
+She discovers a small historical craft area where an artisan is carefully painting traditional Korean patterns onto a wooden object. She watches closely, fascinated by the detailed handwork.
+
+20–24s — Traditional tea
+Inside a quiet wooden pavilion, an elderly Korean woman in authentic Joseon clothing politely offers her a traditional tea cup. She accepts it respectfully, takes a small sip and smiles appreciatively.
+
+24–27s — Palace sunset view
+She steps onto an elevated wooden veranda. The palace rooftops stretch into the distance under warm golden sunlight. She quietly looks across the scenery, visibly impressed.
+
+27–30s — Final cinematic moment
+She walks away along the palace courtyard while the camera slowly pulls backward and upward. Her skirt moves naturally in the breeze. She turns her head for one final gentle smile toward the camera before continuing through the wooden gate.
+
+REALISM
+
+Natural Korean facial features, realistic skin pores, subtle hair movement, authentic fabric physics, realistic footsteps, historically accurate architecture and clothing, believable crowd behavior, natural eye movements and expressions. The modern woman should look completely real and naturally integrated into the historical environment.
+
+NEGATIVE PROMPT
+
+No anime, no CGI, no fantasy, no portal, no magic, no supernatural effects, no modern buildings, no cars, no motorcycles, no electricity, no modern signs, no modern furniture, no duplicate characters, no face changes, no outfit changes, no distorted hands, no extra fingers, no exaggerated expressions, no artificial movement, no plastic skin, no beauty filter, no watermark, no logo, no text, no subtitles, no background music.</code></pre>
+
+</details>
+
+## 白人女性ラッパーと男性の音楽パフォーマンスシーン
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2088178083153223989)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2961](https://imglume.com/prompt/2961)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a97447cb-b9a1-47f8-83ba-54524c9cb75d/9b1e553a-9ec0-4dc0-a019-875f6c505965-1786709362229 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>自信に満ちた白人女性ラッパー @[Image 1](image_1)。高い位置でまとめたダブル・バンのブレイズヘア。ピンクのZipp Republicジャージー、重ね付けしたゴールドチェーンとクロスネックレス、ゴールドの星型ドロップピアス、左目の下に小さなクロスタトゥー。車のリアクォーターパネルの横にしっかりと立ち、ビートに合わせてかかとからつま先へ体重を揺らす。両手を使ってリズムを表現し、手を切るように動かしたり、指差したり、空中にバーを積み重ねるようなジェスチャーをする。
+ボーカルプロフィール：ナイジェリア訛りを含むロンドン・アクセントで話す白人女性。低い胸声の音域、歯切れのよい子音、各バーの終わりを強くパンチする発声。バーとバーの間では声量を落として低くつぶやくようにする。
+シグネチャーティック：フックラインに入った瞬間、両手を同時に前へ出してダブルポイントを決める。ただし、バーが綺麗に決まった瞬間には肩を後ろへ落とし、次のラインが始まる半拍前に顎を少し上げる。
+アイコンタクト：レンズを真っ直ぐ見据え、ゆっくり意図的に瞬きをする。トランジションでは視線を車の上に座っている男性へ一瞬落とし、再びレンズへ戻す。キャラクターの外見は参照画像と100%一致させる。キャラクターの外見以外は変更しない。
+@[Image 2](image_2) - すでに画像参照済み。白人男性、30代前半〜半ば。短くタイトな黒髪、トリムされた口ひげとつながったフルブラックビアード、幅広い鼻、厚めの唇、がっしりとした肩幅の広い体格、両前腕に目立つタトゥー。赤いZipp Republic 2.0ジャージーを着用し、胸元には白いアウトラインのグラフィックと「2.0」のナンバリング。重ね付けしたゴールドのキューバンリンクチェーン、黒いジーンズ、黒のローカットトレーナー、手首にはゴールドの腕時計。
+赤い車のトランクリッドに座り、バランスを取るため両足をリアバンパーにしっかり置いている。上半身はビートに合わせてリラックスした状態でゆるく揺れ、スネアが入るたびに頭を低く頷かせてから少し持ち上げる。片手で太ももを軽く叩きながらリズムを刻む。
+心理的なエンジン：落ち着いた威圧感と余裕を持ち、パフォーマンスを誇示するのではなく、グルーヴそのものに身を委ねている。
+シグネチャーティック：肩をロールさせるたびにチェーンが光を捉え、頷いている間も顎は安定したまま。ラッパーがパンチラインを決めた瞬間、彼女の方へ顔を向け、その視線を一拍キープしてから再び自分のリズムへ戻る。
+アイコンタクト：半分閉じたような落ち着いた目元で、急がずゆったりとした視線。ラッパーとレンズの間を自然に視線移動する。
+キャラクターの外見は参照画像と100%一致させる。その他の要素は一切変更しない。登場するキャラクターは西洋系・白人のみ。2人ともナイジェリア訛りのある歌唱・ラップを披露する。</code></pre>
+
+</details>
+
+## ELARA Hero Intro Cinematic (15s)
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2088113402824843659)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2957](https://imglume.com/prompt/2957)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/58d3e67f-e00d-4b35-8cd4-e38c2eac327b-1786705055170 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/09de4a4f-4ed1-4305-83a8-164b6666852f-1786705055170 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/47ca24bd-e6f4-4c02-83e7-9745130851ba-1786705055170 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/0b8450db-4eb3-4671-bb28-24034024b47f-1786705055170 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15s HERO INTRO PROMPT (6 Cuts)
+--------------------------------------------------------------------
+WORLD: Massive ancient subterranean cavern, palette of dark stone and deep shadow, one vivid glowing holographic-blue accent, volumetric dust rays filtering from above, floating spores, layered depth of field.
+
+CHARACTERS:
+- HERO: A tall young woman in her early 20s with messy braids, wearing dense, heavy layers of clothing: an oversized slate-gray canvas coat, quilted tan vest, crisscrossing ropes, heavy blocky pouches, skinny burnt-orange trousers, and chunky boots. Exaggerated stylized tall proportions, massively dense top-heavy upper body, supermodel legs, painterly matte skin with chunky brush-stroke shading.
+
+CINEMATIC INTRO SHOT DESIGN (6 Filmic Cuts with Expressions):
+• SHOT 1 (0–2s | Macro Detail): Extreme macro close-up of a heavy, chunky terrain boot stepping onto a stone ledge. Thick ropes and utility pouches sway from the impact.
+• SHOT 2 (2–4s | Behavior): Medium shot of Elara navigating the dark cavern. She holds up her heavy mechanical staff, using her thumb to click a flat-painted metallic switch on the handle.
+• SHOT 3 (4–6s | Expression): Close-up on Elara's sharp, mature face. A brilliant, flat-painted holographic-blue light suddenly illuminates her features. She flashes a highly intelligent, confident smirk, her eyes reflecting the blue data.
+• SHOT 4 (6–9s | Environment Reveal): Wide shot revealing the massive cavern. The top of her staff has blossomed into a massive, floating, geometric holographic-blue map that lights up the surrounding ancient ruins and floating spores.
+• SHOT 5 (9–12s | Confident Movement): Tracking shot as Elara steps confidently forward into the dark, using the staff as a torch. Her massive, densely layered coat and countless pouches shift heavily with her weighty, athletic strides.
+• SHOT 6 (12–15s | Hero Poster Frame): Low-angle hero shot of Elara standing at the edge of a sheer cliff. The glowing blue map swirls around her imposing, heavily layered silhouette. She reaches up to pull her tech-scarf down, looking out over the void. Hold final frame.
+
+Weighty natural character animation, dense layers of clothing and ropes reacting fluidly to movement, filmic 24fps shutter, shallow depth of field.</code></pre>
+
+</details>
+
+## Realistic late-night fitness vlog with handheld smartphone, Seedance 2.5
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2088111288551677989)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2947](https://imglume.com/prompt/2947)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d877dcc8-0a53-4c52-a96b-180226fe408c/ddc4e8fb-328e-48b9-bfbf-ae9bb492cd97-1786698745476 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, grey-green eyes, skin tone, hairstyle, makeup, body proportions, and overall appearance throughout every shot. She has long dark hair in a high ponytail and wears a fitted black long-sleeve athletic crop top, high-waisted black leggings, clean white sneakers, and a white towel around her neck. Maintain perfect character consistency.
+
+Create a realistic late-night fitness vlog filmed on a handheld smartphone with a subtle vintage DV/camcorder aesthetic. The gym is quiet and nearly empty, with large mirrors, dumbbell racks, benches, stretching mats, warm overhead lighting, and realistic reflections.
+
+The video begins with an arm's-length selfie shot as she walks into the gym, slightly breathless but smiling at the camera. She casually pans across the empty gym before returning to her face.
+
+She stops near a mirror, fixes her ponytail, gives herself a playful look, then picks up dumbbells. Cut to a fixed external angle as she performs controlled shoulder presses with realistic form and natural breathing.
+
+Return to handheld selfie footage as she walks with the towel around her neck, looking tired but satisfied. She grabs a water bottle, takes a drink, and smiles at the camera.
+
+Cut to a wider fixed shot where she performs a quick stretch and playful mirror pose. Finish with a close selfie as she brushes back a loose strand of hair, smiles, waves toward the camera, and walks toward the gym exit.
+
+Camera: realistic handheld shake, slight framing imperfections, delayed autofocus, occasional motion blur, subtle exposure shifts, natural jump cuts, no visible camera or camera setup.
+
+Style: authentic creator vlog, glamorous fitness influencer aesthetic, realistic body movement, natural expressions, soft DV texture, subtle tape noise, warm cinematic lighting, shallow depth of field, photorealistic, 4K HDR, 16:9.
+
+Audio: natural gym ambience, footsteps, dumbbells, breathing, water bottle sounds, soft room tone. No background music, no subtitles, no captions, no logos, no watermarks.
+
+Negative Prompt: No face changes, identity drift, outfit changes, extra people, duplicate limbs, distorted hands, broken gym equipment, impossible movements, artificial skin, excessive beauty filters, flickering, cartoon style, visible camera.</code></pre>
+
+</details>
+
+## Seedance 2.5 Maldives resort prompt
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2088099038839316601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2945](https://imglume.com/prompt/2945)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6a5b59cf-a0ae-4c91-9a7d-c9a75d7113aa/dccf4e03-705a-45fb-9918-028675548bef-1786698703588 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy, subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look</code></pre>
+
+</details>
+
+## Young female chef levitates dish in busy kitchen
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2088108029522911384)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2934](https://imglume.com/prompt/2934)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a141a57c-c60c-4431-a1b3-037d15691fbd/6124c061-46e4-4d39-a810-a53ac74d4430-1786690526926 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young female chef in a white double-breasted chef’s coat stands in the middle of a busy professional kitchen, holding a large white plate with medium-rare steak, roasted potatoes, yellow sauce, and microgreens. Suddenly the food slowly levitates and floats in mid-air above the plate in dramatic slow motion while she looks shocked. The pieces gently land back perfectly on the plate. She then presents the dish to a stern older male head chef behind the pass who inspects it and says “It’s a go.” Cinematic lighting, steam, open flames, copper pans, highly detailed, realistic, film still style.</code></pre>
+
+</details>
+
+## 5am Dawn Run Vlog
+
+- **Original source:** [@rom1trs on X](https://x.com/rom1trs/status/2087866473142272229)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `ugc`
+- **ImgLume record:** [2916](https://imglume.com/prompt/2916)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a9d8a761-8564-4d6e-a10a-68fd56305b7c/3cd626c9-af15-4eb5-83a4-bf3ce61c1faa-1786650721233 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA Mini-DV tape camcorder handheld aesthetic, vertical framing. A gorgeous athletic Scandinavian running influencer films herself directly by hand in selfie-cam and first-person style during a dawn run. Keep realistic hand shake amplified by her stride, slightly crooked framing, delayed autofocus hunting in low dawn light, awkward zoom-ins and zoom-outs, occasional motion blur, wind buffeting the mic, and small framing mistakes where part of her face or the horizon briefly slips out of frame. Mix handheld selfie footage with a few fixed external shots. Important: never show her placing, adjusting, or setting up a camera. When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began. The camera itself must never appear on screen.
+
+LOOK:
+
+Soft digital tape camcorder look with vintage DV character. Slight blur, faint tape noise, visible highlight bloom as the sun breaks the horizon, subtle auto-exposure flicker and hunting as she turns toward and away from the light, muted contrast in the shadows, realistic skin texture with visible pores and sweat sheen, cool blue pre-dawn ambient light warming to gold, realistic skin tones, real lens flare when facing the sun.
+
+STYLE:
+
+A realistic 5am dawn run vlog with a confident athletic lifestyle vibe. The tone is breathless, upbeat, a little self-deprecating, and natural. She is clearly attractive and charismatic, but the video must feel like a believable self-recorded run vlog, not a polished Nike commercial. Fast clean jump cuts, strong continuity, natural body language, audible real breathing that gets heavier across the video, no awkward dead moments.
+
+CHARACTER:
+
+An exceptionally beautiful athletic Scandinavian woman in her mid-20s. Highly photogenic face, clear pale blue eyes, light freckles across the nose and cheeks, defined jawline, a natural full mouth, fair skin flushing pink at the cheeks from cold and effort, long thick ash-blonde hair in a low ponytail with loose strands escaping around the face. She looks like a high-end running and lifestyle influencer, not an ordinary jogger. Lean, long-limbed, athletic runner's build. Bare minimal makeup, slightly glossy skin from sweat. She wears a fitted long-sleeve technical running top in muted olive, matching high-waisted running shorts, a thin black running watch, low-profile running shoes, and small wired-look earbuds. No other jewelry.
+
+SETTING:
+
+A long empty coastal boardwalk at first light. Wooden slats underfoot, low dunes and beach grass on one side, flat grey sea and a breaking orange sunrise on the other, a single wooden railing, scattered gulls, one weathered bench, faint sea mist. Completely empty, no other runners, no dog walkers, no cars, no extra people. Cold still air with visible breath at the start.
+
+IMPORTANT CONTINUITY RULES:
+
+The same woman must remain fully consistent in every shot. No face changes, no hairstyle changes, no outfit changes, no body changes, no shoe changes. Her hair gets progressively looser and more windblown but stays the same colour and length. No extra people appearing. No duplicated limbs. No broken hands. No impossible running gait. No feet sliding or skating on the boardwalk. No changing weather or sun position beyond a natural gradual sunrise. No camera visible. No camera setup shown. Keep her beautiful, athletic, and photogenic in every shot.
+
+STORYBOARD (30 seconds total, 10 cuts):
+
+1. (~3s, arm's-length selfie) She jogs slowly onto the boardwalk holding the camera herself, visible breath in the cold air, squinting and grinning at the lens.
+Dialogue: "Five a.m. Why do I do this."
+
+2. (~3s, handheld pan across the sea and back to her) The camera swings out over the water toward the orange sunrise, lens flare blooming, then swings back to her face.
+Dialogue: "Okay. That's worth it."
+
+3. (~3s, low first-person shot of her feet) She tilts the camera down at her own shoes striking the wooden slats, then tilts back up to the empty boardwalk ahead. No dialogue.
+
+4. (~3s, fixed external medium shot) Jump cut to a fixed shot from the side of the boardwalk. She is already running past camera at a steady pace, hair swinging, breathing hard. No camera setup shown. No dialogue.
+
+5. (~3s, same fixed shot, wider) She slows to a walk, hands on hips, chest heaving, and laughs at herself as she catches her breath.
+Dialogue: "That hill was not on the map."
+
+6. (~3s, handheld walking selfie) She picks the vlog back up in selfie mode, wiping her forehead with her wrist, cheeks bright red, walking a few steps.
+Dialogue: "Three kilometres in and I'm cooked."
+
+7. (~3s, tight handheld close-up) She takes a long drink from a small handheld water flask, lowers it, and exhales a satisfied laugh.
+Dialogue: "Best water of my life."
+
+8. (~3s, fixed external wide shot facing the sunrise) Jump cut. She stands at the railing in silhouette against the rising sun, stretches her arms overhead, then rolls her shoulders out.
+Dialogue: "Little stretch so nothing snaps later."
+
+9. (~3s, handheld close selfie) Loose blonde strands stuck to her damp forehead, she brushes them back, smiling in a tired and genuinely happy way, sun now warm on her face.
+Dialogue: "This is the good part. Right here."
+
+10. (~3s, arm's-length selfie ending) She walks slowly away down the boardwalk still filming herself, gives a tired little wave, and grins.
+Dialogue: "Okay. Coffee. Bye."
+
+FINAL INSTRUCTION:
+
+The result must feel like a real self-recorded dawn run vlog by a genuine running influencer. Prioritize realistic handheld motion driven by her stride, strong continuity, believable pacing, audible natural breathing that intensifies, sweat and flush that build over the video, attractive appearance, and subtle imperfection. Keep it warm, real, and cinematic in a documentary way. Not artificial, not stiff, not stock-footage clean.</code></pre>
+
+</details>
 
 ## Tomboy Rapper Seedance 2.0
 
@@ -50,6 +340,29 @@ Ending still, she returns to leaning against the wall with a faint smile. As the
 Audio: Natural sound field rap track—clear close-up rap vocals, crisp and fast drum beats, paired with faint ambient white noise and slight wind sounds outside. No heavy reverb, overall relaxed yet rhythmic.
 
 Goal: Create a lazy and relaxed window-side impromptu rap clip, using blind shadows to set the mood. Movements are natural and perfectly timed, clean, healing, yet possessing a cool tension, like a casual daily recording.</code></pre>
+
+</details>
+
+## Mystical Woman with Flaming Serpent – Cinematic Photorealistic Shot
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2087638993110237342)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2896](https://imglume.com/prompt/2896)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ddf5ff07-ae2b-4e37-be12-0341d1a87dba/fae8b7d8-d1d1-4f87-86de-2a548a2f94c3-1786644666094 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ddf5ff07-ae2b-4e37-be12-0341d1a87dba/4f285375-444e-4d5e-9c16-12ab489ea644-1786644666094 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shows a beautiful, mystical woman moving fluidly and powerfully, accompanied by an ethereal, blazing serpent of fire. The serpent moves around her.
+
+Dynamic shot circling the character.
+
+No music. ASMR sound.
+
+Cinematic photorealism.</code></pre>
 
 </details>
 

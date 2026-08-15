@@ -1,9 +1,38 @@
 # Cinematic image prompts
 
-45 source-linked prompts, newest ImgLume records first.
+46 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic photorealistic portrait on a wooden boat at golden hour sunset
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2088108420893467056)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2942](https://imglume.com/prompt/2942)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f42b90c8-2cfc-4e9d-9cb7-fd7fa345c26f/4923ade2-5ab1-4686-a729-ce0d848a280a-1786698650017 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f42b90c8-2cfc-4e9d-9cb7-fd7fa345c26f/6709a717-577b-4a00-83a5-2b86ddf04779-1786698650017 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly cinematic, photorealistic scene of me sitting naturally at the front of a classic wooden boat on a calm lake during a dramatic golden-hour sunset. I am seated comfortably on the front edge of the boat, looking slightly toward the horizon with a calm, thoughtful expression.
+
+The background features distant dark mountain silhouettes and a glowing sun positioned near the horizon. Create an artistic long-exposure / motion-blur effect across the entire lake and sky, with flowing streaks of warm golden orange, peach, pink, lavender, and deep blue light radiating outward from the sunset. The light trails should curve dramatically around the subject, creating a powerful sense of speed and movement while the person and boat remain relatively sharp and realistic.
+
+Keep the boat detailed and realistic, with visible polished dark wooden interior, curved blue-painted edges, natural wood texture, and realistic reflections on the water.
+
+Natural cinematic lighting, warm sunset rim light around the subject, realistic skin texture, subtle atmospheric haze, high dynamic range, professional photography, ultra-detailed, realistic depth, dramatic composition, beautiful color grading, sharp subject, soft background motion trails, premium cinematic travel photography.
+
+Composition: vertical portrait, subject positioned slightly right of center, wide dramatic environment visible around the subject, sunset directly behind the mountains, strong leading lines created by the flowing light trails, immersive perspective.
+
+Photorealistic, cinematic, highly detailed, realistic proportions, natural body posture, realistic hands and clothing, no distortion, no extra limbs, no duplicate person, no artificial-looking face.
+
+Aspect ratio: 4:5 vertical.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic cinematic floating futuristic city above stormy ocean
 

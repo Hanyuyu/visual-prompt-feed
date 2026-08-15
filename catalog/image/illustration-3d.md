@@ -1,9 +1,38 @@
 # Illustration 3d image prompts
 
-42 source-linked prompts, newest ImgLume records first.
+43 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Retro Urban Album-Art Illustration Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088085068090855796)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2952](https://imglume.com/prompt/2952)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2f4154f3-96ed-45a5-bc6f-57e0bb546ef7/d97593bf-d68e-4dbe-b223-d693757fca73-1786702837298 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2f4154f3-96ed-45a5-bc6f-57e0bb546ef7/877820a8-0754-44af-9bda-d145f20e4ee5-1786702837298 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 4:5 vertical retro urban album-art illustration built around [CITY BLOCK THEME]. Show [FOCAL SUBJECT] naturally interacting within a nostalgic 1990s neighborhood environment. Fill the street with [STREET DETAILS], arranged as believable foreground, middle-ground, and background elements without making the composition cluttered.
+
+Use a broad city-block composition from slightly above pedestrian eye level, with strong perspective carrying the viewer through storefronts, sidewalks, brick buildings, stoops, parked objects, utility poles, and distant architecture.
+
+Give the figures simplified cartoon-like anatomy, confident poses, expressive gestures, thick black contour lines, rhythmic motion marks, and playful hand-drawn graphic symbols.
+
+Render the scene in [COLOR PALETTE] using flat color areas, imperfect ink registration, faded halftone shading, rough screen-print edges, paper fibers, tiny scratches, dusty grain, and subtle vintage vinyl-record-sleeve wear.
+
+Add loose graffiti-inspired abstract shapes and energetic marks, but no readable tags or random lettering.
+
+The atmosphere should feel [MOOD], combining neighborhood storytelling, vintage hip-hop visual culture, analog-print character, and handmade editorial illustration.
+
+Keep the artwork original rather than reproducing any specific artist’s identifiable composition. No logos, trademarks, signatures, watermarks, readable brand names, unintended text, borders, grids, collage panels, or photorealism.</code></pre>
+
+</details>
 
 ## Dreamy pastel butterfly resting on lavender flower with sunrise cottage
 

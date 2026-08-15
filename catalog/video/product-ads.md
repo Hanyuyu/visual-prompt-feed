@@ -1,9 +1,129 @@
 # Product Ads video prompts
 
-56 source-linked prompts, newest ImgLume records first.
+58 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Bright premium OLLY gummy vitamins product video
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2088143802774982853)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2965](https://imglume.com/prompt/2965)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8fcddc08-eed9-4c33-bdef-eb8dca139f8f/eadcfc0c-6c6e-4955-973f-976798f94643-1786711239160 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a bright, premium lifestyle product video featuring colorful OLLY gummy vitamins. Start with a close-up of the gummy bottle on a clean, aesthetically pleasing surface. Slowly reveal the colorful gummies, highlighting their texture, shape, and vibrant appearance. Show a hand picking up a gummy and bringing it toward the camera, followed by a natural wellness moment. Use soft daylight, warm tones, smooth camera movements, shallow depth of field, realistic product details, subtle reflections, and a clean commercial aesthetic. End with the OLLY bottle clearly visible in a polished hero shot. High-end beauty advertisement, cinematic lighting, realistic textures, smooth transitions, 4K quality.</code></pre>
+
+</details>
+
+## La Roche-Posay Effaclar Purifying Foaming Gel 9:16 Photorealistic Skincare Commercial
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2088098061415284835)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [2939](https://imglume.com/prompt/2939)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/87ce5fb0-73f0-48ea-9202-8cee8ade9363/1a78cdf3-9eb2-459b-82d2-4727d0575983-1786690655380 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Format: 9:16 vertical | Style: Photorealistic premium skincare commercial
+
+SHOT 1 — Product Introduction | 0–3s
+
+The La Roche-Posay Effaclar Purifying Foaming Gel stands upright on a glossy white acrylic platform in a pristine luxury studio. Soft blue gradient light glows behind the tube.
+
+Slow cinematic push-in with subtle reflections.
+
+Product must remain exactly identical to the reference image: same tube shape, blue color, logo, typography, cap, proportions and packaging text. No redesign.
+
+SHOT 2 — Pick Up Product | 3–5s
+
+Close-up of a feminine hand reaching into frame and gently picking up the Effaclar cleanser.
+
+The camera follows the movement smoothly. Keep the background minimal, white and softly illuminated with blue accents.
+
+Packaging remains sharp, readable and unchanged.
+
+SHOT 3 — Dispensing Cleanser | 5–8s
+
+Macro close-up of the hand squeezing a small amount of cleanser onto the fingertips.
+
+Show the realistic gel texture and subtle glossy highlights. Clean studio lighting, shallow depth of field and slow controlled movement.
+
+SHOT 4 — Half-Face Application | 8–11s
+
+Cut to the woman applying the cleanser to her face.
+
+Only half of her face is visible. Use a tight side-angle crop showing one cheek, part of the jawline and lips. The other half of her face remains completely outside the frame.
+
+She gently massages the cleanser in circular motions as soft white foam develops.
+
+Never show her full face or a frontal portrait.
+
+SHOT 5 — Rinse &amp; Fresh Skin | 11–14s
+
+Extreme close-up from the side as she rinses the cleanser away with clean water.
+
+Only half of her face remains visible. Water droplets move naturally across the cheek, catching soft studio light.
+
+Transition through a subtle water splash/ripple.
+
+SHOT 6 — Final Hero Product | 14–18s
+
+Return to the Effaclar tube standing perfectly centered on the glossy white platform.
+
+A soft blue light sweeps across the background. Subtle water reflections surround the base.
+
+Camera slowly pushes in and ends on the product front, with the packaging fully visible and legible.
+
+Overall aesthetic: luxury French pharmacy skincare campaign, clinical-clean studio, white and soft blue palette, realistic skin texture, elegant feminine hands, cinematic macro photography, soft shadows, controlled highlights, shallow depth of field, smooth camera movement, photorealistic 4K.
+
+Negative prompt: full-face reveal, frontal face, recognizable identity, altered packaging, changed logo, incorrect text, warped tube, distorted hands, extra fingers, duplicate product, excessive foam, unrealistic skin, CGI look, cartoon style, cluttered background, watermark.</code></pre>
+
+</details>
+
+## DELURE Sunscreen UGC Video Advert
+
+- **Original source:** [@The_Kremlinn on X](https://x.com/The_Kremlinn/status/2087770891518128429)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [2905](https://imglume.com/prompt/2905)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de23dffc-0637-4478-a57c-79c0f4309f01/937f2792-c2d3-4107-a515-037e1af28df0-1786642565656 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>WOMAN = a 26-year-old British woman, natural relatable UGC style, warm fair skin that reddens easily in the sun, light freckles across nose and cheeks, shoulder-length wavy light-brown hair loose, soft brows, blue-grey eyes, everyday face with minimal makeup, wearing a strappy pastel summer top with sunglasses pushed up on her head. Authentic girl-next-door energy. Appearance only.
+
+CITY = a sunny city street on a blazing hot summer afternoon, bright pavements, shopfronts, street trees, heat haze shimmering, an intensely bright sun high in a clear blue sky, harsh direct sunlight, strong warm highlights and glare. Environment only.
+
+DELURE = a sleek modern sunscreen bottle, clean minimal pastel-and-white packaging, the brand name "DELURE" printed clearly and legibly across the front in a modern sans-serif font, premium skincare look. Product only.
+
+SCENE: a warm, authentic UGC-style sunscreen advert. A young British woman walks through a sunny city on a blazing hot day; the harsh sun is reddening her cheeks. She stops, takes a DELURE sunscreen bottle from her bag, and applies the cream to her cheeks; the redness fades and her skin calms back to normal, healthy and happy. She smiles, relieved. The advert ends on a clean product shot of the DELURE bottle.
+
+TECHNICAL: 16:9 (or 9:16 vertical if preferred for UGC), bright natural handheld UGC-style camera, warm sunny summer color grade, crisp and clean, realistic self-filmed advert feel, shallow depth of field on the product shots, photorealistic.
+
+CUTS:
+CUT 1 (0-3s): Zoom straight into the blazing bright sun high in the clear blue sky, intense glare and lens flare, heat haze. Then tilt down to the woman walking along the sunny city street, squinting slightly against the heat, fanning herself.
+CUT 2 (3-6s): Camera zooms in on her FACE — warm and sunlit, her cheeks visibly flushed and reddened from the harsh sun, a slightly uncomfortable expression. Close on the reddened cheeks.
+CUT 3 (6-9s): She stops, reaches into her bag, and pulls out the DELURE sunscreen bottle. She squeezes a little cream onto her fingertips and gently applies it to her reddened cheeks, smoothing it in.
+CUT 4 (9-12s): Close-up on her CHEEKS — the redness visibly fading and calming, her skin returning to its normal healthy warm-fair tone, soothed and even. She relaxes, the discomfort gone, and smiles softly with relief.
+CUT 5 (12-15s): Camera shifts to a clean hero product shot of the DELURE sunscreen bottle held up in the sunlight (or resting on a bright surface), the brand name "DELURE" sharp and clearly legible, sunlight catching the packaging. A polished final beat.
+
+RULES: References are appearance only, do not recreate. Keep the woman's face and identity consistent across every cut. The brand name "DELURE" must be spelled correctly and rendered clearly and legibly on the bottle. The cheek redness must visibly reduce between CUT 2 and CUT 4 to sell the product benefit. Bright, warm, sunny mood throughout — clean and aspirational, authentic UGC feel not overly polished. Sound design: cheerful light summer ambience, city sounds, an upbeat friendly tone. Follow the camera path: sun → face → cheeks → sunscreen, as specified.</code></pre>
+
+</details>
 
 ## 30-second ultra-realistic cinematic horror-comedy ad for Philosophy Fresh Cream Body Lotion
 
@@ -343,47 +463,6 @@ PACE:
 26–30 seconds: elegant luxury product finish.
 
 The final result should feel like a genuinely expensive horror movie that suddenly turns into a luxury skincare advertisement for the funniest possible reason.</code></pre>
-
-</details>
-
-## Photorealistic 15-second UGC-style ice cream advertisement
-
-- **Original source:** [@thisismariaa25 on X](https://x.com/thisismariaa25/status/2087831000235880943)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `product-ads`, `ugc`
-- **ImgLume record:** [2900](https://imglume.com/prompt/2900)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40b1adbf-2584-4f14-a683-c7c63cef93fc/c3631e96-1485-4557-85c5-21fe4e8a91d6-1786638126884 "Video prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>Create a photorealistic 15-second UGC-style advertisement in 16:9 featuring the provided female model. She is wearing a white and black polka dot halter top with high-waisted wide-leg blue jeans, small gold hoop earrings, minimal jewelry, natural makeup, and loose slightly wavy hair. The setting is a bright, cozy modern kitchen with soft afternoon sunlight pouring through the windows, creating a warm, inviting atmosphere. The video should feel like it was casually filmed by a real content creator recommending her latest grocery find. Use subtle handheld camera movement, natural lighting, realistic skin textures, shallow depth of field, authentic facial expressions, and premium food cinematography. Keep the pacing relaxed and conversational, never overly polished or scripted.
-
-Scene 1 (0–5 seconds)
-Medium shot of her leaning against the kitchen counter while holding an unopened pint of Halo Top Blueberry Crumble ice cream. She smiles naturally at the camera with a slightly guilty expression before laughing.
-
-Dialogue:
-"I absolutely love ice cream... like, I genuinely need some after every meal. But those calories add up so fast."
-
-Natural pauses and a tiny laugh make it feel unscripted.
-
-Scene 2 (5–10 seconds)
-She opens the pint, the lid makes a satisfying pop, and she scoops out a generous spoonful. Cut to beautiful close-ups of the creamy ice cream showing blueberry swirls and buttery crumble pieces. She takes a bite and her eyes light up with a genuine smile.
-
-Dialogue:
-"So I've been obsessed with this Halo Top Blueberry Crumble instead."
-
-Scene 3 (10–15 seconds)
-She casually holds the pint toward the camera while taking another spoonful. She shrugs slightly and smiles like she's sharing a secret with a friend.
-
-Dialogue:
-"The whole pint is only 350 calories, it's packed with protein, and honestly... it tastes like actual blueberry crumble. I literally keep one in my freezer now."
-
-End with her taking one more bite while smiling at the camera.
-
-Audio should include soft kitchen ambience, the lid opening, spoon scraping the ice cream, and subtle upbeat background music that stays underneath the dialogue. The dialogue should sound spontaneous with natural breathing, tiny pauses, and conversational pacing rather than like a commercial voiceover. The final video should feel authentic, cozy, relatable, and premium, like a genuine creator sharing her favorite healthier dessert with friends.</code></pre>
 
 </details>
 

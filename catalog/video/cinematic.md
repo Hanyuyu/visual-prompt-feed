@@ -1,9 +1,838 @@
 # Cinematic video prompts
 
-391 source-linked prompts, newest ImgLume records first.
+414 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic historical documentary video of a young Korean woman in a Joseon palace
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2088201365617361216)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2964](https://imglume.com/prompt/2964)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/25c4a4cd-b299-4367-a85a-a6fc2de7d0f5/4342d081-bd90-46e8-b06e-bbf848e86cea-1786711231931 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the attached storyboard as the exact visual reference. Keep the same main character throughout the entire video.
+
+MAIN CHARACTER
+
+A beautiful young Korean woman in her early twenties, long straight black hair, natural makeup, elegant modern Korean fashion. She wears a soft ivory fitted blouse, deep burgundy ankle-length pleated skirt, delicate black flats, and a small structured brown leather shoulder bag. Simple pearl earrings. Natural expressions and subtle smile. Keep her face, hairstyle, outfit, accessories and body proportions identical throughout.
+
+STYLE
+
+Ultra-realistic historical documentary, photorealistic Joseon Dynasty Korea, authentic palace environment, natural human movement, realistic skin texture, warm afternoon sunlight, subtle handheld camera, 50mm documentary lens, gentle film grain, realistic depth of field. No fantasy or supernatural elements.
+
+Duration: 30 seconds
+Aspect Ratio: 16:9
+Frame Rate: 24fps
+Audio: authentic palace ambience, footsteps, wind, birds, fabric movement and distant Korean conversations. No background music.
+
+LOCATION
+
+Authentic Joseon-era royal palace inspired by Gyeongbokgung. Wooden corridors, tiled roofs, stone pathways, traditional gardens, lotus pond and beautiful palace courtyards. Every background person wears historically accurate Joseon clothing.
+
+SEQUENCE
+
+0–4s — Palace entrance
+She slowly enters through a massive traditional palace gate. Two guards walk past naturally. She looks upward at the architecture with genuine amazement. Camera gently tracks backward.
+
+4–8s — Painted corridor
+She walks beneath a long wooden corridor covered with intricate colorful traditional paintings. Sunlight passes between the pillars, creating natural patterns across the floor. She lightly touches a wooden pillar and smiles.
+
+8–12s — Traditional garden
+She walks through a peaceful royal garden filled with trees, stone paths and blooming flowers. A few Joseon-era women pass naturally in the background. She stops briefly to admire the scenery.
+
+12–16s — Lotus pond
+She approaches a beautiful lotus pond. She crouches slightly and watches koi fish moving beneath the water. A gentle breeze moves her hair and skirt naturally.
+
+16–20s — Traditional craft
+She discovers a small historical craft area where an artisan is carefully painting traditional Korean patterns onto a wooden object. She watches closely, fascinated by the detailed handwork.
+
+20–24s — Traditional tea
+Inside a quiet wooden pavilion, an elderly Korean woman in authentic Joseon clothing politely offers her a traditional tea cup. She accepts it respectfully, takes a small sip and smiles appreciatively.
+
+24–27s — Palace sunset view
+She steps onto an elevated wooden veranda. The palace rooftops stretch into the distance under warm golden sunlight. She quietly looks across the scenery, visibly impressed.
+
+27–30s — Final cinematic moment
+She walks away along the palace courtyard while the camera slowly pulls backward and upward. Her skirt moves naturally in the breeze. She turns her head for one final gentle smile toward the camera before continuing through the wooden gate.
+
+REALISM
+
+Natural Korean facial features, realistic skin pores, subtle hair movement, authentic fabric physics, realistic footsteps, historically accurate architecture and clothing, believable crowd behavior, natural eye movements and expressions. The modern woman should look completely real and naturally integrated into the historical environment.
+
+NEGATIVE PROMPT
+
+No anime, no CGI, no fantasy, no portal, no magic, no supernatural effects, no modern buildings, no cars, no motorcycles, no electricity, no modern signs, no modern furniture, no duplicate characters, no face changes, no outfit changes, no distorted hands, no extra fingers, no exaggerated expressions, no artificial movement, no plastic skin, no beauty filter, no watermark, no logo, no text, no subtitles, no background music.</code></pre>
+
+</details>
+
+## Cinematic 20-second realistic lifestyle video of a young woman's morning routine
+
+- **Original source:** [@aaliya_va on X](https://x.com/aaliya_va/status/2088179902390665221)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2960](https://imglume.com/prompt/2960)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fd178d70-8eca-4cc5-9048-8ca7863155e6/84fd6276-eb8c-4d0d-bab9-3bf577feb237-1786707303310 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic 20-second realistic lifestyle video featuring a young beautiful woman during her morning routine.
+
+0–3 sec: She wakes up in a bright cozy bedroom, opens her eyes, stretches, and gets out of bed.
+
+3–6 sec: She walks into the bathroom, brushes her teeth while looking in the mirror, then rinses her mouth.
+
+6–9 sec: She washes her face with water and gently dries it with a clean towel.
+
+9–13 sec: In the kitchen, she prepares a quick healthy breakfast, makes coffee, and sits down for a moment.
+
+13–17 sec: She gets ready for the office, puts on a stylish professional outfit, fixes her hair, picks up her handbag, and checks herself in the mirror.
+
+17–20 sec: She grabs her keys, walks out of the apartment, closes the door, and heads outside confidently into the morning.
+
+Use smooth cinematic transitions, natural morning lighting, realistic movements, modern visuals, subtle camera motion, and a warm professional lifestyle aesthetic. No dialogue or voiceover.</code></pre>
+
+</details>
+
+## ELARA Hero Intro Cinematic (15s)
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2088113402824843659)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [2957](https://imglume.com/prompt/2957)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/58d3e67f-e00d-4b35-8cd4-e38c2eac327b-1786705055170 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/09de4a4f-4ed1-4305-83a8-164b6666852f-1786705055170 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/47ca24bd-e6f4-4c02-83e7-9745130851ba-1786705055170 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/e80a84bc-4afb-4695-b38a-af3d9862e9ac/0b8450db-4eb3-4671-bb28-24034024b47f-1786705055170 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15s HERO INTRO PROMPT (6 Cuts)
+--------------------------------------------------------------------
+WORLD: Massive ancient subterranean cavern, palette of dark stone and deep shadow, one vivid glowing holographic-blue accent, volumetric dust rays filtering from above, floating spores, layered depth of field.
+
+CHARACTERS:
+- HERO: A tall young woman in her early 20s with messy braids, wearing dense, heavy layers of clothing: an oversized slate-gray canvas coat, quilted tan vest, crisscrossing ropes, heavy blocky pouches, skinny burnt-orange trousers, and chunky boots. Exaggerated stylized tall proportions, massively dense top-heavy upper body, supermodel legs, painterly matte skin with chunky brush-stroke shading.
+
+CINEMATIC INTRO SHOT DESIGN (6 Filmic Cuts with Expressions):
+• SHOT 1 (0–2s | Macro Detail): Extreme macro close-up of a heavy, chunky terrain boot stepping onto a stone ledge. Thick ropes and utility pouches sway from the impact.
+• SHOT 2 (2–4s | Behavior): Medium shot of Elara navigating the dark cavern. She holds up her heavy mechanical staff, using her thumb to click a flat-painted metallic switch on the handle.
+• SHOT 3 (4–6s | Expression): Close-up on Elara's sharp, mature face. A brilliant, flat-painted holographic-blue light suddenly illuminates her features. She flashes a highly intelligent, confident smirk, her eyes reflecting the blue data.
+• SHOT 4 (6–9s | Environment Reveal): Wide shot revealing the massive cavern. The top of her staff has blossomed into a massive, floating, geometric holographic-blue map that lights up the surrounding ancient ruins and floating spores.
+• SHOT 5 (9–12s | Confident Movement): Tracking shot as Elara steps confidently forward into the dark, using the staff as a torch. Her massive, densely layered coat and countless pouches shift heavily with her weighty, athletic strides.
+• SHOT 6 (12–15s | Hero Poster Frame): Low-angle hero shot of Elara standing at the edge of a sheer cliff. The glowing blue map swirls around her imposing, heavily layered silhouette. She reaches up to pull her tech-scarf down, looking out over the void. Hold final frame.
+
+Weighty natural character animation, dense layers of clothing and ropes reacting fluidly to movement, filmic 24fps shutter, shallow depth of field.</code></pre>
+
+</details>
+
+## ELARA Ending Scene Cinematic (15s)
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2088113402824843659)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2956](https://imglume.com/prompt/2956)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ad15f0c8-fcdb-4386-a240-a8c83d916e04/d4acb382-beaf-4160-bcab-3e4b4858ce24-1786705055170 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ad15f0c8-fcdb-4386-a240-a8c83d916e04/a24b1354-f2c4-4055-8146-b41e3f7598ae-1786705055170 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ad15f0c8-fcdb-4386-a240-a8c83d916e04/f77c4032-09b6-4a5f-be57-a02b4e7bce2b-1786705055170 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ad15f0c8-fcdb-4386-a240-a8c83d916e04/068d7ec2-f9d9-4487-a408-84550234f353-1786705055170 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15s ENDING SCENE (Ending / Payoff - 5 Cuts)
+--------------------------------------------------------------------
+
+WORLD: Massive ancient subterranean cavern, palette of dark stone and deep shadow, one vivid glowing holographic-blue accent, volumetric dust rays filtering from above, floating spores, layered depth of field.
+
+CHARACTER: A tall young woman in her early 20s with messy braids, wearing dense, heavy layers of clothing: an oversized slate-gray canvas coat, quilted tan vest, crisscrossing ropes, heavy blocky pouches, skinny burnt-orange trousers, and chunky boots. Exaggerated stylized tall proportions, massively dense top-heavy upper body, supermodel legs, painterly matte skin with chunky brush-stroke shading.
+
+CINEMATIC ENDING SHOT DESIGN (5 Filmic Cuts):
+
+• SHOT 1 (0–3s | Aftermath): Wide shot of the cavern cliff edge. The massive holographic-blue map slowly powers down and fades into the dark. Glowing spores drift silently over the vast abyss.
+• SHOT 2 (3–5s | Character Alone): Medium shot of Elara sitting at the edge of the sheer cliff, her chunky boots dangling over the drop. Her dense layers of canvas, ropes, and heavy pouches settle heavily around her. Her posture conveys quiet relief and exhaustion.
+• SHOT 3 (5–8s | Final Emotion): Close-up on Elara's face in the dim light. She lets out a tired, satisfied breath. She reaches up and pulls her cyber-visor down over her eyes with a faint, proud smile.
+• SHOT 4 (8–11s | Symbolic Detail): Macro of the heavy mechanical tech-staff firmly planted into the stone floor next to her. The vivid holographic-blue core dims down to a slow, steady, quiet pulse.
+• SHOT 5 (11–15s | Pull-back): Slow pull-back to an extreme wide shot. Elara is a tiny, heavily-layered silhouette sitting at the edge of the overwhelming scale of the dark ruins. The faint blue pulse from her staff is the only light left. Hold on final frame for 4 seconds of stillness.
+
+Weighty natural animation, subtle environmental motion of drifting spores, filmic 24fps shutter, shallow depth of field.</code></pre>
+
+</details>
+
+## 30-second cinematic animated short with a Taoist warrior and reluctant giant
+
+- **Original source:** [@usamaworld1 on X](https://x.com/usamaworld1/status/2088146871713689825)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2954](https://imglume.com/prompt/2954)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6bcc04c1-61f3-4cf4-9b7d-c11057c8f008/9243d5c1-56b5-45bd-a0c3-d75ded4450d4-1786704969246 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+Visual style:high-end Western animated feature film,stylized,realism,expressive characters,cinematic,lighting,detailed environments,polished 3D animation,natural physics,expressive facial animation,comedic timing,dynamic cinematic camera movement.
+Keep the character designs completely consistent throughout entire video.
+Scene 1,0-5s:The New Target
+Begin with a quiet atmospheric mountain landscape.
+A gentle mountain breeze passes through the frame.The camera slowly tilts downward, revealing top of a large woven bamboo conical hat [from reference image]
+The girl's long dark hair moves naturally in the wind beneath the hat.The camera continues slowly downward until her face [from reference image] is revealed.
+She looks completely calm and slightly annoyed.
+She picks up the phone and says in a casual,matter-of-fact voice:He's the new target? Got it.
+She rolls her eyes.
+Subtle wind,distant birds,soft mountain ambience,cinematic silence before the dialogue.
+Scene 2,5-11s:The Reluctant Partner
+Cut to a dramatic wide shot.
+The female Taoist stands on edge of a huge mountain cliff [from reference image].Vast mountains,mist and clouds stretch into distance.
+Behind her,the gigantic blue-gray stone-skinned giant [from reference image] is crouching on ground,taking a rest.His enormous body towers over landscape.
+She casually turns toward him and says:
+Time to work.
+The giant slowly raises his head with an exhausted expression.
+He looks deeply annoyed.
+I haven't rested enough yet!
+His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+The Taoist remains completely unfazed.
+Scene 3,11-23s:The Car Argument
+Cut to Taoist walking confidently toward a rugged vintage open-top convertible parked nearby.
+She gets into driver's seat,starts the engine and casually says:
+Come on,come on.Let's go.
+The giant stands behind the vehicle,looking at tiny car with disbelief.
+He complains:
+Why do YOU get to drive while I have to run again?
+The Taoist looks back at him without sympathy.
+Then build a car big enough for you.
+She immediately turns forward and drives away.
+The giant stands frozen for a beat.
+The vehicle disappears down the mountain road,leaving a small cloud of exhaust and dust drifting directly into his face.
+He slowly wipes dust from his face with an irritated expression.
+Comedic timing,exaggerated facial animation,but grounded physical movement.
+Scene 4,23-30s:The Road Trip
+Cut to a beautiful cinematic mountain highway.
+The Taoist drives tiny open-top convertible through the winding road.
+Far behind her,the gigantic stone-skinned giant is running after the car.
+His enormous footsteps shake small pieces of dust from road.
+Camera pulls progressively wider,revealing absurd scale difference between them.
+Taoist casually drives ahead,completely relaxed.
+The giant runs behind her,visibly exhausted and still complaining.
+End on a wide cinematic shot of tiny car and enormous giant traveling together through vast mountain landscape.
+The final feeling should be:two completely mismatched partners who somehow work perfectly together.
+Camera language:slow atmospheric opening,dramatic reveal,fast comedic cuts in middle,energetic tracking shot at end
+Sound design:mountain wind,subtle, birds,footsteps,engine ignition, gravel and tire sounds,giant footsteps,natural environmental ambience.Dialogue should be crisp and clearly synchronized with lip movement.
+No superhero references,no existing copyrighted characters, no green superhero appearance,no text overlays.</code></pre>
+
+</details>
+
+## 30-second cinematic fantasy adventure with live-action to stylized 3D animation transformation
+
+- **Original source:** [@YaZoraiz on X](https://x.com/YaZoraiz/status/2088184011323568303)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2953](https://imglume.com/prompt/2953)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eaa6cf06-afbe-4a42-b08c-6d54187e94cd/66fd3266-2ea3-4234-b8c8-2a1b86e9acd2-1786704951985 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic 30-second fantasy adventure with a clear visual transformation from live action to stylized 3D animation.
+The video begins in the real world. In a photorealistic forest [from the reference image] at golden hour. A young man [from the reference image] in a woven mushroom basket walks through the forest collecting mushrooms. He suddenly notices a strange mushroom glowing with blue, purple, and golden colors beside the path. Curious, he gently pats it.
+Instantly, the mushroom ripples and opens into a powerful magical vortex. The young man is suddenly sucked inside, spinning through glowing spores, leaves, and colorful light. The realistic forest dissolves around him.
+He suddenly falls from the sky into a completely different world and his appearance changes into [the reference image]. The visual style has transformed into [the reference image] like a cinematic stylized 3D animated feature film, with vibrant colors, expressive characters, detailed fantasy environments, and magical lighting. He tumbles through clouds and giant flowers before landing safely in the enchanted forest.
+A tiny winged forest fairy [from the reference image] flies toward him and curiously asks, "How did you get here?" Confused, he replies, "I have no idea... Who are you?" She introduces herself. He explains that he was simply picking mushrooms when he suddenly fell into this strange world.
+The fairy smiles and says, "Don't worry. Our elder probably knows. I'll take you to him!" Before he can react, she grabs his hand and shoots into the sky with him.
+The young man screams in panic as they fly rapidly through gigantic trees, glowing mushrooms, waterfalls, floating islands, and magical valleys. Halfway through the journey, the fairy becomes fascinated by the beautiful scenery and forgets about their destination. She excitedly changes direction and takes him flying all around the magical world while he continues screaming.
+They eventually land on the branch of a gigantic ancient tree overlooking the enchanted forest. The terrified young man sits down, breathing heavily and trying to calm himself while the fairy happily circles around him and laughs.
+He finally looks at her and asks, "Wait... weren't we going to see the elder?"
+The fairy suddenly freezes, looks embarrassed, then smiles and says, "Oops... I forgot!"
+End with the two sitting on the giant tree branch as a beautiful sunset fills the sky, glowing particles drifting through the air, while the camera slowly pulls back to reveal the vast magical world.
+Style: cinematic stylized 3D animation, premium animated feature film quality, expressive characters, appealing character design, vibrant natural colors, whimsical fantasy world, dynamic camera movement, cinematic lighting, detailed environments, emotional storytelling, playful comedy, magical atmosphere, polished 4K animation, smooth realistic-to-animation transformation.</code></pre>
+
+</details>
+
+## Seedance 2.5 Maldives resort prompt
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2088099038839316601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2945](https://imglume.com/prompt/2945)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6a5b59cf-a0ae-4c91-9a7d-c9a75d7113aa/dccf4e03-705a-45fb-9918-028675548bef-1786698703588 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy, subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look</code></pre>
+
+</details>
+
+## Cinematic 15-second sci-fi adventure with hovercraft and floating fortress
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2087931487282766159)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2944](https://imglume.com/prompt/2944)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f0927e70-bc6c-4890-b1c9-e69ad32f6d9f/98a1e085-55d2-483f-9f1f-5f37e475746f-1786698702000 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 15-second sci-fi adventure following a lone explorer aboard a small hovercraft gliding across an endless black ocean beneath a sky filled with eclipsed moons. In the distance, a colossal floating fortress slowly emerges from swirling storm clouds, suspended by glowing energy pillars. As the explorer approaches, massive mechanical gates unlock with thunderous precision, awakening ancient celestial guardians whose eyes ignite with brilliant blue light. The fortress begins to transform, revealing hidden towers, cascading waterfalls of liquid light, and floating islands orbiting its core. Thousands of luminous drones rise into the air like stars as giant space whales glide silently through the clouds overhead. The explorer steps onto a glowing crystal pathway leading toward the heart of the fortress while beams of celestial light pierce the storm. Epic cinematic camera movements, IMAX-scale visuals, breathtaking world-building, volumetric lighting, ultra-realistic weather simulation, premium VFX, emotional orchestral atmosphere, ARRI Alexa 35 aesthetic, anamorphic lenses, photorealistic textures, seamless continuity, 4K HDR, blockbuster movie quality, no text, no logos.</code></pre>
+
+</details>
+
+## Rainy Seoul street thriller with disappearing stranger
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2088132606022095168)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2943](https://imglume.com/prompt/2943)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c1a54176-0af9-450a-bca2-c167b6c7ca00/c004138b-32b5-4a03-832b-46667cb81ff5-1786698676075 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young woman stands alone on a rainy Seoul street at night, holding her smartphone as neon signs reflect across the wet pavement. She notices a missed call from an unknown number, then answers when the phone rings again, slowly becoming uneasy as silence fills the call. She turns and sees a young man under a black umbrella staring at her with a quiet smile, but a passing car briefly blocks her view, and when it clears, he has mysteriously disappeared. Her phone lights up with a new message: “Don’t look back.” The scene ends on her frightened expression, with realistic Korean actors, cinematic rain, moody blue and warm lighting, shallow depth of field, subtle film grain, natural acting, suspenseful pacing, and premium Korean thriller cinematography.</code></pre>
+
+</details>
+
+## Ultra-photorealistic 15-second cinematic roller-skating action in dangerous mountain
+
+- **Original source:** [@SyntheSarah on X](https://x.com/SyntheSarah/status/2088122680142930199)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2941](https://imglume.com/prompt/2941)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7d143df0-05f3-4326-ab77-fa4d1319e4c9/4b9365a5-9eea-4d8f-8d70-415307785c27-1786691238192 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-photorealistic cinematic action sequence. A young woman is roller skating alone through an extremely dangerous mountain environment. She wears realistic black technical outdoor clothing, protective gloves, helmet, and professional roller skates. Her face, body proportions, clothing, and skating movement remain perfectly consistent throughout the entire video.
+0–3 sec: Wide aerial establishing shot of enormous jagged mountains surrounding a tiny, narrow cliffside road. The road is barely wide enough for one person, with a terrifying vertical drop into a deep fog-covered valley. Dark clouds move rapidly between the peaks while strong wind blows across the cliffs.
+3–6 sec: Low-angle tracking shot as the woman skates dangerously close to the edge. Small rocks fall from the cliff beside her and disappear into the abyss. Her wheels realistically react to cracks and uneven pavement. She maintains balance while her hair and clothing move naturally in the powerful wind.
+6–9 sec: The path suddenly becomes extremely narrow, with a massive rock wall on one side and a huge drop on the other. She passes beneath a giant overhanging rock while loose stones tumble down behind her. The camera moves alongside her, showing the terrifying scale of the environment.
+9–12 sec: A dramatic close tracking shot as she approaches a broken section of the mountain road. A large crack runs across the path. She jumps over it while skating, landing realistically on the other side. Dust and tiny rocks scatter naturally from the impact.
+12–15 sec: The camera pulls rapidly backward into a huge cinematic wide shot, revealing the woman skating alone along the impossibly dangerous mountain ridge, surrounded by enormous cliffs, distant waterfalls, heavy clouds, mist, and a seemingly endless valley below.
+Style: documentary-level realism, physically accurate human movement, realistic roller-skating physics, natural facial expressions, authentic skin texture, individual hair strands, detailed fabric, real rock formations, atmospheric perspective, natural sunlight breaking through clouds, volumetric mountain mist, realistic wind and dust, subtle handheld camera movement, cinematic lens, realistic depth of field, natural motion blur, high dynamic range, 4K photorealism, premium live-action cinematography.
+Negative: CGI appearance, cartoon look, artificial textures, unrealistic physics, floating objects, distorted anatomy, extra fingers, extra limbs, face changes, identity changes, flickering, warped wheels, duplicated objects, oversaturated colors, excessive slow motion, unnatural camera movement.</code></pre>
+
+</details>
+
+## Photorealistic 15-second fitness commercial of Asian woman jogging in city park
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2088100115965771805)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2940](https://imglume.com/prompt/2940)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/202f3f74-79df-492b-9428-61f0003b8abc/4a2da7da-9bff-44dc-bc82-18fa19eb33c8-1786690690454 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A beautiful young Asian woman with long dark-brown ponytail, black visor, white athletic zip-up top, black running shorts, white socks, black running shoes with cyan accents, white earbuds, and black smartwatch. Keep her identity, outfit, hairstyle, and accessories consistent.
+Vertical 9:16, 15-second photorealistic cinematic fitness commercial
+Morning in a beautiful tree-lined city park with warm golden sunlight. Start with a wide park shot, then quick close-ups of her tying shoes and activating her smartwatch. She adjusts her visor and starts jogging. Show smooth front, side, and rear tracking shots with natural ponytail and clothing movement. Include a smartwatch fitness-stat close-up, then a smiling close-up while running. She briefly drinks water, smiles at the camera, and makes peace signs with both hands. End with her jogging away down the glowing path.</code></pre>
+
+</details>
+
+## Premium K-pop music video cinematic sequence
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2088115229590753754)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2937](https://imglume.com/prompt/2937)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7b92608b-a719-4d94-91a1-0489b023a17d/a7750a00-8a72-4027-8afe-da319f1d9b83-1786690614110 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Premium K-pop music video, cinematic, ultra-realistic, luxury beauty commercial aesthetics, fast-paced editing, IMAX-quality cinematography, dynamic camera movement, dramatic stage lighting, crisp skin details, soft beauty lighting, no dialogue, high-energy K-pop instrumental, 4K HDR.
+Character: STRICT FACE LOCK — Use the exact facial features from the reference image without any changes. Maintain the same eye color, face shape, nose, lips, freckles, hairstyle, hair color, skin tone, and identity throughout every shot.
+| Glam Room
+Extreme close-ups of makeup brushes sweeping across her cheeks, eyeliner being applied, lipstick touch-up, hair stylist fixing loose strands, earrings clipped on. Camera rapidly cuts between macro beauty shots, mirror reflections, makeup products, and confident eye contact. Flash transitions sync with the beat.
+| Backstage Energy
+She confidently walks through a busy backstage corridor while stylists, dancers, and crew rush past. A stylist adjusts her jacket mid-walk, another hands her a microphone. Fast tracking shots, whip pans, low-angle hero shots, dramatic blue and pink lighting, quick slow-motion hair flip before continuing forward.
+| Stage Entrance
+The countdown reaches zero. Massive LED screens illuminate. She grabs the microphone, takes a deep breath, and confidently walks through giant stage curtains. Powerful backlight silhouettes her as smoke cannons fire and the crowd erupts. The camera circles around her in one smooth cinematic motion before revealing the huge arena.
+| Main Character Moment
+She steps to center stage beneath dazzling spotlights. Wind machines lift her hair as confetti begins to fall. She strikes a powerful idol pose, makes direct eye contact with the camera, and gives a confident smile. The camera rapidly pulls back to reveal thousands of glowing light sticks filling the stadium before cutting to black on the final beat.</code></pre>
+
+</details>
+
+## Young female chef levitates dish in busy kitchen
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2088108029522911384)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [2934](https://imglume.com/prompt/2934)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a141a57c-c60c-4431-a1b3-037d15691fbd/6124c061-46e4-4d39-a810-a53ac74d4430-1786690526926 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young female chef in a white double-breasted chef’s coat stands in the middle of a busy professional kitchen, holding a large white plate with medium-rare steak, roasted potatoes, yellow sauce, and microgreens. Suddenly the food slowly levitates and floats in mid-air above the plate in dramatic slow motion while she looks shocked. The pieces gently land back perfectly on the plate. She then presents the dish to a stern older male head chef behind the pass who inspects it and says “It’s a go.” Cinematic lighting, steam, open flames, copper pans, highly detailed, realistic, film still style.</code></pre>
+
+</details>
+
+## Breathtaking 30-second ultra-photorealistic cinematic short film starring female AI model
+
+- **Original source:** [@IsabelWhite24 on X](https://x.com/IsabelWhite24/status/2087942147798433879)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2927](https://imglume.com/prompt/2927)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5efa5cf3-50a0-433b-9f0e-1e872a0683dd/30225962-3e9a-41f6-8719-09999d78acac-1786671771947 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking 30-second ultra-photorealistic cinematic short film starring my female AI model. Preserve her exact face, hairstyle, age, and identity throughout. The story begins mysteriously, becomes emotional, and ends with an unexpected inspirational reveal.
+
+0–5 SEC — THE STRANGE MORNING
+
+Early morning. My model, dressed elegantly for work, walks alone through a beautiful city street after rain. Reflections shimmer on the pavement. Suddenly, she notices a small red envelope lying in the middle of the pavement with her name handwritten on it.
+
+She looks confused, picks it up and opens it.
+
+Inside is a photograph of herself—but noticeably older, happier and standing somewhere she has never visited.
+
+Cinematic macro shot of her shocked eyes.
+
+5–10 SEC — FOLLOW THE CLUE
+
+Written behind the photograph:
+
+“You almost gave up before you got here.”
+
+She looks around.
+
+Across the street, she notices the exact café appearing in the mysterious photograph.
+
+She slowly walks toward it as the soundtrack builds. Use dramatic handheld tracking shots and reflections through café windows.
+
+10–17 SEC — IMPOSSIBLE ENCOUNTER
+
+She enters the café.
+
+Sitting alone beside the window is an older version of herself, approximately 10 years older—same recognizable facial features, but more mature, peaceful and confident.
+
+The younger woman freezes.
+
+They silently stare at each other.
+
+The older version smiles warmly and slides a small notebook across the table.
+
+No dialogue.
+
+17–23 SEC — THE NOTEBOOK
+
+She opens it.
+
+Rapid cinematic flashes reveal pages containing glimpses of her possible future:
+
+her launching her own business,
+travelling through breathtaking countries,
+helping her parents,
+laughing with family,
+standing confidently on a stage,
+and finally living peacefully.
+Then she reaches the final page.
+It is completely blank except for:
+“START TODAY.”
+23–27 SEC — THE TWIST
+She looks up—
+
+The chair opposite her is suddenly empty.
+
+Only a steaming cup of coffee remains.
+
+She realizes she may have just met her future self.
+
+Her expression changes from confusion to determination.
+
+27–30 SEC — FINAL SHOT
+
+Cut to sunrise.
+
+She walks confidently through the city carrying the notebook against her chest.
+
+Camera slowly pulls upward into a spectacular wide cinematic shot as sunlight breaks between the buildings.
+
+Final text appears:
+
+“Your future is waiting.
+But you have to become her.”
+
+STYLE: extraordinary cinematic realism, emotional storytelling, premium Netflix-style short film, photorealistic skin, realistic acting, subtle facial emotions, dramatic reflections, volumetric morning sunlight, shallow depth of field, anamorphic lens look, elegant wardrobe, seamless transitions, atmospheric sound design, realistic city environment, consistent character identity, 4K, 24fps, 16:9, no facial distortion, no duplicated people, no unnatural movement.
+#Seedance25 #tapnowai</code></pre>
+
+</details>
+
+## 15-second ultra-realistic cinematic travel video in Kyoto
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2087761897542336655)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [2926](https://imglume.com/prompt/2926)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ca50661-2434-4952-abf2-f9c028ef9d22/c80f95c1-c8d3-4cde-807e-f6b1b881ae2a-1786671652509 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic cinematic travel video set in Kyoto, Japan, following a young blonde woman on a peaceful solo date through traditional Kyoto streets.
+
+0–2 sec: Front-facing medium shot of the woman standing outside a traditional Kyoto machiya townhouse with dark wooden lattice doors. She smiles naturally and makes a small playful hand gesture toward the camera. Warm late-afternoon sunlight, realistic skin and hair movement, shallow depth of field.
+
+2–4 sec: Cut to a smooth handheld tracking shot from behind as she walks through a narrow traditional Kyoto alley. Wooden buildings, textured walls, small plants and warm sunlight create beautiful natural depth. Camera follows closely with subtle realistic motion.
+
+4–6 sec: Wide rear tracking shot as she continues walking down a quiet stone-paved alley lined with traditional wooden houses and potted greenery. Soft golden-hour sunlight creates long shadows and gentle lens flare.
+
+6–8 sec: She reaches a small canal and pauses beside the stone wall. A friendly orange-and-white cat walks along the edge of the canal. She looks toward it with a gentle smile. Natural water reflections, subtle breeze moving her hair and clothing.
+
+8–10 sec: Cut to a close cinematic shot beside a Japanese vending machine. She buys a small red canned drink and takes a sip, smiling naturally. Realistic hand movement, authentic vending-machine details, shallow depth of field.
+
+10–12 sec: Golden-hour street scene. She stands near a Kyoto road, casually looking around while a traditional yellow taxi passes behind her. Strong sun flare, realistic traffic movement, cinematic backlight.
+
+12–15 sec: Return to the narrow wooden alley. She walks toward the camera holding her drink, then briefly turns and looks back with a soft smile. Camera slowly pulls backward, revealing the beautiful traditional Kyoto architecture as the scene fades naturally.
+
+Overall style: photorealistic Japanese travel film, authentic Kyoto atmosphere, natural human motion, realistic walking physics, subtle breathing and blinking, detailed hair and fabric movement, warm golden-hour lighting, soft cinematic lens flare, shallow depth of field, natural handheld/gimbal camera movement, realistic shadows and reflections, documentary-style cinematography, 35mm film look, premium travel commercial, highly detailed, seamless transitions, no artificial-looking CGI, no distorted hands or face, consistent character appearance throughout.</code></pre>
+
+</details>
+
+## Heartbreaking cinematic short of a Korean girl reading a forgotten love letter
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2087880517819756621)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2922](https://imglume.com/prompt/2922)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/354e2520-258d-4c51-8285-b4c457e59f07/50c6d570-cc3b-434a-9d72-0d933a9dc2d3-1786659113130 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>0–2 sec: A beautiful Korean girl sits alone beside a window in a quiet room, holding an old handwritten letter from her boyfriend. Soft evening light, emotional cinematic atmosphere.
+
+3–4 sec: Close-up of her trembling hands slowly opening the letter, revealing familiar handwriting. Her eyes begin to fill with tears.
+
+4–6 sec: She reads the letter silently, remembering beautiful moments with him through subtle cinematic flashbacks—walking together, laughing, holding hands.
+
+7–8 sec: Her expression suddenly changes as she reads a line that says he no longer remembers her. A tear rolls down her cheek.
+
+9–10 sec: She looks at an old photo of them together, gently touching his face in the photograph while quietly crying.
+
+11–12 sec: She presses the letter against her chest and closes her eyes, overwhelmed by love, sadness, and memories he has forgotten.
+
+13–15 sec: Wide cinematic shot from behind as she sits alone by the window, holding the letter. Sunset light fades around her, creating a heartbreaking, emotional ending. Realistic Korean actress, natural expressions, cinematic lighting, shallow depth of field, smooth camera movement, photorealistic, emotional storytelling, consistent character and clothing throughout.</code></pre>
+
+</details>
+
+## 5am Dawn Run Vlog
+
+- **Original source:** [@rom1trs on X](https://x.com/rom1trs/status/2087866473142272229)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `ugc`
+- **ImgLume record:** [2916](https://imglume.com/prompt/2916)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a9d8a761-8564-4d6e-a10a-68fd56305b7c/3cd626c9-af15-4eb5-83a4-bf3ce61c1faa-1786650721233 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA Mini-DV tape camcorder handheld aesthetic, vertical framing. A gorgeous athletic Scandinavian running influencer films herself directly by hand in selfie-cam and first-person style during a dawn run. Keep realistic hand shake amplified by her stride, slightly crooked framing, delayed autofocus hunting in low dawn light, awkward zoom-ins and zoom-outs, occasional motion blur, wind buffeting the mic, and small framing mistakes where part of her face or the horizon briefly slips out of frame. Mix handheld selfie footage with a few fixed external shots. Important: never show her placing, adjusting, or setting up a camera. When switching from handheld footage to a fixed external angle, use a clean jump cut as if the camera had already been positioned before the shot began. The camera itself must never appear on screen.
+
+LOOK:
+
+Soft digital tape camcorder look with vintage DV character. Slight blur, faint tape noise, visible highlight bloom as the sun breaks the horizon, subtle auto-exposure flicker and hunting as she turns toward and away from the light, muted contrast in the shadows, realistic skin texture with visible pores and sweat sheen, cool blue pre-dawn ambient light warming to gold, realistic skin tones, real lens flare when facing the sun.
+
+STYLE:
+
+A realistic 5am dawn run vlog with a confident athletic lifestyle vibe. The tone is breathless, upbeat, a little self-deprecating, and natural. She is clearly attractive and charismatic, but the video must feel like a believable self-recorded run vlog, not a polished Nike commercial. Fast clean jump cuts, strong continuity, natural body language, audible real breathing that gets heavier across the video, no awkward dead moments.
+
+CHARACTER:
+
+An exceptionally beautiful athletic Scandinavian woman in her mid-20s. Highly photogenic face, clear pale blue eyes, light freckles across the nose and cheeks, defined jawline, a natural full mouth, fair skin flushing pink at the cheeks from cold and effort, long thick ash-blonde hair in a low ponytail with loose strands escaping around the face. She looks like a high-end running and lifestyle influencer, not an ordinary jogger. Lean, long-limbed, athletic runner's build. Bare minimal makeup, slightly glossy skin from sweat. She wears a fitted long-sleeve technical running top in muted olive, matching high-waisted running shorts, a thin black running watch, low-profile running shoes, and small wired-look earbuds. No other jewelry.
+
+SETTING:
+
+A long empty coastal boardwalk at first light. Wooden slats underfoot, low dunes and beach grass on one side, flat grey sea and a breaking orange sunrise on the other, a single wooden railing, scattered gulls, one weathered bench, faint sea mist. Completely empty, no other runners, no dog walkers, no cars, no extra people. Cold still air with visible breath at the start.
+
+IMPORTANT CONTINUITY RULES:
+
+The same woman must remain fully consistent in every shot. No face changes, no hairstyle changes, no outfit changes, no body changes, no shoe changes. Her hair gets progressively looser and more windblown but stays the same colour and length. No extra people appearing. No duplicated limbs. No broken hands. No impossible running gait. No feet sliding or skating on the boardwalk. No changing weather or sun position beyond a natural gradual sunrise. No camera visible. No camera setup shown. Keep her beautiful, athletic, and photogenic in every shot.
+
+STORYBOARD (30 seconds total, 10 cuts):
+
+1. (~3s, arm's-length selfie) She jogs slowly onto the boardwalk holding the camera herself, visible breath in the cold air, squinting and grinning at the lens.
+Dialogue: "Five a.m. Why do I do this."
+
+2. (~3s, handheld pan across the sea and back to her) The camera swings out over the water toward the orange sunrise, lens flare blooming, then swings back to her face.
+Dialogue: "Okay. That's worth it."
+
+3. (~3s, low first-person shot of her feet) She tilts the camera down at her own shoes striking the wooden slats, then tilts back up to the empty boardwalk ahead. No dialogue.
+
+4. (~3s, fixed external medium shot) Jump cut to a fixed shot from the side of the boardwalk. She is already running past camera at a steady pace, hair swinging, breathing hard. No camera setup shown. No dialogue.
+
+5. (~3s, same fixed shot, wider) She slows to a walk, hands on hips, chest heaving, and laughs at herself as she catches her breath.
+Dialogue: "That hill was not on the map."
+
+6. (~3s, handheld walking selfie) She picks the vlog back up in selfie mode, wiping her forehead with her wrist, cheeks bright red, walking a few steps.
+Dialogue: "Three kilometres in and I'm cooked."
+
+7. (~3s, tight handheld close-up) She takes a long drink from a small handheld water flask, lowers it, and exhales a satisfied laugh.
+Dialogue: "Best water of my life."
+
+8. (~3s, fixed external wide shot facing the sunrise) Jump cut. She stands at the railing in silhouette against the rising sun, stretches her arms overhead, then rolls her shoulders out.
+Dialogue: "Little stretch so nothing snaps later."
+
+9. (~3s, handheld close selfie) Loose blonde strands stuck to her damp forehead, she brushes them back, smiling in a tired and genuinely happy way, sun now warm on her face.
+Dialogue: "This is the good part. Right here."
+
+10. (~3s, arm's-length selfie ending) She walks slowly away down the boardwalk still filming herself, gives a tired little wave, and grins.
+Dialogue: "Okay. Coffee. Bye."
+
+FINAL INSTRUCTION:
+
+The result must feel like a real self-recorded dawn run vlog by a genuine running influencer. Prioritize realistic handheld motion driven by her stride, strong continuity, believable pacing, audible natural breathing that intensifies, sweat and flush that build over the video, attractive appearance, and subtle imperfection. Keep it warm, real, and cinematic in a documentary way. Not artificial, not stiff, not stock-footage clean.</code></pre>
+
+</details>
+
+## KAZAN vs Crimson Oni – Cinematic Battle Sequence
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2087706379654214077)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2912](https://imglume.com/prompt/2912)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5097ce21-a06a-42c7-9384-40e696dc7249/090a7f1a-f39a-4adb-9ca6-5fd545da0e6e-1786646519933 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5097ce21-a06a-42c7-9384-40e696dc7249/d5266d09-3f0a-4733-a568-ac62926f18f1-1786646519933 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5097ce21-a06a-42c7-9384-40e696dc7249/5268e476-dd35-45b1-b142-4556f32e38a5-1786646519933 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic hyper-realistic 3D CGI collectible-figurine render, like a live-action blockbuster VFX sequence: physically-based rendering (PBR), octane-render-quality lighting and materials, fabric with visible weave and natural drape, metal with realistic wear and oxidation, individually simulated fur with natural flow. Real camera lens characteristics, subtle film grain, color-graded like live-action VFX, soft cinematic lighting with a subtle rim light, shallow depth of field, physically accurate shadows. NOT flat 2D, NO cel-shading, NO anime style, NO painterly brushwork, NO cartoon outlines. Also NOT cheap plastic-toy CGI, NOT low-poly game-asset look, NOT oversaturated fake-specular rendering. Also NOT video game footage, NOT an in-game cutscene, NOT third-person action-game camera, NO HUD.
+
+CUT DISCIPLINE: hard cut at every shot boundary listed in the Shot Design table above --- do not render this as one continuous take. No idle or victory pose held for more than 1--2 seconds anywhere in the sequence; action/choreography continues until the final beat.
+
+WORLD: Ancient mountain temple courtyard during a raging blizzard, palette of stark white snow, deep charcoal stone, and striking contrasting neon-blue and hellfire-orange. Volumetric snow particles, realistic fog depth.
+CHARACTERS:
+- OPPONENT: A towering, multi-armed crimson Oni-Demon wearing dark rusted iron armor, wielding a massive flaming iron spiked club (kanabo).
+
+- HERO: Kazan @[Image1] , a massive muscular anthropomorphic white tiger. Photoreal fur, topknot, glowing blue eyes. Wearing a thick hemp rope belt, crimson sash, hanging indigo gi top, dark hakama pants. Elongated stylized 9.5-heads-tall proportions. Wielding searing icy-blue Glacial Chi energy from his bare fists.
+
+CINEMATIC SHOT DESIGN (8 Filmic Cuts with Expressions):
+
+• SHOT 1 (0–2s | Macro Close-up): Extreme close-up on the crimson Oni's terrifying tusked mask. Threatening guttural roar, glowing orange hellfire exhaling from its jaws into the blizzard.
+
+• SHOT 2 (2–4s | Over-the-Shoulder &amp; Reaction): OTS behind the Oni, framing Kazan across the snowy courtyard. Rapid cut to Kazan's tiger face: stoic, unbroken focus. He exhales a thick cloud of icy-blue mist.
+
+• SHOT 3 (4–6s | Wide Cinematic Clash): Wide low-angle cinematic shot. The Oni lunges, bringing the flaming iron club down; Kazan punches directly into the club with his bare fist. Blinding explosion of realistic orange fire and blue ice-shards illuminates the snow.
+
+• SHOT 4 (6–7s | Expression Reaction Cut): Rapid macro close-up of the Oni's eyes widening in shock as thick blue ice rapidly freezes up the shaft of its flaming weapon.
+
+• SHOT 5 (7–9s | Dynamic Low-Angle Tracking): Low-angle tracking shot as Kazan flawlessly ducks under a wild second swing, his thick hemp rope belt and heavy hakama pants whipping through the blizzard with heavy momentum blur.
+
+• SHOT 6 (9–12s | The Winning Strike): Tight medium shot. Kazan twists his torso, channeling a massive vortex of icy-blue Glacial Chi into his fist, and delivers a devastating uppercut to the Oni's chest, shattering its iron armor with a shockwave of frozen energy.
+
+• SHOT 7 (12–13s | Defeat Reaction): Quick emotional close-up of the crimson Oni staggering backward, completely encased in thick, highly detailed blue ice, its hellfire extinguishing.
+
+• SHOT 8 (13–15s | Heroic Landing): Low-angle hero framing of Kazan standing victorious. He casually shakes the frost off his massive knuckles, his white fur rippling in the wind, as heavy snow settles around him.
+
+Weighty natural character animation, physically simulated fur and cloth reacting to extreme combat momentum, filmic 24fps shutter, shallow depth of field.
+NOT flat 2D, no cel-shading, no anime style, no painterly brushwork, no cartoon outlines. Also not cheap plastic/game-asset CGI, not low-poly, not oversaturated fake-specular rendering.</code></pre>
+
+</details>
+
+## Close-up cinematic VFX of fire turning to ice on woman's face
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2087903641797619794)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2911](https://imglume.com/prompt/2911)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c29b3a9-f5bb-4b1d-bf74-6e6357666d3a/8b2dbb3c-083e-417f-a751-75b643b52353-1786646470273 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1c29b3a9-f5bb-4b1d-bf74-6e6357666d3a/c4edd935-da6e-44ea-9086-80b49733b513-1786646470273 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Close-up shot of a woman's face.
+
+Fire erupts on the woman's face; she stares directly at the camera.
+
+The fire dissipates, and her face freezes into a block of ice.
+
+Photorealistic cinematic VFX scene https://t.co/IswQciyz9U</code></pre>
+
+</details>
+
+## 30-second cinematic animated short of a Taoist warrior and a reluctant giant
+
+- **Original source:** [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2087884261294809255)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [2910](https://imglume.com/prompt/2910)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b1bddaf-d254-4169-bd45-1e126a7a74c2/2b4fc2f8-ee12-4843-9c70-f0ed6dbd8250-1786646457370 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic animated short featuring two original fantasy characters: a young female Taoist warrior and her gigantic reluctant giant partner.
+Visual style: high-end Western animated feature film, stylized realism, expressive characters, cinematic lighting, detailed environments, polished 3D animation, natural physics, expressive facial animation, comedic timing, dynamic cinematic camera movement.
+Keep the character designs completely consistent throughout the entire video.
+Scene 1, 0-5s: The New Target
+Begin with a quiet atmospheric mountain landscape.
+A gentle mountain breeze passes through the frame. The camera slowly tilts downward, revealing the top of a large woven bamboo conical hat [from the reference image]
+The girl's long dark hair moves naturally in the wind beneath the hat. The camera continues slowly downward until her face [from the reference image] is revealed.
+She looks completely calm and slightly annoyed.
+She picks up the phone and says in a casual, matter-of-fact voice:
+"He's the new target? Got it."
+She rolls her eyes.
+Subtle wind, distant birds, soft mountain ambience, cinematic silence before the dialogue.
+Scene 2, 5-11s: The Reluctant Partner
+Cut to a dramatic wide shot.
+The female Taoist stands on the edge of a huge mountain cliff [from the reference image]. Vast mountains, mist and clouds stretch into the distance.
+Behind her, the gigantic blue-gray stone-skinned giant [from the reference image] is crouching on the ground, taking a rest. His enormous body towers over the landscape.
+She casually turns toward him and says:
+"Time to work."
+The giant slowly raises his head with an exhausted expression.
+He looks deeply annoyed.
+"I haven't rested enough yet!"
+His voice is deep and powerful, but his expression should feel more like an exhausted coworker complaining about overtime than an angry monster.
+The Taoist remains completely unfazed.
+Scene 3, 11-23s: The Car Argument
+Cut to the Taoist walking confidently toward a rugged vintage open-top convertible [from the reference image] parked nearby.
+She gets into the driver's seat, starts the engine and casually says:
+"Come on, come on. Let's go."
+The giant stands behind the vehicle, looking at the tiny car with disbelief.
+He complains:
+"Why do YOU get to drive while I have to run again?"
+The Taoist looks back at him without sympathy.
+"Then build a car big enough for you."
+She immediately turns forward and drives away.
+The giant stands frozen for a beat.
+The vehicle disappears down the mountain road, leaving a small cloud of exhaust and dust drifting directly into his face.
+He slowly wipes the dust from his face with an irritated expression.
+Comedic timing, exaggerated facial animation, but grounded physical movement.
+Scene 4, 23-30s: The Road Trip
+Cut to a beautiful cinematic mountain highway.
+The Taoist drives the tiny open-top convertible through the winding road.
+Far behind her, the gigantic stone-skinned giant is running after the car.
+His enormous footsteps shake small pieces of dust from the road.
+The camera pulls progressively wider, revealing the absurd scale difference between them.
+The Taoist casually drives ahead, completely relaxed.
+The giant runs behind her, visibly exhausted and still complaining.
+End on a wide cinematic shot of the tiny car and enormous giant traveling together through the vast mountain landscape.
+The final feeling should be: two completely mismatched partners who somehow work perfectly together.
+Camera language: slow atmospheric opening, dramatic reveal, fast comedic cuts in the middle, energetic tracking shot at the end.
+Sound design: mountain wind, subtle birds, footsteps, engine ignition, gravel and tire sounds, giant footsteps, dust, natural environmental ambience. Dialogue should be crisp and clearly synchronized with lip movement.
+No superhero references, no existing copyrighted characters, no green superhero appearance, no logos, no text overlays.</code></pre>
+
+</details>
+
+## Cinematic foot chase in gritty urban environment
+
+- **Original source:** [@SirGlavan_ on X](https://x.com/SirGlavan_/status/2087929938850599358)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2909](https://imglume.com/prompt/2909)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c5c61cf1-7ba4-4ae3-a25d-72131f2c553c/7a434564-6e3e-4e18-821f-58ec247c88f6-1786646442390 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Boy = a 15-year-old teenage boy, slim and quick, short dark hair, wearing a hooded jacket, jeans, and sneakers, a backpack on his shoulders. Alert, scared, determined, athletic. Appearance only.
+
+Chasers = three older guys in their 20s, casual streetwear, moving fast and aggressively as a group in pursuit. Appearance only.
+
+City = a gritty urban environment — narrow streets, alleyways, brick walls, parked cars, market stalls, and a quiet side street around a corner. Overcast daytime light, realistic city textures. Environment only.
+
+SCENE: a tense cinematic foot chase. A teenage boy with a backpack sprints through the city streets, chased by three older guys. He races through a busy street, then cuts hard around a corner into a quieter side street and quickly hides out of sight — and when the three chasers round the same corner moments later, the street is empty and they've lost him. A clever escape, no violence — pure suspense.
+
+TECHNICAL: 16:9, cinematic handheld chase camera, dynamic tracking and running shots, urgent energy, slightly desaturated gritty urban grade, motion blur, shallow depth of field, photorealistic thriller quality.
+
+CUTS:
+CUT 1 (0-5s): The boy sprints down a busy street toward camera, backpack bouncing, glancing back in fear. Behind him, the three chasers give chase, weaving through pedestrians and market stalls. Handheld tracking shot conveying speed and panic.
+CUT 2 (5-10s): The boy cuts hard around a street corner into a quieter side street. Fast tracking shot following him as he ducks behind a parked car / into a doorway / behind a wall, pressing himself out of sight, breathing hard, trying to stay silent.
+CUT 3 (10-15s): The three chasers round the same corner at speed — and stop. The side street ahead is empty. They look around, confused, scanning the deserted street, having completely lost him. Hold on their frustration as the boy stays hidden. He's escaped.
+
+RULES: References are appearance only, do not recreate. Keep the boy's appearance consistent across every cut. This is a suspenseful chase only — no weapons, no fighting, no physical contact, no violence. The tension comes from the pursuit and the clever escape. Sound design: pounding footsteps, heavy breathing, urban ambience, a tense driving score that drops to near-silence when he hides, then holds on the quiet as the chasers lose him. Final frame on the confused chasers and the empty street.</code></pre>
+
+</details>
+
+## Young woman in hanbok chased by six-eyed demon in lantern-lit labyrinth
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2087830496550191426)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [2908](https://imglume.com/prompt/2908)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60784433-9f47-4968-9a09-638cf89d1fd3/f6250042-86e1-4e9e-b283-e2f1429ad716-1786646425078 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young woman in a light-blue hanbok and bright pink skirt races through a vast, lantern-lit wooden labyrinth while a terrifying dark-skinned, six-eyed demon with wild black hair, sharp fangs, and a forehead horn relentlessly pursues her. The demon smashes through railings and lanterns as she leaps from an elevated walkway into the depths below, escaping through narrow corridors. Use dynamic camera tilts, inverted angles, dramatic creature close-ups, fast-paced action, cinematic lighting, and finish with a breathtaking aerial zoom-out revealing the endless maze of glowing wooden corridors.</code></pre>
+
+</details>
 
 ## 30-second ultra-realistic cinematic horror-comedy ad for Philosophy Fresh Cream Body Lotion
 
@@ -462,6 +1291,29 @@ End on a dramatic wide shot of the tiny man standing beneath the gigantic object
 Style: ultra-photorealistic, cinematic sci-fi thriller, realistic human expressions, believable futuristic technology, realistic Dubai architecture, dramatic lighting, atmospheric haze, volumetric clouds, subtle film grain, shallow depth of field, smooth cinematic camera movement, realistic scale, suspenseful pacing, premium Hollywood VFX, highly immersive.
 
 No cartoon style, no subtitles, no logos, no watermark.</code></pre>
+
+</details>
+
+## Mystical Woman with Flaming Serpent – Cinematic Photorealistic Shot
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2087638993110237342)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2896](https://imglume.com/prompt/2896)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ddf5ff07-ae2b-4e37-be12-0341d1a87dba/fae8b7d8-d1d1-4f87-86de-2a548a2f94c3-1786644666094 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ddf5ff07-ae2b-4e37-be12-0341d1a87dba/4f285375-444e-4d5e-9c16-12ab489ea644-1786644666094 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shows a beautiful, mystical woman moving fluidly and powerfully, accompanied by an ethereal, blazing serpent of fire. The serpent moves around her.
+
+Dynamic shot circling the character.
+
+No music. ASMR sound.
+
+Cinematic photorealism.</code></pre>
 
 </details>
 

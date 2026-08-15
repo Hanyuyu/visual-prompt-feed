@@ -1,9 +1,42 @@
 # Travel image prompts
 
-24 source-linked prompts, newest ImgLume records first.
+25 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Romantic New York Landmark Travel-Journal Line-and-Wash Watercolor
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087759577165275507)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2914](https://imglume.com/prompt/2914)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1d0a6cd7-ab84-4287-83ce-72d3f4eba648/dfd0b2a7-0e85-4904-9538-3ed8b405bd15-1786646531354 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1d0a6cd7-ab84-4287-83ce-72d3f4eba648/0d7b170d-0b54-41f5-8eee-676c0a863c00-1786646531354 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1d0a6cd7-ab84-4287-83ce-72d3f4eba648/f3e10c73-b683-4e6f-b80a-7930cc05ee1c-1786646531354 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a loose line-and-wash watercolor interpretation of {LOCATION / VIEWPOINT} at {TIME / LIGHTING}, looking toward {PRIMARY SUBJECT / LANDMARK} with the surrounding environment receding naturally into atmospheric haze.
+
+Draw first in black ink with a fine pen using roughly fifty loose, wobbly freehand strokes. Define the main subjects, foreground structures, key architectural silhouettes, and distant environment with expressive, imperfect contours. Keep distant elements recognizable through thin hairline ink contours along their tops and edges, lighter than the foreground lines but still clearly visible, so the entire scene remains visually “drawn” even where almost no color is present. No hatching or cross-hatching anywhere. Allow several lines to break, wobble, overshoot, or stop unexpectedly.
+
+Apply transparent watercolor off-register with the ink, washing over and beside the contours rather than perfectly filling them. Let color spill beyond some outlines while leaving the ink visibly stranded outside the wash in other areas. Keep the artwork intentionally unfinished and only about 75% resolved: roughly half the sheet should remain bare paper, and every wash should appear one step paler than expected, preserving an airy, spontaneous sketchbook quality.
+
+Place {PRIMARY SUBJECT / PEOPLE / OBJECTS} at the visual golden-section point, approximately 62% across and low in the frame. If people are present, depict them naturally and consistently, with their defining contour lines darker and firmer than the surrounding environment. Allow portions such as legs, lower bodies, or secondary details to dissolve naturally into unpainted paper.
+
+Render {PRIMARY LANDMARK} using a single restrained {WARM / COOL / SPECIFIED COLOR} watercolor wash, with minimal or no internal architectural detail. Distant structures should use only delicate hairline contours over an extremely pale atmospheric wash.
+
+Across the untouched paper in the upper portion, add large, loose, hand-lettered black-ink script reading "{MAIN TITLE}", with smaller handwritten text beneath reading "{SUBTITLE}". Both must be correctly spelled and naturally integrated into the composition. No other lettering, typography, logos, labels, or text anywhere in the image.
+
+Use {LIGHTING / ATMOSPHERIC CONDITION}, with transparency and visible paper texture throughout. The watercolor should bleed naturally beyond all four edges, with no white border, frame, vignette, or artificial edge treatment.
+
+Visual language: expressive urban watercolor sketch, loose fine-pen drawing, imperfect human hand, transparent washes, restrained color, atmospheric perspective, generous negative space, unfinished editorial travel-sketch aesthetic, elegant imperfection, natural paper grain.
+
+Composition: vertical 3:4 aspect ratio. Preserve the same loose line-and-wash philosophy regardless of the location, subjects, architecture, landmarks, or lighting specified in the variables above.</code></pre>
+
+</details>
 
 ## Insanely photorealistic travel selfie on Himalayan valley
 

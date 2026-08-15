@@ -1,59 +1,338 @@
 # Photography image prompts
 
-458 source-linked prompts, newest ImgLume records first.
+468 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Ultra-realistic TV broadcast screenshot of a Manchester City match crowd
+## Highly realistic wellness portrait of a young woman practicing advanced yoga balance in a luxurious studio
 
-- **Original source:** [@Romi2656 on X](https://x.com/Romi2656/status/2087804688041443645)
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2088231834249531431)
 - **Recommended model:** `gptimage`
 - **Source model(s):** `other`
 - **Categories:** `photography`
-- **ImgLume record:** [2903](https://imglume.com/prompt/2903)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dcae1d20-3691-4deb-b70f-9c35d03d5ed6/2a6fff9e-494a-426e-9460-4ba11f556060-1786638337867 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dcae1d20-3691-4deb-b70f-9c35d03d5ed6/e2a9175a-db5c-46ac-8e05-329e52c1bff1-1786638337867 "Image prompt preview")
+- **ImgLume record:** [2969](https://imglume.com/prompt/2969)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/032f575d-b3a9-4f42-8904-3744f2ab0665/7cf7f953-1a29-430d-93c6-1818d08ddd91-1786715746386 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/032f575d-b3a9-4f42-8904-3744f2ab0665/fd3268e4-f3ac-4c24-81cb-890bf5dd021a-1786715746386 "Image prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Ultra-realistic TV broadcast screenshot, identity preserved exactly from reference image. Young woman sitting in the crowd at a Manchester City home soccer match, filmed from far away by a live broadcast camera. She is seated in stadium chairs, slightly leaned back, looking off to the side with a surprised caught-on-camera expression, lips slightly parted. She wears a Manchester City home jersey with jeans, casual match-day styling, relaxed pose, one arm resting on the chair or lap. The jersey should look like a normal full jersey, not a crop top, not rolled up, not tied, Kas. Around her are other fans in stadium seats, slightly blurred. Keep the crowd mixed and natural, some fans wearing Manchester City jerseys, some wearing neutral shirts or jackets, some wearing other casual match-day clothing so it feels like a real live crowd shot and not everyone is dressed the same. Add a realistic scoreboard graphic in the top corner, subtle broadcast compression, digital noise, bright stadium lighting, and imperfect live-TV framing. Telephoto sports camera look from the stands, not close-up, not selfie, not side angle, authentic televised soccer crowd shot, natural skin texture, no smoothing, 4K.</code></pre>
+<pre><code>"Create a highly realistic, serene wellness portrait of a young woman practicing an advanced yoga balance pose inside a spacious, elegant meditation and yoga studio.
+
+1. Subject Description, Hair, Skin, Expression &amp; Pose:
+A young woman with fair, naturally textured skin and long copper-red hair pulled into a sleek high ponytail that falls naturally behind her. Her facial features should look realistic and refined, with natural eyebrows, clear expressive eyes, subtle makeup, and a calm, focused expression.
+
+She is performing a controlled advanced yoga balance pose on a blue yoga mat. One knee is grounded comfortably on the mat while the opposite leg extends vertically upward in a precise, carefully balanced position. Her torso remains upright and stable, with one hand resting naturally on a wooden support stool for balance while the other arm helps maintain the pose. Her head is turned slightly upward toward the raised leg, creating a graceful line through the composition.
+
+The pose should communicate flexibility, concentration, balance, and disciplined yoga practice. Maintain realistic anatomy, natural proportions, believable joints, accurate hands and feet, and physically plausible posture.
+
+2. Clothing &amp; Accessories:
+She wears a modest, coordinated yoga outfit consisting of a pale cream or soft ivory long-sleeve wrap-style top layered over a light mustard-yellow athletic top, paired with flowing off-white yoga trousers. The fabrics should appear lightweight, comfortable, breathable, and suitable for yoga practice.
+
+Include subtle realistic fabric folds, stitching, seams, and natural movement around the pose. Keep accessories minimal, such as a delicate bracelet or simple wrist accessory. Avoid distracting jewelry.
+
+3. Environment &amp; Lighting:
+Set the scene inside a luxurious, peaceful yoga and meditation studio with warm natural materials. The floor is made from polished honey-toned wood, while the walls feature handcrafted decorative motifs inspired by lotus flowers and traditional meditation patterns.
+
+Include large arched windows in the background overlooking leafy trees and a tranquil natural landscape. Place a blue yoga mat beneath the subject, with neatly stacked yoga blocks, a rolled meditation blanket, and a small traditional meditation bowl arranged nearby.
+
+Several elegant brass pendant lights hang from the ceiling, providing warm ambient illumination. Combine their golden glow with soft natural daylight entering through the large windows. Create gentle highlights on the woman's hair and clothing, subtle shadows across the wooden floor, and a peaceful golden atmosphere.
+
+4. Camera &amp; Style:
+Photorealistic professional wellness and yoga photography, vertical 4:5 composition, approximately 50–70mm lens perspective, eye-level to slightly low camera position to emphasize the graceful vertical line of the pose, natural depth of field, sharp focus on the subject, softly detailed background, realistic perspective, high dynamic range, accurate skin tones, individually rendered hair strands, detailed textile texture, realistic wooden surfaces, cinematic warm-neutral color grading, soft natural window light combined with warm ambient lighting, balanced exposure, subtle contrast, peaceful editorial photography aesthetic, ultra-high-resolution, highly detailed photographic finish.
+
+Keep the complete yoga pose visible within the frame and preserve accurate spatial relationships between the woman, yoga mat, stool, windows, and surrounding studio objects."</code></pre>
 
 </details>
 
-## Ultra-photorealistic vertical selfie on Empire State Building edge
+## Photorealistic cinematic portrait of a subject at grass level with bees and wildflowers
 
-- **Original source:** [@Romi2656 on X](https://x.com/Romi2656/status/2087804688041443645)
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2088130998638727404)
 - **Recommended model:** `gptimage`
 - **Source model(s):** `other`
 - **Categories:** `photography`
-- **ImgLume record:** [2902](https://imglume.com/prompt/2902)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b53884da-fa98-4daa-b2a3-5e6666ef3582/cebd3d2b-9c12-44d2-82ca-faca052ae602-1786638337867 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b53884da-fa98-4daa-b2a3-5e6666ef3582/b2adacda-a96a-4b94-b766-9e9b30e5f37e-1786638337867 "Image prompt preview")
+- **ImgLume record:** [2967](https://imglume.com/prompt/2967)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52608d28-95e9-4c89-bb9a-eba43184cbb8/e677834e-31ac-437d-802a-d13b2539b545-1786713337809 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/52608d28-95e9-4c89-bb9a-eba43184cbb8/d9e6649d-3be7-4147-a2e1-640c4fcacd8b-1786713337809 "Image prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>Create an ultra-photorealistic vertical selfie in 9:16 format.
+<pre><code>Photorealistic cinematic photo, 4:5 vertical frame, shot from a very low worm's-eye angle at grass/flower height, wide-angle lens (24–28mm). In the center of the frame, chest-deep, is [SUBJECT: age, gender, skin tone, hair style/color], wearing [CLOTHING: color/type of top, minimal or no visible text], with [ACCESSORY: e.g. thin chain necklace, optional]. Calm, natural pose, body slightly turned to one side, head raised and facing the viewer directly; focus on the upper body and face.
+Foreground: large blurred yellow bees, yellow wildflowers, and green stems in strong soft-focus, with one large warm orange lens-flare/glare spot at the bottom of the frame.
+Middle ground: wild plants and flowers surrounding the subject — some stems crisp and in focus, others softly blurred for depth.
+Background/sky: wide turquoise-blue open sky with large white cumulus clouds, positioned upper-left. Numerous small orange petals, seeds, and leaves drift through the air around the subject at varying distances, some sharp and some motion-blurred, creating a floating-particle effect.
+Lighting: natural daylight, sun positioned high and slightly behind to the left; soft rim/contour light on hair and shoulders, warm highlights against a cool sky, teal-and-orange color grade, moderate vignette.
+Style/parameters: shallow depth of field, strong foreground bokeh, tack-sharp subject, cinematic, ultra-realistic, highly detailed, natural film grain, slight atmospheric haze, no text overlays, no logos, no watermark.
 
-Use the TWO uploaded reference images as exact character references: one woman and one man. Preserve their identities with 100% accuracy. Do not change facial features, face shape, proportions, age, eye shape, nose, lips, eyebrows, skin tone, hairstyle, or any other defining characteristics. Their faces must remain completely recognizable and natural, without beautification or modification.
+Negative prompt: illustration, CGI, cartoon, plastic/waxy skin, overexposed highlights, heavy noise, cluttered/dirty background, extra people, buildings, wires, large readable text on clothing, artifacts, warped or deformed hands/arms/shoulders.</code></pre>
 
-Scene: The woman and man are sitting together on the edge of the highest metal platform of the Empire State Building in New York, at an extreme height above Manhattan. They are sitting close together on the exposed metallic structure, with the Manhattan skyline clearly visible far below.
+</details>
 
-Both are looking directly into the camera with relaxed, confident expressions and subtle natural smiles.
+## Portrait of a Young Asian Woman by the Ocean
 
-Pose: relaxed posture, natural weight distribution, asymmetrical pose. The man is sitting slightly behind the woman while the woman is closer to the camera. Their bodies should look naturally positioned. Hands and fingers must be anatomically correct.
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2088062748055998711)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2963](https://imglume.com/prompt/2963)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f558f021-d22f-44d9-8cef-8cca44c8c9c9/f29d6d3c-89da-4f4c-a52a-5e97441b554c-1786711224817 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
-Camera: realistic smartphone selfie perspective, approximately 24mm wide-angle lens, slight perspective distortion similar to a real front-facing camera. Camera positioned slightly above eye level. Faces should be large and clearly visible in the frame.
+<details>
+<summary>Full prompt</summary>
 
-Composition: the two people and their faces are the main focus, but the extreme height and Manhattan skyline must remain clearly visible in the background. No artificial blur hiding the environment. The background should have realistic depth and detail.
+<pre><code>Use 100 percent face refranace given strictly Portrait of a young Asian woman standing by the ocean, looking back over her shoulder at the camera with a soft, confident gaze. She has long brunette hair styled in a low ponytail with face-framing strands, wearing gold hoop earrings. She's dressed in a black-and-white vertical striped oversized blazer layered over a modest high-neck magenta top. Soft natural daylight, ocean and sandy shore blurred in the background, shallow depth of field, fashion-editorial style, warm skin tones, crisp detail on fabric texture, professional beauty photography.</code></pre>
 
-Environment: exposed steel platform and metallic construction of the Empire State Building, narrow areas of steel grating, beams, bolts, nuts, joints, metal framework, and a technical control box with several round buttons nearby. Everything should look physically realistic and structurally believable.
+</details>
 
-Lighting: natural daylight, realistic skin texture, subtle shadows, cinematic but completely photorealistic. No excessive beauty filter, plastic skin, artificial glow, or exaggerated facial features.
+## Ultra-realistic macro close-up of a human eye
 
-The final image must look like a real spontaneous smartphone selfie taken at an extreme height above New York City, with highly realistic people, realistic skin, accurate anatomy, detailed metal structures, and a convincing sense of altitude.</code></pre>
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2087919567968555238)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2962](https://imglume.com/prompt/2962)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aba65121-7a1a-4c2e-9889-7077248d8330/ad4d6072-fb98-4426-bb1a-a6e42109f803-1786709362966 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/aba65121-7a1a-4c2e-9889-7077248d8330/16ecccac-f1a2-4c94-ba23-a1607abb90d9-1786709362966 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic extreme macro close-up photograph of a beautiful human eye, tightly framed to capture the intricate details of the iris, eyelashes, eyelid, and surrounding skin. The iris is a mesmerizing natural green-hazel color with vivid emerald-green and golden-brown radial patterns, delicate fibers, intricate crypts, and realistic color variations. A perfectly round dark pupil sits at the center with a tiny natural catchlight reflecting the light source.
+
+Long, thick, naturally curved black eyelashes frame the eye, with individually visible lashes and realistic texture. The surrounding skin shows highly detailed natural pores, fine lines, subtle peach and warm skin tones, and authentic imperfections. The upper eyelid and brow area are visible with fine dark hairs.
+
+Bright soft studio lighting creates a glossy reflection across the cornea while preserving realistic shadows and dimensionality. Extremely shallow depth of field, razor-sharp focus on the iris and eyelashes, photorealistic skin texture, natural moisture on the eye surface, high micro-contrast, realistic optical reflections, macro photography, 100mm macro lens, f/4, professional beauty photography, ultra-detailed, cinematic realism, 8K resolution, vertical 3:4 composition, no retouching, no artificial skin smoothing, no text, no watermark.</code></pre>
+
+</details>
+
+## Insanely photorealistic vertical portrait of a young woman in golden hour light
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2088111776475017325)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2936](https://imglume.com/prompt/2936)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7019eae0-da28-4ad8-ac96-280932cfc00a/8ac50210-d068-422a-a466-45eb38f841cd-1786690570234 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7019eae0-da28-4ad8-ac96-280932cfc00a/598e1a82-8114-4b6e-953d-85d75980160e-1786690570234 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an insanely photorealistic, stop-scrolling vertical portrait that feels like a perfectly timed candid selfie someone captured by accident—but looks unbelievably beautiful and cinematic.
+
+A beautiful young woman stands close to the camera in a cozy modern interior, creating an intimate, instantly eye-catching composition. Her long, luxurious honey-blonde hair flows naturally over both shoulders and down her torso, with thousands of individually visible strands catching the warm sunlight. Subtle golden highlights and soft flyaway hairs create an authentic, effortless look.
+
+Her face is the undeniable focal point: luminous natural skin with visible realistic pores and delicate texture, softly flushed cheeks, elegant facial proportions, naturally full rosy lips, and mesmerizing light blue-gray eyes with intricate iris detail, realistic moisture, sharp catchlights, and subtle reflections of the room. Her expression is soft, confident, slightly mysterious, and effortlessly captivating—as if she just noticed the camera.
+
+Her head is tilted slightly toward the viewer, creating a natural, flattering perspective. Her eyes make direct contact with the lens, producing a strong “you had to stop and look twice” feeling.
+
+She wears a sophisticated cream-white textured button-up shirt over a fitted white camisole. A tiny gold pendant necklace and delicate hoop earrings add understated luxury. The styling feels expensive without looking overly produced.
+
+Lighting is the hero: intense but natural golden-hour sunlight enters from the side, wrapping around her face and hair, producing glowing highlights, subtle rim light, realistic skin shadows, and beautiful dimensional contrast. A few illuminated strands of hair glow almost magically against the darker background.
+
+Behind her is a minimalist charcoal-gray interior with subtle architectural details and a partially visible framed artwork, heavily softened by shallow depth of field. The darker background dramatically separates her illuminated face and golden hair from the scene.
+
+Photography style: ultra-realistic smartphone flagship camera aesthetic, candid luxury lifestyle photography, cinematic realism, natural imperfections, authentic skin texture, realistic hair physics, physically accurate shadows, HDR, subtle film grain, soft highlight roll-off, realistic exposure, crisp eyes, gentle background bokeh, 50mm portrait look, f/1.8, high dynamic range, 8K detail.
+
+Viral visual priorities: immediate eye contact, mesmerizing eyes, glowing hair, flattering natural light, emotional expression, luxurious simplicity, realistic imperfections, strong foreground/background separation, intimate framing, and an effortlessly beautiful “caught in the moment” feeling.
+
+Avoid: plastic skin, excessive retouching, overdone makeup, artificial beauty-filter appearance, CGI look, waxy face, oversharpening, distorted hands, asymmetrical eyes, unnatural hair, exaggerated facial features, duplicate jewelry, text, watermark.
+
+Composition: 3:4 vertical, subject filling approximately 80% of the frame, face positioned slightly above center, cinematic close-to-medium framing, optimized for maximum visual impact on social media feeds.</code></pre>
+
+</details>
+
+## Hyperrealistic mirror selfie of adult woman in elevator with iPhone
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2088104981677134124)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2935](https://imglume.com/prompt/2935)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57f30000-ca51-48a8-bd05-8749b3a705f1/b4513cd5-ff06-4a30-8769-205e63423287-1786690542099 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/57f30000-ca51-48a8-bd05-8749b3a705f1/98857baf-34cc-4ea0-afc6-d5f52376ff70-1786690542099 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the clearly adult woman’s exact identity, facial features, proportions, skin tone, and natural asymmetry. Hyperrealistic Pinterest-style iPhone 15 Pro Max mirror selfie inside a modern brushed-steel elevator. She leans lightly against the wall, one leg straight and the other bent with foot resting naturally against the wall, relaxed elegant pose. She holds an iPhone beside her cheek while her other hand carries pink roses and a white shopping bag. Fitted black mini dress, oversized black blazer, black strappy heels, delicate necklace, small hoop earrings, light makeup. Dim overhead lighting, cool metallic reflections, realistic skin texture, authentic phone-camera grain, natural mirror perspective, full-length vertical 9:16, sharp face and clothing, believable hands and reflections. --no altered identity, extra fingers, extra people, duplicated reflection, warped phone, CGI, plastic skin.</code></pre>
+
+</details>
+
+## The Woman Who Dreamed Tomorrow
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2087859699609956776)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`
+- **ImgLume record:** [2932](https://imglume.com/prompt/2932)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c1edde53-de31-47bf-801c-585de45b8296/7e08ef7e-12c7-4832-97fa-47aeec44bfce-1786684251807 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an extraordinary surreal fine-art portrait titled “The Woman Who Dreamed Tomorrow.”
+
+A beautiful woman fills the composition in an intimate cinematic close-up. Her central face is realistic, calm and emotionally introspective, while multiple translucent versions of her profile overlap around her like fragments of different possible futures.
+
+Integrate three completely different worlds organically into the layered faces.
+
+On the left, her profile dissolves into a mysterious ancient evergreen forest at night. Tiny warm cabins glow between the trees while delicate luminous moths drift upward through her hair.
+
+Above and behind her central face, another translucent layer contains an elegant futuristic metropolis at blue hour, its slender illuminated towers appearing to grow naturally from the contours of her silhouette.
+
+On the right, another profile becomes a moonlit ocean. Rolling blue waves flow naturally through the contours of her face while a tiny solitary sailboat crosses the distant horizon.
+
+Make her central open eye the emotional focal point. Inside the iris, reveal an impossible miniature landscape containing a brilliant golden doorway standing alone at the end of a distant path. A tiny silhouette of the same woman walks toward the doorway, suggesting that all of her possible futures are converging into one decision.
+
+Use sophisticated double exposure and layered translucent textures rather than obvious collage. The transitions between woman, forest, city and ocean should feel organic and painterly, as though several realities occupy the same portrait.
+
+Deep midnight black, charcoal, desaturated teal and cinematic blue dominate the palette, contrasted by restrained warm amber and golden illumination from the doorway, cabins and tiny floating particles.
+
+Extremely intricate details reward close inspection: miniature pathways, distant lights, reflections, subtle mist, moths, tree silhouettes and hidden environmental textures.
+
+Surreal contemporary fine art, museum-quality composition, emotional visual storytelling, painterly photographic realism, subtle dreamlike abstraction, sophisticated lighting, realistic skin texture, deep shadows, dramatic tonal range, elegant negative space, extraordinary depth, mysterious atmosphere.
+
+The image should be immediately beautiful from a distance but reveal an entirely new story when examined closely.
+
+No typography, no logos, no watermark, no frame, no cliché galaxy effects, no excessive fantasy glow, no distorted anatomy, no duplicated facial features that appear accidental.
+
+Portrait 4:5 composition, ultra-detailed, gallery-quality visual storytelling.</code></pre>
+
+</details>
+
+## Ultra-photorealistic luxury fashion editorial photograph
+
+- **Original source:** [@frametheory058 on X](https://x.com/frametheory058/status/2087742248884797527)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2929](https://imglume.com/prompt/2929)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6992804a-1a41-4e44-a57b-4a895efd014e/35d262ce-b531-4886-ab66-8027348b22e9-1786673734786 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6992804a-1a41-4e44-a57b-4a895efd014e/8260c5de-b3fb-4ecf-95ce-6e4c06856c52-1786673734786 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic luxury fashion editorial photograph of the SAME model wearing the SAME outfit and accessories as the reference, maintaining her facial appearance, hairstyle, proportions, and overall aesthetic.
+
+Change the pose, body positioning, and camera composition completely so it feels like a separate professional photoshoot. Give her an elegant, confident, naturally relaxed pose with realistic hands and anatomy.
+
+Use a sophisticated architectural setting with warm golden-hour cinematic lighting, realistic shadows, subtle background bokeh, and premium editorial color grading.
+
+Shoot on a professional full-frame camera with an 85mm lens at f/2.0, natural eye-level perspective, realistic proportions, shallow depth of field, fine film grain, detailed skin pores, individual hair strands, authentic fabric texture and physically accurate lighting.
+
+Absolutely no tilted camera, Dutch angle, rotated horizon, extreme wide-angle distortion, AI-looking skin, plastic texture, distorted hands, or unnatural anatomy.
+
+The final result should look like a genuine high-end Vogue-style fashion campaign photograph, not an AI-generated image.</code></pre>
+
+</details>
+
+## Realistic candid photo of person working on laptop in chest-deep ocean
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2087723368581845475)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2928](https://imglume.com/prompt/2928)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1073407-4cf7-4799-850d-3bca1561a918/bb4b19ad-5609-48cf-b29d-bc9833b03f70-1786673723720 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b1073407-4cf7-4799-850d-3bca1561a918/b28da0f5-ed16-4931-907b-599bc08023bc-1786673723720 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic candid photo of [person from uploaded photo] standing chest-deep in rough ocean water, surrounded by large breaking waves and white sea foam, no hat. In one raised hand, held above the water, they hold an open dark grey/space-black laptop with a visible Apple logo, angled toward their face as if working on it. In the other hand, raised at chest height, they hold a to-go coffee cup with a white lid and brown sleeve. Their expression is focused and slightly tired, looking down at the laptop screen. Only the head, shoulders, and raised arms are visible above the waterline; the rest of the body is submerged. The ocean is turbulent with rolling waves and whitewater in the background, cool grey-blue-green color grading, overcast diffused daylight, slightly moody and dramatic lighting. Shot from a distance with a slight telephoto compression, as if photographed candidly from the shore. Vertical composition, photorealistic, ironic "always working" meme aesthetic, no text overlays anywhere on the image.</code></pre>
+
+</details>
+
+## hyper real vertical amateur iPhone shot of a young woman playing colourful arcade games at the beach at night
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2088000557227090177)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2924](https://imglume.com/prompt/2924)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d9eca8bc-bcd5-4797-8004-05dca246c3c4/7862a8e2-27fa-433d-aff7-e9f8cb6ccff2-1786663251114 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d9eca8bc-bcd5-4797-8004-05dca246c3c4/ea5970f3-0cf0-4e8c-a501-ce7a38fbe18c-1786663251114 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d9eca8bc-bcd5-4797-8004-05dca246c3c4/2991e88c-ce10-4c06-a602-87a9c02ff163-1786663251114 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>hyper real vertical amateur iphone shot of a young woman around 21yo playing colourful arcade games at the beach at night laughing with girl friends, supermodel aesthethics, night time, subtle blurry shot - old money clothes but tight summer outfit with crop top, denim shorts and high heels stilettos</code></pre>
+
+</details>
+
+## Highly realistic editorial lifestyle portrait of a young woman in a contemporary art gallery
+
+- **Original source:** [@Jodie_Noraa on X](https://x.com/Jodie_Noraa/status/2087983618706776261)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2917](https://imglume.com/prompt/2917)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/09f887f6-6622-4ee2-9304-21a559df91b1/7a262657-ac1d-489a-8e1c-d5fe69cb07a4-1786654832608 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/09f887f6-6622-4ee2-9304-21a559df91b1/aacdd18a-7f8e-4ca8-9968-2af73e1b8c08-1786654832608 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/09f887f6-6622-4ee2-9304-21a559df91b1/e7b5edd7-288a-41cd-8bf5-7926164153db-1786654832608 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/09f887f6-6622-4ee2-9304-21a559df91b1/7d4a33af-738a-4a8c-aaa2-15aee326299a-1786654832608 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"Create a highly realistic, polished lifestyle portrait of a young woman standing confidently inside a contemporary art gallery, captured in a warm and inviting editorial photography style.
+
+1. Subject Description, Hair, Skin, Expression &amp; Pose:
+A young woman with fair, naturally textured skin and long auburn-red hair styled into a neat high ponytail, with a few soft strands naturally framing her face. She has realistic facial features, clear expressive eyes, naturally shaped eyebrows, subtle makeup, and a bright, friendly smile.
+
+She stands at a slight three-quarter angle toward the camera, with a relaxed and confident posture. One arm is raised naturally toward the camera while making a simple peace-sign gesture with her fingers, and her other hand rests comfortably near her waist. One leg is positioned slightly forward in a casual fashion pose. Her expression should feel cheerful, approachable, and spontaneous rather than overly posed. Maintain realistic anatomy, natural proportions, believable hands and fingers, and authentic skin texture.
+
+2. Clothing &amp; Accessories:
+She wears a coordinated mustard-yellow long-sleeve fitted jumpsuit with a clean, minimalist design and subtle seam detailing. The fabric should have realistic texture, natural folds, and believable stretching around the pose.
+
+Complete the look with elegant brown high-heeled shoes and small understated earrings. Keep the accessories refined and minimal so the vibrant yellow outfit remains the visual focus.
+
+3. Environment &amp; Lighting:
+Set the scene inside a sophisticated contemporary art gallery with warm neutral walls, polished concrete flooring, modern minimalist furniture, and several large abstract artworks displayed behind the subject. The artwork should feature tasteful neutral, cream, beige, and muted metallic tones without recognizable copyrighted artwork or readable text.
+
+Use warm gallery lighting combined with soft ambient illumination. Large ceiling-mounted lights should create gentle highlights across the subject's hair and clothing while maintaining soft, natural shadows on the floor. Include subtle reflections on the polished floor for additional realism.
+
+4. Camera &amp; Visual Style:
+Photorealistic editorial fashion and lifestyle photography, vertical 4:5 composition, approximately 85mm portrait lens, eye-level camera perspective, natural depth of field, sharp focus on the woman's face and clothing, gently softened gallery background, realistic perspective, high dynamic range, accurate skin tones, detailed individual hair strands, realistic fabric texture, natural hand and finger detail, warm cinematic color grading, balanced exposure, soft highlights, subtle contrast, professional gallery photography aesthetic, ultra-high-resolution, highly detailed photographic finish."</code></pre>
+
+</details>
+
+## Rainy Afternoon at an Independent Bookstore – Photorealistic Fashion Editorial
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2087755546006851669)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [2915](https://imglume.com/prompt/2915)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6dbca75a-37f5-4aec-965c-58dad23c41cf/33f42c07-6917-44ef-b8ec-66d8341d243c-1786650664376 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6dbca75a-37f5-4aec-965c-58dad23c41cf/3d823a95-a1cc-4396-979a-597061b4b64c-1786650664376 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic cinematic fashion photograph inspired by the mood of the reference image, but with a completely new composition and setting.
+
+Creative concept: “Rainy Afternoon at an Independent Bookstore.”
+
+A stylish young woman sits alone on a vintage wooden bench beneath the awning of a beautiful independent bookstore on a rainy city street. She is turned slightly sideways rather than facing the camera, casually flipping through an open hardcover book while holding a takeaway coffee in her other hand. A black leather handbag rests beside her, with a folded umbrella leaning against the bench.
+
+She wears a sophisticated oversized cream cardigan over a fitted white top, a flowing dark midi skirt with subtle vintage patterns, delicate ankle socks, and elegant red ballet flats. Add small retro sunglasses resting on top of her head rather than covering her eyes.
+
+Behind her, the bookstore has large warm-lit windows filled with stacked books, handwritten recommendation cards, plants, and cozy wooden shelves. Rain creates reflections across the pavement, while soft golden interior light contrasts beautifully with the cool overcast street outside.
+
+Composition: vertical 4:5 editorial photograph, full-body framing, slightly low camera angle, natural candid pose, subject positioned slightly off-center, generous environmental space, layered foreground reflections.
+
+Photography: realistic skin texture, natural hair strands, subtle fabric wrinkles, authentic proportions, 50mm lens look, shallow depth of field, cinematic natural lighting, soft rainy-day highlights, realistic reflections, gentle film grain, premium fashion-editorial photography.
+
+Color palette: warm cream, chocolate brown, muted black, deep burgundy, soft grey, and a small pop of red from the shoes.
+
+Mood: sophisticated, cozy, effortless, intelligent, nostalgic, quietly confident — like a candid moment from an independent fashion magazine.
+
+No studio backdrop, no exaggerated posing, no plastic skin, no artificial-looking face, no excessive makeup, no distorted hands, no extra fingers, no text, no watermark.</code></pre>
 
 </details>
 

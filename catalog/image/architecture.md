@@ -1,9 +1,26 @@
 # Architecture image prompts
 
-8 source-linked prompts, newest ImgLume records first.
+9 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Watercolor and pen sketch illustration prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2087954630034743384)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`
+- **ImgLume record:** [2966](https://imglume.com/prompt/2966)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1ffd797e-8ddf-4cce-b243-bbade9ba7643/635d0fd3-86b7-4b62-8254-0e1634bb9ab6-1786711247376 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1ffd797e-8ddf-4cce-b243-bbade9ba7643/d65773aa-1292-4401-9996-10ba07655253-1786711247376 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1ffd797e-8ddf-4cce-b243-bbade9ba7643/80576c6f-c7bd-4f80-be0b-06a10e01174a-1786711247376 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/1ffd797e-8ddf-4cce-b243-bbade9ba7643/698b6b1a-185a-4de2-b5c2-c1e76ba58670-1786711247376 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Loose watercolor and pen sketch inside {LOCATION / SUBJECT}, seen from {VIEWPOINT} toward {ARCHITECTURAL FOCAL POINT}, {CENTRAL FEATURE} at center, {OVERHEAD ARCHITECTURAL FEATURE} overhead. Ink line drawn first and left visible through every wash — {ARCHITECTURAL LINEWORK} and {GROUND / FLOOR GRID} overshooting into blank paper, one long confident arc for {MAJOR CURVE}. Wash about 65%, warm below and cool above: {WARM ARCHITECTURAL PALETTE} on {LOWER ARCHITECTURAL ELEMENTS}, {COOL PALETTE} over {UPPER ARCHITECTURAL FEATURE} thinning to bare line at the crown. Diagonal light shafts left as reserved white paper, the brightest value. Floor in {FLOOR COLOR / WASH} with a backrun. Figures in three depth bands, clustered and gapped, never in a row: {NEAR FIGURES AND SCALE}, one cropped by the bottom edge; {MID FIGURES AND SCALE} scattered at different distances, {MIDGROUND CLUSTER} clustered at {FOCAL POINT}; {FAR FIGURES AND SCALE} dissolving into strokes. Different actions each — {ACTION 1}, {ACTION 2}, {ACTION 3}, {ACTION 4}, {ACTION 5}. Five figures colored: {COLOR 1}, {COLOR 2}, {COLOR 3}, {COLOR 4}, {COLOR 5}. Signage as abstract patches, no readable letters. Uniform ivory cold-press, no aged edges or vignette. Vertical 3:4.</code></pre>
+
+</details>
 
 ## Artistic Gothicpunk Urban Metro Station Exterior
 

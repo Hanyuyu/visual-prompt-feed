@@ -1,9 +1,170 @@
 # Camera Moves video prompts
 
-88 source-linked prompts, newest ImgLume records first.
+93 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seedance 2.5 Maldives resort prompt
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2088099038839316601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`, `travel`
+- **ImgLume record:** [2945](https://imglume.com/prompt/2945)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6a5b59cf-a0ae-4c91-9a7d-c9a75d7113aa/dccf4e03-705a-45fb-9918-028675548bef-1786698703588 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Gritty Ciné Vérité, handheld tracking shot, 35mm natural grain, soft tropical daylight, real documentary energy, subtle camera shake and breathing, Maldives luxury island resort, turquoise water and white sand everywhere.
+
+shot locked on a beautiful young woman with sun-kissed skin, long flowing dark hair, wearing a minimal black high-cut swimsuit and light sandals, riding a simple white beach bicycle at casual pace. She pedals naturally, relaxed posture, soft smile, hair and swimsuit fabric moving with the wind and motion.
+
+TIMELINE
+
+0-2s: [Wide tracking] She rides out from a wooden villa path. A staff member in white uniform waves as he passes with a tray of drinks. Two tourists in colourful wraps walk past laughing.
+
+2-4s: Path opens to a lagoon boardwalk. A giant tortoise slowly crosses right in front of her front wheel; she slows, steers around it smoothly. Parrot flies low across frame squawking.
+
+4-6s: [Dynamic tracking] She accelerates past a small open restaurant. Waiters carry plates, a couple of guests turn and smile at her. In the water to the left a manta ray leaps high, splashing hard.
+
+6-8s: She rides onto a sandy path between palms. Two more giant tortoises amble across. A whale breaches far in the lagoon, sending a tall spray of water into the air.
+
+8-10s: [Tracking] She passes a group of tourists taking selfies; one points excitedly at the water. Another manta ray jumps closer, almost parallel to her. Staff member on a golf cart slows to let her pass.
+
+10-12s: [Side tracking] Path curves along the water’s edge. A large whale surfaces and rolls, fin cutting the surface. Bright green and red parrots land on a nearby railing then take off again.
+
+12-14s: [Tracking] She rides through a shaded garden area. A family of tourists steps aside smiling. Another giant tortoise is right on the path; she carefully steers around it while a third manta ray jumps in the background.
+
+14-16s: Open beach path. Two staff members on bicycles pass going the opposite direction, nodding. A whale dives, tail fluke rising high. Parrots fly in a small flock over her head.
+
+16-18s: [Continuous tracking] She continues along the shoreline. More tourists walk past with snorkel gear. Final manta ray jumps dramatically close to the path. She keeps pedalling, wind in her hair, natural and effortless.
+
+Photorealistic, heavy natural film grain, sharp skin and fabric detail, realistic water physics and animal movement, coherent continuous motion, stable character identity, true cinéma vérité documentary look</code></pre>
+
+</details>
+
+## Ultra-photorealistic 15-second cinematic roller-skating action in dangerous mountain
+
+- **Original source:** [@SyntheSarah on X](https://x.com/SyntheSarah/status/2088122680142930199)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2941](https://imglume.com/prompt/2941)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7d143df0-05f3-4326-ab77-fa4d1319e4c9/4b9365a5-9eea-4d8f-8d70-415307785c27-1786691238192 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-photorealistic cinematic action sequence. A young woman is roller skating alone through an extremely dangerous mountain environment. She wears realistic black technical outdoor clothing, protective gloves, helmet, and professional roller skates. Her face, body proportions, clothing, and skating movement remain perfectly consistent throughout the entire video.
+0–3 sec: Wide aerial establishing shot of enormous jagged mountains surrounding a tiny, narrow cliffside road. The road is barely wide enough for one person, with a terrifying vertical drop into a deep fog-covered valley. Dark clouds move rapidly between the peaks while strong wind blows across the cliffs.
+3–6 sec: Low-angle tracking shot as the woman skates dangerously close to the edge. Small rocks fall from the cliff beside her and disappear into the abyss. Her wheels realistically react to cracks and uneven pavement. She maintains balance while her hair and clothing move naturally in the powerful wind.
+6–9 sec: The path suddenly becomes extremely narrow, with a massive rock wall on one side and a huge drop on the other. She passes beneath a giant overhanging rock while loose stones tumble down behind her. The camera moves alongside her, showing the terrifying scale of the environment.
+9–12 sec: A dramatic close tracking shot as she approaches a broken section of the mountain road. A large crack runs across the path. She jumps over it while skating, landing realistically on the other side. Dust and tiny rocks scatter naturally from the impact.
+12–15 sec: The camera pulls rapidly backward into a huge cinematic wide shot, revealing the woman skating alone along the impossibly dangerous mountain ridge, surrounded by enormous cliffs, distant waterfalls, heavy clouds, mist, and a seemingly endless valley below.
+Style: documentary-level realism, physically accurate human movement, realistic roller-skating physics, natural facial expressions, authentic skin texture, individual hair strands, detailed fabric, real rock formations, atmospheric perspective, natural sunlight breaking through clouds, volumetric mountain mist, realistic wind and dust, subtle handheld camera movement, cinematic lens, realistic depth of field, natural motion blur, high dynamic range, 4K photorealism, premium live-action cinematography.
+Negative: CGI appearance, cartoon look, artificial textures, unrealistic physics, floating objects, distorted anatomy, extra fingers, extra limbs, face changes, identity changes, flickering, warped wheels, duplicated objects, oversaturated colors, excessive slow motion, unnatural camera movement.</code></pre>
+
+</details>
+
+## Photorealistic 15-second fitness commercial of Asian woman jogging in city park
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2088100115965771805)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [2940](https://imglume.com/prompt/2940)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/202f3f74-79df-492b-9428-61f0003b8abc/4a2da7da-9bff-44dc-bc82-18fa19eb33c8-1786690690454 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A beautiful young Asian woman with long dark-brown ponytail, black visor, white athletic zip-up top, black running shorts, white socks, black running shoes with cyan accents, white earbuds, and black smartwatch. Keep her identity, outfit, hairstyle, and accessories consistent.
+Vertical 9:16, 15-second photorealistic cinematic fitness commercial
+Morning in a beautiful tree-lined city park with warm golden sunlight. Start with a wide park shot, then quick close-ups of her tying shoes and activating her smartwatch. She adjusts her visor and starts jogging. Show smooth front, side, and rear tracking shots with natural ponytail and clothing movement. Include a smartwatch fitness-stat close-up, then a smiling close-up while running. She briefly drinks water, smiles at the camera, and makes peace signs with both hands. End with her jogging away down the glowing path.</code></pre>
+
+</details>
+
+## 30-second continuous first-person bodycam raid video discovering pineapple pizza production
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2088036921184223468)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`
+- **ImgLume record:** [2931](https://imglume.com/prompt/2931)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/601ab092-4ca0-4191-99e7-1caa402de409/35bfb9ae-ac96-498f-bf78-4ccfd4e0e10d-1786680032130 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【生成目标】
+Generate a continuous 30-second single-take bodycam video. Core subject is an FBI tactical agent’s first-person POV during a high-risk residential raid. Main event is a real-time dynamic entry and room-clearing operation that ends with the discovery of an active pineapple-on-pizza production line inside a dirty kitchen.
+
+【阶段一 0-6s】
+开始时：Night exterior, rundown two-story house on a neglected urban street under sparse sodium streetlights. Bodycam is chest-mounted on the point agent, slight wide-angle distortion, natural handheld micro-shake. Three other FBI agents in full dark tactical gear with visible FBI patches are stacked tight against the wall beside a weathered front door. Agent’s gloved hands are visible at the bottom of frame holding a ballistic shield and the door-breaching tool.
+主要事件：Loud verbal announcement “FBI! Search warrant!” followed by immediate forced entry. Door is driven open with a single controlled ram strike; the team surges inside in a tight stack.
+结束时：Bodycam crosses the threshold into a dim, cluttered living room. Doorframe still visible at the edges of frame.
+
+【阶段二 6-15s】
+承接上一阶段：Same continuous bodycam POV, same agents, same identity and gear. No cuts.
+主要事件：Fast room clearing through the living area and short hallway. Several disheveled, pale, thin individuals (junkie appearance) are scattered on sofas, floor and against walls. Agents issue clear commands “Hands where I can see them! Get down!” while moving past. Two suspects are already being secured on the floor with hands behind their backs; plastic restraints are applied. Bodycam advances steadily, scanning left and right, flashlight beam briefly cutting across dirty walls and scattered trash.
+结束时：Bodycam reaches the kitchen doorway. Harsh fluorescent kitchen light is now visible ahead.
+
+【阶段三 15-24s】
+承接上一阶段：Unbroken first-person movement into the kitchen. Same agents remaining in formation behind and to the sides.
+主要事件：Kitchen is brightly lit by overhead fluorescents and under-cabinet lights yet extremely dirty. Thick white flour covers every counter surface, the floor, the fronts of cabinets and the clothing of the people inside. Four individuals stand at a large central work table and along the counters, actively slicing fresh pineapple rings with knives and placing the slices onto raw pizza dough bases. Flour dust hangs in the air. Agents flood the room, weapons low but ready, shouting “Nobody move! Hands up! Step away from the table!”
+结束时：All four kitchen workers have raised empty hands. Flour-covered pizza dough and cut pineapple pieces remain clearly visible on the table directly in front of the bodycam.
+
+【阶段四 24-30s】
+承接上一阶段：Same continuous bodycam, same lighting and spatial layout.
+主要事件：Agents begin securing the kitchen workers one by one, guiding their hands behind their backs and applying restraints. Bodycam slowly pans across the work surface, lingering on the flour-dusted dough, the open cans of pineapple, the knives, and the half-assembled pineapple pizzas. Radio chatter is audible in the background confirming “Kitchen clear, subjects in custody.”
+结束时：Final frame holds on a close view of a flour-covered hand being restrained next to a pizza topped with fresh pineapple slices. Bodycam remains steady but still shows natural micro-movement.
+
+【视觉风格与摄影】
+Authentic real-world bodycam footage only. Continuous single take, no cuts, no slow-motion, no cinematic grading. Slight wide-angle lens distortion, natural motion blur on rapid movement, realistic handheld sway and vertical bob from walking. Exterior is low-key sodium-vapor night lighting with visible grain; interior is harsh, uneven fluorescent practical lighting that keeps everything clearly visible yet still gritty and dirty. Clothing, faces, and environments stay consistent and photorealistic throughout.
+
+【音频】
+No music. No subtitles.
+Language: American English.
+Clear radio and verbal commands in natural American law-enforcement cadence:
+{FBI! Search warrant!}
+{Hands where I can see them! Get down!}
+{Nobody move! Hands up!}
+{Kitchen clear, subjects in custody.}
+Realistic ambience only: heavy breathing, boot steps on dirty floors, door impact, plastic restraint zip sounds, distant radio static, kitchen ambient noise of knives on cutting boards and flour being disturbed. Keep all dialogue, footsteps and room tone natural and continuous.
+
+【保持一致】
+Single continuous first-person bodycam POV of one FBI agent for the entire 30 seconds. Agent count, tactical gear, house layout, lighting direction and the exact number of kitchen workers remain stable. No violence, no blood, no weapons discharged. The only “contraband” activity is the preparation of pineapple pizza under a layer of flour.</code></pre>
+
+</details>
+
+## Mystical Woman with Flaming Serpent – Cinematic Photorealistic Shot
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2087638993110237342)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [2896](https://imglume.com/prompt/2896)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ddf5ff07-ae2b-4e37-be12-0341d1a87dba/fae8b7d8-d1d1-4f87-86de-2a548a2f94c3-1786644666094 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ddf5ff07-ae2b-4e37-be12-0341d1a87dba/4f285375-444e-4d5e-9c16-12ab489ea644-1786644666094 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shows a beautiful, mystical woman moving fluidly and powerfully, accompanied by an ethereal, blazing serpent of fire. The serpent moves around her.
+
+Dynamic shot circling the character.
+
+No music. ASMR sound.
+
+Cinematic photorealism.</code></pre>
+
+</details>
 
 ## 15-second handheld boyfriend vlog of a Japanese woman walking in Tokyo
 

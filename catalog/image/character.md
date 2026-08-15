@@ -1,9 +1,98 @@
 # Character image prompts
 
-77 source-linked prompts, newest ImgLume records first.
+80 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## ELARA Character Concept Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2088113402824843659)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2955](https://imglume.com/prompt/2955)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8ff855cd-4575-480e-9bb3-530001d9828d/29171740-a87f-4445-a52f-8d0486bb4b71-1786705055170 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8ff855cd-4575-480e-9bb3-530001d9828d/ebdd4b68-42a4-4313-975b-edf7a86ba4eb-1786705055170 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8ff855cd-4575-480e-9bb3-530001d9828d/9668a53c-f0ec-4a46-b2b0-65783b4f48db-1786705055170 "Video prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8ff855cd-4575-480e-9bb3-530001d9828d/828f56e4-d169-4fe2-ba09-9b83b7f34cca-1786705055170 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: painterly matte digital gouache with flat posterized color blocks, NO outlines, hard-edged brush shapes, muted desaturated palette identical to the reference, identical brightness (light, airy, white-background).
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealism. [PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, massive top-heavy torso from dense clothing layers, extremely long slender legs, small adult head).
+
+[SUBJECT_DESCRIPTION]: Tall young woman in early 20s, fierce mature face, messy braids, visor on forehead, high tech-scarf. Outfit: Dense heavy layers. Massive slate-gray canvas coat, quilted tan vest, crisscrossing ropes, heavy utility pouches, skinny burnt-orange trousers, iron shin-guards, chunky terrain boots. Accessories: Heavy mechanical staff projecting glowing holographic-blue maps.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography: "ELARA" in clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: Wasteland Cartographer", "CORE MOOD: Intelligent Survival", "VISUAL SIGNATURE: Dense Gear &amp; Holograms".- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (confident smirk, pulling scarf up over mouth, lowering visor over eyes, sharp focus).
+
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in an alert, heavily-layered signature pose holding the tech-staff, maximum detail, perfect style-match to reference.
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: 4 small-to-medium dynamic stances (climbing a ledge, projecting a map from the staff, adjusting her heavy boots, resting staff on her shoulder), handwritten-style labels.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- 5 small square crops: the cyber-visor and face, the dense layers of canvas and ropes, the blocky utility pouches, the chunky boots and shin guards, the glowing holographic-blue map. Handwritten labels.</code></pre>
+
+</details>
+
+## Photorealistic 3-panel K-pop superstar character sheet
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2088115229590753754)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2938](https://imglume.com/prompt/2938)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a39fa914-7ffd-4a2a-b52b-c1ecb0aee8ae/6b0ba8ee-2312-41ab-82d1-53e58368c5dd-1786690614110 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character reference sheet, 3-panel layout on a single seamless neutral studio-grey background, consistent identity across all panels — same face, same proportions, no panel borders, no dividers, no text labels, no arrows.
+Panel 1 (left): Full body, front view. K-pop superstar, standing confident pose, facing camera. Long straight jet-black hair parted center, falling past shoulders. Fair skin with light natural freckling, soft pink undertone on cheeks. Sharp winged black eyeliner, deep maroon-red matte lipstick, thick straight dark eyebrows. Wearing a heavily embellished sleeveless bodysuit — teal-to-gold ombré sequin mesh, scalloped gold beaded trim along neckline and hip line, statement layered gold necklace. Knee-high sparkling rhinestone-encrusted boots matching the bodysuit's teal-gold sequin texture, chunky heel. Studio lighting, full figure head to toe, arms relaxed at sides.
+Panel 2 (center): Full body, back view. Same character, same sequin bodysuit and matching rhinestone knee-high boots, same hair, turned away from camera showing back of hair falling straight down past shoulder blades, silhouette of the bodysuit's open/scalloped back detailing, same standing pose and lighting continuity.
+Panel 3 (right): Face closeup, front-facing. Same character, tight beauty close-up cropped chest-up, direct eye contact with camera. Green-hazel eyes, sharp winged eyeliner with soft lash definition, thick natural eyebrows, deep maroon matte lipstick, visible skin texture and natural freckling, soft studio key light with subtle catchlight in eyes.
+Style: photoreal editorial character sheet, consistent skin tone/hair/makeup across all 3 panels, neutral even studio lighting, no shadows cast on background, high detail, 8k reference quality.
+Negative: no text, no logos, no panel borders/dividers, no watermark, no distortion between panels, no likeness drift.</code></pre>
+
+</details>
+
+## KAZAN – The Glacial Brawler Character Concept Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2087706379654214077)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2913](https://imglume.com/prompt/2913)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d514aaee-f41c-4993-bf90-e2141cbc5e09/b1480641-788b-4812-8776-ab5ef01e1cac-1786646519933 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d514aaee-f41c-4993-bf90-e2141cbc5e09/72d95b5f-0be5-477f-87f9-b6e62e427ce6-1786646519933 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d514aaee-f41c-4993-bf90-e2141cbc5e09/708e0365-59d6-4e50-a2bd-080e6b378a0a-1786646519933 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: hyper-realistic 3D CGI collectible-figurine render, physically-based rendering, octane-render-quality lighting, real material fidelity (hemp rope texture, linen weave, thick photoreal fur, leather wraps), identical overall lighting setup and material palette to the reference (light, clean, white-background studio photography — do NOT flatten or cel-shade it), soft studio lighting with a subtle rim light matching the reference. Every figure must look like it was rendered from the same 3D file, under the same studio lighting, as the reference image.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no flat 2D cel-shading, no cartoon outlines, no lineart, no anime style, no painterly brushwork, no posterized flat color blocks, no low-poly or game-asset look, no plastic-toy sheen, no fused or malformed fingers. If the reference has photoreal materials, this sheet does too — never flatten them.
+
+[PROPORTIONS]: Match the reference's exact body proportions in every figure — elongated fashion-illustration anatomy (9–10 heads tall, massive broad shoulders, narrow waist) carried into photoreal rendering. Do not normalize proportions in the smaller studies.
+[SUBJECT_DESCRIPTION]: Character named KAZAN. A massive, muscular anthropomorphic white tiger with photoreal fur and a topknot. Wearing a crimson canvas sash, a thick hemp rope belt, hanging indigo gi top, dark charcoal hakama pants, and forearm wraps.
+
+SUPERPOWERS VISIBLE: Searing, icy-blue Glacial Chi energy and crackling frozen mist radiating violently from his massive clawed fists and glowing blue eyes.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography of the character's Name "KAZAN" in a clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: GLACIAL BRAWLER", "CORE MOOD: STOIC FURY", and "VISUAL SIGNATURE: FROZEN CHI" in a clean sans-serif font.- MINI TURNAROUND: 3 small vertical figures — "neutral", "back view", "profile" — rendered in the identical reference style, full material fidelity even at small scale.- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances underneath.- EXPRESSION STUDY (Bottom Left): exactly 4 small close-up headshots showing intense facial expressions, with icy-blue mist exhaling from his jaws.
+
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in an imposing signature pose, maximum detail, rendered as a perfect style-match to the reference image, but with crackling icy-blue frost energy swirling heavily around his forearms.
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: exactly 4 to 5 small-to-medium figures in dynamic heavy combat stances (punching the ground, blocking, unleashing a frost wave), each with a small handwritten-style label underneath, all in the identical reference style.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- Exactly 5 small square close-up crops highlighting: (1) photoreal white tiger fur and glowing blue eyes, (2) the thick rustic hemp rope over the crimson sash, (3) heavy charcoal hakama pant drape, (4) leather forearm wraps covered in frost, (5) a massive clawed fist generating icy-blue chi energy.- Each crop gets a clean handwriting-style label underneath.</code></pre>
+
+</details>
 
 ## Thoughtful Owl in Yellow Sweater Illustration
 
