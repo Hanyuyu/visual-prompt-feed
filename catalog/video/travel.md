@@ -1,9 +1,103 @@
 # Travel video prompts
 
-35 source-linked prompts, newest ImgLume records first.
+37 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic smartphone food vlog in Tokyo
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2088605003112235033)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3043](https://imglume.com/prompt/3043)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/10a22dd1-7a2e-4097-8016-3dce97a59ca9/32462e5b-60fa-4fbe-a610-f6a8e31187ef-1786807334971 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Japan. The entire video must look like it was genuinely recorded on a modern flagship smartphone by a real female creator, not like a cinematic production or AI-generated video.
+
+0–5 seconds: A young Japanese woman walks through a narrow Tokyo side street in the early evening, holding her smartphone at arm’s length and casually talking to the camera. Traditional Japanese shopfronts, vending machines, bicycles, small signs, utility wires, pedestrians and warm storefront lights create an authentic neighborhood atmosphere. Natural handheld movement and slight framing imperfections.
+
+5–10 seconds: She notices a tiny hidden dessert café and turns the camera toward its entrance with an excited reaction. She walks inside while continuing the vlog. The camera naturally adjusts exposure from the bright street to the warmer interior.
+
+10–16 seconds: Show the staff preparing a fresh strawberry cream dessert. Realistic strawberries, whipped cream, soft cake layers and small details of the preparation. The creator moves the phone closer for a natural food close-up while autofocus subtly shifts between the dessert and her hand.
+
+16–22 seconds: She receives the dessert, holds it directly toward the phone camera, then takes a spoonful and tastes it. Her reaction should be spontaneous and believable, with subtle facial expressions rather than exaggerated acting.
+
+22–27 seconds: She smiles, takes another small bite and turns the camera slightly to show the cozy café interior, Japanese customers naturally sitting in the background and warm practical lighting.
+
+27–30 seconds: She walks back outside onto the Japanese street, looks directly into the phone camera and naturally says, “Okay, this place was actually so good!” She smiles and ends the recording casually.
+
+Authentic Japanese environment, realistic human behavior, natural walking physics, real-looking food textures, accurate skin texture, natural hair movement, realistic reflections, imperfect smartphone framing, subtle autofocus hunting, automatic exposure adjustments, slight handheld shake, natural motion blur, realistic low-light smartphone noise, true-to-life colors, detailed background activity, genuine vlog energy, high-resolution smartphone footage, photorealistic, documentary realism, no cinematic camera moves, no drone shots, no artificial slow motion, no CGI appearance, no text, no subtitles.</code></pre>
+
+</details>
+
+## Japan Travel Vlog — 30 Sec
+
+- **Original source:** [@magic_ai_skill on X](https://x.com/magic_ai_skill/status/2087962205820223902)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [2970](https://imglume.com/prompt/2970)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3fb9f43a-dcd8-44cf-9d8f-ff519ab16be8/a1b5296e-abdd-4442-9cd2-e91be7469b4a-1786729882096 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>JAPAN TRAVEL VLOG — 30 SEC
+
+SUBJECT: One Korean woman, early 20s, filming herself. Small oval face with a soft jawline, large round eyes with double lids and a bright direct gaze, small straight nose, full coral-red lips, fair skin. Shoulder-length light-brown wavy bob, the ends curling outward away from the jaw, with soft see-through bangs falling to the eyebrows. A single pearl stud in each ear. Real Korean skin texture with visible pores — no doll-like AI smoothness, no beauty filter. The face established in the first shot is repeated exactly in every following shot: same features, same hair length, same hair colour. She never morphs into a different person and no lookalike appears.
+
+OUTFIT (identical throughout): cream tweed cropped jacket with black braid trim and gold-pearl buttons, black V-neck camisole, high-waist black pleated shorts, sheer black tights, cream slingback heels with black toe caps, small cream top-handle bag. There is no changing shot.
+
+CAMERA: she is filming herself on her own phone. Most shots are selfies with her arm extended; objects and food are shot by turning the phone toward them. 16:9 landscape throughout, no black bars. 26mm phone lens, deep focus, neutral iPhone colour, handheld jolt on every step, autofocus landing a beat late, exposure lagging when she moves from bright to dark, a fingerprint smudge bleeding beside strong lights. No cinematic grading, no studio lighting, no glow fx. Background people stay out of focus and nobody looks at the camera for long.
+
+DIALOGUE: lines are short and land in one breath. An interjection plus one short sentence is fine, but never two complete sentences strung together. There is breath between them and they are never rushed into each other.
+
+(0:00–0:02) — Hotel window, Tokyo morning reveal. Selfie, low angle. She shoves the curtain sideways with one hand and low buildings under tangled overhead cables open up behind her. The window blows out white, then the exposure catches up. Bright grin. Dialogue: "도쿄 왔다!" Transition: Hard cut on beat
+
+(0:02–0:04) — Shibuya scramble crossing. Selfie, mid-stride into the crowd. She swings the phone around to her face, screens and people streaming behind her, someone clipping her shoulder. Overcast daylight, deep focus. Dialogue: "시부야~야호!" Transition: Fast cut on beat
+
+(0:04–0:05.5) — Convenience store. Selfie, arm short. She pushes a pudding cup toward the lens until it fills half the frame, eyebrows raised. Greenish fluorescents, steam off the oden counter behind her. Transition: Snap cut
+
+(0:05.5–0:07.5) — Alley vending machine. Insert, phone pointed down at her hands. She lifts the canned coffee out of the slot, hooks the tab with her thumb and yanks it open with a hiss. Blue machine glow, a parked bicycle beside it. Transition: Cut on natural movement
+
+(0:07.5–0:09) — Sensoji gate reveal. Face → phone tilts up → the giant red lantern fills the frame. Natural daylight, sky blown out behind the roofline. Small impressed smile. Transition: Soft cut mid-upward motion
+
+(0:09–0:10.5) — Sensoji grounds, omikuji. Selfie. She snaps the strip open, looks at it, looks at the lens, looks back, and her face collapses into a laugh. Incense smoke drifts across her. Dialogue: "으악! 이거 잘 안 나온 건가?" Transition: Cut on the end of the laugh
+
+(0:10.5–0:12) — Takeshita street. Follow from behind, phone low. She shoulders through the packed lane with a crepe in one hand, signs stacked tight overhead, people pushing past both sides. Transition: Cut on forward movement
+
+(0:12–0:13.5) — Crepe reaction. Selfie, close. She takes a big bite, eyes widening, and pulls the phone back as cream catches at the corner of her mouth. Warm afternoon light. Transition: Cut mid-chew
+
+(0:13.5–0:15) — Train window. Phone held low against the glass. Her face reflects there with the city sliding past behind it, the hanging straps swinging together. She looks out, not at the lens. The music drops a beat — only rail noise — then returns. Transition: Snap cut
+
+(0:15–0:17.5) — Ramen counter. Camcorder texture from here: soft blooming tape, faint noise, focus landing late. Propped phone, medium. She ducks under a navy noren, drops onto a stool at a counter with only eight seats, leans the phone on the napkin holder and waves. A meal ticket and wet towel in front of her. A steaming tonkotsu bowl lands — two slices of chashu, soft-boiled egg, menma, nori, chopped scallion. Dialogue: "한 시간 기다렸어." Transition: Cut on the bowl landing
+
+(0:17.5–0:19.5) — Noodle lift. Macro, phone turned down into the bowl, shallow DOF. Her chopsticks drag the noodles up out of the broth, fat glistening, steam crossing the lens and fogging one side before it clears. Only the broth and the slurp beside her. Transition: Cut with the noodles still raised
+
+(0:19.5–0:21.5) — First bite. Selfie, handheld. She pulls a big mouthful in, closes her eyes, opens them again; her shoulders drop and she nods once at the lens. Warm counter light. Dialogue: "미쳤다 진짜." Transition: Cut as her expression softens
+
+(0:21.5–0:23) — Broth. Selfie, close. She lifts the bowl with both hands, tips it back, drinks, sets it down and breathes out. The lens fogs from the steam. Ambient only. Transition: Cut back to phone texture
+
+(0:23–0:25) — Shinjuku neon ★ SIGNATURE. Selfie at arm's length, then she raises her head slowly. Blue, violet and yellow neon from the vertical signs runs across her face. Rack focus — her face sharp, the signs behind diffused. Real light only, no bloom. Speed ~60% slow motion. Transition: Soft cut mid-upward motion
+
+(0:25–0:26.5) — Izakaya alley. Follow from behind. She walks a wet lane between red lanterns and noren, the lanterns thrown back off the ground, and glances over her shoulder at the lens once. Natural low light. Transition: Cut on forward movement
+
+(0:26.5–0:28) — Convenience store step, oden. Selfie, sitting. She blows across the cup and drinks, her breath showing in the cold. Cool white spill from the shopfront. Transition: Snap cut
+
+(0:28–0:30) — Pedestrian bridge, skyline reveal. Close selfie → arm extends → the Tokyo night skyline opens up below. Wind blows her bangs across her eyes for a moment. Natural night phone exposure. Dialogue: "그럼~ 모두 안녕~~!" She waves at the camera and that same hand comes down over the lens as the frame goes dark.
+
+AUDIO: Music bed with real location sound over it — crossing chime and footsteps, convenience store entry tone, the can tab opening, train rails and announcements, the noren brushing and an "irasshaimase", broth simmering and chopsticks, the slurp beside her, night street noise, wind. Her muttering is natural casual Korean.
+
+CONSISTENCY: same face, hair and outfit in every cut. Natural realistic hands and chopstick handling, no distorted fingers. No on-screen text, subtitles, logos or watermarks.</code></pre>
+
+</details>
 
 ## Authentic Japanese 2026 daily-life travel vlog in Tokyo (30‑second video)
 

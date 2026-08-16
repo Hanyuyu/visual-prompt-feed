@@ -1,9 +1,34 @@
 # Food Drink image prompts
 
-10 source-linked prompts, newest ImgLume records first.
+11 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Chocolate Lava Cake Storyboard Prompt
+
+- **Original source:** [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088237953772638270)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2975](https://imglume.com/prompt/2975)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c3a6875d-f782-4bb6-8c37-4a2d16578023/828ba43d-2147-47e5-a0d9-88e4c34b2035-1786729944262 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A professional 5-panel commercial storyboard layout on a clean, light-grey textured background with crisp black frame borders and typography:
+Top Row (Left to Right):
+Panel 1: 00:00 - 00:01 | CU, Angle 45-degree angle — Raw egg yolk cracking into cocoa powder and flour in a glass bowl. Text: "Combine your rich ingredients."
+Panel 2: 00:01 - 00:03 | Angle: High-Angle / Top-Down (CU) — Whisk swirling glossy chocolate batter into concentric rings. Text: "Whisk until perfectly smooth."
+Panel 3: 00:03 - 00:05 | MCU, Eye-Level — Thick ribbon of chocolate batter pouring vertically into a grey ramekin. Text: "Bake until the edges are set."
+Bottom Row (Centered):
+Panel 4: 00:05 - 00:07 | MS, Straight-On Centered — Puffed cake resting on the wire rack inside a warm illuminated oven. Text: "Baking in Oven"
+Panel 5: 00:07 - 00:10 | Hero Angle — Silver dessert spoon breaking the cake crust, warm molten chocolate oozing outward with steam. Text: "Enjoy your perfect lava cake."
+Style: Clean storyboard graphic design, photorealistic culinary frame stills, sharp cinematic typography, balanced layout.</code></pre>
+
+</details>
 
 ## Ultra-realistic giant matcha pancake skyscraper
 

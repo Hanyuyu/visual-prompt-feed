@@ -1,9 +1,42 @@
 # Product Ads image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+16 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium hyper-realistic skincare campaign with surreal yellow aesthetic
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2088294067851641204)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3000](https://imglume.com/prompt/3000)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/91cccb51-d5cd-4946-b18e-5a4dd729f33c/dd85ea49-7795-4295-8ec8-f9c63191a612-1786773710442 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/91cccb51-d5cd-4946-b18e-5a4dd729f33c/99652e39-8b07-4329-96c6-5de01d5fceb0-1786773710442 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, hyper-realistic skincare campaign in the same surreal luxury editorial style as the reference, but with a completely original brand, product design, model, composition, and visual identity.
+
+A stylish young woman wearing a soft butter-yellow tailored suit and modern sunglasses sits inside a futuristic monochromatic warm yellow studio. She leans toward the camera with one hand dramatically extended toward the lens, creating an exaggerated forced-perspective effect.
+
+In the foreground, place a large premium skincare tube labeled:
+
+LUMERA
+VITAMIN C GLOW CLEANSER
+Brightening • Hydrating • Radiance
+
+The product packaging should be sunny yellow with subtle cream accents, minimalist luxury typography, glossy realistic plastic, and extremely sharp readable branding. Add two smaller matching tubes in the background for depth and product repetition.
+
+The floor is a glossy yellow-and-cream checkerboard, with soft architectural walls and seamless studio lighting. The model should look fashionable, confident, and editorial, with natural skin texture, realistic hands, elegant pose, and subtle reflections on her sunglasses.
+
+Visual direction: high-end beauty advertising, surreal forced perspective, vibrant monochromatic yellow palette, premium commercial photography, cinematic soft lighting, realistic shadows, shallow depth of field, ultra-detailed skin and fabric, polished product photography, sophisticated Gen-Z luxury aesthetic, 9:16 vertical composition.
+
+Important: No existing brand logos, no copyrighted characters, no text other than the fictional LUMERA skincare branding, anatomically correct hands, clean packaging, photorealistic result.</code></pre>
+
+</details>
 
 ## Premium Commercial Storyboard Sheet for MIXUE Coffee Boba Sundae
 

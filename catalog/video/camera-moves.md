@@ -1,9 +1,305 @@
 # Camera Moves video prompts
 
-93 source-linked prompts, newest ImgLume records first.
+97 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second ultra-photorealistic Japanese water obstacle competition broadcast
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2088551703696093675)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3035](https://imglume.com/prompt/3035)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/79594a49-7f73-4476-b7a9-b0382c0469de/11a619bd-06ac-4735-95fb-8e3c1c76761c-1786796781973 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 16:9 horizontal, ultra-photorealistic live-action Japanese water obstacle competition show.
+
+The visual style should resemble a late-2000s to early-2010s Japanese prime-time sports entertainment special, filmed as a genuine television broadcast with a huge live audience, practical mechanical obstacles, stadium floodlights, metal trusses, real water physics, professional ENG cameras, crane cameras, long lenses, tracking cameras and water-level cameras.
+
+Everything must look physically constructed and practically filmed.
+
+No fantasy environments.
+No CGI-looking machinery.
+No artificial slow motion.
+No impossible physics.
+No video-game appearance.
+
+The footage should feel like a real archived Japanese television sports broadcast.
+
+---
+
+CHARACTER CONSISTENCY
+
+Use the uploaded reference image as the ONLY visual identity reference for the female contestant.
+
+Maintain exactly the same:
+
+face and facial structure
+
+hairstyle and hair color
+
+skin tone
+
+age appearance
+
+height
+
+body proportions
+
+physique
+
+clothing
+
+footwear
+
+overall appearance
+
+The contestant must remain visually identical throughout the entire 30-second video.
+
+Her identity must remain consistent during:
+
+close-ups
+
+wide shots
+
+side views
+
+rear views
+
+low-angle shots
+
+long-lens shots
+
+water-level shots
+
+running
+
+jumping
+
+falling into the pool
+
+Do not change her face, hairstyle, body proportions, clothing, footwear or apparent age between shots.
+
+Her clothing remains exactly the same throughout the competition, including after becoming completely wet.
+
+---
+
+LOCATION CONTINUITY
+
+The entire video takes place inside one continuous giant outdoor Japanese water-arena at night.
+
+The course is arranged in this exact physical order:
+
+START PLATFORM
+→ MOVING STEPPING STONES
+→ ROTATING BARREL BRIDGE
+→ WATER JET CORRIDOR
+→ FINAL COLLAPSING PLATFORM
+
+All obstacles must visibly belong to the same physical stadium.
+
+Maintain consistent spatial relationships between:
+
+audience stands
+
+water pool
+
+obstacle structures
+
+metal support towers
+
+floodlights
+
+production cameras
+
+safety staff
+
+commentary booth
+
+overhead cables
+
+television equipment
+
+The environment must remain recognizable from shot to shot.
+
+---
+
+0–3 SEC — CONFIDENT START
+
+0–1 SEC — SNEAKER CLOSE-UP
+
+Begin with a tight broadcast close-up of the contestant's sneakers stepping onto the wet starting platform.
+
+Small droplets move across the platform beneath her shoes.
+
+The audience is already loudly cheering in the background.
+
+A large mechanical starting gate is visible behind her.
+
+1–2 SEC — NATURAL CAMERA TILT
+
+The camera tilts upward naturally:
+
+shoes → legs → waist → torso → face
+
+She looks toward the enormous course.
+
+She gives a quick confident smile.
+
+She raises one hand toward the audience in a playful “watch this” gesture.
+
+The audience responds with louder applause.
+
+2–3 SEC — CHANGE OF EXPRESSION
+
+She turns toward the obstacle.
+
+Her smile disappears.
+
+She takes one deep breath.
+
+Her shoulders tighten.
+
+A warning light begins flashing.
+
+The starting buzzer suddenly sounds.
+
+She immediately sprints forward.
+
+---
+
+3–10 SEC — OBSTACLE ONE: MOVING STEPPING STONES
+
+The first obstacle consists of large circular floating stepping stones positioned across the pool.
+
+Each stone is mounted on a practical mechanical arm that moves independently.
+
+Some stones slowly rotate.
+
+Others rise and lower several inches.
+
+The contestant must cross them without falling.</code></pre>
+
+</details>
+
+## Cinematic action sequence in brutalist courtyard with Asian hero and masked female assassins
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2088495522801942951)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3010](https://imglume.com/prompt/3010)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/08d9f3b9-71eb-49d5-ae4f-d4c88a287473/59a1dd01-4352-4cac-ae8f-dce2070b2b5c-1786780159862 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic action sequence in a brutalist concrete multi-story courtyard. A young Asian male hero wearing a varsity denim-and-red jacket, hoodie with a "T" logo, and cargo pants surrounded by a circle of multiple agile female assassins in elaborate dark red and black outfits with white fox masks, wielding katanas. Dynamic martial arts choreography, fast-paced camera movement, dust kicked up from the concrete floor, high-tension cinematic lighting, hyper-realistic, 4k resolution, 60fps action cinematography.</code></pre>
+
+</details>
+
+## Ultra-photorealistic cinematic video of a woman walking the same street through seasonal transformations
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2088499769614483721)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3003](https://imglume.com/prompt/3003)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/97e8b0ce-4dda-41c4-9d11-9caed9d92648/47331d36-4154-4145-ba89-18971c6aefcd-1786778070509 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, and overall appearance consistently throughout the entire video. Maintain the same recognizable street, buildings, storefronts, sidewalks, trees, streetlights, and overall camera path in every season.
+
+Create an ultra-realistic cinematic lifestyle sequence following a stylish young woman walking down the exact same city street while carrying a takeaway coffee in one hand and a canvas tote bag over her shoulder.
+
+She walks casually through the sunny street wearing a light fitted top, denim shorts, sneakers, and sunglasses. Trees are lush and green, people wear lightweight summer clothing, café windows are open, and warm sunlight fills the street. She takes a sip of coffee, smiles, and keeps walking. She suddenly flicks her fingers.
+
+On the exact same finger-flick motion, the entire environment transforms seamlessly into autumn. Her outfit instantly changes into a cozy sweater, long skirt, ankle boots, and light jacket. Green leaves transform into orange and golden foliage, leaves drift through the air, and pedestrians around her naturally change into autumn coats and scarves. She continues walking without stopping, as if the transformation is completely normal.
+
+She flicks her fingers again.
+
+The same street instantly becomes winter. Snow begins falling, trees become bare, warm lights glow from the same storefronts, and pedestrians now wear coats, scarves, gloves, and winter boots. Her outfit transforms into a stylish long wool coat, scarf, tights, and boots. Steam rises subtly from her coffee as she walks through the snowy street. She looks around with a small amused smile and flicks her fingers again.
+
+The street transforms into spring. Snow disappears, trees suddenly bloom with fresh green leaves and soft flowers, sunlight becomes brighter and warmer, and pedestrians switch into light jackets, skirts, shirts, and spring outfits. Her outfit changes into a stylish lightweight jacket, flowing skirt, sneakers, and a fresh spring look. Petals gently float through the air as she continues walking with her coffee and tote bag.
+
+FINAL — 0:28–0:30
+She reaches the same spot where the video began. The camera slowly circles around her as the four seasonal elements subtly blend together — a few autumn leaves, spring petals, warm summer sunlight, and tiny snowflakes — before everything settles into a beautiful neutral season. She takes one final sip of coffee and smiles directly at the camera.
+
+Style: Ultra-photorealistic cinematic lifestyle film, seamless transformation effects, perfectly locked street geography, continuous walking motion, realistic seasonal physics, natural pedestrian behavior, elegant fashion transitions, smooth gimbal tracking, subtle handheld texture, shallow depth of field, realistic coffee steam, detailed fabric movement, cinematic color grading, 4K HDR, 24fps, 16:9.
+
+Important: The street must remain identical throughout all four seasons. Only the season, weather, vegetation, clothing, lighting, and people's appearance change. Her face, identity, body proportions, coffee cup, tote bag, and walking direction remain perfectly consistent.
+
+Negative Prompt: No changing street layout, no identity drift, no duplicate people, no distorted hands, no extra fingers, no floating objects, no abrupt cuts during transformations, no flickering, no unrealistic clothing changes, no text, no subtitles, no logos, no watermark.</code></pre>
+
+</details>
+
+## Late-night gym vlog by European fitness influencer
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2088268317840859286)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`
+- **ImgLume record:** [2991](https://imglume.com/prompt/2991)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e93c6de1-2e11-4ad0-b231-ac5b37508a06/5c604844-8260-4c5a-a94c-739982d6ae76-1786759155072 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Realistic handheld DV camcorder aesthetic. A glamorous European brunette fitness influencer films herself in selfie and first-person style. Natural hand shake, slight framing imperfections, autofocus shifts, subtle zooms, occasional motion blur. Mix handheld selfie shots with a few fixed external angles using clean jump cuts. Never show the camera or her setting it up.
+
+LOOK:
+Soft vintage DV tape character, slight blur and tape noise, mild highlight bloom, subtle exposure flicker, muted contrast, realistic skin texture and natural indoor gym lighting.
+
+STYLE:
+Realistic late-night fitness vlog, playful, confident, slightly flirty and breathless. It should feel self-recorded and spontaneous rather than like a commercial. Fast clean cuts, natural body language and strong continuity.
+
+CHARACTER:
+Beautiful glamorous European brunette woman in her mid-20s, brown almond-shaped eyes, long lashes, glossy lips, sculpted features, lightly tanned glowing skin and thick dark-brown hair in a high ponytail. Slim, feminine athletic figure. Soft-glam makeup, fitted long-sleeve athletic crop top, high-waisted leggings, white sneakers and a towel around her neck or shoulder. No jewelry.
+
+SETTING:
+Quiet modern gym late at night with mirrors, dumbbell rack, bench, stretching mat and water bottle. Warm overhead lighting, mostly empty, calm atmosphere. No trainer or other people.
+
+CONTINUITY:
+Keep the exact same woman, face, hair, outfit, body and environment throughout. No extra people, duplicated limbs, broken hands, disappearing objects or impossible movements. No visible camera or camera setup.
+
+STORYBOARD — 30 SECONDS / 10 CUTS:
+
+1. (~3s) Arm’s-length selfie. She walks through the empty gym, slightly breathless but smiling. “Okay... late-night gym vlog.”
+
+2. (~3s) Handheld pan across dumbbells, mirrors and empty floor, then back to her. “It’s basically empty in here.”
+
+3. (~3s) Mirror selfie. She adjusts her ponytail, looks at herself and smirks. “I look tired, but we’re still doing this.”
+
+4. (~3s) Fixed medium shot. Jump cut to her already beside the bench. She picks up dumbbells and gets ready. No dialogue.
+
+5. (~3s) Same fixed shot. She performs controlled dumbbell presses, then lowers the weights and smiles. “That woke me up fast.”
+
+6. (~3s) Walking selfie with towel over one shoulder, breathing harder. “Upper body done... and I’m already dying.”
+
+7. (~3s) Tight handheld close-up. She drinks from the water bottle and exhales. “Best part of the workout.”
+
+8. (~3s) Fixed wider shot facing the mirror. She stretches, briefly poses playfully and laughs. “A little stretch so I can pretend I’m disciplined.”
+
+9. (~3s) Close selfie. Slightly flushed, she brushes back her hair and smiles tiredly. “I always say quick workout... and then stay forever.”
+
+10. (~3s) Final arm’s-length selfie as she walks toward the exit, waves and smiles. “Okay, I’m done. Good night.”
+
+FINAL:
+Make it feel like an authentic self-recorded late-night gym vlog. Prioritize realistic handheld movement, consistent character identity, natural breathing, believable pacing, subtle imperfections and cinematic-but-realistic DV texture. Avoid an overly polished commercial look.</code></pre>
+
+</details>
 
 ## Seedance 2.5 Maldives resort prompt
 

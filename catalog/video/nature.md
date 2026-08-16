@@ -1,9 +1,29 @@
 # Nature video prompts
 
-12 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vibrant Red-Eyed Tree Frog in Rainforest Rain – 7s Video Prompt
+
+- **Original source:** [@AiwithLucas_ on X](https://x.com/AiwithLucas_/status/2088500686019576115)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [3012](https://imglume.com/prompt/3012)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6b53261-6341-48a8-974b-ba8493e850ed/2c3bafd2-7ce0-4e85-8f6b-1213bc2f79b0-1786782027101 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[0-4s]: Extreme close-up of a vibrant red-eyed tree frog sitting motionless on a lush rainforest leaf. Heavy tropical rainfall in the background, out of focus with deep depth of field. Static camera.
+
+[4-7s]: A single large water droplet hits the leaf right beside the frog, causing the leaf to bounce smoothly. The frog blinks slowly once and turns its head toward the camera.
+Audio: Heavy jungle rain ambience, a resonant liquid thud sound effect at 4s when the drop impacts.</code></pre>
+
+</details>
 
 ## Seedance 2.5 Maldives resort prompt
 

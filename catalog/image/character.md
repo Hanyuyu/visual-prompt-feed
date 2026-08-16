@@ -1,9 +1,185 @@
 # Character image prompts
 
-80 source-linked prompts, newest ImgLume records first.
+86 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## SAYA "The Bladedancer" Character Concept Art Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2088505554151014570)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3046](https://imglume.com/prompt/3046)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a13318e6-b890-4705-8a14-ca2f398a91a5/0ebab1a9-9a91-416e-9d06-cf3938347d92-1786807364585 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a13318e6-b890-4705-8a14-ca2f398a91a5/48eb5f83-0a4e-4272-ab95-2eadc9451a1e-1786807364585 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a13318e6-b890-4705-8a14-ca2f398a91a5/301f548a-7b77-42ef-9048-f43fb5011986-1786807364585 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a13318e6-b890-4705-8a14-ca2f398a91a5/96ca2780-2961-4281-9728-a2adcdc627e9-1786807364585 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: painterly matte digital gouache with flat posterized color blocks, NO outlines, hard-edged brush shapes, muted desaturated palette identical to the reference, identical brightness (light, airy, white-background).
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealism, no petite proportions.
+
+[PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, towering height, extremely long supermodel legs, small adult head).
+
+[SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, long dark hair, mature sharp face. Outfit: massive pastel-pink floral kimono top, crimson/gold samurai arm-guards and hip-plates, long bare legs, gold armored boots. Accessories: sleek katana. Magic Ability: Katana strikes generate razor-sharp glowing pink cherry blossoms.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography: "SAYA" in clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: Bladedancer", "CORE MOOD: Lethal Composure", "VISUAL SIGNATURE: Razor Petals".- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (cold calm, deadly focus, sideways glance, hair blowing across face).
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a lethal, elegant signature pose gripping her katana, maximum detail, perfect style-match to reference.
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: 4 small-to-medium dynamic stances (unsheathing blade, leaping gracefully, kneeling, slashing a wave of pink petals), handwritten-style labels.
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- 5 small square crops: mature sharp face, crimson arm-guard texture, pink kimono fabric, gold armored boots, floating glowing pink petal. Handwritten labels.</code></pre>
+
+</details>
+
+## KAIDA "The Desert Ronin" Character Concept Art Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2088505554151014570)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3045](https://imglume.com/prompt/3045)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60a686b8-2ae2-45a0-8a69-6dfe1e1d4dc5/d0d23d1c-6d35-4863-bb3a-f70263b11438-1786807364585 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/60a686b8-2ae2-45a0-8a69-6dfe1e1d4dc5/47c8e828-0c8c-4494-8a35-538e23ba1886-1786807364585 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/60a686b8-2ae2-45a0-8a69-6dfe1e1d4dc5/eff2abff-27f5-4a25-b113-61c3be973120-1786807364585 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/60a686b8-2ae2-45a0-8a69-6dfe1e1d4dc5/66fc2621-9ab1-4627-8fe1-b3f29bc967d4-1786807364585 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: painterly matte digital gouache with flat posterized color blocks, NO outlines, hard-edged brush shapes, muted desaturated palette identical to the reference, identical brightness (light, airy, white-background).
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealism, no petite proportions.
+
+[PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, towering height, extremely long supermodel legs, small adult head).
+
+[SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, long dark hair, mature sharp face. Outfit: asymmetrical earthy-brown kimono top exposing midriff, thick black belt with bronze embroidery, high-cut black bottoms, long bare legs, single dark-iron thigh-guard. Accessories: sleek katana. Magic Ability: Manipulates razor-sharp black sand that hardens into glowing amber/obsidian glass.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography: "KAIDA" in clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: Desert Ronin", "CORE MOOD: Lethal Composure", "VISUAL SIGNATURE: Obsidian Sand".- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (cold calm, deadly focus, sideways glance, hair blowing across face).
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a lethal, elegant signature pose drawing her katana, maximum detail, perfect style-match to reference.
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: 4 small-to-medium dynamic stances (sheathing blade, sliding low to the ground, guiding a stream of black sand with her hand, standing tall), handwritten-style labels.
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- 5 small square crops: mature sharp face, bronze embroidery on the black belt, dark-iron thigh guard, katana hilt, floating sharp black sand turning into glass. Handwritten labels.</code></pre>
+
+</details>
+
+## Ultra-realistic IMAX-level Netflix-style cinematic surreal fantasy portrait
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2088472585768210635)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3020](https://imglume.com/prompt/3020)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5d5b793-b8a1-4952-8410-eb6adcc831aa/9539e215-3ee2-4cbd-a238-338960d87ae0-1786786274426 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f5d5b793-b8a1-4952-8410-eb6adcc831aa/2aa66640-69bd-4623-a565-5676ab60284b-1786786274426 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic IMAX-level Netflix-style cinematic surreal fantasy portrait, 9:16 vertical composition, use the uploaded image as the primary facial reference with maximum face consistency. Create a young adult woman leaning naturally through an old weathered blue wooden window suspended high above a vast sea of clouds, wearing a flowing elegant ivory-white lace-trimmed blouse with soft translucent sleeves. Scene: an isolated rustic window frame floating among massive soft clouds, both blue wooden shutters fully opened outward, heavily weathered paint with peeling textures, aged wood grain and rustic iron hinges; a warm vintage lantern glowing inside the window, while dense clusters of pink and white flowering vines grow across the lower sill and cascade freely downward into the clouds. Pose: her upper body leans gently forward through the open window, torso angled slightly sideways rather than facing the camera, shoulders turned naturally toward the right, one forearm resting comfortably on the wooden sill, the other arm relaxed beside it, head rotated slightly toward the glowing sunset with her face shown in a clear three-quarter side view, chin subtly raised, neck naturally elongated, hair falling freely over one shoulder and moving softly in the high-altitude breeze. Facial expression: peaceful, dreamy and contemplative, eyes gazing toward the distant horizon, relaxed eyebrows, softly parted lips, subtle sense of wonder and quiet emotion. Background: endless layered clouds surrounding the floating window, distant ocean far below visible through gaps in the clouds, enormous billowing cloud formations extending toward the horizon, dramatic sunset positioned on the right side of the frame, glowing sun just above the distant ocean horizon with a long golden reflection across the water. Lighting: warm golden sunset light entering from the right, illuminating the woman's side profile, hair edges, flowers and blue shutters with rich amber highlights, soft cool blue ambient light filling the opposite side, warm interior lantern glow behind her creating a subtle secondary illumination, volumetric sunlight filtering through the clouds, luminous atmospheric haze, strong depth between foreground window, woman, clouds and distant ocean. Her skin has a fair natural skin tone with a natural neutral-warm undertone, soft healthy glow, visible skin texture, fine pores, consistent face and body tone, photorealistic. Rich cobalt-blue weathered shutters, warm amber sunset, soft peach and coral clouds, delicate pink-white flowers, cinematic contrast, realistic wood and fabric texture, natural hair strands, atmospheric perspective, 35mm cinematic lens, deep environmental composition, premium fantasy-film aesthetic, extremely detailed, photorealistic 8K HDR, no text, no logo, no watermark. Negative prompt: front-facing body, front-facing face, flat pose, stiff posture, multiple suns, harsh artificial lighting, cartoon, anime, CGI, plastic skin, excessive smoothing, distorted anatomy, extra limbs, extra fingers, malformed hands, duplicated flowers, blurry face, oversaturated colors, low detail, text, logo, watermark</code></pre>
+
+</details>
+
+## Colored Pencil Illustration of Couple in Blue Cornflower Field
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2088517844535287875)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3018](https://imglume.com/prompt/3018)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5d71f871-ace7-4d2f-a240-e5775fb58753/3c35b4bd-49be-46f5-b0aa-3245257e97e9-1786786258842 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5d71f871-ace7-4d2f-a240-e5775fb58753/64c04ce6-6b56-432e-92cc-437d9612012d-1786786258842 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5d71f871-ace7-4d2f-a240-e5775fb58753/1dfe5762-021c-47ae-9f62-0af5d675739a-1786786258842 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. A young couple walks hand in hand away from the viewer along a narrow winding path through a vast field of vivid blue cornflowers (Centaurea cyanus) in the foreground, among tall golden-yellow grass, with stems and buds interspersed. The woman wears a flowing white dress, the man a white shirt with rolled-up sleeves and dark trousers, their heads tilted gently toward each other. Gentle rolling hills stretch toward the horizon. A soft summer breeze bends the grass and flowers as the evening light falls across the scene. In the distance, sunlight peeks over warm amber fields. The sky fills the upper third and is colored from deep dusky blue at the top down to warm shades of orange, gold, and pale yellow near the low sun, with soft wispy backlit clouds. The perspective is wide and slightly elevated, showcasing the detailed cornflowers, the couple, and the expansive sunlit meadow. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, romantic, and nostalgic, with warm golden tones contrasting against the cool electric blue of the flowers.</code></pre>
+
+</details>
+
+## Premium Black-and-Crimson Futuristic Arachnid-Inspired Character in Gaming Room
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2088302551531741484)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `character`
+- **ImgLume record:** [2995](https://imglume.com/prompt/2995)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8acf46d7-001f-4ee8-82cb-b7d82e0bd46a/9a9353bd-f7d2-4f6d-bfa3-dc80db56c7c5-1786769438663 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8acf46d7-001f-4ee8-82cb-b7d82e0bd46a/6a94ad42-b3ae-4206-b580-239f57873c5b-1786769438663 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the uploaded person into a premium original black-and-crimson futuristic arachnid-inspired character in a cinematic gaming-room environment while preserving the person’s natural appearance and recognizable identity.
+FORMAT LOCK
+Vertical 3:4 composition. Full-body portrait. Subject completely visible from head to shoes. High-angle cinematic camera looking downward. Centered framing. Premium editorial gaming-room photography.
+IDENTITY LOCK
+Use the uploaded image as the only identity reference. Preserve the exact facial structure, hairstyle, skin tone, age, body proportions, expression, and overall recognizable appearance. Do not redesign, exaggerate, beautify, or alter the person’s natural features.
+CHARACTER DESIGN
+Create a completely original futuristic tactical outfit using matte black technical fabric, deep crimson accents, subtle geometric patterns inspired by arachnid structures, realistic stitching, layered materials, and understated protective panels. Add a small original geometric chest insignia with no recognizable superhero symbol. The design should feel like premium futuristic fashion-tech, completely distinct from existing movie, comic, or game costumes.
+ENVIRONMENT
+Premium modern gaming bedroom with charcoal interiors, crimson LED lighting, gaming desk, RGB keyboard and mouse, large monitor displaying abstract red geometric artwork, gaming chair, minimalist bed, collectible shelves, warm practical lighting, and dark wooden flooring. Keep the environment sophisticated, clean, cinematic, and uncluttered.
+POSE
+Subject stands naturally in the center. One hand rests naturally inside the outfit pocket while the other holds a gaming controller. Direct eye contact with the camera. Calm, confident expression. Natural posture, relaxed shoulders, believable anatomy, and realistic hand positioning.
+CAMERA
+High-angle cinematic perspective looking downward. Full-body framing with enough surrounding environment to establish the gaming room. Natural lens perspective. Realistic depth of field. Subject remains the primary focal point.
+LIGHTING &amp; STYLE
+Soft cinematic key lighting. Deep controlled shadows. Subtle crimson ambient illumination. Natural skin tones. Gentle rim lighting. Realistic fabric reflections. Soft volumetric atmosphere. Premium editorial color grading. Photorealistic fashion photography. Extremely detailed textures. Sharp facial detail. Realistic materials. High-end cinematic gaming campaign aesthetic. Ultra-detailed 8K quality.
+NEGATIVE PROMPT
+Avoid recognizable existing superhero costumes, movie costumes, comic-book designs, copyrighted character appearances, recognizable logos or symbols, altered facial structure, artificial beauty filters, exaggerated anatomy, extra fingers, extra limbs, distorted hands, warped controller, plastic skin, cartoon style, anime style, illustration style, excessive red lighting, clutter, text, watermark, cropped head, cropped feet, duplicate objects, or unrealistic shadows.
+IMPORTANT
+Create a completely original futuristic character design. Do not reproduce or imitate any existing superhero character or costume.</code></pre>
+
+</details>
+
+## Golden Panda Oriental Exorcist Character Sheet
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2088249110709375460)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [2993](https://imglume.com/prompt/2993)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de0a1570-8c80-4220-9e3e-9e2c10be38eb/acdaa5ab-fc06-4df6-a378-50b186c6981b-1786763140027 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/de0a1570-8c80-4220-9e3e-9e2c10be38eb/2359ed16-e723-49d3-bd8c-f58d0333cd61-1786763140027 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>1️⃣character sheet:
+
+Ultra-detailed 16:9 anime game character design sheet, premium official character bible / production concept art, clean warm ivory background, elegant golden-orange Chinese-inspired ornamental border, subtle cloud motifs and refined geometric corner decorations.
+
+Character name “GOLDEN PANDA”, subtitle “ORIENTAL EXORCIST”. A cute young female fantasy exorcist combining panda motifs, traditional Chinese-inspired fashion and luxurious black-and-gold ceremonial details.
+
+She has a short asymmetrical bob hairstyle split dramatically between ivory white and deep black, with a vivid golden-orange streak through the bangs. Large rounded panda-ear hair buns sit high on both sides of her head, black with scattered gold markings, decorated with tiny golden flowers, ribbons and hanging ornaments. The back hair transitions into intricately braided black-and-white sections with small gold accessories. Warm amber-gold eyes, delicate youthful face, calm slightly serious expression.
+
+Her outfit is a stylized short Chinese exorcist dress in black, golden yellow, ivory and warm orange. High mandarin collar, fitted sleeveless inner bodice, panda-inspired chest ornament, layered waist sash and oversized gold bow. Large detached bell sleeves flare dramatically from the arms, decorated with elegant gold cloud patterns, embroidered borders and orange lining. Short layered skirt with asymmetric hanging fabric panels, tassels, knots and ornamental charms.
+
+Use playful asymmetric leg styling: one leg in a deep charcoal-black thigh-high stocking and the other in a vivid golden-orange thigh-high stocking, with thin ivory garter bands. Black platform ankle boots with gold trim, butterfly-like bows, small tassels and sculpted high heels.
+
+At her waist hangs a tiny round panda mascot charm with black ears and gold accents, accompanied by traditional Chinese knot ornaments, tassels, bells and small talisman accessories.
+
+Signature weapon: an elegant tall ceremonial exorcist staff, almost as tall as the character. Slim black shaft with ornate antique-gold fittings and a large translucent milky-white spherical lantern/orb at the top. The lower half of the orb is wrapped in intricate sculpted gold cloud filigree, topped with a pointed golden cap. Small turquoise bead, gold tassel and decorative pendants hang beneath the orb. The bottom of the staff ends in an ornate gold spear-like finial with a long golden tassel.
+
+Layout: three large consistent full-body character views across the left and center — FRONT, SIDE and BACK — each clearly displaying costume construction, hairstyle, panda ears, braids, asymmetric stockings, footwear and ceremonial staff.
+
+Right side contains a structured DETAILS panel with close-up illustrations: front and side head design showing panda-ear buns, split-color bangs and floral ornaments; enlarged sleeve embroidery and gold cloud pattern; panda mascot charm; chest and waist bow construction.
+
+Below, include STAFF DETAIL showing multiple close-ups of the translucent orb, gold cloud filigree, pointed cap, shaft connection and hanging tassel.
+
+Bottom-right ACCESSORIES section displays individual isolated objects: miniature panda charm, traditional Chinese knot with twin tassels, round black-and-gold paw-print pouch, rectangular talisman ornament with paw symbol and tassel.
+
+Bottom-left COLOR PALETTE featuring ivory white, cream, charcoal black, muted dark brown, golden yellow, vivid orange, warm amber and a small contrasting turquoise accent.
+
+Visual direction: premium Japanese anime mobile game character design, Chinese fantasy × kawaii panda × ceremonial exorcist aesthetic, polished cel shading, delicate clean linework, intricate embroidery, luxurious metallic gold ornamentation, soft translucent lantern material, elegant fabric layering, highly readable silhouette, cute but refined character appeal, professional artbook layout, consistent character identity across every view, production-ready concept sheet, masterpiece, best quality, ultra detailed, 8K.
+
+No photorealism, no realistic panda animal body, no modern streetwear, no dark cluttered background, no inconsistent hairstyle, no inconsistent panda ears, no costume changes between views, no duplicated accessories, no extra limbs, no malformed hands, no distorted staff, no unreadable anatomy, no watermark.</code></pre>
+
+</details>
 
 ## ELARA Character Concept Sheet
 

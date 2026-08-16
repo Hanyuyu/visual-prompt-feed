@@ -1,9 +1,61 @@
 # Cinematic image prompts
 
-46 source-linked prompts, newest ImgLume records first.
+48 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic Night Street Transforming into Blooming Garden in Tokyo
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2088346440292823106)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3021](https://imglume.com/prompt/3021)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b288b650-3b9c-4a21-abed-dae6e6ef210d/34eca8d6-8ceb-4b0d-9a6d-2554e46bd2ad-1786786292601 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking cinematic, photorealistic night scene on a modern Tokyo street just after rainfall.
+
+A beautiful young woman in an elegant contemporary cream outfit walks calmly down the center of the wet street, seen mostly from behind with a subtle side profile visible.
+
+Something magical happens with every step she takes: the dark rain-soaked pavement directly beneath and behind her transforms organically into a narrow trail of lush green grass covered with thousands of tiny wildflowers. Delicate pink, white and soft-yellow blossoms emerge naturally from cracks in the asphalt, with a few petals drifting gently through the air.
+
+The transformation continues into the city behind her. Modern buildings gradually become spectacular living vertical gardens, with vines, flowering plants and greenery climbing across balconies and architecture while still preserving the recognizable structure of a sophisticated Tokyo cityscape.
+
+Keep the untouched street ahead of her wet, dark and urban so there is a clear visual transition between the ordinary city and the blooming world she leaves behind.
+
+Neon storefronts and illuminated signs cast cyan, magenta, amber and soft-white reflections across the rain-covered road. Distant pedestrians carrying umbrellas remain subtle and slightly out of focus.
+
+Create beautiful contrast between futuristic city lights and organic nature. Warm golden illumination should subtly radiate from the flowers around her footsteps, reflecting in puddles without looking supernatural or excessive.
+
+Low cinematic camera angle, strong leading lines, realistic reflections, atmospheric mist, shallow depth of field, natural human proportions, realistic fabric movement, individual flower detail, sophisticated color grading, volumetric lighting, premium feature-film cinematography, emotional storytelling, ultra-photorealistic textures.
+
+The final image should feel peaceful, mysterious and hopeful—as though we are witnessing the exact moment nature begins reclaiming one of the world’s largest cities.
+
+Vertical 4:5 composition optimized for an X post. No captions, logos, watermarks, branded signage, malformed hands, duplicated people, distorted architecture or random text.</code></pre>
+
+</details>
+
+## Ultra-realistic IMAX-level Netflix-style cinematic surreal fantasy portrait
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2088472585768210635)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3020](https://imglume.com/prompt/3020)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5d5b793-b8a1-4952-8410-eb6adcc831aa/9539e215-3ee2-4cbd-a238-338960d87ae0-1786786274426 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f5d5b793-b8a1-4952-8410-eb6adcc831aa/2aa66640-69bd-4623-a565-5676ab60284b-1786786274426 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic IMAX-level Netflix-style cinematic surreal fantasy portrait, 9:16 vertical composition, use the uploaded image as the primary facial reference with maximum face consistency. Create a young adult woman leaning naturally through an old weathered blue wooden window suspended high above a vast sea of clouds, wearing a flowing elegant ivory-white lace-trimmed blouse with soft translucent sleeves. Scene: an isolated rustic window frame floating among massive soft clouds, both blue wooden shutters fully opened outward, heavily weathered paint with peeling textures, aged wood grain and rustic iron hinges; a warm vintage lantern glowing inside the window, while dense clusters of pink and white flowering vines grow across the lower sill and cascade freely downward into the clouds. Pose: her upper body leans gently forward through the open window, torso angled slightly sideways rather than facing the camera, shoulders turned naturally toward the right, one forearm resting comfortably on the wooden sill, the other arm relaxed beside it, head rotated slightly toward the glowing sunset with her face shown in a clear three-quarter side view, chin subtly raised, neck naturally elongated, hair falling freely over one shoulder and moving softly in the high-altitude breeze. Facial expression: peaceful, dreamy and contemplative, eyes gazing toward the distant horizon, relaxed eyebrows, softly parted lips, subtle sense of wonder and quiet emotion. Background: endless layered clouds surrounding the floating window, distant ocean far below visible through gaps in the clouds, enormous billowing cloud formations extending toward the horizon, dramatic sunset positioned on the right side of the frame, glowing sun just above the distant ocean horizon with a long golden reflection across the water. Lighting: warm golden sunset light entering from the right, illuminating the woman's side profile, hair edges, flowers and blue shutters with rich amber highlights, soft cool blue ambient light filling the opposite side, warm interior lantern glow behind her creating a subtle secondary illumination, volumetric sunlight filtering through the clouds, luminous atmospheric haze, strong depth between foreground window, woman, clouds and distant ocean. Her skin has a fair natural skin tone with a natural neutral-warm undertone, soft healthy glow, visible skin texture, fine pores, consistent face and body tone, photorealistic. Rich cobalt-blue weathered shutters, warm amber sunset, soft peach and coral clouds, delicate pink-white flowers, cinematic contrast, realistic wood and fabric texture, natural hair strands, atmospheric perspective, 35mm cinematic lens, deep environmental composition, premium fantasy-film aesthetic, extremely detailed, photorealistic 8K HDR, no text, no logo, no watermark. Negative prompt: front-facing body, front-facing face, flat pose, stiff posture, multiple suns, harsh artificial lighting, cartoon, anime, CGI, plastic skin, excessive smoothing, distorted anatomy, extra limbs, extra fingers, malformed hands, duplicated flowers, blurry face, oversaturated colors, low detail, text, logo, watermark</code></pre>
+
+</details>
 
 ## Cinematic photorealistic portrait on a wooden boat at golden hour sunset
 

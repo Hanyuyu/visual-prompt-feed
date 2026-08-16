@@ -1,9 +1,26 @@
 # Architecture video prompts
 
-4 source-linked prompts, newest ImgLume records first.
+5 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic 13-second cinematic luxury home video
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2088500645548696021)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `cinematic`
+- **ImgLume record:** [3005](https://imglume.com/prompt/3005)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df288f21-a008-4726-8ef7-cc5b55e1ec84/f1eac7d1-a6ab-4f5e-8571-f101de4cc69c-1786778092440 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 13-second ultra-realistic cinematic luxury home video. Start with a wide exterior view of a grand luxury mansion, then smoothly move through the main entrance and showcase the luxurious foyer, living room, kitchen, dining area, and bedroom with seamless cinematic gimbal movement. Continue naturally toward the backyard and reveal a beautifully landscaped lawn with the luxury house in the background. End with the same girl sitting comfortably on the lawn, calmly drinking tea beside an elegant tea set. Premium architecture, warm evening lighting, realistic textures and reflections, cinematic depth of field, smooth camera movement, photorealistic 4K quality, natural atmosphere, no text, no watermark.</code></pre>
+
+</details>
 
 ## Luxury Dark Modern Mansion UI Interaction Video
 

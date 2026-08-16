@@ -1,9 +1,91 @@
 # Travel image prompts
 
-25 source-linked prompts, newest ImgLume records first.
+26 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Pastel Vintage Country Poster
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088227040260669619)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3011](https://imglume.com/prompt/3011)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5993cfd1-d193-4e15-9f17-1570532e7b53/2a62c21c-b09a-4adc-b8f5-78f361fc496c-1786780175247 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5993cfd1-d193-4e15-9f17-1570532e7b53/51e759ed-ddf2-48e1-84c3-9dcf8da21ebf-1786780175247 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5993cfd1-d193-4e15-9f17-1570532e7b53/73ba5173-295c-4704-b91e-284a369bfd7f-1786780175247 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 4:5 vertical vintage travel poster for [COUNTRY], inspired by classic mid-century European tourism posters and elegant modern flat illustration.
+
+Show a beautiful stylized panoramic scene of [CITY / REGION], featuring the country’s most recognizable architecture and landscapes arranged naturally into one harmonious composition.
+
+Include 2–4 iconic landmarks of [COUNTRY] as the main visual elements, but keep them proportionally balanced rather than making one landmark excessively large.
+
+Surround the landmarks with authentic environmental details such as:
+
+distinctive local architecture
+rooftops and historic buildings
+trees and landscaped streets
+a river, lake, coastline, mountains, or countryside when appropriate
+bridges and pathways
+small boats or local transportation where naturally relevant
+subtle national symbols
+a few distant birds
+soft atmospheric clouds
+
+Use a clean flat illustrated style with simplified architectural forms, crisp silhouettes, gentle geometric shapes, minimal linework, and soft painted shadows.
+
+Color palette
+
+Use a sophisticated pastel color palette inspired by [COUNTRY] — soft sky blue, warm cream, muted green, dusty terracotta, pale yellow, soft pink, lavender, and subtle deeper accent colors.
+
+Avoid neon or highly saturated colors.
+
+Illustration style
+
+Pastel gouache • vintage travel illustration • flat vector-inspired artwork • hand-painted texture • soft paper grain • simplified architecture • muted colors • clean shapes • subtle shadows • nostalgic European tourism poster • elegant editorial illustration.
+
+The scene should feel peaceful, charming, artistic, nostalgic, and collectible, rather than photorealistic.
+
+Add a generous warm cream border around the artwork.
+
+At the bottom, create a clean cream typography panel with:
+
+[COUNTRY]
+
+Underneath:
+
+[CITY / REGION]
+
+Then a small elegant tagline:
+
+[SHORT DESTINATION TAGLINE]
+
+Use large uppercase typography with generous letter spacing, refined vintage poster lettering, and minimal decorative lines or a tiny country-inspired emblem.
+
+Composition
+
+Keep the artwork visually balanced with:
+
+large open pastel sky
+strong architectural silhouettes
+layered foreground, middle ground, and background
+gentle atmospheric depth
+clear visual hierarchy
+uncluttered negative space
+elegant poster framing
+
+Avoid
+
+No photorealism, no 3D rendering, no cinematic photography, no excessive detail, no giant single landmark dominating the poster, no modern advertising look, no random objects, no coffee cups, no bicycles, no unnecessary flowers, no clutter, no logos, no watermark.
+
+Overall aesthetic:
+A dreamy pastel vintage travel poster that feels like a beautifully preserved illustration from an old European travel book, updated with clean contemporary graphic design.</code></pre>
+
+</details>
 
 ## Romantic New York Landmark Travel-Journal Line-and-Wash Watercolor
 

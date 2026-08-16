@@ -1,9 +1,265 @@
 # Poster Design image prompts
 
-70 source-linked prompts, newest ImgLume records first.
+75 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium 4:5 vertical cinematic travel poster prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088475690639261784)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3037](https://imglume.com/prompt/3037)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/45c147ad-bb27-4253-8f7e-25ef38f690e8/ba2d8dc4-1360-4238-b1f6-c9a73eead91e-1786798830368 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/45c147ad-bb27-4253-8f7e-25ef38f690e8/f5a3b79a-a8d9-4666-ab1b-46dea5503784-1786798830368 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/45c147ad-bb27-4253-8f7e-25ef38f690e8/ca946023-4239-4875-a577-f0582bebf543-1786798830368 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/45c147ad-bb27-4253-8f7e-25ef38f690e8/b31bea24-2155-4f78-af07-e3e7f001c554-1786798830368 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical cinematic travel poster for [CITY], [COUNTRY], using a completely original editorial concept that captures the unique identity, atmosphere, architecture, culture, and visual character of the destination.
+
+Scene
+
+Create an atmospheric [TIME OF DAY / WEATHER] view of [ICONIC OR DISTINCTIVE CITY ENVIRONMENT], photographed from a sophisticated cinematic perspective.
+
+Show [TRADITIONAL ARCHITECTURE / LANDMARKS / STREETS / NATURAL FEATURES] naturally integrated into the environment. Include authentic local details such as [LOCAL DETAILS — signs, cafés, boats, markets, lanterns, flowers, architecture, etc.].
+
+The composition should feel like a real moment captured while traveling rather than a conventional tourist postcard.
+
+Signature Visual Element
+
+Make [ROAD / WATER / WALL / SHADOW / REFLECTION / ARCHITECTURAL SURFACE] the main creative centerpiece.
+
+Integrate enormous elegant typography reading:
+
+[CITY]
+
+The lettering should interact naturally with the environment — appearing [PAINTED ON THE STREET / REFLECTED IN WATER / FORMED BY SHADOWS / EMBEDDED INTO STONE / CREATED BY ARCHITECTURE].
+
+The typography should follow realistic perspective, lighting, texture, and depth so it feels physically present within the scene rather than digitally pasted on.
+
+Foreground
+
+Include [FOREGROUND OBJECT] that represents the feeling of traveling through the destination.
+
+Add [PERSON / VEHICLE / BICYCLE / CAFÉ TABLE / SUITCASE / BOAT / OTHER ELEMENT] naturally into the composition.
+
+The foreground should create depth and give the image a sense of narrative without overpowering the city.
+
+Atmosphere
+
+Create a [QUIET / ROMANTIC / DREAMLIKE / ENERGETIC / MYSTERIOUS / NOSTALGIC] atmosphere.
+
+Use [SUNRISE / GOLDEN HOUR / BLUE HOUR / NIGHT / OVERCAST / RAIN] lighting.
+
+Include subtle environmental details such as [MIST / RAIN REFLECTIONS / WIND / FALLING LEAVES / BIRDS / LIGHT FOG / SUN FLARES / STREET LIGHTS].
+
+Use a sophisticated destination-specific color palette based on the actual character of [CITY].
+
+Poster Typography
+
+Main title:
+
+[CITY]
+
+Subtitle:
+
+[SHORT ORIGINAL CITY TAGLINE]
+
+Small supporting line:
+
+[COUNTRY] • [DISTINCTIVE CITY CHARACTERISTIC] • [SHORT PHRASE]
+
+Typography should be elegant, minimal, refined, and editorial — inspired by luxury travel magazines and premium international tourism campaigns.
+
+Use sophisticated serif typography with generous spacing and strong visual hierarchy.
+
+Place the main title in an area of natural negative space so it does not obscure important architecture.
+
+Composition
+
+Create three strong visual layers:
+
+Foreground: [FOREGROUND ELEMENTS]
+
+Middle ground: [STREETS / ARCHITECTURE / PEOPLE / LOCAL LIFE]
+
+Background: [LANDMARK / SKYLINE / MOUNTAINS / SEA / DISTANT CITY]
+
+Use realistic depth, atmospheric perspective, natural framing, and cinematic leading lines.
+
+Visual Style
+
+Ultra-realistic cinematic travel photography fused with luxury editorial poster design.
+
+Subtle 35mm film character, realistic textures, authentic architecture, atmospheric depth, natural imperfections, soft dynamic range, sophisticated lighting, fine details, realistic shadows, premium tourism campaign aesthetic.
+
+The destination should feel beautiful but believable, avoiding an overly artificial AI appearance.
+
+Avoid
+
+No generic postcard composition, no excessive landmarks, no collage, no unnecessary graphics, no oversaturated colors, no cartoon aesthetic, no futuristic elements, no fantasy architecture, no clutter, no excessive typography, no unrealistic proportions.
+
+The final image should feel like a high-end cinematic travel campaign poster that immediately communicates the unique personality of [CITY].
+
+4:5 vertical composition, photorealistic, cinematic lighting, exceptionally detailed, premium editorial photography.</code></pre>
+
+</details>
+
+## Pastel Vintage Country Poster
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088227040260669619)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3011](https://imglume.com/prompt/3011)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5993cfd1-d193-4e15-9f17-1570532e7b53/2a62c21c-b09a-4adc-b8f5-78f361fc496c-1786780175247 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5993cfd1-d193-4e15-9f17-1570532e7b53/51e759ed-ddf2-48e1-84c3-9dcf8da21ebf-1786780175247 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5993cfd1-d193-4e15-9f17-1570532e7b53/73ba5173-295c-4704-b91e-284a369bfd7f-1786780175247 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 4:5 vertical vintage travel poster for [COUNTRY], inspired by classic mid-century European tourism posters and elegant modern flat illustration.
+
+Show a beautiful stylized panoramic scene of [CITY / REGION], featuring the country’s most recognizable architecture and landscapes arranged naturally into one harmonious composition.
+
+Include 2–4 iconic landmarks of [COUNTRY] as the main visual elements, but keep them proportionally balanced rather than making one landmark excessively large.
+
+Surround the landmarks with authentic environmental details such as:
+
+distinctive local architecture
+rooftops and historic buildings
+trees and landscaped streets
+a river, lake, coastline, mountains, or countryside when appropriate
+bridges and pathways
+small boats or local transportation where naturally relevant
+subtle national symbols
+a few distant birds
+soft atmospheric clouds
+
+Use a clean flat illustrated style with simplified architectural forms, crisp silhouettes, gentle geometric shapes, minimal linework, and soft painted shadows.
+
+Color palette
+
+Use a sophisticated pastel color palette inspired by [COUNTRY] — soft sky blue, warm cream, muted green, dusty terracotta, pale yellow, soft pink, lavender, and subtle deeper accent colors.
+
+Avoid neon or highly saturated colors.
+
+Illustration style
+
+Pastel gouache • vintage travel illustration • flat vector-inspired artwork • hand-painted texture • soft paper grain • simplified architecture • muted colors • clean shapes • subtle shadows • nostalgic European tourism poster • elegant editorial illustration.
+
+The scene should feel peaceful, charming, artistic, nostalgic, and collectible, rather than photorealistic.
+
+Add a generous warm cream border around the artwork.
+
+At the bottom, create a clean cream typography panel with:
+
+[COUNTRY]
+
+Underneath:
+
+[CITY / REGION]
+
+Then a small elegant tagline:
+
+[SHORT DESTINATION TAGLINE]
+
+Use large uppercase typography with generous letter spacing, refined vintage poster lettering, and minimal decorative lines or a tiny country-inspired emblem.
+
+Composition
+
+Keep the artwork visually balanced with:
+
+large open pastel sky
+strong architectural silhouettes
+layered foreground, middle ground, and background
+gentle atmospheric depth
+clear visual hierarchy
+uncluttered negative space
+elegant poster framing
+
+Avoid
+
+No photorealism, no 3D rendering, no cinematic photography, no excessive detail, no giant single landmark dominating the poster, no modern advertising look, no random objects, no coffee cups, no bicycles, no unnecessary flowers, no clutter, no logos, no watermark.
+
+Overall aesthetic:
+A dreamy pastel vintage travel poster that feels like a beautifully preserved illustration from an old European travel book, updated with clean contemporary graphic design.</code></pre>
+
+</details>
+
+## Vintage layered paper-cut travel poster of {LOCATION}
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2088117395026235773)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2982](https://imglume.com/prompt/2982)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bf03b296-c3d9-489e-b1fe-3b180a2d1b00/86d7fc6c-01f9-4597-8ae7-27b670c6cc38-1786735837099 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bf03b296-c3d9-489e-b1fe-3b180a2d1b00/f107fe4e-8eeb-4e90-9e99-2c9431765766-1786735837099 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bf03b296-c3d9-489e-b1fe-3b180a2d1b00/cc0aba0e-90bc-4aae-a075-1332e270b2da-1786735837099 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/bf03b296-c3d9-489e-b1fe-3b180a2d1b00/004b5b52-6420-401d-a388-dd9ffeaf2333-1786735837099 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Vintage layered paper-cut travel poster of {LOCATION}, portrait orientation with a cream textured border and subtle drop shadow. Giant bold destination title integrated into the sky, a small country label top-left, and a short elegant travel blurb top-right. Iconic {LOCATION} landmarks and architecture overlooking dramatic water/coastline or landscape at golden sunset, with seagulls, boats, flowers, and Mediterranean-inspired details framing the foreground. Intricate 3D papercraft depth, soft pastel palette, warm peach-and-gold light, crisp cut-paper edges, cinematic composition, highly detailed, premium tourism poster illustration. Aspect ratio 3:4</code></pre>
+
+</details>
+
+## Premium contemporary fashion editorial poster prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2088165650124648509)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2977](https://imglume.com/prompt/2977)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/debf91e7-5ee1-4053-89a8-00584136420c/103a904c-0fb3-44dc-ab24-bf431c5b0582-1786730002805 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/debf91e7-5ee1-4053-89a8-00584136420c/2e7750c5-068d-4886-9d2a-69ed7eb024bd-1786730002805 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "TEXT": "&lt;user-defined main editorial text&gt;",
+ "POSE": "&lt;user-defined pose&gt;",
+
+ "prompt": "Create a premium contemporary fashion editorial poster using the uploaded subject as the main character. Preserve the subject's identity, facial structure, natural skin tone, hairstyle, hair color, body proportions, and recognizable appearance accurately.\n\nThe BACKGROUND must be generated automatically based on the overall creative direction. Do not require the user to define the background. Automatically create a sophisticated environment, studio setting, architectural space, abstract backdrop, or atmospheric scene that best complements the subject, wardrobe, pose, and editorial concept. The background should feel intentional, premium, realistic, and visually cohesive.\n\nThe subject must follow the user-defined POSE naturally and convincingly. Automatically generate the wardrobe, accessories, makeup, hair styling, lighting, color palette, camera angle, composition, and overall art direction to suit the generated concept. These elements should not require user input.\n\nUse the user-defined TEXT as the primary oversized editorial typography. Integrate it directly into the composition like a professional fashion magazine cover. The typography should be bold, modern, clean, and large-scale, with intentional spacing and layering. The subject may overlap or partially obscure the typography where appropriate to create depth. Ensure the text is correctly spelled and clearly readable.\n\nDo not add random promotional copy, prices, dates, sale information, product lists, fake brands, logos, watermarks, or unnecessary small text. Only add minimal secondary typography if specifically required by the visual concept.\n\nCreate a high-end fashion editorial aesthetic with cinematic realism, realistic skin texture, natural anatomy, authentic fabric materials, sophisticated lighting, subtle film grain, controlled contrast, premium color grading, and strong visual hierarchy. Avoid generic AI aesthetics, plastic skin, excessive beauty retouching, distorted anatomy, extra fingers, duplicated limbs, warped clothing, messy typography, or visual clutter.\n\nThe final composition should feel like a professionally art-directed contemporary fashion magazine/editorial campaign. The subject is the focal point, the user-defined TEXT is the dominant graphic element, and everything else—including the background—is generated automatically to support the concept."
+}</code></pre>
+
+</details>
+
+## Premium Tourism Campaign Poster Prompt for {LOCATION}
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2088188778938872305)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [2976](https://imglume.com/prompt/2976)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9dceeb6f-09c9-4bac-a346-4af7682cf084/6fb424ec-0777-4a78-8a6d-fcd1855c91aa-1786729954583 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9dceeb6f-09c9-4bac-a346-4af7682cf084/ae7aed95-114f-4264-901d-6aa556a61029-1786729954583 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9dceeb6f-09c9-4bac-a346-4af7682cf084/f1105caa-d432-49bb-956d-df71f496f948-1786729954583 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/9dceeb6f-09c9-4bac-a346-4af7682cf084/5d911cf1-f6a6-4138-9f96-174cce9e53ef-1786729954583 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium tourism campaign poster for {LOCATION} in a strong vertical composition, viewed from an elevated aerial or scenic viewpoint. A long sweeping road should dominate the foreground and curve naturally toward the destination’s most recognizable landscape, landmark, coastline, skyline, or horizon.
+
+The giant words “{LOCATION}” must be painted directly onto the road as bold, premium white road typography. The letters should stretch across a long section of asphalt, following the road’s curves, slope, perspective, and foreshortening. Foreground letters should be oversized and immersive, gradually shrinking into the distance so the typography feels physically engineered into the journey.
+
+Include a refined luxury vehicle naturally in motion as a secondary visual anchor. Surround the road with {ICONIC LANDSCAPE / LANDMARKS}, using authentic local architecture, terrain, vegetation, water, geological features, or cultural elements that immediately identify the destination without feeling generic.
+
+Use minimal luxury tourism branding:
+“{LOCATION}”
+“{SHORT TRAVEL TAGLINE}”
+Optional: “{SECONDARY LINE}”
+
+Use cinematic natural lighting suited to the destination, with controlled highlights, open shadows, atmospheric depth, and realistic transitions between road, landscape, architecture, water, and sky.
+
+Color palette should reflect the destination naturally while maintaining a sophisticated premium travel aesthetic. Hyper-realistic commercial travel photography, elegant composition, strong depth and perspective, world-class tourism campaign quality, ultra-detailed, 8K.
+
+Negative prompt: generic scenery, weak or unreadable road typography, short text, distorted perspective, fake landmarks, inaccurate local architecture, oversaturated colors, muddy shadows, cluttered composition, unrealistic vehicle, cartoon elements, low-detail environment, cheap postcard aesthetic, low-resolution advertising.</code></pre>
+
+</details>
 
 ## American Express Instagram Advertising Poster – Surreal Luxury Concept
 

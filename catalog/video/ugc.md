@@ -1,9 +1,61 @@
 # UGC video prompts
 
-58 source-linked prompts, newest ImgLume records first.
+60 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Burger Night Vlog by Hana (UGC style)
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2088500493308084326)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [3013](https://imglume.com/prompt/3013)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/44f81387-2f11-441b-a43a-8a9929898e85/3d34b5ac-14f5-460e-9551-20f23c80bae8-1786782046292 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic. Product Reference: Use the uploaded gourmet burger image as the only product reference. Preserve the bun shape, patty thickness, cheese melt, lettuce, tomato, sauces, and proportions exactly in every shot. Character Description Name: Hana A young Japanese woman @ Image 1 in her early 20s with natural beauty, long dark hair in a loose ponytail, oversized cream sweatshirt, minimal makeup, bright smile, friendly lifestyle-vlogger personality. Shot Breakdown SHOT 1 (0–2s) — Selfie showing the burger box. Dialogue: "Burger night!" SHOT 2 (2–4s) — Opens the box. SHOT 3 (4–6s) — Quick zoom on the burger. SHOT 4 (6–8s) — Hands lifting the burger with cheese stretching naturally. SHOT 5 (8–10s) — Bite reaction. Dialogue: "Okay... that's incredible." SHOT 6 (10–12s) — Casual close-up b-roll while reaching for fries. SHOT 7 (12–14s) — Toasting the burger toward the camera. Dialogue: "You need this." SHOT 8 (14–15s) — Freeze frame with overlay: "burger cravings = solved 🍔" Look &amp; Feel Warm apartment lighting, genuine phone footage, slight grain, natural autofocus breathing, handheld imperfections, fast jump cuts. Negative Prompt cinematic grading, commercial production, CGI burger, fake cheese, distorted hands, warped food, perfect stabilization, studio lighting, text glitches, logo distortion.</code></pre>
+
+</details>
+
+## Young Korean on Seoul balcony during sudden summer rainstorm – early-2000s home video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2088473253937377771)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3009](https://imglume.com/prompt/3009)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/72b6995b-bd1a-44a2-8a2c-c0cb7d9636dd/e5e770e9-4c73-4477-b35f-5caf2dc7c9f5-1786778137985 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean, naturally attractive, realistic skin, minimal makeup, long dark hair loosely tied back. Wearing an oversized faded lavender T-shirt, loose gray lounge pants, white socks, and a thin silver necklace. Preserve her exact identity, facial features, hairstyle, and appearance throughout.
+
+Location: Small old Seoul apartment balcony during a sudden summer rainstorm. Concrete walls, metal railing, clothesline, colorful laundry, plastic buckets, potted plants, neighboring apartment buildings, dripping air-conditioning units, wet rooftops and blurred city lights. Overcast daylight gradually becoming soft and gray.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Candid, imperfect, nostalgic, ordinary domestic life. Heavy handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft contrast, DV compression, slight motion blur and microphone noise. No stabilization or modern cinematic movement.
+
+00:00–00:03: She hangs the last few clothes on the balcony when the first heavy raindrops begin hitting the railing. She looks upward, realizing the rain is coming.
+
+00:03–00:06: The rain suddenly becomes intense. She quickly grabs the clothes from the line, struggling with several pieces blowing in the wind. The camera shakes while trying to follow her.
+
+00:06–00:09: A gust blows water onto the balcony and splashes her. She laughs, ducks away, and pulls the remaining clothes inside. The camera briefly loses focus behind the wet fabric.
+
+00:09–00:12: She finishes bringing everything inside, slightly damp, and stands beneath the balcony doorway watching the heavy rain. She wipes water from her face and laughs quietly.
+
+00:12–00:15: She notices the camcorder, gives a small amused smile, then holds up one damp piece of clothing as if showing how badly the rain ruined everything. Thunder rumbles in the distance. The camera slowly pans toward the rain-covered rooftops and abruptly cuts.
+
+Audio: Only natural sound—heavy rain, wind, fabric flapping, dripping water, distant traffic, thunder, apartment AC units and faint voices. No music, narration, or added effects.
+
+Goal: Feel like an accidental family recording from the early 2000s: spontaneous, slightly chaotic, intimate and nostalgic, with the rain and imperfect camera operation creating the atmosphere naturally.</code></pre>
+
+</details>
 
 ## 15-second vertical GRWM fashion video of a young Korean woman
 

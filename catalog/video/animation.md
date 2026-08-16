@@ -1,9 +1,150 @@
 # Animation video prompts
 
-73 source-linked prompts, newest ImgLume records first.
+77 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Surreal Dualistic Fashion Portrait Video with Morphing Geometry and Floral Elements
+
+- **Original source:** [@Mayaahh_h on X](https://x.com/Mayaahh_h/status/2088628589055054316)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3048](https://imglume.com/prompt/3048)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6fa4c79e-2d66-4cd3-a5d1-a298cd7bbb1a/375a2dc9-0d44-412f-9c78-7e8fdf43791a-1786809342660 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vertical 9:16 cinematic AI art video, 10 seconds long, smooth continuous morphing transformation of a hyper-detailed surreal fashion portrait of a beautiful woman.
+
+The face is always split vertically down the middle: left side porcelain-white skin with icy blue eyes and glossy red lips, right side deep matte black skin with glowing red eyes and metallic silver lips. High-fashion editorial beauty, sharp features, intense gaze looking straight at camera.
+
+Throughout the video the face constantly shatters and recomposes with floating geometric fragments: sharp white and black triangular shards, cracked porcelain pieces, paper-like geometric planes, and bold red triangular cutouts that slide across the eyes, cheek, and lips. Large delicate white flowers (cosmos/peony style) bloom and dissolve over the head and face. A small delicate white bird occasionally appears perched on a flower or flying across the composition. Soft smoke and abstract black-and-white fabric shapes swirl around.
+
+Sequence of elegant morphs:
+- Start with cracked geometric glasses and floating white cubes
+- Transition into flower-crowned face with bird and shattered glass
+- Minimalist black/white face with pure white triangles
+- Bold red geometric cutouts over the mouth and cheek
+- Full floral headdress with bird and red triangle accent
+- Abstract fragmented flower-covered face with single red eye
+- Cracked flower-over-face composition with flying bird
+- Dualistic face with black/white flowers and red diagonal slash
+- Final intense geometric shatter with red triangles and floating petals
+
+Ultra-detailed skin texture, dramatic high-contrast lighting, dark abstract background, cinematic depth of field, smooth slow morphing animation, dreamlike and elegant, no text, no watermark.
+
+**Music / audio:**
+Dark elegant ethereal ambient track — soft melancholic piano, subtle low strings, atmospheric pads, and delicate glassy textures. Mysterious, sophisticated, slightly haunting mood that perfectly matches the black/white dualism and red accents. Soft dynamic swells that follow the morphing transformations. No vocals, high-quality stereo, cinematic and intimate.</code></pre>
+
+</details>
+
+## Surreal Tokyo Dessert Animation
+
+- **Original source:** [@AiwithShoaib on X](https://x.com/AiwithShoaib/status/2088561377816486211)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3030](https://imglume.com/prompt/3030)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/38b02d71-ba4a-4a44-9557-8b41acc06600/000406b5-2f72-4751-8157-4e16911b7efb-1786790776211 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a seamless 9-second surreal animation blending Tokyo with giant desserts: a massive silver fork plunges into a miniature Tokyo street and lifts a strawberry shortcake slice with whipped cream, strawberries, and red glaze; cut to street level where a giant chocolate slab sits in the pavement as thick caramel pours over it and pedestrians pass by; show a bustling skyscraper avenue decorated with strawberries and whipped-cream rooftops; finally, zoom out to reveal the entire city district sitting on a giant decorated cake on a white plate as a huge fork carves out and lifts a slice of the city-cake, seamlessly returning to the aerial Tokyo view.</code></pre>
+
+</details>
+
+## Golden Panda Exorcist 30s Cinematic Animation
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2088249110709375460)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2992](https://imglume.com/prompt/2992)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d78f0e1f-7b89-4b13-bcf9-8f0a64c815e3/e1d8f13a-5d08-429e-837a-f1103be74243-1786763140027 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d78f0e1f-7b89-4b13-bcf9-8f0a64c815e3/29162325-974e-445d-b3da-ebb7e28465f1-1786763140027 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>try it there: https://t.co/nLq5VAhDdb
+
+2️⃣video prompt:
+
+[CHARACTER LOCK]
+One girl exorcist, age ~17, slim build, composed features, highly expressive eyes.
+HAIR: long black hair with a hard asymmetric front section — a white streak on her left and an orange streak beside it, blunt straight bangs; two large round panda-ear buns high on the head, black with scattered orange dot markings; one long braid falling over the right shoulder with a white-and-orange tail; small gold chrysanthemum ornaments and orange tassel danglers at the buns.
+FACE: large amber-gold eyes with bright highlights, thin lashes, pale skin, small mouth, faint warm blush. Gold lantern light always reflected in her irises.
+OUTFIT: black-and-orange oriental exorcist robe — short black wrap top with gold cloud-scroll embroidery and a round panda emblem at the chest; wide oversized detached hanfu sleeves, black outside with orange lining and gold trim, bare shoulders between; large orange obi sash tied in a bow with long gold-tassel cords; black high collar with a small gold clasp; layered orange-and-gold wrap skirt panels over white shorts; a plush panda-head charm with a red bell hanging at the right hip alongside gold knot tassels and a paw-print talisman; MISMATCHED LEGWEAR — black thigh-high on the left leg, bright orange thigh-high on the right, both with gold bands; black platform heeled boots with gold ribbon bows and white soles.
+WEAPON: tall gold soul-quelling lantern staff, slightly taller than she is — dark gold shaft with ringed segments, topped by a large white orb wrapped in gold cloud filigree with a small gold spire, long orange-gold tassels at the joint. It burns with GOLDEN spirit fire when active and channels floating gold talisman papers and ring-shaped seal arrays.
+Night scene: black mist and deep shadow with red lanterns; her gold light is the only warm source.
+Same face, same hair streaks and panda buns, same robe, same mismatched stockings, same staff in all shots. No costume change, no other lookalike characters.
+[EXPRESSION TRACK — mandatory, must read on her face]
+0-3s calm and still, eyes half-lidded, listening to the bell → 3-5s alert: eyes sharpen, brows lower, quick scanning glances as the mist rises → 5-8s awe without fear as the giant fox demon rises — eyes widening slightly, chin lifting, mouth a firm line → 8-12s fierce concentration holding the seal array: teeth set, brows drawn, effort visible, hair blown back → 12-16s cool combat calm, small confident narrowing of the eyes, precise and unhurried → 16-18s dawning realization as she traces the spirit flow, eyes flicking upward, lips parting slightly → 18-21s resolve hardens into determination, a single decisive nod, jaw set → 21-25s driving forward through the horde, unwavering stare, faint defiant smile → 25-27s shock as the sky-eye opens: eyes flying wide, pupils shrinking, breath caught → 27-30s shock resolving into steady fearless resolve — she lowers her chin, grips the staff two-handed, gold fire lighting her face from below.
+[SHOT SEQUENCE — 30s, continuous escalation]
+0.0-3.0 Midnight. A temple bell tolls over a silent oriental old town. Slow crane down the street as every red lantern snuffs out in sequence; black mist boils up between the flagstones. She stands alone at the center of a stone bridge, staff in hand.
+3.0-5.0 The ground cracks open. Spirit wisps and small demons pour out from below; talisman papers on the eaves ignite. Low angle whip-pan.
+5.0-8.0 A 100m nine-tailed fox demon rises from the black mist, its body eclipsing the whole street and blotting out the moon. Extreme low angle for scale, her tiny silhouette in the foreground.
+8.0-11.0 She raises the lantern staff. Golden light expands into an enormous circular seal array of rotating talisman rings, blocking a wave of demon shadows that crash against it like surf. Camera pushes through the light.
+11.0-14.0 The horde swarms. Flying demons dive over the rooftops; a giant spectral claw smashes the street apart; black demon fire devours a building. She springs across the flying eaves, hurling gold talisman papers that pin demons mid-air. Handheld chase cam.
+14.0-16.5 A massive demon beast lunges head-on. She sidesteps at the last instant, reverses her grip and slams the staff into the ground — a golden barrier detonates outward and blasts the beast back. Speed ramp on the impact.
+16.5-19.0 The town warps: streets invert, buildings drift upward, illusory demons bloom from the mist. Rotating camera as she reads the flow of spirit energy and sees it all converging on an ancient shrine at the town's center.
+19.0-22.0 She runs, stepping across burning talisman papers suspended in air like stones. Tracking shot at her heels, gold sparks trailing.
+22.0-25.0 The hundred demons converge into a tidal horde from every direction. She does not slow — she spins the staff, releasing a spiral burst of golden spirit light, and drives straight through the center of the tide. Orbiting shot through the parting horde.
+25.0-27.0 She reaches the shrine. A colossal demon core pulses in the ground, the horde feeding power into it. She lifts the lantern to seal it — then the power surges far beyond her expectation, and the black mist above coalesces into a single monstrous EYE spanning the entire sky, slowly opening.
+27.0-30.0 She looks up. Camera pushes in on her face as shock hardens into resolve, then a low angle behind her: she grips the staff two-handed, golden spirit fire erupting up its length, and takes one step forward toward the sky-eye. Hard cut mid-step.
+[STYLE / TECHNICAL]
+High-end stylized 3D anime character-PV animation with painterly texture, expressive high-detail facial rig, silk cloth simulation on sleeves and sash. Aesthetic blend: Onmyoji yokai design language, Inuyasha demon-world atmosphere, Genshin Impact oriental fantasy PV polish, Final Fantasy colossal-boss scale. Night grading: deep blacks and cold blue mist versus warm gold and red lantern light, strong rim lighting, volumetric fog, floating embers and ash, gold particle motes, ink-wash smoke dissolve on demon deaths, anamorphic flares, motion blur, brief speed ramps on seal impacts, camera shake on giant hits. 24fps cinematic shutter, 2.39:1 widescreen, mixed crane / handheld / drone / orbit cameras, camera never static — but hold on her face long enough for each emotional beat to read. Combat reads as sealing and warding, not slaughter: barriers, talismans, binding arrays.
+[NEGATIVE]
+static camera, freeze frame, fade to black ending, slow-motion ending, standing idle ending, victory pose ending, blank deadpan face, unchanging expression, character inconsistency, hair color or streak change, missing panda-ear buns, eye color change, matching stockings, costume change, staff design change, second weapon, sword or gun, duplicate lookalike girls, daytime scene, desaturated grading, gore, blood, dismemberment, human corpses, body horror, realistic photo style, off-model face, warped hands, extra fingers, subtitles, text artifacts, watermark, logo overlay, blurry, low detail, dialogue close-ups, idle empty frames.
+[AUDIO]
+Oriental orchestral hybrid: single deep temple bell at 0.0s, erhu and guzheng motifs, taiko drums building throughout, low male chant under the fox demon reveal, wind chimes and paper-flutter textures. Demon shrieks and layered growls, stone cracking, whooshing talisman flames, crystalline chime on each seal array, deep gong on the barrier slam. Big riser into 25.0s, then near-silence with only a slow heartbeat as the sky-eye opens, and a single low chord as she steps forward. No dialogue.</code></pre>
+
+</details>
+
+## 2D赛璐璐风格的围城战动画，指挥官、步兵与巨人对决
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2088161308973965619)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [2987](https://imglume.com/prompt/2987)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7848e204-846e-481d-966c-47453bf7c25b/625a0183-f24f-4a38-aed8-7a8dbebf51cb-1786748740158 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7848e204-846e-481d-966c-47453bf7c25b/bc712a60-0753-4d96-94d7-8262f54fa2bb-1786748740158 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>风格：现代2D赛璐璐动画，采用高品质成人奇幻剧集的画风，角色为平涂色块配干净的深色轮廓线与硬边阴影块面，合成于细节丰富的手绘环境之上，配以电影感光效、空气雾霾与体积感火光。基础色调为冷峻低饱和的石板蓝与灰色，与高饱和的橙色火焰及白色闪电形成强烈反差。宽银幕电影式场面调度，浓重的烟尘与火星粒子，24帧每秒。禁止日式动漫风格，禁止3D渲染，禁止照片写实，禁止喜剧卡通式的身材比例。
+
+主体：@commander（与输入图完全一致100%）——一名体格宽厚壮硕的男性指挥官，一头蓬乱的深棕色浓发，浓黑的眉毛，宽阔的下颌，神情严峻而冷硬，身穿抛光的白银色板甲，配亮橙色领口镶边与圆形金色徽章肩甲。@army——他麾下密集的步兵军团，身着灰色钢板甲与锁子甲，戴圆顶开面头盔，手持长矛与饰有红缨的盾牌，盾面绘着深红色立狮纹章；他们以严整的队列推进。@titan——一名体型巨大的披甲巨人，身高足有城墙的两倍，身穿华丽的金色板甲，戴着有角的头盔，手持一柄巨大战锤，全程仅以逆着闪电的高耸剪影呈现。
+
+场景：夜色中一座被围攻的中世纪要塞——高耸的浅褐色石砌幕墙与方形塔楼，下方是被踏得泥泞翻覆的战场，前景是木制投石机，厚重的阴云天空被地平线上的火光映成橙红色。
+
+动作——攻城战不断升级，直到某种非人之物降临：
+镜头1（0:00–0:03）——低角度宽幅：一列列披甲步兵穿过飘散的烟尘向前推进，长矛如林，燃烧的要塞在他们身后熊熊发亮。硬切。
+镜头2（0:03–0:06）——中景：指挥官立于队伍最前，下颌紧绷，随即将戴着护手的手臂猛地向前一指，直指城墙。硬切。
+镜头3（0:06–0:09）——投石机的抛臂猛然弹起，掷出一颗燃烧的巨石；那团火焰划出高高的弧线掠过漆黑的暴风夜空。硬切。
+镜头4（0:09–0:12）——宽幅镜头：火球狠狠砸中要塞城墙顶端，炸开成一团巨大的橙色爆焰，石块碎片四散飞溅。硬切。
+镜头5（0:12–0:15）——城垛上呈现为剪影的守方弓箭手拉弓齐射，箭雨倾泻向下方的黑暗。硬切。
+镜头6（0:15–0:18）——跟随冲锋步兵的横向移动镜头：盾牌高举，长矛平端，踩着泥泞奔向城墙。硬切。
+镜头7（0:18–0:21）——固定机位对准石墙：细如发丝的裂纹在墙面上蔓延开来，越裂越宽，尘土从缝隙中簌簌倾泻。硬切。
+镜头8（0:21–0:24）——城墙在一团巨大的橙色火球中炸开，石墙被撕出一道参差的豁口，密集的军队朝着缺口汹涌扑去。硬切。
+镜头9（0:24–0:27）——整个画面骤然变为纯粹的黑白剪影，一道巨大的白色闪电直劈进缺口；士兵们化作黑色剪影形状，在刺目的白光中被掀飞出去。硬切。
+镜头10（0:27–0:30）——低角度英雄视角：一名金甲巨人矗立在燃烧的缺口之中，手持战锤，闪电在他肩头游走攀爬，渺小的军队在他脚下的火焰中溃散一地。定格保持。切黑场。
+
+摄影：行军军团使用低角度宽幅；指挥官使用缓慢推进；火球使用快速上仰跟拍；爆炸使用固定机位宽幅；冲锋使用横向跟随移动；开裂的城墙使用静止定格；破墙瞬间使用剧烈晃动；巨人的揭示使用缓慢上摇。终幕镜头停留两拍。
+
+音效：深沉的战鼓与低音铜管贯穿整段并持续推高，数百双行军靴与铠甲的碰撞声，投石机的木质呻吟与爆响，烈焰咆哮，石块开裂崩塌，箭矢破空的嘶鸣，千军万马的呐喊——随后在闪电劈下的瞬间一切声音戛然而止，紧接着是一记巨大的雷鸣，以及终幕镜头下低沉的次低频轰鸣。无对白，无字幕。
+
+限制条件：16:9画幅。指挥官必须与输入图完全一致100%，不得出现形象漂移——务必保持蓬乱的深色头发、浓重的眉毛、白色板甲、橙色领口镶边与金色徽章肩甲。每一帧都必须是平涂赛璐璐2D角色叠加于手绘背景之上；禁止3D渲染，禁止照片写实，禁止日式动漫风格。仅限风格化的战斗表现——无血液，无血腥，无可见伤口；士兵仅以剪影形式被击飞冲散。巨人全程只以逆光剪影的形态呈现，绝不清晰展示面部。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+
+</details>
 
 ## 30-second cinematic animated short with a Taoist warrior and reluctant giant
 

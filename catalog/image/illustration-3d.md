@@ -1,9 +1,49 @@
 # Illustration 3d image prompts
 
-43 source-linked prompts, newest ImgLume records first.
+45 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Colored Pencil Illustration of Blue Cornflower Field with Ocean
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2088517844535287875)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `nature`
+- **ImgLume record:** [3019](https://imglume.com/prompt/3019)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75867d06-6630-4b9c-a1d7-b832289681d3/8115ed56-bff0-4381-9136-30442fcb4814-1786786258842 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/75867d06-6630-4b9c-a1d7-b832289681d3/44535548-b192-4e8d-8e6d-851318d5c754-1786786258842 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/75867d06-6630-4b9c-a1d7-b832289681d3/63243e64-a12a-409c-9632-5110638b7b49-1786786258842 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. A vast field of vivid blue cornflowers (Centaurea cyanus) blanketing the foreground, among tall golden-yellow grass, with stems and buds interspersed. A narrow winding dirt path meanders through the flowers toward the distance. A soft layer of morning mist and light haze drifts gently over the field and the far shore, softening the horizon. Beyond the field, a serene ocean stretches to the horizon, where a single sailboat drifts gently on the still water. The water reflects the warm glow of the sky. The sky fills the upper third and is colored from deep dusky blue at the top down to warm shades of orange, gold, and pale yellow near the low sun, with soft wispy backlit clouds. The perspective is wide and slightly elevated, showcasing the detailed cornflowers, the misty meadow, and the expansive calm seascape with the distant sailboat. The style is reminiscent of colored pencil art, with visible textures creating a soft, serene mood. The overall atmosphere is peaceful, dreamy, and nostalgic, with warm golden tones contrasting against the cool electric blue of the flowers.</code></pre>
+
+</details>
+
+## Miniature 3D papercraft and clay-diorama illustration of London postcard
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2088124379775566200)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [2973](https://imglume.com/prompt/2973)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/177465a7-77ac-4bbb-8d05-1317f70da7e0/64afa7fe-53a5-4d31-aa0e-9a42b3bfa2a2-1786729933521 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/177465a7-77ac-4bbb-8d05-1317f70da7e0/f2a440bf-615c-4c81-8f5c-d28558a5362b-1786729933521 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/177465a7-77ac-4bbb-8d05-1317f70da7e0/0726b269-5eb2-411f-9823-5bfa870f841d-1786729933521 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/177465a7-77ac-4bbb-8d05-1317f70da7e0/8618f1c0-af86-4671-832f-a7cadd59ee59-1786729933521 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming miniature 3D papercraft and clay-diorama illustration of London, England, presented like a premium handcrafted souvenir postcard. Set the scene on a rounded cobblestone island over a warm off-white textured paper background.
+
+Feature miniature Big Ben and the Palace of Westminster, the London Eye, Tower Bridge, and classic red double-decker buses, surrounded by elegant Victorian architecture, narrow streets, tiny black cabs, and the River Thames flowing through the composition. Add miniature Londoners in stylish everyday British clothing, tiny Union Jack details, street lamps, flower planters, café tables, newspaper stands, red telephone booths, and subtle London street signs.
+
+Build everything from layered paper, molded clay, folded cardstock, and finely textured handmade materials. Include soft papercraft clouds above the skyline with a tiny airplane and a few birds drifting through the sky. Use warm cinematic lighting, gentle shadows, subtle depth of field, whimsical miniature proportions, intricate handcrafted details, and a sophisticated premium souvenir aesthetic.
+
+Compose the diorama from a slightly elevated three-quarter perspective, with a polished yet handmade feel and beautifully balanced visual density. Place elegant cursive lettering beneath the miniature diorama, integrated naturally into the postcard design.</code></pre>
+
+</details>
 
 ## Retro Urban Album-Art Illustration Prompt
 

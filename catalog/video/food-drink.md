@@ -1,9 +1,166 @@
 # Food Drink video prompts
 
-49 source-linked prompts, newest ImgLume records first.
+55 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic smartphone food vlog in Tokyo
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2088605003112235033)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3043](https://imglume.com/prompt/3043)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/10a22dd1-7a2e-4097-8016-3dce97a59ca9/32462e5b-60fa-4fbe-a610-f6a8e31187ef-1786807334971 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic smartphone food vlog set in a charming neighborhood in Tokyo, Japan. The entire video must look like it was genuinely recorded on a modern flagship smartphone by a real female creator, not like a cinematic production or AI-generated video.
+
+0–5 seconds: A young Japanese woman walks through a narrow Tokyo side street in the early evening, holding her smartphone at arm’s length and casually talking to the camera. Traditional Japanese shopfronts, vending machines, bicycles, small signs, utility wires, pedestrians and warm storefront lights create an authentic neighborhood atmosphere. Natural handheld movement and slight framing imperfections.
+
+5–10 seconds: She notices a tiny hidden dessert café and turns the camera toward its entrance with an excited reaction. She walks inside while continuing the vlog. The camera naturally adjusts exposure from the bright street to the warmer interior.
+
+10–16 seconds: Show the staff preparing a fresh strawberry cream dessert. Realistic strawberries, whipped cream, soft cake layers and small details of the preparation. The creator moves the phone closer for a natural food close-up while autofocus subtly shifts between the dessert and her hand.
+
+16–22 seconds: She receives the dessert, holds it directly toward the phone camera, then takes a spoonful and tastes it. Her reaction should be spontaneous and believable, with subtle facial expressions rather than exaggerated acting.
+
+22–27 seconds: She smiles, takes another small bite and turns the camera slightly to show the cozy café interior, Japanese customers naturally sitting in the background and warm practical lighting.
+
+27–30 seconds: She walks back outside onto the Japanese street, looks directly into the phone camera and naturally says, “Okay, this place was actually so good!” She smiles and ends the recording casually.
+
+Authentic Japanese environment, realistic human behavior, natural walking physics, real-looking food textures, accurate skin texture, natural hair movement, realistic reflections, imperfect smartphone framing, subtle autofocus hunting, automatic exposure adjustments, slight handheld shake, natural motion blur, realistic low-light smartphone noise, true-to-life colors, detailed background activity, genuine vlog energy, high-resolution smartphone footage, photorealistic, documentary realism, no cinematic camera moves, no drone shots, no artificial slow motion, no CGI appearance, no text, no subtitles.</code></pre>
+
+</details>
+
+## Photorealistic cinematic high-end cocktail bar scene
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2088527190417891661)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3014](https://imglume.com/prompt/3014)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/521f09ea-49b0-413a-b760-6b79e6ade950/ec624ab3-7e9b-4a98-98c5-2299feb04aa1-1786784145991 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic high-end cocktail bar during a packed Friday night rush, narrow backbar shelving lined with bottles, low amber pendant lights, backlit ice wall, condensation on glassware, crowded service well, bartenders moving rapidly in a tight space, warm amber light mixed with cool blue neon accents, realistic skin texture and sweat sheen, subtle handheld camera movement, rich lived-in bar detail, natural 35mm film grain. Shot with grounded modern realism and precise temporal control.
+Maintain perfect character consistency for the young female bartender throughout: mid-20s, sharp focused eyes, dark hair pulled into a low bun with loose strands, black fitted vest over a white shirt, sleeves rolled, thin leather wrist strap. No glamour styling, no artificial skin smoothing.
+0–4s: [Energetic Handheld Tracking Shot] The camera follows the young bartender moving quickly along the service well, carrying a finished garnished cocktail toward the bar top. Coworkers cross tightly around her, a shaker rattles nearby, a barback calls out a ticket and the head bartender glances over from the register. She shields the glass with both hands while weaving through the crowd of reaching guests.
+4–11s: [Sudden Collision into Dynamic Super Slow-Motion] A guest leans back off a barstool without looking and knocks into her arm. The glass tips violently. Its contents lift away from the rim: the liquid separates into a curving ribbon, a large clear ice sphere floats free, citrus twist and edible flower garnish spin loose, a scatter of fine mist hangs suspended in the air.
+The camera moves into a smooth orbit around her as time slows almost completely. Steam from the espresso machine, neon light flicker, surrounding staff, a falling bar spoon and every airborne component become perfectly suspended at the peak of the accident. Everyone else freezes mid-reaction. Only the young bartender remains free to move.
+She absorbs the shock for one brief beat, then reacts with extraordinary speed and precision. Moving through the frozen arrangement, she catches the ice sphere in one palm, redirects the citrus twist with her fingertips, slides the glass beneath the falling liquid and rebuilds the drink directly from the suspended arc. She catches the ribbon of liquid with the rim of the glass, guides it back inside cleanly, sets the flower garnish on top and steadies the glass just before it can spill.
+11–15s: [Time Snaps Back to Normal — Continuous Tracking Shot] Full-speed bar noise returns at once. The bar spoon and a few harmless droplets strike the floor behind her, but the completed cocktail is already steady in her hand. The guest who bumped her turns in disbelief. She does not stop or celebrate; she continues directly toward the bar top as though nothing happened.
+15–18s: [Tense Medium Close-Up] She sets the reconstructed cocktail down in front of the head bartender's section. He studies it in silence under the pendant light. Bar sounds become slightly muffled. He notices one small drip on the stem, wipes it away with a bar towel and looks at her without revealing approval or disappointment.
+18–20s: [Final Close-Up] The head bartender slides the glass toward the waiting server and nods for it to go out. The young bartender releases one controlled breath, turns back toward the busy well and immediately starts the next ticket. End on the flawless cocktail disappearing into the crowd.
+Photorealistic, ultra-detailed liquid, ice and garnish physics; perfect preservation of glass shape, liquid volume and ice clarity; convincing suspended droplets and mist; sharp motion blur only on actively moving elements; believable hand interaction; stable anatomy; consistent glassware design and garnish placement; seamless transitions between real time, extreme slow motion, near-frozen time and normal speed; no magical glow or fantasy visuals—the temporal effect should feel like heightened cinematic perception during an adrenaline response. Aggressive handheld energy outside the slow-motion passage, smooth controlled orbit during it, tactile bar sound design, realistic performances, rich contrast, natural film grain, no artifacts, no distorted hands, no floating garnish after time resumes, movie-level continuity and high rewatch value.</code></pre>
+
+</details>
+
+## Burger Night Vlog by Hana (UGC style)
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2088500493308084326)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [3013](https://imglume.com/prompt/3013)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/44f81387-2f11-441b-a43a-8a9929898e85/3d34b5ac-14f5-460e-9551-20f23c80bae8-1786782046292 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 15 seconds | Aspect Ratio: 16:9 | Style: Authentic UGC / iPhone selfie-vlog, handheld, natural light, TikTok/Reels aesthetic. Product Reference: Use the uploaded gourmet burger image as the only product reference. Preserve the bun shape, patty thickness, cheese melt, lettuce, tomato, sauces, and proportions exactly in every shot. Character Description Name: Hana A young Japanese woman @ Image 1 in her early 20s with natural beauty, long dark hair in a loose ponytail, oversized cream sweatshirt, minimal makeup, bright smile, friendly lifestyle-vlogger personality. Shot Breakdown SHOT 1 (0–2s) — Selfie showing the burger box. Dialogue: "Burger night!" SHOT 2 (2–4s) — Opens the box. SHOT 3 (4–6s) — Quick zoom on the burger. SHOT 4 (6–8s) — Hands lifting the burger with cheese stretching naturally. SHOT 5 (8–10s) — Bite reaction. Dialogue: "Okay... that's incredible." SHOT 6 (10–12s) — Casual close-up b-roll while reaching for fries. SHOT 7 (12–14s) — Toasting the burger toward the camera. Dialogue: "You need this." SHOT 8 (14–15s) — Freeze frame with overlay: "burger cravings = solved 🍔" Look &amp; Feel Warm apartment lighting, genuine phone footage, slight grain, natural autofocus breathing, handheld imperfections, fast jump cuts. Negative Prompt cinematic grading, commercial production, CGI burger, fake cheese, distorted hands, warped food, perfect stabilization, studio lighting, text glitches, logo distortion.</code></pre>
+
+</details>
+
+## Cinematic slow-motion food commercial of a gourmet cheeseburger
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2088481022619095351)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3006](https://imglume.com/prompt/3006)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/424e65ff-bd97-4837-86a5-9a6151be9207/b68c4a86-44b2-44ba-839c-c99c1f7caf77-1786778110810 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic slow-motion food commercial of a gourmet cheeseburger being prepared. Extreme close-up of a hand lighting a gas stove with a match, blue flames igniting. A thick raw beef patty seasoned with black pepper and salt drops onto a hot black cast-iron grill pan, sizzling with sparks and smoke. Flames erupt around the patty as it sears. Melted cheddar cheese slice is placed on the juicy browned patty and starts melting. Fresh green lettuce leaves being pulled apart by hands. Floating red onion rings in the air against black background. Juicy red tomato slices stacked with water droplets flying. Thick red sauce being stirred with a wooden spoon. Sauce being spread on a soft burger bun with fingers. Onion rings placed on the sauced bun. Layers of lettuce, tomato slices, pickle slices, and red onion rings stacked. The cheesy beef patty is placed on top, sauce dripping. Final shot of the complete tall cheeseburger with sesame seed bun, melted cheese, dripping orange sauce, fresh veggies, steam rising dramatically, sesame seeds floating in the air, dark moody background, ultra realistic, high detail, mouthwatering, commercial food photography style, 8k.</code></pre>
+
+</details>
+
+## The Decadent Snap - Artisanal Chocolate Bar Video Prompt
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2088280085363060963)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2984](https://imglume.com/prompt/2984)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6ce7616b-0a7c-4613-a5d4-af5da66d262e/5991df54-f38f-4843-92c3-4856f908537e-1786735870196 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>---
+[00:00 - 00:03] THE HOOK (The Clean Snap)
+• Visual &amp; Camera: Starts on the image anchor. Macro tight shot of the dark chocolate bar held by the 28-year-old East Asian woman.
+• Action / Movement: Hands snap the thick chocolate slab cleanly in half in extreme slow motion. A tiny puff of fine cocoa dust explodes outward at the breaking point.
+• Audio / Sound Design: Crisp, loud, reverberating "SNAP" sound effect that echoes sharply into silence.
+• On-Camera / Voice: None. Pure structural precision and acoustic clarity.
+
+---
+[00:03 - 00:08] THE MELT &amp; DRIP (Rich Texture)
+• Visual &amp; Camera: Macro close-up tracking shot moving along a square of chocolate as liquid caramel or melted dark chocolate cascades smoothly over the edges.
+• Action / Movement: Thick, glossy molten chocolate flows slowly over the rigid edges, coating the surface in a seamless, velvet layer.
+• Audio / Sound Design: Deep, warm, low-frequency atmospheric synth pad swells smoothly.
+• On-Camera / Voice: None. Focus on fluidity and luxury.
+
+---
+[00:08 - 00:12] THE PERSONAL EXPERIENCE
+• Visual &amp; Camera: Medium shot, eye-level. Warm, ambient lighting casting a golden glow.
+• Action / Movement: The 28-year-old East Asian woman places a small square on her tongue, closes her eyes, and takes a moment to let it melt, exhibiting pure indulgence.
+• Audio / Sound Design: Music track softens to a gentle hum.
+• Dialogue (Real-time on-camera): "Pure, unadulterated dark."
+
+---
+[01:12 - 00:15] THE HERO SIGN-OFF
+• Visual &amp; Camera: Overhead static hero shot of the broken chocolate bar sitting alongside gold foil on a dark slate block.
+• Action / Movement: Light sweeps smoothly across the glossy surface of the chocolate.
+• Audio / Sound Design: Ambient music settles into a deep, elegant final chord.
+• On-Screen Text / Call to Action: "Indulge the Senses."</code></pre>
+
+</details>
+
+## Chocolate Lava Cake Video Prompt
+
+- **Original source:** [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088237953772638270)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [2974](https://imglume.com/prompt/2974)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/03296833-723f-4253-b21b-921cbff18b7e/82610636-4eb8-4b74-a491-602f1920d542-1786729944262 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic 10-second culinary commercial for a chocolate lava cake.
+Shot 1 (0:00–0:01): Close-up 45-degree angle of a fresh egg falling into a mound of cocoa powder and flour in a glass bowl on a wooden countertop.
+Shot 2 (0:01–0:03): Top-down overhead view of a metal wire whisk actively stirring velvety, glossy chocolate batter into silky concentric swirl patterns.
+Shot 3 (0:03–0:05): Medium close-up eye-level shot of thick chocolate batter pouring in a smooth ribbon fold into a grey ceramic ramekin dusted with cocoa.
+Shot 4 (0:05–0:07): Straight-on medium shot inside a modern oven, warm amber interior glow, showing the chocolate lava cake fully risen and domed on the wire rack.
+Shot 5 (0:07–0:10): Hero macro shot of the baked lava cake on a matte dark plate; a silver spoon breaks into the crust, releasing a flowing cascade of warm molten chocolate lava with delicate rising steam.
+Style: High-end commercial cinematography, natural studio lighting, ultra-realistic textures, shallow depth of field, 8k resolution, smooth transitions.</code></pre>
+
+</details>
 
 ## First-person POV cooking scene of Japanese Omurice
 
