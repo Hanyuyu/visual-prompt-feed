@@ -1,9 +1,100 @@
 # Product Ads video prompts
 
-58 source-linked prompts, newest ImgLume records first.
+60 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Frozen Shell – 15-Second Ice Cream Campaign
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2088945755922878780)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3114](https://imglume.com/prompt/3114)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/38c832ad-45f6-4423-b142-ebd57da7c731/8b259c2f-9c91-4944-b669-242626ded3d0-1786891741525 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Project: Frozen Shell (15-Second Ice Cream Campaign)
+Format: Text-to-Video with Image Anchor (Start Frame)
+
+---
+[00:00 - 00:03] THE HOOK (The Shell Crack)
+• Visual &amp; Camera: Starts on the image anchor. Extremely tight macro close-up on the frozen dark chocolate shell of the ice cream bar.
+• Action / Movement: The 26-year-old Latina woman bites into the bar in hyper-slow motion. The hard chocolate shell cracks in intricate spiderweb patterns before a piece breaks off cleanly.
+• Audio / Sound Design: A sharp, wooden "CRACK-CRUNCH" sound effect followed by a deep sub-bass pulse.
+• On-Camera / Voice: None. High-contrast texture shift.
+
+---
+[00:03 - 00:08] THE CREAMY DIP &amp; DIP-FLOW
+• Visual &amp; Camera: Macro shot of the interior showing dense, rich vanilla bean ice cream contrasting against the dark chocolate shell fragments.
+• Action / Movement: Slow-motion shot of a fresh ice cream bar being dipped into a vat of liquid chocolate, pulling out as a smooth, glossy coat quickly freezes into a matte finish.
+• Audio / Sound Design: Smooth, airy "WHOOSH" sound layering into a bright, summer-themed indie-pop synth line.
+• On-Camera / Voice: None. Focus on temperature contrast and surface transformation.
+
+---
+[00:08 - 00:12] THE REFRESHMENT
+• Visual &amp; Camera: Medium shot, eye-level. Golden hour sunlight highlighting her face.
+• Action / Movement: The 26-year-old Latina woman laughs softly, savoring the bite as sunlight reflects off her face. She looks straight at the camera.
+• Audio / Sound Design: Music track dips under clear vocal audio.
+• Dialogue (Real-time on-camera): "Worth every single bite."
+
+---
+[00:12 - 00:15] THE HERO SIGN-OFF
+• Visual &amp; Camera: Crisp hero shot of the ice cream bar resting on a marble surface next to vanilla beans and crushed dark chocolate pieces.
+• Action / Movement: A single drop of melted chocolate falls from the tip onto the marble in slow motion.
+• Audio / Sound Design: Upbeat final acoustic chime fade-out.
+• On-Screen Text / Call to Action: "Break the Cold."</code></pre>
+
+</details>
+
+## KitKat Break Focus Commercial
+
+- **Original source:** [@IsabellaHan_ on X](https://x.com/IsabellaHan_/status/2088662632769216628)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3052](https://imglume.com/prompt/3052)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7589bdbd-dffd-4289-8b6e-16558bda613d/32890906-20f8-4c86-9ba5-3975124f5d6b-1786813542524 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CORE MESSAGE: "What if today, you could use the break to find your focus?" — a KitKat break creates a moment to pause, reset, and return to what matters with renewed focus. Feel like a premium global chocolate ad with emotional family storytelling — NOT a generic product commercial, NOT a fitness ad, NOT a children's cartoon. Warm, aspirational, elegant, believable.
+SCENE 1 — MORNING BEGINS (0:00–0:03)
+Luxury family home, soft morning light. Camera moves through the elegant kitchen (marble island, warm wood, pendant lighting, garden view). Mother (Ref 1) prepares breakfast in elegant cream/beige homewear; son (Ref 3) enters sleepily; father (Ref 2) preps coffee in background. Red KitKat (Ref 5) sits naturally on the island; camera pushes toward it — integrated, not a catalog shot.
+VO (warm female): "Every day brings a new challenge…"
+SCENE 2 — WAKE UP, CHAMPION (0:03–0:06)
+Mother wakes son, opens curtains. MOTHER: "Good morning, champion." BOY: "Five more minutes…" Natural, warm. Mother stays in casual homewear — no office clothes.
+SCENE 3 — BREAKFAST / KITKAT INTRO (0:06–0:09)
+Family at the island. Son notices the KitKat, picks it up, looks at it (doesn't eat yet — introduction moment), places it by his school bag.
+VO: "Sometimes, all you need is a moment…"
+SCENE 4 — READY FOR SCHOOL (0:09–0:12)
+Son dressed in navy blazer/uniform. Mother straightens his collar; father nods. KitKat visible in his open bag. He heads out the front door into daylight.
+VO: "...to reset."
+SCENE 5 — SCHOOL / THE CHALLENGE (0:12–0:16)
+Realistic classroom. Son looks focused but slightly overwhelmed at his desk, tries to work through a problem, briefly distracted. Natural classroom ambience, no music yet.
+SCENE 6 — THE KITKAT BREAK (0:16–0:20) (key product moment)
+Bell rings. Son takes a breath, pulls the exact KitKat (Ref 5) from his bag. Close-ups: opens wrapper, snaps off a finger, bites, pauses — visibly relaxes and refocuses.
+VO (slow, deliberate): "What if today, you could use the break to find your focus?"
+Music lifts gently. Only one bite — no repeat consumption.
+SCENE 7 — BACK TO FOCUS (0:20–0:22)
+Match cut to him at his desk, calm and writing confidently; teacher notices.
+VO: "Pause. Reset. Go again."
+SCENE 8 — FOOTBALL FIELD (0:22–0:26)
+Match cut to his foot kicking a ball. Realistic child-level play — receives, passes, shoots, scores; teammates celebrate. School bag with KitKat visible on the sideline (no second KitKat eaten — visual continuity only).
+VO: "And get back to what matters." Music turns energetic; football ambience.
+SCENE 9 — FATHER AND SON (0:26–0:28)
+Home, cream sofa. KitKat nearby on coffee table. FATHER: "Proud of you, kid." BOY: "Thanks, Dad." Warm, intimate two-shot.
+SCENE 10 — FINAL KITKAT HERO SHOT (0:28–0:30)
+Premium product shot on the marble island: unopened KitKat, a few wafer fingers, chocolate crumbs, warm natural light, home softly visible behind.
+VO: "Have a break, have a KitKat." ON-SCREEN TEXT: same line. End clean on product.</code></pre>
+
+</details>
 
 ## Bright premium OLLY gummy vitamins product video
 

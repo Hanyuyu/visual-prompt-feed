@@ -1,9 +1,26 @@
 # Product Ads image prompts
 
-16 source-linked prompts, newest ImgLume records first.
+17 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Studio product photo of raspberry-encased product
+
+- **Original source:** [@Maddox_Digital on X](https://x.com/Maddox_Digital/status/2088441415907041644)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3066](https://imglume.com/prompt/3066)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/08cfca60-36e5-4bba-b746-ef3b1f33ffd6/9bd8ba65-a778-4276-9e45-18b20fec2276-1786836623210 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/08cfca60-36e5-4bba-b746-ef3b1f33ffd6/3a629917-91c7-48d5-b015-a57972814294-1786836623210 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/08cfca60-36e5-4bba-b746-ef3b1f33ffd6/2fa71fcf-10fb-46ba-8bd6-5d77f41f9448-1786836623210 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/08cfca60-36e5-4bba-b746-ef3b1f33ffd6/13ea1121-45d0-4da7-8617-72d54a968e9b-1786836623210 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Studio product photo of [product from uploaded photo] encased inside a hyper-realistic, oversized cross-section of a raspberry, split into two halves that wrap around and cradle the product like a protective shell, with the product sitting centered, floating slightly with a soft contact shadow; the raspberry surface shows glossy, dew-covered individual drupelets with visible juice dripping down realistically over the product, fine details like tiny hairs and moisture droplets, hyper-realistic CGI product photography style, high-end commercial advertising look, soft diffused studio lighting with subtle rim light, seamless light grey studio backdrop with subtle gradient, vertical composition, clean and minimal, no text overlays unless part of the product's own packaging.</code></pre>
+
+</details>
 
 ## Premium hyper-realistic skincare campaign with surreal yellow aesthetic
 

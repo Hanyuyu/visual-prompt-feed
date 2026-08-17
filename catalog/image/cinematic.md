@@ -1,9 +1,129 @@
 # Cinematic image prompts
 
-48 source-linked prompts, newest ImgLume records first.
+50 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-photorealistic cinematic fashion photograph of a woman riding a black horse on a tropical beach
+
+- **Original source:** [@Madhuribhai on X](https://x.com/Madhuribhai/status/2088842448827265290)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`
+- **ImgLume record:** [3106](https://imglume.com/prompt/3106)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d79b114a-150c-49f8-ae95-64b5975e7fb1/0d1c8d52-365b-47a9-b3fc-dcb7b99f6dff-1786887056902 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic cinematic fashion photograph of an elegant woman riding a powerful jet-black horse along a pristine tropical beach during a bright, windy afternoon.
+
+SUBJECT:
+A striking adult woman with long, naturally wavy dark hair flowing dramatically in the ocean breeze. She has refined natural facial features, realistic skin texture, subtle pores, delicate facial asymmetry, and a calm, confident expression. She looks slightly toward the camera while maintaining a believable riding posture.
+
+She is wearing a luxurious flowing crimson-red off-shoulder dress made from lightweight semi-transparent chiffon and silk. The dress has realistic folds, layered fabric, natural stitching, subtle fabric texture, and a long flowing train extending dramatically behind her. The wind catches different sections of the dress independently, creating complex natural movement rather than a perfectly uniform wave.
+
+Her posture must look like that of a real experienced rider: balanced torso, naturally positioned legs, relaxed but controlled hands holding the reins, realistic contact between her body and the horse.
+
+HORSE:
+A magnificent muscular black horse with a glossy but completely natural coat. Highly detailed facial anatomy, realistic eyes, nostrils, ears, mane, muscles, veins, and individual strands of hair.
+
+The horse is moving at a fast but believable gallop along the shoreline. Its front legs and rear legs must have anatomically correct positioning and realistic joint movement. Hooves interact naturally with the wet sand, producing small splashes and scattered grains of sand.
+
+The horse wears an elegant but practical dark leather bridle and saddle with realistic stitching, buckles, leather texture, subtle wear, and believable physical attachment.
+
+ENVIRONMENT:
+A breathtaking tropical beach stretching into the distance.
+
+On the left side, crystal-clear turquoise-blue ocean water approaches the shoreline with small white waves and realistic foam.
+
+Behind the rider are tall tropical palm trees bending slightly in the ocean breeze, dense green vegetation, white sand, and a distant coastline.
+
+The sky is enormous and dramatic, filled with large naturally shaped cumulus clouds against a rich blue tropical sky.
+
+The beach should not look artificial or perfectly clean. Include tiny footprints, hoof marks, irregular wet patches, small shells, scattered natural debris, subtle sand texture, and realistic variations in color.
+
+MOVEMENT:
+Capture the exact moment when the horse is galloping beside the water.
+
+The woman's hair should be blown backward and sideways by the wind, with hundreds of individual strands behaving naturally.
+
+The red dress should trail behind her in multiple layers, with different sections of fabric catching different amounts of wind.
+
+The horse's mane and tail should flow naturally with its movement.
+
+Small droplets of seawater and grains of wet sand should be suspended around the horse's hooves.
+
+LIGHTING:
+Bright natural tropical sunlight coming from slightly above and in front of the subjects.
+
+Strong but realistic sunlight creates beautiful highlights along the horse's glossy black coat while preserving detailed shadows.
+
+Natural highlights on the woman's skin, realistic reflections in her eyes, subtle translucency in the red fabric, and physically accurate reflections on wet sand.
+
+Avoid excessive HDR, artificial glow, or oversaturated colors.
+
+CAMERA &amp; COMPOSITION:
+Professional full-frame cinematic photography.
+
+Use approximately a 35mm lens from a low-to-medium camera position close to the horse's running height.
+
+Frame the horse prominently in the foreground while keeping the rider clearly visible from head to lower body.</code></pre>
+
+</details>
+
+## The Painter Who Finished the Sky
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2088604255196434616)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3075](https://imglume.com/prompt/3075)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/31322931-d484-4e28-b079-9c90b70a7b51/c98b756d-2f30-4a3f-9def-6db8fec57c41-1786857641015 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking cinematic fantasy scene titled “The Painter Who Finished the Sky.”
+
+At sunset, a lone artist stands high on the rooftop of an old European city, viewed mostly from behind, holding a wooden painter’s palette in one hand and a fine paintbrush raised toward the sky in the other.
+
+Beside him rises an enormous antique wooden canvas frame, several times taller than the artist. But there is no ordinary canvas inside it—the frame is mysteriously connected directly to reality itself.
+
+Create a dramatic visual transformation across the scene.
+
+On the left side, the world is unfinished: cold, desaturated and rainy. Heavy charcoal storm clouds cover the sky, rain falls over monochrome historic buildings, wet rooftops reflect dim light, balconies are empty and the entire city feels quiet and lifeless.
+
+Exactly where the artist’s brush touches the sky, reality begins transforming.
+
+A luminous burst of golden paint-like energy spreads naturally outward from the brushstroke. Dark clouds gradually become magnificent glowing sunset clouds in gold, amber, peach and soft blue. Color flows from the sky down through the city as though reality itself is being painted.
+
+Historic buildings regain warm natural colors. Windows begin glowing. Flowers bloom across balconies. Green vines appear along old stone walls. Birds emerge naturally from the painted sky and fly into the real world. Warm sunlight pours dramatically through the streets below and reflects across rain-soaked cobblestones.
+
+The right half of the city is now completely transformed into an extraordinary golden-hour world filled with warmth, life and beauty, while the far left remains cold and monochrome.
+
+The boundary between the two worlds should feel magical and organic—not like a simple split-screen effect. Individual brushstrokes, particles of light and subtle trails of pigment should visibly transition into real clouds, architecture, flowers and sunlight.
+
+Far below, small groups of people have stopped in the streets and on balconies, looking upward in wonder as they realize the sky and city are being transformed above them.
+
+The artist is carefully painting one final tiny unfinished patch of darkness near the top of the sky.
+
+Composition: epic vertical cinematic framing, artist prominent in the foreground, enormous frame creating strong visual geometry, sprawling European city extending deep into the background, dramatic sense of scale and atmospheric perspective.
+
+Lighting: spectacular golden-hour sunlight contrasted against cool storm light, volumetric rays, wet reflections, subtle mist, realistic atmospheric haze.
+
+Style: sophisticated cinematic fantasy realism, photorealistic textures, emotionally powerful visual storytelling, intricate architecture, realistic human proportions, premium movie-poster composition, extremely detailed, elegant rather than overly fantastical.
+
+The final image should communicate one story instantly:
+
+A painter isn’t painting a picture—he is finishing reality itself.
+
+No text, no typography, no logos, no watermark, no distorted hands, no duplicated people, no malformed architecture.</code></pre>
+
+</details>
 
 ## Cinematic Night Street Transforming into Blooming Garden in Tokyo
 

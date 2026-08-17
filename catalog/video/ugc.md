@@ -1,9 +1,258 @@
 # UGC video prompts
 
-60 source-linked prompts, newest ImgLume records first.
+65 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Influencer lifestyle video showcasing favorite items
+
+- **Original source:** [@sophiaparkerr_ on X](https://x.com/sophiaparkerr_/status/2088966649659764899)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3113](https://imglume.com/prompt/3113)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1d15ef82-6401-4516-89d1-0d00921afc83/5b474fe2-d4f2-46ea-9e32-45b9af1a9856-1786891719373 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT:16:9 widescreen, 15 seconds, realistic influencer-style lifestyle video, cinematic 4K, natural lighting, premium fashion aesthetic, fast-paced editing, authentic creator energy.
+
+0:00–0:03 — HOOK
+Influencer looks into the camera while holding her bag.
+Dialogue: “Okay, these are the things I’m obsessed with right now.”
+
+0:03–0:05 — BAG
+Close-up of the bag as she picks it up.
+Dialogue: “First, this bag. I literally take it everywhere.”
+
+0:05–0:07 — PERFUME
+Macro shot of perfume as she sprays it on her wrist.
+Dialogue: “And this perfume? My current favorite.”
+
+0:07–0:09 — SUNGLASSES
+She puts on her sunglasses and looks confidently at the camera.
+Dialogue: “These sunglasses make every outfit better.”
+
+0:09–0:11 — SHOES
+Close-up of her shoes as she starts walking.
+Dialogue: “And these shoes are way too good.”
+
+0:11–0:13 — PHONE
+She checks her phone while walking through a stylish café or city street.
+Dialogue: “Obviously, my phone never leaves my hand.”
+
+0:13–0:15 — FINAL SHOT
+Quick montage of all five items. She smiles and walks away.
+Dialogue: “Yeah… I’m obsessed with all of them.”
+
+STYLE: Natural influencer delivery, conversational tone, subtle facial expressions, accurate lip-sync, clean dialogue audio, upbeat background music underneath, quick 1–2 second cuts, smooth whip transitions, handheld camera movement, shallow depth of field, realistic product textures, premium but authentic social-media aesthetic.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC smartphone vlog in Japan
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2088941940935119168)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`, `ugc`
+- **ImgLume record:** [3108](https://imglume.com/prompt/3108)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5570df1-28ca-432b-923e-4d0a943555d2/07d37e26-9f09-4023-82e0-639abbb93d67-1786889195533 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic UGC smartphone vlog in Japan. A young Japanese woman with long dark hair and a casual stylish outfit explores a lively Tokyo shopping street, filmed entirely on her phone with natural handheld movement, slight camera shake, realistic autofocus, imperfect framing and authentic street ambience. 0–3s: selfie mode while walking, smiling: “Come shopping with me in Japan!” 3–6s: quick camera turn showing colorful Japanese shops and busy street, then she enters a cute accessories store. 6–10s: she browses cute bags and hair accessories, picks up one item, tries it in a mirror and excitedly says, “Wait, this is so cute!” 10–13s: quick shot of her paying and receiving a small shopping bag, then walking outside. 13–15s: she holds the bag toward the camera, smiles and says, “Definitely worth it!” Natural Japanese environment, realistic skin texture, authentic expressions, real smartphone exposure, subtle motion blur, natural lighting, no beauty filter, no commercial look, no exaggerated acting, seamless fast-paced storytelling, consistent character throughout, highly photorealistic, 1080p, Seedance 2.5.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic early-2000s Korean home video
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2088923820744917355)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3101](https://imglume.com/prompt/3101)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bbab06f-9ce6-482a-9aee-456d64660b76/612a3df6-92e2-44e2-adfb-a817b3f7303e-1786884985621 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic video that feels like a genuine forgotten early-2000s Korean home-video recording. NOT cinematic, staged, polished, or AI-generated.
+
+MAIN SUBJECT:
+
+Young Korean woman, early 20s, natural everyday appearance. Oversized faded navy hoodie, white T-shirt, loose beige cargo pants, worn white canvas sneakers, thin silver necklace. Shoulder-length wavy black hair loosely clipped back with wispy strands. Minimal makeup, realistic skin texture and imperfections. Warm, playful personality.
+
+Maintain EXACTLY the same identity, face, hair, clothing, proportions, and appearance throughout.
+
+LOCATION:
+
+Quiet Korean residential neighborhood on a warm late afternoon. Narrow concrete lanes, older low-rise houses, potted plants, bicycles, utility poles, tangled wires, laundry, trees, faded walls, small playground. No shops, advertisements, crowds, or landmarks.
+
+CAMERA:
+
+Early-2000s consumer MiniDV camcorder filmed casually by her friend. Heavy handheld shake, awkward framing, accidental cropping, autofocus hunting, lens breathing, exposure pumping, motion blur, slight rolling shutter, mild compression, soft faded colors, subtle sensor noise.
+
+No stabilization, gimbal, cinematic movement, HDR, film look, or modern smartphone aesthetics.
+
+---
+
+00:00–00:04
+
+Recording begins pointed at the pavement before quickly rising to her. She carries a small food container and laughs, saying, “Wait, don't film yet.” Her head is briefly cropped.
+
+00:04–00:08
+
+They walk uphill. She notices an orange-and-white stray cat beside an old bicycle and crouches to pet it. The camera moves too close and autofocus locks onto the bicycle instead of her.
+
+00:08–00:12
+
+The cat brushes against her leg. She laughs and tries to pet it, but it walks away. She looks at the camera with an amused expression while her friend laughs behind the camera.
+
+00:12–00:16
+
+They pass a faded neighborhood notice board. She points at something, then nearly drops the lid of her food container. She catches it and laughs naturally.
+
+00:16–00:21
+
+They reach a small playground under large trees. She sits on an old swing and gently rocks once or twice. The swing squeaks. Sunlight flickers through leaves while the camera exposure changes entering the shade.
+
+00:21–00:25
+
+She notices someone off-camera waving and waves back. Her friend says something indistinctly. She laughs, notices her shoelace is loose, and bends down to fix it. The camera awkwardly zooms in and briefly loses focus.
+
+00:25–00:28
+
+She stands, looks directly into the lens and laughs: “Are you seriously recording all of this?” She walks toward the camera as her friend backs away shakily.
+
+00:28–00:30
+
+She reaches toward the lens to stop the recording. Her fingers cover the image, the exposure darkens, and the footage abruptly cuts to black.
+
+---
+
+AUDIO:
+
+ONLY authentic location sound. No music or cinematic sound design.
+
+Footsteps, fabric rustling, plastic container movement, birds, leaves, distant voices, bicycle sounds, swing squeaks, faint traffic, natural laughter, breathing, camera handling noise, and imperfect compressed dialogue from the built-in MiniDV microphone.
+
+REALISM REQUIREMENTS:
+
+Make it feel like an accidentally recorded personal MiniDV tape.
+
+Include awkward framing, missed focus, exposure fluctuations, motion blur, compression artifacts, clipped highlights, natural pauses, micro-expressions, imperfect timing, and ordinary environmental details.
+
+Avoid cinematic composition, dramatic lighting, perfect skin, artificial bokeh, smooth movement, slow motion, polished acting, modern color grading, or CGI-looking environments.
+
+Key feeling: an authentic 30-second fragment discovered years later on an old Korean family MiniDV tape.</code></pre>
+
+</details>
+
+## Handheld Home-Video Vlog of Woman Folding Laundry with Kettle
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2088849653483872341)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3100](https://imglume.com/prompt/3100)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d9946984-3ffb-43ea-b0b6-ff5fe52fd3c7/7b502b22-836b-4b9e-80ca-00581f702b0f-1786884962689 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot handheld home-video vlog, avoid a single camera angle or single cut — 7 shots. Shot one-handed on a phone, snapshot-like realism, slightly tilted framing, visible handheld shake, warm late-afternoon indoor light, fine film grain, photorealistic.
+
+A woman (Image) folds laundry alone in her living room while a kettle heats on the stove nearby. (image) provides only her face and hairstyle her clothing follows this description entirely: she wears a soft heather-grey cotton short-sleeve shirt, sleeves fully covering her shoulders and upper arms, tucked loosely into cream-colored loungewear pants. She is the only person who appears in the video throughout. The setting is a cozy living room corner: a low wooden coffee table stacked with warm towels fresh from the dryer, a wicker laundry basket half-emptied on the floor, a folded blanket draped over a nearby armchair, soft evening light slanting through sheer curtains; in the background, just visible through a kitchen doorway, a stove and kettle sit, steam beginning to curl from its spout. Her reactions are quiet, natural, small domestic movements. The whole sequence moves from a stack of warm, slightly rumpled laundry to neatly folded piles, timed loosely with the kettle building toward its whistle. The dialogue is casual, everyday spoken Korean, an immediate reaction to the action in the moment.
+
+**Shot 1 (0-2s):** She pulls a warm towel from the basket, presses it briefly to her cheek to feel the heat, then starts folding it in practiced motions. She murmurs, content: "아 따뜻해~" ("Ahh, so warm~"). The camera is close and slightly low, drifting with her hands.
+
+**Shot 2 (2-4s):** Close insert shot from above — she stacks the folded towel onto a growing pile, corners lining up neatly, her fingers smoothing the top edge flat. The camera follows her hands from above, with slight shake.
+
+**Shot 3 (4-6s):** She picks up a wrinkled shirt, folds it once, frowns slightly at the crooked sleeves, and unfolds it to redo it more carefully. She mutters: "아니 이게 아니지" ("No wait, that's not right"). The camera is straight-on to her face and hands, only subtle handheld tremor.
+
+**Shot 4 (6-8s):** She refolds the shirt properly this time, smoothing it flat with the side of her hand, satisfied with the neat rectangle. She says lightly in English: "Much better." The camera angles slightly upward, pushing in slowly.
+
+**Shot 5 (8-10s):** In the background through the doorway, the kettle begins to rattle faintly, steam thickening and catching the low light; she glances up toward the kitchen, only half-focused, still folding. The camera is straight-on to her, swaying gently with her breathing.
+
+**Shot 6 (10-13s):** The kettle's whistle rises sharply; she sets down the towel mid-fold, wipes her hands on her pants, and starts to rise from the floor, glancing toward the kitchen with a small huff. She says: "어, 나온다 나와" ("Oh, it's ready, it's ready"). The camera tilts and follows her shifting weight as she starts to stand.
+
+**Shot 7 (13-15s):** She pauses halfway up, looking back at the neat stacks of folded laundry on the table, a small satisfied nod, the kettle still whistling faintly behind her. The camera drifts back and slightly up, lingering on her and the folded piles before she moves off.
+
+**Sound (SFX):** No music, only live ambient sound — soft fabric rustling and folding, the towel pile settling, a small frustrated sigh, fabric smoothed flat, the kettle building from a low rattle to a sharp whistle in the background, her footsteps shifting on the floor, a quiet murmur.
+
+No subtitles, no on-screen text, no logos, no watermarks. Do not depict the reference image itself; do not duplicate/copy the subject.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic early 2000s Korean home video
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2088654074715787363)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3071](https://imglume.com/prompt/3071)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c982560f-12c9-485a-9ed5-dc3bc5fcdfed/cb1bc1bf-3acc-4f23-b662-0138d43a79c8-1786851562128 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic video that feels like a genuine forgotten home-video recording from the early 2000s. It must NOT look cinematic, staged, polished, or AI-generated.
+
+MAIN SUBJECT:
+Young Korean woman, early 20s, natural everyday appearance. Faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, black cord necklace. Black wavy hair tied in a messy side ponytail with wispy bangs. Minimal makeup, realistic pores and skin texture, subtle imperfections. Warm, approachable personality. Maintain EXACTLY the same identity, face, hairstyle, clothing, proportions, and appearance throughout.
+
+LOCATION:
+Authentic quiet Korean residential neighborhood on a warm late afternoon. Narrow concrete lanes, low-rise houses, small gates, potted plants, old bicycles, utility poles, tangled overhead wires, parked scooters, laundry hanging from balconies, mature trees, uneven concrete, faded walls. No shops, signs, advertisements, cafés, crowds, or tourist landmarks.
+
+CAMERA:
+Early-2000s consumer MiniDV camcorder recorded casually by her friend. Heavy natural handheld shake, imperfect framing, occasional accidental cropping, autofocus hunting, lens breathing, exposure pumping when entering shade, slight rolling shutter, motion blur during quick movement, mild digital compression, subtle sensor noise, faded consumer-camera colors, soft contrast. No stabilization. No cinematic camera movement. No gimbal. No modern HDR. No artificial film look.
+
+00:00–00:04
+The recording begins abruptly while the camera is already moving. She is walking out through a small metal gate carrying a reusable grocery bag. She notices the camera and gives a slightly confused smile, as if she didn't realize her friend had started recording. The operator walks backward awkwardly and briefly loses her face from frame.
+
+00:04–00:08
+They turn into a narrow residential alley. She suddenly notices a small delivery box left near a neighbor's gate. She picks it up and looks around, trying to figure out whose it is. The camera moves closer too quickly, autofocus briefly locks onto the box instead of her face.
+
+00:08–00:12
+A middle-aged Korean neighbor appears from a doorway and gestures that the package is hers. The woman laughs softly, hands it over, and gives a small polite bow. The interaction feels spontaneous and unscripted. The camera shakes slightly as the person filming laughs behind the camera.
+
+00:12–00:16
+She continues walking and stops beside an old vending-style outdoor water dispenser near a residential entrance. She takes a small sip from her reusable bottle, wipes her mouth with the back of her hand, then notices the camera still pointed at her and playfully covers the lens for a moment.
+
+00:16–00:21
+The camera drops slightly as her hand moves away, revealing her walking ahead beneath large trees. Sunlight flickers naturally across the pavement and her clothing as leaves move in the breeze. A bicycle passes slowly in the distant background. She casually kicks a small fallen leaf forward while walking.
+
+00:21–00:25
+She reaches a tiny neighborhood convenience-style residential rest area with a concrete bench, but there are NO commercial signs or branding. She sits down, places the grocery bag beside her, and checks her phone. She suddenly looks toward something off-camera and smiles naturally, reacting to her friend rather than posing.
+
+00:25–00:28
+The friend walks closer. She looks directly into the lens and says casually, “Why are you still filming me?” with a small laugh. Her expression should feel completely spontaneous, not performed.
+
+00:28–00:30
+She stands and starts walking toward the camera. The operator instinctively backs away, causing noticeable shaky footage and brief focus hunting. She reaches toward the camera as if trying to stop the recording.
+
+The image abruptly cuts to black while her hand is still approaching the lens.
+
+AUDIO:
+ONLY authentic location sound. No music. No cinematic sound design. No narration.
+
+Include distant birds, leaves moving, footsteps on concrete, fabric rustling, a faint scooter passing, bicycle wheel sounds, neighborhood voices far away, subtle traffic in the distance, the neighbor's brief greeting, her natural laughter, and the actual sound of the camcorder operator moving and breathing. Dialogue should sound naturally recorded through a cheap built-in microphone, slightly compressed and imperfect.
+
+REALISM REQUIREMENTS:
+
+The entire video must feel accidentally captured by a real person, not directed for a film. Avoid beautiful composition, dramatic lighting, perfect framing, slow motion, smooth transitions, excessive depth of field, exaggerated facial expressions, perfect skin, artificial bokeh, cinematic color grading, CGI-looking environments, or overly clean textures.
+
+Small imperfections are essential: missed focus, exposure fluctuations, awkward framing, slight camera shake, realistic motion blur, occasional clipped highlights, compression artifacts, imperfect timing, natural pauses, and genuine micro-expressions.</code></pre>
+
+</details>
 
 ## Burger Night Vlog by Hana (UGC style)
 

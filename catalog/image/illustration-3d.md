@@ -1,9 +1,26 @@
 # Illustration 3d image prompts
 
-45 source-linked prompts, newest ImgLume records first.
+46 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Mystical Dragon Summoner
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2088941476508061905)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3111](https://imglume.com/prompt/3111)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/89ad7093-c1d0-469a-8ad2-c00efe42253f/14b0e978-69c9-4be4-9c67-2f32a520eb30-1786889245553 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/89ad7093-c1d0-469a-8ad2-c00efe42253f/b7fe24e2-3932-4356-8adf-957f71872000-1786889245553 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/89ad7093-c1d0-469a-8ad2-c00efe42253f/b9f3caaf-7b5a-415c-8335-a59f0c4a11db-1786889245553 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/89ad7093-c1d0-469a-8ad2-c00efe42253f/3c66b205-19b9-4f3a-a0fd-1c3054585faf-1786889245553 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A mystical scene featuring a figure wearing flowing vibrant yellow tattered robe, standing before a large cauldron, casting glowing, magical ingredients into it. From the cauldron, a magnificent fiery dragon made of swirling, glowing smoke and clouds rises, illuminating the dark space around them. The fiery dragon forms a circular shape, exuding an ethereal, magical energy, with particles of light and glowing embers filling the scene. The setting is dark, with the only illumination coming from the glowing magical energy and the dragon. The image exudes a sense of wonder and mysticism</code></pre>
+
+</details>
 
 ## Colored Pencil Illustration of Blue Cornflower Field with Ocean
 

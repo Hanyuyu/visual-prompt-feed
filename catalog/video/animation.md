@@ -1,9 +1,121 @@
 # Animation video prompts
 
-77 source-linked prompts, newest ImgLume records first.
+80 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Lavender in Dungeon Tickling Scene with Feather
+
+- **Original source:** [@migrok293703 on X](https://x.com/migrok293703/status/2088966224361214371)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3109](https://imglume.com/prompt/3109)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de08cbc2-4472-4b37-9faf-e3146fd5ecaa/b7ae32dc-5a6b-4b8d-a5af-735d55c2d681-1786889221120 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>场景1：在地牢中，薰衣草被俘虏，背靠墙壁坐在地上。他被绳子紧紧捆绑，四肢无法动弹，只有赤裸的双脚露在外面，脚底清晰可见。薰衣草看起来恼怒又愤怒，用日语喊着要人放了他，同时扭动身体试图挣脱束缚。场景2：一个身披斗篷的人影从阴影中走出，缓缓靠近薰衣草。薰衣草注意到他，发出低吼，用日语警告他，他会后悔的。斗篷人影一言不发。他只是跪在薰衣草面前，薰衣草看着那人的动作，感到有些困惑和不安。场景3：披着斗篷的人掏出一根长长的白色羽毛，这让薰衣草更加困惑。那人缓缓地将羽毛移向薰衣草露出的一只脚，显然是瞄准了脚底。场景4：特写镜头展现了羽毛轻柔地、流畅地、持续地在薰衣草的脚底上上下拂动。羽毛显然是在挠脚底，而不是脚背。披着斗篷的人用日语说道：{こちょこちょ。} 背景中传来薰衣草压抑的笑声，那只脚因为痒而微微抽搐了一下。场景5：薰衣草的脸部特写镜头。他咧嘴一笑，闭着眼睛，发出持续不断的闷笑。他微微扭动着头，努力忍住笑，用日语说道：“やめろ！”，然后又轻声笑了起来。场景6：薰衣草的正面全貌。披着斗篷的人继续用羽毛轻轻地挠他那只脚的脚底，动作轻柔流畅，沿着脚底缓缓移动。羽毛应该始终停留在脚底，尤其是足弓和脚底中心，而不是脚背。薰衣草发出闷笑，努力忍住不笑。他因为痒而微微扭动脚踝，但披着斗篷的人继续挠着他的脚底。场景7：薰衣草终于开始放声大笑，而披着斗篷的人继续用羽毛轻轻地挠着他那只脚的脚底。薰衣草一边笑着一边用日语说：{やめてくれ！もう耐えられない！}，然后又开始大笑起来。重要细节：羽毛只能挠薰衣草的一只脚，而且只能挠脚底，不能挠脚背、脚踝或脚趾。另一只脚不能被挠到。羽毛的动作要轻柔、流畅、连贯。薰衣草一开始会发出闷闷的咯咯笑声，然后逐渐变成更大声的咯咯笑和大笑。披着斗篷的人保持平静和沉默，只说了句{こちょこちょ。}。语音为日语。</code></pre>
+
+</details>
+
+## Sunny park anime kids comedy 30‑second video
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2088566449673470334)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3058](https://imglume.com/prompt/3058)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/45a63899-877f-4251-a785-4af807882c68/8dcc0614-b665-4b88-88fe-4dc9ea5133ae-1786817735774 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Global Setting] A sunny park at daytime, grassy field, playground in background,
+bright cheerful lighting. 3D stylized anime aesthetic rounded appealing character
+designs, exaggerated expressive proportions, big sparkly eyes, playful animation
+style.
+
+[Character 1 Boy] Age 8-10, spiky orange anime hair, oversized sweater, big
+innocent eyes, cheerful smile, energetic posture. Very enthusiastic and goofy.
+
+[Character 2 Girl] Age 8-10, long pink pigtails with ribbons, cute dress,
+sparkly eyes, mischievous grin. Smart-aleck personality.
+
+[Opening, 0–5s] Wide shot of sunny park. Boy running around holding a stick,
+making whooshing sounds: "I'm a WIZARD!" Girl sits on grass eating candy, rolls
+eyes: "You're a weirdo." Boy gasps dramatically: "A DANGEROUS weirdo!" Girl:
+"More like a dangerous idiot."
+
+[Mid beat A, 5–16s] Boy tries to balance stick on his nose, fails spectacularly,
+falls backward into pile of leaves. Girl laughs hysterically. Boy pops up covered
+in leaves, hair standing straight up: "I meant to do that! It's a MAGIC LANDING!"
+Girl snorts: "Magic? You just got beat up by a bush!" Boy points at her: "Well
+you've got pink hair like a cotton candy monster!" Girl gasps, offended: "Cotton
+candy is DELICIOUS, thank you!" Both start giggling uncontrollably. Boy tries to
+copy her pigtails with the leaves stuck in his hair. Girl takes photo on imaginary
+phone: "This is your new school picture!"
+
+[Silly Moment, 16–23s] Boy does an exaggerated anime power-up pose, screaming:
+"WATCH THIS!" Runs straight and trips over his own feet, tumbles forward in slow
+comedic roll. Girl runs over: "Are you okay?!" Boy pops up dizzy: "I'm... alive?"
+Girl pulls him up, giggling: "Barely." Boy spins around pointing at sky: "Look!
+A dragon!" Girl looks up: "That's a cloud." Boy: "An ANGRY cloud!" Girl shakes
+head laughing: "You're impossible."
+
+[Closing, 23–30s] Both sitting on grass now, boy picks dandelion, blows it on
+girl's face. Girl shrieks: "RUDE!" Boy laughs: "Payback!" Girl picks grass,
+throws it at him playfully. Both devolve into playful grass fight, laughing
+hysterically, sunshine golden light catching their happy faces. End on them both
+lying in grass laughing, completely silly and carefree, friendship pure and
+genuine.
+
+[CONSISTENCY] Two anime-style children, same park, sunny daylight throughout.
+Exaggerated anime proportions, big expressive eyes, playful body language. Costumes
+consistent. Pure childhood silliness and genuine friendship.
+
+Audio: Cheerful bright day ambience, birds chirping, boy's whooshing sounds with
+stick, girl's laugh (bright and sparkly), comedic fall sound, both kids' voices
+high-pitched and energetic, footsteps running, rustling leaves, imaginary camera
+click sound, anime power-up sound effect (comedic), tumbling sound, grass crunching,
+playful arguing, bright upbeat anime-style music building, final moment: kids
+laughing, warm nostalgic music, wind through grass.</code></pre>
+
+</details>
+
+## Cinematic semi-realistic anime skateboard chase in New York
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2088650163778961654)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`
+- **ImgLume record:** [3056](https://imglume.com/prompt/3056)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d24443dd-72a0-4f6a-b3b3-ac7ec9768859/70801cd7-d38b-4d1e-be5a-b0a98708515e-1786813614898 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve her face, hairstyle, skin tone and body proportions.
+She wears a sporty red-and-white skirt with integrated shorts, a fitted white top with red detailing, dark blue Nike sneakers, beige "Cool" cap, dark blue backpack, black digital watch and headphones around her neck.
+Include the same cute small ginger-and-white fluffy cat with amber eyes, keeping it realistic house-cat size at the girl's shin/lower-calf height.
+Set the story on a vibrant busy New York street with brick buildings, storefronts, yellow taxis, subway entrances, traffic lights, fire escapes, street vendors and crowds.
+The girl aggressively skateboards through Manhattan at extreme speed while the cat races alongside her, weaving naturally between pedestrians, taxis and street obstacles.
+Use low ground-level chase-cam cinematography, fast tracking, aggressive whip-pans, punchy cuts, wheel-level shots and subtle handheld micro-shake.
+She blasts past a street coffee cart, snatches a takeaway coffee without slowing down, then quickly drinks it while maintaining her high-speed skating line.
+She flicks the empty cup behind her and immediately accelerates toward a graffiti-covered wall as the cat keeps pace beside her.
+The girl performs an explosive skateboard wall jump while the cat leaps beside her in perfect synchronization, both landing together.
+Continue seamlessly into an industrial New York area with elevated subway tracks, steel bridges, construction zones, warehouses and rooftop structures.
+She ollies onto a low industrial rail, crouches beneath a bridge, races alongside a passing subway train, then launches onto a higher steel platform.
+Finish with the girl and cat performing a dramatic synchronized jump from the elevated structure into a street-level parking area, landing smoothly at high speed.
+Maintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, cinematic New York lighting and dynamic anime speed lines.
+No photorealism, no 3D CGI, no identity drift, no outfit changes, no oversized cat, no duplicate characters, no distorted anatomy, no warped skateboard, no watermark or text.</code></pre>
+
+</details>
 
 ## Surreal Dualistic Fashion Portrait Video with Morphing Geometry and Floral Elements
 

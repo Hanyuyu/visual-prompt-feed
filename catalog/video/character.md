@@ -1,9 +1,117 @@
 # Character video prompts
 
-78 source-linked prompts, newest ImgLume records first.
+81 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15-second ultra-realistic cinematic fashion vlog with outfit transformations
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2088839988792434997)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3081](https://imglume.com/prompt/3081)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1e24a18d-f40a-4be9-a0cd-9ddf9d250030/551565fa-bd21-4d48-9e38-79694d8f31ab-1786864421472 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic cinematic YouTube-style fashion vlog featuring the girl from the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, body proportions, and overall appearance throughout the entire video.
+
+The video begins with a handheld selfie-style shot inside her cozy bedroom. She looks directly into the camera and says with playful indecision, “I’m going to a party tonight, but I seriously have no idea what to wear.” She looks toward her wardrobe, walks behind the curtain, and quickly returns wearing a stylish cropped top with a mini skirt.
+
+She flicks her fingers toward the camera — snap! Her outfit instantly transforms into a fitted crop top with high-waisted jeans. She looks down at herself, poses, then gestures toward the camera as if asking, “This one?”
+
+Another finger flick — snap! The jeans transform into a trendy short skirt with a different top. She spins once, lets the skirt move naturally, then gives a playful uncertain expression.
+
+She flicks again — snap! Her outfit changes into a stylish party dress with heels and accessories. She strikes a confident pose, checks herself in the mirror, then looks back at the camera with an excited smile.
+
+For the final beat, she rapidly flicks her fingers once more and changes into a completely different glamorous party outfit. She looks at the camera, points at herself, then gestures “Which one?” with a playful expression as the camera pushes in.
+
+Fast seamless outfit transformations, no jump cuts during the actual changes, realistic fabric morphing, natural hair movement, consistent bedroom environment, handheld creator-vlog energy, expressive reactions, quick camera movements, smooth whip pans, natural daylight mixed with warm bedroom lighting, realistic skin texture, cinematic depth of field, photorealistic, ultra-detailed, 4K HDR, 24fps, 16:9.
+
+Audio: Natural room ambience, footsteps, wardrobe movement, finger snaps with satisfying transformation sound effects, subtle upbeat vlog-style background music, natural spoken dialogue. No subtitles, no logos, no watermark, no distorted hands, no duplicate people, no face changes.</code></pre>
+
+</details>
+
+## Emma Asagiri Y2K Rap/Pop Music Video
+
+- **Original source:** [@AI__TSUBAKI on X](https://x.com/AI__TSUBAKI/status/2088513921556902203)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3074](https://imglume.com/prompt/3074)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b8d80934-58df-461f-8b7a-b33aff6f7156/e7d7196b-54d3-4715-884c-997cec718a9e-1786855749633 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use @ Emma Asagiri from the uploaded character reference sheet as the exact character reference. Preserve her facial identity, eye color, skin tone, long straight jet-black hair with wispy blunt bangs, body proportions, makeup, and outfit consistently throughout every shot. She wears her sailor-style uniform from the reference sheet: a white puff-sleeve sailor top with a navy collar and white striped trim, a navy neck bow, a navy pleated mini skirt, white knee-high socks, black loafers, a black leather choker, and a white bunny-ear headband. Maintain the same recognizable performer in every scene.
+
+Create a 15-second ultra-realistic Y2K rap/pop music video inspired by early-2000s music television aesthetics, filmed with an exaggerated ultra-wide fisheye lens. The visuals should feel energetic, glossy, slightly surreal, and heavily stylized, with dramatic lens distortion, dynamic camera movement, and fast beat-synchronized editing.
+
+— Light-Up Reveal:
+
+Begin in complete darkness inside a long futuristic black corridor. The rectangular wall lights suddenly switch on one after another, creating a rapid chase effect toward the performer. She stands completely still in silhouette with her arms spread. On the final light hit, the overhead lights illuminate her face as she immediately begins lip-syncing directly toward the camera.
+
+— Fisheye Close-Up:
+
+Hard cut to an extreme fisheye close-up of her face. She leans aggressively toward the lens, performs confident hand gestures, points directly at the camera, and briefly pushes her palm toward the lens, making her hand appear dramatically oversized from the fisheye distortion.
+
+Chrome Room:
+
+Cut to a glossy futuristic white-and-chrome room. She performs a playful, confident dance with shoulder movements, small footwork, and sharp hand gestures. The camera smoothly slides sideways at knee height while chrome surfaces create strong reflections and parallax.
+
+6–8s — Graffiti/Dollar Set:
+
+Hard cut to an abstract orange-and-lime studio filled with oversized glossy black geometric shapes featuring generic dollar symbols. She performs in profile while lip-syncing, then suddenly turns her head toward the camera on the beat. Her long black hair, navy neck bow, and pleated skirt move naturally with the turn.
+
+8–10s — Dancer Performance:
+
+Reveal two anonymous female backup dancers wearing glossy black full-coverage futuristic outfits and dark visor sunglasses. They flank the performer and perform synchronized Y2K choreography while she dominates the center, pointing toward the lens and bouncing confidently to the rhythm.
+
+10–12s — Beam Dome:
+
+Cut to a dramatic low-angle shot. She stands on a small pedestal inside a dark futuristic dome as powerful white light beams switch on around her one at a time. She raises both arms and continues performing while the lights create intense silhouettes and lens bloom.
+
+— Chrome Macro:
+
+Extreme tilted fisheye close-up of half her face against a quilted metallic-silver wall. She gives a playful smirk and delivers a</code></pre>
+
+</details>
+
+## Cinematic semi-realistic anime skateboard chase in New York
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2088650163778961654)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`, `cinematic`
+- **ImgLume record:** [3056](https://imglume.com/prompt/3056)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d24443dd-72a0-4f6a-b3b3-ac7ec9768859/70801cd7-d38b-4d1e-be5a-b0a98708515e-1786813614898 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source; preserve her face, hairstyle, skin tone and body proportions.
+She wears a sporty red-and-white skirt with integrated shorts, a fitted white top with red detailing, dark blue Nike sneakers, beige "Cool" cap, dark blue backpack, black digital watch and headphones around her neck.
+Include the same cute small ginger-and-white fluffy cat with amber eyes, keeping it realistic house-cat size at the girl's shin/lower-calf height.
+Set the story on a vibrant busy New York street with brick buildings, storefronts, yellow taxis, subway entrances, traffic lights, fire escapes, street vendors and crowds.
+The girl aggressively skateboards through Manhattan at extreme speed while the cat races alongside her, weaving naturally between pedestrians, taxis and street obstacles.
+Use low ground-level chase-cam cinematography, fast tracking, aggressive whip-pans, punchy cuts, wheel-level shots and subtle handheld micro-shake.
+She blasts past a street coffee cart, snatches a takeaway coffee without slowing down, then quickly drinks it while maintaining her high-speed skating line.
+She flicks the empty cup behind her and immediately accelerates toward a graffiti-covered wall as the cat keeps pace beside her.
+The girl performs an explosive skateboard wall jump while the cat leaps beside her in perfect synchronization, both landing together.
+Continue seamlessly into an industrial New York area with elevated subway tracks, steel bridges, construction zones, warehouses and rooftop structures.
+She ollies onto a low industrial rail, crouches beneath a bridge, races alongside a passing subway train, then launches onto a higher steel platform.
+Finish with the girl and cat performing a dramatic synchronized jump from the elevated structure into a street-level parking area, landing smoothly at high speed.
+Maintain premium anime-game splash-art quality, clean linework, painterly cel-shading, crisp character rendering, cinematic New York lighting and dynamic anime speed lines.
+No photorealism, no 3D CGI, no identity drift, no outfit changes, no oversized cat, no duplicate characters, no distorted anatomy, no warped skateboard, no watermark or text.</code></pre>
+
+</details>
 
 ## 30-second ultra-photorealistic Japanese water obstacle competition broadcast
 

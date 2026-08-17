@@ -1,9 +1,247 @@
 # Camera Moves video prompts
 
-97 source-linked prompts, newest ImgLume records first.
+104 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second authentic 1980s Japanese game-show broadcast sequence
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088690280979718295)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3087](https://imglume.com/prompt/3087)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c2e41935-5d8d-4378-9607-ffc6bdb1cf4e/e7d8f779-d9b8-4c24-b669-e78b2e0c07a1-1786864904367 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second authentic 1980s Japanese game-show broadcast sequence inspired by classic Japanese obstacle-course television. Realistic live-action footage, broadcast-camera aesthetics, natural handheld movement, analog film grain, slightly washed colors, chaotic energy, practical stunt physics, and no modern visual artifacts. No reference images provided; generate everything from this description.
+
+0–5s — Wide Establishing Shot:
+A young Japanese man in his late 20s, wearing a red tracksuit and white safety helmet, sprints onto a massive horizontal rotating log above a deep muddy pit. The log spins continuously beneath him while several giant padded wrecking balls swing across the path. The camera tracks him with imperfect handheld broadcast movement.
+
+5–10s — Medium Action Shot:
+The first wrecking ball swings toward him. He ducks desperately, rapidly shuffling his feet to maintain balance as the rotating log accelerates. His arms flail naturally, and muddy water splashes below where other contestants have fallen.
+
+10–15s — Close Action Shot:
+A second padded wrecking ball strikes his shoulder, sending him spinning off balance. He drops onto his knees and desperately hugs the rotating log as his body slides around its wet wooden surface. Strong motion blur and realistic momentum.
+
+15–20s — Dynamic Tracking Shot:
+He ends up hanging underneath the rotating log, gripping it with both hands while his legs kick through the air. He struggles to crawl toward the opposite platform as the log continuously rotates. His grip gradually weakens and his fingers slip.
+
+20–25s — Major Impact:
+He finally loses his grip and falls into the deep muddy pit. He hits the water with a huge, physically realistic explosion of brown mud and water. The camera reacts with chaotic handheld movement as the splash briefly fills the frame.
+
+25–30s — Comedic Ending Shot:
+He resurfaces completely covered in mud, helmet crooked and face stunned. He slowly raises one defeated fist toward the camera while the rotating log continues spinning behind him and a wrecking ball swings overhead. Maintain the authentic chaotic game-show atmosphere.
+
+Visual requirements: High-fidelity realistic live action, accurate rotating-log physics, believable human movement and impacts, realistic mud and water simulation, practical-stunt appearance, coherent character identity throughout, 1980s Japanese television broadcast grain, subtle analog noise, imperfect exposure, natural motion blur, period-accurate camera movement, no CGI-looking surfaces, no modern cameras, no futuristic elements, no text overlays, no subtitles.</code></pre>
+
+</details>
+
+## Photorealistic cinematic 1950s Japanese diner frozen moment video
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2088855853348839798)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3086](https://imglume.com/prompt/3086)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a32766a5-ad33-4ee5-ac59-c0d090fe2c12/2f513c86-1228-4ead-84cc-d47aac1aba3e-1786864487754 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic 1950s japanese diner, chrome stools, green vinyl, neon glow and checkerboard floor, shot with modern lived-in realism and soft natural window light. Subtle handheld texture, warm practicals, rich period detail, heavy film grain.0-4s: [Medium Wide] A striking young Japanese woman in her early 20s sits alone at the counter, calm and slightly amused, slowly sipping a tall thick blue shake through a straw. Behind her a young waitress in classic white and yellow uniform approaches with a tray of momos and bacon in one hand and a full glass coffee pot in the other. An older lady starts rising from a nearby booth.4-8s: [Dynamic Tracking] The older lady collides hard into the waitress. Tray, plate, eggs, bacon and coffee pot explode upward in chaotic slow motion. Coffee erupts into long liquid ribbons and perfect suspended droplets. Camera immediately begins a smooth continuous orbit around the impact. Time locks completely at the peak of the spill. Every face freezes in pure shock. Only the girl at the counter keeps moving, completely unfazed.8-17s: [Slow 360° Orbital] Camera glides in a full elegant orbit through the frozen diner. Coffee hangs in mid-air as glassy ribbons and spheres with perfect volume and surface tension. Bacon strips, eggs and the spinning tray float weightlessly. Patrons and waitress remain locked in startled expressions. The girl at the counter takes one slow, deliberate sip, eyes half-lidded, almost bored, while the entire frozen world (except her) begins an elegant reverse: every droplet, every piece of food and every person rewinds smoothly back to the exact starting positions.17-24s: [Medium Shot] Rewind lands perfectly. Waitress stands balanced again with tray and coffee pot. The girl lifts her eyes, raises two fingers in a small casual gesture and softly calls the waitress by name. The waitress turns toward her just before the older lady begins to stand, completely avoiding the collision. A tiny private smile crosses the girl’s face.24-30s: [Extreme Close-Up] Hard cut to her face as she takes one last slow sip. Soft knowing smile, eyes almost closed in quiet satisfaction, like she has done this a hundred times. Shallow depth of field, creamy bokeh of the neon diner behind her.Photorealistic, ultra-detailed fluid physics, perfect motion blur only on moving elements, stable characters, cinematic lighting, heavy natural film grain, no artifacts, movie-level temporal coherence, high rewatch value.</code></pre>
+
+</details>
+
+## Cinematic AI Video Prompt: From Blank Screen to Fantasy Forest to Futuristic Supercar
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2088836623433945169)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3080](https://imglume.com/prompt/3080)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1ed8c7bf-db15-488b-b630-9786410f4667/10f75273-1392-4991-b550-02905324a222-1786864411672 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic AI Video Prompt
+
+A frustrated young male creator sits alone in a dark creative studio, staring at a completely blank computer monitor. He rests his hand on his forehead, looking stuck and out of ideas. The room is moody and cinematic, with soft monitor glow and deep shadows.
+
+The blank screen suddenly begins transforming into a vivid cinematic world. The camera smoothly pushes toward the monitor and transitions seamlessly inside it, revealing an enchanting fantasy forest filled with enormous ancient trees, glowing purple-pink foliage, exotic plants, soft mist, and a crystal-clear stream reflecting warm rays of sunlight. Magical particles float gently through the air as the camera slowly travels forward through the forest.
+
+The scene then dramatically transitions into a sleek futuristic black supercar speeding through a winding mountain road at dusk. The car accelerates aggressively around the curves, tires producing subtle smoke and sparks, glowing red taillights reflecting across the wet asphalt. Massive mountains surround the road with a bright full moon in the background.
+
+Ultra-cinematic commercial look, photorealistic details, dynamic camera movement, smooth transitions, volumetric lighting, atmospheric fog, realistic reflections, shallow depth of field, dramatic contrast, premium VFX, realistic motion blur, 4K quality.
+
+End with a powerful tracking shot behind the supercar as it disappears into the mountain road.
+
+Duration: 15 seconds.
+Aspect ratio: 16:9.
+No text, no logos, no watermark.</code></pre>
+
+</details>
+
+## Emma Asagiri Y2K Rap/Pop Music Video
+
+- **Original source:** [@AI__TSUBAKI on X](https://x.com/AI__TSUBAKI/status/2088513921556902203)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3074](https://imglume.com/prompt/3074)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b8d80934-58df-461f-8b7a-b33aff6f7156/e7d7196b-54d3-4715-884c-997cec718a9e-1786855749633 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use @ Emma Asagiri from the uploaded character reference sheet as the exact character reference. Preserve her facial identity, eye color, skin tone, long straight jet-black hair with wispy blunt bangs, body proportions, makeup, and outfit consistently throughout every shot. She wears her sailor-style uniform from the reference sheet: a white puff-sleeve sailor top with a navy collar and white striped trim, a navy neck bow, a navy pleated mini skirt, white knee-high socks, black loafers, a black leather choker, and a white bunny-ear headband. Maintain the same recognizable performer in every scene.
+
+Create a 15-second ultra-realistic Y2K rap/pop music video inspired by early-2000s music television aesthetics, filmed with an exaggerated ultra-wide fisheye lens. The visuals should feel energetic, glossy, slightly surreal, and heavily stylized, with dramatic lens distortion, dynamic camera movement, and fast beat-synchronized editing.
+
+— Light-Up Reveal:
+
+Begin in complete darkness inside a long futuristic black corridor. The rectangular wall lights suddenly switch on one after another, creating a rapid chase effect toward the performer. She stands completely still in silhouette with her arms spread. On the final light hit, the overhead lights illuminate her face as she immediately begins lip-syncing directly toward the camera.
+
+— Fisheye Close-Up:
+
+Hard cut to an extreme fisheye close-up of her face. She leans aggressively toward the lens, performs confident hand gestures, points directly at the camera, and briefly pushes her palm toward the lens, making her hand appear dramatically oversized from the fisheye distortion.
+
+Chrome Room:
+
+Cut to a glossy futuristic white-and-chrome room. She performs a playful, confident dance with shoulder movements, small footwork, and sharp hand gestures. The camera smoothly slides sideways at knee height while chrome surfaces create strong reflections and parallax.
+
+6–8s — Graffiti/Dollar Set:
+
+Hard cut to an abstract orange-and-lime studio filled with oversized glossy black geometric shapes featuring generic dollar symbols. She performs in profile while lip-syncing, then suddenly turns her head toward the camera on the beat. Her long black hair, navy neck bow, and pleated skirt move naturally with the turn.
+
+8–10s — Dancer Performance:
+
+Reveal two anonymous female backup dancers wearing glossy black full-coverage futuristic outfits and dark visor sunglasses. They flank the performer and perform synchronized Y2K choreography while she dominates the center, pointing toward the lens and bouncing confidently to the rhythm.
+
+10–12s — Beam Dome:
+
+Cut to a dramatic low-angle shot. She stands on a small pedestal inside a dark futuristic dome as powerful white light beams switch on around her one at a time. She raises both arms and continues performing while the lights create intense silhouettes and lens bloom.
+
+— Chrome Macro:
+
+Extreme tilted fisheye close-up of half her face against a quilted metallic-silver wall. She gives a playful smirk and delivers a</code></pre>
+
+</details>
+
+## 15-second ultra-photorealistic live-action medieval war sequence during the 12th-century Crusades
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2088659502694547879)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3067](https://imglume.com/prompt/3067)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1bec573-6cc5-4902-babe-27292ec3e2d4/d237b1d5-3b12-4dd6-84ce-80fd78fa46bc-1786836646124 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-photorealistic live-action medieval war sequence set during the 12th-century Crusades, depicting a fictionalized battlefield confrontation between Crusader forces and the army of Salahuddin (Saladin). The entire scene must feel grounded, documentary-like, raw, and physically realistic, as if authentic historical footage had somehow been captured with a primitive period camera.
+
+Environment: A medieval settlement and battlefield in the Levant during the Crusades, with weathered stone buildings, fortified walls, dirt roads, wooden structures, tents, farmland, horses, carts, siege equipment, scattered shields and weapons, drifting smoke, dust in the air, damaged structures, and a tense wartime atmosphere. Harsh overcast afternoon light mixed with dusty sunlight, natural atmospheric haze, and realistic environmental wear.
+
+Characters: Crusader soldiers wearing historically inspired 12th-century mail armor, surcoats, helmets, shields, boots, and period-accurate equipment. Salahuddin’s soldiers wear historically inspired Ayyubid-era Middle Eastern military clothing, chainmail, helmets, shields, and period-accurate equipment. Natural faces, realistic skin texture, sweat, dirt, fatigue, fear, and believable body movements. Horses and animals must move according to realistic biomechanics.
+
+0–3s — Establishing Shot:
+Wide handheld shot of a dusty medieval settlement suddenly filled with smoke and confusion. Crusader soldiers and Salahuddin’s forces move rapidly between stone buildings and defensive positions. Horses pull wooden carts while civilians rush toward safer areas. Dust and smoke drift naturally through the battlefield.
+
+3–6s — Tension:
+Camera moves through the battlefield at shoulder height, following several Crusader soldiers as distant battle cries, horns, arrows, and metal impacts are heard. They immediately react and take cover behind a stone wall and overturned wooden cart. Across the battlefield, Salahuddin’s soldiers advance cautiously through the dust.
+
+6–10s — Combat:
+Fast handheld tracking shot as Crusader and Ayyubid soldiers clash between cover. Shields absorb impacts, swords collide with realistic weight and momentum, arrows strike wooden structures and shields, and small pieces of stone, wood, dust, and debris fall naturally from nearby impacts. Weapon movement, armor weight, recoil from physical impacts, momentum, balance, and body weight must be physically accurate. Keep the violence realistic and restrained.
+
+10–13s — Human Moment:
+Camera briefly focuses on a wounded soldier being helped behind cover by another soldier. Their breathing, facial expressions, fear, exhaustion, body language, armor weight, and movement should feel natural and unscripted. In the background, the battle continues through smoke and dust.
+
+13–15s — Final Shot:
+Camera pulls back into a wide shot of the medieval battlefield as smoke slowly moves through the settlement. Crusader forces remain behind defensive positions while Salahuddin’s army advances in the distant background. Horses, damaged stone buildings, shields, banners, and scattered battlefield equipment fill the frame. The scene ends with an authentic, tense historical-documentary feeling.
+
+Visual Style: Ultra-photorealistic live-action, historically grounded 12th-century Levantine environment, vintage 35mm film texture, subtle film grain, natural imperfections, realistic exposure, handheld documentary cinematography, muted historical color palette, realistic smoke and dust, natural shadows, accurate depth of field, physically convincing medieval materials and armor.
+
+Physics: Strictly obey real-world gravity, momentum, inertia, friction, weight, collision physics, horse biomechanics, armor movement, shield impacts, sword momentum, arrow trajectories, and human biomechanics. No exaggerated explosions, impossible movements, superhero behavior, or choreographed-looking combat.
+
+Negative Prompt: modern buildings, modern vehicles, firearms, smartphones, modern clothing, modern weapons, futuristic technology, fantasy armor, fantasy creatures, CGI appearance, video-game graphics, superhero action, excessive explosions, excessive blood, gore, impossible physics, unrealistic sword movement, weightless armor, floating weapons, horses with incorrect anatomy, distorted faces, extra limbs, floating objects, plastic skin, artificial-looking environments.</code></pre>
+
+</details>
+
+## Ultra-realistic handheld smartphone food vlog in a Japanese ramen shop
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2088602119024837100)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `food-drink`
+- **ImgLume record:** [3061](https://imglume.com/prompt/3061)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8424f702-0c6b-4490-80f2-20ea7f388a53/df283e21-8b25-4b0c-ae6a-d58232a07593-1786821926281 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second ultra-realistic handheld smartphone food vlog in a cozy Japanese ramen shop at night.
+
+0–3 seconds: A young Japanese woman walks into a small warmly lit ramen shop, smiling naturally at the camera while saying, “I finally found this place.” Handheld smartphone movement with subtle natural shake.
+
+3–6 seconds: Quick close-up of the chef placing a steaming bowl of ramen on the counter. Rich broth, noodles, sliced chashu, green onions and soft-boiled egg clearly visible. Steam rises naturally.
+
+6–10 seconds: The woman lifts the noodles with chopsticks and brings them toward the camera. Extreme realistic food detail, glossy broth, visible steam and shallow smartphone depth of field.
+
+10–13 seconds: She takes a bite, pauses, then gives a genuinely surprised and happy reaction to the taste.
+
+13–15 seconds: Close-up of the ramen bowl as she gives a thumbs-up beside it. Warm practical lighting, realistic skin texture, natural restaurant ambience, authentic handheld smartphone cinematography, subtle autofocus shifts, realistic exposure changes, natural colors, photorealistic, no text, no subtitles.</code></pre>
+
+</details>
+
+## Photorealistic 10-second cinematic motorcycle commercial on Karakoram Highway
+
+- **Original source:** [@AI_with_Antonio on X](https://x.com/AI_with_Antonio/status/2088599346908365227)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3054](https://imglume.com/prompt/3054)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b66875b7-ac39-4944-a4a3-89385a65a6a0/7e13049d-5b27-4d05-b9f6-c01994238a40-1786813574026 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"Create a 10-second photorealistic cinematic motorcycle commercial featuring a young 24-year-old male rider with an athletic, muscular physique, riding a Suzuki GS150SE along the Karakoram Highway in northern Pakistan at approximately 100+ km/h.
+
+The rider looks confident and energetic, wearing a premium black riding jacket with the sleeves fitted around his muscular arms, dark riding pants, gloves, riding boots, and a full-face helmet. Keep his appearance, clothing, helmet, and body proportions identical throughout the entire clip.
+
+The Suzuki GS150SE should remain accurately proportioned and visually consistent, with realistic suspension movement, wheel rotation, chain movement, engine vibration, brake components, exhaust, mirrors, and authentic motorcycle details.
+
+The highway winds dramatically through enormous snow-covered Karakoram mountains, with towering icy peaks visible in the distance. Cold mountain atmosphere, patches of snow beside the road, crisp blue sky, thin clouds, distant glaciers, and realistic high-altitude lighting.
+
+Cinematic Direction
+
+Begin with a low front three-quarter tracking shot of the GS150SE approaching at speed. Transition into a side tracking shot showing the rider enjoying the mountain scenery while maintaining control of the motorcycle. Briefly show a helmet-level POV looking down the sweeping Karakoram Highway toward massive snow-covered peaks.
+
+Use realistic aerodynamic effects: subtle airflow flowing around the rider and motorcycle, jacket fabric reacting naturally to wind, slight suspension compression over road imperfections, realistic tire contact, and controlled motion blur.
+
+Finish with a dramatic rear three-quarter tracking shot as the motorcycle disappears along the winding highway, surrounded by enormous icy mountains.
+
+Visual style: photorealistic, premium motorcycle commercial, cinematic 4K, natural mountain lighting, realistic physics, detailed motorcycle textures, dynamic tracking camera, shallow depth of field where appropriate, subtle lens flare, realistic motion blur, immersive scale, epic Himalayan/Karakoram atmosphere.
+
+Important: No distorted motorcycle parts, no extra limbs or fingers, no changing rider appearance, no duplicated motorcycle components, no unrealistic wheel geometry, no floating motorcycle, no excessive CGI effects, and no text overlays unless specifically requested.
+
+Overall feeling: freedom, adventure, power, solitude, mountain exploration, and the thrill of riding through the Karakoram."</code></pre>
+
+</details>
 
 ## 30-second ultra-photorealistic Japanese water obstacle competition broadcast
 

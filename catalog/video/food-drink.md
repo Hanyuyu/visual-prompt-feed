@@ -1,9 +1,69 @@
 # Food Drink video prompts
 
-55 source-linked prompts, newest ImgLume records first.
+57 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic 15-second cinematic pizza-making sequence with female chef
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2088661091253682616)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3063](https://imglume.com/prompt/3063)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5e990842-63a3-4a9c-ac0a-888632d277d0/e6eda592-bc78-49bf-b0b0-d2e5aeca9ea1-1786832439494 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic cinematic pizza-making sequence featuring the girl from the uploaded reference image as the exact character reference. Preserve her facial identity, green-hazel eyes, long jet-black hair, skin tone, facial structure, and overall appearance consistently throughout every shot. Dress her in a stylish black apron over her white fitted T-shirt, with her hair tied into a practical low ponytail.
+
+The video opens with an intense close-up of her holding a freshly baked pizza slice toward the camera. She takes a confident bite as molten cheese stretches dramatically from the slice, steam rising around her face.
+
+She immediately turns toward the counter and begins making another pizza. She spins a round piece of dough high above her head, catches it perfectly, and slaps it onto the counter as flour bursts into the air. The camera follows the movement with a fast whip-pan.
+
+She rapidly spreads bright-red tomato sauce across the dough, then throws fresh mozzarella, ricotta, and pepperoni onto the pizza with energetic precision. Use fast macro cuts of sauce swirling, cheese landing, and pepperoni bouncing onto the dough.
+
+She slides the topped pizza into a blazing stone oven. Extreme macro shots show the crust rapidly puffing into huge leopard-charred bubbles, pepperoni curling into crispy cups, cheese bubbling and melting, and heat distortion shimmering around the pizza.
+
+She pulls the finished pizza from the oven, scatters fresh basil over the bubbling surface, then lifts one slice high. A huge molten cheese pull stretches between the slice and pizza as she gives the camera a confident satisfied look.
+
+Finish with a dramatic close-up of the golden blistered crust, melted cheese, crispy pepperoni, fresh basil, and steam filling the frame.
+
+Style: Premium cinematic food commercial, female chef protagonist, aggressive handheld camera, whip pans, smooth tracking, extreme macro food photography, dramatic blue-and-warm-amber lighting, realistic dough and cheese physics, natural steam, oven heat distortion, detailed skin and hair, shallow depth of field, cinematic film grain, photorealistic, ultra-detailed, 4K HDR, 24fps, 16:9.
+
+Audio: Natural diegetic sounds only — dough slapping, flour scattering, sauce spreading, toppings landing, oven roar, bubbling cheese, crust crackling, basil flutter, and final bite crunch. No music, dialogue, subtitles, logos, text, or watermark.</code></pre>
+
+</details>
+
+## Ultra-realistic handheld smartphone food vlog in a Japanese ramen shop
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2088602119024837100)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `food-drink`
+- **ImgLume record:** [3061](https://imglume.com/prompt/3061)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8424f702-0c6b-4490-80f2-20ea7f388a53/df283e21-8b25-4b0c-ae6a-d58232a07593-1786821926281 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second ultra-realistic handheld smartphone food vlog in a cozy Japanese ramen shop at night.
+
+0–3 seconds: A young Japanese woman walks into a small warmly lit ramen shop, smiling naturally at the camera while saying, “I finally found this place.” Handheld smartphone movement with subtle natural shake.
+
+3–6 seconds: Quick close-up of the chef placing a steaming bowl of ramen on the counter. Rich broth, noodles, sliced chashu, green onions and soft-boiled egg clearly visible. Steam rises naturally.
+
+6–10 seconds: The woman lifts the noodles with chopsticks and brings them toward the camera. Extreme realistic food detail, glossy broth, visible steam and shallow smartphone depth of field.
+
+10–13 seconds: She takes a bite, pauses, then gives a genuinely surprised and happy reaction to the taste.
+
+13–15 seconds: Close-up of the ramen bowl as she gives a thumbs-up beside it. Warm practical lighting, realistic skin texture, natural restaurant ambience, authentic handheld smartphone cinematography, subtle autofocus shifts, realistic exposure changes, natural colors, photorealistic, no text, no subtitles.</code></pre>
+
+</details>
 
 ## Ultra-realistic smartphone food vlog in Tokyo
 

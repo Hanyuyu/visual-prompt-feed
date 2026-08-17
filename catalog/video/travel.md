@@ -1,9 +1,196 @@
 # Travel video prompts
 
-37 source-linked prompts, newest ImgLume records first.
+41 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vertical phone-shot vlog of a woman in Tokyo
+
+- **Original source:** [@viperstudios4 on X](https://x.com/viperstudios4/status/2088759170174529887)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [3112](https://imglume.com/prompt/3112)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5fd7eeb6-63f7-4687-b877-59749338d736/da1f8329-52e3-4950-a0bc-30789661b374-1786891694033 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Generation goal] Vertical phone-shot boyfriend vlog. One continuous handheld take following one woman through a single day in Tokyo, morning to night.
+
+[Reference roles] @Image 1 defines the single woman, Mei: her face, warm ivory skin, hazel almond eyes, nude rose-pink lips, long deep blue-black hair with crimson-red ombré waves falling past the chest, slender build, and her full outfit — black ribbed long-sleeve cropped button-front top with a V neckline, light-wash denim shorts with a white lace-trim waistband. @Image 1 is a four-panel character sheet of ONE woman. Show exactly one woman. Do not inherit the white studio backdrop, the panel layout, or the front/side/back arrangement. No split-screen, no duplicates.
+
+Add one prop not in @Image 1: a small tan leather shoulder purse, thin strap, worn on her left shoulder any time she is outdoors.
+
+[Stage 1 — approximately 0–6s] Small Tokyo apartment, soft morning sun through a window. Mei sits on the edge of the bed running her fingers through her hair. The camera walks in and she notices it. She lifts her chin, breaks into a warm open smile, and waves once. English, casual and relaxed, spoken by Mei: {Hey you!} End state: she stands and lifts the tan purse onto her left shoulder.
+
+[Stage 2 — approximately 6–12s] Quiet neighborhood street, shutters going up, a bicycle passes. The camera follows a step behind her. She turns into a convenience store, scans a drinks cooler, then turns back to the camera holding two cans and shrugs a question. End state: she is at the counter with one can.
+
+[Stage 3 — approximately 12–19s] Narrow alley into a small ramen shop. She sits, lifts chopsticks, takes a first bite. One beat later the heat registers — she waves a hand near her mouth and laughs. A man laughs off camera. End state: she is still laughing, bowl in front of her.
+
+[Stage 4 — approximately 19–25s] Busy afternoon shopping street. She browses a stall, picks up a small object, glances back at the lens. Camera drifts between her face, her hands, and passing crowds. End state: she walks on ahead.
+
+[Stage 5 — approximately 25–30s] Night. Lit storefronts. She walks a few steps ahead, turns back, smiles. Cut to a train seat; she rests against the window as city lights slide past. Slow push in. Hold there.
+
+[Camera] Vertical phone video, handheld throughout. Imperfect framing, small drifts, natural autofocus hunts, occasional exposure shifts. No tripod stability, no professional composition.
+
+[Audio] &lt;street ambience, bicycle bell, train hum, chopsticks on ceramic&gt; (no music)
+
+[Maintain consistency] Exactly one woman in every frame, identical face, hair color and length throughout. Wardrobe never changes. Tan purse stays on her left shoulder outdoors, same bag every time. No text overlays, no subtitles, no logos, no brand names, no beauty smoothing, no CGI look, no wardrobe change, no second person matching her.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC smartphone vlog in Japan
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2088941940935119168)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`, `ugc`
+- **ImgLume record:** [3108](https://imglume.com/prompt/3108)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5570df1-28ca-432b-923e-4d0a943555d2/07d37e26-9f09-4023-82e0-639abbb93d67-1786889195533 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic UGC smartphone vlog in Japan. A young Japanese woman with long dark hair and a casual stylish outfit explores a lively Tokyo shopping street, filmed entirely on her phone with natural handheld movement, slight camera shake, realistic autofocus, imperfect framing and authentic street ambience. 0–3s: selfie mode while walking, smiling: “Come shopping with me in Japan!” 3–6s: quick camera turn showing colorful Japanese shops and busy street, then she enters a cute accessories store. 6–10s: she browses cute bags and hair accessories, picks up one item, tries it in a mirror and excitedly says, “Wait, this is so cute!” 10–13s: quick shot of her paying and receiving a small shopping bag, then walking outside. 13–15s: she holds the bag toward the camera, smiles and says, “Definitely worth it!” Natural Japanese environment, realistic skin texture, authentic expressions, real smartphone exposure, subtle motion blur, natural lighting, no beauty filter, no commercial look, no exaggerated acting, seamless fast-paced storytelling, consistent character throughout, highly photorealistic, 1080p, Seedance 2.5.</code></pre>
+
+</details>
+
+## Hanoi Travel Vlog — 30 Sec
+
+- **Original source:** [@magic_ai_skill on X](https://x.com/magic_ai_skill/status/2088843555418906790)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3102](https://imglume.com/prompt/3102)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7f06c836-b793-42bf-b64f-2b56bc9052fe/e67a0b69-c475-47f0-ad03-8c69d348995c-1786885020839 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>HANOI TRAVEL VLOG — 30 SEC
+
+No reference image. The woman below is described in words and must be built from the text alone.
+
+SUBJECT: one Korean woman, early 20s, the only person the film follows. Small oval face with a soft jawline, large round eyes with double lids, a small straight nose, full coral-red lips, fair skin. Black wavy hair tied low at the nape and pulled forward over one shoulder, with loose strands left at the temples. A small gold hoop in each ear. Real Korean skin texture with visible pores — no doll-like AI smoothness, no beauty filter. The face established in the first shot is repeated exactly in every following shot: same features, same hair, same colour. She never morphs into a different person and no lookalike appears.
+
+OUTFIT (identical throughout): burgundy ribbed knit halter top, cream high-waist flared trousers, tan leather belt with a gold buckle, burgundy platform heeled sandals, a thin gold bracelet on one wrist. There is no changing shot.
+
+CAMERA: she is filming herself on her own phone. Most shots are selfies with her arm extended; objects and food are shot by turning the phone toward them. 16:9 landscape throughout, no black bars. 26mm phone lens, deep focus, neutral iPhone colour, handheld jolt on every step, autofocus landing a beat late, exposure lagging when she moves from bright to dark, a fingerprint smudge bleeding beside strong lights. No cinematic grading, no studio lighting, no glow fx. Background people stay out of focus and nobody looks at the camera for long.
+
+DIALOGUE: lines are short and land in one breath. An interjection plus one short sentence is fine, but never two complete sentences strung together. There is breath between them and they are never rushed into each other. Punctuation is used once — no doubled question marks or exclamation marks. The two Vietnamese greetings are not fluent — just phrases she has picked up.
+
+(0:00–0:02) — Hotel window, Hanoi morning reveal. Selfie, low angle. She shoves the curtain sideways and narrow tube houses under bundled cables open up behind her. The window blows out white, then the exposure catches up. Bright grin. Dialogue: "Xin chào~ 하노이 왔다!" Transition: Hard cut on beat
+
+(0:02–0:04) — Old Quarter junction, a river of motorbikes. Selfie, stepping out between the bikes. She swings the phone to her face while a stream of helmets and conical hats flows behind her, horns overlapping. Overcast daylight, deep focus. Dialogue: "이걸 어떻게 건너?" Transition: Fast cut on beat
+
+(0:04–0:06) — Street café. Selfie, arm short. She pushes a glass with condensed milk settled at the bottom toward the lens until it fills half the frame, eyebrows raised. Low backless stools, a stained yellow French wall behind. Transition: Snap cut
+
+(0:06–0:08) — Alley bánh mì cart. Insert, phone pointed down at her hands. A baguette split over the charcoal is handed to her in newspaper and she peels the paper down with her fingertips. Steam rises and a few sprigs of coriander stick out of the split. White tube light on the cart, a parked motorbike beside it. Transition: Cut on natural movement
+
+(0:08–0:09.75) — Huc Bridge reveal. She raises the phone from her face and tilts it up until the red wooden bridge crossing the lake fills the frame. Natural daylight, sky blown out behind a banyan tree. Her mouth opens slightly. Transition: Soft cut mid-upward motion
+(0:09.75–0:12) — Train Street café. Selfie. On a low stool beside the track she is holding a coffee glass in both hands; hearing it come she sets the glass down and pulls her stool back against the wall. She looks at the lens, then sideways, and her face collapses into a laugh as a train comes out of the far end of the lane and passes an arm's length away. Dialogue: "헐 진짜 온닷ㅋㅋㅋㅋ" Transition: Cut on the end of the laugh
+
+(0:12–0:13.75) — Old Quarter, the 36 streets. Follow from behind, phone low. She shoulders through the packed lane with the bánh mì, finishes the last piece and folds the newspaper away. Unlit lanterns and signs stacked tight overhead, people pushing past. Overcast afternoon light. Transition: Cut on forward movement
+
+(0:13.75–0:15.5) — Back seat of a cyclo. Her hands are empty now — the phone low at knee height in one hand, the rail in the other. The street slides past under the folded canopy, the driver's back swaying in front. She looks out, not at the lens. The music drops a beat, leaving only wheels and horns. Transition: Snap cut
+
+(0:15.5–0:18) — Phở shop. From here the image is camcorder: blooming tape, light noise, late focus. The camera is fixed at eye level across the counter, no phone or camera visible in frame. Medium. She sits down on a low blue stool under a hand-painted Phở sign. The owner sets a steaming bowl of beef phở down — thin-sliced beef, rice noodles, spring onion, a side plate of sprouts and basil. Dialogue: "쌀국수! 이거 먹으러 왔어~" Transition: Cut on the bowl landing
+
+(0:18–0:20) — Lifting the noodles. Macro, phone lowered to the bowl, shallow focus. She draws rice noodles up out of the clear broth with her chopsticks, steam climbing. The steam crosses the lens and one side of the frame hazes over and clears. Only the broth and the slurping at the next stool. Transition: Cut with the noodles still raised
+
+(0:20–0:22) — First mouthful. Selfie, handheld. She pulls in a big mouthful, closes her eyes and opens them. Her shoulders drop and she nods once at the lens. Just after sundown, the white fluorescent light of the shop. Dialogue: "미쳤다 진짜." Transition: Cut where her face softens
+
+(0:22–0:23.5) — The broth. Selfie, close. She lifts the bowl in both hands, tips it back, sets it down and lets out a breath. The lens fogs with steam. Sound only. Transition: Cut back to phone image quality
+
+(0:23.5–0:27) — Tạ Hiện beer street ★signature. She steps into the narrow lane on an extended-arm selfie, walking between the rows of low plastic stools set out on the ground, and slowly lifts her head. Red, yellow and green lanterns hung low across the lane slide over her face and the same colours bleed across the wet ground. Rack focus — her face sharp, the signs behind spreading. Practical light only, no glow. 60% slow motion. Transition: Soft cut with her head still up
+
+(0:27–0:30) — Long Biên Bridge, night reveal. Close selfie → arm extends → the river and the Hanoi night open up below. Wind pushes her bangs across her eyes once. Natural night phone exposure. Dialogue: "그럼 모두 tạm biệt~!" She waves broadly at the camera and that same hand covers the lens as the frame goes dark.
+
+AUDIO: real location sound over the music. Unbroken motorbike horns and engines, stools scraping the pavement, charcoal sizzling, a train horn and rails, cyclo wheels, broth boiling and chopsticks, slurping at the next stool, night street noise, wind. Her muttering is natural Korean.
+
+CONSISTENCY: the same face, the same hair and the same clothes in every shot. Hands and chopsticks are natural with no smeared fingers. No text, no subtitles, no logo and no watermark on screen. No filming equipment is visible in frame.
+
+FINALLY: this has to look like footage a real person shot on a phone. Nothing about the face, the skin or the movement should read as AI-generated. Every line of dialogue is enunciated clearly, syllable by syllable — no slurring, no swallowed syllables, no clipped word endings, and the tense consonants and final consonants of Korean are pronounced accurately. Expressions and gestures are not performed; they are what the moment would naturally produce.</code></pre>
+
+</details>
+
+## 2026 Smartphone Travel Vlog in Everyday China
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2088607355336613910)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [3072](https://imglume.com/prompt/3072)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8fd18ab4-4340-4737-ab9d-7acba40ca022/c4d5c811-a294-4825-8cc3-e00d25b9f8d2-1786851602054 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, identity, skin tone, body proportions, facial features, hairstyle, and outfit of the character throughout the entire video. No appearance changes or identity drift.
+
+Duration: 30 seconds
+Aspect Ratio: 16:9
+
+Create an authentic 2026 smartphone travel vlog showing a surprising side of everyday China. The concept is: “The future is normal here.” Avoid typical tourist landmarks. Focus on ordinary streets, technology, local food, and spontaneous reactions.
+
+00:00–00:05
+Selfie footage while walking through a modern Chinese neighborhood. She notices an autonomous delivery robot moving along the sidewalk and turns the camera toward it.
+
+She says naturally:
+“Wait… is that actually delivering food?”
+
+She laughs as the robot continues past her. People around her barely react.
+
+00:05–00:10
+She enters a modern convenience store. Show realistic shelves, drinks, snacks, digital payment and everyday shoppers.
+
+She picks up an unfamiliar local snack and looks at the camera:
+“I have no idea what this is.”
+
+She pays using her phone and reacts:
+“That was way too easy.”
+
+00:10–00:16
+Outside, she notices electric vehicles and scooters moving quietly through the street. She films them briefly, then looks back at the camera.
+
+She says:
+“I expected futuristic buildings…”
+
+Brief pause.
+
+“…but it's the normal streets that surprise me.”
+
+00:16–00:23
+She enters a lively local food street. Show steaming food stalls, cooks preparing noodles and skewers, pedestrians eating, bicycles, scooters and authentic evening street ambience.
+
+She orders a local snack, takes a bite and genuinely reacts:
+“Okay… that's really good.”
+
+00:23–00:30
+Golden-hour-to-evening selfie shot while walking through the busy street. Warm storefront lights, local people and everyday city life fill the background.
+
+She looks into the camera and says:
+“Everyone shows you the famous China…”
+
+She turns the camera toward the street.
+
+“But this is the part I didn't expect.”
+
+She smiles and keeps walking as the phone lowers naturally.
+
+VISUAL STYLE: Raw smartphone footage, natural handheld shake, autofocus shifts, imperfect framing, realistic motion blur and exposure changes. No cinematic lighting, beauty filters, stabilization, color grading, subtitles or watermark.
+
+AUDIO: Authentic smartphone microphone audio with Chinese street conversations, footsteps, scooters, traffic, shop ambience, cooking sounds and natural crowd noise.
+
+REALISM: Make everything look genuinely filmed by a traveler, not like a commercial or CGI travel video. Maintain consistent character appearance throughout.</code></pre>
+
+</details>
 
 ## Ultra-realistic smartphone food vlog in Tokyo
 

@@ -1,9 +1,46 @@
 # Food Drink image prompts
 
-11 source-linked prompts, newest ImgLume records first.
+12 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## FLAVORS OF TÜRKİYE Culinary Travel Infographic
+
+- **Original source:** [@AiwithLucas_ on X](https://x.com/AiwithLucas_/status/2088667224882155684)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3057](https://imglume.com/prompt/3057)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2e19b01f-6dd4-4552-a87d-9401b33b6b11/54ca3972-0723-4545-a85f-d85aa7b9a7f9-1786815636748 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a stylish, minimal high-end culinary travel infographic titled “FLAVORS OF TÜRKİYE”, with the subtitle “A CULINARY JOURNEY THROUGH THE HEART OF ANATOLIA”. Use a warm off-white textured paper background, elegant Turkish-inspired typography, refined Ottoman geometric ornaments, subtle tulip motifs, and a premium editorial layout with deep burgundy, muted turquoise, ivory, and antique-gold accents.
+
+Center a detailed 3D map of Istanbul showing the Bosphorus, historic peninsula, bridges, waterfronts, and recognizable landmarks, surrounded by clean connecting lines and district labels. Highlight: SULTANAHMET (OLD CITY) — Ottoman heritage, historic flavors, and timeless traditions; BEYOĞLU — modern cafés, vibrant streets, and sweet treats; KARAKÖY — street food, seafood, and bustling markets; KADIKÖY — local flavors, traditional comfort, and Anatolian cuisine.
+
+Include elegant food elements around the map: Turkish tea, mercimek çorbası, döner, kebab, simit, meze, lahmacun, dolma, and baklava, presented as realistic premium food photography with ceramic Turkish plates and subtle shadows.
+
+Add a lower section titled “MUST TRY” featuring:
+MERCİMEK ÇORBASI — comforting red lentil soup, a Turkish staple.
+DÖNER — seasoned meat slowly roasted on a vertical spit.
+LAHMACUN — thin, crispy flatbread topped with spiced minced meat.
+MEZE — a generous selection of small dishes made for sharing.
+BAKLAVA — delicate layers of filo, pistachios, and syrup.
+
+Beside it, add “ICONIC EXPERIENCES” featuring:
+HAGIA SOPHIA — centuries of history and extraordinary architecture.
+BOSPHORUS CRUISE — sail between Europe and Asia with panoramic city views.
+CAPPADOCIA BALLOONS — sunrise above dramatic valleys and fairy chimneys.
+WHIRLING DERVISHES — an unforgettable tradition of music, movement, and spirituality.
+GRAND BAZAAR — historic covered markets filled with crafts, spices, textiles, and treasures.
+
+Finish with subtle Turkish floral ornaments, tulips, geometric patterns, tea-glass motifs, and elegant architectural line drawings. Keep generous negative space, precise typography, realistic food details, balanced hierarchy, soft natural shadows, and a sophisticated luxury travel-magazine aesthetic; avoid visual clutter, cartoon styling, excessive gradients, generic stock imagery, watermarks, and unnecessary logos.</code></pre>
+
+</details>
 
 ## Chocolate Lava Cake Storyboard Prompt
 

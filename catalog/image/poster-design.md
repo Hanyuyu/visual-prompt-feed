@@ -1,9 +1,358 @@
 # Poster Design image prompts
 
-75 source-linked prompts, newest ImgLume records first.
+80 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vintage Travel Poster Prompt for \[CITY\], \[COUNTRY\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088918226902409478)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3118](https://imglume.com/prompt/3118)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/69c5bbd5-0845-493d-adf7-e819ebda2332/6f9ded3c-13ff-4737-a8fd-b892a9acdf48-1786895690596 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/69c5bbd5-0845-493d-adf7-e819ebda2332/699a624c-ad24-4619-9da3-fc0dead79902-1786895690596 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/69c5bbd5-0845-493d-adf7-e819ebda2332/ac8ad904-878f-44fe-9cd6-b5f536be4e9d-1786895690596 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/69c5bbd5-0845-493d-adf7-e819ebda2332/18a90703-59fc-4fc6-8b5b-1ad5288975a3-1786895690596 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical vintage travel poster for [CITY], [COUNTRY], inspired by classic screen-printing, linocut illustration, retro editorial graphics, and handmade European travel posters.
+
+Build a completely original composition that captures the personality of [CITY] rather than simply arranging famous landmarks.
+
+Use a warm aged cream paper background with visible paper fibers, subtle stains, distressed ink, rough printing edges, and authentic handmade texture.
+
+VISUAL CONCEPT
+
+Create one strong central visual story representing [CITY].
+
+Integrate 2–4 recognizable landmarks or architectural elements naturally into the environment, along with everyday details that make the city feel alive:
+
+local transportation
+characteristic streets and buildings
+cafés and shops
+street signs
+local food or objects
+pedestrians and cyclists
+trees and surrounding landscape
+culturally distinctive details
+
+Avoid making the landmarks look like floating stickers or a checklist. Everything should feel like it belongs to one continuous scene.
+
+COLOR PALETTE
+
+Use a sophisticated limited palette:
+
+warm ivory + charcoal/black + one signature accent color associated with [CITY].
+
+Keep the accent color selective and powerful rather than covering the entire artwork.
+
+TYPOGRAPHY
+
+Integrate large, bold, hand-printed typography into the composition:
+
+[CITY]
+
+Add a small secondary phrase that reflects the city’s character:
+
+[SHORT CITY PHRASE]
+
+Typography should feel imperfect, screen-printed, slightly distressed, and organically integrated into the artwork.
+
+ART STYLE
+
+vintage linocut
+handmade screen print
+retro travel-poster illustration
+rough ink texture
+distressed halftone grain
+imperfect registration
+hand-cut edges
+strong silhouettes
+expressive perspective
+subtle paper imperfections
+sophisticated negative space
+editorial art-book aesthetic
+
+Make the artwork feel like a rare collectible travel print, combining nostalgia with contemporary graphic design.
+
+IMPORTANT
+
+Do not simply reproduce a traditional tourist poster.
+
+Do not use a generic landmark collage, photorealism, glossy 3D rendering, excessive colors, gradients, or overly clean digital graphics.
+
+The final composition should be bold, artistic, slightly unexpected, highly recognizable, culturally authentic, and visually sophisticated, with [CITY]’s unique identity immediately apparent.</code></pre>
+
+</details>
+
+## Paper Cutout Collage Travel Poster Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2088901593836265855)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3117](https://imglume.com/prompt/3117)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8834c091-5aad-4f5b-b4e9-3d059ef043a1/4b4061d9-baff-43c7-9522-6bd73f0fd6bf-1786893590009 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8834c091-5aad-4f5b-b4e9-3d059ef043a1/aa7b34ad-52e7-47b0-8e99-6e7d5e4b100c-1786893590009 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8834c091-5aad-4f5b-b4e9-3d059ef043a1/49c33e94-73ec-4602-bdfe-a1c59aa8818f-1786893590009 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8834c091-5aad-4f5b-b4e9-3d059ef043a1/055e4f56-4a2c-4b38-aab9-e2e76e875b27-1786893590009 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+"style": {
+"type": "paper cutout collage illustration with mixed photography elements",
+"visual_tone": "playful, vibrant, travel-poster inspired",
+"mood": "celebratory, adventurous, uplifting",
+"suitable_for": [
+"event posters",
+"travel campaigns",
+"anniversary visuals",
+"tourism ads",
+"festival promotions"
+]
+},
+
+"composition": {
+"layout": "layered collage with central headline and surrounding illustrated landmarks",
+"subject_placement": "main typography centered, visual elements arranged radially around it",
+"foreground": "road, vehicle, and flowers with strong cutout edges",
+"midground": "architectural landmarks and attractions",
+"background": "soft sky with clouds and minimal gradients",
+"depth": "multi-layered overlapping cutout elements creating visual depth",
+"balance": "asymmetrical yet visually balanced through distributed elements"
+},
+
+"camera": {
+"angle": "slightly elevated perspective with frontal composition",
+"framing": "wide poster framing capturing multiple elements",
+"lens_look": "flat perspective with subtle depth simulation",
+"depth_of_field": "mostly sharp across all elements"
+},
+
+"lighting": {
+"type": "bright daylight",
+"direction": "soft top-front lighting",
+"effect": "even illumination with minimal harsh shadows",
+"shadow_style": "subtle drop shadows enhancing the paper-cutout effect"
+},
+
+"color_palette": {
+"primary_colors": ["sky blue", "teal", "white"],
+"secondary_colors": ["green", "yellow", "red accents", "earth tones"],
+"contrast": "moderate contrast with bright highlights",
+"overall_feel": "fresh, clean, energetic"
+},
+
+"typography": {
+"style": "bold sans-serif with rounded edges and playful distortion",
+"placement": "centered and layered over irregular cutout shapes",
+"hierarchy": "large headline, medium subheading, and smaller informational text",
+"readability": "high readability with strong contrast and generous spacing"
+},
+
+"graphic_elements": {
+"effects": ["paper tear edges", "cutout outlines", "subtle drop shadows"],
+"textures": ["paper texture", "subtle grain"],
+"overlays": ["cloud overlays", "soft gradients"],
+"decorative_elements": ["icons", "birds", "signage", "flowers"]
+},
+
+"layout_prompt": "Create a layered paper-cut collage poster with a bold central headline placed on irregular white cutout shapes. Surround the typography with travel-themed elements arranged in a loose semi-circular composition. Include roads, vehicles, or flowers in the foreground, recognizable landmarks and attractions in the midground, and a soft blue sky with clouds in the background. Use torn paper edges, overlapping layers, subtle outlines, and drop shadows to create dimensional depth.",
+
+"universal_prompt": "A vibrant paper-cut collage travel poster featuring bold central typography on torn white paper shapes, surrounded by layered landmarks, vehicles, roads, flowers, and nature elements. Bright daylight, soft cloud-filled sky, playful asymmetric composition, strong rounded sans-serif typography, subtle paper shadows and handmade textures, fresh and energetic colors, dynamic celebratory atmosphere, polished professional advertising design, high detail.",
+
+"negative_prompt": "photorealistic single scene, minimalism, dark lighting, monochrome palette, flat design without layers, heavy shadows, cluttered typography, low contrast, blurry elements, lack of depth, realistic perspective without collage effect"
+}</code></pre>
+
+</details>
+
+## Watercolor City Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2088669387163369531)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3116](https://imglume.com/prompt/3116)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/08b02b81-fbcd-4350-b015-dea602f93b6e/4aec089b-c8c2-4775-8eec-ecc906d6e164-1786893573448 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/08b02b81-fbcd-4350-b015-dea602f93b6e/3ee04694-ab4c-4dfd-af8b-99ff219b0477-1786893573448 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/08b02b81-fbcd-4350-b015-dea602f93b6e/17be3366-ca6f-4618-a3e0-ee3204e00c74-1786893573448 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/08b02b81-fbcd-4350-b015-dea602f93b6e/cccb5e5e-89b2-4b7d-8e96-2e4125fdf400-1786893573448 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>@Create image {CITY} — uppercase English city name
+{SUBJECT} — one hero landmark as the highest point, one secondary structure a step lower, a mid-rise or terrain band beneath, a closing mass of trees or water at the bottom — overlapping into ONE silhouette, real geography ignored, everything below it dissolving into bare paper
+{PALETTE} — MAIN (dark, carries structure and lettering) / ACCENT (only saturated color) / SUB1 / SUB2 (muted)
+{CAPTION} — 3–5 word English line, offhand, never explanatory
+
+---
+
+[ASPECT RATIO]
+
+Vertical 3:4
+
+[SUBJECT]
+
+{SUBJECT}
+
+[STYLE]
+
+Watercolor materiality first: wet-on-wet blooms, dark hard edges where a wash dried, density shifting within a single stroke as the water load changes. Pigment pools at the lower edge of each form; dry-brush passages split and let the cold-press tooth show through.
+
+A thick brush pen lays the main contours first — about 40 strokes, no hatching.
+
+Washes cross those lines 1–3 mm off register; color never doubles as the outline.
+
+Coverage 60 percent — the untouched paper is the brightest value in the image.
+
+Windows are short repeated strokes at uneven intervals, never drawn individually.
+
+Form comes from flat washes and line, never from modeling.
+
+[COLOR]
+
+Four only: {PALETTE}.
+
+Cream off-white paper ground, every color one step down in saturation for a vintage print tone.
+
+Accent covers 8 percent of the frame at most.
+
+[COMPOSITION]
+
+Subject mass in the lower two thirds with clear margins left and right; upper third is unpainted paper for the lettering.
+
+The tallest spire may pierce slightly into it.
+
+Sky and ground stay bare paper.
+
+[TYPOGRAPHY]
+
+Top: "{CITY}" in oversized heavy brush lettering, all caps, spanning nearly the full width, wide letter spacing, dry grain streaking white through the strokes, ends splitting. MAIN color.
+
+Bottom right: "{CAPTION}" small handwritten script, ACCENT color.
+
+Signage is abstract blocks of color — no other legible text.
+
+[NEGATIVE]
+
+photorealistic, 3D, airbrush, gradient shading, cast shadows, reflections, logos, watermarks, border frames, painted sky, gibberish lettering, evenly saturated full coverage, mechanical window grids, thin typography, serif or script display fonts, Aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Premium high-fashion skincare editorial poster prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2088577912861762049)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3065](https://imglume.com/prompt/3065)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a6ab7f68-ed5e-4930-a8e9-1d0c540a05c0/56b0fbf1-0de4-43b0-8033-e787042efdfc-1786834999128 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a6ab7f68-ed5e-4930-a8e9-1d0c540a05c0/95165055-de3a-4c8b-bad8-2feb760d554d-1786834999128 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "SUBJECT": "&lt;user-defined subject/image&gt;",
+ "HEADER": "&lt;user-defined editorial header&gt;",
+ "POSE": "&lt;user-defined pose&gt;",
+ "BOTTLE_IN_HAND": "&lt;user-provided product/bottle&gt;",
+
+ "prompt": "Create a premium high-fashion skincare editorial poster using SUBJECT as the main model. Preserve the subject's identity, facial structure, natural features, hairstyle, hair color, body proportions, and recognizable appearance accurately. The model should have exceptionally fair, luminous, healthy-looking skin with a natural dewy glow, including the face, neck, arms, and visible shoulder. Skin must remain realistic with visible natural texture and subtle pores — no plastic skin, excessive retouching, or artificial whitening.\n\nPlace the subject in POSE while naturally holding BOTTLE_IN_HAND. Preserve the bottle's exact shape, proportions, cap, material, color, label placement, and recognizable product appearance. The bottle should remain clearly visible and naturally integrated into the composition.\n\nDress the subject in a minimal, sophisticated black outfit with clean fashion-editorial styling. Keep the clothing secondary to the face and product.\n\nCreate a refined luxury beauty-campaign aesthetic: warm neutral studio background, soft directional diffused lighting, subtle highlights across the cheekbones and shoulder, controlled shadows, realistic skin reflections, elegant contrast, premium commercial photography, sophisticated composition, understated sensuality, and high-end magazine styling.\n\nUse HEADER as the main editorial headline. The header should feel catchy, sophisticated, and fashion-forward, with elegant high-contrast serif typography. Automatically generate tasteful supporting editorial typography around the composition only when appropriate, keeping it minimal and avoiding clutter. Do not use a brand name as the main header unless HEADER explicitly contains one.\n\nComposition should feel like a real luxury skincare magazine campaign photographed by a professional beauty photographer. Close-up portrait framing, realistic depth of field, refined tonal grading, subtle film texture, premium print-editorial finish, photorealistic detail, natural hands and fingers, accurate product geometry, and intentional negative space.\n\nDo not add watermarks, corner brackets, website names, AI labels, creator credits, or unrelated text. Do not change the user's defined SUBJECT, HEADER, POSE, or BOTTLE_IN_HAND."
+}</code></pre>
+
+</details>
+
+## Premium Vintage Travel Poster Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2088639773900759489)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3064](https://imglume.com/prompt/3064)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b972210-dc47-4257-a11a-22ba6fff3fd4/ddd3e9c3-62dc-4d8b-be1f-3fa45257c480-1786834984310 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6b972210-dc47-4257-a11a-22ba6fff3fd4/c7be2c54-d566-4011-83e1-877bf58c59c0-1786834984310 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/6b972210-dc47-4257-a11a-22ba6fff3fd4/ecd97ca5-1477-4d42-b2e8-4451c54d8473-1786834984310 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/6b972210-dc47-4257-a11a-22ba6fff3fd4/ed70fe6b-810f-4bf6-a783-e71a28d5461d-1786834984310 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical vintage travel poster for [CITY], [COUNTRY], designed as an elegant contemporary hand-pulled screen print / linocut collage on warm, textured archival paper.
+
+ART DIRECTION
+
+Create an artistic poster that feels collected from an old European travel archive, but redesigned with sophisticated modern composition. Use bold simplified silhouettes, imperfect hand-printed edges, subtle ink distress, tiny registration imperfections, rough paper fibers, and tactile layered shapes.
+
+The composition should feel graphic, charming, nostalgic and instantly recognizable, with the city presented as a visual story rather than a collection of random landmarks.
+
+COMPOSITION
+
+Place a large, expressive hand-lettered “[CITY]” across the central portion of the poster.
+
+Behind and around the typography, arrange simplified silhouettes of 5–7 iconic elements of [CITY], creating depth through overlapping layers:
+
+[LANDMARK 1]
+[LANDMARK 2]
+[LANDMARK 3]
+[LANDMARK 4]
+[LOCAL ARCHITECTURE]
+[NATURAL FEATURE]
+[CULTURAL SYMBOL]
+
+Do not make every landmark the same size. Use an editorial hierarchy: one dominant landmark, several secondary landmarks, and tiny atmospheric details.
+
+Add one recognizable local transportation element sweeping through the lower foreground — such as a red double-decker bus, yellow taxi, tram, tuk-tuk, metro train, bicycle, gondola, boat, or vintage automobile — depending on the identity of the city.
+
+VISUAL STYLE
+
+Use a restrained palette of warm ivory paper + deep charcoal/black ink + one carefully chosen signature color associated with the city.
+
+The artwork should look genuinely printed rather than digitally rendered:
+
+visible paper grain
+natural ink absorption
+distressed screen-print texture
+slightly uneven ink coverage
+tiny imperfections around edges
+subtle misregistration
+handmade cut-paper contours
+imperfect but beautiful typography
+no glossy digital effects
+no photorealism
+no excessive gradients
+
+TYPOGRAPHY
+
+Make [CITY] the visual centerpiece.
+
+Use bold, oversized, hand-cut display lettering with irregular organic contours. Allow the typography to partially overlap the landmarks, creating an integrated poster composition.
+
+Add a small understated line beneath it:
+
+[COUNTRY] · [SHORT CITY PHRASE]
+
+Keep the secondary typography minimal and elegant.
+
+ATMOSPHERE
+
+Include tiny visual storytelling details that make the city feel lived-in: small birds, clouds, rooftops, street lamps, trees, windows, pedestrians, flags, bicycles, water reflections, or subtle architectural patterns.
+
+Avoid clutter. Every element should feel intentionally placed.
+
+COLOR &amp; MATERIAL
+
+Warm aged ivory background, deep charcoal ink, and a single sophisticated accent color. The paper should have subtle fibers, faint grain, slightly darker edges, and the appearance of a beautifully preserved vintage print.
+
+FINAL LOOK
+
+The finished artwork should resemble a rare vintage travel poster discovered in an old design archive, combining classic travel-poster charm with contemporary graphic design.
+
+Highly recognizable city landmarks, elegant negative space, bold handmade typography, sophisticated composition, tactile printmaking texture, imperfect ink edges, archival paper, artistic editorial aesthetic, premium collectible poster design, timeless rather than touristy.
+
+No photorealistic buildings, no 3D rendering, no glossy effects, no modern advertising aesthetic, no excessive text, no generic landmarks that do not belong to the city.</code></pre>
+
+</details>
 
 ## Premium 4:5 vertical cinematic travel poster prompt
 
