@@ -1,9 +1,153 @@
 # Animation video prompts
 
-80 source-linked prompts, newest ImgLume records first.
+83 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Sun-Drenched Sakuga: Cyber-Desert Duel – Video Prompt
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2089214417778987292)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3153](https://imglume.com/prompt/3153)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6e25b38-88cc-47b8-9d2d-eb5bced7f625/35459ec1-d09f-4e7e-9b20-1055d8319aee-1786956170393 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 15-second horizontal 16:9 original martial arts action anime video from the provided first frame.
+
+CRITICAL ENTITY LOCK:
+There must be exactly 2 main characters in the entire video: KANAN (male acrobat in yellow wraps with energy staff) and ZEPHYR (female scavenger in off-white techwear with gold visor).
+Do not add secondary scavengers, droids, or background onlookers.
+Maintain strict visual consistency for Kanan's cyan staff rings, yellow wraps, goggles, and Zephyr's gold visor, off-white suit, and amber palm gauntlets throughout all cuts.
+
+Character identity:
+KANAN: Male dune acrobat, yellow wraps, dark vest, protective goggles, cyan energy staff, fluid martial arts movement.
+ZEPHYR: Female sun scavenger, off-white techwear suit, gold heat-reflective visor, amber palm energy gauntlets, fast strike martial arts style.
+
+Video style:
+High-budget Japanese anime feature film quality, post-apocalyptic martial arts aesthetic, high-contrast sun-drenched lighting, bright lens flares, fluid hand-to-hand animation, continuous real-time velocity.
+
+Camera and pacing:
+Relentless real-time martial arts action without any slow-motion pauses:
+0.0s - 5.0s: High-speed tracking shot as fighters sprint across sand dunes and trade acrobatic staff deflections amidst blowing sand.
+5.0s - 10.0s: Low-angle arc camera following fast martial arts maneuvers, sand sweeps, and palm strike deflections across rusted satellite ruins.
+10.0s - 15.0s: High-velocity energy shockwave impact at full speed, transitioning into a clean sliding recovery and a balanced standoff freeze.
+
+Action timing:
+0.0s - 2.5s:
+KANAN and ZEPHYR charge downhill across sand dunes. KANAN vaults off a buried satellite rim, spinning his cyan energy staff into a sand vortex.
+
+2.5s - 5.5s:
+ZEPHYR leaps through the sand wave, using her amber gauntlets to deflect three fast staff strikes. She kicks hot sand upward to create a defensive distraction.
+
+5.5s - 8.5s:
+KANAN sweeps his staff along the ground to displace the sand under ZEPHYR's feet. ZEPHYR vaults over the sweep and launches a flying palm strike.
+
+8.5s - 11.5s:
+FULL-SPEED KINETIC IMPACT: ZEPHYR's palm gauntlet collides directly with KANAN's staff guard at full velocity. A bright shockwave of cyan and amber energy blasts sand 360 degrees outward.
+
+11.5s - 15.0s:
+KANAN redirects the kinetic blast into a staff counter-pulse. ZEPHYR slides backward across the dune on her boots, coming to an instant halt in a ready stance. Final cinematic freeze frame.
+
+Motion quality:
+Fluid 2D animation, realistic sand particle dispersion, crisp energy shockwave rendering, seamless martial arts trajectory, zero character distortion.
+
+Environment:
+Sun-bleached desert canyon, half-buried rusty parabolic satellite dishes, shifting sand dunes, blinding sunlight, dust storms, intense lens flares.
+
+Final output:
+15 seconds, horizontal 16:9, original high-budget martial arts anime, exactly 2 main characters, continuous high velocity, no slow motion, no subtitles, no watermarks, no logos.</code></pre>
+
+</details>
+
+## 30-second cinematic 3D street-racing chase with a late‑for‑date heroine
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089192455811822013)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3145](https://imglume.com/prompt/3145)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/286ef30c-9b2e-4c49-b378-b3b18c387782/6a982e57-98fb-4318-a1de-81a13cadba55-1786948108498 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic 3D animated street-racing sequence with a stylized high-end video-game aesthetic, expressive cartoon characters, realistic vehicle physics, dynamic camera work, polished feature-film animation, and energetic comedic pacing.
+Scene 1 — The forgotten date:
+A stylish young woman with long black hair, expressive eyes, oversized sunglasses, silver hoop earrings, a cropped black leather jacket, fitted white top, high-waisted jeans, and chunky sneakers relaxes on her apartment sofa while scrolling through her phone. She suddenly checks the time, realizes she completely forgot about an important date, freezes in shock, drops her phone onto the sofa, and dramatically screams while jumping to her feet.
+Scene 2 — Instant transformation:
+She races toward her bedroom. Fast comedic cuts show her throwing on a red leather jacket, adjusting her earrings, grabbing her handbag, putting on sunglasses, and quickly fixing her hair. She grabs her keys and rushes out of the apartment.
+Scene 3 — The getaway car:
+She bursts into an underground parking garage and jumps into a sleek modified red sports car. The engine roars as she grips the steering wheel with determination. She looks at the clock, widens her eyes, and slams the accelerator.
+Scene 4 — Downtown launch:
+The car launches onto a busy city street. Low-angle shots capture the wheels spinning, tire smoke, reflections across the glossy bodywork, and the car accelerating between traffic. Buildings streak past as the camera rapidly switches between front, side, overhead, and interior shots.
+Scene 5 — The chaotic chase:
+She races through downtown, weaving around taxis, buses, delivery vans, and intersections. She takes a sharp corner in a controlled drift, narrowly passes through a closing traffic barrier, and cuts through a narrow alley as the camera follows with aggressive tracking movement.
+Scene 6 — Impossible shortcut:
+She spots a steep parking-ramp entrance and takes it at full speed. The car launches briefly over the ramp, lands smoothly, spins into a controlled drift, and exits onto another street. Use dramatic slow-motion impact, tire smoke, realistic suspension movement, and exaggerated but believable physics.
+Scene 7 — Finally there:
+She reaches a stylish rooftop café overlooking the city at golden hour and slides the car to a stop. She jumps out, quickly fixes her hair, checks herself in the car window, and runs toward the entrance.
+Scene 8 — The date:
+A stylish young man is waiting outside the café, looking at his watch. She arrives breathless and gives him an embarrassed smile. He looks at her for a moment, then laughs. She points toward the city and jokingly gestures that the traffic was not her fault.
+Final shot:
+They walk into the rooftop café together as the camera pulls backward. Through the glass windows, the red sports car remains parked below while the golden city skyline glows behind them.
+Visual style: Premium stylized 3D animation, expressive facial acting, exaggerated comedy, detailed character animation, realistic vehicle physics, cinematic lighting, vibrant downtown environment, realistic reflections, volumetric sunlight, tire smoke, subtle sparks, detailed car textures, natural hair and clothing movement, smooth camera animation, high-energy music-video pacing, polished AAA video-game cinematic quality.
+Camera: Constantly moving cinematic camera, low-angle tracking, aerial shots, interior POV, wheel close-ups, Dutch angles, whip pans, speed ramps, dramatic push-ins, realistic motion blur.
+Mood: Chaotic, funny, stylish, romantic, adrenaline-fueled.
+Audio: Energetic cinematic beat, engine revs, tire screeches, city ambience, footsteps, car doors, comedic reaction sounds, and natural dialogue. No subtitles, no logos, no watermark, no on-screen text.</code></pre>
+
+</details>
+
+## Cinematic semi-realistic anime skateboarding sequence in New York at sunset
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2088936577045090555)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3130](https://imglume.com/prompt/3130)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f70278d-9d09-4988-8941-62d551948a69/fadc7a62-5947-4506-b69a-21c552a51dbe-1786906434706 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source. Preserve her facial features, hairstyle, skin tone, body proportions and overall appearance consistently throughout the video.
+
+She wears a sporty red-and-white pleated skirt with integrated shorts, a fitted white athletic top with red detailing, dark blue Nike sneakers, a beige “Cool” cap, dark blue backpack, black digital watch and headphones around her neck.
+
+Her companion is a small ginger-and-white fluffy house cat with beautiful amber eyes. Keep the cat naturally sized, around the girl's shin/lower-calf height, with realistic feline movement and appearance.
+
+Set the story across a vibrant New York City neighborhood at sunset, featuring brick buildings, colorful storefronts, yellow taxis, subway entrances, traffic lights, fire escapes, street vendors, cyclists and a lively urban atmosphere.
+
+The girl confidently skateboards through the city while the cat runs happily alongside her. Use smooth controlled movements as she navigates the streets, performs stylish turns, passes through open spaces and smoothly avoids obstacles.
+
+She glides past a colorful street market and briefly picks up a small takeaway drink from a nearby stand, takes a quick sip while continuing to skate, then places the empty container into a recycling bin as she passes.
+
+She approaches a graffiti-covered wall and performs a stylish skateboard wall ride followed by a graceful aerial spin. At the same moment, the cat makes a playful leap over a low obstacle beside her. They land together and continue moving forward.
+
+Transition smoothly into an industrial New York setting with elevated subway tracks, steel bridges, warehouses, construction areas and rooftop structures.
+
+The girl performs a clean ollie onto a low industrial rail, crouches beneath a bridge and continues skating alongside a passing subway train. She then uses a gentle ramp to jump onto a raised steel platform while the cat follows through a nearby safe pathway.
+
+For the finale, the girl performs a dramatic controlled jump from the elevated platform into an open street-level parking area. The cat makes a synchronized leap from a low concrete ledge, and both land safely before continuing forward together.
+
+Use premium cinematic anime-game visuals with clean linework, painterly cel-shading, detailed environments, expressive animation and dramatic New York evening lighting.
+
+Camera direction: low-angle tracking shots, wheel-level close-ups, smooth chase-camera movement, sweeping transitions, dynamic side shots, occasional slow-motion moments and subtle handheld camera motion.
+
+Add tasteful anime speed lines, atmospheric lighting, motion blur and cinematic depth while keeping the action visually clear and physically coherent.
+
+Maintain exact character identity, consistent clothing, accessories, skateboard design and cat appearance throughout every shot.
+
+No photorealism, no 3D CGI appearance, no identity drift, no outfit changes, no oversized cat, no duplicate characters, no distorted anatomy, no warped skateboard, no dangerous collisions, no graphic content, no watermark, no subtitles and no random text.</code></pre>
+
+</details>
 
 ## Lavender in Dungeon Tickling Scene with Feather
 

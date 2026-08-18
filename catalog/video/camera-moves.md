@@ -1,9 +1,131 @@
 # Camera Moves video prompts
 
-104 source-linked prompts, newest ImgLume records first.
+106 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-end KIKO Milano lip gloss cinematic commercial
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2089189970720215476)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `product-ads`
+- **ImgLume record:** [3158](https://imglume.com/prompt/3158)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ef3f81d-9402-474e-af86-a2ff8141040e/1421a370-2efa-4bc8-b017-aa162531bda7-1786960274266 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-end cosmetic commercial for KIKO Milano lip gloss in a soft pink monochrome studio setting. Hyper-realistic, 8k resolution, cinematic macro camera movements, soft diffused key lighting, elegant luxury aesthetic. Action sequence: A well-manicured hand picks up a pink shimmering lip gloss bottle resting horizontally on a pastel pink surface and sets it upright. Cut to an extreme macro shot of the lip gloss applicator wand coated in thick, glistening, pink-shimmer gloss dripping slightly. The hand swatches the glossy formula onto the back of another hand. The hand places the bottle down onto a luxury pink marble countertop with subtle bokeh sparkle reflections. Final hero shot shows the KIKO Milano lip gloss upright with the cap slightly lifted and wand exposed, set against a background swatch streak of shimmering pink gloss, slow cinematic zoom-in. Warm pastel pinks, rose gold shimmer, metallic silver accents, high gloss finish.</code></pre>
+
+</details>
+
+## 30-second cinematic dance sequence in a minimalist studio
+
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2088843731734786445)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3139](https://imglume.com/prompt/3139)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6973f0e-b052-4d65-a54b-26066926cd1c/36bf2b6c-e81d-45cd-9798-fc461cebf7bb-1786929044212 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic dance sequence as if directed for a high-budget international music film.
+
+DIRECTOR'S VISION
+
+The film takes place inside a massive minimalist studio at night. The space is almost completely dark, with carefully controlled #FF4900 orange practical lighting creating a striking visual identity. The atmosphere should feel sophisticated, dramatic, and expensive.
+
+There is one adult female dancer. She remains the exact same person throughout the entire sequence. Her face, hairstyle, wardrobe, proportions, and styling never change.
+
+OPENING — 0:00–0:05
+
+Start on an extreme close-up of the dancer's face.
+
+She stands completely still.
+
+Only a thin orange light crosses her face. Hold the shot for a moment before slowly pulling the camera backward on a dolly.
+
+The music begins quietly.
+
+She makes the first controlled movement.
+
+BUILD — 0:05–0:12
+
+Cut to a 50mm medium shot.
+
+The dancer begins a precise contemporary choreography.
+
+The camera moves sideways with her rather than simply pointing at her. Let the movement of the camera and performer feel connected.
+
+Orange practical lights gradually illuminate behind her.
+
+Use shallow depth of field and a subtle focus pull from the background to her eyes.
+
+MOMENTUM — 0:12–0:20
+
+The music becomes more energetic.
+
+Transition into a 35mm tracking shot.
+
+The camera slowly circles around the dancer while she performs a sequence of turns, controlled footwork, coordinated arm movements, and a brief jump.
+
+Do not over-edit.
+
+Let the choreography breathe.
+
+Use natural motion blur and realistic physical movement.
+
+HERO MOMENT — 0:20–0:26
+
+Move into a wide 24mm shot.
+
+The dancer moves toward the center of the enormous studio.
+
+As she reaches the beat, hundreds of small orange lights activate across the architecture behind her.
+
+The camera performs a slow crane movement upward, revealing the scale of the environment.
+
+The dancer remains the visual focus.
+
+ENDING — 0:26–0:30
+
+Everything suddenly becomes quiet.
+
+Return to a 50mm shot.
+
+The dancer stops and looks directly toward the camera.
+
+Hold the composition for two seconds.
+
+The orange lights behind her slowly fade except for one strong backlight.
+
+Camera gently pushes in.
+
+Cut to black.
+
+CINEMATOGRAPHY
+
+High-end feature-film cinematography, motivated camera movement, deliberate framing, realistic lens characteristics, controlled depth of field, natural motion blur, subtle film grain, realistic exposure, sophisticated contrast, volumetric atmosphere, practical lighting, physically accurate reflections.
+
+PERFORMANCE DIRECTION
+
+The dancer should perform like a professionally trained performer. Movements are precise, confident, rhythmic, and natural. No exaggerated body motion. No unnatural poses.
+
+CONTINUITY
+
+One performer throughout. Perfect facial consistency. Identical hairstyle, wardrobe, accessories, proportions, and appearance in every shot. Stable anatomy and hands. No duplicates. No morphing. No wardrobe changes.
+
+FINAL LOOK
+
+Photorealistic 4K, premium theatrical cinematography, sophisticated production design, realistic skin and fabric, cinematic color science, restrained visual effects, professional music-film aesthetic, emotionally controlled pacing, seamless continuity.</code></pre>
+
+</details>
 
 ## 30-second authentic 1980s Japanese game-show broadcast sequence
 

@@ -1,9 +1,26 @@
 # Product Ads video prompts
 
-60 source-linked prompts, newest ImgLume records first.
+61 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-end KIKO Milano lip gloss cinematic commercial
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2089189970720215476)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `product-ads`
+- **ImgLume record:** [3158](https://imglume.com/prompt/3158)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ef3f81d-9402-474e-af86-a2ff8141040e/1421a370-2efa-4bc8-b017-aa162531bda7-1786960274266 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-end cosmetic commercial for KIKO Milano lip gloss in a soft pink monochrome studio setting. Hyper-realistic, 8k resolution, cinematic macro camera movements, soft diffused key lighting, elegant luxury aesthetic. Action sequence: A well-manicured hand picks up a pink shimmering lip gloss bottle resting horizontally on a pastel pink surface and sets it upright. Cut to an extreme macro shot of the lip gloss applicator wand coated in thick, glistening, pink-shimmer gloss dripping slightly. The hand swatches the glossy formula onto the back of another hand. The hand places the bottle down onto a luxury pink marble countertop with subtle bokeh sparkle reflections. Final hero shot shows the KIKO Milano lip gloss upright with the cap slightly lifted and wand exposed, set against a background swatch streak of shimmering pink gloss, slow cinematic zoom-in. Warm pastel pinks, rose gold shimmer, metallic silver accents, high gloss finish.</code></pre>
+
+</details>
 
 ## Frozen Shell – 15-Second Ice Cream Campaign
 

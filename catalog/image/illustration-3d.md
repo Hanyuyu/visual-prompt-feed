@@ -1,9 +1,26 @@
 # Illustration 3d image prompts
 
-46 source-linked prompts, newest ImgLume records first.
+47 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handmade Miniature Diorama of Japan
+
+- **Original source:** [@AiwithLucas_ on X](https://x.com/AiwithLucas_/status/2089014457255264401)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3133](https://imglume.com/prompt/3133)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca9e127c-e90d-4b2b-8eab-2a6ac473ebe5/2b2d9108-778f-4be8-813b-39914b00ee0b-1786908049522 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A richly detailed vertical miniature world of Japan, handcrafted entirely from soft felt, fluffy yarn, wool fibers, and delicate needlework, capturing the warmth of everyday Japanese life without feeling childish or fantastical. Layer a cozy foreground of tiny ramen and tea shops, market stalls, Japanese lanterns, people, bicycles, and small vehicles with a winding river, stone bridges, traditional houses, a Shinkansen, torii gate, pagoda, and cherry-blossom-lined streets, while Mount Fuji rises majestically in the background beneath a glowing golden-hour sky; use authentic Japanese signage and cultural details, tactile handmade textures, soft dimensional lighting, natural perspective from above, rich yet harmonious colors, intricate craftsmanship, emotional atmosphere, and a seamless single-world composition with no logos, tourist-poster aesthetics, or copied artwork.</code></pre>
+
+</details>
 
 ## Mystical Dragon Summoner
 

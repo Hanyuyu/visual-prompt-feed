@@ -1,9 +1,83 @@
 # Food Drink video prompts
 
-57 source-linked prompts, newest ImgLume records first.
+59 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Highly realistic 15-second cooking video
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2088876013140967588)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3129](https://imglume.com/prompt/3129)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bc5545ab-f179-43af-9ad9-d9a0e62fd52a/24abc18b-ce23-4502-8fe3-4b711d22c651-1786906404545 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic 15-second video showing a young woman casually cooking alone in her home kitchen while her favorite upbeat song is playing in the background.
+
+The scene should feel like a genuine moment captured on a smartphone, not a commercial or music video.
+
+0–3 seconds: She is naturally chopping vegetables on a kitchen counter while the music plays from a small speaker nearby. She looks relaxed and focused on cooking. Natural daylight enters through the kitchen window.
+
+3–6 seconds: She suddenly recognizes her favorite part of the song. Her expression changes into a spontaneous smile. While continuing to cook, she starts subtly moving her shoulders and head to the rhythm.
+
+6–9 seconds: She starts sings along the song and enjoying the song.
+
+9–12 seconds: She stirs the food while moving naturally to the beat, briefly sings along with the music, and smiles at herself.
+
+12–15 seconds: She tastes the food, reacts with a satisfied smile, then looks at camera and says "yummm" while holding the cooking spoon. End on a candid moment where she is genuinely enjoying herself.
+
+Environment: ordinary modern home kitchen, realistic countertop clutter, cooking ingredients, utensils, pan, small Bluetooth speaker, subtle imperfections and lived-in details.
+
+Camera: handheld smartphone footage, natural framing, slight operator movement, occasional small reframing, realistic autofocus and exposure changes. Begin with a medium-wide shot, move naturally closer during the dancing, then finish with a slightly wider candid shot. No artificial camera spins or dramatic cinematic movements.
+
+Lighting: soft natural window light mixed with normal indoor kitchen lighting. Realistic shadows, natural highlights, authentic skin texture.
+
+Performance: spontaneous, playful, relaxed, believable. Natural facial expressions and body physics. The dancing should look improvised rather than professionally choreographed.
+
+Realism requirements: photorealistic human appearance, realistic hands and fingers, accurate cooking interactions, believable food and steam movement, natural hair movement, physically correct contact with objects, consistent identity and clothing throughout.
+
+Audio: upbeat feel-good music playing naturally from the small kitchen speaker, with subtle cooking sounds underneath. Her quiet singing and laughter can be heard naturally. The music should feel like the actual source of her spontaneous dancing.
+
+Avoid: commercial-advertisement aesthetics, studio lighting, excessive beauty retouching, perfect posing, unrealistic dancing, slow motion, dramatic transitions, excessive camera movement, artificial-looking skin, exaggerated expressions, text overlays, logos, watermarks.</code></pre>
+
+</details>
+
+## Morning coffee run in ultra-realistic documentary style
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2088694686232031652)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `ugc`
+- **ImgLume record:** [3124](https://imglume.com/prompt/3124)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e4e64a22-acae-4c2f-9dc5-782bcda88a4b/f831fab9-b84e-4451-8db5-ced3f77564e6-1786899878246 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young American woman, early 20s, natural everyday appearance, cropped puffer vest over a long-sleeve tee, biker shorts, white sneakers, hair in a high ponytail, minimal makeup, realistic skin texture, energetic morning-person personality.
+Location:
+Small neighborhood street with a corner coffee shop, early morning. Brick sidewalks, parked bicycles, a bench outside, soft morning fog lifting. No large crowds, no chain branding.
+Visual Style:
+Ultra-realistic documentary realism, candid unscripted feeling, cool soft morning light.
+Camera Style:
+Early 2000s consumer DV camcorder aesthetic, handheld shake, autofocus hunting between her and the shop window, faded soft contrast, mild sensor noise. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She jogs up to the coffee shop, then pauses to catch her breath.
+00:03–00:06 → She turns to camera saying "okay I definitely earned this coffee," laughing.
+00:06–00:09 → She steps inside briefly, then walks back out holding a cup.
+00:09–00:12 → She takes a sip, then sighs happily, warming her hands on the cup.
+00:12–00:15 → She looks at camera saying "best part of my morning, no joke," smiling as it fades.
+Audio: Distant footsteps, faint café chatter, birds, light wind. Her dialogue as noted above. No music.
+Goal: A warm, energetic morning routine moment relatable, cheerful, real.</code></pre>
+
+</details>
 
 ## Ultra-realistic 15-second cinematic pizza-making sequence with female chef
 

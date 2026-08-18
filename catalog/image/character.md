@@ -1,67 +1,9 @@
 # Character image prompts
 
-87 source-linked prompts, newest ImgLume records first.
+86 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
-
-## Seedream 5.0 Pro character production reference sheet
-
-- **Original source:** [@ivanka_humeniuk on X](https://x.com/ivanka_humeniuk/status/2088978791519433037)
-- **Recommended model:** `gptimage`
-- **Source model(s):** `other`
-- **Categories:** `character`
-- **ImgLume record:** [3120](https://imglume.com/prompt/3120)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60893c64-ba17-4ce9-80d2-8ca625316661/67d97f7ef19a30dd6e4d-imglume-generated "ImgLume-generated example for Seedream 5.0 Pro character production reference sheet")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>📌PROMT (Seedream 5.0 Pro):
-Render a 16:9 character production reference sheet according to the following specification. Every field describes the finished sheet.
-
-SHEET:
- layout: two-figure reference sheet on one continuous ground — dominant full-body figure occupying the left two-thirds, one large head-and-décolletage close-up on the right, both floating freely on the same seamless surface with soft contact shadow under the standing figure
- aspect: 16:9 horizontal, 4K
- surface: the sheet carrying photographic image only, every surface free of lettering, ticks and graphic marks
-
-MEDIUM:
- stock: Technicolor three-strip dye-transfer print, 1950s live-action feature, large-format negative
- artifact: fine dye-transfer grain across the whole sheet, gentle halation blooming off the brightest edges
- note: both figures are photographed frames of the same living actress on a soundstage, same stock and same grain structure
-
-SUBJECTS:
- subject_1:
- description: Use the supplied portrait as the exact facial identity reference. Preserve the recognizable likeness — deep dark-brown eyes, the exact eye set, brow line, nose bridge and mouth shape of the reference. Tall slender-waisted woman in her mid-twenties. Hair worn long and loose falling past the waistline; a narrow braid started at each temple is carried back along the side of the head and disappears into the loose length at the nape, leaving the rest down in soft rolled waves. Resting on the head, a slim rose-gold circlet worked as a ring of small oak leaves with clustered rosehip berries above each temple, sitting low across the brow. A small dark beauty mark high on the chest above the neckline. 1950s Technicolor screen makeup — ceramic rouged cheek, matte powdered finish, defined dark brow, deep red lip. high detail, bright skin, natural skin texture and realistic gloss, natural glow, skin grain, soft matte finish, every pore and fine line retained.
- asymmetry_mapping: left brow sitting a fraction lower and flatter than the right, right mouth corner carrying marginally more lift, weight settled onto the right leg with the left knee softly bent
- wardrobe: short fitted plum wool riding jacket cut to the natural waist, standing collar, fastened across the chest with five horizontal rows of rose-gold soutache frogging ending in small barrel toggles, narrow sleeves finished with a turned-back oxblood velvet cuff, two short tails hanging at the back; beneath it a cream silk blouse with a soft ruffle standing at the throat, held with a small rose-gold pin; long full riding skirt in a woven tartan of oxblood, dusty rose and cream, cut with a deep box pleat at the front and gathered heavier at the back, the right side caught up on a leather strap to clear the stirrup and showing a cream flannel lining; wide oxblood leather waist belt with a rose-gold buckle, a small folded map pouch and a horn whistle hanging at the left hip; brown leather riding gauntlets to mid-forearm, reinforced across the knuckles with a stitched pad, three buckle straps each; tall dark-brown leather riding boots to below the knee, mud dried into the welt
- prop: a recurve hunting bow of dark laminated wood held in the left hand, its lower limb resting against the boot; a stiff brown leather quiver on a diagonal back strap over the right shoulder, holding seven arrows with cream and oxblood goose fletching
- mood: chin level, lips closed in a soft settled line, shoulders squared and open, gaze held straight into the lens
-
-SCENE:
- backdrop: seamless mid-grey studio cyclorama reading cool blue-grey under the light, soft contact shadow pooling beneath the boots — the same ground behind both figures
-
-LIGHT:
- key: single large soundstage arc from front-upper-left at 5500K, medium-hard edge, carving the cheekbone and raking across the wool nap and the frogging cord
- fill: broad white bounce from front-right at a 3:1 ratio, holding the shadow side of the tartan pleats readable
- rim: soft edge along the hair length and the right shoulder, lifting the figure off the grey ground
- material_response: plum wool drinking the light into a dry matte nap, rose-gold soutache cord catching a narrow travelling sheen along each row, cream silk at the throat glowing softly translucent, oxblood velvet cuffs reading deeper and richer than the wool, leather returning a low waxy specular at the buckles, tartan weave catching a fine dry texture, the rose-gold circlet throwing tight hot points off each leaf edge
- integration: catch-lights in both eyes from the arc, warm bounce off the grey floor lifting the underside of the jaw, macro skin specular with visible pores at the temple
- note: ONE continuous recipe across both figures
-
-LOOK:
- color_grading: 1950s three-strip Technicolor dye-transfer response — red channel running hot and reaching furthest at the top of the range, greens pulled almost fully out so any green in frame settles into cool blue-grey, highlights ceilinged well below paper white and rolling off into milky cream, shadows falling near-black with a magenta bias, subject palette held inside a narrow plum-oxblood-rose band, skin reading ceramic and rouged at the cheekbone, mid-range saturation rich yet natural
- authenticity: 100mm at f/5.6 — wool nap, soutache cord twist, silk ruffle, tartan weave, leather grain, circlet leaf edges and every fletched arrow vane resolving, fine dye-transfer grain over everything
- style: Technicolor three-strip dye-transfer print, fine dye-transfer grain, subtle halation — MGM live-action fairytale soundstage photography × Jack Cardiff Technicolor key lighting
-
-FIGURE_VIEWS:
- full_body: {azimuth: 0° frontal, framing: full-body head to boots, scale: dominant, placement: left two-thirds of the sheet, note: standing tall at full height, weight on the right leg, bow held down in the left hand with its lower limb against the boot, right hand resting open at the side, quiver strap crossing the chest and fletching standing above the right shoulder, skirt hem clear of the ground}
- close_up: {azimuth: 30° three-quarter rotation, framing: head and décolletage down to the standing collar and the top rows of frogging, scale: large, placement: right third of the sheet, note: head turned a fraction while the gaze stays level into the lens, the rose-gold circlet and both rosehip clusters reading clearly, the temple braid visible running back along the side of the head, throat ruffle and pin in frame, hair length falling forward over the near shoulder}
-
-CONSISTENCY_LOCK: both figures are the same person from the supplied portrait — identical facial geometry, dark-brown eye colour, hairline, ear shape, skin tone, micro-asymmetry, the same beauty mark in the same place, the same circlet sitting at the same height, the same temple braids, identical wardrobe down to the same number of frogging rows, the same worn-state of the leather and the same caught-up side of the skirt. Same grey cyclorama, same light recipe, same Technicolor stock, same grain structure and same 100mm optics on both figures.</code></pre>
-
-</details>
 
 ## SAYA "The Bladedancer" Character Concept Art Sheet
 

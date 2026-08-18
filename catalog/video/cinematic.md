@@ -1,61 +1,783 @@
 # Cinematic video prompts
 
-466 source-linked prompts, newest ImgLume records first.
+477 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Seedance 2.5 live-action cinematic sequence
+## 30-second Photorealistic Adventure Mystery Short Film in Chinese Countryside
 
-- **Original source:** [@ivanka_humeniuk on X](https://x.com/ivanka_humeniuk/status/2088978791519433037)
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2089178334353576020)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
 - **Categories:** `cinematic`
-- **ImgLume record:** [3121](https://imglume.com/prompt/3121)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bbc1db38-6acf-4071-be5e-0351974ecd11/8f2eb239c6ce9ed45c6a-imglume-generated "ImgLume-generated example for Seedance 2.5 live-action cinematic sequence")
+- **ImgLume record:** [3159](https://imglume.com/prompt/3159)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b67e190c-d0e9-4d38-a29b-99f9f459a83f/40099a10-8210-4565-8acc-a18b4bd7dc20-1786960310754 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>📌PROMT ( Seedance 2.5) :
-LIVE-ACTION CINEMATIC REALISM. Every frame is photographed — a real woman, real animals, a real forest — captured on a large-format film camera. Real skin with pores and capillary flush, real fur with individual hairs, real bark, real wool and leather. No illustration, no painterly surface, no drawn or animated look of any kind.
+<pre><code>30-second photorealistic adventure mystery short film, 4K UHD, 24fps, realistic Chinese countryside, natural sunlight, physically accurate movement TIME: 3:40 PM–4:10 PM, clear autumn afternoon LOCATION: Rural mountain village in southern China, old stone house, bamboo forest, abandoned hillside temple, narrow underground passage CHARACTERS: Chinese boy, 16, faded blue jacket, small backpack, curious and energetic; grandfather, 70s, traditional countryside clothing STORY: A teenager discovers that an old stone wall near his grandfather's house hides a forgotten passage leading toward an abandoned hillside temple. ACTION FLOW: 00:00–00:04 → Boy helps his grandfather move old wooden boxes inside a stone storage room. One box falls, exposing an unusual stone pattern behind it. 00:04–00:08 → He pushes the stones and discovers a narrow opening. Dust falls from the ceiling. Grandfather immediately tells him to stop. 00:08–00:12 → Boy secretly returns with a flashlight and crawls through the passage beneath the house. 00:12–00:16 → Passage opens into a bamboo-covered hillside. He climbs out and discovers old stone steps disappearing into vegetation. 00:16–00:20 → He follows the steps, pushing bamboo branches aside. A weathered temple roof suddenly appears through the trees. 00:20–00:24 → He enters the abandoned courtyard and discovers an old bell covered in moss. Wind moves the rope. 00:24–00:27 → He touches the bell. It swings naturally and produces one deep sound across the valley. 00:27–00:30 → Cut back to grandfather standing at the tunnel entrance, silently watching him. He says, “I thought that place was gone forever.” CAMERA: Fast handheld exploration footage, 24mm wide lens inside the tunnel, quick focus pulls, natural camera shake while crawling and climbing, occasional branches crossing lens, rapid reveal of the temple. PHYSICS: Loose stones shift under pressure, dust falls from disturbed masonry, bamboo bends when pushed, footsteps displace dry leaves, bell swings from applied force and gradually loses momentum. LIGHTING: Warm afternoon sunlight outside, dark flashlight-lit tunnel, scattered sunbeams through bamboo, realistic exposure transition when exiting the passage. AUDIO: Wooden boxes scraping, stone movement, falling dust, footsteps, bamboo rustling, insects, distant birds, bell resonance, natural dialogue. REALISM: Historically plausible rural architecture, weathered stone, natural vegetation, realistic underground geometry and human movement. No magical tunnel, glowing objects or fantasy temple effects.</code></pre>
 
-CHARACTER: the huntress from &lt;&lt;&lt;551052bf-463f-4ff8-8416-4fdddeccf8fd&gt;&gt;&gt; — identical face, plum hussar jacket with rose-gold frogging rows, oxblood-rose-cream tartan riding skirt caught up on the right side, brown leather riding gauntlets, tall brown boots, rose-gold oak-leaf and rosehip circlet across the brow, long loose hair with narrow temple braids, dark laminated recurve bow, back quiver with cream and oxblood fletching. Identical in every shot.
+</details>
 
-LOCATION: an ancient oak wood in late autumn — deep fallen leaf litter, mist lying in layers between the trunks, hard sun shafts breaking through the bare canopy.
+## High-end KIKO Milano lip gloss cinematic commercial
 
-STORY — 12 shots, one continuous unfolding event, relentless forward drive:
-1. (0-1.5s) HOOK. LOW WIDE, camera whipping right past two foreground trunks. She bursts through frame at a crouch, bow low, leaf litter kicking up behind her boots.
-2. (1.5-3s) EXTREME CLOSE, static. A fox's eyes behind a fern frond. The frond shivers, the eyes snap right, the nose twitches.
-3. (3-4.5s) CLOSE, fast push-in. Two deer deep in the mist, heads jerking up, ears swivelling forward.
-4. (4.5-6s) TRACKING MEDIUM, camera running alongside her at shoulder height. She moves fast between trunks, hair and skirt dragging in the air behind her, reaching back for an arrow.
-5. (6-7.5s) LOW ANGLE CLOSE, camera swinging up her body. She plants her boot, straightens hard, and the bow comes up into frame.
-6. (7.5-9s) MEDIUM from her left, camera orbiting behind her back. She nocks and hauls the string to full draw, the bow limbs bending.
-7. (9-10.5s) MACRO, static, razor-shallow focus. Gloved fingers on the string, arrow shaft and fletching sharp, her eye and the circlet soft behind. The string creeps back the last centimetre. Everything goes still for one beat.
-8. (10.5-12s) WIDE from behind and above the arrow. The release — the string blurs, the arrow tears away into the depth of the wood, trunks ripping past both sides.
-9. (12-14s) MEDIUM CLOSE, camera tracking hard alongside the arrow in mid-air. The arrow comes apart in flight: its front half dissolving into a dense streaming ribbon of fine bright rose-pink glitter particles trailing behind it, each sparkle catching the light separately, only the fletched tail still intact. The arrow has no point.
-10. (14-16s) WIDE, low angle looking straight up a bare oak trunk. The glitter stream slams into the bark and races up into the branches as a bright rose-pink wave. Loose glitter rains down through the sun shafts.
-11. (16-18s) WIDE, low angle, camera pulling back fast. The bare branches burst into full rose-pink blossom, petals opening in a wave spreading outward from the impact point until the whole crown is blossom against the cool blue-grey wood.
-12. (18-20s) FINALE. WIDE from behind her at shoulder height, camera rising. She lowers the bow, weight settling onto one hip, and smiles up at the blossoming tree. Animals break from cover all around her — the fox bounding through the litter, the two deer stepping forward, birds lifting off the branches, a hare mid-leap. Glitter still falling.
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2089189970720215476)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `product-ads`
+- **ImgLume record:** [3158](https://imglume.com/prompt/3158)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ef3f81d-9402-474e-af86-a2ff8141040e/1421a370-2efa-4bc8-b017-aa162531bda7-1786960274266 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
-Vary the framing hard — extreme close, macro, medium, tracking, low wide — never repeat the same shot twice in a row. Every shot has camera movement except 2, 7 and 8, which are locked so the stillness lands. Keep every action instantly readable.
+<details>
+<summary>Full prompt</summary>
 
-LOOK: photoreal live-action shot on large-format colour film with a 1950s three-strip Technicolor dye-transfer response. All foliage, grass and moss stay fully desaturated to a cool blue-grey slate so no green asserts itself anywhere in frame; the only saturated colours are the plum jacket, the oxblood-rose tartan, the rose-gold circlet, the fox's coat and the pink glitter and blossom. Highlights on mist and sun shafts roll into a milky maximum short of paper white; shadows fall near-black with a faint magenta lean. Skin reads warm and rouged at the cheekbone. Fine photochemical dye-transfer grain, soft halation on the brightest edges, dry matte texture on wool, leather and bark. 1950s live-action Technicolor feature photography — photographed, never drawn.
+<pre><code>High-end cosmetic commercial for KIKO Milano lip gloss in a soft pink monochrome studio setting. Hyper-realistic, 8k resolution, cinematic macro camera movements, soft diffused key lighting, elegant luxury aesthetic. Action sequence: A well-manicured hand picks up a pink shimmering lip gloss bottle resting horizontally on a pastel pink surface and sets it upright. Cut to an extreme macro shot of the lip gloss applicator wand coated in thick, glistening, pink-shimmer gloss dripping slightly. The hand swatches the glossy formula onto the back of another hand. The hand places the bottle down onto a luxury pink marble countertop with subtle bokeh sparkle reflections. Final hero shot shows the KIKO Milano lip gloss upright with the cap slightly lifted and wand exposed, set against a background swatch streak of shimmering pink gloss, slow cinematic zoom-in. Warm pastel pinks, rose gold shimmer, metallic silver accents, high gloss finish.</code></pre>
 
-LIGHTING: low late-afternoon sun raking from back-camera-left at 4200K, hard-edged where it breaks the canopy and cutting solid shafts through the wood. Cooler sky bounce fills at 4:1. The sun rims her hair and the circlet. Ground haze at 45% density in layers from 10 metres depth, strobing past in the fast shots. The glitter carries its own light, each particle throwing a separate specular point and putting a rose bounce onto the bark and her face.
+</details>
 
-CAUSE AND EFFECT: the animals watch before anything happens, so their run at the end reads as a reaction. The glitter must visibly travel — arrow breaks apart, stream flies, stream strikes bark, blossom spreads from the point of impact. Never cut straight from the shot to an already-blossoming tree.
+## Cinematic 15‑second ultra‑photorealistic video of a medieval woman playing with a realistic giant panda in an untouched 
 
-PHYSICS: real mass and real air. The bow limbs flex and snap, the string blurs on release. Glitter behaves as millions of separate solid particles on a fast air stream, each catching light individually, drifting down rather than diffusing into smoke. Petals unfold with weight. Leaf litter kicks up under boots and paws. Hair and skirt carry momentum through every direction change.
+- **Original source:** [@stellarprtcol on X](https://x.com/stellarprtcol/status/2088974054115930556)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3148](https://imglume.com/prompt/3148)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/402b214d-a5c7-471a-a5d3-13ec4ecdc741/4854d7e0-8f20-4c31-a53c-67e98f0c013c-1786956105761 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
-Give it real life — each moment drives into the next with clear cause and effect, never the stiff feeling of nudged still pictures. Tempo rises through the stalk, holds one hard beat at full draw, explodes through the flight, then opens out at the blossom. Something is always moving — mist, hair, fabric, falling glitter, drifting petals. No slow motion anywhere; every shot runs at real-time speed.
+<details>
+<summary>Full prompt</summary>
 
-AUDIO: damp leaf litter under her boots, distant wood creak, a bird call far off. The dry creak of the bow at full draw. A sharp snap and hiss on release. A long dry crystalline shimmer as the glitter streams and scatters. A soft rush as the blossom opens. Animal movement through the litter, wings lifting. No music.
+<pre><code>Bikin video cinematic ultra-photorealistic berdurasi 15 detik, berlatar hutan kuno yang benar-benar belum tersentuh, terinspirasi dari era 1200 M atau lebih awal.
 
-ON-SCREEN TEXT: none. No text, numbers, captions, UI or watermark anywhere.
+Tokoh utamanya seorang wanita muda cantik yang mengenakan dress linen sederhana bergaya medieval dengan warna-warna natural dan earthy. Rambutnya panjang, sedikit berantakan, tanpa makeup atau aksesori modern.
 
-LENGTH: 20s. Horizontal 16:9, 4K.</code></pre>
+Di tengah hutan, dia bermain dengan seekor giant panda realistis 🐼
+
+Hutannya harus terasa benar-benar alami dan untouched: pohon-pohon raksasa berusia ratusan tahun, lumut tebal, pakis liar, tanaman merambat, aliran sungai kecil, kabut tipis, daun-daun gugur, bebatuan alami, dan sinar matahari pagi yang masuk perlahan dari sela-sela pepohonan.
+
+Nggak boleh ada bangunan, jalan, benda modern, atau elemen buatan.
+
+🎬 0–4 detik:
+Wide cinematic shot. Wanita itu berjalan perlahan menembus hutan berkabut sampai melihat panda duduk di dekat pohon tua yang tertutup lumut. Panda menatapnya dengan ekspresi penasaran yang natural.
+🎬 4–8 detik:
+Medium handheld shot. Dia mendekati panda dengan pelan lalu duduk di sampingnya. Dia tersenyum dan mengelus bulu panda dengan lembut. Panda kemudian merespons secara playful dan mendekat kepadanya.
+
+🎬 8–12 detik:
+Close-up wajah wanita dan panda. Harus terlihat detail banget: napas alami, kedipan mata, gerakan wajah kecil, helai rambut yang bergerak tertiup angin, sampai detail setiap helai bulu panda.
+🎬 12–15 detik:
+Wide cinematic shot. Keduanya berjalan dan bermain bersama semakin dalam ke hutan, sementara cahaya matahari menembus pepohonan dan kabut bergerak di sekeliling mereka.
+
+Dan bagian realism-nya juga dibuat super ketat:
+Anatomi manusia realistis, tekstur kulit natural, rambut per helai, bulu panda yang physically accurate, perilaku hewan natural, physics kain realistis, gerakan lingkungan yang subtle, atmospheric perspective, natural daylight, volumetric light lembut, realistic shadows, cinematic depth of field, sedikit camera movement handheld, documentary-style realism, high-end cinema camera, 4K detail, natural color grading.
+
+❌ No fantasy look
+❌ No CGI appearance
+❌ No beauty filter
+❌ No modern elements
+❌ No text
+❌ No watermark</code></pre>
+
+</details>
+
+## Cinematic fashion sequence of confident woman in pinstripe blazer
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2089217062040453196)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3147](https://imglume.com/prompt/3147)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de62243f-cd08-46b9-b849-768346fedc65/c6b10808-4030-4d68-9d4f-76c0a330b4dc-1786956093198 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, stylish sequence of a confident young woman with short curly brown hair, bold red lipstick, and a statement necklace. She wears a sharp grey pinstripe oversized blazer and matching trousers with bright red pointed high heels.
+Starts with a close-up of her red heels stepping out of a black luxury car onto a wet city street at dusk. She walks confidently through revolving glass doors into a modern office building, presses the elevator button, checks her tablet in the mirrored elevator, then enters a boardroom. She presents charts and graphs on a large screen to a group of executives in suits, gestures confidently while speaking, signs a document, shakes hands with a senior executive, checks her elegant wristwatch with a burgundy leather strap, and finally walks across a glass-walled rooftop terrace overlooking the New York City skyline at golden hour, wind lightly moving her hair, powerful and composed expression.
+Moody cinematic lighting, wet reflections, sharp fashion photography style, high-end commercial aesthetic, 16:9.</code></pre>
+
+</details>
+
+## Vertical cinematic shot of a woman in a pink skirt manipulating an invisible manga portal
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2089188362490200313)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3146](https://imglume.com/prompt/3146)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f0390fb4-21bb-416b-87bb-42f403bd8e68/4bde244c-7619-4b78-8cd3-0537712872dc-1786956063405 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vertical cinematic shot of a woman wearing a pink short skirt in an indoor room manipulating an invisible portal with her fingertips. The space between her hands reveals a black-and-white manga illustrated version of her face and surroundings, perfectly aligned with the photorealistic world outside. The hand-drawn portal stretches, morphs across her face, and briefly expands full-screen before collapsing back into reality with a finger snap. Reference using GPT Image 2</code></pre>
+
+</details>
+
+## 30-second cinematic 3D street-racing chase with a late‑for‑date heroine
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089192455811822013)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3145](https://imglume.com/prompt/3145)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/286ef30c-9b2e-4c49-b378-b3b18c387782/6a982e57-98fb-4318-a1de-81a13cadba55-1786948108498 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic 3D animated street-racing sequence with a stylized high-end video-game aesthetic, expressive cartoon characters, realistic vehicle physics, dynamic camera work, polished feature-film animation, and energetic comedic pacing.
+Scene 1 — The forgotten date:
+A stylish young woman with long black hair, expressive eyes, oversized sunglasses, silver hoop earrings, a cropped black leather jacket, fitted white top, high-waisted jeans, and chunky sneakers relaxes on her apartment sofa while scrolling through her phone. She suddenly checks the time, realizes she completely forgot about an important date, freezes in shock, drops her phone onto the sofa, and dramatically screams while jumping to her feet.
+Scene 2 — Instant transformation:
+She races toward her bedroom. Fast comedic cuts show her throwing on a red leather jacket, adjusting her earrings, grabbing her handbag, putting on sunglasses, and quickly fixing her hair. She grabs her keys and rushes out of the apartment.
+Scene 3 — The getaway car:
+She bursts into an underground parking garage and jumps into a sleek modified red sports car. The engine roars as she grips the steering wheel with determination. She looks at the clock, widens her eyes, and slams the accelerator.
+Scene 4 — Downtown launch:
+The car launches onto a busy city street. Low-angle shots capture the wheels spinning, tire smoke, reflections across the glossy bodywork, and the car accelerating between traffic. Buildings streak past as the camera rapidly switches between front, side, overhead, and interior shots.
+Scene 5 — The chaotic chase:
+She races through downtown, weaving around taxis, buses, delivery vans, and intersections. She takes a sharp corner in a controlled drift, narrowly passes through a closing traffic barrier, and cuts through a narrow alley as the camera follows with aggressive tracking movement.
+Scene 6 — Impossible shortcut:
+She spots a steep parking-ramp entrance and takes it at full speed. The car launches briefly over the ramp, lands smoothly, spins into a controlled drift, and exits onto another street. Use dramatic slow-motion impact, tire smoke, realistic suspension movement, and exaggerated but believable physics.
+Scene 7 — Finally there:
+She reaches a stylish rooftop café overlooking the city at golden hour and slides the car to a stop. She jumps out, quickly fixes her hair, checks herself in the car window, and runs toward the entrance.
+Scene 8 — The date:
+A stylish young man is waiting outside the café, looking at his watch. She arrives breathless and gives him an embarrassed smile. He looks at her for a moment, then laughs. She points toward the city and jokingly gestures that the traffic was not her fault.
+Final shot:
+They walk into the rooftop café together as the camera pulls backward. Through the glass windows, the red sports car remains parked below while the golden city skyline glows behind them.
+Visual style: Premium stylized 3D animation, expressive facial acting, exaggerated comedy, detailed character animation, realistic vehicle physics, cinematic lighting, vibrant downtown environment, realistic reflections, volumetric sunlight, tire smoke, subtle sparks, detailed car textures, natural hair and clothing movement, smooth camera animation, high-energy music-video pacing, polished AAA video-game cinematic quality.
+Camera: Constantly moving cinematic camera, low-angle tracking, aerial shots, interior POV, wheel close-ups, Dutch angles, whip pans, speed ramps, dramatic push-ins, realistic motion blur.
+Mood: Chaotic, funny, stylish, romantic, adrenaline-fueled.
+Audio: Energetic cinematic beat, engine revs, tire screeches, city ambience, footsteps, car doors, comedic reaction sounds, and natural dialogue. No subtitles, no logos, no watermark, no on-screen text.</code></pre>
+
+</details>
+
+## 60-second cinematic high-school first-love story
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2089154775829074074)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3141](https://imglume.com/prompt/3141)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/abd218cc-e76f-45ad-b45c-74b7ee0c0a0a/646c8f16-c03d-42ed-8f42-c4f9667de5e7-1786945902324 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 60-second cinematic high-school first-love story using SEEDANCE 2.5.
+
+IMPORTANT:
+Generate the video as EXACTLY TWO CONTINUOUS SHOTS:
+SHOT 1 = 0–30 seconds
+SHOT 2 = 30–60 seconds
+The two shots must connect seamlessly and feel like ONE continuous short film, not two unrelated clips.
+FORMAT:
+16:9 widescreen
+Cinematic photorealism
+Premium coming-of-age romance film
+Fast-paced but emotionally natural
+Smooth transitions and motivated camera movement
+Realistic teenage body proportions and expressions
+Natural English dialogue only
+No subtitles unless dialogue is naturally spoken
+No text overlays
+No character redesign
+CHARACTER CONSISTENCY — EXTREMELY IMPORTANT:
+Use the provided character reference sheets for BOTH characters.
+
+BOY:
+Preserve exact face, hairstyle, clothing, body proportions, accessories and identity from the character sheet.
+
+GIRL:
+Preserve exact face, hairstyle, clothing, body proportions, accessories and identity from the character sheet.
+Their faces, hairstyles and outfits must remain IDENTICAL throughout both shots.
+The boy and girl are both 17–18-year-old high-school students. Keep the romance completely innocent, wholesome and age-appropriate.
+VISUAL LANGUAGE:
+Warm nostalgic coming-of-age movie aesthetic, realistic school environment, natural skin texture, subtle film grain, cinematic depth of field, soft lens bloom, realistic physics, natural hair movement, expressive eyes, believable teenage body language.
+Use a dynamic combination of:
+wide establishing shots,
+medium tracking shots,
+over-the-shoulder shots,
+close-ups,
+handheld intimate moments,
+smooth push-ins,
+whip-pan transitions,
+shallow-focus inserts,
+and brief slow-motion accents.
+Avoid excessive slow motion. The pacing should feel energetic and modern.
+━━━━━━━━━━━━━━━━━━━━
+SHOT 1 — 0:00–0:30
+“THE ROUTINE”
+━━━━━━━━━━━━━━━━━━━━
+0:00–0:03
+OPEN on a cinematic wide shot of a lively high-school hallway immediately after the final bell.
+Students rush past the camera.
+The boy exits his classroom with his backpack over one shoulder.
+He looks across the hallway.
+
+The girl is already there.
+Their eyes meet.
+
+She gives him a tiny smile.
+He smiles back.
+
+CAMERA:
+Fast lateral tracking shot through the crowd, then smoothly pushes toward the boy as he notices her.
+0:03–0:07
+She walks toward him.
+
+He casually falls into step beside her.
+
+GIRL:
+“You're late.”
+
+BOY:
+“By two minutes.”
+She laughs.
+
+They continue walking.
+CAMERA:
+Smooth backward tracking shot in front of them as students pass naturally around them.
+0:07–0:11
+QUICK MONTAGE.
+They sit together in class.
+She steals one of his fries during lunch.
+He looks offended.
+She laughs.
+He secretly smiles.
+CUT TO:
+Their notebooks side by side.
+She draws a tiny smiley face in the margin of his notebook.
+
+He notices.
+
+CAMERA:
+Fast close-up inserts and match cuts, keeping the rhythm playful and energetic.
+0:11–0:15
+They leave school together.
+Golden afternoon light floods the corridor.
+He holds the door open for her.
+
+She playfully bumps his shoulder as she walks past.
+He laughs.
+
+CAMERA:
+Low-angle tracking shot transitioning into a warm side-profile shot.
+
+0:15–0:20
+Outside school.
+
+They walk down the sidewalk.
+
+She talks animatedly while he listens.
+
+A light breeze moves her hair.
+
+He looks at her for a moment longer than he should.
+
+She catches him staring.
+
+GIRL:
+“What?”
+BOY:
+“Nothing.”
+
+She smiles knowingly.
+CAMERA:
+Over-the-shoulder close-up from behind her, revealing his shy smile.
+
+0:20–0:25
+The sky suddenly darkens.
+
+First drops of rain hit the pavement.
+She looks upward.
+
+BOY:
+“Uh-oh.”
+She laughs and quickly pulls her cardigan closer.
+
+The boy opens his small umbrella.
+
+CAMERA:
+Quick tilt from the darkening sky down to them.
+
+0:25–0:30
+They squeeze underneath the tiny umbrella together.
+Their shoulders bump.
+
+They laugh.
+The camera slowly circles around them as they begin walking through the rain.
+
+The boy looks at her.
+
+She looks back.
+
+A brief quiet moment.
+
+MATCH CUT:
+Camera passes behind the umbrella fabric.
+
+Use the movement of the umbrella to create a seamless transition into SHOT 2.
+
+━━━━━━━━━━━━━━━━━━━━
+SHOT 2 — 0:30–1:00
+“FIVE MORE MINUTES”
+━━━━━━━━━━━━━━━━━━━━
+IMPORTANT:
+SHOT 2 begins from the EXACT SAME MOMENT as Shot 1 ends.
+
+Same characters.
+Same clothing.
+Same umbrella.
+Same rainy street.
+Same lighting.
+Same environment.
+
+No visual reset.
+
+0:30–0:35
+Continue the walking shot.
+They move through the rain beneath the tiny umbrella.
+
+Their hands accidentally touch.
+Both notice.
+
+Neither pulls away immediately.
+
+CAMERA:
+Slow subtle push-in toward their hands, then rack focus to their faces.
+
+0:35–0:40
+They reach the girl's house.
+
+She steps out from beneath the umbrella.
+
+She turns toward him.
+GIRL:
+“See you tomorrow?”
+
+BOY:
+“Yeah.”
+She starts walking toward her front door.
+
+The boy watches her.
+
+She takes a few steps.
+
+0:40–0:44
+He suddenly gathers courage.
+
+BOY:
+“Hey!”
+
+She turns around.
+
+CAMERA:
+Quick handheld push toward the boy as he runs a few steps back toward her.
+0:44–0:49
+He smiles nervously.
+
+BOY:
+“Can I have five more minutes?”
+She looks at him, amused.
+
+GIRL:
+“You already had an hour.”
+
+He laughs.
+BOY:
+“I know.”
+
+A small pause.
+She smiles.
+
+GIRL:
+“Okay. Five more minutes.”
+
+0:49–0:54
+She steps back underneath the umbrella.
+
+They begin walking together again.
+The rain becomes softer.
+
+The street lights begin glowing as evening approaches.
+
+CAMERA:
+Wide cinematic tracking shot from the front, slowly moving backward as they walk toward camera.
+
+0:54–0:58
+QUICK NOSTALGIC MONTAGE:
+Their sneakers splashing through puddles.
+
+Their hands almost touching.
+Her laughing.
+
+His nervous smile.
+
+The tiny umbrella tilting as they walk closer together.
+
+A final glance between them.
+
+Use rhythmic match cuts synced to the emotional music.
+
+0:58–1:00
+FINAL WIDE SHOT.
+
+The camera pulls slowly upward and backward.
+
+The two teenagers walk away together beneath the tiny umbrella, becoming smaller against the glowing evening street.
+The rain sparkles under the streetlights.
+
+They continue talking and laughing as they disappear farther down the road.
+
+FADE OUT.
+FINAL EMOTIONAL FEELING:
+First love.
+Youth.
+Nervous butterflies.
+The feeling of not wanting the day to end.
+Do NOT make the ending sad.
+Do NOT introduce a breakup.
+Do NOT introduce a twist.
+Do NOT introduce additional characters who become romantically relevant.
+The entire story should feel like one precious memory from the beginning of a first love.
+
+━━━━━━━━━━━━━━━━━━━━
+CAMERA &amp; MOTION REQUIREMENTS
+━━━━━━━━━━━━━━━━━━━━
+Keep camera movement fluid and cinematic throughout.
+
+Use motivated transitions rather than random cuts.
+Mix fast-paced montage editing with slower intimate close-ups.
+Prioritize:
+• smooth tracking shots
+• natural handheld movement
+• cinematic push-ins
+• over-the-shoulder compositions
+• expressive close-ups
+• realistic rack focus
+• wide environmental shots
+• subtle slow-motion only for emotional beats
+Maintain realistic physics for:
+rain,
+umbrella movement,
+hair,
+clothing,
+walking,
+running,
+hand gestures,
+and interactions with the environment.
+━━━━━━━━━━━━━━━━━━━━
+AUDIO &amp; DIALOGUE
+━━━━━━━━━━━━━━━━━━━━
+Natural English dialogue only.
+
+Dialogue should sound spontaneous and age-appropriate.
+
+Ambient sound:
+school hallway chatter,
+footsteps,
+distant laughter,
+birds,
+city ambience,
+rain,
+umbrella fabric,
+wet pavement.
+Music:
+soft modern coming-of-age instrumental soundtrack that gradually builds from playful and light to warm and emotional.
+Music must never overpower dialogue.
+
+━━━━━━━━━━━━━━━━━━━━
+NEGATIVE PROMPT
+━━━━━━━━━━━━━━━━━━━━
+
+No character identity changes.
+No face changes.
+No hairstyle changes.
+No outfit changes.
+No age changes.
+No adult appearance.
+No sexualized content.
+No exaggerated body proportions.
+No random wardrobe changes.
+No duplicated characters.
+No extra limbs or fingers.
+No distorted hands.
+No unnatural walking.
+No floating objects.
+No impossible rain physics.
+No inconsistent umbrella.
+No teleporting.
+No location jumps that break continuity.
+No random camera cuts.
+No excessive slow motion.
+No cartoon appearance.
+No anime style.
+No plastic skin.
+No overprocessed faces.
+No text overlays.
+No subtitles.
+No logos.
+No watermark.
+No visual glitches.
+No abrupt ending.
+
+FINAL REQUIREMENT:
+SEEDANCE 2.5 MUST PRIORITIZE CHARACTER CONSISTENCY, FACIAL IDENTITY, TEMPORAL CONTINUITY, NATURAL MOTION AND SEAMLESS TRANSITION BETWEEN THE TWO 30-SECOND SHOTS.
+
+The final result should look like a polished 60-second scene from a premium cinematic coming-of-age romance film.</code></pre>
+
+</details>
+
+## 30-second cinematic dance sequence in a minimalist studio
+
+- **Original source:** [@Kashberg_0 on X](https://x.com/Kashberg_0/status/2088843731734786445)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3139](https://imglume.com/prompt/3139)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6973f0e-b052-4d65-a54b-26066926cd1c/36bf2b6c-e81d-45cd-9798-fc461cebf7bb-1786929044212 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic dance sequence as if directed for a high-budget international music film.
+
+DIRECTOR'S VISION
+
+The film takes place inside a massive minimalist studio at night. The space is almost completely dark, with carefully controlled #FF4900 orange practical lighting creating a striking visual identity. The atmosphere should feel sophisticated, dramatic, and expensive.
+
+There is one adult female dancer. She remains the exact same person throughout the entire sequence. Her face, hairstyle, wardrobe, proportions, and styling never change.
+
+OPENING — 0:00–0:05
+
+Start on an extreme close-up of the dancer's face.
+
+She stands completely still.
+
+Only a thin orange light crosses her face. Hold the shot for a moment before slowly pulling the camera backward on a dolly.
+
+The music begins quietly.
+
+She makes the first controlled movement.
+
+BUILD — 0:05–0:12
+
+Cut to a 50mm medium shot.
+
+The dancer begins a precise contemporary choreography.
+
+The camera moves sideways with her rather than simply pointing at her. Let the movement of the camera and performer feel connected.
+
+Orange practical lights gradually illuminate behind her.
+
+Use shallow depth of field and a subtle focus pull from the background to her eyes.
+
+MOMENTUM — 0:12–0:20
+
+The music becomes more energetic.
+
+Transition into a 35mm tracking shot.
+
+The camera slowly circles around the dancer while she performs a sequence of turns, controlled footwork, coordinated arm movements, and a brief jump.
+
+Do not over-edit.
+
+Let the choreography breathe.
+
+Use natural motion blur and realistic physical movement.
+
+HERO MOMENT — 0:20–0:26
+
+Move into a wide 24mm shot.
+
+The dancer moves toward the center of the enormous studio.
+
+As she reaches the beat, hundreds of small orange lights activate across the architecture behind her.
+
+The camera performs a slow crane movement upward, revealing the scale of the environment.
+
+The dancer remains the visual focus.
+
+ENDING — 0:26–0:30
+
+Everything suddenly becomes quiet.
+
+Return to a 50mm shot.
+
+The dancer stops and looks directly toward the camera.
+
+Hold the composition for two seconds.
+
+The orange lights behind her slowly fade except for one strong backlight.
+
+Camera gently pushes in.
+
+Cut to black.
+
+CINEMATOGRAPHY
+
+High-end feature-film cinematography, motivated camera movement, deliberate framing, realistic lens characteristics, controlled depth of field, natural motion blur, subtle film grain, realistic exposure, sophisticated contrast, volumetric atmosphere, practical lighting, physically accurate reflections.
+
+PERFORMANCE DIRECTION
+
+The dancer should perform like a professionally trained performer. Movements are precise, confident, rhythmic, and natural. No exaggerated body motion. No unnatural poses.
+
+CONTINUITY
+
+One performer throughout. Perfect facial consistency. Identical hairstyle, wardrobe, accessories, proportions, and appearance in every shot. Stable anatomy and hands. No duplicates. No morphing. No wardrobe changes.
+
+FINAL LOOK
+
+Photorealistic 4K, premium theatrical cinematography, sophisticated production design, realistic skin and fabric, cinematic color science, restrained visual effects, professional music-film aesthetic, emotionally controlled pacing, seamless continuity.</code></pre>
+
+</details>
+
+## 神鵰俠侶 - 楊過 30秒電影級武俠長鏡頭
+
+- **Original source:** [@jamesyeung18 on X](https://x.com/jamesyeung18/status/2088976379157299366)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3137](https://imglume.com/prompt/3137)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0e56f7b1-68b5-40ed-ae4e-03abcc083181/183c48b2-bb11-46b1-9348-c9eb2291ee34-1786924867915 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>影片總體風格與視覺設定 視覺風格：東方暗黑史詩武俠（Dark Epic Wuxia）、極致寫實流體物理、高動態範圍光影（HDR）。 視覺元素：古谷巨瀑、丁達爾晨光（耶穌光）、飛濺的水珠粒子、熱氣蒸騰、玄鐵重劍質感。 ⏱️ 30 秒時間軸與分鏡提示詞 breakdown 00:00 - 00:05｜【序幕：古谷巨瀑】 畫面描述：FPV 穿梭機視角穿過深山濃霧，俯衝直下百米懸崖。巨型瀑布轟鳴奔流匯入湍急河流，晨光穿過古松樹冠，在水霧中形成耀眼的金黃色神聖光束。 鏡頭運動：高空極速俯衝（Vertical Dive Shot），隨後在靠近水面處平穩拉開，呈現宏大遠景。 音效與配樂：深沉雷鳴般的瀑布聲、山風呼嘯聲。 00:05 - 00:10｜【角色登場：狂流中的堅毅】 畫面描述：低角度中景，獨臂年輕劍客（楊過）身穿濕透的深色古裝，穩如磐石般佇立於河心濕滑的青苔巨石上。雨水與水花順著他堅毅的面頰滾落。後方高聳 Cliff 邊，神鵰的巨大剪影靜靜佇立俯瞰。 鏡頭運動：慢速推鏡（Slow Dolly-in），聚焦眼睛特寫（120fps 超慢動作），清晰可見皮膚上的水滴滾落。 音效與配樂：深沉低音（Bass Drone）漸強，伴隨心跳重音與瀑布轟鳴。 00:10 - 00:15｜【蓄力：玄鐵重劍與內力蒸騰】 畫面描述：微距特寫聚焦於他左手握持的玄鐵重劍——無鋒、黑黝無光、質感沉重的隕鐵大劍。隨著內力爆發，劍身周圍產生強烈的熱浪氣震，將順著劍滴落的水流瞬間蒸發成縈繞上升的白煙蒸氣。 鏡頭運動：360 度環繞微距軌道運鏡（360-degree Orbit Shot），從重劍粗糙質感轉焦至他凌厲的眼神。 音效與配樂：高頻空氣壓迫聲、水滴蒸發的「嘶嘶」聲、氣浪嗡鳴。 00:15 - 00:22｜【爆發：騰空揮劍與極速追鏡】 畫面描述：楊過沉身蓄力，隨後騰空飛縱，揮舞重劍向瀑布狂流怒劈！這一劍展現出「大巧不工」的磅礡力量，重劍周圍形成巨大的空氣真空，周圍的水珠宛如失重般懸浮在半空。 鏡頭運動：動態跟隨甩鏡（Dynamic Tracking Whip-Pan），在跳躍最高點實施動態鎖定與慢動作鏡頭。 音效與配樂：東方史詩交響樂（古箏、二胡與戰鼓）瞬間爆發，伴隨撕裂空氣的劍風聲。 00:22 - 00:27｜【高潮：劍氣裂瀑與光影粒子】 畫面描述：重劍正面擊中瀑布水流！強烈的氣浪衝擊波如爆破般將數百萬加侖奔流而下的瀑布硬生生一割為二，露出後方濕滑黑色的山壁洞穴。被炸開的水流化作數億顆閃耀微粒，在金光照射下如鑽石般飛濺。 鏡頭運動：急速後退拉鏡（Rapid Dolly-Back）由中景拉至超廣角，展現瀑布被割裂的震撼壯觀全景，畫面帶有電影級寬銀幕光斑（Anamorphic Flare）。 音效與配樂：氣浪爆裂聲（Sonic Boom）、高亢激昂的弦樂高潮、水花爆發迴響。 00:27 - 00:30｜【餘韻：意境收尾】 畫面描述：楊過輕盈落回巨石，重劍橫於胸前。被割裂的瀑布重新轟然合攏，水霧將他籠罩其中。他吐出一口白色的熱氣蒸氣，遠處崖頂傳來神鵰一聲清脆的長鳴。 鏡頭運動：緩慢向上仰拍（Slow Tilt-up）轉向天空，霧氣漸漸彌漫鏡頭底部。 音效與配樂：交響樂漸弱轉為悠揚古箏餘音，伴隨遠處鵰鳴與細微水滴落聲。 30秒電影級金庸武俠長鏡頭。深山峽谷巨型瀑布轟鳴奔流，晨光穿過古松與濃霧形成耀眼神聖的光束（丁達爾效應）。獨臂劍客楊過身穿濕透的深色古裝站在瀑布下的巨石上，手持無鋒、沉重的黑黝玄鐵重劍。他運起磅礡內力，重劍表面產生氣浪震波與蒸氣蒸發水滴。他騰空飛縱，揮舞重劍向瀑布狂流怒劈，強烈的劍氣衝擊波如炸彈般將整座瀑布硬生生一割為二，揭露後方山壁，漫天水珠在金光下爆發成閃耀的粒子霧氣。微距與動態拉鏡切換，電影級流體物理與光影，4K超高畫質，極具視覺震撼力與東方武俠史詩感。</code></pre>
+
+</details>
+
+## Man driving car transforms into speedboat and greets black panther – cinematic action sequence
+
+- **Original source:** [@hedo_ist on X](https://x.com/hedo_ist/status/2088980969206223111)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3132](https://imglume.com/prompt/3132)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3026e174-6272-4d9d-9390-2a496a935801/ec91dc30-f249-48d4-a4f4-9dfbda7016c5-1786908032050 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3026e174-6272-4d9d-9390-2a496a935801/2db00452-1d3f-44e8-89d7-d39749fb25f9-1786908032050 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/3026e174-6272-4d9d-9390-2a496a935801/2329f14e-e778-48d2-98c9-7d292f45af77-1786908032050 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/3026e174-6272-4d9d-9390-2a496a935801/d5d6a496-82cb-4ca8-944f-27eb849b9700-1786908032050 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A man speeds in his car—shifting gears, accelerating, drifting around curves, and launching over banked sections of the cliffside road.
+
+Mid-air during a jump, the car fluidly transforms into a speedboat racing across the water; the man arrives home and warmly greets an affectionate black panther.
+
+A high-octane, cinematic action sequence.
+
+Rapid, continuous shot changes.</code></pre>
+
+</details>
+
+## Golden Hour CQC in Shibuya
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2089009512854200745)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3131](https://imglume.com/prompt/3131)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f20176ee-77de-4dcb-9b7d-d96f8c0bfcd7/fb1adada-236f-481e-9928-d6fe29266aaf-1786906496619 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second photorealistic live-action Japanese action video (Phase 1 of 2) in 16:9 horizontal format.
+
+EXPLICIT KINETIC PACING &amp; HIGH-SPEED ENGINE CLAUSE (CRITICAL INSTRUCTION):
+ENFORCE AGGRESSIVE, HIGH-OCTANE, HYPER-FAST COMBAT PACING (120%-150% REAL-TIME PLAYBACK SPEED). All strikes, dodges, redirects, and footwork MUST be lightning-fast, snappy, explosive, and relentless with extreme kinetic velocity. DO NOT generate slow, floaty, or sluggish movement except during designated 60fps slow-motion beats.
+
+STRICT TEMPORAL &amp; SEQUENCE ANCHOR DIRECTIVE:
+The video generator MUST execute narrative actions in EXACT CHRONOLOGICAL ORDER step-by-step from 0 to 15 seconds:
+Step 1 (0–2s): Fast-paced opening. Ren walks briskly across Shibuya zebra crosswalk in golden hour light; Brawler 1 aggressively intercepts her -&gt; Step 2 (2–5s): Brawler 1 throws a rapid wild punch; Ren executes a lightning-fast Tai Chi circular redirect, flinging him off-balance into Brawler 2 -&gt; Step 3 (5–9s / ULTRA SLOW-MOTION BEAT): Playback drops to 60fps slow-motion: Ren steps inside Brawler 2's guard, driving a brutal Muay Thai elbow strike into his jaw; sweat freezes in golden sun flares as he makes a funny exaggerated pain-cringe -&gt; Step 4 (9–12s): Speed ramps BACK TO HYPER-FAST REAL-TIME: Ren instantly delivers a vicious low leg-kick breaking Brawler 3's knee -&gt; Step 5 (12–15s / EXIT MATCH FRAME): Ren ducks Brawler 4's punch in a split-second and drives a high vertical knee strike into his ribs. Camera locks on a low-angle frame of Ren's knee connected to Brawler 4's torso.
+Enforce rapid martial arts speed, explosive impact physics, and zero sluggish motion.
+
+Use separate production sheets for Ren, Street Brawlers, and Location Bible. Keep Ren's cream trench coat, dark crop top, ponytail, and golden hour Shibuya crosswalk setting consistent throughout.
+
+VISUAL STYLE:
+Photorealistic live-action 35mm cinema quality, high-contrast golden hour lighting, lens flares, dynamic sweat/impact simulation, zero 3D or anime look.
+
+ENVIRONMENT:
+Shibuya zebra crosswalk, Tokyo, golden hour sunset, pedestrians, neon billboards, warm asphalt shadows.
+
+AUDIO DIRECTIVE:
+Background Music: Fast, high-bpm modern Japanese hip-hop beat with rapid drums and heavy bass, dipping during slow-motion.
+Sound Effects: Fast wind swooshes, heavy elbow-strike thud, bone-snap crunch, funny exaggerated painful screams.
+Vocal Audio: Sharp martial exhale from Ren, funny high-pitched groans from delinquents.
+
+TIMELINE:
+0–2s: Rapid opening on Shibuya crosswalk. Ren walks briskly. Brawler 1 steps in front of her aggressively.
+2–5s: Lightning-fast attack. Brawler 1 swings; Ren redirects his force at hyper-speed using Tai Chi, flinging him into Brawler 2.
+5–9s (60fps SLOW-MOTION BEAT): Playback drops to 60fps. Ren drives a Muay Thai elbow into Brawler 2's jaw in frozen golden sunlight flares.
+9–12s: Speed ramps to hyper-fast 150% real-time. Ren executes a snap Muay Thai leg kick, breaking Brawler 3's knee.
+12–15s (EXIT MATCH FRAME): Ren ducks at top speed and drives a high vertical knee strike into Brawler 4's ribs. Camera locks on low-angle impact hold. End Phase 1 freeze-frame. No text, no logos.
+
+CAMERA:
+Fast tracking shot on crosswalk, whip-pan during Tai Chi redirect, speed-ramp zoom on 60fps elbow strike, low-angle lock on knee strike exit hold.
+
+MOVEMENT LOGIC:
+Weight: hyper-fast, sharp, explosive martial speed for Ren; heavy, stumbling, off-balance flailing for Brawlers.
+Time: hyper-accelerated real-time speed transitioning into 60fps slow-motion elbow impact, snapping instantly back into hyper-fast 150% real-time combat.
+Space: wide crosswalk contracting into close-quarters strike zone.
+Flow: rapid circular redirects (Tai Chi) into lightning-fast hard strikes (Muay Thai).</code></pre>
+
+</details>
+
+## Cinematic semi-realistic anime skateboarding sequence in New York at sunset
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2088936577045090555)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3130](https://imglume.com/prompt/3130)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f70278d-9d09-4988-8941-62d551948a69/fadc7a62-5947-4506-b69a-21c552a51dbe-1786906434706 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic semi-realistic anime sequence using my uploaded girl reference as the exact character identity source. Preserve her facial features, hairstyle, skin tone, body proportions and overall appearance consistently throughout the video.
+
+She wears a sporty red-and-white pleated skirt with integrated shorts, a fitted white athletic top with red detailing, dark blue Nike sneakers, a beige “Cool” cap, dark blue backpack, black digital watch and headphones around her neck.
+
+Her companion is a small ginger-and-white fluffy house cat with beautiful amber eyes. Keep the cat naturally sized, around the girl's shin/lower-calf height, with realistic feline movement and appearance.
+
+Set the story across a vibrant New York City neighborhood at sunset, featuring brick buildings, colorful storefronts, yellow taxis, subway entrances, traffic lights, fire escapes, street vendors, cyclists and a lively urban atmosphere.
+
+The girl confidently skateboards through the city while the cat runs happily alongside her. Use smooth controlled movements as she navigates the streets, performs stylish turns, passes through open spaces and smoothly avoids obstacles.
+
+She glides past a colorful street market and briefly picks up a small takeaway drink from a nearby stand, takes a quick sip while continuing to skate, then places the empty container into a recycling bin as she passes.
+
+She approaches a graffiti-covered wall and performs a stylish skateboard wall ride followed by a graceful aerial spin. At the same moment, the cat makes a playful leap over a low obstacle beside her. They land together and continue moving forward.
+
+Transition smoothly into an industrial New York setting with elevated subway tracks, steel bridges, warehouses, construction areas and rooftop structures.
+
+The girl performs a clean ollie onto a low industrial rail, crouches beneath a bridge and continues skating alongside a passing subway train. She then uses a gentle ramp to jump onto a raised steel platform while the cat follows through a nearby safe pathway.
+
+For the finale, the girl performs a dramatic controlled jump from the elevated platform into an open street-level parking area. The cat makes a synchronized leap from a low concrete ledge, and both land safely before continuing forward together.
+
+Use premium cinematic anime-game visuals with clean linework, painterly cel-shading, detailed environments, expressive animation and dramatic New York evening lighting.
+
+Camera direction: low-angle tracking shots, wheel-level close-ups, smooth chase-camera movement, sweeping transitions, dynamic side shots, occasional slow-motion moments and subtle handheld camera motion.
+
+Add tasteful anime speed lines, atmospheric lighting, motion blur and cinematic depth while keeping the action visually clear and physically coherent.
+
+Maintain exact character identity, consistent clothing, accessories, skateboard design and cat appearance throughout every shot.
+
+No photorealism, no 3D CGI appearance, no identity drift, no outfit changes, no oversized cat, no duplicate characters, no distorted anatomy, no warped skateboard, no dangerous collisions, no graphic content, no watermark, no subtitles and no random text.</code></pre>
 
 </details>
 

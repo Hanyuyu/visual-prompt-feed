@@ -1,9 +1,73 @@
 # Character video prompts
 
-81 source-linked prompts, newest ImgLume records first.
+83 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young Asian woman exploring a traditional Italian neighborhood
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2089205122664669487)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [3164](https://imglume.com/prompt/3164)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/36e4fa82-26b8-4f01-b38b-e90d8edbeb53/8a617ef9-4fd7-436a-aacf-8229215dd539-1786968695718 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young Asian woman with medium , bleached blonde hair and bangs, dressed in a blue tank top, beige unbuttoned shirt, loose jeans, and white sneakers, explores a traditional italian neighborhood in sunlight.
+
+•She stands before a wooden slatted building, smiling and waving both hands at the camera.
+•Walking away, she navigates a dark, narrow alleyway between wooden buildings.
+•Emerging into an open alley, she pauses to lean down and inspect potted plants against a wall.
+•Along a stone canal ledge, she reaches out to pet a tabby cat walking on the wall, which turns its head toward her.
+•Stopping at a red vending machine in a quiet alley, she opens a canned drink and takes a sip while looking at the camera.
+•Walking along a sunny street sidewalk, she carries her drink as a red taxi passes in the background.
+•She turns back to face the camera, smiling as she continues walking down another narrow, wooden-walled alleyway.</code></pre>
+
+</details>
+
+## Early-2000s Handheld Documentary of Young Indonesian Woman in Residential Neighborhood
+
+- **Original source:** [@RishuaVR on X](https://x.com/RishuaVR/status/2089204108175741157)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`, `ugc`
+- **ImgLume record:** [3156](https://imglume.com/prompt/3156)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2dbfc6a2-20e8-4005-9d1c-8ae9e12582a5/1590ce90-877f-4a1d-b395-a7bf2d3ffe5f-1786956219595 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: young Indonesian woman, early 20s, natural everyday appearance, faded mustard-yellow oversized cotton t-shirt, brown high-waisted linen wrap skirt reaching just below the knee, simple brown leather slide sandals, thin gold stud earrings, dark wavy hair in a messy low bun with loose wispy strands framing her face. Realistic warm brown skin texture, minimal natural makeup, warm and approachable demeanor. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
+
+Location: Authentic Indonesian residential neighborhood (gang) during a calm late morning. Narrow paved alleys, low-rise houses with open front terraces, terracotta roof tiles, potted frangipani and bougainvillea, laundry on bamboo drying racks, parked motorbikes along plastered walls, overhead utility wires, banana and coconut trees casting dappled moving shadows, quiet tropical residential atmosphere. No modern stores, billboards, cafés, or crowds.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
+
+Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping when moving between harsh tropical sun and deep alley shade, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, warm faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+
+00:00–00:02
+Outside a small house entrance with an open terrace. She sits on the low terrace step adjusting her loose hair bun with both hands raised. A light warm breeze moves loose strands of hair. She smiles naturally while the camera struggles to lock focus.
+
+00:02–00:05
+The camera follows her into a narrow alley lined with potted plants and plastered walls. She notices a neighborhood cat resting on a warm concrete ledge, crouches down, and gently pets it. Framing drifts off-center as the operator tries to keep up. Morning sunlight flickers through banana leaves overhead.
+
+00:05–00:08
+Small front terrace with a glass of sweet iced tea on a wooden stool. She sits relaxed on a plastic chair watching the quiet gang, casually brushing hair behind her ear. A motorbike passes slowly in the distant background. Handheld side angle with natural camera drift.
+
+00:08–00:10
+She turns toward the camera with a warm, genuine smile, gives a gentle nod of acknowledgement, then turns to walk down the tree-lined alley holding her iced tea. Recording cuts abruptly to black mid-motion as if the camcorder was switched off.
+
+Audio: Hyper-detailed environmental ASMR binaural audio — crisp micro-sounds captured up close with high sensitivity. Crisp rustle of cotton fabric and linen as she moves, deep rhythmic cat purring vibrating close to the microphone, ice cubes gently clinking against the glass condensation, soft scuff of leather sandals on textured concrete pavement, dry banana leaves brushing together in the warm breeze, rhythmic faint sound of a sapu lidi broom sweeping fallen leaves nearby, water dripping into a terracotta gentong, distant gentle crowing rooster, faint muffled low-frequency hum of a passing motorbike down the alley. Pure natural foley textures, zero music, zero studio effects, zero narration, zero speech.
+
+Goal: Authentic Indonesian neighborhood life captured like a forgotten home video from the early 2000s — candid, imperfect, realistic, warm, and deeply believable, with immersive environmental ASMR soundscape.</code></pre>
+
+</details>
 
 ## 15-second ultra-realistic cinematic fashion vlog with outfit transformations
 
