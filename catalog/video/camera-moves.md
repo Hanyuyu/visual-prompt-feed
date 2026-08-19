@@ -1,9 +1,258 @@
 # Camera Moves video prompts
 
-106 source-linked prompts, newest ImgLume records first.
+113 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second photorealistic survival short film – Canadian winter rescue
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2089598644177580260)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3233](https://imglume.com/prompt/3233)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2d65c3d2-e8cb-415a-b8d7-00b2c88327ec/aca9b68e-b5f3-4ffb-a996-a2c045c1e488-1787054768135 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second photorealistic survival short film, 4K UHD, 24fps, realistic Canadian winter environment, fast-paced live-action, natural physics, intense but believable
+
+TIME: 3:18 PM–3:48 PM, late winter afternoon, rapidly fading daylight
+
+LOCATION: Frozen lake near a small Canadian town, snow-covered forest, ice-fishing shelters, parked pickup trucks
+
+CHARACTERS: Father, 39, heavy winter jacket; son, 10, red winter coat; nearby fisherman, 55
+
+STORY: A child falls through thin ice, and his father must reach him before the broken ice spreads farther.
+
+00:00–00:03 → Father and son walk across the frozen lake carrying a small sled. The boy runs several steps ahead.
+
+00:03–00:06 → A sharp crack travels beneath the snow. The boy stops. The surface suddenly collapses and he drops waist-deep into freezing water.
+
+00:06–00:09 → Father throws himself flat onto the ice instead of running toward him. A nearby fisherman immediately grabs a rope from his truck.
+
+00:09–00:12 → Father crawls forward, spreading his weight across the ice. The boy grabs the edge while water splashes around his jacket.
+
+00:12–00:16 → The fisherman anchors the rope around the truck and throws the other end toward the father. The ice cracks farther behind them.
+
+00:16–00:20 → Father reaches the boy, wraps one arm around his chest and pushes the rope beneath his arms.
+
+00:20–00:24 → Fisherman and father pull together. The boy slides onto solid ice while chunks break away behind him.
+
+00:24–00:27 → Father immediately removes his own jacket and wraps it around the boy. The fisherman drags the sled closer.
+
+00:27–00:30 → They place the boy on the sled and pull him toward shore. He reaches out and grabs his father's hand as the camera cuts wide to the dangerous cracked ice behind them.
+
+CAMERA: Handheld rescue-documentary style. Fast ground-level tracking, close shots during physical interaction, low angle near the ice, quick camera repositioning with the rescuers, no slow motion.
+
+PHYSICS: Ice cracks propagate irregularly. Human weight is distributed by crawling flat. Water splashes naturally around the submerged body. Rope becomes taut before pulling. Sled slides with realistic friction over packed snow.
+
+ENVIRONMENT MOTION: Snow blowing across the lake, bare branches moving in wind, ice fragments floating, visible breath condensation, clothing reacting to movement.
+
+LIGHTING: Cold natural winter daylight with long shadows. Reflective snow creates realistic ambient fill.
+
+AUDIO: Ice cracking, water splashing, shouting, rope tension, boots scraping snow, wind, heavy breathing, sled runners.
+
+REALISM: No impossible rescue strength, no exaggerated ice explosions, no instant recovery. Characters show cold, fear and physical exhaustion through natural behavior.</code></pre>
+
+</details>
+
+## Highly dynamic 30‑second bright anime scene with river adventure
+
+- **Original source:** [@mrdejie on X](https://x.com/mrdejie/status/2089612021130235910)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`
+- **ImgLume record:** [3224](https://imglume.com/prompt/3224)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8d5eb7fc-cd81-4d4e-9df1-51b5856bc921/75c61f0f-b512-4846-bde3-6558b8cffd95-1787051053384 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly dynamic 30-second 2D anime scene in a bright, cheerful modern anime illustration style. Style requirements: bold clean black outlines, flat colors with very minimal shading, soft rounded character designs, bright vibrant colors, simple but highly expressive poses, clean modern anime look.
+Dynamic camera movements throughout. Smooth transitions between shots. No dialogue. Bright and joyful atmosphere.
+0–7s (Shot 1 – Wide to Close):Wide angle shot of a bright sunny river valley with lush green surroundings. A soft-rounded anime boy happily lifts his pet (same size as him) into his arms. He runs and jumps into the river with his pet. They both slide down the flowing river with big joyful expressions. Camera starts wide showing the full environment, then smoothly pushes in to focus on their happy faces as they slide.
+7–12s (Shot 2 – River POV):Camera switches to first-person point of view as if from their eyes. Fast, dynamic movement through the river. Water splashing, bright sunlight reflecting, the river rushing forward. Exciting and energetic camera motion.
+12–16s (Shot 3 – Mid-air):They reach the end of the river and are launched mid-air into the open ocean, still looking extremely happy. Camera quickly focuses on an extreme close-up of the boy’s eyes only.
+16–24s (Shot 4 – Underwater POV):Camera switches to first-person point of view (the boy’s eyes act as the camera). Bright, colorful underwater scene is revealed. A friendly dolphin, an octopus, a seahorse, and a stingray swim around him playfully in the clear ocean water. The camera looks around at each creature with wonder and joy.
+24–30s (Shot 5 – Surface &amp; Sky):The boy and his pet surface from the water. The pet is happily piggybacking on the boy’s back. Half of their bodies are still submerged. They laugh with pure joy. Cute underwater creatures also surface around them, looking just as happy. Camera slowly tilts upward and moves toward the bright blue sky, ending on a wide, cheerful sky shot.
+Style notes:Clean bold black line art, flat bright colors, soft rounded designs, minimal shading, highly expressive happy faces, dynamic and fluid camera movement throughout. Keep the energy fun, light, and full of joy.</code></pre>
+
+</details>
+
+## Live-action and hand-drawn 2D animation hybrid POV sequence
+
+- **Original source:** [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2089366776404402212)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`
+- **ImgLume record:** [3213](https://imglume.com/prompt/3213)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e899398c-5e14-4f40-bfca-5879028696bc/e9962088-b6e3-46cf-9691-749054aee744-1787043352799 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>POV sequence in an original live-action and hand-drawn 2D animation hybrid world. The entire scene is filmed from first-person perspective with smooth handheld movement, quick pans and playful reframing. Real environments use natural lighting and realistic shadows; animated characters use bold ink outlines, flat colors, elastic motion and expressive cartoon timing. Retro urban comedy, fully original design, no recognizable characters, no studio references.
+
+A fictional old-fashioned city street leading into a colorful entertainment hall, then a narrow backstage corridor and exterior alley.
+
+0-5s: POV moves through a lively street. Real pedestrians walk normally while small abstract cartoon creatures bounce between signs, stretch across doorways and leave hand-drawn motion trails.
+
+5-10s: POV enters the hall. A tiny animated server slides across a real counter carrying wobbling drinks, spins once, waves at camera and disappears behind a curtain.
+
+10-16s: POV turns toward a live performer on stage while animated musicians play around them. One cartoon instrument stretches toward the lens, curls into a spiral, then snaps gently back into place.
+
+16-22s: POV backs away as playful animated chaos spreads through the room: drawn paper shapes float, a cartoon character flattens under a door, another leaves a cloud of sketched stars. Real people remain completely serious.
+
+22-27s: POV moves quickly down the corridor while a small animated guide runs beside camera and says in English: “Keep moving. The drawings are improvising again.”
+
+27-30s: POV exits into the alley. A huge inflatable cartoon prop swings past the lens, bounces harmlessly off a trash bin and launches colorful drawn stars into the air. End on a playful freeze-frame.</code></pre>
+
+</details>
+
+## Western executive and bodyguard action sequence
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2089583619484639598)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3211](https://imglume.com/prompt/3211)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b48633e-834e-4537-a335-fa59b005e609/1f1b0159-e0e7-4d5f-8689-fe5431b78f1f-1787043308647 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A Western female executive in her early 30s exits a modern office building carrying a laptop bag while a professional Western male bodyguard in his mid-30s, wearing a fitted dark business suit, discreet earpiece, leather shoes, and sunglasses, escorts her toward a black executive SUV in a busy business district. The bodyguard maintains a protective position slightly behind and to her left, calmly scanning the surroundings while pedestrians and traffic move naturally around them. As they approach the SUV, the client smiles and says, "Thanks for today." Before she reaches the vehicle, an unknown man suddenly approaches and attempts to grab her arm. The bodyguard immediately steps between them, shields the client with his body, extends one arm to guide her backward, and uses a controlled wrist redirection and forearm block to stop the approach without unnecessary force. The client moves safely behind him toward the SUV while he maintains a balanced defensive stance and keeps visual awareness of both people. He then opens the rear passenger door, allows the client to enter safely, checks the surroundings, closes the door, and calmly maintains distance from the approaching individual. The SUV starts smoothly and drives away as the bodyguard enters the front passenger seat. Ultra-realistic Hollywood action thriller, photorealistic modern city environment, authentic executive protection tactics, realistic defensive martial arts, physically accurate human biomechanics, natural walking and reaction movements, realistic body positioning and weight transfer, natural facial expressions and breathing, accurate vehicle physics, continuous gimbal tracking shot, smooth cinematic camera movement, natural daytime lighting, authentic city traffic and pedestrian ambience, realistic footsteps, vehicle doors, clothing movement, and engine sounds, no narration, non-graphic action, seamless continuous storytelling, consistent characters and environment throughout, no weapons, blood, injuries, exaggerated impacts, superhero movements, CGI appearance, plastic skin, text overlays, logos, watermarks, or abrupt transitions.</code></pre>
+
+</details>
+
+## Photorealistic live-action sci-fi action thriller with pink smiling rockets
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089548115489775772)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3210](https://imglume.com/prompt/3210)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2faea810-f70c-4df5-b5b3-2f264dfaebda/70e23974-53c4-4fce-9d35-9041115651e7-1787043297221 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic live-action sci-fi action thriller, cinematic anamorphic look, clear daylight, realistic physics, subtle film grain, epic war-film composition.
+
+Pink smiling rockets: pastel-pink metallic cylindrical body, rounded nose, cream-pink panels, small curved fins, silver nozzle, crescent smiling eyes, eyelashes, pink cheeks and cheerful open smile with small white teeth. Fixed face, no blinking or expression changes.
+
+Shot 1:
+Character A, an adult woman with long brown hair, black sunglasses on her head, white cropped sleeveless top, pink patterned pants and black boots, sits relaxed with crossed legs on a red plastic chair in a ruined battlefield road. A pastel-pink agricultural tiller with silver engine and pink cargo trailer is parked 3m behind her. Tanks and infantry advance in the distance. She calmly whistles, pulls several small smiling pink rockets from her pocket and tosses them above her head. 24mm low-angle wide shot.
+
+Shot 2:
+35mm low-angle locked shot. The rockets mechanically expand to 60cm through telescoping parts, keeping the same design and faces. They form a circle around Character A at shoulder height. She calmly says, “쓸어버려~” and pushes one hand forward. After the final syllable, the rockets ignite with realistic flames, smoke, heat distortion and dust, rapidly flying in different directions. One passes close to the camera.
+
+Shot 3:
+24mm low-altitude tracking shot follows one pink smiling rocket through smoke and debris toward a tank. Just before impact, the camera rises slightly. A large realistic explosion erupts with fire, black smoke, dust, fragments and shockwave. Other rockets create distant explosions. End on a wide battlefield filled with smoke, fire and dust. Maintain consistent character, rocket design, tiller and realistic physics throughout.</code></pre>
+
+</details>
+
+## Night Marina Leap – Vertical Handheld Phone Video
+
+- **Original source:** [@mightyking on X](https://x.com/mightyking/status/2089299068514148655)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `ugc`
+- **ImgLume record:** [3179](https://imglume.com/prompt/3179)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a7dee3e1-5c40-4619-b325-e9c653a742d6/122ce7e9-fd94-4e41-8e53-c3c8c9d99bc1-1786994159620 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.</code></pre>
+
+</details>
+
+## 15-second cinematic NYC parkour superhero drone follow shot
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2089306746804375878)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3171](https://imglume.com/prompt/3171)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a76d690e-dc4b-4b71-b139-6f81a7207ff7/e4f9aa97-051d-438c-b653-64b49a6f40d8-1786993837415 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CHARACTER REFERENCE — MANDATORY: Face — Reference Image 3. Outfit — short dark bob, black fitted crop jacket, distressed dark cargo denim shorts, gray hoodie tied at waist, teal satin ballet pointe shoes, pink tights, black headphones ON EARS, white gloves.
+CRITICAL — CHARACTER ANATOMY. NON-NEGOTIABLE: 165cm, 47kg. Athletic, lean, controlled. NEVER ragdoll. NEVER limp. NEVER floppy. Core always engaged. Every movement has muscle intention. She moves like a trained gymnast/dancer who happens to have superpowers — precise, casual, effortless. Minimal spinning. Body follows physics of each movement logically.
+CRITICAL — PHYSICAL CONTACT WITH ENVIRONMENT. NON-NEGOTIABLE: She does NOT just fly through the air. She interacts with the city physically — feet push off walls, hands grab ledges, body grazes building surfaces. Every contact point: knees absorb impact, muscles engage, body reacts to the surface. This is parkour + web-swinging, not floating.
+CRITICAL — BODY POSITIONS PER MOVEMENT TYPE:
+Web swing: arms extended forward gripping web, legs together trailing, core tight, back straight, chin up — clean rope-swing athlete position
+Wall push-off: both feet plant flat on wall, knees bend deep to absorb, then legs explode into full extension at launch, arms punch forward for momentum
+Running on wall: body leans 45 degrees toward wall, feet striking surface in running gait, arms pumping, hair and hoodie pulled sideways by momentum
+Free flight peak: arms naturally open to sides, body slightly arched back, relaxed — not posed, just physically released
+Street level run: full sprint, arms driving, head forward, teal pointe shoes striking pavement, body leaning into direction of travel
+CRITICAL — REALISM. NON-NEGOTIABLE: Real Hollywood film. RED Monstro 8K, anamorphic lens. Real motion blur, real fabric physics, real atmospheric NYC haze. REAL.
+CRITICAL — CAMERA. NON-NEGOTIABLE: ONE continuous drone-follow. ZERO cuts. ZERO teleporting. Tilts, banks, rolls physically. Wide enough to always show her AND environment.
+
+15-second continuous drone-follow shot. DIRECT CONTINUATION — starts from black.
+0–1 sec: Black. Then — CLOSE-UP — white-gloved hand. Fingers open. Wrist snaps. Web shoots. Camera pulls back immediately.
+1–4 sec: Wide — residential NYC street. Brownstones, fire escapes, bodegas. She swings LOW — 3 meters above street. Body: arms extended gripping web, legs together trailing, core tight, back straight. At the bottom of the swing arc her feet skim the roof of a parked car — brief physical contact, feet bounce off lightly, she uses it to redirect. Camera banks 40 degrees.
+4–7 sec: She releases the web at peak — body opens, arms out, legs extend. Then instead of firing a new web immediately — she runs along the side of a brownstone wall. Feet strike the brick surface in a real running gait — body angled 45 degrees toward the wall, arms pumping, 4–5 quick steps along the vertical surface — then she pushes off hard with both feet, knees fully extending, and fires a new web mid-air toward a building across a wide intersection. Swing pulls her hard sideways — camera rolls 60 degrees.
+7–10 sec: She comes in LOW down a narrow street packed with yellow taxis. 2 meters off the ground, body streamlined — arms forward, legs trailing like an arrow. Web releases. Her feet hit the ground — full sprint, body leaning forward, arms driving — she runs 3–4 steps between taxis, using the momentum, feet striking the wet pavement. A taxi honks. She laughs. Then plants one foot on the side of a taxi cab, pushes off the car roof with a single explosive step, fires a web upward at a tall building, and rockets HIGH.
+"WOOHOO!"
+10–15 sec: WIDE SHOT — rooftop level, not too high. She hangs at the peak — arms slightly open, body naturally arched, completely still for one breathless moment. Golden hour sky — warm orange and pink light across the horizon. Massive dramatic clouds lit from below with gold. She is a small figure dead center against the enormous glowing sky. City rooftops, water towers, streets below. The frame holds. She begins to fall back down.
+[END]
+
+CRITICAL — EMOTION AND SOUND. NON-NEGOTIABLE: She is fully alive in every frame. Not blank. Not neutral. Not AFK.
+Her face and body express genuine real-time emotion throughout:
+During the first swing — wide eyes, slight grin, pure focus
+When feet skim the car — quick surprised laugh, instinctive
+Running on the wall — jaw set, determined, intense concentration
+Low between taxis — teeth showing, adrenaline grin, leaning into it
+The taxi honk — she laughs out loud, head tips back slightly
+"WOOHOO!" — completely uncontrolled, mouth open, genuine scream of joy
+Final wide shot at peak — arms open, head back, eyes closed, face of pure freedom — not blank, not posed, just a person at the best moment of their life
+AUDIO: SFX ONLY. NO MUSIC. Wind rushing. Web snap and twang. Feet hitting car roof. Feet hitting pavement — real impact sounds. Taxi horn. Her genuine laugh. "WOOHOO!" echoing between buildings. Wind cutting as she rises. Then — silence at the peak.
+
+RED Monstro 8K, anamorphic, 165cm 47kg controlled athletic body throughout, physical contact with walls/cars/surfaces at every opportunity, detailed body mechanics per movement type — swing/run/push-off/sprint, NO ragdoll NO float, severe Dutch angle during swings, golden hour sunset sky warm orange pink, dramatic volumetric clouds, subject at rooftop level NOT high altitude, subject tiny in center of wide final frame, residential NYC brownstones, continuous single drone follow, no cuts, photorealistic</code></pre>
+
+</details>
 
 ## High-end KIKO Milano lip gloss cinematic commercial
 

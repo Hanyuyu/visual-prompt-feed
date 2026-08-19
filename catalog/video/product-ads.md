@@ -1,9 +1,265 @@
 # Product Ads video prompts
 
-61 source-linked prompts, newest ImgLume records first.
+64 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Crispy Potato Chips Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2089662916304003221)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3243](https://imglume.com/prompt/3243)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bbca59a-cf2f-4d0d-9276-dbbdecfc4404/117c7a8e-7551-4258-966b-bf584d29e0ed-1787067108681 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2bbca59a-cf2f-4d0d-9276-dbbdecfc4404/43148426-9b88-4d9e-9fc7-cfbe8de05e09-1787067108681 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Crispy Potato Chips Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Food product advertising campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero throughout
+• Premium advertising agency presentation
+
+HEADER:
+• Bold premium title
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Cinematic Food Commercial
+ - Product: Potato Chips
+ - Audio: Crisp ASMR + Modern Beat
+• Why This Style Works section
+• Warm cream background
+• Red &amp; golden accent details
+
+STORYBOARD:
+1. Sealed chips packet standing on a clean studio surface
+2. Packet opening with realistic crinkle and chips visible inside
+3. Extreme macro shot of crispy chip texture
+4. Fresh chips falling from packet in mid-air
+5. Salt crystals and seasoning landing on chips
+6. One chip breaking with visible crisp texture
+7. Full bowl of chips beside the hero packet
+8. Final premium product packshot with chips surrounding the packet
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Cinematic product image
+• Camera angle
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Macro close-ups, controlled camera movement, product tracking shots, extreme texture shots, shallow depth of field, clean hero framing.
+
+STYLE:
+Ultra-realistic food advertising, crispy texture, realistic seasoning particles, studio lighting, glossy packaging, premium commercial photography, natural shadows, high-end brand campaign, 8K.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC luxury lifestyle review of sunglasses and earbuds
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089686478100341051)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [3242](https://imglume.com/prompt/3242)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8621c525-f566-4546-86d9-5d801e820e1f/dbf6276ee9abda2c66dd-imglume-generated "ImgLume-generated example for Ultra-realistic UGC luxury lifestyle review of sunglasses and earbuds")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, jewelry, and overall appearance consistently throughout the video. Change her top to a fitted sleeveless top in Orange and keep it consistent. Use the uploaded sunglasses, earbuds, retail packaging, and carrying cases as locked product references. Preserve exact product shapes, colors, materials, proportions, buttons, lenses, hinges, charging case, and details throughout.Create an ultra-
+realistic UGC luxury lifestyle review filmed inside a modern luxury bedroom during warm golden hour. Use natural window light, soft shadows, realistic skin texture, subtle handheld smartphone movement, shallow depth of field, and premium commercial-quality cinematography.0–5 seconds:The woma
+n sits on the ed
+ge of the bed with the orange product packaging beside her. She looks into the camera, smiles, and says:“Okay, these two have se
+riously upgraded my everyday routine.”5–11 seconds:She picks up the sunglasses, ope
+ns the orange packaging, and slowly reveals them. She rotates the sunglasses toward the camera while saying:“The sunglasses immediately caug
+ht my attention—the finish, the shape, everything feels so premium.”11–18 seconds:She puts on the sungla sses and looks tow
+ard the window, then turns back toward the camera. She says:“They’re lightweight, comfortable, and h
+onestly look even better in natural light.”18–24 seconds:She picks up the earbuds and o
+pens their chargin
+g case. Show a detailed macro shot of the earbuds and case as she says:“And the earbuds are the perfect everyday compan
+ion—small, sleek, and ridiculously easy to carry.”24–30 seconds:She places the sunglasses and earbuds
+
+together beside th
+eir orange packaging, then picks both up and smiles directly at the camera.“If you love accessories that actually look as good as t
+hey perform, these are definitely worth checking out.”End with a slow cinematic push-in toward both products on th
+: ultra-realistic UGC, authentic creator energy, natura
+l expressions, perfect lip sync, realistic hand movements, premium fashion/lifestyle aesthetic, macro product details, accurate reflections, realistic materials, warm golden-hour lighting, handheld smartphone cinematography, 4K HDR, no subtitles, no watermarks, no invented logos, no on-screen text.</code></pre>
+
+</details>
+
+## Photorealistic 12秒垂直穿搭短视频 Prompt (Seedance 2.5)
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2089251003514102060)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3189](https://imglume.com/prompt/3189)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c3525632-a5e8-487f-8c67-d22f9602d566/a2c753f3-5a9e-4a94-a01c-b23f688b2fe4-1786994551468 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【风格】真实穿搭卡点短视频（Photorealistic Fashion Lookbook），节拍匹配剪辑（Beat-Synced Match Cuts），固定手机机位，4K超清，自然皮肤与真实布料质感，无塑料感
+
+【时长】12秒
+
+【比例】9:16竖屏
+
+【场景】简洁室内试衣空间：画面左侧三分之一是浅灰青色竖向半透明窗帘，右侧三分之二是浅米棕色木纹墙板，地面铺深蓝色短绒地毯；柔和均匀的室内顶光与正面补光，无明显硬阴影
+
+【角色】主角 @ ；仅参考人物五官、肤色、发型和身材比例，不继承参考图服装。全片始终是同一人物，脸部、发型、身高和身材完全一致
+
+【全局镜头规则】
+
+固定全身机位（Locked-Off Full Body Shot），标准焦段，人物从头顶到鞋底完整入镜，始终站在画面中央同一个位置；镜头不推拉、不摇移。
+
+所有换装均为踩鼓点的瞬间硬切（Beat-Synced Jump Cut），禁止魔法变装。切换前后头部、肩膀、腰胯和双脚位置精准对齐，只改变服装、配饰和轻微站姿。
+
+人物始终平静、自信地直视镜头；只做插兜、扶包带、轻微歪头、转肩、转换腿部重心等克制动作，不走动、不跳舞。
+
+顶部中央显示两行简洁无衬线标签：英文大字、中文小字；基础文字为白色，具体颜色名称使用对应颜色，并带细小深色阴影。不要底部字幕。
+
+[00:00-00:02.17] 镜头1：第一秒记住配色法则（Hook / Locked-Off Shot）
+
+人物穿黑色无袖高领修身短上衣、深蓝色低腰宽松阔腿牛仔裤、深棕色露趾凉鞋。
+
+00:00-00:00.80：人物以三分之二侧身出现，立即转向镜头并站定，一只手轻触腰侧。
+
+顶部文字：
+
+“remember”
+
+“请记住”
+
+英文女性画外音，不做口型：“Remember,”
+
+00:00.80-00:02.17：人物正面直视镜头，一只手插进口袋，另一只手自然垂下。
+
+顶部文字：
+
+“blue jeans +”
+
+“深蓝色牛仔裤”
+
+画外音继续：“blue jeans go well with”
+
+[00:02.17-00:04.33] 镜头2：深蓝牛仔裤四连搭（Rapid Match Cuts）
+
+同一条深蓝低腰阔腿牛仔裤保持不变，每次换装都在重鼓点瞬间硬切。
+
+00:02.17-00:02.60：切成红色修身短袖纽扣上衣；右手插兜。
+
+顶部：“blue jeans + red / 深蓝牛仔裤＋红色”
+
+画外音：“red,”
+
+00:02.60-00:03.17：切成白色修身图案T恤、黑色鸭舌帽和黑色单肩包；一手扶包带、一手插兜。
+
+顶部：“blue jeans + white / 深蓝牛仔裤＋白色”
+
+画外音：“white,”
+
+00:03.17-00:03.77：切成黑色修身露肩短上衣，胸前是简洁白色抽象字母图案，搭配黑色手提包；肩膀轻微转向镜头。
+
+顶部：“blue jeans + black / 深蓝牛仔裤＋黑色”
+
+画外音：“black,”
+
+00:03.77-00:04.33：切成巧克力棕色修身露肩短上衣和棕色小肩包；一手插兜，身体重心偏向另一条腿。
+
+顶部：“blue jeans + brown / 深蓝牛仔裤＋棕色”
+
+画外音：“and brown.”
+
+[00:04.33-00:08.90] 镜头3：浅蓝牛仔裤柔和彩色搭配（Color Progression）
+
+00:04.33鼓点硬切：裤装换成浅蓝色低腰宽松破洞阔腿牛仔裤，搭配黑色无袖高领修身短上衣和黑色腰带。人物双臂短暂垂下后，一手插兜。
+
+顶部：“light blue jeans + / 浅蓝色牛仔裤”
+
+画外音：“Light blue jeans go well with”
+
+00:05.67-00:06.40：切成婴儿粉色细条纹运动短袖上衣，胸前有白色数字3，搭配白色腰带和黑白运动鞋。
+
+顶部：“light blue jeans + baby pink / 浅蓝牛仔裤＋婴儿粉”
+
+画外音：“baby pink,”
+
+00:06.40-00:07.30：切成奶油黄色与白色细条纹修身T恤，搭配黑色单肩包；一手扶包带、一手插兜。
+
+顶部：“light blue jeans + butter yellow / 浅蓝牛仔裤＋奶油黄”
+
+画外音：“butter yellow,”
+
+00:07.30-00:08.27：切成低饱和湖蓝色修身图案T恤，领口和袖口带浅色滚边；人物轻微歪头。
+
+顶部：“light blue jeans + turquoise / 浅蓝牛仔裤＋湖蓝色”
+
+画外音：“turquoise,”
+
+00:08.27-00:08.90：切成米色修身图案T恤和棕色棒球帽；一手插兜，帽檐略微压低。
+
+顶部：“light blue jeans + beige / 浅蓝牛仔裤＋米色”
+
+画外音：“and beige.”
+
+[00:08.90-00:12.00] 镜头4：白色牛仔裤压轴三连（Final Color Hits）
+
+00:08.90鼓点硬切：裤装换成白色低腰宽松阔腿牛仔裤，搭配黑色无袖高领修身短上衣和深棕色露趾凉鞋。人物正面站定，手臂自然垂下。
+
+顶部：“white jeans + / 白色牛仔裤”
+
+画外音：“White jeans go well with”
+
+00:10.07-00:10.67：切成蓝白色细格纹长袖衬衫，袖口卷到手肘，搭配黑色单肩包；一手扶包、一手插兜。
+
+顶部：“white jeans + blue / 白色牛仔裤＋蓝色”
+
+画外音：“blue,”
+
+00:10.67-00:11.30：切成纯藏蓝色修身短袖上衣；人物轻微转换腰胯重心，目光保持平静。
+
+顶部：“white jeans + navy / 白色牛仔裤＋藏蓝色”
+
+画外音：“navy,”
+
+00:11.30-00:12.00：最后一个重鼓点切成酒红色方领无袖修身上衣，面料带细小白色波点，搭配酒红色腰带；人物右手插兜，抬起下巴直视镜头，最后0.3秒保持定格（Final Hold）。
+
+顶部：“white jeans + red / 白色牛仔裤＋红色”
+
+画外音：“and red.”
+
+音乐在最后一个鼓点干净收束，画面直接切黑。
+
+【声音】
+
+轻快时尚电子流行音乐（Upbeat Fashion Pop），鼓点清晰，每一次服装硬切精准落在重拍上。
+
+女性英文画外音清晰、自然、稍快；不做人物口型，不使用中文朗读，不保留环境杂音。
+
+【真实质感】
+
+真实手机固定机位拍摄；人物皮肤保留自然纹理，发丝清晰；牛仔面料具有真实厚度、洗水纹理、破洞毛边和重力垂坠；衣物、包带、腰带、帽子和鞋子与身体正确接触。
+
+【负面约束】
+
+不要其他人物、分身、换脸、五官漂移、年龄变化、发型变化、身材变化；不要人物站位漂移、背景跳动、镜头运动、推拉摇移、裁掉头部或鞋子；不要衣服融化、生长、穿模、叠穿残留，不要烟雾、闪光、旋转、遮挡或魔法转场；不要包带粘连、帽子漂浮、腰带扭曲、鞋子跳变、手脚畸形、多余肢体；不要卡通感、动漫感、塑料皮肤、过度磨皮、夸张表情或舞蹈；不要底部字幕、中文画外音、乱码文字、错误颜色标签、水印和无关品牌标志。</code></pre>
+
+</details>
 
 ## High-end KIKO Milano lip gloss cinematic commercial
 

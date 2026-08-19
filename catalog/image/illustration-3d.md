@@ -1,9 +1,58 @@
 # Illustration 3d image prompts
 
-47 source-linked prompts, newest ImgLume records first.
+48 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium vertical travel poster of \[CITY\] unpacking from a travel box
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089239757826200041)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`
+- **ImgLume record:** [3169](https://imglume.com/prompt/3169)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/0ce672f9-5257-4927-b0da-e5bfa73fc5c4-1786993732021 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/06a1fcd6-6c9b-4eb3-9365-53f1a246ef9c-1786993732021 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/251f1c5a-f9f1-4b47-b4db-2b1acb762966-1786993732021 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/0a1deb83-8e30-4cd7-bcdc-5209bff466b1-1786993732021 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical artistic travel poster for [CITY], [COUNTRY], based on the concept “UNPACKING THE CITY.”
+
+Show a beautifully designed vintage travel trunk or open cardboard travel box placed in the center of the composition. The box is open, and instead of ordinary luggage, the entire identity of [CITY] is being unpacked from inside it.
+
+A miniature three-dimensional version of the city rises naturally from the box in layers, as if the destination has been carefully packed for a traveler.
+
+Inside and emerging from the box, include recognizable elements of [CITY]:
+
+Iconic landmark: [LANDMARK]
+Second architectural element: [LANDMARK 2]
+Local transportation: [TRANSPORT]
+Traditional/cultural element: [CULTURAL ELEMENT]
+Local food: [FOOD]
+Natural feature: [NATURE]
+Small street details: cafés, signs, lamps, trees, pedestrians and tiny vehicles
+
+Make the objects appear to be physically packed inside the box and spilling outward. Some buildings should rise vertically from the box, while tiny streets unfold across the packing paper. A miniature river or road can flow from the box onto the surface beneath it.
+
+Add vintage travel stickers, luggage tags, postage stamps, handwritten destination notes, passport-style markings and small labels around the box, but keep them tasteful and uncluttered.
+
+The main city name “[CITY]” should appear prominently on the front of the suitcase/box as elegant vintage typography. Add a smaller phrase underneath:
+
+“TAKE A PIECE OF THE CITY WITH YOU”
+
+Use a sophisticated palette inspired by vintage travel posters: warm cream paper, faded terracotta, muted blue, olive green, dusty red and golden yellow, with subtle aged-paper texture.
+
+Lighting should feel warm and cinematic, with soft shadows beneath the box and realistic depth between every paper layer. Combine premium editorial travel poster design + miniature paper diorama + vintage luggage aesthetics.
+
+The composition should feel like a collectible travel-art print — nostalgic, imaginative, sophisticated and highly detailed.
+
+Avoid generic tourist-poster layouts. Avoid simply placing landmarks next to each other. The key visual idea must remain: the city is literally being unpacked from a travel box.
+
+Clean 4:5 vertical composition, strong visual hierarchy, tactile paper textures, miniature architecture, layered depth, elegant typography, subtle grain, premium art direction, highly polished illustration.</code></pre>
+
+</details>
 
 ## Handmade Miniature Diorama of Japan
 

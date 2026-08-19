@@ -1,9 +1,330 @@
 # Animation video prompts
 
-83 source-linked prompts, newest ImgLume records first.
+93 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## KAGERO – The Wandering Blade Cinematic 2.5D Animation
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2089556197154373645)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3250](https://imglume.com/prompt/3250)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9a21918d-10a7-4de1-a433-0c7211e02ce2/6fe4c527-9c63-4548-960c-7ed19a54b32c-1787067400154 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9a21918d-10a7-4de1-a433-0c7211e02ce2/1aded086-ab0f-4b2b-aaab-263ce1d35b78-1787067400154 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9a21918d-10a7-4de1-a433-0c7211e02ce2/e25f69e9-1bcc-4a7c-87fc-13446dfff47b-1787067400154 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 2.5D animation with hard-edged light shapes, matte finish, soft filmic volumetric lighting, shallow depth of field. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin.
+
+WORLD: a narrow bamboo forest path at dusk, thin mist low to the ground, palette of deep indigo-green bamboo and charcoal-grey mist with one accent — frost-violet blade energy — volumetric god rays cutting through the canopy, drifting bamboo leaves.
+
+CHARACTER: @[Image1] a tall slim adult woman with dark hair in a high tight topknot and a thin scar through one eyebrow, wearing an asymmetric off-shoulder deep indigo-black wrap top, voluminous pleated burgundy wide-leg trousers, a wide charcoal obi-style sash, fingerless wrapped gauntlets, dark tabi-style boots, and a sheathed katana with a pale violet cord wrap, elongated stylized proportions, painterly matte skin with brush-stroke shading. Surrounded by several ragged bandit ambushers in torn brown wraps and improvised weapons — visually consistent but anonymous, no individual detail needed.
+
+CINEMATIC SHOT DESIGN (10 Filmic Cuts with Expressions, 20s total):
+- SHOT 1 (0–2s | Macro Detail): Close-up on Kagero's hand resting on the katana's hilt, wind stirring the bamboo leaves around her, still and quiet.
+- SHOT 2 (2–4s | Wide Threat Reveal): Wide shot — she stands motionless on the path as several bandit silhouettes emerge from the mist on both sides, encircling her.
+- SHOT 3 (4–5s | Reaction): Close-up on her eyes narrowing slightly, calm, unafraid.
+- SHOT 4 (5–7s | Wide Low-Angle Clash): The first bandit lunges; she draws and cuts him down in one fluid motion faster than the eye can track, a streak of frost-violet light trailing the blade.
+- SHOT 5 (7–8s | Reaction): Macro close-up of a second bandit's eyes going wide in shock.
+- SHOT 6 (8–10s | Dynamic Tracking): She pivots low, the blade sweeping through two more attackers in one continuous arc, her sash and loose hair whipping with momentum.
+- SHOT 7 (10–12s | Medium Clash/Tension): She catches a heavier strike from the largest bandit, sparks flashing off crossed blades, held a beat — real physical resistance, not an easy win.
+- SHOT 8 (12–13s | Reaction): Quick close-up, her expression hardens for a fraction of a second.
+- SHOT 9 (13–17s | Wide Cinematic Climax): She spins through the remaining bandits in one continuous fluid motion, the katana now fully wreathed in frost-violet spirit energy, cutting a wide circular arc as the last attackers fall.
+- SHOT 10 (17–20s | Heroic Landing/Poster Frame): Low-angle hero shot — she stands still in the settling mist, katana lowered, the frost-violet glow fading from the blade, bamboo leaves drifting down around her, one slow exhale. Hold.
+Weighty natural character animation, cloth and hair reacting to momentum, filmic 24fps shutter, shallow depth of field. NOT flat 2D cartoon, no bold outlines, no cel shading, not glossy CGI, not Unreal Engine, no photorealism.</code></pre>
+
+</details>
+
+## Neo-Seoul Overdrive: 30-Second Mecha Transformation
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2089600312243806314)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3227](https://imglume.com/prompt/3227)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7114f7ac-8291-4b6a-a799-e592369048e8/b2371445-cbe3-443a-8bbc-07fd6b23c0f4-1787051124077 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 30-second horizontal 16:9 original high-budget transformation mecha anime video from the provided first frame.
+
+CRITICAL ENTITY LOCK:
+There must be exactly 2 main entities in the entire video: HYPERION-01 (crimson hypercar to red/cyan mecha) and OBSIDIAN-X (matte-black supercar to black/crimson mecha).
+Do not add extra vehicles, civilian cars, secondary mechas, or human pedestrians.
+Maintain strict visual consistency for both entities in both their vehicle and mecha forms throughout all cuts.
+
+Entity Identity:
+HYPERION-01: Crimson-red vehicle transforming into a 6-meter broad-shouldered mecha, cyan visor, forearm kinetic cannons, back thrusters.
+OBSIDIAN-X: Matte-black vehicle transforming into a 6-meter agile mecha, crimson visor, forearm energy blades, calf thrusters.
+
+Video Style:
+High-budget Japanese anime feature film quality, modern mecha sakuga, rain-slicked Neo-Seoul boulevard at midnight with vibrant Korean hangul neon reflections, fluid mechanical transformation physics, high-contrast neon lighting.
+
+Camera and Pacing (30s Architecture):
+0.0s - 6.0s: Fast tracking camera following both vehicles speeding toward each other on wet asphalt.
+6.0s - 12.0s: Dynamic low-angle rotation tracking mid-motion transformation as body panels shift and wheels fold while maintaining forward velocity.
+12.0s - 20.0s: Rapid kinetic tracking as both mechas engage in close-quarters mechanical combat along the boulevard.
+20.0s - 25.0s: DRAMATIC SLOW-MOTION TIME-DILATION (120FPS): Time slows to a crawl during a mid-air fist impact; rain droplets, carbon shards, and sparks hover frozen around their visors.
+25.0s - 30.0s: Explosive snap back to full velocity with a shockwave detonation, ending on a high-impact standoff freeze.
+
+Action Timing:
+0.0s - 6.0s:
+HYPERION-01 and OBSIDIAN-X speed down a wet Gangnam boulevard toward each other. Rain sprays from tires; cyan and crimson underglow lights reflect off wet asphalt.
+
+6.0s - 12.0s:
+While moving at top speed, both vehicles begin mid-motion transformations. Panels deploy, wheels shift into leg assemblies, hoods form chest armors, and optic visors ignite. They rise into upright mecha forms without losing forward momentum.
+
+12.0s - 20.0s:
+The mechas collide in fast physical combat. OBSIDIAN-X deploys forearm energy blades; HYPERION-01 deflects the strikes with kinetic arm guards. Asphalt shatters under their footsteps, sending sparks and water spraying into the air.
+
+20.0s - 25.0s:
+SLOW-MOTION IMPACT PEAK (120FPS): Both mechas launch a simultaneous heavy fist strike. Fists connect in mid-air. Time dilates to an absolute crawl. Individual rain droplets, flying carbon fiber fragments, and glowing energy sparks freeze motionless around HYPERION-01's cyan visor and OBSIDIAN-X's crimson visor.
+
+25.0s - 30.0s:
+REAL-TIME SNAP BACK: Kinetic energy detonates with an explosive shockwave, clearing the rain in a 360-degree circle. Both mechas slide backward, landing in grounded, ready combat stances as neon signs reflect off their armor. Final cinematic freeze frame.
+
+Motion Quality:
+Fluid 2D animation, realistic liquid rain and surface reflection physics, precise mechanical panel shifting, 120fps slow-motion suspended particle rendering, zero clipping or mesh distortion.
+
+Environment:
+Neo-Seoul Gangnam boulevard at night, wet asphalt, glowing Korean hangul neon signs, glass skyscrapers, street steam, rain clouds.
+
+Final Output:
+30 seconds, horizontal 16:9, original high-budget transformation mecha anime, exactly 2 main entities, 120fps slow-motion peak, no subtitles, no watermarks, no logos.</code></pre>
+
+</details>
+
+## First-person POV blue pencil transforms live-action urban scene into hand-drawn animation
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2089556355384512991)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3226](https://imglume.com/prompt/3226)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57b398bd-05a3-4b6f-9e0e-c285e0c5c80c/c6ee3b64-b079-4894-a706-6af0ba065c58-1787051088207 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Cinematic live-action seamlessly blended with 2D hand-drawn line-art animation, using a playful rotoscoping-inspired transformation effect.
+
+Visual Direction:
+First-person POV throughout. A hand holding a blue pencil appears at the bottom of the frame, seemingly tracing over real-world objects. Wherever the pencil moves, the live-action environment gradually transforms into expressive 2D illustrations.
+
+Scene Transitions &amp; Subjects:
+
+- Train: A white-and-green train travels across an elevated urban overpass. As the blue pencil traces along it, the train smoothly converts into clean black-and-white sketch line art, while retaining its movement and perspective.
+- Cat: An orange tabby cat casually walks along a paved sidewalk. The pencil follows its movement, transforming the cat into a white hand-drawn cartoon with stylized illustrated shadows.
+- Bus: A light-colored compact bus drives through the street. As it passes beneath the pencil’s tracing path, it morphs into a colorful pastel illustration with loose, artistic hand-drawn outlines.
+- Girl: A woman sits naturally on a bench in a narrow urban alley, looking at her phone. The pencil traces around her and the surroundings, seamlessly turning the scene into a stylized 2D color-block illustration.
+
+Tone &amp; Atmosphere: Bright natural daylight, contemporary urban environment, playful and whimsical mood, fluid camera movement, dynamic transformations, and seamless transitions between realistic footage and hand-drawn animation.
+
+Overall Effect: The video should feel as though the blue pencil is literally drawing reality into an animated world, with each subject transforming organically rather than appearing as a sudden cut or visual effect.</code></pre>
+
+</details>
+
+## Nostalgic cinematic anime memory sequence of a man in a rainy room
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2089580144310833159)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3225](https://imglume.com/prompt/3225)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6349cd5-786b-4492-a310-99f597d3fbd0/3c6e315f-0baf-421f-ab39-05feca883b14-1787051073204 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>STYLE:
+Cinematic emotional anime, hand-drawn anime aesthetics blended with detailed modern anime cinematography, subtle film grain, soft painterly backgrounds, realistic lighting, deep shadows, emotional facial expressions. Maintain the same character design, hairstyle, outfit and room throughout.
+
+CHARACTER:
+A young man sits alone in a vintage black leather armchair late at night, wearing a slightly loose white shirt, loosened black tie and dark trousers. He looks calm but emotionally distant, slowly staring toward the rainy window as memories from his childhood begin to surface.
+
+CAMERA:
+Start with a slow cinematic push-in from behind the character, revealing the rainy city outside the window. Cut to a close-up of his eyes as they become slightly emotional. Slowly orbit around him while smoke from the cigarette drifts through the warm light. Use shallow depth of field, gentle handheld movement and slow, smooth camera transitions.
+
+STORY / MEMORY SEQUENCE:
+As he looks into the rain, the room gradually fades into memories.
+
+1. CHILDHOOD — A small version of him running through his old neighborhood, laughing with childhood friends, sunlight glowing through the trees.
+
+2. SCHOOL YEARS — Sitting at a classroom desk, writing in a notebook, exchanging smiles with friends, walking home with a school bag under the evening sky.
+
+3. TEENAGE YEARS — Riding a bicycle through familiar streets, watching sunsets, dreaming about his future, moments of friendship and youthful freedom.
+
+4. GROWING UP — First serious responsibilities, long nights studying and working, failures, loneliness, silently wiping away tears and continuing forward.
+
+5. PRESENT DAY — The memories dissolve back into the same dark room. He is sitting exactly where he started. He looks toward the window, gives a very subtle nostalgic smile, takes a slow breath and lowers his cigarette.
+
+LIGHTING:
+Present-day room: warm amber lamp light against cool blue moonlight coming through the rainy window.
+Memories: progressively warmer and brighter lighting, golden sunlight and soft nostalgic glow.
+Transition back to present: colors slowly desaturate and become darker.
+
+VISUAL TRANSITIONS:
+Use reflections in the rainy window to transition between different stages of his life. Childhood reflection morphs into teenage reflection, then adult reflection, finally returning to his present face.
+
+ENDING:
+Camera slowly pulls backward from the character, revealing the entire quiet room and rainy city outside. The character remains still while the smoke slowly disappears into the darkness.
+
+MOOD:
+Nostalgic, emotional, bittersweet, peaceful, reflective — not overly sad. The feeling should be: “I’ve come a long way.”
+
+DURATION:
+15–20 seconds, cinematic pacing, smooth transitions, no sudden cuts, strong emotional storytelling.</code></pre>
+
+</details>
+
+## Highly dynamic 30‑second bright anime scene with river adventure
+
+- **Original source:** [@mrdejie on X](https://x.com/mrdejie/status/2089612021130235910)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`
+- **ImgLume record:** [3224](https://imglume.com/prompt/3224)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8d5eb7fc-cd81-4d4e-9df1-51b5856bc921/75c61f0f-b512-4846-bde3-6558b8cffd95-1787051053384 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly dynamic 30-second 2D anime scene in a bright, cheerful modern anime illustration style. Style requirements: bold clean black outlines, flat colors with very minimal shading, soft rounded character designs, bright vibrant colors, simple but highly expressive poses, clean modern anime look.
+Dynamic camera movements throughout. Smooth transitions between shots. No dialogue. Bright and joyful atmosphere.
+0–7s (Shot 1 – Wide to Close):Wide angle shot of a bright sunny river valley with lush green surroundings. A soft-rounded anime boy happily lifts his pet (same size as him) into his arms. He runs and jumps into the river with his pet. They both slide down the flowing river with big joyful expressions. Camera starts wide showing the full environment, then smoothly pushes in to focus on their happy faces as they slide.
+7–12s (Shot 2 – River POV):Camera switches to first-person point of view as if from their eyes. Fast, dynamic movement through the river. Water splashing, bright sunlight reflecting, the river rushing forward. Exciting and energetic camera motion.
+12–16s (Shot 3 – Mid-air):They reach the end of the river and are launched mid-air into the open ocean, still looking extremely happy. Camera quickly focuses on an extreme close-up of the boy’s eyes only.
+16–24s (Shot 4 – Underwater POV):Camera switches to first-person point of view (the boy’s eyes act as the camera). Bright, colorful underwater scene is revealed. A friendly dolphin, an octopus, a seahorse, and a stingray swim around him playfully in the clear ocean water. The camera looks around at each creature with wonder and joy.
+24–30s (Shot 5 – Surface &amp; Sky):The boy and his pet surface from the water. The pet is happily piggybacking on the boy’s back. Half of their bodies are still submerged. They laugh with pure joy. Cute underwater creatures also surface around them, looking just as happy. Camera slowly tilts upward and moves toward the bright blue sky, ending on a wide, cheerful sky shot.
+Style notes:Clean bold black line art, flat bright colors, soft rounded designs, minimal shading, highly expressive happy faces, dynamic and fluid camera movement throughout. Keep the energy fun, light, and full of joy.</code></pre>
+
+</details>
+
+## Cute cinematic 14-second 2D anime-style video of children flying a kite
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2089563357074559014)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3217](https://imglume.com/prompt/3217)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/405118f2-e877-4a77-a940-6efa9e30a1c2/ac550744-31b1-4b2a-9839-2d88721929f3-1787043409946 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute cinematic 14-second 2D anime-style video featuring two completely new child characters in a sunny park: a girl with long dark-brown hair, expressive brown eyes, a pink dress, white socks and pink shoes, and a boy with messy black hair, dark eyes, a blue hoodie, black shorts and white sneakers. Keep their new faces, hairstyles, outfits and proportions consistent. They happily fly a bright orange-red kite through the colorful park until a strong breeze sends it into a tall tree. The boy uses a fallen branch to free the kite while the girl helps, and they catch it together with happy smiles before running through the park and flying it again in warm golden sunlight. Use beautiful Japanese anime-inspired 2D animation, clean line art, expressive eyes, soft cel shading, vibrant colors, detailed backgrounds, smooth movement, cinematic lighting and natural wind effects. No face changes, character redesign, extra characters, duplicates, distorted faces or hands, flickering, photorealism, 3D style, text, logo or watermark. smooth cinematic anime animation.</code></pre>
+
+</details>
+
+## Cute cinematic 14-second 3D cartoon of a woman and boy chasing a butterfly in a park
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2089559741718548578)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3215](https://imglume.com/prompt/3215)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e5a0e32a-e922-4a15-96a6-f1d669ec0180/457980ae-4f32-4043-a2b2-0eff093c7654-1787043378145 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute cinematic 14-second 3D cartoon using the two reference characters, keeping their faces, hairstyles, clothes and appearance consistent. A young woman in a pink outfit walks through a sunny green park with a cute blonde little boy in a dinosaur T-shirt. The boy notices a colorful butterfly, points excitedly, and they happily follow it through the flowers. The boy picks a small flower and gives it to the woman, and she smiles and gently hugs him. Use smooth expressive animation, soft cinematic lighting, vibrant colors, detailed park scenery, natural camera movement and a warm family-friendly atmosphere. No character changes, face distortion, extra characters, outfit changes, flickering, deformed hands, text or watermark. 16:9 vertical, high-quality cinematic 3D animation.</code></pre>
+
+</details>
+
+## Live-action and hand-drawn 2D animation hybrid POV sequence
+
+- **Original source:** [@CharaspowerAI on X](https://x.com/CharaspowerAI/status/2089366776404402212)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`
+- **ImgLume record:** [3213](https://imglume.com/prompt/3213)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e899398c-5e14-4f40-bfca-5879028696bc/e9962088-b6e3-46cf-9691-749054aee744-1787043352799 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>POV sequence in an original live-action and hand-drawn 2D animation hybrid world. The entire scene is filmed from first-person perspective with smooth handheld movement, quick pans and playful reframing. Real environments use natural lighting and realistic shadows; animated characters use bold ink outlines, flat colors, elastic motion and expressive cartoon timing. Retro urban comedy, fully original design, no recognizable characters, no studio references.
+
+A fictional old-fashioned city street leading into a colorful entertainment hall, then a narrow backstage corridor and exterior alley.
+
+0-5s: POV moves through a lively street. Real pedestrians walk normally while small abstract cartoon creatures bounce between signs, stretch across doorways and leave hand-drawn motion trails.
+
+5-10s: POV enters the hall. A tiny animated server slides across a real counter carrying wobbling drinks, spins once, waves at camera and disappears behind a curtain.
+
+10-16s: POV turns toward a live performer on stage while animated musicians play around them. One cartoon instrument stretches toward the lens, curls into a spiral, then snaps gently back into place.
+
+16-22s: POV backs away as playful animated chaos spreads through the room: drawn paper shapes float, a cartoon character flattens under a door, another leaves a cloud of sketched stars. Real people remain completely serious.
+
+22-27s: POV moves quickly down the corridor while a small animated guide runs beside camera and says in English: “Keep moving. The drawings are improvising again.”
+
+27-30s: POV exits into the alley. A huge inflatable cartoon prop swings past the lens, bounces harmlessly off a trash bin and launches colorful drawn stars into the air. End on a playful freeze-frame.</code></pre>
+
+</details>
+
+## High-speed martial arts animation in Seedance 2.5
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2089582697815683568)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3207](https://imglume.com/prompt/3207)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a5f70288-899e-4269-930f-5ede2dafa4c7/0fe92be1-4876-4d50-b7d0-180a4ee6e61f-1787043174829 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>shading, cinematic light-dark relationships, with localized fusion of ink splash and flying white, high-speed brushes, smear frames, airbrush scratches, and exaggerated yet logically consistent high-speed afterimages for motion. Not xianxia, not a showcase of game skills—core focus is realistic martial arts pursuit under extreme speed disparities.
+
+Scene: The "Cloudbreak Temple" at dusk right after a heavy rain stops—a massive abandoned ancient temple amid cliffs and mountains, featuring a three-story wooden main hall, deep brown massive wooden pillars, bluish-black wet tiles, half-collapsed corridors, stone courtyards, bell tower, broken railings, cliffside stone bridges, ancient pines, and tattered prayer flags. Western dark clouds split open to reveal an orange-red sunset, with warm golden slanting light piercing into the cold bluish-gray temple grounds; damp stone slabs and tile surfaces reflect characters and effects, while mist, dust, falling leaves, and broken tiles float in the air.
+
+Character A: White-haired wandering swordsman "Bai Jin," adult male, lean and wiry build, silver-white long hair, black narrow-sleeved crossover martial robe, deep black short jacket, dark red waist sash, black bound-leg pants and lightweight martial boots, with faint dark purple vein-like patterns on the side of his neck and chest. Combat abilities: extreme high-speed lightness skill "Purple Lightning Dragon Step," meridian-severing palm strikes, heavy leg technique "Cloud-Cleaving Mountain Breaker." Purple effects solely represent high-speed movement, not energy attacks.
+
+Character B: Black-robed swordsman "Shen Yan," adult male, black disheveled medium-long hair, ink-black and deep gray narrow-sleeved combat attire, gray-black short cloak, long sword in a deep black scabbard at the waist. Skilled in concealed-blade swordsmanship and tile-stepping footwork reliant on judgment, but speed clearly far inferior to Bai Jin. Throughout the first half, he's constantly suppressed.
+
+0.0–1.0 seconds:
+Action kicks off right in the first second. 20mm ultra-wide ground-level low-angle shot, camera nearly hugging the wet bluish stone ground. Bai Jin dominates the huge foreground, one black martial boot looming enormous due to perspective, body crouched low almost skimming the ground, while dozens of meters away in the distance, Shen Yan stands in the stone courtyard before the main hall. Bai Jin suddenly kicks off explosively, cracking the stone slab beneath into a spiderweb pattern, pooled water blasting backward into a fan-shaped spray, long hair and robe hem fully trailing straight back. Camera immediately follows tight on his body, wooden pillars, stone steps, prayer flags, and eaves streaking into high-speed lines along the motion path. Bai Jin enters "Purple Lightning Dragon Step," forming a continuous high-speed trajectory of bright white-purple core, deep purple body, magenta edges, and minimal greenish color fringing.
+
+1.0–2.5 seconds:
+Bai Jin streaks at high speed into the stone courtyard but holds off on attacking right away. He first flashes past Shen Yan's left side, leaving a black human afterimage, white air trail, and sliced-through pooled water from the airflow; in the next instant, he whips around a massive wooden pillar from the right rear. Shen Yan whips his head around quickly searching for the target, hand already on the hilt but not swinging wildly. Camera suddenly pushes in tight on Shen Yan's eyes, pupils first scanning left, then snapping sharply right. In the next frame, Bai Jin cuts in from the side-rear. Bai Jin uses two aligned finger joints to swiftly brush aside Shen Yan's raised scabbard, then immediately follows with a palm root burst from point-blank range, slamming heavily into Shen Yan's face side. Contact must be crystal clear: cheek compresses first, head twists off-axis, hair and rainwater whip to the other side,</code></pre>
+
+</details>
+
+## Cinematic 30-second fantasy adventure with live-action to stylized 3D animation transformation
+
+- **Original source:** [@SaniAiTech on X](https://x.com/SaniAiTech/status/2089238223751192679)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3181](https://imglume.com/prompt/3181)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1e5c5957-d861-4ed2-8f02-8dd6ffd3bf58/2d20b7b3-b3df-4d9f-98a8-4004ce68be00-1786994197117 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>“Create a cinematic 30-second fantasy adventure with a clear visual transformation from live action to stylized 3D animation. The video begins in a photorealistic forest at golden hour, where a young man collecting mushrooms discovers a glowing magical mushroom. He touches it and gets pulled into a magical vortex, transforming into a stylized 3D animated character in an enchanted fantasy world.
+
+A tiny winged fairy finds him and takes him flying through gigantic trees, glowing mushrooms, waterfalls, floating islands and magical valleys. She gets distracted by the beautiful scenery and forgets to take him to the elder.
+
+End with them sitting on a giant ancient tree branch at sunset as glowing particles fill the sky, while the camera slowly pulls back to reveal the vast magical world.
+
+Style: cinematic stylized 3D animation, premium animated feature film quality, vibrant colors, expressive characters, dynamic camera movement, cinematic lighting, detailed fantasy environments, playful comedy, magical atmosphere, polished 4K animation.”</code></pre>
+
+</details>
 
 ## Sun-Drenched Sakuga: Cyber-Desert Duel – Video Prompt
 

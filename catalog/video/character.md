@@ -1,9 +1,160 @@
 # Character video prompts
 
-83 source-linked prompts, newest ImgLume records first.
+87 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15-sec Seedance prompt — 5 shots
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2089683226696577531)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3249](https://imglume.com/prompt/3249)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8cdcaafb-cadf-4bb1-ac32-33c3f96e8dbd/1b74d31b-e079-4b1b-8ab4-71749c159796-1787067171140 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-sec Seedance prompt — 5 shots
+
+Character/style: Young Korean woman, 24, naturally attractive, realistic skin, long dark hair loosely tied back, minimal makeup. Loose cream cardigan, white T-shirt, blue jeans, and silver necklace. Cozy Seoul apartment, warm natural light. Preserve exact identity, outfit, hairstyle, and facial features across all shots. Authentic early-2000s MiniDV: 4:3, handheld shake, slight autofocus hunting, tape grain/compression, imperfect exposure, natural motion. No cinematic polish.
+
+SHOT 1 — 0:00–0:03
+Wide MiniDV shot. She walks into frame, notices the camera, fixes her hair and cardigan, then looks into the lens with a shy smile and prepares to pose.
+SHOT 2 — 0:03–0:06
+Cut closer. She poses deliberately for a photo, tilting her head and smiling sweetly. After a moment, she struggles to keep a straight face and looks away.
+
+SHOT 3 — 0:06–0:09
+Different handheld angle. She tries to compose herself, presses her lips together, then accidentally lets out a tiny laugh. She looks down, embarrassed.
+SHOT 4 — 0:09–0:12
+Cut back wider. She makes one final serious pose, holds it for half a second, then completely bursts out laughing. She covers her mouth and bends forward slightly.
+
+SHOT 5 — 0:12–0:15
+Closer shot. Still laughing, she shakes her head and gives up posing. She smiles directly at the camera, walks toward it, and reaches for the lens. Her hand covers the camera.
+CUT TO BLACK at 15 seconds. Keep the laughter spontaneous and natural, with consistent character appearance throughout.</code></pre>
+
+</details>
+
+## 30-second photorealistic survival short film – Canadian winter rescue
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2089598644177580260)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3233](https://imglume.com/prompt/3233)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2d65c3d2-e8cb-415a-b8d7-00b2c88327ec/aca9b68e-b5f3-4ffb-a996-a2c045c1e488-1787054768135 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second photorealistic survival short film, 4K UHD, 24fps, realistic Canadian winter environment, fast-paced live-action, natural physics, intense but believable
+
+TIME: 3:18 PM–3:48 PM, late winter afternoon, rapidly fading daylight
+
+LOCATION: Frozen lake near a small Canadian town, snow-covered forest, ice-fishing shelters, parked pickup trucks
+
+CHARACTERS: Father, 39, heavy winter jacket; son, 10, red winter coat; nearby fisherman, 55
+
+STORY: A child falls through thin ice, and his father must reach him before the broken ice spreads farther.
+
+00:00–00:03 → Father and son walk across the frozen lake carrying a small sled. The boy runs several steps ahead.
+
+00:03–00:06 → A sharp crack travels beneath the snow. The boy stops. The surface suddenly collapses and he drops waist-deep into freezing water.
+
+00:06–00:09 → Father throws himself flat onto the ice instead of running toward him. A nearby fisherman immediately grabs a rope from his truck.
+
+00:09–00:12 → Father crawls forward, spreading his weight across the ice. The boy grabs the edge while water splashes around his jacket.
+
+00:12–00:16 → The fisherman anchors the rope around the truck and throws the other end toward the father. The ice cracks farther behind them.
+
+00:16–00:20 → Father reaches the boy, wraps one arm around his chest and pushes the rope beneath his arms.
+
+00:20–00:24 → Fisherman and father pull together. The boy slides onto solid ice while chunks break away behind him.
+
+00:24–00:27 → Father immediately removes his own jacket and wraps it around the boy. The fisherman drags the sled closer.
+
+00:27–00:30 → They place the boy on the sled and pull him toward shore. He reaches out and grabs his father's hand as the camera cuts wide to the dangerous cracked ice behind them.
+
+CAMERA: Handheld rescue-documentary style. Fast ground-level tracking, close shots during physical interaction, low angle near the ice, quick camera repositioning with the rescuers, no slow motion.
+
+PHYSICS: Ice cracks propagate irregularly. Human weight is distributed by crawling flat. Water splashes naturally around the submerged body. Rope becomes taut before pulling. Sled slides with realistic friction over packed snow.
+
+ENVIRONMENT MOTION: Snow blowing across the lake, bare branches moving in wind, ice fragments floating, visible breath condensation, clothing reacting to movement.
+
+LIGHTING: Cold natural winter daylight with long shadows. Reflective snow creates realistic ambient fill.
+
+AUDIO: Ice cracking, water splashing, shouting, rope tension, boots scraping snow, wind, heavy breathing, sled runners.
+
+REALISM: No impossible rescue strength, no exaggerated ice explosions, no instant recovery. Characters show cold, fear and physical exhaustion through natural behavior.</code></pre>
+
+</details>
+
+## Ultra-realistic K-pop idol backstage vlog
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089573400771793289)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3216](https://imglume.com/prompt/3216)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eb7d1078-0569-4163-8c22-7ca93103edb0/7f89ffc5-60ae-4449-bccd-1fe7030aa3bb-1787043394678 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, pastel rainbow-striped cropped knit top and matching high-waisted shorts, white socks, pastel sneakers, pearl earrings, silver necklace, and lavender hair clips consistently throughout.
+
+Create a 15-second ultra-realistic K-pop idol backstage vlog inside a bright, cozy dressing room with warm vanity lights, pastel costumes, makeup stations, flowers, snacks, and a cream sofa. Natural handheld smartphone cinematography, authentic selfie movement, subtle autofocus shifts, realistic expressions, soft daylight, cozy pastel color grading, photorealistic 4K,
+
+0–3s: She holds her lavender phone in selfie mode, smiles warmly and walks around the dressing room. She lifts her iced coffee toward the camera and says, “Hi! I finally have a little coffee break.”
+
+3–5s: Close-up as she takes a refreshing sip through the lavender straw, then smiles with genuine satisfaction. Ice and condensation move naturally inside the cup.
+
+5–7s: She points the phone toward a table filled with colorful Korean snacks, then picks up two packets and holds them beside her face playfully. She says, “These are my backstage favorites.”
+
+7–9s: Macro shot of her hands placing a small pastel bunny sticker onto the clear coffee cup. She rotates the cup toward the camera and smiles proudly. “Cute, right?”
+
+9–12s: She sits on the sofa scrolling through fan comments. Suddenly she reads something funny and bursts into genuine laughter, covering her cheek while the handheld camera tilts naturally.
+
+12–15s: An off-screen staff member calls, “It’s almost time!” She quickly finishes her drink, stands up, grabs her phone, gives the camera a finger heart and waves while walking toward the rehearsal hallway. She smiles and says, “Bye! See you after rehearsal!”
+
+Maintain perfect character, outfit, phone, coffee cup, sticker, hairstyle, and environment continuity. Natural Korean idol energy, candid vlog feeling, realistic handheld movement, expressive facial acting, smooth transitions, believable lip-sync.
+
+Negative prompt: No subtitles, captions, logos, watermarks, text overlays, duplicate people, facial changes, identity drift, outfit changes, extra fingers, distorted hands, flickering, CGI appearance, unnatural movements, or inconsistent props.</code></pre>
+
+</details>
+
+## Photorealistic live-action sci-fi action thriller with pink smiling rockets
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089548115489775772)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3210](https://imglume.com/prompt/3210)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2faea810-f70c-4df5-b5b3-2f264dfaebda/70e23974-53c4-4fce-9d35-9041115651e7-1787043297221 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic live-action sci-fi action thriller, cinematic anamorphic look, clear daylight, realistic physics, subtle film grain, epic war-film composition.
+
+Pink smiling rockets: pastel-pink metallic cylindrical body, rounded nose, cream-pink panels, small curved fins, silver nozzle, crescent smiling eyes, eyelashes, pink cheeks and cheerful open smile with small white teeth. Fixed face, no blinking or expression changes.
+
+Shot 1:
+Character A, an adult woman with long brown hair, black sunglasses on her head, white cropped sleeveless top, pink patterned pants and black boots, sits relaxed with crossed legs on a red plastic chair in a ruined battlefield road. A pastel-pink agricultural tiller with silver engine and pink cargo trailer is parked 3m behind her. Tanks and infantry advance in the distance. She calmly whistles, pulls several small smiling pink rockets from her pocket and tosses them above her head. 24mm low-angle wide shot.
+
+Shot 2:
+35mm low-angle locked shot. The rockets mechanically expand to 60cm through telescoping parts, keeping the same design and faces. They form a circle around Character A at shoulder height. She calmly says, “쓸어버려~” and pushes one hand forward. After the final syllable, the rockets ignite with realistic flames, smoke, heat distortion and dust, rapidly flying in different directions. One passes close to the camera.
+
+Shot 3:
+24mm low-altitude tracking shot follows one pink smiling rocket through smoke and debris toward a tank. Just before impact, the camera rises slightly. A large realistic explosion erupts with fire, black smoke, dust, fragments and shockwave. Other rockets create distant explosions. End on a wide battlefield filled with smoke, fire and dust. Maintain consistent character, rocket design, tiller and realistic physics throughout.</code></pre>
+
+</details>
 
 ## Young Asian woman exploring a traditional Italian neighborhood
 

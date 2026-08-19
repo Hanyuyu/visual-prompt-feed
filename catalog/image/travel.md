@@ -1,9 +1,80 @@
 # Travel image prompts
 
-27 source-linked prompts, newest ImgLume records first.
+29 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Redeemer Statue Silhouette at Full Moon
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2089666533434052787)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3241](https://imglume.com/prompt/3241)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/850a805e-fd5a-4e20-a403-869e2765189a/b0cd918b-0dbd-4f08-b853-b01aca87b0a8-1787067085284 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/850a805e-fd5a-4e20-a403-869e2765189a/fca7b881-9a2d-47a5-972e-a3cde5900383-1787067085284 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/850a805e-fd5a-4e20-a403-869e2765189a/75092bbd-1b59-4988-8187-dc379ca82b71-1787067085284 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A wide long shot of the statue the Redeemer statue in Rio de Janeiro, Brazil, in which the statue is perfectly silhouetted against a magnificent full moon. The moon, a brilliant golden sphere, is directly behind the statue, creating a spectacular visual illusion of the Statue figure holding a celestial body aloft. The dusky purple-gray sky, transitioning from day to night, serves as a dramatic backdrop for the scene. The statue itself stands atop Corcovado Mountain, with its rugged rocky slopes visible in the foreground.</code></pre>
+
+</details>
+
+## Premium Cinematic Travel Poster of \[COUNTRY\] Flag Transforming into Landscape
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089623139697467902)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3235](https://imglume.com/prompt/3235)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/05f1512c-0be0-4be2-9641-537849fd7410-1787059019687 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/eaf00950-4e2d-498b-b91c-5af209a3a500-1787059019687 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/827f600c-a261-48c4-bfd8-f6331baf49ba-1787059019687 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/b73d8f30-5527-4e15-9413-12803232f6f3-1787059019687 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking premium 4:5 vertical cinematic travel poster for [COUNTRY], based on the concept:
+
+A gigantic [COUNTRY] national flag stretches across the entire scene like luxurious flowing silk. The flag is not merely a background — it physically transforms into the landscape, culture and identity of [COUNTRY].
+
+In the foreground, the national flag remains clearly recognizable with realistic fabric folds, stitching, subtle reflections and natural movement.
+
+As the flag flows toward the middle ground, its folds gradually transform into the geography of [COUNTRY]. Fabric becomes mountains, rivers, coastlines, valleys, forests, streets and fields. The transition must feel seamless and physically believable.
+
+From this transformed landscape, the most iconic elements of [COUNTRY] naturally emerge:
+[LANDMARK 1], [LANDMARK 2], [LANDMARK 3], traditional architecture, local transportation, cultural objects, food, nature and recognizable everyday details.
+
+Include tiny realistic people exploring the miniature landscape, vehicles moving through streets, boats on water, birds in the distance and subtle environmental details that make the country feel alive.
+
+The flag’s colors and symbols should continue throughout the environment, subtly becoming part of the landscape rather than disappearing completely.
+
+Create a strong cinematic depth:
+foreground — recognizable national flag fabric,
+middle ground — flag transforming into the country,
+background — iconic landmarks and landscape fading into a spectacular atmospheric horizon.
+
+At the top, add elegant minimal typography:
+
+[COUNTRY]
+
+Underneath, in smaller sophisticated lettering:
+
+“[TAGLINE]”
+
+Typography should feel like a luxury international travel poster — refined, clean and balanced, never overpowering the artwork.
+
+Ultra-realistic cinematic photography, photorealistic miniature world, luxury editorial travel aesthetic, dramatic golden-hour lighting, realistic silk texture, volumetric light, atmospheric perspective, intricate architectural details, natural shadows, realistic reflections, breathtaking depth, sophisticated composition, museum-quality visual storytelling.
+
+The final artwork should feel like an entire nation has physically come alive from its own flag.
+
+No unnecessary text, no extra logos, no watermark, no duplicated landmarks, no distorted architecture, no cartoon style.
+
+CORE MESSAGE:
+“ONE FLAG. ONE COUNTRY. AN ENTIRE WORLD.”</code></pre>
+
+</details>
 
 ## FLAVORS OF TÜRKİYE Culinary Travel Infographic
 

@@ -1,9 +1,238 @@
 # Character image prompts
 
-86 source-linked prompts, newest ImgLume records first.
+92 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## KAGERO – The Wandering Blade Character Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2089556197154373645)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3251](https://imglume.com/prompt/3251)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f445c14d-2255-4340-97ad-7597d211a67c/aa0c7b38-ebcd-429c-a8a1-e3a308d22867-1787067400154 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f445c14d-2255-4340-97ad-7597d211a67c/88b9ba8a-6118-4a91-886d-cf08ed39912f-1787067400154 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f445c14d-2255-4340-97ad-7597d211a67c/d15ec5fa-cf60-4595-86b9-442540c5c5a2-1787067400154 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9
+
+widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE
+
+DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its
+
+exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's
+
+rendering verbatim: painterly matte digital gouache with flat posterized color
+
+blocks, shapes defined purely by value and color cuts with NO outlines and NO
+
+lineart of any kind, hard-edged brush shapes, muted desaturated palette
+
+identical to the reference, identical overall brightness and contrast (light,
+
+airy, white-background — do NOT darken), soft single-source lighting with
+
+shadows as clean flat cut shapes. Every figure must look like it was painted by
+
+the same artist, in the same file, as the reference image.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no graphite lines,
+
+no cel-shading, no anime style, no 3D render look, no soft volumetric shading,
+
+no glossy highlights, no ambient occlusion, no added contrast, no darkened or
+
+moody color grading, no photorealism.
+
+[PROPORTIONS]: Match the reference's exact body proportions in every figure —
+
+elongated fashion-illustration anatomy (9–10 heads tall, small head, long
+
+slender limbs, narrow waist). Do not normalize proportions in the smaller
+
+studies.
+
+[SUBJECT_DESCRIPTION]: KAGERO — Role: Wandering Blade (ronin). Core Mood: Quiet
+
+Resolve. Visual Signature: Frost-Violet Blade Aura. An adult woman in her late
+
+20s, dark hair in a high tight topknot with loose strands, a thin scar through
+
+one eyebrow, calm focused expression. Wearing an asymmetric off-shoulder deep
+
+indigo-black wrap top, voluminous pleated burgundy wide-leg trousers, a wide
+
+charcoal obi-style sash, fingerless wrapped gauntlets, dark tabi-style
+
+split-toe boots, a sheathed katana slung diagonally across her back with a
+
+pale violet cord wrap. Signature pose: relaxed contrapposto, one hand resting
+
+on the katana's hilt.
+
+Layout Composition (Organize strictly into these sections):
+
+1. LEFT PANEL: METADATA &amp; TURNAROUND
+
+- Large, bold vertical typography of "KAGERO" in a clean, heavy sans-serif
+
+condensed font.
+
+- Metadata Block: "ROLE: WANDERING BLADE", "CORE MOOD: QUIET RESOLVE",
+
+"VISUAL SIGNATURE: FROST-VIOLET BLADE AURA".
+
+- MINI TURNAROUND: 3 small vertical figures — "neutral", "back view",
+
+"profile" — same reference style, no outlines.
+
+- SILHOUETTE STUDY: 3 solid-black silhouettes matching the turnaround stances.
+
+- EXPRESSION STUDY (Bottom Left): exactly 4 small close-up headshots with
+
+subtle expression shifts, same painterly no-outline rendering.
+
+2. CENTRAL PANEL: THE CENTERPIECE
+
+- One giant, dominant full-body figure in a cool, relaxed signature pose,
+
+maximum detail, perfect style-match to the reference (same palette, same
+
+values, same brushwork).
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES
+
+- POSE STUDY: 4 to 5 figures in dynamic stances — drawing the blade, sheathing
+
+it, mid-stride, seated at rest, a defensive ready stance — each with a small
+
+handwritten-style label, all in the identical reference style.
+
+- OPTIONAL SPECIALTY STUDY: a vertical strip of 4-6 painterly portraits with
+
+expressive brushstroke borders.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY
+
+- Exactly 5 close-up crops: face/scar, katana hilt and violet cord wrap, obi
+
+sash knot, wrapped gauntlet, tabi boot — same matte painterly rendering, no
+
+outlines, no added contrast.
+
+- Each crop gets a clean handwriting-style label underneath.
+
+The entire sheet must read as one consistent studio-grade character design
+
+bible where every element could be a crop from the reference image itself.</code></pre>
+
+</details>
+
+## Mid-century modern illustration of \[HUMAN\] on \[SOFA\]
+
+- **Original source:** [@Emmma__0 on X](https://x.com/Emmma__0/status/2089659379746492640)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3248](https://imglume.com/prompt/3248)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f4b37646-ff2c-4b48-9e1d-c38abfc86605/f0c9cab4-47e1-4a9f-bcd1-344fcf1a2009-1787067156164 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f4b37646-ff2c-4b48-9e1d-c38abfc86605/c02c3ba9-a1f7-4668-ad39-545a23501527-1787067156164 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f4b37646-ff2c-4b48-9e1d-c38abfc86605/3f89b7e8-3ca2-4662-9daa-da5f5d6dfd31-1787067156164 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/f4b37646-ff2c-4b48-9e1d-c38abfc86605/a69fb997-a51b-4246-9b89-01d672ab3aa2-1787067156164 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Stylized mid-century modern illustration of [HUMAN] lounging [POSE] on [SOFA], wearing [CLOTHING], with [ANIMAL] resting nearby. Set the scene in [SCENERY], composed with clean architectural geometry, one strong diagonal beam of sunlight, long hard-edged shadows, and a few carefully placed period objects. Render with flat matte color fields, simplified elongated anatomy, minimal facial detail, crisp geometric silhouettes, subtle printed-paper texture, and elegant 1950s–60s editorial illustration styling. Use a controlled palette of [COLORS], keeping the composition calm, sophisticated, slightly detached, and visually spacious.Vertical 4:5 AR.</code></pre>
+
+</details>
+
+## Whimsical Hand-Painted Storybook Illustration Style
+
+- **Original source:** [@NVTDanh on X](https://x.com/NVTDanh/status/2089675418878329009)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3244](https://imglume.com/prompt/3244)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e85cc944-3a27-40d1-8938-7f971cda60bc/b46b0956-e537-441d-873b-ef33838f6cd0-1787067114715 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Whimsical hand-painted storybook illustration, stylized animation concept art, exaggerated caricature proportions, angular imperfect shapes, loose expressive brushwork, gouache texture, vibrant Mediterranean colors, quirky handcrafted aesthetic (for Midjourney prompt)</code></pre>
+
+</details>
+
+## High couture white coat with 2D leaf patterns
+
+- **Original source:** [@carolletta on X](https://x.com/carolletta/status/2089306320440828379)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `grok`
+- **Categories:** `character`
+- **ImgLume record:** [3228](https://imglume.com/prompt/3228)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/19bb7d6f-5ec0-48d6-b969-545505f20f8a/c04ca5b0-794e-46b8-8682-7c4e91ab9b1d-1787051129922 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/19bb7d6f-5ec0-48d6-b969-545505f20f8a/ae4828a9-81e7-4b8b-bff4-5c8489c72b74-1787051129922 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/19bb7d6f-5ec0-48d6-b969-545505f20f8a/4fbf676b-ce33-467c-88b9-50ee95c21656-1787051129922 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/19bb7d6f-5ec0-48d6-b969-545505f20f8a/7b83d506-3ca7-4389-bb75-18baeb96a8dd-1787051129922 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>a model wearing a high couture white coat with 2d leafs drawn with black lines in different directions (so one leaf may have diagonal lines, while another leaf could have vertical lines, and another leaf could have horizontal lines)</code></pre>
+
+</details>
+
+## Color pencil sketch portrait of a young woman
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2089519183960904016)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3214](https://imglume.com/prompt/3214)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f628144c-a823-4aec-b26f-3b02cebe8b4d/70ffdc15-d1a2-48d3-a405-f819ea85deee-1787043365849 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Color pencil sketch style, classic artistic drawing style with highly detailed rendering.
+
+A beautiful young woman facing the camera. Facial features should follow reference image 1, while the hairstyle should not follow reference image 1.
+
+She wears a dark floral sheer blouse paired with long, voluminous dark brown hair. Her hair has a lot of volume, with a few strands gently brushing across her face, creating a cold yet captivating beauty.
+
+She wears silver dangling earrings and a simple collarbone necklace. Her makeup is refined, her skin is fair and delicate. One hand holds an open notebook, while the other hand holds a pen lightly touching her chin as she appears to be deeply thinking about something.
+
+The brush gently outlines the portrait with delicate strokes, allowing the character’s charm and expression to naturally emerge. The background is warm ivory beige, with casually drawn pencil line textures. The composition is simple, bright, smooth, and elegant.
+
+Masterpiece artwork, front-facing close-up portrait, upper-body close shot, highly detailed colored pencil illustration.</code></pre>
+
+</details>
+
+## Surreal Gothic Horror Portrait
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2089309563434782892)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`
+- **ImgLume record:** [3168](https://imglume.com/prompt/3168)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4731c4b6-a5a0-4ff8-8af5-b05bdaa8896e/74ab6adc-bda8-4d44-8ea0-c2d26cf6a64c-1786993696525 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4731c4b6-a5a0-4ff8-8af5-b05bdaa8896e/c06693d7-172e-458c-aa7f-dd29a626a571-1786993696525 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly detailed surreal gothic horror portrait of a pale young woman with short black hair, centered in a tight vertical composition. Her expression is calm, melancholic, haunting, and emotionally distant, with heavy dark eye makeup, tired eyes, delicate facial features, and subtle imperfections.
+Multiple pale hands with long sharp red-painted nails emerge around her face, partially covering her eyes and framing her head in an unsettling ritualistic composition. A pale snake-like creature rests across her forehead and nose, with intricate scales and subtle organic details.
+Behind her is a deep black cosmic void filled with tiny stars, floating particles, and numerous eerie turquoise eyes staring from the darkness. A large muted crimson-red circular moon/orb hangs in the upper background. Long flowing pale hair-like tendrils sweep dramatically across the upper-left portion of the composition and blend into the surrounding darkness.
+She wears dark black clothing with layered fabric, organic textures, subtle metallic details, chains, jewelry, and distressed elements. The entire scene should feel mysterious, occult, surreal, gothic, dreamlike, and psychologically unsettling.
+Keep the original muted color palette: black, charcoal, dusty beige, muted teal, faded blue, deep crimson, and subtle warm skin tones. Make the image significantly moodier with low-key cinematic lighting, deep shadows, soft highlights, subdued saturation, atmospheric darkness, subtle film grain, textured brushwork, and dramatic chiaroscuro.
+Highly detailed dark fantasy illustration, surreal editorial artwork, hand-painted texture, intricate linework, painterly shading, cinematic composition, haunting atmosphere, sophisticated gothic aesthetic, sharp facial details, layered visual storytelling, vertical 4:5 composition.</code></pre>
+
+</details>
 
 ## SAYA "The Bladedancer" Character Concept Art Sheet
 

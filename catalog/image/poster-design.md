@@ -1,9 +1,287 @@
 # Poster Design image prompts
 
-80 source-linked prompts, newest ImgLume records first.
+85 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Venetian Canal at Golden Hour Travel Poster
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2089681788129935361)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3246](https://imglume.com/prompt/3246)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cb484b61-1630-45ff-ab5a-7899df36a498/13c2a40d-b700-483f-9b18-e644bb7e57f4-1787067148314 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vivid painterly travel-poster style cityscape of a Venetian canal at golden hour, rendered with rich saturated blues, golds, and warm terracotta tones. The hero scene centers on shimmering sunlit water leading toward a domed church and bell tower in the distance, framed by historic canal-side buildings, cypress-like trees, and several black gondolas resting along the waterway.
+
+Environment:
+• Narrow canal running through an old European city, lined with tall warm-toned buildings on both sides
+• Large domed church and adjacent bell tower positioned in the background near the vanishing point
+• Multiple gondolas floating and moored along the canal, with wooden poles rising from the water
+• Lush sunlit trees and greenery clustered near the church, adding bright yellow-green highlights
+• Dramatic sky filled with swirling stylized clouds and radiant sunbeams spreading outward from the horizon
+• Avoid modern elements, signage, traffic, clutter, and contemporary street details
+Lighting:
+• Strong low sun near the horizon behind the distant buildings, creating radiant beams across the sky
+• Warm golden illumination on facades, trees, and the tops of the gondolas
+• Intense reflective highlights scattered across the canal surface in gold and pale blue
+• Soft atmospheric glow around the church and skyline
+• Do not allow flat lighting, dull reflections, or overblown white areas that lose painterly detail
+Materials:
+• Rippling water with glossy reflective texture and broken streaks of sunlight
+• Stucco and stone building facades with warm weathered painted surfaces
+• Dark lacquered gondolas with subtle sheen and curved decorative silhouettes
+• Ceramic dome surfaces with luminous blue-green coloration
+• Clouds rendered with soft brushed edges and layered creamy highlights
+Composition:
+• Vertical composition, symmetrical canal perspective drawing the eye into the distance
+• Water occupies the lower half of the frame as the main leading element
+• Buildings form a natural corridor on left and right edges
+• Church dome and bell tower sit slightly right of center as the architectural focal point
+• Gondolas staggered through foreground and midground for depth and rhythm
+• Expansive sky in the upper half, dominated by radiant cloud formations and sun rays
+Mood:
+Romantic, luminous, dreamy, and celebratory with a classic Mediterranean travel-poster atmosphere
+Shot as a highly detailed expressive oil-painting style illustration, vertical 2:3 aspect ratio, saturated color, crisp architectural forms, glowing reflections, ultra-detailed painterly finish.</code></pre>
+
+</details>
+
+## Premium Cinematic Travel Poster of \[COUNTRY\] Flag Transforming into Landscape
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089623139697467902)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3235](https://imglume.com/prompt/3235)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/05f1512c-0be0-4be2-9641-537849fd7410-1787059019687 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/eaf00950-4e2d-498b-b91c-5af209a3a500-1787059019687 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/827f600c-a261-48c4-bfd8-f6331baf49ba-1787059019687 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/de4442cc-256b-42bb-9e16-d82b13379449/b73d8f30-5527-4e15-9413-12803232f6f3-1787059019687 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking premium 4:5 vertical cinematic travel poster for [COUNTRY], based on the concept:
+
+A gigantic [COUNTRY] national flag stretches across the entire scene like luxurious flowing silk. The flag is not merely a background — it physically transforms into the landscape, culture and identity of [COUNTRY].
+
+In the foreground, the national flag remains clearly recognizable with realistic fabric folds, stitching, subtle reflections and natural movement.
+
+As the flag flows toward the middle ground, its folds gradually transform into the geography of [COUNTRY]. Fabric becomes mountains, rivers, coastlines, valleys, forests, streets and fields. The transition must feel seamless and physically believable.
+
+From this transformed landscape, the most iconic elements of [COUNTRY] naturally emerge:
+[LANDMARK 1], [LANDMARK 2], [LANDMARK 3], traditional architecture, local transportation, cultural objects, food, nature and recognizable everyday details.
+
+Include tiny realistic people exploring the miniature landscape, vehicles moving through streets, boats on water, birds in the distance and subtle environmental details that make the country feel alive.
+
+The flag’s colors and symbols should continue throughout the environment, subtly becoming part of the landscape rather than disappearing completely.
+
+Create a strong cinematic depth:
+foreground — recognizable national flag fabric,
+middle ground — flag transforming into the country,
+background — iconic landmarks and landscape fading into a spectacular atmospheric horizon.
+
+At the top, add elegant minimal typography:
+
+[COUNTRY]
+
+Underneath, in smaller sophisticated lettering:
+
+“[TAGLINE]”
+
+Typography should feel like a luxury international travel poster — refined, clean and balanced, never overpowering the artwork.
+
+Ultra-realistic cinematic photography, photorealistic miniature world, luxury editorial travel aesthetic, dramatic golden-hour lighting, realistic silk texture, volumetric light, atmospheric perspective, intricate architectural details, natural shadows, realistic reflections, breathtaking depth, sophisticated composition, museum-quality visual storytelling.
+
+The final artwork should feel like an entire nation has physically come alive from its own flag.
+
+No unnecessary text, no extra logos, no watermark, no duplicated landmarks, no distorted architecture, no cartoon style.
+
+CORE MESSAGE:
+“ONE FLAG. ONE COUNTRY. AN ENTIRE WORLD.”</code></pre>
+
+</details>
+
+## Bold contemporary graphic portrait illustration with high-contrast comic-book aesthetic
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2089356143676240227)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3194](https://imglume.com/prompt/3194)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a9b4ce09-ea8b-4f64-b4d8-1807bf3b79f4/facecd7a-e332-45fe-b4ec-3262de3d61ad-1787005187372 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a9b4ce09-ea8b-4f64-b4d8-1807bf3b79f4/9bef092a-3e2b-49d2-a54b-50c2b94d5071-1787005187372 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a9b4ce09-ea8b-4f64-b4d8-1807bf3b79f4/5543196f-3328-4208-9a3e-33df70010ce6-1787005187372 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Bold contemporary graphic portrait illustration with a striking high-contrast comic-book / editorial ink aesthetic. Combine clean vector-like color blocking, expressive hand-drawn ink contours, sharp cel-shading, selective stippling, and subtle engraved line textures. The artwork should feel like a premium modern graphic-novel portrait rather than a photorealistic painting.
+
+Use an extremely dominant pure deep black background, creating a dramatic silhouette around the subject. The black background should merge naturally with the deepest shadow areas of the artwork.
+
+Exact color language
+
+Preserve this restrained, high-contrast palette:
+
+deep pure black — background, sunglasses, deepest shadows, outlines, clothing shadows
+
+warm peach / light salmon skin — primary skin tone
+
+soft coral-peach — illuminated skin planes
+
+muted dusty peach — secondary facial modeling
+
+intense vivid red / scarlet red — dominant clothing accents
+
+pale desaturated cyan / mint blue — shirt and selected cool accents
+
+muted turquoise-gray — subtle reflective details
+
+dark charcoal gray — secondary linework and transitional shading
+
+tiny amounts of warm beige for restrained highlights
+
+Keep the colors solid, flat, and highly controlled, with minimal tonal variation. No rainbow palette, no neon multicolor effect, and no glossy photorealistic color grading.
+
+Rendering technique
+
+Construct the subject primarily from large, clean, sharply separated color planes. Use bold black areas to define dramatic facial shadows, neck shadows, eye sockets, beard/stubble regions, clothing interiors, and silhouettes.
+
+Employ hard-edged cel shading rather than soft airbrushed gradients. Shadows should appear as deliberate graphic shapes with strong angular boundaries.
+
+Add subtle fine stippling and tiny dot textures selectively across skin, facial hair, and transitional areas to create tactile printed-illustration character.
+
+Linework
+
+Use precise black ink outlines with variable thickness:
+
+bold contour lines around the main silhouette
+
+medium-weight structural facial lines
+
+extremely fine lines for wrinkles, stubble, tattoos, fabric seams, and small details
+
+occasional slightly rough hand-inked marks
+
+The linework should remain crisp and confident, with controlled imperfections that preserve a handmade comic-illustration feeling.
+
+Facial rendering
+
+Faces should retain recognizable anatomical structure while being transformed into stylized graphic planes. Model the nose, cheekbones, jaw, lips, forehead, and neck using combinations of warm peach planes and sharply contrasting black shadow masses.
+
+Highlights should be small, flat, opaque shapes, not soft photographic reflections.
+
+Clothing and accessories
+
+Clothing should use large saturated red graphic shapes contrasted against deep black shadows and pale muted cyan elements. Fabric folds are suggested through angular black lines, restrained darker-red shapes, and selective highlight strokes.
+
+Metallic or reflective accessories should remain simplified into black, gray, muted turquoise, and tiny pale highlights.
+
+Overall aesthetic
+
+High-contrast graphic portrait + modern comic-book illustration + premium editorial poster art + bold ink drawing + flat color blocking + cel shading + subtle stippling + sophisticated limited palette.
+
+The final result should feel powerful, masculine/fashion-editorial, dramatic, clean, rebellious, and visually iconic, with the subject emerging sharply from the black background.
+
+No watercolor, no soft painterly rendering, no realistic photographic texture, no 3D rendering, no smooth gradients, no excessive colors, no glow effects, no text, no logo, no watermark.
+
+Aspect ratio: 9:26 — extremely tall vertical composition. Background: solid deep black.</code></pre>
+
+</details>
+
+## Watercolor Travel Poster Prompt for \[CITY\], \[COUNTRY\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089064866799820932)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3172](https://imglume.com/prompt/3172)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f302ff8-57a5-433b-87a9-974ee34f34cf/cfa68558-fea0-49b3-be27-cb1794f22009-1786993848790 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5f302ff8-57a5-433b-87a9-974ee34f34cf/1f7aec91-5087-47b8-a642-6c76c00fd7d3-1786993848790 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 watercolor travel poster illustrating [CITY], [COUNTRY] as a romantic, immersive travel scene.
+
+Show a charming pathway, staircase, street, bridge, or viewpoint leading naturally through the city toward its most recognizable landscape or skyline. The composition should feel like the viewer has stepped directly into the destination.
+
+Fill the scene with authentic visual elements that immediately identify [CITY]: iconic architecture, famous landmarks, local streets, traditional buildings, transportation, cafés, markets, native plants, distinctive doors and windows, local signs, and small cultural details. Integrate these elements naturally rather than arranging them like a collage.
+
+Include a small couple or traveler walking through the scene, viewed from behind, adding a sense of scale and storytelling. Their clothing should suit the destination and season. Keep the people secondary—the city and landscape remain the main subject.
+
+Create strong foreground, middle-ground, and background depth. Use a beautiful leading line such as stairs, a winding street, waterfront promenade, alleyway, or bridge to guide the eye deeper into the composition.
+
+Add atmospheric details unique to the city: local flowers, trees, street lamps, balconies, colorful shutters, tiled roofs, boats, bicycles, cafés, traditional objects, distant mountains, coastline, river, or skyline—depending on the destination.
+
+Art style: sophisticated hand-painted watercolor travel illustration, delicate ink linework, translucent watercolor washes, visible cold-press paper texture, natural pigment granulation, expressive brush strokes, subtle paint bleeding, imperfect organic edges, elegant architectural detail, refined European travel-poster aesthetic.
+
+Color palette: soft destination-inspired colors with warm ivory paper, muted natural tones, gentle blues, earthy neutrals, and carefully chosen accent colors reflecting the city’s identity. Avoid overly saturated digital colors.
+
+Lighting: soft cinematic natural light, preferably golden morning or late-afternoon light, with luminous highlights, gentle shadows, atmospheric haze, and beautiful depth.
+
+Composition: vertical 4:5, sophisticated editorial composition, cinematic perspective, layered foreground-to-background storytelling, generous negative space where appropriate, balanced visual weight, visually rich but not cluttered.
+
+Add a subtle, elegant “[CITY]” title and “[COUNTRY]” subtitle only if typography fits naturally into the artwork. Keep text minimal and tasteful.
+
+The final image should feel like a luxury illustrated travel memory captured on watercolor paper—romantic, nostalgic, artistic, authentic, peaceful, and instantly recognizable as [CITY].
+
+No photorealism, no 3D rendering, no plastic digital appearance, no cartoon style, no excessive saturation, no generic architecture, no random landmarks from other countries, no clutter, no watermark.</code></pre>
+
+</details>
+
+## Premium vertical travel poster of \[CITY\] unpacking from a travel box
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089239757826200041)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`
+- **ImgLume record:** [3169](https://imglume.com/prompt/3169)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/0ce672f9-5257-4927-b0da-e5bfa73fc5c4-1786993732021 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/06a1fcd6-6c9b-4eb3-9365-53f1a246ef9c-1786993732021 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/251f1c5a-f9f1-4b47-b4db-2b1acb762966-1786993732021 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/35ee097f-2ffd-4d42-ab45-6798d568da24/0a1deb83-8e30-4cd7-bcdc-5209bff466b1-1786993732021 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical artistic travel poster for [CITY], [COUNTRY], based on the concept “UNPACKING THE CITY.”
+
+Show a beautifully designed vintage travel trunk or open cardboard travel box placed in the center of the composition. The box is open, and instead of ordinary luggage, the entire identity of [CITY] is being unpacked from inside it.
+
+A miniature three-dimensional version of the city rises naturally from the box in layers, as if the destination has been carefully packed for a traveler.
+
+Inside and emerging from the box, include recognizable elements of [CITY]:
+
+Iconic landmark: [LANDMARK]
+Second architectural element: [LANDMARK 2]
+Local transportation: [TRANSPORT]
+Traditional/cultural element: [CULTURAL ELEMENT]
+Local food: [FOOD]
+Natural feature: [NATURE]
+Small street details: cafés, signs, lamps, trees, pedestrians and tiny vehicles
+
+Make the objects appear to be physically packed inside the box and spilling outward. Some buildings should rise vertically from the box, while tiny streets unfold across the packing paper. A miniature river or road can flow from the box onto the surface beneath it.
+
+Add vintage travel stickers, luggage tags, postage stamps, handwritten destination notes, passport-style markings and small labels around the box, but keep them tasteful and uncluttered.
+
+The main city name “[CITY]” should appear prominently on the front of the suitcase/box as elegant vintage typography. Add a smaller phrase underneath:
+
+“TAKE A PIECE OF THE CITY WITH YOU”
+
+Use a sophisticated palette inspired by vintage travel posters: warm cream paper, faded terracotta, muted blue, olive green, dusty red and golden yellow, with subtle aged-paper texture.
+
+Lighting should feel warm and cinematic, with soft shadows beneath the box and realistic depth between every paper layer. Combine premium editorial travel poster design + miniature paper diorama + vintage luggage aesthetics.
+
+The composition should feel like a collectible travel-art print — nostalgic, imaginative, sophisticated and highly detailed.
+
+Avoid generic tourist-poster layouts. Avoid simply placing landmarks next to each other. The key visual idea must remain: the city is literally being unpacked from a travel box.
+
+Clean 4:5 vertical composition, strong visual hierarchy, tactile paper textures, miniature architecture, layered depth, elegant typography, subtle grain, premium art direction, highly polished illustration.</code></pre>
+
+</details>
 
 ## Vintage Travel Poster Prompt for \[CITY\], \[COUNTRY\]
 

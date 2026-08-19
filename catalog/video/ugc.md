@@ -1,9 +1,370 @@
 # UGC video prompts
 
-71 source-linked prompts, newest ImgLume records first.
+78 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic UGC luxury lifestyle review of sunglasses and earbuds
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089686478100341051)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [3242](https://imglume.com/prompt/3242)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8621c525-f566-4546-86d9-5d801e820e1f/dbf6276ee9abda2c66dd-imglume-generated "ImgLume-generated example for Ultra-realistic UGC luxury lifestyle review of sunglasses and earbuds")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, jewelry, and overall appearance consistently throughout the video. Change her top to a fitted sleeveless top in Orange and keep it consistent. Use the uploaded sunglasses, earbuds, retail packaging, and carrying cases as locked product references. Preserve exact product shapes, colors, materials, proportions, buttons, lenses, hinges, charging case, and details throughout.Create an ultra-
+realistic UGC luxury lifestyle review filmed inside a modern luxury bedroom during warm golden hour. Use natural window light, soft shadows, realistic skin texture, subtle handheld smartphone movement, shallow depth of field, and premium commercial-quality cinematography.0–5 seconds:The woma
+n sits on the ed
+ge of the bed with the orange product packaging beside her. She looks into the camera, smiles, and says:“Okay, these two have se
+riously upgraded my everyday routine.”5–11 seconds:She picks up the sunglasses, ope
+ns the orange packaging, and slowly reveals them. She rotates the sunglasses toward the camera while saying:“The sunglasses immediately caug
+ht my attention—the finish, the shape, everything feels so premium.”11–18 seconds:She puts on the sungla sses and looks tow
+ard the window, then turns back toward the camera. She says:“They’re lightweight, comfortable, and h
+onestly look even better in natural light.”18–24 seconds:She picks up the earbuds and o
+pens their chargin
+g case. Show a detailed macro shot of the earbuds and case as she says:“And the earbuds are the perfect everyday compan
+ion—small, sleek, and ridiculously easy to carry.”24–30 seconds:She places the sunglasses and earbuds
+
+together beside th
+eir orange packaging, then picks both up and smiles directly at the camera.“If you love accessories that actually look as good as t
+hey perform, these are definitely worth checking out.”End with a slow cinematic push-in toward both products on th
+: ultra-realistic UGC, authentic creator energy, natura
+l expressions, perfect lip sync, realistic hand movements, premium fashion/lifestyle aesthetic, macro product details, accurate reflections, realistic materials, warm golden-hour lighting, handheld smartphone cinematography, 4K HDR, no subtitles, no watermarks, no invented logos, no on-screen text.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic handheld lifestyle room-tour vlog
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2089681501852237971)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3237](https://imglume.com/prompt/3237)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9b715fce-33bb-4507-bc17-6729154d4a77/cc62d9a3-2707-499d-8982-5867f1b9c91b-1787059092737 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, makeup, body proportions, jewelry, and overall appearance consistently throughout the entire video. She wears a fitted white sleeveless crop top with bright orange shorts in exact color delicate silver jewelry, and casual home footwear. Keep the orange shorts identical in every scene.
+
+Create a 30-second ultra-realistic lifestyle room-tour vlog filmed with a handheld smartphone. The atmosphere is warm, personal, playful, and authentic, with natural daylight, cozy bedroom lighting, realistic handheld movement, subtle autofocus shifts, and premium creator-quality cinematography.
+
+0–5s — ROOM INTRO
+She opens the bedroom door and walks in while filming herself. She smiles at the camera and says, “Come, I'll show you my favorite space.” She gives a quick playful spin, revealing her orange shorts.
+
+5–10s — TWO ROOMS
+She walks through her first room, showing the cozy bed, vanity, shelves, plants, and decorations. She then walks into her second room and says, “I actually have two little spaces.” Smooth transition between the rooms.
+
+10–14s — WALL PAINTING
+She stops beside a colorful painting hanging on the wall. She points at it, explains that she loves it, then briefly poses beside it. Camera slowly pushes toward the artwork and back to her face.
+
+14–19s — NEW EARRINGS
+She sits at her vanity, picks up a new pair of earrings, holds them close to the camera for a detailed close-up, then puts them on and checks herself in the mirror. She smiles and says, “These are my new favorites.”
+
+19–23s — ORANGE OBSESSION
+She opens a small drawer or accessories box and pulls out an orange hairband. She puts it into her hair, looks at herself in the mirror, and laughs. She says, “I think I'm officially obsessed with orange.” Show subtle orange accents throughout the room.
+
+23–27s — CAT MOMENT
+She walks back toward the bed and notices her cat. She sits down, gently pets it, plays with it using her hand, and laughs naturally as the cat moves around beside her.
+
+27–30s — FINAL BEDROOM SHOT
+She relaxes on the bed with the cat beside her, looks into the camera, smiles, and gives a small wave. The camera slowly pulls back, revealing the cozy room, wall painting, orange accents, and warm evening light.
+
+Style: Ultra-realistic lifestyle vlog, authentic creator energy, natural facial expressions, realistic hair and fabric movement, cozy interior cinematography, warm daylight, shallow depth of field, handheld smartphone feel, smooth transitions, 4K HDR, 24fps,
+
+Continuity: Same girl, same face, same hairstyle, same makeup, same orange shorts, same jewelry, same rooms, same painting, same cat, and consistent props throughout.
+
+Negative Prompt: No subtitles, captions, logos, watermarks, text overlays, facial changes, identity drift, outfit changes, color changes to the shorts, duplicate cat, duplicate people, distorted hands, extra fingers, flickering, unrealistic physics, or artificial-looking skin.</code></pre>
+
+</details>
+
+## Korean woman walking in early morning Seoul – MiniDV style
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2089560417471513073)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3220](https://imglume.com/prompt/3220)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4fc13bd9-54cd-4050-a96b-280ef5f6d9be/6b7e5861-922f-413e-abb4-ace4bcd6c46b-1787043434714 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Korean woman, naturally attractive, realistic skin, minimal makeup, long dark hair loosely tied back. Wearing an oversized faded blue sweatshirt, loose beige pants, white sneakers, and a thin silver necklace. Preserve her exact identity, facial features, hairstyle, and appearance throughout.
+
+Location: Quiet Seoul neighborhood just before sunrise. Narrow residential streets, old apartment buildings, utility poles, parked cars, tangled overhead wires, small shops with shutters still closed, and an elevated railway visible beyond the rooftops. Cool early-morning haze slowly turning warm as the sun rises.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Candid, quiet and completely unstaged. Handheld shake, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft contrast, DV compression, slight motion blur and low-level microphone noise. No stabilization or modern cinematic movement.
+
+00:00–00:03: She walks quietly through the nearly empty neighborhood, hands tucked into her sweatshirt pockets. The camera follows several steps behind, occasionally drifting toward the empty street.
+
+00:03–00:06: She reaches a small pedestrian overlook near the elevated railway and leans against the railing. She looks tired but peaceful, watching the tracks below.
+
+00:06–00:09: The distant sound of a train grows louder. She turns toward the tracks and waits. The camera struggles to focus in the dim morning light.
+
+00:09–00:12: The first train suddenly rushes past. The camera shakes from the operator's reaction, briefly losing her behind the moving train. Morning light reflects across the windows.
+
+00:12–00:15: She looks back toward the camera with a sleepy little smile, then turns toward the brightening skyline. The camera slowly drifts toward the railway and hazy rooftops as the recording ends.
+
+Audio: Natural morning ambience only—distant train sounds, railway vibrations, birds, footsteps, faint traffic, wind, electrical hum and a few distant voices. No music, narration, or added effects.
+
+Goal: Make it feel like a forgotten MiniDV recording from an ordinary morning in Seoul. Quiet, intimate, slightly lonely but comforting, with the nostalgia coming from the mundane setting, early-morning atmosphere, and imperfect home-video camera rather than cinematic staging.</code></pre>
+
+</details>
+
+## 60-second realistic day-in-the-life gym vlog selfie perspective
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2089569072526823464)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3205](https://imglume.com/prompt/3205)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/744c9026-84d0-4d98-b98f-ddd8bf4866c3/707a227f-5acf-407a-8577-3d67b726e9c9-1787034383008 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 60-second realistic day-in-the-life gym vlog following the same young Korean woman in her early twenties from waking up at home, getting ready, going to the gym, working out, and returning home.
+
+Overall visual style
+
+One continuous handheld front-facing smartphone selfie vlog perspective. She always films herself with the phone in her own hand at arm’s length. No third-person camera, tripod, cinematic camera movements, drones, or external filming.
+
+Make everything look like authentic modern smartphone footage:
+
+- Natural handheld shake and small framing imperfections
+- Realistic walking movement and occasional autofocus hunting
+- Minor exposure changes
+- Natural front-camera lens distortion
+- Soft natural morning light indoors and outdoors
+- Realistic, unfiltered smartphone colors
+- No beauty filter, skin smoothing, or cinematic color grading
+- Same face and hair throughout the entire vlog
+- Natural expressions, movements, and body language
+- No subtitles, captions, logos, watermarks, or on-screen text
+- No background music; use only natural diegetic sound
+
+0–10 sec — Waking up
+
+She wakes up in her cozy bedroom wearing a cute, loose casual night suit. She grabs her phone from beside the bed and immediately starts filming herself selfie-style. She looks sleepy, messy-haired, and slightly tired, gives a small yawn, stretches, and smiles at the camera.
+
+She quietly says:
+
+“Good morning… I really don’t feel like going to the gym today.”
+
+She gets out of bed and walks toward the bathroom while holding the phone herself.
+
+10–18 sec — Brushing teeth
+
+In the bathroom, she films herself in the mirror/selfie view while brushing her teeth. Keep it casual and imperfect, with realistic bathroom ambience and running-water sounds.
+
+She briefly looks into the camera with a sleepy expression, then rinses her mouth and smiles.
+
+She says:
+
+“But I promised myself I’d go, so… let’s do it.”
+
+18–27 sec — Getting ready
+
+Quick natural transition back to her bedroom. She changes from her night suit into a stylish but realistic gym outfit: fitted athletic top, high-waisted leggings or comfortable athletic bottoms, clean sneakers, and minimal accessories.
+
+Show short selfie moments of her fixing her hair, adjusting her gym outfit, grabbing a water bottle and gym bag.
+
+She looks into the phone and says:
+
+“Okay, now I actually look ready.”
+
+27–35 sec — Going to the gym
+
+She leaves home with the phone in her hand. Film brief selfie moments while walking outside and naturally bouncing with her steps. Show quick glimpses of the street, morning traffic, buildings, and her gym bag.
+
+She arrives at the gym and turns the phone slightly to show the entrance before bringing it back to her face.
+
+Natural street and gym ambience only.
+
+35–52 sec — Workout
+
+Inside the gym, she starts with a short warm-up on a treadmill, then moves through a few exercises such as light strength training, squats, dumbbell exercises, and stretching.
+
+Keep the camera mostly front-facing and handheld, occasionally tilting naturally toward the equipment before returning to her face.
+
+She becomes slightly sweaty and out of breath but stays cheerful. She laughs and says:
+
+“Okay… this is harder than I remembered.”
+
+She takes a quick drink of water, catches her breath, then gives the camera a satisfied smile and continues her workout.
+
+Include realistic sounds of footsteps, treadmill movement, weights clanking, machines, distant conversations, and gym room tone.
+
+52–60 sec — Returning home
+
+After finishing her workout, she leaves the gym and walks home. She looks pleasantly exhausted but happy.
+
+Cut naturally to her back at home, still holding the phone. She drops her gym bag down, takes a drink of water, relaxes on the couch or bed, and looks into the camera with a tired smile.
+
+She gives a small wave and says:
+
+“Workout done. I’m exhausted… but I’m glad I went.”
+
+She smiles, gives one final sleepy wave, and lowers the phone for a natural ending.
+
+Final requirements
+
+Keep the entire vlog fast, spontaneous, cozy, and realistic, with natural transitions between locations. The woman must remain visually consistent throughout: same facial identity, same hair, and realistic appearance. Her outfit changes only once, from the casual night suit to the gym outfit.
+
+All dialogue must be naturally spoken with visible lip movement. Use only diegetic audio—bedroom ambience, bathroom sounds, footsteps, street noise, gym sounds, water bottle sounds, and home ambience. No music, captions, subtitles, logos, watermarks, or cinematic effects.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic live-action video of a young Korean woman in Seoul
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2089368085199507671)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [3204](https://imglume.com/prompt/3204)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f8a86bca-dd73-4535-8246-e3395b37b68b/024963ac-b243-40ee-92a0-72539c026639-1787034356182 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic live-action-style video featuring the same clearly adult Korean woman throughout. The concept, locations, actions, and visual language must be completely different from the previous residential home-video concept.
+
+MAIN SUBJECT:
+Young Korean woman in her early 20s, natural everyday appearance, warm and approachable personality. Black wavy hair with wispy bangs, naturally styled. She wears a fitted dark navy knit top, relaxed beige wide-leg trousers, white minimalist sneakers, and a small black shoulder bag. Minimal makeup, realistic skin texture, subtle facial asymmetry and natural imperfections. Maintain EXACTLY the same face, identity, body proportions, hairstyle, clothing, accessories, and appearance in every shot.
+
+CONCEPT:
+A spontaneous modern-day afternoon in Seoul — she is meeting a friend, navigating a busy contemporary neighborhood, grabbing a drink, and catching a brief sunset moment. It should feel like genuine footage captured casually by a friend on a modern smartphone, NOT a commercial, music video, fashion shoot, or AI-generated sequence.
+
+VISUAL STYLE:
+Extremely photorealistic modern smartphone footage. Natural 2026 smartphone-camera appearance with realistic computational photography, accurate skin tones, subtle HDR, natural dynamic range, realistic exposure, fine sensor detail, mild digital sharpening, authentic smartphone motion blur, and occasional autofocus adjustment.
+
+Use ordinary handheld smartphone recording with imperfect but believable framing. Slight hand movement and natural walking shake. Occasional tiny focus adjustments. Realistic rolling shutter during quick movement. No artificial cinematic camera moves, no impossible transitions, no excessive bokeh, no dramatic lighting, no film grain, no stylized color grading, no slow motion.
+
+ENVIRONMENT:
+Modern Seoul neighborhood with contemporary apartment buildings, glass storefronts, pedestrian crossings, buses, bicycles, small cafés, convenience stores, Korean signage, parked cars, people naturally going about their day, street trees, traffic lights, and realistic urban clutter. Everything should have believable scale, reflections, shadows, perspective, and physical interaction.
+
+00:00–00:05
+The video starts naturally with the phone already recording. She exits a modern subway station into bright afternoon sunlight. She squints slightly and adjusts her hair while checking her phone. The camera operator follows a few steps behind. A bus passes in the background, briefly changing the lighting and creating realistic motion blur.
+
+00:05–00:10
+She crosses a busy but ordinary pedestrian intersection. The camera remains at normal human height. She waits for the signal, glances at the approaching traffic, then notices her friend filming and gives a quick amused smile. A cyclist passes behind her without interacting with her.
+
+00:10–00:15
+They enter a small modern café. The camera follows through the doorway. She orders an iced drink at the counter, briefly points at something on the menu, pays with her phone, and steps aside. Reflections appear naturally on the glass door and counter. Background customers remain ordinary and slightly out of focus because of distance, not artificial blur.
+
+00:15–00:20
+Outside again. She takes the first sip while walking and immediately makes a subtle satisfied expression. She checks a message on her phone while walking, then nearly walks past her friend because she is distracted. She looks up, laughs quietly, and continues.
+
+00:20–00:25
+They arrive beside a modern riverside pedestrian path. She rests her drink on a railing and looks across the water. The camera moves naturally to her side. Wind gently moves her hair and clothing. Distant pedestrians, cyclists, bridges, buildings, and water remain physically consistent in the background.
+
+00:25–00:30
+The sun is beginning to set. She turns back toward the camera and says casually, “Wait, look at that.” She points toward the skyline. The camera instinctively turns away from her toward the sunset, briefly overexposing before the smartphone automatically corrects exposure. The final frame settles on the realistic skyline and water while her voice and footsteps remain audible.
+
+AUDIO:
+Authentic location audio only. No music and no cinematic sound effects.
+
+Include realistic Seoul street ambience, traffic, pedestrian crossing sounds, footsteps, distant conversations, subway-station ambience, café sounds, refrigerator/air-conditioning hum, cup and ice sounds, bicycle bells, wind, and distant city noise. Dialogue should sound naturally captured by a smartphone microphone, with realistic changes in volume depending on distance.
+
+STRICT REALISM / ANTI-AI REQUIREMENTS:
+Every human must have anatomically correct hands and exactly five fingers per hand. NEVER generate extra fingers, duplicated hands, fused fingers, missing limbs, duplicated people, distorted faces, malformed ears, warped teeth, floating objects, impossible reflections, or physically impossible body positions.
+
+Hands must interact correctly with phones, cups, doors, clothing, and other objects. If she holds the drink, only ONE believable hand should occupy each grip position. Her phone must remain a normal rectangular smartphone with consistent dimensions.
+
+Maintain strict object continuity: the same drink, phone, bag, clothing, accessories, and hairstyle must remain consistent throughout. Objects cannot spontaneously appear, disappear, duplicate, change color, or change shape.
+
+Human motion must obey real-world physics. Walking, sitting, turning, drinking, touching objects, hair movement, clothing movement, reflections, shadows, glass surfaces, water, traffic, and background pedestrians must behave naturally.
+
+Faces must remain stable and recognizable from frame to frame. No identity drift, facial morphing, plastic skin, beauty-filter effect, unnatural eye movement, frozen expressions, or AI-perfect symmetry.
+
+Do not make every background person look identical. Background pedestrians should have natural variation in clothing, body shape, movement, and appearance.
+
+Do NOT make the video look like an AI commercial. No perfect cinematic compositions. No excessive shallow depth of field. No impossible camera movement. No hyper-saturated colors. No glossy skin. No artificial lens flares.
+
+The final result should be indistinguishable from authentic footage recorded by a real person on a high-end modern smartphone during an ordinary day in Seoul.</code></pre>
+
+</details>
+
+## Night Marina Leap – Vertical Handheld Phone Video
+
+- **Original source:** [@mightyking on X](https://x.com/mightyking/status/2089299068514148655)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `ugc`
+- **ImgLume record:** [3179](https://imglume.com/prompt/3179)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a7dee3e1-5c40-4619-b325-e9c653a742d6/122ce7e9-fd94-4e41-8e53-c3c8c9d99bc1-1786994159620 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Raw vertical phone video (UGC), handheld throughout, filmed by a friend who walks with the group, casual sway, natural night lighting, wide-angle lens, deep focus.
+
+Characters: The hero is a young woman with long dark hair in a deep-purple one-shoulder dress with a small shoulder bag. Her three friends: one in a dark brown dress, a blonde in a black wrap dress, a blonde in a white mini dress — party dresses and sandals. Laughing, spontaneous night-out energy.
+
+Setting: A luxury marina at night — a stone quay along a narrow water slip flanked on both sides by large moored luxury yachts, big white hulls rising on either side, masts and rigging above, fenders on the hulls. Warm orange street lamps, palm trees, distant city lights. The yachts glow with blue-turquoise underwater LED lights spilling into the water; a yellow mooring line runs to the stone.
+
+[0.0s–4.0s] — Wide tracking shot, eye level, camera moving backward. The camera walks backward ahead of the four women as they stroll toward it down the marina promenade, framed head-to-toe, laughing and chatting in French; warm lamplight and palm trees behind, slight handheld bob.
+
+[4.0s–6.0s] — Medium shot, eye level, backward track + quick left pan. The woman in the purple dress surges ahead of the group toward the lens, one arm raised, hair flying; the camera, on their left, keeps tracking back and pans to hold her.
+
+[6.0s–8.0s] — Medium-wide, camera tilts down-left to follow, whip motion. She reaches the quay edge between the moored luxury yachts and launches headfirst over the edge; the handheld camera whips left and tilts down to chase her off the stone.
+
+[8.0s–10.0s] — High-angle wide, looking down at the water, slight jolt. From up on the quay the camera looks down as she plunges headfirst into the blue-turquoise water in the slip between the big yacht hulls — a big splash, the underwater lights glowing around the impact; the handheld frame jolts slightly with the motion.
+
+[10.0s–13.0s] — High-angle medium, looking down, small handheld drift. She surfaces in the teal water, gasping and laughing up at the camera, hair slicked back, treading water.
+
+[13.0s–16.0s] — Handheld tilt up and back down, slight zoom. The camera lifts off the water and tilts up to a person leaning on the deck railing of one of the moored luxury yachts, watching her in the water, then tilts back down and zooms slightly in on her still treading and laughing.
+
+[16.0s–20.0s] — High-angle medium, tilting to follow her up. She swims to the stone quay wall, reaches up and grabs a thick dark mooring pole, and hauls herself out; the camera tilts upward with her as she rises from the water, legs braced on the stone.
+
+[20.0s–23.0s] — Low/close medium at the quay edge, static handheld. She climbs onto the stone lip, rolls onto her side, soaked dress clinging, then pushes up to her feet; the camera holds close, catching the water running off her.
+
+[23.0s–27.0s] — Medium shot, eye level, loose handheld reframe. Back on the promenade, dripping wet, she flips her long wet hair forward and wrings it out, laughing, as her friends and passing pedestrians move behind her.
+
+[27.0s–30.0s] — Medium shot, eye level, camera settles. Still dripping, she straightens up and strikes a confident, playful pose for the camera — hand on hip, tossing her wet hair back with a big smile — her friends laughing around her; the camera holds on the pose to end.
+
+Audio: Live sync sound — friends laughing and shouting excitedly in French, a scream at the leap, a big water splash, water sloshing against the yacht hulls, wet footsteps on stone, ambient night marina sounds. No music.
+
+Style: Raw amateur vertical phone footage, natural night lighting, warm street lamps mixing with the turquoise underwater yacht glow, authentic handheld motion.</code></pre>
+
+</details>
+
+## High-energy UGC Skincare Video with Pink Jelly Cream
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2089319827639091542)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3173](https://imglume.com/prompt/3173)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ea25555-3186-48b6-96a0-e8d1203b8673/0c541a7e-a4a2-4bab-9662-308f0e05a5d2-1786993862598 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-energy, authentic UGC skincare video using the uploaded storyboard as the visual guide and the uploaded girl image as the exact character reference. Keep her face, hairstyle, makeup, body proportions, pink jacket, white top, accessories, and overall appearance consistent throughout, with no outfit or color changes.
+
+She starts in a cozy bedroom holding the pink skincare jar toward the camera and says, “Okay, I finally tried this, and I have to show you!” She opens the jar and brings it close to the lens, followed by an extreme macro shot of the glossy pink jelly cream as she stretches it between her fingers, showing its bouncy, translucent texture. She reacts playfully: “Look at this texture… it’s so bouncy and jelly-like!”
+
+Cut to a handheld selfie close-up as she applies a small amount to her cheek and says, “Look how easily this melts into my skin.” Show an ultra-detailed macro shot of the cream spreading naturally across her skin, preserving realistic pores, fine texture, and a fresh hydrated glow.
+
+Quick UGC-style cuts show her touching her cheek, smiling at the camera, holding the jar beside her face, and giving an enthusiastic thumbs-up. She finishes by bringing the product close to the camera and saying, “Honestly, I’m obsessed. This is definitely staying in my routine.”
+
+Use authentic handheld smartphone movement, natural facial expressions, quick jump cuts, close-up product shots, satisfying texture shots, soft pink bedroom lighting, realistic skin, shallow depth of field, subtle focus pulls, natural voice, light upbeat background music, and satisfying product sounds. Keep the product packaging sharp and consistent, with no distorted hands, duplicated fingers, changing clothes, changing face, or invented packaging. Vertical 9:16, polished but believable TikTok/Reels UGC aesthetic.</code></pre>
+
+</details>
 
 ## Handheld Phone Vlog Montage of Woman Jump Rope in Gym
 

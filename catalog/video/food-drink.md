@@ -1,9 +1,195 @@
 # Food Drink video prompts
 
-59 source-linked prompts, newest ImgLume records first.
+62 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Crispy Potato Chips Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2089662916304003221)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3243](https://imglume.com/prompt/3243)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bbca59a-cf2f-4d0d-9276-dbbdecfc4404/117c7a8e-7551-4258-966b-bf584d29e0ed-1787067108681 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2bbca59a-cf2f-4d0d-9276-dbbdecfc4404/43148426-9b88-4d9e-9fc7-cfbe8de05e09-1787067108681 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Crispy Potato Chips Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Food product advertising campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero throughout
+• Premium advertising agency presentation
+
+HEADER:
+• Bold premium title
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Cinematic Food Commercial
+ - Product: Potato Chips
+ - Audio: Crisp ASMR + Modern Beat
+• Why This Style Works section
+• Warm cream background
+• Red &amp; golden accent details
+
+STORYBOARD:
+1. Sealed chips packet standing on a clean studio surface
+2. Packet opening with realistic crinkle and chips visible inside
+3. Extreme macro shot of crispy chip texture
+4. Fresh chips falling from packet in mid-air
+5. Salt crystals and seasoning landing on chips
+6. One chip breaking with visible crisp texture
+7. Full bowl of chips beside the hero packet
+8. Final premium product packshot with chips surrounding the packet
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Cinematic product image
+• Camera angle
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Macro close-ups, controlled camera movement, product tracking shots, extreme texture shots, shallow depth of field, clean hero framing.
+
+STYLE:
+Ultra-realistic food advertising, crispy texture, realistic seasoning particles, studio lighting, glossy packaging, premium commercial photography, natural shadows, high-end brand campaign, 8K.</code></pre>
+
+</details>
+
+## Late-night athlete cooking vlog with consistent woman and realistic food preparation
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2089571161835446680)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3208](https://imglume.com/prompt/3208)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/58899ce0-9852-45e9-b0bb-79cb379c347d/bb03457e-6b56-41a8-a739-2a22bf307394-1787043193916 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The same woman from the reference image must remain fully consistent in every shot.
+No face changes, no outfit changes, no body changes.
+The head towel stays wrapped in the same position in every shot — it never unwraps, falls, changes color, or disappears.
+The meal progresses in one direction only: raw ingredients, then chopping, then searing, then plating, then eating, and never reverses or regenerates.
+Food already cooked never becomes raw again.
+Hands and knife are the top priority: five fingers always, correct knife grip with curled guiding fingers, clean cuts, the knife never bends and never passes through her hand.
+The pan, board, oil bottle and rice bowl stay in the same positions.
+Steam and sizzle must behave with real physics.
+No extra people, including in the dark window reflection, and the reflection never shows a camera.
+No duplicated limbs.
+No camera visible.
+No camera setup shown.
+Keep her matching the reference image, warm, and photogenic in every shot.
+STORYBOARD:
+30 seconds total, 10 cuts.
+(~3s, arm's-length selfie)
+She leans on the counter, towel wrapped on her head, clearly fresh from the shower after training, and grins tiredly at the lens.
+Dialogue:
+"Trained late. Showered. Starving. Let's cook."
+(~3s, handheld pan across the counter and back to her)
+The camera drifts across the board with raw chicken and vegetables, the pan, the rice bowl, then back up to her face.
+Dialogue:
+"Ten minute meal. Watch."
+(~3s, fixed external medium shot from across the counter)
+Jump cut.
+She is already chopping a red pepper with quick confident cuts, guiding fingers curled, pieces falling evenly.
+No camera setup shown.
+No dialogue, just the knife on the board.
+(~3s, same fixed shot)
+She slices the chicken breast into strips, seasons it from the salt dish with a high pinch, and rubs it in with her fingertips.
+Dialogue:
+"Protein first. Always."
+(~3s, tight handheld first-person shot over the pan)
+Oil shimmering, she lays the chicken strips in one by one and they hit with a loud real sizzle, fine spatter, steam rising into the lens which fogs for a beat and clears.
+No dialogue, just the sizzle.
+(~3s, handheld selfie while the pan sizzles behind her)
+She turns the camera on herself, fanning steam away from her face, laughing, one hand briefly steadying the head towel.
+Dialogue:
+"The smell. You have no idea."
+(~3s, tight handheld close-up of the pan)
+She flips the strips with tongs, showing deep golden sear marks, tosses in the peppers, and shakes the pan once so everything jumps and resettles.
+Dialogue:
+"That colour? That's the whole point."
+(~3s, fixed external shot)
+Jump cut.
+She plates it: rice pressed from the bowl, chicken and peppers over the top, a last drizzle of olive oil in a thin ribbon, and she wipes the plate rim with the towel like a chef, then smirks at her own seriousness.
+Dialogue:
+"Yes, I wiped the rim. Let me live."
+(~3s, tight handheld close-up)
+First fork bite, steam still coming off it, she chews, closes her eyes for a beat and nods slowly.
+Dialogue:
+"Ten minutes. That's it. Ridiculous."
+(~3s, arm's-length selfie ending)
+Plate in one hand, camera in the other, she backs out of the kitchen toward the sofa, flicking the kitchen light off with her elbow.
+Dialogue:
+"Okay. Eating. Good night."
+FINAL INSTRUCTION:
+The result must feel like a real self-recorded late-night cooking vlog by an athlete who actually cooks, filmed right after her shower.
+The highest priorities are matching the reference image  exactly, correct hands and knife work at close range, one-directional cooking progression that never reverses, real sizzle, steam and food texture, the head towel staying consistently wrapped, honest warm kitchen light against the dark window, and subtle imperfection. Keep it warm, hungry, and real.
+Not a food commercial, not overhead recipe content, not stiff, no music, no subtitle.</code></pre>
+
+</details>
+
+## Unstoppable Taste Chocolate Snowboard Commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089323117709865174)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3186](https://imglume.com/prompt/3186)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ccb37d3c-8931-4f50-a797-ae1049b73aee/6b506797-86ad-4a2d-8389-9ad1b868dec2-1786994413685 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Hollywood live-action commercial cinematic, IMAX quality, ultra-realistic, photorealistic textures, Unreal Engine 5 realism, no CGI feel, high dynamic range, cinematic motion blur, natural lighting, rich glossy chocolate physics, macro food detail. Duration: 15 seconds.
+
+Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, body proportions, and overall appearance consistently throughout the entire video.
+
+Scene: A surreal Kinder Bueno chocolate world with flowing chocolate rivers, creamy textures, giant wafer mountains, hazelnuts, chocolate rocks, and a golden sunset sky.
+
+One continuous shot, no cuts. The camera behaves like a hyper-dynamic FPV drone, extremely fast, fluid and immersive, chasing the character closely from behind, diving, rising, weaving through the terrain and smoothly transitioning into cinematic angles with natural motion blur and subtle camera shake.
+
+The shot starts mid-action. The girl from the reference image is already snowboarding at high speed through the chocolate world. She wears a stylish chocolate-inspired winter outfit and rides a custom Kinder Bueno-themed snowboard.
+
+The camera follows extremely close from behind at a low angle as chocolate splashes realistically around her board. She carves sharply through the chocolate terrain, launches off a curved chocolate hill, and performs a stylish aerial snowboard trick. The camera rotates underneath her as she spins, then follows her smooth landing.
+
+She continues at high speed, weaving between giant wafer structures and jumping over flowing chocolate waves. Everything feels rich, glossy, edible and cinematic.
+
+Ahead, a massive Kinder Bueno package rises like a giant monument. The camera accelerates alongside her as she hits a final chocolate ramp and launches high into the air toward the package.
+
+At peak height, the giant package slowly opens in dramatic slow motion, revealing multiple Kinder Bueno bars inside. She reaches forward and grabs one bar mid-air, holding onto it as the camera swings around her into an extreme close-up.
+
+Important product detail: The chocolate bar in her hand is clearly visible as an opened Kinder Bueno piece, matching the reference shape. Smooth milk-chocolate coating, thin dark chocolate drizzle lines, segmented rounded form, visible wafer and creamy hazelnut layers when broken.
+
+She hangs confidently for a moment, then takes a bite.
+
+Extreme macro: The chocolate cracks naturally, revealing crisp wafer layers and creamy hazelnut filling. Tiny chocolate crumbs and flakes fall realistically through the air.
+
+The camera moves into a close-up of her face. She looks directly into the camera with a relaxed, confident smile.
+
+She says in English:
+
+“Unstoppable taste.”
+
+Final style: Premium food commercial, extreme cinematic action, realistic chocolate physics, photorealistic character, dynamic FPV cinematography, detailed facial expressions, realistic hair and clothing movement, shallow depth of field, 4K HDR, 24fps,
+
+Negative Prompt: No subtitles, no captions, no watermarks, no duplicate characters, no facial changes, no identity drift, no distorted anatomy, no extra fingers, no broken snowboard physics, no product deformation, no flickering, no cartoon rendering, no artificial-looking CGI.</code></pre>
+
+</details>
 
 ## Highly realistic 15-second cooking video
 
