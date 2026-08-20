@@ -1,9 +1,130 @@
 # Travel image prompts
 
-29 source-linked prompts, newest ImgLume records first.
+31 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Travel Editorial Artwork of \[COUNTRY\] Through Glasses
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089925619715133562)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3296](https://imglume.com/prompt/3296)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/96fd6fee-5db1-4fc2-9386-cebaf17c51f7/f1cff436-ea2e-46ae-ac41-4cc6753ad6d2-1787150122805 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/96fd6fee-5db1-4fc2-9386-cebaf17c51f7/0edfb23e-c8ae-4aba-8e3b-80970a0bb4d5-1787150122805 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/96fd6fee-5db1-4fc2-9386-cebaf17c51f7/c0c75b1f-06c3-434e-9ea2-c9d05801e321-1787150122805 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/96fd6fee-5db1-4fc2-9386-cebaf17c51f7/e5634b48-b8e0-4a88-ae6e-48a5e13447ee-1787150122805 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking 4:5 vertical ultra-realistic editorial artwork titled “[COUNTRY]”, designed as a premium viral travel-art concept.
+
+A pair of elegant, crystal-clear fashion glasses rests in the center of the composition. The lenses are perfectly transparent and highly polished, but inside each lens exists a miniature, dreamlike world representing [COUNTRY].
+
+Through the lenses, reveal the most recognizable visual identity of [COUNTRY]: iconic landmarks, architecture, landscapes, traditional culture, local food, flowers, transportation, people in authentic clothing, and subtle national details — all seamlessly blended into one tiny cinematic world.
+
+The glasses should look luxurious and realistic, with beautiful reflections, realistic refraction, subtle glass distortion, delicate highlights, and soft shadows. The world inside the lenses should feel as if the viewer is literally seeing the soul of [COUNTRY] through the glasses.
+
+Keep the area outside the lenses minimal, elegant, and softly blurred so the miniature country becomes the hero.
+
+Add the country name “[COUNTRY]” in sophisticated, clean cinematic typography beneath the glasses.
+
+Add a short poetic tagline underneath:
+
+“SEE THE SOUL OF [COUNTRY].”
+
+Premium travel campaign aesthetic, cinematic photography, dreamy atmosphere, photorealistic miniature details, luxury editorial composition, soft natural lighting, subtle depth of field, smooth gradients, glass reflections, realistic shadows, sophisticated color harmony, extremely detailed, visually satisfying, clean composition, high-end tourism advertisement, viral social-media artwork, 8K, no clutter, no unnecessary text.</code></pre>
+
+</details>
+
+## Vintage city travel post
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2089573863797752193)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3273](https://imglume.com/prompt/3273)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c4a8b3be-29e1-45a4-bf0f-a5323066b282/3a78694f-2ce0-4492-8775-9d3c266e7941-1787111299151 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c4a8b3be-29e1-45a4-bf0f-a5323066b282/d8021d1e-0acf-49ad-841c-4c638bf4a007-1787111299151 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A loose, unfinished watercolor-and-ink travel sketch of New York: fast broken
+line, uneven washes, generous bare paper, golden-hour light.
+
+SUBJECT
+Hero: the Empire State Building from street level, frontal and slightly
+upward-tilted, full height inside the frame, 68–75% of poster height, anchored
+on the right third, base in the lower-middle third.
+Behind it: the Chrysler crown, small and low left, plus 2–3 soft masses standing
+in for Midtown. Nothing else — no Liberty, no Brooklyn Bridge, no Times Square.
+Bright white cold-press paper, no cream or sepia cast.
+
+IDENTITY LOCK — the only sustained drawing in the image
+(a) stepped Art Deco setbacks narrowing in stages toward the top
+(b) continuous vertical piers with recessed window bands — long strokes, never
+ individual windows
+(c) the tiered crown lantern with mooring mast and antenna
+These carry the strongest contrast, are never cropped, never fade to blank paper.
+
+COUPLE
+A young couple seen from behind, arms linked, walking up the avenue, one
+glancing up at the tower. 14–18% of poster height, in the bottom 22–25% band.
+Mid-century-cut travel coats; a small handbag, a compact suitcase.
+10–15 strokes each — silhouette, hair mass, coat line, legs. No faces, no
+fingers, no folds, no third figure. The most resolved human element in the image.
+
+LINE
+Contours break, skip, overshoot corners, and stop before meeting; weight varies
+within a single edge. Background architecture is gestural only — a roofline, a
+corner, an implied vertical. If a building reads in 5–8 strokes, stop at 8.
+Never window-by-window, never brick. Some forms exist as wash alone, no line.
+
+WATERCOLOR
+Never fill evenly. Within one surface the wash swings from deep pooled pigment
+on one side to bare paper on the other. Blooms and backruns with cauliflower
+edges, wet-in-wet bleed, hard pooled edges beside dissolved ones, dry-brush
+skips, granulation in the grain. Washes overshoot the ink by 5–10% in places and
+fall short elsewhere. No object is uniformly colored.
+Coverage 55–65%: leave bare paper across most of the sky, the distant city,
+sunlit faces, the outer 10–15% of the frame, and gaps in the pavement. Bare
+shapes are brush-formed and irregular, never rectangular.
+
+VALUE
+6–10 fingernail-sized darks in burnt umber or dark indigo — setback shadows,
+window bands, under the awning, beneath the taxi and the couple, tower base.
+Drop them into damp wash so they bloom. Without these the image is a flat
+pastel smear.
+
+DEPTH
+Foreground strongest pigment and clearest line; distance at 15–25% pigment in
+dusty blue-gray and hazy peach with almost no line, grouped into 2–3 masses.
+
+LIGHT &amp; COLOR
+Golden hour, light raking from the left so the tower has a lit face and a shaded
+face. Sky: 3–5 broad strokes, the rest bare paper, no detailed clouds.
+Warm limestone cream, pale apricot, warm gray, dusty steel blue, soft graphite.
+One saturated accent: taxi yellow. Props, 3 only — a yellow cab from behind, a
+lamp post, a striped awning edge.
+
+TEXT
+None anywhere: no title, caption, signage, storefront name, street sign, number,
+logo, or pseudo-lettering. Signs become abstract shapes. The top 15–18% stays
+clean and empty for titling added later.
+
+AVOID
+Photorealism, CGI, 3D render, generic AI architecture, hybrid or duplicated
+towers, extra setbacks, warped façade, repeating-window artifacts, mechanically
+even line weight, floating objects, roads into walls, inconsistent scale,
+visible faces, extra figures, flat even fills, uniform contrast at all
+distances, edge-to-edge painting, neon color, garbled text.
+
+Bare paper beats invented detail — everywhere except the identity features.
+RECOGNITION FIRST, VALUE SECOND, ATMOSPHERE THIRD, DETAIL LAST.</code></pre>
+
+</details>
 
 ## Redeemer Statue Silhouette at Full Moon
 

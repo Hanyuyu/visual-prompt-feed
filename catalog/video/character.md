@@ -1,9 +1,416 @@
 # Character video prompts
 
-87 source-linked prompts, newest ImgLume records first.
+96 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cozy Crochet Amigurumi Girl Ordering Pizza - Seedance 2.5 Stop-Motion Video
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2090036041315168762)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`
+- **ImgLume record:** [3320](https://imglume.com/prompt/3320)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/950d3c4e-46ea-453f-91eb-6ee82e449ff9/71ba8d21-fb9b-48b2-b2d5-6ef9a6b1e734-1787152567899 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CHARACTER: Amigurumi crochet/knitted-yarn style girl, black hair in bun with white-and-green crochet flower clip, warm brown eyes, rosy cheeks, soft smile, cream cable-knit sweater, sage-green knit trousers, white knit slippers.
+STYLE: Ultra-realistic crochet/yarn stop-motion aesthetic, macro textile texture on every object (furniture, food, house, clothes), cozy storybook look, warm golden indoor lighting contrasted with a rainy night outside the window.
+ENVIRONMENT: Small cozy cottage interior — window with tied-back curtains and rain streaking down glass, wooden windowsill with potted crochet flowers, green sofa/armchair, side table, wall clock, lamp; cuts to a rainy night exterior with a cute red-roofed cottage.
+MOOD: Quiet, cozy, comforting — craving → decision → excitement → satisfaction.
+SHOT BREAKDOWN:
+SHOT 1: MS, side profile — she stands at the rain-streaked window at night, watching raindrops fall, soft content smile.
+SHOT 2: CU push-in on her face at the window, rain visible outside, warm house lights glowing in dark background.
+SHOT 3: MS — she walks to a crochet-textured refrigerator, opens it, finds it empty.
+SHOT 4: CU on her face, disappointed/thinking expression.
+SHOT 5: MCU — she picks up her phone near a lamp and wall clock showing late evening time, excited reaction, idea strikes.
+SHOT 6: Insert CU, over-the-shoulder on phone screen — a "Cozy Pizza" delivery app open with a pizza icon and checkout button, she taps to order.
+SHOT 7: Same CU continues, confirming the order.
+SHOT 8: MS — she walks back to the window, waits, smiles, touches a flower on the sill, rain still falling.
+SHOT 9: CU on her face at the window, warm anticipatory smile.
+SHOT 10: WS exterior, night, rain — a crochet delivery man on a red scooter with a "Cozy Pizza" delivery box rides up to the cottage.
+SHOT 11: MS at the front door — delivery man hands her the red pizza box, both smiling, warm porch light.
+SHOT 12: Wide push-in — she steps back inside, closing the door.
+SHOT 13: Macro top-down shot — pizza box open on the table, crochet pizza with tomato/basil/mushroom toppings, hand reaching for a slice.
+SHOT 14: Macro cheese-pull shot — slice lifted with stretchy melted cheese strands, steaming mug beside it.
+SHOT 15: CU front-facing — she sits on the green sofa holding the pizza slice, thumbs-up gesture, big happy smile to camera.
+SHOT 16: MS side profile — she relaxes in a cozy armchair by the rainy window, eating pizza, steaming mug on side table, blanket draped over the chair, peaceful contented expression — final cozy shot.
+SFX/Ambience: soft rain patter, warm cozy background music, gentle comfort-food narrative arc.</code></pre>
+
+</details>
+
+## Curious Fox & Mountain Stream Vlog
+
+- **Original source:** [@MrDasOnX on X](https://x.com/MrDasOnX/status/2089969922617266257)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `nature`, `travel`
+- **ImgLume record:** [3312](https://imglume.com/prompt/3312)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de324335-5510-414b-82b6-bbf82a5b2ca2/53fbeb10-f832-40d7-8858-363b29e698aa-1787150553177 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
+Visual Style: Bright modern 4K digital look with vibrant yet soft natural colors, warm late-afternoon golden sunlight mixed with dappled shade, gentle water reflections and soft mist rising from the stream, subtle water droplets or mist on the lens near the water, and crisp details on fur and leaves. Slight handheld energy but smooth enough for casual vlogging. Widescreen 16:9 framing.
+Character: Ember, a 24-year-old anthropomorphic red fox (bipedal, human-like proportions) with soft fluffy reddish-orange fur, white chest and muzzle, bright amber eyes, pointed ears, and a long bushy tail that sways naturally. He wears a simple light denim jacket with rolled sleeves over a soft cream t-shirt and comfortable cargo shorts. Personality: curious, warm, slightly playful and soft-spoken.
+Location: Starts on a wooden footbridge over a clear mountain stream in a lush temperate forest, surrounded by mossy rocks, ferns, wildflowers, and overhanging maple and pine branches. Soft green and golden foliage, clear water with gentle ripples and small fish darting below.
+Sequence (exactly 30 seconds, continuous take with timestamps):
+0:00 – 0:05
+Ember lifts the camera, smiles softly at the lens with his ears perking up, and says in a warm, slightly raspy voice:
+“Hey friends… you won’t believe this spot I found.”
+0:05 – 0:13
+He walks slowly along the wooden bridge, lowering the camera slightly to show the clear stream and small fish swimming just below the surface while continuing:
+“The water is so clear… I can see every little fish moving around.”
+0:13 – 0:20
+He crouches carefully at the edge, reaches one paw toward the water without touching it, and watches the fish dart past, laughing lightly:
+“They’re swimming right up to me. Hi little guys.”
+0:20 – 0:26
+He turns the camera to capture both his face and the stream, then sits on a flat mossy rock at the water’s edge, letting his tail curl beside him. He gazes at the water for a few seconds and says quietly:
+“Moments like this make everything feel peaceful.”
+0:26 – 0:30
+He stands up, waves one paw at the camera with a gentle smile, and says:
+“Thanks for exploring with me. See you next time.”
+The camera naturally lowers a little as he walks further along the path beside the stream.</code></pre>
+
+</details>
+
+## Cinematic Sci-Fi Warzone — Mechanical Spider Soldier
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2089939690535506122)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3294](https://imglume.com/prompt/3294)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/90cf8b78-a6f2-45f4-ac6a-a24b8348b484/3acede89-3973-46a4-9d20-4d2c4e95cdc3-1787150042037 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Title: Cinematic Sci-Fi Warzone — Mechanical Spider Soldier
+
+Create a 15-second ultra-realistic cinematic sci-fi action video set in a devastated urban warzone at dusk. The environment is filled with destroyed buildings, abandoned vehicles, rubble, smoke, fire, sparks, and a dark orange-gray sky.
+
+Main character: A futuristic heavily armored soldier wearing a dark black/charcoal tactical exosuit with subtle metallic details and a completely enclosed helmet. Attached to the character’s back is a large mechanical spider-like robotic exoskeleton with multiple articulated black-and-yellow metallic limbs, moving naturally and independently like powerful robotic arms. The machinery should feel heavy, functional, industrial, and physically believable.
+
+0–3 seconds:
+Start with a wide cinematic shot of the destroyed street. The armored soldier runs directly toward the camera through smoke and scattered debris while the mechanical limbs extend dramatically behind them. Small fires burn on both sides of the street. Several distant figures and damaged vehicles are visible through the haze. Camera tracks backward smoothly at low height, creating an intense action-movie feeling.
+
+3–6 seconds:
+The soldier continues sprinting as a huge explosion erupts behind them. A powerful orange fireball illuminates the entire street. Debris, dust, sparks, and smoke rush outward. The character briefly turns and looks toward the explosion before continuing forward. Use realistic motion blur, flying particles, heat distortion, and dramatic backlighting.
+
+6–8 seconds:
+The character dives/slides across the rubble-covered ground to avoid the blast. Camera moves close to ground level beside the soldier. Their armor scrapes against the pavement while sparks and dust fly around them. The mechanical spider limbs fold and reposition dynamically to protect and stabilize the character.
+
+8–11 seconds:
+Cut to a dramatic close-up of the mechanical appendages. Multiple articulated robotic arms unfold from behind the character, their joints rotating with realistic mechanical movement. Metallic surfaces reflect the orange flames. Smoke and glowing embers drift through the foreground. Slowly push the camera toward the character.
+
+11–13 seconds:
+Reveal the full character standing in the middle of the devastated street. The robotic limbs spread wide behind them in a threatening spider-like silhouette. Burning buildings and thick black smoke fill the background. The character remains completely still for a brief heroic moment while small pieces of debris fall around them.
+
+13–15 seconds:
+Suddenly, an enormous explosion detonates behind the character, creating a massive expanding fireball that fills the background. The shockwave sends dust and debris across the street. The character remains silhouetted against the explosion while the mechanical limbs spread outward. End on a powerful wide cinematic shot.
+
+Visual style: ultra-realistic AAA video-game cinematic, Hollywood sci-fi action film, photorealistic CGI, physically accurate destruction, realistic metallic materials, detailed armor, volumetric smoke, fire and embers, cinematic depth of field, natural motion blur, atmospheric perspective, dramatic orange-and-blue lighting, high dynamic range, realistic shadows, detailed rubble and urban destruction.
+
+Camera: dynamic handheld action-camera movement combined with smooth tracking shots, low-angle shots, close-ups, wide establishing shots, dramatic push-ins, realistic cinematic lens behavior, subtle camera shake during explosions.
+
+Physics: realistic human running and sliding, believable robotic joint movement, physically accurate debris, explosions, smoke propagation, sparks, dust and shockwaves. Maintain consistent character appearance, armor design, robotic appendages, environment, lighting, and spatial continuity throughout.
+
+.</code></pre>
+
+</details>
+
+## 9:16竖屏短视频：成年女性在浴室的自信晨间自拍
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2089921747407552927)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3292](https://imglume.com/prompt/3292)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/144b51f1-249d-45f8-9213-aceb0d3c0058/084452a9-0ffc-4ef9-b1f3-8fc218cb81b2-1787149995287 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>统一设定：
+9:16竖屏短视频，自拍视频风格。成年女性主角
+￼
+Image 1
+ 穿
+￼
+Image 2
+ ，长发自然披散，左手拿手机对着镜子拍摄。灰色瓷砖浴室，清晨柔和冷白光，镜面干净，真实手机自拍质感，轻微手持晃动，嘴型同步准确。 
+整体风格：
+高级晨间自信感，轻熟、松弛、优雅，像一段电影感晨间独白。主角刚醒来，但状态很稳，眼神清醒，表情温柔，动作自然克制。没有刻意挑逗，没有低俗动作，重点表现“自信、从容、好状态、今天会很好”。 
+动作姿态：
+主角站在镜子前，肩膀自然放松，身体微微侧向镜子，轻轻整理头发，偶尔看向镜中的自己，再看向手机镜头。右手轻轻放在胸前表达自我确认，随后自然向外打开，像把好状态交给今天。动作幅度小，优雅、松弛、真实。背景关键词： 
+第1段 0:00-0:15
+前景：
+主角左手拿手机自拍，右手轻轻整理头发，眼神从镜中自己转向镜头，微微一笑。她语气轻柔但坚定，像刚起床给自己一句很温柔的提醒。
+
+无音乐或极弱环境氛围音，浴室轻微回声，衣料摩擦声、手机轻微晃动声自然存在。
+避免：
+低俗挑逗、色情动作、裸露、夸张舔唇、过度扭腰、身体比例变形、脸部变化、服装变化、手机消失、镜中人物不一致、字幕乱码、水印、额外人物。</code></pre>
+
+</details>
+
+## 30-second Handheld Smartphone Gym Vlog Sequence
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089768859884732461)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3290](https://imglume.com/prompt/3290)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/af9cb8e2-a976-45f7-b601-96efccc7b356/2828554c-827c-425d-8d78-0aae444ed124-1787149934181 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 10-shot handheld smartphone gym-vlog sequence with photorealistic snapshot realism. Make it feel spontaneous and genuinely filmed on a phone, with varied angles, subtle shake, slight tilts, natural reframing, realistic motion blur, fine film grain, harsh fluorescent gym lighting mixed with warm afternoon sunlight from high windows.
+
+Woman Image 1: use the reference only for her face, identity, and hairstyle. Keep her appearance consistent throughout. She wears a fitted heather-grey athletic top, black leggings, tied-back hair with a few loose strands.
+
+Setting: She is alone in a quiet, slightly scuffed gym corner with folded mats, a spotted mirror, and a bench holding a rolled yoga mat and water bottle. No other people.
+
+Audio: All dialogue must be spoken naturally in English, with casual delivery, genuine laughter, breathing, footsteps, rope impacts, clothing movement, and faint distant gym ambience only. No Korean dialogue. No music, subtitles, text, logos, or watermarks.
+
+1 — 0–3s
+
+She confidently starts jump-roping, but the rope immediately catches her foot. She stumbles, looks down in disbelief, then laughs.
+
+“Oh, come on, already?”
+
+2 — 3–6s
+
+Side close-up of her hands resetting the rope. Her wrists flick naturally; the rope slaps the floor twice before she finds the rhythm. Slight shaky follow camera.
+
+3 — 6–9s
+
+Straight-on medium shot. She starts jumping properly, focused with a small smile. Her breathing becomes quicker and the rope creates natural motion blur.
+
+“One, two, three…”
+
+4 — 9–12s
+
+She catches the rope on her shoe again, briefly loses balance, then immediately continues. She looks toward the camera and laughs.
+
+“Seriously?”
+
+5 — 12–15s
+
+She finally gets a smooth rhythm. The camera slowly moves from a side angle toward the front. Her ponytail and loose strands move naturally with every jump.
+
+6 — 15–18s
+
+The pace increases. Faster rope rotations, heavier breathing, subtle sweat around her hairline, realistic body movement and handheld camera sway.
+
+7 — 18–21s
+
+The rope clips her shin. She winces, hops once, then laughs instead of stopping. Slight upward camera angle with a gentle push-in.
+
+“Okay… that still counts.”
+
+8 — 21–24s
+
+She pushes herself into another fast set. Straight-on framing, rapid rope beats, heavier breathing and realistic motion blur. She looks determined but is clearly struggling.
+
+9 — 24–27s
+
+The rope suddenly tangles around her feet. She stops, bends over with her hands on her knees and bursts into genuine laughter. Camera naturally tilts downward.
+
+“I seriously can't do this anymore.”
+
+10 — 27–30s
+
+Still laughing and breathless, she slowly straightens, wipes her eyes, drops the tangled rope and looks toward the camera with an embarrassed grin.
+
+“Yeah… I'm done.”
+
+She shakes her head while the camera slowly drifts backward and slightly upward, lingering on the funny moment.
+
+Continuity &amp; realism: Keep the same woman, face, hairstyle, clothing, environment and lighting throughout. Maintain realistic human physics, rope movement, foot placement, breathing, sweat, hair motion and camera inertia. Preserve small imperfections and spontaneous reactions. Avoid polished commercial cinematography; make it feel like a real friend casually filming a funny gym session.
+
+End with her laughter and breathing naturally fading into the quiet gym ambience. No music, captions, text, logos or watermarks. Do not recreate or copy the reference image itself; use it only for facial identity and hairstyle.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic early-2000s Japanese home-video vlog
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2090001499107586091)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [3280](https://imglume.com/prompt/3280)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3e21b979-8dca-4791-8d67-647668bdc730/4e7f9a99-011e-4047-acd6-e2c400119768-1787149619257 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second ultra-realistic early-2000s Japanese home-video vlog, 16:9.
+
+MAIN CHARACTER:
+
+One adult woman throughout. Use Image1 only for her face and hairstyle. She wears a soft powder-blue knit cardigan over a simple white blouse, a flowing beige midi skirt, brown flat shoes, and a small canvas shoulder bag. Natural makeup, realistic skin texture and relaxed everyday appearance. Keep her identity, hairstyle and outfit consistent.
+
+LOCATION:
+
+A peaceful Japanese residential neighborhood in late morning. Narrow lanes, traditional wooden homes, tiled roofs, small gardens, stone walls, bicycles, potted flowers, overhead utility wires, a tiny shrine, a narrow stream and greenery.
+
+VISUAL STYLE:
+
+Authentic early-2000s consumer DV camcorder footage. Handheld, imperfect framing, occasional autofocus hunting, slight exposure shifts, natural motion blur, mild digital compression, faded colors and subtle sensor noise. Candid and unpolished, like a real family recording.
+
+00–05s:
+
+She steps outside a quiet wooden house with her shoulder bag. She slides the door closed, adjusts her cardigan and begins walking down the narrow lane. The camera follows casually from behind.
+
+05–10s:
+
+She passes a small garden filled with hydrangeas and notices a cat resting beside a stone wall. She crouches, gently pets it for a moment, then smiles and continues walking.
+
+10–15s:
+
+She reaches a tiny neighborhood shrine hidden between the houses. She pauses near the entrance as a breeze moves the hanging fabric and nearby leaves. She looks around with quiet curiosity before continuing.
+
+15–20s:
+
+The lane opens onto a small wooden footbridge over a clear stream. She walks across slowly, stops halfway and looks down at the water. A few leaves drift underneath while the camera moves closer and briefly loses focus.
+
+20–25s:
+
+She notices a small vending machine beside an old wooden house. She buys a cold drink, opens it and takes a sip while standing beneath the shade of a tree. A bicycle bell sounds somewhere in the distance.
+
+25–30s:
+
+She continues toward the end of the neighborhood. Sunlight breaks through the trees as she turns toward the camera, smiles naturally and gives a small wave. She walks around the corner and disappears from view. The camcorder cuts abruptly while still moving.
+
+AUDIO:
+
+Natural live ambience only: footsteps, fabric movement, cat purring, leaves rustling, stream water, wind chimes, bicycle bell, vending-machine sounds, distant neighborhood activity and soft birds.
+
+No music.
+
+No narration.
+
+No dialogue.
+
+NEGATIVE:
+
+No cinematic camera moves, no drone shots, no modern commercial look, no beauty filter, no CGI appearance, no crowds, no outfit changes, no face drift, no distorted anatomy, no subtitles, no text, no logos, no watermark.</code></pre>
+
+</details>
+
+## A Magical Little Day in Japan
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089760422379634835)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `travel`
+- **ImgLume record:** [3277](https://imglume.com/prompt/3277)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2c6bdbf8-1872-473e-a3e2-b1c63bcc1815/edcbf17c-37f6-4c10-8b21-59ebea519fd8-1787149538345 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 20-second cinematic vlog featuring a cheerful young Japanese woman exploring a hidden little town in Japan.
+
+Character &amp; Outfit: A cheerful young Japanese woman wearing a cute pastel short summer dress with a delicate floral pattern, white ankle socks, and adorable sneakers. Soft hairstyle, natural makeup, bright expressive eyes, warm smile, youthful and wholesome summer-vlog aesthetic.
+
+0–5s — Discovering Japan: She walks through a beautiful hidden Japanese alley decorated with colorful lanterns, flowers, traditional wooden houses, and tiny cafés. She turns the camera toward herself, smiles excitedly and says: “Hi guys! I found the cutest little place in Japan!”
+
+5–9s — The Cat Appears: She sits outside a cozy flower-filled café, holding a cute drink. Suddenly, a tiny fluffy cat slowly walks toward her and stops in front of her. She looks surprised and smiles: “Oh… hello, little one. Did you come to see me?” The cat gently rubs against her leg. She giggles and kneels down.
+
+9–13s — First Bonding Moment: She offers her hand. The cat curiously sniffs it, then gently places one tiny paw on her hand. She smiles warmly and says: “Aww… I think we’re friends now.” She gently pets its head while the cat happily stays beside her.
+
+13–17s — Cute Friendship: The cat curls up next to her on the bench. She gently strokes its fluffy fur and laughs softly: “You’re way too cute!” The cat looks up at her and gives a tiny playful meow. She looks at the camera and whispers: “Okay… you’re coming with me.”
+
+17–20s — Sweet Ending: Golden sunset beside a peaceful Japanese river. She sits with the cat beside her, gently pets its head, looks into the camera with a warm smile and says: “Best day ever. See you tomorrow!” She giggles and waves goodbye while the cat looks toward the camera.
+
+Visual &amp; Audio Style: Ultra-realistic cinematic vlog, natural English dialogue, realistic Japanese female voice, accurate lip-sync, adorable facial expressions, playful reactions, realistic fluffy cat fur and movements, authentic Japanese scenery, lanterns, flowers, cozy café, peaceful river, warm golden-hour lighting, cinematic depth of field, smooth handheld vlog camera, gentle close-ups, natural transitions, soft ambient café and street sounds, wholesome kawaii atmosphere, photorealistic 4K.</code></pre>
+
+</details>
+
+## Glow-Up Time
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089910057639321826)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `character`
+- **ImgLume record:** [3275](https://imglume.com/prompt/3275)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e60792c0-ae5b-4c0c-824b-f4f37d3f95d2/a0351979-2351-40d0-91ff-4e5ec004990c-1787149493504 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D high-fidelity stylized animation , featuring a girly Gen Z character wearing oversized baggy pants, chunky sneakers, and a cropped distressed leather jacket. Cartoon-leaning style with hyper-expressive features, NOT photorealistic. Clean vanity setup with soft pink warm lighting, glossy makeup textures, fast, snappy pacing, and no logos. Aggressive dynamic camera movement with macro punches, snap-zooms, whip-pans, handheld bounce, micro-orbits, speed ramps, and freeze beats.
+
+Start with a HARD SNAP ZOOM into her eye in the mirror as she is already mid-blink, creating an instant hook with a sharp reflection.
+
+Show a MACRO SLOW-MOTION shot of the mascara wand approaching her lashes, capturing tiny details and freezing just before contact.
+
+Quickly SPEED RAMP as the mascara touches the lashes and they extend dramatically, followed by a SNAP ZOOM revealing both eyes with a clean, symmetrical finish.
+
+WHIP-PAN to her lips as she applies glossy lip gloss in smooth slow motion. The light catches the shine as she gently presses her lips together for a polished finish.
+
+Move into a TRACKING close-up as she taps blush onto her cheeks and blends it quickly. Her cheeks instantly become warmer and more radiant as the glow builds.
+
+Cut to a MACRO highlight shot as her finger sweeps across the cheekbone. FREEZE briefly at the shimmer impact while the light creates a soft flare.
+
+WHIP UP toward her hair as she flips her head forward and then snaps it back up. Individual strands bounce naturally into place, enhanced by a dramatic speed ramp.
+
+Use FAST CUTS for hair styling as she loosens and adjusts her hair tie, keeping the motion continuous while creating a perfectly messy, effortless shape.
+
+Create a MICRO ORBIT around her as she leans closer to the mirror and checks different angles, ending with a subtle, confident change in expression.
+
+SNAP ZOOM into the outfit details as she pulls her jacket perfectly into place. The chain catches the light, creating a satisfying final styling moment.
+
+Use a SLOW PUSH-IN as she slightly lifts her chin, revealing the complete finished look with a polished glow-up effect.
+
+End with a FINAL FREEZE BEAT followed by subtle motion as she turns toward the camera, gives a confident smirk, tilts her head softly, and finishes in a clean, stylish pose.
+
+Audio: upbeat pop beat with detailed mascara brush sounds, smooth gloss swipe sounds, energetic whoosh transitions, a soft shimmer chime during the highlight moment, natural hair swish, and a final sparkle hit.</code></pre>
+
+</details>
+
+## Feline Soldier 15‑second Cinematic Loop
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2089574220753691018)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3254](https://imglume.com/prompt/3254)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d1b7def0-faf0-4acf-b20c-ba77f3edf275/b2cbec8c-fc4d-4717-a3f8-4d31aba8883a-1787075549351 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use @ Image1 as the visual baseline. Maintain a locked, static camera, a completely blurred muddy trench background with drifting smoke haze, floating embers, and the faint orange flicker of distant fires, and desaturated, gritty cinematic war-film color grading with heavy film grain. Ensure the paws remain strictly feline with no human fingers, and the helmet and rifle maintain rigid structural consistency without melting or warping.
+Execute this exact 15-second looped sequence:
+Start with only the very top curve of the green military helmet visible above the dirt mound. The white cat slowly rises vertically into frame, resting the miniature rifle on the dirt and taking aim.
+The cat squints its left eye tightly, grips the rifle with its right feline paw, and fires. The miniature rifle kicks back with sharp, rapid recoil, accompanied by a quick muzzle flash and a puff of smoke.
+An enemy round strikes the top of the dirt mound immediately after, blowing a spray of dirt into the air. The cat drops straight down behind the mound until it is completely hidden.
+While hidden, the cat lifts the helmet off its own head with both feline paws and balances it upside-down on the muzzle of the rifle. The cat's head is now bare, ears flattened.
+The cat slowly raises the rifle, and the helmet rises above the dirt line alone, wobbling gently as bait. The cat itself stays fully hidden behind the mound.
+The decoy helmet holds still above the dirt line. A long, deliberate pause.
+A rifle crack rings out and the helmet is knocked violently sideways off the barrel with a bright spark and a metallic ring, tumbling out of frame.
+In the same instant the cat pops up bare-headed, ears flat back, fur ruffled, eyes narrowed, shoulders the rifle and fires straight ahead. Sharp recoil, muzzle flash, and smoke.
+The cat holds the aim through the drifting smoke, then sinks slowly straight back down behind the dirt mound, catches the falling helmet, and sets it back on its head, ending exactly as the video started.
+Audio: a continuous low rumble of distant artillery, muffled shell impacts thudding at irregular intervals, fires crackling off-screen, a shell whistling overhead, and wind moving across open mud. Sharp dry rifle cracks on each shot, a bright metallic ping and ricochet whine when the decoy helmet is hit, and dirt pattering down after each impact. No music and no voices.</code></pre>
+
+</details>
 
 ## 15-sec Seedance prompt — 5 shots
 

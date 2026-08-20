@@ -1,9 +1,441 @@
 # UGC video prompts
 
-78 source-linked prompts, newest ImgLume records first.
+83 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic UGC luxury bedroom product review video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2089932434351734933)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `ugc`
+- **ImgLume record:** [3316](https://imglume.com/prompt/3316)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6f180f97-c102-4ca2-9515-da9691ca55f0/d33fbd44-112e-474c-8b28-ede85b040a6a-1787150640457 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character and product reference. Preserve the woman’s facial identity, hairstyle, eye color, makeup, skin tone, body proportions, jewelry, and overall appearance consistently throughout the entire video. Change her outfit to a fitted sleeveless PINK top with clean WHITE shorts and keep the outfit identical in every shot. Use the uploaded sunglasses, earbuds, orange retail packaging, and carrying cases as LOCKED product references. Preserve their exact shapes, colors, materials, proportions, buttons, lenses, hinges, charging case, textures, and every visible product detail. Do not redesign, replace, or invent any product elements.
+
+Create an ultra-realistic UGC luxury lifestyle review filmed inside a modern luxury bedroom during warm golden hour. The woman is the clear visual focus, with authentic creator energy and natural expressions. Use warm sunlight coming through the bedroom windows, soft realistic shadows, natural skin texture, shallow depth of field, subtle handheld smartphone movement, realistic autofocus behavior, natural motion blur, and premium commercial-quality cinematography. Include a realistic cat naturally interacting with her only where specified, without distracting from the products.
+
+0–5 seconds:
+The woman sits comfortably on the edge of the bed with the cat resting naturally in her lap. The orange product packaging is clearly visible beside her. She looks directly into the camera, smiles warmly, and says:
+“Okay, these two have seriously upgraded my everyday routine.”
+
+5–11 seconds:
+She gently moves the cat beside her, picks up the sunglasses, opens the orange packaging, and slowly reveals the sunglasses. She brings them closer to the camera and rotates them naturally so the frame, lenses, hinges, and finish are clearly visible. She says:
+“The sunglasses immediately caught my attention—the finish, the shape, everything feels so premium.”
+
+11–18 seconds:
+She puts on the sunglasses naturally, adjusts them lightly at the temple, and looks toward the bright bedroom window. Capture a flattering side-profile moment with realistic reflections in the lenses. She then turns back toward the camera and says:
+“They’re lightweight, comfortable, and honestly look even better in natural light.”
+
+18–24 seconds:
+She picks up the earbuds and opens their black charging case. Transition into a detailed macro close-up of the case opening and the earbuds inside. Show the actual product design with accurate proportions, realistic materials, subtle reflections, and authentic hand interaction. She says:
+“And the earbuds are the perfect everyday companion—small, sleek, and ridiculously easy to carry.”
+
+24–30 seconds:
+She places the sunglasses and earbuds together beside their orange packaging and carrying cases. She then picks both products up, holds them naturally toward the camera, and gives a confident warm smile. She says:
+“If you love accessories that actually look as good as they perform, these are definitely worth checking out.”
+
+Ending shot:
+End with a slow, smooth cinematic push-in toward the sunglasses, earbuds, orange packaging, and carrying cases arranged beautifully on the softly textured bed. Keep the woman subtly visible in the background with natural depth-of-field separation. Allow the golden-hour light to create premium highlights across the products.
+
+Visual direction: Ultra-realistic UGC, authentic influencer energy, natural facial expressions, perfect lip synchronization, realistic hand anatomy and movements, physically accurate product interaction, premium fashion/lifestyle aesthetic, detailed macro product shots, accurate lens reflections, realistic materials and textures, warm golden-hour lighting, handheld smartphone cinematography, subtle focus breathing, natural exposure changes, 4K HDR, cinematic depth of field.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC luxury fashion review of cap and shoes in golden hour bedroom
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2089927109133406683)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [3304](https://imglume.com/prompt/3304)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c932e1e1-e766-425d-8c22-c1bcba471288/b13af786-b0a3-4001-bb2f-bcf55397e650-1787150474336 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, jewelry, and overall appearance consistently throughout the video. Change her top to a fitted sleeveless top in Orange and keep it consistent across every shot. Use the uploaded cap, shoes, retail packaging, and carrying boxes as locked product references. Preserve the exact cap shape, color, fabric, stitching, brim, logo placement, shoe silhouette, sole design, laces, materials, textures, colors, proportions, and all product details consistently throughout.
+
+Create an ultra-realistic UGC luxury fashion review filmed inside a modern luxury bedroom and dressing area during warm golden hour. Use natural window light, soft realistic shadows, subtle handheld smartphone movement, shallow depth of field, authentic skin texture, realistic fabric behavior, and premium commercial-quality cinematography.
+
+0–5 seconds:
+The woman sits on the edge of the bed with the cap and shoe packaging placed beside her. She looks directly into the camera, smiles naturally, and says:
+“Okay, these two might be my new favorite additions to my everyday style.”
+
+5–11 seconds:
+She picks up the cap, opens its packaging, and slowly reveals it to the camera. She runs her fingers across the fabric and brim, rotates it from different angles, and says:
+“First, this cap immediately stood out to me—the fit, the shape, and all these little details feel so good.”
+
+11–17 seconds:
+She puts the cap on and looks into a nearby mirror, adjusting the brim before turning back toward the camera. She says:
+“It’s lightweight, comfortable, and somehow makes the whole outfit look more put together.”
+
+17–24 seconds:
+She brings the shoes into frame, removes them from their packaging, and places them on the floor. Show detailed macro shots of the material, stitching, sole, laces, and overall silhouette while she says:
+“And then we have the shoes. The design is clean, they feel really well made, and I love how versatile they look.”
+
+24–30 seconds:
+She puts on the shoes and stands in front of the mirror, showing the complete outfit with the orange sleeveless top, cap, and shoes. She takes a few natural steps toward the camera, then smiles and says:
+“If you’re into pieces that are easy to style but still make a statement, these are definitely worth checking out.”
+
+End with a slow cinematic push-in toward the cap and shoes displayed together beside their original packaging on the bed. Include a brief natural hand interaction with both products before the final frame.
+
+Ultra-realistic UGC, authentic creator energy, natural facial expressions, perfect lip sync, realistic hand movements, accurate product handling, premium fashion/lifestyle aesthetic, detailed macro product shots, physically accurate materials, realistic stitching and textures, natural reflections, warm golden-hour lighting, subtle smartphone camera shake, shallow depth of field, cinematic focus pulls, realistic mirror reflections, 4K HDR, no subtitles, no watermarks, no invented logos, no on-screen text.</code></pre>
+
+</details>
+
+## Handheld Home-Video Vlog of a Woman Cleaning and Discovering a Book
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2089922805592953339)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [3302](https://imglume.com/prompt/3302)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/500337a1-8ab5-4955-a036-55bc3c64cd89/68a6db20-33bb-41d3-a820-a36efb0db424-1787150334689 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot handheld home-video vlog, avoid a single camera angle or single cut — 7 shots. Shot one-handed on a phone, snapshot-like realism, slightly tilted framing, visible handheld shake, warm late-afternoon indoor light, fine film grain, photorealistic.
+
+A woman (Image) is casually cleaning alone in her cozy living room. (Image) provides only her face and hairstyle; her clothing follows this description entirely: she wears a soft heather-grey cotton short-sleeve shirt, sleeves fully covering her shoulders and upper arms, tucked loosely into cream-colored loungewear pants. She is the only person who appears in the video throughout. The living room feels lived-in and slightly messy: clothes loosely scattered on the sofa, a low wooden coffee table with cups and small everyday objects, a wicker laundry basket on the floor, a folded blanket on an armchair, books and miscellaneous items stacked casually around the room. Warm late-afternoon light slants through sheer curtains. Her movements and reactions are quiet, natural, and unperformed. The sequence begins as an ordinary cleaning session but gradually turns into a small moment of distraction when she discovers an old book. Casual, everyday spoken Korean, reacting naturally to what she is doing in the moment.
+
+Shot 1 (0–2s): She gathers a few clothes from the sofa and drops them into the wicker laundry basket, then straightens the cushion with both hands. The camera stays close and slightly low, drifting naturally with her movement. Soft fabric sounds and basket movement.
+
+Shot 2 (2–4s): She wipes the surface of the low coffee table, moving aside a few small objects. She notices an old book partially hidden underneath a stack of things. Her hand pauses. She pulls it out curiously and looks at the cover. She quietly says: "어? 이거 뭐지?" ("Oh? What's this?"). The camera shifts from the table toward her face with a small handheld wobble.
+
+Shot 3 (4–6s): Close handheld shot of her opening the book and flipping through several pages. Her expression changes from casual curiosity to genuine interest. She smiles faintly at something on the page. She murmurs: "잠깐만…" ("Just a second…"). The camera stays slightly off-center, naturally following her hands.
+
+Shot 4 (6–8s): She sits down on the edge of the sofa, still holding the book, intending to read only briefly. She turns another page and becomes absorbed. The cleaning basket and unfinished mess remain visible around her. The camera gently drifts closer, as if the person filming is amused by her distraction.
+
+Shot 5 (8–10s): Over-the-shoulder close shot of her reading. She quietly smiles and suppresses a small laugh at something she sees. Her fingers slowly turn another page. The camera has subtle handheld tremor and imperfect framing.
+
+Shot 6 (10–13s): She suddenly looks up from the book and notices the messy room around her. Her expression changes to mild realization. She pauses, looks toward the cleaning basket, then quietly says: "아, 맞다…" ("Oh, right…"). She gives a small embarrassed laugh and closes the book.
+
+Shot 7 (13–15s): She places the book on the coffee table, looks briefly toward the camera with a sheepish smile, then reaches for the laundry basket and starts cleaning again. The camera drifts backward slightly, lingering on her and the half-cleaned room as she resumes tidying.
+
+Sound (SFX): No music, only live ambient sound — fabric rustling, clothes dropping into the basket, soft wiping sounds against the wooden table, book pages turning, subtle room ambience, quiet footsteps, her small murmurs and laugh. Natural imperfect phone-recorded audio.
+
+No subtitles, no on-screen text, no logos, no watermarks. Do not depict the reference image itself; do not duplicate/copy the subject.</code></pre>
+
+</details>
+
+## 30‑second handheld forest horror found‑footage
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2089956965451809093)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3297](https://imglume.com/prompt/3297)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5d03f678-f85d-4b75-ba78-fa10f24bf68b/78546004-e906-4bb7-8e52-939d4886c745-1787150234518 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30 seconds | 16:9 | live-action supernatural horror
+Fictional dramatization. Realistic handheld documentary footage.
+
+SETTING
+A dense remote forest hiking trail surrounded by tall trees, thick undergrowth, fallen branches and uneven natural terrain.
+Time: late afternoon.
+Weather: overcast with occasional sunlight filtering through the canopy.
+Natural forest ambience, light wind, distant birds and insects.
+
+CHARACTERS
+Two young adult friends on a casual forest hike.
+
+Maintain consistent faces, clothing, hairstyles, backpacks and physical appearance throughout the sequence.
+Human behaviour remains casual, natural and restrained.
+
+STORY
+
+00–03s — ENTERING THE FOREST
+Handheld camera follows the two friends entering the forest trail.
+
+One friend walks ahead while the camera operator follows casually behind.
+
+Natural conversation, footsteps and branches brushing against the camera.
+
+03–06s — SOMETHING IN THE BACKGROUND
+The camera briefly turns toward the forest behind them.
+
+For less than a second, a distant human figure is visible between the trees.
+
+The camera immediately turns forward again.
+
+Neither friend notices.
+
+06–09s — KEEP WALKING
+The friends continue along the trail.
+
+Autofocus hunts between nearby leaves and the friend ahead.
+
+Natural sunlight flickers through the trees.
+
+The camera operator briefly looks back again.
+
+Nothing is there.
+
+09–12s — FIRST REALIZATION
+The friend ahead suddenly stops.
+
+He looks toward the trees.
+
+The camera quickly moves closer.
+
+He asks quietly:
+
+“Did you hear that?”
+
+Both listen.
+
+12–15s — THE FIGURE
+The camera slowly turns toward the sound.
+A human figure stands far between the trees.
+Completely motionless.
+The camera struggles to focus.
+The operator zooms slightly.
+The figure disappears behind a tree.
+
+15–18s — IT MOVED
+The camera swings toward the friend.
+He looks confused.
+The camera immediately turns back.
+The figure is now standing significantly closer.
+The operator takes an involuntary step backward.
+
+18–21s — RUNNING
+The friend says:
+
+“Let's go.”
+Both begin walking quickly back down the trail.
+The camera shakes heavily while following.
+Branches hit the lens.
+Footsteps become faster.
+
+21–24s — THE EMPTY TRAIL
+The camera suddenly stops.
+The trail behind them appears completely empty.
+No figure.
+No movement.
+The forest is unnaturally quiet.
+
+24–27s — BEHIND HIM
+The camera turns toward the friend.
+He is standing several meters ahead.
+Behind him, deep between the trees, the figure is visible again.
+This time it is much closer.
+The friend still doesn't notice.
+
+27–30s — FINAL REVEAL
+The camera operator freezes.
+The figure slowly steps out from behind the trees.
+The friend turns toward the camera after hearing the operator's breathing.
+The camera abruptly drops toward the ground.
+Cut to black.
+
+CAMERA
+Authentic consumer handheld camera footage.
+
+Heavy but believable handheld movement.
+Natural walking shake.
+Imperfect framing.
+Frequent small reframing adjustments.
+Autofocus hunting.
+Natural lens breathing.
+Exposure changes beneath the forest canopy.
+Occasional motion blur.
+Realistic operator reaction.
+No stabilization.
+No cinematic gimbal movement.
+No impossible camera transitions.
+
+LIGHTING
+Lighting originates entirely from the natural environment.
+
+Soft overcast daylight with occasional sunlight passing through the trees.
+
+Natural exposure changes when moving between open areas and dense forest.
+
+Realistic shadows.
+Natural highlight roll-off.
+No artificial rim lighting.
+No supernatural glow.
+
+PHYSICS
+Real gravity and momentum.
+
+Feet maintain contact with uneven ground.
+Branches move when touched.
+Leaves respond naturally to footsteps and wind.
+Clothing and backpacks move with the characters.
+The figure remains physically grounded between the trees.
+
+No floating objects.
+No impossible movement.
+No supernatural visual effects.
+
+HUMAN PERFORMANCE
+Natural behaviour between close friends.
+
+Casual conversation.
+Normal walking pace.
+Natural breathing.
+Small posture adjustments.
+Genuine confusion.
+Fear gradually replaces curiosity.
+
+No exaggerated screaming.
+No theatrical horror acting.
+No heroic posing.
+
+AUDIO
+Natural handheld-recording audio.
+
+Footsteps on dirt and leaves.
+Branches brushing against clothing.
+Breathing.
+Backpack movement.
+Casual conversation.
+Birds.
+Insects.
+Wind through trees.
+
+Environmental sound gradually becomes quieter whenever the figure appears.
+
+No music.
+No jump-scare sound effects.
+No cinematic bass drops.
+No oversized Hollywood trailer effects.
+
+VISUAL CHARACTER
+Photorealistic live-action footage.
+Authentic amateur documentary character.
+Natural skin texture.
+Realistic clothing and materials.
+Natural forest textures.
+Subtle sensor noise.
+Realistic motion blur.
+Imperfect handheld framing.
+Consumer-camera image quality.
+
+The supernatural element must remain visually ambiguous and physically realistic.
+
+Avoid:
+video-game aesthetics
+CGI appearance
+excessive HDR
+oversaturated colors
+glowing eyes
+transparent ghosts
+floating figures
+monster faces
+supernatural visual effects
+impossible physics
+perfect camera movement
+perfectly choreographed reactions
+beauty-filter faces
+graphic gore
+cheap jump scares
+
+CONTINUITY
+Maintain character identity, clothing, backpacks, forest geography and lighting throughout the sequence.
+
+Preserve the same trail and recognizable trees between shots.
+
+Maintain consistent screen direction and spatial orientation.
+
+The figure must be the same person in every appearance.
+
+The figure progressively appears closer throughout the sequence.
+
+Every action begins from the physical state established by the previous shot.
+
+The final moment should feel like genuine accidental footage rather than a staged horror scene.</code></pre>
+
+</details>
+
+## 30-second realistic smartphone video of Korean woman in a laundromat
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2089742980496429077)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3279](https://imglume.com/prompt/3279)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ee239c84-4c3b-4fdc-9a98-e468270c8bb1/29273522-d6cd-43a4-bdc7-b1281486cc75-1787149610984 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second photorealistic live-action video that feels like a real modern smartphone recording, not an AI-generated commercial.
+
+MAIN SUBJECT:
+A clearly adult Korean woman in her early 20s with a natural everyday appearance, realistic skin texture, minimal makeup, expressive dark eyes, and black shoulder-length wavy hair with wispy bangs. She wears a loose cream-colored sweatshirt, dark straight-leg jeans, white sneakers, and a small crossbody bag. Keep her exact identity, face, hairstyle, clothing, accessories, and proportions consistent throughout the entire video.
+
+CONCEPT:
+A quiet, slightly funny moment at a modern 24-hour laundromat late at night. She is doing laundry alone when a small unexpected problem turns into a natural candid moment.
+
+LOCATION:
+Modern Korean self-service laundromat at around 11 PM. Bright fluorescent ceiling lights, rows of stainless-steel washing machines and dryers, transparent glass entrance, plastic laundry baskets, detergent shelves, vending machine, tiled floor, realistic reflections, a few clothes hanging on racks, rain visible outside through the glass. No dramatic cinematic set design.
+
+CAMERA:
+Recorded casually by a friend on a modern smartphone. Handheld vertical video, realistic smartphone exposure, natural autofocus, subtle hand movement, occasional imperfect framing, realistic motion blur and slight rolling shutter. Normal phone-camera perspective. No gimbal, no cinematic tracking shots, no slow motion, no artificial transitions.
+
+00:00–00:05
+The video starts with her sitting on a plastic chair inside the laundromat, looking at her phone while waiting for the washing machine. She suddenly looks up at the machine and realizes it has stopped. She stands quickly and walks over to inspect it.
+
+00:05–00:10
+She crouches in front of the washing machine and presses the buttons several times. Nothing happens. She looks at the camera with a confused expression, then laughs quietly as if embarrassed that her laundry has become a problem.
+
+00:10–00:15
+She opens the detergent drawer, checks it, closes it again, then notices that the machine simply needs another coin/payment. She pats her pockets and realizes she has forgotten her wallet.
+
+00:15–00:20
+She searches inside her crossbody bag while standing beside the machine. She finds a few coins at the very bottom, holds them up toward the camera with a relieved smile, and quickly inserts them into the machine.
+
+00:20–00:25
+The machine starts spinning again. She watches the clothes tumble through the glass and smiles with visible relief. The camera moves slightly closer. She leans against the machine and checks her phone while waiting.
+
+00:25–00:30
+Rain becomes more visible outside the glass entrance. She suddenly notices it, looks at the camera, then grabs her bag and walks toward the door. Before leaving, she turns around, points at the washing machine and jokingly says, “Don't stop again.” She laughs and exits into the rainy street.
+
+VISUAL REALISM:
+The entire video must look like genuine footage captured spontaneously by a friend.
+
+Prioritize correct anatomy and physical continuity. The woman must always have exactly two arms and two hands, with five anatomically correct fingers on each hand. No extra fingers, duplicated hands, fused fingers, missing limbs, warped wrists, distorted face, duplicated person, or unnatural body deformation.
+
+Her phone, bag, coins, laundry basket, detergent drawer, washing machine and clothing must remain physically consistent. Objects must never appear, disappear, duplicate, or change shape without a believable action.
+
+Her face must remain the same throughout. No identity drift, facial morphing, beauty-filter skin, exaggerated eyes, unnatural teeth, frozen expressions, or plastic-looking skin.
+
+All reflections in the washing-machine glass and windows must obey real-world perspective and lighting.
+
+Hair, sweatshirt fabric, shoelaces and bag strap should respond naturally to her movement.
+
+Background machines must behave realistically: rotating clothes, blinking indicators, subtle machine vibration, realistic reflections and believable mechanical movement.
+
+Keep background completely natural. No people suddenly appearing or disappearing. If anyone is visible outside, they should move naturally and remain physically consistent.
+
+NO cinematic spectacle. NO impossible camera movement. NO surreal transitions. NO artificial lens flares. NO excessive bokeh. NO perfect studio lighting. NO AI-looking smoothness.
+
+AUDIO:
+Natural synchronized location sound only: washing-machine hum, coins dropping, buttons clicking, fluorescent-room ambience, rain against the glass, distant traffic, footsteps and her natural laughter/dialogue. No music. No narration.
+
+MOST IMPORTANT:
+Generate an actual continuously moving 30-second video. Every section must contain visible physical action. Do not generate a still image, slideshow, talking portrait, or audio-only result. The result should feel like a real friend casually filmed this entire moment on a modern smartphone.</code></pre>
+
+</details>
 
 ## Ultra-realistic UGC luxury lifestyle review of sunglasses and earbuds
 

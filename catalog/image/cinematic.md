@@ -1,9 +1,139 @@
 # Cinematic image prompts
 
-50 source-linked prompts, newest ImgLume records first.
+54 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 悬空中式长廊桥与瀑布的仙山场景
+
+- **Original source:** [@PixelAigc on X](https://x.com/PixelAigc/status/2089928056710615141)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3301](https://imglume.com/prompt/3301)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac420a66-30f8-47ca-ae5f-30033de93159/08a33feb-9639-4e50-a8eb-b08330584069-1787150280521 "16:9 横向电影画幅，青灰雾白仙侠仙山场景，清幽空灵、仙气缭绕，悬空廊桥仙观秘境。唯一主空间命题:依峭壁修建的超长中式古建长廊桥，横亘云海悬崖之间，飞瀑自桥底倾泻而下。摄影机位于山谷半空，人眼真实高度，35mm 环境镜头，平视略微向右远眺，禁止航拍俯拍。 近景左下角生长苍劲古松，枝叶裁切入画形成天然前景框；画面主体是依附险峻崖壁延伸的巨型长廊廊桥，青白石雕花护栏，石砌桥墩扎根岩壁。长廊为典型中式古建，深褐红漆木柱，繁复鎏金彩绘斗拱，青瓦飞檐连绵不绝。长廊左侧伫立一名身着素白古风长裙的女子，身形渺小，凭栏望向云海，作为尺度参照物。 中景廊桥下方数条巨大瀑布垂直奔涌，水流坠入茫茫云海；陡峭灰色岩壁遍布青松，山石沟壑纹理写实。远处连绵奇峰拔出于云层之上，峰顶坐落多重檐亭台道观，旌旗隐约可见，群山错落层层递进。一层厚重云雾铺满山谷，横向雾带分隔远近山体。 空间层级:近景苍劲古松 → 悬崖长廊廊桥、白衣女子 → 垂落巨型飞瀑、陡峭崖壁 → 云海、远处奇峰群与山顶亭阁 → 多云漫卷的淡灰色天穹。 色彩体系以青石灰白、木构红棕、松墨绿、瀑布雪白、云海雾灰为主，少量鎏金点缀斗拱彩绘，色调素雅清冷；材质包含风化青石、髹漆古木、雕花汉白玉护栏、苍松植被、流动水体、绵密云雾。 光线为阴天柔和漫射天光，没有强烈硬阴影，天光均匀铺洒建筑与山崖；近景松树、长廊木构雕花细节清晰，飞瀑水流层次通透，远处峰峦被云海薄雾慢慢柔化，严格遵循近实远虚空气透视。 瀑布水流持续奔涌，山谷云雾缓慢流动，山风轻轻吹动女子衣袂与松枝。东方仙侠影视概念绘景，cinematic matte painting，超写实仙山 VFX，PBR 物理材质，体积云海，动态水流，空灵静谧史诗氛围，8K 超高细节。") · [2](https://cdn.imglume.com/prompts/byradar/ac420a66-30f8-47ca-ae5f-30033de93159/8b3824f7-c355-4be4-962a-2579c8624693-1787150280521 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ac420a66-30f8-47ca-ae5f-30033de93159/350f61b6-18e3-4819-a6e3-2ff1c5d5dbbc-1787150280521 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ac420a66-30f8-47ca-ae5f-30033de93159/4b7a7b48-8297-4c30-8679-c0e0135769d7-1787150280521 "具有照片级真实感的电影级广角全景镜头。位于无尽云海之上的神圣中国式仙境露台，呈现真人实拍风格的神话写实感。摄像机处于平视高度，无倾斜，正对地平线。极低的地平线位于画面底部五分之一处；上方五分之四为广阔、澄澈且低饱和度的深蓝色天空。画面下部：平滑如镜、呈淡蓝白玉色的露台与平静的云海融为一体，倒影细腻，质感简约。画面右侧远端：一座宏伟的中国传统门楼（部分被裁切），拥有象牙白玉墙面、深朱砂红漆木构件、精巧的斗拱结构、深蓝黑釉瓦屋顶及上翘的飞檐。一株巨大的古松穿过门楼生长，金褐色树干呈蛇形“S”状向左横向扭曲，宽阔平展的墨绿色枝干横跨开阔的天空。画面底部中央偏下、低矮玉石栏杆旁，有三位成年东亚仙人：一人坐着阅读竹简，一人站立、向着地平线展开卷轴吟诵诗歌，另一人站立聆听、双手背在身后握着合上的书卷。三人皆为修长儒雅的剪影，留着黑色长发，梳着精致的传统高发髻或半束发造型；身穿宽袖哑光丝绸长袍，色调分别为珍珠白、柔和蓝灰与温暖米色——均未着甲胄或携带武器。柔和的低角度金色晨光从左侧射入：松树皮、朱砂红梁柱、屋檐边缘、长袍轮廓及玉石地面上呈现出内敛的琥珀色高光；而天空、瓦片及背光处的建筑结构则保持着冷调蓝灰色。画面留白广阔，构图水平平稳，带有微妙的大气薄雾感；整体低饱和度，光影对比柔和，呈现出真实的陈年木材、雕琢玉石、琉璃瓦、松树皮及哑光丝绸质感。28mm电影广角镜头，深景深效果。这是一幅宁静、深邃、充满诗意且气势恢宏的中国神话电影剧照。")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>16:9 横向电影画幅，青灰雾白仙侠仙山场景，清幽空灵、仙气缭绕，悬空廊桥仙观秘境。唯一主空间命题:依峭壁修建的超长中式古建长廊桥，横亘云海悬崖之间，飞瀑自桥底倾泻而下。摄影机位于山谷半空，人眼真实高度，35mm 环境镜头，平视略微向右远眺，禁止航拍俯拍。 近景左下角生长苍劲古松，枝叶裁切入画形成天然前景框；画面主体是依附险峻崖壁延伸的巨型长廊廊桥，青白石雕花护栏，石砌桥墩扎根岩壁。长廊为典型中式古建，深褐红漆木柱，繁复鎏金彩绘斗拱，青瓦飞檐连绵不绝。长廊左侧伫立一名身着素白古风长裙的女子，身形渺小，凭栏望向云海，作为尺度参照物。 中景廊桥下方数条巨大瀑布垂直奔涌，水流坠入茫茫云海；陡峭灰色岩壁遍布青松，山石沟壑纹理写实。远处连绵奇峰拔出于云层之上，峰顶坐落多重檐亭台道观，旌旗隐约可见，群山错落层层递进。一层厚重云雾铺满山谷，横向雾带分隔远近山体。 空间层级:近景苍劲古松 → 悬崖长廊廊桥、白衣女子 → 垂落巨型飞瀑、陡峭崖壁 → 云海、远处奇峰群与山顶亭阁 → 多云漫卷的淡灰色天穹。 色彩体系以青石灰白、木构红棕、松墨绿、瀑布雪白、云海雾灰为主，少量鎏金点缀斗拱彩绘，色调素雅清冷；材质包含风化青石、髹漆古木、雕花汉白玉护栏、苍松植被、流动水体、绵密云雾。 光线为阴天柔和漫射天光，没有强烈硬阴影，天光均匀铺洒建筑与山崖；近景松树、长廊木构雕花细节清晰，飞瀑水流层次通透，远处峰峦被云海薄雾慢慢柔化，严格遵循近实远虚空气透视。 瀑布水流持续奔涌，山谷云雾缓慢流动，山风轻轻吹动女子衣袂与松枝。东方仙侠影视概念绘景，cinematic matte painting，超写实仙山 VFX，PBR 物理材质，体积云海，动态水流，空灵静谧史诗氛围，8K 超高细节。</code></pre>
+
+</details>
+
+## 中国神话露台与三位仙人的全景电影剧照
+
+- **Original source:** [@PixelAigc on X](https://x.com/PixelAigc/status/2089928056710615141)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3300](https://imglume.com/prompt/3300)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0b45cdb4-37c3-41f1-a719-fde753a9cb6f/8be963e7-64b9-4389-b5f4-fee5946f066a-1787150280521 "16:9 横向电影画幅，青灰雾白仙侠仙山场景，清幽空灵、仙气缭绕，悬空廊桥仙观秘境。唯一主空间命题:依峭壁修建的超长中式古建长廊桥，横亘云海悬崖之间，飞瀑自桥底倾泻而下。摄影机位于山谷半空，人眼真实高度，35mm 环境镜头，平视略微向右远眺，禁止航拍俯拍。 近景左下角生长苍劲古松，枝叶裁切入画形成天然前景框；画面主体是依附险峻崖壁延伸的巨型长廊廊桥，青白石雕花护栏，石砌桥墩扎根岩壁。长廊为典型中式古建，深褐红漆木柱，繁复鎏金彩绘斗拱，青瓦飞檐连绵不绝。长廊左侧伫立一名身着素白古风长裙的女子，身形渺小，凭栏望向云海，作为尺度参照物。 中景廊桥下方数条巨大瀑布垂直奔涌，水流坠入茫茫云海；陡峭灰色岩壁遍布青松，山石沟壑纹理写实。远处连绵奇峰拔出于云层之上，峰顶坐落多重檐亭台道观，旌旗隐约可见，群山错落层层递进。一层厚重云雾铺满山谷，横向雾带分隔远近山体。 空间层级:近景苍劲古松 → 悬崖长廊廊桥、白衣女子 → 垂落巨型飞瀑、陡峭崖壁 → 云海、远处奇峰群与山顶亭阁 → 多云漫卷的淡灰色天穹。 色彩体系以青石灰白、木构红棕、松墨绿、瀑布雪白、云海雾灰为主，少量鎏金点缀斗拱彩绘，色调素雅清冷；材质包含风化青石、髹漆古木、雕花汉白玉护栏、苍松植被、流动水体、绵密云雾。 光线为阴天柔和漫射天光，没有强烈硬阴影，天光均匀铺洒建筑与山崖；近景松树、长廊木构雕花细节清晰，飞瀑水流层次通透，远处峰峦被云海薄雾慢慢柔化，严格遵循近实远虚空气透视。 瀑布水流持续奔涌，山谷云雾缓慢流动，山风轻轻吹动女子衣袂与松枝。东方仙侠影视概念绘景，cinematic matte painting，超写实仙山 VFX，PBR 物理材质，体积云海，动态水流，空灵静谧史诗氛围，8K 超高细节。") · [2](https://cdn.imglume.com/prompts/byradar/0b45cdb4-37c3-41f1-a719-fde753a9cb6f/39d1fcdd-cb22-4214-8705-8da60632c8a5-1787150280521 "16:9 横向电影画幅，青灰雾白仙侠仙山场景，清幽空灵、仙气缭绕，悬空廊桥仙观秘境。唯一主空间命题:依峭壁修建的超长中式古建长廊桥，横亘云海悬崖之间，飞瀑自桥底倾泻而下。摄影机位于山谷半空，人眼真实高度，35mm 环境镜头，平视略微向右远眺，禁止航拍俯拍。 近景左下角生长苍劲古松，枝叶裁切入画形成天然前景框；画面主体是依附险峻崖壁延伸的巨型长廊廊桥，青白石雕花护栏，石砌桥墩扎根岩壁。长廊为典型中式古建，深褐红漆木柱，繁复鎏金彩绘斗拱，青瓦飞檐连绵不绝。长廊左侧伫立一名身着素白古风长裙的女子，身形渺小，凭栏望向云海，作为尺度参照物。 中景廊桥下方数条巨大瀑布垂直奔涌，水流坠入茫茫云海；陡峭灰色岩壁遍布青松，山石沟壑纹理写实。远处连绵奇峰拔出于云层之上，峰顶坐落多重檐亭台道观，旌旗隐约可见，群山错落层层递进。一层厚重云雾铺满山谷，横向雾带分隔远近山体。 空间层级:近景苍劲古松 → 悬崖长廊廊桥、白衣女子 → 垂落巨型飞瀑、陡峭崖壁 → 云海、远处奇峰群与山顶亭阁 → 多云漫卷的淡灰色天穹。 色彩体系以青石灰白、木构红棕、松墨绿、瀑布雪白、云海雾灰为主，少量鎏金点缀斗拱彩绘，色调素雅清冷；材质包含风化青石、髹漆古木、雕花汉白玉护栏、苍松植被、流动水体、绵密云雾。 光线为阴天柔和漫射天光，没有强烈硬阴影，天光均匀铺洒建筑与山崖；近景松树、长廊木构雕花细节清晰，飞瀑水流层次通透，远处峰峦被云海薄雾慢慢柔化，严格遵循近实远虚空气透视。 瀑布水流持续奔涌，山谷云雾缓慢流动，山风轻轻吹动女子衣袂与松枝。东方仙侠影视概念绘景，cinematic matte painting，超写实仙山 VFX，PBR 物理材质，体积云海，动态水流，空灵静谧史诗氛围，8K 超高细节。") · [3](https://cdn.imglume.com/prompts/byradar/0b45cdb4-37c3-41f1-a719-fde753a9cb6f/725809b0-490f-45ff-a347-47d602587b53-1787150280521 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0b45cdb4-37c3-41f1-a719-fde753a9cb6f/e6601e56-cf43-4563-9d20-b04bce24a338-1787150280521 "具有照片级真实感的电影级广角全景镜头。位于无尽云海之上的神圣中国式仙境露台，呈现真人实拍风格的神话写实感。摄像机处于平视高度，无倾斜，正对地平线。极低的地平线位于画面底部五分之一处；上方五分之四为广阔、澄澈且低饱和度的深蓝色天空。画面下部：平滑如镜、呈淡蓝白玉色的露台与平静的云海融为一体，倒影细腻，质感简约。画面右侧远端：一座宏伟的中国传统门楼（部分被裁切），拥有象牙白玉墙面、深朱砂红漆木构件、精巧的斗拱结构、深蓝黑釉瓦屋顶及上翘的飞檐。一株巨大的古松穿过门楼生长，金褐色树干呈蛇形“S”状向左横向扭曲，宽阔平展的墨绿色枝干横跨开阔的天空。画面底部中央偏下、低矮玉石栏杆旁，有三位成年东亚仙人：一人坐着阅读竹简，一人站立、向着地平线展开卷轴吟诵诗歌，另一人站立聆听、双手背在身后握着合上的书卷。三人皆为修长儒雅的剪影，留着黑色长发，梳着精致的传统高发髻或半束发造型；身穿宽袖哑光丝绸长袍，色调分别为珍珠白、柔和蓝灰与温暖米色——均未着甲胄或携带武器。柔和的低角度金色晨光从左侧射入：松树皮、朱砂红梁柱、屋檐边缘、长袍轮廓及玉石地面上呈现出内敛的琥珀色高光；而天空、瓦片及背光处的建筑结构则保持着冷调蓝灰色。画面留白广阔，构图水平平稳，带有微妙的大气薄雾感；整体低饱和度，光影对比柔和，呈现出真实的陈年木材、雕琢玉石、琉璃瓦、松树皮及哑光丝绸质感。28mm电影广角镜头，深景深效果。这是一幅宁静、深邃、充满诗意且气势恢宏的中国神话电影剧照。")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>具有照片级真实感的电影级广角全景镜头。位于无尽云海之上的神圣中国式仙境露台，呈现真人实拍风格的神话写实感。摄像机处于平视高度，无倾斜，正对地平线。极低的地平线位于画面底部五分之一处；上方五分之四为广阔、澄澈且低饱和度的深蓝色天空。画面下部：平滑如镜、呈淡蓝白玉色的露台与平静的云海融为一体，倒影细腻，质感简约。画面右侧远端：一座宏伟的中国传统门楼（部分被裁切），拥有象牙白玉墙面、深朱砂红漆木构件、精巧的斗拱结构、深蓝黑釉瓦屋顶及上翘的飞檐。一株巨大的古松穿过门楼生长，金褐色树干呈蛇形“S”状向左横向扭曲，宽阔平展的墨绿色枝干横跨开阔的天空。画面底部中央偏下、低矮玉石栏杆旁，有三位成年东亚仙人：一人坐着阅读竹简，一人站立、向着地平线展开卷轴吟诵诗歌，另一人站立聆听、双手背在身后握着合上的书卷。三人皆为修长儒雅的剪影，留着黑色长发，梳着精致的传统高发髻或半束发造型；身穿宽袖哑光丝绸长袍，色调分别为珍珠白、柔和蓝灰与温暖米色——均未着甲胄或携带武器。柔和的低角度金色晨光从左侧射入：松树皮、朱砂红梁柱、屋檐边缘、长袍轮廓及玉石地面上呈现出内敛的琥珀色高光；而天空、瓦片及背光处的建筑结构则保持着冷调蓝灰色。画面留白广阔，构图水平平稳，带有微妙的大气薄雾感；整体低饱和度，光影对比柔和，呈现出真实的陈年木材、雕琢玉石、琉璃瓦、松树皮及哑光丝绸质感。28mm电影广角镜头，深景深效果。这是一幅宁静、深邃、充满诗意且气势恢宏的中国神话电影剧照。</code></pre>
+
+</details>
+
+## Parisian cobblestone street at dusk in Art Nouveau style – stereoscopic cinematic portrait
+
+- **Original source:** [@PamWestmor85243 on X](https://x.com/PamWestmor85243/status/2089522364878889064)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `grok`
+- **Categories:** `cinematic`, `illustration-3d`
+- **ImgLume record:** [3256](https://imglume.com/prompt/3256)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b22e5c44-aef1-4c52-bf59-f38d6fd48aab/cb0348bf-ab90-4e71-9f71-53ac17726f89-1787075739845 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b22e5c44-aef1-4c52-bf59-f38d6fd48aab/71743367-5c35-47cb-993f-b6533c84483f-1787075739845 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b22e5c44-aef1-4c52-bf59-f38d6fd48aab/185faee2-33f7-4a93-8f26-7fa90c4f9b72-1787075739845 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A mind-blowing, 9: 16ratio portrait stereoscopic cinematic masterpiece of a Parisian cobblestone street at dusk, transformed into a sprawling Art Nouveau vision inspired by Gustav Klimt’s Golden Phase and Alphonse Mucha’s elegant designs. The scene centers on two elegant women at a flower cart overflowing with breathtaking, hyper-detailed blooms: cascading yellow roses, soft pink peonies, pastel blue hydrangeas, and vibrant orange tulips, all rendered with high tactile 3D textures, metallic gold leaf edges, shimmering turquoise and cobalt teal highlights, and intricate floral-rose patterns. Dewy petals with glistening droplets splash and float in the immediate foreground, catching light with hyper-realistic physics.
+A regal Siberian husky with piercing ice-blue eyes and thick, highly textured fur stands in the foreground on a leash held by a refined gentleman in a top hat and long dark coat; the husky’s fur shows individual strands, depth, and soft volumetric shadows. One woman in a dark Victorian dress and bonnet receives a luminous bouquet of yellow roses from the flower seller, who wears a straw hat, brown jacket, and striped apron over a long skirt.
+The atmosphere is magical and dreamlike: volumetric smoke and mist cut through soft neon holographics and golden light from ornate Art Nouveau street lamps with stained-glass panels, creating distinct layered depths. Gold dust floats weightlessly through the air. Extreme depth of field with sharp foreground elements (petals, droplets, husky fur, cart wheels) passing near the camera, middle-ground figures and the flower cart in crisp focus, and a layered background of towering Parisian buildings dissolving into misty, geometric Klimt-inspired patterns.
+Elaborate Byzantine mosaics, metallic leaf, and swirling geometric Art Nouveau motifs cover the architecture, the women’s dresses (especially high tactile 3D textures on flowing fabrics with shimmering turquoise, cobalt teal, yellow gold, and orange accents), the flower cart, and the glowing lamps. Floating ethereal female figures in Mucha-style flowing gowns and floral crowns drift softly in the upper layers of the scene, intertwined with roses and metallic vines.
+Museum-quality, elegant decorative rendering, hyper-detailed intricate 3D textures, stereoscopic depth, cinematic volumetric lighting, magical dream-like atmosphere, masterpiece composition. Created by Pamela Mary Westmore in Grok Imagine</code></pre>
+
+</details>
+
+## Cinematic 3D mini-me scene with six versions of a woman in a cozy indoor café
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2089697309416186283)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `illustration-3d`
+- **ImgLume record:** [3252](https://imglume.com/prompt/3252)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7b6f37c2-93bb-46b4-bca3-1b54162989ab/6a26a047-412a-4b0c-b887-4f4f02a989e9-1787075522050 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-quality cinematic 3D mini-me scene featuring six versions of the same person: one normal-sized version and five ultra-mini versions of herself.
+Main Character
+The normal-sized woman is seated or leaning naturally at a cozy wooden table in a warm indoor café/home environment. She has a soft, happy smile and looks affectionately toward the tiny version she is holding.
+
+Give the main character a cute natural hairstyle inspired by the reference scene: short-to-medium dark hair with soft natural volume and light face-framing strands, while keeping the facial identity completely unchanged.
+
+Dress her in a simple cozy outfit inspired by the reference image: a clean white basic T-shirt underneath a black cardigan with subtle horizontal white stripes, paired with comfortable light-colored pants. Keep the clothing modest, casual, simple, and realistic.
+
+Mini Characters
+
+Create five ultra-mini versions of the exact same woman with identical facial identity, hairstyle, hair color, skin tone, and matching outfit.
+
+Make the mini characters adorable 2.5–3 heads tall, premium 3D animated characters with realistic hair, detailed clothing, expressive faces, natural anatomy, and exactly five fingers.
+
+One mini version is being gently lifted by the main character using the thumb and index finger, holding ONLY the fabric of the mini character's clothing near the shoulder/collar area. The fingers must never grip the neck or body directly.
+
+The lifted mini character is suspended in the air with arms and legs naturally spread out, looking surprised but cute and playful.
+
+Position the other four mini versions around the main character:
+
+one sitting on her shoulder
+
+one climbing or holding onto her cardigan sleeve
+
+one standing beside her on the table
+
+one sitting near the front edge of the table with a cute playful pose
+
+Make every mini character clearly recognizable as the same person as the main character.
+
+Environment
+
+Create a cozy warm indoor setting resembling a stylish café or comfortable home.
+
+Use a wooden tabletop in the foreground, warm brown furniture, softly blurred background, subtle ambient lights, and a cozy evening atmosphere.
+
+Add gentle reflections and realistic contact shadows so the miniature characters feel physically present in the scene.
+
+Composition
+
+Vertical 9:16 composition.
+
+The main character should dominate the frame while all five mini versions remain clearly visible. Use strong perspective and a dramatic size contrast between the normal-sized woman and the tiny versions.
+
+The camera should be positioned slightly above table level with a medium close-up cinematic framing.
+
+Visual Style
+
+Ultra-detailed cinematic 3D CGI, premium animated-film quality, realistic skin texture, highly detailed silky hair, realistic fabric fibers, physically accurate lighting, soft warm illumination, subtle depth of field, cinematic bokeh, realistic shadows, polished 3D rendering, expressive eyes, cute humorous atmosphere, high-end commercial photography quality, extremely detailed, 4K.
+
+Identity &amp; Accuracy
+
+Exactly six characters total — one normal-sized woman and five miniature versions.
+
+All six must have the same recognizable face and consistent identity.
+
+No extra characters, no duplicate characters, no distorted faces, no face swapping, no identity drift, no deformed hands, no extra fingers, no missing fingers, no duplicate limbs, no text, no watermark.
+
+Aspect ratio: 9:16 vertical.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic cinematic fashion photograph of a woman riding a black horse on a tropical beach
 

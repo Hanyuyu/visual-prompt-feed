@@ -1,9 +1,158 @@
 # Product Ads video prompts
 
-64 source-linked prompts, newest ImgLume records first.
+68 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Instant Noodles Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090019696779387173)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3322](https://imglume.com/prompt/3322)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8100e609-4d1f-45cc-b245-93e8d41c12cd/fd1303e3-e25b-444a-8d96-99339e720972-1787154638933 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8100e609-4d1f-45cc-b245-93e8d41c12cd/19fafee0-a2c5-47b7-a501-96ce9dc0ac2a-1787154638933 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Instant Noodles Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• High-energy food advertisement
+• 8 cinematic product scenes
+• Product-focused commercial presentation
+
+HEADER:
+• Modern bold typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Cinematic Food Advertisement
+ - Product: Instant Noodles
+ - Audio: Cooking ASMR + Energetic Beat
+• Why This Style Works section
+• Warm yellow and red accents
+
+STORYBOARD:
+1. Instant noodle packet standing upright with dramatic lighting
+2. Packet opening and noodles sliding into a bowl
+3. Boiling water pouring over noodles
+4. Noodles cooking with realistic steam rising
+5. Seasoning powder being added
+6. Chopsticks lifting perfectly cooked noodles
+7. Extreme macro shot of glossy noodles with toppings
+8. Final hero bowl beside the original product packet
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Visual
+• Action
+• Camera direction
+• Product detail
+
+CAMERA:
+Macro food photography, overhead composition, steam close-up, noodle pull shot, dramatic product push-in, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food commercial, realistic steam, detailed noodle texture, glossy broth, vibrant ingredients, professional studio lighting, premium packaging, 8K.</code></pre>
+
+</details>
+
+## Luxury perfume commercial for Erba Gold
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2090008406405046729)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3287](https://imglume.com/prompt/3287)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d1cc0a9b-f56a-4736-9113-572bd1653246/eec6421c-23e1-4fb3-ae83-4c31cd35a82a-1787149870166 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, high-end luxury commercial advertisement for a yellow perfume bottle labeled "Erba Gold" by Xerjoff, styled with photorealistic macro footage, ultra-slow-motion liquid physics, and warm studio lighting. The video opens with a macro close-up of crisp green apple slices splashing into clear carbonated water with ice cubes against a bright yellow background. Next, a whole yellow lemon drops into clear liquid creating a dynamic crown splash and sparkling bubbles. Then, an extreme close-up of a juicy sliced yellow pear in bubbly liquid with ice, as a thick golden drop of honey glides down its center. A golden droplet impacts a dark liquid surface, creating swirling tendrils of fluid gold that rise and morph. Finally, the liquid gold resolves into a yellow glass perfume bottle with a golden cap resting on a reflective glass surface, surrounded by shimmering golden light trails and floating particle effects. Cinematic 4K, 120fps ultra slow motion, volumetric lighting, hyper-realistic liquid simulation, octane render, shallow depth of field, 9:16 vertical aspect ratio.</code></pre>
+
+</details>
+
+## Premium Tomato Ketchup Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2089722733156266079)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3284](https://imglume.com/prompt/3284)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ea02116d-f2d9-4c1a-9e56-5eec10b27e16/44a3eed5-dea9-421f-b871-b1b774ab8f2f-1787149830167 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ea02116d-f2d9-4c1a-9e56-5eec10b27e16/c9c2cff4-0a46-499c-9c4f-cd13b8fd818f-1787149830167 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Tomato Ketchup Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product advertisement
+• 8 cinematic storyboard scenes
+• Clean premium presentation
+
+HEADER:
+• Bold editorial typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Premium Food Commercial
+ - Product: Tomato Ketchup
+ - Audio: Fresh Food ASMR
+• Why This Style Works section
+• Red, white and cream aesthetic
+
+STORYBOARD:
+1. Ketchup bottle standing on a clean white surface
+2. Bottle cap opening in macro close-up
+3. Thick ketchup flowing from the bottle
+4. Ketchup forming a perfect glossy spiral
+5. Extreme macro showing rich tomato texture
+6. Ketchup being poured beside crispy fries
+7. Bottle surrounded by fresh tomatoes and product ingredients
+8. Final hero bottle with glossy reflection and ketchup splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow product push-in, top-down shot, side profile, controlled splash photography, premium packshot.
+
+STYLE: Ultra-realistic food photography, glossy ketchup texture, realistic liquid physics, fresh tomatoes, clean studio lighting, premium commercial advertising, 8K.</code></pre>
+
+</details>
+
+## Futuristic Smartwatch Promo Video for XENON
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2089705270608056651)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3274](https://imglume.com/prompt/3274)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5d524b07-63f6-4e42-949f-ff40cbe7cc8d/40657479-6048-4859-aee3-99d0f83b8c8a-1787111312046 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sleek futuristic smartwatch promo video for “XENON.” Begin with a radial energy pulse transitioning into a rotating dark metallic watch with floating particles, then reveal a close-up face with glowing blue holographic numbers and futuristic gauges. Show a person wearing the watch as circuit-like patterns illuminate their hand and holographic HUD panels project around their wrist. Cut to a silver-haired person in smart glasses surrounded by floating interfaces in a dark digital grid environment, and finish with a glowing energy ring around the watch revealing the “XENON – REACH BEYOND” branding.</code></pre>
+
+</details>
 
 ## Crispy Potato Chips Product Commercial Storyboard
 

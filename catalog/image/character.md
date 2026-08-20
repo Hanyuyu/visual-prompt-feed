@@ -1,9 +1,61 @@
 # Character image prompts
 
-92 source-linked prompts, newest ImgLume records first.
+94 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Demonic Samurai — Ink, Smoke & Fire
+
+- **Original source:** [@liluocheng13 on X](https://x.com/liluocheng13/status/2089611430656188632)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3270](https://imglume.com/prompt/3270)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/23e1319c-20ee-4912-9db0-801d2fb8f09d/368d57ce-f7a4-4904-a423-cfa61bec88e2-1787102448438 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/23e1319c-20ee-4912-9db0-801d2fb8f09d/dd2d2f94-6abb-4a96-b0e1-103bf63f45b9-1787102448438 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Demonic Samurai — Ink, Smoke &amp; Fire.
+
+A towering demonic samurai lunging directly toward the viewer, both hands gripping an ornate katana and thrusting the blade violently into the extreme foreground, exaggerated forced perspective, blade dominating the frame with cinematic motion blur. Horned black samurai helmet, shadowed demonic face, intricate ancient black armor with weathered dark-gold filigree, layered shoulder plates and ornate gauntlets. His enormous black mane whips upward like liquid ink.
+
+The entire figure partially dissolves into explosive black ink, smoke, ash and painterly splatters, with molten cinnabar-red embers glowing through cracks in the armor and robes. Long tattered black garments stream backward, merging into swirling marbled currents of charcoal black, warm grey, aged beige and blood red. Vast negative space surrounding the figure, traditional East Asian ink-wash aesthetics fused with dark fantasy concept art, fluid marbling, organic pigment diffusion, extremely intricate textures, dramatic low-angle perspective, violent forward momentum, sophisticated controlled chaos, monumental and haunting, ultra-detailed, cinematic composition. –ar 9:16</code></pre>
+
+</details>
+
+## High-end mixed-media fashion illustration of a man in a historic train station
+
+- **Original source:** [@AiWithTariq on X](https://x.com/AiWithTariq/status/2089578632092258789)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3263](https://imglume.com/prompt/3263)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/262e8257-99dd-4e4f-a51d-98f1f9442ff5/e6b7e798-3e15-4e1c-953f-4927beeee65d-1787083781748 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded image strictly ONLY for face matching and identity reference.
+Create a striking, high-end mixed-media fashion illustration featuring a handsome man standing inside a grand historic train station. The artwork seamlessly blends photorealistic portraiture with expressive graphite sketching, watercolor painting, and ink illustration techniques. The subject has neatly styled hair with texture. He wears a tailored camel-colored wool overcoat layered over a dark charcoal chunky-knit scarf wrapped elegantly around his neck.
+Pose &amp; Expression:
+Medium portrait composition. The man stands confidently with his left hand tucked into his coat pocket and his right arm resting naturally at his side. He gazes thoughtfully off-camera to the left with a stoic, contemplative, and slightly nostalgic expression, conveying quiet confidence and timeless elegance.
+Background &amp; Environment:
+The left side of the composition transitions into an atmospheric train station interior featuring soaring iron-and-glass architecture, vaulted arches, and an approaching vintage steam locomotive emerging through drifting steam. The environment gradually dissolves into loose architectural sketches, construction lines, and expressive hand-drawn details. No text and extra element.
+Art Style &amp; Medium:
+A sophisticated fusion of graphite pencil drawing, watercolor washes, fine ink linework, and subtle digital painting. The illustration should feature rough sketch marks, visible pencil strokes, architectural drafting lines, monochromatic and sepia-toned watercolor textures, ink splatters, paint drips, and soft smoke effects. The entire artwork is rendered on aged parchment paper with weathered stains, subtle creases, and vintage paper texture. The portrait remains highly detailed while the surrounding elements fade into artistic abstraction.
+Color Palette:
+Warm sepia, beige, camel, charcoal black, soft gray, ivory parchment tones, and muted watercolor browns with subtle cool accents in the eyes.
+Lighting:
+Soft cinematic ambient lighting with gentle highlights on the face and coat, creating depth and contrast while maintaining the hand-painted aesthetic.
+Quality &amp; Detail:
+Masterpiece, museum-quality illustration, ultra-detailed facial features, highly detailed clothing textures, expressive brushwork, dynamic visual contrast, elegant composition, fine-art editorial style, professional mixed-media artwork, 8K resolution, sharp focus, intricate textures, watercolor and graphite fusion, premium fashion illustration.
+Aspect Ratio: 4:5.</code></pre>
+
+</details>
 
 ## KAGERO – The Wandering Blade Character Sheet
 

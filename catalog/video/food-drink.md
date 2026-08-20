@@ -1,9 +1,133 @@
 # Food Drink video prompts
 
-62 source-linked prompts, newest ImgLume records first.
+65 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Instant Noodles Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090019696779387173)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3322](https://imglume.com/prompt/3322)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8100e609-4d1f-45cc-b245-93e8d41c12cd/fd1303e3-e25b-444a-8d96-99339e720972-1787154638933 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8100e609-4d1f-45cc-b245-93e8d41c12cd/19fafee0-a2c5-47b7-a501-96ce9dc0ac2a-1787154638933 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Instant Noodles Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• High-energy food advertisement
+• 8 cinematic product scenes
+• Product-focused commercial presentation
+
+HEADER:
+• Modern bold typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Cinematic Food Advertisement
+ - Product: Instant Noodles
+ - Audio: Cooking ASMR + Energetic Beat
+• Why This Style Works section
+• Warm yellow and red accents
+
+STORYBOARD:
+1. Instant noodle packet standing upright with dramatic lighting
+2. Packet opening and noodles sliding into a bowl
+3. Boiling water pouring over noodles
+4. Noodles cooking with realistic steam rising
+5. Seasoning powder being added
+6. Chopsticks lifting perfectly cooked noodles
+7. Extreme macro shot of glossy noodles with toppings
+8. Final hero bowl beside the original product packet
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Visual
+• Action
+• Camera direction
+• Product detail
+
+CAMERA:
+Macro food photography, overhead composition, steam close-up, noodle pull shot, dramatic product push-in, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food commercial, realistic steam, detailed noodle texture, glossy broth, vibrant ingredients, professional studio lighting, premium packaging, 8K.</code></pre>
+
+</details>
+
+## Handheld selfie vlog eating oden in hotel room
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2089919950161113353)
+- **Recommended model:** `seedance`
+- **Source model(s):** `nanobanana`, `seedance`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3310](https://imglume.com/prompt/3310)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c7104541-3e57-414f-aa91-245b2d57763e/1cf63605-d28a-4596-a270-c2bba510407a-1787150538265 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A photorealistic 30-second handheld selfie vlog featuring a cute young woman Image2 in her early 20s with long, straight blonde hair. She wears a black-sleeved white raglan crop top, Layered delicate gold chain necklaces (one longer with a small circular pendant) rest on her chest., with a black graphic print and light-wash denim shorts. The setting is a bright, modern hotel room with a white bed, gray furniture, sheer curtains, and large windows. Natural daylight, casual handheld camera movement, authentic social-media vlog feel, realistic facial expressions, and natural eating sounds.
+
+0–5 sec: She holds the camera at arm's length, smiling excitedly and sitting on the edge of the bed. She gestures toward a paper cup of steaming oden on a small table.
+
+Dialogue: “Okay, look what I found! I got oden for a little midnight snack.”
+Subtitle: [Okay, look what I found! I got oden for a little midnight snack.]
+
+5–10 sec: She brings the camera closer to the cup, showing spiral fish cake, rolled fish cake, daikon, and other ingredients soaking in dark savory broth. Steam rises naturally from the food.
+
+Dialogue: “This smells so good. And it’s still super hot.”
+Subtitle: [This smells so good. And it’s still super hot.]
+
+10–16 sec: She picks up a piece of fish cake with a wooden skewer, blows on it gently, then takes a bite. She chews happily and looks into the camera with an approving smile.
+
+Dialogue: “Mmm… oh wow. That’s really good.”
+Subtitle: [Mmm… oh wow. That’s really good.]
+
+16–21 sec: She tries another piece, casually chatting while eating. She gestures toward the cup and laughs softly.
+
+Dialogue: “I could honestly eat this every day. The broth is so comforting.”
+Subtitle: [I could honestly eat this every day. The broth is so comforting.]
+
+21–26 sec: She moves to a nearby table where two cups and an iced drink are visible. She sets the oden down, takes a sip of the iced drink, and smiles at the camera.
+
+Dialogue: “Okay, I think I’m officially full now.”
+Subtitle: [Okay, I think I’m officially full now.]
+
+26–30 sec: She picks up the camera again for a final close-up, smiles warmly, gives a small wave toward the lens, and ends the vlog naturally.
+
+Dialogue: “Thanks for eating with me. See you next time, bye!”
+Subtitle: [Thanks for eating with me. See you next time, bye!]
+
+Maintain consistent facial features, hairstyle, outfit, body proportions, and environment throughout. Keep the performance spontaneous rather than overly scripted. Natural blinking, subtle head movements, realistic chewing, authentic hand gestures, visible steam, realistic food textures, soft room ambience, and handheld smartphone camera motion. No voice-over; all dialogue is spoken directly to the camera. Subtitles remain bracketed in English exactly as shown.</code></pre>
+
+</details>
+
+## Cinematic Parisian Morning: Coffee, Croissant, and Sunlit Streets
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2089930417420087621)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `travel`
+- **ImgLume record:** [3306](https://imglume.com/prompt/3306)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/46a3cd3a-2755-4c54-833b-55b4c294d13a/45108068-e694-4abe-8629-c9ae5eb31449-1787150499332 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, realistic short video of a stylish young woman with long wavy brown hair and bangs, wearing a beige trench coat over a white top and light pants, carrying a brown leather shoulder bag. She steps out of an elegant blue door of a classic European building onto a sunlit cobblestone street lined with plants and flower boxes. She walks confidently down the charming Parisian-style alley. She approaches and enters a cozy cafe with wooden doors and glass windows labeled something like “CHANEL ALEX” or similar. Inside the warm, inviting cafe with exposed beams, pendant lights, and a marble counter, she orders an “Ice vanilla latte, please” from a bearded barista in an apron. A close-up of a golden, flaky croissant on a white plate with a fork. She sits by the window, happily sips the layered latte from a clear glass mug, closes her eyes in enjoyment, and says “That’s the good stuff.” She then takes a big bite of the croissant and says “Perfect start to the day.” Final shot of her walking down a bustling cobblestone street in golden morning light, holding the coffee and half-eaten croissant, smiling and looking at the camera. Soft natural lighting, warm tones, shallow depth of field, high detail, lifestyle aesthetic</code></pre>
+
+</details>
 
 ## Crispy Potato Chips Product Commercial Storyboard
 

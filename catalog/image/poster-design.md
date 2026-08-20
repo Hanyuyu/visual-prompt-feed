@@ -1,9 +1,76 @@
 # Poster Design image prompts
 
-85 source-linked prompts, newest ImgLume records first.
+87 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic dark poster of a young man
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2089735797843136959)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3293](https://imglume.com/prompt/3293)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c4d7a0c5-0ebc-4098-a6c7-0580736b324d/ef8a544c-c5a4-4842-8045-76f3ffabd74d-1787150018542 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c4d7a0c5-0ebc-4098-a6c7-0580736b324d/b71526d2-2105-4946-ad4e-b3cca2c4605f-1787150018542 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic dark poster featuring a dramatic over-the-shoulder pose of a young man, using the same face as the uploaded image. The camera is positioned slightly behind the shoulder, capturing a 90–45-degree side profile facing right.
+
+Use strong rim lighting to outline the messy, textured hair, nose, and sharp jawline. Keep the background deep black, with only the edges of the face subtly glowing against the darkness.
+
+The subject wears light-brown, round sunglasses with silver rims, featuring realistic reflections. Preserve the subject’s natural face shape, skin tone, facial features, and realistic facial skin texture.
+
+Overall aesthetic: dark, dramatic, premium cinematic poster, ultra-realistic photography, high contrast, detailed skin texture, atmospheric lighting, sharp facial contours, and sophisticated movie-poster quality.</code></pre>
+
+</details>
+
+## Premium minimalist vintage travel poster prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2089767107840077998)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3281](https://imglume.com/prompt/3281)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/18e5cca6-8c76-4788-bf5a-e21ed6eee94f/de185425-a539-476e-87a8-e0139cfb00aa-1787149655082 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/18e5cca6-8c76-4788-bf5a-e21ed6eee94f/29f732d6-b91c-40bd-91d2-f10054386ccb-1787149655082 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/18e5cca6-8c76-4788-bf5a-e21ed6eee94f/45ca4aad-fc4a-45a0-b1e5-7dc51eda344a-1787149655082 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/18e5cca6-8c76-4788-bf5a-e21ed6eee94f/27675677-6336-4e05-b877-cf94e939e125-1787149655082 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium minimalist vintage travel poster for [DESTINATION / CITY, COUNTRY], inspired by classic mid-century travel prints.
+
+Use a clean, sophisticated composition with a limited 4–6 color palette, muted vintage tones, one strong accent color, subtle aged-paper grain, and a refined screen-printed / paper-cutout aesthetic. The result should feel like a collectible printed poster, not a modern digital illustration.
+
+Typography
+
+At the top, add elegant serif-style typography:
+
+“[CITY]” — large, refined, and in a deep sophisticated color.
+Directly underneath, add “[COUNTRY]” in a smaller complementary accent color.
+
+Main Illustration
+
+Create an instantly recognizable yet highly stylized representation of [CITY], featuring [LANDMARK 1], [LANDMARK 2], [LANDMARK 3], and [ICONIC LOCAL ELEMENT / VEHICLE / CULTURAL SYMBOL].
+
+Integrate these naturally into a simplified landscape featuring [RIVER / COASTLINE / MOUNTAINS / STREETS / CITY SKYLINE]. Add only one or two subtle atmospheric elements such as [BOAT / PEOPLE / BIRDS / TREES / VEHICLE].
+
+Place a simple circular sun or moon behind the skyline, with minimal paper-cutout clouds or atmospheric shapes.
+
+Visual Style
+
+Mid-century vintage travel poster, minimalist editorial composition, flat geometric shapes, confident linework, simplified architecture, elegant art-deco influence, layered paper-cutout forms, subtle screen-print texture, slight imperfect ink registration, strong visual hierarchy, generous negative space, timeless and nostalgic.
+
+Avoid photorealism, excessive detail, gradients, glossy effects, modern 3D rendering, clutter, and overly saturated colors.
+
+The final artwork should feel timeless, artistic, elegant, premium, nostalgic, and immediately identifiable as [CITY].
+
+Format: Vertical 4:5, centered composition, generous negative space, high-end collectible print quality.</code></pre>
+
+</details>
 
 ## Venetian Canal at Golden Hour Travel Poster
 

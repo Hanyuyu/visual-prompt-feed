@@ -1,9 +1,382 @@
 # Animation video prompts
 
-93 source-linked prompts, newest ImgLume records first.
+101 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-photorealistic 10-second magical mud-to-bird transformation video
+
+- **Original source:** [@Yesandyou_ on X](https://x.com/Yesandyou_/status/2090075447195480403)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3323](https://imglume.com/prompt/3323)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/58908de7-3110-4f89-af9d-5337f86fce41/75931b9d-5193-41db-81a9-9effe85b1b2a-1787154724063 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>🎬 MAIN VIDEO PROMPT
+
+Use the uploaded image as the exact visual reference. Create a highly detailed, cinematic 10-second magical transformation video. Keep the overall composition, character appearance, lighting, camera quality, and environment consistent with the reference.
+
+⏱️ 0–2 seconds — Jar &amp; Mud
+The subject is holding a small transparent glass jar/container carefully in both hands. Inside the jar is thick, dark, moist magical mud/soil with realistic texture. The camera slowly pushes toward the jar, focusing on the mud. Tiny particles of soil begin to move naturally.
+
+🌱 2–5 seconds — Mud Comes Alive
+The mud inside the jar starts gently swirling and rising as if something is forming underneath it. Small cracks appear across the surface of the mud. Tiny pieces of soil lift into the air and fall naturally. A subtle magical glow begins to emerge from inside the mud, while keeping the scene photorealistic rather than cartoonish.
+
+🐣 5–8 seconds — Bird Emerges
+A small realistic bird slowly emerges from the mud inside the jar. First, its tiny head appears, followed by its neck, wings, and body. Wet mud naturally falls away from its feathers as it comes out. The bird gradually becomes fully formed, with extremely detailed feathers, realistic eyes, tiny beak, and natural movements. The emergence should feel magical but physically believable.
+
+🐦 8–10 seconds — Final Moment
+The bird completely emerges from the mud and gently spreads its wings. A few tiny pieces of mud fall back into the jar. The bird looks around naturally and gives a subtle wing movement. The camera finishes with a beautiful close-up of the bird sitting on/above the mud inside the jar, creating a mysterious and magical final shot.
+
+🎥 CAMERA &amp; VISUAL STYLE
+
+Duration: 10 seconds
+Format: 9:16 vertical
+Ultra-photorealistic
+Cinematic fantasy realism
+Smooth slow camera movement
+Macro-style detail on mud and feathers
+Realistic depth of field
+Natural lighting and shadows
+Detailed glass reflections
+Realistic mud physics
+Smooth motion with strong temporal consistency
+No sudden camera movements
+No cuts
+No transitions
+No camera shake
+
+🪶 BIRD DETAILS
+
+The bird should look completely realistic:
+
+Extremely detailed individual feathers
+Natural feather movement
+Realistic eyes and beak
+Correct bird anatomy
+Natural wing structure
+Realistic proportions
+Wet mud sticking temporarily to feathers
+Mud naturally falling away as the bird emerges
+Subtle breathing and head movement
+Natural wing movement
+
+🚫 NEGATIVE PROMPT
+
+cartoon, anime, CGI-looking bird, fake feathers, deformed bird, malformed wings, extra wings, extra legs, extra eyes, multiple birds, duplicate bird, bird suddenly appearing, bird teleportation, unnatural bird anatomy, giant bird, oversized bird, disappearing bird, distorted mud, floating mud, unrealistic mud physics, excessive magic effects, cartoon magic, excessive glowing particles, explosions, smoke, fire, distorted jar, broken glass, melting glass, changing jar shape, extra hands, deformed fingers, missing fingers, distorted hands, face distortion, blurry, low resolution, pixelated, oversaturated, excessive bloom, excessive lens flare, camera shake, fast zoom, sudden movement, flickering, ghosting, frame interpolation artifacts, object morphing, inconsistent lighting, watermark, logo, text, subtitles, UI elements.
+
+✨ FINAL QUALITY
+
+Photorealistic cinematic fantasy, highly detailed wet mud, realistic glass, physically accurate lighting, natural bird anatomy, extremely detailed feathers, believable mud-to-bird transformation, smooth 10-second animation, consistent objects and environment, premium cinematic quality, realistic depth of field, 4K-quality detail.</code></pre>
+
+</details>
+
+## Cozy Crochet Amigurumi Girl Ordering Pizza - Seedance 2.5 Stop-Motion Video
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2090036041315168762)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`
+- **ImgLume record:** [3320](https://imglume.com/prompt/3320)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/950d3c4e-46ea-453f-91eb-6ee82e449ff9/71ba8d21-fb9b-48b2-b2d5-6ef9a6b1e734-1787152567899 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CHARACTER: Amigurumi crochet/knitted-yarn style girl, black hair in bun with white-and-green crochet flower clip, warm brown eyes, rosy cheeks, soft smile, cream cable-knit sweater, sage-green knit trousers, white knit slippers.
+STYLE: Ultra-realistic crochet/yarn stop-motion aesthetic, macro textile texture on every object (furniture, food, house, clothes), cozy storybook look, warm golden indoor lighting contrasted with a rainy night outside the window.
+ENVIRONMENT: Small cozy cottage interior — window with tied-back curtains and rain streaking down glass, wooden windowsill with potted crochet flowers, green sofa/armchair, side table, wall clock, lamp; cuts to a rainy night exterior with a cute red-roofed cottage.
+MOOD: Quiet, cozy, comforting — craving → decision → excitement → satisfaction.
+SHOT BREAKDOWN:
+SHOT 1: MS, side profile — she stands at the rain-streaked window at night, watching raindrops fall, soft content smile.
+SHOT 2: CU push-in on her face at the window, rain visible outside, warm house lights glowing in dark background.
+SHOT 3: MS — she walks to a crochet-textured refrigerator, opens it, finds it empty.
+SHOT 4: CU on her face, disappointed/thinking expression.
+SHOT 5: MCU — she picks up her phone near a lamp and wall clock showing late evening time, excited reaction, idea strikes.
+SHOT 6: Insert CU, over-the-shoulder on phone screen — a "Cozy Pizza" delivery app open with a pizza icon and checkout button, she taps to order.
+SHOT 7: Same CU continues, confirming the order.
+SHOT 8: MS — she walks back to the window, waits, smiles, touches a flower on the sill, rain still falling.
+SHOT 9: CU on her face at the window, warm anticipatory smile.
+SHOT 10: WS exterior, night, rain — a crochet delivery man on a red scooter with a "Cozy Pizza" delivery box rides up to the cottage.
+SHOT 11: MS at the front door — delivery man hands her the red pizza box, both smiling, warm porch light.
+SHOT 12: Wide push-in — she steps back inside, closing the door.
+SHOT 13: Macro top-down shot — pizza box open on the table, crochet pizza with tomato/basil/mushroom toppings, hand reaching for a slice.
+SHOT 14: Macro cheese-pull shot — slice lifted with stretchy melted cheese strands, steaming mug beside it.
+SHOT 15: CU front-facing — she sits on the green sofa holding the pizza slice, thumbs-up gesture, big happy smile to camera.
+SHOT 16: MS side profile — she relaxes in a cozy armchair by the rainy window, eating pizza, steaming mug on side table, blanket draped over the chair, peaceful contented expression — final cozy shot.
+SFX/Ambience: soft rain patter, warm cozy background music, gentle comfort-food narrative arc.</code></pre>
+
+</details>
+
+## Anime cinematic scene of a tuxedo cat and girl walking on a rainy road at sunset
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2089913193070207056)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [3303](https://imglume.com/prompt/3303)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/91e30acd-1f77-44ec-8569-4da192d0b77c/2e95dc0f-4401-4b76-a495-cd4f2f1decde-1787150369447 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Anime cinematic aesthetic, soft hand-painted backgrounds, expressive character animation, and a warm emotional atmosphere. A playful tuxedo cat with oversized golden-yellow eyes and a tiny white collar walks beside a young girl wearing a flowing yellow dress and white shoes along a rain-soaked rural asphalt road at sunset.
+
+Begin with a medium tracking shot from behind as the girl and cat walk together, their footsteps creating tiny splashes on the wet pavement. Cut to intimate ground-level close-ups of the cat playfully stepping into a large puddle, its paw creating expanding ripples that distort the reflection of the orange-and-gold sunset sky.
+
+The camera slowly follows the ripples before tilting upward to reveal the girl smiling softly at the cat. Gentle wind moves her dress and hair while nearby grass and lush green foliage sway naturally.
+
+Transition into a smooth cinematic pull-back as the girl and cat stop in the middle of the road. Warm sunlight breaks through the trees, creating glowing lens flares, soft volumetric light, and sparkling reflections across the wet asphalt.
+
+End with a breathtaking wide-angle shot from behind: the girl and cat appear small against the long winding road, surrounded by vibrant green countryside, distant misty mountains, and a glowing orange-pink horizon. The wet road mirrors the sky like glass, creating a dreamy, nostalgic, emotional anime-film ending.
+
+Highly detailed backgrounds, natural movement, cinematic depth of field, subtle film grain, atmospheric perspective, vivid reflections, soft rim lighting, smooth camera motion, emotionally expressive storytelling, beautiful sunset color palette, Studio Ghibli-inspired sense of wonder.</code></pre>
+
+</details>
+
+## Cute animated black-and-white cat preparing a bento box
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2089719406683468084)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3299](https://imglume.com/prompt/3299)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed38cc40-4357-4776-b1e6-61e52cd03ae8/acafd48e-00e4-4e19-a9ed-1c6a48453320-1787150272679 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute animated clip of a black-and-white cat wearing a white apron preparing a bento box. The cat carefully places and smooths a square block of white rice into an ornate floral lacquer bento box, brushes a dark glossy savory sauce over the rice, then layers thick golden folded egg strips or noodles on top, gently patting them down to finish the meal.</code></pre>
+
+</details>
+
+## Glow-Up Time
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089910057639321826)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `character`
+- **ImgLume record:** [3275](https://imglume.com/prompt/3275)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e60792c0-ae5b-4c0c-824b-f4f37d3f95d2/a0351979-2351-40d0-91ff-4e5ec004990c-1787149493504 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D high-fidelity stylized animation , featuring a girly Gen Z character wearing oversized baggy pants, chunky sneakers, and a cropped distressed leather jacket. Cartoon-leaning style with hyper-expressive features, NOT photorealistic. Clean vanity setup with soft pink warm lighting, glossy makeup textures, fast, snappy pacing, and no logos. Aggressive dynamic camera movement with macro punches, snap-zooms, whip-pans, handheld bounce, micro-orbits, speed ramps, and freeze beats.
+
+Start with a HARD SNAP ZOOM into her eye in the mirror as she is already mid-blink, creating an instant hook with a sharp reflection.
+
+Show a MACRO SLOW-MOTION shot of the mascara wand approaching her lashes, capturing tiny details and freezing just before contact.
+
+Quickly SPEED RAMP as the mascara touches the lashes and they extend dramatically, followed by a SNAP ZOOM revealing both eyes with a clean, symmetrical finish.
+
+WHIP-PAN to her lips as she applies glossy lip gloss in smooth slow motion. The light catches the shine as she gently presses her lips together for a polished finish.
+
+Move into a TRACKING close-up as she taps blush onto her cheeks and blends it quickly. Her cheeks instantly become warmer and more radiant as the glow builds.
+
+Cut to a MACRO highlight shot as her finger sweeps across the cheekbone. FREEZE briefly at the shimmer impact while the light creates a soft flare.
+
+WHIP UP toward her hair as she flips her head forward and then snaps it back up. Individual strands bounce naturally into place, enhanced by a dramatic speed ramp.
+
+Use FAST CUTS for hair styling as she loosens and adjusts her hair tie, keeping the motion continuous while creating a perfectly messy, effortless shape.
+
+Create a MICRO ORBIT around her as she leans closer to the mirror and checks different angles, ending with a subtle, confident change in expression.
+
+SNAP ZOOM into the outfit details as she pulls her jacket perfectly into place. The chain catches the light, creating a satisfying final styling moment.
+
+Use a SLOW PUSH-IN as she slightly lifts her chin, revealing the complete finished look with a polished glow-up effect.
+
+End with a FINAL FREEZE BEAT followed by subtle motion as she turns toward the camera, gives a confident smirk, tilts her head softly, and finishes in a clean, stylish pose.
+
+Audio: upbeat pop beat with detailed mascara brush sounds, smooth gloss swipe sounds, energetic whoosh transitions, a soft shimmer chime during the highlight moment, natural hair swish, and a final sparkle hit.</code></pre>
+
+</details>
+
+## Feline Soldier Cat Loop in Muddy Trench
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2089570160998748507)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3262](https://imglume.com/prompt/3262)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9c360c68-91e4-4b48-84e1-580a30899946/ab4926e1-4ee7-4474-a1fd-ede86d33d261-1787080064451 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use @ image1 as the visual baseline. Maintain a locked, static camera, a completely blurred muddy trench background, and desaturated, gritty cinematic war-film color grading. Ensure the paws remain strictly feline with no human fingers, and the helmet and rifle maintain rigid structural consistency without melting or warping.
+
+Execute this exact 15-second looped sequence:
+Start with only the very top curve of the green military helmet visible above the dirt mound. The white cat slowly rises vertically into frame, resting the miniature rifle on the dirt and taking aim.
+The cat squints its left eye tightly, grips the rifle with its right feline paw, and fires. The miniature rifle kicks back with sharp, rapid recoil, accompanied by a quick muzzle flash and a puff of smoke.
+Immediately after firing, the cat swiftly and smoothly ducks straight back down behind the dirt mound until it is completely hidden again.
+The cat pauses, remaining hidden with only the top of the helmet visible.
+The cat repeats the action, rising vertically into frame a second time to take aim.
+The cat squints its left eye again and fires a second time. The rifle kicks back with sharp recoil, muzzle flash, and smoke.
+The cat swiftly ducks straight back down behind the dirt mound, ending exactly as the video started.</code></pre>
+
+</details>
+
+## Duel in the Stratosphere: Shattered Sky Sakuga
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2089707012959457627)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3259](https://imglume.com/prompt/3259)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1df6d4e9-67e8-435d-a257-8409592bde6f/53c8fcda-75c9-4c09-8eb6-b905e09e0cba-1787079944992 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 15-second horizontal 16:9 original aerial fantasy action anime video from the provided first frame.
+
+CRITICAL ENTITY LOCK:
+There must be exactly 2 main characters in the entire video: SORA (female sky sentinel in white/gold light armor) and THORNE (male storm warrior in dark steel armor).
+Do not add secondary knights, dragons, flying creatures, or background onlookers.
+Maintain strict visual consistency for Sora's cyan braided hair, golden wind rapier, white armor, and Thorne's dark steel armor, navy cape, and purple lightning greatsword throughout all cuts.
+
+Character identity:
+SORA: Female sky sentinel, white and gold light armor, wing-like stabilizers, cyan braided hair, golden wind rapier, agile aerial combat style.
+THORNE: Male storm warden, dark steel plate armor, tattered navy cape, messy dark hair, purple lightning greatsword, heavy kinetic strikes.
+
+Video style:
+High-budget Japanese anime feature film quality, high-altitude fantasy aesthetic, high-contrast stratosphere lighting during a solar eclipse, fluid aerial movement, dynamic time-dilation effects.
+
+Camera and pacing:
+High-flying aerial action transitioning into an ultra-detailed slow-motion impact freeze:
+0.0s - 8.5s: Rapid kinetic tracking as warriors leap between floating stone monoliths, trading high-speed blade deflections and lightning arcs above clouds.
+12.0s - 15.0s: Explosive snap back to full velocity with a shockwave clearing the sky, ending on a grounded standoff pose on separate floating ruins.
+
+Action timing:
+0.0s - 2.5s:
+SORA and THORNE launch off floating stone monoliths into open air. SORA uses wing stabilizers for a mid-air dash, trailing golden wind through dark thunderclouds.
+
+2.5s - 5.5s:
+THORNE swings his greatsword, releasing a purple electrical arc. SORA deflects the arc with a dual-blade spin, creating an atmospheric energy shockwave.
+
+5.5s - 8.5s:
+THORNE launches a heavy upward thrust. SORA vaults off the blade surface mid-air, spinning into a golden wind counter-strike that THORNE blocks with his steel gauntlet.
+
+8.5s - 12.0s:
+Both warriors collide in mid-air cross-strike. Time dilates to an absolute crawl. Camera zooms close on the point of contact. Purple lightning arcs, golden wind spirals, floating mossy stone fragments, and solar eclipse rays hover motionless in mid-air.
+
+12.0s - 15.0s:
+REAL-TIME SNAP BACK: Shockwave detonates with a sonic blast, clearing surrounding clouds in a massive ring. Both land on separate floating stone islands as energy dissipates into the stratosphere. Final freeze frame.
+
+Motion quality:
+Fluid 2D animation, realistic cloud and wind particle dispersion, flawless 120fps slow-motion suspended animation, weightless momentum simulation, zero character distortion.
+
+Environment:
+High stratosphere, floating moss-covered stone monoliths, dark thundercloud sea, solar eclipse ring, glowing sunbeams, howling mountain winds.
+
+Final output:
+15 seconds, horizontal 16:9, original high-budget aerial fantasy anime, exactly 2 main characters, majestic velocity, dramatic slow-motion peak, no subtitles, no watermarks, no logos.</code></pre>
+
+</details>
+
+## 30-second manga-style cyborg battle in industrial futuristic arena
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2089653649681031601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3255](https://imglume.com/prompt/3255)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e7f7521e-9e2a-4f62-9f49-fd13bf1016a5/0ad6de58-cdfb-4fed-8dcd-c8d15c6ba9f4-1787075610569 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[PROJECT TYPE] Text-to-video. 30-second action sequence. Manga-style cyborg battle.
+
+[Global Setting] Industrial futuristic arena. Metal platforms, neon lights, dark
+atmospheric background. Rain falling. High-energy manga battle aesthetic.
+
+[Character 1 Humanoid Cyborg] Sleek android with human-like proportions. Metallic
+silver and black armor plating. Glowing blue energy lines running through body.
+Sharp geometric design. Tall and agile. Fighting stance: balanced, precise, fast.
+
+[Character 2 Bear Cyborg] Massive mechanical bear. Bulky armored body with
+heavy metal plating. Red glowing eyes. Enormous claws and teeth (mechanical).
+Low center of gravity. Brutal, powerful stance.
+
+[Opening, 0–3s] Wide shot of arena. Both cyborgs face each other. Humanoid cyborg
+in sleek fighting stance, energy lines glowing brighter. Bear cyborg pounds ground,
+creating shockwave. Neon lights flashing. Tension building. NO DIALOGUE.
+
+[First Exchange, 3–9s] Humanoid cyborg LAUNCHES first with superhuman speed
+blur of motion across frame. Humanoid delivers series of rapid strikes (punches,
+kicks), speed lines trailing motion manga-style. Bear cyborg ROARS (mechanical
+sound) and swings massive arm to block. Impact creates EXPLOSIVE visual effect.
+Sparks fly. Both move with incredible speed. Humanoid's blue energy lines pulse
+brighter. Bear's red eyes glow more intense.
+
+[Mid Battle, 9–18s] Dynamic rapid exchanges. Humanoid cyborg executes acrobatic
+flip-kick, Bear cyborg swats at air missing by inches. Humanoid bounces off wall
+(superhuman) and comes back for second assault. Bear charges forward with raw
+power ground shakes. Humanoid dives under incoming strike. Both fighting at
+extreme speed. Multiple fast-cut angles showing intensity. Manga-style motion
+lines following every movement. Speed effects and blur. Mechanical sounds
+(servos, hydraulics, metal clanging). Energy bursts where they collide.
+
+[SLOW-MOTION MOMENT, 18–24s] Time slows to 40% speed. One final powerful exchange
+in slow-motion. Humanoid executes a devastating uppercut aimed at Bear's torso.
+Bear's massive paw comes down to counter. Slow-motion impact between them
+MASSIVE explosion of energy, sparks, and mechanical parts flying. The collision
+creates a shockwave that ripples outward. Both cyborgs suspended in moment of
+peak clash. Humanoid's energy lines at maximum glow, Bear's red eyes blazing.
+Return to normal speed.
+
+[Final Moment, 24–30s] Both cyborgs are pushed back by the impact. Humanoid
+slides backward on metal platform, energy crackling. Bear cyborg stumbles back,
+roars (mechanical roar). Both breathing heavily (mechanical servos hissing). They
+face each other again, both clearly damaged but still ready. Energy building for
+next round. Final frame: both in standoff position, ready to continue. Neither
+defeated. Pure intensity.
+
+[Audio] Heavy rain sound at start. Mechanical servo sounds as cyborgs move. Rapid
+whoosh sounds from speed. Metal clanging and impacts. Humanoid cyborg has high-
+pitched energy whine. Bear cyborg has deep mechanical growls and roars. Explosion
+sounds on impact. During slow-motion: all sounds deepen and stretch. Building
+tension music (intense orchestral/electronic blend). Final moment: heartbeat-like
+bass pulse underneath, ready for next phase.
+
+[Visual Style]
+— Manga-style speed lines
+— Dynamic camera angles
+— Neon lighting (blue, red, dark backgrounds)
+— Sparks and energy effects on impact
+— Slow-motion for climactic moment
+— Both cyborgs design distinct and clear
+— High-energy, intense, no mercy
+— Manga aesthetic with cinematic quality
+
+[Tone] Pure combat intensity. No emotion, just raw mechanical power and strategy.
+This is a clash of design and engineering. Manga action at its finest.
+
+[Consistency]
+— Humanoid cyborg: sleek, fast, precise, blue energy
+— Bear cyborg: massive, powerful, brutal, red energy
+— Same arena throughout
+— Rain constant
+— Neon lighting maintained
+— NO DIALOGUE
+— Continuous combat flow</code></pre>
+
+</details>
 
 ## KAGERO – The Wandering Blade Cinematic 2.5D Animation
 

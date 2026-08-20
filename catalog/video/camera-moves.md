@@ -1,9 +1,301 @@
 # Camera Moves video prompts
 
-113 source-linked prompts, newest ImgLume records first.
+119 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Anime cinematic scene of a tuxedo cat and girl walking on a rainy road at sunset
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2089913193070207056)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `animation`, `camera-moves`, `cinematic`
+- **ImgLume record:** [3303](https://imglume.com/prompt/3303)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/91e30acd-1f77-44ec-8569-4da192d0b77c/2e95dc0f-4401-4b76-a495-cd4f2f1decde-1787150369447 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Anime cinematic aesthetic, soft hand-painted backgrounds, expressive character animation, and a warm emotional atmosphere. A playful tuxedo cat with oversized golden-yellow eyes and a tiny white collar walks beside a young girl wearing a flowing yellow dress and white shoes along a rain-soaked rural asphalt road at sunset.
+
+Begin with a medium tracking shot from behind as the girl and cat walk together, their footsteps creating tiny splashes on the wet pavement. Cut to intimate ground-level close-ups of the cat playfully stepping into a large puddle, its paw creating expanding ripples that distort the reflection of the orange-and-gold sunset sky.
+
+The camera slowly follows the ripples before tilting upward to reveal the girl smiling softly at the cat. Gentle wind moves her dress and hair while nearby grass and lush green foliage sway naturally.
+
+Transition into a smooth cinematic pull-back as the girl and cat stop in the middle of the road. Warm sunlight breaks through the trees, creating glowing lens flares, soft volumetric light, and sparkling reflections across the wet asphalt.
+
+End with a breathtaking wide-angle shot from behind: the girl and cat appear small against the long winding road, surrounded by vibrant green countryside, distant misty mountains, and a glowing orange-pink horizon. The wet road mirrors the sky like glass, creating a dreamy, nostalgic, emotional anime-film ending.
+
+Highly detailed backgrounds, natural movement, cinematic depth of field, subtle film grain, atmospheric perspective, vivid reflections, soft rim lighting, smooth camera motion, emotionally expressive storytelling, beautiful sunset color palette, Studio Ghibli-inspired sense of wonder.</code></pre>
+
+</details>
+
+## Cinematic Sci-Fi Warzone — Mechanical Spider Soldier
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2089939690535506122)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3294](https://imglume.com/prompt/3294)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/90cf8b78-a6f2-45f4-ac6a-a24b8348b484/3acede89-3973-46a4-9d20-4d2c4e95cdc3-1787150042037 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Title: Cinematic Sci-Fi Warzone — Mechanical Spider Soldier
+
+Create a 15-second ultra-realistic cinematic sci-fi action video set in a devastated urban warzone at dusk. The environment is filled with destroyed buildings, abandoned vehicles, rubble, smoke, fire, sparks, and a dark orange-gray sky.
+
+Main character: A futuristic heavily armored soldier wearing a dark black/charcoal tactical exosuit with subtle metallic details and a completely enclosed helmet. Attached to the character’s back is a large mechanical spider-like robotic exoskeleton with multiple articulated black-and-yellow metallic limbs, moving naturally and independently like powerful robotic arms. The machinery should feel heavy, functional, industrial, and physically believable.
+
+0–3 seconds:
+Start with a wide cinematic shot of the destroyed street. The armored soldier runs directly toward the camera through smoke and scattered debris while the mechanical limbs extend dramatically behind them. Small fires burn on both sides of the street. Several distant figures and damaged vehicles are visible through the haze. Camera tracks backward smoothly at low height, creating an intense action-movie feeling.
+
+3–6 seconds:
+The soldier continues sprinting as a huge explosion erupts behind them. A powerful orange fireball illuminates the entire street. Debris, dust, sparks, and smoke rush outward. The character briefly turns and looks toward the explosion before continuing forward. Use realistic motion blur, flying particles, heat distortion, and dramatic backlighting.
+
+6–8 seconds:
+The character dives/slides across the rubble-covered ground to avoid the blast. Camera moves close to ground level beside the soldier. Their armor scrapes against the pavement while sparks and dust fly around them. The mechanical spider limbs fold and reposition dynamically to protect and stabilize the character.
+
+8–11 seconds:
+Cut to a dramatic close-up of the mechanical appendages. Multiple articulated robotic arms unfold from behind the character, their joints rotating with realistic mechanical movement. Metallic surfaces reflect the orange flames. Smoke and glowing embers drift through the foreground. Slowly push the camera toward the character.
+
+11–13 seconds:
+Reveal the full character standing in the middle of the devastated street. The robotic limbs spread wide behind them in a threatening spider-like silhouette. Burning buildings and thick black smoke fill the background. The character remains completely still for a brief heroic moment while small pieces of debris fall around them.
+
+13–15 seconds:
+Suddenly, an enormous explosion detonates behind the character, creating a massive expanding fireball that fills the background. The shockwave sends dust and debris across the street. The character remains silhouetted against the explosion while the mechanical limbs spread outward. End on a powerful wide cinematic shot.
+
+Visual style: ultra-realistic AAA video-game cinematic, Hollywood sci-fi action film, photorealistic CGI, physically accurate destruction, realistic metallic materials, detailed armor, volumetric smoke, fire and embers, cinematic depth of field, natural motion blur, atmospheric perspective, dramatic orange-and-blue lighting, high dynamic range, realistic shadows, detailed rubble and urban destruction.
+
+Camera: dynamic handheld action-camera movement combined with smooth tracking shots, low-angle shots, close-ups, wide establishing shots, dramatic push-ins, realistic cinematic lens behavior, subtle camera shake during explosions.
+
+Physics: realistic human running and sliding, believable robotic joint movement, physically accurate debris, explosions, smoke propagation, sparks, dust and shockwaves. Maintain consistent character appearance, armor design, robotic appendages, environment, lighting, and spatial continuity throughout.
+
+.</code></pre>
+
+</details>
+
+## 30-second Handheld Smartphone Gym Vlog Sequence
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2089768859884732461)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3290](https://imglume.com/prompt/3290)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/af9cb8e2-a976-45f7-b601-96efccc7b356/2828554c-827c-425d-8d78-0aae444ed124-1787149934181 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 10-shot handheld smartphone gym-vlog sequence with photorealistic snapshot realism. Make it feel spontaneous and genuinely filmed on a phone, with varied angles, subtle shake, slight tilts, natural reframing, realistic motion blur, fine film grain, harsh fluorescent gym lighting mixed with warm afternoon sunlight from high windows.
+
+Woman Image 1: use the reference only for her face, identity, and hairstyle. Keep her appearance consistent throughout. She wears a fitted heather-grey athletic top, black leggings, tied-back hair with a few loose strands.
+
+Setting: She is alone in a quiet, slightly scuffed gym corner with folded mats, a spotted mirror, and a bench holding a rolled yoga mat and water bottle. No other people.
+
+Audio: All dialogue must be spoken naturally in English, with casual delivery, genuine laughter, breathing, footsteps, rope impacts, clothing movement, and faint distant gym ambience only. No Korean dialogue. No music, subtitles, text, logos, or watermarks.
+
+1 — 0–3s
+
+She confidently starts jump-roping, but the rope immediately catches her foot. She stumbles, looks down in disbelief, then laughs.
+
+“Oh, come on, already?”
+
+2 — 3–6s
+
+Side close-up of her hands resetting the rope. Her wrists flick naturally; the rope slaps the floor twice before she finds the rhythm. Slight shaky follow camera.
+
+3 — 6–9s
+
+Straight-on medium shot. She starts jumping properly, focused with a small smile. Her breathing becomes quicker and the rope creates natural motion blur.
+
+“One, two, three…”
+
+4 — 9–12s
+
+She catches the rope on her shoe again, briefly loses balance, then immediately continues. She looks toward the camera and laughs.
+
+“Seriously?”
+
+5 — 12–15s
+
+She finally gets a smooth rhythm. The camera slowly moves from a side angle toward the front. Her ponytail and loose strands move naturally with every jump.
+
+6 — 15–18s
+
+The pace increases. Faster rope rotations, heavier breathing, subtle sweat around her hairline, realistic body movement and handheld camera sway.
+
+7 — 18–21s
+
+The rope clips her shin. She winces, hops once, then laughs instead of stopping. Slight upward camera angle with a gentle push-in.
+
+“Okay… that still counts.”
+
+8 — 21–24s
+
+She pushes herself into another fast set. Straight-on framing, rapid rope beats, heavier breathing and realistic motion blur. She looks determined but is clearly struggling.
+
+9 — 24–27s
+
+The rope suddenly tangles around her feet. She stops, bends over with her hands on her knees and bursts into genuine laughter. Camera naturally tilts downward.
+
+“I seriously can't do this anymore.”
+
+10 — 27–30s
+
+Still laughing and breathless, she slowly straightens, wipes her eyes, drops the tangled rope and looks toward the camera with an embarrassed grin.
+
+“Yeah… I'm done.”
+
+She shakes her head while the camera slowly drifts backward and slightly upward, lingering on the funny moment.
+
+Continuity &amp; realism: Keep the same woman, face, hairstyle, clothing, environment and lighting throughout. Maintain realistic human physics, rope movement, foot placement, breathing, sweat, hair motion and camera inertia. Preserve small imperfections and spontaneous reactions. Avoid polished commercial cinematography; make it feel like a real friend casually filming a funny gym session.
+
+End with her laughter and breathing naturally fading into the quiet gym ambience. No music, captions, text, logos or watermarks. Do not recreate or copy the reference image itself; use it only for facial identity and hairstyle.</code></pre>
+
+</details>
+
+## Journey through Hell – continuous first-person smartphone video
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2089939087201558754)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `travel`
+- **ImgLume record:** [3286](https://imglume.com/prompt/3286)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bbb7d1c-e815-49cc-af6a-915c93cbfe5b/dc76b95f-0bf5-4abf-851e-9227ae4bbe0a-1787149857870 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>One continuous 30-second chaotic amateur first-person smartphone video filmed by a standing passenger inside a completely packed magnetic-levitation commuter train. Single unbroken take with no cuts, jump cuts, dissolves, crossfades, double exposures, portals, morphing or artificial scene transitions. The train begins as an ordinary weekday commute on Earth and then physically travels downward on an impossible journey — through subway tunnels into bedrock, into a colossal void beneath the crust, past a soot-blackened waiting platform, through an immense eroded gate, out above a burning plain, down the terraced wall of a vast pit, and into the inhabited depths of Hell. Everything must feel physically connected, as though the same train is genuinely travelling down through each environment.
+The tone is bureaucratic dread, not horror-movie shock. This is a scheduled service. The route is old, the infrastructure is worn, and the train runs it the way it runs any other line. The horror comes from how ordinary the journey is and how enormous the destination turns out to be.
+The interior is a completely packed standing-room-only maglev commuter car. Passengers are pressed shoulder-to-shoulder, gripping overhead straps and vertical poles. Backpacks are squeezed between bodies, coats and loose clothing shift with acceleration, straps swing on their inertia, and the entire carriage constantly vibrates and rattles. The camera is a cheap smartphone held at chest height by one standing passenger who grips a pole with the other hand. The phone itself is NEVER visible because the phone is the camera. The framing is crooked, slightly off-centre, partially blocked by shoulders and arms, and imperfect like genuine accidental footage. The camera constantly shakes, rolls, yaws and gets thrown around by acceleration. Use realistic rolling-shutter distortion, autofocus hunting, exposure pumping, blown highlights, crushed noisy shadows, low-bitrate compression, macroblocking and smeared motion blur. It must look like genuine spontaneous smartphone footage, not professional cinematic footage.
+The camera always looks through the LEFT-SIDE WINDOWS at approximately 90 degrees to the train's direction of travel. The train always travels forward and the outside world always streams past the windows from front-to-back. Never switch to a forward-facing train-nose view. Never show the front of the train. The same carriage, same passengers, same poles, same straps and same windows remain visually consistent throughout the entire journey. The interior is the constant realistic anchor while the outside world becomes increasingly impossible.
+0 to 3 seconds. Begin with an ordinary overcast weekday commute on an elevated urban line. Grey apartment blocks, rooftop water tanks, a scrapyard, overhead wires, a canal and traffic on a road below streak past the left windows at different distances with realistic parallax. The passengers are tired and mostly uninterested — some on phones, some staring out, some talking quietly. A calm public-address chime sounds and an announcer quietly says, "Next stop: Hell." Nobody reacts. One passenger glances up briefly and goes back to their phone. The train accelerates and everyone instinctively tightens their grip as the carriage gives a hard lateral jolt.
+3 to 6 seconds. The line drops into a cutting and then into a tunnel. Tiled subway walls, cable runs, service lights and a passing platform strobe across the windows in hard bands of light and dark, throwing the carriage into stuttering illumination. The tunnel ages as the train descends: modern concrete becomes older brickwork, then rough-cut stone. The fittings become scorched and soot-caked — blackened signal lights, corroded brackets, cabling burnt down to bare metal. This route has been running a long time. The gradient steepens noticeably; passengers lean back against the pitch and the straps hang visibly off-vertical.
+6 to 9 seconds. The tunnel wall becomes raw geology and the train is now clearly descending through the crust at impossible speed. Through the left windows the rock face streaks past in visible strata — pale limestone, dark shale, red iron-stained bands, seams catching the carriage light. The air begins to heat and passengers loosen collars. Then, under the mechanical roar, a sound arrives before anything is visible: a vast, distant, continuous mass of human voices, far away and heavily reverberant, never resolving into individual words. It is not loud. It is simply there, and it does not stop. Two passengers look at each other. Nobody says anything.
+9 to 11.5 seconds. The rock wall falls away entirely and the train emerges into a void larger than a city, with no visible far side. It runs along a ledge on the wall; below the windows the space drops away into darkness. Stone columns kilometres tall stand in the void with strong parallax — near ones sweeping past, distant ones barely shifting. Far below and far ahead, a faint orange glow is already visible. It must already exist in the frame from this moment and grow continuously from here forward without ever popping or suddenly enlarging. The voices are louder here, spread across an enormous space. One passenger near the glass leans forward slightly. Another quietly says, "Ohh."
+11.5 to 14 seconds. The train passes a station. A soot-blackened platform is cut into the rock wall — worn edge, dead lamps, faded markings unreadable under the grime — and figures are standing on it in an orderly queue, waiting, facing the track, completely motionless. They are seen for less than a second at speed, as dark shapes against the platform light, never close enough to read faces. The train does not slow. Nobody boards. The platform is gone behind the carriage. This is the moment the passengers understand. Several stop looking at their phones. Embers begin drifting upward past the windows from below.
+14 to 16 seconds. Ahead, a wall crosses the entire void — a single continuous barrier extending beyond sight in both directions and upward past the ceiling. The train passes through an immense gateway cut into it, an arch hundreds of metres tall, its stone eroded smooth by an unimaginable volume of traffic, its carved markings worn past legibility. For half a second the carriage is in the shadow of the arch and everything goes dark. Then it is through, and the light on the far side is completely different: warm, hard, and coming from below.
+16 to 19 seconds. The train races above a burning plain. Outside the left windows: a vast crusted expanse of dark solidified ground cracked into slow-moving plates with brilliant orange fissures running between them, distant fountains of molten material rising and falling in slow motion because of their true scale, and smoke columns standing kilometres high. Running across it are raised stone causeways, and on the causeways are crowds — dense, continuous, moving slowly, all in the same direction, extending to the limit of visibility. They are seen only as masses at distance, never in detail. The light entering the carriage is now dominant and hard, throwing sharp orange edges on faces, poles and straps with deep black shadows behind them. The interior air is visibly hazy. The voices are constant.
+19 to 21 seconds. The plain ends at the rim of a colossal pit — a shaft so wide the far wall is only a suggestion in the haze. The train races over the edge and begins descending along the interior wall. The wall is terraced: enormous concentric ledges receding downward, each deeper and darker than the last, disappearing into smoke layers. The descent acceleration pushes the passengers down and forward against the poles. Ash begins striking the windows and streaking backward.
+21 to 23 seconds. The terraces are populated. Endless slow processions move along every ledge, strings of figures following the curve of the wall down into the smoke and out of sight, lit from below by the fires beneath them. There is no chaos in it — it is orderly, patient and entirely without end, which is worse. Furnace mouths open in the rock face, glowing white at their throats, and long queues stand before them. Everything is at distance. Nothing is close enough to resolve. The light entering the carriage takes on a deeper red and the fluorescents are overwhelmed. Passengers nearest the window press slightly closer to the glass.
+23 to 25 seconds. Enormous shapes move among the terraces — figures many times the height of the crowds around them, walking slowly along the ledges, their scale established only by comparison. They do not look at the train. Distant winged forms cross beneath the carriage at low altitude with slow heavy wingbeats appropriate to their size and vanish into the smoke. Stone pens and barred openings are cut into the wall in their thousands, receding into the haze like housing. Ash accumulates in the corners of the windows. The carriage is hot enough that the glass fogs and clears in waves.
+25 to 27 seconds. The train reaches the deep layer and the full extent of Hell reveals itself. It is not a city on a human plan and it is not a cavern. It is a continuous inhabited geology extending in every direction — towers of black stone fused into cliff faces, vaults hollowed out of the rock at cathedral scale, rivers of molten material running in cut channels between districts and falling in slow luminous cataracts to levels further down, bridges spanning gaps kilometres across, and everywhere on all of it, crowds. Smoke columns rise for kilometres and flatten against unseen ceilings. Every level is lit by its own fires. The train races along a ridge line through the middle of it; arches and aqueduct spans pass overhead and terraces stream past below the window with violent parallax. It is impossible to see where any of it ends.
+27 to 29 seconds. The depths continue past the windows. The camera struggles badly with the contrast, blowing out the fires and crushing everything else into noise. Ash cakes the corners of the glass. Passengers are pressed against the windows in total silence, faces lit from below in hard orange, expressions stunned and completely still. One person quietly whispers, "What is that?" Nobody answers. Autofocus hunts between the ash on the glass and the world beyond it.
+29 to 30 seconds. The fires end. The train passes out of the smoke and the lowest region opens — and it is not burning. It is a vast frozen plain stretching beyond the visible horizon, an impossibly wide sheet of dark grey ice, absolutely still, lit by nothing but a faint pale glow from within itself. Shapes are visible held motionless within it, spaced far apart, receding to the horizon, never shown in detail. Every exterior sound stops at once — the voices, the fires, everything — leaving only the carriage. The heat drops out and frost blooms instantly across the outside of the windows. The scale feels planetary. The passengers stare in complete silence. At approximately 29.7 seconds the calm PA voice says quietly, "Welcome to Hell." The train continues moving. The camera keeps shaking naturally as the frozen expanse extends endlessly beyond the left window.
+Lighting
+The lighting must evolve naturally throughout the journey. Begin with flat overcast daylight around 6500K. In the tunnels use harsh strobing bands from passing service lights against near-total dark, then let the sources become sparse until the carriage's own weak fluorescent tubes are the only illumination. In the void the interior lights fall off into nothing. Then introduce a growing warm orange from below — first a faint wash on the lower half of faces, then mixing with the cold interior white, then completely dominating it: hard, high-contrast, sharp-edged, with deep black shadows. Above the burning plain it should be strong enough to blow out the phone's sensor at the window. In the deep layer it becomes red-orange and omnidirectional from countless fires at every distance. In the final second all warm light vanishes and is replaced by a faint pale luminance from the ice, cold and almost sourceless. All exterior light must enter naturally through the LEFT-SIDE WINDOWS and fall across passengers' faces and clothing at every stage. Do not add artificial interior lighting to create the colours.
+Passengers
+Keep all passengers completely ordinary throughout the journey. Realistic skin texture, subtle capillary variation, natural blinking, breathing, eye movement and imperfect facial symmetry. Clothing has realistic folds and responds to acceleration. Passengers must continuously perform small independent movements: shifting weight, adjusting grip, loosening a collar in the heat, wiping fog from the glass, turning their heads, tightening their hands around poles. Do not make them freeze. Do not make everyone react at the same moment. Do not let them perform dramatic acting.
+Their emotional progression is subtle: indifference at the announcement → mild confusion in the tunnels → unease when the voices arrive → the exact moment of understanding as the waiting platform passes → dread on the descent → complete stunned silence in the depths. No screaming. Only one soft "Ohh" at the first glow and one whispered "What is that?" near the end. The most powerful reaction is no reaction — just faces pressed against the glass, lit from below by something that should not exist.
+Physics
+The train always travels forward and always downward after the tunnel. Passengers sway according to acceleration and lean against the gradient; straps hang off-vertical on the descents. Loose clothing reacts to movement. Exterior objects have different velocities and distances with strong realistic parallax at every stage — near stone columns sweep past, mid-distance terraces move steadily, distant districts barely shift. Ash and embers must move independently of the train, drifting upward on thermal currents rather than streaming with the carriage. Heat must be expressed physically: window fogging and clearing, haze inside the carriage, frost at the very end. Enormous figures and flying forms must move slowly, because they are enormous. Nothing teleports, nothing freezes, nothing suddenly appears, and nothing changes position without physical cause.
+No transitions
+There are absolutely no visual transitions. No dissolves, crossfades, portals, morphing or ghosted overlays. Every environment change happens because the train physically travels into the next environment. The city becomes a cutting, the cutting becomes a tunnel, the tunnel becomes bedrock, the bedrock opens into the void, the void contains the waiting platform, the void ends at the wall, the gateway gives onto the burning plain, the plain ends at the pit rim, the rim becomes a terraced descent, the terraces fill with processions, the processions become the full inhabited depths, and the depths open onto the frozen plain. It must feel like one physically continuous impossible journey where every step is the inevitable consequence of the step before it.
+Audio
+Audio must be entirely diegetic with no music. Use cheap compressed smartphone microphone quality. The train produces a constant deep maglev roar, mechanical clatter, rattling poles, vibrating windows, swinging straps and low-frequency carriage rumble, plus passenger breathing and clothing movement. In the tunnels add hard reverberant slap-back and pressure changes as the train passes openings.
+The defining sound of this video is the voices. They must arrive at 6 to 9 seconds, before anything is visible, as a distant continuous mass of human voices with enormous reverberation, never resolving into words and never rising to screaming. From that point they never stop. They grow with depth and spread across a wider stereo field as the spaces open up. Beneath them, a very low frequency resonance builds steadily, felt more than heard. Above the burning plain add a broad distant roar and irregular deep concussions at long intervals. Ash strikes the hull as fine irregular ticking. In the depths the voices are vast, layered at many distances, and mixed with immense indistinct industrial-scale sound that never resolves into detail.
+In the final second every exterior sound stops at once — total silence outside, leaving only the carriage, the passengers' breathing, and ice creaking against the hull. At approximately 29.7 seconds the calm PA voice says quietly, "Welcome to Hell."
+Style and content limits
+The overall style must remain dirty photorealistic amateur smartphone footage despite the spectacular environments. Vertical 9:16, real-time speed, no slow motion, no stabilisation, no cinematic camera, no perfect composition, no clean VFX presentation. Use heavy shadow noise, blown highlights, low-bitrate compression, rolling-shutter skew, autofocus hunting, auto-exposure pumping, smeared motion blur and crooked framing. The camera should occasionally be partially blocked by a shoulder, arm or nearby passenger, and should struggle badly with the extreme contrast between fire and darkness.
+Hell is conveyed through scale, architecture, crowds at distance, fire, ash and sound. Do not show suffering, injury, bodies, blood, restraints or any graphic content. Every figure outside the train stays a distant silhouette or part of a mass — none is ever close enough for its face or condition to be read. Do not use recognisable religious iconography or legible text of any kind; all markings are eroded past legibility. Do not make it look like a game cinematic or a clean VFX render. The world outside should be overwhelming and physically impossible, but the recording itself must look raw, accidental and believable.
+The most important rule
+ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, no scene resets and no artificial transitions. The same train, same passengers and same camera remain present from beginning to end. The orange glow must be visible as a faint distant smudge from the first cavern and grow continuously and inevitably until it fills the window. The voices must arrive before the fire and never stop until the final second. The heat must build physically across the whole descent so that its total disappearance at the end lands as a shock. The population must emerge gradually — the waiting platform, then crowds on the causeways, then processions on the terraces, then the full inhabited depths — never appearing all at once. End while the train is still moving, the frozen plain extending endlessly beyond the left window, passengers silent, carriage still shaking, the PA announcement fading into the sound of ice.</code></pre>
+
+</details>
+
+## 30-second photorealistic handheld fitness vlog on a rooftop studio
+
+- **Original source:** [@kingofdairyque on X](https://x.com/kingofdairyque/status/2089951161789092255)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3282](https://imglume.com/prompt/3282)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f3899727-f629-4059-9628-81dfcf6e50b3/31407fb0-db9e-4cd5-93d8-0af590a4dfbf-1787149755364 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second photorealistic handheld fitness vlog, 16:9. One adult woman appears throughout. Use Image1 only for her face and hairstyle. She wears a completely different outfit: a loose high-neck cream athletic sweatshirt, dark navy full-length training pants, and clean white training shoes. Modest, opaque, full upper-body coverage.
+
+Location: a small rooftop training studio during early evening. Concrete walls, large windows, exercise mat, kettlebell, resistance bands, wooden box, water bottle and soft sunset light. No other people.
+
+00–05s:
+She enters the studio, places her bag down and begins warming up with controlled arm circles, side steps and light stretches. Handheld camera follows naturally.
+
+05–10s:
+She moves to a rowing machine and completes several strong, controlled strokes. Camera shifts between a side view and a closer shot of her focused expression. Natural breathing and machine sounds.
+
+10–15s:
+She steps onto an exercise mat and performs alternating reverse lunges followed by controlled knee drives. Her pace gradually increases while maintaining realistic form.
+
+15–20s:
+She picks up a medium kettlebell and performs controlled suitcase carries across the room, switching hands halfway through. Camera tracks beside her with subtle handheld movement.
+
+20–25s:
+She moves to a wooden plyometric box and performs several controlled step-ups. Her breathing becomes heavier and a light sheen of sweat appears naturally around her hairline.
+
+25–30s:
+She slows down, sits on the edge of the mat, drinks water and catches her breath. She looks toward the camera with a small satisfied smile, wipes her forehead with a towel, then reaches for her bag.
+
+Audio:
+Only natural live sound: footsteps, breathing, fabric movement, rowing-machine sounds, shoes contacting the floor, kettlebell movement, water bottle sounds and distant city ambience. No music.
+
+Negative:
+No other people, no revealing clothing, no cleavage emphasis, no sexualized framing, no outfit changes, no face drift, no body distortion, no CGI look, no beauty filter, no subtitles, no text, no logos, no watermark.</code></pre>
+
+</details>
+
+## Glow-Up Time
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089910057639321826)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `camera-moves`, `character`
+- **ImgLume record:** [3275](https://imglume.com/prompt/3275)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e60792c0-ae5b-4c0c-824b-f4f37d3f95d2/a0351979-2351-40d0-91ff-4e5ec004990c-1787149493504 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D high-fidelity stylized animation , featuring a girly Gen Z character wearing oversized baggy pants, chunky sneakers, and a cropped distressed leather jacket. Cartoon-leaning style with hyper-expressive features, NOT photorealistic. Clean vanity setup with soft pink warm lighting, glossy makeup textures, fast, snappy pacing, and no logos. Aggressive dynamic camera movement with macro punches, snap-zooms, whip-pans, handheld bounce, micro-orbits, speed ramps, and freeze beats.
+
+Start with a HARD SNAP ZOOM into her eye in the mirror as she is already mid-blink, creating an instant hook with a sharp reflection.
+
+Show a MACRO SLOW-MOTION shot of the mascara wand approaching her lashes, capturing tiny details and freezing just before contact.
+
+Quickly SPEED RAMP as the mascara touches the lashes and they extend dramatically, followed by a SNAP ZOOM revealing both eyes with a clean, symmetrical finish.
+
+WHIP-PAN to her lips as she applies glossy lip gloss in smooth slow motion. The light catches the shine as she gently presses her lips together for a polished finish.
+
+Move into a TRACKING close-up as she taps blush onto her cheeks and blends it quickly. Her cheeks instantly become warmer and more radiant as the glow builds.
+
+Cut to a MACRO highlight shot as her finger sweeps across the cheekbone. FREEZE briefly at the shimmer impact while the light creates a soft flare.
+
+WHIP UP toward her hair as she flips her head forward and then snaps it back up. Individual strands bounce naturally into place, enhanced by a dramatic speed ramp.
+
+Use FAST CUTS for hair styling as she loosens and adjusts her hair tie, keeping the motion continuous while creating a perfectly messy, effortless shape.
+
+Create a MICRO ORBIT around her as she leans closer to the mirror and checks different angles, ending with a subtle, confident change in expression.
+
+SNAP ZOOM into the outfit details as she pulls her jacket perfectly into place. The chain catches the light, creating a satisfying final styling moment.
+
+Use a SLOW PUSH-IN as she slightly lifts her chin, revealing the complete finished look with a polished glow-up effect.
+
+End with a FINAL FREEZE BEAT followed by subtle motion as she turns toward the camera, gives a confident smirk, tilts her head softly, and finishes in a clean, stylish pose.
+
+Audio: upbeat pop beat with detailed mascara brush sounds, smooth gloss swipe sounds, energetic whoosh transitions, a soft shimmer chime during the highlight moment, natural hair swish, and a final sparkle hit.</code></pre>
+
+</details>
 
 ## 30-second photorealistic survival short film – Canadian winter rescue
 

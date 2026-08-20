@@ -1,9 +1,40 @@
 # Architecture image prompts
 
-9 source-linked prompts, newest ImgLume records first.
+10 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## The House Inside the Train
+
+- **Original source:** [@KaminiKamini222 on X](https://x.com/KaminiKamini222/status/2089878513322959184)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `photography`
+- **ImgLume record:** [3315](https://imglume.com/prompt/3315)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d55bb5cf-698c-4972-8f71-6574a87519d7/05fbfaf2-cedf-4c8b-8b12-0629d8778804-1787150621243 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an original, ultra-realistic editorial photograph of a beautiful traditional Indian home mysteriously built inside an old railway carriage.
+
+The carriage has been transformed into a warm, elegant living space: a small wooden dining table beside the window, traditional Indian textiles, indoor plants, brass lamps, books, framed family photographs, and a tiny kitchen integrated into the carriage.
+
+A young Indian woman sits beside the large railway window drinking morning tea while sunlight streams across the room. Outside the window, instead of a normal railway landscape, a quiet green countryside slowly passes by — creating the feeling that this entire home is actually traveling.
+
+Show the contrast between the moving railway world outside and the peaceful home interior inside.
+
+Ultra-realistic photography, authentic Indian interior details, natural imperfections, realistic wood and fabric textures, soft morning sunlight, cinematic but believable lighting, subtle reflections in the glass, realistic human skin, documentary-style composition.
+
+Composition: vertical 4:5, wide interior perspective, woman visible naturally within the environment, railway window creating a strong visual frame, enough surrounding detail to tell the story.
+
+Warm, peaceful, nostalgic, imaginative but believable.
+
+No fantasy creatures, no futuristic elements, no recognizable brands, no text, no watermark, no artificial CGI appearance.</code></pre>
+
+</details>
 
 ## Watercolor and pen sketch illustration prompt
 

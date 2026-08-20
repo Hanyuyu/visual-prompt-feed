@@ -1,9 +1,229 @@
 # Travel video prompts
 
-44 source-linked prompts, newest ImgLume records first.
+50 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Curious Fox & Mountain Stream Vlog
+
+- **Original source:** [@MrDasOnX on X](https://x.com/MrDasOnX/status/2089969922617266257)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `nature`, `travel`
+- **ImgLume record:** [3312](https://imglume.com/prompt/3312)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de324335-5510-414b-82b6-bbf82a5b2ca2/53fbeb10-f832-40d7-8858-363b29e698aa-1787150553177 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a single continuous self-filmed vlog recorded on a handheld action camera in 16:9 aspect ratio. The camera is always held by the anthropomorphic fox, creating a natural first-person selfie perspective with light wind-induced shake, occasional soft lens flares from sunlight filtering through trees, realistic focus pulls, and dynamic walking/leaning motion. No cuts, transitions, or cinematic effects. Include a subtle realistic digital timestamp in the bottom-right corner that progresses naturally throughout the video.
+Visual Style: Bright modern 4K digital look with vibrant yet soft natural colors, warm late-afternoon golden sunlight mixed with dappled shade, gentle water reflections and soft mist rising from the stream, subtle water droplets or mist on the lens near the water, and crisp details on fur and leaves. Slight handheld energy but smooth enough for casual vlogging. Widescreen 16:9 framing.
+Character: Ember, a 24-year-old anthropomorphic red fox (bipedal, human-like proportions) with soft fluffy reddish-orange fur, white chest and muzzle, bright amber eyes, pointed ears, and a long bushy tail that sways naturally. He wears a simple light denim jacket with rolled sleeves over a soft cream t-shirt and comfortable cargo shorts. Personality: curious, warm, slightly playful and soft-spoken.
+Location: Starts on a wooden footbridge over a clear mountain stream in a lush temperate forest, surrounded by mossy rocks, ferns, wildflowers, and overhanging maple and pine branches. Soft green and golden foliage, clear water with gentle ripples and small fish darting below.
+Sequence (exactly 30 seconds, continuous take with timestamps):
+0:00 – 0:05
+Ember lifts the camera, smiles softly at the lens with his ears perking up, and says in a warm, slightly raspy voice:
+“Hey friends… you won’t believe this spot I found.”
+0:05 – 0:13
+He walks slowly along the wooden bridge, lowering the camera slightly to show the clear stream and small fish swimming just below the surface while continuing:
+“The water is so clear… I can see every little fish moving around.”
+0:13 – 0:20
+He crouches carefully at the edge, reaches one paw toward the water without touching it, and watches the fish dart past, laughing lightly:
+“They’re swimming right up to me. Hi little guys.”
+0:20 – 0:26
+He turns the camera to capture both his face and the stream, then sits on a flat mossy rock at the water’s edge, letting his tail curl beside him. He gazes at the water for a few seconds and says quietly:
+“Moments like this make everything feel peaceful.”
+0:26 – 0:30
+He stands up, waves one paw at the camera with a gentle smile, and says:
+“Thanks for exploring with me. See you next time.”
+The camera naturally lowers a little as he walks further along the path beside the stream.</code></pre>
+
+</details>
+
+## Cinematic Parisian Morning: Coffee, Croissant, and Sunlit Streets
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2089930417420087621)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `travel`
+- **ImgLume record:** [3306](https://imglume.com/prompt/3306)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/46a3cd3a-2755-4c54-833b-55b4c294d13a/45108068-e694-4abe-8629-c9ae5eb31449-1787150499332 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, realistic short video of a stylish young woman with long wavy brown hair and bangs, wearing a beige trench coat over a white top and light pants, carrying a brown leather shoulder bag. She steps out of an elegant blue door of a classic European building onto a sunlit cobblestone street lined with plants and flower boxes. She walks confidently down the charming Parisian-style alley. She approaches and enters a cozy cafe with wooden doors and glass windows labeled something like “CHANEL ALEX” or similar. Inside the warm, inviting cafe with exposed beams, pendant lights, and a marble counter, she orders an “Ice vanilla latte, please” from a bearded barista in an apron. A close-up of a golden, flaky croissant on a white plate with a fork. She sits by the window, happily sips the layered latte from a clear glass mug, closes her eyes in enjoyment, and says “That’s the good stuff.” She then takes a big bite of the croissant and says “Perfect start to the day.” Final shot of her walking down a bustling cobblestone street in golden morning light, holding the coffee and half-eaten croissant, smiling and looking at the camera. Soft natural lighting, warm tones, shallow depth of field, high detail, lifestyle aesthetic</code></pre>
+
+</details>
+
+## Cinematic Travel Video of Young Female Backpacker from Forest to Mountains
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2090016377247838257)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3298](https://imglume.com/prompt/3298)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f3a88734-e771-44c0-96f2-8011c87ec2b9/3b7b8346-86f3-48e5-8cdb-7214d2aa07fe-1787150258485 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second cinematic travel video in 16:9 following the same young female backpacker on a peaceful journey from dense forest to mountains, keeping continuous outfit, backpack, hairstyle and visual identity throughout. Ultra-realistic cinematic style with natural movement, soft depth of field, subtle film grain, atmospheric lighting, smooth camera work and premium travel-film aesthetic, no text or logos. She walks into a dense green forest along a narrow trail as the camera tracks from behind, continues deeper over rocks and roots with sunlight flickering through trees, crosses a small mountain stream on stepping stones, then the landscape opens into a breathtaking mountain valley as the camera rises behind her. She pauses to look at the majestic peaks, begins hiking a rocky trail, becomes smaller against huge valleys and dramatic mountains, reaches an elevated viewpoint, sits on a rock, removes her backpack, takes out simple food and water, eats and drinks while smiling at the view, packs up with a determined expression, stands and looks toward the next trail, then walks along the mountain ridge in golden-hour light as the camera slowly pulls back and rises to reveal the vast glowing landscape.</code></pre>
+
+</details>
+
+## Journey through Hell – continuous first-person smartphone video
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2089939087201558754)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `travel`
+- **ImgLume record:** [3286](https://imglume.com/prompt/3286)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2bbb7d1c-e815-49cc-af6a-915c93cbfe5b/dc76b95f-0bf5-4abf-851e-9227ae4bbe0a-1787149857870 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>One continuous 30-second chaotic amateur first-person smartphone video filmed by a standing passenger inside a completely packed magnetic-levitation commuter train. Single unbroken take with no cuts, jump cuts, dissolves, crossfades, double exposures, portals, morphing or artificial scene transitions. The train begins as an ordinary weekday commute on Earth and then physically travels downward on an impossible journey — through subway tunnels into bedrock, into a colossal void beneath the crust, past a soot-blackened waiting platform, through an immense eroded gate, out above a burning plain, down the terraced wall of a vast pit, and into the inhabited depths of Hell. Everything must feel physically connected, as though the same train is genuinely travelling down through each environment.
+The tone is bureaucratic dread, not horror-movie shock. This is a scheduled service. The route is old, the infrastructure is worn, and the train runs it the way it runs any other line. The horror comes from how ordinary the journey is and how enormous the destination turns out to be.
+The interior is a completely packed standing-room-only maglev commuter car. Passengers are pressed shoulder-to-shoulder, gripping overhead straps and vertical poles. Backpacks are squeezed between bodies, coats and loose clothing shift with acceleration, straps swing on their inertia, and the entire carriage constantly vibrates and rattles. The camera is a cheap smartphone held at chest height by one standing passenger who grips a pole with the other hand. The phone itself is NEVER visible because the phone is the camera. The framing is crooked, slightly off-centre, partially blocked by shoulders and arms, and imperfect like genuine accidental footage. The camera constantly shakes, rolls, yaws and gets thrown around by acceleration. Use realistic rolling-shutter distortion, autofocus hunting, exposure pumping, blown highlights, crushed noisy shadows, low-bitrate compression, macroblocking and smeared motion blur. It must look like genuine spontaneous smartphone footage, not professional cinematic footage.
+The camera always looks through the LEFT-SIDE WINDOWS at approximately 90 degrees to the train's direction of travel. The train always travels forward and the outside world always streams past the windows from front-to-back. Never switch to a forward-facing train-nose view. Never show the front of the train. The same carriage, same passengers, same poles, same straps and same windows remain visually consistent throughout the entire journey. The interior is the constant realistic anchor while the outside world becomes increasingly impossible.
+0 to 3 seconds. Begin with an ordinary overcast weekday commute on an elevated urban line. Grey apartment blocks, rooftop water tanks, a scrapyard, overhead wires, a canal and traffic on a road below streak past the left windows at different distances with realistic parallax. The passengers are tired and mostly uninterested — some on phones, some staring out, some talking quietly. A calm public-address chime sounds and an announcer quietly says, "Next stop: Hell." Nobody reacts. One passenger glances up briefly and goes back to their phone. The train accelerates and everyone instinctively tightens their grip as the carriage gives a hard lateral jolt.
+3 to 6 seconds. The line drops into a cutting and then into a tunnel. Tiled subway walls, cable runs, service lights and a passing platform strobe across the windows in hard bands of light and dark, throwing the carriage into stuttering illumination. The tunnel ages as the train descends: modern concrete becomes older brickwork, then rough-cut stone. The fittings become scorched and soot-caked — blackened signal lights, corroded brackets, cabling burnt down to bare metal. This route has been running a long time. The gradient steepens noticeably; passengers lean back against the pitch and the straps hang visibly off-vertical.
+6 to 9 seconds. The tunnel wall becomes raw geology and the train is now clearly descending through the crust at impossible speed. Through the left windows the rock face streaks past in visible strata — pale limestone, dark shale, red iron-stained bands, seams catching the carriage light. The air begins to heat and passengers loosen collars. Then, under the mechanical roar, a sound arrives before anything is visible: a vast, distant, continuous mass of human voices, far away and heavily reverberant, never resolving into individual words. It is not loud. It is simply there, and it does not stop. Two passengers look at each other. Nobody says anything.
+9 to 11.5 seconds. The rock wall falls away entirely and the train emerges into a void larger than a city, with no visible far side. It runs along a ledge on the wall; below the windows the space drops away into darkness. Stone columns kilometres tall stand in the void with strong parallax — near ones sweeping past, distant ones barely shifting. Far below and far ahead, a faint orange glow is already visible. It must already exist in the frame from this moment and grow continuously from here forward without ever popping or suddenly enlarging. The voices are louder here, spread across an enormous space. One passenger near the glass leans forward slightly. Another quietly says, "Ohh."
+11.5 to 14 seconds. The train passes a station. A soot-blackened platform is cut into the rock wall — worn edge, dead lamps, faded markings unreadable under the grime — and figures are standing on it in an orderly queue, waiting, facing the track, completely motionless. They are seen for less than a second at speed, as dark shapes against the platform light, never close enough to read faces. The train does not slow. Nobody boards. The platform is gone behind the carriage. This is the moment the passengers understand. Several stop looking at their phones. Embers begin drifting upward past the windows from below.
+14 to 16 seconds. Ahead, a wall crosses the entire void — a single continuous barrier extending beyond sight in both directions and upward past the ceiling. The train passes through an immense gateway cut into it, an arch hundreds of metres tall, its stone eroded smooth by an unimaginable volume of traffic, its carved markings worn past legibility. For half a second the carriage is in the shadow of the arch and everything goes dark. Then it is through, and the light on the far side is completely different: warm, hard, and coming from below.
+16 to 19 seconds. The train races above a burning plain. Outside the left windows: a vast crusted expanse of dark solidified ground cracked into slow-moving plates with brilliant orange fissures running between them, distant fountains of molten material rising and falling in slow motion because of their true scale, and smoke columns standing kilometres high. Running across it are raised stone causeways, and on the causeways are crowds — dense, continuous, moving slowly, all in the same direction, extending to the limit of visibility. They are seen only as masses at distance, never in detail. The light entering the carriage is now dominant and hard, throwing sharp orange edges on faces, poles and straps with deep black shadows behind them. The interior air is visibly hazy. The voices are constant.
+19 to 21 seconds. The plain ends at the rim of a colossal pit — a shaft so wide the far wall is only a suggestion in the haze. The train races over the edge and begins descending along the interior wall. The wall is terraced: enormous concentric ledges receding downward, each deeper and darker than the last, disappearing into smoke layers. The descent acceleration pushes the passengers down and forward against the poles. Ash begins striking the windows and streaking backward.
+21 to 23 seconds. The terraces are populated. Endless slow processions move along every ledge, strings of figures following the curve of the wall down into the smoke and out of sight, lit from below by the fires beneath them. There is no chaos in it — it is orderly, patient and entirely without end, which is worse. Furnace mouths open in the rock face, glowing white at their throats, and long queues stand before them. Everything is at distance. Nothing is close enough to resolve. The light entering the carriage takes on a deeper red and the fluorescents are overwhelmed. Passengers nearest the window press slightly closer to the glass.
+23 to 25 seconds. Enormous shapes move among the terraces — figures many times the height of the crowds around them, walking slowly along the ledges, their scale established only by comparison. They do not look at the train. Distant winged forms cross beneath the carriage at low altitude with slow heavy wingbeats appropriate to their size and vanish into the smoke. Stone pens and barred openings are cut into the wall in their thousands, receding into the haze like housing. Ash accumulates in the corners of the windows. The carriage is hot enough that the glass fogs and clears in waves.
+25 to 27 seconds. The train reaches the deep layer and the full extent of Hell reveals itself. It is not a city on a human plan and it is not a cavern. It is a continuous inhabited geology extending in every direction — towers of black stone fused into cliff faces, vaults hollowed out of the rock at cathedral scale, rivers of molten material running in cut channels between districts and falling in slow luminous cataracts to levels further down, bridges spanning gaps kilometres across, and everywhere on all of it, crowds. Smoke columns rise for kilometres and flatten against unseen ceilings. Every level is lit by its own fires. The train races along a ridge line through the middle of it; arches and aqueduct spans pass overhead and terraces stream past below the window with violent parallax. It is impossible to see where any of it ends.
+27 to 29 seconds. The depths continue past the windows. The camera struggles badly with the contrast, blowing out the fires and crushing everything else into noise. Ash cakes the corners of the glass. Passengers are pressed against the windows in total silence, faces lit from below in hard orange, expressions stunned and completely still. One person quietly whispers, "What is that?" Nobody answers. Autofocus hunts between the ash on the glass and the world beyond it.
+29 to 30 seconds. The fires end. The train passes out of the smoke and the lowest region opens — and it is not burning. It is a vast frozen plain stretching beyond the visible horizon, an impossibly wide sheet of dark grey ice, absolutely still, lit by nothing but a faint pale glow from within itself. Shapes are visible held motionless within it, spaced far apart, receding to the horizon, never shown in detail. Every exterior sound stops at once — the voices, the fires, everything — leaving only the carriage. The heat drops out and frost blooms instantly across the outside of the windows. The scale feels planetary. The passengers stare in complete silence. At approximately 29.7 seconds the calm PA voice says quietly, "Welcome to Hell." The train continues moving. The camera keeps shaking naturally as the frozen expanse extends endlessly beyond the left window.
+Lighting
+The lighting must evolve naturally throughout the journey. Begin with flat overcast daylight around 6500K. In the tunnels use harsh strobing bands from passing service lights against near-total dark, then let the sources become sparse until the carriage's own weak fluorescent tubes are the only illumination. In the void the interior lights fall off into nothing. Then introduce a growing warm orange from below — first a faint wash on the lower half of faces, then mixing with the cold interior white, then completely dominating it: hard, high-contrast, sharp-edged, with deep black shadows. Above the burning plain it should be strong enough to blow out the phone's sensor at the window. In the deep layer it becomes red-orange and omnidirectional from countless fires at every distance. In the final second all warm light vanishes and is replaced by a faint pale luminance from the ice, cold and almost sourceless. All exterior light must enter naturally through the LEFT-SIDE WINDOWS and fall across passengers' faces and clothing at every stage. Do not add artificial interior lighting to create the colours.
+Passengers
+Keep all passengers completely ordinary throughout the journey. Realistic skin texture, subtle capillary variation, natural blinking, breathing, eye movement and imperfect facial symmetry. Clothing has realistic folds and responds to acceleration. Passengers must continuously perform small independent movements: shifting weight, adjusting grip, loosening a collar in the heat, wiping fog from the glass, turning their heads, tightening their hands around poles. Do not make them freeze. Do not make everyone react at the same moment. Do not let them perform dramatic acting.
+Their emotional progression is subtle: indifference at the announcement → mild confusion in the tunnels → unease when the voices arrive → the exact moment of understanding as the waiting platform passes → dread on the descent → complete stunned silence in the depths. No screaming. Only one soft "Ohh" at the first glow and one whispered "What is that?" near the end. The most powerful reaction is no reaction — just faces pressed against the glass, lit from below by something that should not exist.
+Physics
+The train always travels forward and always downward after the tunnel. Passengers sway according to acceleration and lean against the gradient; straps hang off-vertical on the descents. Loose clothing reacts to movement. Exterior objects have different velocities and distances with strong realistic parallax at every stage — near stone columns sweep past, mid-distance terraces move steadily, distant districts barely shift. Ash and embers must move independently of the train, drifting upward on thermal currents rather than streaming with the carriage. Heat must be expressed physically: window fogging and clearing, haze inside the carriage, frost at the very end. Enormous figures and flying forms must move slowly, because they are enormous. Nothing teleports, nothing freezes, nothing suddenly appears, and nothing changes position without physical cause.
+No transitions
+There are absolutely no visual transitions. No dissolves, crossfades, portals, morphing or ghosted overlays. Every environment change happens because the train physically travels into the next environment. The city becomes a cutting, the cutting becomes a tunnel, the tunnel becomes bedrock, the bedrock opens into the void, the void contains the waiting platform, the void ends at the wall, the gateway gives onto the burning plain, the plain ends at the pit rim, the rim becomes a terraced descent, the terraces fill with processions, the processions become the full inhabited depths, and the depths open onto the frozen plain. It must feel like one physically continuous impossible journey where every step is the inevitable consequence of the step before it.
+Audio
+Audio must be entirely diegetic with no music. Use cheap compressed smartphone microphone quality. The train produces a constant deep maglev roar, mechanical clatter, rattling poles, vibrating windows, swinging straps and low-frequency carriage rumble, plus passenger breathing and clothing movement. In the tunnels add hard reverberant slap-back and pressure changes as the train passes openings.
+The defining sound of this video is the voices. They must arrive at 6 to 9 seconds, before anything is visible, as a distant continuous mass of human voices with enormous reverberation, never resolving into words and never rising to screaming. From that point they never stop. They grow with depth and spread across a wider stereo field as the spaces open up. Beneath them, a very low frequency resonance builds steadily, felt more than heard. Above the burning plain add a broad distant roar and irregular deep concussions at long intervals. Ash strikes the hull as fine irregular ticking. In the depths the voices are vast, layered at many distances, and mixed with immense indistinct industrial-scale sound that never resolves into detail.
+In the final second every exterior sound stops at once — total silence outside, leaving only the carriage, the passengers' breathing, and ice creaking against the hull. At approximately 29.7 seconds the calm PA voice says quietly, "Welcome to Hell."
+Style and content limits
+The overall style must remain dirty photorealistic amateur smartphone footage despite the spectacular environments. Vertical 9:16, real-time speed, no slow motion, no stabilisation, no cinematic camera, no perfect composition, no clean VFX presentation. Use heavy shadow noise, blown highlights, low-bitrate compression, rolling-shutter skew, autofocus hunting, auto-exposure pumping, smeared motion blur and crooked framing. The camera should occasionally be partially blocked by a shoulder, arm or nearby passenger, and should struggle badly with the extreme contrast between fire and darkness.
+Hell is conveyed through scale, architecture, crowds at distance, fire, ash and sound. Do not show suffering, injury, bodies, blood, restraints or any graphic content. Every figure outside the train stays a distant silhouette or part of a mass — none is ever close enough for its face or condition to be read. Do not use recognisable religious iconography or legible text of any kind; all markings are eroded past legibility. Do not make it look like a game cinematic or a clean VFX render. The world outside should be overwhelming and physically impossible, but the recording itself must look raw, accidental and believable.
+The most important rule
+ONE SINGLE CONTINUOUS TAKE. No cuts, no jump cuts, no dissolves, no crossfades, no scene resets and no artificial transitions. The same train, same passengers and same camera remain present from beginning to end. The orange glow must be visible as a faint distant smudge from the first cavern and grow continuously and inevitably until it fills the window. The voices must arrive before the fire and never stop until the final second. The heat must build physically across the whole descent so that its total disappearance at the end lands as a shock. The population must emerge gradually — the waiting platform, then crowds on the causeways, then processions on the terraces, then the full inhabited depths — never appearing all at once. End while the train is still moving, the frozen plain extending endlessly beyond the left window, passengers silent, carriage still shaking, the PA announcement fading into the sound of ice.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic early-2000s Japanese home-video vlog
+
+- **Original source:** [@SimplyAnnisa on X](https://x.com/SimplyAnnisa/status/2090001499107586091)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`
+- **ImgLume record:** [3280](https://imglume.com/prompt/3280)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3e21b979-8dca-4791-8d67-647668bdc730/4e7f9a99-011e-4047-acd6-e2c400119768-1787149619257 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second ultra-realistic early-2000s Japanese home-video vlog, 16:9.
+
+MAIN CHARACTER:
+
+One adult woman throughout. Use Image1 only for her face and hairstyle. She wears a soft powder-blue knit cardigan over a simple white blouse, a flowing beige midi skirt, brown flat shoes, and a small canvas shoulder bag. Natural makeup, realistic skin texture and relaxed everyday appearance. Keep her identity, hairstyle and outfit consistent.
+
+LOCATION:
+
+A peaceful Japanese residential neighborhood in late morning. Narrow lanes, traditional wooden homes, tiled roofs, small gardens, stone walls, bicycles, potted flowers, overhead utility wires, a tiny shrine, a narrow stream and greenery.
+
+VISUAL STYLE:
+
+Authentic early-2000s consumer DV camcorder footage. Handheld, imperfect framing, occasional autofocus hunting, slight exposure shifts, natural motion blur, mild digital compression, faded colors and subtle sensor noise. Candid and unpolished, like a real family recording.
+
+00–05s:
+
+She steps outside a quiet wooden house with her shoulder bag. She slides the door closed, adjusts her cardigan and begins walking down the narrow lane. The camera follows casually from behind.
+
+05–10s:
+
+She passes a small garden filled with hydrangeas and notices a cat resting beside a stone wall. She crouches, gently pets it for a moment, then smiles and continues walking.
+
+10–15s:
+
+She reaches a tiny neighborhood shrine hidden between the houses. She pauses near the entrance as a breeze moves the hanging fabric and nearby leaves. She looks around with quiet curiosity before continuing.
+
+15–20s:
+
+The lane opens onto a small wooden footbridge over a clear stream. She walks across slowly, stops halfway and looks down at the water. A few leaves drift underneath while the camera moves closer and briefly loses focus.
+
+20–25s:
+
+She notices a small vending machine beside an old wooden house. She buys a cold drink, opens it and takes a sip while standing beneath the shade of a tree. A bicycle bell sounds somewhere in the distance.
+
+25–30s:
+
+She continues toward the end of the neighborhood. Sunlight breaks through the trees as she turns toward the camera, smiles naturally and gives a small wave. She walks around the corner and disappears from view. The camcorder cuts abruptly while still moving.
+
+AUDIO:
+
+Natural live ambience only: footsteps, fabric movement, cat purring, leaves rustling, stream water, wind chimes, bicycle bell, vending-machine sounds, distant neighborhood activity and soft birds.
+
+No music.
+
+No narration.
+
+No dialogue.
+
+NEGATIVE:
+
+No cinematic camera moves, no drone shots, no modern commercial look, no beauty filter, no CGI appearance, no crowds, no outfit changes, no face drift, no distorted anatomy, no subtitles, no text, no logos, no watermark.</code></pre>
+
+</details>
+
+## A Magical Little Day in Japan
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089760422379634835)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `travel`
+- **ImgLume record:** [3277](https://imglume.com/prompt/3277)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2c6bdbf8-1872-473e-a3e2-b1c63bcc1815/edcbf17c-37f6-4c10-8b21-59ebea519fd8-1787149538345 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 20-second cinematic vlog featuring a cheerful young Japanese woman exploring a hidden little town in Japan.
+
+Character &amp; Outfit: A cheerful young Japanese woman wearing a cute pastel short summer dress with a delicate floral pattern, white ankle socks, and adorable sneakers. Soft hairstyle, natural makeup, bright expressive eyes, warm smile, youthful and wholesome summer-vlog aesthetic.
+
+0–5s — Discovering Japan: She walks through a beautiful hidden Japanese alley decorated with colorful lanterns, flowers, traditional wooden houses, and tiny cafés. She turns the camera toward herself, smiles excitedly and says: “Hi guys! I found the cutest little place in Japan!”
+
+5–9s — The Cat Appears: She sits outside a cozy flower-filled café, holding a cute drink. Suddenly, a tiny fluffy cat slowly walks toward her and stops in front of her. She looks surprised and smiles: “Oh… hello, little one. Did you come to see me?” The cat gently rubs against her leg. She giggles and kneels down.
+
+9–13s — First Bonding Moment: She offers her hand. The cat curiously sniffs it, then gently places one tiny paw on her hand. She smiles warmly and says: “Aww… I think we’re friends now.” She gently pets its head while the cat happily stays beside her.
+
+13–17s — Cute Friendship: The cat curls up next to her on the bench. She gently strokes its fluffy fur and laughs softly: “You’re way too cute!” The cat looks up at her and gives a tiny playful meow. She looks at the camera and whispers: “Okay… you’re coming with me.”
+
+17–20s — Sweet Ending: Golden sunset beside a peaceful Japanese river. She sits with the cat beside her, gently pets its head, looks into the camera with a warm smile and says: “Best day ever. See you tomorrow!” She giggles and waves goodbye while the cat looks toward the camera.
+
+Visual &amp; Audio Style: Ultra-realistic cinematic vlog, natural English dialogue, realistic Japanese female voice, accurate lip-sync, adorable facial expressions, playful reactions, realistic fluffy cat fur and movements, authentic Japanese scenery, lanterns, flowers, cozy café, peaceful river, warm golden-hour lighting, cinematic depth of field, smooth handheld vlog camera, gentle close-ups, natural transitions, soft ambient café and street sounds, wholesome kawaii atmosphere, photorealistic 4K.</code></pre>
+
+</details>
 
 ## Young Asian woman exploring a traditional Italian neighborhood
 
