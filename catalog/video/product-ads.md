@@ -1,9 +1,334 @@
 # Product Ads video prompts
 
-68 source-linked prompts, newest ImgLume records first.
+75 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Surreal Futuristic Ocean Energy Drink Product Reveal
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2090353158036078673)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3384](https://imglume.com/prompt/3384)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9684454d-2175-4b80-99e4-ef2121add3c2/eac2668e-069f-4bb4-b1c6-c5c4107329b3-1787232505002 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Hollywood live-action commercial cinematic, IMAX quality, ultra-realistic, photorealistic textures, Unreal Engine 5 realism, premium advertising aesthetic, no CGI feel, HDR, realistic water physics, cinematic motion blur, natural volumetric lighting, 4K, 24fps. Duration: 15 seconds.
+
+Character Reference: Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, body proportions, facial features, and overall appearance consistently throughout the entire video. No identity drift.
+
+SCENE CONCEPT: A surreal futuristic ocean world at golden hour. Massive translucent waves, glowing turquoise water, floating rocks, bioluminescent plants, crystal formations, mist, and futuristic metallic structures create an impossible cinematic environment.
+
+CAMERA: One continuous shot with no cuts. The camera behaves like an ultra-fast FPV drone, flying extremely close to the character, diving beneath waves, rising vertically, sweeping around her body, and transitioning naturally between wide environmental shots and extreme macro details. Realistic inertia, subtle camera shake, natural motion blur, realistic lens breathing, shallow depth of field.
+
+OPENING: The shot begins mid-action.
+
+The girl from the reference image is already riding a futuristic hydro-board at extreme speed across the surface of a glowing ocean. She wears a sleek futuristic black-and-silver wetsuit with subtle reflective details and rides a custom aerodynamic hydro-board.
+
+The camera races directly behind her at water level as enormous waves explode around the board. Water droplets hit the lens realistically. She leans aggressively into a sharp turn, carving across the glowing water while creating a massive spray trail.
+
+She suddenly accelerates toward a gigantic vertical wave.
+
+ACTION SEQUENCE: She launches directly up the face of the wave and bursts through the crest.
+
+The camera follows her upward, briefly passing beneath the board as she performs a powerful 360° aerial rotation. Sunlight shines through the translucent wave around her, creating realistic caustic reflections across her face and clothing.
+
+She lands smoothly on the other side.
+
+Without slowing down, she races through a narrow canyon formed by enormous floating crystal structures. The camera weaves between them at high speed, maintaining perfect visual continuity.
+
+Ahead, a gigantic futuristic floating platform appears above the ocean.
+
+At the center of the platform is a glowing metallic energy-drink can suspended inside a transparent energy field.
+
+The girl launches from a final wave toward the platform.
+
+PRODUCT REVEAL: At the peak of her jump, everything briefly enters dramatic slow motion.
+
+The energy field opens.
+
+A sleek futuristic drink can rotates slowly in mid-air, covered in realistic condensation droplets. The metallic surface catches the warm sunset light.
+
+The girl reaches forward and catches the can naturally.
+
+The camera performs a fast 180° orbit around her while she descends.
+
+She lands perfectly on the hydro-board and continues gliding across the ocean.
+
+MACRO PRODUCT SHOT: The camera rapidly pushes toward the can in her hand.
+
+Extreme macro detail shows tiny condensation droplets sliding down the metallic surface. Her fingers grip the can naturally. The pull-tab opens with a realistic metallic click.
+
+A subtle burst of cold vapor escapes.
+
+She raises the drink toward the camera and takes a sip.
+
+FINAL CLOSE-UP: The camera moves into an intimate cinematic close-up of her face.
+
+Her wet hair moves naturally in the ocean breeze. Warm sunset light reflects in her eyes. She looks directly into the camera with a calm, confident expression and slight smile.
+
+She says naturally in English:
+
+“Ride the impossible.”
+
+The camera slowly pulls backward as she continues riding into the glowing sunset.</code></pre>
+
+</details>
+
+## 夏季时装卡点变装视频
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2090349290124140547)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3383](https://imglume.com/prompt/3383)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3b816c92-3ffd-45ee-95a8-9d17adae84a5/48cfd43f-4797-4000-bb8b-f10ba313b65e-1787232438943 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Duration: 10秒
+Aspect ratio: 9:16
+Overall style: 夏季时装卡点变装，真实摄影，一镜到底（One Take），动作匹配剪辑（Action Match Cut），4K高帧率
+
+SHOT 1（00:00-00:02.20）
+Subject: 女主@图片1。初始穿白色修身短衬衫、深灰高腰喇叭裤、黑色一字带细跟凉鞋。
+Action:
+女主从右侧走入，身体侧向左方，脸转向镜头，走到中央停下。
+右腿承重；左膝轻屈，左脚向后勾起，随后快速跺回原位。双手屈于腰侧，手腕随音乐轻摆。
+Environment: 白墙、黑色踢脚线、浅灰瓷砖地面，影棚柔光。
+Camera: 固定全身镜头，双脚完整入画。
+Constraints: 身体保持侧姿，脸和视线始终朝向镜头。
+
+SHOT 2（00:02.20-00:08.20）
+Action:
+女主固定站在中央，反复使用同一动作：右腿承重→左膝轻屈→左脚向后勾起→左脚快速跺回原点。每次左鞋跟触地，服装瞬间硬切；换装前后脸、头发、侧身角度、手势完全衔接。
+
+00:02.20：白色细肩带短上衣、白色侧抽绳短裤。
+00:03.10：黑色半透短款上衣、金色亮片短裤、黑色丝袜。
+00:03.90：灰色细肩带短上衣、灰色高腰紧身裤。
+00:04.60：黑色高领短上衣、黑色短裤、红边黑色长筒丝袜。
+00:05.25：紫色挂颈短上衣、黑色短裤、紫色丝袜、紫色腰带。
+00:05.85：酒红露肩短上衣、黑色皮质短裤、黑色丝袜。
+00:06.40：银灰单肩短上衣、黑色高腰短裙。
+00:06.90：深蓝挂颈修身短裙、黑色丝袜。
+00:07.35：象牙白缎面短上衣、灰色修身短裤、深灰丝袜。
+00:07.80：白色修身短衬衫、黑色高腰皮质短裙。
+
+Style: 后半段换装逐渐加速；每套都是贴身、利落的夏季造型。黑色细跟凉鞋全程不变。
+Constraints: 每次只在左脚落地帧换装；不使用闪光、烟雾或旋转遮挡。
+
+SHOT 3（00:08.20-00:10.00）
+Action:
+女主停止跺脚，保持侧身，脸看镜头；右腿承重，左膝微屈。她轻摆双手，随后微笑定格。
+Camera: 固定全身镜头，结尾轻微推进。
+Audio: 快节奏卡点音乐；每次左鞋跟落地配清脆“嗒”声。无对白、无字幕。
+
+---
+Negative: 日常通勤装，宽松T恤，卫衣，牛仔长裤，工装裤，运动服，厚外套，长裙，脸看向侧面，背对镜头，右腿跺地，左右腿交替，双脚跳跃，高抬腿，向前踢腿，脚底漂浮，换装早于落地，服装渐变，闪光，烟雾，人物瞬移，姿势断裂，额外腿脚，脸型变化，发型变化，鞋子变化，镜头晃动，背景变化，字幕，水印，标志。</code></pre>
+
+</details>
+
+## Ultra-Premium Shampoo 15-Second Cinematic Advertisement
+
+- **Original source:** [@Rosey_watson on X](https://x.com/Rosey_watson/status/2090369532435083731)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3372](https://imglume.com/prompt/3372)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac95bc95-58cd-41a4-8d63-f545624afd8d/d3350452-c6e1-496e-8911-bd2a456c0063-1787223943054 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-premium shampoo advertisement featuring a beautiful young woman with long, naturally thick, glossy hair. The entire film should look like a high-budget international beauty campaign, with sophisticated cinematography, realistic hair physics, elegant lighting, premium production design, and photorealistic detail.
+
+0–3 SEC — OPENING
+
+Extreme close-up of the girl standing in a luxurious modern bathroom. Warm morning light softly illuminates her face and wet hair. She gently runs her fingers through her damp hair as tiny water droplets glisten on individual strands.
+
+Camera slowly moves toward her hair with an elegant macro transition.
+
+3–6 SEC — SHAMPOO APPLICATION
+
+Close-up of her hand dispensing a rich, luxurious pearlescent shampoo into her palm.
+
+Cut to a beautiful close-up as she massages the shampoo gently into her wet hair. Rich creamy lather forms naturally between her fingers. Detailed hair strands, realistic foam, water droplets, and soft skin texture.
+
+6–10 SEC — TRANSFORMATION
+
+Cinematic slow-motion shot.
+
+She rinses her hair under crystal-clear water. As she lifts her head, her freshly washed hair falls naturally around her shoulders.
+
+She turns toward the camera and slowly runs her fingers through her hair.
+
+Her hair appears silky, smooth, hydrated, voluminous, and intensely glossy, with natural movement and realistic individual strands.
+
+Soft sunlight creates elegant highlights across the flowing hair.
+
+10–13 SEC — HERO BEAUTY SHOT
+
+The girl walks slowly through a luxurious minimalist setting.
+
+She turns her head gently, allowing her long, silky hair to sweep naturally through the air in beautiful slow motion.
+
+Camera performs a smooth cinematic orbit around her.
+
+Confident expression. Natural beauty. Premium fashion-editorial aesthetic.
+
+13–15 SEC — PRODUCT REVEAL
+
+Match-cut from her flowing hair to the shampoo bottle standing on a polished marble surface.
+
+The bottle is surrounded by subtle water droplets with a soft luxury light glowing behind it.
+
+Elegant text appears:
+
+[BRAND NAME]
+UNLOCK YOUR HAIR'S NATURAL BRILLIANCE.
+
+Final subtle light sweep across the logo.
+
+STYLE:
+Luxury beauty commercial, international cosmetics campaign, photorealistic, 4K/8K, cinematic slow motion, premium studio lighting, realistic wet hair, physically accurate water and foam, natural skin texture, elegant camera movement, shallow depth of field, sophisticated color grading, high-end product cinematography.
+
+AVOID:
+Cheap CGI, excessive effects, unrealistic hair movement, plastic-looking skin, distorted hands, warped facial features, messy backgrounds, excessive text, oversaturation, artificial-looking foam, cartoon aesthetics.</code></pre>
+
+</details>
+
+## Close-up ASMR cosmetics video of shimmering pink lip gloss creation
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2090295827512406249)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3354](https://imglume.com/prompt/3354)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52536bd1-a357-47d7-8439-34d4d3101bbd/062fa33c-ec26-4fc8-a66c-9f8b908e4385-1787211370466 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A close-up aesthetic ASMR cosmetics video showing the step-by-step creation and packaging of a shimmering pink lip gloss.The video opens with a thick, glossy, sheer pink base being poured from a glass beaker into a small clear bowl, followed by a second pour of clear, glittery lip gloss base. A drop of vibrant pink liquid pigment is added right into the center of the shimmering gel. A clear spatula then stirs and mixes the glossy mixture together, blending the shimmering particles and pink pigment into a smooth, thick, rose-gold shimmer gloss.The mixed lip gloss is then filled into a clear, cylindrical lip gloss tube. A applicator wand with a soft plush doe-foot applicator is dipped inside and pulled out, pulling a string of shiny gloss. Finally, the gloss is swatched onto a clear glass plate showing off its smooth, glass-like shine, before ending on a product shot of the finished lip gloss tube sitting on a vanity table next to scattered tiny pink crystals with the text overlay "Would you wear this shade?The lighting is soft, clean, and bright, featuring smooth camera movements, satisfying ASMR sound effects, high clarity, and a glossy luxury aesthetic.</code></pre>
+
+</details>
+
+## Luxurious 9-second skincare commercial for LUMIÈRE Skin Bloom Essence
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2090086092930502667)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3340](https://imglume.com/prompt/3340)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df94c5d6-0c6d-4496-9243-621b634b905d/a398b2f4-ae4f-40ec-9138-6b31bfb126b5-1787179866480 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a luxurious 9-second skincare commercial for LUMIÈRE Skin Bloom Essence with a soft, luminous pink aesthetic. Begin with floating translucent pink droplets, then reveal a young woman with glowing, hydrated skin and slicked-back dark hair as water droplets move around her in slow motion. Show a close-up of the frosted glass bottle with water droplets and a silver cap, followed by the model gently touching her smooth jawline. End with her smiling while holding the product beside her face, surrounded by floating rose petals. Use elegant white serif typography, subtle sparkles, cinematic lighting, dreamy slow-motion transitions, and a premium Japanese beauty-ad feel. Voiceover in Japanese: 「肌は…まだ見ぬ光を知る。満ちる透明感、解き放たれる輝き。リュミエール、美しさのその先へ。」</code></pre>
+
+</details>
+
+## Premium Organic Honey Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090081415924982038)
+- **Recommended model:** `seedance`
+- **Source model(s):** `nanobanana`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3335](https://imglume.com/prompt/3335)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9f64fc1f-fe7d-4bba-a9a3-569fa06d0c7b/5bcd99ea-443e-4d4e-ac39-450a70d82a61-1787167783270 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9f64fc1f-fe7d-4bba-a9a3-569fa06d0c7b/ff360873-6477-44be-b093-fbefc0c89749-1787167783270 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Organic Honey Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product campaign
+• 8 cinematic storyboard scenes
+• Product remains the visual hero
+• Premium advertising agency presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Natural Luxury Food Commercial
+ - Product: Organic Honey
+ - Audio: Soft Nature ASMR
+• Why This Style Works section
+• Cream, amber and gold aesthetic
+• Minimal honeycomb decorative details
+
+STORYBOARD:
+1. Premium honey jar standing on a warm wooden surface
+2. Jar lid slowly opening in macro close-up
+3. Golden honey being lifted with a wooden honey dipper
+4. Honey flowing in an extremely slow silky stream
+5. Macro shot of honey texture and natural highlights
+6. Honey dripping over warm toast
+7. Honey jar surrounded by honeycomb and fresh ingredients
+8. Final luxury hero packshot with golden honey splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion liquid photography, controlled push-in, top-down composition, shallow depth of field, cinematic hero shot.
+
+STYLE:
+Ultra-realistic honey texture, realistic liquid physics, warm natural lighting, premium food photography, glossy glass jar, elegant reflections, luxury organic branding, 8K.</code></pre>
+
+</details>
+
+## Ultra-photorealistic Japanese beauty product commercial
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2089996779043291503)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3329](https://imglume.com/prompt/3329)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff8833b2-bf4c-43e1-82ea-fd4087d1fa2e/b1abd00c-eea8-4afb-ba18-c1abaa2fd415-1787161104911 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>STYLE: Ultra-photorealistic live-action Japanese beauty commercial, elegant Tokyo aesthetic, soft cinematic lighting, natural skin texture, subtle film grain, shallow depth of field. Clearly adult Japanese woman with long silky black hair, glowing natural skin, soft makeup, cute gentle smile, elegant white blouse. Consistent face, hair, outfit, and environment throughout.
+
+00:00–00:04-She looks into the mirror, gently touches her cheek, and gives a soft, natural smile. Slow cinematic camera movement.
+
+00:04–00:08- She picks up the serum, applies a few drops to her cheek, then looks toward the camera and says naturally:
+“This has been my favorite lately.”
+
+00:08–00:12-She lightly tilts her head, smiles warmly, and says:
+“My skin feels so good.”
+
+00:12–00:15- She holds the product beside her face with a cute, confident smile and says:
+“You should definitely try it.”
+Camera gently pushes in toward the product for a polished premium hero shot.
+
+AUDIO: Soft upbeat music, subtle room ambience, warm natural female voice, conversational delivery, accurate lip-sync.</code></pre>
+
+</details>
 
 ## Premium Instant Noodles Product Commercial Storyboard
 

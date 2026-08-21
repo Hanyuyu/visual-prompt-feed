@@ -1,9 +1,60 @@
 # Character image prompts
 
-94 source-linked prompts, newest ImgLume records first.
+97 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Highly stylized 3D caricature of a character
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2090321907933733245)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3355](https://imglume.com/prompt/3355)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/50d88e1c-5bc4-4119-a40a-0648c1aa0eed/e7595acf-9567-44a1-a6f5-efb38ada1608-1787213435864 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/50d88e1c-5bc4-4119-a40a-0648c1aa0eed/5f5260c3-c1d0-4494-9e7d-a9f04da76e5f-1787213435864 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/50d88e1c-5bc4-4119-a40a-0648c1aa0eed/9549038a-f076-4fe8-a0fd-a081f696a981-1787213435864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly stylized 3D caricature of [Character], with an oversized head, expressive facial features, and playful exaggeration. Rendered in a smooth, polished style with clean materials and soft ambient lighting. Minimal background to emphasize the character’s charm and presence.</code></pre>
+
+</details>
+
+## Cute white cartoon cat on dock with lantern at twilight
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090182449149977021)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `seedream`, `nanobanana`
+- **Categories:** `character`
+- **ImgLume record:** [3343](https://imglume.com/prompt/3343)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c1c405e1-c341-4dcc-b610-d6d6d4347e8d/3d8a44e5-423f-4657-861f-2c54292f70a0-1787192437271 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c1c405e1-c341-4dcc-b610-d6d6d4347e8d/b38de76a-7377-4485-9ba4-6f8eed6e10cd-1787192437271 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cute white cartoon cat with big blue eyes sits on a wooden dock by a calm lake at twilight, holding a glowing lantern that reflects on the water. The background features lush green trees, lily pads, and a serene sky filled with stars and wispy clouds, creating a peaceful and enchanting mood in a soft, whimsical art style.</code></pre>
+
+</details>
+
+## Cute white bear by waterfront at night with city skyline
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090182449149977021)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `seedream`, `nanobanana`
+- **Categories:** `character`
+- **ImgLume record:** [3342](https://imglume.com/prompt/3342)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/58f4e6fc-ed78-46c7-bf70-bfaef4ba94f0/ba25ae74-92bb-4375-b1ef-ffe1ba0cf234-1787192437271 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/58f4e6fc-ed78-46c7-bf70-bfaef4ba94f0/728c8895-bf41-430a-a716-aa2378cf6c57-1787192437271 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cute white bear sits alone on the edge of a waterfront at night, gazing across the shimmering water toward a brightly lit modern city skyline with a prominent tower. The sky is filled with stars and wispy clouds, creating a dreamy, serene atmosphere in a soft, anime-inspired art style.</code></pre>
+
+</details>
 
 ## Demonic Samurai — Ink, Smoke & Fire
 

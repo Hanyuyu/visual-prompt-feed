@@ -1,9 +1,123 @@
 # Illustration 3d image prompts
 
-50 source-linked prompts, newest ImgLume records first.
+52 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Handcrafted Paper-Collage Diorama with Photorealistic Girl
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2090297565732585554)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3359](https://imglume.com/prompt/3359)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fbd884a7-7789-4c10-8c9b-d0c3845752b3/0decbd74-a73e-45a5-9098-f3211d01f26f-1787213668878 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fbd884a7-7789-4c10-8c9b-d0c3845752b3/8c0ad5cd-24a7-4e67-a214-32fe5509d83a-1787213668878 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
+
+Use the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and recognizable facial features. Strict face identity lock — do not redesign, beautify, stylize, age, de-age, or replace her face.
+
+The girl stands alone in the center of the composition in a graceful, natural editorial pose. She is facing the camera with a relaxed confident expression and a subtle natural smile. Her body is slightly angled, creating a candid fashion-editorial feeling. She holds a beautiful small mixed bouquet of flowers naturally with both hands in front of her. One leg is slightly crossed in front of the other for an elegant relaxed pose.
+
+Outfit
+
+Change the outfit completely from the original reference while keeping it fully modest and elegant:
+
+- elegant ivory/cream long-sleeve button-up blouse
+- high-waisted wide-leg beige trousers
+- full-length trousers with complete coverage
+- simple cream closed-toe shoes
+- small brown leather shoulder bag
+- no revealing clothing
+- no exposed midriff
+- sophisticated countryside editorial fashion
+- natural realistic fabric folds and texture
+
+Environment
+
+Create a beautiful handcrafted 3D paper-diorama countryside scene:
+
+- layered blue mountains in the distance
+- green forest and rolling hills
+- peaceful blue lake
+- grassy lakeside landscape
+- textured beige paper pathway in the foreground
+- rustic white wooden fence behind the girl
+- dreamy pastel sky
+
+Surround the composition with oversized handmade paper flowers in pink, peach, cream, white, and light blue, with layered green paper leaves.
+
+Add decorative paper elements floating in the sky:
+
+- pink paper hearts
+- yellow paper stars
+- blue stars
+- soft white and pale-blue clouds
+- tiny colorful paper dots
+
+Place two tiny vintage vehicles near the lake in the background: a cream vintage camper van on one side and a small vintage blue-green car on the other.
+
+Art Direction
+
+The entire environment should look handcrafted from premium textured paper while the girl remains photorealistic and seamlessly integrated into the paper world.
+
+Use:
+hand-torn paper edges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional cut-paper elements, tactile textures, soft natural daylight, cinematic depth, gentle atmospheric perspective, premium editorial photography.
+
+The final image should feel like a luxury handmade paper storybook brought to life with a real photographic subject.
+
+Composition
+
+Centered full-body girl
+Face clearly visible and sharply detailed
+Natural elegant pose
+Bouquet held naturally
+Rustic fence framing the subject
+Lake and mountains creating depth
+Large flowers framing both lower corners
+Clouds and decorative elements filling the upper background
+Balanced symmetrical composition with organic handmade imperfections
+Girl remains the strongest focal point
+
+Final Look
+
+Photorealistic girl + handcrafted paper-art environment
+Dreamy pastel colors
+Luxury editorial aesthetic
+Whimsical miniature diorama
+Soft cinematic daylight
+Highly detailed paper textures
+Natural realistic skin
+Sharp facial identity
+Professional fashion photography
+Pinterest/Instagram viral visual aesthetic
+Magazine-quality composition
+
+Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.</code></pre>
+
+</details>
+
+## Minimalist Golden Pine Illustration
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090075937169694851)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3327](https://imglume.com/prompt/3327)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b98bbac8-01d9-49dc-ac02-6578c5d52d34/d203b74c-9372-4bb4-9a5a-61d3f1dea56e-1787158895371 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/b98bbac8-01d9-49dc-ac02-6578c5d52d34/1c8ba6bf-1934-46e0-b1e3-1f3d41ebb6e5-1787158895371 "Seedream 5.0 Pro") · [3](https://cdn.imglume.com/prompts/byradar/b98bbac8-01d9-49dc-ac02-6578c5d52d34/d4ab6a8f-8985-4031-af53-6f67856be0fc-1787158895371 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A minimalist and elegant illustration featuring a dark background with a row of stylized pine trees in shimmering gold tones, above undulating golden waves in the foreground; a small flock of golden birds flies above the treetops, creating a serene and luxurious atmosphere with a balanced composition and a modern, sophisticated style.</code></pre>
+
+</details>
 
 ## Parisian cobblestone street at dusk in Art Nouveau style – stereoscopic cinematic portrait
 

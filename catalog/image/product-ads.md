@@ -1,9 +1,26 @@
 # Product Ads image prompts
 
-17 source-linked prompts, newest ImgLume records first.
+18 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Square-format campaign image reimagining a Rolex-inspired product with bold substitution
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2090305863680749981)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3352](https://imglume.com/prompt/3352)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c02ec821-d902-4c5d-8035-51313dd95e94/79e97dd3-5b23-4dfc-800b-0cba9f34ba21-1787211331510 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c02ec821-d902-4c5d-8035-51313dd95e94/ed05ebfd-6e4f-481a-82dd-d9d0b1393035-1787211331510 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a square-format campaign image by reimagining a specific product inspired by [Rolex], where one traditional material, function, or design principle is completely substituted with a bold, unexpected alternative. Let this change redefine the product’s essence while still aligning with the brand’s core values of innovation, precision, and character. The design should highlight the impact of this substitution—whether it's a new texture, interface, or behavior—through striking form, lighting, and detail. Incorporate atmospheric elements that interact meaningfully with the product, enhancing the narrative of evolution and disruption. Center the product in an iconic, immersive way, with a clean background that enhances visual tension. Place a sharp product name and short pitch above, and the logo below. Product and text centred. Square format.</code></pre>
+
+</details>
 
 ## Studio product photo of raspberry-encased product
 

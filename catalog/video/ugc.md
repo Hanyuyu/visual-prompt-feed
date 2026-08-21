@@ -1,9 +1,451 @@
 # UGC video prompts
 
-83 source-linked prompts, newest ImgLume records first.
+90 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld garden vlog with wind‑blown papers
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2090405989560561830)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3393](https://imglume.com/prompt/3393)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8fdc072b-a4d3-4e78-8a02-8ac599048490/0c7e261a-1f10-46c6-9e19-a5d877db39d1-1787242844400 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot handheld home-video vlog — 7 shots. One-handed phone filming, snapshot-like realism, slightly tilted framing, visible handheld shake, warm late-afternoon light, fine film grain, photorealistic.
+
+A woman (Image) spends a quiet afternoon reading and writing at a small table in the lush garden of a cozy countryside cottage. (Image) provides only her face and hairstyle. She wears a soft heather-grey cotton short-sleeve shirt and cream-colored loungewear pants. She is the only person throughout.
+
+The garden is naturally grown and slightly imperfect, with wildflowers, herbs, vines, mature trees, grass, a weathered wooden fence, and a stone path leading to the cottage. Warm sunlight filters through the trees as leaves and curtains move gently in the breeze.
+
+Shot 1 (0–2s): She writes in her notebook at the garden table. Close side angle, cottage and greenery behind her.
+
+Shot 2 (2–4s): A sudden gust scatters loose papers. She looks up and quickly reaches for them as the camera jolts with the movement.
+
+Shot 3 (4–6s): One paper blows across the grass. She stands, holds the notebook against herself, follows it, laughs softly, and says: "어, 잠깐!" The camera follows from behind.
+
+Shot 4 (6–8s): Another paper blows past in the opposite direction. She turns and hurries after it; the camera swings and briefly loses her.
+
+Shot 5 (8–10s): She catches the paper near the wooden fence, holds it to her chest, and gives a breathless little laugh.
+
+Shot 6 (10–13s): She returns, gathers the papers, and places a small stone on them. Looking at it, she quietly says: "이제 됐지." Camera moves close to her hands.
+
+Shot 7 (13–15s): She sits down, secures the papers under the stone, smiles toward the garden, and resumes writing as the camera slowly drifts backward.
+
+Sound: Live ambient sound only — wind, fluttering paper, leaves, birds, distant countryside ambience, footsteps, chair movement, notebook sounds, breathing, and natural Korean murmurs. Wind strengthens in the middle and settles toward the end.
+
+No music, subtitles, text, logos, or watermarks. Do not depict or duplicate the reference image itself.</code></pre>
+
+</details>
+
+## Sibling moment smartphone vlog in Korean bedroom
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2090401970657829335)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3389](https://imglume.com/prompt/3389)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/88f1d143-17bf-42f5-8171-4f1261fed319/fd1319fc-533e-4fa8-a3cf-73c4a936fca1-1787238651397 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 16:9 photorealistic handheld smartphone home-video vlog with exactly 7 distinct shots, each using a clearly different camera angle or framing. Use @ image_1 as the sole identity and wardrobe reference for the woman, preserving her exact face, natural skin, loose messy low bun, slim proportions, soft grey sleeveless linen mini dress and bare feet. The older brother is a different adult Korean man with messy dark hair, charcoal hoodie and dark navy sweatpants. Set the scene in his slightly messy Korean bedroom with a computer desk, monitor, tangled cables, books, cup, clothes and warm late-afternoon light mixed with cool monitor glow. The woman enters carrying folded clothes and finds her brother secretly trying to fix a malfunctioning computer. Across 7 natural cuts, she becomes curious, touches the mouse, the monitor suddenly shuts off, and the brother nervously rushes to fix it while she watches and laughs. He finally gets it working and confidently says “응, 완벽해,” but the monitor immediately flickers black again, making her laugh and say “역시 오빠답다.” Use realistic Korean lip-sync, natural sibling reactions, authentic room ambience, footsteps, fabric sounds, mouse clicks, keyboard taps, chair movement and breathing. Make it look like genuine smartphone footage with imperfect handheld shake, autofocus shifts, exposure changes, natural motion blur, realistic skin texture, fabric wrinkles and practical lighting. No music, subtitles, logos, watermarks, CGI, cinematic camera movements, beauty filters, exaggerated acting, extra people or distorted anatomy.</code></pre>
+
+</details>
+
+## Vintage family documentary of autumn apple picking
+
+- **Original source:** [@SeharShinwari on X](https://x.com/SeharShinwari/status/2090350402281624033)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3375](https://imglume.com/prompt/3375)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6710742d-6711-476e-9c3e-c0f86b1e0d75/f559f407-f96e-4a21-9789-613f6e3db97e-1787226101708 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic vintage family documentary video of a young woman spending an autumn morning picking apples in her family's old countryside orchard.
+
+VISUAL STYLE:
+Authentic early-1980s European family documentary footage captured on vintage 16mm Kodak film. Warm faded colors, subtle analog film grain, gentle film flicker, slight gate weave, soft optical imperfections, natural exposure fluctuations, organic focus breathing and imperfect handheld camera movement. Warm autumn sunlight filtered through trees, realistic skin texture and natural imperfections. The footage must feel like genuine family footage discovered decades later, not a modern cinematic production.
+
+SUBJECT:
+Young European woman in her early 20s, naturally beautiful everyday appearance, realistic skin texture, minimal makeup, medium-length slightly wavy brown hair with loose flyaway strands. She wears a simple cream knitted sweater, faded high-waisted blue jeans, worn brown leather boots and a dark green wool cardigan. She carries a simple woven wooden-handled basket. Warm, relaxed personality. Keep her facial identity, hairstyle, body proportions, clothing and appearance perfectly consistent throughout the entire video. She never poses for the camera.
+
+SECONDARY SUBJECT:
+An elderly European woman in her late 70s, warm weathered face, short silver-grey hair, wearing a simple brown cardigan, long faded skirt and old leather shoes. She is the young woman's grandmother or elderly relative. Maintain consistent appearance throughout.
+
+SETTING:
+A traditional family apple orchard in the European countryside during early autumn. Old apple trees with dense branches, red and green apples, fallen leaves covering the grass, weathered wooden fences, an old stone farmhouse in the distance, wooden crates, simple gardening tools and a narrow dirt path. No modern machinery, cars, advertisements or commercial farming equipment.
+
+TIMELINE:
+
+00:00–00:05 — The camera follows the young woman from behind as she walks along a narrow dirt path into the orchard carrying an empty woven basket. Morning sunlight shines through the branches. She reaches up and gently picks a ripe red apple. The handheld camera slightly lags behind and briefly loses focus between her and the apple.
+
+00:05–00:10 — She moves between the old trees, filling her basket with apples. She stretches for one high branch and lightly shakes it, causing several leaves to fall around her. She laughs naturally and looks briefly toward the person filming, then continues working.
+
+00:10–00:15 — She stops beneath a tree, wipes one apple on her sweater and takes a small bite. She smiles naturally at the taste. The camera moves closer imperfectly, capturing the spontaneous moment rather than a deliberate close-up.
+
+00:15–00:20 — Her elderly relative enters carrying a small wooden crate. The young woman immediately helps her lift it. They exchange a few quiet words and smile. The older woman points toward another tree, and they walk together through the orchard while the camera follows slightly unevenly.
+
+00:20–00:25 — The young woman returns to a large old apple tree and sits beneath it with the basket beside her. She looks through the branches toward the morning sky. A gentle breeze moves her hair as yellow and orange leaves slowly fall around her.
+
+00:25–00:30 — Close side profile as she watches the leaves falling. She notices an apple rolling across the grass, reaches down and picks it up with a soft smile. The camera slowly drifts backward, revealing the old orchard and farmhouse behind her. The footage ends naturally with a brief film flicker and abrupt archival cut.
+
+CAMERA:
+Shoulder-mounted vintage 16mm camera operated by a family member. Natural handheld movement, slight camera shake, occasional imperfect framing, delayed reframing, organic focus hunting, subtle lens breathing, mild exposure changes when moving between sunlight and shade, gentle motion blur and authentic film imperfections. No gimbal stabilization, drone shots, smooth cinematic tracking or modern commercial camera movement.
+
+AUDIO:
+Only authentic location sound: birds, leaves rustling, distant countryside ambience, footsteps on grass and dirt, apples being placed into the basket, branches moving, soft conversation between the woman and elderly relative, natural breathing and occasional birdsong. No music, narration, cinematic sound effects or artificial sound design.
+
+GOAL:
+Make the video feel like a genuine family recording from the early 1980s that was forgotten in an old film archive. The story should be simple, warm and intimate, with small spontaneous human interactions. Prioritize believable human movement, realistic physical interaction, environmental detail, natural expressions and imperfect documentary camera behavior over cinematic beauty.
+
+ASPECT RATIO:
+16:9
+
+NEGATIVE:
+No modern cinematic look, no commercial production, no perfect stabilization, no modern clothing, no modern vehicles, no tractors, no beauty retouching, no plastic-looking skin, no exaggerated acting, no dramatic expressions, no face changes, no identity changes, no clothing changes, no text overlays, no subtitles, no logos, no artificial transitions, no fantasy elements, no modern color grading</code></pre>
+
+</details>
+
+## 30-second photorealistic iPhone travel vlog in Dearborn, Michigan
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090131477145227354)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`, `ugc`
+- **ImgLume record:** [3368](https://imglume.com/prompt/3368)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4716e9dc-397e-4334-be80-ccd4f7f81a4b/afad889d-dfde-4c8c-96e2-ebccb37c0062-1787219816099 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second 16:9 horizontal photorealistic iPhone travel vlog filmed in Dearborn, Michigan. The video must feel like authentic spontaneous UGC recorded by a real woman, not a commercial.
+
+Main Character: Clearly adult woman, around 25, naturally attractive, confident and energetic, expressive eyes, soft natural makeup, long healthy hair. She wears a fitted casual top, jeans, light jacket and small crossbody bag. Maintain exactly the same face, body proportions, hairstyle, outfit, accessories and voice throughout every shot.
+
+Visual Style: Realistic iPhone front-camera footage, natural handheld movement, slight walking bounce, occasional imperfect framing, realistic autofocus shifts, exposure adjustments and motion blur. Natural skin texture and hair movement. Authentic Dearborn streets, storefronts, pedestrians, traffic and morning sunlight. No beauty filter, plastic skin, excessive glamour lighting, cinematic/drone shots, subtitles, text overlays, logos, distorted hands or duplicated people.
+
+[0–6s] MORNING INTRO
+
+Front-facing iPhone camera as she walks through a lively Dearborn street in warm morning sunlight. Buildings, cars and pedestrians naturally move behind her. She smiles directly at the camera.
+
+Girl: “Good morning, everyone! I’m in Dearborn, Michigan, and honestly, the vibe here already feels so good.”
+
+She briefly turns the phone toward the street, then back to her face.
+
+[6–13s] CITY EXPLORATION
+
+Continuous handheld vlog energy. She walks past local storefronts, looking around curiously.
+
+Girl: “Okay, first thing I noticed—there’s such an interesting mix of cultures here… and I already know I’m gonna find something good to eat.”
+
+She laughs naturally. A delicious food smell catches her attention and she looks off-camera.
+
+Girl: “Wait… oh my God. What is that smell?”
+
+She quickly turns the phone toward a nearby Middle Eastern bakery or restaurant, then back to herself.
+
+[13–21s] FOOD MOMENT
+
+Natural jump cut while preserving perfect character consistency. She is now outside the restaurant holding a fresh Middle Eastern pastry or snack. She takes a bite while filming herself.
+
+Her eyes widen with genuine surprise.
+
+Girl: “Mmm! Okay… nobody warned me Dearborn was gonna feed me this well.”
+
+She laughs while chewing and points playfully at the camera.
+
+Girl: “This is dangerous.”
+
+Keep realistic street ambience underneath her voice.
+
+[21–27s] QUICK CITY DISCOVERY
+
+Another natural vlog jump cut. She walks through a recognizable urban Dearborn environment with golden morning light, pedestrians and passing cars.
+
+Girl: “I’ve been here, like, twenty minutes… and I already feel like there’s way more to this city than I expected.”
+
+She briefly turns around while walking backward, smiling excitedly, then faces forward again.
+
+[27–30s] HOOK FOR NEXT PART
+
+She brings the iPhone slightly closer to her face, creating an intimate vlog moment.
+
+Girl: “Alright, come with me. Let’s see what else Dearborn is hiding.”
+
+She gives the camera a confident smile, turns the phone toward the street ahead and continues walking.
+
+END FRAME: Natural moving iPhone footage continues forward, making the vlog feel like it is about to continue.
+
+Audio: Clear close-range iPhone microphone recording with perfectly synchronized natural lip movement. Conversational American English delivery, subtle breathing, genuine laughter and realistic vocal imperfections. Keep distant conversations, traffic, footsteps, light wind and restaurant ambience underneath her voice. No overpowering background music.
+
+Final priority: Photorealism, believable iPhone footage, authentic UGC travel-vlog behavior, strong character consistency across all cuts, accurate lip sync, natural acting and realistic Dearborn atmosphere.</code></pre>
+
+</details>
+
+## Seedance 2.5 purikura booth video prompt
+
+- **Original source:** [@QAiStudio on X](https://x.com/QAiStudio/status/2090318927012167948)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3365](https://imglume.com/prompt/3365)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/957dcb35-97eb-44f0-a80a-d781ff63ea2c/1b65fda5-06a2-4021-97bb-402bf1d7b6b4-1787219772384 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Person: Use Image1 as the exact face/hairstyle reference. Preserve identity and facial features completely; ignore its outfit, background, pose, and text. Casual everyday streetwear.
+
+Format/Style: 16:9 horizontal video with an old iPhone 1x look: low quality, heavy noise/compression, natural skin texture, slight handheld shake, flat standard FOV. No cinematic grading, beauty filter, CG texture, fisheye, vignette, or distortion.
+
+Setting: Small colorful purikura booth in a convenience store/arcade, soft ring-light glow, partial curtain at entrance. Screens/templates/text remain illegible.
+
+Timeline:
+
+- 0–4s: Enters alone, sits/stands at touch screen, fumbles through menus, mutters: “wait which one do I press—”
+
+- 4–8s: Randomly selects a frame, lighting/colors shift, adjusts stance and checks reflection.
+
+- 8–11s: Countdown blinks; attempts an overly cute/awkward pose and feels silly.
+
+- 11–14s: Flash fires; breaks pose, laughs at reflection, covers mouth: “oh my god that was so awkward.”
+
+- 14–17s: Exits to sticker printer, waits for sheet, picks it up and looks at it. Sticker uses Image1 face reference; graphics/text illegible.
+
+- 17–19s: Peels off one sticker, places it on the back of phone case, presses it down, then looks at camera with a satisfied grin. Freeze.
+
+Camera/Sound: Loose 1–1.5s cuts, slight natural shake entering/exiting, mostly static in booth, pink/magenta off-white balance, brief flash overexposure. No BGM—only ambient store/arcade noise, taps, countdown beep, shutter, printer sounds, laughter, and close muffled booth-echoed voice. No skipped scenes or consolidated cuts.</code></pre>
+
+</details>
+
+## Handheld Home-Video Vlog Picking Strawberries in a Countryside Garden
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2090285193307271614)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `nature`, `ugc`
+- **ImgLume record:** [3356](https://imglume.com/prompt/3356)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b2ceb6c8-4c16-4d9d-9384-df3ce8dec5ec/fc0280b9-cc9f-4840-9f24-b3281bd2c21a-1787213458296 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot handheld home-video vlog — 7 shots, 15 seconds. One-handed phone footage, snapshot-like realism, slightly tilted framing, natural handheld shake, warm late-afternoon light, fine film grain, photorealistic.
+
+A woman (Image) quietly picks ripe strawberries in the lush garden of a cozy countryside wooden-and-stone cottage. (Image) provides only her face and hairstyle. She wears a soft heather-grey short-sleeve cotton shirt, sleeves covering her shoulders and upper arms, loosely tucked into cream loungewear pants. She is the only person throughout.
+
+The garden is naturally grown and slightly imperfect, with strawberry beds, wildflowers, herbs, climbing greenery, grass, a weathered wooden fence, and a narrow stone path. A small wicker basket sits nearby. Golden sunlight filters through trees with soft moving shadows. Her behavior is casual and spontaneous, like an everyday phone vlog. Natural spoken Korean only.
+
+Shot 1 (0–2s): She enters the strawberry patch with the basket, crouches, and searches beneath the leaves. Camera follows from slightly behind and above her shoulder.
+
+Shot 2 (2–4s): Close-up of her fingers parting the leaves. She discovers a ripe strawberry and softly says, "어, 여기 있다." Camera dips toward the fruit.
+
+Shot 3 (4–6s): She picks it and places it in the basket, then immediately notices another nearby. Camera naturally shifts with her hand.
+
+Shot 4 (6–8s): She finds a particularly large strawberry, lifts it up, smiles with mild surprise, and says, "이거 크다." Camera moves closer to her face and the fruit.
+
+Shot 5 (8–10s): She takes a small bite instead of putting it in the basket, pauses, then smiles with quiet satisfaction. Slightly tilted close framing.
+
+Shot 6 (10–13s): She continues picking, gently dropping strawberries into the increasingly filled basket. She discovers another one and gives a tiny amused laugh.
+
+Shot 7 (13–15s): She sits back, looks at the basket, holds up one strawberry briefly, smiles, then stands and walks toward the cottage. Camera drifts backward, revealing the sunlit garden and cottage.
+
+Sound: Live ambient audio only — leaves, grass, wicker basket, footsteps, birds, breeze, natural breathing, quiet Korean murmurs, and a small laugh. No music or artificial cinematic effects.
+
+No subtitles, text, logos, or watermarks. Do not depict or copy the reference image itself.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic early-2000s Korean home video
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2090287853532266748)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3348](https://imglume.com/prompt/3348)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8044fd58-a543-4e32-a676-8695dcd82d49/391c7996-4df8-4b58-9668-15ac22e041b4-1787209267515 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic documentary home-video of an ordinary late morning in a quiet Korean residential neighborhood. The entire video should feel like genuine footage casually recorded by a friend on an early-2000s consumer DV camcorder.
+
+MAIN SUBJECT
+
+The same young Korean woman in her early 20s throughout the entire video.
+
+Natural everyday appearance, realistic skin texture, minimal makeup, warm and approachable personality.
+
+She wears a faded charcoal-grey sleeveless crop top, loose high-waisted light-wash jeans, black canvas sneakers, and a simple black cord necklace.
+
+Her black wavy hair is tied in a messy side ponytail with wispy bangs and loose strands.
+
+Keep her face, identity, body proportions, hairstyle, clothing, necklace, and overall appearance consistent from beginning to end. No outfit or hairstyle changes.
+
+LOCATION
+
+A quiet, authentic Korean residential neighborhood during late morning: narrow concrete alleys, low-rise homes, small terraces, potted plants, laundry lines, utility poles, overhead wires, mature trees, concrete walls and steps, and a few parked bicycles.
+
+No stores, cafés, advertisements, crowds, tourists, or commercial activity.
+
+CAMERA / VISUAL STYLE
+
+Early-2000s consumer DV camcorder footage recorded by a friend.
+
+Heavy but believable handheld shake, imperfect framing, occasional autofocus hunting, lens breathing, exposure changes between sun and shade, slight motion blur, subtle rolling shutter, mild digital compression, faded colors, soft contrast and slight sensor noise.
+
+No stabilization, gimbal movement, drone shots, cinematic camera moves, modern color grading, slow motion, dramatic lighting, or polished commercial cinematography.
+
+The camera operator sometimes reacts slightly late and imperfectly frames the subject. These imperfections are intentional.
+
+The footage should feel accidentally captured, not staged.
+
+---
+
+00:00–00:05 — HOUSE ENTRANCE
+
+Outside a small residential house, she sits casually on a low concrete wall and fixes her messy side ponytail with both hands.
+
+A light breeze moves loose strands of hair.
+
+She briefly notices the camera, gives a small natural smile, then looks away.
+
+The camera struggles to focus for a moment before finding her face.
+
+Keep the movement simple and natural.
+
+00:05–00:10 — STRAY CAT
+
+She walks slowly into the narrow alley.
+
+A stray cat approaches from the side.
+
+She notices it, crouches down and gently pets it with one hand.
+
+She offers a tiny piece of food with her fingers and the cat naturally takes it.
+
+Her hand stays outside the cat's mouth. The cat behaves like a real cat.
+
+The camera briefly shifts focus between her and the animal.
+
+00:10–00:14 — LAUNDRY
+
+Beside the house, she hangs a couple of lightweight clothes on a simple clothesline.
+
+One piece slips slightly from her hand.
+
+She catches it and gives a small spontaneous laugh before securing it properly.
+
+The clothes move gently in the breeze.
+
+The clothesline stays fixed in place.
+
+00:14–00:19 — TERRACE / COFFEE
+
+She sits on a small terrace with a ceramic coffee cup beside her.
+
+She picks up the cup with one hand and takes one small natural sip.
+
+The cup remains a separate physical object and stays outside her mouth and face.
+
+She lowers the cup and holds it naturally near her lap.
+
+With her free hand, she brushes a loose strand of hair behind her ear.
+
+She looks toward the neighborhood rather than posing for the camera.
+
+00:19–00:23 — OFF-CAMERA MOMENT
+
+Someone casually calls to her from off-camera.
+
+She turns toward the voice and responds naturally.
+
+She stands up while holding the coffee cup securely.
+
+The camera reacts slightly late and briefly frames her imperfectly.
+
+No sudden object changes or teleportation.
+
+00:23–00:26 — “ANNYEONG”
+
+The person behind the camera says something casually.
+
+She turns toward the camera, gives a small friendly wave and naturally says:
+
+“Annyeong.”
+
+She smiles briefly, then looks away.
+
+Her mouth movement should match the single word naturally.
+
+No repeated dialogue and no prolonged posing.
+
+00:26–00:30 — WALKING AWAY
+
+She slowly walks down the quiet tree-lined residential lane while carrying the ceramic cup.
+
+The camera follows from several steps behind and slightly to the side.
+
+Her walking is natural, with realistic foot contact against the concrete.
+
+She notices the camera once more, gives a tiny genuine smile, then looks away and continues walking.
+
+At approximately 00:29, the recording abruptly cuts to black mid-motion, as if the old camcorder was switched off.
+
+No fade-out.
+
+---
+
+PHYSICAL REALISM
+
+Maintain believable real-world physics throughout.
+
+Hands must correctly hold and release objects.
+
+No extra fingers, fused hands, duplicated limbs, distorted anatomy, floating objects, teleporting objects, disappearing objects, or sudden object transformations.
+
+The ceramic cup must remain separate from her face and mouth when drinking.
+
+The cat, food, clothing and other objects must interact naturally.
+
+Parked bicycles remain completely stationary unless a person physically touches or moves one. They must never move, ride, rotate or change position by themselves.
+
+Her feet remain connected to the ground while walking; no sliding or unnatural movement.
+
+Keep all background objects stable and consistent.
+
+AUDIO
+
+Natural location audio only: birds, light wind, leaves, distant motorcycles, faint neighborhood voices, footsteps, cat sounds, fabric moving, and subtle old-camera ambience.
+
+No music, narration, soundtrack or artificial sound effects.
+
+Only spoken dialogue: “Annyeong.”
+
+FINAL FEEL
+
+This must look like a real forgotten Korean home-video recording from the early 2000s, not an advertisement, fashion film, music video, cinematic short, travel video or AI showcase.
+
+Prioritize realistic human behavior, consistent identity, believable physics, natural camera imperfections and authentic everyday Korean neighborhood atmosphere over cinematic beauty or spectacle.</code></pre>
+
+</details>
 
 ## Ultra-realistic UGC luxury bedroom product review video
 

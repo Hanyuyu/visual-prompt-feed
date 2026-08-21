@@ -1,9 +1,570 @@
 # Travel image prompts
 
-31 source-linked prompts, newest ImgLume records first.
+35 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Layered papercut travel poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2090294202688999565)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3369](https://imglume.com/prompt/3369)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8fe4fccb-4e80-47b1-b765-728faa0d1abb/2f60219a-199b-4ad3-a883-8d0a752f55f3-1787219850617 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8fe4fccb-4e80-47b1-b765-728faa0d1abb/1e4186fe-e3f6-4623-8511-e2b13494dec7-1787219850617 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8fe4fccb-4e80-47b1-b765-728faa0d1abb/fbe24e68-ca52-489a-8bb1-f20cc9f656c2-1787219850617 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8fe4fccb-4e80-47b1-b765-728faa0d1abb/d52b5b3d-e935-4664-b982-00c205077069-1787219850617 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CITY = {CITY}
+
+Create a refined vertical 3:4 travel poster of {CITY} as a handcrafted layered papercut illustration.
+
+First identify the city, country, architecture, landscape, climate, and visual character. Choose ONE iconic HERO LANDMARK and establish one believable real-world viewpoint. All supporting buildings, streets, parks, water, and skyline elements must realistically fit that viewpoint. No landmark collage.
+
+VISUAL COMPOSITION
+
+Make the HERO landmark the dominant element, occupying roughly 45–60% of the image height. Preserve its authentic silhouette, proportions, roofline, structural details, and surrounding environment while simplifying minor details.
+
+Use only 1–3 subtle secondary elements such as local buildings, skyline, bridge, park, waterfront, street trees, tiny pedestrians, or vehicles. Keep them smaller, flatter, and lower contrast.
+
+Composition:
+
+Top: 25–35% open sky and negative space
+
+Middle: HERO landmark and distant city
+
+Bottom: human-scale street, park, waterfront, or neighborhood
+
+Keep at least 30% visually quiet.
+
+PAPERCUT STYLE
+
+Use shallow 2–6 layer cut-paper construction with matte handmade paper, subtle grain, clean cut edges, overlapping shapes, and delicate 1–3 mm shadows.
+
+Graphic and editorial, not a miniature model.
+
+Simplify architecture into clean paper masses. Avoid excessive windows, bricks, cables, railings, roof tiles, and tiny details. Create depth through scale, overlap, and atmospheric color rather than 3D modeling.
+
+COLOR &amp; LIGHT
+
+Use an authentic 6–8 color muted pastel palette inspired by {CITY}: pale sky blue, ivory, cream, muted brick, dusty blush, pale stone, sage, and blue-grey, adjusted to the city.
+
+Use bright, soft, diffused daylight. Keep shadows subtle.
+
+TYPOGRAPHY
+
+Place a small uppercase {CITY} title in the upper-left or upper-right negative space, optionally with the local name, country, or HERO landmark name.
+
+Use clean geometric lettering, wide spacing, flat cream/white paper. Typography must remain secondary and occupy no more than 12–18% of the image.
+
+FINAL TARGET
+
+Premium contemporary travel illustration.
+Elegant, airy, sophisticated, handcrafted, and geographically believable.
+
+The viewer should recognize:
+
+1. {CITY} → 2. HERO landmark → 3. Papercut craftsmanship
+
+NO photorealism, NO photographic textures, NO deep diorama, NO landmark collage, NO impossible skyline, NO excessive detail, NO fantasy architecture, NO oversized typography, NO logos, NO watermark.</code></pre>
+
+</details>
+
+## Luxury Travel Magazine Cover – The Country Behind the Glass
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090290723677749525)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3366](https://imglume.com/prompt/3366)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/7f5015c6-214f-4aa0-89dd-c44eea868347-1787219786087 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/4c0eaf0f-6910-4b42-9171-6030de5b1944-1787219786087 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/4ad1c218-00f1-4c3d-8980-5c4ae32424e3-1787219786087 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/f714e006-56f1-4ee2-9891-350d6e6d1dd3-1787219786087 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking 4:5 vertical luxury travel artwork for [COUNTRY], inspired by high-end editorial magazine covers, vintage European travel posters, fine-art photography, and soft atmospheric painting — but with a completely original visual concept.
+
+CONCEPT — “THE COUNTRY BEHIND THE GLASS”
+
+Imagine a gigantic, crystal-clear architectural glass window floating vertically in an elegant dreamlike landscape. The glass is not merely a window — it acts as a portal into the soul of [COUNTRY].
+
+Through the glass, reveal a beautifully layered miniature world containing the country’s most recognizable identity:
+
+• one iconic landmark as the hero element
+• characteristic architecture and rooftops
+• dramatic natural landscape — mountains, sea, desert, forests, or countryside depending on [COUNTRY]
+• a subtle national flag integrated naturally into the environment
+• traditional transportation
+• local flowers and vegetation
+• a few tiny human figures creating scale
+• one or two iconic cultural details or objects
+• atmospheric birds, clouds and distant scenery
+
+Make everything feel as though it exists inside one enormous transparent glass portal, with some elements subtly crossing through the glass into the foreground.
+
+THE MAGIC
+
+At the bottom of the scene, create a perfectly calm mirror-like surface.
+
+Instead of a normal reflection, the reflection becomes an alternate dream version of [COUNTRY] — slightly softer, more mysterious and almost watercolor-like.
+
+The real world and reflected world should connect seamlessly at the horizon, creating the illusion that the country continues infinitely beneath the glass.
+
+Add delicate refraction through the glass:
+
+• subtle rainbow dispersion
+• realistic highlights along the glass edges
+• tiny floating dust particles illuminated by sunlight
+• soft caustic light patterns
+• faint condensation and microscopic glass texture
+• elegant reflections of architecture and sky
+
+COMPOSITION
+
+Use an extremely refined editorial composition with generous negative space.
+
+Place the title near the upper section:
+
+[COUNTRY]
+
+Underneath, add a sophisticated small tagline:
+
+THE SOUL OF [COUNTRY]
+
+Then a tiny editorial detail:
+
+A JOURNEY THROUGH TIME • 2026
+
+Typography should be minimal, elegant, high-fashion serif typography, perfectly centered and naturally integrated into the artwork.
+
+Do not overcrowd the poster.
+
+The landmark should be visually dominant, while the surrounding details gradually reveal themselves as the viewer looks closer.
+
+ATMOSPHERE
+
+Early morning after a light mist.
+
+Warm ivory sunlight filtering through pale clouds.
+
+Soft champagne, cream, muted blue, dusty green and warm stone tones.
+
+A sophisticated cinematic haze surrounds the architecture.
+
+The entire image should feel:
+
+quiet • expensive • poetic • timeless • cinematic • nostalgic • sophisticated
+
+Blend ultra-realistic architectural detail with the delicacy of a fine-art watercolor and the polish of a luxury fashion editorial.
+
+CAMERA &amp; DETAIL
+
+Premium large-format photography aesthetic.
+
+Natural atmospheric depth.
+
+Subtle lens compression.
+
+Extremely realistic materials.
+
+Fine architectural details.
+
+Delicate shadows.
+
+Soft volumetric sunlight.
+
+Perfectly controlled highlights.
+
+No harsh saturation.
+
+No cartoon appearance.
+
+No excessive fantasy elements.
+
+No visual clutter.
+
+FINAL FEEL
+
+The viewer should feel as if they have discovered a secret window into the soul of [COUNTRY] — a place where its architecture, landscape, culture, history and atmosphere exist together in one impossible, beautiful moment.
+
+Ultra-premium travel magazine cover, museum-quality composition, cinematic fine-art photography, dreamlike realism, sophisticated color grading, timeless luxury aesthetic, highly detailed, visually unforgettable.</code></pre>
+
+</details>
+
+## Premium vertical editorial travel artwork of \[COUNTRY\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090082472407245312)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3339](https://imglume.com/prompt/3339)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/5b855c86-2d05-4531-8a67-95ffd42d2b44-1787175657573 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/27ee0f39-4f41-44d7-ac4d-3727239233dc-1787175657573 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/f063b1d4-9fd5-4163-a25b-52a515c23b85-1787175657573 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/74de7edf-2730-4ae5-ae34-e412aaa8a1d9-1787175657573 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical editorial travel artwork featuring [COUNTRY] transformed into a sophisticated minimalist landscape.
+
+The entire identity of [COUNTRY] should appear as one seamless, dreamlike composition rather than a collection of separate objects. Place the country’s most iconic natural landmark or landscape in the background, softly painted with atmospheric depth. In the foreground, feature one or two instantly recognizable architectural landmarks of [COUNTRY], rendered as elegant simplified forms with refined geometric details.
+
+Surround the architecture with subtle elements that represent the country — native trees, traditional rooftops, local streets, cultural details, and a few tiny human silhouettes — all integrated naturally into the scene.
+
+Use a soft luxury editorial palette: warm ivory, misty beige, muted pastel tones, dusty pink, pale blue, soft sage and gentle charcoal accents. Keep the colors slightly desaturated and harmonious.
+
+Create a beautiful glass-like reflective surface beneath the landscape so the architecture, trees and mountains create delicate vertical reflections. Add extremely subtle translucent geometric shapes around the edges, giving the artwork a contemporary art-gallery feel.
+
+Composition should be spacious, calm and elegant, with generous negative space and a clean horizon. Use soft atmospheric haze, delicate shadows, subtle paper texture, fine architectural linework and restrained watercolor/gouache aesthetics blended with modern digital illustration.
+
+At the top, add sophisticated magazine-style typography:
+
+[COUNTRY]
+THE ESSENCE OF [COUNTRY]
+No. 05 — 2026
+
+Typography should be small, refined, widely spaced and perfectly aligned, like a luxury travel magazine cover.
+
+No clutter, no excessive details, no photorealistic collage, no oversized text. The result should feel like a high-end contemporary travel poster, collectible art print and luxury magazine cover — serene, artistic, instantly recognizable and visually unforgettable.</code></pre>
+
+</details>
+
+## Universal City Travel Postcard Prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2090024532518277375)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3334](https://imglume.com/prompt/3334)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7fc16e59-1504-4092-93b8-24d3741e2f89/b8ec2355-687b-406a-885d-a21fadad7159-1787167758283 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7fc16e59-1504-4092-93b8-24d3741e2f89/d0e30e76-a515-4a18-9f53-2c6532f926dd-1787167758283 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7fc16e59-1504-4092-93b8-24d3741e2f89/dd50bce8-ffab-4c16-bb66-7aefd2e3805f-1787167758283 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+"prompt_type": "universal_city_travel_postcard",
+
+"variable": {
+"city": "ENTER CITY NAME HERE"
+},
+
+"instruction": "Create a premium illustrated travel postcard for the city provided in the variable. The city is the ONLY user-provided creative variable. Everything else must be intelligently researched, inferred, selected, and generated specifically for that city. Do not require a reference image.",
+
+"city_reasoning": {
+"first_determine": [
+"officially recognizable city name",
+"country",
+"state, province, territory, or region when applicable",
+"local-language spelling or transliteration",
+"one iconic landmark strongly associated with the city",
+"one authentic environment or viewpoint where that landmark naturally belongs",
+"distinctive surrounding architecture",
+"important local geographic features",
+"appropriate vegetation and landscape",
+"appropriate transportation or human activity",
+"a secondary recognizable city feature if compositionally useful"
+],
+
+"landmark_selection": {
+ "rule": "Automatically choose the single most visually recognizable landmark or architectural symbol of the specified city.",
+ "priority": [
+ "globally recognizable city landmark",
+ "strongly city-specific architecture",
+ "distinctive skyline feature",
+ "iconic monument",
+ "famous bridge",
+ "historic structure",
+ "recognizable natural landmark when it is the defining visual identity of the city"
+ ],
+ "do_not": [
+ "combine landmarks from different cities",
+ "invent fictional landmarks",
+ "use a generic building when a recognizable landmark exists",
+ "place the landmark in an impossible geographic setting"
+ ]
+}
+
+},
+
+"fixed_visual_identity": {
+"style": "elegant handcrafted paper-cut travel illustration",
+"medium": "layered textured paper collage combined with refined editorial illustration",
+"aesthetic": "premium vintage tourism poster, sophisticated collectible postcard",
+"mood": "calm, nostalgic, inviting, picturesque, refined",
+"visual_language": [
+"layered paper construction",
+"subtle physical paper depth",
+"soft paper shadows",
+"matte printed texture",
+"visible tactile paper grain",
+"clean simplified shapes",
+"delicate atmospheric perspective",
+"restrained pastel colors",
+"carefully composed architectural silhouettes",
+"slightly handcrafted edges"
+],
+
+"important": "The style must remain consistent regardless of which city is entered. Only the city-specific content changes."
+
+},
+
+"composition": {
+"aspect_ratio": "4:5",
+"orientation": "vertical",
+"format": "premium destination travel postcard",
+"visual_hierarchy": [
+"large open sky",
+"upper-left typography",
+"dominant iconic landmark",
+"recognizable city environment",
+"layered foreground",
+"small human figures for scale and atmosphere"
+],
+
+"sky": {
+ "coverage": "approximately upper 30-40 percent",
+ "color": "soft powder blue",
+ "texture": "subtle fine paper grain",
+ "clouds": "minimal layered cream paper clouds",
+ "rule": "Keep sufficient negative space for typography and do not overcrowd the sky."
+},
+
+"landmark": {
+ "position": "dominant central or slightly off-center focal point",
+ "scale": "large enough to immediately identify the city",
+ "silhouette": "architecturally accurate",
+ "detail": "recognizable but artistically simplified",
+ "depth": "clearly separated from foreground and background"
+},
+
+"foreground": {
+ "purpose": "create depth and a lived-in travel experience",
+ "automatically_select": [
+ "viewpoint railing",
+ "promenade",
+ "park",
+ "street",
+ "waterfront",
+ "terrace",
+ "hilltop overlook",
+ "historic pedestrian area"
+ ],
+ "selection_rule": "Choose whichever foreground environment naturally complements the selected landmark and is believable for the specified city."
+},
+
+"background": {
+ "include": [
+ "city skyline when appropriate",
+ "recognizable local buildings",
+ "natural geography",
+ "water when geographically appropriate",
+ "hills or mountains when geographically appropriate",
+ "trees and landscape"
+ ],
+ "rule": "Background elements must support the city's identity without competing with the primary landmark."
+}
+
+},
+
+"city_specific_environment": {
+"architecture": {
+"rule": "Automatically generate surrounding architecture characteristic of the specified city.",
+"accuracy": "Buildings should look plausibly local in scale, materials, proportions, age, and architectural vocabulary."
+},
+
+"geography": {
+ "rule": "Automatically incorporate important geographic features only when genuinely associated with the city.",
+ "examples": [
+ "coastline",
+ "river",
+ "lake",
+ "mountains",
+ "hills",
+ "valleys",
+ "desert",
+ "forest",
+ "plains"
+ ]
+},
+
+"vegetation": {
+ "rule": "Automatically choose vegetation appropriate to the city's climate and region.",
+ "style": "soft layered paper-cut foliage"
+},
+
+"transportation": {
+ "rule": "Optionally include one subtle recognizable local transportation element when it strengthens city identity.",
+ "examples": [
+ "tram",
+ "streetcar",
+ "ferry",
+ "subway entrance",
+ "cable car",
+ "double-decker bus",
+ "trolley",
+ "boat"
+ ],
+ "restriction": "Never add transportation merely for decoration if it is not appropriate to the city."
+},
+
+"people": {
+ "include": true,
+ "quantity": "small and sparse",
+ "style": "simplified paper-cut travelers and pedestrians",
+ "poses": [
+ "walking",
+ "looking at the landmark",
+ "standing at an overlook",
+ "sitting",
+ "casually sightseeing"
+ ],
+ "rule": "People are environmental storytelling elements, not the primary subject."
+}
+
+},
+
+"color_system": {
+"base_palette": [
+"powder blue",
+"warm ivory",
+"cream",
+"muted sage",
+"olive green",
+"dusty gray",
+"soft beige",
+"desaturated terracotta"
+],
+"city_adaptation": "The palette may subtly adapt to the city's natural and architectural colors while preserving the same soft pastel editorial aesthetic.",
+"saturation": "low to medium",
+"contrast": "soft",
+"avoid": [
+"neon colors",
+"extreme saturation",
+"harsh black shadows",
+"high-contrast HDR appearance"
+]
+},
+
+"lighting": {
+"time": "pleasant daytime",
+"quality": "soft diffuse natural light",
+"atmosphere": "slightly hazy and peaceful",
+"shadows": "soft layered paper shadows",
+"highlight_behavior": "gentle matte highlights",
+"overall_effect": "warm, calm, cinematic travel-poster atmosphere"
+},
+
+"typography": {
+"placement": "upper-left",
+"hierarchy": "city name largest, location second, landmark third",
+
+"city_name": {
+ "content": "{{CITY_NAME}}",
+ "case": "uppercase",
+ "font": "clean modern geometric sans-serif",
+ "weight": "bold",
+ "size": "large",
+ "letter_spacing": "wide",
+ "color": "warm white"
+},
+
+"location_line": {
+ "content": "{{LOCAL_CITY_NAME}} · {{STATE_REGION_OR_COUNTRY}}",
+ "font": "clean minimalist sans-serif",
+ "weight": "regular",
+ "size": "small",
+ "letter_spacing": "moderate",
+ "color": "warm white"
+},
+
+"landmark_line": {
+ "content": "{{PRIMARY_LANDMARK_NAME}}",
+ "font": "clean minimalist sans-serif",
+ "weight": "regular",
+ "size": "small",
+ "letter_spacing": "very wide",
+ "case": "uppercase",
+ "color": "warm white"
+},
+
+"language": {
+ "rule": "Automatically determine an appropriate local-language representation of the city when useful. Preserve the primary city name in universally recognizable Latin characters unless the city convention strongly favors another script.",
+ "accuracy": "All visible text must be correctly spelled."
+}
+
+},
+
+"paper_material": {
+"paper": "high-quality matte art paper",
+"grain": "fine subtle tactile grain",
+"layers": "multiple visibly separated paper layers",
+"edges": "slightly imperfect handcrafted cut edges",
+"depth": "subtle realistic paper-layer separation",
+"printing": "premium vintage offset-print character",
+"finish": "soft matte archival postcard"
+},
+
+"camera_and_perspective": {
+"viewpoint": "cinematic elevated travel viewpoint",
+"perspective": "natural architectural perspective",
+"lens_feel": "40-50mm equivalent",
+"distortion": "minimal",
+"framing": "balanced and carefully art-directed",
+"depth": "strong foreground, middle-ground, background separation"
+},
+
+"image_quality": {
+"resolution": "high resolution",
+"detail": "high-quality handcrafted illustration detail",
+"architecture": "clean and structurally coherent",
+"composition": "professional tourism campaign quality",
+"consistency": "every object must belong to the same physical paper-cut world"
+},
+
+"negative_prompt": [
+"photorealistic photography",
+"3D CGI",
+"plastic rendering",
+"generic AI illustration",
+"generic city skyline",
+"wrong landmark",
+"landmark from another city",
+"fictional architecture",
+"geographically impossible composition",
+"duplicated landmarks",
+"distorted buildings",
+"warped architecture",
+"random skyscrapers",
+"incorrect local geography",
+"oversaturated colors",
+"neon colors",
+"glossy surfaces",
+"anime",
+"cartoon caricature",
+"flat vector art",
+"excessive outlines",
+"busy composition",
+"too many people",
+"large people",
+"foreground subject blocking landmark",
+"incorrect typography",
+"misspelled city name",
+"random text",
+"watermark",
+"logo",
+"UI elements",
+"border",
+"frame"
+],
+
+"final_generation_rule": "Generate the entire scene dynamically from the city variable. If the user enters Paris, create a Paris-specific scene; if they enter Tokyo, create a Tokyo-specific scene; if they enter Mumbai, create a Mumbai-specific scene, etc. Automatically select the most recognizable landmark, authentic surrounding environment, appropriate architecture, geography, vegetation, transportation, typography, and secondary details. Never copy the visual contents of another city. Preserve the fixed paper-cut postcard aesthetic, composition quality, typography hierarchy, pastel palette, tactile texture, and premium editorial finish across every city."
+}</code></pre>
+
+</details>
 
 ## Premium Travel Editorial Artwork of \[COUNTRY\] Through Glasses
 

@@ -3,9 +3,9 @@
   "facet": "category",
   "value": "illustration-3d",
   "label": "Illustration 3d",
-  "count": 50,
+  "count": 52,
   "mediaTypes": {
-    "image": 50,
+    "image": 52,
     "video": 0
   },
   "ids": [
@@ -58,6 +58,8 @@
     "byradar:2089014457255264401:0",
     "byradar:2089239757826200041:0",
     "byradar:2089697309416186283:0",
-    "byradar:2089522364878889064:0"
+    "byradar:2089522364878889064:0",
+    "byradar:2090075937169694851:1",
+    "byradar:2090297565732585554:0"
   ]
 }

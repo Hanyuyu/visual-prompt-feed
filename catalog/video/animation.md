@@ -1,9 +1,60 @@
 # Animation video prompts
 
-101 source-linked prompts, newest ImgLume records first.
+104 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## NESCAFÉ Classic 9-second warm rustic 2D animated promotional video
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2090346777711100082)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3373](https://imglume.com/prompt/3373)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/55704532-72e7-4672-acaf-e66d83f1bbe2/fda085c8-0538-447d-9367-77510bf23b03-1787223963309 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 9-second warm, rustic 2D animated promotional video for NESCAFÉ Classic: show a hand scooping coffee granules from the jar into the signature red mug, pouring hot water, stirring with playful yellow line animations, steam, coffee beans, sparkles, and a sun icon. Transform the line art into a woman working on a laptop and then a smiling couple clinking mugs. End with the NESCAFÉ Classic jar beside the filled red mug, sparkling stars, and the yellow tagline “Make It Yours.” Use upbeat acoustic music with realistic spoon-clink, pouring, and stirring sound effects.</code></pre>
+
+</details>
+
+## 50-second explosive motion-graphics character reveal trailer
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2090315193620533461)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3358](https://imglume.com/prompt/3358)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/514f8356-467b-404e-aab5-d74c6366fe6b/ce5f0e57-e0fd-4d84-90bd-3834654bf8c7-1787213630763 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 50-second explosive motion-graphics-driven character reveal trailer in 16:9, 24fps. She is a cute anime girl with long wavy silver-blue hair in high pigtails, decorated with small white daisies, a teal hair clip and flowing teal ribbons. She has large sparkling green eyes, a soft blush and a gentle, slightly shy expression. She wears an oversized light-teal cable-knit sweater slipping off one shoulder over a white lace strappy top and a delicate lace choker. Preserve her exact face, proportions, hairstyle, outfit, materials, accessories and colors throughout; never redesign her. This film is 80% bold graphic design in motion and 20% character action. Use the exact graphic language of the reference: cream/off-white fields, yellow rounded squares, cobalt asterisks, coral semicircles, purple rounded triangles, teal clovers, sparkles and barcode strips. Giant kinetic typography, hard-edged shapes, split-screens, flat color fields, UI ticks, halftone, speed lines and shutter flashes. Palette: cream, yellow, cobalt, coral, purple, teal, silver-blue, white. Style: premium AAA motion-graphics title sequence × dreamy anime character film. Every graphic element moves fast and snaps hard on the beat. Different typography and graphic motion in every cut. CUT 01 | 0.00–3.20s Pure graphics. A massive yellow rounded square slams onto a cream field. Coral and purple shapes bounce in from the sides. A barcode strip races across the top. The word DYNAMIC punches in letter by letter with heavy impact shake and sparkle bursts. CUT 02 | 3.20–6.00s The D becomes a frame. Extreme close-up of her sparkling green eye looking up through it. RGB split flash, then the letter shatters into floating yellow squares and teal clovers. CUT 03 | 6.00–9.40s Black frame, enormous white BLOOM. She walks in from the right, sweater slipping further off her shoulder, hair and ribbons flowing. Speed lines and small daisy petals trail her. She stops center and the letters scatter like petals. CUT 04 | 9.40–12.80s Split-screen triptych of cream / yellow / teal panels. In each panel she performs a different cute pose (hair flip, looking over shoulder, hand to chin) in stroboscopic freeze. Huge vertical text SPARKLE scrolls behind. CUT 05 | 12.80–16.20s She spins in place as a giant rotating ring of typography reading SOFT POWER orbits her. Camera orbits with her. Letters break apart into asterisks and clovers then snap back. CUT 06 | 16.20–19.50s Hard cut to cream editorial card. Huge black FLOW with a coral slash. She leans across the word, one hand resting on the F, pigtails swinging. The word compresses and rebounds like fabric. CUT 07 | 19.50–22.80s Teal field with a yellow diagonal stripe. She turns and her hair and ribbons whip across the stripe in three ghost frames, each tinted a different accent color. Giant outlined text PULSE rotates in sync. CUT 08 | 22.80–26.40s Kinetic type barrage: DAISY / RIBBON / GLOW / DREAM slam in one per beat with shutter flashes. She slowly turns toward camera in the foreground, sweater slipping, small sparkles bursting from her hair. CUT 09 | 26.40–29.80s Black frame, giant white wireframe grid tilting in 3D. She steps onto the grid and the shapes (squares, asterisks, clovers) attach to it like stickers. A cobalt circle stamps around her like a lock-on with barcode and UI ticks. CUT 10 | 29.80–33.50s Freeze releases. She leans toward camera through layered cream and colored panes that shatter one by one. Each shatter reveals a bigger letter of D-Y-N-A-M-I-C. CUT 11 | 33.50–37.20s Rapid-fire poster montage. Four full-screen graphic posters of her in different soft poses snap past with hard cuts. Each has a different bold layout, oversized numbers 01–04, barcodes, and unique typography (BLOOM, SPARK, SOFT, FLOW). CUT 12 | 37.20–41.80s Hero moment on a clean cream cyclorama. She slowly turns to face camera, one hand near her chin, hair and ribbons settling. A shockwave of concentric yellow, coral and teal rings plus scattered geometric shapes and shattered typography blasts outward. Brief iconic freeze with her soft expression. CUT 13 | 41.80–45.40s She walks forward overlapping giant kinetic letters that rearrange from DYNAMIC into a new word SPARK. Shapes orbit her as she moves. One last hair sway and sparkle burst. CUT 14 | 45.40–48.20s White field. Enormous black DYNAMIC with translucent teal rings, technical arcs, halftone and a barcode motif. She stands relaxed overlapping the letters, wind gently moving her sweater and pigtails. CUT 15 | 48.20–50.00s Final identity card. The composition from the reference image locks in: her centered, all the colorful shapes and barcode in place. One last ice-blue/teal pulse sweeps through the typography and a sparkle-ring flash punctuates the end. Editing: aggressive but slightly more breathing room than a 15s trailer — hard cuts on the beat, graphic matches, snap zooms, stroboscopic freezes, foreground wipes, RGB splits, shutter flashes and impact shakes. Every cut must feel compositionally different. Typography is always fully readable before the character overlaps it. No weapons, no combat. Energy comes from motion design, floating shapes, petals, sparkles, wind and her gentle movements. BGM: bright, punchy electronic / future-bass with playful drops, risers and glitch fills locked to every cut. Soft whooshes, petal rustles, shape impacts and typography slams as rhythmic sound design. Peak around CUT 12 and end with a clean, sparkling logo stinger. Premium AAA quality, anime-inspired cinematic rendering, stylish and explosive yet soft, strong graphic-design identity, consistent character design.</code></pre>
+
+</details>
+
+## Whimsical Ghibli-inspired hand-drawn animation of tiny workers harvesting giant soybean sprouts
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2090073130962457013)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3325](https://imglume.com/prompt/3325)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c65790c-714c-490d-8da4-59fa84d0e947/a410f13f-145b-45ee-aef9-e61100a8a32b-1787158873006 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a whimsical, Ghibli-inspired hand-drawn animation showing tiny anime workers harvesting and transporting oversized soybean sprouts inside a large white porcelain bowl on a wooden table. Some workers shovel sprouts, climb a wooden ladder, carry a giant sprout on a stretcher, and load a small wooden cart, while others direct the team and rest from exhaustion. Use warm golden lighting, soft colors, floating dust motes, cozy details, expressive characters, and gentle cinematic camera movements, ending with a wide shot of the whole miniature team working together.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic 10-second magical mud-to-bird transformation video
 

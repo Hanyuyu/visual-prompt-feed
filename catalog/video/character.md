@@ -1,9 +1,251 @@
 # Character video prompts
 
-96 source-linked prompts, newest ImgLume records first.
+100 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Granny Beatbox Breakdance talent show
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090399966988550435)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3398](https://imglume.com/prompt/3398)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e42c540c-5b97-4496-b1c2-6872c6cf0564/8a27673b-4d1d-4d62-8321-e52f05d08937-1787242976622 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "archetype": "Real live TV talent show",
+ "duration": "30s",
+ "prompt": {
+ "concept": {
+ "title": "Granny Beatbox Breakdance",
+ "description": "Sweet 70-year-old grandma in a floral cardigan has a warm chat with judges, then drops into explosive breakdance and beatboxing, stunning everyone.",
+ "rhythm_structure": {
+ "0-10s": "Warm introduction and gentle dialogue",
+ "10-11s": "Silent focused stare then sudden beat drop",
+ "11-27s": "High-energy breakdance battle with rapid reaction cuts",
+ "27-30s": "Final freeze on grandma in a freeze-spin pose"
+ }
+ },
+ "character_identity_lock": {
+ "maintain_same_character": true,
+ "identity": {
+ "age_gender": "cheerful 70-year-old woman",
+ "hair": "neat silver bun with reading glasses on a chain",
+ "face": "warm wrinkled smile, twinkling eyes",
+ "clothing": "floral cardigan, pearl necklace, comfortable orthopedic shoes",
+ "accessories": "small brooch"
+ },
+ "strict_consistency": ["Same exact face and age", "Same silver bun", "Same floral cardigan", "Same body proportions"],
+ "color_rule": "Soft pastels on grandma; stage shifts to neon blue and purple during breakdance",
+ "core_concept": "Sweet elderly woman revealing insane breakdance skills",
+ "physics_rules": "Realistic elderly movement transitioning into surprisingly fluid dance, face stays warm and joyful"
+ },
+ "camera_direction": {
+ "shot_type": "Dynamic multi-camera talent show with rapid cuts",
+ "forbidden": ["No identity change", "No de-aging or exaggeration", "No slow dreamy transitions"],
+ "camera_journey": "Wide stage entrance, medium dialogue shots with judges, tight close-up at the drop, aggressive intercuts between grandma dancing, shocked judges, cheering audience, ending on freeze pose."
+ },
+ "visual_style": {
+ "overall": "Live television talent show, high-energy stage lighting, realistic broadcast look",
+ "inspired_by": ["America's Got Talent energy", "Breakdance battle intensity", "Classic reaction shots"],
+ "color_palette": ["Soft warm lights for intro", "Neon blue/purple during performance", "Pastel contrast on grandma", "Audience phone lights"],
+ "materials_and_texture": "Realistic skin and fabric, sharp broadcast quality, stage haze and spotlights"
+ },
+ "motion_language": {
+ "follows_music": true,
+ "kick": "Hard cuts and camera punches on beat drops",
+ "wooden_snare": "Quick reaction inserts of judges and crowd",
+ "sub_bass": "Heavy low-end felt in wide stage and audience shots"
+ },
+ "storyboard": {
+ "total_beats": 6,
+ "beats": [
+ {"id": "01", "time": "0-4s", "description": "Wide stage shot. Grandma walks confidently to center stage under soft warm lights. Audience applause."},
+ {"id": "02", "time": "4-10s", "description": "Medium intercuts of grandma and judges. Short dialogue: name is Margaret, loves hip-hop. Judges react sweetly, slightly amused."},
+ {"id": "03", "time": "10-11s", "description": "Tight close-up on Margaret. She stares forward, completely still, cracks her knuckles. Silence."},
+ {"id": "04", "time": "11-20s", "description": "Beat drops. Margaret busts into headspins and beatboxing. Rapid cuts: her moves, shocked judges, jaws-dropped audience. Lights shift to neon blue and purple."},
+ {"id": "05", "time": "20-27s", "description": "Continued breakdance battle. Montage: audience standing, judges stunned, extreme close-ups of footwork, wide arena energy."},
+ {"id": "06", "time": "27-30s", "description": "Final freeze on Margaret mid-spin, arms crossed, confident smile, lights flaring."}
+ ]
+ }
+ }
+}</code></pre>
+
+</details>
+
+## First dragon flight – 30s two-shot video
+
+- **Original source:** [@AIwithSarah_ on X](https://x.com/AIwithSarah_/status/2090365772585689411)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3395](https://imglume.com/prompt/3395)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9c50bc09-9b8c-4a30-9e29-81ea17fd07dc/6b386326-a95c-46ab-98c3-60a3b37e8cb1-1787242904177 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SCENE CONTEXT
+
+A first dragon flight. A nervous first-time girl rider in white-silver armor, sits in the saddle of a colossal opalescent dragon perched at the cliff's edge. She barely finishes her nervous little speech before the dragon bolts — a wild, playful joyride: diving low through the village and straight over a scattering flock of sheep, brushing past the willows, slicing a wingtip through the waterfall, rocketing sky-high past the floating islands, and finally spiraling around the great Gothic castle and climbing onto its tallest spire — all experienced from HER saddle. Exactly ONE dragon exists in this world: the one she rides. 30 seconds, two shots, vertical 9:16, full realism.
+
+ACTIVE REFERENCES — STRICT ROLE HIERARCHY &lt;&lt;&lt;image_2&gt;&gt;&gt;: LOCATION — the fantasy valley: meadow, stream, half-timbered village houses (real 6–8 m scale) and sheep in the foreground; green stone spires and floating rock islands; the pale GOTHIC CASTLE fused into the peaks — rose-window façade ~200 m, spires 400–500+ m into the low clouds, complex ~1 km along the ridge; flanking waterfall; giant translucent moon, towering cumulus. 100% matches the reference; scale ratios preserved in every frame.
+
+&lt;&lt;&lt;image_3&gt;&gt;&gt;: DRAGON — full identity lock: adult dragon, body ~60 m, wingspan ~65 m, head over 4 m; white-grey opalescent scales; long tapered muzzle, backward-curved horns, layered leaf-crests; vast translucent membrane wings; dark leather saddle at the neck base, reins to the bridle. A real living animal — THE ONLY DRAGON IN THE ENTIRE FILM. Playful temperament: sudden banks, drops, climbing surges, occasional intelligent glances back at its rider
+
+&lt;&lt;&lt;image_1&gt;&gt;&gt;: CHARACTER SHEET — everything except the face: dark blunt bob; mirror white-silver plate armor with fleur-de-lis engraving; blackened chainmail; brown leather belt; ivory silk cloak. Kazakh/Asian woman, 20, 163 cm, slim. Does NOT control the face.
+
+DRAGON MATERIALS — LIVING SURFACE, ANTI-PLASTIC, MANDATORY
+
+SCALES — thousands of INDIVIDUAL overlapping plates with keratin micro-relief: growth ridges, tiny edge chips, matte wear on high points, faint dirt in the seams. Opalescence lives INSIDE the material — light rolls across the working flank in moving prismatic waves (aqua, lilac, rose-gold, pearl), each scale flaring and dying individually. NOT uniform gloss, NOT chrome, NOT wet plastic.
+
+SCALES IN THE WIND — the smaller feather-like scales along neck, shoulders and flanks are semi-flexible: at speed they RIPPLE in running waves down the neck; in dives they press flat; at hover they settle loose. Mandatory in every flight frame.
+
+CRESTS — articulated, tracking speed like a raptor's feathers: FANNED OPEN at takeoff and slow climbs; FOLDING FLAT as speed builds; pinned flush in dives; blooming open at rest. Their state must visibly match the speed at all times.
+
+MEMBRANE WINGS — real skin under load: translucent with branching veins, bellying and snapping with each stroke, trailing edges fluttering at speed, sunlight glowing through.
+
+SKIN &amp; DETAILS — pebbled hide at joints and around the eyes with creases folding in motion; nostrils flexing; wet glassy eye with real corneal highlight; worn creased saddle leather, straps trembling in the wind.
+
+FORMAT MODE
+
+30 seconds, TWO SHOTS joined by one HARD CUT at the launch (0:06). Full realism.
+
+SHOT A — 0:00–0:06 — FRONTAL, HANDHELD, FACE-FIRST REVEAL
+
+Camera: IN FRONT of them, facing girl — her face and the dragon's head both toward the camera. Opens TIGHT: only her face, shoulders-up. Then a slow HANDHELD ZOOM-OUT widens until we see her in the saddle at the dragon's neck base AND the horned head beside her — both facing camera, cliff edge and hazy valley behind.
+
+HER EYES — restless, alive: her gaze WANDERS as she speaks — forward at the view and the drop, then DOWN to the dragon beneath her, then back to the horizon — never settling, never at the lens. She BLINKS OFTEN — quick nervous blinks — and breathes a touch heavily: chest rising visibly, a swallow between phrases, a shaky inhale before the last word.
+
+Action: she speaks to the dragon, tense, trying to sound brave, with a little stammer: {"Okay, buddy… ready? Just — no games, alright? It's my first flight aaand—"}. While she talks the dragon's head TWITCHES sharply upward once; it snorts a tiny flicker of flame; crests flare open. On "aaand—" it EXPLODES forward — three thunderous running strides toward the cliff, crests snapping flat. Her scream begins — HARD CUT.
+
+SHOT B — 0:06–0:30 — RIDER'S POV, ACTION FLIGHT, NEVER LEAVES HER EYES
+
+Camera: strict first-person POV from girl's eyes: lower frame — her gauntleted hands on the reins; ahead — the dragon's neck and horned head, scales rippling and flashing; beyond — the world. Frame shakes with wingbeats, whips with turns, jolts with her flinches. Never third-person after the cut.
+
+HER HANDS — A LIVING TENSION GAUGE, mandatory throughout: her hands visibly breathe with the flight. In SCARY moments (the plunge, the flock rushing up, the waterfall bank, the barrel roll, the spire impact) BOTH hands CLAMP DOWN — fists crushing the reins, wrapping extra leather around the knuckles, arms pressing low and forward until her gauntlets flatten against the dragon's neck scales, shoulders hunching into the frame. In CALM stretches (level glides, the sky climb between stunts, the final vista) her grip visibly RELAXES — fingers uncurling one by one, reins slackening into a soft curve, hands lifting a few centimeters off the neck, one hand even easing free for half a beat before settling back. This clench-and-release cycle repeats with every wave of fear and relief, always readable in the lower frame.
+
+Route — exact and in order:
+
+0:06–0:08 THE PLUNGE: off the cliff straight down — crests pinned flat, ground rushing up; her raw scream; HANDS: slammed flat against the neck, reins strangled. The dive flattens at the last moment.
+
+0:08–0:12 VILLAGE RUN &amp; THE FLOCK: skimming low between the houses — and DEAD AHEAD a whole FLOCK OF SHEEP grazing in the open, growing rapidly as we bear straight down on it: a beat of "we're going to plow through them" — the flock BURSTS APART in panic, two waves bolting left and right beneath the dragon's chin, bleating shrilly, lambs sprinting after mothers, downwash flattening the grass in a ring. HANDS: white-knuckled through the approach, easing half-open as the flock clears. The dragon pulls up PAST the willows — flying BESIDE the trees, never through them: the wingtip BRUSHES the outer crown, leaves ripping loose and swirling in the wake, trunks sweeping safely past on the side. Her scream flips into adrenaline laughter; fingers uncurl slightly.
+
+0:12–0:16 THE WATERFALL: hard bank right at the castle's waterfall; her tense {"No no no—!"}; HANDS: snapping back to a crush-grip, pressing into the scales; 45° torso roll, one wing slicing THROUGH the water's edge — spray erupts across the POV, droplets on the frame, rainbow mist — out and UP.
+
+0:16–0:22 SKY CLIMB: surging climb past the FLOATING ISLANDS — clean clearance, hanging roots whipping past off the wingtip; crests fanning open, scale-ripples running down the neck; HANDS: relaxing through the steady climb, reins going soft, one hand lifting briefly — then the 360° BARREL ROLL hits and BOTH hands slam down and clamp again, the valley wheeling; her shriek dissolves into laughter; the dragon glances back once, amused. As it levels, her grip melts loose again.
+
+0:22–0:30 THE CASTLE &amp; THE SPIRE — POV ONLY, ONE DRAGON ONLY: leveling beside the castle, she turns her head and the POV pans with her gaze — the colossal façade and rose window open up. Climbing spiral; the dragon closes on the TALLEST SPIRE: ITS OWN neck stretches forward, ITS OWN forelimb and claws reach past the frame edge and SEIZE the stonework — impact shudders the frame, grit shakes loose; HANDS: clamping hard at the impact, pressing flat to the neck as the body coils around the pinnacle and settles, wings folding at the frame edges, crests blooming open. The spire is EMPTY before the grab — nothing on it, nothing climbing it. Final beat: the POV lifts to the horizon — the whole valley below; HANDS: fully easing at last, fingers loosening, reins draped slack, one gauntlet resting gently open on the warm scales. Her long shaky exhale, half laugh.
+
+HER PERFORMANCE (Shot B)
+
+Inexperienced rider: grip too tight by default, hands jolted a beat late through maneuvers; involuntary flinches; screams that begin as fear and break into joy; between stunts — shaky breaths, re-grips, nervous laughter; the hand clench-release cycle carrying her emotional arc.
+
+PHYSICS
+
+Real flight mechanics at 60-meter scale: deep downstrokes with visible shoulder muscle, membrane bellying and snapping, flap-and-glide, tail ruddering; mass and inertia; G-forces through hands and frame. AERODYNAMIC SURFACE LOGIC: crest openness inversely tracks speed; neck scales ripple in the airstream, pressed smooth in dives; wing trailing edges flutter.
+
+COLLISION LOGIC mandatory: the dragon's body NEVER passes through any solid object — trees, rocks, buildings, the spire. Trees are flown PAST: only outer leaves and thin twigs brushed by the wingtip tear loose; trunks and crowns stay intact and to the side. Islands cleared with visible margin. Sheep flee in two real panicked streams, never clipped. Reins behave as real leather: taut and biting into gauntlets under the clamp, sagging into soft curves when released.
+
+LIGHTING
+
+Warm high daylight: mother-of-pearl light rolling across the working flank, individual scales flaring and dying, cloud shadows sweeping the valley, waterfall blazing, castle stone luminous, brief rainbow in the spray. Natural exposure, no stylization.
+
+AUDIO
+
+Wind roaring with speed; deep leathery wingbeat booms; the dry rustle of rippling scales and folding crests; creaking saddle; the leather reins CREAKING under each clamp and sighing slack on release. Her voice: the nervous cut-off line, screams flipping to laughter, {"No no no—!"}, heavy breathing, final shaky exhale-laugh. The dragon: low amused rumble, snort and fire-puff hiss, claws grinding stone. The flock: a swelling wall of panicked bleating splitting to both sides; leaves hissing off the willow; waterfall roar. No music, no subtitles.
+
+POSITIVE CONSTRAINTS
+
+ONE DRAGON ONLY — the one she rides. BANS: no second dragon, no creature on or climbing the spire, no distant dragons or silhouettes; the spire is empty until our claws seize it; POV maintained at the spire.
+
+COLLISION BANS: never phasing through trees, rocks, buildings or water surfaces — wingtip touches leaves only; every obstacle passed BESIDE with believable clearance.
+
+THE SHEEP BEAT mandatory and vivid: full flock dead ahead in the POV, rapid approach, panic burst into two streams beneath the dragon — clearly staged, no sheep harmed.
+
+HANDS mandatory in every POV frame, cycling with the action: clamped fists pressed to the neck in scary beats ↔ visibly loosened fingers and slack reins in calm beats — never one frozen grip for the whole flight.
+
+Two shots only: Shot A frontal — tight on her face shoulders-up, slow handheld zoom-out to her + dragon head, both facing camera; her eyes wandering view↔dragon, frequent blinks, heavy breathing, never at the lens; HARD CUT at launch; Shot B strict rider's POV to the end.
+
+DRAGON SURFACE ALIVE IN EVERY FRAME: individual scales with micro-wear, moving prismatic light, wind-rippled neck scales, speed-tracking crests — no plastic skin, no uniform gloss, no frozen surface.
+
+Route exact: cliff launch → dive → flock scatter → brush-past the willows → waterfall 45° roll → sky climb + 360° roll → glance back → castle reveal → spiral → POV spire grab and coil → final vista.
+
+Face 100% &lt;&lt;&lt;image_1&gt;&gt;&gt; zero drift; wardrobe/armor 100% &lt;&lt;&lt;image_1&gt;&gt;&gt;; dragon 100% &lt;&lt;&lt;image_3&gt;&gt;&gt;; world and scale 100% &lt;&lt;&lt;image_2&gt;&gt;&gt;. Full realism — no animated look, no CG sheen, no cartoon. Clean image: no grain, no vignette. No text, no logos, no watermarks.
+
+OPTICS
+
+STRONG anamorphic lens character: horizontal squeeze and compression, oval elliptical bokeh, horizontally stretched highlights, curved barrel edge distortion, chromatic aberration toward the edges. NO lens flares, NO light streaks, NO floating bokeh circles.
+
+Shot A: focus on her face at open, holding both after the zoom-out. Shot B: deep focus down the neck; spray droplets soft on the near plane; castle crisp at the reveal.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic urban skate chase
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2090302151142822253)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3362](https://imglume.com/prompt/3362)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2371d457-7e72-4e3e-bfcb-d6b7d1e5dcd1/2a33eceb-81ea-45a1-a1df-907121c9eb25-1787219733291 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic action sequence featuring a young woman wearing fitted blue jeans, a stylish crop top, sneakers, and protective inline skates. Maintain perfect character consistency throughout the entire video — same face, hairstyle, outfit, body proportions, and accessories.
+
+The video opens with a low-angle tracking shot as she skates aggressively through a crowded downtown street, weaving effortlessly between taxis, buses, pedestrians, bicycles, street vendors, and delivery carts. She looks over her shoulder and notices a police car approaching behind her with flashing lights.
+
+She accelerates dramatically. The camera races alongside her as she performs a powerful jump over a moving car, lands smoothly, then immediately launches over a street vendor cart without losing speed. She ducks beneath a low barrier, spins around a corner, grabs a railing, swings around it, and lands back onto the street.
+
+The police chase intensifies. Two police cars struggle to follow as she cuts through narrow side streets, crowded market lanes, alleyways, and pedestrian-filled shortcuts. Use rapid FPV-style camera movement, low tracking shots beside her skates, dramatic overhead views, tire-level shots, and fast whip pans. Keep the action physically believable with realistic momentum, wheel friction, body weight, and landing impact.
+
+She makes one final spectacular leap over a line of parked vehicles, lands perfectly, and disappears around a tight corner. The police cars stop behind her. The officers step out, completely exhausted, looking down the empty street in disbelief.
+
+One officer slowly shakes his head and says, “We Messed.” The other officer catches his breath and simply gives up, leaning against the car.
+
+End with a cinematic slow-motion hero shot of the girl skating away into the busy city, sunlight reflecting off the buildings as the camera rises above the street and pulls back.
+
+Style: Premium action-movie cinematography, high-energy urban chase, realistic stunt choreography, dynamic handheld camera, FPV tracking, dramatic low angles, smooth gimbal shots, realistic motion blur, detailed city environment, natural lighting, physically accurate vehicle and character movement, cinematic color grading, photorealistic, ultra-detailed, 4K HDR, 24fps, 1
+
+Negative prompt: No crashes into pedestrians, no injuries, no gore, no distorted anatomy, no extra limbs, no duplicated characters, no floating objects, no unrealistic skating physics, no flickering, no text, no logos, no subtitles, no watermark.</code></pre>
+
+</details>
+
+## Met Gala inspired 15-second cinematic fashion sequence
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2090136981112250653)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3344](https://imglume.com/prompt/3344)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0f7a8544-8473-461c-a137-f1560cc3ff7c/5d461891-e3b9-4647-84ec-c65ed58e48d6-1787196652178 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-octane, hyper-realistic fashion sequence in the style of Christopher Nolan, shot on actual 70mm IMAX cameras at the Met Gala. Fast-paced multi-shot editing with quick, cinematic cuts timed at exactly one shot every 2 seconds across a complete 15-second timeline. A striking young woman in an haute couture gown arrives at the Met Gala surrounded by photographers and camera flashes. High-contrast Nolan-esque color grading with deep shadows, cold teals, and bright highlights. Blinding bursts of paparazzi flashes pierce the night, reflecting across the gown and marble steps. Rapid sequence of intense cuts:
+•Shot 1 (0-2s): Eye-level tracking shot of the woman ascending the Met Gala steps as photographers surround her.
+•Shot 2 (2-4s): Tight, detailed close-up of her face, makeup, jewelry, and camera flashes reflecting in her eyes.
+•Shot 3 (4-6s): Low-angle handheld camera whip-panning upward from the flowing couture gown to her silhouette against the illuminated museum facade.
+•Shot 4 (6-8s): Ground-level macro shot of intricate fabric, embroidery, gemstones, and couture details moving naturally.
+•Shot 5 (8-10s): Fast tracking shot behind the woman as she turns dramatically toward photographers, her gown sweeping through the air.
+•Shot 6 (10-12s): High-angle wide shot of the Met Gala staircase, crowd, photographers, celebrities, and the woman commanding center frame.
+•Shot 7 (12-14s): Shaky handheld tracking shot following her final dramatic pose as camera flashes erupt around her.
+•Shot 8 (14-15s): Hard cut to black with a lingering burst of camera flashes fading into darkness.
+Raw documentary-style camera textures, organic lens flares, lifelike physics, authentic fashion motion blur, realistic skin texture, natural crowd movement, and a glamorous sense of celebrity spectacle. Ultra-detailed, 4k resolution.</code></pre>
+
+</details>
 
 ## Cozy Crochet Amigurumi Girl Ordering Pizza - Seedance 2.5 Stop-Motion Video
 

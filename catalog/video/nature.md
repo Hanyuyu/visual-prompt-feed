@@ -1,9 +1,48 @@
 # Nature video prompts
 
-16 source-linked prompts, newest ImgLume records first.
+17 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld Home-Video Vlog Picking Strawberries in a Countryside Garden
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2090285193307271614)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `nature`, `ugc`
+- **ImgLume record:** [3356](https://imglume.com/prompt/3356)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b2ceb6c8-4c16-4d9d-9384-df3ce8dec5ec/fc0280b9-cc9f-4840-9f24-b3281bd2c21a-1787213458296 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Montage, multi-shot handheld home-video vlog — 7 shots, 15 seconds. One-handed phone footage, snapshot-like realism, slightly tilted framing, natural handheld shake, warm late-afternoon light, fine film grain, photorealistic.
+
+A woman (Image) quietly picks ripe strawberries in the lush garden of a cozy countryside wooden-and-stone cottage. (Image) provides only her face and hairstyle. She wears a soft heather-grey short-sleeve cotton shirt, sleeves covering her shoulders and upper arms, loosely tucked into cream loungewear pants. She is the only person throughout.
+
+The garden is naturally grown and slightly imperfect, with strawberry beds, wildflowers, herbs, climbing greenery, grass, a weathered wooden fence, and a narrow stone path. A small wicker basket sits nearby. Golden sunlight filters through trees with soft moving shadows. Her behavior is casual and spontaneous, like an everyday phone vlog. Natural spoken Korean only.
+
+Shot 1 (0–2s): She enters the strawberry patch with the basket, crouches, and searches beneath the leaves. Camera follows from slightly behind and above her shoulder.
+
+Shot 2 (2–4s): Close-up of her fingers parting the leaves. She discovers a ripe strawberry and softly says, "어, 여기 있다." Camera dips toward the fruit.
+
+Shot 3 (4–6s): She picks it and places it in the basket, then immediately notices another nearby. Camera naturally shifts with her hand.
+
+Shot 4 (6–8s): She finds a particularly large strawberry, lifts it up, smiles with mild surprise, and says, "이거 크다." Camera moves closer to her face and the fruit.
+
+Shot 5 (8–10s): She takes a small bite instead of putting it in the basket, pauses, then smiles with quiet satisfaction. Slightly tilted close framing.
+
+Shot 6 (10–13s): She continues picking, gently dropping strawberries into the increasingly filled basket. She discovers another one and gives a tiny amused laugh.
+
+Shot 7 (13–15s): She sits back, looks at the basket, holds up one strawberry briefly, smiles, then stands and walks toward the cottage. Camera drifts backward, revealing the sunlit garden and cottage.
+
+Sound: Live ambient audio only — leaves, grass, wicker basket, footsteps, birds, breeze, natural breathing, quiet Korean murmurs, and a small laugh. No music or artificial cinematic effects.
+
+No subtitles, text, logos, or watermarks. Do not depict or copy the reference image itself.</code></pre>
+
+</details>
 
 ## Curious Fox & Mountain Stream Vlog
 

@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "animation",
   "label": "Animation",
-  "count": 102,
+  "count": 105,
   "mediaTypes": {
     "image": 1,
-    "video": 101
+    "video": 104
   },
   "ids": [
     "byradar:2081092692340330955:0",
@@ -110,6 +110,9 @@
     "byradar:2089719406683468084:0",
     "byradar:2089913193070207056:0",
     "byradar:2090036041315168762:0",
-    "byradar:2090075447195480403:0"
+    "byradar:2090075447195480403:0",
+    "byradar:2090073130962457013:0",
+    "byradar:2090315193620533461:0",
+    "byradar:2090346777711100082:0"
   ]
 }

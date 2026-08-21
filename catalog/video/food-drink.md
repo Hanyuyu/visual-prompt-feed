@@ -1,9 +1,107 @@
 # Food Drink video prompts
 
-65 source-linked prompts, newest ImgLume records first.
+67 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Surreal Futuristic Ocean Energy Drink Product Reveal
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2090353158036078673)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3384](https://imglume.com/prompt/3384)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9684454d-2175-4b80-99e4-ef2121add3c2/eac2668e-069f-4bb4-b1c6-c5c4107329b3-1787232505002 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Hollywood live-action commercial cinematic, IMAX quality, ultra-realistic, photorealistic textures, Unreal Engine 5 realism, premium advertising aesthetic, no CGI feel, HDR, realistic water physics, cinematic motion blur, natural volumetric lighting, 4K, 24fps. Duration: 15 seconds.
+
+Character Reference: Use the uploaded reference image as the exact character reference. Preserve her facial identity, eye color, skin tone, hairstyle, body proportions, facial features, and overall appearance consistently throughout the entire video. No identity drift.
+
+SCENE CONCEPT: A surreal futuristic ocean world at golden hour. Massive translucent waves, glowing turquoise water, floating rocks, bioluminescent plants, crystal formations, mist, and futuristic metallic structures create an impossible cinematic environment.
+
+CAMERA: One continuous shot with no cuts. The camera behaves like an ultra-fast FPV drone, flying extremely close to the character, diving beneath waves, rising vertically, sweeping around her body, and transitioning naturally between wide environmental shots and extreme macro details. Realistic inertia, subtle camera shake, natural motion blur, realistic lens breathing, shallow depth of field.
+
+OPENING: The shot begins mid-action.
+
+The girl from the reference image is already riding a futuristic hydro-board at extreme speed across the surface of a glowing ocean. She wears a sleek futuristic black-and-silver wetsuit with subtle reflective details and rides a custom aerodynamic hydro-board.
+
+The camera races directly behind her at water level as enormous waves explode around the board. Water droplets hit the lens realistically. She leans aggressively into a sharp turn, carving across the glowing water while creating a massive spray trail.
+
+She suddenly accelerates toward a gigantic vertical wave.
+
+ACTION SEQUENCE: She launches directly up the face of the wave and bursts through the crest.
+
+The camera follows her upward, briefly passing beneath the board as she performs a powerful 360° aerial rotation. Sunlight shines through the translucent wave around her, creating realistic caustic reflections across her face and clothing.
+
+She lands smoothly on the other side.
+
+Without slowing down, she races through a narrow canyon formed by enormous floating crystal structures. The camera weaves between them at high speed, maintaining perfect visual continuity.
+
+Ahead, a gigantic futuristic floating platform appears above the ocean.
+
+At the center of the platform is a glowing metallic energy-drink can suspended inside a transparent energy field.
+
+The girl launches from a final wave toward the platform.
+
+PRODUCT REVEAL: At the peak of her jump, everything briefly enters dramatic slow motion.
+
+The energy field opens.
+
+A sleek futuristic drink can rotates slowly in mid-air, covered in realistic condensation droplets. The metallic surface catches the warm sunset light.
+
+The girl reaches forward and catches the can naturally.
+
+The camera performs a fast 180° orbit around her while she descends.
+
+She lands perfectly on the hydro-board and continues gliding across the ocean.
+
+MACRO PRODUCT SHOT: The camera rapidly pushes toward the can in her hand.
+
+Extreme macro detail shows tiny condensation droplets sliding down the metallic surface. Her fingers grip the can naturally. The pull-tab opens with a realistic metallic click.
+
+A subtle burst of cold vapor escapes.
+
+She raises the drink toward the camera and takes a sip.
+
+FINAL CLOSE-UP: The camera moves into an intimate cinematic close-up of her face.
+
+Her wet hair moves naturally in the ocean breeze. Warm sunset light reflects in her eyes. She looks directly into the camera with a calm, confident expression and slight smile.
+
+She says naturally in English:
+
+“Ride the impossible.”
+
+The camera slowly pulls backward as she continues riding into the glowing sunset.</code></pre>
+
+</details>
+
+## Morning Coffee Ritual
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2090310481970143606)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3376](https://imglume.com/prompt/3376)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7a55d74d-780d-4b4b-b32b-50d883b1c6ad/ebb31f12-0a8b-4aef-b454-9aa7b19bba9d-1787228157869 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Morning Coffee Ritual
+
+A fictional Western actress wakes up in a modern bedroom as warm morning sunlight filters through the curtains. She opens the curtains, walks into the kitchen, prepares fresh coffee, and pours it into a ceramic mug. Realistic liquid physics create natural ripples and rising steam as she carefully picks up the mug and walks toward the window.
+
+She sits beside the window, takes a peaceful sip, and watches the morning light illuminate the room. Every movement follows realistic human biomechanics, gravity, momentum, cloth and hair movement, fluid dynamics, steam diffusion, and natural light behavior.
+
+Ultra-realistic visuals, cinematic 35mm camera, photorealistic skin and hair, natural expressions, realistic physics, smooth camera movement, warm sunlight, shallow depth of field, subtle ambient sounds, premium lifestyle-commercial aesthetic, 4K cinematic quality.</code></pre>
+
+</details>
 
 ## Premium Instant Noodles Product Commercial Storyboard
 

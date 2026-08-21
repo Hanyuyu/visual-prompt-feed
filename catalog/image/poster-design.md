@@ -1,9 +1,277 @@
 # Poster Design image prompts
 
-87 source-linked prompts, newest ImgLume records first.
+91 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vintage halftone bold poster-art style portrait illustration prompt
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2090301971127480546)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3371](https://imglume.com/prompt/3371)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b6accad3-e649-4d22-aec4-022525bff3d5/a7bd6a07-6a4a-4798-a8db-ee717d72f4f2-1787221837499 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b6accad3-e649-4d22-aec4-022525bff3d5/aad02be1-7b54-4721-b759-7a0a1e7090ad-1787221837499 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b6accad3-e649-4d22-aec4-022525bff3d5/a5919466-c809-4e54-8818-7d0a240d2778-1787221837499 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b6accad3-e649-4d22-aec4-022525bff3d5/da53ba5d-b56e-4d9f-846b-c43662ade400-1787221837499 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"task": "Convert the uploaded reference photo (or a well-known likeness of the named person) into a vintage halftone bold poster-art style portrait illustration.",
+ "input": {
+ "subject_name": "{{PERSON_NAME}}",
+ "reference_image": "{{UPLOADED_PHOTO_OR_NULL}}",
+ "note": "Only the subject's name or an uploaded photo should be required from the user. All other parameters below are fixed art-direction rules."
+ },
+ "output_exclusions": [
+ "Do NOT include a small circular/rounded-corner inset photo of the real reference image in the corner of the poster — the final output is the illustration ONLY, full-bleed, no reference thumbnail overlay."
+ ],
+ "art_style": {
+ "medium": "digital illustration mimicking screen-printed / offset-lithograph poster art",
+ "influences": ["1960s-70s bold political/protest poster art", "Shepard Fairey-style bold stencil illustration", "risograph print texture", "vintage magazine cover design", "retro concert/album poster art"],
+ "line_work": "high-contrast ink linework with fine cross-hatching and stippling for shading, visible pen/brush strokes in hair strands",
+ "rendering": "flat color blocking combined with engraving-style fine line shading — NOT photorealistic, NOT airbrushed, NOT smooth gradient shading"
+ },
+ "composition": {
+ "pose": "subject's head and upper shoulders/chest in a strict 90-degree side profile (facing left), eyes looking straight ahead in profile, chin slightly lifted, neutral/confident expression",
+ "framing": "portrait orientation (4:5 or 3:4 aspect ratio), subject fills roughly 70-85% of vertical frame, cropped at mid-chest/shoulder",
+ "focal_backdrop": "a large solid-color circle (sun/halo motif) centered behind the subject's head, circle diameter roughly 60-70% of canvas width, subject's hair and shoulders slightly overlap and break the circle's edge",
+ "hair_treatment": "hair rendered as one of the most detailed elements — individual flowing strands, wind-swept or voluminous movement, strong directional lighting creating highlight streaks within the dark mass of hair"
+ },
+ "background": {
+ "base_texture": "coarse woven linen/canvas paper texture overlaid across the entire composition at low opacity",
+ "layout": "asymmetric geometric color-block panels behind/around the circle — e.g. a solid dark rectangle in one lower corner, a contrasting stripe or panel along one edge, sometimes a fine halftone dot-pattern or crosshatch pattern filling one quadrant",
+ "halftone_overlay": "visible CMYK-style halftone dot pattern subtly overlaid on background panels and occasionally bleeding into the portrait's shadow areas",
+ "grain": "fine analog print grain/noise across the whole image for an aged, screen-printed look"
+ },
+ "color_palette": {
+ "instruction": "Select ONE cohesive limited palette (2-4 colors max) per poster, high contrast, no photographic gradients. Choose based on mood/subject or default to the classic scheme.",
+ "classic_scheme": {
+ "background_base": "warm cream / aged paper beige (#e8dcc4-ish)",
+ "accent_circle": "bold poster red (#c1272d-ish)",
+ "linework_shadow": "near-black ink (#1a1512-ish)",
+ "highlight": "same cream as background used for lit skin/hair areas"
+ },
+ "alt_scheme_dark": {
+ "background_base": "black or deep charcoal",
+ "accent_circle": "poster red or burnt orange",
+ "linework_shadow": "black ink",
+ "highlight": "warm cream/tan"
+ },
+ "alt_scheme_cool": {
+ "background_base": "deep navy blue",
+ "accent_circle": "muted brick-red/orange",
+ "linework_shadow": "navy/black ink",
+ "highlight": "warm cream, with the subject's true eye color kept naturally visible as the one full-color accent"
+ },
+ "duotone_option": "for a graphic pop-art variant, render the entire subject in a single duotone (e.g. mustard-yellow and black, or gold and black) instead of cream/red/black"
+ },
+ "typography": {
+ "headline": {
+ "content": "subject's name (first name, or first+last stacked on two lines)",
+ "placement": "top-left corner of the poster, inset from edges",
+ "font_style": "extra-bold condensed slab-serif or grotesque sans-serif, all caps, tightly kerned, stacked on 1-2 lines, large scale (dominant typographic element)",
+ "color": "matches the linework/shadow ink color, occasionally with a subtle drop shadow or outline for depth"
+ },
+ "subheadline": {
+ "content": "a short 2-4 word tagline/epithet related to the subject (e.g. an evocative title, nickname, or descriptor)",
+ "placement": "directly below the headline, smaller scale",
+ "font_style": "bold condensed sans-serif or slab-serif, all caps, single line",
+ "color": "the poster's accent color (matches the circle color)"
+ }
+ },
+ "clothing_and_accessories": {
+ "styling": "simple, era-appropriate or modern minimal clothing rendered in flat color with the same halftone/linework shading as the rest of the piece — collared shirts, blazers, off-shoulder tops, or textured jackets with visible fabric-fold linework",
+ "accessories": "keep minimal — small jewelry (earrings, necklace) can be included if present in reference, rendered as simple line-art shapes"
+ },
+ "lighting": {
+ "style": "single hard directional light source (as if raking across the side profile), creating strong graphic shadow shapes rather than realistic soft shading",
+ "shadow_rendering": "shadows built from crosshatching, stippling, and halftone dot density rather than smooth gradients"
+ },
+ "quality_and_fidelity": {
+ "likeness": "preserve accurate, recognizable facial proportions and features of the subject from the reference photo/name, translated into the illustrated line-art style — the illustration must be clearly identifiable as that specific person",
+ "resolution": "crisp, poster-print-ready quality, sharp linework, no blur, no photographic artifacts",
+ "consistency": "maintain identical composition, palette rules, and typography placement described above regardless of subject, so the whole set reads as one unified poster series"
+ }</code></pre>
+
+</details>
+
+## Luxury Travel Magazine Cover – The Country Behind the Glass
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090290723677749525)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3366](https://imglume.com/prompt/3366)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/7f5015c6-214f-4aa0-89dd-c44eea868347-1787219786087 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/4c0eaf0f-6910-4b42-9171-6030de5b1944-1787219786087 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/4ad1c218-00f1-4c3d-8980-5c4ae32424e3-1787219786087 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/59786036-a278-4ef2-9e2f-49c34192baad/f714e006-56f1-4ee2-9891-350d6e6d1dd3-1787219786087 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking 4:5 vertical luxury travel artwork for [COUNTRY], inspired by high-end editorial magazine covers, vintage European travel posters, fine-art photography, and soft atmospheric painting — but with a completely original visual concept.
+
+CONCEPT — “THE COUNTRY BEHIND THE GLASS”
+
+Imagine a gigantic, crystal-clear architectural glass window floating vertically in an elegant dreamlike landscape. The glass is not merely a window — it acts as a portal into the soul of [COUNTRY].
+
+Through the glass, reveal a beautifully layered miniature world containing the country’s most recognizable identity:
+
+• one iconic landmark as the hero element
+• characteristic architecture and rooftops
+• dramatic natural landscape — mountains, sea, desert, forests, or countryside depending on [COUNTRY]
+• a subtle national flag integrated naturally into the environment
+• traditional transportation
+• local flowers and vegetation
+• a few tiny human figures creating scale
+• one or two iconic cultural details or objects
+• atmospheric birds, clouds and distant scenery
+
+Make everything feel as though it exists inside one enormous transparent glass portal, with some elements subtly crossing through the glass into the foreground.
+
+THE MAGIC
+
+At the bottom of the scene, create a perfectly calm mirror-like surface.
+
+Instead of a normal reflection, the reflection becomes an alternate dream version of [COUNTRY] — slightly softer, more mysterious and almost watercolor-like.
+
+The real world and reflected world should connect seamlessly at the horizon, creating the illusion that the country continues infinitely beneath the glass.
+
+Add delicate refraction through the glass:
+
+• subtle rainbow dispersion
+• realistic highlights along the glass edges
+• tiny floating dust particles illuminated by sunlight
+• soft caustic light patterns
+• faint condensation and microscopic glass texture
+• elegant reflections of architecture and sky
+
+COMPOSITION
+
+Use an extremely refined editorial composition with generous negative space.
+
+Place the title near the upper section:
+
+[COUNTRY]
+
+Underneath, add a sophisticated small tagline:
+
+THE SOUL OF [COUNTRY]
+
+Then a tiny editorial detail:
+
+A JOURNEY THROUGH TIME • 2026
+
+Typography should be minimal, elegant, high-fashion serif typography, perfectly centered and naturally integrated into the artwork.
+
+Do not overcrowd the poster.
+
+The landmark should be visually dominant, while the surrounding details gradually reveal themselves as the viewer looks closer.
+
+ATMOSPHERE
+
+Early morning after a light mist.
+
+Warm ivory sunlight filtering through pale clouds.
+
+Soft champagne, cream, muted blue, dusty green and warm stone tones.
+
+A sophisticated cinematic haze surrounds the architecture.
+
+The entire image should feel:
+
+quiet • expensive • poetic • timeless • cinematic • nostalgic • sophisticated
+
+Blend ultra-realistic architectural detail with the delicacy of a fine-art watercolor and the polish of a luxury fashion editorial.
+
+CAMERA &amp; DETAIL
+
+Premium large-format photography aesthetic.
+
+Natural atmospheric depth.
+
+Subtle lens compression.
+
+Extremely realistic materials.
+
+Fine architectural details.
+
+Delicate shadows.
+
+Soft volumetric sunlight.
+
+Perfectly controlled highlights.
+
+No harsh saturation.
+
+No cartoon appearance.
+
+No excessive fantasy elements.
+
+No visual clutter.
+
+FINAL FEEL
+
+The viewer should feel as if they have discovered a secret window into the soul of [COUNTRY] — a place where its architecture, landscape, culture, history and atmosphere exist together in one impossible, beautiful moment.
+
+Ultra-premium travel magazine cover, museum-quality composition, cinematic fine-art photography, dreamlike realism, sophisticated color grading, timeless luxury aesthetic, highly detailed, visually unforgettable.</code></pre>
+
+</details>
+
+## Vertical vintage travel illustration of Manhattan skyline in city park
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2090307485374578755)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3360](https://imglume.com/prompt/3360)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/23f5cf95-b437-4d8d-bbc8-37a19b17e785/af11a4c1-12d8-4e5b-b3b7-98bbacc151e9-1787213703102 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/23f5cf95-b437-4d8d-bbc8-37a19b17e785/c996afdf-900f-4cb3-a584-dd18f96227eb-1787213703102 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.</code></pre>
+
+</details>
+
+## Premium vertical editorial travel artwork of \[COUNTRY\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090082472407245312)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3339](https://imglume.com/prompt/3339)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/5b855c86-2d05-4531-8a67-95ffd42d2b44-1787175657573 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/27ee0f39-4f41-44d7-ac4d-3727239233dc-1787175657573 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/f063b1d4-9fd5-4163-a25b-52a515c23b85-1787175657573 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/5a5f8f4b-5ab9-4c37-952e-df513fc2e6fd/74de7edf-2730-4ae5-ae34-e412aaa8a1d9-1787175657573 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical editorial travel artwork featuring [COUNTRY] transformed into a sophisticated minimalist landscape.
+
+The entire identity of [COUNTRY] should appear as one seamless, dreamlike composition rather than a collection of separate objects. Place the country’s most iconic natural landmark or landscape in the background, softly painted with atmospheric depth. In the foreground, feature one or two instantly recognizable architectural landmarks of [COUNTRY], rendered as elegant simplified forms with refined geometric details.
+
+Surround the architecture with subtle elements that represent the country — native trees, traditional rooftops, local streets, cultural details, and a few tiny human silhouettes — all integrated naturally into the scene.
+
+Use a soft luxury editorial palette: warm ivory, misty beige, muted pastel tones, dusty pink, pale blue, soft sage and gentle charcoal accents. Keep the colors slightly desaturated and harmonious.
+
+Create a beautiful glass-like reflective surface beneath the landscape so the architecture, trees and mountains create delicate vertical reflections. Add extremely subtle translucent geometric shapes around the edges, giving the artwork a contemporary art-gallery feel.
+
+Composition should be spacious, calm and elegant, with generous negative space and a clean horizon. Use soft atmospheric haze, delicate shadows, subtle paper texture, fine architectural linework and restrained watercolor/gouache aesthetics blended with modern digital illustration.
+
+At the top, add sophisticated magazine-style typography:
+
+[COUNTRY]
+THE ESSENCE OF [COUNTRY]
+No. 05 — 2026
+
+Typography should be small, refined, widely spaced and perfectly aligned, like a luxury travel magazine cover.
+
+No clutter, no excessive details, no photorealistic collage, no oversized text. The result should feel like a high-end contemporary travel poster, collectible art print and luxury magazine cover — serene, artistic, instantly recognizable and visually unforgettable.</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic dark poster of a young man
 

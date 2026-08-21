@@ -1,9 +1,26 @@
 # Nature image prompts
 
-18 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Golden Forest Illustration
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090075937169694851)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [3326](https://imglume.com/prompt/3326)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/590b5ff1-440a-466d-b10c-bca277dd0cc5/d441bcb9-ed6d-40b7-8bef-e9fa94b73fdd-1787158895371 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/590b5ff1-440a-466d-b10c-bca277dd0cc5/d27e4a46-4d41-436f-8e2a-114fd2e15998-1787158895371 "Seedream 5.0 Pro") · [3](https://cdn.imglume.com/prompts/byradar/590b5ff1-440a-466d-b10c-bca277dd0cc5/ff2c87c5-fd25-44f9-8d0d-06c58cfdc1c0-1787158895371 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A stylized forest scene with tall pine trees rendered in shimmering gold and deep black tones, set against a dark background. The composition features a textured, wavy golden ground and delicate golden outlines of distant mountains and birds in the sky, creating an elegant and luxurious atmosphere with a sense of calm and mystery.</code></pre>
+
+</details>
 
 ## Colored Pencil Illustration of Blue Cornflower Field with Ocean
 
