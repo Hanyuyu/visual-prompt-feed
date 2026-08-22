@@ -1,9 +1,32 @@
 # Travel image prompts
 
-35 source-linked prompts, newest ImgLume records first.
+36 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Beautiful pastel-colored paper painting of \[COUNTRY\] miniature world
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090646059848720427)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [3442](https://imglume.com/prompt/3442)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0f2c89fc-bdec-4fe7-ac01-0e6e4569398d/ad01afd4-a554-4bd9-baa0-5e106cf3ea55-1787305936159 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0f2c89fc-bdec-4fe7-ac01-0e6e4569398d/ef7eae6e-4c70-43e9-bd50-e712d9244031-1787305936159 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0f2c89fc-bdec-4fe7-ac01-0e6e4569398d/a08ab360-9ea3-4c04-8fda-4f538b85855a-1787305936159 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0f2c89fc-bdec-4fe7-ac01-0e6e4569398d/0bb42ff2-a2bf-46fc-a85b-1017a89c6b6a-1787305936159 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a beautiful vertical 4:5 pastel-colored paper painting featuring [COUNTRY] as an entire miniature world painted onto textured handmade paper. Use delicate pastel gouache, soft watercolor and colored-pencil textures, with visible paper fibers, gentle brush strokes, imperfect painted edges and subtle layered pigments.
+
+Let the country’s most recognizable landmarks, landscapes, traditional architecture, local flowers, food, clothing, wildlife and cultural elements naturally emerge from the painted surface, blending together like one continuous handmade illustration. Include the [COUNTRY] flag subtly integrated into the artwork and elegantly write “[COUNTRY]” at the bottom in beautiful hand-painted lettering.
+
+Use a sophisticated palette of powder blue, blush pink, butter yellow, mint green, lavender, peach and cream, with soft shadows and delicate highlights. Minimal, whimsical, premium editorial art style, dreamy atmosphere, tactile handmade paper, artistic imperfections, elegant composition, highly detailed miniature elements, no harsh outlines, no photorealism, no 3D rendering, no clutter.
+
+Feels like a luxury travel postcard painted by hand with pastel colors.</code></pre>
+
+</details>
 
 ## Layered papercut travel poster
 

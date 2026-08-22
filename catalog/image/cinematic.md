@@ -1,9 +1,43 @@
 # Cinematic image prompts
 
-57 source-linked prompts, newest ImgLume records first.
+59 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic fantasy portrait of a young woman with dynamic hand and colorful fluid splashes
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2090804416739717449)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3466](https://imglume.com/prompt/3466)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/ed7ff408-3ff1-49b2-8dab-462dc28c5910-1787328943786 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/6596c24e-09aa-4dd7-8325-509a1d3bb22e-1787328943786 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/7c743465-db72-43f6-821f-296047ab767c-1787328943786 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/5ab69db2-8ed6-4ead-a094-d628972fa87a-1787328943786 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic IMAX-level Netflix-style cinematic fantasy portrait, 4:5 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, create a young woman leaning dynamically toward the camera while reaching one hand directly forward into the foreground, her extended hand appearing dramatically larger due to strong perspective and shallow depth of field, fingers naturally spread as if playfully reaching toward the viewer, her other arm positioned naturally closer to her body, upper body leaning forward with an energetic spontaneous posture, wearing a soft beige flowing draped outfit wrapped naturally around her upper body with loose fabric folds extending around her shoulders and torso, dark black hair gathered into a loose messy high bun with abundant textured strands escaping around the crown, temples and sides of her face, several fine flyaway strands lifted naturally around her head, surrounded by dramatic frozen splashes of clear liquid mixed with vivid turquoise, red, pink, golden-yellow and orange paint-like fluid forms sweeping upward and outward around her body, individual droplets suspended sharply in the air, colorful fluid arcs creating a dynamic circular frame around her, bright neutral background visible between the splashes, highly detailed translucent liquid surfaces with realistic reflections and refractions, strong foreground-background depth separation, cinematic perspective, crisp facial detail with the reaching hand gradually becoming softer toward the closest foreground due to lens depth, realistic motion energy frozen at the exact moment of the splash, sophisticated studio lighting with soft frontal illumination on her face and subtle highlights along the wet fluid droplets and hair strands, vibrant but naturally balanced colors, realistic fabric texture, natural photographic detail, cinematic depth of field, high dynamic range. Skin: Her skin has a fair natural skin tone with a natural neutral-warm undertone, soft healthy glow, visible skin texture, fine pores, consistent face and body tone. Facial Expression: her eyes are wide open and looking directly into the camera with a bright playful gaze, eyebrows naturally raised with excitement, mouth opened into a broad genuine smile showing her upper teeth, lips naturally stretched by the smile, cheeks noticeably lifted and rounded with natural smile lines forming around the eyes and mouth, creating a joyful spontaneous energetic expression. Negative Prompt: distorted face, extra fingers, malformed hands, duplicated limbs, warped perspective, artificial skin, excessive smoothing, CGI look, messy facial features.</code></pre>
+
+</details>
+
+## Tiny Girl Interacting with Oversized Fruits on Sunlit Beach Tabletop
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2090666976309809221)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`
+- **ImgLume record:** [3434](https://imglume.com/prompt/3434)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4934666f-358f-4992-8b6d-ef930a3588c9/157e7ee0-1a4c-43bc-aea6-c0751654e4c0-1787297588852 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic, hyper-realistic composition featuring a tiny miniature girl wearing denim overalls over a white top, happily interacting with massive, oversized fruits and drinks on a sunlit wooden tabletop outdoors. Tropical beach background with soft, golden hour backlighting and bokeh. Ultra-detailed textures, realistic skin textures, vibrant fruit colors, sparkling ice cubes in a giant glass of lemonade, glossy condensation on a massive juice bottle, and warm, golden lighting. 8k resolution, shot on 85mm lens, commercial photography style, photorealistic --ar 4:</code></pre>
+
+</details>
 
 ## 巨型红墙天宫
 

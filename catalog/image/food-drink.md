@@ -1,9 +1,58 @@
 # Food Drink image prompts
 
-12 source-linked prompts, newest ImgLume records first.
+14 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Strawberry Milkshake Product Photo
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090665058980462697)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3448](https://imglume.com/prompt/3448)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b022f70c-404f-49e8-9b47-7f06ebd2448e/97973144-1232-49e4-b554-1ea0745d5965-1787310080468 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b022f70c-404f-49e8-9b47-7f06ebd2448e/8bd3bb4f-808b-4427-8783-22166782ce77-1787310080468 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-quality professional product photograph of a premium strawberry milkshake served in a tall transparent glass, centered against a soft pastel pink seamless studio background. The milkshake has a thick creamy strawberry texture, glossy strawberry syrup dripping inside the glass, a generous swirl of whipped cream on top, fresh strawberry slices, and delicate pink sugar sprinkles. Realistic condensation droplets cover the glass with soft reflections from the studio lights. Elegant soft lighting creates subtle natural shadows beneath the glass. Ultra-sharp focus, DSLR macro beverage photography, premium café advertisement style, hyper realistic, clean commercial composition, 8K.</code></pre>
+
+</details>
+
+## Strawberry Milkshake Infographic
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090665058980462697)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3446](https://imglume.com/prompt/3446)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2e3c3da0-bc50-438f-bdec-8f12c782c05a/a053ef8d-0ca9-4d2b-8d8a-dfdd573f01f4-1787310080468 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2e3c3da0-bc50-438f-bdec-8f12c782c05a/648608d3-9beb-4e18-9b85-7727c95fa4d6-1787310080468 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a hyper-realistic exploded vertical infographic composition of a premium strawberry milkshake.
+Top → Bottom structure:
+Fresh Strawberry Garnish
+→ Whipped Cream
+→ Strawberry Syrup
+→ Creamy Strawberry Shake
+→ Crushed Ice
+→ Transparent Glass Base
+All elements must be perfectly centered, evenly spaced, and vertically aligned. Show realistic strawberry texture, fluffy whipped cream, glossy syrup, thick creamy milkshake consistency, translucent ice, and realistic glass reflections. Use a soft pastel pink seamless studio background with elegant café lighting and subtle realistic shadows beneath each floating element. Ultra-sharp DSLR macro beverage photography, premium dessert drink infographic aesthetic, clean professional composition, hyper realistic, 8K.
+Add clean minimalist infographic text labels with thin pointer lines using these exact labels:
+"Strawberry"
+"Whipped Cream"
+"Strawberry Syrup"
+"Milkshake"
+"Ice"
+"Glass"</code></pre>
+
+</details>
 
 ## FLAVORS OF TÜRKİYE Culinary Travel Infographic
 

@@ -1,9 +1,136 @@
 # Character image prompts
 
-97 source-linked prompts, newest ImgLume records first.
+102 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic fantasy portrait of a young woman with dynamic hand and colorful fluid splashes
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2090804416739717449)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3466](https://imglume.com/prompt/3466)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/ed7ff408-3ff1-49b2-8dab-462dc28c5910-1787328943786 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/6596c24e-09aa-4dd7-8325-509a1d3bb22e-1787328943786 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/7c743465-db72-43f6-821f-296047ab767c-1787328943786 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/7de1fd00-de07-4e42-8096-40dd343cb557/5ab69db2-8ed6-4ead-a094-d628972fa87a-1787328943786 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic IMAX-level Netflix-style cinematic fantasy portrait, 4:5 vertical frame, use the uploaded image as the primary facial reference with maximum face consistency, create a young woman leaning dynamically toward the camera while reaching one hand directly forward into the foreground, her extended hand appearing dramatically larger due to strong perspective and shallow depth of field, fingers naturally spread as if playfully reaching toward the viewer, her other arm positioned naturally closer to her body, upper body leaning forward with an energetic spontaneous posture, wearing a soft beige flowing draped outfit wrapped naturally around her upper body with loose fabric folds extending around her shoulders and torso, dark black hair gathered into a loose messy high bun with abundant textured strands escaping around the crown, temples and sides of her face, several fine flyaway strands lifted naturally around her head, surrounded by dramatic frozen splashes of clear liquid mixed with vivid turquoise, red, pink, golden-yellow and orange paint-like fluid forms sweeping upward and outward around her body, individual droplets suspended sharply in the air, colorful fluid arcs creating a dynamic circular frame around her, bright neutral background visible between the splashes, highly detailed translucent liquid surfaces with realistic reflections and refractions, strong foreground-background depth separation, cinematic perspective, crisp facial detail with the reaching hand gradually becoming softer toward the closest foreground due to lens depth, realistic motion energy frozen at the exact moment of the splash, sophisticated studio lighting with soft frontal illumination on her face and subtle highlights along the wet fluid droplets and hair strands, vibrant but naturally balanced colors, realistic fabric texture, natural photographic detail, cinematic depth of field, high dynamic range. Skin: Her skin has a fair natural skin tone with a natural neutral-warm undertone, soft healthy glow, visible skin texture, fine pores, consistent face and body tone. Facial Expression: her eyes are wide open and looking directly into the camera with a bright playful gaze, eyebrows naturally raised with excitement, mouth opened into a broad genuine smile showing her upper teeth, lips naturally stretched by the smile, cheeks noticeably lifted and rounded with natural smile lines forming around the eyes and mouth, creating a joyful spontaneous energetic expression. Negative Prompt: distorted face, extra fingers, malformed hands, duplicated limbs, warped perspective, artificial skin, excessive smoothing, CGI look, messy facial features.</code></pre>
+
+</details>
+
+## Crimson Architectural Interior with Scarlet-Clad Woman
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2090781448353591378)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`, `grok`
+- **Categories:** `architecture`, `character`
+- **ImgLume record:** [3459](https://imglume.com/prompt/3459)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/ff247f8c-ebef-433e-bc2e-f97ea7213b64-1787322669726 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/4c27c1a6-4a17-4504-b5ce-f8c374428761-1787322669726 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/e50666ab-c521-4a15-a322-b12fad8c1ecf-1787322669726 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/850c05d9-e696-45d6-b7ee-a40476e17858-1787322669726 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An enclosed seamless architectural interior glows in deeply saturated crimson, where smooth vertical surfaces meet a polished reflective floor in absolute silence. A statuesque woman stands crouching poised against the supporting wall with the written 'Keor' engraved on wall among roman columns, her chin lifted and her direct gaze holding the camera with suspended, couture tension. She is adorned in a scarlet structured minidress with matching opera-length gloves that sculpt dramatic vertical contours against the vibrant background, black stockings and scarlet high heels. Luminous amber light washes across the space from the right side, highlighting her form and casting rich, painterly shadows into the room. The unbroken monochromatic red environment surrounds her, creating a sophisticated visual dialogue between bold pigment and warm, radiant skin tones. Balanced effortlessly between quiet elegance and monumental presence, the scene commands attention through pure minimalism, timeless elegance, and unflinching poise.</code></pre>
+
+</details>
+
+## Gothic whimsical hand-drawn illustration
+
+- **Original source:** [@kingofdairyque on X](https://x.com/kingofdairyque/status/2090740008395149355)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [3458](https://imglume.com/prompt/3458)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a91d118d-ceb3-4e23-99c7-371d6623178b/51363ce8-a304-4f8e-83f2-d3a641410ec0-1787322655522 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a91d118d-ceb3-4e23-99c7-371d6623178b/872c8239-2af8-45f2-baee-bb8b5889a039-1787322655522 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a91d118d-ceb3-4e23-99c7-371d6623178b/1798b8b6-407f-46db-a0aa-01def190c7ea-1787322655522 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a91d118d-ceb3-4e23-99c7-371d6623178b/80b2bdfe-51dd-4d55-96f6-9211df8ea197-1787322655522 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Gothic whimsical hand-drawn illustration of [HUMAN] wearing [CLOTHING], accompanied by [ANIMAL], set in [SCENERY], using a [COLORS] palette. Both characters have oversized staring eyes, elongated spindly proportions, tiny mouths, bony awkward posture, and a slightly melancholic but charming expression. Loose scratchy black ink linework, rough sketch texture, scribbled shading, crooked perspective, barren trees or warped buildings, eerie cute atmosphere, surreal indie storybook mood, flat saturated colors with a glowing gradient sky, expressive naive drawing style, no realism, aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Cute whimsical 2D hand-drawn storybook illustration
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2090664691043545127)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3441](https://imglume.com/prompt/3441)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f16144a5-9d87-44da-8902-86ce2aad484b/b9fe6a8c-0198-418e-8248-28ef4a8845f5-1787305919231 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f16144a5-9d87-44da-8902-86ce2aad484b/23f7c9ee-0f7c-4b9a-81f0-02e2dcc4d110-1787305919231 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute, whimsical 2D hand-drawn storybook illustration of [SUBJECT/CHARACTERS].
+
+Style: soft pencil-and-colored-pencil sketch, delicate imperfect black ink outlines, light cross-hatching, subtle paper texture, gentle pastel coloring, minimal shading, innocent children’s picture-book aesthetic, charming handmade feel.
+
+Characters should have simplified cute proportions, small dot-like eyes, tiny minimal facial features, soft rosy cheeks, natural expressions, and slightly exaggerated adorable poses. Preserve the important visual characteristics of the reference subjects, including face shape, hairstyle, hair color, clothing, accessories, and distinctive details, while translating them naturally into this illustrated style.
+
+Composition: [DESCRIBE POSE/ACTION]. Keep the characters clearly visible from head to toe, naturally interacting with each other, with relaxed body language and balanced spacing.
+
+Use a clean warm-white/off-white background with plenty of negative space. Keep the illustration light, airy, minimal, and elegant.
+
+Color palette: muted pastel tones, soft denim blue, beige, cream, light brown, and subtle pink accents. Avoid strong saturation.
+
+Overall mood: wholesome, innocent, cozy, playful, romantic, nostalgic, and effortlessly cute.
+
+Avoid: photorealism, 3D rendering, glossy digital art, heavy shadows, sharp outlines, excessive detail, anime-style exaggeration, overly perfect faces, dramatic lighting, cluttered backgrounds, text, logos, and watermarks.</code></pre>
+
+</details>
+
+## Hand-drawn 2D children’s storybook character portrait from photo
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2090321208441262454)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3405](https://imglume.com/prompt/3405)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df3788a1-57fd-440d-8dda-eedccb2a8f76/e92bac07-088d-414f-aa7e-4c47ae28c702-1787257710568 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/df3788a1-57fd-440d-8dda-eedccb2a8f76/9c8d080c-5dfd-472e-9865-afd1017c4d50-1787257710568 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.
+
+Preserve exactly from the photo:
+- Facial features and skin tone
+- Real hairstyle, length, texture, and color
+- Exact clothing, colors, patterns, and layering
+- Glasses, jewelry, headwear, bags, and all visible accessories
+
+Do not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork.
+
+### Character
+Use an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy.
+
+### Face
+Simplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading.
+
+### Hair &amp; Clothing
+Recreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details.
+
+### Style
+Handmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism.
+
+### Composition
+Square 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose.
+
+### Background
+Simple warm mustard, butter yellow, ochre, or cream background with subtle paper texture. No scenery, objects, text, borders, or distractions.
+
+Final feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.</code></pre>
+
+</details>
 
 ## Highly stylized 3D caricature of a character
 

@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "architecture",
   "label": "Architecture",
-  "count": 16,
+  "count": 18,
   "mediaTypes": {
-    "image": 11,
-    "video": 5
+    "image": 12,
+    "video": 6
   },
   "ids": [
     "byradar:2080966563256222070:0",
@@ -24,6 +24,8 @@
     "byradar:2087954630034743384:0",
     "byradar:2088500645548696021:0",
     "byradar:2089878513322959184:0",
-    "byradar:2090211284117782635:3"
+    "byradar:2090211284117782635:3",
+    "byradar:2090653406159614390:0",
+    "byradar:2090781448353591378:0"
   ]
 }

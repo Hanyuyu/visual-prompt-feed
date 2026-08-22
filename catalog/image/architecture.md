@@ -1,9 +1,26 @@
 # Architecture image prompts
 
-11 source-linked prompts, newest ImgLume records first.
+12 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Crimson Architectural Interior with Scarlet-Clad Woman
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2090781448353591378)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`, `grok`
+- **Categories:** `architecture`, `character`
+- **ImgLume record:** [3459](https://imglume.com/prompt/3459)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/ff247f8c-ebef-433e-bc2e-f97ea7213b64-1787322669726 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/4c27c1a6-4a17-4504-b5ce-f8c374428761-1787322669726 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/e50666ab-c521-4a15-a322-b12fad8c1ecf-1787322669726 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ab405b30-9993-4619-a124-e79b00b68d34/850c05d9-e696-45d6-b7ee-a40476e17858-1787322669726 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An enclosed seamless architectural interior glows in deeply saturated crimson, where smooth vertical surfaces meet a polished reflective floor in absolute silence. A statuesque woman stands crouching poised against the supporting wall with the written 'Keor' engraved on wall among roman columns, her chin lifted and her direct gaze holding the camera with suspended, couture tension. She is adorned in a scarlet structured minidress with matching opera-length gloves that sculpt dramatic vertical contours against the vibrant background, black stockings and scarlet high heels. Luminous amber light washes across the space from the right side, highlighting her form and casting rich, painterly shadows into the room. The unbroken monochromatic red environment surrounds her, creating a sophisticated visual dialogue between bold pigment and warm, radiant skin tones. Balanced effortlessly between quiet elegance and monumental presence, the scene commands attention through pure minimalism, timeless elegance, and unflinching poise.</code></pre>
+
+</details>
 
 ## 宏大古典天宫长廊
 

@@ -1,9 +1,145 @@
 # Character video prompts
 
-100 source-linked prompts, newest ImgLume records first.
+104 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young Japanese woman and man romantic encounter in hillside neighborhood
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2090628018637332502)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3467](https://imglume.com/prompt/3467)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/16c92ac9-5dcb-42d8-910c-95ca98fcf03d/059057d8-0925-49fe-a019-d1db2f5f27a4-1787328993013 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young Japanese woman in her early 20s, naturally elegant and effortlessly beautiful, with refined Japanese features, expressive dark brown eyes, soft natural skin texture, and long dark silky hair tied in a loose low ponytail with delicate strands framing her face. Oversized cream cardigan over a white tee, wide-leg light denim, simple leather loafers, small canvas tote on her shoulder. Minimal makeup, fresh dewy skin, gentle and dreamy expression. Calm, feminine, slightly shy presence. Keep her face, identity, outfit, hairstyle, body proportions, and appearance perfectly consistent throughout the entire video.
+
+ROMANTIC MALE SUBJECT: Young Japanese man in his early 20s, naturally handsome and understated, soft dark hair, warm expressive eyes, relaxed beige overshirt over a simple white T-shirt, dark straight-leg trousers and clean minimalist sneakers. Calm, gentle personality. Keep his identity, face, hairstyle, clothing, and proportions perfectly consistent throughout the entire video.
+
+ROMANTIC CONCEPT: A peaceful summer afternoon in an old Japanese hillside neighborhood slowly turns into an unexpected romantic encounter. She begins the afternoon alone, but subtle glances and small coincidences gradually reveal that someone special is nearby. Their connection develops naturally through eye contact, quiet smiles, and tiny gestures. No cheesy romance — make it feel like the beginning of a real Japanese love story.
+
+SETTING: A picturesque old hillside neighborhood in Japan during late afternoon transitioning into golden hour. Narrow peaceful streets, traditional Japanese wooden houses, tiled rooftops, small gardens, stone walls, paper lanterns, hydrangeas and lush greenery, wooden fences, vending machines in the distance, a tiny neighborhood shrine, stone steps, a small flowing stream crossed by an old wooden bridge, utility poles and overhead wires, bicycles parked outside homes. Authentic lived-in Japanese atmosphere. No crowds, no tourists, no commercial streets.
+
+LOOK: Ultra-realistic cinematic Japanese romance film meets modern slice-of-life photography. Soft natural skin texture, realistic Japanese environment, subtle film grain, shallow depth of field, gentle lens bloom, natural atmospheric lighting. Cool pastel tones gradually transition into warm golden sunlight. Elegant framing, emotional close-ups, smooth slow camera movement, realistic expressions and natural body language.
+
+SEQUENCE
+
+[0–4s] — THE FIRST GLIMPSE
+Wide cinematic shot of a quiet Japanese hillside street. The young woman slowly walks her bicycle toward the camera. As she approaches, she suddenly looks toward the opposite end of the street as if she recognizes someone. A tiny smile appears on her face. Camera begins a slow cinematic push-in.
+
+sound: summer cicadas / gentle breeze / distant neighborhood ambience
+
+[4–8s] — SOMEONE SPECIAL
+She rides slowly through the narrow street. The camera tracks beside her as sunlight filters through the trees. She glances over her shoulder. In the far background, the young Japanese man appears walking toward her. Their eyes meet for a brief second. Neither says anything. She looks forward again with a shy smile.
+
+sound: bicycle wheels / cicadas / soft footsteps / distant train
+
+[8–12s] — THE QUIET MOMENT
+She stops beside an old wooden bridge over a shallow stream and rests her bicycle against the railing. She looks down at the water. The young man approaches but stops a respectful distance away. She slowly turns around. Their eyes meet.
+
+He gives her a gentle smile.
+
+She smiles back.
+
+No dialogue. Let the eye contact tell the story.
+
+Camera moves slowly between their faces with extremely shallow depth of field.
+
+sound: flowing water / cicadas / soft wind
+
+[12–16s] — SHARED SILENCE
+They sit beneath a large traditional Japanese tree beside a small wooden pavilion. She opens her notebook and begins writing. She notices him sitting nearby. She looks up. He smiles softly.</code></pre>
+
+</details>
+
+## Hollywood action scene with Seedance 2.5
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2090762614616015238)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3454](https://imglume.com/prompt/3454)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0bdb1be9-f8f6-4641-b439-b2b96865195b/4855756b-383b-4afb-9686-da48d3a0fe20-1787318483414 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-photorealistic LIVE ACTION, AAA Hollywood Blockbuster, premium semi-CGI VFX, grounded historical action. ARRI ALEXA 65, IMAX cinematography, Panavision anamorphic. One continuous uninterrupted shot, permanent 40° Dutch Angle. Ground-level IMAX tracking centimeters above fortress streets, Extreme Fast Orbit, aggressive crash zoom, violent whip pan, FPV pursuit, reverse tracking, low-angle pursuit, extreme macro eyes/sword grip/boots/weapon impacts/facial expressions. Hyper slow motion ONLY 0.2–0.35 sec during decisive impacts. Battlefield NEVER empty; dozens of elite Templar warriors remain visible. No static camera, gameplay framing, or music.
+LIVE ACTION CHARACTER LOCK
+@Image1 uses weapon from @Image2. A shadow assassin wearing a dark charcoal tattered cloak, deep hood, leather belts, red sash, dark combat boots, carrying a long curved sword. His face is partially shadowed by the hood, but his calm, focused eyes are clearly visible. Long flowing dark cloak with realistic fabric folds. Preserve Image 1 exactly: face, hairstyle, body proportions, skin, clothing, cloak, identity, natural eye color.
+COMBAT STYLE
+Extremely refined and aggressive high-speed sword style fused with Taijutsu. Sword technique combines precise blade control, rapid parries, deflections, and devastating counter-strikes. Exceptional footwork, hip/torso rotation, shoulder evasion, balance, kicks, rapid pivots, low sweeps, spinning heel/side/roundhouse kicks, jumping knees, foot traps and reverse-grip transitions. No wasted movement; every defense immediately becomes offense.
+BLINK SPEED
+Image 1 has overwhelming superhuman burst acceleration. At maximum speed, almost impossible for camera/human eye to track. Each burst leaves short black translucent afterimage, compressed air, dust displacement, atmospheric distortion. Can cross several meters in fractions of a second and reappear behind/beside/above/between opponents through visible physical movement. Camera frequently overshoots, then violently whip-pans to reacquire.
+LOCATION
+Massive original Alhambra fortress complex, 15th century Granada, Spain. Stone fortress walls, tiled rooftops, narrow stone alleys, wooden balconies, courtyards with fountains, towers, warm Mediterranean sunlight casting long golden shadows. No recognizable copyrighted symbols or exact landmark replicas. Main battle tears through the broad central avenue and rooftop levels.
+ENEMY WARRIORS
+Dozens of elite Templar knights in grounded 15th-century armor: chainmail, surcoats, helmets, cloaks, and swords. Coordinated acrobatics, rooftop pursuit, rapid melee and tactical formations. No recognizable copyrighted uniforms or clan symbols.
+00:00–00:03
+Ground-level IMAX tracking races through the crowded central avenue as dozens of Templars descend from rooftops, balconies and elevated walkways. One attacks from the side; Image 1 tilts backward, blade missing face by centimeters. Extreme macro calm eyes. Image 1 rotates sword into a one-handed parry — CRACK! Steel clashes. Image 1 redirects attacker downward, steps onto enemy shoulder and launches upward. Mid-air rotation → violent side kick sends another Templar through a wooden market stall. Before landing — BOOM! burst acceleration, black afterimage, violent whip pan.
+00:03–00:06
+Camera finds Image 1 already sprinting across a sloped tiled rooftop while multiple Templars pursue across neighboring roofs. Low-angle tracking from street below. Throwing blade crosses lens; Image 1 ducks without slowing. Another warrior leaps between rooftops. Image 1 plants one foot on a chimney structure, runs two steps sideways along wall, launches backward over attacker → mid-air sword deflection → immediate spinning heel kick sends Templar through roof tiles. Image 1 lands on roof edge and instantly bursts treme burst</code></pre>
+
+</details>
+
+## Elegant ethereal woman with jeweled gown beside a giant white peacock in a pink cherry blossom garden
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2090697013713138158)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3451](https://imglume.com/prompt/3451)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29886a95-6327-4cec-930f-7c6314265aca/49838541-e379-44b9-a3e5-e1c77364da61-1787314288064 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-detailed 8k fantasy cinematic video of an elegant ethereal woman wearing an ornate jewel-encrusted pink and silver gown with a matching jewel tiara standing beside a majestic giant white peacock in a magical pink cherry blossom garden near a reflective pond, extreme close-up of her face with glitter makeup and bright turquoise eyes opening, close-up of a glittering pink oval gem, medium shot of the woman standing beside the peacock, dynamic camera movement showing the white peacock fanning out its grand tail feathers decorated with pink gemstone accents, serene atmosphere, soft warm cinematic lighting, floating glowing dust particles, hyper-realistic 3D render, highly detailed textures, masterpiece, ultra-hd, 16:9 aspect ratio.</code></pre>
+
+</details>
+
+## Realistic Summer K-pop Vlog First Frame
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2090667885110927759)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [3425](https://imglume.com/prompt/3425)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6be9382f-dc11-4cf4-9378-f3d902ca9add/9ecf7030-d638-4099-8032-dfb3158e30e9-1787295377986 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create the first frame for a 30-second horizontal 16:9 realistic summer K-pop member daily vlog.
+
+Scene:
+A bright cozy bedroom in summer morning. Printed silk bedsheets slightly messy, pale wood floor, sheer curtains glowing with sunlight, small bedside table with a phone, lip balm, wireless earbuds, a folded towel, and a cream tote bag on a chair. A soft blue sky is visible through the window. The room feels lived-in, clean, warm, and personal.
+
+Main subject:
+Aria Vale sits on the edge of the bed, holding her phone in one hand like she is starting a vlog. Her shoulder-length dark brown hair is slightly messy from sleep but cute and natural. She wears a soft white cropped cardigan over a pale blue fitted tank top, light washed high-waist denim shorts, white crew socks, and clean white sneakers placed nearby on the floor.
+
+Opening action:
+She looks into the phone camera with a sleepy small smile, one hand lightly smoothing her hair. The tote bag and dance towel are visible nearby, hinting that she is about to go to dance practice.
+
+Composition:
+Horizontal 16:9, casual selfie-vlog feeling mixed with a stable bedroom shot. Medium-wide framing, natural morning light, soft shadows, realistic depth of field. The frame should feel like a real K-pop member’s off-duty summer vlog.
+
+Lighting:
+Warm summer morning sunlight through sheer curtains, soft highlights on skin and hair, gentle shadows, airy bright room.
+
+Mood:
+Fresh summer morning, casual personal vlog, quiet and intimate, the start of a day that leads to coffee and dance practice. No text, no subtitles, no watermark</code></pre>
+
+</details>
 
 ## Granny Beatbox Breakdance talent show
 

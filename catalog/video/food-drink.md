@@ -1,9 +1,134 @@
 # Food Drink video prompts
 
-67 source-linked prompts, newest ImgLume records first.
+72 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second cinematic commercial for artisan bakery MAISON ROSE
+
+- **Original source:** [@AIwithAliya on X](https://x.com/AIwithAliya/status/2090780603872624826)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3457](https://imglume.com/prompt/3457)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fcbeabfa-3590-4518-bb47-6bd17f6bdd93/328f7aac-5baf-45ef-a102-888ec3d9d958-1787322644879 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>follow the storyboard @material:149015 A 30-second cinematic spec commercial / film-style advertisement for a premium artisan bakery brand. High-end food-commercial aesthetic, luxurious and sensory, shot like a short film.
+
+Soft, warm, high-key kitchen lighting with gentle highlights on stainless steel and glossy glaze. Shallow depth of field, slow elegant camera moves, occasional slow-motion, rich color grading (soft pinks, golden dough, deep raspberry red). Ultra-clean, appetizing, almost tactile.
+
+0–6s
+Medium shot of a striking young female pastry chef in a pale-pink chef’s jacket, matching pink toque, and pink gloves. She stands in a sleek, modern commercial kitchen. She looks down with quiet concentration and cracks a fresh egg into a stainless-steel bowl of flour. Subtle steam and flour dust in the air.
+
+6–11s
+Tight close-up of the vivid yolk and white pouring into the flour well. Cut to the KitchenAid mixer head descending and beginning to knead. Macro of pale, elastic dough stretching, folding, and becoming silky and glossy.
+
+11–16s
+Overhead shot of twelve perfectly formed raw ring donuts on a parchment-lined tray. Gloved hands lift the tray with precision. The camera follows as they are carried toward the fryer.
+
+16–22s
+Donuts lowered into bubbling golden oil. Slow-motion close-up of four donuts frying, edges turning amber. A single donut is lifted on a metal skewer, oil dripping in slow motion. The full basket rises, steam rising, donuts now perfectly golden.
+
+22–26s
+A warm donut is dipped halfway into a bowl of thick, vibrant raspberry-red glaze. Extreme close-up of the glossy glaze slowly cascading down the sides. Fine white sugar crystals rain onto the wet glaze, catching the light.
+
+26–30s
+Product reveal. Gloved hands place the last donut into an open kraft bakery box. The camera slowly pulls back and tilts up as the lid is closed, revealing the brand name **MAISON ROSE** in elegant, minimal serif lettering on the lid, with a small rose emblem. The box sits perfectly centered, six glazed donuts visible through a brief moment before the lid settles. Soft light catches the logo. Hold on the branded box as the hero product shot.
+
+Elegant, silent except for implied kitchen sounds and a refined, understated score. Premium, filmic, commercial-grade finish.</code></pre>
+
+</details>
+
+## Spinning Strawberry Milkshake Motion
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090665058980462697)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3447](https://imglume.com/prompt/3447)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8cff0fea-4a71-47c3-8cb4-b37539e66696/96168653-1377-4aa6-8451-1735e12a96ac-1787310080468 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8cff0fea-4a71-47c3-8cb4-b37539e66696/e8b91670-803f-49ed-8e70-41cd1ab35c2b-1787310080468 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The milkshake starts to slowly spin while the ingredients separate gently and precisely, maintaining alignment and scale. The motion is smooth, creamy, and controlled with no extra effects.</code></pre>
+
+</details>
+
+## Late-2000s Indonesian market vlog with raw handheld footage
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2090660330556776952)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`, `ugc`
+- **ImgLume record:** [3432](https://imglume.com/prompt/3432)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff32fcab-e86b-4e62-93cf-87e5b4fc4501/678973bb-47f7-4903-b118-6547c85acb82-1787297536354 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized sage green linen shirt, faded olive cropped pants, worn rubber flip-flops, thin silver anklet, hair tied in a loose messy bun with flyaway strands. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+00:00–00:04 Walking along a narrow dirt path through a bustling morning wet market, camera bouncing with each step. "Come on, let's go find the best sambal ingredients!"
+00:04–00:08 Stops at a produce stall piled with chilies, shallots, and tomatoes. An elderly vendor scoops a handful of red chilies into a bag, haggling playfully.
+00:08–00:12 Picks up a chili, sniffs it, laughs, and says to the camera, "Oh, this one's going to be spicy!"
+00:12–00:16 Crouches beside a stone mortar with a local woman, watching her grind spices by hand, asking questions and nodding along.
+00:16–00:20 Tries grinding the sambal herself, wobbles the pestle awkwardly, spice splashes a little, she laughs at her own mess while the vendor grins.
+00:20–00:24 Dips a piece of tempeh into the freshly made sambal, tastes it, eyes widen from the heat, fans her mouth, gives an exaggerated thumbs-up.
+00:24–00:27 Walks back through the market stalls, greeting familiar vendors, carrying a small bag of ingredients.
+00:27–00:30 Pauses near the market entrance, turns to the camera, wipes her forehead, smiles and says, "That's it for today's market run. See you next time!" before the recording cuts off naturally.
+Natural ambience only: market chatter, vendors calling out prices, clinking bowls, motorbikes passing, sizzling food carts, footsteps on gravel, distant rooster crows. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera travel vlog with authentic human movement and realistic interactions.</code></pre>
+
+</details>
+
+## Pizza commercial with realistic cheese pull
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2090624518616396106)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3421](https://imglume.com/prompt/3421)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a7fb06ec-6c18-47bb-9899-a2027e4934c4/fbaa0992-434f-49b0-8c81-c17e51f58137-1787291162574 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A professional food stylist prepares a pizza inside a high-end commercial studio, starting with fresh dough, spreading tomato sauce, adding mozzarella, basil, and pepperoni, then baking it until golden and perfectly melted. She slices the pizza and slowly lifts one slice, creating a realistic mozzarella cheese stretch with natural strands, steam, oil reflections, and believable food physics. The final shot reveals the finished pizza on a dark wooden board as the camera performs a cinematic macro push-in. Ultra-photorealistic premium food advertisement, authentic behind-the-scenes filmmaking, realistic human movement, physically accurate dough, sauce, cheese, steam, and toppings, professional cinema camera, softbox lighting, shallow depth of field, natural studio audio, seamless visual continuity, no CGI appearance, no plastic food, no impossible cheese stretching, no floating ingredients, no distorted hands, no text overlays, logos, or watermarks.</code></pre>
+
+</details>
+
+## MiniMax H3 storyboard video prompt
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2090556776156742071)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3408](https://imglume.com/prompt/3408)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0721c39d-83dc-4232-a216-b8b2d2c82018/380cd04d-3bc6-4bbc-aac6-058712f2e923-1787272339493 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the storyboard @[storyboard ref] as sequential shot guidance, not as a static image. Do not treat the storyboard as one image. Follow each panel as a separate beat. Use @[character ref] as character reference.
+
+She talks while preparing the latte:
+
+まずはエスプレッソを淹れます。
+ミルクをなめらかにスチームして、ゆっくり注ぎます。
+
+カップに近づけて、模様を描いていきます。
+
+最後にひと仕上げ。ラテアートの完成です。</code></pre>
+
+</details>
 
 ## Surreal Futuristic Ocean Energy Drink Product Reveal
 

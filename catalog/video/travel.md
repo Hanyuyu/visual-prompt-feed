@@ -1,9 +1,80 @@
 # Travel video prompts
 
-51 source-linked prompts, newest ImgLume records first.
+54 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Late-2000s Indonesian market vlog with raw handheld footage
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2090660330556776952)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`, `ugc`
+- **ImgLume record:** [3432](https://imglume.com/prompt/3432)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff32fcab-e86b-4e62-93cf-87e5b4fc4501/678973bb-47f7-4903-b118-6547c85acb82-1787297536354 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized sage green linen shirt, faded olive cropped pants, worn rubber flip-flops, thin silver anklet, hair tied in a loose messy bun with flyaway strands. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+00:00–00:04 Walking along a narrow dirt path through a bustling morning wet market, camera bouncing with each step. "Come on, let's go find the best sambal ingredients!"
+00:04–00:08 Stops at a produce stall piled with chilies, shallots, and tomatoes. An elderly vendor scoops a handful of red chilies into a bag, haggling playfully.
+00:08–00:12 Picks up a chili, sniffs it, laughs, and says to the camera, "Oh, this one's going to be spicy!"
+00:12–00:16 Crouches beside a stone mortar with a local woman, watching her grind spices by hand, asking questions and nodding along.
+00:16–00:20 Tries grinding the sambal herself, wobbles the pestle awkwardly, spice splashes a little, she laughs at her own mess while the vendor grins.
+00:20–00:24 Dips a piece of tempeh into the freshly made sambal, tastes it, eyes widen from the heat, fans her mouth, gives an exaggerated thumbs-up.
+00:24–00:27 Walks back through the market stalls, greeting familiar vendors, carrying a small bag of ingredients.
+00:27–00:30 Pauses near the market entrance, turns to the camera, wipes her forehead, smiles and says, "That's it for today's market run. See you next time!" before the recording cuts off naturally.
+Natural ambience only: market chatter, vendors calling out prices, clinking bowls, motorbikes passing, sizzling food carts, footsteps on gravel, distant rooster crows. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera travel vlog with authentic human movement and realistic interactions.</code></pre>
+
+</details>
+
+## Late-2000s Handheld Travel Vlog in Japan Street Food Alley
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2090658450254836118)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3424](https://imglume.com/prompt/3424)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/58b5c15f-4f02-40dd-9d4f-bd7be2e6bd0a/2da5d5f8-840a-4619-9321-8883a6a746cd-1787295342386 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized mustard yellow corduroy jacket over a plain white tee, cropped straight-leg denim jeans, white canvas sneakers, small pearl stud earrings, hair down and slightly tousled with a center part. Authentic woman exploring Japan. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+00:00–00:04 Walking through a narrow, lantern-lined street food alley in the evening, neon signs glowing softly, camera shaking with each step. "Okay, I'm so hungry, let's find some street food!"
+00:04–00:08 Stops at a small takoyaki stall where a vendor flips golden takoyaki balls with quick, practiced motions. She leans in, watching closely with a curious expression.
+00:08–00:12 Takes her first bite of a hot takoyaki, blows air from her mouth because it's too hot, laughs, and says, "Oh it's hot, but so good!"
+00:12–00:16 Sits on a small stool at a crowded street counter, chatting with the vendor and other customers, laughing at something someone said.
+00:16–00:20 Tries flipping a takoyaki ball herself with the little picks, fumbles it, it rolls off the griddle, she laughs while the vendor and customers cheer her on.
+00:20–00:24 Takes a bite of grilled skewered chicken (yakitori), chews happily, gives an enthusiastic thumbs-up to the camera.
+00:24–00:27 Walks slowly down the alley past glowing food stalls and paper lanterns, waving at vendors, holding a skewer in one hand.
+00:27–00:30 Stops under a string of hanging lanterns, turns back to the camera with a warm smile, waves and says, "See you in my next adventure. Bye!" before the recording ends naturally.
+Natural ambience only: sizzling grills, vendors calling out orders, distant chatter, clinking utensils, footsteps on pavement, faint music from nearby shops, night breeze. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera travel vlog with authentic human movement and realistic interactions.</code></pre>
+
+</details>
+
+## Arctic Snow Adventure
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2090654913927983477)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3422](https://imglume.com/prompt/3422)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0af4c714-06a0-435a-b879-0ff9e0a9d6b2/2d75b7ce-c578-4564-9b90-8d872eedfc2c-1787293243447 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cheerful young woman explores a vast snow-covered Arctic landscape wearing a warm padded coat, knitted cap, gloves, winter pants, and closed snow boots. She walks through deep snow, amazed by the breathtaking mountains and falling snow. She discovers a polar bear cub and penguins nearby and happily watches them. She takes beautiful photos of the animals with her camera. She laughs and plays gently in the fresh snow while the animals move naturally around her. She sits in the snow, smiling joyfully as the polar bear cub and penguins remain nearby; camera slowly pulls back to reveal the vast snowy landscape.
+Duration: 14s | 16:9 Landscape | Style: Ultra-realistic cinematic travel documentary, photorealistic 4K HDR, natural winter daylight
+Maintain the same woman, face, outfit, and appearance throughout. Realistic animal behavior, natural movement, detailed snow and fur, smooth cinematic transitions, immersive winter ambience, no text, no subtitles, no logos, no watermark, no animation.</code></pre>
+
+</details>
 
 ## 30-second photorealistic iPhone travel vlog in Dearborn, Michigan
 

@@ -1,9 +1,128 @@
 # Illustration 3d image prompts
 
-52 source-linked prompts, newest ImgLume records first.
+54 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Whimsical Handcrafted Paper-Collage Diorama with Photorealistic Girl
+
+- **Original source:** [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2090409724835737694)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3435](https://imglume.com/prompt/3435)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/48a94818-b5ae-4d09-a051-b83ee89dcbb8/399f40ab-bc93-4c75-aa29-e085af7d27b8-1787297622203 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.
+
+Use the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and recognizable facial features. Strict face identity lock — do not redesign, beautify, stylize, age, de-age, or replace her face.
+
+The girl stands alone in the center of the composition in a graceful natural editorial pose. She faces the camera with a relaxed confident expression and a subtle natural smile. Her body is slightly angled for a candid fashion-editorial feeling. She naturally holds a small elegant mixed bouquet with both hands in front of her. One leg is slightly crossed in front of the other.
+
+Outfit — New Color &amp; Styling
+
+Completely change the outfit from the original reference while keeping it fully modest and sophisticated:
+
+- elegant dusty-rose long-sleeve blouse
+- subtle pearl-style buttons
+- delicate gathered detailing at the cuffs
+- high-waisted warm taupe wide-leg trousers
+- full-length trousers with complete coverage
+- simple ivory closed-toe flats
+- structured small dark brown leather shoulder bag
+- minimal delicate accessories
+- no revealing clothing
+- no exposed midriff
+- sophisticated countryside editorial fashion
+- realistic fabric texture, stitching, folds and natural draping
+
+The dusty-rose blouse should create a soft romantic contrast against the green countryside without looking overly bright or saturated.
+
+Environment
+
+Create a beautiful handcrafted 3D paper-diorama countryside scene:
+
+- layered blue-green mountains in the distance
+- lush green forest and rolling hills
+- peaceful muted-blue lake
+- grassy lakeside landscape
+- textured warm-beige paper pathway in the foreground
+- rustic white wooden fence behind the girl
+- dreamy pale blush-and-blue pastel sky
+
+Surround the composition with oversized handmade paper flowers in dusty pink, blush, cream, peach, ivory and soft lavender, with layered sage-green paper leaves.
+
+Add decorative paper elements floating in the sky:
+
+- blush-pink paper hearts
+- soft golden-yellow paper stars
+- pale-blue stars
+- fluffy white and pale-blue clouds
+- tiny pastel paper dots
+
+Place two tiny vintage vehicles near the lake in the background: a cream vintage camper van on one side and a muted sage-blue vintage car on the other.
+
+Art Direction
+
+The entire environment should look handcrafted from premium textured paper while the girl remains photorealistic and seamlessly integrated into the paper world.
+
+Use hand-torn paper edges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional cut-paper elements, tactile textures, soft natural daylight, cinematic depth and gentle atmospheric perspective.
+
+The final image should feel like a luxury handmade paper storybook brought to life with a real photographic subject.
+
+Composition
+
+Centered full-body girl
+Face clearly visible and sharply detailed
+Natural elegant pose
+Bouquet held naturally
+Rustic fence framing the subject
+Lake and mountains creating depth
+Large flowers framing both lower corners
+Clouds and decorative elements filling the upper background
+Balanced composition with organic handmade imperfections
+Girl remains the strongest focal point
+
+Final Look
+
+Photorealistic girl + handcrafted paper-art environment
+Dreamy dusty rose, taupe, sage and cream color palette
+Luxury editorial aesthetic
+Whimsical miniature diorama
+Soft cinematic daylight
+Highly detailed paper textures
+Natural realistic skin
+Sharp facial identity
+Professional fashion photography
+Pinterest/Instagram viral visual aesthetic
+Magazine-quality composition
+
+Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.
+Prompt idea From @AiwithLariab</code></pre>
+
+</details>
+
+## Romantic Silhouette Couple at Golden Solar Eclipse
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090546825421795662)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`, `gptimage`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3409](https://imglume.com/prompt/3409)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/229c8031-0811-42b1-b337-658b53437f2e/d7ed1074-7f22-4499-b4aa-9c771685bb07-1787272381108 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/229c8031-0811-42b1-b337-658b53437f2e/95613ab1-d1dc-4081-b03b-35c07c6903cd-1787272381108 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A romantic digital art scene featuring a couple in silhouette standing close together on a rocky shoreline at twilight, their bodies forming a heart-shaped space between them that glows with a bright, warm light. In the background, a small, cozy cabin with glowing windows sits atop a rocky island surrounded by dark, reflective water. Above the island, a massive, golden solar eclipse dominates the night sky, casting a radiant, ethereal ring of light and shimmering golden reflections across the calm lake surface. The atmosphere is serene, magical, and deeply intimate, with a rich color palette of deep blues, warm ambers, and glowing golden highlights.</code></pre>
+
+</details>
 
 ## Premium Handcrafted Paper-Collage Diorama with Photorealistic Girl
 

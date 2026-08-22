@@ -1,9 +1,102 @@
 # UGC video prompts
 
-90 source-linked prompts, newest ImgLume records first.
+93 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Late-2000s Indonesian market vlog with raw handheld footage
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2090660330556776952)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`, `ugc`
+- **ImgLume record:** [3432](https://imglume.com/prompt/3432)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff32fcab-e86b-4e62-93cf-87e5b4fc4501/678973bb-47f7-4903-b118-6547c85acb82-1787297536354 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized sage green linen shirt, faded olive cropped pants, worn rubber flip-flops, thin silver anklet, hair tied in a loose messy bun with flyaway strands. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+00:00–00:04 Walking along a narrow dirt path through a bustling morning wet market, camera bouncing with each step. "Come on, let's go find the best sambal ingredients!"
+00:04–00:08 Stops at a produce stall piled with chilies, shallots, and tomatoes. An elderly vendor scoops a handful of red chilies into a bag, haggling playfully.
+00:08–00:12 Picks up a chili, sniffs it, laughs, and says to the camera, "Oh, this one's going to be spicy!"
+00:12–00:16 Crouches beside a stone mortar with a local woman, watching her grind spices by hand, asking questions and nodding along.
+00:16–00:20 Tries grinding the sambal herself, wobbles the pestle awkwardly, spice splashes a little, she laughs at her own mess while the vendor grins.
+00:20–00:24 Dips a piece of tempeh into the freshly made sambal, tastes it, eyes widen from the heat, fans her mouth, gives an exaggerated thumbs-up.
+00:24–00:27 Walks back through the market stalls, greeting familiar vendors, carrying a small bag of ingredients.
+00:27–00:30 Pauses near the market entrance, turns to the camera, wipes her forehead, smiles and says, "That's it for today's market run. See you next time!" before the recording cuts off naturally.
+Natural ambience only: market chatter, vendors calling out prices, clinking bowls, motorbikes passing, sizzling food carts, footsteps on gravel, distant rooster crows. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera travel vlog with authentic human movement and realistic interactions.</code></pre>
+
+</details>
+
+## Realistic Summer K-pop Vlog First Frame
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2090667885110927759)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [3425](https://imglume.com/prompt/3425)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6be9382f-dc11-4cf4-9378-f3d902ca9add/9ecf7030-d638-4099-8032-dfb3158e30e9-1787295377986 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create the first frame for a 30-second horizontal 16:9 realistic summer K-pop member daily vlog.
+
+Scene:
+A bright cozy bedroom in summer morning. Printed silk bedsheets slightly messy, pale wood floor, sheer curtains glowing with sunlight, small bedside table with a phone, lip balm, wireless earbuds, a folded towel, and a cream tote bag on a chair. A soft blue sky is visible through the window. The room feels lived-in, clean, warm, and personal.
+
+Main subject:
+Aria Vale sits on the edge of the bed, holding her phone in one hand like she is starting a vlog. Her shoulder-length dark brown hair is slightly messy from sleep but cute and natural. She wears a soft white cropped cardigan over a pale blue fitted tank top, light washed high-waist denim shorts, white crew socks, and clean white sneakers placed nearby on the floor.
+
+Opening action:
+She looks into the phone camera with a sleepy small smile, one hand lightly smoothing her hair. The tote bag and dance towel are visible nearby, hinting that she is about to go to dance practice.
+
+Composition:
+Horizontal 16:9, casual selfie-vlog feeling mixed with a stable bedroom shot. Medium-wide framing, natural morning light, soft shadows, realistic depth of field. The frame should feel like a real K-pop member’s off-duty summer vlog.
+
+Lighting:
+Warm summer morning sunlight through sheer curtains, soft highlights on skin and hair, gentle shadows, airy bright room.
+
+Mood:
+Fresh summer morning, casual personal vlog, quiet and intimate, the start of a day that leads to coffee and dance practice. No text, no subtitles, no watermark</code></pre>
+
+</details>
+
+## 15-sec Seedance home-video style prompt with 5 shots
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2090647580942418235)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3423](https://imglume.com/prompt/3423)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bcbe5cfd-5804-47f9-b3c8-d4da1a382c0d/5f91d77f-26bf-4659-9395-d08de45c8ecb-1787293279833 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-sec Seedance prompt — 5 separate shots
+
+Style: Authentic early-2000s MiniDV home-video footage. Young Korean woman, 24, naturally attractive, long dark hair, minimal makeup, casual oversized T-shirt and loose pajama pants. Cozy bedroom at night, warm bedside lamp, slightly messy lived-in room. 4:3 MiniDV footage, handheld imperfections, tape grain, low-light noise, slight autofocus hunting and exposure shifts. Natural, candid behavior. Keep the same woman, outfit, room, and lighting across every shot.
+
+SHOT 1 — 0:00–0:03
+Wide static-ish shot from the corner of the bedroom, as if someone secretly left the MiniDV camera recording. She enters casually, looks around, then starts dancing alone to music only she can hear.
+SHOT 2 — 0:03–0:06
+Different angle, slightly closer. She becomes more energetic and playful, moving her arms and shoulders, completely unaware she's being recorded. Natural goofy dancing, not choreographed.
+
+SHOT 3 — 0:06–0:09
+Side angle. She continues dancing, spins around, then suddenly notices the camera sitting on the table. Her movement stops instantly.
+SHOT 4 — 0:09–0:12
+Closer shot. She stands completely frozen, staring directly into the lens with wide, embarrassed eyes. She slowly realizes the camera has been recording the whole time.
+SHOT 5 — 0:12–0:15
+She tries to maintain a serious expression but immediately breaks into laughter. She covers her face, shakes her head, then walks toward the camera to stop the recording. Her hand reaches toward and partially covers the lens.
+End: Camera cuts out naturally as her hand covers the lens. Keep everything spontaneous and imperfect—no cinematic camera movements, no exaggerated acting, no polished commercial look.</code></pre>
+
+</details>
 
 ## Handheld garden vlog with wind‑blown papers
 

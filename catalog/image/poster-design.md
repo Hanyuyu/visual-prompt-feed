@@ -1,9 +1,251 @@
 # Poster Design image prompts
 
-91 source-linked prompts, newest ImgLume records first.
+96 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium vertical travel poster of \[CITY\], \[COUNTRY\] in handcrafted layered 3D paper-cut style
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090736637919855023)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3453](https://imglume.com/prompt/3453)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/32a4162d-f7c6-42a7-bb9b-39f380de2a92/734c3c3b-ba13-4fa9-8c6f-47852bb56d99-1787316364634 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/32a4162d-f7c6-42a7-bb9b-39f380de2a92/4a5cf92d-100f-4f21-867e-b0f495bae2c4-1787316364634 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/32a4162d-f7c6-42a7-bb9b-39f380de2a92/564321db-a3f7-4121-9e92-b86389605d63-1787316364634 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 travel poster of [CITY], [COUNTRY], designed entirely as a handcrafted layered 3D paper-cut miniature world.
+
+Use a soft pastel paper background with subtle paper grain, sculpted paper clouds, and multiple layers of textured cardstock. Build a beautiful miniature cityscape with realistic cut-paper edges, tactile paper textures, gentle shadows, raised 3D elements, and elegant handcrafted depth.
+
+Make [MAIN ICONIC LANDMARK] the dominant central feature, surrounded by 4–6 recognizable landmarks, architecture, streets, bridges, nature, cultural elements, and local details that instantly represent the city. Add a river, lake, coastline, or other important geographical feature where appropriate.
+
+Include tiny paper-cut people, vehicles, boats, trees, cafés, or street details to create scale and storytelling while keeping the composition clean and sophisticated.
+
+Color palette: harmonious soft pastels inspired by the city and country, with cream, muted green, warm beige, dusty pink, soft blue, terracotta, and complementary tones.
+
+At the top, add elegant minimal typography:
+
+[CITY]
+[COUNTRY]
+[SHORT ICONIC TAGLINE]
+
+Premium editorial travel-poster composition, whimsical handcrafted paper sculpture, realistic architectural proportions, layered depth, delicate paper fibers, soft studio lighting, subtle ambient shadows, sophisticated composition, highly detailed, charming miniature world, clean negative space, artistic and collectible poster aesthetic.
+
+Avoid: photorealism, plastic, glossy CGI, metallic surfaces, clutter, distorted landmarks, excessive text, oversaturated colors.
+
+Keep the same visual structure and artistic style across different cities, while changing the landmarks, cultural details, geography, and color accents to represent each destination authentically.</code></pre>
+
+</details>
+
+## Vertical editorial collage poster
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2090662002054303832)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3449](https://imglume.com/prompt/3449)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0551ed07-d216-4d59-99c0-e02e439b871a/0fbab4b4-68a8-487c-af67-ee092d72016f-1787310103365 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0551ed07-d216-4d59-99c0-e02e439b871a/9f6aab1f-4f89-4796-850b-7ae6053709de-1787310103365 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/0551ed07-d216-4d59-99c0-e02e439b871a/92122b73-8a35-4cf1-9938-c780fd8d0812-1787310103365 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/0551ed07-d216-4d59-99c0-e02e439b871a/6b94f945-eb91-42cc-9ad8-1ef7ced0b661-1787310103365 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Vertical editorial collage poster featuring [CHARACTER] in [CLOTHING], full-body cutout positioned across a sharp split background of [PALETTE]. Place oversized condensed typography reading “[TITLE]” behind the character, partially obscured by the body, with small editorial microtext reading “[MICROTEXT]” aligned near the outer margin. Integrate [FORM] as bold abstract graphic elements around the typography, using halftone dots, rough ink erosion, photocopy grain, screen-print imperfections and layered paper texture. Strong asymmetric composition, high contrast, controlled negative space, flat color fields, vintage modernist print design, no fantasy battle imagery, no extra characters, no glossy 3D rendering, aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Premium Travel Poster Prompt for \[CITY\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2090495333877141904)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3415](https://imglume.com/prompt/3415)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9d99d80b-55b2-4833-8761-74a6376c7cbe/a14541cd-bc3c-4dbc-872d-171a0b163500-1787282762145 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9d99d80b-55b2-4833-8761-74a6376c7cbe/cd202535-20b5-466f-8752-9fcf55343bc2-1787282762145 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9d99d80b-55b2-4833-8761-74a6376c7cbe/e0e4836f-98a4-4530-8545-9867cb490a8b-1787282762145 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/9d99d80b-55b2-4833-8761-74a6376c7cbe/7ee5535d-6935-483e-a0b8-99c8b40f1afb-1787282762145 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a refined 3:4 vertical premium travel poster for [CITY].
+
+First identify the city, country, architecture, landscape, climate, cultural character, and visual identity. Select ONE iconic and highly recognizable real-world landmark or subject as the HERO. Establish one believable photographic viewpoint and ensure every environmental element logically belongs to that location. Do not create a collage of unrelated landmarks.
+
+COMPOSITION: Divide the poster into two perfectly equal sections: 50% top and 50% bottom. Use a warm beige, ivory, or soft-white background with generous negative space and precise alignment.
+
+TOP — HERO PHOTOGRAPH: Create an ultra-realistic, high-end editorial photograph of the chosen landmark from a believable real-world viewpoint. Preserve accurate architecture, proportions, materials, surrounding environment, natural lighting, shadows, atmosphere, and geographic character. The scene should feel like premium architectural photography or a museum-quality travel photograph, with realistic textures and sophisticated cinematic composition.
+
+BOTTOM — GRAPHIC INTERPRETATION: Reinterpret the same hero landmark as a sophisticated flat graphic design. Extract its most recognizable silhouette, contours, structural details, proportions, and distinctive architectural elements. Simplify them into elegant geometric shapes, flat color blocks, thin lines, restrained divisions, and generous negative space. The landmark must remain instantly recognizable without becoming a realistic illustration, 3D render, cartoon, or game graphic.
+
+COLOR &amp; TYPOGRAPHY: Derive a restrained palette of approximately 4–6 colors from the city's architecture, environment, and hero photograph. Keep the palette sophisticated with slightly muted saturation. Add minimal geometric accents only when they improve the composition.
+
+Use limited, elegant typography such as: [CITY] [COUNTRY] ARCHITECTURAL STUDY 2026
+
+Use Swiss/international graphic design, architectural exhibition posters, luxury editorial design, and museum visual identity as the aesthetic reference. Keep typography subtle, with generous letter spacing and strong visual hierarchy.
+
+FINAL AESTHETIC: Sophisticated, minimal, contemporary, culturally authentic, artistic, and premium. The photographic upper half and graphic lower half should feel like two expressions of the same visual identity. The final result should resemble a world-class gallery poster, collector's travel print, architectural exhibition artwork, or luxury brand campaign.
+
+Avoid landmark collages, inaccurate architecture, invented structures, excessive text, tourist-brochure aesthetics, neon, flashy effects, heavy gradients, glossy 3D rendering, cartoon styling, game UI, clutter, excessive decoration, and generic AI-generated cityscapes.</code></pre>
+
+</details>
+
+## AURÉO Sparkling Citrus Premium Beverage Poster
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2090232675386933359)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3406](https://imglume.com/prompt/3406)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4f2b38b1-cf11-455c-aba7-bb8e7b34fd8b/b552e41b-41b3-4cc0-8659-5ab451cfe56c-1787261731870 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4f2b38b1-cf11-455c-aba7-bb8e7b34fd8b/72f714b9-4fad-4134-bed9-5534689827f4-1787261731870 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a world-class premium beverage advertising poster for a fictional luxury sparkling drink brand called AURÉO.
+
+The product is:
+
+AURÉO Sparkling Citrus
+Flavour: Yuzu &amp; Lemon
+Headline: TASTE THE CROWN
+Tagline: Premium sparkling citrus, redefined.
+
+Create a sophisticated cinematic portrait advertisement featuring a handsome photorealistic male brand ambassador standing confidently in a dark luxury studio.
+
+He should look like a real international commercial model — attractive, refined, charismatic and naturally approachable — not overly posed and not artificial-looking.
+
+He wears an elegant fitted black jacket over a black shirt and gives a subtle confident smile toward the camera.
+
+He holds the AURÉO can naturally in one hand at chest level, with the product facing clearly toward the viewer.
+
+The beverage can should be tall and elegant with:
+
+* matte premium black packaging
+* refined metallic gold detailing
+* luxurious AURÉO branding
+* clearly readable “SPARKLING CITRUS”
+* clearly readable “YUZU &amp; LEMON”
+* realistic condensation beads across the chilled surface
+
+Behind the ambassador and product, create an extraordinary **golden sparkling citrus splash forming a subtle crown shape**, visually reinforcing the “Taste the Crown” campaign concept.
+
+Surround the composition with carefully controlled premium refreshment details:
+
+* sliced yuzu
+* fresh lemon
+* crystal-clear ice cubes
+* sparkling droplets
+* subtle carbonation bubbles
+* tiny water particles frozen in motion
+
+Keep the effects elegant and controlled rather than chaotic.
+
+Lighting should feel like a high-end international beverage campaign:
+
+* deep black studio background
+* warm golden rim lighting
+* sophisticated highlights along the ambassador’s face and shoulders
+* glossy product reflections
+* realistic skin texture
+* strong but refined contrast
+* shallow cinematic depth of field
+* subtle atmospheric haze
+* premium commercial photography
+
+The ambassador should remain secondary to the product.
+
+The AURÉO can must be the strongest visual focal point.
+
+Design the final poster like a genuine global advertising campaign with professional hierarchy and generous negative space.
+
+Include clean premium typography:
+
+AURÉO
+
+SPARKLING CITRUS
+
+TASTE THE CROWN
+
+YUZU &amp; LEMON
+
+Premium sparkling citrus, redefined.
+
+Typography should be elegant, minimal, perfectly spelled, professionally aligned and integrated naturally into the composition.
+
+Do not overcrowd the poster.
+
+Visual direction:
+
+luxury beverage advertising, editorial commercial photography, premium brand campaign, photorealistic live-action aesthetic, cinematic portrait, black and gold color palette, natural citrus accents, sophisticated masculine luxury, international advertising agency art direction, extremely detailed product photography, realistic condensation, realistic human skin, premium retouching.
+
+Strictly avoid:
+
+cartoon appearance, animated-looking person, plastic skin, excessive neon, fantasy styling, distorted hands, extra fingers, warped beverage can, misspelled typography, duplicate objects, random logos, cluttered composition, excessive splash effects, cheap social-media-ad appearance.
+
+Final result should look like a finished premium beverage poster from a major international brand campaign, polished enough for billboard, magazine, luxury social media advertising and high-end commercial presentation.
+
+Aspect ratio: 9:16 portrait.</code></pre>
+
+</details>
+
+## Brush-painted illustration poster transformation prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2090421882311024862)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3401](https://imglume.com/prompt/3401)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/564dcff0-e02b-43ca-b42a-928b7473b81c/ee16c8ef-386e-4a70-965e-909912f0dee2-1787247055767 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/564dcff0-e02b-43ca-b42a-928b7473b81c/040f1cb4-30f5-4d56-b228-32093a9c88d9-1787247055767 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the attached photo into a brush-painted illustration poster. The subject in the photo can be food, another product, a landscape, an animal, a person, or any object you want to feature as the main subject.
+[Aspect Ratio]
+Vertical 3:4
+[Style]
+Digital painting / brush-painted effect.
+Visible brush strokes, uneven edges, slightly stretched paint marks.
+Hand-painted appearance that feels untouched and authentic.
+Interpret the image as a flat illustration with a simple arrangement of shapes rather than a realistic depiction.
+No gradients, shadows, 3D rendering, or detailed textures. Keep everything completely flat.
+Use a thin, irregular brush-painted outline that varies slightly from the painted areas.
+[Color]
+Background should be cream / off-white paper.
+Use only 3–4 colors taken from the attached photo:
+1 dark primary color
+1 bright primary color
+1–2 supporting colors
+Slightly desaturated vintage tone.
+Never increase the number of colors.
+[Composition]
+The subject should be large and centered, occupying approximately 50–55% of the canvas.
+Extend the composition vertically with more space above and below, while also increasing the left and right margins.
+At the top: place 1–2 English uppercase words describing the subject, in very large hand-painted brush lettering. Use very wide letter spacing; the text may wrap around the illustration or extend toward the right/downward.
+At the bottom right: add a short handwritten English phrase of 3–5 words in an accent color.
+[Text]
+Look at the photo and choose suitable top and bottom phrases.
+Do not use the actual subject name as the top text.
+Choose words based on the atmosphere, location, season, time of day, or emotion shown in the photo.
+The bottom phrase should feel casual, lighthearted, and slightly playful—not overly serious or explanatory.
+[Forbidden]
+Realistic rendering
+3D
+Shadows
+Reflections
+Logos
+Watermarks
+Border frames
+Excessive enlargement of the subject</code></pre>
+
+</details>
 
 ## Vintage halftone bold poster-art style portrait illustration prompt
 

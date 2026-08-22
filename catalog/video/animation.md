@@ -1,9 +1,26 @@
 # Animation video prompts
 
-104 source-linked prompts, newest ImgLume records first.
+105 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Magical Pencil Transforms Real World into 2D Hand-Drawn Animation
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2090661426079952935)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3443](https://imglume.com/prompt/3443)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/315707d1-e1b1-4b80-bd5f-dc19987bda95/db860dd5-8d2d-4091-bc86-9ae25f691cd4-1787307937323 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A hand holding a light-blue magical pencil points at real moving subjects, seamlessly transforming them into beautiful 2D hand-drawn animation while preserving their natural movement. A cute couple walking hand-in-hand transforms into soft pastel 2D animation, a flying butterfly turns into colorful watercolor art, a teal-and-white train becomes black-and-white line art, and realistic trees transform into dreamy illustrated artwork. Smooth camera movement, magical pencil trails, bright realistic environments, seamless live-action-to-animation transitions, cinematic and satisfying.</code></pre>
+
+</details>
 
 ## NESCAFÉ Classic 9-second warm rustic 2D animated promotional video
 

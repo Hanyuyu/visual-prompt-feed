@@ -1,9 +1,138 @@
 # Camera Moves video prompts
 
-123 source-linked prompts, newest ImgLume records first.
+127 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hollywood action scene with Seedance 2.5
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2090762614616015238)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3454](https://imglume.com/prompt/3454)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0bdb1be9-f8f6-4641-b439-b2b96865195b/4855756b-383b-4afb-9686-da48d3a0fe20-1787318483414 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-photorealistic LIVE ACTION, AAA Hollywood Blockbuster, premium semi-CGI VFX, grounded historical action. ARRI ALEXA 65, IMAX cinematography, Panavision anamorphic. One continuous uninterrupted shot, permanent 40° Dutch Angle. Ground-level IMAX tracking centimeters above fortress streets, Extreme Fast Orbit, aggressive crash zoom, violent whip pan, FPV pursuit, reverse tracking, low-angle pursuit, extreme macro eyes/sword grip/boots/weapon impacts/facial expressions. Hyper slow motion ONLY 0.2–0.35 sec during decisive impacts. Battlefield NEVER empty; dozens of elite Templar warriors remain visible. No static camera, gameplay framing, or music.
+LIVE ACTION CHARACTER LOCK
+@Image1 uses weapon from @Image2. A shadow assassin wearing a dark charcoal tattered cloak, deep hood, leather belts, red sash, dark combat boots, carrying a long curved sword. His face is partially shadowed by the hood, but his calm, focused eyes are clearly visible. Long flowing dark cloak with realistic fabric folds. Preserve Image 1 exactly: face, hairstyle, body proportions, skin, clothing, cloak, identity, natural eye color.
+COMBAT STYLE
+Extremely refined and aggressive high-speed sword style fused with Taijutsu. Sword technique combines precise blade control, rapid parries, deflections, and devastating counter-strikes. Exceptional footwork, hip/torso rotation, shoulder evasion, balance, kicks, rapid pivots, low sweeps, spinning heel/side/roundhouse kicks, jumping knees, foot traps and reverse-grip transitions. No wasted movement; every defense immediately becomes offense.
+BLINK SPEED
+Image 1 has overwhelming superhuman burst acceleration. At maximum speed, almost impossible for camera/human eye to track. Each burst leaves short black translucent afterimage, compressed air, dust displacement, atmospheric distortion. Can cross several meters in fractions of a second and reappear behind/beside/above/between opponents through visible physical movement. Camera frequently overshoots, then violently whip-pans to reacquire.
+LOCATION
+Massive original Alhambra fortress complex, 15th century Granada, Spain. Stone fortress walls, tiled rooftops, narrow stone alleys, wooden balconies, courtyards with fountains, towers, warm Mediterranean sunlight casting long golden shadows. No recognizable copyrighted symbols or exact landmark replicas. Main battle tears through the broad central avenue and rooftop levels.
+ENEMY WARRIORS
+Dozens of elite Templar knights in grounded 15th-century armor: chainmail, surcoats, helmets, cloaks, and swords. Coordinated acrobatics, rooftop pursuit, rapid melee and tactical formations. No recognizable copyrighted uniforms or clan symbols.
+00:00–00:03
+Ground-level IMAX tracking races through the crowded central avenue as dozens of Templars descend from rooftops, balconies and elevated walkways. One attacks from the side; Image 1 tilts backward, blade missing face by centimeters. Extreme macro calm eyes. Image 1 rotates sword into a one-handed parry — CRACK! Steel clashes. Image 1 redirects attacker downward, steps onto enemy shoulder and launches upward. Mid-air rotation → violent side kick sends another Templar through a wooden market stall. Before landing — BOOM! burst acceleration, black afterimage, violent whip pan.
+00:03–00:06
+Camera finds Image 1 already sprinting across a sloped tiled rooftop while multiple Templars pursue across neighboring roofs. Low-angle tracking from street below. Throwing blade crosses lens; Image 1 ducks without slowing. Another warrior leaps between rooftops. Image 1 plants one foot on a chimney structure, runs two steps sideways along wall, launches backward over attacker → mid-air sword deflection → immediate spinning heel kick sends Templar through roof tiles. Image 1 lands on roof edge and instantly bursts treme burst</code></pre>
+
+</details>
+
+## Elegant ethereal woman with jeweled gown beside a giant white peacock in a pink cherry blossom garden
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2090697013713138158)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3451](https://imglume.com/prompt/3451)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29886a95-6327-4cec-930f-7c6314265aca/49838541-e379-44b9-a3e5-e1c77364da61-1787314288064 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-detailed 8k fantasy cinematic video of an elegant ethereal woman wearing an ornate jewel-encrusted pink and silver gown with a matching jewel tiara standing beside a majestic giant white peacock in a magical pink cherry blossom garden near a reflective pond, extreme close-up of her face with glitter makeup and bright turquoise eyes opening, close-up of a glittering pink oval gem, medium shot of the woman standing beside the peacock, dynamic camera movement showing the white peacock fanning out its grand tail feathers decorated with pink gemstone accents, serene atmosphere, soft warm cinematic lighting, floating glowing dust particles, hyper-realistic 3D render, highly detailed textures, masterpiece, ultra-hd, 16:9 aspect ratio.</code></pre>
+
+</details>
+
+## Breathing Skyscraper Cinematic Video
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2090653406159614390)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `camera-moves`, `cinematic`
+- **ImgLume record:** [3450](https://imglume.com/prompt/3450)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/10abe959-e5a9-4aa9-850b-4d447da35513/bed88de9-dbd2-4204-af0e-c33aff565283-1787314253535 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Single continuous cinematic shot. Begin with a slow low-angle push toward a massive modern skyscraper at night. Camera gradually moves upward while maintaining the building centered in frame. Smooth controlled movement with subtle handheld realism. No cuts. End with a dramatic pullback revealing the full scale of the phenomenon.
+
+SCENE:
+A realistic modern city at night after light rain. Wet streets reflect thousands of city lights. One enormous glass skyscraper dominates the frame. Everything appears completely normal and photorealistic.
+
+0–3 SECONDS:
+Camera slowly approaches the skyscraper.
+
+Nothing unusual happens.
+
+Then every illuminated window simultaneously becomes covered in soft condensation, as if something inside the building is breathing.
+
+3–7 SECONDS:
+The entire skyscraper slowly INHALES.
+
+Curtains behind the windows pull inward. Loose papers, mist, rain droplets and tiny particles from the street begin moving toward the building.
+
+The movement must feel like an enormous invisible vacuum, but organic—like the building itself is breathing.
+
+7–10 SECONDS:
+The skyscraper reaches maximum compression.
+
+For one brief moment, the entire city becomes completely silent and still.
+
+10–13 SECONDS:
+The building suddenly EXHALES.
+
+A massive wave of glowing dust-like particles bursts outward from thousands of windows and rises into the night sky.
+
+13–15 SECONDS:
+Camera rapidly pulls backward and upward.
+
+The particles arrange themselves above the city into the enormous silhouette of a HUMAN FIGURE floating in the clouds.
+
+The silhouette exists for only a moment.
+
+FINAL FRAME:
+The giant human-shaped formation looks down silently over the city.
+
+STYLE:
+Photorealistic cinematic surrealism, massive architectural scale, realistic atmospheric physics, volumetric light, wet reflective streets, subtle film grain, high-end science-fiction cinema, dramatic but believable lighting.</code></pre>
+
+</details>
+
+## Immersive FPV anime fantasy wonderland 30‑second continuous shot
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2090378367040155877)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3402](https://imglume.com/prompt/3402)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7dcc8acc-77cd-4eeb-8919-0bd426905df5/a386fcdd-9a90-4414-929b-d8ebb3f26177-1787249152324 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Immersive first-person flying camera perspective in a spectacular anime fantasy wonderland, no visible drone, flying device, pilot, or HUD. Designed as one continuous 30-second shot. Launch instantly at extreme speed above a glowing flower valley, skimming centimeters over crystalline rivers before snap-rolling between gigantic cherry-blossom trees and floating temples. Knife-edge through narrow torii gates, corkscrew around levitating islands, then plunge vertically through a waterfall flowing upward into the sky.
+
+Without slowing, burst into a surreal candy-colored city of curved towers, giant luminous flowers, floating staircases and magical bridges. Perform violent S-turns through tight streets, barrel-roll beneath suspended trains, power-loop around a colossal crystal palace, then dive through its open windows and race through mirrored halls as rainbow light fractures around the camera.
+
+Explode back outside into a turquoise sky filled with floating mountains and enormous rotating celestial rings. Split-S downward through clouds, skim a mirror ocean, then pull vertically into a glowing forest where gravity twists and trees grow sideways across floating cliffs. Accelerate relentlessly through rapidly transforming environments as sunset becomes a brilliant star-filled night.
+
+Final seconds: dive into a gigantic luminous portal, corkscrew through a kaleidoscopic tunnel of petals, crystals and magical energy, then burst above an infinite fantasy kingdom beneath two enormous moons as colossal golden rings awaken across the horizon. Continuous POV, no cuts, relentless acceleration, extreme FPV proximity flight, constant trajectory changes, aggressive banking, snap rolls, barrel rolls, corkscrews, split-S, power loops, vertical dives, razor-close flybys, strong parallax, anime cinematic lighting, dynamic speed lines, volumetric clouds, magical particles, spectacular high-end fantasy VFX.</code></pre>
+
+</details>
 
 ## First dragon flight – 30s two-shot video
 

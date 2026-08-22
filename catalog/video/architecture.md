@@ -1,9 +1,67 @@
 # Architecture video prompts
 
-5 source-linked prompts, newest ImgLume records first.
+6 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Breathing Skyscraper Cinematic Video
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2090653406159614390)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `camera-moves`, `cinematic`
+- **ImgLume record:** [3450](https://imglume.com/prompt/3450)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/10abe959-e5a9-4aa9-850b-4d447da35513/bed88de9-dbd2-4204-af0e-c33aff565283-1787314253535 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CAMERA:
+Single continuous cinematic shot. Begin with a slow low-angle push toward a massive modern skyscraper at night. Camera gradually moves upward while maintaining the building centered in frame. Smooth controlled movement with subtle handheld realism. No cuts. End with a dramatic pullback revealing the full scale of the phenomenon.
+
+SCENE:
+A realistic modern city at night after light rain. Wet streets reflect thousands of city lights. One enormous glass skyscraper dominates the frame. Everything appears completely normal and photorealistic.
+
+0–3 SECONDS:
+Camera slowly approaches the skyscraper.
+
+Nothing unusual happens.
+
+Then every illuminated window simultaneously becomes covered in soft condensation, as if something inside the building is breathing.
+
+3–7 SECONDS:
+The entire skyscraper slowly INHALES.
+
+Curtains behind the windows pull inward. Loose papers, mist, rain droplets and tiny particles from the street begin moving toward the building.
+
+The movement must feel like an enormous invisible vacuum, but organic—like the building itself is breathing.
+
+7–10 SECONDS:
+The skyscraper reaches maximum compression.
+
+For one brief moment, the entire city becomes completely silent and still.
+
+10–13 SECONDS:
+The building suddenly EXHALES.
+
+A massive wave of glowing dust-like particles bursts outward from thousands of windows and rises into the night sky.
+
+13–15 SECONDS:
+Camera rapidly pulls backward and upward.
+
+The particles arrange themselves above the city into the enormous silhouette of a HUMAN FIGURE floating in the clouds.
+
+The silhouette exists for only a moment.
+
+FINAL FRAME:
+The giant human-shaped formation looks down silently over the city.
+
+STYLE:
+Photorealistic cinematic surrealism, massive architectural scale, realistic atmospheric physics, volumetric light, wet reflective streets, subtle film grain, high-end science-fiction cinema, dramatic but believable lighting.</code></pre>
+
+</details>
 
 ## Ultra-realistic 13-second cinematic luxury home video
 
