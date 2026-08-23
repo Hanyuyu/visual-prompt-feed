@@ -1,9 +1,77 @@
 # Travel image prompts
 
-36 source-linked prompts, newest ImgLume records first.
+38 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Layered Paper-Cut-Collage Travel Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091007538464764164)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3540](https://imglume.com/prompt/3540)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/a55db227-3950-400e-bf05-707e79949969-1787402495811 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/42980022-9a7d-44a5-b1be-ad9981fdc005-1787402495811 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/c6f18667-f76b-458f-9e1a-125c353ea1ca-1787402495811 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/f17692fe-c0a1-41d9-a3d9-7b94f6c41b13-1787402495811 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated vertical 3:4 travel poster of {CITY} as a handcrafted layered papercut landmark collage.
+
+Use only the city name. Identify its country, architectural character, landscape, visual atmosphere, and 3–4 most iconic landmarks genuinely located in the city. Select 1 dominant Hero Landmark + 2–3 Secondary Landmarks. Never invent, substitute, or borrow landmarks.
+
+Preserve each landmark’s authentic silhouette, proportions, roofline, towers, domes, arches, bridges, and defining features. Simplify minor details while keeping strong recognition.
+
+Create one unified editorial composition rather than separate icons. Use varied scale, overlap, foreground/midground/background depth, shared skyline or landscape, and generous negative space. The Hero must clearly dominate.
+
+Build the scene from 4–7 shallow paper layers: sky, distant environment, secondary landmarks, Hero, city context, foreground, and optional tiny details. Use matte handmade paper, subtle fibers, clean organic cut edges, flat colors, and delicate 1–3 mm shadows. Make it feel like real handcrafted paper photographed nearly straight-on—not CGI, plastic, clay, or a miniature diorama.
+
+Use a refined 6–9 color muted palette inspired by {CITY}, with 1–2 stronger accents near the Hero. Use soft diffused lighting and restrained shadows.
+
+Composition: upper 20–30% quiet sky/negative space; middle 45–55% landmarks; lower 20–30% city environment, landscape, water, or streets. Keep roughly 25–35% visually quiet.
+
+Optionally add small uppercase typography: {CITY} / {COUNTRY}.
+
+Style: premium travel poster + contemporary editorial illustration + handcrafted papercut + subtle mid-century influence + sophisticated Korean/Japanese editorial restraint.
+
+Avoid: photorealism, incorrect landmarks, equal-sized landmarks, floating icons, sticker collage, excessive detail, deep 3D effects, neon colors, glossy materials, dramatic shadows, excessive people, logos, and watermarks.
+
+Final goal: instantly recognizable {CITY} expressed as elegant, premium, layered paper art. 3:4 vertical.</code></pre>
+
+</details>
+
+## Premium vertical travel artwork of \[COUNTRY\] inside a glowing candle flame
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090833870224843053)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`, `travel`
+- **ImgLume record:** [3497](https://imglume.com/prompt/3497)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3d068298-f458-415c-9bb1-e68cd7bc93e0/6e68a4f5-76bc-4a03-b594-e5b6adb684c8-1787373045196 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3d068298-f458-415c-9bb1-e68cd7bc93e0/d6f2b30b-2179-4f36-8fa1-29ef68bf6704-1787373045196 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking premium vertical 4:5 travel artwork featuring [COUNTRY] inside a glowing candle flame.
+
+A luxurious handcrafted candle stands in the center against a soft, elegant dark background. Instead of an ordinary flame, the flame transforms into a tiny magical 3D world representing [COUNTRY].
+
+Inside the translucent golden-orange flame, reveal the country’s most iconic landmark [LANDMARK] as the dominant centerpiece, surrounded by miniature landscapes, mountains, rivers, traditional architecture, cultural details, tiny people, local elements, and subtle atmospheric details.
+
+The flame should feel physically real, with delicate translucent layers of fire, glowing embers, soft smoke, warm reflections, and realistic light scattering. The miniature country appears to be alive inside the flame, as though the fire itself is protecting an entire world.
+
+Elegant cinematic composition, luxury travel campaign aesthetic, ultra-detailed miniature world, magical realism, sophisticated color palette, realistic materials, soft depth of field, volumetric lighting, subtle shadows, premium editorial photography, atmospheric glow, highly polished, visually mesmerizing.
+
+Add the country name ”[COUNTRY]” elegantly beneath the candle in refined minimalist typography.
+
+Aspect ratio: 4:5 vertical
+Style: cinematic magical realism + luxury travel poster + miniature world photography
+Quality: ultra-detailed, photorealistic, premium, sophisticated, Instagram/Pinterest-worthy.</code></pre>
+
+</details>
 
 ## Beautiful pastel-colored paper painting of \[COUNTRY\] miniature world
 

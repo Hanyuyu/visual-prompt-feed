@@ -1,9 +1,84 @@
 # Food Drink video prompts
 
-72 source-linked prompts, newest ImgLume records first.
+74 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-photorealistic French fries factory documentary
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2091031033986634183)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3503](https://imglume.com/prompt/3503)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a87e29e1-89f0-409d-8f95-7a9c3a44397f/856f7684-e50a-4fdd-955b-a4b3fb0446da-1787381432755 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A modern automated French fries factory processes fresh potatoes from start to finish. Potatoes arrive on stainless-steel conveyors, pass through industrial washing and peeling machines, then enter precision cutting equipment that produces evenly sized fries. The fresh-cut fries move through blanching, hot-oil frying, draining, and cooling systems before reaching automated weighing and packaging machines. Portions are measured, sealed into food-grade bags, checked by quality-control scanners, and transferred into cartons by robotic arms. Ultra-photorealistic industrial food production documentary, realistic potato and fry physics, physically accurate machinery, continuous conveyor movement, authentic water flow, realistic frying bubbles, natural steam, accurate robotic movements, hygienic factory environment, bright industrial LED lighting, realistic stainless-steel reflections, trained workers wearing proper protective equipment, smooth documentary cinematography, authentic factory sounds including conveyor motors, flowing water, cutting machines, fryer bubbling, cooling fans, and packaging mechanisms, no narration, no music, seamless visual continuity, no CGI appearance, no floating objects, no distorted food, no machine clipping, no excessive steam, no flickering lights, no text overlays, logos, or watermarks.</code></pre>
+
+</details>
+
+## Premium Artisan Cheese Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090738907378004072)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [3468](https://imglume.com/prompt/3468)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f14431dc-b312-4784-a3ad-de030344bdab/417e9789-e857-40e0-870a-598cf001ba50-1787333146862 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f14431dc-b312-4784-a3ad-de030344bdab/c03c145e-3017-42af-86ec-20ccccc6fdf5-1787333146862 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Artisan Cheese Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet food product campaign
+• 8 cinematic storyboard scenes
+• Luxury editorial presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Gourmet Artisan Food Commercial
+ - Product: Premium Cheese
+ - Audio: Soft Food ASMR
+• Why This Style Works section
+• Cream, golden yellow and dark brown aesthetic
+
+STORYBOARD:
+1. Premium cheese package displayed on dark stone
+2. Package opening to reveal artisan cheese
+3. Knife slicing through the cheese
+4. Extreme macro showing creamy texture
+5. Cheese stretching as a slice is lifted
+6. Cheese placed onto a warm toasted surface
+7. Crumbs, herbs and cheese arranged around the product
+8. Final hero product shot with elegant cheese presentation
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion slicing, texture close-ups, overhead food composition, shallow depth of field, cinematic product push-in.
+
+STYLE:
+Ultra-realistic artisan food photography, creamy cheese texture, realistic melting, detailed crumbs, warm studio lighting, premium gourmet branding, luxury commercial quality, 8K.</code></pre>
+
+</details>
 
 ## 30-second cinematic commercial for artisan bakery MAISON ROSE
 

@@ -1,9 +1,55 @@
 # Animation video prompts
 
-105 source-linked prompts, newest ImgLume records first.
+107 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 咖啡馆实拍+AI卡通变形搞笑短视频
+
+- **Original source:** [@PixelAigc on X](https://x.com/PixelAigc/status/2090732500901597368)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3495](https://imglume.com/prompt/3495)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/53afacc6-5bb5-4b6d-b640-98aeb3517948/e57996b5-054c-463a-a2c2-1438ae47e25b-1787370931941 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>整体风格与设定
+咖啡馆实拍+AI面部变形/卡通化混合风格。竖屏构图，自然柔和室内光，窗外绿树虚化，背景墙上有黑胶唱片/海报（可见“RAY CHARLES”字样）。
+人物：短波波头黑发亚洲年轻女性，白衬衫（胸前有小马刺绣标），卡其短裤，细项链+耳钉，妆容清淡自然。
+道具：木桌上有冰饮（带吸管）、手机、小卡片；左侧有白色LV花纹手提包。
+情绪基调：活泼、俏皮、可爱、略带夸张的“拍可爱照片”互动感。 分镜拆解（按时间大致划分）
+0-1秒：正面坐姿，双手用力拉开嘴角成超大嘴巴，舌头伸出，眼睛向上翻看，做夸张可爱鬼脸。
+1-2秒：双手向两侧张开，恢复正常脸，对着镜头甜甜微笑。
+2-3秒：双手压在头顶瞬间变形为大头卡通/Q版风格（超大圆脸、巨大眼睛、鼓腮嘟嘴），表情呆萌。
+3-4秒：回到真人脸，但叠加超大卡通眼睛+张大嘴巴的惊讶表情，双手高举过头（像在整理头发或做惊讶动作）。
+4-5秒：侧头看向一边，微微嘟嘴/思考表情，手臂自然摆动。
+5-6秒：卡通头像，闭眼，嘴角上扬，放松微笑，双手放在腿上。
+6-7秒：回到真人头像，双手抬起做“爪子”手势，嘴巴张大吐舌，眼睛眯起大笑，超级兴奋俏皮。
+7-8.4秒：身体微侧，一手叉腰，另一手拿着红色卡通大花朵（或类似道具），侧脸对镜头甜笑收尾。 整体节奏快，表情切换迅速，真人↔卡通变形自然流畅，突出“可爱搞怪”氛围。</code></pre>
+
+</details>
+
+## First-person driver POV in futuristic neon city – ultra-wide fisheye
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2090807904714519039)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3478](https://imglume.com/prompt/3478)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cbc13766-6c8e-4ebb-a90b-25522892f7a1/c74bf07a-5f1f-465c-b4a3-e4e507ee6b3c-1787339443733 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>first-person POV from the driver’s seat, hands on the steering wheel, driving through a futuristic city at night, extreme fisheye lens distortion, ultra-wide curved perspective, dashboard and windshield wrapping around the frame, exaggerated sense of speed and depth, stylized 3D animation, clean geometric forms, slightly toy-like proportions, glossy materials, cinematic lighting, neon reflections on the windshield, dynamic motion blur outside the car, immersive cockpit view, polished animated-film aesthetic, dramatic composition --ar 16:9</code></pre>
+
+</details>
 
 ## Magical Pencil Transforms Real World into 2D Hand-Drawn Animation
 

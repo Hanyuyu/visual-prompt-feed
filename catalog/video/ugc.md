@@ -1,9 +1,165 @@
 # UGC video prompts
 
-93 source-linked prompts, newest ImgLume records first.
+98 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15s Purikura Booth Video Prompt
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2091021914194248037)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3535](https://imglume.com/prompt/3535)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b0f2063f-03cf-4d65-8a65-f01a80f5b0fd/5e707c5a-da72-4d02-b531-02cf1c17cdd0-1787398235949 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Image1 person face and hairstyle must match exactly. Casual streetwear; ignore reference outfit/background/pose/text.
+
+15s purikura booth video, old low-quality iPhone 1x look: heavy noise/compression, handheld shake, pink/magenta lighting, natural skin, no cinematic/beauty/CG/fisheye.
+
+0–3s: Enters booth, taps screen confused: “wait which one do I press—”
+
+3–6s: Picks random template, adjusts pose, checks reflection.
+
+6–9s: Countdown, awkward cute pose → flash.
+
+9–12s: Breaks pose, laughs: “oh my god that was so awkward.”
+
+12–15s: Grabs printed sticker, sticks it on phone case, looks at camera with satisfied grin → freeze.
+
+No BGM. Ambient arcade sounds, taps, countdown, shutter, printer, laughter. Screen/sticker text illegible. 16:9.</code></pre>
+
+</details>
+
+## 30-second first-person smartphone video of a maglev train descending into Hell
+
+- **Original source:** [@AiwithAlyar on X](https://x.com/AiwithAlyar/status/2091023557560021314)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3526](https://imglume.com/prompt/3526)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/74a3ae4b-0e86-4c37-a427-8acea077073d/a2a69ed9-60a3-425c-93d8-a0d3f7e849b4-1787394239029 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>One continuous 30-second chaotic amateur first-person smartphone video filmed by a standing passenger inside a completely packed magnetic-levitation commuter train. Single unbroken take with no cuts, jump cuts, dissolves, crossfades, double exposures, portals, morphing or artificial scene transitions. The train begins as an ordinary weekday commute on Earth and then physically travels downward on an impossible journey — through subway tunnels into bedrock, into a colossal void beneath the crust, past a soot-blackened waiting platform, through an immense eroded gate, out above a burning plain, down the terraced wall of a vast pit, and into the inhabited depths of Hell. Everything must feel physically connected, as though the same train is genuinely travelling down through each environment.
+The tone is bureaucratic dread, not horror-movie shock. This is a scheduled service. The route is old, the infrastructure is worn, and the train runs it the way it runs any other line. The horror comes from how ordinary the journey is and how enormous the destination turns out to be.
+The interior is a completely packed standing-room-only maglev commuter car. Passengers are pressed shoulder-to-shoulder, gripping overhead straps and vertical poles. Backpacks are squeezed between bodies, coats and loose clothing shift with acceleration, straps swing on their inertia, and the entire carriage constantly vibrates and rattles. The camera is a cheap smartphone held at chest height by one standing passenger who grips a pole with the other hand. The phone itself is NEVER visible because the phone is the camera. The framing is crooked, slightly off-centre, partially blocked by shoulders and arms, and imperfect like genuine accidental footage. The camera constantly shakes, rolls, yaws and gets thrown around by acceleration. Use realistic rolling-shutter distortion, autofocus hunting, exposure pumping, blown highlights, crushed noisy shadows, low-bitrate compression, macroblocking and smeared motion blur. It must look like genuine spontaneous smartphone footage, not professional cinematic footage.
+The camera always looks through the LEFT-SIDE WINDOWS at approximately 90 degrees to the train's direction of travel. The train always travels forward and the outside world always streams past the windows from front-to-back. Never switch to a forward-facing train-nose view. Never show the front of the train. The same carriage, same passengers, same poles, same straps and same windows remain visually consistent throughout the entire journey. The interior is the constant realistic anchor while the outside world becomes increasingly impossible.
+0 to 3 seconds. Begin with an ordinary overcast weekday commute on an elevated urban line. Grey apartment blocks, rooftop water tanks, a scrapyard, overhead wires, a canal and traffic on a road below streak past the left windows at different distances with realistic parallax. The passengers are tired and mostly uninterested — some on phones, some staring out, some talking quietly. A calm public-address chime sounds and an announcer quietly says, "Next stop: Hell." Nobody reacts. One passenger glances up briefly and goes back to their phone. The train accelerates and everyone instinctively tightens their grip as the carriage gives a hard lateral jolt.
+3 to 6 seconds. The line drops into a cutting and then into a tunnel. Tiled subway walls, cable runs, service lights and a passing platform strobe across the windows in hard bands of light and dark, throwing the carriage into stuttering illumination. The tunnel ages as the train descends: modern concrete becomes older brickwork, then rough-cut stone. The fittings become scorched and soot-caked — blackened signal lights, corroded brackets, cabling burnt down to bare metal. This route has been running a long time. The gradient steepens noticeably; passengers lean back against the pitch</code></pre>
+
+</details>
+
+## Young Korean woman home video in Seoul, rainy summer
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2091029107803070601)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3524](https://imglume.com/prompt/3524)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/868c8188-3c23-4418-9309-3e5382bf474c/237ce8d5-cd97-435f-bf0a-6f47d1289bdb-1787389869621 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, early 20s, naturally attractive, realistic skin, minimal makeup, long dark hair loosely tied back. Wearing an oversized faded sage-green T-shirt, loose white lounge pants, white socks, and a thin silver necklace. Maintain her exact identity, facial features, hairstyle, and appearance throughout the entire video.
+
+Location: Quiet old Seoul residential neighborhood during a humid summer afternoon. Small apartment courtyard, laundry area, narrow concrete alleys, tiny corner convenience shop, potted plants, parked bicycles, overhead wires, low-rise buildings, and a peaceful local atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Candid, nostalgic, imperfect everyday life. Heavy handheld camera, autofocus hunting, faded colors, soft contrast, slight motion blur, DV compression, natural exposure shifts, and subtle microphone noise. No stabilization or cinematic movement.
+
+She stands in a small courtyard washing clothes by hand in a plastic basin. She smiles softly while squeezing water from a shirt, then casually ties her hair back into a messy ponytail.
+
+She hangs the freshly washed clothes on a clothesline. A light breeze moves the fabric as the camcorder struggles to keep focus. She notices she's out of detergent and grabs a small tote bag.
+
+: She walks through a narrow neighborhood lane to a tiny local shop. She buys a small packet, chats briefly with the shop owner, and steps back outside. The camera follows casually from behind.
+
+ Suddenly, summer rain begins. She looks up, laughs, and instead of running away, she starts spinning and dancing playfully in the rain with her arms stretched out as raindrops splash around her.
+
+: Completely soaked, she walks back through the alley smiling brightly, brushes wet hair away from her face, looks into the camcorder, waves with a genuine smile, and the recording abruptly cuts to black.
+
+Audio: Natural ambience only — rain, footsteps on wet concrete, birds, distant traffic, shop door bell, fabric fluttering, neighborhood chatter, and thunder in the distance. No music or narration.
+
+Goal: Feel like a forgotten Korean family camcorder recording from the early 2000s — spontaneous, cozy, imperfect, warm, and deeply nostalgic.</code></pre>
+
+</details>
+
+## Handheld camcorder video of a young Korean woman in a summer neighborhood
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091022600281772360)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3515](https://imglume.com/prompt/3515)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fe68716b-c6e7-4e52-b379-59de0315d606/a014de20-b82a-4ada-8325-ad5abb50b156-1787383595546 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: Young Korean woman, early 20s, natural appearance, loose white T-shirt, light-wash jeans, black sneakers, simple necklace, black wavy hair tied into a messy side ponytail. Realistic skin texture and minimal makeup. Keep her identity consistent.
+
+Location: Peaceful Korean residential neighborhood during a warm summer afternoon. Small homes, concrete alleys, potted plants, bicycles, laundry lines, old walls, trees and overhead wires.
+
+Camera: Early-2000s handheld DV camcorder operated by a friend. Strong camera shake, drifting composition, autofocus hunting, exposure shifts, soft digital image, faded colors, lens breathing, occasional motion blur and imperfect zooms.
+
+She sits on a low wall outside her house eating a popsicle. She looks at the camera and smiles while sunlight hits her face.
+
+She gets up and walks down the alley, waving at a neighbor watering plants. The camera follows awkwardly from behind.
+
+She notices a small dog behind a gate and crouches down to say hello. The dog gets excited and she laughs.
+
+She continues walking and stops beneath a large tree, looking upward as leaves move in the wind.
+
+She walks toward a small basketball court, picks up a ball and casually throws it toward the hoop. She misses and laughs at herself.
+
+She walks back toward the camera, playfully covers the lens with her hand and says, “Bye!” The screen goes dark as her hand covers the lens.
+
+Audio: Birds, insects, wind, distant children, bouncing ball, footsteps and natural neighborhood sounds. No music or narration.</code></pre>
+
+</details>
+
+## 15-sec Seedance video of a Korean woman on a balcony
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2090769635474035199)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3491](https://imglume.com/prompt/3491)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a89a5349-015e-48e4-94d5-c46a5ff473d0/9a2dca14-57cf-4b2f-b4cc-574b74cfd4ca-1787360563113 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-sec Seedance prompt — 5 separate shots
+
+Style: Authentic early-2000s MiniDV home-video footage. Young Korean woman, 24, long dark hair, minimal makeup, oversized cozy sweatshirt and loose pajama pants, wrapped in a soft blanket. Quiet apartment balcony at night, warm indoor light spilling through the open door, cool blue city light outside. 4:3 MiniDV, handheld imperfections, low-light noise, tape grain/compression, slight autofocus hunting. Natural candid behavior, no cinematic polish.
+
+SHOT 1 — 0:00–0:03
+Interior wide shot facing the balcony door. She walks toward the open door wrapped tightly in a blanket, sleepy and curious. She slides the door open a little further and steps outside.
+SHOT 2 — 0:03–0:06
+Cut to a balcony-side angle. She takes a few small steps outside, holding the blanket around her shoulders. She looks up at the quiet night sky and takes a deep breath.
+
+SHOT 3 — 0:06–0:09
+A sudden cold gust blows across the balcony. Her hair moves strongly in the wind and she immediately scrunches her shoulders, pulls the blanket tightly around herself, and makes a funny surprised expression.
+SHOT 4 — 0:09–0:12
+She quickly retreats back through the balcony door, almost stumbling from how fast she moves. She closes the door halfway, still wrapped tightly in the blanket, and looks back outside.
+
+SHOT 5 — 0:12–0:15
+She slowly peeks her head back around the door and looks toward the camera. She realizes how ridiculous her dramatic retreat was and starts quietly laughing. She shakes her head, smiles, and disappears back inside.
+End: Balcony remains visible for a brief moment as the door closes. Authentic low-light MiniDV texture, natural handheld movement, subtle exposure adjustment when moving between the warm room and dark balcony. No slow motion, no exaggerated acting.</code></pre>
+
+</details>
 
 ## Late-2000s Indonesian market vlog with raw handheld footage
 

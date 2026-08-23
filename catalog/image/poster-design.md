@@ -1,9 +1,276 @@
 # Poster Design image prompts
 
-96 source-linked prompts, newest ImgLume records first.
+103 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxury Travel Poster of \[COUNTRY\] Handcrafted in Kashmiri Sozni Embroidery
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2091083845353472126)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3551](https://imglume.com/prompt/3551)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/66abd477-01e7-446b-8a15-e444e166570a/950eb43d-4117-45d9-88c6-a79bb2276370-1787412961828 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/66abd477-01e7-446b-8a15-e444e166570a/145558b5-5fe0-4528-a7cb-f60c85cbb004-1787412961828 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/66abd477-01e7-446b-8a15-e444e166570a/e943a44f-01b9-4f49-847b-d9e493fc30b2-1787412961828 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking vertical 4:5 luxury travel artwork where the entire silhouette of [COUNTRY] is intricately handcrafted using authentic Kashmiri Sozni embroidery.
+
+The country itself is formed entirely from delicate hand-embroidered threads, featuring ultra-fine floral vines, paisley motifs, chinar leaves, almond blossoms, traditional Kashmiri patterns, and elegant Persian-inspired detailing. The embroidery should look genuinely hand-stitched, with visible individual threads, tiny needlework imperfections, raised textile texture, and exquisite craftsmanship.
+
+Inside the embroidered country silhouette, subtly incorporate miniature iconic landmarks and cultural symbols of [COUNTRY], seamlessly woven into the Sozni patterns rather than appearing as separate objects.
+
+Place the embroidered country on a luxurious soft ivory Kashmiri fabric background, with gentle folds, realistic textile fibers, delicate shadows, and warm natural window light. Add a few loose colorful embroidery threads and a traditional Kashmiri needle beside the artwork to emphasize the handmade process.
+
+At the bottom, elegantly write:
+
+[COUNTRY]
+“A World Woven in Tradition”
+
+Premium editorial travel poster, museum-quality textile art, photorealistic macro embroidery, exquisite craftsmanship, sophisticated composition, soft pastel palette, tactile fabric texture, cinematic natural lighting, ultra-detailed needlework, elegant negative space, culturally respectful, 8K.</code></pre>
+
+</details>
+
+## Taipei Travel Poster
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091034664203133243)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3548](https://imglume.com/prompt/3548)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/80c3cd4a-a152-4a99-952e-9a97614879cb/0217a474-9ea1-4d9e-8e07-aa277b1aea62-1787406661134 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/80c3cd4a-a152-4a99-952e-9a97614879cb/1a254468-7293-4833-b409-e316ea62a024-1787406661134 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/80c3cd4a-a152-4a99-952e-9a97614879cb/33626842-4b04-4838-a361-2ccdbee18a82-1787406661134 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/80c3cd4a-a152-4a99-952e-9a97614879cb/6e8f33df-16b6-4379-b9f5-f75ca1f8f2b0-1787406661134 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a refined editorial travel poster illustration of TAIPEI, inspired by vintage modernist travel art. Show Taipei 101 as the dominant landmark rising above a layered city skyline, with the National Chiang Kai-shek Memorial Hall in the foreground, traditional Taiwanese architecture, lush trees, distant green mountains, elegant bridges, and a calm blue river or waterfront. Use a sophisticated geometric collage composition with overlapping arches, rectangles, circles, stepped architectural shapes, and subtle paper-texture overlays. Muted pastel palette of powder blue, cream, warm terracotta, dusty coral, sage green, and deep navy. Minimalist hand-painted illustration, slightly grainy vintage print texture, soft natural daylight, clean architectural lines, balanced negative space, sophisticated European travel-poster aesthetic, nostalgic yet contemporary, highly detailed but uncluttered. Place the title “TAIPEI” centered at the top in thin, widely spaced uppercase typography. Vertical 4:5 composition, premium art-print quality, elegant, cohesive, no photorealism, no gradients, no excessive text.</code></pre>
+
+</details>
+
+## Layered Paper-Cut-Collage Travel Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091007538464764164)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3540](https://imglume.com/prompt/3540)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/a55db227-3950-400e-bf05-707e79949969-1787402495811 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/42980022-9a7d-44a5-b1be-ad9981fdc005-1787402495811 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/c6f18667-f76b-458f-9e1a-125c353ea1ca-1787402495811 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/547f8729-ca1b-417a-a733-aad25307677c/f17692fe-c0a1-41d9-a3d9-7b94f6c41b13-1787402495811 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated vertical 3:4 travel poster of {CITY} as a handcrafted layered papercut landmark collage.
+
+Use only the city name. Identify its country, architectural character, landscape, visual atmosphere, and 3–4 most iconic landmarks genuinely located in the city. Select 1 dominant Hero Landmark + 2–3 Secondary Landmarks. Never invent, substitute, or borrow landmarks.
+
+Preserve each landmark’s authentic silhouette, proportions, roofline, towers, domes, arches, bridges, and defining features. Simplify minor details while keeping strong recognition.
+
+Create one unified editorial composition rather than separate icons. Use varied scale, overlap, foreground/midground/background depth, shared skyline or landscape, and generous negative space. The Hero must clearly dominate.
+
+Build the scene from 4–7 shallow paper layers: sky, distant environment, secondary landmarks, Hero, city context, foreground, and optional tiny details. Use matte handmade paper, subtle fibers, clean organic cut edges, flat colors, and delicate 1–3 mm shadows. Make it feel like real handcrafted paper photographed nearly straight-on—not CGI, plastic, clay, or a miniature diorama.
+
+Use a refined 6–9 color muted palette inspired by {CITY}, with 1–2 stronger accents near the Hero. Use soft diffused lighting and restrained shadows.
+
+Composition: upper 20–30% quiet sky/negative space; middle 45–55% landmarks; lower 20–30% city environment, landscape, water, or streets. Keep roughly 25–35% visually quiet.
+
+Optionally add small uppercase typography: {CITY} / {COUNTRY}.
+
+Style: premium travel poster + contemporary editorial illustration + handcrafted papercut + subtle mid-century influence + sophisticated Korean/Japanese editorial restraint.
+
+Avoid: photorealism, incorrect landmarks, equal-sized landmarks, floating icons, sticker collage, excessive detail, deep 3D effects, neon colors, glossy materials, dramatic shadows, excessive people, logos, and watermarks.
+
+Final goal: instantly recognizable {CITY} expressed as elegant, premium, layered paper art. 3:4 vertical.</code></pre>
+
+</details>
+
+## Premium minimal flat-vector travel poster prompt for \[CITY_NAME\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2091015346543329364)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3504](https://imglume.com/prompt/3504)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/81291348-84a1-4df0-a164-0024f0ab43bb/5b0bccd9-f2c5-4ac0-bc69-2b06037af130-1787381460704 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/81291348-84a1-4df0-a164-0024f0ab43bb/f4eae2e3-040f-4ce1-80b3-8c13fa77083d-1787381460704 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/81291348-84a1-4df0-a164-0024f0ab43bb/580ccc61-9d2f-454f-98fd-2403759f68fd-1787381460704 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/81291348-84a1-4df0-a164-0024f0ab43bb/616cf41f-3866-4798-8b39-92eb32c60c7a-1787381460704 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimal flat-vector travel poster for [CITY_NAME], 3:4 vertical.
+
+Create a fresh, airy, elegant city travel poster that feels uniquely designed for [CITY_NAME], not reused from another city.
+
+IMPORTANT COMPOSITION RULE:
+Before drawing, identify the unique “city DNA” of [CITY_NAME]:
+1. one primary landmark or skyline feature,
+2. one local movement or transport cue,
+3. one everyday lifestyle moment,
+4. one native plant / local environmental detail,
+5. one spatial composition that fits this city specifically.
+
+Do NOT reuse the same layout formula across cities.
+Avoid defaulting to:
+- a shop always on the right,
+- a signboard always on the left,
+- people always sitting at a café table,
+- the same foreground flower bed,
+- the same lamppost position,
+- the same waterfront promenade composition.
+
+Each city must have a different scene structure, chosen from its real atmosphere:
+harbour lookout, laneway street, riverside park, beach walk, hilltop viewpoint, market corner, tram street, ferry quay, botanical garden, old town street, coastal boardwalk, cultural square, or skyline overlook.
+
+Typography:
+Place “[CITY_NAME]” in the upper-left with generous typography-safe negative space.
+Add one short refined English caption that matches the city mood.
+Keep the typography elegant, minimal, and premium.
+
+Scene adaptation:
+Automatically adapt the scene to [CITY_NAME].
+Use one iconic primary landmark as the main visual anchor.
+Add only 2–4 supporting local details that truly belong to the city.
+Do not create a landmark collage.
+Do not overfill the background.
+
+People:
+Use only 3–6 small figures.
+Each person should perform a city-specific everyday action:
+walking, sketching, cycling, waiting for a tram, boarding a ferry, carrying a surfboard, taking a quiet photo, reading in a park, jogging by the water, browsing a small market.
+Avoid crowd scenes.
+Avoid one dominant hero character.
+People should feel naturally placed within the city, not copied from previous posters.
+
+Local details:
+Use local transport, signage, street furniture, plants, food, architecture, and leisure details only when they fit the city.
+Transport signs must not always appear as a large vertical signboard.
+They may appear subtly as a tram stop marker, ferry route board, station clock, bike lane symbol, beach patrol flag, small metro icon, or painted pavement mark.
+
+Style:
+Japanese stationery aesthetic,
+luxury sticker illustration,
+premium commercial flat-vector travel poster,
+clean thin outlines,
+consistent line weight,
+flat colors only,
+soft minimal shapes,
+calm editorial composition.
+
+Palette:
+Use pale powder blue, soft sky blue, and mist blue as the atmospheric base.
+Use warm cream, soft beige, sage green, and muted gray-green for architecture and nature.
+Use dusty rose or blush pink only as tiny accents on flowers, signs, awnings, clothing, or small decorative details.
+Keep the palette refined, toned-down, and high-end.
+
+Mood:
+fresh, minimal, elegant, calm, refined,
+high-end travel postcard,
+quiet lifestyle branding,
+open space, breathing room, relaxed local rhythm.
+
+Negative prompt:
+No realism.
+No watercolor.
+No painterly effects.
+No photorealism.
+No heavy shading.
+No gradients.
+No paper texture.
+No dense background.
+No repeated café-on-right layout.
+No repeated signboard-on-left layout.
+No generic tourist poster collage.
+No crowded street.
+No oversized people.
+No dramatic lighting.</code></pre>
+
+</details>
+
+## Premium vertical travel artwork of \[COUNTRY\] inside a glowing candle flame
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090833870224843053)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`, `travel`
+- **ImgLume record:** [3497](https://imglume.com/prompt/3497)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3d068298-f458-415c-9bb1-e68cd7bc93e0/6e68a4f5-76bc-4a03-b594-e5b6adb684c8-1787373045196 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3d068298-f458-415c-9bb1-e68cd7bc93e0/d6f2b30b-2179-4f36-8fa1-29ef68bf6704-1787373045196 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking premium vertical 4:5 travel artwork featuring [COUNTRY] inside a glowing candle flame.
+
+A luxurious handcrafted candle stands in the center against a soft, elegant dark background. Instead of an ordinary flame, the flame transforms into a tiny magical 3D world representing [COUNTRY].
+
+Inside the translucent golden-orange flame, reveal the country’s most iconic landmark [LANDMARK] as the dominant centerpiece, surrounded by miniature landscapes, mountains, rivers, traditional architecture, cultural details, tiny people, local elements, and subtle atmospheric details.
+
+The flame should feel physically real, with delicate translucent layers of fire, glowing embers, soft smoke, warm reflections, and realistic light scattering. The miniature country appears to be alive inside the flame, as though the fire itself is protecting an entire world.
+
+Elegant cinematic composition, luxury travel campaign aesthetic, ultra-detailed miniature world, magical realism, sophisticated color palette, realistic materials, soft depth of field, volumetric lighting, subtle shadows, premium editorial photography, atmospheric glow, highly polished, visually mesmerizing.
+
+Add the country name ”[COUNTRY]” elegantly beneath the candle in refined minimalist typography.
+
+Aspect ratio: 4:5 vertical
+Style: cinematic magical realism + luxury travel poster + miniature world photography
+Quality: ultra-detailed, photorealistic, premium, sophisticated, Instagram/Pinterest-worthy.</code></pre>
+
+</details>
+
+## Sophisticated 3:4 Vertical Travel Art Poster Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2090781168597717168)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3473](https://imglume.com/prompt/3473)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/35c37c25-85dd-45ca-9a25-cc999f869ad3/ad0d0c8c-649f-4cd3-9754-d62e9666d243-1787333427750 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/35c37c25-85dd-45ca-9a25-cc999f869ad3/d477b1db-3e53-44d8-8bb0-ca70badd272d-1787333427750 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/35c37c25-85dd-45ca-9a25-cc999f869ad3/4bcbb322-4916-41c3-a209-21f2cbedfb11-1787333427750 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/35c37c25-85dd-45ca-9a25-cc999f869ad3/5658a5dc-b0cd-4bfc-930d-fe5945df8e3b-1787333427750 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated 3:4 vertical travel art poster of [DESTINATION].
+
+Make the destination immediately recognizable through 3–5 authentic iconic landmarks, with the 1–2 most recognizable landmarks as the dominant focal points. Preserve their real silhouettes, proportions, and defining architectural features.
+
+Core balance: 70% recognizable landmark/cityscape + 30% geometric abstraction. Use restrained circles, arches, rectangles, triangles, stepped forms, and color blocks only to simplify surrounding buildings, roads, rivers, hills, trees, and negative space. Never let abstraction overpower or obscure the landmarks.
+
+Keep the upper 40–50% spacious with clean sky/negative space. Place only [DESTINATION] at the upper center in small, elegant uppercase thin sans-serif typography with wide letter spacing. No other text.
+
+Use a sophisticated 6–10 color palette inspired by the destination, with muted contemporary tones rather than neon or overly saturated colors. Add subtle gouache, colored-pencil, paper-fiber, and silkscreen texture for a handmade fine-art feel.
+
+Style: contemporary travel poster + Scandinavian editorial illustration + mid-century geometric art + modern architectural fine-art print.
+
+Avoid photorealism, excessive abstraction, giant geometric shapes, generic cityscapes, cartoon/3D styling, neon colors, heavy gradients, vintage/sepia effects, yellowed paper, and excessive detail.
+
+Final goal: instantly recognizable as [DESTINATION], yet sophisticated enough to feel like a collectible contemporary museum-shop artwork.
+
+DESTINATION: [DESTINATION]</code></pre>
+
+</details>
+
+## Vintage Mid-Century Travel Poster Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2090728263752835145)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3470](https://imglume.com/prompt/3470)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9cb62ca8-3e76-40eb-8a32-d4bf98b917b1/52b91c5e-c756-4bd5-8793-e52a84790ce2-1787333386116 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9cb62ca8-3e76-40eb-8a32-d4bf98b917b1/16f926c0-c378-45d8-9581-0b70a9aa57ad-1787333386116 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9cb62ca8-3e76-40eb-8a32-d4bf98b917b1/f00e40ff-3c9f-43eb-9d2e-9d4e3c04fc33-1787333386116 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/9cb62ca8-3e76-40eb-8a32-d4bf98b917b1/0592990c-f3c1-4193-b20b-6c93a676d820-1787333386116 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a refined vintage mid-century travel poster of [CITY, COUNTRY], featuring a [MAIN SUBJECT/CHARACTER] in [OUTFIT/STYLE], positioned in [FOREGROUND ACTION/SETTING] and surrounded by [PEDESTRIANS, VEHICLES, OR STREET DETAILS]. Place [ICONIC LANDMARK] prominently in the distance, with authentic architecture, signage, streets, and environmental details adding depth and a strong sense of place. Use a bold 1960s–70s screen-printed travel-poster aesthetic, textured paper, subtle halftone grain, limited vintage color palette, and slightly weathered print character. Add bold textured black lettering reading “[CITY NAME]”, with a smaller “[COUNTRY NAME]” beneath it. Vertical 3:4 aspect ratio, full-bleed composition, sophisticated retro tourism-poster design, highly detailed and visually striking.</code></pre>
+
+</details>
 
 ## Premium vertical travel poster of \[CITY\], \[COUNTRY\] in handcrafted layered 3D paper-cut style
 

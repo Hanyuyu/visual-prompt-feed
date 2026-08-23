@@ -1,9 +1,127 @@
 # Product Ads video prompts
 
-76 source-linked prompts, newest ImgLume records first.
+78 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Crispy Potato Wedges Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091043191755878628)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3527](https://imglume.com/prompt/3527)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0ebda07b-9301-4602-ac13-64f2da34c91c/964357d6-3123-436e-a788-1c6b3d8fdc7c-1787394263506 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0ebda07b-9301-4602-ac13-64f2da34c91c/66ab429b-b8f5-42f6-afc5-73c5a9437876-1787394263506 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Crispy Potato Wedges Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet food product campaign
+• 8 cinematic storyboard scenes
+• Product remains the main visual hero
+• Premium advertising agency presentation
+
+HEADER:
+• Bold luxury typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Cinematic Food Commercial
+ - Product: Crispy Potato Wedges
+ - Audio: Frying + Crispy ASMR
+• Why This Style Works section
+• Warm cream, golden yellow and dark brown aesthetic
+• Minimal food-themed decorative elements
+
+STORYBOARD:
+1. Premium frozen potato wedges package standing on a clean dark surface
+2. Package opening with golden potato wedges visible
+3. Potato wedges dropping into hot oil in slow motion
+4. Extreme macro shot of bubbling crispy coating
+5. Golden wedges emerging from the fryer with steam
+6. One wedge breaking open to reveal a soft fluffy center
+7. Crispy wedges arranged beside the original product package
+8. Final hero packshot with dramatic golden food splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, high-speed food photography, slow-motion frying, controlled push-in, overhead composition, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food commercial, crispy golden texture, realistic oil bubbles, steam particles, detailed potato surface, dramatic studio lighting, premium packaging, 8K.</code></pre>
+
+</details>
+
+## Premium Artisan Cheese Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090738907378004072)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [3468](https://imglume.com/prompt/3468)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f14431dc-b312-4784-a3ad-de030344bdab/417e9789-e857-40e0-870a-598cf001ba50-1787333146862 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f14431dc-b312-4784-a3ad-de030344bdab/c03c145e-3017-42af-86ec-20ccccc6fdf5-1787333146862 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Artisan Cheese Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet food product campaign
+• 8 cinematic storyboard scenes
+• Luxury editorial presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Gourmet Artisan Food Commercial
+ - Product: Premium Cheese
+ - Audio: Soft Food ASMR
+• Why This Style Works section
+• Cream, golden yellow and dark brown aesthetic
+
+STORYBOARD:
+1. Premium cheese package displayed on dark stone
+2. Package opening to reveal artisan cheese
+3. Knife slicing through the cheese
+4. Extreme macro showing creamy texture
+5. Cheese stretching as a slice is lifted
+6. Cheese placed onto a warm toasted surface
+7. Crumbs, herbs and cheese arranged around the product
+8. Final hero product shot with elegant cheese presentation
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion slicing, texture close-ups, overhead food composition, shallow depth of field, cinematic product push-in.
+
+STYLE:
+Ultra-realistic artisan food photography, creamy cheese texture, realistic melting, detailed crumbs, warm studio lighting, premium gourmet branding, luxury commercial quality, 8K.</code></pre>
+
+</details>
 
 ## 30-second cinematic commercial for artisan bakery MAISON ROSE
 

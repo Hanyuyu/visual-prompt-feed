@@ -1,9 +1,170 @@
 # Camera Moves video prompts
 
-127 source-linked prompts, newest ImgLume records first.
+132 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Two Droid Jedi Face Off
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2091143578869195022)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3552](https://imglume.com/prompt/3552)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/ba17b4a9-d28e-4e9a-bb5a-95525079ec66-1787412995942 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/75554d48-ab95-431b-90e3-1177157922bf-1787412995942 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/3c1f32b5-ed5b-4b14-91ca-ea3b12c43701-1787412995942 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5 Prompt:
+A cinematic live-action science-fantasy duel erupts when a lone Jedi senses an ambush while walking through a dense ancient forest.
+@[char1] defines Scout's complete referenced appearance; ignore the studio background, red swatches, seals, and text.
+@[char2] defines Sentinel's complete referenced appearance; ignore the studio background, seals, and text.
+Keep exactly two characters: Scout owns one blue lightsaber, Sentinel one amber lightsaber. Preserve identity, clothing, headgear, weapon ownership, misty daylight, forest geography, and the left-to-right action axis. The camera travels relentlessly with the strongest impulse: weaving chases, lead-and-overtake moves, ground-skimming tracks, fast arcs, plunges, rises, foreground parallax, and whip-pans. Never settle into a locked composition. Remain beneath the canopy at ground, waist, chest, or eye height, never overhead, aerial, bird's-eye, or top-down. Use 18-35 mm depth and strong near-far scale changes. Hard-cut on gaze, landing, contact, reversal, near miss, or recoil, matching motion vectors across cuts. Choreography uses compressed anticipation, explosive travel, readable contact, selective micro hit-stops, elastic recoil, and immediate re-entry.
+Shot 1, 0-3s: A rear 3/4 chase camera weaves around wet trunks behind Scout walking alone, closing in as a faint disturbance makes her slow.
+
+Shot 2, 3-4s: The camera overtakes her shoulder into a moving ECU as her eyes and gaze snap toward screen right.
+
+Shot 3, 4-6s: The camera drops from her eyes to the hilt, arcs around her hip as the blue blade ignites, then rises as she pivots toward that direction.
+
+Shot 4, 6-7s: From low angle, the camera whips up to catch Sentinel falling from the canopy, dives beside the descent, and brakes at waist height as the landing blasts leaves toward lens.
+
+Shot 5, 7-9s: A reverse-dolly lead races backward before Sentinel rising, igniting the amber blade, and lunging first; Scout intercepts before lens.
+
+Shot 6, 9-10s: A snap push follows both blades into their first collision, slides through the sparks, and exits on their violent recoil.
+
+Shot 7, 10-12s: A lateral chase threads between foreground trunks as both trade flowing artistic cuts and parries, driving each other across the clearing.
+
+Shot 8, 12-13s: The camera skims along Sentinel's blade past Scout's shoulder; the near miss fills frame, then focus lands on the scorched trunk behind her.
+
+Shot 9, 13-15s: Retreating inches above the forest floor, the camera leads Sentinel's pressure as Scout performs a deep bridge dodge beneath a horizontal cut and recovers.
+
+Shot 10, 15-16s: The camera rises in a rapid half-arc with Scout's kip-up and rising countercut, then snaps sideways as Sentinel blocks and redirects her.
+
+Shot 11, 16-18s: A same-side parallel track accelerates beside them; Sentinel feints high and attacks low, Scout redirects, and the camera overtakes their spin into the new direction.
+
+Shot 12, 18-19s: A ground-skimming macro chase races between boots carving through wet leaves, then whip-pans with their simultaneous reversal.
+
+Shot 13, 19-21s: The camera sprints beside Scout along an angled trunk, rises with her flip over Sentinel's sweep, and drops with her landing behind Sentinel without crossing the axis.
+
+Shot 14, 21-22s: A low arc races around Sentinel's pivot and upward cut, passing inches behind Scout as the blade narrowly slices trailing cloth without touching her body.
+
+Shot 15, 22-24s: A profile pursuit accelerates with Scout's one-handed moulinet, passes through its light wake, and sinks with Sentinel's backbend before rising into the counter.
+
+Shot 16, 24-25s: The camera pushes between their arms into an ECU of grinding blades and focused eyes, then jolts backward when the bind explodes apart.
+
+Shot 17, 25-27s: At waist height, the camera races around one massive trunk opposite the fighters; trunk occlusion reveals both striking through the same opening and narrowly missing.
+
+Shot 18, 27-28s: The camera dives to Sentinel's hilt trap, circles Scout's rolling wrist, then streaks down the amber blade as Scout redirects it into the ground.
+
+Shot 19, 28-29s: A low lateral track surges under Scout's vault, swings into profile as Sentinel recovers, and meets their simultaneous turning cuts at edge-to-edge contact.
+
+Shot 20, 29-30s: The camera recoils with their separation, pulls low through flying leaves, then slingshots forward with their renewed charge into a blazing blade lock and unresolved pressure.
+
+No dialogue and no BGM. Use damp forest ambience, breath, cloth snaps, rapid saber hum and Doppler swishes, ignition bursts, short energy impacts, bark sizzle, leaf scatter, and brief silence before the first clash.</code></pre>
+
+</details>
+
+## Photorealistic Korean city bus chase video
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2091103923440328783)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3542](https://imglume.com/prompt/3542)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d5bc682f-1917-4bfe-8eeb-d00589440481/67fed14d-dd72-4bd2-886f-ca83da4bc6ae-1787402575802 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic live-action Korean city scene at dusk, with exactly two adult Korean characters. Preserve Seolran and Mujin’s exact faces, hairstyles and natural body proportions from the provided character references, but dress them in realistic casual everyday clothes: Seolran in a light beige cardigan, simple white top, relaxed blue jeans and sneakers; Mujin in a dark casual jacket, plain grey T-shirt, black pants and sneakers.
+
+Mujin is already waiting alone at a quiet city bus stop with a backpack, checking the road. A realistic city bus arrives and stops. He boards normally, finds a seat near the window, and the bus begins moving away. A few seconds later, Seolran appears in the distance running toward the bus, clearly late and trying to catch it. The bus has already started moving slowly, so she runs after it while waving toward Mujin. Mujin notices her through the window, immediately gets up, moves toward the front door and signals the driver to stop. The bus slows and the door opens again. Mujin steps down slightly, reaches his hand toward Seolran, and she grabs his hand while still catching her breath. He firmly but naturally pulls her onto the bus, without aggression or exaggerated movement. She quickly steps inside, breathless and relieved, while he gives her a small amused smile. The doors close and the bus drives away.
+
+Use exactly 7 distinct realistic shots: 1) wide shot of Mujin waiting at the bus stop, 2) medium shot as the bus arrives and he boards, 3) interior window shot showing the bus beginning to leave, 4) long street shot revealing Seolran running after the departing bus, 5) handheld interior shot of Mujin noticing her through the window, 6) close exterior shot of Seolran reaching his hand and Mujin pulling her aboard, 7) final interior shot of both standing near the door as the bus drives through the evening city.
+
+Make it look like genuine real-world smartphone footage: natural dusk lighting, realistic bus movement and braking, authentic street ambience, engine noise, footsteps, running sounds, breathing, fabric movement, imperfect handheld camera shake, subtle autofocus shifts, realistic motion blur, natural facial expressions and believable physical interaction. The bus must move at realistic speed and stop naturally. The hand-holding and pulling motion must have correct anatomy, realistic weight and balance. No school elements, no uniforms, no dramatic stunt movement, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no exaggerated acting, no extra limbs, no distorted hands, no impossible physics. The entire scene should feel like an ordinary spontaneous moment captured in real life.</code></pre>
+
+</details>
+
+## Cinematic fantasy dragon reveal over river valley
+
+- **Original source:** [@AIwithZahra on X](https://x.com/AIwithZahra/status/2091100358693278187)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3539](https://imglume.com/prompt/3539)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c6a7271-0e89-4cce-bb59-d04e5aac0388/b684633c-5cbe-4532-934d-7544dca5ecef-1787402475183 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic fantasy creature reveal, 15 seconds, continuous dynamic camera move.
+
+Shot 1 (0-2s): Extreme low angle at water level, camera nearly touching a shallow forest river at golden hour. Wet mossy rocks glisten in soft backlight, ripples on the water surface, a figure's legs walking past in the blurred foreground. Warm dawn sunlight, soft mist rising off the water, shallow depth of field, telephoto compression.
+
+Shot 2 (2-5s): Sudden violent eruption — a massive dragon bursts up out of the river in an explosive white-water splash, spray flying in all directions. Camera whip-tilts upward following the motion. Iridescent teal-purple wing membranes and dark armored scales catch the light, water sheeting off its body, dramatic backlighting silhouettes the creature against the tree line.
+
+Shot 3 (5-8s): Extreme close-up tracking up the dragon's long serpentine neck, wet scales rippling with teal-to-purple iridescence, water droplets flying off in slow motion, motion-blurred coils twisting through frame, forest bokeh in the background, sunlight rim-lighting the edges.
+
+Shot 4 (8-10s): Tight close-up on the dragon's open roaring mouth, rows of sharp teeth, throat glowing intense orange-white like fire or bioluminescent light, lens flare, heavy atmospheric haze, warm volumetric light pouring through the open jaw.
+
+Shot 5 (10-15s): Camera pulls back rapidly into a wide aerial shot — the full dragon now airborne, wings fully spread in flight, tail curled beneath it, silhouetted against a bright golden sun low over a misty pine forest river valley. Wings a deep rust-orange with dark vein patterning, mist rolling off the water below, epic scale, anamorphic widescreen framing, cinematic Hollywood color grade (teal shadows, orange highlights), atmospheric haze, volumetric god rays.
+
+Style: photorealistic VFX creature, hyper-detailed scales and wing membrane, natural motion physics on water and spray, dramatic golden-hour lighting throughout, seamless continuous camera motion, no cuts, 24fps film look.</code></pre>
+
+</details>
+
+## Korean high-school rooftop sunset chase
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2091001743035564070)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3529](https://imglume.com/prompt/3529)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/914dba7f-e2ac-4651-9b05-c2f4c00e5e26/2f31902a-abfd-48d2-a9c9-a8e1f7985a43-1787394311250 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>photorealistic live-action Korean high-school rooftop scene at sunset. Use the provided references to preserve Seolran and Mujin’s exact faces, hairstyles, body proportions, school uniforms, and the real rooftop environment. Exactly two students are present. A strong sudden gust of wind hits the rooftop and scatters their loose homework papers across the concrete. Seolran and Mujin react naturally and immediately run in different directions trying to catch the flying pages. Papers blow realistically around their legs and across the rooftop, some sliding along the ground while others briefly lift into the air. They chase the pages with natural hurried movements, occasionally almost catching one before the wind pulls it away. Mujin manages to grab several pages and tries to hand them back to Seolran, but another gust sends one page directly toward her face. The paper gently lands against her face for a moment. She freezes in surprise, pulls it away, looks at Mujin, and they both burst into natural laughter. End with them standing together collecting the remaining papers while the warm sunset and distant mountains remain in the background. Use 7 distinct handheld camera shots: wide rooftop establishing shot, low angle following the papers, side tracking shot while they run, close-up of their hands grabbing papers, medium shot of them chasing in opposite directions, close-up when the paper hits Seolran’s face, and a final wide sunset shot of both laughing and gathering the homework. Make it feel like authentic Korean school-life footage rather than a commercial: realistic smartphone/cinema-camera texture, natural sunset lighting, believable wind physics, realistic paper movement, natural hair and uniform movement, subtle handheld camera shake, imperfect autofocus, natural facial expressions, realistic skin texture and breathing, spontaneous body movement and genuine laughter. No exaggerated comedy, no slow motion, no music, no subtitles, no logos, no watermarks, no CGI, no fantasy, no extra people, no distorted hands or anatomy.</code></pre>
+
+</details>
+
+## 30-sec realistic phone vlog across London, Paris, and Moscow
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2091016705594274087)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `travel`
+- **ImgLume record:** [3510](https://imglume.com/prompt/3510)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7cd6b9d1-3cce-4b00-942e-78f52bde26f4/82d2dc58-c981-4db3-9737-c415ce564cd0-1787381564080 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-sec realistic phone vlog of the same Korean woman, same face/identity, natural skin, same gold hoops. Hair/outfit change only by city: London low side ponytail + olive trench; Paris high bun + beige trench; Moscow loose waves + cream faux-fur coat.
+
+0:00–0:07 LONDON: Rainy Soho selfie, clear umbrella, fish &amp; chips, hot-chip reaction, Tower Bridge behind. Dialogue: “The rain really won't stop.”
+0:07–0:10 BIG BEN: Tilt up, landmark only, 70% slow motion. “Wow, that's Big Ben.” Blue-grey torn-paper transition.
+
+0:10–0:17 PARIS: Montmartre night, crêpe, reaction, Arc de Triomphe. “So this is what Paris feels like at night.”
+0:17–0:20 EIFFEL TOWER: Lights turn gold, 70% slow motion. “Wow, the lights just came on.” Navy torn-paper transition.
+
+0:20–0:27 MOSCOW: Snowy Arbat, blini, removes right glove, bite, Bolshoi Theatre. “It's snowing so much.”
+0:27–0:30 SAINT BASIL'S: Colorful domes through snow, 70% slow motion. “Well, bye everyone!” Left gloved hand covers lens → white.
+
+STYLE: Authentic handheld 16:9 phone footage, 26mm, natural movement, realistic skin/hands, no cinematic look.
+
+STRICT: English only. No logos, text, subtitles, captions, watermarks, brands, signs, UI, maps or equipment. Same face throughout; no AI-looking features.</code></pre>
+
+</details>
 
 ## Hollywood action scene with Seedance 2.5
 

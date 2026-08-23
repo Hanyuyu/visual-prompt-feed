@@ -1,9 +1,169 @@
 # Character image prompts
 
-102 source-linked prompts, newest ImgLume records first.
+109 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Japanese Samurai in Crimson Landscape
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2091124018904809793)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3549](https://imglume.com/prompt/3549)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f11bf2e8-3b03-4752-8c5c-f38bf3c2d715/23d81210-66af-4e2a-a954-863a3fdaae12-1787406679710 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f11bf2e8-3b03-4752-8c5c-f38bf3c2d715/b2b4bd7d-b48e-4468-9494-29f56d03daf7-1787406679710 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly detailed graphic illustration of a Japanese samurai sitting in quiet contemplation on a grassy hill. The samurai wears traditional dark blue and black armor with distinct white horns on his Kabuto helmet, holding a katana resting across his lap. The entire background sky and rolling grass field are a monochromatic, vivid crimson red. A stark black silhouette of a tree branches out from the top corner, casting minimal shadows. Minimalist design, clean outlines, high-contrast flat colors, anime aesthetic.</code></pre>
+
+</details>
+
+## Cute hand-drawn doodle based on reference photo
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2091061728117428531)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3543](https://imglume.com/prompt/3543)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/683fdf8d-fb8c-462e-b927-d6f245ee3617/4ad24a74-6bf1-4ac6-bbd4-acb5b5479acf-1787402582539 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Using the attached photo as reference, preserve the recognizable identity, hairstyle, expression, pose, clothing, baby animal, and original colors.
+Redraw it as a cute, clumsy hand-drawn doodle with an oversized crooked head, tiny awkward body, dot eyes, and simple facial features. Use thin, slightly shaky black ballpoint-pen lines and loosely scribbled colored-pencil strokes.
+
+Keep it intentionally amateur and adorably awkward, but clean and uncluttered, with a simplified background and plenty of white paper.</code></pre>
+
+</details>
+
+## Hand-drawn black-and-white anime girl integrated into real photograph
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2091031110688137680)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [3533](https://imglume.com/prompt/3533)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab6bd979-c40c-42cc-8c0d-cbd07e3244e6/4c614af5-8380-4f5d-bce3-73a16663523d-1787396156389 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ab6bd979-c40c-42cc-8c0d-cbd07e3244e6/03b153bf-4443-4840-acb7-09f31393b21a-1787396156389 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded photo as the exact background reference. Preserve the original real-life environment, architecture, perspective, lighting, colors, shadows, and camera composition.
+
+Add a cute, stylish black-and-white hand-drawn anime doodle girl naturally into the real photograph. The character should look like a 2D ink illustration placed physically inside the real-world scene, creating a realistic live-action photo + hand-drawn illustration fusion.
+
+Character style:
+- Clean black ink line art
+- White/very light interior with minimal shading
+- Cute Korean/Japanese manga-inspired aesthetic
+- Natural, elegant proportions
+- Long flowing dark hair
+- Simple facial features with expressive eyes
+- Clearly visible black outline around the entire character, like a hand-cut sticker
+- Slightly imperfect hand-drawn lines for an authentic sketchbook feel
+- No colors on the character except black and white
+
+Character integration:
+- Match the character's scale, perspective, and position to the photograph
+- Make her feet properly contact the ground/stairs
+- Add realistic interaction with the environment through natural shadows and overlapping perspective
+- Keep the background completely photographic and detailed
+- Do not turn the background into anime or illustration
+- The character should appear as if a hand-drawn person has stepped into the real photograph
+
+For the outfit, use casual modern streetwear appropriate for the location. Preserve recognizable clothing details such as oversized T-shirts, jeans, sneakers, shoulder bag, jersey numbers, or accessories when specified in the reference image.
+
+Composition:
+- Full-body character when possible
+- Character positioned naturally in the foreground or middle ground
+- Keep the original landmark, stadium, buildings, stairs, trees, sky, advertisements, and surroundings clearly visible
+- Maintain the original photograph's wide-angle composition
+- Bright natural daylight
+- Crisp details
+- Realistic photographic background
+- Strong contrast between the monochrome illustrated character and colorful real environment
+
+Overall aesthetic: cinematic travel photography + Korean street photography + monochrome manga line art + scrapbook/sticker illustration, with seamless perspective and lighting integration.
+
+Do not make the entire image cartoon-like. Only the character should be illustrated; everything else must remain photorealistic.</code></pre>
+
+</details>
+
+## Minimalist Black-and-White Sticker Characters in Photorealistic Background
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2091037001705234458)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3523](https://imglume.com/prompt/3523)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/616a2add-7668-47fc-a758-471d9cf2959f/6d4afa66-fa36-41bd-9289-f469826441cf-1787389833181 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/616a2add-7668-47fc-a758-471d9cf2959f/97bb1858-7049-4cdf-840b-961fb1fdd580-1787389833181 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the original scene, composition, perspective, buildings, streets, objects, lighting, shadows, materials, and photographic textures exactly. Change only the characters into minimalist black-and-white hand-drawn stickers,
+keeping their poses, actions, proportions, clothing outlines, number, and positions unchanged. Use rough single-line illustrations with only pure black and white no gray,color, or gradients with clean white sticker borders. Create a realistic high-resolution photo background contrasted with flat 2D sketch characters, in a minimalist graffiti/INS editorial collage style. Sharp, detailed, photorealistic background, 8K look. Aspect ratio: 3:4 / 9:16.</code></pre>
+
+</details>
+
+## Sleek editorial comic illustration of Black Panther prowling low across a moonlit rooftop
+
+- **Original source:** [@ibexdream on X](https://x.com/ibexdream/status/2090847884979679637)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3490](https://imglume.com/prompt/3490)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b28dddcf-060c-4c4a-ac1c-3055f134767c/1f05f141-99e4-4538-8d50-845651da4be7-1787360459672 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b28dddcf-060c-4c4a-ac1c-3055f134767c/4311e19e-1973-4736-8ab3-b98c65c98b8f-1787360459672 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b28dddcf-060c-4c4a-ac1c-3055f134767c/881ac202-606e-4406-8dfe-0b092a7d9c2a-1787360459672 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b28dddcf-060c-4c4a-ac1c-3055f134767c/e5be2514-5cb8-4101-aa9b-0623af28a437-1787360459672 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/b28dddcf-060c-4c4a-ac1c-3055f134767c/990dc1b2-92c9-42e6-a8fd-1397f966bc0f-1787360459672 "Image prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/b28dddcf-060c-4c4a-ac1c-3055f134767c/40084219-8c6d-4f4d-991f-efcdfc7bd2c1-1787360459672 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Sleek editorial comic illustration of Black Panther prowling low across a moonlit rooftop, body stretched in an exaggerated feline crawl, vibranium suit traced with glowing neon pink energy lines, city antennas and water towers in flat violet silhouette behind him, a huge pale orange moon filling half the frame, his claw marks glowing on the metal roof, grainy texture, thick black outlines, limited palette of purple, blue and hot orange, predatory horizontal composition, retro superhero print aesthetic</code></pre>
+
+</details>
+
+## Moody editorial comic illustration of Batman crouched on a gothic gargoyle
+
+- **Original source:** [@ibexdream on X](https://x.com/ibexdream/status/2090847884979679637)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3489](https://imglume.com/prompt/3489)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9dabc2a1-204d-4c5c-9b33-7f71a7c8ef8c/6ce9d491-c167-4bec-bca8-4a7e06e65dbd-1787360459672 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9dabc2a1-204d-4c5c-9b33-7f71a7c8ef8c/7e1eb8be-09d9-42fb-b2c4-7f9603c311f4-1787360459672 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9dabc2a1-204d-4c5c-9b33-7f71a7c8ef8c/796cc653-e364-4133-ad32-fa3d72c21513-1787360459672 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/9dabc2a1-204d-4c5c-9b33-7f71a7c8ef8c/cb0a4667-8e0e-4d1c-b2d7-72ffbbbe072e-1787360459672 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/9dabc2a1-204d-4c5c-9b33-7f71a7c8ef8c/e623a268-f444-4032-a477-0082e5460824-1787360459672 "Image prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/9dabc2a1-204d-4c5c-9b33-7f71a7c8ef8c/73d4b652-e6ec-442e-9480-a55f57496085-1787360459672 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Moody editorial comic illustration of Batman crouched on a gothic gargoyle high above a rain-soaked city, his cape spilling over the stone like liquid shadow, the city below rendered as flat geometric blocks of deep violet with tiny glowing orange windows, bat-signal cutting the sky as a huge neon pink beam, rain drawn as thin diagonal lines, flat bold shapes, thick outlines, grainy texture, black-to-green gradient sky, dramatic top-down vertigo composition, vintage superhero print style</code></pre>
+
+</details>
+
+## Chaotic editorial comic illustration of the Joker walking calmly out of a burning bank
+
+- **Original source:** [@ibexdream on X](https://x.com/ibexdream/status/2090847884979679637)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3488](https://imglume.com/prompt/3488)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/435a064e-5852-4590-8083-f19072bbcc78/54299e07-674e-4065-b478-d041b2925c46-1787360459672 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/435a064e-5852-4590-8083-f19072bbcc78/f89748d0-5c11-4395-928b-249536a0db61-1787360459672 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/435a064e-5852-4590-8083-f19072bbcc78/fe4b73c1-a9f8-4404-a43c-f1d7214176a8-1787360459672 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/435a064e-5852-4590-8083-f19072bbcc78/fb1574f7-e267-43a6-92f0-f456ec6334e0-1787360459672 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/435a064e-5852-4590-8083-f19072bbcc78/fb326ba2-6fd7-45e6-bb09-3bd813adfae1-1787360459672 "Image prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/435a064e-5852-4590-8083-f19072bbcc78/ae5238fb-0541-4cc8-b5bf-a3ff2a2c96b3-1787360459672 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Chaotic editorial comic illustration of the Joker walking calmly out of a burning bank, hands in pockets, thousands of playing cards swirling around him in a tornado of flat white and neon pink shapes, flames rendered as jagged flat orange tongues behind him, money bills drifting in blue silhouette, his grin glowing acid green in the shadow of his face, smoke curling in stylized violet swirls, grainy texture, thick black outlines, slow-motion strut composition, retro pulp comic cover energy</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic fantasy portrait of a young woman with dynamic hand and colorful fluid splashes
 

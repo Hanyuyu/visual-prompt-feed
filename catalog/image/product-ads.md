@@ -1,9 +1,67 @@
 # Product Ads image prompts
 
-18 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Cold-Pressed Fruit Juice Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090774232213131401)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3480](https://imglume.com/prompt/3480)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bce91603-a5eb-4054-9bbe-dd185de0ea98/7415183f-991e-46e9-a1d1-86a266629abd-1787343640148 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bce91603-a5eb-4054-9bbe-dd185de0ea98/227e32f8-755e-4885-af4f-3e81702a91ac-1787343640148 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Cold-Pressed Fruit Juice Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Fresh beverage product campaign
+• 8 cinematic storyboard scenes
+• Product remains the main hero
+
+HEADER:
+• Modern premium typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Fresh Beverage Commercial
+ - Product: Cold-Pressed Fruit Juice
+ - Audio: Refreshing Liquid ASMR
+• Why This Style Works section
+• Orange, green and cream aesthetic
+
+STORYBOARD:
+1. Juice bottle covered with condensation
+2. Bottle cap opening in macro close-up
+3. Fresh orange juice pouring from the bottle
+4. Juice splash frozen in mid-air
+5. Fresh fruit pieces falling around the bottle
+6. Extreme macro showing natural juice texture
+7. Ice cubes dropping into a glass of juice
+8. Final hero bottle with refreshing splash and fruit
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+High-speed liquid photography, macro close-ups, slow-motion splash, condensation detail, dramatic backlight, cinematic hero shot.
+
+STYLE:
+Ultra-realistic beverage commercial, realistic liquid physics, condensation droplets, fresh fruit textures, vibrant natural lighting, premium packaging, 8K.</code></pre>
+
+</details>
 
 ## Square-format campaign image reimagining a Rolex-inspired product with bold substitution
 

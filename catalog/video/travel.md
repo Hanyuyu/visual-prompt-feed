@@ -1,9 +1,39 @@
 # Travel video prompts
 
-54 source-linked prompts, newest ImgLume records first.
+55 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-sec realistic phone vlog across London, Paris, and Moscow
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2091016705594274087)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `travel`
+- **ImgLume record:** [3510](https://imglume.com/prompt/3510)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7cd6b9d1-3cce-4b00-942e-78f52bde26f4/82d2dc58-c981-4db3-9737-c415ce564cd0-1787381564080 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-sec realistic phone vlog of the same Korean woman, same face/identity, natural skin, same gold hoops. Hair/outfit change only by city: London low side ponytail + olive trench; Paris high bun + beige trench; Moscow loose waves + cream faux-fur coat.
+
+0:00–0:07 LONDON: Rainy Soho selfie, clear umbrella, fish &amp; chips, hot-chip reaction, Tower Bridge behind. Dialogue: “The rain really won't stop.”
+0:07–0:10 BIG BEN: Tilt up, landmark only, 70% slow motion. “Wow, that's Big Ben.” Blue-grey torn-paper transition.
+
+0:10–0:17 PARIS: Montmartre night, crêpe, reaction, Arc de Triomphe. “So this is what Paris feels like at night.”
+0:17–0:20 EIFFEL TOWER: Lights turn gold, 70% slow motion. “Wow, the lights just came on.” Navy torn-paper transition.
+
+0:20–0:27 MOSCOW: Snowy Arbat, blini, removes right glove, bite, Bolshoi Theatre. “It's snowing so much.”
+0:27–0:30 SAINT BASIL'S: Colorful domes through snow, 70% slow motion. “Well, bye everyone!” Left gloved hand covers lens → white.
+
+STYLE: Authentic handheld 16:9 phone footage, 26mm, natural movement, realistic skin/hands, no cinematic look.
+
+STRICT: English only. No logos, text, subtitles, captions, watermarks, brands, signs, UI, maps or equipment. Same face throughout; no AI-looking features.</code></pre>
+
+</details>
 
 ## Late-2000s Indonesian market vlog with raw handheld footage
 

@@ -1,9 +1,64 @@
 # Character video prompts
 
-104 source-linked prompts, newest ImgLume records first.
+106 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second action clip of Nova on a coastal bridge
+
+- **Original source:** [@itsshara_ai on X](https://x.com/itsshara_ai/status/2091050284063854854)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3530](https://imglume.com/prompt/3530)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/241f2c12-fb8f-4bdc-8461-5b191c3e5070/0d4d5f77-99bb-4030-a69c-1dc2f88a15cf-1787394355200 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[0:00–0:03] VISUAL: NOVA (30s, tactical jacket, calm eyes) crouches on a cliffside ledge above the coastal highway, rain falling, ocean crashing below. A convoy of black SUVs crosses the suspension bridge toward the fortified compound ahead. NOVA (into earpiece, low): "Package is in the third vehicle. Bridge is the only way in." SFX: rain, waves crashing far below, wind, comms static click. [0:03–0:07] VISUAL: She leaps off the ledge, grappling line snapping taut, swinging down and landing hard on the lead SUV's roof as it speeds across the bridge, ocean visible through the railings on both sides. VOICE (earpiece, urgent): "Nova, you're exposed on that bridge—go loud or go home." NOVA (grinning, drawing a baton): "Loud works." SFX: grapple line zip, wind rush, boots slamming metal roof, waves below. [0:07–0:12] VISUAL: ULTRA-FAST FIGHT SEQUENCE. Two GUARDS burst from the SUV doors mid-drive, bridge cables blurring past. Nova disarms the first with a spinning strike, kicks the second through the open door toward the railing. GUARD 1 (grunting): "She's alone—light her up!" NOVA (flat, mid-strike): "Wrong answer." SFX: rapid impact hits, metal clang, tires screeching on wet bridge deck. [0:12–0:16] VISUAL: A pursuing SUV rams the convoy vehicle from behind — HEAVY VFX: sparks explode, metal crumples, the vehicle skids sideways toward the bridge railing, Nova thrown across the roof, barely catching the edge above open ocean. SFX: massive metal collision crunch, glass shattering, tires shrieking, distant wave crash. [0:16–0:20] VISUAL: Nova hauls herself back up, spots the pursuing SUV's fuel line sparking against the guardrail. She kicks a flare off her belt into it as both vehicles near the compound gate. NOVA (shouting into earpiece): "Get clear the bridge — NOW!" SFX: flare ignition hiss, engine roaring, alarmed shouting, wind howling through cables. [0:20–0:24] VISUAL: MASSIVE VFX EXPLOSION — the pursuing SUV erupts in a fireball mid-bridge, flipping through the air and crashing through the railing into the ocean below in slow motion, flaming debris raining onto the highway as Nova's vehicle bursts clear through the compound gate. SFX: deafening explosion, fire roar, metal debris raining, massive splash below, ringing ears effect. [0:24–0:27] VISUAL: Nova climbs through the sunroof into the driver's seat as the SUV screeches to a stop just inside the compound gate, breathing hard, adrenaline high, the burning bridge glowing behind her through the rain. VOICE (earpiece, impressed): "...Command wants to know how you're still alive." NOVA (wiping blood from her lip, smirking): "Tell them I didn't have time to die." SFX: engine idling, distant fire crackling, rain resuming, waves below. [0:27–0:30] VISUAL: Wide shot — Nova drives deeper into the fog-wrapped compound, the burning bridge and crashed wreckage glowing orange against the black ocean and cliffs behind her. Hold on the reflection in her rearview mirror. SFX: engine roar fading into rain and waves, distant sirens, final low bass hit.</code></pre>
+
+</details>
+
+## Playful pool moment with young woman
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2090835164444422170)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3492](https://imglume.com/prompt/3492)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/95663d05-0445-4df2-928e-f8fdfe5c2c45/c750353f-e44c-4ebc-ad3b-47d9e36fd81f-1787362556883 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject:
+Young American woman, early 20s, athletic build, one-piece swimsuit with a loose cover-up, hair in a tight braid, confident playful personality.
+Location:
+Small outdoor community pool, sunny midday. Diving board at the deep end, lounge chairs, a lifeguard tower in the background, clear blue water. No large crowds, no commercial branding.
+Visual Style:
+Ultra-realistic documentary realism, energetic candid feeling, bright natural sunlight.
+Camera Style:
+Early 2000s DV camcorder, handheld with water-splash blur occasionally on lens, exposure blown out in bright sun, soft grain. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She climbs the diving board ladder, then walks to the edge.
+00:03–00:06 → She turns to camera saying "okay don't judge my form," laughing nervously.
+00:06–00:09 → She bounces once, then dives cleanly into the water.
+00:09–00:12 → She surfaces, wiping water from her face, grinning.
+00:12–00:15 → She swims to the pool edge, pulling herself up onto the deck.
+00:15–00:18 → She wrings out her hair, then grabs a towel from a lounge chair.
+00:18–00:21 → She dries off, glancing back at the diving board.
+00:21–00:24 → She decides to go again, walking back toward the ladder.
+00:24–00:27 → She climbs up, this time attempting a small jump with a tuck.
+00:27–00:30 → She surfaces laughing, looking at camera saying "okay that one was way better!"
+Audio:
+Water splashing, distant pool chatter, wind, birds. Her dialogue as noted above. No music.
+Goal: A playful, confident pool moment energetic, fun, authentic.</code></pre>
+
+</details>
 
 ## Young Japanese woman and man romantic encounter in hillside neighborhood
 

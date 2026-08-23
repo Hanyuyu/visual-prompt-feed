@@ -1,21 +1,21 @@
 # Video prompt catalog
 
-Browse 846 source-linked video prompts by category.
+Browse 881 source-linked video prompts by category.
 
 | Category | Prompts |
 | --- | ---: |
-| [Animation](./animation.md) | 105 |
+| [Animation](./animation.md) | 107 |
 | [Architecture](./architecture.md) | 6 |
-| [Camera Moves](./camera-moves.md) | 127 |
-| [Character](./character.md) | 104 |
-| [Cinematic](./cinematic.md) | 568 |
-| [Food Drink](./food-drink.md) | 72 |
+| [Camera Moves](./camera-moves.md) | 132 |
+| [Character](./character.md) | 106 |
+| [Cinematic](./cinematic.md) | 592 |
+| [Food Drink](./food-drink.md) | 74 |
 | [Nature](./nature.md) | 17 |
 | [Photography](./photography.md) | 1 |
-| [Product Ads](./product-ads.md) | 76 |
+| [Product Ads](./product-ads.md) | 78 |
 | [Product Brand](./product-brand.md) | 1 |
-| [Travel](./travel.md) | 54 |
-| [UGC](./ugc.md) | 93 |
+| [Travel](./travel.md) | 55 |
+| [UGC](./ugc.md) | 98 |
 | [Ui Graphic](./ui-graphic.md) | 1 |
 
 Prompt text and source media are `NOASSERTION`. ImgLume curation is

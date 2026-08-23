@@ -1,9 +1,26 @@
 # Nature image prompts
 
-19 source-linked prompts, newest ImgLume records first.
+20 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Tranquil Glowing Sunset Landscape
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090858753583169966)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `nature`
+- **ImgLume record:** [3481](https://imglume.com/prompt/3481)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/54827ba0-819f-4168-af1a-b64cd457a5d3/0e4fab15-30e0-424d-812f-a1c693f5142d-1787343663510 "Midjourney v8") · [2](https://cdn.imglume.com/prompts/byradar/54827ba0-819f-4168-af1a-b64cd457a5d3/46a681f5-afa0-404f-a107-4c863e64aab7-1787343663510 "Midjourney v8") · [3](https://cdn.imglume.com/prompts/byradar/54827ba0-819f-4168-af1a-b64cd457a5d3/65027ced-549e-42da-ab4b-ba127dad9bed-1787343663510 "Nano Banana 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A tranquil digital landscape featuring a vibrant, glowing sunset over distant mountains, with the sun casting pastel reflections of pink, purple, and turquoise across a calm lake. Two small, forested islands with tall pine trees frame the foreground, and the overall mood is serene and dreamlike, with soft gradients and minimalistic composition set against a muted, hazy background.</code></pre>
+
+</details>
 
 ## Golden Forest Illustration
 

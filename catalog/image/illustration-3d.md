@@ -1,9 +1,118 @@
 # Illustration 3d image prompts
 
-54 source-linked prompts, newest ImgLume records first.
+59 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Giant Ceramic Coffee Mug Miniature Café
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2090807504288542889)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3531](https://imglume.com/prompt/3531)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d82d4fcf-2e92-4b42-936d-16c9a0a27f78/d7c05634-7505-4bcf-b3c6-ef900e11b0d9-1787396132521 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-detail digital artwork of a giant ceramic coffee mug sitting on a dark wooden floor, serving as a miniature, fully functional coffee shop inside. The front wall of the mug is hollowed out, revealing a cozy brick-walled cafe interior with hanging Edison bulb lights, wooden shelves filled with jars, a detailed espresso machine, pastry displays, and a male barista in an apron pouring latte art The top of the giant mug is filled with a hot latte featuring intricate rosette latte art and realistic rising steam Standing next to the giant mug is an elegant young woman with her hair tied in a high ponytail, dressed in a high-neck, long-sleeved slate blue maxi dress with a belted waist She is smiling softly while holding a smaller white coffee cup with a subtle heart design with steam gently rising from it The ambient environment is warm and atmospheric, decorated with surrounding potted plants, warm fairy lights, lanterns on the floor, and soft, dreamy bokeh blurring the background. Ultra-realistic, 8k resolution, cinematic lighting, cozy aesthetic.</code></pre>
+
+</details>
+
+## Fierce tribal fantasy warrior woman with majestic great horned owl
+
+- **Original source:** [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2091027228645552456)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3509](https://imglume.com/prompt/3509)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ce64395f-50f9-4507-a743-5237eeecfe1d/da8ccdbb-9cb9-4917-ab7e-8e3ed0a2726e-1787381543873 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A detailed portrait of a fierce tribal fantasy warrior woman leaning close to a massive, majestic great horned owl, cinematic lighting, dark moody atmosphere. The woman has long, wavy dark hair adorned with intricate silver chains, beads, and metallic headpieces. She has striking light green eyes, piercing the camera, with silver and icy-white war paint painted across her cheeks and nose. She wears dark leather armor decorated with silver pendants and turquoise gemstones Beside her the giant owl features sharp glowing orange eyes, patterned white and black feathers and an ornate silver circular medallion studded with a blue crystal resting on its forehead. The background is a shadowy, mystical forest in cool blue and dark gray tones. Highly detailed feathers, hyper-realistic, photorealistic textures, 8k resolution, dramatic dark fantasy aesthetic, masterpiece.</code></pre>
+
+</details>
+
+## Photorealistic Isometric Miniature Diorama of \[COUNTRY\]
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2091009348302774706)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3501](https://imglume.com/prompt/3501)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f21d5cec-92ee-422e-be4b-86788cbbf83a/efeb7918-bbf0-4794-99cf-ac88aeb53d4a-1787379381670 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f21d5cec-92ee-422e-be4b-86788cbbf83a/9039924c-05d9-4590-b099-30a0384a58fc-1787379381670 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f21d5cec-92ee-422e-be4b-86788cbbf83a/c72c5568-fe39-4545-a6d8-c2e14a3aa92e-1787379381670 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/f21d5cec-92ee-422e-be4b-86788cbbf83a/70271e56-863d-4ff8-bc2e-463bda9caa71-1787379381670 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-detailed photorealistic isometric miniature scale-model diorama of [COUNTRY], floating on a pure off-white studio background with a soft drop shadow beneath. The diorama takes the exact real-world silhouette shape of the country — not a square tile, but the true precise geographic outline of the country's borders and coastline, extruded downward into a thick slab of raw rock and earth with rough natural cliff-like edges, like a chunk of the real land physically cut out and lifted. The shape of the slab matches the country's actual geography precisely, including any islands, peninsulas or coastline indentations.
+
+The entire top surface faithfully recreates the country's real geography and terrain: mountain ranges with correct elevation and snow coverage, rivers in their real positions, major forests and plains, deserts, coastlines with beaches and cliffs. Every major city is visible as a dense urban cluster in its correct geographic position. The country's most iconic landmarks are rendered in accurate positions and to recognizable scale. Terrain elevation is fully physically modeled — mountain ranges rise dramatically, valleys are sunken, plains are flat, creating real varied 3D topography across the entire surface.
+
+Dense micro-detail: individual buildings in city clusters, tiny roads and highways connecting settlements, railways, bridges, harbors with boats, agricultural field patterns in rural areas, individual trees and forest coverage. Every region has its correct landscape character — the terrain of the north looks different from the south.
+
+Style: hyper-realistic tilt-shift miniature photography — extremely sharp, everything in focus across the whole surface, no blur. Soft warm daylight from above, gentle diffuse shadows, rich natural colors. Lush greens, snow-capped peaks, golden plains, deep blue water along the coastline.
+
+Layout: the shaped diorama floats centered in the lower two-thirds of the frame with clear margins on all sides, never touching the frame edges. Upper third is empty off-white space with minimalist editorial typography, centered: small wide-tracked caps with the continent or region name at the very top, then directly below [COUNTRY] in a bold condensed sans-serif in medium charcoal grey — large and dominant, the biggest text element — with a small flat rectangular flag of [COUNTRY] sitting immediately to the right of the country name, vertically centered with it, accurately colored and proportioned, clean flat design, sized to roughly the cap-height of the country name, floating naturally beside the name as one cohesive unit, not pushed to the far edge but sitting close and attached to the right end of the country name text. Then small wide-tracked caps below with the capital city and population.
+
+Minimalist editorial poster aesthetic, premium print quality, 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## Premium vertical travel artwork of \[COUNTRY\] inside a glowing candle flame
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2090833870224843053)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`, `travel`
+- **ImgLume record:** [3497](https://imglume.com/prompt/3497)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3d068298-f458-415c-9bb1-e68cd7bc93e0/6e68a4f5-76bc-4a03-b594-e5b6adb684c8-1787373045196 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3d068298-f458-415c-9bb1-e68cd7bc93e0/d6f2b30b-2179-4f36-8fa1-29ef68bf6704-1787373045196 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking premium vertical 4:5 travel artwork featuring [COUNTRY] inside a glowing candle flame.
+
+A luxurious handcrafted candle stands in the center against a soft, elegant dark background. Instead of an ordinary flame, the flame transforms into a tiny magical 3D world representing [COUNTRY].
+
+Inside the translucent golden-orange flame, reveal the country’s most iconic landmark [LANDMARK] as the dominant centerpiece, surrounded by miniature landscapes, mountains, rivers, traditional architecture, cultural details, tiny people, local elements, and subtle atmospheric details.
+
+The flame should feel physically real, with delicate translucent layers of fire, glowing embers, soft smoke, warm reflections, and realistic light scattering. The miniature country appears to be alive inside the flame, as though the fire itself is protecting an entire world.
+
+Elegant cinematic composition, luxury travel campaign aesthetic, ultra-detailed miniature world, magical realism, sophisticated color palette, realistic materials, soft depth of field, volumetric lighting, subtle shadows, premium editorial photography, atmospheric glow, highly polished, visually mesmerizing.
+
+Add the country name ”[COUNTRY]” elegantly beneath the candle in refined minimalist typography.
+
+Aspect ratio: 4:5 vertical
+Style: cinematic magical realism + luxury travel poster + miniature world photography
+Quality: ultra-detailed, photorealistic, premium, sophisticated, Instagram/Pinterest-worthy.</code></pre>
+
+</details>
+
+## Surreal Figure Beneath Glowing Tree
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2090858753583169966)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3482](https://imglume.com/prompt/3482)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d573a69f-e084-4997-973c-1af71f1aefff/d3e820bf-017f-4237-b365-5c69afcdd7d9-1787343663510 "Nano Banana 2") · [2](https://cdn.imglume.com/prompts/byradar/d573a69f-e084-4997-973c-1af71f1aefff/30ae7947-105e-400c-aa38-68114cf091d1-1787343663510 "Midjourney v8") · [3](https://cdn.imglume.com/prompts/byradar/d573a69f-e084-4997-973c-1af71f1aefff/cfa93a28-09e9-4bbc-b5b9-adf296fdd780-1787343663510 "Nano Banana 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A surreal landscape featuring a lone figure standing beneath a large tree with glowing purple leaves on a cliff edge, overlooking a distant mountain at sunset. A stream of luminous turquoise water flows down the cliff, emitting magical sparkles. The scene is bathed in soft pastel colors, creating a tranquil and mystical atmosphere.</code></pre>
+
+</details>
 
 ## Premium Whimsical Handcrafted Paper-Collage Diorama with Photorealistic Girl
 
