@@ -1,14 +1,14 @@
 {
   "schemaVersion": "imglume.open-prompts.v1",
   "generatedAt": "2026-08-22T15:37:03.588Z",
-  "total": 1867,
+  "total": 1866,
   "mediaTypes": {
     "image": 986,
-    "video": 881
+    "video": 880
   },
   "authors": 262,
-  "sourcePosts": 1788,
-  "mediaAssets": 3410,
+  "sourcePosts": 1787,
+  "mediaAssets": 3407,
   "categories": {
     "animation": {
       "total": 108,
@@ -21,9 +21,9 @@
       "video": 6
     },
     "camera-moves": {
-      "total": 132,
+      "total": 131,
       "image": 0,
-      "video": 132
+      "video": 131
     },
     "character": {
       "total": 215,
@@ -31,9 +31,9 @@
       "video": 106
     },
     "cinematic": {
-      "total": 651,
+      "total": 650,
       "image": 59,
-      "video": 592
+      "video": 591
     },
     "food-drink": {
       "total": 88,
@@ -89,7 +89,7 @@
   "recommendedModels": {
     "gptimage": 909,
     "nanobanana": 77,
-    "seedance": 881
+    "seedance": 880
   },
   "sourceModels": {
     "gptimage": 162,
@@ -97,13 +97,13 @@
     "kling": 6,
     "midjourney": 12,
     "nanobanana": 81,
-    "other": 1401,
+    "other": 1400,
     "seedance": 235,
     "seedream": 12,
     "veo": 1
   },
   "languages": {
-    "en": 1664,
+    "en": 1663,
     "English": 22,
     "id": 1,
     "ja": 4,

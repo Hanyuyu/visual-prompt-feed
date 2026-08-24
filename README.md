@@ -20,7 +20,7 @@ under CC BY 4.0. ImgLume's original curation and dataset structure are CC BY
 4.0; original prompt text and source media are marked `NOASSERTION`.
 
 <!-- DATASET-STATS:START -->
-**1867 prompts** from **1788 source posts** and **262 authors**, with **3410 source-media links**.
+**1866 prompts** from **1787 source posts** and **262 authors**, with **3407 source-media links**.
 
 Last feed refresh: `2026-08-22T15:37:03.588Z`
 
@@ -28,9 +28,9 @@ Last feed refresh: `2026-08-22T15:37:03.588Z`
 | --- | ---: | ---: | ---: |
 | Animation | [1](catalog/image/animation.md) | [107](catalog/video/animation.md) | 108 |
 | Architecture | [12](catalog/image/architecture.md) | [6](catalog/video/architecture.md) | 18 |
-| Camera Moves | 0 | [132](catalog/video/camera-moves.md) | 132 |
+| Camera Moves | 0 | [131](catalog/video/camera-moves.md) | 131 |
 | Character | [109](catalog/image/character.md) | [106](catalog/video/character.md) | 215 |
-| Cinematic | [59](catalog/image/cinematic.md) | [592](catalog/video/cinematic.md) | 651 |
+| Cinematic | [59](catalog/image/cinematic.md) | [591](catalog/video/cinematic.md) | 650 |
 | Food Drink | [14](catalog/image/food-drink.md) | [74](catalog/video/food-drink.md) | 88 |
 | Illustration 3d | [59](catalog/image/illustration-3d.md) | 0 | 59 |
 | Nature | [20](catalog/image/nature.md) | [17](catalog/video/nature.md) | 37 |

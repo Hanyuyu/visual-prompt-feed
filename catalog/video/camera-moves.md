@@ -1,71 +1,9 @@
 # Camera Moves video prompts
 
-132 source-linked prompts, newest ImgLume records first.
+131 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
-
-## Two Droid Jedi Face Off
-
-- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2091143578869195022)
-- **Recommended model:** `seedance`
-- **Source model(s):** `other`
-- **Categories:** `camera-moves`, `cinematic`
-- **ImgLume record:** [3552](https://imglume.com/prompt/3552)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/ba17b4a9-d28e-4e9a-bb5a-95525079ec66-1787412995942 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/75554d48-ab95-431b-90e3-1177157922bf-1787412995942 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/3c1f32b5-ed5b-4b14-91ca-ea3b12c43701-1787412995942 "Image prompt preview")
-- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
-
-<details>
-<summary>Full prompt</summary>
-
-<pre><code>Seedance 2.5 Prompt:
-A cinematic live-action science-fantasy duel erupts when a lone Jedi senses an ambush while walking through a dense ancient forest.
-@[char1] defines Scout's complete referenced appearance; ignore the studio background, red swatches, seals, and text.
-@[char2] defines Sentinel's complete referenced appearance; ignore the studio background, seals, and text.
-Keep exactly two characters: Scout owns one blue lightsaber, Sentinel one amber lightsaber. Preserve identity, clothing, headgear, weapon ownership, misty daylight, forest geography, and the left-to-right action axis. The camera travels relentlessly with the strongest impulse: weaving chases, lead-and-overtake moves, ground-skimming tracks, fast arcs, plunges, rises, foreground parallax, and whip-pans. Never settle into a locked composition. Remain beneath the canopy at ground, waist, chest, or eye height, never overhead, aerial, bird's-eye, or top-down. Use 18-35 mm depth and strong near-far scale changes. Hard-cut on gaze, landing, contact, reversal, near miss, or recoil, matching motion vectors across cuts. Choreography uses compressed anticipation, explosive travel, readable contact, selective micro hit-stops, elastic recoil, and immediate re-entry.
-Shot 1, 0-3s: A rear 3/4 chase camera weaves around wet trunks behind Scout walking alone, closing in as a faint disturbance makes her slow.
-
-Shot 2, 3-4s: The camera overtakes her shoulder into a moving ECU as her eyes and gaze snap toward screen right.
-
-Shot 3, 4-6s: The camera drops from her eyes to the hilt, arcs around her hip as the blue blade ignites, then rises as she pivots toward that direction.
-
-Shot 4, 6-7s: From low angle, the camera whips up to catch Sentinel falling from the canopy, dives beside the descent, and brakes at waist height as the landing blasts leaves toward lens.
-
-Shot 5, 7-9s: A reverse-dolly lead races backward before Sentinel rising, igniting the amber blade, and lunging first; Scout intercepts before lens.
-
-Shot 6, 9-10s: A snap push follows both blades into their first collision, slides through the sparks, and exits on their violent recoil.
-
-Shot 7, 10-12s: A lateral chase threads between foreground trunks as both trade flowing artistic cuts and parries, driving each other across the clearing.
-
-Shot 8, 12-13s: The camera skims along Sentinel's blade past Scout's shoulder; the near miss fills frame, then focus lands on the scorched trunk behind her.
-
-Shot 9, 13-15s: Retreating inches above the forest floor, the camera leads Sentinel's pressure as Scout performs a deep bridge dodge beneath a horizontal cut and recovers.
-
-Shot 10, 15-16s: The camera rises in a rapid half-arc with Scout's kip-up and rising countercut, then snaps sideways as Sentinel blocks and redirects her.
-
-Shot 11, 16-18s: A same-side parallel track accelerates beside them; Sentinel feints high and attacks low, Scout redirects, and the camera overtakes their spin into the new direction.
-
-Shot 12, 18-19s: A ground-skimming macro chase races between boots carving through wet leaves, then whip-pans with their simultaneous reversal.
-
-Shot 13, 19-21s: The camera sprints beside Scout along an angled trunk, rises with her flip over Sentinel's sweep, and drops with her landing behind Sentinel without crossing the axis.
-
-Shot 14, 21-22s: A low arc races around Sentinel's pivot and upward cut, passing inches behind Scout as the blade narrowly slices trailing cloth without touching her body.
-
-Shot 15, 22-24s: A profile pursuit accelerates with Scout's one-handed moulinet, passes through its light wake, and sinks with Sentinel's backbend before rising into the counter.
-
-Shot 16, 24-25s: The camera pushes between their arms into an ECU of grinding blades and focused eyes, then jolts backward when the bind explodes apart.
-
-Shot 17, 25-27s: At waist height, the camera races around one massive trunk opposite the fighters; trunk occlusion reveals both striking through the same opening and narrowly missing.
-
-Shot 18, 27-28s: The camera dives to Sentinel's hilt trap, circles Scout's rolling wrist, then streaks down the amber blade as Scout redirects it into the ground.
-
-Shot 19, 28-29s: A low lateral track surges under Scout's vault, swings into profile as Sentinel recovers, and meets their simultaneous turning cuts at edge-to-edge contact.
-
-Shot 20, 29-30s: The camera recoils with their separation, pulls low through flying leaves, then slingshots forward with their renewed charge into a blazing blade lock and unresolved pressure.
-
-No dialogue and no BGM. Use damp forest ambience, breath, cloth snaps, rapid saber hum and Doppler swishes, ignition bursts, short energy impacts, bark sizzle, leaf scatter, and brief silence before the first clash.</code></pre>
-
-</details>
 
 ## Photorealistic Korean city bus chase video
 

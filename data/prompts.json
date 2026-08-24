@@ -18,7 +18,7 @@
     }
   },
   "generatedAt": "2026-08-22T15:37:03.588Z",
-  "count": 1867,
+  "count": 1866,
   "items": [
     {
       "id": "byradar:2080956222526935311:0",
@@ -172320,113 +172320,6 @@
         "collection": "byradar_discovered",
         "importedAt": "2026-08-22T15:36:01.828Z",
         "updatedAt": "2026-08-22T15:36:01.828Z"
-      }
-    },
-    {
-      "id": "byradar:2091143578869195022:0",
-      "imglumeId": 3552,
-      "revision": "437e025b4180e4ce50cfea576cbef715bf44c02dc94269e0c6f3503651d86c6d",
-      "title": "Two Droid Jedi Face Off",
-      "prompt": "Seedance 2.5 Prompt:\nA cinematic live-action science-fantasy duel erupts when a lone Jedi senses an ambush while walking through a dense ancient forest.\n@[char1] defines Scout's complete referenced appearance; ignore the studio background, red swatches, seals, and text.\n@[char2] defines Sentinel's complete referenced appearance; ignore the studio background, seals, and text.\nKeep exactly two characters: Scout owns one blue lightsaber, Sentinel one amber lightsaber. Preserve identity, clothing, headgear, weapon ownership, misty daylight, forest geography, and the left-to-right action axis. The camera travels relentlessly with the strongest impulse: weaving chases, lead-and-overtake moves, ground-skimming tracks, fast arcs, plunges, rises, foreground parallax, and whip-pans. Never settle into a locked composition. Remain beneath the canopy at ground, waist, chest, or eye height, never overhead, aerial, bird's-eye, or top-down. Use 18-35 mm depth and strong near-far scale changes. Hard-cut on gaze, landing, contact, reversal, near miss, or recoil, matching motion vectors across cuts. Choreography uses compressed anticipation, explosive travel, readable contact, selective micro hit-stops, elastic recoil, and immediate re-entry.\nShot 1, 0-3s: A rear 3/4 chase camera weaves around wet trunks behind Scout walking alone, closing in as a faint disturbance makes her slow.\n\nShot 2, 3-4s: The camera overtakes her shoulder into a moving ECU as her eyes and gaze snap toward screen right.\n\nShot 3, 4-6s: The camera drops from her eyes to the hilt, arcs around her hip as the blue blade ignites, then rises as she pivots toward that direction.\n\nShot 4, 6-7s: From low angle, the camera whips up to catch Sentinel falling from the canopy, dives beside the descent, and brakes at waist height as the landing blasts leaves toward lens.\n\nShot 5, 7-9s: A reverse-dolly lead races backward before Sentinel rising, igniting the amber blade, and lunging first; Scout intercepts before lens.\n\nShot 6, 9-10s: A snap push follows both blades into their first collision, slides through the sparks, and exits on their violent recoil.\n\nShot 7, 10-12s: A lateral chase threads between foreground trunks as both trade flowing artistic cuts and parries, driving each other across the clearing.\n\nShot 8, 12-13s: The camera skims along Sentinel's blade past Scout's shoulder; the near miss fills frame, then focus lands on the scorched trunk behind her.\n\nShot 9, 13-15s: Retreating inches above the forest floor, the camera leads Sentinel's pressure as Scout performs a deep bridge dodge beneath a horizontal cut and recovers.\n\nShot 10, 15-16s: The camera rises in a rapid half-arc with Scout's kip-up and rising countercut, then snaps sideways as Sentinel blocks and redirects her.\n\nShot 11, 16-18s: A same-side parallel track accelerates beside them; Sentinel feints high and attacks low, Scout redirects, and the camera overtakes their spin into the new direction.\n\nShot 12, 18-19s: A ground-skimming macro chase races between boots carving through wet leaves, then whip-pans with their simultaneous reversal.\n\nShot 13, 19-21s: The camera sprints beside Scout along an angled trunk, rises with her flip over Sentinel's sweep, and drops with her landing behind Sentinel without crossing the axis.\n\nShot 14, 21-22s: A low arc races around Sentinel's pivot and upward cut, passing inches behind Scout as the blade narrowly slices trailing cloth without touching her body.\n\nShot 15, 22-24s: A profile pursuit accelerates with Scout's one-handed moulinet, passes through its light wake, and sinks with Sentinel's backbend before rising into the counter.\n\nShot 16, 24-25s: The camera pushes between their arms into an ECU of grinding blades and focused eyes, then jolts backward when the bind explodes apart.\n\nShot 17, 25-27s: At waist height, the camera races around one massive trunk opposite the fighters; trunk occlusion reveals both striking through the same opening and narrowly missing.\n\nShot 18, 27-28s: The camera dives to Sentinel's hilt trap, circles Scout's rolling wrist, then streaks down the amber blade as Scout redirects it into the ground.\n\nShot 19, 28-29s: A low lateral track surges under Scout's vault, swings into profile as Sentinel recovers, and meets their simultaneous turning cuts at edge-to-edge contact.\n\nShot 20, 29-30s: The camera recoils with their separation, pulls low through flying leaves, then slingshots forward with their renewed charge into a blazing blade lock and unresolved pressure.\n\nNo dialogue and no BGM. Use damp forest ambience, breath, cloth snaps, rapid saber hum and Doppler swishes, ignition bursts, short energy impacts, bark sizzle, leaf scatter, and brief silence before the first clash.",
-      "mediaType": "video",
-      "recommendedModel": "seedance",
-      "sourceModels": [
-        "other"
-      ],
-      "categories": [
-        "camera-moves",
-        "cinematic"
-      ],
-      "tags": [
-        "Jedi duel",
-        "lightsaber",
-        "forest",
-        "cinematic",
-        "camera moves"
-      ],
-      "language": "en",
-      "recommended": {
-        "quality": null,
-        "aspectRatio": null,
-        "durationSeconds": 30,
-        "generateAudio": true
-      },
-      "source": {
-        "platform": "x",
-        "postId": "2091143578869195022",
-        "url": "https://x.com/aimikoda/status/2091143578869195022",
-        "author": {
-          "handle": "aimikoda",
-          "name": null
-        },
-        "publishedAt": "2026-08-22T12:40:55.000Z",
-        "discoveredAt": "2026-08-22T15:30:38.312Z",
-        "engagement": {
-          "likes": 54,
-          "reposts": 3,
-          "replies": 14
-        },
-        "attribution": "@aimikoda 发布于 X；ByRadar 仅逐字提取并保留原帖归因。",
-        "license": "NOASSERTION",
-        "rightsHolder": "@aimikoda"
-      },
-      "media": [
-        {
-          "type": "video",
-          "role": "result",
-          "previewUrl": "https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/ba17b4a9-d28e-4e9a-bb5a-95525079ec66-1787412995942",
-          "posterUrl": "https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/ba17b4a9-d28e-4e9a-bb5a-95525079ec66-1787412995942-poster",
-          "sourceUrl": "https://video.twimg.com/amplify_video/2091143494068826112/vid/avc1/2560x1440/O5vM7WlBWAZpSVCI.mp4?tag=29",
-          "altText": "Video prompt preview",
-          "width": 2560,
-          "height": 1440,
-          "license": "NOASSERTION",
-          "rightsHolder": "@aimikoda"
-        },
-        {
-          "type": "image",
-          "role": "unknown",
-          "previewUrl": "https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/75554d48-ab95-431b-90e3-1177157922bf-1787412995942",
-          "posterUrl": null,
-          "sourceUrl": "https://pbs.twimg.com/media/HQU8M1TW0AAgxoR.jpg",
-          "altText": "Image prompt preview",
-          "width": 768,
-          "height": 1536,
-          "license": "NOASSERTION",
-          "rightsHolder": "@aimikoda"
-        },
-        {
-          "type": "image",
-          "role": "unknown",
-          "previewUrl": "https://cdn.imglume.com/prompts/byradar/c09ee6ac-efec-4bf8-b07e-4ea849ec9e95/3c1f32b5-ed5b-4b14-91ca-ea3b12c43701-1787412995942",
-          "posterUrl": null,
-          "sourceUrl": "https://pbs.twimg.com/media/HQU8NlKWIAEy8Kb.jpg",
-          "altText": "Image prompt preview",
-          "width": 768,
-          "height": 1536,
-          "license": "NOASSERTION",
-          "rightsHolder": "@aimikoda"
-        }
-      ],
-      "curation": {
-        "creator": "ImgLume",
-        "url": "https://imglume.com",
-        "recordUrl": "https://imglume.com/prompt/3552",
-        "license": "CC-BY-4.0",
-        "contributions": [
-          "discovery",
-          "verification",
-          "categorization",
-          "tagging",
-          "model compatibility",
-          "dataset structure"
-        ]
-      },
-      "provenance": {
-        "discoveredBy": "ByRadar",
-        "collection": "byradar_discovered",
-        "importedAt": "2026-08-22T15:36:35.942Z",
-        "updatedAt": "2026-08-22T15:36:35.942Z"
       }
     },
     {

@@ -1,14 +1,14 @@
 # Video prompt catalog
 
-Browse 881 source-linked video prompts by category.
+Browse 880 source-linked video prompts by category.
 
 | Category | Prompts |
 | --- | ---: |
 | [Animation](./animation.md) | 107 |
 | [Architecture](./architecture.md) | 6 |
-| [Camera Moves](./camera-moves.md) | 132 |
+| [Camera Moves](./camera-moves.md) | 131 |
 | [Character](./character.md) | 106 |
-| [Cinematic](./cinematic.md) | 592 |
+| [Cinematic](./cinematic.md) | 591 |
 | [Food Drink](./food-drink.md) | 74 |
 | [Nature](./nature.md) | 17 |
 | [Photography](./photography.md) | 1 |
