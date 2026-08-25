@@ -1,9 +1,576 @@
 # Animation video prompts
 
-107 source-linked prompts, newest ImgLume records first.
+120 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Lone Samurai Training in Mountains – Retro 2D Animation
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2091759887336591707)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3725](https://imglume.com/prompt/3725)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5d093e0-a919-4ee0-be1b-78f14f0eeb7a/0059074a-83a9-4da4-8142-914aee16f3de-1787576809339 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b5d093e0-a919-4ee0-be1b-78f14f0eeb7a/5d6015fd-e298-4346-a165-940bd2e3c0fe-1787576809339 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>风格：复古2D日式动画，采用平面孔版印刷（risograph）语汇——所有形体均以粗细均匀的纤细黑色墨线勾边，色彩完全平涂无阴影且不含任何渐变，整个画面布满细密的纸张颗粒与零散的星点。大胆的迷幻配色，严格锁定输入图：薄荷青的天空、粉彩色的条状云带、薰衣草紫的丘陵、明亮的草绿、橘橙色的山坡、一枚平面的柠檬黄日轮。速度线与运动残影必须始终为粉彩粉色，绝不可为白色。有限动画，配合定格保持与凌厉的姿势到姿势式动作，24帧每秒。
+
+主体：@samurai（与输入图完全一致100%）——一名独行剑客，身穿宽松的淡薰衣草白色长袍，配鼠尾草绿腰带与黑色内衬，头戴宽大扁平的淡蓝色圆锥斗笠，笠顶有一枚小小的尖饰。他的面容始终隐在笠檐的阴影之下，仅露出一双狭长坚定的眼睛与横过双眼的黑色面罩带。他佩着一把绿柄缠绳、黑鞘的武士刀。他的动作精简而准确——静止，然后一次爆发，然后再次静止。
+
+场景：一片起伏的丘陵地景，与输入图完全一致——前景是绿色山丘，身后是绵延的薰衣草紫坡地，一座绿橙相间的圆锥形山峰，山脊上有一座极小的神社，一条蓝色的河流，风格化的深色松柏，一座小小的橙色鸟居，以及前景一片紫色穗状花、红色彼岸花与橙色花朵的花田。平面的黄色日轮悬于薄荷色天空中，穿行在粉色云带之间。
+
+动作：
+镜头1（0:00–0:02）——定格静止宽幅，与输入图一模一样：剑客背对镜头一动不动地跪坐在绿色山顶，衣袍纹丝不动，只有前景的花朵在轻轻摇曳。硬切。
+镜头2（0:02–0:04）——极特写：他的手掌握住绿色缠绳的刀柄，手指一根接一根收紧。硬切。
+镜头3（0:04–0:05）——笠檐之下的极特写：狭长的双眼骤然睁开，横过双眼的黑色面罩带，目光转为锐利。硬切。
+镜头4（0:05–0:07）——他起身，一个动作之内向前弹射而出，衣袍鼓荡翻飞，粉色速度残影撕过身后一整片平坦的绿色。硬切。
+镜头5（0:07–0:09）——侧向跟拍：他压低身形疾冲过花田，刀鞘拖在身后，紫色花穗与红色彼岸花化作平面的粉色残影掠过。硬切。
+镜头6（0:09–0:11）——低角度仰拍：他高高跃入薄荷色天空，化作放射状粉色速度线中的一个小小身影，并在同一动作中拔刀划出一道扫弧。硬切。
+镜头7（0:11–0:13）——极特写：平面银色的刀身自画面斜向扫过，恰好横在黄色日轮之前，映出一道硬质的白色反光。硬切。
+镜头8（0:13–0:15）——他落地站起，不慌不忙地正对镜头，以一个精准的小动作将武士刀送回鞘中。随后他静止不动。粉色的云缓缓飘过。切黑场。
+
+摄影：开场使用完全固定的定格宽幅——不得漂移，不得推进，必须与输入图一模一样。两处极特写均以硬性急切进入。疾冲使用快速横向跟随。跃起使用低角度上仰。终幕收刀使用居中的静止画框。全片不得出现任何手持晃动——每一次运镜要么完全固定，要么是干净的线性移动。
+
+音效：开场的静止段落是掠过草原的风声与隐约的虫鸣。手掌握住刀柄时的皮革吱呀。弹射而出时一声清脆的衣料破空。穿过草丛的急促脚步。拔刀时一记干净的金属鸣响，紧接着是斩击的重锐破空。刀身入鞘时一声精准的轻响，随后只余风声。配乐极为稀疏——尺八与跃起时的一记太鼓——在最后两秒完全消失。无对白，无字幕。
+
+限制条件：16:9画幅。角色、地景与配色必须与输入图完全一致100%，不得漂移——务必保持淡色圆锥斗笠、薰衣草白长袍、绿色腰带、绿缠绳刀柄，以及每一帧中精确的薄荷-粉-薰衣草-橙配色体系。所有运动残影与速度线必须为粉彩粉色；不得出现白色或蓝色速度线。全程为平涂色块配粗细均匀的纤细黑色勾边；禁止渐变，禁止柔和阴影，禁止3D渲染，禁止照片写实，禁止绘画笔触质感。每一帧都必须保留纸张颗粒与星点噪点。仅限风格化的动作表现——无血液，无血腥，不出现任何对手，无击中伤口；他斩的是空气。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+
+</details>
+
+## Handcrafted motion design with tactile painted feel
+
+- **Original source:** [@AleRVG on X](https://x.com/AleRVG/status/2091575176966156794)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3682](https://imglume.com/prompt/3682)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/12c9a4e2-7228-473b-bf74-6aa12da39d8d/b9ca647e-0f84-4af9-a244-beed56aecb8e-1787545275650 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a handcrafted motion design with a tactile painted feel: gouache, acrylic, ink, paper grain, brush texture, and collage-like layered depth. The visual language should stay graphic and legible while moving through hypnotic seamless transitions. Every image must fuse into the next in a coherent forward direction, never reversing the bicycle, runner, or walking figure, and never breaking spatial logic. Use fast but fluid cuts, object handoffs, overlap wipes, shape morphs, and rhythmic motion that feels musical and groovy. Preserve the reference vocabulary of flowers, clocks, desks, papers, laptop, commute energy, and return-to-routine momentum. Integrate the text BACK TO WORK in a handmade / painted type treatment that feels embedded in the artwork, not overlaid.</code></pre>
+
+</details>
+
+## Anime-style peaceful countryside meal preparation by a river
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2091561881727295831)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [3675](https://imglume.com/prompt/3675)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/73b09dd0-fbda-440d-98a1-a954a52679df/ffdcba58-4fb6-4f91-9adf-27acd64fb365-1787532767248 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Anime-style peaceful countryside meal preparation by a clear flowing river: a person picks strawberries, gathers fresh eggs, pours milk into a wooden bowl, washes berries and mushrooms in the stream, slices mushrooms and green onions, then cooks fluffy eggs in a sizzling skillet over an open campfire. The soft omelet is placed over fried rice to create omurice, ending with a beautiful wooden table spread featuring the finished dish, strawberries, apples, a steaming mug, and fresh flowers, surrounded by lush greenery, river views, and gentle green hills, warm cinematic lighting, cozy rural atmosphere, detailed anime aesthetic.</code></pre>
+
+</details>
+
+## Ink Smoke Art – Kinetic Title Sequence
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2091457024357724609)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3673](https://imglume.com/prompt/3673)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c9137293-4dc4-4aaf-add7-7f4531a450f1/a569f4b7-7c81-4b1f-a881-00cd23e51431-1787532748331 "Geralt of Rivia drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [2](https://cdn.imglume.com/prompts/byradar/c9137293-4dc4-4aaf-add7-7f4531a450f1/42206a16-b89e-4179-b826-704144c23d1f-1787532748331 "John Wick drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [3](https://cdn.imglume.com/prompts/byradar/c9137293-4dc4-4aaf-add7-7f4531a450f1/e7b344a2-a90d-4d1a-9d90-9aae77979caf-1787532748331 "Batman drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [4](https://cdn.imglume.com/prompts/byradar/c9137293-4dc4-4aaf-add7-7f4531a450f1/6f4decdb-dca1-4aab-9011-f7022623c452-1787532748331 "Luffy drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+"archetype": "Artistic / Fashion / Conceptual",
+"duration": "15s",
+"prompt": {
+"concept": {
+"title": "Ink Smoke Art – Kinetic Title Sequence",
+"description": "Pure continuous 15-second one-take motion-graphics sequence in living black ink-smoke art. Five iconic characters form from swirling black smoke, stay in constant organic motion, and fluidly morph into the next every 3 seconds on a pure white void. Formation direction alternates left-right for artistic rhythm. Kinetic uppercase typography emerges from and interacts with the smoke itself on the complementary side, never flat overlay. Everything remains ultra-fluid, never static. Final short invitation text appears at the end.",
+"duration": "15s",
+"rhythm_structure": {
+"0-3s": "[image1] forms right-to-left, text left",
+"3-6s": "Morph to [image2] left-to-right, text right",
+"6-9s": "Morph to [image3] right-to-left, text left",
+"9-12s": "Morph to [image4] left-to-right, text right",
+"12-15s": "Morph to [image5] right-to-left + final invitation text"
+}
+},
+"camera_direction": {
+"shot_type": "Strict continuous one-take, locked or micro-drift",
+"forbidden": ["No cuts", "No teleportation", "No hidden transitions", "No freeze frames"],
+"camera_journey": "Centered medium-wide framing on pure white void. Extremely slow subtle drift or completely locked. All energy comes from the living smoke and character motion; camera never cuts or reframes aggressively."
+},
+"typography": {
+"allowed_words": [
+"INK SMOKE ART",
+"MOTION GRAPHICS",
+"MIDJOURNEY + H3",
+"PROMPTS by TechHalla",
+"MAKE IT YOURS"
+],
+"treatment": {
+"not_flat_overlay": true,
+"required_properties": [
+"Formed from dense black smoke particles and tendrils",
+"Physical volumetric depth and thickness",
+"Smoke occlusion and interaction with letters",
+"Subtle continuous warping and particle shedding",
+"Bold uppercase, high-impact condensed sans-serif weight",
+"Kinetic emergence and dissolution synchronized to morphs and directional flow"
+]
+}
+},
+"visual_style": {
+"overall": "Black ink smoke / smoke-ink art, ultra-high-contrast monochrome, pure white void background, volumetric living smoke with dense solid cores and wispy ethereal filaments",
+"inspired_by": [
+"[image1] – exact silhouette, long flowing hair, armor texture and smoke density",
+"[image2] – exact suit silhouette, gun, coat edges and frontal presence",
+"[image3] – exact spiky hair, martial pose, wristbands and full-body smoke mass",
+"[image4] – exact cowl, cape flow and dramatic profile silhouette",
+"[image5] – exact straw hat, back view, coat tails and dynamic stance"
+],
+"color_palette": ["pure black", "deep charcoal smoke gradients", "pure white void"],
+"materials_and_texture": "Living ink smoke with variable density, continuous filament motion, soft volumetric edges that never fully solidify, constant micro-turbulence even when character is fully formed"
+},
+"motion_language": {
+"follows_music": false,
+"core_behavior": "Never static. Smoke is always in continuous organic swirl. Characters form while already animating (hair, cape, coat, pose micro-movements). Morphs happen only through smoke densifying, dissolving and reforming – no hard cuts, no dissolves, no freezes. Formation direction alternates every beat for balanced artistic rhythm. Every frame contains visible smoke motion."
+},
+"storyboard": {
+"total_beats": 5,
+"beat_duration": "3 seconds each",
+"beats": [
+{
+"id": "01",
+"time": "0.0–3.0",
+"description": "Pure white void. Dense black smoke enters from the right edge and flows leftward, coalescing into the character from [image1] in profile. Long flowing hair and cloak already moving with dense smoke trails trailing right-to-left. Subtle head turn and breathing motion. Kinetic text “INK SMOKE ART” forms on the left side from the arriving smoke tendrils into bold uppercase letters that interact with and are partially occluded by the smoke. Everything remains in fluid motion."
+},
+{
+"id": "02",
+"time": "3.0–6.0",
+"description": "The character from [image1] dissolves into swirling black smoke that reverses direction, now entering from the left edge and flowing rightward, reforming into the character from [image2] in frontal view. Suit, tie and gun materialize while coat edges continue smoking. Slow forward lean and head tilt. Previous text dissolves into smoke; new kinetic text “MOTION GRAPHICS” emerges on the right side from the arriving smoke mass into solid bold uppercase, still interacting with living tendrils."
+},
+{
+"id": "03",
+"time": "6.0–9.0",
+"description": "The character from [image2] dissolves into dense black smoke that reverses again, entering from the right and flowing leftward, reforming into the character from [image3] in full-body fighting stance. Spiky hair, wristbands and muscular form solidify while smoke keeps swirling around limbs. Subtle power-stance micro-movement. Text “MIDJOURNEY + H3” forms on the left side kinetically from rising smoke particles into bold uppercase, partially wrapped by residual smoke filaments."
+},
+{
+"id": "04",
+"time": "9.0–12.0",
+"description": "The character from [image3] dissolves into smoke that reverses, entering from the left and flowing rightward, reforming into the character from [image4] in dramatic profile. Cowl and long cape already billowing with heavy smoke trails. Subtle cape and shoulder motion continues. Text “PROMPTS by TechHalla” emerges on the right side from the trailing cape smoke into bold uppercase kinetic letters that flow and interact with the moving fabric-smoke."
+},
+{
+"id": "05",
+"time": "12.0–15.0",
+"description": "The character from [image4] dissolves into final swirling black smoke that reverses once more, entering from the right and flowing leftward, reforming into the character from [image5] in rear three-quarter view. Straw hat, coat tails and dynamic stance solidify while smoke continues to rise and trail. All previous text has dissolved; residual smoke particles briefly reform the full set of titles in layered kinetic composition on both sides, then the short invitation text “MAKE IT YOURS” emerges centered from the final smoke mass into bold uppercase as the smoke begins a slow elegant dissipation into the white void, never fully static until end frame."
+}
+]
+},
+]
+}
+}</code></pre>
+
+</details>
+
+## Cute 2D Anime-Style Cooking Animation of Child Chef Frying Chicken
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2091514337928323558)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3665](https://imglume.com/prompt/3665)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2f37b50d-b2f2-4efe-a1ce-7d82f2b625cc/a46fc5e1-849e-4597-8aef-89f65c090553-1787511727997 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute 2D anime-style animation of a young curly-haired child in a monster apron frying crispy chicken in a bright, sunlit kitchen. Show flour-coating raw drumsticks, lowering them into sizzling oil until golden and crispy, scooping them out with a wire strainer, then revealing the smiling child chef. Slice one piece to reveal tender meat, and finish with three golden drumsticks, shredded cabbage, and a lemon wedge beautifully plated on a sunlit wooden table.</code></pre>
+
+</details>
+
+## Cute 3D animated popcorn kernel in retro microwave
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2091458929255747763)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3647](https://imglume.com/prompt/3647)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1fea1835-def3-4811-a4c3-828258edd26a/34668084-847a-493a-b50f-9b6d72b3feb9-1787496955597 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute 3D animated scene of an anthropomorphic popcorn kernel walking to a retro off-white microwave on a marble countertop. It turns the timer knob, opens the door, jumps inside, and sits on the glass turntable as the microwave heats up. The kernel gradually puffs into golden-brown toasted popcorn with wisps of smoke, then the door opens and it steps out looking dazed, cooked, and steaming slightly.</code></pre>
+
+</details>
+
+## REACTOR: WHITE NOISE cyberpunk anime sequence
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2091463531644514752)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3643](https://imglume.com/prompt/3643)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1bcda053-fdb9-4126-9c48-60417d08d45d/1f83d87f-13ba-4bcb-b2d8-fda3bcbdbb38-1787494863834 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-energy futuristic cyberpunk anime sequence titled “REACTOR: WHITE NOISE”, featuring a pale white-haired female cyborg with glowing cyan eyes, a jagged metallic face mask, robotic arms, and a red-and-white sci-fi outfit. Use rapid cuts, glitch effects, red/cyan HUD graphics, scanlines, barcodes, radar rings, kinetic typography, and tech-noir lighting. Show dramatic combat poses, close-ups, split-screen character details, high-speed movement toward the camera, and a powerful final hero landing. Flash bold words like “REACTOR,” “STATIC,” and “AWAKEN”, ending with the glowing title “REACTOR: WHITE NOISE” in a cinematic cyberpunk interface.</code></pre>
+
+</details>
+
+## 3D Pixar-style animated morning routine video
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2091347290057540012)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3634](https://imglume.com/prompt/3634)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a3e6086f-72b3-4a55-8571-6a86d953fc6d/4dfbe151-18d5-40de-a837-675f6447c994-1787490684103 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D Pixar-style animated young East Asian woman with dark hair styled in a neat top bun, large expressive brown eyes, smooth skin, wearing an oversized light grey hoodie. A complete morning routine video sequence featuring her waking up in bed under soft blankets, stretching, brushing teeth and washing face in a bathroom mirror, dressing up in a grey hoodie and black leggings, slicing bread, frying an egg, pouring hot tea from a kettle into a mug, sitting at a wooden kitchen table checking her smartphone, and putting on silver over-ear headphones to work on a laptop while sipping tea in a bright cozy apartment. Warm morning sunlight streaming through the windows, photorealistic textures, soft cinematic lighting, Octane Render, 8K resolution, highly detailed.</code></pre>
+
+</details>
+
+## Stop-motion claymation Nutella cafe video
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2091397686104588650)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3629](https://imglume.com/prompt/3629)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/20bea4f2-adab-4df7-86ed-48fb57ff5f7c/d13fe01c-36af-4cc5-b63b-c537f9b31fbb-1787488598945 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.0.
+​Style &amp; Aesthetics
+3D stop-motion claymation style, plasticine texture with visible soft fingerprint smudges, warm soft-box lighting, cozy pastel brown, cream, and warm wooden tones. Miniature diorama scale, tilt-shift depth of field, playful frame-by-frame animation feel.
+​Scene Sequence &amp; Action
+​Scene 1 (Base Construction): A minimalist clay base and street tile platform build themselves layer by layer on a beige studio backdrop. Streetlamps and small potted plants pop up around the corners.
+​Scene 2 (Structure &amp; Branding): A small cafe building forms with brown walls and a striped awning. A large clay Nutella jar drops smoothly onto the top, transforming into the main "Nutella" illuminated store logo and roof structure.
+​Scene 3 (Interior Details): A close-up pan inside showing a miniature espresso machine, shelves lined with mini Nutella jars, and a counter featuring a stack of pancakes topped with chocolate spread, a croissant, and a coffee cup.
+​Scene 4 (Character Animation): Cute, chibi-style clay characters enter. A young boy and girl sit outside at a tiny wooden table. The boy uses a small knife to spread smooth, glossy Nutella over a stack of fluffy pancakes.
+​Scene 5 (Final Reveal): Camera zooms out to reveal the full animated diorama: a vibrant, bustling miniature Nutella cafe with outdoor seating, streetlamps glowing, and multiple adorable characters enjoying their treats.
+​Technical Camera &amp; Lighting
+Smooth isometric and eye-level camera transitions, macro lens perspective, warm interior glow mixed with soft ambient studio lighting, high-detail clay texture rendering, 4k resolution, 24fps stop-motion rhythm</code></pre>
+
+</details>
+
+## Minimax h3 Prompt #1 - Cinematic 2.5D animation
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2091360181917810810)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3619](https://imglume.com/prompt/3619)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/89bb2acc-91ef-4134-ad48-6bbff755ed46-1787480277626 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/8390d29c-d1d1-4bec-9921-fd77f3a2596b-1787480277626 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/38a10e9a-f922-4e4e-8462-bbcb5e3b2113-1787480277626 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/8bdf29c2-c294-47c8-aa37-fcf93cf59199-1787480277626 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/4c3ce6b1-3a37-431f-82f0-cf6e01b26750-1787480277626 "Image prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/3b0ba569-478a-4b8d-a2cd-fd7dcbe72616-1787480277626 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/1015265a-18ee-4ca2-99d0-3ff809973cab/33e8c0b8-72a1-446b-a950-d28606f26b50-1787480277626 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 2.5D animation. NOT flat 2D cartoon, NO bold black outlines, NOT glossy CGI, NO photorealism.
+
+WORLD: Massive cyberpunk concert arena at midnight, palette of pitch black and stark white, one vivid glowing neon-magenta accent, drifting stage fog, volumetric spotlights.
+CHARACTER: An extremely tall adult woman in her early 20s with pastel-pink hair in twin-buns, horn headphones, and heart cheek decals. Wearing a massive white padded jacket, black bodysuit, skinny black legs, and platform boots. Holding a mic-stand. Exaggerated stylized tall proportions, supermodel legs, painterly matte skin.
+CINEMATIC INTRO SHOT DESIGN (6 Filmic Cuts with Expressions):
+• SHOT 1 (0–2s | Macro Detail): Extreme macro close-up of dark-gloved fingers tapping the metal head of a microphone. Flat-painted neon-magenta sound ripples pulse softly from the grille.
+• SHOT 2 (2–4s | Behavior): Medium shot of Vesper casually adjusting her horn headphones on the empty stage. Her massive white padded jacket shifts heavily with her movement.
+• SHOT 3 (4–6s | Expression): Close-up on Vesper's sharp, mature face. Spotlights hit her pastel-pink hair. She flashes a dangerous, fearless smirk directly into the camera.
+• SHOT 4 (6–9s | Magical Movement): Wide shot. Vesper drives the base of her mic-stand into the stage floor. A massive, flat-painted neon-magenta sonic dome violently erupts, blowing stage fog back across the arena.
+• SHOT 5 (9–12s | Dynamic Tracking): Dynamic tracking shot as she spins gracefully, her oversized white coat billowing. She brings the mic to her mouth, unleashing a focused beam of geometric magenta shockwaves that shatter the air.
+• SHOT 6 (12–15s | Hero Poster Frame): Low-angle hero shot of Vesper standing tall in the center of glowing magenta sound rings. She rests the mic on her shoulder and stares down the lens with total authority. Hold final frame.
+
+Weighty natural animation, oversized jacket reacting fluidly to sonic momentum, filmic 24fps shutter, shallow depth of field.NOT flat 2D cartoon, no bold outlines, no cel shading, not glossy CGI, not Unreal Engine, no photorealism.</code></pre>
+
+</details>
+
+## The Tiny Frog Michelin Chef — 30-Second Animated Short
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2091396961329131999)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3618](https://imglume.com/prompt/3618)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c2a2842-7e27-4ddc-abd7-c8ddd3827db5/09243ec0-cba6-4493-8708-4088e71bcaa2-1787480209150 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The Tiny Frog Michelin Chef — 30-Second Animated Short
+
+Create a 30-second premium cinematic 3D animated short film about a tiny frog who takes cooking extremely seriously.
+
+The animation should feel like a high-end theatrical 3D animated feature film: charming, whimsical, expressive, funny, visually rich, and cinematic.
+
+MAIN CHARACTER
+
+A tiny adorable emerald-green frog with smooth slightly textured skin, huge expressive golden-brown eyes, a tiny rounded mouth, soft rounded cheeks, and little webbed feet.
+
+He wears an oversized pristine white chef jacket, a tiny black neckerchief, and a miniature white chef hat that is slightly too large for him.
+
+Despite being tiny and adorable, he behaves like an extremely serious professional chef.
+
+His personality is dramatic, perfectionist, ambitious, passionate, and hilariously serious about food.
+
+Keep the exact same frog appearance, outfit, proportions, face, colors, and animation style throughout the entire video.
+
+0–5 SEC — THE RESTAURANT
+
+Open on a beautiful moonlit pond transformed into a tiny luxury restaurant.
+
+Fireflies glow like miniature chandeliers.
+
+Lily pads become elegant dining tables.
+
+Tiny candles illuminate the water.
+
+The frog chef stands inside his miniature outdoor kitchen.
+
+He adjusts his chef hat with complete seriousness.
+
+He looks directly at the dish he is about to prepare.
+
+Dramatic cinematic push-in toward his determined face.
+
+5–10 SEC — THE PREPARATION
+
+Rapid cinematic cooking montage.
+
+The tiny frog dramatically chops miniature vegetables.
+
+He slices mushrooms with incredible precision.
+
+He tosses herbs into a tiny copper pan.
+
+Butter melts.
+
+Steam rises.
+
+He tastes the sauce with a tiny spoon.
+
+His eyes narrow.
+
+He adds exactly one more tiny pinch of seasoning.
+
+He tastes it again.
+
+His expression finally shows approval.
+
+Use exaggerated but believable animated physical comedy.
+
+10–17 SEC — THE MASTERPIECE
+
+The frog chef begins assembling his signature dish.
+
+He carefully places tiny colorful vegetables onto a miniature white porcelain plate.
+
+He uses tweezers to position a single delicate herb.
+
+He steps back.
+
+Something looks wrong.
+
+His eyes widen.
+
+He rushes back to the plate.
+
+He moves one tiny vegetable approximately one millimeter.
+
+He steps back again.
+
+Perfect.
+
+His face lights up with pride.
+
+17–22 SEC — THE BIG PRESENTATION
+
+The frog dramatically carries the tiny plate across a lily-pad dining area.
+
+Several adorable woodland animals sit at tiny tables watching him.
+
+A rabbit.
+
+A hedgehog.
+
+A duckling.
+
+A small turtle.
+
+They all stare at the dish with exaggerated anticipation.
+
+The frog carefully places the plate in the center.
+
+Everyone leans forward.
+
+22–27 SEC — THE TASTE
+
+The animals take one bite.
+
+Silence.
+
+Their eyes suddenly become enormous.
+
+The rabbit gasps.
+
+The hedgehog's ears shoot upward.
+
+The duckling freezes in amazement.
+
+The turtle slowly raises both tiny flippers.
+
+Then everyone starts happily celebrating.
+
+The frog chef stands completely still, trying desperately to maintain his serious professional expression.
+
+A tiny smile slowly appears.
+
+27–30 SEC — THE PAYOFF
+
+Suddenly, the frog's miniature restaurant becomes completely chaotic.
+
+The animals cheer.
+
+Fireflies swirl around the restaurant like sparkling lights.
+
+The frog chef jumps onto a tiny wooden crate and proudly raises his cooking spoon like a trophy.
+
+Camera pulls back to reveal the entire magical pond restaurant glowing under the moonlight.
+
+Final shot:
+
+The tiny frog chef stands proudly beneath his oversized chef hat.
+
+Adorable. Dramatic. Completely ridiculous.
+
+VISUAL &amp; ANIMATION STYLE
+
+Premium cinematic 3D animated feature-film quality.
+
+Extremely expressive character animation.
+
+Cute stylized proportions.
+
+Detailed frog skin.
+
+Soft natural reflections in the eyes.
+
+Realistic miniature food textures.
+
+Tiny believable kitchen props.
+
+Beautiful moonlit pond environment.
+
+Warm candlelight contrasting with cool nighttime atmosphere.
+
+Detailed lily pads, flowers, fireflies, water reflections, and vegetation.
+
+Playful cartoon physics.
+
+Subtle squash-and-stretch.
+
+Excellent comedic timing.
+
+Smooth cinematic camera movements.
+
+Dynamic food close-ups.
+
+Macro photography feeling for the tiny world.
+
+Shallow depth of field.
+
+Soft volumetric lighting.
+
+Natural motion blur.
+
+Polished theatrical rendering.
+
+The entire sequence should feel like one continuous animated movie scene, with consistent character design, environment, lighting, proportions, and animation quality.
+
+16:9 LANDSCAPE — 4K — premium cinematic 3D animation.
+
+No text, no subtitles, no logos, no watermark.</code></pre>
+
+</details>
+
+## Poseidon vs Leviathan – Continuation Prompt
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2091370880211550339)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3611](https://imglume.com/prompt/3611)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/ad67babc-1b6e-4fd2-9f4a-4c28f80ca9d6-1787471925272 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/2900ec59-0019-47a3-b399-945d2e87f4fd-1787471925272 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/18ae9b1b-ae98-4e72-99a1-93d3da57551f-1787471925272 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/092f4f2c-2646-45a5-bc1b-b3bb8f02626b-1787471925272 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>风格：手绘感数字动画，保留粗犷可见的笔触与未完成的草稿边缘，形体以宽阔平坦的palette刀式色块堆砌而成而非干净的线条，画面中保留干笔擦痕与颜料滴流。极度克制的配色——冷调石板灰绿的天空、粉笔白的冰面、暗淡的藕紫与尘灰——全片仅允许存在两处高饱和亮色：神明熔金般的双眼，以及巨兽体内的青色能量。宽银幕电影式场面调度，大量留白，绘画颗粒感，24帧每秒。禁止3D渲染，禁止照片写实，禁止日式动漫语汇，禁止赛璐璐上色。
+
+参考：@scene1 是上一段已生成的视频片段——请将其作为风格、配色、笔触、角色设计、体量比例与光线的连续性参考。本段直接承接该片段的最后一帧，即青色冲击过后，破碎的冰刃高高耸立于整片冰原之上。必须与 @scene1 完全一致；不得重新调整风格，不得改变笔触质感或神明与利维坦之间的体量比例。
+
+主体：@god（与 @scene1 及输入图3完全一致100%）——那位身形高大的神明，黑色分叉发冠，飘扬的白须白发，熔金般的双眼，布满鼠尾草绿纹样的赤裸躯干，石板蓝裹裙配金饰，赤足，手持金箍黑色三叉戟。@beast（与 @scene1 及输入图1完全一致100%）——那头藕灰色的巨大利维坦，破碎的黑色鳍冠，钝白的牙齿，深粉色口腔，垂落的淡薄荷色触须，以及嵌满背脊的折断船桅。@sea（与 @scene1 及输入图2完全一致100%）——同一片白色冰原，笼罩在石板绿天空与高耸的云墙之下。
+
+场景：延续于那片碎裂的冰原之上，利维坦修长的躯体此刻横陈其间。
+
+动作：
+镜头1（0:00–0:03）——极特写：神明的手掌收紧握住三叉戟杆，指节绷起。硬切。
+镜头2（0:03–0:07）——贴冰面的低角度：他赤裸的双脚全速冲刺踏过冰面，每一步都激起水花飞溅。硬切。
+镜头3（0:07–0:11）——他纵身一跃落上利维坦的背脊，随即沿着脊线奔跑，在皮肤上林立的断裂船桅之间穿行。硬切。
+镜头4（0:11–0:15）——宽幅侧视：利维坦弓身扭头回望向他，巨口张开，触须横扫过整个画面。硬切。
+镜头5（0:15–0:19）——正面：巨口完全张开，青色光球在咽喉深处重新点亮，自内部照亮牙齿与粉色的血肉。硬切。
+镜头6（0:19–0:24）——神明纵身直扑进那张巨口，三叉戟前指，将其贯入那颗发光的青色光球；光芒自齿缝间汹涌溢出。硬切。
+镜头7（0:24–0:27）——青色光芒流泻殆尽、彻底熄灭。利维坦的下颌无力垂落，头颅缓缓沉落于冰面之上。硬切。
+镜头8（0:27–0:30）——终幕宽幅：庞大的躯体静静横陈于白色平原之上，雾气飘散，神明渺小的身影立于它的头顶，三叉戟插在身侧，面朝空荡的地平线。定格保持。切黑场。
+
+摄影：手部用紧凑的固定机位插入镜头；冲刺用贴地跟随移动；脊背奔跑用快速横向跟拍；巨兽回身用静止宽幅；咽喉用缓慢推进；贯刺用剧烈的前冲镜头；终幕用缓慢后拉宽幅。终幕镜头须停留两拍再切。
+
+音效：全程是风声与冰层开裂声，冻土上的奔跑脚步，经过船桅时的木质吱呀，巨兽深沉的呻吟，青色能量再度升起蓄能——随后在贯刺的瞬间陷入完全的寂静，持续一拍，接着是躯体沉落时低沉的崩塌轰鸣、海水拍岸，终幕镜头下只余稀薄的风声。无对白，无字幕。
+
+限制条件：16:9画幅。必须与 @scene1 及三张输入图完全一致100%——相同的角色设计、相同的巨兽形体、相同的环境、相同的配色，两段之间不得出现形象漂移或风格跳变。每一帧都必须维持这套冷峻克制的配色；全片仅允许金色双眼与青色能量两处高饱和亮色——不得出现火焰，不得出现橙色，不得出现暖光。全程保留粗犷的手绘笔触质感；禁止3D渲染，禁止照片写实，禁止干净的线稿线条。仅限风格化的动作表现——无血液，无血腥，无内脏，无可见伤口；巨兽只是归于静止。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+
+</details>
+
+## Vibrant 3D Motion Graphics Animation of Tokyo Skyline
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2091194579689394463)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3568](https://imglume.com/prompt/3568)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a5366551-4465-497d-8d9b-a4a0500b7c08/50be0d97ce80c5200abb-imglume-generated "ImgLume-generated example for Vibrant 3D Motion Graphics Animation of Tokyo Skyline")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vibrant 3D motion graphics animation where colorful spheres, bars, and cylinders rain onto a neutral background and assemble into a stylized Tokyo skyline with Tokyo Tower, pagodas, and floating orbs. The cityscape scatters into geometric confetti, then rapidly reforms around Tokyo Skytree before dissolving again into five color groups red, dark blue, pink, teal, and yellow that settle into a clean row of flat circles. Smooth transitions, dynamic motion, polished 3D lighting, and a modern minimalist aesthetic.</code></pre>
+
+</details>
 
 ## 咖啡馆实拍+AI卡通变形搞笑短视频
 

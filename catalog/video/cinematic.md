@@ -1,9 +1,3956 @@
 # Cinematic video prompts
 
-591 source-linked prompts, newest ImgLume records first.
+640 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Spontaneous Vacation Vlog in Indonesia – Hidden Lagoon Discovery
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2091861064782839897)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3744](https://imglume.com/prompt/3744)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9ca91b29-b7c3-420b-b10d-ed430294e337/cf6d4c8b-4b4e-4df3-9f7b-c0f530c3a9ff-1787585217941 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Authentic modern handheld vacation vlog
+
+PRESERVE IDENTITY:
+
+Preserve the exact face, hairstyle, identity, skin tone, facial features and body proportions from @image1 throughout the entire video.
+
+The same adult Indonesian woman must appear consistently throughout every shot.
+
+WARDROBE:
+
+Oversized terracotta linen shirt, dusty burgundy wide-leg trousers, brown leather sandals, small gold hoop earrings, loose natural wavy hair.
+
+CORE CONCEPT:
+
+A spontaneous modern vacation vlog in Indonesia where the woman and her local boat guide accidentally discover an incredibly beautiful hidden lagoon.
+
+The location should feel real and unexplored, not like a tourist attraction.
+
+The video must immediately create curiosity and keep revealing something new every few seconds.
+
+VISUAL STYLE:
+
+Ultra-photorealistic modern live-action.
+
+Natural handheld vacation footage.
+
+Slight camera shake.
+
+Occasional imperfect framing.
+
+Natural autofocus adjustments.
+
+Realistic exposure changes.
+
+Subtle motion blur.
+
+Natural skin texture.
+
+Realistic sunlight.
+
+No artificial beauty filter.
+
+No excessive cinematic polish.
+
+No perfectly composed shots.
+
+No gimbal-perfect movement.
+
+The camera should feel like a friend casually filming the trip on a modern handheld camera/phone.
+
+00:00–00:04 — INSTANT HOOK
+
+Start in the middle of the boat ride.
+
+Do NOT show an introduction.
+
+The camera is pointed toward the ocean.
+
+The woman suddenly points ahead and says:
+
+“Wait… is that a beach?”
+
+The camera quickly swings toward a narrow opening between two large tropical cliffs.
+
+A tiny strip of white sand is barely visible through the opening.
+
+She laughs:
+
+“Go there!”
+
+The boat immediately turns toward it.
+
+00:04–00:08 — SECRET COVE
+
+The boat passes between the cliffs.
+
+The camera reveals a completely secluded turquoise cove.
+
+Crystal-clear water.
+
+White sand.
+
+Palm trees.
+
+Dark volcanic rocks.
+
+No tourists.
+
+The woman stands carefully in the moving boat.
+
+She looks around in disbelief.
+
+She says:
+
+“How is nobody here?”
+
+The camera operator responds naturally:
+
+“I don’t know!”
+
+00:08–00:12 — JUMP
+
+The woman looks down at the crystal-clear water.
+
+She smiles mischievously.
+
+She looks at the camera.
+
+“Should I?”
+
+Before the camera operator can answer, she jumps into the water.
+
+A huge splash hits the lens.
+
+The camera shakes and briefly loses the subject.
+
+Natural laughter.
+
+00:12–00:16 — UNDERWATER
+
+The camera follows her underwater.
+
+Clear tropical water.
+
+Sun rays visible beneath the surface.
+
+Small colorful fish moving around the rocks.
+
+She swims toward a small underwater cave.
+
+The camera follows.
+
+She suddenly points inside.
+
+Something shiny is visible between the rocks.
+
+She looks surprised.
+
+00:16–00:20 — THE DISCOVERY
+
+She surfaces and swims toward the boat.
+
+She holds up a small old-looking seashell with unusual markings.
+
+She laughs and says:
+
+“Look what I found!”
+
+The boat guide looks at it and says something naturally in Indonesian.
+
+She looks confused, then laughs.
+
+Keep the dialogue natural and imperfect.
+
+00:20–00:24 — RUNNING ON THE BEACH
+
+She climbs onto the beach.
+
+Instead of posing, she immediately runs toward the waterline.
+
+The camera follows behind her.
+
+She spins around, laughing.
+
+A small wave catches her feet.
+
+She almost loses balance.
+
+She laughs harder.
+
+The camera operator laughs too.
+
+00:24–00:27 — THE VIEW
+
+She walks toward a rocky edge at the far side of the cove.
+
+The camera follows.
+
+As she reaches the rocks, the view opens to an enormous turquoise ocean stretching into the distance.
+
+She stops.
+
+No dialogue for a moment.
+
+Only wind and ocean.
+
+She quietly says:
+
+“Okay… this is unreal.”
+
+00:27–00:30 — MEMORABLE ENDING
+
+She suddenly notices the boat moving away from the beach.
+
+She looks back.
+
+“HEY!”
+
+She starts laughing and runs toward the boat.
+
+The camera operator laughs while trying to follow her.</code></pre>
+
+</details>
+
+## Glamorous woman floating above clouds at pastel sunset
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2091812173391790374)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3727](https://imglume.com/prompt/3727)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/16bb3d38-0d9f-4d5e-861d-98c39860ff1b/7df43e93-31bb-4959-9246-24aeb0caacaa-1787576868458 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Continuous smooth push-in camera movement A stylish glamorous woman floating gracefully above a dense sea of fluffy cloud tops during a vibrant pastel sunset She is wearing a sleek black futuristic bodysuit, sunglasses, and high heels holding a martini glass with liquid splashing slightly and a black quilted luxury handbag The golden hour sky glows with pink, orange and purple hues Ultra-realistic, cinematic lighting, 8k resolution, slow motion.</code></pre>
+
+</details>
+
+## Super Woman martial-arts VFX scene in Korean high-school gym
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2091808731591741446)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3723](https://imglume.com/prompt/3723)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/db4133d3-34dc-418f-a9b3-e65d23f6ca4f/96ec9f27-1580-4c89-8bcd-c27e32dae30e-1787572603899 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
+
+SO-YEON: Same real human throughout, 160cm, small frame, messy black hair, black hoodie/sweats/Converse, natural skin/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late-afternoon sunbeams, dust, wooden floor, bleachers, scoreboard, basketball carts, badminton nets, benches/equipment. 5 unarmed delinquent male classmates. Korean dialogue only; no BGM/subtitles.
+
+00–06: So-Yeon crosses gym with racket and basketball. Boys block her. Ball kicked away: “어디 가려고?” She: “비켜.” One grabs her hoodie; she slips free and redirects him into the badminton net. Net rebounds; static appears only on contact.
+
+06–12: Another charges. She steps on rolling basketball, changes angle and short flying side-kick. 0.25s impact slow-mo: realistic compression + white-blue friction sparks. He hits mats. Three rush together; she parries one into another, ducks and swings around a moving equipment cart. Basketballs scatter naturally.
+
+12–20: Wrist grab → rotation → redirection → elbow → low sweep. Her hand hits cart; static crawls across metal. Two attack from opposite sides; she reads floor reflections, ducks between them, redirects a falling racket, drops it and roundhouses. 0.2s impact slow-mo: heel compression → static arcs → shuttlecocks scatter through sunlight.
+
+20–27: High/low attack. She springs from bench, passes between them and redirects one into the other; bleachers vibrate. Another shoves cart toward her. She runs at it, plants on frame, vaults over and lands behind him. 0.3s slow-mo back kick → realistic impact → dense white-blue static at heel contact.
+
+27–30: Cart crashes into bleachers; basketballs scatter. She lands low, palm to floor. Thin static ring races across floor, disturbing dust/papers; lights flicker, scoreboard glitches. Attackers remain stunned but conscious. She rises calmly. Original basketball rolls to her Converse. Tiny SNAP. She exits through drifting dust and falling shuttlecocks without looking back. CUT.
+
+COMBAT: Unarmed, continuous reactive flow: evade → redirect → momentum → angle → counter → sweep → elbow → kick → reposition. Environmental objects are never weapons. Overlapping attacks, realistic collisions, no reset poses.
+
+STATIC: White-blue friction only; contact/velocity first → charge → branching arcs → physical reaction. 0.15–0.35s impact slow-mo only. Never beams, aura, shield or projectile.
+
+PHYSICS/CAMERA: Realistic anatomy, weight, momentum, clothing, hair, dust and object reactions. Handheld pursuit camera, restrained at first, increasingly kinetic; low tracking, OTS, floor-level shots, whip-pans, brief focus hunting, genuine impact shake.
+
+NO: CGI/digital double, superhero costume, glowing eyes, magic, beams, plasma, fire, unexplained explosions, teleportation, floating, anime poses, wirework, blood/gore, weapons, subtitles, BGM, constant slow motion, static before contact, static causing impacts, or one-at-a-time attacks.</code></pre>
+
+</details>
+
+## 30‑second cinematic live‑action family comedy “FIVE MORE MINUTES”
+
+- **Original source:** [@SeharShinwari on X](https://x.com/SeharShinwari/status/2091810238836220283)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3722](https://imglume.com/prompt/3722)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/50f242ac-ddd8-4e13-a068-b8402262b1e7/c8b97bf6-8c77-4ddb-990b-bab5fa2c655d-1787570506911 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second cinematic live-action family comedy titled “FIVE MORE MINUTES.”
+
+FORMAT &amp; STYLE:
+Hyper-realistic photorealistic live action, 4K, vertical 16:9, 24fps cinematic film look, natural early-morning lighting, realistic skin, hair, fabric and physics, subtle handheld camera movement, smooth tracking shots, shallow depth of field, natural color grading and professional filmmaking. The scene should feel like a genuine family moment filmed in a real home, with natural acting and believable expressions.
+
+CHARACTER CONSISTENCY:
+MOTHER — South Asian woman around 40, medium complexion, dark hair tied in a simple low bun, wearing a comfortable light-grey long-sleeve home outfit. Warm but slightly frustrated personality.
+
+SON — South Asian teenage boy, 16–17 years old, medium complexion, messy dark-brown hair, wearing a navy-blue T-shirt and grey sweatpants. Sleepy, slightly lazy teenage personality.
+
+Keep both characters exactly consistent throughout the entire video: same faces, age, hairstyle, clothing, body proportions and skin tone.
+
+LOCATION:
+A realistic, comfortable family home in the morning. The son's bedroom contains a single bed with a grey-and-white striped blanket, wooden bedside table, digital alarm clock, school backpack, books and everyday personal items. The hallway, stairs and kitchen must clearly belong to the same house. Warm sunlight enters through the bedroom window.
+
+0–4 SEC — FIRST WAKE-UP:
+Wide cinematic shot of the bedroom. The alarm clock reads 7:00 AM. The son is deeply asleep under the blanket. The mother quietly opens the door, enters and looks at him.
+
+She says naturally:
+“Wake up, it's time for school.”
+
+The son barely reacts.
+
+4–7 SEC — FIVE MORE MINUTES:
+Close-up of the sleepy son. He slowly opens one eye, pulls the blanket closer and quietly mumbles:
+“Five more minutes…”
+
+He immediately turns away and falls asleep again.
+
+The mother looks at him with a tired, slightly frustrated expression.
+
+7–10 SEC — AGAIN:
+The mother returns and gently shakes his shoulder.
+
+“Come on, get up now.”
+
+The son pulls the blanket over his head.
+
+“Five more minutes…”
+
+The mother pauses, takes a breath and looks toward the ceiling in disbelief. Keep the humor subtle and realistic.
+
+10–17 SEC — MORNING CHAOS:
+Create a quick, coherent montage showing the mother's attempts to get him ready:
+• She opens the curtains.
+• She prepares breakfast in the kitchen.
+• She calls him from the hallway.
+• She picks up his school backpack.
+• She searches around the bedroom for a missing shoe.
+• She returns to find him still lying in bed.
+
+The son remains sleepy but gradually wakes up. Keep the same house, wardrobe and props throughout.
+
+17–21 SEC — TOO LATE:
+The son suddenly notices the time and realizes he is late.
+
+His expression changes instantly.
+
+He jumps out of bed, quickly gets dressed, grabs his backpack and rushes downstairs. The mother follows behind him, amused and frustrated.
+
+21–24 SEC — FINALLY READY:
+At the front door, the son stands ready to leave with his backpack.
+
+The mother looks relieved.
+
+Finally.
+
+He opens the door.
+
+She suddenly notices something and stops him.
+
+24–27 SEC — THE REVEAL:
+Close-up of the son's feet.
+
+He is wearing two completely different sneakers:
+one black sneaker and one grey sneaker.
+
+He slowly looks down at them.
+
+His expression changes from confidence to complete disbelief.
+
+27–30 SEC — FUNNY ENDING:
+Two-shot of mother and son.
+
+They look at each other for one silent second.
+
+Both suddenly start laughing.
+
+The son shakes his head and runs back upstairs to change his shoes while the mother remains at the door laughing.
+
+End naturally on the mother's amused expression.
+
+CINEMATOGRAPHY:
+Use realistic 35mm and 50mm cinematic lens aesthetics, natural rack focus, smooth camera pushes, subtle handheld movement, realistic motion blur and shallow depth of field. Use wider shots to establish the home and close-ups for the comedy beats. Avoid excessive camera movement.
+
+AUDIO:
+Natural morning ambience, birds outside, distant traffic, footsteps, fabric movement, alarm clock and household sounds. Use natural-sounding dialogue with realistic pauses. Add very subtle playful background music during the montage and ending.
+
+STRICT CONSISTENCY &amp; QUALITY:
+Keep the same two characters, bedroom, hallway, kitchen, backpack, alarm clock and clothing throughout. The two mismatched shoes must remain visually consistent in the final reveal. No changing faces, hairstyles, ages or outfits. No duplicate characters, extra fingers, extra limbs, distorted hands, warped faces, floating objects, sudden environment changes, unrealistic physics, random props, logos or watermarks. No supernatural effects or exaggerated VFX.
+
+The final result should look like a professionally filmed, relatable family comedy with natural performances, clear storytelling and a satisfying visual punchline.</code></pre>
+
+</details>
+
+## Fitness Freak’s Morning Routine
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2091766609404952846)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3714](https://imglume.com/prompt/3714)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c25f61c-f8e2-4f22-bc10-78b5c9fe69ed/d007331d-1b81-4cac-bee3-cc7fa1b83ddb-1787560098603 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A fit young man wakes up at 6:00 AM in a modern bedroom as soft morning sunlight enters through the curtains. He naturally gets out of bed, walks to a table, picks up a glass of water, and drinks it. He then changes into workout clothes and heads to a modern gym.
+
+Inside the gym, he performs controlled barbell squats with realistic weight, balance, muscle movement, and proper human biomechanics. After finishing his workout, he drinks a protein shake before returning home, changing into clean work clothes, and sitting at his desk to start his workday.
+
+Every movement follows real-world physics and human biomechanics, including gravity, inertia, momentum, friction, balance, collision, realistic object weight, fluid dynamics, cloth movement, sweat behavior, and natural body mechanics. The water and protein shake behave like real liquids, while the barbell, clothing, furniture, and other objects respond naturally to physical forces.
+
+Ultra-realistic visuals, cinematic 35mm camera, photorealistic skin and hair, realistic muscle definition, natural expressions, physically accurate lighting and shadows, smooth camera movement, realistic motion blur, shallow depth of field, consistent character identity, detailed environments, premium fitness-commercial aesthetic, 4K cinematic quality.</code></pre>
+
+</details>
+
+## Cinematic 3D Luxury Fragrance Commercial on Mediterranean Cliff
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2091760321866186908)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3706](https://imglume.com/prompt/3706)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/756d56d7-32db-4bb2-8017-49deb5f0bc38/4d32cd95-eb64-4351-a455-3c4249ecd17f-1787555850603 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 3D product commercial for a luxury fragrance set against a sun-drenched Mediterranean coastal cliff overlooking vibrant turquoise water, hyper-realistic, 8k resolution, photorealistic lighting, ray-traced glass reflections, shot on 35mm anamorphic lens, 60fps smooth action: Extreme macro shot starting on the thick clear glass base of a square fragrance bottle with light refracting across stone, smooth tilt-up to reveal the pale green liquid inside, the silver metallic Medusa seal centered on the front, and the silver engraved cap. Small white jasmine blossoms and olive leaves frame the bottle on a rugged stone ledge. Dynamic cut to a close-up of green olives hanging from lush branches with glowing sunbeams piercing through against a deep blue sky. Rapid transition showing the silver bottle cap smoothly popping off into the sky, revealing the nozzle, followed by an ultra-macro shot of the nozzle spraying a fine mist of fragrance in slow motion as sunlight catches the microscopic droplets. Fast forward-zooming whip shot moving through a breezy Mediterranean olive grove, emerging out onto a high cliff ledge where the perfume sits above a shimmering ocean cove. A crystal-clear glass sphere expands and engulfs the scene with glowing green olive leaves swirling through the air around it. Final centered hero shot of the fragrance bottle sitting proudly on the sunlit stone ledge, subtle water reflections beneath it, olive branches framing the top, bright lens flare streaming from above, hyper-detailed commercial aesthetic.</code></pre>
+
+</details>
+
+## 45-second ultra-photorealistic cinematic sci-fi thriller sequence
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2091742821586014212)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3698](https://imglume.com/prompt/3698)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ec71c211-af1e-489c-bfa9-a74c8aaa5020/1efe5cc5-cf04-4524-94b6-6cd093e71a69-1787553738021 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 45-second ultra-photorealistic cinematic sci-fi thriller/action sequence with the visual quality of a high-budget Hollywood blockbuster.
+CONCEPT
+
+A lone futuristic female survivor enters an abandoned underground research facility beneath a ruined megacity after receiving a mysterious distress signal.
+
+She discovers that the facility was not abandoned.
+
+Something enormous is still alive beneath it.
+
+The sequence begins as a tense mystery, escalates into a terrifying creature encounter, and ends with a spectacular revelation that changes the meaning of the signal.
+MAIN CHARACTER
+
+A beautiful young adult female survivor and futuristic warrior, approximately 25 years old.
+
+Natural oval-shaped face, expressive brown eyes, realistic skin texture, subtle facial imperfections, long slightly messy dark-brown hair and emotionally expressive features.
+
+She wears practical dark charcoal futuristic tactical clothing, lightweight armor, tactical gloves, utility belt, dark utility pants and rugged combat boots.
+
+Her clothing is functional, slightly dusty and scratched but intact.
+
+She carries a compact futuristic rifle and a small blue-white handheld scanner.
+
+Maintain perfect facial identity, hairstyle, body proportions, clothing, accessories and colors throughout the entire video.
+ENVIRONMENT
+
+A gigantic underground research facility hidden beneath a destroyed futuristic megacity.
+
+The facility contains enormous industrial corridors, abandoned laboratories, broken glass, damaged machinery, cables hanging from ceilings, flooded floors, emergency lights, old computer terminals and massive blast doors.
+
+Water drips from pipes.
+
+Steam escapes from damaged vents.
+
+Red emergency lights flicker through thick atmospheric fog.
+
+The deeper she travels, the larger the architecture becomes.
+
+Eventually she discovers an enormous underground chamber extending beyond the visible horizon.
+CREATURE
+
+A gigantic 20-meter-tall biomechanical alien creature.
+
+It should not look like a traditional monster or dinosaur.
+
+Its body combines organic anatomy with mysterious advanced technology.
+
+Dark armored biological plates cover its body.
+
+Beneath the plates are subtle glowing blue energy veins.
+
+It has multiple articulated limbs, enormous claw-like mechanical fingers, layered armor, organic cables and a partially mechanical skull.
+
+Its movements are slow, extremely heavy and intelligent.
+
+Its surface should show realistic biological textures mixed with advanced alien materials.
+
+The creature must feel physically massive and believable.
+
+No gore.
+
+No exposed organs.
+
+No cartoon appearance.
+---
+
+0–5 SECONDS — THE SIGNAL
+
+Begin with an extreme aerial shot over the ruined futuristic megacity at night.
+
+The camera slowly descends toward a massive abandoned industrial district.
+
+Cut underground.
+
+The female protagonist walks alone through a dark research corridor.
+
+Her handheld scanner emits a faint blue light.
+
+A distorted emergency transmission suddenly comes through her headset.
+
+A mysterious voice whispers:
+
+"If you can hear this... do not wake it."
+
+She stops.
+
+Silence.
+
+She slowly looks toward a gigantic sealed blast door.
+---
+
+5–10 SECONDS — THE DESCENT
+
+The blast door begins opening by itself.
+
+Heavy mechanical locks disengage one after another.
+
+Use macro shots of:
+
+- Hydraulic mechanisms
+- Rotating locking systems
+- Sparks
+- Warning symbols
+- Water dripping from the ceiling
+- Her hand tightening around her weapon
+
+The camera moves behind her as she enters.
+
+The corridor beyond is enormous.
+
+Her footsteps echo.
+
+She walks deeper into the facility.
+
+The emergency lights suddenly turn off.
+
+Complete darkness.
+---
+
+10–15 SECONDS — SOMETHING MOVES
+
+Her scanner suddenly detects an enormous lifeform.
+
+The display shows:
+
+UNKNOWN MASS: 20+ METERS
+
+She slowly raises her weapon.
+
+A gigantic shadow moves behind a translucent glass wall.
+
+She turns.
+
+Nothing.
+
+A huge metallic vibration travels through the floor.
+
+Dust falls from the ceiling.
+
+She looks upward.
+
+Something enormous is moving above her.
+---
+
+15–20 SECONDS — CREATURE REVEAL
+
+The lights suddenly activate.
+
+Reveal an enormous underground chamber.
+
+The biomechanical creature is standing motionless in the center.
+
+Its head slowly turns toward her.
+
+The camera performs a dramatic low-angle reveal from her perspective.
+
+The creature's blue energy veins gradually illuminate.
+
+Its enormous eye opens.
+
+The female warrior freezes.
+
+The creature does not attack.
+
+Instead, it looks directly at her.
+
+Her scanner suddenly begins receiving a signal from the creature itself.
+---
+
+20–25 SECONDS — THE WARNING
+
+Cut to an extreme close-up of her face.
+
+She slowly removes her headset.
+
+A distorted voice comes through the scanner.
+
+"You were never sent here to rescue us."
+
+She looks confused.
+
+The creature slowly raises one enormous hand.
+
+The facility begins shaking.
+
+Massive pieces of dust and debris fall from the ceiling.
+
+Emergency sirens activate.
+
+The entire underground chamber begins powering up.
+---
+
+25–30 SECONDS — THE FACILITY AWAKENS
+
+Massive mechanical structures surrounding the chamber activate.
+
+Thousands of dormant lights turn on.
+
+Huge circular machines rotate around the creature.
+
+The floor begins transforming.
+
+Energy travels through enormous cables beneath the glass floor.
+
+The camera rapidly pulls backward.
+
+Reveal that the creature is actually standing inside a gigantic circular machine.
+
+It was not imprisoned.
+
+It was being used as a power source.
+---
+
+30–34 SECONDS — THE ATTACK
+
+Suddenly, the facility's automated defense system identifies the female warrior as an intruder.
+
+Dozens of futuristic security drones emerge from hidden compartments.
+
+Red targeting lasers sweep across the room.
+
+She immediately dives behind destroyed machinery.
+
+The drones open fire.
+
+Energy impacts strike the walls around her.
+
+Concrete and sparks explode outward.
+
+She rolls across the floor and fires back.
+
+Use fast, realistic action cinematography.
+---
+
+34–38 SECONDS — THE CREATURE MOVES
+
+The enormous biomechanical creature suddenly moves.
+
+Its massive hand crashes through the security drones.
+
+Several drones are destroyed instantly.
+
+The creature tears apart the facility's energy cables.
+
+The entire chamber begins collapsing.
+
+The female warrior looks upward in shock.
+
+The creature looks directly at her.
+
+It extends one enormous hand toward her.
+
+She hesitates.
+
+Then reaches toward it.
+---
+
+38–42 SECONDS — THE IMPOSSIBLE REVELATION
+
+As her hand touches the creature's enormous armored finger, a massive blue-white energy pulse travels through the chamber.
+
+Suddenly she experiences a rapid vision:
+
+A futuristic city floating above the clouds.
+
+Thousands of gigantic biomechanical creatures standing beneath it.
+
+A colossal alien civilization.
+
+Then—
+
+A massive fleet of unknown spacecraft approaching Earth.
+
+The vision disappears.
+
+She falls to her knees.
+
+The creature slowly looks toward the ceiling.
+
+Something is coming.
+---
+
+42–45 SECONDS — FINAL CLIFFHANGER
+
+The entire underground facility suddenly becomes silent.
+
+The camera rapidly pulls upward through multiple layers of the underground complex.
+
+Continue rising through the ruined city.
+
+Break through the clouds.
+
+Reveal the night sky.
+
+Hundreds of enormous unidentified spacecraft are silently appearing above the planet.
+
+They completely fill the sky.
+
+No weapons fire.
+
+No explosions.
+
+Just an enormous silent fleet.
+
+Cut back underground.
+
+The female warrior looks upward through a destroyed section of the facility.
+
+The gigantic creature stands behind her.
+
+Both stare toward the sky.
+
+The scanner activates one final time.
+
+A mysterious voice says:
+
+"They found us."
+
+CUT TO BLACK.
+
+CINEMATOGRAPHY
+
+Professional Hollywood science-fiction cinematography.
+
+Use:
+
+- High-altitude aerial shots
+- Slow atmospheric tracking shots
+- FPV-style corridor movement
+- Extreme close-ups
+- Macro mechanical shots
+- Low-angle creature perspectives
+- Handheld action footage
+- Over-the-shoulder shots
+- Dynamic tracking shots
+- Slow-motion impacts
+- Massive wide establishing shots
+- Dramatic vertical camera pull-outs
+- Final orbital-scale reveal
+
+Camera movement must feel physically motivated and cinematic.
+
+VISUAL STYLE
+
+Ultra-photorealistic live-action.
+
+High-budget Hollywood sci-fi thriller.
+
+Realistic human skin.
+
+Physically accurate lighting.
+
+Detailed alien materials.
+
+Realistic industrial machinery.
+
+Realistic reflections.
+
+Wet surfaces.
+
+Volumetric fog.
+
+Steam.
+
+Dust.
+
+Sparks.
+
+Atmospheric smoke.
+
+Natural motion blur.
+
+Cinematic depth of field.
+
+Subtle film grain.
+
+Anamorphic lens characteristics.
+
+4K HDR.
+
+Premium production design.
+
+LIGHTING
+
+Dark industrial atmosphere.
+
+Cold blue ambient light.
+
+Red emergency lighting.
+
+Blue-white alien energy.
+
+Strong volumetric beams through smoke.
+
+Wet reflective surfaces.
+
+Deep shadows.
+
+Natural falloff.
+
+Lighting should realistically illuminate the character, creature and environment.
+
+REALISM
+
+The underground facility must feel enormous.
+
+The creature must have convincing weight and inertia.
+
+Every footstep and impact should affect the environment.
+
+Dust must react naturally.
+
+Water must splash realistically.
+
+The character's movement must be anatomically correct.
+
+Weapons should have believable recoil and physical interaction.
+
+The creature should move slowly and deliberately rather than behaving like a fast CGI monster.
+
+CONTINUITY
+
+Maintain perfect consistency of:
+
+- Female character identity
+- Face
+- Hair
+- Age
+- Body proportions
+- Clothing
+- Weapon
+- Scanner
+- Creature design
+- Creature colors
+- Facility architecture
+- Lighting
+- Environmental damage
+
+No morphing.
+
+No redesigns.
+
+No unexplained changes between shots.
+
+NEGATIVE PROMPT
+
+No cartoon, no anime, no video-game graphics, no plastic CGI, no rubbery creature movement, no unrealistic physics, no blood, no gore, no exposed organs, no distorted faces, no extra fingers, no extra limbs, no malformed hands, no character morphing, no outfit changes, no creature redesign, no random explosions, no excessive lens effects, no flickering objects, no teleporting characters, no impossible camera movement, no floating debris, no unrealistic lighting.
+
+FINAL FEEL
+
+The finished 45-second sequence should feel like the opening or final scene of a $200-million Hollywood sci-fi mystery film.
+
+It begins with isolation and suspense.
+
+It builds into a terrifying creature reveal.
+
+It becomes an action sequence.
+
+Then the audience discovers the creature is not the enemy.
+
+The final reveal of hundreds of alien spacecraft should completely change the meaning of everything that happened before it.
+
+The final shot should leave the audience thinking:
+
+"Who are they, and why did they come to Earth?"</code></pre>
+
+</details>
+
+## Field hospital medic scene
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2091744186186027386)
+- **Recommended model:** `seedance`
+- **Source model(s):** `nanobanana`, `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3693](https://imglume.com/prompt/3693)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/22f0369f-9f78-48f1-b021-7a49be7e6162/7da0aec4-2d8a-4698-9105-afa505062ef1-1787551614372 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>&lt;&lt;&lt;image_1&gt;&gt;&gt; — Ines
+
+Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain,
+halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld inside
+the scuffle — the camera is jostled and knocked by the people restraining her, losing her
+frame and finding her again, shoved sideways twice, then dropping to the duckboards with her
+and ending on its side looking up at her and at the ring of faces standing over her; one
+continuous take, no cuts. Light: cold blue dawn through canvas, bare work bulbs swinging on
+a cable throwing hard moving shadows, generator flicker. Style &amp; Mood: field hospital at
+first light, blue-grey and dirty amber, war-film grain, generator hum, canvas cracking in
+wind, no score. Narrative Summary: a medic breaks down in front of the whole ward while
+reporting her losses. Starting Composition: camera 3ft from her face, handheld, already
+unsteady. Ines (&lt;&lt;&lt;image_1&gt;&gt;&gt;) stands frame-center already mid-shout at an officer
+off-frame, rows of cots and wounded men behind her, covered stretchers deep frame-right,
+bulbs swinging overhead.
+
+Dynamic Description: (0s–5s) Handheld tight 35mm, already knocked off balance at frame one,
+catching her face in snatches. She is screaming before the shot begins, face contorted,
+tendons standing in her neck, tears cutting clean lines through the soot — voice torn open,
+shouting: "FOUR. There were forty of us and there's FOUR." She rips the loose dressing off
+her forearm and hurls it, then drives her fist down onto a folding table so the tin cups
+jump. (5s–10s) Two people grab her from behind and she fights them hard, twisting; the
+camera is shoved sideways by a shoulder, loses her completely for half a second, and finds
+her again mid-struggle, still shouting with no words left in it, the ampoules on her chest
+rattling. (10s–15s) Her legs go. They lower her and the camera goes down to the duckboards
+with her, ending on its side. From the floor, looking up: she is on her knees, doubled over
+with both hands in her cropped hair, sobbing at full volume with her forehead almost on the
+boards, a ring of faces standing over her, the bulbs swinging behind their heads.
+
+Static Description: field hospital tent at dawn, rows of cots, swinging bulbs, canvas,
+covered stretchers, folding table, tin cups, duckboards. Negative: no subtitles, no
+captions, no text overlay, no cross-dissolve, no transparency transitions, no wipes, no
+cuts, no hard cuts, no edits, no shot changes — single uninterrupted take, no mirror
+reflections, no doubled characters, no visible crew, no wound detail, no slow-motion, no
+music, no score, no composed crying, no build-up. She is already screaming in the very
+first frame and the camera must be physically knocked at least twice.</code></pre>
+
+</details>
+
+## Photorealistic cinematic flood escape in Asian wet market
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2091744726273916945)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3691](https://imglume.com/prompt/3691)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7fab6165-7b7d-4ce7-81b2-0e935af47d28/b74e3ee9-f601-454f-97b3-3a33a3e14da9-1787551549865 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic, high-budget cinematic action scene in a crowded traditional Asian wet market during heavy rain and severe flooding. A young Asian woman with long wet dark hair, wearing a pink waterproof rain suit and black rubber boots, runs through flooded market aisles while a massive wave of water rushes behind her.
+
+Show seafood and vegetable stalls, floating crates, overturned objects, panicked crowds, rushing dirty water, reflections, splashes and realistic wet details. Use fast handheld tracking, close-ups, low-angle water shots, side tracking and wide shots, with realistic physics, motion blur and dynamic camera shake.
+
+She jumps over obstacles and runs across raised market surfaces. Near the end, she reaches a raised area where a frightened cow is trapped by the flood. She looks at it and urgently says: “Come on, girl! Move!” She guides the cow toward safety.
+
+Keep her face, hairstyle and pink outfit consistent. Dark rainy atmosphere, cool blue-gray tones mixed with warm fluorescent lights, cinematic depth of field, volumetric lighting, realistic skin, water and reflections, subtle film grain, 4K anamorphic Hollywood action style.
+
+Add large white brush-stroke typography “RUN” briefly across the center.
+
+No cartoon look, CGI appearance, distorted anatomy, extra fingers, duplicated people or face changes.</code></pre>
+
+</details>
+
+## Everyday Grocery Shopping Vlog
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091709845124927904)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3690](https://imglume.com/prompt/3690)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/00c0bb82-788f-4211-8181-1748ea9bb25b/d0582a3a-1c02-43ba-b1cc-44605ba2e67e-1787549556677 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/00c0bb82-788f-4211-8181-1748ea9bb25b/1cab9607-6b45-4cbe-9173-474ac14b932d-1787549556677 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 30 seconds
+
+STYLE:
+Ultra-photorealistic live-action everyday lifestyle vlog.
+Premium cinematic commercial quality.
+Natural human behavior.
+Realistic hand movements.
+Realistic grocery interaction.
+Natural facial expressions.
+Smooth cinematic camera movement.
+Authentic everyday atmosphere.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = MAIN FEMALE CHARACTER
+@IMG2 = HOME / ENTRANCE
+@IMG3 = SUPERMARKET
+@IMG4 = GROCERY SHOPPING ACTION
+@IMG5 = CHECKOUT
+@IMG6 = HOME GROCERY ARRANGEMENT
+
+Use all references consistently.
+
+CHARACTER CONSISTENCY:
+
+The EXACT SAME woman from @IMG1 must appear throughout the entire video.
+
+Preserve her exact face, facial features, hairstyle, skin tone, body proportions, age appearance and overall identity.
+
+Keep her outfit consistent throughout the shopping journey.
+
+Do not change her identity or appearance between scenes.
+
+--------------------------------------------------
+
+0–4 SECONDS — LEAVING HOME
+
+Use @IMG1 + @IMG2.
+
+The woman prepares to go grocery shopping.
+
+She checks her shopping list on her phone.
+
+She picks up her handbag and walks toward the front door.
+
+She opens the door and leaves her home.
+
+CAMERA:
+Smooth cinematic tracking shot from inside the entrance following her toward the door.
+
+Natural daylight.
+
+Realistic walking movement.
+
+--------------------------------------------------
+
+4–8 SECONDS — ARRIVING AT SUPERMARKET
+
+Use @IMG3.
+
+Transition to the supermarket.
+
+The woman arrives at the supermarket entrance.
+
+She takes a shopping cart.
+
+She enters the store and begins walking toward the fresh produce section.
+
+CAMERA:
+Smooth forward tracking shot following her and the shopping cart.
+
+Keep the supermarket environment clearly recognizable.
+
+--------------------------------------------------
+
+8–15 SECONDS — SELECTING GROCERIES
+
+Use @IMG4.
+
+The woman pushes the shopping cart through the produce aisle.
+
+She stops at the vegetable section.
+
+She picks up a fresh tomato and examines it.
+
+She places the tomato into the shopping cart.
+
+She selects several fresh vegetables and fruits.
+
+She places them naturally into the cart.
+
+She briefly checks her shopping list on her phone.
+
+Then she continues shopping.
+
+CAMERA:
+Alternate between:
+
+medium tracking shot,
+close-up of her hand selecting vegetables,
+close-up of groceries entering the cart,
+medium shot of her checking the phone.
+
+Keep every action physically realistic.
+
+--------------------------------------------------
+
+15–20 SECONDS — CHECKOUT
+
+Use @IMG5.
+
+The woman arrives at the checkout counter with her full shopping cart.
+
+The groceries are placed on the checkout area.
+
+The cashier scans several items.
+
+The woman completes the payment using her phone/card.
+
+She receives the receipt.
+
+She collects her grocery bags.
+
+CAMERA:
+Medium-wide checkout shot.
+
+Brief close-up of scanning.
+
+Brief close-up of payment.
+
+Return to the woman collecting her bags.
+
+Natural everyday interaction.
+
+--------------------------------------------------
+
+20–24 SECONDS — RETURNING HOME
+
+Use @IMG2 + @IMG6.
+
+The woman arrives back home carrying her grocery bags.
+
+She enters the kitchen and places the bags on the countertop.
+
+She begins unpacking them.
+
+CAMERA:
+Smooth follow shot as she enters the kitchen.
+
+--------------------------------------------------
+
+24–30 SECONDS — ORGANIZING GROCERIES
+
+Use @IMG6.
+
+She takes fresh vegetables from the bags.
+
+She places vegetables neatly into the refrigerator.
+
+She places fruit into a fruit bowl.
+
+She puts pasta, bread and dry groceries into the kitchen cabinet.
+
+She looks at the organized kitchen.
+
+She gives a small natural satisfied smile.
+
+CAMERA:
+Begin with a medium shot.
+
+Cut briefly to vegetables entering the refrigerator.
+
+Cut to fruit being placed into the bowl.
+
+Finish with a gentle cinematic push toward her satisfied expression.
+
+CUT TO BLACK.
+
+--------------------------------------------------
+
+CAMERA STYLE:
+
+Use smooth professional lifestyle-vlog cinematography.
+
+Natural tracking shots.
+
+Medium shots for actions.
+
+Close-ups for important details.
+
+Gentle push-ins.
+
+No excessive camera shake.
+
+No unnecessary fast camera movements.
+
+Keep the woman visually readable throughout.
+
+--------------------------------------------------
+
+REALISM PRIORITY:
+
+Natural walking.
+Natural hand movements.
+Realistic shopping cart physics.
+Realistic handling of vegetables.
+Realistic phone interaction.
+Realistic checkout behavior.
+Realistic grocery bags.
+Realistic refrigerator interaction.
+Natural facial expressions.
+Natural body mechanics.
+No exaggerated movements.
+No teleportation.
+No floating objects.
+No instant scene changes.
+
+--------------------------------------------------
+
+CONSISTENCY RULES:
+
+Same woman throughout.
+Same face throughout.
+Same hairstyle throughout.
+Same outfit throughout.
+Same grocery items throughout.
+Same supermarket environment.
+Same home environment.
+No face morphing.
+No different woman.
+No distorted hands.
+No extra fingers.
+No changing groceries.
+No cartoon.
+No anime.
+No fantasy elements.
+No text.
+No logos.
+No watermark.
+
+FINAL FEELING:
+
+The video should feel like a genuine cinematic everyday-life vlog showing a woman completing a normal grocery-shopping trip from leaving home to returning home and organizing her groceries.
+
+Natural.
+Realistic.
+Relaxed.
+Professional.
+Cinematic.</code></pre>
+
+</details>
+
+## Young Korean woman barefoot after sandal breaks in summer neighborhood – handheld DV style
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091724049684783146)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3687](https://imglume.com/prompt/3687)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6f3a4882-c7bc-4b42-9916-175245bc8403/1f5adf93-eb22-40e1-a0b1-c7ad4ec4d77c-1787549462251 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural appearance, black wavy hair loosely tied into a messy side ponytail, fitted pastel-blue short top, loose white pajama pants, simple silver necklace and casual flat sandals. Realistic skin texture, minimal makeup, authentic facial expressions, natural body movement and completely consistent identity throughout.
+
+LOCATION: Peaceful Korean residential neighborhood on a warm summer morning. Narrow concrete lane, small homes, old concrete walls, potted plants, bicycles, utility poles, overhead wires, laundry hanging outside houses and a small neighborhood convenience store nearby.
+
+CAMERA / LOOK: Early-2000s handheld DV camcorder operated by a friend. Strong natural camera shake, drifting composition, autofocus hunting, faded colors, soft digital image, exposure shifts, occasional motion blur, compression noise and imperfect accidental zooms. No polished modern cinematography.
+
+SEQUENCE:
+
+She steps outside her house carrying a small reusable shopping bag.
+
+She locks the door and walks casually down the narrow lane toward the nearby neighborhood store.
+
+A few school children walk past wearing backpacks on their way to school.
+
+She smiles, waves and says, “Good morning!”
+
+The children happily wave back and continue toward school.
+
+She reaches the small store, buys a carton of milk and places it carefully inside her shopping bag.
+
+She steps back outside and starts walking home through the same quiet lane.
+
+Everything seems completely normal.
+
+A few moments later, she suddenly feels something strange under her foot.
+
+She stops.
+
+Looks down.
+
+The strap on her sandal has come loose.
+
+She tries to push it back into place with her fingers.
+
+It slips out again.
+
+She crouches down and tries another way to fix it.
+
+The strap refuses to stay attached.
+
+She looks at the broken sandal in disbelief.
+
+Her friend zooms awkwardly toward her.
+
+She laughs and makes one final attempt to repair it.
+
+The strap immediately pops loose again.
+
+She gives up.
+
+She takes off both sandals, holds them together in one hand, keeps the milk bag in the other, and continues walking barefoot down the lane.
+
+The same school children from earlier are now farther down the street. They notice her carrying her sandals and smile.
+
+She laughs and waves at them.
+
+She continues walking toward home, barefoot and completely unbothered.
+
+Her friend follows behind with the shaky camera.
+
+She turns toward the camera, laughs and says:
+
+“I only went out for milk.”
+
+She keeps walking barefoot as the camera slowly follows her down the sunny lane.
+
+AUDIO: Birds, footsteps on concrete, bicycle bells, distant children, light neighborhood conversations, soft traffic, store door chime and natural residential ambience. No music, no narration.
+
+Warm summer morning sunlight, nostalgic early-2000s DV colors, authentic handheld imperfections, realistic sandal physics, natural expressions, subtle everyday humor, candid neighborhood energy and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## Ultra-realistic continuous martial-arts fight between Master Taekwondo and Master Kung Fu
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091508931520856435)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3685](https://imglume.com/prompt/3685)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b2d7fc2c-6ffe-423f-a1c4-3c7f8a5ad0b3/cbcba376-d05f-4da0-bfde-f985f2c43d2c-1787545406596 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 30 SECONDS | 16:9 | 8K CINEMATIC
+
+IMAGE 1 = MASTER TAEKWONDO
+IMAGE 2 = MASTER KUNGFU
+
+Create an ultra-realistic continuous martial-arts fight using IMAGE 1 and IMAGE 2 as exact character references. Preserve facial identity, hairstyle, body proportions, wardrobe, accessories and appearance throughout. No morphing, face swapping or identity drift.
+
+STYLE: ARRI Alexa 65 cinematic look, 8K detail, 35mm anamorphic lens, realistic skin and fabric, practical lighting, cinematic HDR, natural motion blur, subtle film grain, physically accurate choreography and grounded action-film cinematography.
+
+0–5 SEC — OPENING CLASH
+Inside an abandoned industrial warehouse, IMAGE 1 attacks with a powerful roundhouse → spinning back kick. IMAGE 2 narrowly evades and counters with rapid Kung Fu punches, elbow and low kick. IMAGE 1 blocks, pivots and answers with body kick → high roundhouse. Use aggressive handheld camera, low-angle tracking and Dutch angles. Every impact produces realistic body recoil and weight transfer.
+
+5–8 SEC — TRANSITION
+IMAGE 1 launches a spinning hook kick. Camera follows the rotation with a fast whip-pan and realistic motion blur. The spinning movement seamlessly carries the fight into a new location. The transition must feel continuous—no teleportation, cuts or frozen poses.
+
+8–15 SEC — CONTINUOUS COMBAT
+The fight immediately resumes. IMAGE 1 attacks with jumping side kick → spinning kick. IMAGE 2 ducks underneath and counters with a fast Kung Fu combination. Both fighters maintain realistic footwork, momentum, distance and balance. Camera performs a 360° orbit, low tracking shots and energetic handheld movement.
+
+15–21 SEC — ESCALATION
+Both fighters exchange increasingly aggressive combinations: Taekwondo kicks against Kung Fu punches, elbows and sweeps. Include blocks, evasions, pivots, feints and counterattacks. Impacts visibly affect posture, balance and movement. No exaggerated wire-fu or impossible physics.
+
+21–25 SEC — FINISHING SETUP
+IMAGE 1 gains control with low kick → body kick → spinning back kick. IMAGE 2 is driven backward and briefly loses balance. Camera rapidly pushes toward IMAGE 1 as he prepares the final attack.
+
+25–28 SEC — FINAL IMPACT
+IMAGE 1 explodes forward with a jumping roundhouse followed by a powerful turning kick directly into IMAGE 2. The collision feels heavy and physically devastating. Use controlled cinematic impact shake and realistic full-body reaction.
+
+28–30 SEC — EXTREME SLOW MOTION
+At the exact impact, shift into dramatic slow motion. IMAGE 2 reacts with realistic physics: torso twisting, shoulders rotating, hips following the force, feet briefly leaving the ground and clothing reacting naturally. Camera performs a slow cinematic orbit toward IMAGE 1.
+
+FINAL FRAME: IMAGE 1 stands firmly in a powerful Taekwondo stance, breathing heavily, while IMAGE 2 lies/falls in the background.
+
+CAMERA: dynamic handheld, Dutch angles, low-angle tracking, rapid push-ins, whip-pan transition, 360° orbit, controlled impact shake, dramatic slow motion.
+
+NEGATIVE: anime, cartoon, CGI look, plastic skin, video-game appearance, wire-fu, floating characters, impossible physics, teleportation, sudden position changes, duplicated limbs, extra fingers, distorted faces, body deformation, face morphing, identity drift, wardrobe changes, random choreography, weapons.
+
+CONTINUITY: One uninterrupted physical fight. Maintain exact character identity, wardrobe, proportions and fighting styles. Preserve spatial continuity, realistic momentum and cause-and-effect movement. Every action must naturally lead into the next.</code></pre>
+
+</details>
+
+## Realistic handheld 30‑second street‑life video of a young Korean woman
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2091554022297936297)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3676](https://imglume.com/prompt/3676)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0d223f30-bab5-40b1-93eb-7210a2ffbd85/bc8c4f18-f889-4680-97c8-99535b6d073c-1787532817698 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic, cinematic 30-second video for Seedance 2.5 featuring the same young Korean woman throughout the entire sequence, with consistent facial identity, body proportions, hairstyle, clothing, and natural skin texture.
+
+SUBJECT:
+A beautiful Korean woman in her early 20s with a natural, believable appearance. She wears an attractive everyday summer outfit: a fitted cropped T-shirt, stylish high-waisted casual shorts that are fashionable but natural for everyday streetwear, clean black sneakers, and a delicate simple necklace. Her black hair is loosely tied back with a few natural strands framing her face. Minimal makeup, realistic skin texture, subtle imperfections, expressive eyes and a relaxed, confident personality.
+
+SETTING:
+A charming older Korean neighborhood on a warm late-afternoon day. Narrow residential streets, low concrete houses, small local shops, parked bicycles and scooters, utility poles, faded signs, leafy trees, pedestrians in the distance and authentic Korean street details. The environment must feel genuinely lived-in rather than staged.
+
+VISUAL STYLE:
+Ultra-photorealistic cinematic documentary footage with the feeling of an authentic viral street-life video. Natural sunlight, realistic shadows, physically accurate reflections, believable skin and fabric textures, subtle lens imperfections, realistic depth of field and natural motion. High-quality modern capture with occasional handheld movement that feels human-operated, not artificially generated. No excessive beauty filter, plastic skin, CGI appearance or overly perfect composition.
+
+30-SECOND SEQUENCE:
+
+0–5 SEC:
+The woman walks casually through the narrow neighborhood street toward the camera, occasionally glancing around. A gentle breeze moves her hair and T-shirt naturally. The camera follows her from slightly behind and then moves alongside her.
+
+5–10 SEC:
+She notices a tiny neighborhood snack shop and slows down. She looks through the open storefront, smiles naturally and walks closer. Capture small spontaneous gestures and realistic eye movement.
+
+10–16 SEC:
+She orders a popular Korean street snack from the vendor. Show close-up details of the food being prepared: steam rising, utensils moving, sizzling sounds and realistic hand movements. She watches with genuine curiosity and exchanges a short laugh with the vendor.
+
+16–22 SEC:
+She receives the hot snack, carefully blows on it because it is still hot, then takes her first bite. Her reaction is spontaneous and genuinely happy. Capture a brief close-up of her expression followed by a wider handheld shot.
+
+22–27 SEC:
+She suddenly notices the camera filming her. She gives a playful surprised smile, steps slightly toward the lens and casually gestures as if inviting the viewer to follow her. Keep the interaction natural and unscripted-looking.
+
+27–30 SEC:
+She turns and continues walking down the neighborhood lane. The camera follows for a few steps before naturally falling behind. End with her disappearing around a corner while the warm afternoon street ambience continues.
+
+CAMERA:
+Natural handheld cinematography, subtle operator movement, realistic walking camera motion, occasional focus adjustment, natural rack focus between the woman and surroundings, realistic motion blur, mild exposure adaptation and imperfect framing. Mix medium tracking shots, environmental wides, natural close-ups and over-the-shoulder shots. Avoid excessive camera movement or artificial cinematic effects.
+
+AUDIO:
+Authentic Korean neighborhood ambience only: footsteps, distant conversations, birds, passing scooters, bicycles, cooking sounds, light traffic, food sizzling, utensils and natural street noise. Include short natural Korean conversation between the woman and vendor, but keep dialogue casual and understated. NO background music.
+
+REALISM REQUIREMENTS:
+Maintain exact character identity across every shot. No face changes, age changes, hairstyle changes, clothing changes, duplicate people, warped hands, extra fingers, distorted food, floating objects, impossible shadows, inconsistent lighting, artificial facial expressions, unnatural walking, rubbery motion, text artifacts or CGI-looking environments. Every interaction must obey real-world physics. Make the entire sequence feel like genuine footage captured spontaneously in a real Korean neighborhood.
+
+FORMAT:
+30 seconds, high-quality Seedance 2.5 generation, cinematic realism, natural 16:9 composition, detailed environmental textures, believable human motion, coherent continuity between shots, professional image quality while retaining the authenticity of real handheld street footage.</code></pre>
+
+</details>
+
+## PYONA 水系觉醒 校园走廊 30秒超写实动作短片
+
+- **Original source:** [@pyona_ai on X](https://x.com/pyona_ai/status/2091520047978307662)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3662](https://imglume.com/prompt/3662)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b32e74bd-1631-476a-a3aa-2be59e74d8e8/f0526d4d-ce67-46df-9bd6-a68a8fe81b20-1787509597483 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SEEDANCE 2.5 — PYONA 水系觉醒 / 校园走廊 / 参考图外观锁定最终版
+
+Use exactly 1 uploaded image asset.
+image1 = PYONA唯一且最高优先级的人物身份、脸部、发型、体型、服装与所有可见配件参考。
+严格保持image1中PYONA可辨识的脸部身份、五官比例、脸型、肤色、发型、发长、发色、刘海、分缝、发丝质感、体型、身体比例、服装、鞋子以及所有实际可见配件一致。
+
+PYONA的全部外观只能来自image1。
+
+不要额外指定、创造、替换或重新设计image1中不存在的：
+
+发色
+
+发型
+发夹
+发饰
+首饰
+校服款式
+上衣
+裙子
+裤子
+鞋子
+其他配件
+如果image1中存在某件服装或配件，就保持它；如果image1中不存在，就绝对不要自动添加。
+
+即使场景发生在学校，也不要因为“校园背景”而自动替换成其他校服。
+不要根据文字重新设计PYONA造型。
+image1视觉信息始终高于任何通用校园服装设定。
+
+整支视频里只能存在一个PYONA。必须像同一个真实人物自然连续拍摄，禁止换脸感、贴图感、AI塑料皮肤、3D感、游戏CG感。
+生成一段30秒、16:9横屏、原生4K、24fps、one continuous generation 的超写实真人电影级韩国校园超自然动作短片。REAL LIVE-ACTION human actors + real photographic school corridor + premium cinematic water VFX。人物必须始终是真人质感，VFX服务于真实近身格斗。
+【人物与敌人】
+PYONA：成年年轻韩国女性。她从第一帧到最后一帧的脸部、头发、服装、鞋子和所有可见配件全部严格按照image1保持一致，不得因动作、打斗、镜头变化或水系觉醒而改变造型。
+
+前半段明显被压制、紧张、狼狈；觉醒后不是英雄摆拍，而是身体先于意识自动战斗，情绪核心始终带着震惊、压迫下的本能反击。
+
+敌人：5名成年年轻韩国女性不良学生，全部徒手，全部不同脸、不同发型、不同气质，绝对禁止复制脸、双胞胎脸或像同一演员重复出现。她们穿现实韩国校园环境中合理但略显凌乱的服装，造型彼此存在差异。她们持续围攻、包夹、抓扯、挥拳，从前后左右同时施压，不轮流等待。
+
+【场景】
+明亮韩国学校走廊，白天中性光。两侧浅色储物柜、瓷砖地面、教室门、玻璃窗、荧光顶灯。空间真实、狭长、有自然回声。不要品牌、不要可读文字、不要海报焦点。
+【声音】
+无BGM，无配乐，无字幕，无旁白。
+
+所有台词必须为韩语。
+
+只保留2句短台词：
+
+00:00前后，领头者：
+“뭘 꼬라봐?”
+10秒左右，另一名敌人：
+“잡아!”
+
+PYONA全程无台词。
+其余全部通过呼吸、脚步、衣料摩擦、人体撞击、水流、水压、储物柜震动、纸张和环境回声表现。
+
+【战斗与能力核心】
+PYONA全程徒手。
+
+战斗风格：
+Taekwondo × Karate × Pencak Silat。
+
+强调高速近身、流动衔接和真实身体惯性：
+EVADE → PARRY → REDIRECT → COUNTER → SWEEP / ELBOW / SIDE KICK / ROUNDHOUSE / BACK KICK → ANGLE CHANGE。
+
+所有动作必须从前一个动作的身体惯性自然连接，不要游戏式停顿或Pose。
+水系能力必须强烈、持续、清楚可见，但永远依附于PYONA真实身体动作，而不是独立远程法术。
+
+移动时：
+脚底附近的水被真实推开，身后拖出半透明水带、薄水膜、湿润轨迹和碎裂水雾。
+
+变向时：
+水流因惯性先甩出弧线，再重新卷回她的运动方向。
+
+防御时：
+手掌和前臂周围瞬间形成高速旋转的透明薄水膜，用于卸力与redirect。
+攻击时：
+PHYSICAL CONTACT → WATER COMPRESSION → CAVITATION → HYDRAULIC COLLAPSE → PRESSURE BURST。
+
+水不能脱离PYONA身体独立攻击。
+禁止：
+水炮、巨大海浪、水龙、魔法阵、蓝色激光、能量球、瞬移。
+
+环境反应只能来自：
+
+PYONA真实打中敌人 → 水压冲击释放 → 储物柜、纸张、灯光、窗面产生二次反应。
+
+禁止PYONA主动攻击储物柜、墙壁、门窗或其他无生命物体。
+
+【TARGET LOCK / 最高优先级】
+PYONA的每一拳、每一掌、每一肘、每一次扫腿、侧踢、回旋踢、后踢，都必须攻击一个真实存在、清楚可见、处于正确攻击距离内的女性敌人。
+
+必须遵守：
+VISIBLE ENEMY
+→ PYONA确认目标位置
+→ BODY ORIENTATION
+→ ATTACK
+→ CLEAR PHYSICAL CONTACT
+→ ENEMY REACTION
+→ WATER VFX
+
+绝对禁止：
+朝空处攻击
+朝储物柜攻击
+踢墙
+拳打空气
+攻击不存在的镜外目标
+在目标离开攻击距离后仍然完成原来的空挥动作
+每次重要踢击前，摄影机必须让观众清楚看到敌人就在攻击轨迹终点。
+
+NO CONTACT = NO LARGE WATER EFFECT。
+【时间轴】
+
+00:00–00:04
+五名女生把PYONA堵在储物柜前。
+PYONA低头、缩肩、明显被压制。她的全部外观，包括头发、服装和配件，严格保持image1。
+
+领头者逼近，冷笑着说：
+
+“뭘 꼬라봐?”
+下一瞬间，她用张开的手掌从上方狠狠拍击PYONA头顶。
+
+必须真实接触。
+
+PYONA头部和肩膀因冲击猛地下沉，image1中的头发与实际可见发饰或配件根据真实惯性自然晃动，但绝不能新增或改变任何造型。
+
+她后背撞上储物柜，失去平衡，真实地跌坐并侧倒在瓷砖地面。
+
+她手中的透明水瓶掉落，瓶中的清水迅速流到她手边。
+其他几人低声嗤笑。
+
+不要马上反击，让PYONA真正狼狈地倒地一拍。
+
+00:04–00:07
+PYONA喘息着，一手撑地想起身，手指碰到地上的水。
+水突然停止自然流动。
+数十颗细小水滴缓缓违反重力升起。
+附近储物柜表面的少量冷凝水也开始脱离表面，朝她手边聚集。
+一条极细、半透明的水线慢慢缠绕她的手指和手腕。
+画面安静、诡异、漂亮。
+PYONA只来得及露出非常短暂的震惊。
+
+不要让她停下来玩水或长时间观察。
+00:07–00:10
+领头者再次冲上来挥拳，目标明确为PYONA脸侧。
+0.25秒 micro slow motion。
+拳头距离PYONA脸部只剩几厘米时，她的身体突然自行反应。
+HEAD SLIP避开拳头。
+左前臂准确接触对方手腕并向外REDIRECT。
+前臂周围瞬间卷起一层薄而透明的旋转水膜。
+
+同一动作中，PYONA右拳短直线准确击中领头者腹部。
+
+必须明确打中敌人身体，绝不能打向储物柜。
+
+接触瞬间：
+
+WATER COMPRESSION → CAVITATION POP。
+一圈透明小型水压波从腹部真实命中点爆开。
+
+领头者被真实拳击和水压共同震退、失去平衡并摔倒。
+
+PYONA最多只有不到半秒的震惊反应，立刻进入下一轮围攻。
+
+00:10–00:15
+另一名敌人大喊：
+
+“잡아!”
+
+其余四人同时扑向PYONA。
+
+三人首先进入有效攻击距离：
+
+左侧一人伸手抓肩。
+正面一人挥拳。
+右侧一人快速逼近。
+
+PYONA侧身躲开正面拳。
+
+手掌周围的透明水膜准确拍开左侧敌人抓来的手腕。
+短肘准确撞中该敌人上胸。
+
+紧接着LOW SWEEP准确扫中正面敌人的小腿，使其失去平衡。
+此时右侧敌人已经进入PYONA正前方正确踢击距离。
+
+PYONA明确看向她并调整身体方向。
+
+SIDE KICK。
+
+脚掌准确击中该敌人的腹部。
+
+脚掌与敌人身体发生明确真实接触后，才形成紧凑透明水压腔。
+
+MICRO SLOW-MO：
+
+周围水滴被迅速吸向命中点。
+
+TIME SNAP。
+
+HYDRAULIC BURST。
+敌人被真实侧踢与水压共同推向后方。
+
+之后的二次冲击才让附近储物柜轻微震动。
+
+00:15–00:20
+两名敌人再次从不同角度夹击。
+
+一人正面HOOK。
+
+另一人从左后方高速切入。
+
+PYONA下潜躲过正面勾拳。
+
+右手透明薄水膜准确接触并redirect对方前臂。
+借敌人前冲惯性将其带偏。
+
+PYONA不停止旋转。
+
+周围悬浮水滴被她身体运动牵引拉成长弧，透明水流沿身体旋转方向形成自然流体轨迹。
+
+注意：
+水流不得因为服装描述而假设裙子、裤子或任何特定服装结构。
+
+所有布料运动必须严格按照image1实际服装结构表现。
+
+摄影机清楚显示第二名敌人已经进入PYONA踢击轨迹的终点。
+
+HIGH ROUNDHOUSE KICK。
+脚背准确命中敌人的上胸与肩部区域。
+
+绝不踢空。
+
+命中瞬间：
+
+弧形水流快速收缩到真实接触点。
+
+CAVITATION → HYDRAULIC BURST。
+透明环形水压波爆开。
+敌人被甩向侧面。
+
+纸张、敌人的头发以及PYONA在image1中实际存在的服装布料，根据冲击自然摆动。
+
+窗面瞬间出现细密水珠。
+
+00:20–00:25
+剩余敌人重新围上。
+
+前方一人进攻。
+
+后方一人试图抱住PYONA。
+
+PYONA先挡开前方攻击。
+
+PALM REDIRECT → SHORT BODY PUNCH。
+
+拳头准确击中敌人腹部，使其身体折叠。
+
+随后她立即转头确认后方敌人的位置。
+
+真实踏地。
+
+MAXIMUM WATER DASH。
+
+绝不瞬移。
+
+脚底附近水层被猛烈向后推开，PYONA真实身体沿敌人侧面高速移动。
+
+摄影机因为无法完全预测加速而短暂OVERSHOOT。
+
+随后WHIP-PAN重新捕捉PYONA。
+
+她已经真实移动到正确距离，并转身面对该敌人。
+JAB准确击中肩部。
+
+BODY PUNCH准确击中躯干。
+
+LOW KICK准确击中外侧大腿。
+
+每一次真实接触点都爆出小型透明水压脉冲。
+
+00:25–00:30
+最后5秒必须持续高强度动作。
+
+禁止停顿。
+禁止看手。
+禁止玩水。
+禁止英雄Pose。
+禁止慢慢走开。
+
+刚被LOW KICK打乱重心的敌人仍然清楚存在于PYONA面前。
+
+领头者同时从另一侧重新冲回战斗。
+
+PYONA首先利用眼前敌人的正确位置完成SPINNING BACK KICK。
+摄影机必须提前清楚展示：
+
+敌人的腹部就在PYONA脚跟旋转路径的终点。
+
+附近地面残水、空中水滴和储物柜冷凝水同时被运动产生的压力牵引向她的小腿和脚跟，形成强烈但透明的螺旋水流。
+
+水流不能遮挡image1中的真实服装和人物身体。
+
+0.2秒MICRO SLOW-MO。
+
+PYONA脚跟准确击中敌人腹部中央。
+
+HEEL → TORSO CONTACT。
+
+敌人衣料与躯干发生真实压缩。
+
+所有水流瞬间压缩到接触点。
+
+大量微小CAVITATION BUBBLES形成。
+
+TIME SNAP。
+
+HYDRAULIC DETONATION。
+
+巨大透明环形水压冲击波沿走廊高速扩散。
+
+敌人被真实后踢与水压共同推出。
+摄影机震动，细小水滴撞上镜片。
+
+但战斗绝不停止。
+
+领头者已经从PYONA侧后方挥拳逼近。
+
+PYONA落地瞬间直接低头闪过攻击。
+
+左手水膜PARRY准确拍开领头者手腕。
+
+她利用刚刚落地的身体旋转继续转向。
+
+尚未完全散去的水流重新被快速旋转牵引回她周围，形成更长、更猛烈的透明螺旋水带。
+
+镜头明确显示领头者已经位于正确踢击距离内。
+
+PYONA完成TURNING KICK。
+
+小腿与脚背准确击中领头者躯干侧面。
+
+FINAL CONTACT。
+
+所有水带在真实接触点瞬间压缩。
+
+SECOND HYDRAULIC COLLAPSE。
+
+BOOM。
+
+更宽的透明水压波横扫走廊。
+
+领头者被真实踢击甩向侧面地面。
+
+随后产生的二次冲击震得两侧储物柜连续作响，纸张与细密水雾掠过摄影机。
+
+PYONA没有庆祝。
+
+她保持战斗状态，急促呼吸，立即快速转头确认剩余威胁。
+她的头发、服装、鞋子和所有可见配件仍然100%保持image1原始造型。
+
+镜头快速推近。
+CUT MID-ACTION。
+【摄影机】
+全程近距离、反应式、电影级手持：
+handheld pursuit
+close OTS
+low-angle chase
+lateral tracking
+whip-pan
+rapid focus pull
+facial inserts
+镜头必须持续建立PYONA与当前攻击目标之间的位置关系。
+
+尤其每次重要踢击之前，必须让观众明确看到：
+
+PYONA在哪里
+敌人在哪里
+攻击轨迹将在哪里发生接触
+
+ACTION READABILITY &gt; VFX &gt; CHAOS。
+
+【参考图外观最高优先级锁定】
+无论时间轴文字、校园环境还是动作需要如何变化：
+
+image1始终决定PYONA的全部视觉外观。
+
+不得因为：
+“学校”
+“战斗”
+“水系觉醒”
+“高速移动”
+“女性角色”
+而自动设计新的服装、发型或配件。
+
+禁止将她自动换成其他韩国校服。
+禁止改变上衣。
+禁止改变下装。
+禁止改变鞋子。
+禁止改变发色。
+禁止改变发型。
+禁止删除image1中存在的配件。
+禁止新增image1中不存在的配件。
+
+不要把服装描述硬编码为“裙摆”“校裙”“西装”“衬衫”等具体款式。
+
+所有服装动态统一描述为：
+
+image1中实际存在的服装布料根据真实动作、惯性、水压和气流自然运动。
+
+【严格禁止】
+禁止改变image1中的PYONA外观。
+禁止重新设计PYONA服装。
+禁止根据校园背景自动换校服。
+禁止敌人复制脸、变脸、像双胞胎。
+禁止敌人轮流排队。
+禁止空挥。
+禁止踢空气。
+禁止打储物柜。
+禁止踢墙。
+禁止VFX脱离身体接触单独攻击。
+禁止瞬移。
+禁止蓝色激光。
+禁止巨大海浪。
+禁止水龙。
+禁止魔法阵。
+禁止能量球。
+禁止廉价二次元速度线。
+禁止人物CG化。
+禁止最后停下来观察水滴。
+禁止英雄站姿收尾。
+禁止BGM、字幕、旁白。
+
+核心目标：
+
+这是一段真实韩国校园走廊中的30秒高强度真人水系觉醒动作场面。
+
+PYONA的身份、脸部、头发、服装、鞋子和全部可见配件从头到尾完全以image1为唯一视觉依据，不进行任何文字硬编码式重新设计。
+
+她先被打倒，水先于意识觉醒；随后在5名不同脸的女性敌人持续围攻下，身体与水系能力逐渐融合，直到最后连续两次水压踢击将战斗推向高潮。
+
+水必须透明、具有真实质量、流体惯性和危险感，并始终服务于真实近身格斗接触。</code></pre>
+
+</details>
+
+## Explosive High-Speed Motorcycle Action Sequence with 16 Cuts
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2091546827212636576)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3660](https://imglume.com/prompt/3660)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2fc802fd-8d19-473c-93ad-8993854bbf85/afd88f95-1303-4a39-97b8-d2fd8bbaeb8c-1787505475350 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an explosive, high-speed motorcycle action sequence in 16:9, 24fps, exactly 16 distinct cuts, total runtime ≈ 16–17 seconds.
+
+A lone rider in a light green helmet and dark riding gear pilots a babypink sportbike along a narrow, winding paved mountain road that cuts through rolling green hills under a brilliant sunny sky with scattered white clouds and distant blue mountain ranges and water visible on the horizon. Preserve the exact bike color, rider silhouette, road markings, green landscape, fencing and lighting throughout — never redesign them.
+
+This film is 90 % pure kinetic camera motion and 10 % environmental beauty: aggressive low-to-high tracking shots, continuous forward motion with heavy speed blur, whip pans, snap zooms, sun flares and impact shakes. No text, no graphics, no logos — pure cinematic speed.
+
+### CUT LIST
+
+CUT 01 | 0.00–1.00s
+Dynamic low-side tracking shot: red motorcycle accelerates away from a small parking area onto the winding asphalt road; lush green grass and fence posts streak past with heavy motion blur; bright sun flares at the top of the frame.
+
+**CUT 02 | 1.00–2.00s**
+Camera rises and locks behind the rider as the bike climbs the first gentle incline; green hills roll on both sides, a lone tree appears ahead, distant mountains and water visible on the right.
+
+**CUT 03 | 2.00–3.00s**
+Tight rear tracking; rider leans into a smooth left curve; the road surface and white dashed lines blur heavily; sun remains high and intense.
+
+**CUT 04 | 3.00–4.00s**
+Bike powers up a steeper section of road; camera stays low and centered, grass and fence posts racing past on both sides; distant valley opens on the right.
+
+**CUT 05 | 4.00–5.00s**
+High-speed straight section; camera drops even lower, almost road-level, capturing the red bike centered against the climbing green hillside and bright blue sky.
+
+**CUT 06 | 5.00–6.00s**
+Rider continues the climb; camera rises slightly and banks with the road; lush green slopes fill the left and right frame edges with strong motion blur.
+
+**CUT 07 | 6.00–7.00s**
+Bike approaches a crest; camera pulls back a fraction to reveal more of the endless green hills and the road stretching ahead under the bright sun.
+
+**CUT 08 | 7.00–8.00s**
+Rider leans into the next curve; camera swings wide then snaps back, capturing the red bike against the steep green embankment and metal guardrail.
+
+**CUT 09 | 8.00–9.00s**
+Tight following shot as the motorcycle accelerates past the guardrail; heavy speed blur on the grass and road surface; sun flare intensifies.
+
+**CUT 10 | 9.00–10.00s**
+Camera tilts upward dramatically, almost looking straight up the road; the red bike becomes smaller against the vast blue sky and white clouds while still racing forward.
+
+**CUT 11 | 10.00–11.00s**
+Sweeping aerial-style arc as the bike enters a wide left-hand hairpin; camera orbits slightly, revealing the full curve of the road, green slopes and distant mountains.
+
+**CUT 12 | 11.00–12.00s**
+High-angle tracking shot looking down on the red motorcycle as it carves the long sweeping curve; the road and guardrail form a perfect arc against the green hillside.
+
+**CUT 13 | 12.00–13.00s**
+Camera pulls higher still, showing the bike as a small red shape on the winding road that snakes across the vast green landscape toward distant valleys and peaks.
+
+**CUT 14 | 13.00–14.00s**
+Rider continues through the open hillside section; camera descends slightly and tracks from a higher three-quarter rear angle, capturing the bike, road and rolling green terrain.
+
+**CUT 15 | 14.00–15.00s**
+Wide high-angle shot of the motorcycle navigating the next gentle S-curve; a second distant vehicle appears briefly on the road ahead; lush green fields and scattered trees fill the frame.
+
+**CUT 16 | 15.00–16.65s
+Final high-speed tracking shot as the red bike continues along the open mountain road; camera gradually rises and the frame fills with bright green hills, blue sky and soft sun flare; the sequence ends on a sense of endless forward motion.
+
+### Editing &amp; Sound
+Extremely aggressive rhythm — continuous forward tracking with occasional whip pans, snap zooms and speed ramps, heavy motion blur on every surface, strong sun flares and subtle impact shakes on every crest or curve. No text, no graphics, no slow-motion.
+
+BGM / Audio: electronic / indie-pop beat with driving drums, bright synths and rising energy that matches the speed of the bike. Engine roar, wind whooshes and tire sound on asphalt are locked to the picture as rhythmic elements. Peak energy in the middle curves and end with a bright, open sonic release.
+
+Premium AAA quality, photorealistic cinematic rendering, pure speed and freedom aesthetic, consistent red sportbike and rider design, exactly 16 cuts.</code></pre>
+
+</details>
+
+## Ultra-photorealistic Japanese Summer Festival Travel Vlog
+
+- **Original source:** [@AiWithSaira on X](https://x.com/AiWithSaira/status/2091461673261662450)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3659](https://imglume.com/prompt/3659)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d90e046d-19a6-4904-b96c-739ac8f04edc/89e2cace-b27f-4019-83df-8a99f4c2946e-1787505392248 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d90e046d-19a6-4904-b96c-739ac8f04edc/151a6b9b-5657-43e1-b49e-aa3e3ca3c05c-1787505392248 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic live-action smartphone travel vlog scene that initially looks like an authentic real travel vlog.
+
+MAIN CHARACTER:
+
+Use Image 1 only for the woman's recognizable facial identity, natural facial features and hairstyle.
+
+She is a young Japanese woman wearing a beautiful pastel yukata with natural traditional styling. Keep her identity and appearance consistent throughout the entire video.
+
+LOCATION:
+
+A traditional Japanese summer festival at night. Lantern-lit streets, festival stalls, warm practical lighting, crowds of people, traditional decorations, and an authentic Japanese summer festival atmosphere.
+
+VISUAL STYLE:
+
+Ultra-photorealistic smartphone travel vlog.
+
+Realistic human performance.
+
+Realistic skin texture.
+
+Natural fabric physics.
+
+Authentic smartphone camera quality.
+
+Natural handheld camera movement.
+
+Authentic ambient festival sounds.
+
+Cinematic but believable vlog footage.
+
+No obvious AI appearance.
+
+00–05s — THE OPENING SHOT
+
+Begin with a natural selfie-style smartphone shot of the woman walking through the lantern-lit festival streets.
+
+She films herself while walking naturally through the crowd.
+
+The camera has realistic handheld movement and authentic smartphone stabilization.
+
+Festival lanterns, people, stalls and decorations appear naturally in the background.
+
+Everything feels like genuine travel-vlog footage.
+
+05–10s — THE TAKOYAKI MOMENT
+
+She approaches a traditional festival food stall and buys fresh takoyaki.
+
+The camera remains in natural selfie mode while she shows the food toward the camera.
+
+She takes a bite of the takoyaki and smiles naturally.
+
+Her facial expression and movements remain realistic and spontaneous.
+
+The surrounding festival ambience and crowd sounds remain authentic.
+
+10–15s — THE FESTIVAL GAME
+
+She walks toward a traditional Japanese festival game.
+
+She plays the game naturally and successfully wins a small plush toy.
+
+She reacts with genuine excitement and happiness.
+
+She briefly holds the plush toy toward the camera while smiling.
+
+The camera movement remains natural and handheld, maintaining consistent identity and appearance.
+
+15–20s — THE FIREWORKS
+
+The scene transitions naturally as she joins the crowd watching a spectacular fireworks display.
+
+The camera captures her genuine excitement as colorful fireworks illuminate the night sky behind her.
+
+Her face is naturally illuminated by the fireworks.
+
+The crowd reacts realistically in the background.
+
+The atmosphere feels immersive, authentic and cinematic while still looking like real smartphone footage.
+
+20–25s — THE FINAL VLOG MOMENT
+
+She turns the smartphone camera toward herself again.
+
+The fireworks continue in the background.
+
+She smiles naturally while holding the small plush toy she won earlier.
+
+Her expression shows genuine happiness and excitement from the festival experience.
+
+The camera remains handheld with realistic smartphone movement.
+
+25–30s — THE CLOSING
+
+She looks directly into the smartphone camera and naturally waves goodbye.
+
+She says:
+
+“Thanks for coming with me. See you next time. Bye!”
+
+Her lip movement must match the dialogue naturally.
+
+She finishes with a warm, genuine smile.
+
+The final moment should feel like an authentic travel vlog recorded on a real smartphone.
+
+The video should remain completely photorealistic throughout, with consistent facial identity, hairstyle, clothing, smooth human motion, realistic facial expressions, natural handheld camera movement, authentic ambient sounds, believable lighting, and a genuine Japanese summer festival atmosphere.
+
+ON-SCREEN TEXT:
+
+No on-screen text.</code></pre>
+
+</details>
+
+## Corporate Horror Office Creature Clip
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2091504948848783367)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3656](https://imglume.com/prompt/3656)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/89363e53-107f-4e21-b417-918780590d18/31b7b75d-7071-455d-8bda-9a06a2e3fbcf-1787503288660 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shot 1 (0.0–1.2s): (ref image), matching reference face/outfit, alone at her late-night cubicle, exhausted, screen glow, empty office, realistic corporate horror.
+
+Shot 2 (1.2–2.4s): She types mechanically; her monitor reflection moves half a second out of sync, dim lighting, subtle unease.
+
+Shot 3 (2.4–3.6s): Coworker passes, notices the delayed reflection, stops uneasily.
+
+Shot 4 (3.6–4.8s): Her hands tremble, breathing rapid, panic building, cold monitor light, close-up.
+
+Shot 5 (4.8–6.0s): Fingers bend backward on keyboard with a crack, knuckles distorting, terrified eyes, extreme close-up, body horror.
+
+Shot 6 (6.0–7.2s): Coworkers stand, alarmed; phones and papers fall as they back away, handheld camera.
+
+Shot 7 (7.2–8.5s): Her spine arches backward, joints pop, limbs elongate unnaturally, dim cubicle lighting.
+
+Shot 8 (8.5–10.0s): Spindly many-jointed creature emerges from her collapsing form, limbs folding wrong, pale glistening skin, full reveal.
+
+Shot 9 (10.0–11.5s): Creature skitters across cubicle wall, joints clicking; coworkers scramble below in terror.
+
+Shot 10 (11.5–13.0s): Terrified coworker's face, frozen scream, chaos reflected in wide eyes, cinematic shallow focus.
+
+Shot 11 (13.0–14.5s): Creature leaps desk-to-desk, smashing monitors/keyboards, long limbs, motion blur, frantic handheld camera.
+
+Shot 12 (14.5–16.0s): Coworkers flee through cubicle maze, papers flying, fluorescent lights flickering, chaos.
+
+Shot 13 (16.0–17.3s): Creature silently drops before fleeing coworker, joints bending inward, crouched low, extreme close-up.
+
+Shot 14 (17.3–18.7s): Coworkers sprint toward break room, looking back in terror, motion blur, corporate horror chase.
+
+Shot 15 (18.7–20.0s): Group slams break-room door and barricades it with table/chairs, shaking hands, frantic teamwork.
+
+Shot 16 (20.0–21.4s): Long jointed limb slides under door, claws floor; coworkers back against far wall.
+
+Shot 17 (21.4–22.8s): Coworker grabs fire extinguisher, pulls safety pin as door buckles.
+
+Shot 18 (22.8–24.2s): Creature bursts through door, limbs unfolding to full height, flickering fluorescent light, dramatic reveal.
+
+Shot 19 (24.2–25.6s): Coworker blasts creature with extinguisher; thick white cloud, creature recoils and flails.
+
+Shot 20 (25.6–27.0s): Another coworker throws a stapler at its head; hard impact, shriek, creature staggers.
+
+Shot 21 (27.0–28.5s): Powder-covered creature scrambles backward through broken doorway and retreats down dark hallway.
+
+Shot 22 (28.5–30.0s): Coworkers huddle in break-room doorway, covered in residue, silently staring down the empty hallway, cinematic horror ending.</code></pre>
+
+</details>
+
+## Highly realistic cinematic horror sequence in an apartment building
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2091483449815126134)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3651](https://imglume.com/prompt/3651)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2a216f8b-5a06-422d-84a5-559fbb6abbdc/d17e3993-865e-4899-a397-6f5a8c211861-1787499119534 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic cinematic horror sequence set inside a quiet apartment building late at night. A young woman enters an empty elevator alone, wearing simple casual clothes, with natural realistic facial features and subtle nervous expressions. The elevator moves strangely, stopping at several floors. Every time the doors open, the exact same long, empty apartment corridor appears outside, dimly lit by flickering ceiling lights. She becomes increasingly confused and frightened, repeatedly pressing the elevator buttons and looking down the corridor.
+On the final stop, the elevator doors slowly slide open. At the far end of the corridor stands another young woman who looks exactly identical to her, motionless and staring directly at her. The atmosphere becomes completely silent. The woman inside the elevator slowly steps forward, unable to understand what she is seeing. The identical woman suddenly tilts her head at an unnatural angle and takes one slow step toward her.
+Without warning, the corridor woman violently charges toward her with extremely fast, unnatural movement. The original woman screams and tries to retreat into the elevator, but the other woman tackles her and both fall to the floor. The corridor woman grabs her and aggressively drags her backward across the floor while the original woman desperately tries to hold onto the elevator doorway. The elevator lights flicker rapidly, casting harsh moving shadows across both faces.
+The original woman manages to reach one hand toward the elevator control panel, desperately trying to press the door-close button. The corridor woman suddenly grabs her wrist and pulls her away. The elevator doors begin closing by themselves, slowly separating the two women. The original woman reaches toward the narrowing gap in panic while the identical woman stares at her with an eerie, emotionless expression.
+The doors finally slam shut.
+Cut to a completely empty corridor. No one is visible. A smartphone lies on the floor where the struggle happened, its screen still glowing and displaying 2:13 AM. The hallway lights flicker once, then everything goes completely dark.
+Ultra-photorealistic live-action horror, realistic human movement, believable apartment building textures, natural skin detail, subtle handheld camera movement, cinematic low-light exposure, practical fluorescent lighting, deep shadows, atmospheric tension, realistic motion blur, disturbing but non-gory horror, no supernatural visual effects, no text overlays, no subtitles, no cartoon appearance.</code></pre>
+
+</details>
+
+## Premium cinematic product commercial of stainless-steel cooking pot
+
+- **Original source:** [@Soaima_Ai on X](https://x.com/Soaima_Ai/status/2091205471755763852)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3649](https://imglume.com/prompt/3649)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/627529c1-1902-40d9-93aa-3dad927a2b37/2db0d71f-4f9e-43f0-9e7c-2a8b825e5c0f-1787499070516 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/627529c1-1902-40d9-93aa-3dad927a2b37/f545bc54-e696-4fa2-9ff0-10687bf266b9-1787499070516 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cinematic product commercial using the uploaded image as the exact visual reference. Show the same stainless-steel cooking pot with its transparent glass lid, elegant golden handles, and golden lid knob placed on a clean modern kitchen countertop. Keep the pot’s original shape, design, colors, golden details, and branding exactly consistent with the reference image.
+
+Start with a slow cinematic camera push-in toward the pot, with soft studio lighting reflecting beautifully across the polished stainless-steel surface. Slowly move the camera from left to right to highlight the golden side handles and reflective body. Add a gentle close-up of the glass lid and golden knob, followed by a smooth 360-degree product rotation. The modern kitchen background remains softly blurred with realistic depth of field.
+
+Use realistic reflections, subtle highlights, premium commercial lighting, smooth camera motion, photorealistic textures, elegant luxury kitchen atmosphere, 4K/8K quality, sharp product details, professional cookware advertisement style. Keep the original logo/text visible and unchanged. No extra objects, no distortion, no changes to the product design. Vertical 9:16 format, 8–10 seconds.</code></pre>
+
+</details>
+
+## Realistic cinematic short video of mother and son in a bright kitchen
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2091529113425297759)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3648](https://imglume.com/prompt/3648)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1131e6ba-dcaa-41db-97c8-0eadf9efbc84/205015d2-58ba-4f2d-a175-c7ed54f6d322-1787499058929 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic, cinematic short video (about 20 seconds) set in a bright modern kitchen with glossy white cabinets, black granite countertop, stainless steel appliances, a black coffee machine, and a red blender in the background. Natural daylight fills the space.
+
+A young boy @Image (around 8–10 years old, brown hair, wearing a bright green Pokémon T-shirt) sits at the kitchen island, focused on a black tablet propped in front of him.
+
+A fit, tattooed mother @Image generation (long wavy blonde hair, babypink T-shirt with a square neckline and ruched bodice., light blue denim shorts, checkered kitchen towel draped over one shoulder) approaches from behind, carrying a white square plate stacked with golden-brown crepes/pancakes. He places the plate gently on the counter in front of the boy.
+
+The boy looks up from the tablet, eyes lighting up with excitement. He quickly closes the tablet, sets it aside, and starts clapping his hands happily while smiling and bouncing slightly in his chair.
+
+The mother @Image generation turns, grabs a jar of Nutella from the counter, and places it next to the plate of crepes. she @Image generation then walks behind the boy, she @Image generation aggressively pulls the chair back as the boy @Image falls down from the chair, mother @Image generation then steps around, sits down in the chair, leans forward over the counter toward the plate of crepes and Nutella, looking down at the food with a calm, content expression.
+
+Warm, wholesome mother-son atmosphere, natural movements, soft kitchen lighting, slight handheld camera feel, high detail, photorealistic style.</code></pre>
+
+</details>
+
+## Premium Fast-Food TVC: From Potato to Golden Crunch
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091472894727712866)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3646](https://imglume.com/prompt/3646)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60584ea7-a99a-433d-9adf-0f5316895a5b/dfcfad64-ac6c-4b70-8ccc-f25bc31328a0-1787494968780 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/60584ea7-a99a-433d-9adf-0f5316895a5b/2ce827a0-c02c-4cae-a633-bd8afb37a15c-1787494968780 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 10s vertical 9:16 premium fast-food TVC, ultra-realistic 8K, cinematic food photography, no visible people, hands only when necessary. Same potato followed through transformation.
+
+CONCEPT: “FROM POTATO → TO GOLDEN CRUNCH”
+RAW → SLICE → SEASON → FRY → GOLDEN → CRISP → HERO
+
+01 | 0–1.2s — RAW
+Fresh whole potato rolls onto dark stone surface, natural skin texture and moisture visible. 100mm macro, fast push-in.
+
+02 | 1.2–2.4s — SLICE
+Potato rapidly transforms into perfectly thin slices, knife cutting through with realistic texture. 85mm macro, dynamic tracking.
+
+03 | 2.4–3.6s — SEASON
+Fine seasoning rains over potato slices, particles suspended dramatically in warm light. 100mm macro, slow motion.
+
+04 | 3.6–5s — FRY
+Seasoned slices drop into hot oil, explosive bubbles surround them, steam and droplets captured in high-speed slow motion. 50mm macro.
+
+05 | 5–6.3s — GOLDEN
+Pale potato slices transform into rich golden crispy chips, bubbling edges and tiny blistered textures visible. 100mm macro, rotating match cut.
+
+06 | 6.3–7.5s — CRISP
+Fresh chip lifted from fryer, oil droplets falling, one edge cracks naturally revealing thin crunchy layers. 100mm macro, slow-motion pull-up.
+
+07 | 7.5–9s — HERO
+Pile of golden crispy chips lands into a premium bowl, crumbs falling naturally around it. Smooth dolly-in, shallow depth of field.
+
+08 | 9–10s — PACKSHOT
+Premium branded chips bowl centered against dark cinematic background, warm golden rim light, crisp texture dominating frame. Text: “FROM POTATO → TO CRUNCH.”
+
+CAMERA: Macro, high-speed, push-in, tracking, rack focus, slow motion, match cuts, smooth dolly.
+
+STYLE: Premium global snack-food commercial, warm golden lighting, rich shadows, realistic potato texture, seasoning particles, oil bubbles, steam, ultra-crispy surface.
+
+NEGATIVE: No faces, restaurant, CGI-looking food, burnt chips, excessive oil, impossible physics, floating food, distorted potatoes, duplicate objects, deformed packaging, wrong branding, blurry food.
+
+OUTPUT: One professional 8-panel 9:16 storyboard sheet showing seamless transformation from raw potato to irresistible crispy chips.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic cooking vlog of creamy chicken pasta
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091483398972080172)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3642](https://imglume.com/prompt/3642)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e4a7964b-68a1-4d4d-83ca-867d3985ca29/6d71dcb1-dc99-4149-8d5d-a8daafd4061d-1787492933606 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e4a7964b-68a1-4d4d-83ca-867d3985ca29/3ba23cf6-1930-4489-b125-aec1ec6db129-1787492933606 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 30 seconds
+
+ASPECT RATIO: Use the video's available landscape/cinematic ratio.
+
+STYLE:
+Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial cinematography, realistic human behavior, natural hand movements, realistic cooking physics, authentic home atmosphere, cinematic lighting, subtle handheld camera movement, realistic food textures, natural skin and hair.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = FEMALE CHARACTER
+@IMG2 = KITCHEN ENVIRONMENT
+@IMG3 = INGREDIENTS AND COOKING SETUP
+@IMG4 = COOKING ACTION
+@IMG5 = FINISHED CREAMY CHICKEN PASTA
+@IMG6 = DINING SCENE
+
+Use all uploaded references consistently.
+
+CHARACTER CONSISTENCY:
+
+The SAME woman from @IMG1 must appear throughout the entire video.
+
+Preserve her exact face, facial features, hairstyle, skin tone, body proportions and overall identity.
+
+Do not change her appearance between scenes.
+
+Preserve the same casual home-cooking outfit from @IMG1.
+
+FOOD CONSISTENCY:
+
+The dish throughout the entire video is EXACTLY the creamy chicken pasta shown in @IMG3 and @IMG5.
+
+Maintain the same pasta, chicken, mushrooms, cherry tomatoes, cream sauce, parmesan and parsley throughout.
+
+Do not change the dish between scenes.
+
+---
+
+0–4 SECONDS — PREPARATION
+
+Use @IMG2 and @IMG3.
+
+The woman enters the kitchen and approaches the countertop.
+
+The ingredients for creamy chicken pasta are neatly arranged in front of her.
+
+She looks over the ingredients and begins preparing dinner.
+
+Camera starts with a natural medium-wide kitchen shot and gently moves closer.
+
+Show the real home environment.
+
+---
+
+4–9 SECONDS — CHOPPING
+
+Use @IMG3 and @IMG4.
+
+The woman places vegetables on the wooden cutting board.
+
+She carefully chops garlic, onion and mushrooms with a kitchen knife.
+
+Show realistic hand and finger movement.
+
+Include a brief close-up of the knife cutting the vegetables.
+
+Vegetables naturally separate as she cuts them.
+
+Return to a medium shot showing her focused expression.
+
+Keep the action smooth and believable.
+
+---
+
+9–15 SECONDS — COOKING
+
+Use @IMG4.
+
+She places the pan on the stove and adds a small amount of olive oil.
+
+She adds the prepared chicken and vegetables into the hot pan.
+
+A realistic sizzling sound and subtle steam accompany the cooking.
+
+She uses a wooden spoon to stir the ingredients.
+
+The chicken gradually cooks while the vegetables soften.
+
+Camera moves from a side angle toward the pan.
+
+Include a close-up of the food sizzling and being stirred.
+
+---
+
+15–20 SECONDS — CREAMY SAUCE &amp; PASTA
+
+Continue using @IMG4 and @IMG3.
+
+She adds the creamy sauce ingredients to the pan.
+
+The sauce mixes naturally with the chicken and vegetables.
+
+She adds the cooked pasta.
+
+She gently tosses and stirs everything together.
+
+The creamy sauce coats the pasta realistically.
+
+Steam rises naturally from the pan.
+
+Show a satisfying close-up of the finished creamy texture.
+
+Do not rush this action.
+
+---
+
+20–24 SECONDS — PLATING
+
+Use @IMG5.
+
+The woman transfers the freshly cooked creamy chicken pasta from the pan onto the ceramic plate.
+
+She carefully arranges the pasta.
+
+She adds parmesan and fresh parsley on top.
+
+A small amount of realistic steam rises from the hot food.
+
+Camera transitions into a premium close-up food shot.
+
+Make the dish look genuinely freshly cooked and appetizing.
+
+---
+
+24–30 SECONDS — DINNER
+
+Use @IMG6.
+
+The woman sits at the dining table with the finished creamy chicken pasta.
+
+She picks up the fork naturally.
+
+She takes a small bite.
+
+She tastes the food and gives a genuine satisfied smile.
+
+She briefly looks toward the camera as if sharing the moment with her audience.
+
+Camera slowly pushes toward her and the plate.
+
+End on a warm, cozy lifestyle shot of the woman enjoying the dinner she prepared herself.
+
+CUT TO BLACK.
+
+---
+
+CAMERA PRIORITY:
+
+Use natural cinematic camera movement.
+
+Wide establishing shots for the kitchen.
+
+Medium shots for cooking actions.
+
+Close-ups for chopping and sizzling food.
+
+Macro-style food detail during sauce and plating.
+
+Gentle push-in during the final dining moment.
+
+Avoid excessive camera shake.
+
+Avoid unnecessary camera movement.
+
+Keep the woman and the food clearly readable.
+
+---
+
+REALISM PRIORITY:
+
+Natural human movement.
+
+Realistic hand anatomy.
+
+Realistic knife handling.
+
+Realistic food physics.
+
+Realistic steam.
+
+Realistic sauce consistency.
+
+Realistic sizzling and stirring.
+
+Natural facial expressions.
+
+Natural eating motion.
+
+No exaggerated movements.
+
+No instant food transformations.
+
+No teleporting ingredients.
+
+No changing kitchen.
+
+No changing outfit.
+
+No changing character.
+
+---
+
+FINAL RULES:
+
+Same woman throughout.
+Same face throughout.
+Same kitchen throughout.
+Same outfit throughout.
+Same creamy chicken pasta throughout.
+Same ingredients throughout.
+
+No different woman.
+No face morphing.
+No extra people.
+No distorted hands.
+No extra fingers.
+No unrealistic eating.
+No cartoon.
+No anime.
+No fantasy.
+No text.
+No logos.
+No watermark.
+
+The final result should feel like a genuine cinematic cooking vlog filmed inside a real woman's home.</code></pre>
+
+</details>
+
+## Premium Residential Complex CGI Video
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2091469283901784073)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `architecture`, `cinematic`
+- **ImgLume record:** [3638](https://imglume.com/prompt/3638)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e534bcbb-44d6-4cf4-ac78-9d23b487de2b/d069a8b4-5d39-4f25-96c5-173102ae9c65-1787492826018 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e534bcbb-44d6-4cf4-ac78-9d23b487de2b/61b7dead-806d-4796-a564-ddfdf8d3914a-1787492826018 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 20 seconds
+ASPECT RATIO: 16:9
+...
+...
+Premium Residential Complex — CGI Video Prompt
+
+Create a dynamic 10-second ultra-premium photorealistic architectural CGI video on a pure infinite black background. No people.
+
+Start with a luxurious modern residential tower that looks expensive and premium. Move toward one floor and open the facade as a realistic architectural cutaway. Reveal a corridor with 6–8 apartment doors. The first five remain neutral; the sixth and additional doors receive a subtle red highlight to emphasize more than five apartments on the floor.
+
+Move inside one premium apartment. A physical measuring rod extends from floor to ceiling and shows that the ceiling is below the physical 3 m mark. Highlight only the missing height with subtle red light.
+
+Pull back to show both issues together: many apartments on the floor and the ceiling below 3 m.
+
+Close the cutaway and return to the luxurious exterior and premium entrance materials, emphasizing the expensive presentation. Transition to a stack of money and an apartment key.
+
+Finish with one clean architectural composition: the premium building, the cutaway floor with extra doors highlighted red, the apartment with the ceiling measurement, and money with the key in the foreground.
+
+Use high-end photorealistic CGI, realistic glass, stone, wood, metal, reflections, premium studio lighting, smooth architectural camera movement, and clean transitions. Red is used only for the two highlighted issues.
+
+No text, subtitles, logos, UI, diagrams, people, city, streets, scenery, music, or voice-over. Only “5” and “3 m” may appear as physical measurement markings. Use subtle realistic object sounds only.</code></pre>
+
+</details>
+
+## Educational storyboard infographic: How Lightning Happens
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091436714384613713)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3631](https://imglume.com/prompt/3631)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/46f5c55c-d964-471b-bbee-6eb37145b988/99ecde37-4793-4afb-835d-566501d64780-1787488659065 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/46f5c55c-d964-471b-bbee-6eb37145b988/1cbef560-2711-420e-b777-3ecfc69aa156-1787488659065 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 2:3 educational storyboard infographic, 5 horizontal scenes, cinematic realistic 3D science visualization, exactly like a professional educational video storyboard.
+
+TOPIC: HOW LIGHTNING HAPPENS
+Duration: 15 seconds
+
+1 | 0:00–0:03 — STORM CLOUDS
+Visual: Huge dark storm clouds forming above a landscape.
+Action: Clouds grow rapidly with electric particles inside.
+VO: “Lightning begins inside powerful storm clouds.”
+SFX: Wind and distant thunder.
+Camera: Slow aerial push in.
+Transition: Light Flash.
+
+2 | 0:03–0:06 — ELECTRIC CHARGE
+Visual: Close-up inside cloud showing positive and negative charges separating.
+Action: Blue and orange particles move to opposite sides.
+Labels: POSITIVE CHARGE, NEGATIVE CHARGE.
+VO: “Ice and water particles separate electric charges inside the cloud.”
+SFX: Electric crackle.
+Camera: Macro tracking.
+Transition: Energy Glow.
+
+3 | 0:06–0:09 — CHARGE BUILDS
+Visual: Dark cloud above the ground, bright electrical energy increasing.
+Action: Electric particles move downward toward Earth.
+VO: “As the charge becomes stronger, electricity searches for a path.”
+SFX: Rising electrical hum.
+Camera: Tilt from cloud toward ground.
+Transition: Quick Flash.
+
+4 | 0:09–0:12 — LIGHTNING STRIKE
+Visual: Bright lightning bolt connects cloud to ground.
+Action: Lightning travels rapidly downward.
+Label: LIGHTNING.
+VO: “A powerful electrical discharge creates a lightning bolt.”
+SFX: Loud thunder crack.
+Camera: Fast Pull Back.
+Transition: White Flash.
+
+5 | 0:12–0:15 — THUNDERSTORM
+Visual: Wide storm landscape with lightning and rain.
+Action: Lightning flashes while rain falls below.
+VO: “The sudden heating of air also creates the sound of thunder.”
+SFX: Deep thunder rolling.
+Camera: Wide aerial pull back.
+Transition: Smooth Fade.
+
+Bottom: NARRATOR (VO): Clear, calm, educational male voice.</code></pre>
+
+</details>
+
+## Ultra-cinematic first-person POV supercar assembly video
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2091423578197737772)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3627](https://imglume.com/prompt/3627)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/351e0cec-e897-4a29-91d2-4478cdab6a23/ae215ec4-f383-4e89-a490-8ca46c5cb683-1787484466039 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-cinematic action video in strict first-person POV. Bright sunny day, cloudless saturated blue sky, abandoned concrete runway. Two identical male hands wearing black tactical gloves remain visible and consistent throughout. Photorealistic physics, realistic inertia, metallic collisions, natural shadows and reflections. One identical black Lamborghini Aventador remains visually consistent throughout the entire sequence.
+
+0.0–1.8s- The Fall
+The POV camera suddenly whips upward toward the sky. A completely disassembled black Lamborghini Aventador falls directly toward the viewer. Wheels, tires, rims, engine, suspension, doors, hood, bumpers, carbon-fiber panels, chassis and mechanical components tumble independently through the air. Parts rapidly grow larger as they approach. Intense speed, realistic depth and dangerous proximity.
+
+1.8–3.0s- Last-Second Defense
+The man instinctively raises both black-gloved hands and crosses them in front of his face. Huge wheels and metallic components rush extremely close to the lens. Strong handheld camera shake, realistic motion blur and rapidly changing depth create extreme tension.
+
+3.0–3.8s- Absolute Freeze
+At the last possible instant, he violently thrusts both hands forward. Every falling component suddenly freezes in mid-air only a few meters away. Extreme speed instantly becomes complete silence and stillness. Hundreds of parts remain suspended around the viewer at different depths. The camera slowly lowers from the sky toward the floating components.
+
+3.8–5.5s- Controlled Organization
+He spreads both hands apart and rotates his wrists. The suspended components respond precisely to his movements. Wheels glide sideways, the chassis slowly descends, the engine moves toward the center, and smaller mechanical parts arrange themselves around their intended positions. Each component rotates naturally and aligns with perfect mechanical precision.
+
+5.5–7.5s-Assembly Begins
+He suddenly thrusts both hands forward. The chassis rapidly locks together. Suspension, drivetrain, engine, transmission and structural components fly into their exact positions. The POV camera pushes forward through the assembly. Parts fly past the lens from multiple directions and connect with realistic metallic impacts and mechanical movement.
+
+7.5–9.8s- Explosive Construction
+The assembly accelerates dramatically. Doors, hood, bumpers, headlights, mirrors and black carbon body panels fly toward the central frame. His gloved hands perform fast directional gestures, controlling every movement. The camera makes a dynamic orbit-like POV movement around the forming vehicle while never leaving first-person perspective.
+
+9.8–11.0s- Final Transformation
+Four wheels rapidly fly toward the hubs and lock into place. Final carbon-fiber panels snap onto the body one after another. The Lamborghini instantly becomes a pristine, fully assembled black Aventador. Dust and tiny particles naturally fall onto the runway.
+
+11.0–12.5s- Ignition
+A dramatic pause. The right black-gloved hand raises a Lamborghini-style remote key close to the camera. The thumb presses the start button. The headlights immediately illuminate. The engine roars to life, exhaust vibrates and the entire vehicle subtly shakes from the ignition.
+
+12.5–15.0s- Full-Speed Launch
+The Aventador launches violently forward directly toward the POV camera. The rear tires briefly spin, throwing dust across the runway. The camera remains extremely low and centered. The car rapidly fills the entire frame as acceleration increases. Strong cinematic motion blur, realistic tire movement and aggressive speed ramping build intensity. End with an extreme close approach of the black front end and bright headlights.</code></pre>
+
+</details>
+
+## Premium Sparkling Fruit Drink Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091388744599486491)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3613](https://imglume.com/prompt/3613)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3a624ded-0380-422d-9786-33a76cf6c0e0/37f2bf4b-0007-48c7-a1f4-d4e36f61926c-1787475972687 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3a624ded-0380-422d-9786-33a76cf6c0e0/20e79dac-d868-4304-a82f-780969d56864-1787475972687 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Sparkling Fruit Drink Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury beverage product campaign
+• 8 cinematic storyboard scenes
+• Product remains the central hero
+• Premium advertising agency presentation
+
+HEADER:
+• Modern luxury typography
+• Information cards:
+
+Duration: 10 Seconds
+
+Style: Cinematic Beverage Commercial
+
+Product: Sparkling Fruit Drink
+
+Audio: Fizz + Refreshing Liquid ASMR
+• Why This Style Works section
+• Silver, citrus orange and deep blue aesthetic
+• Minimal premium decorative accents
+
+STORYBOARD:
+
+1. Chilled sparkling drink bottle covered in condensation
+
+2. Bottle cap opening with a burst of carbonation
+
+3. Extreme macro shot of bubbles racing through the drink
+
+4. Sparkling drink pouring into a crystal glass
+
+5. Ice cubes falling into the glass in slow motion
+
+6. Fresh citrus slices creating a dramatic splash
+
+7. Macro shot of condensation and carbonation bubbles
+
+8. Final hero bottle and glass surrounded by frozen splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+High-speed liquid photography, extreme macro, frozen splash capture, slow-motion pour, dramatic backlighting, condensation close-up, cinematic product hero framing.
+
+STYLE:
+Ultra-realistic beverage advertising, realistic carbonation, detailed water droplets, dynamic liquid splash, premium glass reflections, studio lighting, luxury branding, commercial photography, 8K.</code></pre>
+
+</details>
+
+## Poseidon vs Leviathan – Continuation Prompt
+
+- **Original source:** [@whorange__ on X](https://x.com/whorange__/status/2091370880211550339)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3611](https://imglume.com/prompt/3611)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/ad67babc-1b6e-4fd2-9f4a-4c28f80ca9d6-1787471925272 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/2900ec59-0019-47a3-b399-945d2e87f4fd-1787471925272 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/18ae9b1b-ae98-4e72-99a1-93d3da57551f-1787471925272 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/881d216d-98e8-42c0-99d3-db61050b0dd5/092f4f2c-2646-45a5-bc1b-b3bb8f02626b-1787471925272 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>风格：手绘感数字动画，保留粗犷可见的笔触与未完成的草稿边缘，形体以宽阔平坦的palette刀式色块堆砌而成而非干净的线条，画面中保留干笔擦痕与颜料滴流。极度克制的配色——冷调石板灰绿的天空、粉笔白的冰面、暗淡的藕紫与尘灰——全片仅允许存在两处高饱和亮色：神明熔金般的双眼，以及巨兽体内的青色能量。宽银幕电影式场面调度，大量留白，绘画颗粒感，24帧每秒。禁止3D渲染，禁止照片写实，禁止日式动漫语汇，禁止赛璐璐上色。
+
+参考：@scene1 是上一段已生成的视频片段——请将其作为风格、配色、笔触、角色设计、体量比例与光线的连续性参考。本段直接承接该片段的最后一帧，即青色冲击过后，破碎的冰刃高高耸立于整片冰原之上。必须与 @scene1 完全一致；不得重新调整风格，不得改变笔触质感或神明与利维坦之间的体量比例。
+
+主体：@god（与 @scene1 及输入图3完全一致100%）——那位身形高大的神明，黑色分叉发冠，飘扬的白须白发，熔金般的双眼，布满鼠尾草绿纹样的赤裸躯干，石板蓝裹裙配金饰，赤足，手持金箍黑色三叉戟。@beast（与 @scene1 及输入图1完全一致100%）——那头藕灰色的巨大利维坦，破碎的黑色鳍冠，钝白的牙齿，深粉色口腔，垂落的淡薄荷色触须，以及嵌满背脊的折断船桅。@sea（与 @scene1 及输入图2完全一致100%）——同一片白色冰原，笼罩在石板绿天空与高耸的云墙之下。
+
+场景：延续于那片碎裂的冰原之上，利维坦修长的躯体此刻横陈其间。
+
+动作：
+镜头1（0:00–0:03）——极特写：神明的手掌收紧握住三叉戟杆，指节绷起。硬切。
+镜头2（0:03–0:07）——贴冰面的低角度：他赤裸的双脚全速冲刺踏过冰面，每一步都激起水花飞溅。硬切。
+镜头3（0:07–0:11）——他纵身一跃落上利维坦的背脊，随即沿着脊线奔跑，在皮肤上林立的断裂船桅之间穿行。硬切。
+镜头4（0:11–0:15）——宽幅侧视：利维坦弓身扭头回望向他，巨口张开，触须横扫过整个画面。硬切。
+镜头5（0:15–0:19）——正面：巨口完全张开，青色光球在咽喉深处重新点亮，自内部照亮牙齿与粉色的血肉。硬切。
+镜头6（0:19–0:24）——神明纵身直扑进那张巨口，三叉戟前指，将其贯入那颗发光的青色光球；光芒自齿缝间汹涌溢出。硬切。
+镜头7（0:24–0:27）——青色光芒流泻殆尽、彻底熄灭。利维坦的下颌无力垂落，头颅缓缓沉落于冰面之上。硬切。
+镜头8（0:27–0:30）——终幕宽幅：庞大的躯体静静横陈于白色平原之上，雾气飘散，神明渺小的身影立于它的头顶，三叉戟插在身侧，面朝空荡的地平线。定格保持。切黑场。
+
+摄影：手部用紧凑的固定机位插入镜头；冲刺用贴地跟随移动；脊背奔跑用快速横向跟拍；巨兽回身用静止宽幅；咽喉用缓慢推进；贯刺用剧烈的前冲镜头；终幕用缓慢后拉宽幅。终幕镜头须停留两拍再切。
+
+音效：全程是风声与冰层开裂声，冻土上的奔跑脚步，经过船桅时的木质吱呀，巨兽深沉的呻吟，青色能量再度升起蓄能——随后在贯刺的瞬间陷入完全的寂静，持续一拍，接着是躯体沉落时低沉的崩塌轰鸣、海水拍岸，终幕镜头下只余稀薄的风声。无对白，无字幕。
+
+限制条件：16:9画幅。必须与 @scene1 及三张输入图完全一致100%——相同的角色设计、相同的巨兽形体、相同的环境、相同的配色，两段之间不得出现形象漂移或风格跳变。每一帧都必须维持这套冷峻克制的配色；全片仅允许金色双眼与青色能量两处高饱和亮色——不得出现火焰，不得出现橙色，不得出现暖光。全程保留粗犷的手绘笔触质感；禁止3D渲染，禁止照片写实，禁止干净的线稿线条。仅限风格化的动作表现——无血液，无血腥，无内脏，无可见伤口；巨兽只是归于静止。画面中任何位置都不得出现文字、字母、标识或字幕。</code></pre>
+
+</details>
+
+## AURELIA Skin Hydration Serum cinematic commercial
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2091393149805756450)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3605](https://imglume.com/prompt/3605)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bec5f2e5-5354-4e99-b08d-1af833e5cdc2/69015469-2f9d-49a4-872a-70a0bd52511c-1787469692015 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A luxury, 8K ultra-realistic cinematic skincare commercial for "AURELIA SKIN HYDRATION SERUM" shot on 35mm lens in high-end studio lighting against a dark pitch-black background.
+The video opens with a macro extreme close-up of a clear glass serum dropper filled with viscous, bubbly liquid as a pristine drop slowly forms at the tip. Cut to slow-motion liquid physics as the drop falls and creates smooth, elegant circular ripples across a reflective black surface. Reveal a centered hero shot of the frosted glass bottle with a white dropper top and crisp black typography reading "AURELIA SKIN HYDRATION SERUM" standing on a glossy mirror surface. Macro close-up shot of a gorgeous East Asian model with dewy, radiant skin as a pipette applies serum to her cheek, followed by her fingers gently massaging the glowing serum into her skin. She smiles softly at the camera, holding the product bottle beside her face in soft-focus fashion lighting. Ends on a crisp, static high-fashion shot of the product bottle centered on the dark reflective surface.
+Shot at 60fps slow motion, smooth cinematic camera pans, dramatic rim lighting, soft key light, hyper-detailed skin textures, commercial advertisement quality.</code></pre>
+
+</details>
+
+## Super Woman martial-arts showdown in a Korean high-school gym
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2091388398153994395)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3604](https://imglume.com/prompt/3604)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2388fd85-dfc2-4824-a202-221c8408ad35/e9849021-c079-4b2a-b7ac-5c76a13719c1-1787469678403 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30s | 16:9 | one continuous generation | ultra-photorealistic live-action AAA martial-arts VFX
+
+SO-YEON is the exact same real human throughout, 160cm small frame, messy black hair, black hoodie/sweats/Converse, natural pores/eyes/hair/biomechanics. Never CGI/digital double. Empty Korean high-school gym, late afternoon, sunbeams/dust, bleachers, scoreboard, basketballs, badminton rackets. 5 unarmed delinquent male classmates in dark untidy uniforms. Korean dialogue, no BGM/subtitles; only diegetic ambience, voices, impacts, static hiss.
+
+00–03: So-Yeon cowers by bleachers, surrounded. Leader smacks her head: “어쭈? 이 년 봐라? 많이 컸다?” She glares coldly through bangs, then fear returns: “아…! 미안…”
+
+03–06: He swings again.
+
+06–09: 0.3s micro-slow-mo: awakened body autonomously slips fist → Silat parry → pivot → body punch. THUMP + sharp white-blue static flash. Hair rises, dust scatters. Snap back to real-time; leader crashes/slides away.
+
+09–12: She stares at trembling hand, tiny static crawling between fingers, terrified/disbelieving. “저 년이?!” Four rush simultaneously.
+
+12–17: Extreme physical dash: PARRY → wrist redirect → elbow → low sweep; side-kick second attacker. 0.2s impact slow-mo with branching static flash, hair/uniform fibers rising, papers/shuttlecocks scattering. Snap back; never stops.
+
+17–22: Two attack together. Diagonal dash → duck hook → redirect momentum → high roundhouse. Static arc-flash at impact; hair stands up, shuttlecocks fly, scoreboard flickers.
+
+22–27: Final attacker from behind. Maximum real-body acceleration; camera lags/overshoots, violent whip-pan reacquires. Evade → parry → redirect → jab → body punch → low kick → spinning Taekwondo back kick. 0.25s slow-mo: dense branching static at heel impact, uniform puffs, dust/paper pulled inward then blasted outward.
+
+27–30: Violent physical discharge: KRA-KRACKLE! Static-white ring races across floor; dust/paper explode outward, fluorescent lights flicker, basketball rolls off cart. Enemy slides far away. Flash hits lens: flare/interference/dust, then rapid stabilization. So-Yeon lands, sees fading sparks on her hands, half fear/half wonder, exhales, straightens and walks calmly through dust, hair falling over eyes. Never looks back. CUT.
+
+COMBAT: Awakened So-Yeon fights completely unarmed, calm/precise/extremely fast, fluid Taekwondo × Karate × Pencak Silat: punch → kick → evade → parry → redirect → dash → counter → sweep → palm/elbow → angle change. No reset poses; momentum continuously flows. Bullies attack simultaneously, never take turns.
+
+STATIC BLOOM RULE: White-blue friction discharge ONLY. Real-time → physical dash burst → 0.15–0.35s impact slow-mo → snap back. Sparks crawl along skin/hair/hoodie; hair/threads lift; filaments jump between fingers/joints; dust follows slipstream. No teleportation, aura, projectile, beam, plasma, fireball, petals, or magic. Every discharge must originate from visible physical contact and extreme velocity. Impact → charge build → branching arc → dust/paper scatter. Static never causes the initial impact.
+
+CAMERA: close, kinetic handheld pursuit, tracking, low angles, OTS/facial inserts, rapid focus shifts, whip-pans; follows but cannot perfectly anticipate acceleration. Shake only from real impacts/discharges. Action readability &gt; chaos.</code></pre>
+
+</details>
+
+## Cinematic Ultra-Realistic Air Fryer Food Commercial Video
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2091392675912221176)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3602](https://imglume.com/prompt/3602)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac5b68aa-50db-4854-96a8-fce8456b32a6/7bb26391-8d3b-48a4-b78f-957d935de84e-1787467729098 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 14-second cinematic, ultra-realistic commercial video using the provided air-fryer reference image and storyboard as visual reference.
+Keep the same modern black air fryer, same girl, same modern kitchen, same lighting, same overall visual style and composition throughout the entire video. The girl should look consistent in every shot, with the same face, hairstyle, outfit, and appearance.
+
+0–2 seconds:
+The girl opens the air fryer drawer and places a generous portion of frozen potato French fries inside. Show a clear close-up of the fries going into the basket.
+
+2–4 seconds:
+She places several seasoned chicken leg pieces/drumsticks beside the fries in the same air-fryer basket, keeping both foods separated and clearly visible. Show a detailed top-down/close-up shot of the fries and chicken together.
+
+4–5 seconds:
+She closes the air fryer and sets the digital temperature and cooking time on the front touchscreen. Show her finger pressing the controls.
+
+5–8 seconds:
+Show the air fryer actively cooking. Use a cinematic close-up through the cooking window/interior: the French fries and chicken legs are cooking simultaneously, gradually becoming golden and crispy. Show realistic heat, gentle steam, and natural cooking movement. The fries become golden and crisp while the chicken develops a delicious roasted surface.
+
+8–10 seconds:
+The girl opens the air fryer and checks the perfectly cooked food. Capture the golden fries and juicy, crispy chicken legs in a beautiful close-up.
+
+10–12 seconds:
+She uses tongs to transfer the crispy fries and chicken leg pieces onto a clean serving plate. Arrange the fries on one side and the chicken pieces on the other. Make the food look fresh, hot, golden, crispy, and appetizing.
+
+12–14 seconds:
+Show a hero close-up of the finished plate beside the air fryer. The camera slowly moves closer to highlight the crispy fries and beautifully cooked chicken.
+
+14–15 seconds:
+The girl smiles happily while holding/looking at the finished meal. End with a premium product shot of the air fryer and plated food, with a clean commercial feeling.
+
+Visual style:
+Ultra-realistic food commercial, cinematic product advertising, warm modern kitchen lighting, realistic food textures, natural hand movements, realistic steam and heat, shallow depth of field, smooth camera movements, crisp details, premium commercial photography, 4K quality.
+
+Important: Keep the air fryer design consistent with the reference. Do not change the girl’s identity or appearance. Do not add extra people. Keep the fries and chicken cooking together in the same cooking session, and clearly show the complete process from loading → cooking → opening → plating → final delicious result. Avoid distorted hands, extra fingers, warped food, changing kitchen layout, or inconsistent product design.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic lifestyle video of a woman on a seaside balcony
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2091385950295519456)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3600](https://imglume.com/prompt/3600)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65ca59b1-f95a-4036-9029-ad9b885ecb8f/925e73b1-7491-4d59-88f1-327d46940597-1787467707253 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic 15-second cinematic lifestyle video of the exact same elegant girl in cream/ivory traditional embroidered outfit with floral detailing and matching dupatta, seated on a luxurious seaside balcony overlooking turquoise ocean, palm trees, sandy beach and distant city skyline under warm morning sunlight.
+
+She starts by gently sipping tea from a white cup at the marble breakfast table with a calm, happy expression, then lowers the cup and peacefully gazes at the sparkling waves.
+
+Next she picks up the smartphone beside her, casually scrolls through the screen with relaxed curiosity, briefly looks back at the ocean while holding the phone, places it down, and takes another soft sip of tea as her dupatta gently moves in the sea breeze.
+
+End with a smooth wide cinematic pull-back of her sitting peacefully enjoying tea against the beautiful turquoise sea and coastline.
+
+Keep perfect character consistency (same face, skin tone, eyes, hairstyle, jewelry, body, outfit), same location, props and background throughout, with natural movements, soft shadows, realistic ocean waves, shallow depth of field and premium travel-ad aesthetic.</code></pre>
+
+</details>
+
+## Lisbon travel video with hyper-realistic cinematic scenes of a woman in summer attire
+
+- **Original source:** [@PrometheanAIX on X](https://x.com/PrometheanAIX/status/2091139175294603414)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3598](https://imglume.com/prompt/3598)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a865f755-4c5a-4072-915e-287a21d2c7a2/d8b19dfa-c324-4da5-b79f-7f58d36278c8-1787467680582 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5, vertical 9:16, 15 seconds. Use the reference image to preserve the same adult woman’s exact identity, face, hair, body proportions, and visual quality.
+
+Hyper-realistic cinematic live action, natural skin texture, no plastic skin, no morphing, no outfit changes.
+
+She wears a butter-yellow linen vest, crisp white tailored shorts, woven leather sandals, delicate gold jewelry, and carries a small raffia shoulder bag. Light, airy Lisbon summer style. No sunglasses. No dialogue, no text, no logos.
+
+Create nine energetic but elegant scenes:
+
+1. Wide opening at Praça do Comércio. She enters the sunlit square beneath the Rua Augusta Arch as pedestrians move naturally around her. Backward gimbal tracking.
+
+2. A fast Lisbon time-lapse. Yellow trams, pedestrians, tiled streets, shifting sunlight, and changing city movement surround her as she continues through the city. She remains the visual anchor.
+
+3. Cut to an intimate, tightly cropped beauty shot of her face, neck, and shoulders beside a sunlit azulejo wall. She looks directly into the camera. Her eyes soften and she gives the smallest genuine smile, creating a warm positive connection with the viewer.
+
+4. Lateral tracking shot as she walks along Rua Augusta, adjusting the raffia bag while the crowd flows behind her. Natural, confident movement.
+
+5. Rear-follow shot through a narrow Alfama lane with tiled buildings, balconies, plants, and warm reflected sunlight. She looks upward briefly, curious about something outside the frame.
+
+6. Side-profile shot outside a small Lisbon café. She pauses, notices something across the street, and lets a subtle private smile cross her face.
+
+7. Partial orbit as she reaches a Miradouro overlooking Lisbon and the Tagus. Her hair and linen vest move gently in the breeze.
+
+8. Stabilized forward tracking as she crosses a bright street in one continuous direction. She glances to the side, deciding where to go next.
+
+9. Golden-hour hero shot at the overlook. Slow cinematic push-in as she turns toward the glowing city, then looks back toward the camera with quiet confidence and a soft smile.
+
+End warm, beautiful, and emotionally open. Use quick elegant cuts, natural summer ambience, gentle breeze, realistic pedestrians, rich architectural detail, warm sunlight, and a polished travel-film rhythm. Keep her beautiful and recognizable in every scene.</code></pre>
+
+</details>
+
+## 共工异兽视频生成 Prompt
+
+- **Original source:** [@jackzhang123vip on X](https://x.com/jackzhang123vip/status/2091108174728491245)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3597](https://imglume.com/prompt/3597)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9fc7d85e-caab-4062-a8db-88269e6568bd/33424d11-6cfe-43dc-b55d-7b077b5ea366-1787467675746 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>怒海翻腾，狂风暴雨笼罩天地，山海经上古水神异兽共工半隐于滔天海啸与海雾深处。巨大的洪荒巨兽如同一座移动山岳，庞大的头颅与肩背从风暴中缓缓显现，深色鳞甲与岩层般粗糙皮肤沾满海水，长须与触须在狂风中摆动。海面巨浪不断翻涌拍打海岸，浪花冲击堤坝，水雾四散。远处若隐若现的古代楼阁与岸线被海雾吞没。前景中，一个渺小的人独自站在堤坝尽头，凝望海中的巨兽。镜头采用超广角电影式构图，缓慢向前推进，前景海浪大幅运动，中景海雾席卷，背景巨兽逐渐清晰，营造洪荒水神降临的末日史诗感。超写实，电影级灾难美学，8K，高细节，东方神话风格。</code></pre>
+
+</details>
+
+## 烛九阴异兽视频生成 Prompt
+
+- **Original source:** [@jackzhang123vip on X](https://x.com/jackzhang123vip/status/2091108174728491245)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3596](https://imglume.com/prompt/3596)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b0a1566-478a-4751-9a22-ea5b123c9a3a/d543aa0e-87f7-458b-b205-37b96ec2254e-1787467675746 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>一片冰封荒原与雪山峡谷之中，山海经异兽烛九阴的巨大神躯盘绕天地，暗红色鳞片覆盖整片山谷，蛇身缓缓扭动，带动周围冰雪震颤与寒雾翻涌。天空中巨大的黑色日轮高悬，云层高速流动，露出若隐若现的古神面孔。地面中央一个渺小的白衣人类静静站立，衣袍在寒风中轻轻摆动。镜头以超广角低机位缓慢向前推进，冰面反光清冷，空气中飘散雪粒与碎冰，整体呈现东方神话、末日降临、史诗巨物压迫感。电影级光影，体积雾，超写实，8K，高细节。</code></pre>
+
+</details>
+
+## 强良异兽视频生成 Prompt
+
+- **Original source:** [@jackzhang123vip on X](https://x.com/jackzhang123vip/status/2091108174728491245)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3595](https://imglume.com/prompt/3595)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/294b06c0-9ca2-4ebe-8ed2-26f2ffec2e70/a211d4f4-00a4-4125-8416-1ffe1a76f53f-1787467675746 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>冰封雪原之上，山海经异兽强良化为一头山岳般巨大的白色雷虎，正面匍匐压来。它张开血盆大口发出无声低吼，獠牙间垂落黑色黏液与诡异触须，脸部伤痕累累，一只残破眼眶空洞可怖，另一只眼闪烁凶光。蓝白色雷电在它的毛发、獠牙与躯体四周不断跳跃，电弧噼啪闪动。前景中一名渺小战士手持长枪站在雪原中央，衣袍与长发被狂风吹动。周围暴雪呼啸，寒雾翻腾，巨虎前爪微微压地，带起冰雪震动。镜头低机位正面缓慢推进，压迫感越来越强，形成史诗级人兽对峙。超写实，电影级BOSS战氛围，8K，高细节，东方黑暗神话风格。</code></pre>
+
+</details>
+
+## 30-second photorealistic cinematic laundry commercial with South Asian woman
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2091386310837862772)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3591](https://imglume.com/prompt/3591)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40abe0b5-e2a4-4d84-b5b5-14f10e1f69af/b8251010-73bf-493a-b71b-0019c13cc832-1787467615744 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second photorealistic cinematic laundry commercial featuring a young South Asian woman in a bright, modern home. Include a natural female voiceover throughout the video, synchronized with the actions. The voice should sound warm, friendly, clear, and conversational, with soft realistic background laundry sounds and no music overpowering the voice.
+
+0–5 seconds: The woman walks into the laundry area carrying a basket full of dirty clothes and places it beside a modern front-loading washing machine.
+Voiceover: “Laundry day starts with one simple step.”
+
+5–10 seconds: She opens the washing machine and carefully puts the clothes inside one by one. Show realistic fabric movement and natural hand movements.
+Voiceover: “I just load all my clothes into the washing machine…”
+
+10–13 seconds: She adds liquid detergent into the detergent compartment, closes it, and shuts the washing machine door.
+Voiceover: “…add my detergent…”
+
+13–17 seconds: She presses the start button. Close-up of the washing machine starting, with the clothes visibly spinning behind the glass door.
+Voiceover: “…and let the machine do the work.”
+
+17–22 seconds: After the wash, she opens the machine and takes out the fresh, clean clothes. She gently shakes and unfolds the garments.
+Voiceover: “Once they’re clean, they come out fresh and ready to dry.”
+
+22–28 seconds: She carries the clean clothes outside to a clothesline and hangs each garment carefully using clothespins. A gentle breeze makes the clothes move naturally.
+Voiceover: “Then I simply hang them outside and let the fresh air do the rest.”
+
+28–30 seconds: Final cinematic shot of the freshly washed clothes hanging beautifully in warm sunlight while the woman smiles naturally nearby.
+Voiceover: “Clean, fresh, and ready to wear.”
+
+Warm natural daylight, realistic South Asian woman, modern home, detailed clothing textures, realistic washing machine, natural human movement, smooth cinematic camera transitions, close-up shots, subtle handheld movement, realistic fabric physics, gentle outdoor breeze, photorealistic premium commercial quality, natural female voiceover, realistic ambient sounds, clear synchronized speech, vertical 9:16, no subtitles, no text, no watermark, no logos.</code></pre>
+
+</details>
+
+## Realistic Korean Street Fight Scene with Young Woman
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2091369940523893020)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3590](https://imglume.com/prompt/3590)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ca4e5455-4d15-4b35-8761-f84d8783bcb3/97a0cebe-885f-4a50-84be-bb6e7c3e31ef-1787467592085 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural appearance, black wavy hair loosely tied back, fitted dark short top, loose cargo pants and sneakers. Realistic skin texture, natural makeup, authentic facial expressions and realistic biomechanics. Use the reference image as the exact identity reference and maintain her appearance throughout.
+
+LOCATION: Quiet Korean neighborhood street during late afternoon. Narrow concrete road, small convenience store, parked scooters, bicycles, utility poles, apartment buildings, street signs, pedestrians in the distance and warm sunlight. The entire sequence feels like it was accidentally captured by a friend on an old consumer DV camcorder.
+
+CAMERA / LOOK: Early-2000s handheld digital camcorder. Strong natural camera shake, imperfect framing, occasional focus hunting, exposure shifts, blown-out highlights, soft 480p/720p digital texture, faded colors, compression noise, lens flare, rolling-shutter wobble and occasional accidental zooms. The camera operator reacts late to sudden movements and sometimes loses her in the frame before quickly finding her again. No polished modern cinematography.
+
+SEQUENCE:
+
+Opening:
+She walks casually down the residential street carrying a small shopping bag. Two or three adult men hanging around outside a convenience store notice her and start behaving disrespectfully, blocking part of the sidewalk and making unwanted comments.
+
+She ignores them and keeps walking.
+
+One steps into her path. She stops and calmly tells him, “Move.”
+
+The camcorder shakes slightly as the operator moves closer.
+
+One man grabs toward her arm. She quickly pulls away and gives him a warning look.
+
+Fight breaks out:
+He tries to grab her again. She blocks his wrist, pivots away and delivers a quick controlled kick that knocks him backward.
+
+The other men rush toward her together rather than attacking one at a time.
+
+She ducks the first swing, redirects his arm, spins around the second attacker and pushes him into a parked trash container.
+
+The camcorder operator struggles to keep up, briefly losing her behind a parked scooter before swinging back into frame.
+
+She immediately steps sideways as another attacker charges, catches his momentum and sends him stumbling across the pavement.
+
+A fourth man tries to approach from behind. She notices him through a shop-window reflection, turns instantly and blocks his strike.
+
+She counters with a fast combination of parry → body strike → low sweep, sending him safely onto the ground.
+
+No exaggerated superpowers, no impossible strength, no gore.
+
+FINAL EXCHANGE:
+
+The remaining men hesitate.
+
+She stands in the middle of the street, breathing heavily, hair slightly messy, watching them cautiously.
+
+One makes another aggressive move.
+
+She sidesteps, redirects his arm and uses his momentum to throw him onto a pile of empty cardboard boxes.
+
+The boxes collapse dramatically.
+
+The other men immediately back away.
+
+She looks around, straightens her clothes and picks up the shopping bag that fell during the fight.
+
+A nearby friend filming her finally catches up.
+
+She looks directly into the camcorder and says with a tired expression:
+
+“Can we just go home now?”
+
+She walks away down the street without looking back.
+
+The camcorder operator follows her for a few steps, then accidentally zooms too far into her back before pulling focus.
+
+She turns around and waves dismissively at the camera.
+
+CUT TO BLACK.
+
+FIGHT STYLE: Realistic Taekwondo, Karate and practical self-defense movements. Fast but physically believable. Every strike has readable weight, balance and recovery. No teleportation, flying, energy beams, supernatural powers or impossible physics.</code></pre>
+
+</details>
+
+## 韩式犯罪动作片 视频脚本
+
+- **Original source:** [@Chengzilhy on X](https://x.com/Chengzilhy/status/2091139605835944106)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3589](https://imglume.com/prompt/3589)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4161b145-a5d3-4046-b6db-f081d0730119/a75b7217-1c6a-45c3-b5b6-f5e10326a284-1787465465875 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>image1 = 成年女主唯一人物身份参考。
+image2 = 成年男主唯一人物身份参考。
+
+0–2.7秒： 复古酒店套房内，女主被一名胡须持枪男性从背后控制，双手举起。挟持者威胁：“把枪放下，不然她就死定了。”
+2.7–4.7秒： 黑西装男主与一名穿黑色战术背心的持枪男性瞄准房间深处；女主和挟持者清楚出现在背景中。
+
+4.7–6.4秒： 第二名女性人质在墨绿色窗帘附近被另一名男性从背后控制。挟持者喊：“把枪扔了！我叫你把枪扔了！”
+
+6.4–8.2秒： 整个房间进入持枪僵局，所有人保持位置，枪口稳定，空气突然安静下来。
+
+8.2–10.2秒： 女主紧张近景，呼吸急促、明显害怕。她带哭腔说：“我还有孩子……求你了……”
+
+10.2–12秒： 男主仍保持瞄准，但开始犹豫。画外女主继续说：“求你让我走……拜托……”
+
+12–15.8秒： 男主缓慢解除攻击姿态，把手枪竖直举到头部侧面，另一只手张开。
+
+15.8–19秒： 男主蹲下，把手枪放到地面，再重新站起，双手完全举起。
+
+19–21.4秒： 女主仍被控制，继续维持脆弱人质状态，最后轻声说一句：“拜托……” 挟持者开始放松警惕。
+
+21.4–22.2秒： 男主举手近景。整个房间完全静止，进入反转前最后一拍停顿。
+
+22.2–22.8秒： 女主举起手掌的紧近景。一根极细、银色、针状金属刺刃从画面下方进入手掌附近，女主手指瞬间合拢握住。
+
+22.8–23.3秒： 极近特写。女主用一个极短、精准的动作让金属刺刃快速划过第一挟持者颈侧，对方瞬间吃痛并松开控制。
+
+23.3–23.7秒： 极近特写。女主迅速提起一侧浅米白裙摆，依次露出黑色蕾丝长袜上沿、大腿外侧隐蔽枪套和紧凑型黑色手枪，并快速将手枪完整拔出。
+
+23.7–24.35秒： 正面中近景。女主向前脱离控制，从低位快速双手合握抬枪，稳定瞄准；第一挟持者在她身后捂住颈侧后退。
+
+24.35–25.8秒： 切到第二女性人质仍被控制的画面。一声短促枪响，第二挟持者瞬间失力、松开人质并向后倒下；女性人质受到惊吓后快速向侧前方挣脱。
+
+25.8–26.7秒： 男主仍保持举手姿态。先是眼睛转向女主方向，随后头部才跟过去，表情从错愕变成重新判断。
+
+26.7–30秒： 稳定女主近景。她保持双手持枪确认威胁解除，随后缓慢降低枪口，呼吸恢复平稳，眼神逐渐柔和，嘴角出现极轻微、克制的笑意，最后轻微歪头。切黑。
+
+风格： 超写实东亚犯罪动作惊悚片，复古高级酒店套房，暖黄钨丝灯与深绿色环境光混合，35mm / 50mm / 85mm电影镜头语言，克制演员表演，真实皮肤与人体惯性，前22秒慢节奏压迫，22–26秒快速硬切完成反转，轻微胶片颗粒，自然运动模糊，暴力表现克制。
+
+声音： 只保留人物对白与真实同期声，包括呼吸、衣料摩擦、房间环境声、枪械操作声和一次真实枪响。无BGM、无配乐、无字幕、无任何屏幕文字、无Logo、无水印。</code></pre>
+
+</details>
+
+## Summer Ice Cream Chase in Korean Neighborhood (Seedance 2.5)
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091367526269890735)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3588](https://imglume.com/prompt/3588)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/47dcf051-0b8a-4399-834c-6a41fe70c28d/6afd6c57-dd43-4cf2-8b33-b9889519ac4b-1787465452315 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young Korean woman, early 20s, natural appearance, fitted pastel-blue short top, loose white pajama pants, black sneakers, simple silver necklace, black wavy hair tied into a messy side ponytail. Realistic skin texture, minimal makeup, consistent identity throughout.
+
+Peaceful Korean residential neighborhood on a hot summer afternoon. Small homes, narrow concrete alleys, potted plants, bicycles, old walls, overhead wires and a tiny neighborhood ice cream shop at the end of the street.
+
+Early-2000s handheld DV camcorder operated by a friend. Strong camera shake, drifting composition, autofocus hunting, faded colors, soft digital image, exposure shifts, occasional motion blur and imperfect zooms.
+
+She steps outside her house holding a small fan, looking overheated.
+She suddenly hears the familiar sound of an ice cream truck bell and looks toward the end of the alley.
+She spots the truck turning the corner and immediately starts running after it, laughing as the camera struggles to keep up.
+She finally catches it and excitedly chooses a colorful ice cream, holding it up proudly toward the camera.
+She walks away taking her first bite, then notices the ice cream is already melting down her hand.
+She panics, runs toward a nearby outdoor water tap and tries to clean her sticky fingers while laughing.
+Her friend zooms in awkwardly on her messy face and melting ice cream. She looks directly at the camera, shakes her head and says, “Still worth it.”
+
+She walks back down the sunny alley eating the ice cream as the camera follows behind her.
+
+Audio: Ice cream truck bell, birds, summer insects, footsteps, distant children, bicycle bells, water running and natural neighborhood ambience. No music, no narration.
+
+Warm summer sunlight, nostalgic DV colors, authentic handheld imperfections, realistic ice cream melting, natural expressions, candid everyday-life energy and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## 20-second ultra-photorealistic cinematic lifestyle vlog of a day in a woman's life
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091345498909319528)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3587](https://imglume.com/prompt/3587)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f09164d7-bc01-4ade-80e1-b9bdf3287d8d/26563469-8d52-4d9f-820e-d6d0c3c5d9ff-1787461386624 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f09164d7-bc01-4ade-80e1-b9bdf3287d8d/b90d1b10-0862-415e-8289-ae582c2d5586-1787461386624 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 20 seconds
+ASPECT RATIO: 16:9
+
+STYLE:
+Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = FEMALE HERO / MAIN CHARACTER
+@IMG2 = BEDROOM / MORNING
+@IMG3 = KITCHEN / BREAKFAST
+@IMG4 = WORK / DESK
+@IMG5 = OUTDOOR / CAFÉ
+@IMG6 = EVENING / NIGHT
+
+Use @IMG1 as the strict identity reference throughout the entire video.
+
+CHARACTER CONSISTENCY:
+The same woman must appear in every scene.
+
+Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity.
+
+Do not change her identity between scenes.
+
+0–3 SECONDS — MORNING
+
+Start in the bedroom using @IMG2.
+
+The woman wakes up naturally and sits on the edge of the bed.
+
+Soft morning sunlight enters through the window.
+
+She gently opens the curtains and looks toward the morning light.
+
+Camera begins with a medium-wide shot and smoothly pushes toward her.
+
+Peaceful morning atmosphere.
+
+3–6 SECONDS — BREAKFAST
+
+Smooth cinematic transition to @IMG3.
+
+The same woman prepares a simple breakfast in the kitchen.
+
+She pours coffee or tea into a ceramic mug and places breakfast on the counter.
+
+Natural steam rises from the hot drink.
+
+She briefly looks toward the camera with a relaxed morning smile.
+
+Use a natural medium tracking shot.
+
+6–10 SECONDS — WORK
+
+Transition to @IMG4.
+
+The same woman sits at her desk and works on her laptop.
+
+She types briefly, checks the screen and writes a few notes in her notebook.
+
+Natural productive expression.
+
+Camera moves slowly from a side angle toward a three-quarter view.
+
+Keep the environment realistic and calm.
+
+10–14 SECONDS — OUTDOOR / CAFÉ
+
+Transition naturally to @IMG5.
+
+The same woman leaves home and walks through a beautiful modern city street toward an outdoor café.
+
+Camera smoothly tracks backward while she walks toward it.
+
+She arrives at the café, places her handbag beside the table and sits down.
+
+She smiles naturally toward the camera.
+
+Warm daylight and realistic city background.
+
+14–17 SECONDS — CAFÉ MOMENT
+
+Close cinematic shot.
+
+She picks up her coffee/drink and takes a relaxed sip.
+
+Subtle background movement from distant pedestrians.
+
+Natural handheld lifestyle-vlog feeling.
+
+17–20 SECONDS — NIGHT
+
+Transition to @IMG6.
+
+The same woman is back home in her cozy bedroom at night.
+
+She places her phone on the bedside table and relaxes after the day.
+
+She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile.
+
+Camera slowly pushes into a close-up.
+
+End on her calm expression with warm bedroom lighting and soft city-light bokeh.
+
+CUT TO BLACK.
+
+CAMERA PRIORITY:
+
+Keep the camera cinematic and natural.
+
+Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement.
+
+Avoid excessive camera shake.
+
+Keep the woman as the visual focus.
+
+Maintain realistic transitions between locations.
+
+FINAL RULES:
+
+Same female character throughout.
+Same face and identity throughout.
+Natural realistic human movement.
+Realistic lighting and shadows.
+Realistic clothing and hair movement.
+No face changes.
+No character duplication.
+No extra main characters.
+No cartoon or anime appearance.
+No fantasy effects.
+No excessive motion blur.
+No distorted hands.
+No text.
+No logos.
+No watermark.
+
+The overall feeling should be:
+A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life.
+
+Reference Image:
+
+Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference.
+
+Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance.
+
+Create the same woman as a realistic modern lifestyle vlogger.
+
+Show her with natural feminine proportions and realistic anatomy.
+
+CHARACTER PRESENTATION:
+
+Create a clean professional character sheet containing:
+
+1. Full-body front view
+2. Full-body 3/4 view
+3. Full-body side view
+4. Back view
+5. Close-up face portrait
+6. Natural smiling expression
+7. Neutral expression
+8. Casual standing pose
+
+Keep the exact same woman in every view.
+
+CLOTHING:
+
+Use a simple modern casual lifestyle outfit suitable for a daily vlog:
+a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear.
+
+Keep the outfit realistic, modest and natural.
+
+STYLE:
+
+Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors.
+
+The character should look like a real woman photographed for a professional lifestyle vlog.
+
+IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY.
+
+Do not change her face.
+Do not change her hairstyle.
+Do not masculinize her.
+Do not make her look like a different person.
+Do not create an anime or cartoon appearance.
+No fantasy styling.
+No text.
+No logo.
+No watermark.
+
+Clean neutral studio background.
+
+This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.</code></pre>
+
+</details>
+
+## 30秒 9:16 超写实舞台魔术喜剧短片 – PYONA 水箱逃脱
+
+- **Original source:** [@pyona_ai on X](https://x.com/pyona_ai/status/2091163447899857065)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3584](https://imglume.com/prompt/3584)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e65655fd-ab29-49f6-ad9a-224486f9f6d4/dbad49b1-5b0e-4e28-b0d0-7ca2ffe92bc8-1787461323997 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use exactly 1 uploaded image asset.
+image1 = PYONA唯一且最高优先级的人物身份与外观参考。
+
+【REFERENCE BINDING】只从image1继承PYONA的可辨识脸部身份、五官比例、脸型、肤色、原始发色、发型、发长、刘海、分缝、发际线、原图实际存在的发饰与头部配饰、身体比例、体型、身高感、年龄感与整体气质。绝对不要继承image1中的服装、鞋子或其他穿搭。视频中的舞台服装必须由Seedance根据本提示词重新生成。不要为了新服装改变PYONA的脸、头发、发色、发饰或人物身份。
+
+生成一段30秒、9:16竖屏、24fps、超写实真人电影质感的大型舞台魔术喜剧短片。整体像真实电视魔术秀现场：大型剧院、满座观众、专业舞台灯光、真实摄影机、清晰快速但表演可读性很强的喜剧节奏。不是恐怖片，不要血液、伤口、残酷感，但前半段必须让观众明确感受到PYONA真的越来越憋不住，已经接近忍耐极限，脸上必须清楚出现缺氧、忍耐、慌张、快撑不住的真实表情变化。
+
+【PYONA STAGE OUTFIT】由Seedance重新生成专业舞台兔女郎魔术助手服装：黑色高级修身舞台连体服、黑色兔耳、白色衬衫领、黑色小领结、白色腕口、黑色半透明连裤袜、黑色舞台高跟鞋。造型华丽、专业、真实，不廉价，不继承image1原本服装。PYONA本来的发型、发色、发饰必须保持image1一致。
+
+【MAGICIAN】Seedance自行生成一名50~60岁左右的成年男性舞台魔术师。黑色正式燕尾服或高级礼服、白衬衫、黑色领结、白手套、黑色魔术礼帽。前期自信，中期慌张，后期狼狈。不使用额外人物参考图。
+
+【STAGE / WATER TANK】大型室内剧院，黑色舞台幕布、聚光灯、轻微舞台烟雾、满座成年观众。舞台中央是一座巨大透明矩形水箱，成年人可完整站立其中，四面透明，水质清澈，灯光在水中产生真实折射。PYONA位于水箱内部，双手与身体被清楚可见的专业舞台逃脱束缚装置固定。束缚装置必须像魔术道具，不像刑具。
+
+【CRITICAL UNDERWATER DISTRESS RULES】水下中后段，PYONA绝对不能只是轻微皱眉或普通惊讶。必须演成一个已经憋气很久、正在努力阻止自己本能吸气的人。脸部变化必须非常清楚：最初是困惑与忍耐；随后嘴唇绷紧，脸颊和嘴角失去从容；眉心逐渐收紧；下颌明显紧绷；眼神从平静变得不安、发急、带求助感；鼻翼轻微张开；眼周肌肉越来越紧；嘴巴会短暂控制不住地微微张开，再强行闭住；气泡越来越多；到最严重阶段，必须出现“真的快憋不住了”的强烈表情。不要让她在水下保持漂亮模特表情，不要只用眉毛表现痛苦，必须让眼睛、嘴唇、脸颊、下颌、颈部一起参与表演。不要因为身份保持而把脸锁死，允许真实强烈的表情形变，但仍保持image1的身份可辨识性。
+
+【EMOTIONAL ARC】PYONA的情绪必须清楚递进：平静配合演出→疑惑→不安→真实缺氧和越来越难受→接近极限的恐慌→看出魔术师根本救不了自己后的愤怒→自己挣脱→破箱而出→强烈吸气与急促喘息→疲惫中对魔术师怒火爆发→勉强调整状态向观众谢幕。她破箱出来后不能立刻满血恢复，必须明显在喘气、回气、肩膀起伏、咳水、湿发贴脸、体力被消耗。
+
+【TIMELINE】
+0.0–3.0s：舞台广角。透明水箱位于中央，PYONA已经被束缚在水中。魔术师站在水箱旁，自信面向观众，夸张展开双手，用韩语大声喊：“하나, 둘, 셋!” 同时做大型魔术释放手势。舞台WHOOSH音效，观众期待。PYONA此时仍然平静，像正常配合演出。
+3.0–6.0s：预期中的逃脱没有发生。PYONA仍被束缚。她先低头看束缚，再抬头看魔术师。表情从困惑逐渐变成轻微不安。这里必须开始出现“她在忍住呼吸”的感觉：嘴唇逐渐收紧，脸部开始有一点僵，眼神里有“怎么还没好”的不安。少量气泡从鼻口附近逸出。不要立刻发怒。
+6.0–10.0s：魔术师慌忙再次做夸张魔术手势，但仍失败。他的表情由自信变成困惑再变成惊慌。此时PYONA的状态必须明显升级，而且这种升级主要体现在脸上：她已经更缺氧，眼睛更急、更慌，眉头收紧，眼周肌肉紧张，嘴巴会因为憋气压力微微张开后又努力闭住，脸颊和下巴发紧，嘴里冒出更多气泡，表情必须让人一眼看出“她真的很难受，快要憋不住了”。同时身体挣动更明显，胸口和肩膀有本能想呼吸却被强行压住的紧张感。不要演成轻松搞笑地吐泡泡，要演成短时间内明显越来越撑不住。
+10.0–14.0s：这是最重要的缺氧强化段。优先给PYONA脸部与上半身可读镜头。她已经接近憋气极限：眼神焦急甚至短暂发慌，眉毛向内上方拉紧，嘴角僵住，下颌和颈部绷紧，嘴巴会出现一次强烈的“想吸气却意识到自己还在水下而强行忍住”的动作。她忍不住释放一大串气泡，释放后脸上必须立刻出现更强的恐慌，因为她知道剩余空气更少了。胸腔和肩膀出现一次明显的本能吸气动作，但仍在水下，只能强行忍住。必须让观众明确感觉：她已经真的快撑不住了。
+14.0–16.0s：魔术师终于冲到水箱前拍打透明面板：“BANG! BANG!” 并用韩语喊：“어? 어?! 잠깐!” 只允许这句。观众开始明显骚动。PYONA再看一眼外面完全慌掉的魔术师。这里必须发生清晰情绪转折：恐慌和难受→意识到魔术师根本救不了自己→愤怒。她的眉眼从“求助与焦急”突然收紧成明显恼火。
+16.0–18.0s：PYONA低头看束缚，只做一次爆发性短促发力，直接挣开装置。不要长时间挣扎，重点是她前面已经被逼到极限，这一刻因为愤怒和求生本能直接自己解决。
+18.0–21.0s：PYONA立即转向水箱前侧，没有停下来摆pose。她现在最重要的事情是离开水。她用一次短促有力动作击破舞台透明面板。“CRASH!” 大量水瞬间向舞台前方倾泻。水流必须具有真实重量、折射、水花与冲击感，不要爆炸，不要魔法光效，不要超能力VFX。
+21.0–24.0s：PYONA随着水流出来。她刚离开水面的一瞬间，身体首先出现强烈本能吸气反应。必须清楚表现：嘴巴立即张开大口吸气；第一口气非常急；连续2~3次急促喘息；肩膀与胸口明显上下起伏；身体微微前倾；一只手可能本能扶住膝盖或胸口附近；短促咳嗽1~2次；湿发贴在脸颊和脖颈；眼睛短暂闭一下，像终于得到空气。她绝对不能一出水就立刻站得笔直、呼吸平稳、像什么都没有发生。
+24.0–26.5s：被水淋湿的魔术师慌张靠近，试图解释。PYONA仍在明显喘气，身体还微微前倾，肩膀随着呼吸起伏。她慢慢抬眼看向魔术师，表情必须非常明确：疲惫、刚刚受惊后的余波、难以置信、强烈恼火。魔术师刚继续比划解释，PYONA直接给他一次清晰耳光。“SLAP!” 只打一次。耳光必须带有“你差点害我憋死”的真实情绪释放。手掌真实接触脸颊，魔术师头部被打转，礼帽掉落。不要把他打飞。
+26.5–28.0s：PYONA仍然没有完全恢复。她先低头喘一口气，再努力直起身体。随后转向观众。水从头发和服装不断滴落，胸口仍有明显但逐渐减弱的呼吸起伏。她看到全场观众后，努力恢复专业舞台状态，整理姿势，对观众鞠躬。这个鞠躬不能像完全没事的人，鞠躬后起身时可再明显呼出一口气。
+28.0–30.0s：短暂静默后，全场观众突然起立爆发巨大掌声与欢呼，形成standing ovation。PYONA再次微微鞠躬，但仍然有一点疲惫和喘息。魔术师在后面捂着脸，完全狼狈。最后画面重点不是完美优雅，而是：PYONA全身湿透、还在恢复呼吸，却自己完成了逃脱并拿走全场掌声。CUT.
+
+【CAMERA】使用真实大型电视舞台节目摄影语法。允许合理硬切：舞台广角、水箱中景、PYONA水下表情中近景、关键缺氧阶段脸部近景、魔术师反应镜头、水箱破裂广角、出水后喘息中景、耳光双人侧面或3/4中景、最终舞台与观众广角。不要过度切镜。所有镜头必须保持PYONA、水箱、魔术师与观众之间清楚稳定的空间关系。最严重的缺氧阶段禁止长时间切去拍魔术师或观众，镜头必须优先停留在PYONA脸上，让观众看清她越来越难受的表情变化。出水后要给足PYONA回气、喘息、咳嗽和肩膀起伏的清楚表演空间。
+
+【PERFORMANCE】魔术师表演逻辑：自信满满→魔术失败→强装镇定→越来越慌→疯狂救场→眼看PYONA自己解决→被打脸→看着PYONA抢走全场掌声。PYONA表演逻辑：平静配合→疑惑→不安→明显憋气和缺氧→快撑不住的真实难受表情→恐慌→恼火→自己挣脱→破箱而出→大口吸气与急喘回气→打魔术师一次→一边恢复一边谢幕。喜剧来自人物反差，但PYONA的危险感和情绪必须真实可感，不要做成纯卡通闹剧。尤其不要把她演成水下还很轻松或面无表情，必须让缺氧压力真实写在脸上。
+
+【SOUND】无BGM，主要使用真实舞台声音与适度喜剧节奏音效。魔术师台词只有：“하나, 둘, 셋!”、“어? 어?! 잠깐!”。其余无对白。前段保留舞台WHOOSH、水泡声、水箱拍击声；中段加强束缚摩擦声、气泡连续泄出声；破箱时有清晰CRASH和大量水倾泻声；出水后必须明显听到PYONA第一口强烈吸气“HAH—!”，随后连续急促喘息、短促咳水或回气声；耳光只有一次清晰SLAP；最后是观众巨大掌声与欢呼。
+
+【PHOTOREALISTIC QUALITY】真实真人摄影。自然皮肤毛孔、细小绒毛、真实湿水皮肤反光，不磨皮、不塑料皮肤、不AI美女滤镜。头发严格遵循image1的原始颜色、长度、造型与发饰。水中及出水后遵循真实湿发物理，发丝形成自然湿束并滴水，不允许突然恢复干燥。服装浸水后颜色自然加深，具有真实湿布重量、贴合与褶皱，但保持专业舞台服装应有的不透明度。水下缺氧时的脸部要真实：眉间收紧、眼神发急、面部肌肉绷紧、嘴唇和下颌明显用力、鼻翼轻微张开、表情逐渐接近撑不住。出水后的身体状态要真实：肩膀起伏、呼吸急促、体力被消耗、表情残留惊险后的疲惫感。水箱、水体、破裂、水流必须符合真实重量、折射、流体动力学和表面张力。
+
+【NEGATIVE】禁止继承image1原本服装；禁止改变image1脸部身份、发色、发型、发长或原有发饰；禁止第二个PYONA、人物互换、动画感、游戏CG感、廉价水特效、魔法光束、超能力发光、爆炸火球、血液、伤口、残酷溺水、长时间失去意识、多次耳光、连续攻击、魔术师被打飞、超级英雄落地、色情化运镜、刻意身体局部特写、字幕、屏幕文字、水印、可读品牌logo；禁止把水下表情做得过于平静、轻松、只是普通惊讶、只有吐泡泡却没有缺氧痛苦；禁止PYONA一出水就立刻完全恢复；禁止用魔术师反应镜头代替PYONA的缺氧表演。</code></pre>
+
+</details>
+
+## Cinematic action-sport eyewear commercial
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091150722448703808)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3583](https://imglume.com/prompt/3583)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0428991b-6e9d-4d39-aa42-54647e0f5106/d7aac6b9-4f48-4df1-a902-95f9860a1cf4-1787459204441 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic action-sport eyewear commercial, photorealistic, 20-second video, 30fps, 16:9, 4K, fast dynamic cuts, motion blur on quick moves, dusty warm color grade — sun-bleached orange and sandy beige tones, high contrast shadows.
+Character: Athletic man &lt;&lt;&lt;image_1&gt;&gt;&gt;, late 20s, tan skin, buzzed hair, sleeveless tactical vest over grey shirt. Product: Wraparound sport sunglasses, matte black rubberized frame, polarized dark-grey lenses, red "HEIS" logo on outer hinge.
+Environment: Open desert dirt-bike trail, dust clouds from tires, harsh midday sun, hazy distant mountains.
+Shot list:
+0-2s — Wide shot, he sprints toward parked dirt bike, dust swirling.
+2-4s — Low-angle tracking shot, swings onto bike, glasses on, engine roars.
+4-6s — Close-up, dust reflecting off polarized lenses as he revs throttle.
+6-9s — Fast tracking shot alongside bike launching forward, motion blur, jacket flapping.
+9-11s — Extreme close-up, sweat/dust on jaw, distorted trail reflection in lens.
+11-14s — Aerial-style shot, bike jumping dune, brief hang-time, dust trailing.
+14-16s — Slow-motion landing shot, dust exploding in golden backlight.
+16-18s — Close-up, bike stops, he pushes glasses up slightly, red HEIS logo catches sun.
+18-20s — Final wide shot, looks back over shoulder, dust settling, sun flare crosses frame.
+Technical notes: realistic dust/dirt physics, motion blur only on fast movement, consistent character/product identity, no text overlays besides logo.</code></pre>
+
+</details>
+
+## 30-second AAA anime action-RPG combat cinematic duel between Fighter A and Fighter B in a rain‑slick obsidian arena
+
+- **Original source:** [@GlitterPixely on X](https://x.com/GlitterPixely/status/2091189648550695229)
+- **Recommended model:** `seedance`
+- **Source model(s):** `midjourney`, `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3569](https://imglume.com/prompt/3569)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6243356c-a9c3-40f1-9adc-8c3223ad4427/b98fabd4-b2e9-4c4b-b6ea-f5cdc8a68485-1787434003279 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[REFERENCE LOCK — DO NOT BREAK]
+@ Image1 defines Fighter A only: white hair, dark teal long coat, floating brass astrolabe rings, luminous gold-and-teal metal, clockwork geometry, teal-gold energy.
+@ Image2 defines Fighter B only: dark hair, ornate black-and-crimson outfit, gold headdress, long crimson cords, red-black ornamental details, crimson-black energy.
+Use and only for their assigned fighter’s identity, costume, colors, signature props, and signature VFX. Do not use either portrait’s background, pose, framing, facial expression, or composition. Do not interchange the fighters’ identities, costumes, colors, weapons, VFX, or positions. Keep exactly two fighters throughout the entire video. No duplicates, clones, extra characters, summoned humanoids, or identity changes.
+
+Fighter A’s signature VFX are gold, teal, brass, astrolabe rings, clockwork discs, gears, star-lines, and teal lightning.
+Fighter B’s signature VFX are crimson, black, red energy ribbons, burning ornaments, slash afterimages, crimson cords, and red-black crescents.
+
+[GENERATION GOAL]
+Create a 30-second AAA anime action-RPG combat cinematic: a brutal, high-speed VFX duel between Fighter A and Fighter B inside a vast rain-slick obsidian arena. The arena floor is reflective black stone with cracks, shallow rainwater, loose debris, and destructible obsidian pillars and slabs. Every major impact must affect the arena through sparks, water spray, shattered stone, dust, debris, scorch marks, and fragments. The fight must feel continuous, physical, and readable. Maintain one consistent combat axis and consistent left-right spatial relationships. Never teleport either fighter. Preserve costume details, hair, headdress, coat, cords, rings, and VFX ownership across every shot. The camera remains inside the fight, between ankle height and shoulder height. Use low angles, Dutch angles, lateral tracking, whip-pans, ring-threading push-ins, crash moves, close near-misses, and aggressive ground-level arcs. Absolutely no aerial shots, overhead shots, bird’s-eye views, top-down framing, distant map views, or detached establishing shots. Use exactly 10 shots, following the timeline below. Within each shot, create a new readable attack, evade, intercept, or counterattack every 1–2 seconds. Prioritize clear silhouettes and cause-and-effect choreography over random particle effects.
+
+[10-SHOT ACTION TIMELINE]
+SHOT 1 — 0–3 seconds Begin with a ground-skimming tracking shot behind Fighter A, racing beside the flowing dark teal coat and floating brass astrolabe rings. The camera settles into a diagonal side-wide shot with Fighter B ahead on the wet obsidian floor. Fighter A fires a fan of rotating gold clockwork discs. Fighter B slips between the discs at impossible speed, leaving controlled red-black slash afterimages. The discs strike the arena behind Fighter B, producing bright gold sparks, rain spray, rippling reflections, and broken obsidian fragments. End with both fighters facing one another on the same combat axis, already moving into the next attack.
+SHOT 2 — 3–6 seconds Cut to an extreme low 20-degree Dutch angle from Fighter B’s side. Fighter B whips a gigantic crimson-black crescent slash across the arena floor. The slash skims through rainwater and tears up a trail of black stone. Fighter A vaults through the crescent at close range. The brass astrolabe rings rotate around the body and split the slash into gold sparks and red fragments. Fighter A immediately redirects those fragments into a teal-gold constellation drill aimed back at Fighter B. End with the constellation drill accelerating toward Fighter B while the broken crescent burns across the floor.
+SHOT 3 — 6–9 seconds Use a shoulder-height lateral tracking shot with both fighters fully readable in profile. Fighter B spins beneath the incoming constellation drill and carves a red-black ribbon tunnel straight through it. The tunnel twists around the gold projectiles instead of simply erasing them. The camera races toward the fighters and threads through a large brass astrolabe ring in the foreground. Both fighters dash past one another in opposite directions. Their attacks collide behind them, detonating into burning gears, crimson embers, teal lightning, rain vapor, and chunks of obsidian. End with Fighter B turning first and launching back toward Fighter A.
+SHOT 4 — 9–12 seconds Crash into a fast Dutch-angle push-in from inside a spinning brass ring. Fighter B bursts through the debris with a point-blank crimson strike aimed at Fighter A’s torso. Fighter A blocks at arm’s length using a rotating gold-and-teal ring shield. The shield visibly catches the strike and bends the force sideways. The collision sends glassy obsidian shards, golden cogs, red energy ribbons, and rain droplets directly past the lens. Keep both faces and silhouettes briefly visible through the debris. End with Fighter A forcing Fighter B backward across the wet floor.
+SHOT 5 — 12–15 seconds Use a low side-on wide shot with the camera almost touching the arena floor. Both fighters sprint in a tight circular path around one another, never leaving the ground. Fighter A plants luminous teal star-lines that rise vertically from the floor like glowing walls. Fighter B wall-runs across the star-lines, using each glowing foothold to change direction. Every step detonates the wall beneath the foot into red ember geysers and fragments of black stone. Fighter A shatters the final star-wall with a powerful orbital ring punch. The impact creates a gold-teal shockwave that sends both fighters flying in opposite directions. End with both fighters recovering mid-slide, still combat-ready.
+SHOT 6 — 15–18 seconds Use a sudden whip-pan into a low rear angle behind Fighter B. Fighter B summons a black-crimson vortex made of twisting ribbons, burning gold ornaments, crimson cords, and sharp ornamental fragments. Fighter A runs directly up the rising debris without becoming airborne for an extended period. The orbiting brass rings drill a narrow teal-gold corridor through the vortex. Fighter A reaches the top of the debris path, then launches downward in a concentrated meteor-like ring-lance strike. Fighter B turns just in time to meet the descending attack with a rising crimson counter-slash. End on the two attacks colliding at the center of the vortex.
+SHOT 7 — 18–21 seconds Cut to a tight medium shot at a 35-degree tilted angle between the fighters. Keep both silhouettes clear and separated by only a few feet. Fighter A thrusts a condensed gold-teal astrolabe lance. Fighter B intercepts it with two crossed red-black energy slashes. They exchange exactly three rapid, readable impacts: 1. Fighter B lands a crimson slash. 2. Fighter A blocks with a rotating ring-blade shield. 3. Fighter A answers with a concentrated gold counterburst. Every impact produces visible sparks, metal distortion, red cords, teal lightning, rain spray, and cracking obsidian beneath their feet. End with both fighters forced apart by the counterburst.
+SHOT 8 — 21–24 seconds Use an eye-level ultra-wide from the arena edge, looking horizontally across the floor. Keep the camera close enough that the fighters remain large and readable. Do not make this a distant establishing shot. Both fighters ricochet through the battlefield and pass the camera in opposite directions, leaving trails through rain and debris. Fighter B creates a spiral of crimson ribbon dragons. They must remain clearly abstract energy constructs, not additional characters. Fighter A splits the ribbons with rotating clockwork blades. Each destroyed ribbon collapses into a glowing gold-teal meteor fragment that crashes into the arena behind Fighter B. Fighter B turns through the explosions and redirects the remaining crimson ribbons toward Fighter A. End with both attack trails converging toward the center.
+SHOT 9 — 24–27 seconds Drop the camera to ankle height and arc around the central collision. Fighter B releases a full-circle crimson-black cut that expands horizontally across the wet arena floor. Fighter A rotates the astrolable rings in a synchronized orbit and fractures the incoming cut into hundreds of spinning molten clockwork pieces. Each piece leaves a gold-teal tracer and reflects in the rainwater. The camera rolls with the debris while remaining below shoulder height. Never become overhead or top-down. The debris storm briefly obscures both fighters, then clears to reveal them charging directly toward one another.
+SHOT 10 — 27–30 seconds Use a low diagonal wide shot with no aerial angle. Fighter A and Fighter B charge straight toward the camera from opposite sides of the arena. Keep both full bodies visible and maintain their distinct colors and silhouettes. They collide just behind the foreground plane. The collision creates a massive red-gold-teal implosion: crimson ribbons, brass rings, clockwork fragments, molten obsidian, rain vapor, sparks, and glowing debris blast toward the lens. The shockwave destroys nearby stone and leaves a circular cracked impact zone. As the dust and rain clear, hold for one second on both fighters separated across the ruined arena, still standing and combat-ready. Broken brass rings rotate slowly in the air while crimson sparks fall around Fighter B. The final frame must clearly show both fighters alive, distinct, and ready to continue fighting.
+
+[CAMERA AND MOTION RULES]
+Fast, aggressive, cinematic camera movement. Use whip-pans and crash moves only when they connect two readable actions. Use foreground rings, debris, rain, and energy trails for motivated transitions. Keep the camera physically inside the arena. No random camera teleportation. No excessive motion blur that hides the fighters. No frozen poses between attacks. No long charge-ups. No empty cooldowns. No slow motion. No bullet time. No repeated attacks that look identical. No unreadable particle-only collisions.
+
+[STYLE AND IMAGE QUALITY]
+AAA anime action-RPG cinematic. Highly detailed character designs. Sharp silhouettes. Dynamic anime impact frames without losing temporal continuity. Premium cel-shaded characters combined with physically rich metal, stone, rain, sparks, smoke, and energy. Strong gold-teal versus crimson-black color separation. Wet obsidian reflections. Controlled depth of field. High contrast. Cohesive lighting. Realistic weight and contact in every strike. All destruction must originate from a visible attack or collision. [AUDIO] No music. No dialogue. No narration. No subtitles. No visible text. Use only: rapid blade impacts, metallic astrolabe ring shrieks, clockwork gear rotations, blade whooshes, crimson energy tearing, teal lightning crackle, rain hitting obsidian, footfalls and slides on wet stone, water sprays, stone fractures, debris impacts, and one enormous final detonation in Shot 10. Audio intensity should escalate continuously toward the final collision, with brief impact-focused gaps only when needed to make the next strike readable.</code></pre>
+
+</details>
+
+## 15‑second cinematic live‑action martial arts short film – outdoor ancient Chinese training ground
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091178501735071829)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3566](https://imglume.com/prompt/3566)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a6dbaa76-f24a-4e58-9e7a-6490383a481e/ad333b92-5bab-48fc-ae4d-a53c71f888ab-1787427708884 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a6dbaa76-f24a-4e58-9e7a-6490383a481e/8d4235e1-b945-497b-a8d5-8b157b8dd44d-1787427708884 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>PART 1 — 15 Seconds
+
+Cinematic live-action martial arts short film, 15 seconds.
+
+Outdoor ancient Chinese martial arts training ground, wide stone platform surrounded by sparse bamboo, traditional temple with curved red rooftops in the background, stone lanterns, bright blue sky, crisp natural daylight, rich cinematic colors with deep reds, lush greens, warm stone grey, subtle dust drifting through the air.
+
+CHARACTER:
+
+Female HERO from the uploaded character sheet.
+
+Preserve her exact identity, facial features, hairstyle, skin tone, feminine proportions, lean athletic physique, calm focused expression and disciplined martial artist presence.
+
+She wears the exact oversized Shaolin-inspired mustard-gold training robe with loose layered sleeves, brown cloth sash, oversized kung fu pants, grey leg wraps and worn cloth martial arts shoes exactly as shown in the reference.
+
+Bare hands only — no weapons.
+
+VIDEO STARTS MID-ACTION — no slow intro, no build up. Viewer is thrown directly into the action from the very first frame.
+
+[0:00–0:02] HOOK
+
+HERO is already flowing through an explosive traditional kung fu combination.
+
+Camera begins with an extreme close-up of her wrapped fist slicing through the air, fabric snapping with speed, then instantly pulls back into a dynamic three-quarter shot revealing her deep horse stance on the stone platform.
+
+Her oversized robe ripples dramatically with every movement.
+
+Powerful Chinese percussion fused with modern cinematic drum-and-bass hits immediately on frame one.
+
+[0:02–0:12] MONTAGE
+
+Ultra-fast editing synchronized tightly to the music.
+
+Every half second introduces a completely different martial arts movement and camera angle.
+
+HERO never repeats the same technique twice.
+
+MOVEMENTS rotating constantly:
+
+Explosive horse stance transitioning into lightning-fast chain punches.
+
+Deep bow stance with powerful open-palm strikes.
+
+Circular Shaolin blocking combinations flowing into counterattacks.
+
+Rapid elbow and forearm combinations.
+
+Sweeping low stance followed by spinning back fist.
+
+High snap kick flowing into a spinning hook kick.
+
+Forward advancing footwork across the stone platform with continuous hand techniques.
+
+One-leg crane stance transitioning into double palm strike.
+
+Aerial butterfly kick landing directly into a grounded fighting stance.
+
+Fast continuous combinations blending punches, palms, elbows, knees and fluid traditional forms.
+
+CAMERA ANGLES rotating constantly:
+
+Extreme close-up of wrapped fists cutting through the air.
+
+Low-angle hero shot with blue sky behind her.
+
+Wide cinematic shot revealing the temple and full training ground.
+
+Side profile emphasizing clean martial arts silhouettes.
+
+Overhead top-down shot tracking circular footwork.
+
+Ground-level shot following sweeping leg techniques.
+
+Rear tracking shot facing toward the temple.
+
+Tight close-up of HERO'S calm, unwavering eyes.
+
+Close-up of her feet sliding across worn stone with dust scattering.
+
+Slow-motion insert of robe sleeves and cloth sash whipping dramatically through sunlight.
+
+Music intensifies continuously with heavier drums, deeper bass, traditional Chinese instruments and cinematic orchestral layers.
+
+Every strike creates realistic cloth movement, dust bursts, subtle air displacement and natural motion blur.
+
+[0:12–0:15] HERO MOMENT
+
+HERO calmly turns toward the wooden Wing Chun training dummy.
+
+The music reaches its hardest beat drop.
+
+She launches forward with explosive speed using pure traditional kung fu.
+
+An overwhelming barrage of impossibly fast punches, palm strikes, elbows, knees and spinning techniques impacts from every direction, hands becoming nearly invisible from speed.
+
+The dummy violently shakes under the relentless assault before one final full-power palm strike lands squarely at its center.
+
+The wooden dummy splits cleanly in half vertically in dramatic slow motion as splinters and dust explode outward.
+
+The two halves collapse in opposite directions while HERO finishes perfectly balanced in a classic Shaolin stance beyond the broken dummy.
+
+Her robe settles naturally in the breeze.
+
+Camera freezes on her for exactly one frame — mustard-gold robes, blue sky, ancient temple behind her — then cuts instantly to black.
+
+Text appears:
+
+HERO.
+
+Ultra-photorealistic live-action cinematic filmmaking, premium martial arts choreography, Hollywood action film quality, ARRI Alexa 65 look, anamorphic lenses, natural daylight, authentic Shaolin kung fu, realistic human motion, dynamic camera movement, rich cinematic color grading, subtle film grain, volumetric sunlight, cloth physics, dust particles, realistic impact effects, high-speed photography, seamless editing rhythm, epic cinematic sound design, premium live-action martial arts film quality.</code></pre>
+
+</details>
+
+## 15‑second continuous‑shot live‑action martial arts scene in a Chinese dye workshop
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091178501735071829)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3565](https://imglume.com/prompt/3565)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51671904-388d-4c2e-a6c7-b3c7a2266d4d/a0dd964e-a286-476e-8606-8e37c5f474b6-1787427708884 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/51671904-388d-4c2e-a6c7-b3c7a2266d4d/ce908481-4d41-476c-af95-3f875608443e-1787427708884 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>PART 2 — 15 Seconds
+
+Create a 15-second single continuous-shot realistic live-action martial arts film using the uploaded FEMALE HERO character sheet as the only character reference.
+
+Preserve her exact face, hairstyle, lean athletic build, feminine proportions, calm disciplined expression, oversized mustard-gold Shaolin robes, brown sash, grey leg wraps, wrapped hands and cloth shoes throughout.
+
+Only one protagonist and three opponents.
+
+No duplicate protagonist.
+
+Set inside a traditional Chinese dye workshop with hanging white cloth, bamboo racks, large indigo dye vats, wooden buckets, stone floor and warm sunlight.
+
+Keep the environment spatially consistent.
+
+Cloth moves naturally only when touched or struck.
+
+The camera follows HERO continuously as she pushes open the workshop door and enters.
+
+An opponent suddenly ambushes from behind a hanging cloth.
+
+HERO instantly crouches beneath the punch, captures the attacker's wrist into a twisting wrist lock, then delivers a compact palm-heel strike.
+
+A second attacker swings a long staff.
+
+HERO ducks underneath, slips through the hanging cloth to switch positions, then traps the staff by wrapping it inside the suspended fabric.
+
+She narrowly avoids falling into a dye vat while weaving around the workshop as the third attacker joins the fight.
+
+The climax becomes a fast three-sided pincer attack.
+
+HERO flows through authentic serpentine continuous-hand kung fu, intercepting punches, seizing wrists, redirecting the staff, pivoting beneath rear attacks, and chaining short palm strikes, reverse palms, elbow strikes and body turns into one uninterrupted sequence.
+
+Every strike has realistic impact, body mechanics and visible reactions.
+
+No flailing.
+No fantasy effects.
+No wire work.
+
+HERO passes through one final curtain of cloth and finishes in a calm Shaolin guard stance as the three defeated opponents collapse behind her.
+
+Hold for one second before fade to black.
+
+Ultra-photorealistic live-action martial arts cinema, Hong Kong action choreography, ARRI Alexa 65, anamorphic lenses, practical stunts, realistic contact, dynamic handheld camera, natural cloth physics, volumetric sunlight, cinematic color grading, subtle film grain, premium feature-film quality, no anime effects, no CGI energy, no afterimages.
+
+Maintain exact female HERO identity and costume continuity from Part 1.</code></pre>
+
+</details>
+
+## Cinematic Action Sequence in Luxury Jewelry Boutique
+
+- **Original source:** [@mimu_ai1 on X](https://x.com/mimu_ai1/status/2091215411341930633)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3562](https://imglume.com/prompt/3562)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5d78e0d-b397-44f1-a6c6-89f334e1fbb1/7cdb52af-5486-4f96-8b30-e87951912204-1787425558871 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dynamic, cinematic action sequence inside a luxury jewelry boutique at night. A confident young woman with long dark hair, olive skin, and sharp green eyes is the hero. She wears an elegant emerald silk evening gown and gold earrings. Three masked thieves in black tactical gear attempt a robbery, and she single-handedly defeats them with fast, precise martial arts choreography. She vaults over glass display cases, shattering them in dramatic slow motion as diamonds, pearls, and glass shards scatter and sparkle through the air like rain, catching warm spotlight beams. She slides across a marble counter, throws one attacker into a shelf of watches, and disarms the last with a spinning kick. At the end, she stands calm amid the glittering wreckage, picks up a single diamond ring, examines it in the light, and looks directly into the camera with a faint smile. Dynamic handheld camera, whip pans, slow-motion inserts, moody warm lighting with deep shadows, realistic physics, high production value, cinematic style, 4K.</code></pre>
+
+</details>
+
+## Young woman strolling in a botanical garden – 30s documentary style video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091103586969117072)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [3559](https://imglume.com/prompt/3559)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff09a096-6806-42b2-bf68-5ec5a8fa293b/8a92d06d-614c-4bba-b198-19b0c1245641-1787419335874 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young American woman, early 20s, flowy floral sundress, wide-brim sun hat, hair down in loose waves, small film camera around her neck, calm curious personality.
+Location: Public botanical garden, mid-morning. Winding gravel paths, blooming flower beds, a small wooden bridge over a pond, soft dappled sunlight through trees. No crowds, no commercial elements.
+Visual Style: Ultra-realistic documentary realism, soft exploratory feeling, warm dappled natural light.
+Camera Style: Early 2000s DV camcorder, handheld gentle drift, autofocus adjusting between flowers and her face, warm faded pastel tones, soft grain. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She walks slowly along the gravel path, admiring rows of tulips.
+00:03–00:06 → She crouches down, then snaps a photo with her film camera.
+00:06–00:09 → She turns to camera saying "I could stay here all day honestly," smiling.
+00:09–00:12 → She continues walking, reaching the small wooden bridge.
+00:12–00:15 → She pauses at the railing, looking down at koi fish in the pond.
+00:15–00:18 → She points excitedly at a large orange fish swimming by.
+00:18–00:21 → She leans against the railing, enjoying the quiet moment.
+00:21–00:24 → A butterfly lands nearby; she watches it, holding her breath.
+00:24–00:27 → It flies off; she laughs softly, delighted by the moment.
+00:27–00:30 → She looks at camera saying "okay, this was such a good idea," smiling as she walks on.
+Audio: Birds chirping, faint water trickling, wind through leaves, distant footsteps on gravel. Her dialogue as noted above. No music.
+Goal: A calm, delightful garden stroll moment reflective, warm, genuine.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic fantasy video of a glowing glass-metal orb traveling through diverse environments
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2091099759490531436)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3558](https://imglume.com/prompt/3558)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b2d6527-3d7e-4c00-a8cc-8bc6bb88b0e0/3a45735e-0653-4743-87d7-bd46a67ac3d4-1787419324314 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic fantasy video centered around a small, perfectly spherical, highly reflective glowing glass-metal orb. The orb must remain the main subject and maintain the exact same shape, size, material, color, and appearance throughout the entire video. Begin in a magical dense green forest at sunrise, with lush ferns, wet leaves, water droplets, soft golden sunlight, volumetric light rays, mist, and realistic shadows. The camera moves smoothly in a cinematic macro style as the reflective orb gently rolls across a wet leaf and falls toward the forest floor. Seamlessly transition into a crystal-clear shallow mountain stream surrounded by moss-covered stones and dense green vegetation. The orb moves naturally through the flowing water, creating tiny realistic ripples, splashes, and beautiful reflections. Seamlessly transition into a breathtaking prehistoric landscape where a gigantic dinosaur walks slowly through shallow water in the background while the tiny reflective orb remains in the foreground. Add mist, prehistoric vegetation, distant mountains, warm sunlight, atmospheric depth, and realistic water reflections. Seamlessly transition into a frozen mountain valley covered with snow and transparent ice. The orb glides smoothly across a thin layer of ice and melting snow, creating subtle reflections and tiny cracks in the ice. Show detailed frozen textures, distant mountains, soft cloudy daylight, and cinematic atmospheric lighting. Seamlessly transition into a peaceful ancient riverside village with traditional wooden houses, palm trees, small wooden boats, and calm reflective water. The orb travels smoothly along the center of the river while warm sunset light creates beautiful reflections on the water. Finally, transition into an elegant futuristic environment made entirely of transparent glass, crystal, and polished reflective surfaces. The orb slowly moves between glass structures while colorful cinematic lights create stunning reflections, refractions, and soft bokeh in the background. Use seamless transitions between every environment, ultra-realistic physics, photorealistic textures, realistic water and reflections, cinematic depth of field, macro photography, volumetric lighting, atmospheric fog, smooth camera movement, dramatic composition, 4K/8K detail, premium Hollywood cinematic quality. Keep the orb perfectly consistent throughout the entire video. No text, no subtitles, no logos, no watermark, no flickering, no distorted objects, no duplicate orb, no unnatural movement.</code></pre>
+
+</details>
+
+## Extreme Mountain Biking Action Sequence with 30 Cuts
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2091167207262929339)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3554](https://imglume.com/prompt/3554)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bdfcfc0a-99c7-4014-882a-3a363523a0ad/a22b14c6-41c3-4dec-b007-a18c1a5d955e-1787417253241 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an explosive, high-adrenaline extreme mountain-biking action sequence in 16:9, 24fps, exactly 30 distinct cuts, total runtime 30–31 seconds.
+
+A lone rider in a dark grey/black hooded jacket, black shorts, gloves, backpack and full-face helmet rides a blue full-suspension mountain bike through a vast alpine landscape of steep rocky slopes, snow patches, green pine trees, dirt trails and distant snow-capped peaks under a clear blue sky. Preserve the exact rider silhouette, bike color, clothing details, helmet design and environment throughout — never redesign them.
+
+This film is 80 % pure kinetic camera motion and 20 % environmental drama: aggressive tracking shots, whip pans, snap zooms, speed ramps, motion blur, dust and snow particle bursts, rim-light flares and impact shakes. No text, no graphics, no logos — pure cinematic action.
+
+### CUT LIST
+
+CUT 01 | 0.00–1.00s
+Low rear tracking shot: rider pedals hard away from camera on a narrow dirt trail cutting through green alpine meadow, snow patches and scattered pines; camera follows low and tight, slight motion blur on the ground.
+
+CUT 02 | 1.00–2.00s
+Camera rises slightly and accelerates; rider leans into a gentle left curve, mountains rising dramatically on both sides; speed lines of blurred grass and dirt.
+
+CUT 03 | 2.00–3.00s
+Rider powers up a short incline then drops onto a steeper rocky section; camera stays locked behind, slight Dutch tilt as the trail narrows.
+
+CUT 04 | 3.00–4.00s
+Fast forward tracking over uneven dirt and snow; rider’s body pumps the bike, backpack shifting; distant peaks fill the upper frame.
+
+CUT 05 | 4.00–5.00s
+Rider approaches a sharp crest; camera drops lower, almost ground-level, dust kicking up from the rear tire.
+
+**CUT 06 | 5.00–6.00s**
+Explosive launch: rider and bike leave the ground in a high backflip / inverted aerial over a rocky drop; camera tilts upward to follow the full rotation against the blue sky and mountain backdrop.
+
+**CUT 07 | 6.00–7.00s**
+Rider lands hard on a steep rocky face and immediately accelerates downhill; camera recovers with a quick snap-zoom and impact shake.
+
+**CUT 08 | 7.00–8.00s**
+Steep rocky descent; rider stays low and centered, bike suspension compressing; camera tracks tightly from behind with heavy motion blur on the rock surface.
+
+**CUT 09 | 8.00–9.00s**
+Rider leans into a high-speed left turn on a near-vertical rock slab; camera swings wide then snaps back.
+
+**CUT 10 | 9.00–10.00s**
+Another massive drop: rider launches off a cliff edge, arms outstretched, bike inverted above; camera freefalls with them, looking straight down into the deep valley below.
+
+**CUT 11 | 10.00–11.00s**
+Mid-air recovery; rider rights the bike and falls toward a steep rock face; camera rotates with the motion.
+
+**CUT 12 | 11.00–12.00s**
+Rider lands on the near-vertical face and begins a controlled high-speed descent; camera stays directly behind and slightly above.
+
+**CUT 13 | 12.00–13.00s**
+Extreme angle looking almost straight down the cliff; rider is a small silhouette against the massive rock wall and distant valley floor.
+
+**CUT 14 | 13.00–14.00s**
+Rider continues the steep descent, body low, bike tracking the rock contours; camera follows with continuous slight shake.
+
+**CUT 15 | 14.00–15.00s**
+Slight pull-back revealing the full scale of the mountain face and the valley far below; rider remains centered.
+
+**CUT 16 | 15.00–16.00s**
+Rider cuts across a diagonal rock ledge; camera banks hard with the movement.
+
+**CUT 17 | 16.00–17.00s**
+High-speed traverse on a narrow rock spine; dust and small rocks kick up behind the tires.
+
+**CUT 18 | 17.00–18.00s**
+Rider drops into a steeper chute; camera drops with them, heavy motion blur.
+
+**CUT 19 | 18.00–19.00s**
+Rider emerges onto a broader rocky slope and accelerates; camera rises slightly for a wider view of the terrain.
+
+**CUT 20 | 19.00–20.00s**
+Fast tracking across open rock and snow patches; rider stays low and aerodynamic.
+
+**CUT 21 | 20.00–21.00s**
+Rider approaches another crest; camera drops low again, almost scraping the rock.
+
+**CUT 22 | 21.00–22.00s**
+Rider launches a smaller jump, body compressed; camera follows the arc.
+
+**CUT 23 | 22.00–23.00s**
+Landing and immediate acceleration down a smoother but still steep face; camera locks in tight rear tracking.
+
+**CUT 24 | 23.00–24.00s**
+Rider carves a wide arc across the slope; distant snow fields and trees become visible lower in the frame.
+
+**CUT 25 | 24.00–25.00s**
+High-speed section on a more open rocky plain; camera pulls back slightly to show the full landscape.
+
+**CUT 26 | 25.00–26.00s**
+Rider approaches the final steep drop-off; camera lowers and accelerates.
+
+**CUT 27 | 26.00–27.00s**
+Rider launches off the last major lip into a big aerial; camera freefalls with them.
+
+**CUT 28 | 27.00–28.00s**
+Mid-air inversion / style grab; rider and bike silhouetted against the bright sky and distant peaks.
+
+**CUT 29 | 28.00–29.00s**
+Rider lands on a grassy, snow-patched slope and immediately pedals hard toward a denser tree line; camera recovers with impact shake and continues tracking.
+
+**CUT 30 | 29.00–30.73s**
+Final high-speed tracking shot as the rider disappears into the greener lower slope; camera gradually rises and the frame slowly overexposes to bright alpine light.
+
+### Editing &amp; Sound
+Extremely aggressive rhythm — hard cuts on every major terrain change or jump, continuous tracking with occasional whip pans and snap zooms, heavy motion blur, dust/snow particle hits, and impact shakes on every landing. No text, no graphics, no slow-motion except brief speed-ramps into the biggest airs.
+
+BGM: hard-hitting electronic / drum-heavy future bass or aggressive cinematic trailer music with deep sub drops, risers, and glitch fills locked to every jump and landing; tire screeches, rock impacts, wind whooshes and bike suspension compressions are rhythmic sound-design elements. Peak energy on the biggest airs (CUT 06, 10, 28) and end with a cold, fading wind stinger.
+
+Premium AAA quality, photorealistic cinematic rendering, extreme sports documentary style, consistent rider and bike design, exactly 30 cuts.</code></pre>
+
+</details>
 
 ## PIP's chase through the sky-market against the SKY-GUARDIAN
 

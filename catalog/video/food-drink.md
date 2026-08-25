@@ -1,9 +1,466 @@
 # Food Drink video prompts
 
-74 source-linked prompts, newest ImgLume records first.
+79 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Handheld Vacation Vlog in Busan Street Food Market
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2091842148970996054)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3728](https://imglume.com/prompt/3728)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a9568183-b133-4e12-aa95-5fbf04346767/0c9fa134-c589-4a39-87d9-922294b33096-1787576905913 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
+
+Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from &lt;&lt;&lt;image_1&gt;&gt;&gt; throughout the entire video. The same woman must appear consistently in every shot.
+
+VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
+
+Outfit: oversized cream knit cardigan over a plain black turtleneck, straight-leg dark denim jeans, white low-top sneakers, small silver hoop earrings, hair down straight with a loose scarf tied around the neck. The entire video must feel like one genuine recording captured by a friend while traveling through a real neighborhood in Busan, South Korea, not a staged commercial or cinematic recreation.
+
+00:00–00:04 — EVENING ARRIVAL
+The woman walks down a narrow alley near Gwangjang Market, string lights and steam rising from nearby carts, camera bouncing slightly behind her.
+She glances back at the camera and says:
+"Okay, I heard this market has the best street food in Busan!"
+
+00:04–00:08 — THE FOOD STALLS
+She arrives at a bustling street food stall lined with sizzling bindaetteok (mung bean pancakes) on a huge flat griddle.
+The camera zooms in shakily on the pancakes frying, focus hunting between the food and her face.
+She reacts with wide eyes and says:
+"Look at the size of that pancake!"
+
+00:08–00:12 — FIRST BITE
+The vendor hands her a hot bindaetteok wrapped in paper.
+She blows on it quickly, takes a bite, chews, eyes light up.
+She turns to the camera and says:
+"Oh my gosh, that's so crispy and good!"
+A faint laugh comes from the camera operator behind her.
+
+00:12–00:16 — CHATTING WITH LOCALS
+She sits on a small plastic stool at a crowded street counter beside two older local women.
+They chat animatedly, gesture at the food, and laugh together.
+She tries to repeat a Korean phrase they teach her, gets it slightly wrong, and everyone laughs warmly.
+
+00:16–00:20 — TRYING TTEOKBOKKI
+A vendor stirs a huge vat of bright red tteokbokki nearby.
+She steps over, picks up a small paper cup sample with a wooden skewer, tastes it, and her face scrunches from the spice.
+She fans her mouth and says:
+"Wow, that's spicier than I expected!"
+The vendor and nearby customers laugh at her reaction.
+
+00:20–00:24 — WALKING THE MARKET
+She strolls further through the market, passing glowing food carts, hanging lanterns, and busy shoppers.
+A few vendors call out greetings; she waves back, holding her half-eaten pancake.
+The camera swings briefly toward the lively stalls before swinging back to her.
+
+00:24–00:27 — QUIET MOMENT
+She stops near a quieter corner of the market where steam drifts up from a soup cart.
+For a moment there's no dialogue — just distant chatter, clinking bowls, and sizzling oil.
+She smiles softly and says:
+"This is exactly the kind of night I was hoping for."
+
+00:27–00:30 — NATURAL ENDING
+She starts walking away, then turns back toward the camera with a playful grin.
+"Okay, street food mission complete. See you next time!"
+She laughs, turns, and keeps walking into the market crowd.
+The camera lingers for a brief moment before the footage naturally ends with a slight shake and imperfect cut.
+
+AUDIO
+Natural location sound only:
+- sizzling griddles and frying oil
+- vendors calling out orders
+- market chatter and haggling
+- clinking bowls and utensils
+- distant K-pop or trot music faintly playing from a shop speaker (ambient only, not soundtrack)
+- footsteps on pavement
+- light evening breeze
+- distant traffic
+- natural human laughter
+- subtle camera handling sounds
+
+No intentional background music track — only naturally occurring ambient sound from the environment.
+
+STRICT NEGATIVE REQUIREMENTS
+No cinematic glamour.
+No studio lighting.
+No professional camera movement.
+No gimbal stabilization.
+No drone shots.
+No slow motion.
+No dramatic lens flares.
+No modern vlog aesthetic.
+No perfect framing.
+No artificial acting.
+No beauty retouching.
+No face changes.
+No identity drift.
+No hairstyle changes.
+No outfit changes.
+No subtitles.
+No captions.
+No logos.
+No watermarks.
+
+The final result should look like a real, slightly imperfect Korean vacation vlog recorded on a consumer flip camera around 2008–2009, with genuine human reactions, spontaneous interactions, imperfect framing, and the feeling that nothing was rehearsed.</code></pre>
+
+</details>
+
+## Young Korean woman in traditional market street, ultra-realistic documentary video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091834835295932837)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3724](https://imglume.com/prompt/3724)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a3bf8d56-15fa-4d28-86e8-0fd426ba8389/9653e4e8-3c50-436a-b492-97ac1c05f9bc-1787576765697 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, early 20s, natural everyday appearance, oversized cardigan over a simple dress, small crossbody bag, hair down in loose waves, minimal makeup, realistic skin texture, curious cheerful personality.
+Location: Small traditional market street, mid-morning. Wooden stalls, hanging paper lanterns, steam rising from food carts, quiet passersby, potted plants outside shopfronts. No large crowds, no chain branding.
+Visual Style: Ultra-realistic documentary realism, candid unscripted feeling, warm natural morning light.
+Camera Style: Early 2000s consumer DV camcorder aesthetic, handheld shake, autofocus hunting between stalls and her face, faded soft contrast, mild sensor noise. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She stops at a food stall, then points at a tray of hotteok.
+00:03–00:06 → She receives one wrapped in paper, then says to camera "이거 진짜 따뜻하다" ("This is really warm").
+00:06–00:09 → She takes a careful bite, then fans her mouth at the heat.
+00:09–00:12 → She laughs at herself, then takes another smaller bite.
+00:12–00:15 → She looks at camera saying "완전 맛있어" ("It's so good"), walking on as it fades.
+Audio:
+Sizzling griddle, distant chatter, faint wind, paper rustling. Her dialogue as noted above. No music.
+Goal: A warm, candid street food moment cheerful, relatable, real.</code></pre>
+
+</details>
+
+## Anime-style peaceful countryside meal preparation by a river
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2091561881727295831)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [3675](https://imglume.com/prompt/3675)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/73b09dd0-fbda-440d-98a1-a954a52679df/ffdcba58-4fb6-4f91-9adf-27acd64fb365-1787532767248 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Anime-style peaceful countryside meal preparation by a clear flowing river: a person picks strawberries, gathers fresh eggs, pours milk into a wooden bowl, washes berries and mushrooms in the stream, slices mushrooms and green onions, then cooks fluffy eggs in a sizzling skillet over an open campfire. The soft omelet is placed over fried rice to create omurice, ending with a beautiful wooden table spread featuring the finished dish, strawberries, apples, a steaming mug, and fresh flowers, surrounded by lush greenery, river views, and gentle green hills, warm cinematic lighting, cozy rural atmosphere, detailed anime aesthetic.</code></pre>
+
+</details>
+
+## Premium Fast-Food TVC: From Potato to Golden Crunch
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091472894727712866)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3646](https://imglume.com/prompt/3646)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60584ea7-a99a-433d-9adf-0f5316895a5b/dfcfad64-ac6c-4b70-8ccc-f25bc31328a0-1787494968780 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/60584ea7-a99a-433d-9adf-0f5316895a5b/2ce827a0-c02c-4cae-a633-bd8afb37a15c-1787494968780 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 10s vertical 9:16 premium fast-food TVC, ultra-realistic 8K, cinematic food photography, no visible people, hands only when necessary. Same potato followed through transformation.
+
+CONCEPT: “FROM POTATO → TO GOLDEN CRUNCH”
+RAW → SLICE → SEASON → FRY → GOLDEN → CRISP → HERO
+
+01 | 0–1.2s — RAW
+Fresh whole potato rolls onto dark stone surface, natural skin texture and moisture visible. 100mm macro, fast push-in.
+
+02 | 1.2–2.4s — SLICE
+Potato rapidly transforms into perfectly thin slices, knife cutting through with realistic texture. 85mm macro, dynamic tracking.
+
+03 | 2.4–3.6s — SEASON
+Fine seasoning rains over potato slices, particles suspended dramatically in warm light. 100mm macro, slow motion.
+
+04 | 3.6–5s — FRY
+Seasoned slices drop into hot oil, explosive bubbles surround them, steam and droplets captured in high-speed slow motion. 50mm macro.
+
+05 | 5–6.3s — GOLDEN
+Pale potato slices transform into rich golden crispy chips, bubbling edges and tiny blistered textures visible. 100mm macro, rotating match cut.
+
+06 | 6.3–7.5s — CRISP
+Fresh chip lifted from fryer, oil droplets falling, one edge cracks naturally revealing thin crunchy layers. 100mm macro, slow-motion pull-up.
+
+07 | 7.5–9s — HERO
+Pile of golden crispy chips lands into a premium bowl, crumbs falling naturally around it. Smooth dolly-in, shallow depth of field.
+
+08 | 9–10s — PACKSHOT
+Premium branded chips bowl centered against dark cinematic background, warm golden rim light, crisp texture dominating frame. Text: “FROM POTATO → TO CRUNCH.”
+
+CAMERA: Macro, high-speed, push-in, tracking, rack focus, slow motion, match cuts, smooth dolly.
+
+STYLE: Premium global snack-food commercial, warm golden lighting, rich shadows, realistic potato texture, seasoning particles, oil bubbles, steam, ultra-crispy surface.
+
+NEGATIVE: No faces, restaurant, CGI-looking food, burnt chips, excessive oil, impossible physics, floating food, distorted potatoes, duplicate objects, deformed packaging, wrong branding, blurry food.
+
+OUTPUT: One professional 8-panel 9:16 storyboard sheet showing seamless transformation from raw potato to irresistible crispy chips.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic cooking vlog of creamy chicken pasta
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091483398972080172)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [3642](https://imglume.com/prompt/3642)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e4a7964b-68a1-4d4d-83ca-867d3985ca29/6d71dcb1-dc99-4149-8d5d-a8daafd4061d-1787492933606 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e4a7964b-68a1-4d4d-83ca-867d3985ca29/3ba23cf6-1930-4489-b125-aec1ec6db129-1787492933606 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 30 seconds
+
+ASPECT RATIO: Use the video's available landscape/cinematic ratio.
+
+STYLE:
+Ultra-photorealistic live-action cooking and lifestyle vlog, premium food-commercial cinematography, realistic human behavior, natural hand movements, realistic cooking physics, authentic home atmosphere, cinematic lighting, subtle handheld camera movement, realistic food textures, natural skin and hair.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = FEMALE CHARACTER
+@IMG2 = KITCHEN ENVIRONMENT
+@IMG3 = INGREDIENTS AND COOKING SETUP
+@IMG4 = COOKING ACTION
+@IMG5 = FINISHED CREAMY CHICKEN PASTA
+@IMG6 = DINING SCENE
+
+Use all uploaded references consistently.
+
+CHARACTER CONSISTENCY:
+
+The SAME woman from @IMG1 must appear throughout the entire video.
+
+Preserve her exact face, facial features, hairstyle, skin tone, body proportions and overall identity.
+
+Do not change her appearance between scenes.
+
+Preserve the same casual home-cooking outfit from @IMG1.
+
+FOOD CONSISTENCY:
+
+The dish throughout the entire video is EXACTLY the creamy chicken pasta shown in @IMG3 and @IMG5.
+
+Maintain the same pasta, chicken, mushrooms, cherry tomatoes, cream sauce, parmesan and parsley throughout.
+
+Do not change the dish between scenes.
+
+---
+
+0–4 SECONDS — PREPARATION
+
+Use @IMG2 and @IMG3.
+
+The woman enters the kitchen and approaches the countertop.
+
+The ingredients for creamy chicken pasta are neatly arranged in front of her.
+
+She looks over the ingredients and begins preparing dinner.
+
+Camera starts with a natural medium-wide kitchen shot and gently moves closer.
+
+Show the real home environment.
+
+---
+
+4–9 SECONDS — CHOPPING
+
+Use @IMG3 and @IMG4.
+
+The woman places vegetables on the wooden cutting board.
+
+She carefully chops garlic, onion and mushrooms with a kitchen knife.
+
+Show realistic hand and finger movement.
+
+Include a brief close-up of the knife cutting the vegetables.
+
+Vegetables naturally separate as she cuts them.
+
+Return to a medium shot showing her focused expression.
+
+Keep the action smooth and believable.
+
+---
+
+9–15 SECONDS — COOKING
+
+Use @IMG4.
+
+She places the pan on the stove and adds a small amount of olive oil.
+
+She adds the prepared chicken and vegetables into the hot pan.
+
+A realistic sizzling sound and subtle steam accompany the cooking.
+
+She uses a wooden spoon to stir the ingredients.
+
+The chicken gradually cooks while the vegetables soften.
+
+Camera moves from a side angle toward the pan.
+
+Include a close-up of the food sizzling and being stirred.
+
+---
+
+15–20 SECONDS — CREAMY SAUCE &amp; PASTA
+
+Continue using @IMG4 and @IMG3.
+
+She adds the creamy sauce ingredients to the pan.
+
+The sauce mixes naturally with the chicken and vegetables.
+
+She adds the cooked pasta.
+
+She gently tosses and stirs everything together.
+
+The creamy sauce coats the pasta realistically.
+
+Steam rises naturally from the pan.
+
+Show a satisfying close-up of the finished creamy texture.
+
+Do not rush this action.
+
+---
+
+20–24 SECONDS — PLATING
+
+Use @IMG5.
+
+The woman transfers the freshly cooked creamy chicken pasta from the pan onto the ceramic plate.
+
+She carefully arranges the pasta.
+
+She adds parmesan and fresh parsley on top.
+
+A small amount of realistic steam rises from the hot food.
+
+Camera transitions into a premium close-up food shot.
+
+Make the dish look genuinely freshly cooked and appetizing.
+
+---
+
+24–30 SECONDS — DINNER
+
+Use @IMG6.
+
+The woman sits at the dining table with the finished creamy chicken pasta.
+
+She picks up the fork naturally.
+
+She takes a small bite.
+
+She tastes the food and gives a genuine satisfied smile.
+
+She briefly looks toward the camera as if sharing the moment with her audience.
+
+Camera slowly pushes toward her and the plate.
+
+End on a warm, cozy lifestyle shot of the woman enjoying the dinner she prepared herself.
+
+CUT TO BLACK.
+
+---
+
+CAMERA PRIORITY:
+
+Use natural cinematic camera movement.
+
+Wide establishing shots for the kitchen.
+
+Medium shots for cooking actions.
+
+Close-ups for chopping and sizzling food.
+
+Macro-style food detail during sauce and plating.
+
+Gentle push-in during the final dining moment.
+
+Avoid excessive camera shake.
+
+Avoid unnecessary camera movement.
+
+Keep the woman and the food clearly readable.
+
+---
+
+REALISM PRIORITY:
+
+Natural human movement.
+
+Realistic hand anatomy.
+
+Realistic knife handling.
+
+Realistic food physics.
+
+Realistic steam.
+
+Realistic sauce consistency.
+
+Realistic sizzling and stirring.
+
+Natural facial expressions.
+
+Natural eating motion.
+
+No exaggerated movements.
+
+No instant food transformations.
+
+No teleporting ingredients.
+
+No changing kitchen.
+
+No changing outfit.
+
+No changing character.
+
+---
+
+FINAL RULES:
+
+Same woman throughout.
+Same face throughout.
+Same kitchen throughout.
+Same outfit throughout.
+Same creamy chicken pasta throughout.
+Same ingredients throughout.
+
+No different woman.
+No face morphing.
+No extra people.
+No distorted hands.
+No extra fingers.
+No unrealistic eating.
+No cartoon.
+No anime.
+No fantasy.
+No text.
+No logos.
+No watermark.
+
+The final result should feel like a genuine cinematic cooking vlog filmed inside a real woman's home.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic French fries factory documentary
 

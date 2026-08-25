@@ -1,9 +1,739 @@
 # Character video prompts
 
-106 source-linked prompts, newest ImgLume records first.
+113 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seedance 2.5 video cloning prompt
+
+- **Original source:** [@DavidRunsAds on X](https://x.com/DavidRunsAds/status/2091608066353512914)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3747](https://imglume.com/prompt/3747)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fc177b92-5708-49f2-a472-d2dd7f1dd569/55c5d202-e9b1-4894-8c54-a37df9489c6d-1787589492839 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[ EDIT OBJECTIVE ]
+Edit @video1. Across the entire clip, replace only the person in @video1 with the person defined by @image1, as if that person had been the one originally filmed. Nothing else changes.
+
+[ SOURCE VIDEO ROLE ]
+@video1 is the sole editing master: environment, props, camera position and movement, framing, focal length, lighting, shadows, reflections, color grade, grain, motion blur, depth of field, occlusion relationships, all cuts, event order, exact durations and all audio. The original person governs performance only: pose, blocking, movement paths, gestures, head orientation, expressions, gaze, blinks, lip movement, breathing and every contact with objects. The replacement performs this exactly, frame for frame.
+
+[ TARGET ASSET ROLE ]
+@image1 defines identity and appearance only: facial structure and features, skin tone and texture, distinguishing marks, hair, head and neck shape, body build and silhouette, hand appearance, and the complete clothing and accessories shown. Do not use its background, lighting, camera angle, framing, pose or expression.
+
+[ EDIT SCOPE ]
+Modify only the region occupied by the original person — face, head, hair, skin, body, clothing. Exactly one person in frame at all times; none added, removed, duplicated or split.
+
+[ TIMELINE INHERITANCE ]
+The replacement inherits every entrance, exit, occlusion and re-emergence at the identical timestamp, duration, path and speed, with the same body regions hidden and revealed. Head turns, profile, three-quarter, back and close-up views occur at the same moments; in each the face reads as the same individual from @image1, correctly rotated in 3D, never snapping back to the frontal pose of @image1. Mouth shapes stay synchronized with the unchanged original audio.
+
+[ IDENTITY LOCK ]
+One single continuous individual from first frame to last. Facial structure,
+feature proportions, skin tone and texture, hairstyle and hair color, and clothing cut, color and pattern stay fixed; hair and fabric may only move with the inherited motion. No drift, morphing, interpolation, blending with the original person, drift toward a generic face, or frame-to-frame flicker. Expression is inherited; anatomy is not.
+
+[ NO APPEARANCE CHANGES ]
+Do not beautify, retouch, smooth skin, slim or reshape the face or body, alter age, makeup, facial hair, hairstyle or garments, or stylize. Preserve @image1 exactly, including asymmetry and natural imperfections.
+
+[ INTEGRATION ]
+Relight the person to @video1's key direction, fill, rim, practicals, color
+temperature, contrast and falloff, including illumination changes as the person or camera moves. Cast shadows, contact shadows, ambient occlusion and reflections match in shape, direction, softness and density. Match lens characteristics, depth of field, focus behavior, motion blur, grain, sharpness and color grade. Clean edges and hair boundaries — no halos, cutout look, ghosting or residual features of the original person.
+
+[ KEEP UNCHANGED ]
+Apart from the replaced person, every element of @video1 remains exactly as in the original, including the complete original audio.</code></pre>
+
+</details>
+
+## 30‑second live TV roast battle between AI comedians in a studio
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2091753936441196843)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3737](https://imglume.com/prompt/3737)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/51506cae-3380-429f-b5d0-1771ad592c65/eb789be9-0126-4544-83c4-50d67c5d90ee-1787585179471 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30 seconds of roast battle between Ai models.
+
+Try it with prompt : 30 seconds | 16:9 | live-action televised comedy roast battle
+Fictional dramatization. Documentary-style broadcast realism.
+
+SETTING
+A large American comedy television studio during a live roast battle.
+Modern stage with a central performance area, two opposing team platforms, LED screens, audience seating, overhead studio lighting, visible broadcast cameras and production equipment.
+Energetic live audience filling the studio.
+The environment feels like a real televised comedy show rather than a cinematic recreation.
+
+CHARACTERS
+A fictional male comedian in his early 30s, confident personality, dark casual jacket, white T-shirt and sneakers.
+A fictional female comedian in her early 30s, confident personality, stylish black outfit and sneakers.
+A fictional male host in his 40s wearing a modern suit and holding a wireless microphone.
+Audience members and background production crew.
+
+Maintain consistent faces, clothing, hairstyle, physical appearance and character identities throughout the sequence.
+Human behaviour remains spontaneous, energetic and believable.
+
+STORY
+
+00–02.5s — OPENING
+Wide live-broadcast shot of the entire comedy stage.
+
+The host stands between the two comedians while the audience cheers loudly.
+
+The LED screen behind them displays:
+
+ROAST BATTLE
+
+The host raises his microphone and says:
+
+“Alright, let's see who can survive this round!”
+
+Audience erupts.
+
+02.5–05s — FIRST ROAST
+Cut to a medium close-up of the male comedian.
+
+He looks at the female comedian, pauses confidently and says:
+
+“You walk into every room like you're the main character... even the fire exit wants you to leave.”
+
+The audience immediately bursts into laughter.
+
+05–07.5s — REACTION
+Quick cut to the female comedian.
+
+She looks completely stunned for a moment, then slowly smiles.
+
+Audience members laugh, clap and shout.
+
+The host reacts in the background.
+
+07.5–10s — COUNTERATTACK
+The female comedian steps forward and immediately responds:
+
+“That confidence is impressive. If confidence paid rent, you'd finally afford a personality.”
+
+The audience erupts louder.
+
+The male comedian laughs and shakes his head.
+
+10–12.5s — CROWD REACTION
+Fast handheld broadcast shots of different audience members laughing, clapping and standing.
+
+A few people point toward the stage.
+
+The camera quickly returns to the comedians.
+
+Natural overlapping laughter and shouting.
+
+12.5–15s — SECOND ROAST
+The male comedian looks toward the audience, pretending to search for a comeback.
+
+He turns back toward her and says:
+
+“I'd roast you harder, but apparently your self-esteem already did the job.”
+
+The audience explodes.
+
+The female comedian covers her face while laughing.
+
+15–17.5s — HOST REACTION
+Close-up of the host laughing uncontrollably.
+
+He steps between them and says:
+
+“Okay, okay! We still have a show!”
+
+The audience continues laughing.
+
+17.5–20s — FINAL ATTACK
+The female comedian gently moves the host aside.
+
+She looks directly at the male comedian and says:
+
+“Don't worry, I won't tell everyone you're nervous. Your microphone is already shaking.”
+
+The audience erupts again.
+
+The male comedian looks down at his microphone and pretends to inspect it.
+
+20–22.5s — COMEDIAN BREAKS
+Both comedians begin laughing.
+
+The male comedian points toward her and says:
+
+“Alright, that was good.”
+
+They shake hands while the audience cheers.
+
+22.5–25s — AUDIENCE
+Wide shot of the entire studio.
+
+Audience members are laughing, clapping and reacting naturally.
+
+Some stand while others shout toward the stage.
+
+Broadcast camera sweeps briefly across the crowd.
+
+25–27.5s — HOST CLOSE
+The host returns to center stage.
+
+He looks toward both comedians and says:
+
+“That's what I call a dangerous friendship!”
+
+Both comedians laugh.
+
+27.5–30s — FINAL SHOT
+Wide broadcast shot of the stage.
+
+The two comedians stand on opposite sides while the host raises both hands.
+
+Audience cheers loudly.
+
+LED screen displays:
+
+ROAST BATTLE
+ROUND COMPLETE
+
+The broadcast cuts cleanly to black.
+
+CAMERA
+Authentic multi-camera television broadcast cinematography.
+
+Mix:
+wide master stage shots
+medium comedian coverage
+tight reaction close-ups
+handheld audience coverage
+host close-ups
+quick punchline reaction cuts
+
+Camera cuts should happen naturally around joke delivery and audience reactions.
+
+Natural broadcast-camera movement.
+Small framing corrections.
+Occasional handheld instability during audience coverage.
+Realistic autofocus behaviour.
+Natural motion blur.
+Plausible studio camera positions.
+
+No impossible camera movement.
+No cinematic drone shots.
+No excessive slow motion.
+No polished movie cinematography.
+
+LIGHTING
+Professional live television studio lighting.
+
+Bright stage lighting with realistic exposure on faces.
+Slightly darker audience seating.
+LED screens provide realistic background illumination.
+Natural exposure changes when cameras move between stage and audience.
+
+Realistic highlight roll-off.
+Natural skin tones.
+No artificial glowing edges.
+No excessive neon lighting.
+No dramatic Hollywood lighting.
+
+PHYSICS
+Realistic human movement.
+
+Comedians maintain natural balance and foot contact with the stage.
+Microphones have believable weight.
+Clothing reacts naturally to body movement.
+Audience members move naturally while laughing and clapping.
+No floating objects.
+No exaggerated physical reactions.
+
+HUMAN PERFORMANCE
+Fast, spontaneous comedy-show energy.
+
+Comedians deliver jokes with natural pauses, eye contact and facial expressions.
+Reactions happen immediately after punchlines.
+Audience laughter overlaps dialogue naturally.
+The host reacts spontaneously rather than appearing scripted.
+
+Comedians occasionally laugh at each other's jokes.
+Body language remains playful and competitive.
+No genuine hostility.
+No physical confrontation.
+
+AUDIO
+Authentic live television audio.
+
+Clear wireless microphone dialogue.
+Large audience laughter.
+Clapping.
+Cheering.
+Audience shouting.
+Occasional whistles.
+Host microphone audio.
+Natural studio room ambience.
+Subtle microphone handling sounds.
+
+Audience reactions should respond specifically to each punchline.
+
+No music underneath the roast battle.
+No cinematic sound effects.
+No artificial bass drops.
+No exaggerated laughter tracks.
+
+VISUAL CHARACTER
+Photorealistic live-action footage.
+Authentic televised comedy-show appearance.
+Natural skin texture.
+Realistic clothing and materials.
+Believable studio environment.
+Realistic LED displays.
+Subtle broadcast-camera sensor noise.
+Natural motion blur.
+Professional television exposure.
+Imperfect audience framing.
+
+The entire sequence should feel like genuine live television footage captured during a spontaneous comedy roast.
+
+BROADCAST GRAPHICS
+Realistic professional television broadcast interface.
+
+Small fictional channel logo in the upper corner.
+LIVE indicator visible throughout.
+Occasional lower-third identifying each fictional comedian.
+Small “ROAST BATTLE” program identifier.
+Subtle animated transitions between broadcast graphics.
+
+Graphics remain perfectly screen-locked to the broadcast frame.
+
+No real television network logos.
+No copyrighted show branding.
+No floating text inside the physical environment.
+No futuristic holographic interfaces.
+No excessive graphic animation.
+
+Avoid:
+real celebrity likenesses
+real comedians
+real show branding
+copyrighted logos
+video-game aesthetics
+CGI appearance
+plastic-looking faces
+fake audience reactions
+perfectly synchronized laughter
+excessive HDR
+overly cinematic camera movement
+slow-motion punchlines
+scripted-looking body language
+physical fighting
+hate speech
+graphic insults
+sexualized insults
+
+CONTINUITY
+Maintain consistent comedian identities, clothing, hairstyles, microphones and stage positions throughout all 12 shots.
+
+Preserve the same studio layout, LED screen, audience seating and lighting.
+
+Maintain consistent broadcast graphics and camera language.
+
+Every reaction begins from the physical state established by the previous shot.
+
+The comedians must remain clearly positioned opposite each other throughout the battle.
+
+The comedy timing must remain continuous across all 12 shots.
+
+The entire sequence must feel like one uninterrupted live television roast battle rather than twelve disconnected clips.
+
+End with the audience still cheering as the broadcast cuts to black.</code></pre>
+
+</details>
+
+## Realistic handheld vlog of a young Japanese woman exploring a quiet harbor town
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2091730127562674660)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`, `ugc`
+- **ImgLume record:** [3734](https://imglume.com/prompt/3734)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4c9597ee-c284-48cf-9a7b-5b2b5889850a/c6eebd99-e20b-4333-b817-73062f25aab1-1787581033886 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic vlog of a young Japanese woman exploring a quiet Japanese harbor town. It must look like real casual phone footage, not cinematic or AI-generated.
+Keep her face, hair, outfit, and appearance consistent. Natural skin texture, pores, realistic hair strands, genuine expressions and normal human movement.
+
+00:00–00:02: Selfie shot walking through a small harbor market, smiling while vendors arrange fresh fruit.
+
+00:02–00:04: Handheld follow shot crossing a weathered wooden bridge over a narrow canal, gently touching the railing.
+
+00:04–00:06: Tiny bakery window. An elderly shop owner gives her a paper-wrapped snack; she laughs naturally.
+
+00:06–00:08: Quiet seaside path. She watches children flying a kite, then turns toward the camera.
+
+00:08–00:10: Sitting under a large tree beside bicycles, casually looking through old postcards.
+
+00:10–00:12: Barefoot at the shoreline as small waves touch her feet and wind moves her hair.
+
+00:12–00:15: Selfie while walking away from the beach, smiling and saying something playful in Japanese before the recording suddenly stops.
+
+Style: Handheld smartphone, slight natural shake, imperfect framing, autofocus shifts, realistic motion blur, natural daylight, subtle exposure changes, real-world textures and phone compression.
+
+Audio: Only natural ambience—waves, birds, children, bicycle bells, footsteps, breeze, harbor sounds and distant conversations. No music, no cinematic effects, no beauty filter, no CGI look, no commercial aesthetic.</code></pre>
+
+</details>
+
+## 8秒 9:16 竖屏 超近景人物视频 Prompt
+
+- **Original source:** [@Chengzilhy on X](https://x.com/Chengzilhy/status/2091477403239596328)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3640](https://imglume.com/prompt/3640)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/729a9557-ff6b-47b6-adc6-9e99143ad064/62028f8f-d059-497d-9066-27360fd4fda1-1787492877948 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/729a9557-ff6b-47b6-adc6-9e99143ad064/0228656e-a7a4-47d8-8205-8b34905b8d48-1787492877948 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>参考上传图片中的同一位成年女性角色，保持脸型、五官、浅金色长发、空气刘海、深蓝色花朵发夹、妆容与整体造型一致。
+
+生成一段 8 秒、9:16 竖屏、固定机位、一镜到底的正面超近景人物视频。
+
+整体表演：软萌、调皮、可爱、娇俏，带一点自然撒娇和假装委屈感。
+重点表现眼神、嘴唇、眉毛、脸颊和轻微头部跟随产生的真实微表情。
+0–1.5 秒
+
+女主正视镜头，神态柔和可爱，嘴唇自然微张后轻轻合拢。
+伴随呼吸，头部和下巴产生极小幅自然移动。
+
+1.5–3.7 秒
+眼睛先慢慢向画面左侧移动，偷偷侧瞄旁边。
+头部稍晚才向同方向轻微跟随，移动幅度明显小于眼神，形成调皮、偷偷观察的感觉。
+
+3.7–4.6 秒
+
+自然完成一次双眼眨眼。
+视线重新回到镜头，头部同时轻轻回正，恢复软萌自然的表情。
+4.6–5.2 秒
+
+眼睛先向下看，下巴随后轻微降低。
+一只手从画面右下方自然进入，食指缓慢靠近画面右侧脸颊。
+女主观察手指，嘴唇开始轻轻向前收拢。
+
+5.2–6.6 秒
+食指轻轻按压脸颊，脸颊产生真实柔软的轻微凹陷。
+接触瞬间女主双眼短暂眯起，头部顺着触碰产生极轻微的受力让位和侧倾。
+
+随后重新睁眼看向镜头：
+
+眉头轻轻收拢 + 下唇微微鼓起 + 嘴角轻微向下
+形成调皮可爱、撒娇式的假装委屈表情。
+6.6–8 秒
+
+食指离开脸颊，脸颊自然回弹，头部轻轻回正。
+
+委屈表情连续释放：
+嘴唇放松 → 眉头舒展 → 自然快速眨一次双眼。
+
+最后重新正视镜头，嘴唇轻轻微张，恢复甜甜、软萌、略带调皮感的自然表情。</code></pre>
+
+</details>
+
+## 30-second ultra-realistic smartphone found-footage house party video
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091153699070746795)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `ugc`
+- **ImgLume record:** [3599](https://imglume.com/prompt/3599)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/68bb7517-3a64-4aa0-8b0b-f07c540538ab/0ece987e-5ee7-4efd-9d09-ca72890bba80-1787467694922 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic smartphone found-footage video of a massive suburban house party at night. It should feel like chaotic footage captured on different partygoers’ phones, with realistic handheld movement rather than polished cinematography. All visible people are clearly 21+ adults.
+
+Use the provided reference image as the strict visual reference for the main woman. Keep her face, facial structure, skin tone, hairstyle, hair color, body proportions, outfit, makeup and accessories consistent and recognizable throughout.
+
+TIMELINE
+
+0–5s — Arrival: Start directly inside a crowded house. A shaky phone follows the woman through dancing guests. Show friends greeting her, packed hallways, phones recording, warm lights, flashes, laughter and raised cups with soft drinks.
+
+5–10s — Interior Party: The crowd becomes denser. Show the woman dancing with friends, spontaneous dance circles, confetti, group selfies, food-covered counters and flashing phones. Use quick reframing, autofocus shifts, motion blur and people briefly blocking the lens.
+
+10–15s — Pool Reveal: Hard cut to a huge backyard packed with adults around a swimming pool, lawn, patio and balcony. Show dancing, safe pool jumps, splashing water, colorful inflatables, string lights and sprinklers. Briefly let water or a person obstruct the phone.
+
+15–20s — Giant Celebration: Everyone joins one enormous group moment. Show raised hands, cheering, streamers, bubbles, beach balls, confetti and multiple phones filming. Keep the woman clearly recognizable at the center while the camera is pulled through the crowd.
+
+20–25s — Party Everywhere: Rapid cuts between the porch, lawn, garden, living room and backyard. Show dancing, snacks, glowing wristbands, playful videos, countdowns, cheering and confetti. The scale and energy should continue increasing.
+
+25–30s — Finale: Reach maximum intensity. The woman dances with friends, looks directly into the phone and smiles before reaching toward the camera. The phone spins through laughing faces, lights and confetti, then falls safely onto a cushioned outdoor chair. Friends lean into frame laughing and waving. End abruptly mid-celebration.
+
+VISUAL STYLE
+
+Use 40–50 rapid micro-cuts, generally 0.4–0.8 seconds each. Authentic smartphone footage: strong handheld shake, imperfect framing, tilted horizons, accidental whip-pans, autofocus hunting, rolling-shutter wobble, natural motion blur, low-light digital noise, clipped flash highlights, lens smears and frequent foreground obstructions. No cinematic stabilization, drone shots, slow motion, beauty filters, glossy nightclub look or artificial glitch effects.
+
+AUDIO
+
+Original bass-heavy party music recorded through smartphone microphones, layered with adult conversations, cheering, laughter, footsteps, pool splashes, sprinklers, wind and phone sounds. Realistic microphone compression and mild clipping, with intensity increasing toward the finale.
+
+Overall: Make it feel like an enormous, unpredictable, playful and believable 30-second viral camera-roll montage, with the party growing continuously bigger and more chaotic while the main woman remains visually consistent.</code></pre>
+
+</details>
+
+## 20-second ultra-photorealistic cinematic lifestyle vlog of a day in a woman's life
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091345498909319528)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3587](https://imglume.com/prompt/3587)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f09164d7-bc01-4ade-80e1-b9bdf3287d8d/26563469-8d52-4d9f-820e-d6d0c3c5d9ff-1787461386624 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f09164d7-bc01-4ade-80e1-b9bdf3287d8d/b90d1b10-0862-415e-8289-ae582c2d5586-1787461386624 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 20 seconds
+ASPECT RATIO: 16:9
+
+STYLE:
+Ultra-photorealistic live-action cinematic lifestyle vlog, premium commercial quality, natural human movement, realistic skin and hair, realistic clothing physics, soft cinematic lighting, subtle handheld camera feel, shallow depth of field, natural color grading.
+
+REFERENCE ASSIGNMENT:
+
+@IMG1 = FEMALE HERO / MAIN CHARACTER
+@IMG2 = BEDROOM / MORNING
+@IMG3 = KITCHEN / BREAKFAST
+@IMG4 = WORK / DESK
+@IMG5 = OUTDOOR / CAFÉ
+@IMG6 = EVENING / NIGHT
+
+Use @IMG1 as the strict identity reference throughout the entire video.
+
+CHARACTER CONSISTENCY:
+The same woman must appear in every scene.
+
+Preserve her exact face, facial structure, eyes, nose, lips, hairstyle, skin tone, feminine body proportions and overall identity.
+
+Do not change her identity between scenes.
+
+0–3 SECONDS — MORNING
+
+Start in the bedroom using @IMG2.
+
+The woman wakes up naturally and sits on the edge of the bed.
+
+Soft morning sunlight enters through the window.
+
+She gently opens the curtains and looks toward the morning light.
+
+Camera begins with a medium-wide shot and smoothly pushes toward her.
+
+Peaceful morning atmosphere.
+
+3–6 SECONDS — BREAKFAST
+
+Smooth cinematic transition to @IMG3.
+
+The same woman prepares a simple breakfast in the kitchen.
+
+She pours coffee or tea into a ceramic mug and places breakfast on the counter.
+
+Natural steam rises from the hot drink.
+
+She briefly looks toward the camera with a relaxed morning smile.
+
+Use a natural medium tracking shot.
+
+6–10 SECONDS — WORK
+
+Transition to @IMG4.
+
+The same woman sits at her desk and works on her laptop.
+
+She types briefly, checks the screen and writes a few notes in her notebook.
+
+Natural productive expression.
+
+Camera moves slowly from a side angle toward a three-quarter view.
+
+Keep the environment realistic and calm.
+
+10–14 SECONDS — OUTDOOR / CAFÉ
+
+Transition naturally to @IMG5.
+
+The same woman leaves home and walks through a beautiful modern city street toward an outdoor café.
+
+Camera smoothly tracks backward while she walks toward it.
+
+She arrives at the café, places her handbag beside the table and sits down.
+
+She smiles naturally toward the camera.
+
+Warm daylight and realistic city background.
+
+14–17 SECONDS — CAFÉ MOMENT
+
+Close cinematic shot.
+
+She picks up her coffee/drink and takes a relaxed sip.
+
+Subtle background movement from distant pedestrians.
+
+Natural handheld lifestyle-vlog feeling.
+
+17–20 SECONDS — NIGHT
+
+Transition to @IMG6.
+
+The same woman is back home in her cozy bedroom at night.
+
+She places her phone on the bedside table and relaxes after the day.
+
+She looks toward the window at the city lights, then turns toward the camera with a small peaceful smile.
+
+Camera slowly pushes into a close-up.
+
+End on her calm expression with warm bedroom lighting and soft city-light bokeh.
+
+CUT TO BLACK.
+
+CAMERA PRIORITY:
+
+Keep the camera cinematic and natural.
+
+Use smooth tracking, gentle push-ins, medium shots, close-ups and subtle handheld movement.
+
+Avoid excessive camera shake.
+
+Keep the woman as the visual focus.
+
+Maintain realistic transitions between locations.
+
+FINAL RULES:
+
+Same female character throughout.
+Same face and identity throughout.
+Natural realistic human movement.
+Realistic lighting and shadows.
+Realistic clothing and hair movement.
+No face changes.
+No character duplication.
+No extra main characters.
+No cartoon or anime appearance.
+No fantasy effects.
+No excessive motion blur.
+No distorted hands.
+No text.
+No logos.
+No watermark.
+
+The overall feeling should be:
+A beautiful, realistic cinematic glimpse into one ordinary but aesthetically pleasing day in her life.
+
+Reference Image:
+
+Create a premium photorealistic female character reference sheet using the uploaded woman as the STRICT identity reference.
+
+Preserve her exact facial identity, facial structure, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance.
+
+Create the same woman as a realistic modern lifestyle vlogger.
+
+Show her with natural feminine proportions and realistic anatomy.
+
+CHARACTER PRESENTATION:
+
+Create a clean professional character sheet containing:
+
+1. Full-body front view
+2. Full-body 3/4 view
+3. Full-body side view
+4. Back view
+5. Close-up face portrait
+6. Natural smiling expression
+7. Neutral expression
+8. Casual standing pose
+
+Keep the exact same woman in every view.
+
+CLOTHING:
+
+Use a simple modern casual lifestyle outfit suitable for a daily vlog:
+a clean neutral-colored fitted top, comfortable casual trousers or jeans, and simple everyday footwear.
+
+Keep the outfit realistic, modest and natural.
+
+STYLE:
+
+Ultra-photorealistic live-action photography, premium lifestyle commercial aesthetic, realistic skin texture, natural hair strands, realistic fabric, physically accurate anatomy, soft cinematic lighting, subtle depth of field, high-end photography, natural colors.
+
+The character should look like a real woman photographed for a professional lifestyle vlog.
+
+IDENTITY CONSISTENCY IS THE HIGHEST PRIORITY.
+
+Do not change her face.
+Do not change her hairstyle.
+Do not masculinize her.
+Do not make her look like a different person.
+Do not create an anime or cartoon appearance.
+No fantasy styling.
+No text.
+No logo.
+No watermark.
+
+Clean neutral studio background.
+
+This character reference will be used as the SAME FEMALE PROTAGONIST throughout a 20-second "A Day in Her Life" cinematic lifestyle vlog.</code></pre>
+
+</details>
+
+## Young woman strolling in a botanical garden – 30s documentary style video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091103586969117072)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [3559](https://imglume.com/prompt/3559)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff09a096-6806-42b2-bf68-5ec5a8fa293b/8a92d06d-614c-4bba-b198-19b0c1245641-1787419335874 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young American woman, early 20s, flowy floral sundress, wide-brim sun hat, hair down in loose waves, small film camera around her neck, calm curious personality.
+Location: Public botanical garden, mid-morning. Winding gravel paths, blooming flower beds, a small wooden bridge over a pond, soft dappled sunlight through trees. No crowds, no commercial elements.
+Visual Style: Ultra-realistic documentary realism, soft exploratory feeling, warm dappled natural light.
+Camera Style: Early 2000s DV camcorder, handheld gentle drift, autofocus adjusting between flowers and her face, warm faded pastel tones, soft grain. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She walks slowly along the gravel path, admiring rows of tulips.
+00:03–00:06 → She crouches down, then snaps a photo with her film camera.
+00:06–00:09 → She turns to camera saying "I could stay here all day honestly," smiling.
+00:09–00:12 → She continues walking, reaching the small wooden bridge.
+00:12–00:15 → She pauses at the railing, looking down at koi fish in the pond.
+00:15–00:18 → She points excitedly at a large orange fish swimming by.
+00:18–00:21 → She leans against the railing, enjoying the quiet moment.
+00:21–00:24 → A butterfly lands nearby; she watches it, holding her breath.
+00:24–00:27 → It flies off; she laughs softly, delighted by the moment.
+00:27–00:30 → She looks at camera saying "okay, this was such a good idea," smiling as she walks on.
+Audio: Birds chirping, faint water trickling, wind through leaves, distant footsteps on gravel. Her dialogue as noted above. No music.
+Goal: A calm, delightful garden stroll moment reflective, warm, genuine.</code></pre>
+
+</details>
 
 ## 30-second action clip of Nova on a coastal bridge
 

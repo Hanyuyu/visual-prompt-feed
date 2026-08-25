@@ -1,9 +1,861 @@
 # Poster Design image prompts
 
-103 source-linked prompts, newest ImgLume records first.
+120 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-detailed photorealistic isometric miniature diorama of \[ANIME\] world
+
+- **Original source:** [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091858610255261949)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `poster-design`
+- **ImgLume record:** [3746](https://imglume.com/prompt/3746)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/466d1c8b-9946-446e-bbdd-05ff90718548/2e07f172-ed87-413d-8907-8ee605fca5c8-1787585376435 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/466d1c8b-9946-446e-bbdd-05ff90718548/4732f1a7-3b3f-40d7-9f3c-d55363cbaa39-1787585376435 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/466d1c8b-9946-446e-bbdd-05ff90718548/2528b0f1-0b2d-406b-9d60-e63966b9624e-1787585376435 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/466d1c8b-9946-446e-bbdd-05ff90718548/d499aa24-2b2c-4028-b785-b403d3742915-1787585376435 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-detailed photorealistic isometric miniature diorama of the world from [ANIME], presented as a premium collectible-scale landscape sculpture floating above a clean warm off-white studio background with a subtle natural shadow underneath.
+
+(For best accuracy, upload a clear reference image of the official map/world layout.)
+
+WORLD SHAPE &amp; GEOGRAPHY
+
+If [ANIME] features a fictional world, continent, island or region, recreate its canonical map silhouette exactly. The entire landmass should appear physically carved from the earth and lifted upward as one continuous miniature terrain slab, with naturally broken rock sides, exposed soil layers, cliffs and geological textures.
+
+If [ANIME] takes place in a real or semi-real location, use the most important canonical city, region or country as the physical base shape, maintaining its recognizable geographic outline.
+
+The outer boundary must feel like an actual piece of land cut directly from the map — never like a flat printed map or floating board.
+
+CANONICAL WORLD RECONSTRUCTION
+
+Rebuild the world of [ANIME] across the entire miniature surface with maximum lore accuracy.
+
+Every major region, settlement, city, landmark, mountain, river, forest, road, battlefield, castle, shrine, futuristic structure or other recognizable location should appear in its correct relative position.
+
+Preserve the distinctive visual language of the anime:
+
+- canonical architecture
+- recognizable environments
+- authentic terrain
+- faction territories
+- signature landmarks
+- characteristic colors
+- world-specific technology or fantasy elements
+- environmental atmosphere
+
+Avoid generic Western architecture or realistic substitutions. The result must immediately feel like [ANIME] transformed into a physical miniature world.
+
+Add tiny but readable location markers for important places, designed like elegant museum-style cartographic labels rather than large text.
+
+MICRO-SCALE STORY DETAILS
+
+Fill the landscape with carefully placed miniature storytelling elements: tiny characters wearing recognizable show-accurate outfits, world-specific creatures, vehicles, ships, trains, flags, faction symbols, market areas, farms, bridges, pathways, trees, vegetation and other details that make the world feel alive.
+
+Characters should remain small environmental elements rather than dominating the composition.
+
+Include subtle activity throughout the terrain so the diorama feels like a living snapshot of the anime universe.
+
+MATERIAL &amp; PHOTOGRAPHY
+
+Hyper-realistic premium miniature photography combined with high-end cinematic environment design.
+
+Extremely crisp micro-details, realistic rock formations, miniature vegetation, tiny architectural textures, believable scale relationships and physically accurate materials.
+
+Everything should remain sharply focused with no artificial background blur.
+
+Use soft warm studio illumination from above with gentle contact shadows and subtle ambient occlusion between buildings, terrain and rock layers.
+
+The miniature should have a sophisticated museum-quality collectible appearance while still preserving the anime's original visual identity.
+
+COLOR &amp; ATMOSPHERE
+
+Use the authentic color language of [ANIME] as the primary visual reference.
+
+Translate the anime's signature palette into realistic miniature materials without losing its recognizable mood, atmosphere or world identity.
+
+Rich but controlled colors, cinematic tonal depth, premium print-like contrast and realistic surface textures.
+
+COMPOSITION
+
+Center the complete shaped diorama in the lower two-thirds of the 4:5 vertical frame.
+
+Leave generous clean negative space around the entire landmass.
+
+The diorama must never touch the frame edges.
+
+The upper third remains almost completely empty and off-white, creating a sophisticated editorial poster composition.
+
+At the very top, place small widely tracked uppercase typography showing the world / region name.
+
+Directly underneath, place:
+
+[ANIME]
+
+in a bold condensed sans-serif typeface, medium charcoal grey, large and dominant.
+
+Below it, add a smaller widely tracked uppercase line containing the studio name and year.
+
+Typography should feel like a luxury museum exhibition poster — restrained, elegant and secondary to the miniature world.
+
+FINAL ART DIRECTION
+
+Premium editorial travel-poster aesthetic + cinematic miniature photography + collectible world-building sculpture + museum-quality cartography.
+
+The final image should look as though the entire world of [ANIME] was physically sculpted from the earth and photographed inside a professional studio.
+
+No generic fantasy map, no flat illustration, no random landmarks, no duplicated buildings, no distorted geography, no excessive text, no modern Western substitutions.
+
+4:5 vertical aspect ratio, ultra-high detail, photorealistic materials, cinematic lighting, premium print quality.</code></pre>
+
+</details>
+
+## Luxurious Handcrafted Embroidered Textile Map Poster of {{COUNTRY_NAME}}
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2091856090086707620)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3743](https://imglume.com/prompt/3743)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cda8f73d-59cd-4289-9219-b7f73ca2c255/b68ad6e8-d304-467c-a85d-7298d8807bfb-1787585202200 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cda8f73d-59cd-4289-9219-b7f73ca2c255/de4c9b00-7dc6-4128-86c4-034bedef72e7-1787585202200 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/cda8f73d-59cd-4289-9219-b7f73ca2c255/32741204-4ac6-4192-a85c-89362c208f90-1787585202200 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a luxurious, highly detailed handcrafted embroidered textile artwork of {{COUNTRY_NAME}}, designed as a beautiful map-shaped cultural poster.
+
+Inside the map, creatively combine the country’s most recognizable landmarks, architecture, landscapes, traditional clothing, food, animals, plants, cultural symbols, transportation, historical elements, and local heritage, all rendered as intricate hand-stitched embroidery and appliqué.
+
+Surround the entire composition with elegant traditional floral, paisley, ornamental and cultural patterns inspired by {{COUNTRY_NAME}}’s heritage. Use realistic embroidery threads, fine stitching, layered fabric, slightly raised appliqué details, delicate stitched borders, and authentic handmade imperfections.
+
+Place the artwork on a soft cream/off-white textured fabric background with natural folds and subtle shadows. Add a few loose embroidery threads and an elegant embroidery needle beside the artwork to emphasize the handmade craft.
+
+At the bottom, display the country name prominently in its native script, followed by a small elegant subtitle meaning “A city/country woven from traditions” in the appropriate native language.
+
+Use a sophisticated vintage palette of warm beige, antique cream, dusty rose, muted green, faded blue, terracotta, brown and subtle gold.
+
+Style: museum-quality textile art, traditional embroidery, cultural heritage illustration, luxury handcrafted poster, vintage aesthetic, photorealistic fabric texture, extremely fine thread details, intricate stitching, elegant composition, soft natural studio lighting, premium editorial photography, highly detailed, 8K.
+
+Important: Make every cultural element specifically authentic to {{COUNTRY_NAME}}. Do not mix landmarks, symbols, clothing, architecture, or cultural elements from other countries.</code></pre>
+
+</details>
+
+## Theme Based Collage – sleepless night
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2091815882057990475)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3742](https://imglume.com/prompt/3742)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f7883437-e9e7-46f6-815b-eeace3387102/f93b3082-3219-4d23-bea6-b1af1f475fe4-1787585183579 "THEME = thinking of you
+STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
+PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
+ASPECT RATIO = 1:2") · [2](https://cdn.imglume.com/prompts/byradar/f7883437-e9e7-46f6-815b-eeace3387102/995c1676-ff32-4541-b88d-6b68c1d304ae-1787585183579 "THEME = we don't talk anymore
+STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
+PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
+ASPECT RATIO = 1:2") · [3](https://cdn.imglume.com/prompts/byradar/f7883437-e9e7-46f6-815b-eeace3387102/50d3d43a-c2b8-4e01-99fc-7752123cfc35-1787585183579 "THEME = sleepless night
+STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
+PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
+ASPECT RATIO = 1:2") · [4](https://cdn.imglume.com/prompts/byradar/f7883437-e9e7-46f6-815b-eeace3387102/2288e6ad-0d8e-46f9-843b-96c1165a1d69-1787585183579 "THEME = almost lovers
+STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
+PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
+ASPECT RATIO = 1:2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THEME = sleepless night
+STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
+PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
+ASPECT RATIO = 1:2</code></pre>
+
+</details>
+
+## Theme Based Collage – we don't talk anymore
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2091815882057990475)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3740](https://imglume.com/prompt/3740)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7d19a9bf-d054-456b-a553-3f3a6f174777/92faa3f5-cae9-4488-b1e8-f1805c0c0f5e-1787585183579 "THEME = thinking of you
+STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
+PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
+ASPECT RATIO = 1:2") · [2](https://cdn.imglume.com/prompts/byradar/7d19a9bf-d054-456b-a553-3f3a6f174777/b22ecf41-0b6a-4e8b-bd83-df807dff0239-1787585183579 "THEME = we don't talk anymore
+STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
+PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
+ASPECT RATIO = 1:2") · [3](https://cdn.imglume.com/prompts/byradar/7d19a9bf-d054-456b-a553-3f3a6f174777/6652fd1e-6d65-4266-a62e-b57e262e9049-1787585183579 "THEME = sleepless night
+STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
+PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
+ASPECT RATIO = 1:2") · [4](https://cdn.imglume.com/prompts/byradar/7d19a9bf-d054-456b-a553-3f3a6f174777/807ef63b-a748-4fd1-a4f7-5975dbdc9d25-1787585183579 "THEME = almost lovers
+STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
+PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
+ASPECT RATIO = 1:2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THEME = we don't talk anymore
+STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
+PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
+ASPECT RATIO = 1:2</code></pre>
+
+</details>
+
+## Vertical Luxury Travel Embroidered Silhouette Poster
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091574394552516739)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3736](https://imglume.com/prompt/3736)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2050b9e0-c5bd-4074-8e7f-4f8f605de67d/101beb2b-9425-419f-8b00-1606729ef6fd-1787585165711 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2050b9e0-c5bd-4074-8e7f-4f8f605de67d/ea3f67bf-32e5-43dd-97cb-a3884a356e60-1787585165711 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/2050b9e0-c5bd-4074-8e7f-4f8f605de67d/e954dd5f-d1b4-44a3-866a-33a2a36a3858-1787585165711 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/2050b9e0-c5bd-4074-8e7f-4f8f605de67d/e7570ce2-06f8-431f-9e00-7edfde2cfb3d-1787585165711 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking vertical luxury travel artwork in a 3:4 aspect ratio, featuring the entire recognizable silhouette of [CITY/COUNTRY] intricately handcrafted using authentic Kashmiri Sozni embroidery.
+
+The complete silhouette should be delicately woven with ultra-fine threads, incorporating authentic regional floral motifs, paisley patterns, botanical elements, traditional Kashmiri designs, and elegant Persian-inspired detailing. The embroidery must look genuinely handmade, with visible individual threads, subtle imperfections, raised textile texture, delicate stitching, and exceptional artisan craftsmanship.
+
+Within the embroidered silhouette, seamlessly weave [CITY/COUNTRY]’s most iconic landmarks, cultural symbols, architecture, landscapes, and recognizable visual elements directly into the Sozni patterns. These details must appear naturally embroidered into the textile rather than as separate objects.
+
+Place the embroidered silhouette on a luxurious ivory Kashmiri fabric background, with elegant folds, realistic textile fibers, soft shadows, and warm natural window light. Add a few loose colored embroidery threads and a traditional Kashmiri embroidery needle beside the artwork to reinforce the handcrafted process.
+
+At the bottom, elegantly display:
+
+[CITY/COUNTRY]
+“[ORIGINAL POETIC TAGLINE]”
+
+Premium luxury travel advertising poster, museum-quality textile art, photorealistic macro embroidery, exquisite craftsmanship, sophisticated composition, soft pastel palette, tactile fabric texture, cinematic natural lighting, ultra-detailed stitching, elegant negative space, authentic cultural atmosphere, culturally respectful, highly recognizable destination identity, 8K.</code></pre>
+
+</details>
+
+## Premium Editorial City Poster with Photographic and Geometric Sections
+
+- **Original source:** [@Emmma__0 on X](https://x.com/Emmma__0/status/2091736383031509309)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3726](https://imglume.com/prompt/3726)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/46681daf-0b3f-4e78-a360-c2de6fdd01e8/6ad914f1-adeb-465d-ab3f-0f8071647344-1787576855026 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/46681daf-0b3f-4e78-a360-c2de6fdd01e8/4f2ba2d5-ab65-4340-98e9-a92be32be0b2-1787576855026 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Recreate the uploaded reference image as a premium editorial city poster, preserving the overall composition, framing, perspective, colors, and visual hierarchy. Create a tall portrait-format layout divided into two main sections. The upper section is a highly realistic golden-hour photograph of a busy multilane highway filled with dense traffic, viewed from an elevated position. Lush mature green trees line both sides of the road, while the traffic leads toward a modern city skyline in the distance. Include the distinctive large domed building at the center and a cluster of contemporary skyscrapers behind it, including tall narrow red towers, glass towers, and modern geometric buildings. Warm sunset light, soft atmospheric haze, realistic vehicles, detailed foliage, natural shadows, cinematic photography, subtle film grain.
+
+Directly below, recreate the same scene as a simplified geometric/pixel-art interpretation. Convert the trees, cars, highway, domed building, skyline, and clouds into large clean rectangular and polygonal blocks while maintaining the same perspective and recognizable silhouettes. Use a sophisticated muted palette of forest green, olive, teal, dusty blue, cream, ochre, terracotta, warm orange, muted pink, and pale sky blue. The geometric illustration should feel intentionally designed rather than crude pixel art: crisp edges, layered blocks, subtle tonal variation, elegant contemporary art-book aesthetic.
+
+Use a warm ivory/off-white background and generous margins around the composition. At the bottom, add a refined editorial typography section with the large uppercase title “CITY IN MOTION” on the left, the subtitle “Traffic streams toward the skyline in the warm light of evening.” on the right, and “2026” below on the left. Use clean modern sans-serif typography in dark navy/charcoal, with careful spacing and alignment. Premium architecture-and-travel magazine aesthetic, sophisticated minimalist graphic design, cohesive relationship between the photograph and its geometric reinterpretation, realistic and polished, high resolution, sharp details, portrait poster composition. Do not add any extra text, logos, watermarks, or unrelated objects.</code></pre>
+
+</details>
+
+## Premium minimal flat-vector travel poster for \[CITY_NAME\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2091731461913088136)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3717](https://imglume.com/prompt/3717)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b24cc6bd-be5b-4e15-b8c0-07ca678bd203/b2874ca9-ebe9-4d85-8ba5-53702e8a9e03-1787564162877 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimal flat-vector travel poster for [CITY_NAME], 3:4 vertical.
+
+Create an airy city scene with large typography-safe negative space in the upper-left.
+Add [CITY_NAME] and one short elegant English caption matching the city mood.
+
+Automatically adapt the background to the city:
+one iconic primary landmark, local architecture, café culture, transport sign,
+street lamp, flowers, trees, small decorative details, and calm daily-life moments.
+
+Use 3–6 people only, naturally interacting with the city:
+talking at a café, walking, jogging, sketching, or taking photos.
+Avoid crowds and avoid a single hero character.
+
+Style:
+Japanese stationery aesthetic, luxury sticker illustration,
+premium commercial flat-vector poster,
+clean thin outlines, consistent line weight,
+flat colors only, no shading, no gradients, no texture.
+
+Palette:
+blush pink, dusty rose, sage green, warm cream, soft beige, muted gray-green.
+
+Mood:
+minimal, elegant, calm, refined, high-end travel postcard and lifestyle branding.
+
+No realism, no watercolor, no painterly effects, no photorealism, no dense background.</code></pre>
+
+</details>
+
+## Premium minimalist flat-vector travel poster for \[CITY_NAME\]
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2091724761424670980)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3703](https://imglume.com/prompt/3703)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fea64d88-40d8-4d75-b793-28abb8f174b3/605faa11-42cd-4570-ab9f-0f4075251d34-1787553883675 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fea64d88-40d8-4d75-b793-28abb8f174b3/d3a76b4f-d211-4707-966d-0d2c891c3882-1787553883675 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/fea64d88-40d8-4d75-b793-28abb8f174b3/8899fad9-371f-40bb-9270-614d42a34ce1-1787553883675 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/fea64d88-40d8-4d75-b793-28abb8f174b3/63153df3-d7cc-43ba-a6c7-7be3e2e9ba3f-1787553883675 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical.
+
+Create an original city-specific travel poster that captures the authentic personality of [CITY_NAME]. Choose the best composition for the city harbor, historic lane, riverside, coastal path, market, tram avenue, heritage square, skyline terrace, etc.
+
+Include:
+-One iconic landmark as the main focal point
+-One distinctive local transport element
+-One subtle everyday lifestyle moment
+-Native vegetation or landscape
+-3–6 small, naturally integrated people
+-2–4 carefully chosen local details
+-Subtle authentic signage/wayfinding
+
+Typography:
+Place “[CITY_NAME]” upper-left with generous negative space. Add one short elegant English tagline. Premium editorial typography, understated and spacious.
+
+Style:
+Japanese stationery-inspired, luxury sticker illustration, premium commercial vector, modern editorial travel branding, delicate uniform outlines, geometric shapes, flat colors, soft forms, minimalist postcard aesthetic.
+
+Colors:
+Pale powder blue, sky blue, mist blue, ivory, cream, beige, muted sage and gray-green. Tiny dusty-rose accents only. Soft, sophisticated, slightly desaturated palette.
+
+Mood:
+Fresh, airy, peaceful, refined, contemporary and elegant.
+
+Important:
+Make every city visually unique. Change the viewpoint, composition, landmark placement and foreground according to the city's identity. Do not reuse a generic template.
+
+Negative:
+No photorealism, realism, watercolor, painterly brushwork, gradients, heavy shadows, cinematic lighting, paper texture, clutter, landmark collage, crowds, oversized characters, dominant hero character, repetitive café scenes, generic tourist-poster layouts, copied compositions or unnecessary decoration.</code></pre>
+
+</details>
+
+## TWILIGHT PAUSE
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2091737748222918822)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3694](https://imglume.com/prompt/3694)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b58efb0e-828b-4767-b8e2-66be447fe900/496c0baf-f084-4875-9b37-92963e48b72c-1787551633140 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b58efb0e-828b-4767-b8e2-66be447fe900/3692a43e-cdb5-4ba7-a0a9-c6e66a35c7bf-1787551633140 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 3:4 cinematic editorial poster titled “TWILIGHT PAUSE.” Recreate the composition as a split visual comparison: the upper ~50% is a highly realistic cinematic photograph, while the lower ~50% is a minimalist hand-painted anime/illustration interpretation of the same scene.
+
+Scene: A quiet elevated parking area or overlook at twilight, overlooking a distant city and layered mountains. The sky dominates the composition with dramatic scattered clouds, fading from deep blue-gray at the top into warm peach, pink, orange, and golden tones near the horizon. A few city lights are visible in the distance.
+
+Main subjects: A small white 1990s Japanese roadster convertible, viewed from the rear three-quarter angle, parked on dark wet-looking asphalt. The car has a burgundy/maroon soft top, rounded rear lights, a long thin radio antenna, black tires, and a clean white body. Preserve the recognizable compact proportions and rear geometry of a classic Mazda MX-5/Miata NA without visible branding or license-plate text.
+
+Standing beside the car is a slim adult woman seen from behind. She wears a black bucket hat, long dark hair, a fitted dark ribbed short-sleeve top, high-waisted black shorts, and black high heels. Her right hand rests on her hip while her left hand gently lifts a strand of hair near her face. Her posture is relaxed and contemplative, looking toward the sunset and distant city. Do not show her face.
+
+Upper photographic half: Photorealistic cinematic photography, realistic skin and hair, natural body proportions, authentic automotive details, subtle reflections, realistic asphalt texture, soft evening illumination, atmospheric depth, shallow-to-moderate depth of field, dramatic sunset backlighting, realistic shadows, high dynamic range, film-grain texture, premium automotive editorial photography, 35mm lens aesthetic.
+
+Lower illustrated half: Recreate the exact same composition, car, woman, mountain skyline, city, and sunset as a simplified contemporary anime-inspired editorial illustration. Use clean geometric shapes, elegant thin linework, soft flat colors, muted cream/beige background, pale peach sunset, simplified mountains and city lights, minimal shadows, restrained detail, sophisticated Japanese poster aesthetic. Keep the woman's pose and the car's silhouette closely matched to the photographic half.
+
+Composition: Center the car toward the lower-left/middle and the woman toward the right side. Maintain strong negative space in the sky. The horizon runs roughly through the middle. The two halves should feel like the same moment translated from photography into illustration.
+
+At the very bottom of the poster, add refined small typography:
+“TWILIGHT PAUSE”
+“2024”
+“MOMENTS IN STILLNESS”
+
+Use widely spaced, elegant uppercase serif lettering in a subtle gray-brown tone. Keep the typography understated and centered.
+
+Overall mood: nostalgic, serene, lonely but beautiful, late-summer twilight, Japanese automotive culture, quiet cinematic storytelling, sophisticated magazine/poster design, premium art direction.
+
+Important: No extra people, no text other than the three specified lines, no logos, no watermark, no distorted anatomy, no malformed hands, no duplicated car parts, no extra wheels, no futuristic vehicle design, no exaggerated anime eyes, no daytime lighting.</code></pre>
+
+</details>
+
+## Tokyo waterfront travel poster illustration
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2091547715541041549)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3683](https://imglume.com/prompt/3683)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/306c9694-cee1-4287-8d4e-5eba67b1ecc4/c13e6ff5-9605-4ec2-be48-c933ed6a2634-1787545294025 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/306c9694-cee1-4287-8d4e-5eba67b1ecc4/50f9801e-3224-4da9-9f4c-6d6039bdd2e2-1787545294025 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a beautiful, elegant Tokyo, Japan travel-poster-style illustration, inspired by the composition of the Seoul waterfront poster but transformed into an unmistakably Japanese scene.
+
+Feature a picturesque Tokyo waterfront promenade along the Sumida River, combining traditional Japanese charm with Tokyo's futuristic skyline. In the foreground, show a stylish classic Japanese city bicycle with a natural wicker basket parked beside a black metal riverside railing. Add a large modern planter overflowing with lush green foliage, delicate seasonal flowers, and ornamental grasses.
+
+Along the promenade, include Japanese couples, friends, cyclists, families, and pedestrians enjoying a peaceful afternoon. Add charming riverside cafés, minimalist outdoor seating, elegant Japanese street lamps, small landscaped trees, and subtle Tokyo urban details.
+
+Across the calm blue river, create a spectacular Tokyo skyline featuring Tokyo Skytree prominently in the distance, modern glass skyscrapers, illuminated towers, bridges, and dense but beautifully organized city architecture. Include a few traditional Japanese buildings with dark tiled roofs, wooden façades, paper lanterns, and refined architectural details near the waterfront, creating a striking contrast between old and new Tokyo.
+
+Add several small sightseeing boats and traditional-style river boats moving gently across the water, with beautiful reflections and subtle ripples.
+
+Include cherry blossom trees in soft pink bloom, adding an instantly recognizable Japanese seasonal atmosphere. Use warm golden-hour sunlight, a pale blue sky, soft fluffy clouds, distant birds, and gentle atmospheric haze.
+
+At the upper-left, include elegant editorial typography:
+
+“Tokyo,
+Japan 🇯🇵”
+
+and underneath:
+
+“Life by the River”
+
+Typography should be sophisticated, minimal, dark navy blue, perfectly aligned, and naturally integrated into the travel-poster composition.
+
+Visual style: premium Japanese travel poster, sophisticated editorial illustration, cinematic realism blended with refined painterly aesthetics, soft pastel color palette, clean architectural lines, subtle paper texture, highly detailed environment, beautiful water reflections, warm natural lighting, luxurious travel-magazine aesthetic.
+
+Composition: vertical 3:4 travel poster, strong foreground-to-background depth, bicycle prominently positioned in the foreground, expansive sky, balanced waterfront perspective, Tokyo Skytree visible in the background, traditional Japanese architecture contrasting with the modern skyline.
+
+Quality: ultra-detailed, crisp architecture, realistic water reflections, natural human proportions, beautiful cinematic lighting, clean edges, premium professional artwork, visually captivating and stop-scrolling worthy, high resolution, no distortion, no watermark, no unnecessary text.
+
+Aspect ratio: 3:4 vertical.</code></pre>
+
+</details>
+
+## Travel Poster – \[COUNTRY\] — THE ESSENCE OF \[COUNTRY\]
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091501176038830591)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3669](https://imglume.com/prompt/3669)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1fe607ad-f494-491e-ac66-921a03a80c84/c05f0a27-82a8-47e3-bebd-076efda3142e-1787528468565 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1fe607ad-f494-491e-ac66-921a03a80c84/d8ebe8ec-5a1c-4a2f-a9a3-6f245a1ebfb2-1787528468565 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an elegant editorial travel-poster artwork titled “[COUNTRY] — THE ESSENCE OF [COUNTRY]”, in a refined vintage luxury travel-magazine style. Showcase the most iconic landmarks, architecture, landscapes, culture, and recognizable transportation of [COUNTRY] harmoniously within one cinematic panoramic composition. Place a grand monumental landmark as the central focal point, surrounded by historic buildings, traditional architecture, beautiful trees and gardens, distant mountains, subtle atmospheric clouds, small pedestrians, local vehicles, and authentic cultural details. Add a calm reflective body of water in the foreground that creates a soft, symmetrical mirror reflection of the entire cityscape. Frame the composition with subtle elegant geometric shapes and translucent architectural forms in warm ivory, cream, muted terracotta, dusty blue, sage green, and soft beige. Use delicate morning or golden-hour light, soft haze, gentle shadows, fine watercolor-and-gouache textures, slightly grainy paper texture, sophisticated muted colors, dreamy cinematic atmosphere, realistic architectural details blended with artistic illustration, premium luxury tourism campaign aesthetic. At the top, use clean high-fashion serif typography reading “[COUNTRY]”, with smaller spaced lettering underneath: “THE ESSENCE OF [COUNTRY]”, followed by “NO. 05 — 2026”. Minimal, balanced typography, generous negative space, sophisticated magazine-cover composition, symmetrical framing, highly detailed, timeless, poetic, collectible travel poster, vertical 4:5 composition, no clutter, no distorted architecture, no random text.</code></pre>
+
+</details>
+
+## Luxury fashion editorial advertisement poster with denim sculpture
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2091483360740995287)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3658](https://imglume.com/prompt/3658)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e3149dcd-176b-46ff-b4bd-3823a8e76bde/617ff0e0-b753-416a-bfbb-390840cc4935-1787503337971 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e3149dcd-176b-46ff-b4bd-3823a8e76bde/f5a51939-6f77-41e4-915d-eaf87a3e92b1-1787503337971 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/e3149dcd-176b-46ff-b4bd-3823a8e76bde/16dd3a97-b17c-47f0-846d-3d3946608536-1787503337971 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "input": {
+ "brand_logo": "{{LOGO_TEXT}}",
+ "brand_name": "{{BRAND_NAME}}",
+ "brand_descriptor": "{{create your own}}",
+ "main_headline": "{{MAIN_HEADLINE}}",
+ "tagline": "{{create your own}}"
+ },
+
+ "generation": {
+ "type": "luxury_fashion_editorial_advertisement",
+ "aspect_ratio": "2:3",
+ "reference_style": "recreate the supplied visual concept with the exact same overall art direction, composition and visual hierarchy",
+
+ "primary_rule": "The user may change text only. Every non-text visual element must remain consistent with the reference concept. Do not redesign, reinterpret, replace or substantially alter the model, clothing, denim sculpture, handbag, environment, lighting, color palette, camera perspective or composition.",
+
+ "fixed_visual_identity": {
+ "setting": "minimalist high-end fashion studio",
+ "background": "pale cool blue-gray seamless studio background",
+ "floor": "smooth glossy reflective floor with subtle realistic reflections",
+ "color_palette": [
+ "icy blue",
+ "soft blue-gray",
+ "deep navy typography",
+ "natural denim blue",
+ "subtle warm orange stitching"
+ ],
+ "lighting": "soft diffused luxury studio lighting, clean highlights, gentle shadows, controlled contrast",
+ "mood": "quiet luxury, sophisticated, surreal fashion editorial, premium and restrained",
+ "finish": "photorealistic, polished commercial fashion photography, realistic denim texture, realistic skin texture, subtle cinematic depth"
+ },
+
+ "subject": {
+ "model": "young adult female fashion model",
+ "appearance": "elegant contemporary editorial appearance, natural facial features, long dark hair",
+ "pose": "relaxed fashion-editorial pose leaning against the oversized denim sculpture",
+ "wardrobe": {
+ "top": "structured blue denim crop top",
+ "bottom": "relaxed blue denim jeans",
+ "footwear": "blue denim pointed boots",
+ "accessory": "small structured blue denim handbag"
+ },
+ "rule": "Keep the model's overall appearance, pose, proportions, wardrobe concept and placement visually consistent with the reference."
+ },
+
+ "hero_object": {
+ "object": "massive sculptural high-fashion stiletto shoe constructed entirely from blue denim",
+ "design": "dramatic oversized couture silhouette with an extremely tall heel, sweeping curved body, folded denim panels and visible seams",
+ "material": "realistic woven denim with detailed textile grain",
+ "stitching": "subtle contrasting warm orange stitching",
+ "sole": "dark slim sole and heel structure",
+ "placement": "large hero object occupying the lower-left and central composition behind and around the model",
+ "rule": "The oversized denim shoe is a fixed visual element and must not be replaced by another object."
+ },
+
+ "composition": {
+ "format": "vertical 2:3 fashion poster",
+ "framing": "full editorial poster composition",
+ "negative_space": "substantial clean negative space in the upper portion for typography",
+ "hierarchy": [
+ "small logo at top",
+ "brand name beneath logo",
+ "small descriptor beneath brand name",
+ "large central headline",
+ "small tagline near headline",
+ "model and oversized denim sculpture occupying lower section"
+ ],
+ "camera": "straight-on professional fashion advertising perspective with slight cinematic depth",
+ "lens_feel": "approximately 50mm full-frame fashion photography",
+ "depth_of_field": "moderate, keeping typography and primary fashion subject crisp",
+ "alignment": "precise editorial alignment with balanced margins and strong vertical symmetry"
+ },
+
+ "typography": {
+ "overall_style": "luxury fashion magazine typography",
+ "color": "deep navy blue",
+ "logo": {
+ "content": "{{LOGO_TEXT}}",
+ "position": "top center",
+ "style": "minimal elegant luxury monogram or refined wordmark"
+ },
+ "brand_name": {
+ "content": "{{BRAND_NAME}}",
+ "position": "centered below logo",
+ "style": "widely tracked refined sans-serif or modern luxury fashion type"
+ },
+ "brand_descriptor": {
+ "content": "{{BRAND_DESCRIPTOR}}",
+ "position": "centered below brand name",
+ "style": "small uppercase letterspaced typography"
+ },
+ "main_headline": {
+ "content": "{{MAIN_HEADLINE}}",
+ "position": "large central area",
+ "style": "extremely large elegant high-fashion editorial lettering, thin-to-medium contrast, wide horizontal presence"
+ },
+ "tagline": {
+ "content": "{{TAGLINE}}",
+ "position": "directly below or beside the main headline",
+ "style": "small refined uppercase or sentence-case luxury typography"
+ },
+ "text_rule": "Replace only the supplied text while preserving the same hierarchy, scale relationships, spacing, alignment, typography character and visual prominence."
+ },
+
+ "text_behavior": {
+ "user_editable_only": [
+ "LOGO_TEXT",
+ "BRAND_NAME",
+ "BRAND_DESCRIPTOR",
+ "MAIN_HEADLINE",
+ "TAGLINE"
+ ],
+ "do_not_generate_additional_copy": true,
+ "do_not_add_prices": true,
+ "do_not_add_buttons": true,
+ "do_not_add_badges": true,
+ "do_not_add_product_information": true,
+ "do_not_add_watermarks": true,
+ "do_not_change_text_positions_based_on_meaning": true,
+ "preserve_exact_user_text": true,
+ "text_must_be_legible": true,
+ "text_must_be_spelled_exactly": true
+ },
+
+ "quality_control": {
+ "photorealism": true,
+ "realistic_human_anatomy": true,
+ "realistic_denim_texture": true,
+ "realistic_stitching": true,
+ "clean_edges": true,
+ "accurate_typography": true,
+ "premium_fashion_campaign_quality": true,
+ "no_generic_ai_aesthetic": true,
+ "no_excessive_retouching": true,
+ "no_plastic_skin": true
+ },
+
+ "negative_constraints": [
+ "Do not change the composition",
+ "Do not change the camera angle",
+ "Do not change the aspect ratio",
+ "Do not change the model's pose",
+ "Do not change the wardrobe concept",
+ "Do not replace the oversized denim shoe",
+ "Do not change the background",
+ "Do not change the lighting",
+ "Do not introduce new objects",
+ "Do not remove the handbag",
+ "Do not add extra people",
+ "Do not alter the visual style based on the meaning of the new text",
+ "Do not create additional slogans",
+ "Do not add logos other than the user-supplied logo",
+ "Do not add watermark",
+ "Do not crop important visual elements",
+ "Do not distort typography",
+ "Do not misspell user-provided text"
+ ]
+ }
+}</code></pre>
+
+</details>
+
+## Environment concept art of cyberpunk concert arena
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2091360181917810810)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3621](https://imglume.com/prompt/3621)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/007e2238-d6b4-4bd9-b766-42286273dd22-1787480277626 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/85bff3ad-4c62-40d5-a19d-35927cba34be-1787480277626 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/b5a61e54-066e-4525-a151-6c431c73a7da-1787480277626 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/6d68a56b-b54b-469e-bede-c2b590d2b3a6-1787480277626 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/110d8a82-911c-46a0-a3ea-582039200d24-1787480277626 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/a6f19a49-60d9-409c-aa51-dd7c0266ed56-1787480277626 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/bb037ffa-27a3-4bc3-8c31-ca5770007d6b/3a23b0f1-3e38-4823-bb70-45bd4f19261d-1787480277626 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Stylized 2D environmental concept art, flat matte gouache illustration, Flat posterized color blocks, hard-edged brush shapes, shapes defined purely by value and color cuts, absolutely no outlines. SCENE: Massive cyberpunk concert arena and stadium stage at midnight. Towering brutalist speaker monoliths and giant inactive holographic displays. Completely empty, no characters, no crowd. ATMOSPHERE &amp; LIGHTING: Drifting atmospheric stage fog, volumetric stadium spotlights cutting through darkness. Soft filmic lighting with sharp geometric shadow cuts. PALETTE: Deep pitch-black shadows, stark concrete gray, with striking vivid glowing neon-magenta and hot-pink light beams. COMPOSITION: Cinematic extreme wide establishing shot, looking up toward the elevated center stage, extreme depth of field, landscape 16:9 aspect ratio. PROHIBITIONS: Not a photograph, no 3D render, no CGI, NO CHARACTERS, no crowds, no glossy reflections, no anime, no lineart, no realistic lighting. 100% flat 2D gouache painting.</code></pre>
+
+</details>
+
+## Premium Illustrated Travel Poster for Disneyland Paris
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2091386821825679429)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3617](https://imglume.com/prompt/3617)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6bad9ce0-0436-4d53-aba7-472ad8fd59b4/8aad4127-01a6-4209-8df7-764820cc2938-1787480172990 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6bad9ce0-0436-4d53-aba7-472ad8fd59b4/e5393f89-c7e9-47d6-896e-94af7fab2646-1787480172990 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 3:4 premium illustrated travel poster for Disneyland Paris, France, inspired by elegant vintage European travel posters and modern editorial illustration.
+
+Feature Sleeping Beauty Castle as the dominant centerpiece, with its iconic pink towers, blue conical rooftops, ornate gold details, arched entrance, and fairytale architecture. Show a beautiful pedestrian avenue leading toward the castle, with families and visitors walking toward it. Include a young girl holding a Mickey-shaped balloon, a family seen from behind, decorative Victorian-style street lamps, manicured gardens, flower beds, trimmed trees, and subtle Disneyland wayfinding signs.
+
+Use a soft pastel palette: powder blue sky, blush pink, cream, warm ivory, dusty coral, muted teal, sage green, soft navy, and subtle golden accents. Add small stylized stars and fluffy cream-colored clouds in the sky.
+
+Composition should feel clean, spacious, elegant, and nostalgic, with simplified but highly recognizable architecture. Use layered flat shapes, gentle painterly textures, subtle paper grain, soft shadows, delicate linework, and slightly faded printed colors. Avoid photorealism and avoid a glossy 3D-rendered appearance.
+
+At the upper left, add elegant typography:
+
+“DISNEYLAND”
+“PARIS”
+
+Below it, add a small refined tagline:
+“Where magic
+comes to life.”
+
+Use large dark navy uppercase lettering for DISNEYLAND, widely spaced. Use smaller dusty-coral uppercase lettering for PARIS.
+
+Overall aesthetic: collectible premium travel poster, sophisticated European tourism artwork, whimsical but refined, cinematic composition, nostalgic warmth, detailed environment, balanced negative space, museum-quality illustration.
+
+Vertical 3:4 aspect ratio.</code></pre>
+
+</details>
+
+## Automotive Poster Design Prompt
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2091388301328666776)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3612](https://imglume.com/prompt/3612)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/42c8cfa7-148c-4af5-a3ba-c1379f4eeb31/ac44d3ff-fda0-4325-9814-480c0ac3dd16-1787471943727 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/42c8cfa7-148c-4af5-a3ba-c1379f4eeb31/bc77f336-31ad-4a1f-ae3e-0d1e4c05988b-1787471943727 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/42c8cfa7-148c-4af5-a3ba-c1379f4eeb31/85395434-a3a6-4e1a-869e-69bd329a91a2-1787471943727 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/42c8cfa7-148c-4af5-a3ba-c1379f4eeb31/5b46c3b3-9397-4b86-ba12-2d182c9fcd93-1787471943727 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-clean automotive poster design featuring a [CAR], perfect side profile, positioned low and centered in the frame. A small refined [BRAND] badge/logo sits near the upper corner, with a short slogan reading “[SLOGAN]” in tiny modernist uppercase typography. A dramatic diagonal burst of layered [COLORS] speed stripes slices across the composition from upper corner to lower center, creating motion and visual rhythm. Warm ivory paper background with expansive negative space. Crisp technical illustration, precise proportions, subtle screen-print texture, fine ink outlines, minimal shadows, gallery-quality graphic design. Thin paint drips and color trails descending beneath the ground plane. Swiss modernist automotive poster, refined vector precision, museum poster quality, aspect ratio 4:5.</code></pre>
+
+</details>
+
+## Premium minimalist flat-vector travel poster prompt for \[CITY_NAME\]
+
+- **Original source:** [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091349007922778211)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3586](https://imglume.com/prompt/3586)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d2dc1932-4557-42c6-bfb5-513148cd409f/11f80854-5dd3-43c9-aca7-0fb6e59e4900-1787461358013 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d2dc1932-4557-42c6-bfb5-513148cd409f/8a94d2f2-a3f1-4ef6-a690-98b3d486e33e-1787461358013 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d2dc1932-4557-42c6-bfb5-513148cd409f/92792bcb-de78-4de1-ae57-a55dd8c23982-1787461358013 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d2dc1932-4557-42c6-bfb5-513148cd409f/55c5d5e5-ec10-4f64-8849-eaa85012fd83-1787461358013 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Design an original, sophisticated travel poster that captures the authentic visual personality of [CITY_NAME]. The composition must feel purpose-built for this city rather than following a reusable template.
+
+CITY IDENTITY
+
+First interpret the unique visual character of [CITY_NAME] and build the scene around these five elements:
+
+1. A recognizable landmark, architectural feature, or skyline element.
+2. A distinctive local way of moving through the city.
+3. One subtle everyday lifestyle moment.
+4. A native plant, landscape, or environmental characteristic.
+5. A composition and viewpoint that naturally belongs to the city.
+
+The overall scene structure must change from city to city. Do not repeatedly use the same object positions or visual formula.
+
+Possible compositions include:
+harbor viewpoint, narrow historic lane, riverside garden, coastal path, elevated city overlook, lively market passage, tram avenue, ferry terminal, botanical setting, heritage square, beach promenade, cultural plaza, or skyline terrace.
+
+Choose whichever composition best represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” in the upper-left area with generous clean negative space.
+
+Add one short, sophisticated English tagline inspired by the atmosphere of the city.
+
+Typography should feel understated, editorial, spacious, and premium. Never allow text to dominate the artwork.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural feature as the main focal point.
+
+Support it with only 2–4 carefully selected local elements. Every added detail should strengthen the sense of place.
+
+Avoid landmark collections or postcard-style collages. Keep the scene visually quiet and intentional.
+
+PEOPLE
+
+Include only 3–6 small-scale figures.
+
+Give each person a believable activity connected to local life, such as:
+walking through a historic lane, cycling, waiting for public transport, sketching architecture, boarding a ferry, reading outdoors, taking a quiet photograph, carrying beach equipment, browsing a market, or jogging beside the water.
+
+Avoid crowds and avoid making any single person the main character. Figures should integrate naturally into the environment.
+
+LOCAL CHARACTER
+
+Use city-specific elements only when they genuinely fit [CITY_NAME]:
+
+- local transportation
+- architecture
+- street furniture
+- vegetation
+- small signs or wayfinding
+- local food references
+- recreational activities
+- pavement markings
+- cultural details
+
+Transport and signage should remain subtle. Instead of always using a large signboard, incorporate details naturally through a small transit marker, station clock, ferry information panel, bike symbol, painted road marking, beach flag, or understated metro icon.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+clean delicate outlines,
+uniform line weight,
+simple geometric forms,
+flat-color illustration,
+soft shapes,
+balanced visual rhythm,
+high-end minimalist postcard design.
+
+COLOR SYSTEM
+
+Build the atmosphere primarily with:
+pale powder blue, soft sky blue, mist blue, and cool airy blues.
+
+Balance these with:
+warm ivory, cream, soft beige, muted sage, gray-green, and understated architectural neutrals.
+
+Use dusty rose or muted blush only for tiny visual accents such as flowers, clothing details, small signs, awnings, or decorative objects.
+
+Colors should remain soft, sophisticated, slightly desaturated, and cohesive.
+
+MOOD
+
+Fresh, airy, peaceful, refined, contemporary, elegant.
+
+The final artwork should feel like a premium boutique travel postcard or luxury lifestyle brand illustration, with generous breathing room and a relaxed sense of place.
+
+IMPORTANT QUALITY RULES
+
+Every city must have its own visual identity.
+Change the camera angle, scene structure, landmark placement, foreground treatment, and supporting details according to the city's character.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realism.
+No watercolor.
+No painterly brushwork.
+No gradients.
+No heavy shadows.
+No dramatic cinematic lighting.
+No paper texture.
+No excessive detail.
+No cluttered background.
+No landmark collage.
+No crowded streets.
+No oversized characters.
+No dominant hero character.
+No repetitive café composition.
+No fixed signboard position.
+No identical foreground treatment.
+No generic tourist-poster formula.
+No copied layout from another city.
+No unnecessary decorative elements.</code></pre>
+
+</details>
+
+## Vintage Editorial Travel-Magazine Poster
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091161796887593338)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3573](https://imglume.com/prompt/3573)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4a29e141-6b2c-444c-9ce1-d6add3230506/b818b4b9-1634-46db-bbd6-765c0d44122d-1787438239645 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4a29e141-6b2c-444c-9ce1-d6add3230506/10e2a2e2-c7a2-4f0b-8e15-0f3ac89112e8-1787438239645 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4a29e141-6b2c-444c-9ce1-d6add3230506/cb53215b-84e4-4a4b-9aec-de2b605f6fbb-1787438239645 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4a29e141-6b2c-444c-9ce1-d6add3230506/fb99f99f-bd65-4acb-95fe-f2a19b39de9d-1787438239645 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vintage editorial travel-magazine poster inspired by mid-century transportation and engineering publications. Feature a monumental [SUBJECT] as the main photographic subject, captured from a dramatic low-angle perspective with strong geometric composition and clean architectural lines. Use a large condensed bold uppercase headline “[TITLE]” occupying the upper portion of the page, partially interacting with or framing the subject. Add a smaller refined subtitle beneath it: “[SHORT DESCRIPTIVE TAGLINE]”. Include small editorial labels, technical-style captions, a page number, and minimal typographic details around the image.
+
+Visual style: authentic 1960s–1970s vintage print design, retro industrial travel magazine, muted teal blue, faded rust red, warm cream paper, subtle olive accents, slightly desaturated photography, natural sunlight, realistic film grain, halftone texture, aged paper fibers, gentle ink imperfections, soft faded edges, archival printed-photo appearance. Strong negative space, balanced Swiss-inspired editorial layout, bold typography, sophisticated museum-book aesthetic, highly detailed subject photography, realistic proportions, clean hierarchy, nostalgic but premium.
+
+Keep the layout consistent across a series: cream background, oversized blue headline, centered main image, small dark-teal informational text, restrained red/rust accents, page number in the corner, authentic vintage magazine print texture. Vertical 4:5 composition, crisp details, high-resolution editorial poster.</code></pre>
+
+</details>
 
 ## Luxury Travel Poster of \[COUNTRY\] Handcrafted in Kashmiri Sozni Embroidery
 

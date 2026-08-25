@@ -1,9 +1,537 @@
 # Character image prompts
 
-109 source-linked prompts, newest ImgLume records first.
+122 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Minimalist hand-drawn doodle illustration
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2091548854760181828)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3720](https://imglume.com/prompt/3720)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/78f81932-4c40-4a68-8b6b-87b3b3754689/a81d732f-f028-4a27-9868-eeb2ba71290a-1787570451055 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the image into a charming minimalist hand-drawn doodle illustration. Preserve the main subject, pose, proportions, and overall composition while simplifying everything into playful, childlike forms. Use loose brush-pen outlines with subtle wobble, uneven pressure, and naturally imperfect handmade strokes. Keep the linework clean and sparse, with tiny expressive details that give the subject personality. Add delicate watercolor-ink touches with very soft, restrained color accents while maintaining plenty of clean white space. Create a naive sketchbook feeling with whimsical cartoon shapes, spontaneous marks, gentle imperfections, and an authentic handmade drawing quality. Avoid excessive detail, realism, heavy shading, or polished digital-vector edges. The final result should feel like a cute artist’s notebook doodle drawn by hand with watercolor ink.</code></pre>
+
+</details>
+
+## Contemporary mixed-media urban painting prompt
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2091758965848003048)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3711](https://imglume.com/prompt/3711)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4fbaf0a3-ae2a-42fe-addc-8c1f1989698c/134e8700-9380-4a64-9c0f-42de17ab48b7-1787559960445 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4fbaf0a3-ae2a-42fe-addc-8c1f1989698c/99ac4984-44e5-460b-8623-372b9d9c6dc5-1787559960445 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4fbaf0a3-ae2a-42fe-addc-8c1f1989698c/0ec1cf8c-12c9-4a30-8c8d-adfa846ba6b0-1787559960445 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4fbaf0a3-ae2a-42fe-addc-8c1f1989698c/fb170ad4-0e71-4f7d-a3d1-773c207b9b55-1787559960445 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Contemporary mixed-media urban painting of [HUMAN], wearing [CLOTHING], [POSE] beside [ANIMAL] in [SCENERY]. Use [COLORS] over a cold grey and white base, with harsh black ink silhouettes, loose charcoal sketch marks, scraped acrylic blocks, translucent color washes, circular graphic shapes, vertical paint drips, splatter noise, unfinished collage edges, high-contrast negative space, semi-abstract anatomy, expressive brush texture, and a raw gallery-wall composition. The background is [BACKGROUND], minimal but layered with stains, smears, thin wires, broken rectangles and floating color dots. Vertical 4:5.</code></pre>
+
+</details>
+
+## Cute hand-drawn doodle illustration preserving a person's identity
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2091737602051498494)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3704](https://imglume.com/prompt/3704)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3f9c82dd-9404-42d6-8f2d-d903bdc979af/894d4916-75df-420d-87cd-79903a235cd3-1787555782122 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3f9c82dd-9404-42d6-8f2d-d903bdc979af/47146d99-4e4f-468d-b015-8e395039f254-1787555782122 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the provided reference image as the main identity and pose reference. Transform the person into a cute, playful, hand-drawn doodle illustration while preserving their recognizable identity.
+
+STYLE:
+- Adorable handmade sketchbook doodle aesthetic
+- Simple black pen/pencil line art with slightly rough, imperfect strokes
+- Childlike, charming, whimsical drawing style
+- Minimal coloring with soft pastel accents
+- White/off-white paper background
+- Visible hand-drawn texture and natural sketch imperfections
+- Avoid polished digital vector art or overly clean anime rendering
+
+CHARACTER:
+- Preserve the person's key facial features, face shape, hairstyle, hair length, clothing, accessories, and overall appearance from the reference
+- Keep the person's recognizable characteristics rather than making them look like a generic character
+- Use simplified cute proportions with a slightly oversized head and expressive eyes
+- Large round hand-drawn eyes, tiny nose, small cheerful mouth, and subtle blush on the cheeks
+- Keep the original hairstyle recognizable while translating it into loose sketchy strokes
+
+POSE &amp; EXPRESSION:
+- Preserve the main pose and body direction from the reference
+- Give the character a cute, cheerful, playful expression
+- Natural hand gestures and expressive body language
+- Add small doodle elements around the character that match the mood, such as hearts, stars, crowns, sparkles, motion lines, flowers, or tiny symbols
+
+DRAWING DETAILS:
+- Black sketch lines should be slightly uneven, textured, and imperfect
+- Use loose cross-hatching and scribbled shading where appropriate
+- Pastel pink, yellow, blue, or other soft colors may be used sparingly for cheeks and decorative doodles
+- Keep the illustration mostly monochrome with selective colorful accents
+- White background with plenty of negative space
+- Make it feel like someone personally drew the character with a black marker or pencil on paper
+
+COMPOSITION:
+- Center the character prominently
+- Keep the framing similar to the reference photo
+- Add a few cute surrounding doodles without distracting from the character
+- Clean, simple composition suitable for a profile picture, sticker, social media post, or cute illustration
+
+IMPORTANT:
+Do not make the character photorealistic. Do not make it overly polished, 3D, glossy, or professionally vectorized. The final result should look like an authentic cute handmade doodle drawn by a talented person in a sketchbook, while still clearly resembling the person in the reference image.</code></pre>
+
+</details>
+
+## John Wick black smoke art
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2091457024357724609)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`
+- **ImgLume record:** [3674](https://imglume.com/prompt/3674)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f22d3cca-c463-4e33-a284-1b36e750353d/fae641f4-eb8c-4445-8aef-3d70e3cb5d7b-1787532748331 "Geralt of Rivia drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [2](https://cdn.imglume.com/prompts/byradar/f22d3cca-c463-4e33-a284-1b36e750353d/3facaec0-1b64-466b-ae22-717e7855f0a7-1787532748331 "John Wick drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [3](https://cdn.imglume.com/prompts/byradar/f22d3cca-c463-4e33-a284-1b36e750353d/1e200941-7ab7-4d0e-ba8d-dffc8f821a60-1787532748331 "Batman drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [4](https://cdn.imglume.com/prompts/byradar/f22d3cca-c463-4e33-a284-1b36e750353d/4ee39087-bad9-4b38-a72e-acace9629ef4-1787532748331 "Luffy drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>John Wick drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd</code></pre>
+
+</details>
+
+## Geralt of Rivia black smoke art
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2091457024357724609)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`
+- **ImgLume record:** [3672](https://imglume.com/prompt/3672)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c8de7d9a-6307-4b81-a5e8-3dc47045adeb/ac704990-b52d-4efb-b642-74e5cefbc0cf-1787532748331 "Geralt of Rivia drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [2](https://cdn.imglume.com/prompts/byradar/c8de7d9a-6307-4b81-a5e8-3dc47045adeb/669eafe7-259f-4b9c-9d3f-b41af39358af-1787532748331 "John Wick drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [3](https://cdn.imglume.com/prompts/byradar/c8de7d9a-6307-4b81-a5e8-3dc47045adeb/c6fdfd23-aac4-4bea-9a82-9e62367b0b4b-1787532748331 "Batman drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [4](https://cdn.imglume.com/prompts/byradar/c8de7d9a-6307-4b81-a5e8-3dc47045adeb/fac32fed-7743-493e-b4ec-dc04c7c2cffb-1787532748331 "Luffy drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Geralt of Rivia drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd</code></pre>
+
+</details>
+
+## Batman black smoke art
+
+- **Original source:** [@techhalla on X](https://x.com/techhalla/status/2091457024357724609)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `midjourney`
+- **Categories:** `character`
+- **ImgLume record:** [3671](https://imglume.com/prompt/3671)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ae787f3a-9639-43f9-899b-05ca4552f016/892cd858-89c9-40a1-b1ff-3e5c6b6a4eed-1787532748331 "Geralt of Rivia drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [2](https://cdn.imglume.com/prompts/byradar/ae787f3a-9639-43f9-899b-05ca4552f016/29091d64-16b6-4a84-b747-b14ee0ceb91a-1787532748331 "John Wick drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [3](https://cdn.imglume.com/prompts/byradar/ae787f3a-9639-43f9-899b-05ca4552f016/bdf02058-75e3-47d9-a51d-5098791f5864-1787532748331 "Batman drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd") · [4](https://cdn.imglume.com/prompts/byradar/ae787f3a-9639-43f9-899b-05ca4552f016/aa0e914f-0d1e-42fa-9acc-1abd5a551ede-1787532748331 "Luffy drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Batman drawn in black smoke is shown, in the style of abstract ink art, flowing silhouettes, polished metamorphosis, dark and intricate, contemporary. plain white background --ar 16:9 --raw --stylize 50 --hd</code></pre>
+
+</details>
+
+## Ultra-photorealistic premium female character reference sheet
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091483398972080172)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3641](https://imglume.com/prompt/3641)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0cd5526e-b338-4742-baa0-4ea1342ad541/a925ab9c-7799-457d-ba15-25bc980533c9-1787492933606 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/0cd5526e-b338-4742-baa0-4ea1342ad541/8864b2aa-6cf4-49c7-93e9-96e0e6b594ab-1787492933606 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic premium female character reference sheet using the uploaded woman as the STRICT IDENTITY REFERENCE.
+
+IDENTITY — ABSOLUTE PRIORITY:
+
+Preserve the exact identity of the woman in the uploaded image.
+
+Keep her:
+- exact face shape
+- eyes
+- eyebrows
+- nose
+- lips
+- jawline
+- skin tone
+- natural skin texture
+- hairstyle
+- hairline
+- facial proportions
+- age appearance
+- feminine body proportions
+
+Do not redesign her face.
+Do not beautify or alter her recognizable features.
+She must look like the exact same real woman in every view.
+
+CHARACTER CONCEPT:
+
+Create a realistic modern young woman who will be the main protagonist of a cinematic everyday cooking/lifestyle video.
+
+She has a natural, approachable appearance and relaxed confident personality.
+
+Create a realistic everyday home-cooking appearance rather than a fashion-model look.
+
+OUTFIT:
+
+A tasteful modern casual home outfit suitable for cooking dinner:
+
+- simple fitted neutral-colored top
+- comfortable casual trousers
+- clean natural styling
+- minimal jewelry
+- no high-fashion styling
+- no excessive makeup
+
+Keep the outfit practical and believable for a woman cooking at home.
+
+CHARACTER SHEET LAYOUT:
+
+Create one professional reference sheet containing:
+
+1. Full-body FRONT view
+2. Full-body 3/4 FRONT view
+3. Full-body SIDE view
+4. Full-body BACK view
+5. Medium portrait
+6. Close-up facial portrait
+7. Natural smiling expression
+8. Neutral expression
+9. Hands and clothing detail
+
+Every view must show the EXACT SAME WOMAN.
+
+BODY &amp; ANATOMY:
+
+Natural realistic feminine proportions.
+Lean, healthy everyday physique.
+Accurate human anatomy.
+Natural posture.
+No exaggerated body proportions.
+
+HAIR:
+
+Preserve the exact hairstyle from the uploaded reference.
+
+Show realistic individual hair strands and natural volume.
+
+PHOTOGRAPHY:
+
+Ultra-photorealistic live-action photography.
+Premium cinematic lifestyle production quality.
+Realistic skin pores and texture.
+Natural hair detail.
+Physically accurate clothing fabric.
+Soft professional studio lighting.
+Natural shadows.
+Subtle realistic depth of field.
+High-end commercial photography quality.
+
+BACKGROUND:
+
+Clean warm-neutral studio background.
+Minimal distractions.
+The character must be clearly separated from the background.
+
+IDENTITY CONSISTENCY:
+
+This exact woman will be used as the main character in:
+@IMG1 Character
+@IMG4 Cooking Action
+@IMG6 Dining Scene
+and the final 30-second video.
+Her face and identity must remain identical across all references and video scenes.
+
+IMPORTANT NEGATIVE RULES:
+
+No face redesign.
+No different woman.
+No face morphing.
+No age change.
+No hairstyle change.
+No masculine features.
+No exaggerated makeup.
+No unrealistic body proportions.
+No cartoon.
+No anime.
+No CGI-looking skin.
+No text.
+No logo.
+No watermark.
+
+Premium photorealistic cinematic character reference sheet.</code></pre>
+
+</details>
+
+## Transform people in a photo into adorable hand-drawn doodle characters while preserving the original background
+
+- **Original source:** [@Emmma__0 on X](https://x.com/Emmma__0/status/2091391958128251286)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3628](https://imglume.com/prompt/3628)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8eb4a29f-6d79-4932-b127-b4f86e015230/601c761e-1f65-4ef8-a710-6d568c244a55-1787488570467 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8eb4a29f-6d79-4932-b127-b4f86e015230/a9354569-2e75-4044-9d74-b69020e5c027-1787488570467 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged.
+
+CORE RULE:
+Background = original realistic photo.
+People = cute hand-drawn doodle characters.
+
+PRESERVE THE BACKGROUND:
+Keep the original sky, landscape, buildings, water, furniture, ground, plants, railings, objects, lighting, colors, perspective, camera angle, framing, and textures as close to the original photo as possible.
+
+Do NOT redraw, simplify, illustrate, or apply doodle/crayon/pencil effects to the background or environmental objects.
+
+TRANSFORM ONLY PEOPLE:
+Replace each person with a charming, naive doodle version while preserving:
+- exact number of people
+- original position and relative scale
+- front/back/side/three-quarter orientation
+- head and body direction
+- pose and gesture
+- arm and leg positions
+- interactions with people or objects
+- hairstyle, clothing colors, and major accessories
+
+IMPORTANT:
+If someone faces away, keep them back-facing.
+If sideways, keep them sideways.
+If facing forward, keep them forward.
+Never rotate a person toward the viewer or invent a face that is not visible.
+
+CUTE DOODLE STYLE:
+Freely reinterpret realistic anatomy into an adorable, imperfect character:
+- oversized round head
+- tiny compact body
+- short simplified arms and legs
+- tiny hands and feet
+- cute awkward proportions
+- loose scribbled hair
+- tiny dot eyes and simple facial features when visible
+- rosy scribbled cheeks when appropriate
+
+Keep the original pose recognizable, but simplify and slightly exaggerate it for cuteness.
+
+DRAWING STYLE:
+Loose naive hand-drawn doodle, like a quick children's sketch.
+Use thin shaky black outlines, imperfect shapes, overlapping sketch lines, scribbled colored-pencil or crayon fills, uneven coloring, white gaps, and slightly messy edges.
+
+The character should look intentionally roughly drawn but extremely cute.
+
+OBJECTS:
+Objects, furniture, scenery, and items around the people should remain photographic whenever possible. A doodle character may naturally touch or hold a real photographic object.
+
+INTEGRATION:
+Keep correct scale, ground contact, depth, and occlusion so the doodle characters naturally occupy the same locations as the original people.
+
+FINAL LOOK:
+It should feel like the real people were removed from the original photograph and replaced with adorable little hand-drawn doodle versions of themselves, while the real-world background remained untouched.
+
+Prioritize:
+1. Original photographic background
+2. Person position and scale
+3. Exact body orientation
+4. Pose and gesture
+5. Cute exaggerated doodle character design
+
+Avoid full-image illustration, background doodling, realistic anatomy, anime, manga, 3D cartoon, polished digital art, vector lines, changed poses, changed orientation, added people, or invented faces.</code></pre>
+
+</details>
+
+## GPT Image 2 Character Sheet for Vesper
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2091360181917810810)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3622](https://imglume.com/prompt/3622)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/7540d2cd-db2a-49b9-b929-328f5909532e-1787480277626 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/3075730a-cbfa-4080-9b96-d2b586d7c2b3-1787480277626 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/f8d14126-3a17-48f7-b277-03ff26adb684-1787480277626 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/9e26b471-0201-4891-8eb2-ce3cf6f933b1-1787480277626 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/78a6b7fc-88c6-4429-882e-bfc892f0e1a6-1787480277626 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/cee37fdd-1406-4b64-b65b-0792b864568c-1787480277626 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/fe931ac2-7591-4b85-9fae-ca025123138c/9b8f9252-1489-4b03-89e7-eeb455155088-1787480277626 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background.
+
+THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: painterly matte digital gouache with flat posterized color blocks, NO outlines, hard-edged brush shapes, muted desaturated palette identical to the reference, identical brightness (light, airy, white-background).
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealism, no petite proportions.
+
+[PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, towering height, massive upper padded jacket, long slender legs, small adult head).
+
+[SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, mature sharp face, pastel-pink twin-buns, dark-iron horn headphones, heart marks. Outfit: massive white padded jacket, black utility belt, tight black bodysuit, skinny black legs, platform boots. Accessories: mic-stand, plush hip charm. Magic Ability: Channels flat-painted, glowing neon-magenta sonic shockwaves from her voice and microphone.
+
+Layout Composition (Organize strictly into these sections):
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography: "VESPER" in clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: Sonic Disruptor", "CORE MOOD: Fearless Energy", "VISUAL SIGNATURE: Horn Headphones &amp; Magenta Waves".- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (confident smirk, singing intensely, adjusting headphones, sharp battle glare).
+
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a powerful performance signature pose with the mic-stand, maximum detail, perfect style-match to reference.
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: 4 small-to-medium dynamic stances (blasting a sonic ring, leaping off a speaker, adjusting belt, resting casually against mic-stand), handwritten-style labels.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- 5 small square crops: horn headphones and face, white padded jacket buckle, plush mascot charm, platform boots, and a glowing neon-magenta sonic shockwave. Handwritten labels.</code></pre>
+
+</details>
+
+## Midjourney portrait of Vesper
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2091360181917810810)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3620](https://imglume.com/prompt/3620)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/1432ead4-58ae-4b23-b572-4e5a8e8240b1-1787480277626 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/6ba129e5-3dcb-4855-8e57-bcf455286097-1787480277626 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/9a2c1638-e4c9-4a92-8bb3-53025f7cc582-1787480277626 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/cc0779bc-b9cc-430d-a4d4-bf1649fd6bcd-1787480277626 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/5bd89dce-d864-4838-a315-081360824de3-1787480277626 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/d135075a-1c4f-4c9b-9697-0fd656dfb862-1787480277626 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/33d4a32a-109a-4c97-99b6-8270d116eea1/eba0d0a9-d69e-47fc-afb0-f2032d837eaa-1787480277626 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Solo portrait of a semi-realistic anime girl, white and pink messy twin tails with pink heart clips in her hair, wearing large futuristic black headphones with antennas. She has a confident expression, detailed grey eyes, freckles, wearing a white techwear jacket with red accents and pink stripes, black gloves, holding a black pole. Bright pure white background, high-key lighting, soft pastel pink rim light, loose painterly brushstrokes, intricate detail, depth of field, digital painting, highly detailed face, concept art, no background characters, centered. --ar 4:5 --stylize 300</code></pre>
+
+</details>
+
+## Highly detailed realistic graphite pencil and charcoal portrait sketch
+
+- **Original source:** [@HaniaAi12 on X](https://x.com/HaniaAi12/status/2091112802958372892)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3610](https://imglume.com/prompt/3610)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df524be1-4b3c-4a57-a506-e985fe388750/0d839abf-f722-4216-97db-2442667b8c60-1787471771540 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly detailed, realistic graphite pencil and charcoal sketch portrait based on the uploaded reference photo.
+
+Preserve the subject's recognizable facial features, face shape, eyes, nose, lips, skin tone, hairstyle, and natural expression from the reference image. Transform the photograph into a sophisticated hand-drawn pencil illustration while keeping the person's identity clearly recognizable.
+
+Portrait composition: centered front-facing upper-body portrait, elegant relaxed posture, gentle natural smile, looking directly at the camera. Long, voluminous dark wavy hair falling naturally over the shoulders, with realistic individual hair strands.
+
+Clothing: recreate the same traditional South Asian outfit from the reference image, including the dark navy/black fabric with intricate floral embroidery in warm red, orange, beige and golden tones. Preserve the detailed embroidered neckline, floral patterns, sleeves, and overall design accurately.
+
+Art style: hyper-detailed graphite pencil drawing mixed with subtle charcoal shading, fine cross-hatching, delicate line work, realistic facial anatomy, carefully rendered eyes and hair, soft tonal gradients, natural hand-drawn imperfections, intricate fabric and embroidery details.
+
+Paper: warm beige textured drawing paper with subtle natural grain and slightly aged paper texture.
+
+Lighting and shading: soft monochromatic graphite tones with gentle warm sepia undertones, realistic highlights and shadows, carefully modeled facial features, dimensional hair and clothing.
+
+Background: minimal warm beige paper background with very subtle loose pencil strokes around the silhouette, artistic sketch marks fading naturally into the background. Keep the background clean and uncluttered.
+
+Overall aesthetic: premium realistic hand-drawn portrait, elegant editorial illustration, museum-quality graphite artwork, highly detailed pencil texture, sophisticated traditional sketchbook appearance.
+
+No text, no words, no watermark, no logo, no frame, no extra objects.
+
+Maintain the original identity and facial characteristics of the reference subject while converting the entire image into this realistic graphite-pencil-and-charcoal illustration style.</code></pre>
+
+</details>
+
+## Minimalist Anime Digital Illustration of a Young Saudi Arabian Woman
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2091137660152926305)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3576](https://imglume.com/prompt/3576)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e5c7fb41-cec8-4a6f-af51-87e19257bbbf/e3d125c7-d422-478a-9816-0c64c62b888d-1787442359182 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Digital art illustration in minimalist anime style featuring a young Saudi Arabian woman with elegant Middle Eastern features, styled in modern, minimal streetwear with a refined thobe-inspired silhouette or layered neutral-toned pieces. The artwork is rendered in a clean vector art style inspired by Quwela and Krenz Cushart, with dynamic dramatic foreshortening and perspective distortion from a low ground-level view. Background is pure white with a soft gradient shadow cast subtly for depth. Sharp, precise linework with a muted, monochromatic color palette and refined rim lighting achieved through soft cel-shading. Light grainy risograph texture overlays the artwork for a print-like finish. Minimalist visual language influenced by Shuichi Shigeno and Yusuke Murata's dynamic compositions, emphasizing motion and emotion with restraint. A cool black cat wearing sunglasses appears beside the female character, drawn in a bold graphic style with minimal detail, set against a solid bright yellow background as an alternate version for poster use. Strong centered composition, pop art influence, and high contrast, suitable for modern editorial or promotional design. --ar 4:5 --raw --profile dmufl2cix mby61Sc --stylize 50</code></pre>
+
+</details>
+
+## Premium cinematic character bible sheet for female Shaolin hero
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2091178501735071829)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3564](https://imglume.com/prompt/3564)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3a84adf5-752b-4bed-971b-5af2d55118c2/5ef6a9c6-a67e-4c59-b13e-dc1115454924-1787427708884 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3a84adf5-752b-4bed-971b-5af2d55118c2/0536d556-5380-4e71-b3e4-d1120c37cba6-1787427708884 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character Sheet — reference Image
+
+Create a premium cinematic character bible sheet for the FEMALE HERO using the uploaded portrait as the strict identity reference.
+
+Preserve her exact face, hairstyle, skin tone, feminine body proportions, and appearance.
+
+Dress her in an oversized traditional kung fu outfit inspired by Shaolin training robes:
+
+- mustard-gold layered robe
+- loose wide sleeves
+- brown cloth sash
+- oversized kung fu pants
+- grey leg wraps
+- worn cloth martial arts shoes
+
+STYLE:
+Ultra-photorealistic live-action, AAA movie concept art, cinematic realism, natural lighting, premium editorial presentation.
+
+LAYOUT:
+Clean white background with minimal typography.
+
+LEFT:
+Large golden brushstroke text: HERO.
+
+Subtitle:
+MARTIAL ARTIST / KUNG FU MASTER.
+
+One full-height dynamic female hero pose performing a traditional open-palm kung fu stance, oversized robes flowing naturally, with subtle Chinese ink wash behind her.
+
+CENTER:
+TURNAROUND featuring full-body Front, Side and Back views with identical outfit and proportions.
+
+Below:
+TRAINING EQUIPMENT showing a wooden staff, cloth hand wraps, prayer beads, and Wing Chun wooden dummy arm.
+
+RIGHT:
+DETAILS grid with front portrait, side profile, wrapped hands, and robe fabric close-up.
+
+Below:
+COLOR PALETTE with Mustard Gold, Brown, Stone Grey, Linen Beige and Black.
+
+Bottom-right tagline:
+
+"Discipline Before Power"
+
+Minimalist premium martial arts presentation, authentic Chinese kung fu aesthetic, realistic fabric textures, no anime, no cartoon, no exaggerated fantasy styling.
+
+The female hero must remain clearly female and must preserve the exact identity of the uploaded reference woman.</code></pre>
+
+</details>
 
 ## Japanese Samurai in Crimson Landscape
 

@@ -1,9 +1,79 @@
 # Cinematic image prompts
 
-59 source-linked prompts, newest ImgLume records first.
+61 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Majestic sailing ship with iridescent sails on a glassy sea under pastel sky
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2091840823151255696)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `nanobanana`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3731](https://imglume.com/prompt/3731)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a0b9b2ea-eed1-4498-921a-d351035eabae/d0b49807-ce09-42bb-83d6-e0a509f636d0-1787577002290 "GPT Image 2") · [2](https://cdn.imglume.com/prompts/byradar/a0b9b2ea-eed1-4498-921a-d351035eabae/3c674785-4b09-471e-8666-a01017da58cb-1787577002290 "GPT Image 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A unique fantasy campaign scene of a majestic sailing ship drifting calmly across a glassy, reflective sea beneath a pastel sky, reimagined with fresh visual storytelling and an entirely new composition. The sails shimmer with iridescent glow, catching soft atmospheric light as the vessel feels suspended between reality and dream, with a tranquil, magical realism atmosphere that remains serene yet distinctly original.
+Environment:
+• Vast open sea with mirror-like reflections, gentle ripples, and a horizon that feels expansive and cinematic
+• Fluffy cloud formations in layered pastel tones, creating depth without clutter
+• Avoid additional ships, landmasses, birds, or distracting objects that break the quiet solitude
+Lighting:
+• Soft ethereal daylight with diffused illumination across sails, rigging, and water
+• Subtle rim light on the ship’s silhouette and delicate glow bloom around iridescent surfaces
+• No harsh shadows, no blown highlights, no aggressive contrast
+Materials:
+• Sails with pearlescent, translucent fabric behavior and luminous color shifts
+• Dark polished wood hull with realistic grain and gentle specular highlights
+• Water with a smooth reflective surface and believable light scatter
+Composition:
+• Wide cinematic framing with the ship placed off-center for a more unique, editorial balance
+• Emphasize negative space in sky and water to heighten the dreamlike stillness
+• Calm horizontal composition with the vessel occupying a strong but elegant share of the frame
+Mood:
+Serene, mystical, and quietly otherworldly with a fresh, unique fantasy-cinematic identity
+Shot on 85mm lens, f/2.8, shallow depth of field, ultra-detailed, 8K realism</code></pre>
+
+</details>
+
+## Neon City Time-Lapse Film Strip
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2091650994752926123)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `seedance`, `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3684](https://imglume.com/prompt/3684)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cc546b02-bfd4-423f-bc68-9fbaadca57ac/e89c9cf0-3fa3-4f8c-abd5-d53484aa832e-1787545350850 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A horizontal cinematic film strip with 9 panels in one row, showing time progression in a neon city from dusk to dawn.
+
+Style Consistency:
+Long exposure light trails from cars, skyscrapers with neon lighting, dynamic highway perspective, photorealistic with vibrant colors, 8k resolution.
+
+Panel Sequence:
+1. Dusk: Sky still has orange-pink sunset glow, city lights just turning on, light trails beginning, warm-cool contrast.
+2. Early Evening: Sky deepening to purple, more neon lights active, traffic increasing, light trails longer.
+3. Night Falls: Sky now dark blue, full neon illumination, heavy traffic, intense light trails in white and red.
+4. Deep Night: Pitch black sky, maximum neon intensity, blue and pink dominant, busiest traffic, longest light trails.
+5. Midnight: Darkest point, all lights blazing, dramatic contrast, light trails creating color rivers on highway.
+6. Late Night: Sky slightly lighter, some lights dimming, traffic reducing, light trails shorter but still vibrant.
+7. Pre-dawn: Sky turning deep purple-blue, first hints of dawn, fewer cars, calmer atmosphere.
+8. Dawn Approaching: Sky lightening to orange-pink at horizon, neon lights still on but fading, morning traffic beginning.
+
+9. Sunrise: Bright orange-pink sky, neon lights turning off, morning light replacing artificial glow, new day beginning.
+
+Unified: neon city, time progression, light trails, sky color changes</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic fantasy portrait of a young woman with dynamic hand and colorful fluid splashes
 

@@ -1,9 +1,26 @@
 # Food Drink image prompts
 
-14 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic chocolate advertisement
+
+- **Original source:** [@Urwa_345 on X](https://x.com/Urwa_345/status/2091899842457206792)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [3748](https://imglume.com/prompt/3748)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bd94c4bd-f982-43a5-b53f-7a1c7081a379/0b00f1da-3ba0-4f60-beb0-ec7c7ade62c0-1787589529158 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bd94c4bd-f982-43a5-b53f-7a1c7081a379/bc62905f-a1a9-4415-a27e-b65ef88486d1-1787589529158 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic chocolate advertisement featuring a gigantic premium chocolate bar standing vertically in the middle of a beautiful snowy mountain valley. The chocolate bar is dramatically oversized, towering above the surrounding landscape. Rich glossy chocolate texture with realistic details and elegant premium packaging. Hundreds of tiny people stand nearby taking photographs while snow-covered mountains rise dramatically in the background. Pieces of chocolate appear to float around the giant product as if gravity has stopped. Warm golden sunlight breaks through the clouds, creating a magical luxurious glow. Cinematic atmosphere, realistic snow reflections, highly detailed textures, photorealistic product photography, premium food advertising aesthetic, 8K, sharp focus, vertical 9:16 composition, realistic proportions, no distortion, no watermark, no extra text</code></pre>
+
+</details>
 
 ## Premium Strawberry Milkshake Product Photo
 

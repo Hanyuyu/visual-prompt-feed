@@ -1,9 +1,26 @@
 # Photography video prompts
 
-1 source-linked prompts, newest ImgLume records first.
+2 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Professional studio-grade LinkedIn headshot transformation
+
+- **Original source:** [@Elizangelakt1i on X](https://x.com/Elizangelakt1i/status/2091736707750408427)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3697](https://imglume.com/prompt/3697)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9ff9d496-ac02-4a0e-8652-bd5c1ce4c7be/d6727bca-76a4-43ee-8f2b-3831773d0dca-1787553687653 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform this photo into a professional studio-grade LinkedIn headshot of the exact same woman. Preserve her identity perfectly: exact face geometry, proportions, eye shape and color, nose, mouth, jawline, ears, dark skin tone and real skin texture...</code></pre>
+
+</details>
 
 ## Whimsical macro shot of three kittens dancing on a breakfast plate
 

@@ -1,9 +1,42 @@
 # Nature video prompts
 
-17 source-linked prompts, newest ImgLume records first.
+18 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young woman strolling in a botanical garden – 30s documentary style video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091103586969117072)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `nature`
+- **ImgLume record:** [3559](https://imglume.com/prompt/3559)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ff09a096-6806-42b2-bf68-5ec5a8fa293b/8a92d06d-614c-4bba-b198-19b0c1245641-1787419335874 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young American woman, early 20s, flowy floral sundress, wide-brim sun hat, hair down in loose waves, small film camera around her neck, calm curious personality.
+Location: Public botanical garden, mid-morning. Winding gravel paths, blooming flower beds, a small wooden bridge over a pond, soft dappled sunlight through trees. No crowds, no commercial elements.
+Visual Style: Ultra-realistic documentary realism, soft exploratory feeling, warm dappled natural light.
+Camera Style: Early 2000s DV camcorder, handheld gentle drift, autofocus adjusting between flowers and her face, warm faded pastel tones, soft grain. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She walks slowly along the gravel path, admiring rows of tulips.
+00:03–00:06 → She crouches down, then snaps a photo with her film camera.
+00:06–00:09 → She turns to camera saying "I could stay here all day honestly," smiling.
+00:09–00:12 → She continues walking, reaching the small wooden bridge.
+00:12–00:15 → She pauses at the railing, looking down at koi fish in the pond.
+00:15–00:18 → She points excitedly at a large orange fish swimming by.
+00:18–00:21 → She leans against the railing, enjoying the quiet moment.
+00:21–00:24 → A butterfly lands nearby; she watches it, holding her breath.
+00:24–00:27 → It flies off; she laughs softly, delighted by the moment.
+00:27–00:30 → She looks at camera saying "okay, this was such a good idea," smiling as she walks on.
+Audio: Birds chirping, faint water trickling, wind through leaves, distant footsteps on gravel. Her dialogue as noted above. No music.
+Goal: A calm, delightful garden stroll moment reflective, warm, genuine.</code></pre>
+
+</details>
 
 ## Handheld Home-Video Vlog Picking Strawberries in a Countryside Garden
 

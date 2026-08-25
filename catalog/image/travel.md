@@ -1,9 +1,306 @@
 # Travel image prompts
 
-38 source-linked prompts, newest ImgLume records first.
+47 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Miniature 3D Travel Illustration of \[CITY/COUNTRY\] on Paper
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091744246021992669)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3719](https://imglume.com/prompt/3719)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac900c28-c09a-46aa-a0f2-7b7cd51ecaff/75151642-e74a-4585-aee3-b3b6f7a96e9e-1787568359208 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ac900c28-c09a-46aa-a0f2-7b7cd51ecaff/196c1e79-273c-4e4c-b7fb-05fea116d2f7-1787568359208 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ac900c28-c09a-46aa-a0f2-7b7cd51ecaff/16e92dbf-0e5f-4004-b10e-6f0a25bcb55a-1787568359208 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming miniature 3D travel illustration on a clean white textured paper background, inspired by a handcrafted paper-cut souvenir postcard. Build a small floating city diorama featuring the iconic landmarks and cultural symbols of [CITY/COUNTRY] arranged together on a narrow elevated stone-and-brick platform, with a soft watercolor-painted patch of blue water underneath. Include recognizable local architecture, monuments, transportation, trees, street lamps, flags, small signs, and a few tiny people, all rendered as detailed handcrafted miniature models. Add a small airplane flying overhead with a playful dotted flight path, simple hand-drawn clouds and birds in the surrounding negative space. Use soft pastel colors, subtle warm lighting, delicate shadows, realistic miniature textures, paper-cut edges, handcrafted clay-and-paper aesthetic, whimsical yet sophisticated travel-poster design, lots of clean white negative space, centered composition, adorable collectible souvenir aesthetic. Add elegant handwritten-style text at the bottom reading “[CITY] ”. Vertical 4:5 composition, highly detailed, polished, clean, nostalgic, premium travel illustration, no clutter, no photorealistic background.</code></pre>
+
+</details>
+
+## Premium vertical travel artwork prompt
+
+- **Original source:** [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2091711340666568868)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3688](https://imglume.com/prompt/3688)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a265a031-a1e7-42ae-acf5-b1d71666400e/f8483555-4289-41f9-8af0-35370b3e8090-1787549484711 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a265a031-a1e7-42ae-acf5-b1d71666400e/56479516-a0a7-435f-b6b7-35debd1d2c32-1787549484711 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a265a031-a1e7-42ae-acf5-b1d71666400e/35f574bf-a950-43ab-83b1-1a176ab3027c-1787549484711 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a265a031-a1e7-42ae-acf5-b1d71666400e/b70bbfef-0d41-45ce-b809-85009921c7d4-1787549484711 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical contemporary travel artwork featuring [CITY NAME], [COUNTRY], transformed into a serene, sophisticated and collectible editorial travel landscape.
+
+Build the entire composition around the unique identity of [CITY NAME]. Naturally integrate its most recognizable combination of landscape, architecture, culture, streets, nature, waterfront or mountains, depending on what genuinely defines the city. The scene should feel like one cohesive environment rather than a collage of separate landmarks.
+
+In the background, create an atmospheric sense of place using [CITY'S SIGNATURE LANDSCAPE — e.g. coastline, mountains, river, desert, forest, skyline, historic district], with soft depth, subtle haze and elegant natural lighting.
+
+In the foreground, introduce refined simplified architectural forms inspired by [CITY'S HISTORIC / CULTURAL ARCHITECTURE]. Include characteristic rooftops, facades, streets, balconies, walls, pathways and local textures. Add subtle vegetation and a few tiny human silhouettes naturally interacting with the environment, keeping them understated and non-dominant.
+
+Make the visual identity unmistakably [CITY NAME], but avoid turning the artwork into a landmark collage. Every element should flow naturally into the surrounding landscape.
+
+Use a sophisticated, slightly desaturated palette inspired by the destination, combining warm ivory, soft beige, muted earth tones, gentle architectural colors and subtle environmental blues/greens. Keep the entire palette harmonious, refined and luxurious.
+
+Place the entire landscape above a calm glass-like reflective surface, creating delicate vertical reflections of the architecture, landscape and major visual elements. Keep the reflections soft, atmospheric and slightly faded.
+
+Add extremely subtle translucent geometric forms around the borders to create a contemporary gallery-art aesthetic without distracting from the destination.
+
+Use generous negative space, atmospheric haze, diffused natural light, delicate shadows, fine architectural linework, tactile paper grain and restrained watercolor-and-gouache textures blended with sophisticated modern digital illustration.
+
+At the top, add elegant magazine typography:
+
+[CITY NAME]
+[SHORT POETIC CITY TAGLINE]
+No. 05 — 2026
+
+Typography should be small, refined, widely spaced, minimal and perfectly aligned.
+
+Avoid anime aesthetics, excessive cultural symbols, clutter, photorealistic collage, generic stock imagery, oversized landmarks, excessive decoration and oversized typography.
+
+The final artwork should feel like a rare collectible luxury travel print — tranquil, artistic, timeless, sophisticated and instantly recognizable as [CITY NAME].
+
+Important: Prioritize the authentic visual character of the chosen city. Do not force elements that do not belong there. Adapt the architecture, landscape, vegetation, atmosphere and color palette specifically to the city.</code></pre>
+
+</details>
+
+## Luxurious Dreamy Country Travel-Art Collection Prompt
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091391283063361558)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3639](https://imglume.com/prompt/3639)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/1f13d9a0-a6cc-4d05-9920-bcfb8238318a-1787492846290 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/1d66e958-be5d-4b85-aa06-72c8bdc8b1a5-1787492846290 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/0633e9b9-8977-4de7-9399-60325b1ab214-1787492846290 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/4c9446ca-d4ea-463d-a842-93d85c03561b-1787492846290 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.</code></pre>
+
+</details>
+
+## Layered Papercut Travel Poster Prompt for {CITY}
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091382710329848133)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3636](https://imglume.com/prompt/3636)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eeb24ec5-329b-425d-b2d8-c774d447e58c/e1932e7c-338c-4355-9081-3df316be92d8-1787492778531 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eeb24ec5-329b-425d-b2d8-c774d447e58c/defad4e2-d503-456f-892b-adf790af51d1-1787492778531 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/eeb24ec5-329b-425d-b2d8-c774d447e58c/9e9b893a-6ea4-41f1-80da-a74efa5699f1-1787492778531 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/eeb24ec5-329b-425d-b2d8-c774d447e58c/ef2890a7-37f5-454b-a03c-87000016b32a-1787492778531 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CITY = {CITY}
+
+Create a sophisticated vertical 3:4 travel poster of {CITY} as a premium layered papercut sticker illustration.
+
+Use only the city name as input. Identify its country, architecture, geography, visual identity, and 3–5 iconic landmarks genuinely located in {CITY}. Select 1–2 Hero Landmarks + 2–3 Secondary Landmarks based on recognizability, cultural importance, uniqueness, and strong association with the city. Never invent or borrow landmarks.
+
+Landmark accuracy: Preserve authentic silhouettes, proportions, rooflines, towers, domes, arches, bridges, façades, and defining structures. Keep approximately 70% landmark identity / 30% stylization.
+
+Composition: Vertical 3:4. Place the main cityscape in the lower 50–60%, leaving the upper 40–50% clean and spacious. Put only {CITY} at the upper center in uppercase sans-serif with wide letter spacing. No subtitle, slogan, labels, or extra text. Build one cohesive cityscape with authentic buildings, streets, water, hills, vegetation, clouds, bridges, and environmental elements appropriate to {CITY}.
+
+Papercut style: Handcrafted layered matte cardstock, clean simplified shapes, rounded cut edges, subtle paper thickness, visible fibers, slight imperfections, and soft contact shadows. Premium tactile paper artwork—not glossy CGI, plastic, photorealism, or heavy 3D.
+
+White sticker border: Mandatory thick white/ivory die-cut outline around major landmarks, buildings, bridges, vegetation, vehicles, landforms, and selected clouds. Keep it smooth, continuous, rounded, and approximately 2–4% of object width. Use subtle contact shadows. Do not heavily outline tiny details or title text.
+
+Color: Create a refined 6–10 color palette inspired by {CITY}. Use sophisticated muted tones such as dusty blue, teal, mint, coral, terracotta, warm sand, cream, off-white, and restrained dark accents. Adapt naturally to the city; avoid neon and excessive saturation.
+
+Style: Premium papercut illustration, layered cardstock collage, collectible travel sticker, Scandinavian editorial design, contemporary architectural poster, clean geometric simplification, museum-quality craftsmanship.
+
+Avoid: inaccurate landmarks, borrowed landmarks, generic skylines, extreme abstraction, disconnected stickers, inconsistent outlines, childish/kawaii styling, photorealism, glossy surfaces, heavy extrusion, dramatic shadows, excessive gradients, neon colors, vintage filters, overcrowding, micro-detail, and unnecessary text.
+
+FINAL: Create an elegant, recognizable {CITY} cityscape that reads instantly at thumbnail size, with authentic landmarks, cohesive layered paper construction, refined colors, and bold white die-cut borders.</code></pre>
+
+</details>
+
+## Highly detailed photorealistic miniature Rio de Janeiro travel-poster diorama
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2091408386466214031)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3633](https://imglume.com/prompt/3633)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/cf7a5fae-fdbe-4858-b2a9-731d852c99de-1787490670560 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/37ec3c2a-88dc-44f2-94ba-04583d673c01-1787490670560 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/6bafe02c-3a2b-4868-8c34-f01c05e5220c-1787490670560 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/62800c79-df01-4c9c-8749-f5351c9239cc-1787490670560 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
+
+In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama.
+
+Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective.
+
+Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations.
+
+Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette.
+
+The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.</code></pre>
+
+</details>
+
+## Japan in Your Hand — Where Tradition Meets Tomorrow
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2091339028989964447)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3615](https://imglume.com/prompt/3615)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e8428602-a9e5-4ed2-a444-e0b963b6d16d/8c7ea4d5-62ad-4e19-b5e3-a20035ea884b-1787476029742 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, scroll-stopping square travel artwork featuring **Japan** as an enchanting miniature world emerging from a beautifully designed **Japan Rail Pass** held naturally between a person's fingers.
+
+The travel pass should be positioned prominently in the foreground with elegant textured ivory paper, subtle traditional Japanese wave patterns, refined typography reading **JAPAN RAIL PASS**, a small cherry blossom emblem, minimal train iconography, and tasteful printed travel details.
+
+From an opening in the card, create a highly detailed three-dimensional miniature Japanese landscape that appears to physically extend out of the pass.
+
+A sleek white-and-blue **Shinkansen bullet train** should emerge dynamically toward the viewer along realistic railway tracks, creating strong depth and perspective.
+
+Behind it, feature a magnificent traditional **five-story Japanese pagoda** surrounded by soft pink cherry blossoms.
+
+In the distance, show majestic snow-capped **Mount Fuji** beneath a clear soft-blue sky.
+
+Include a beautiful vermilion **torii gate** near calm water, tiny tourists photographing the scenery, a stone pedestrian walkway, traditional Japanese architecture, glowing paper lanterns, and a charming miniature street-food cart.
+
+Surround the main photorealistic miniature scene with several elegant hand-drawn black ink travel sketches on the clean cream background.
+
+Include sketches of Mount Fuji, a torii gate, a pagoda, and the Shinkansen with tasteful handwritten labels such as:
+
+“Mount Fuji”
+
+“Torii Gate”
+
+“Pagoda”
+
+“Shinkansen”
+
+Keep the sketches delicate and secondary so they frame the main scene rather than compete with it.
+
+Visual style: premium editorial travel advertising, hyperrealistic miniature photography, handcrafted diorama aesthetic, subtle whimsical storytelling, luxury travel poster, realistic paper textures, finely detailed architecture, realistic human miniatures, cinematic depth.
+
+Lighting: warm soft natural morning light with gentle golden highlights, soft shadows, realistic reflections, subtle atmospheric haze.
+
+Camera: premium full-frame commercial photography, 50mm lens aesthetic, slightly elevated three-quarter perspective, shallow depth of field, crisp focus on the travel pass and miniature world, softly blurred background.
+
+Composition: strong foreground-to-background depth, train leading the viewer into the scene, balanced negative space around the card, clean luxurious cream background, visually rich but uncluttered.
+
+Color palette: ivory, warm beige, soft cherry-blossom pink, vermilion red, natural wood brown, deep roof charcoal, Fuji snow white, subtle blue accents.
+
+Make the image feel imaginative, sophisticated, collectible, highly detailed and visually surprising.
+
+Avoid copying any existing Venice or London travel-card composition. Create an original Japanese arrangement, original card design, original landmark placement and unique perspective.
+
+No watermarks, no logos from real travel companies, no malformed architecture, no distorted hands, no duplicate people, no random text, no spelling mistakes.
+
+Aspect ratio: 1:1.
+
+Ultra-detailed, photorealistic, premium commercial quality, cinematic miniature realism, maximum texture detail.</code></pre>
+
+</details>
+
+## Cinematic travel photograph of a cheerful young man on a red London double-decker bus
+
+- **Original source:** [@Aqib__786Ai on X](https://x.com/Aqib__786Ai/status/2091391376822808772)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3609](https://imglume.com/prompt/3609)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/13793629-2ea7-4b32-a43c-704ce989ef6d/33e29c0f-70aa-4ba1-942a-9e8eab8d7883-1787469756864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly realistic cinematic travel photograph of a cheerful young man with a unique face enjoying the view from the open doorway of a classic red London double-decker bus. He is wearing round sunglasses, a beige casual jacket, dark green knitted sweater, blue jeans, and casual shoes. He is smiling naturally while holding the brass handrail with one hand and extending his other arm outward, enjoying the atmosphere of London.
+
+The scene takes place in central London, England, with Big Ben and the Palace of Westminster clearly visible in the background. Busy London street with iconic red double-decker buses, black taxis, pedestrians, traffic lights, historic architecture, and wet pavement. Overcast British sky with soft natural daylight, cinematic lighting, realistic reflections, shallow depth of field, dynamic composition, realistic skin and clothing textures, professional travel photography, ultra-detailed, photorealistic, 4K, natural colors, no text, no watermark.</code></pre>
+
+</details>
+
+## Premium vertical travel poster of \[COUNTRY\] as a surreal topographic map
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2091372939182772354)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `travel`
+- **ImgLume record:** [3607](https://imglume.com/prompt/3607)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aa40d425-29a3-451a-bfca-ae01884a96d0/f2500000-62a7-45fe-8ae5-8e3b928c2f30-1787469715159 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 conceptual travel poster of [COUNTRY], designed as a surreal living topographic map.
+
+The entire country is shaped as a beautifully sculpted 3D landscape, viewed from a slightly elevated angle. Mountains rise naturally from the map, rivers flow through valleys, forests become miniature textured terrain, cities glow subtly, and tiny roads connect important regions.
+
+Instead of placing landmarks separately, seamlessly integrate iconic architecture directly into the geography — a famous monument emerging from a mountain valley, traditional villages nestled beside rivers, tiny markets and people scattered across the landscape.
+
+Use soft pastel earth tones, natural paper textures, delicate shadows, miniature craftsmanship, atmospheric depth, and cinematic morning light.
+
+The country outline must remain clearly recognizable while feeling like a real miniature world discovered from above.
+
+Extremely clean composition, sophisticated editorial travel design, no flags, no collage, no excessive text.
+
+Add only the country name in elegant typography at the bottom.
+
+Mood: poetic, mysterious, handcrafted, premium, unforgettable.</code></pre>
+
+</details>
+
+## Premium 4:5 vertical contemporary travel artwork of \[COUNTRY\]
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2091188015427424629)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3572](https://imglume.com/prompt/3572)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f1f5c1a6-4135-4c2c-845c-edcbbf7b1467/dd9bab13-a5c4-4d2b-908b-99f387208dc9-1787438215335 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f1f5c1a6-4135-4c2c-845c-edcbbf7b1467/86c4f131-587b-4d07-b85e-e956f23982d4-1787438215335 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium 4:5 vertical contemporary travel artwork featuring [COUNTRY] reimagined as a refined, atmospheric editorial landscape.
+
+Instead of presenting separate landmarks, blend the visual identity of [COUNTRY] into one cohesive dreamlike environment. Use the country’s most recognizable natural scenery as the distant backdrop, softened by elegant atmospheric perspective. In the middle and foreground, introduce one or two signature architectural landmarks of [COUNTRY] as beautifully simplified sculptural forms, maintaining their recognizable silhouettes while using clean geometric detailing.
+
+Naturally weave in subtle cultural cues throughout the environment — native vegetation, distinctive rooftops, traditional streets, local textures, small decorative elements and a few tiny human figures. These details should feel organically embedded into the landscape rather than arranged as individual objects.
+
+Use an elevated contemporary color palette built around warm cream, soft sand, faded blush, powder blue, muted sage, warm gray and delicate charcoal. Keep everything slightly desaturated, sophisticated and harmonious.
+
+Place the entire scene above a calm, mirror-like glass surface that gently reflects the architecture, vegetation and distant landscape. Keep reflections soft, slightly blurred and artistic rather than perfectly symmetrical. Add a few barely visible translucent shapes and fine linear forms near the borders to create a subtle modern gallery-poster aesthetic.
+
+The composition should feel spacious and tranquil, with strong visual balance, generous negative space and a softly defined horizon. Incorporate diffused light, atmospheric mist, delicate cast shadows, subtle grain, tactile paper texture and elegant watercolor-and-gouache-inspired brushwork combined with precise contemporary digital illustration.
+
+At the top, include understated luxury magazine typography:
+
+[COUNTRY]
+A VISUAL PORTRAIT OF [COUNTRY]
+No. 05 — 2026
+
+Keep the typography minimal, thin, widely tracked and perfectly centered, resembling an exclusive international design magazine.
+
+Avoid clutter, excessive ornamentation, harsh colors, overly detailed scenery, photorealistic collage effects, giant typography and generic stock-travel aesthetics.
+
+The final artwork should feel like a collectible contemporary art print — sophisticated, peaceful, cinematic and instantly evocative of [COUNTRY].</code></pre>
+
+</details>
 
 ## Layered Paper-Cut-Collage Travel Poster
 

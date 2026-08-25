@@ -1,9 +1,46 @@
 # Architecture video prompts
 
-6 source-linked prompts, newest ImgLume records first.
+7 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Residential Complex CGI Video
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2091469283901784073)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `architecture`, `cinematic`
+- **ImgLume record:** [3638](https://imglume.com/prompt/3638)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e534bcbb-44d6-4cf4-ac78-9d23b487de2b/d069a8b4-5d39-4f25-96c5-173102ae9c65-1787492826018 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e534bcbb-44d6-4cf4-ac78-9d23b487de2b/61b7dead-806d-4796-a564-ddfdf8d3914a-1787492826018 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>DURATION: 20 seconds
+ASPECT RATIO: 16:9
+...
+...
+Premium Residential Complex — CGI Video Prompt
+
+Create a dynamic 10-second ultra-premium photorealistic architectural CGI video on a pure infinite black background. No people.
+
+Start with a luxurious modern residential tower that looks expensive and premium. Move toward one floor and open the facade as a realistic architectural cutaway. Reveal a corridor with 6–8 apartment doors. The first five remain neutral; the sixth and additional doors receive a subtle red highlight to emphasize more than five apartments on the floor.
+
+Move inside one premium apartment. A physical measuring rod extends from floor to ceiling and shows that the ceiling is below the physical 3 m mark. Highlight only the missing height with subtle red light.
+
+Pull back to show both issues together: many apartments on the floor and the ceiling below 3 m.
+
+Close the cutaway and return to the luxurious exterior and premium entrance materials, emphasizing the expensive presentation. Transition to a stack of money and an apartment key.
+
+Finish with one clean architectural composition: the premium building, the cutaway floor with extra doors highlighted red, the apartment with the ceiling measurement, and money with the key in the foreground.
+
+Use high-end photorealistic CGI, realistic glass, stone, wood, metal, reflections, premium studio lighting, smooth architectural camera movement, and clean transitions. Red is used only for the two highlighted issues.
+
+No text, subtitles, logos, UI, diagrams, people, city, streets, scenery, music, or voice-over. Only “5” and “3 m” may appear as physical measurement markings. Use subtle realistic object sounds only.</code></pre>
+
+</details>
 
 ## Breathing Skyscraper Cinematic Video
 

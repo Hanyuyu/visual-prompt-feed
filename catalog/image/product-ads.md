@@ -1,9 +1,248 @@
 # Product Ads image prompts
 
-19 source-linked prompts, newest ImgLume records first.
+22 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic chocolate advertisement
+
+- **Original source:** [@Urwa_345 on X](https://x.com/Urwa_345/status/2091899842457206792)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `product-ads`
+- **ImgLume record:** [3748](https://imglume.com/prompt/3748)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bd94c4bd-f982-43a5-b53f-7a1c7081a379/0b00f1da-3ba0-4f60-beb0-ec7c7ade62c0-1787589529158 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bd94c4bd-f982-43a5-b53f-7a1c7081a379/bc62905f-a1a9-4415-a27e-b65ef88486d1-1787589529158 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic chocolate advertisement featuring a gigantic premium chocolate bar standing vertically in the middle of a beautiful snowy mountain valley. The chocolate bar is dramatically oversized, towering above the surrounding landscape. Rich glossy chocolate texture with realistic details and elegant premium packaging. Hundreds of tiny people stand nearby taking photographs while snow-covered mountains rise dramatically in the background. Pieces of chocolate appear to float around the giant product as if gravity has stopped. Warm golden sunlight breaks through the clouds, creating a magical luxurious glow. Cinematic atmosphere, realistic snow reflections, highly detailed textures, photorealistic product photography, premium food advertising aesthetic, 8K, sharp focus, vertical 9:16 composition, realistic proportions, no distortion, no watermark, no extra text</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic product advertisement of giant deep-red lip essence tube on rainy city boulevard
+
+- **Original source:** [@Its_Saad_kkk on X](https://x.com/Its_Saad_kkk/status/2091748835328512255)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3700](https://imglume.com/prompt/3700)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/76b808cf-d7e3-46b5-ae55-77cd240269e7/ae839747-96cc-4672-9be5-f0f9e4ed5835-1787553791063 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/76b808cf-d7e3-46b5-ae55-77cd240269e7/39598da9-a8e1-43fd-a986-92d6a4ddda72-1787553791063 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic product advertisement featuring a giant glossy deep-red lip essence tube standing vertically in the center of a busy grand city boulevard after rain. The product is dramatically oversized, towering above the surrounding buildings and vehicles. Minimal premium packaging with bold white “LPSS” branding and smaller text reading “LIP ESSENCE – NATURAL CARE – Moisturizing Treatment.” Wet reflective road surface with realistic reflections, cars driving around the product, pedestrians walking and photographing it with smartphones. Elegant historic European-style architecture on both sides, beautiful golden-domed cathedral visible in the background, dramatic blue sky filled with soft golden sunset clouds, warm sunlight creating a luxurious glow. Highly detailed realistic textures, accurate product reflections, cinematic lighting, shallow atmospheric depth, photorealistic photography, premium beauty campaign aesthetic, 8K, sharp focus, realistic proportions, vertical composition, no distortion, no extra text, no watermark.</code></pre>
+
+</details>
+
+## Luxury Handbag Fashion Campaign Prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2091090991159939387)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3556](https://imglume.com/prompt/3556)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/17e1195a-4423-4201-bf53-9a656e17c287/b1de64e8-8e13-43e6-97f4-faadee1d68e6-1787417315864 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/17e1195a-4423-4201-bf53-9a656e17c287/f39152d6-0e03-4acb-a660-3fd6e41787b4-1787417315864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "input": {
+ "product_name": "{{BAG_NAME_OPTIONAL}}",
+ "reference_image": "{{UPLOAD_BAG_REFERENCE_OPTIONAL}}",
+
+ "primary_rule": "The supplied product name or reference image is the single source of truth for the handbag. Every creative decision must be derived from the handbag's identity, design language, color, material, silhouette, hardware, proportions, intended use and overall luxury character."
+ },
+
+ "product_analysis": {
+ "if_reference_image_exists": {
+ "instruction": "Analyze the uploaded handbag before generating the scene.",
+ "extract": [
+ "exact silhouette",
+ "bag category",
+ "dimensions and proportions",
+ "primary color",
+ "secondary colors",
+ "material",
+ "texture",
+ "finish",
+ "hardware color",
+ "hardware design",
+ "handle structure",
+ "strap structure",
+ "closure",
+ "logo or emblem",
+ "stitching",
+ "distinctive design elements",
+ "overall aesthetic",
+ "luxury positioning"
+ ],
+ "priority": "Preserve the recognizable identity of the supplied handbag."
+ },
+
+ "if_only_product_name_exists": {
+ "instruction": "Infer or create the most appropriate luxury handbag design associated with the supplied product name. Do not invent unrelated design characteristics."
+ }
+ },
+
+ "creative_direction": {
+ "derived_from_product": true,
+
+ "instruction": "Once the handbag is analyzed, automatically build the entire fashion campaign around its identity. Do not use a predetermined model styling, pose, environment, composition or handbag placement.",
+
+ "derive": {
+ "model_styling": "Select clothing, hairstyle, makeup and accessories that complement the handbag.",
+ "color_palette": "Build the surrounding palette from the handbag's colors while maintaining a predominantly white, ivory and cream luxury aesthetic where visually appropriate.",
+ "pose": "Choose a sophisticated editorial pose that naturally showcases the handbag.",
+ "handbag_position": "Automatically determine the most attractive product-focused placement.",
+ "environment": "Create a luxury environment whose architecture, textures and atmosphere complement the handbag.",
+ "lighting": "Adapt lighting to reveal the handbag's material, texture, shape and hardware.",
+ "camera": "Choose the most flattering fashion-advertising perspective for the specific handbag.",
+ "composition": "Build the composition around the handbag as the hero product."
+ }
+ },
+
+ "model": {
+ "type": "high-fashion female model",
+ "appearance": "striking, elegant, sophisticated",
+ "styling_rule": "Automatically style the model according to the handbag.",
+ "clothing_rule": "Create an elegant white or ivory outfit unless another neutral variation better complements the handbag.",
+ "accessories_rule": "Use only accessories that enhance rather than compete with the handbag.",
+ "expression": "confident, effortless, sophisticated"
+ },
+
+ "pose": {
+ "automatic": true,
+ "instruction": "Generate a natural high-fashion editorial pose specifically chosen to showcase the supplied handbag.",
+ "requirements": [
+ "handbag remains clearly visible",
+ "handbag is never obscured by the model",
+ "natural body proportions",
+ "elegant fashion posture",
+ "knees remain covered",
+ "no awkward anatomy",
+ "no exaggerated posing"
+ ]
+ },
+
+ "handbag": {
+ "priority": "absolute hero product",
+ "source": "supplied reference image or product name",
+ "instruction": "The handbag must remain the most important visual element after the model. Preserve all recognizable product characteristics derived from the input.",
+ "placement": "automatically determined from the bag's silhouette and campaign composition",
+ "presentation": "premium luxury product photography",
+ "detail": "highly realistic material, stitching, construction and hardware"
+ },
+
+ "environment": {
+ "automatic": true,
+ "instruction": "Design the environment specifically around the supplied handbag rather than using a generic background.",
+ "style": "minimal luxury editorial",
+ "palette": "predominantly white, ivory and cream with subtle tones derived from the handbag",
+ "background_images": false,
+ "clutter": "minimal"
+ },
+
+ "editorial_typography": {
+ "brand_text": "{{BAG_NAME}}",
+ "instruction": "Use the supplied bag name as the primary oversized editorial text in the background.",
+ "placement": "behind the model at approximately head level",
+ "style": "large refined luxury-fashion typography",
+ "depth": "subtle raised 3D lettering with realistic shadows",
+ "color": "white, ivory or a subtle tonal variation that remains elegant against the background",
+
+ "secondary_quote": {
+ "automatic": true,
+ "length": "2–3 words",
+ "instruction": "Generate a fresh, eye-catching luxury-fashion phrase that complements the specific handbag. Do not use generic filler and do not copy the examples.",
+ "examples_for_style_reference_only": [
+ "Own The Moment",
+ "Made Iconic",
+ "Quiet Power",
+ "Stay Untouchable"
+ ]
+ }
+ },
+
+ "lighting": {
+ "automatic": true,
+ "instruction": "Adapt the lighting specifically to the handbag's material and finish.",
+ "style": "cinematic luxury fashion photography",
+ "priority": [
+ "reveal handbag texture",
+ "highlight hardware",
+ "create dimensionality",
+ "maintain natural skin",
+ "produce soft premium shadows"
+ ]
+ },
+
+ "camera": {
+ "automatic": true,
+ "instruction": "Select the camera angle, focal length and framing that best present the specific handbag.",
+ "style": "high-end fashion campaign photography",
+ "perspective": "natural proportions",
+ "composition": "product-focused editorial"
+ },
+
+ "overall_aesthetic": {
+ "fixed": [
+ "luxury",
+ "editorial",
+ "photorealistic",
+ "cinematic",
+ "minimal",
+ "premium",
+ "white-led visual identity"
+ ],
+
+ "dynamic": [
+ "model styling",
+ "pose",
+ "handbag placement",
+ "environment",
+ "lighting",
+ "camera angle",
+ "secondary colors",
+ "fashion styling",
+ "typography treatment"
+ ]
+ },
+
+ "negative_prompt": [
+ "generic handbag",
+ "wrong handbag design",
+ "altered handbag silhouette",
+ "incorrect hardware",
+ "incorrect material",
+ "duplicate handbag",
+ "multiple handbags",
+ "obscured handbag",
+ "generic model styling",
+ "generic pose",
+ "busy background",
+ "background photographs",
+ "visible knees",
+ "awkward anatomy",
+ "extra fingers",
+ "plastic skin",
+ "cheap fashion aesthetic",
+ "random typography",
+ "misspelled product name",
+ "flat pasted text",
+ "low-detail handbag"
+ ],
+
+ "final_instruction": "Treat the supplied handbag name or reference image as the creative source of truth. Analyze the product first, then automatically generate the model, clothing, pose, handbag placement, environment, color relationships, lighting, camera composition and editorial typography around that specific handbag. Keep the overall visual language luxurious, predominantly white and fashion-editorial, but never allow the fixed aesthetic to override the handbag's actual identity."
+}</code></pre>
+
+</details>
 
 ## Premium Cold-Pressed Fruit Juice Product Commercial Storyboard
 

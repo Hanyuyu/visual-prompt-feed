@@ -1,9 +1,267 @@
 # Product Ads video prompts
 
-78 source-linked prompts, newest ImgLume records first.
+85 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium cinematic product commercial of stainless-steel cooking pot
+
+- **Original source:** [@Soaima_Ai on X](https://x.com/Soaima_Ai/status/2091205471755763852)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3649](https://imglume.com/prompt/3649)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/627529c1-1902-40d9-93aa-3dad927a2b37/2db0d71f-4f9e-43f0-9e7c-2a8b825e5c0f-1787499070516 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/627529c1-1902-40d9-93aa-3dad927a2b37/f545bc54-e696-4fa2-9ff0-10687bf266b9-1787499070516 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cinematic product commercial using the uploaded image as the exact visual reference. Show the same stainless-steel cooking pot with its transparent glass lid, elegant golden handles, and golden lid knob placed on a clean modern kitchen countertop. Keep the pot’s original shape, design, colors, golden details, and branding exactly consistent with the reference image.
+
+Start with a slow cinematic camera push-in toward the pot, with soft studio lighting reflecting beautifully across the polished stainless-steel surface. Slowly move the camera from left to right to highlight the golden side handles and reflective body. Add a gentle close-up of the glass lid and golden knob, followed by a smooth 360-degree product rotation. The modern kitchen background remains softly blurred with realistic depth of field.
+
+Use realistic reflections, subtle highlights, premium commercial lighting, smooth camera motion, photorealistic textures, elegant luxury kitchen atmosphere, 4K/8K quality, sharp product details, professional cookware advertisement style. Keep the original logo/text visible and unchanged. No extra objects, no distortion, no changes to the product design. Vertical 9:16 format, 8–10 seconds.</code></pre>
+
+</details>
+
+## Premium Fast-Food TVC: From Potato to Golden Crunch
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091472894727712866)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `food-drink`, `product-ads`
+- **ImgLume record:** [3646](https://imglume.com/prompt/3646)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60584ea7-a99a-433d-9adf-0f5316895a5b/dfcfad64-ac6c-4b70-8ccc-f25bc31328a0-1787494968780 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/60584ea7-a99a-433d-9adf-0f5316895a5b/2ce827a0-c02c-4cae-a633-bd8afb37a15c-1787494968780 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 10s vertical 9:16 premium fast-food TVC, ultra-realistic 8K, cinematic food photography, no visible people, hands only when necessary. Same potato followed through transformation.
+
+CONCEPT: “FROM POTATO → TO GOLDEN CRUNCH”
+RAW → SLICE → SEASON → FRY → GOLDEN → CRISP → HERO
+
+01 | 0–1.2s — RAW
+Fresh whole potato rolls onto dark stone surface, natural skin texture and moisture visible. 100mm macro, fast push-in.
+
+02 | 1.2–2.4s — SLICE
+Potato rapidly transforms into perfectly thin slices, knife cutting through with realistic texture. 85mm macro, dynamic tracking.
+
+03 | 2.4–3.6s — SEASON
+Fine seasoning rains over potato slices, particles suspended dramatically in warm light. 100mm macro, slow motion.
+
+04 | 3.6–5s — FRY
+Seasoned slices drop into hot oil, explosive bubbles surround them, steam and droplets captured in high-speed slow motion. 50mm macro.
+
+05 | 5–6.3s — GOLDEN
+Pale potato slices transform into rich golden crispy chips, bubbling edges and tiny blistered textures visible. 100mm macro, rotating match cut.
+
+06 | 6.3–7.5s — CRISP
+Fresh chip lifted from fryer, oil droplets falling, one edge cracks naturally revealing thin crunchy layers. 100mm macro, slow-motion pull-up.
+
+07 | 7.5–9s — HERO
+Pile of golden crispy chips lands into a premium bowl, crumbs falling naturally around it. Smooth dolly-in, shallow depth of field.
+
+08 | 9–10s — PACKSHOT
+Premium branded chips bowl centered against dark cinematic background, warm golden rim light, crisp texture dominating frame. Text: “FROM POTATO → TO CRUNCH.”
+
+CAMERA: Macro, high-speed, push-in, tracking, rack focus, slow motion, match cuts, smooth dolly.
+
+STYLE: Premium global snack-food commercial, warm golden lighting, rich shadows, realistic potato texture, seasoning particles, oil bubbles, steam, ultra-crispy surface.
+
+NEGATIVE: No faces, restaurant, CGI-looking food, burnt chips, excessive oil, impossible physics, floating food, distorted potatoes, duplicate objects, deformed packaging, wrong branding, blurry food.
+
+OUTPUT: One professional 8-panel 9:16 storyboard sheet showing seamless transformation from raw potato to irresistible crispy chips.</code></pre>
+
+</details>
+
+## Premium Sparkling Fruit Drink Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091388744599486491)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3613](https://imglume.com/prompt/3613)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3a624ded-0380-422d-9786-33a76cf6c0e0/37f2bf4b-0007-48c7-a1f4-d4e36f61926c-1787475972687 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3a624ded-0380-422d-9786-33a76cf6c0e0/20e79dac-d868-4304-a82f-780969d56864-1787475972687 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Sparkling Fruit Drink Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury beverage product campaign
+• 8 cinematic storyboard scenes
+• Product remains the central hero
+• Premium advertising agency presentation
+
+HEADER:
+• Modern luxury typography
+• Information cards:
+
+Duration: 10 Seconds
+
+Style: Cinematic Beverage Commercial
+
+Product: Sparkling Fruit Drink
+
+Audio: Fizz + Refreshing Liquid ASMR
+• Why This Style Works section
+• Silver, citrus orange and deep blue aesthetic
+• Minimal premium decorative accents
+
+STORYBOARD:
+
+1. Chilled sparkling drink bottle covered in condensation
+
+2. Bottle cap opening with a burst of carbonation
+
+3. Extreme macro shot of bubbles racing through the drink
+
+4. Sparkling drink pouring into a crystal glass
+
+5. Ice cubes falling into the glass in slow motion
+
+6. Fresh citrus slices creating a dramatic splash
+
+7. Macro shot of condensation and carbonation bubbles
+
+8. Final hero bottle and glass surrounded by frozen splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+High-speed liquid photography, extreme macro, frozen splash capture, slow-motion pour, dramatic backlighting, condensation close-up, cinematic product hero framing.
+
+STYLE:
+Ultra-realistic beverage advertising, realistic carbonation, detailed water droplets, dynamic liquid splash, premium glass reflections, studio lighting, luxury branding, commercial photography, 8K.</code></pre>
+
+</details>
+
+## AURELIA Skin Hydration Serum cinematic commercial
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2091393149805756450)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3605](https://imglume.com/prompt/3605)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bec5f2e5-5354-4e99-b08d-1af833e5cdc2/69015469-2f9d-49a4-872a-70a0bd52511c-1787469692015 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A luxury, 8K ultra-realistic cinematic skincare commercial for "AURELIA SKIN HYDRATION SERUM" shot on 35mm lens in high-end studio lighting against a dark pitch-black background.
+The video opens with a macro extreme close-up of a clear glass serum dropper filled with viscous, bubbly liquid as a pristine drop slowly forms at the tip. Cut to slow-motion liquid physics as the drop falls and creates smooth, elegant circular ripples across a reflective black surface. Reveal a centered hero shot of the frosted glass bottle with a white dropper top and crisp black typography reading "AURELIA SKIN HYDRATION SERUM" standing on a glossy mirror surface. Macro close-up shot of a gorgeous East Asian model with dewy, radiant skin as a pipette applies serum to her cheek, followed by her fingers gently massaging the glowing serum into her skin. She smiles softly at the camera, holding the product bottle beside her face in soft-focus fashion lighting. Ends on a crisp, static high-fashion shot of the product bottle centered on the dark reflective surface.
+Shot at 60fps slow motion, smooth cinematic camera pans, dramatic rim lighting, soft key light, hyper-detailed skin textures, commercial advertisement quality.</code></pre>
+
+</details>
+
+## Cinematic Ultra-Realistic Air Fryer Food Commercial Video
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2091392675912221176)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3602](https://imglume.com/prompt/3602)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac5b68aa-50db-4854-96a8-fce8456b32a6/7bb26391-8d3b-48a4-b78f-957d935de84e-1787467729098 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 14-second cinematic, ultra-realistic commercial video using the provided air-fryer reference image and storyboard as visual reference.
+Keep the same modern black air fryer, same girl, same modern kitchen, same lighting, same overall visual style and composition throughout the entire video. The girl should look consistent in every shot, with the same face, hairstyle, outfit, and appearance.
+
+0–2 seconds:
+The girl opens the air fryer drawer and places a generous portion of frozen potato French fries inside. Show a clear close-up of the fries going into the basket.
+
+2–4 seconds:
+She places several seasoned chicken leg pieces/drumsticks beside the fries in the same air-fryer basket, keeping both foods separated and clearly visible. Show a detailed top-down/close-up shot of the fries and chicken together.
+
+4–5 seconds:
+She closes the air fryer and sets the digital temperature and cooking time on the front touchscreen. Show her finger pressing the controls.
+
+5–8 seconds:
+Show the air fryer actively cooking. Use a cinematic close-up through the cooking window/interior: the French fries and chicken legs are cooking simultaneously, gradually becoming golden and crispy. Show realistic heat, gentle steam, and natural cooking movement. The fries become golden and crisp while the chicken develops a delicious roasted surface.
+
+8–10 seconds:
+The girl opens the air fryer and checks the perfectly cooked food. Capture the golden fries and juicy, crispy chicken legs in a beautiful close-up.
+
+10–12 seconds:
+She uses tongs to transfer the crispy fries and chicken leg pieces onto a clean serving plate. Arrange the fries on one side and the chicken pieces on the other. Make the food look fresh, hot, golden, crispy, and appetizing.
+
+12–14 seconds:
+Show a hero close-up of the finished plate beside the air fryer. The camera slowly moves closer to highlight the crispy fries and beautifully cooked chicken.
+
+14–15 seconds:
+The girl smiles happily while holding/looking at the finished meal. End with a premium product shot of the air fryer and plated food, with a clean commercial feeling.
+
+Visual style:
+Ultra-realistic food commercial, cinematic product advertising, warm modern kitchen lighting, realistic food textures, natural hand movements, realistic steam and heat, shallow depth of field, smooth camera movements, crisp details, premium commercial photography, 4K quality.
+
+Important: Keep the air fryer design consistent with the reference. Do not change the girl’s identity or appearance. Do not add extra people. Keep the fries and chicken cooking together in the same cooking session, and clearly show the complete process from loading → cooking → opening → plating → final delicious result. Avoid distorted hands, extra fingers, warped food, changing kitchen layout, or inconsistent product design.</code></pre>
+
+</details>
+
+## High-end 3D pink lipstick product commercial video
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2091180928265855296)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3592](https://imglume.com/prompt/3592)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f8ddeafb-c2b3-4f1e-9b0d-da98a652e0ef/1655b256-7bca-4d47-9a76-47d8455446fb-1787467628721 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-end 3D product commercial video shot in 8K, vertical 9:16 aspect ratio, macro close-up shot. A sparkling, glittery pink lipstick in a shiny rose gold metallic tube stands upright on a highly reflective glass mirror surface. Surrounding the base are fresh red whole and sliced strawberries with green leaves and clear ice cubes. Soft pink studio lighting creates bright glossy reflections. Floating water droplets, glowing magical sparkle particles, and light trails swirl around the lipstick bullet in slow motion. Dynamic depth of field, ultra-realistic texture, luxury cosmetic aesthetic.</code></pre>
+
+</details>
+
+## Cinematic action-sport eyewear commercial
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091150722448703808)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3583](https://imglume.com/prompt/3583)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0428991b-6e9d-4d39-aa42-54647e0f5106/d7aac6b9-4f48-4df1-a902-95f9860a1cf4-1787459204441 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic action-sport eyewear commercial, photorealistic, 20-second video, 30fps, 16:9, 4K, fast dynamic cuts, motion blur on quick moves, dusty warm color grade — sun-bleached orange and sandy beige tones, high contrast shadows.
+Character: Athletic man &lt;&lt;&lt;image_1&gt;&gt;&gt;, late 20s, tan skin, buzzed hair, sleeveless tactical vest over grey shirt. Product: Wraparound sport sunglasses, matte black rubberized frame, polarized dark-grey lenses, red "HEIS" logo on outer hinge.
+Environment: Open desert dirt-bike trail, dust clouds from tires, harsh midday sun, hazy distant mountains.
+Shot list:
+0-2s — Wide shot, he sprints toward parked dirt bike, dust swirling.
+2-4s — Low-angle tracking shot, swings onto bike, glasses on, engine roars.
+4-6s — Close-up, dust reflecting off polarized lenses as he revs throttle.
+6-9s — Fast tracking shot alongside bike launching forward, motion blur, jacket flapping.
+9-11s — Extreme close-up, sweat/dust on jaw, distorted trail reflection in lens.
+11-14s — Aerial-style shot, bike jumping dune, brief hang-time, dust trailing.
+14-16s — Slow-motion landing shot, dust exploding in golden backlight.
+16-18s — Close-up, bike stops, he pushes glasses up slightly, red HEIS logo catches sun.
+18-20s — Final wide shot, looks back over shoulder, dust settling, sun flare crosses frame.
+Technical notes: realistic dust/dirt physics, motion blur only on fast movement, consistent character/product identity, no text overlays besides logo.</code></pre>
+
+</details>
 
 ## Premium Crispy Potato Wedges Product Commercial Storyboard
 

@@ -1,9 +1,791 @@
 # UGC video prompts
 
-98 source-linked prompts, newest ImgLume records first.
+113 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young Korean woman walking in older neighborhood, MiniDV style
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091864005732360333)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3745](https://imglume.com/prompt/3745)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bcc523e0-6057-4acb-b98f-ace9fa89fe3f/86506c2c-5b0f-4b2e-8c07-ef4b85ac56b2-1787585227834 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: Young Korean woman, early 20s, wearing a loose faded pink T-shirt, cream pajama-style pants, black sneakers and a simple necklace. Messy black hair tied back, natural appearance and consistent identity.
+
+Location: Older Korean neighborhood on a warm afternoon. Narrow lane, tiny local bakery, bicycles, concrete homes, potted plants and leafy trees.
+
+Style: Early-2000s MiniDV home-video footage with shaky handheld movement, autofocus hunting, faded colors, exposure shifts, slight motion blur and accidental zooms.
+
+She walks down the lane and notices a small bakery window displaying fresh pastries. She stops, buys a warm pastry, and takes a bite while walking. Her expression immediately brightens as she realizes how good it tastes. She turns toward the camcorder, smiles, takes another bite and playfully holds the pastry toward the lens. She laughs and continues walking down the street.
+
+Audio: Street ambience, paper bag sounds, footsteps, distant scooters, birds, quiet chatter and natural neighborhood sounds. No music.</code></pre>
+
+</details>
+
+## Realistic handheld vlog of a young Japanese woman exploring a quiet harbor town
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2091730127562674660)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`, `ugc`
+- **ImgLume record:** [3734](https://imglume.com/prompt/3734)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4c9597ee-c284-48cf-9a7b-5b2b5889850a/c6eebd99-e20b-4333-b817-73062f25aab1-1787581033886 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic vlog of a young Japanese woman exploring a quiet Japanese harbor town. It must look like real casual phone footage, not cinematic or AI-generated.
+Keep her face, hair, outfit, and appearance consistent. Natural skin texture, pores, realistic hair strands, genuine expressions and normal human movement.
+
+00:00–00:02: Selfie shot walking through a small harbor market, smiling while vendors arrange fresh fruit.
+
+00:02–00:04: Handheld follow shot crossing a weathered wooden bridge over a narrow canal, gently touching the railing.
+
+00:04–00:06: Tiny bakery window. An elderly shop owner gives her a paper-wrapped snack; she laughs naturally.
+
+00:06–00:08: Quiet seaside path. She watches children flying a kite, then turns toward the camera.
+
+00:08–00:10: Sitting under a large tree beside bicycles, casually looking through old postcards.
+
+00:10–00:12: Barefoot at the shoreline as small waves touch her feet and wind moves her hair.
+
+00:12–00:15: Selfie while walking away from the beach, smiling and saying something playful in Japanese before the recording suddenly stops.
+
+Style: Handheld smartphone, slight natural shake, imperfect framing, autofocus shifts, realistic motion blur, natural daylight, subtle exposure changes, real-world textures and phone compression.
+
+Audio: Only natural ambience—waves, birds, children, bicycle bells, footsteps, breeze, harbor sounds and distant conversations. No music, no cinematic effects, no beauty filter, no CGI look, no commercial aesthetic.</code></pre>
+
+</details>
+
+## Young Korean woman at outdoor pool, handheld camcorder style
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091737661061095648)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3710](https://imglume.com/prompt/3710)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8105172e-81ca-4aae-a44c-9e8e7a4e1689/e9b7dd76-91f1-46a4-87d7-03a0f30e48db-1787555940952 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5 on lovart_ai
+
+Prompt - Main Subject:
+Young Korean woman, early 20s, navy one-piece swimsuit with a loose oversized shirt worn open over it, hair tied up in a high bun, swim goggles around her neck, playful cheerful energy.
+Location: Quiet outdoor community pool, sunny midday. Blue tiled edges, pool floats scattered nearby, lounge chairs, a few potted palms. No crowds, no commercial branding.
+Visual Style: Ultra-realistic documentary realism, playful candid feeling, bright natural sunlight.
+Camera Style: Early 2000s DV camcorder, handheld with water-splash blur on lens occasionally, exposure blown out in bright sun, soft grain. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She sits at the pool edge, feet dangling in the water, kicking gently.
+00:03–00:06 → She says to camera "물이 시원해서 좋다" ("The water feels nice and cool"), smiling.
+00:06–00:09 → She slides into the pool, then pushes off, swimming a short stretch.
+00:09–00:12 → She surfaces laughing, wiping water from her face.
+00:12–00:15 → She waves at camera saying "너도 들어와!" ("Come in too!"), splashing playfully as it fades.
+Audio:
+Water splashing, faint distant chatter, wind, birds. Her dialogue as noted above. No music.
+Goal: A playful, refreshing pool afternoon cheerful, light, authentic.</code></pre>
+
+</details>
+
+## Young Korean woman cleaning scooter in quiet residential lane – realistic handheld video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2091728435278496177)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3695](https://imglume.com/prompt/3695)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8bf8e87d-38e9-4803-80df-da64007507a6/25fd18c2-68b7-49e7-8bbe-869a21cfb255-1787551687616 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural appearance, black wavy hair loosely tied into a messy side ponytail, fitted light-yellow short top, loose white pants, black sneakers and simple silver necklace. Realistic skin texture, minimal makeup, authentic expressions and consistent identity.
+LOCATION: Quiet Korean residential lane on a hot summer afternoon. Small homes, narrow concrete road, potted plants, bicycles, parked scooters, old walls, utility poles and overhead wires.
+CAMERA / LOOK Early-2000s handheld DV camcorder operated by a friend. Strong camera shake, imperfect framing, autofocus hunting, faded colors, exposure shifts and accidental zooms.
+SEQUENCE:
+She brings a small scooter outside her home and starts wiping dust from it.
+She carefully cleans the mirrors.
+Then the handlebars.
+Then the seat.
+She notices a particularly dirty spot near the wheel and crouches down to clean it.
+A neighbor appears at the window above.
+She looks up and waves.
+The neighbor smiles and waves back.
+She continues cleaning.
+The heat starts wearing her down.
+She wipes sweat from her forehead.
+She looks at the camera as if asking for sympathy.
+Then she notices an outdoor water tap.
+She walks over, turns it on and splashes cool water over her face.
+She drinks some water directly from her cupped hands.
+She stands there for a moment enjoying the cool water.
+Her friend zooms in.
+She smiles and says:
+“Now I can finish it.”
+She walks back toward the scooter.
+The camera follows her down the lane.
+AUDIO: Water running, cloth rubbing against scooter, birds, distant children, bicycle bells, footsteps and neighborhood ambience. No music, no narration.
+Warm summer sunlight, nostalgic DV colors, realistic materials and water, authentic handheld imperfections and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## Young Korean woman feeding a cat in Seoul – Ultra-realistic MiniDV footage
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2091536849118634055)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3664](https://imglume.com/prompt/3664)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5eab209f-8ebb-4b07-8a9a-3a5613a2614c/f7736e74-4516-4a2c-b9f9-b7c7029b4d31-1787511707263 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, early 20s, wearing a loose faded green T-shirt, white lounge pants, white socks and a thin silver necklace. Long dark hair tied into a messy ponytail. Keep her appearance identical.
+Location: Quiet old Seoul residential neighborhood during a warm late afternoon.
+Story: She notices a small cat sitting outside her apartment and leaves some food for it. The cat suddenly walks away down the alley, and she playfully follows it. The camcorder follows behind her as she passes gardens, bicycles and small houses. The cat disappears beneath a staircase. She crouches down and calls for it, laughing when it suddenly appears behind her. She picks up the cat gently, carries it back toward her apartment and sits outside while it rests beside her.
+Style: Ultra-realistic early-2000s Sony MiniDV footage, candid home-video feeling, heavy handheld movement, autofocus hunting, imperfect framing, faded colors, soft contrast, slight sensor noise and natural exposure shifts.
+Audio: Cat sounds, footsteps, birds, distant motorcycles, wind, neighborhood chatter and natural apartment ambience. No music or narration.
+Goal for all stories: They should feel like ordinary moments accidentally captured on an old family camcorder—not staged, not cinematic, slightly messy, warm, spontaneous and genuinely believable.</code></pre>
+
+</details>
+
+## Young Korean woman street food MiniDV video
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091537613044039925)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3655](https://imglume.com/prompt/3655)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/24e4717d-574d-4d7a-87a5-86f01f1da5f6/87cc038a-faad-4337-98b9-553b5b5b2ef5-1787503255590 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: Young Korean woman, early 20s, wearing a faded green T-shirt, loose white pajama pants, black sneakers and a simple necklace. Messy black hair tied back, natural appearance and consistent identity.
+Location: Small local street in an older Korean neighborhood during a warm afternoon. Narrow lane, tiny food stall, parked bicycles, concrete houses and leafy trees.
+Early-2000s MiniDV home-video aesthetic with shaky handheld movement, autofocus hunting, faded colors, exposure shifts, motion blur and accidental zooms.
+She walks down the lane and stops at a tiny street food stall. She orders a hot snack, watches it being prepared and laughs with the vendor. She takes the first bite, reacts happily, then notices the camera and offers a bite toward the lens before walking away.
+Audio: Street ambience, cooking sounds, footsteps, distant scooters, birds and casual conversation. No music.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic documentary-style personal home video of a young Korean man's summer day
+
+- **Original source:** [@Sheldon056 on X](https://x.com/Sheldon056/status/2091396663718117706)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3635](https://imglume.com/prompt/3635)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cb2249c3-2c64-40fb-8576-a26418ca30d4/8fdf91f1-7782-4876-b440-58b026a56f4d-1787490715107 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary summer day in the life of a young Korean man. The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
+MAIN SUBJECT
+The same young Korean man in his early 20s throughout the entire video.
+Naturally handsome, realistic skin texture, minimal styling, relaxed expression, slightly tired but peaceful eyes.
+He has naturally messy medium-length dark hair with a few strands falling over his forehead and very subtle stubble.
+He wears a loose washed-black T-shirt, relaxed olive-beige trousers, worn white sneakers, and a simple silver wristwatch.
+Keep his face, identity, body proportions, hairstyle, clothing, watch, and overall appearance completely consistent from beginning to end.
+LOCATION
+A quiet older residential neighborhood in Seoul during a warm summer afternoon.
+Narrow concrete alleys, low-rise homes, rooftop terraces, external staircases, potted plants, laundry lines, parked bicycles, utility poles, overhead wires, mature trees, concrete walls, small residential courtyards, and distant city sounds.
+The neighborhood should feel authentic and lived-in.
+No crowds, tourist attractions, advertisements, recognizable brands, or commercial activity.
+CAMERA / VISUAL STYLE
+Authentic casual personal-video footage captured with an older consumer digital camera.
+Handheld camera operated by a friend walking nearby.
+Natural camera shake, imperfect framing, occasional autofocus changes, slight exposure adjustments when moving between sunlight and shade, soft image detail, mild motion blur, subtle digital noise, slightly muted colors, imperfect white balance, and natural compression.
+The camera operator occasionally reacts a little late, cuts off part of the subject, or briefly loses focus.
+No stabilization, gimbal movement, drone shots, cinematic camera choreography, dramatic lighting, slow motion, modern commercial color grading, or polished cinematography.
+The footage should feel like someone simply decided to record his friend during an ordinary day.
+---
+00:00–00:05 — MORNING ROOFTOP
+He sits casually on a small rooftop beside an old plastic chair.
+A cold bottled drink rests beside him.
+He looks quietly across the neighborhood while the wind moves his hair and T-shirt.
+He takes a sip, notices something happening in the distance, and smiles faintly.
+He briefly notices the camera and gives a subtle nod before looking away.
+The camera takes a moment to find focus on his face.
+---
+00:05–00:10 — WALKING THROUGH THE ALLEY
+He gets up and walks downstairs into the neighborhood.
+He walks casually through a narrow concrete alley with his hands in his pockets.
+He passes parked bicycles, potted plants, laundry hanging from balconies, and old residential walls.
+The camera follows several steps behind him.
+He occasionally looks back toward the camera but never deliberately poses.
+His footsteps remain naturally synchronized with his movement.
+---
+00:10–00:14 — SMALL EVERYDAY MOMENT
+He notices an old basketball resting near a wall.
+He picks it up, casually bounces it twice, then takes a simple shot toward a nearby hoop.
+The shot misses.
+He laughs quietly, shakes his head, and leaves the ball where he found it.
+The camera briefly loses focus during the movement and recovers naturally.
+No exaggerated athletic movement.
+---
+00:14–00:19 — LOCAL SHOP
+He walks to a tiny neighborhood shop and buys a cold drink.
+He exchanges a few natural words with the shopkeeper but the conversation is not clearly audible.
+He steps outside, opens the bottle, takes a drink, and leans casually against the wall.
+He watches bicycles and pedestrians passing in the distance.
+The camera remains handheld and slightly imperfect.
+---
+00:19–00:23 — SUMMER RAIN
+A sudden summer shower begins.
+He looks toward the sky with mild surprise.
+Instead of immediately running for shelter, he smiles and slowly walks into the rain.
+The rain becomes heavier.
+His hair becomes wet and falls naturally across his forehead.
+He eventually starts running down the alley, laughing genuinely.
+He briefly spins around while running, then continues toward a covered walkway.
+His clothes become visibly damp.
+Maintain realistic rain interaction, wet fabric, wet hair, reflections, and foot contact with the ground.
+---
+00:23–00:27 — QUIET MOMENT
+He reaches the covered walkway and catches his breath.
+Rain falls heavily behind him.
+He wipes water from his forehead and looks quietly toward the street.
+For a moment, everything becomes still.
+He notices the camera again.
+He gives a small genuine smile, not a posed expression.
+---
+00:27–00:30 — WALKING AWAY
+The rain becomes lighter.
+He walks away down the wet residential lane.
+The camera follows from behind.
+Reflections shimmer across the concrete.
+He turns his head once, gives a tiny wave toward the camera, smiles, and continues walking.
+The camera remains pointed toward the empty street for a brief moment.
+At approximately 00:29, the recording abruptly cuts to black mid-motion.
+No fade-out.
+---
+PHYSICAL REALISM
+Maintain believable real-world physics throughout.
+Hands, fingers, feet, clothing, hair, rain, bottle, basketball, and background objects must behave naturally.
+No extra fingers, fused hands, duplicated limbs, distorted anatomy, floating objects, teleportation, disappearing objects, or sudden transformations.
+The bottle remains a separate physical object and never intersects with his face.
+The basketball behaves naturally and remains where it lands.
+Parked bicycles and background objects remain stationary unless physically moved.
+His feet remain properly connected to the ground while walking and running.
+Keep the environment and subject consistent between shots.
+---
+AUDIO
+Natural environmental audio only.
+Footsteps on concrete, distant traffic, birds, leaves moving in the wind, bicycles, faint neighborhood conversations, shop sounds, bottle opening, basketball bouncing, rain hitting concrete, water dripping from rooftops, and subtle camera-handling noise.
+No music.
+No narration.
+No soundtrack.
+No artificial sound effects.
+No spoken dialogue is necessary.
+---
+FINAL FEEL
+The result should feel like a forgotten personal recording of an ordinary summer day.
+Not a commercial.
+Not a fashion film.
+Not a music video.
+Not a professional cinematic production.
+The emotional appeal should come from small human moments: sitting alone, wandering through familiar streets, missing a basketball shot, drinking something cold, getting caught in the rain, laughing, and walking home.
+Quiet, masculine, youthful, nostalgic, slightly melancholic, warm, spontaneous, and deeply human.
+Prioritize natural behavior, consistent identity, believable physics, imperfect handheld framing, authentic environmental details, and the feeling that the camera happened to be there.</code></pre>
+
+</details>
+
+## Lia Morning Village Home Video
+
+- **Original source:** [@Cupang1997 on X](https://x.com/Cupang1997/status/2091438364545446209)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3630](https://imglume.com/prompt/3630)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/78f1f2d1-699b-45eb-9639-21edd6e295d8/ab9b56bf-5679-488f-8d68-6273fecf5d46-1787488643758 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Reference mode:
+Use karakter sheet - location 1 - location 2 (image)
+
+# Seedance 2.5 — Lia Morning Village Home Video — 30 Seconds FORMAT: Seedance 2.5 image-reference-to-video. Duration: exactly 30 seconds. Aspect ratio: 16:9. Photorealistic animated video from still-image references, rendered as believable live-action documentary footage rather than cartoon or CGI. Two continuous documentary scenes with only one intentional hard cut at approximately 17.5 seconds. REFERENCE ROLES: * gambar 1 = strict identity and appearance reference for LIA. Preserve Lia as the exact same adult woman throughout the entire video: same facial structure, eyes, nose, lips, skin tone, freckles/skin details, body proportions, tied-back dark brown hairstyle with naturally loose strands, earrings, white fitted top, brown patterned wrap skirt/sarong, and white sandals. Do not redesign or beautify her. * gambar 2 = strict environment and architectural reference for SCENE 1 only. Preserve the modest Indonesian house facade, open tiled front terrace, roof shape, terracotta roof feeling, columns, doors, windows, front yard, trees, plants, overhead electrical cables, scale, and spatial layout. Do not copy any character identity from this image. * gambar 3 = strict environment and composition reference for SCENE 2 only. Preserve the narrow asphalt village road, rice-field surroundings, village rooftops, utility lamp poles, tropical vegetation, distant green hill, open blue morning sky, and rural Indonesian spatial feeling. Do not copy character identity from this image. GLOBAL CHARACTER LOCK: Lia must remain visually identical to gambar 1 in both locations. Same face, body proportions, hairstyle, outfit, accessories, skin texture, and footwear. Her clothes should behave like real cotton and woven fabric, slightly worn and everyday rather than glossy or fashion-perfect. Lia's personality is relaxed and naturally playful. When she talks she becomes noticeably more excited and expressive: bright eyes, quick eyebrow lifts, small head tilts, spontaneous smiles and teasing expressions. Natural Indonesian speech with a light authentic Javanese-Indonesian accent, lively and conversational, never theatrical or caricatured. CAMERAMAN: The cameraman is always physically behind the camera and NEVER appears on screen, in reflections, windows, shadows, or background. His voice is recorded naturally from directly behind the camcorder. When the cameraman speaks, Lia does not lip-sync his dialogue. Lia only reacts with natural eye movement, a small smile, breathing, or subtle head movement. Only Lia's own spoken lines animate Lia's lips. VISUAL STYLE: Ultra-realistic documentary realism. Genuine candid behavior. Unscripted everyday slice-of-life feeling. Natural imperfect body language. Deep environmental authenticity of a rural Indonesian morning. The result should feel like a forgotten family home video recorded in Indonesia in the early 2000s: warm, mundane, affectionate, slightly funny, imperfect and deeply believable. Output may be high-resolution / 8K master quality, but the acquisition aesthetic must strongly emulate an early-2000s consumer DV camcorder: warm slightly faded colors, soft contrast, mild sensor noise, subtle digital compression, limited highlight latitude, natural motion blur, very mild rolling shutter, slightly imperfect white balance, no glossy modern HDR, no modern cinematic color grade, no beauty filter, no excessively shallow depth of field. HUMAN-OPERATED CAMERA: Camera movement must feel physically operated by a real friend holding a consumer camcorder. Use: subtle hand tremor, natural breathing drift, slightly imperfect horizon, small delayed reframing, occasional lens breathing, brief autofocus searching caused by subject movement, minor exposure pumping when moving between shade and bright sunlight. Every camera imperfection must have a physical reason. No gimbal stabilization. No drone. No orbit. No crane. No perfect tracking. No dramatic cinematic push-ins. No stylized speed ramp. No artificial cinematic camera choreography. SCENE 1 — TERRACE MORNING, based on gambar 2 00:00–00:02.8 Begin immediately with Lia already seated casually on the front terrace of the house from gambar 2. Use a loose eye-level medium-wide three-quarter shot, as if the cameraman is standing several steps in front of the terrace. Lia sits relaxed on the existing porch seating, shoulders loose, one foot slightly forward. Her LEFT hand naturally holds a simple glass cup of dark morning coffee. Her RIGHT hand holds one lit cigarette between index and middle finger. Keep object ownership consistent: coffee always remains in the left hand until she puts it down, cigarette remains in the right hand until she extinguishes it. A thin natural stream of cigarette smoke rises and bends with the morning air. Lia briefly takes a small sip of coffee, lowers the glass, casually looks toward the cameraman behind the lens and gives a tiny amused smile. Camera is not perfectly centered and slowly drifts a few centimeters while the operator settles his grip. Tropical morning sunlight illuminates the yard while Lia remains partially under terrace shade. Moving leaves create soft shifting dappled shadows. Exposure reacts slightly to the bright yard behind her. 00:02.8–00:04.5 CAMERAMAN speaks from behind the camera, playful and casually surprised: "widiihh lia santai amat" The cameraman remains completely off-screen. While listening, Lia keeps her lips closed except for a tiny amused smile. She glances toward the lens/operator, lightly raises her eyebrows and relaxes the cigarette hand near her knee. 00:04.5–00:09.7 LIA answers, conversational and excited with a natural light Javanese-Indonesian accent: "iya mas pagi hari itu wajib ngopi dan udud kalau ga bisa pusing loh" Accurate Indonesian lip sync ONLY for Lia. She speaks while sitting naturally rather than performing for camera. Small head movement, lively eyebrows, natural blinking, relaxed shoulders. She gestures once gently with the cigarette hand without waving it excessively. Smoke responds naturally to the movement. Toward the end of the sentence she gives a teasing half-smile. After finishing the spoken line, she takes a tiny relaxed breath; do not make her drink while her mouth is actively speaking. The camera operator makes a very small late correction to keep her face centered. Autofocus briefly breathes, then settles back on Lia. 00:09.7–00:11.5 CAMERAMAN asks from behind the camera: "habis udud mau kemana lia?" Lia remains silent while he speaks. No Lia lip-sync. She tilts her head slightly, looks amused and shifts her weight forward as if preparing to get up. 00:11.5–00:14.5 LIA answers with growing excitement and a playful inviting expression: "ayo ikut aku mancing mas mauu?" Accurate lip sync. On "mauu?" she lifts her eyebrows, smiles toward the cameraman and leans forward slightly, inviting him to follow. Keep the delivery spontaneous, like talking to a real friend, not presenting to an audience. 00:14.5–00:17.5 Dialogue pauses. Lia naturally completes the current activity before leaving. First she places the coffee glass down with her LEFT hand on the nearby terrace surface. Then she taps the cigarette once and extinguishes the cigarette completely in a small simple ashtray using her RIGHT hand. The cigarette state changes from LIT to EXTINGUISHED only after visible contact with the ashtray. After this moment there is no new cigarette smoke. She plants both sandal-covered feet firmly, shifts her weight forward, stands with believable human balance, straightens her skirt naturally and takes her first step away. Realistic cloth movement and hair secondary motion. Foley: soft glass contact, small ashtray tap, woven skirt rustle, sandal movement. CUT LOGIC: At approximately 00:17.5, make ONE simple hard cut after Lia has fully stood and started leaving. No transition effect. No dissolve. No montage. SCENE 2 — VILLAGE ROAD WALK, based on gambar 3 00:17.5–00:21.7 Hard cut directly to Lia already walking along the narrow asphalt village road from gambar 3. Camera follows approximately 2–3 meters BEHIND Lia at natural walking height. Medium-wide rear follow framing shows Lia's full walking movement and enough environment to clearly recognize the road, fields, utility poles, rooftops, tropical vegetation and distant green hill. The cameraman walks behind her, producing gentle vertical footstep bob, mild hand tremor and slightly imperfect framing. Lia walks at an unhurried natural pace. Real heel-to-toe steps. No sliding feet. Her patterned woven skirt reacts naturally to each stride. Her tied-back hair and loose strands respond subtly to the breeze. The cameraman occasionally falls a fraction behind, then naturally catches up. Do not turn this into a smooth professional tracking shot. 00:21.7–00:24.2 Without stopping completely, Lia slows slightly and turns her head and upper torso back over her shoulder toward the cameraman. The movement begins with her eyes, then head, then shoulders. Her lower body continues moving forward slowly. Because she unexpectedly turns back, the camera reacts a little late. Framing briefly drifts off-center and autofocus searches for her face for a fraction of a second before locking. LIA speaks toward the cameraman with teasing curiosity: "mas mau tau aku kemana?" Accurate natural lip sync. Excited light Javanese-Indonesian delivery. Playful half-smile. 00:24.2–00:25.4 CAMERAMAN responds from behind the camera: "kemana tuuuuh" He remains completely off-screen. Lia's mouth stops speaking while his line is heard. She keeps looking back with a mischievous expression, suppressing a laugh. Camera continues physically walking behind her with natural small shake. 00:25.4–00:29.2 LIA gives the punchline: "aku mau cari om om loh mas eee" She delivers it playfully and excitedly, building toward the final "eee". Accurate Indonesian lip sync. Immediately after finishing "eee", she bursts into a genuine spontaneous laugh. Her shoulders bounce naturally from laughter. She briefly squints, smiles widely and turns her face partly forward again while still chuckling. The laugh feels uncontrolled and candid, not like scripted acting. The cameraman reacts physically by momentarily losing perfect framing while continuing to walk. The camera dips slightly and catches up again. Do not add any new spoken words. 00:29.2–00:30.0 Lia is still walking and laughing softly. She begins turning her attention forward again while the cameraman follows. The framing drifts slightly toward one side because the operator is walking and laughing/reacting behind the camera. End imperfectly: the recording abruptly cuts to black MID-MOTION at exactly 30 seconds, without a polished ending, fade-out, pose, title or outro. ENVIRONMENTAL AUTHENTICITY: The environment must feel alive but never distract from Lia. SCENE 1 background: subtle tropical leaves moving in morning air, occasional distant motorbike passing outside the main foreground, one distant resident casually sweeping with a traditional broom when composition permits, small household plants moving, occasional water drip, overhead electrical cables, terracotta roofing, weathered concrete, real glass and ceramic surfaces, one cat may briefly react or cross far in the background only if naturally integrated. SCENE 2 background: rice and grasses moving gently in the breeze, distant village activity, occasional far motorbike, subtle birds, coconut or tropical foliage moving, utility poles remaining stable, no crowds, no staged extras. Background activity must continue independently of Lia as if the village exists beyond the scene. LIGHTING: Natural tropical morning light only. SCENE 1: bright morning yard with softer shade beneath the house terrace. Dappled foliage shadows shift subtly. Consumer camcorder exposure pumps very slightly when framing includes more bright yard or shaded Lia. SCENE 2: strong but natural morning daylight matching gambar 3. No artificial key light. No rim-light setup. No cinematic backlighting. Exposure may briefly adjust when Lia's face turns from forward light to backward-facing light. PHYSICAL MATERIAL DETAIL: Real skin texture with pores and tiny imperfections. No plastic skin. White cotton top moves subtly with breathing. Patterned woven skirt has visible fabric weight and folds. Sandals flex naturally at the feet. Concrete and tiled terrace retain worn real-world texture. Coffee is contained inside a real glass with believable reflections. Cigarette paper, ember and ash behave realistically before extinction. Terracotta roofing, asphalt, dry grass and green vegetation retain physically believable texture. AUDIO: Zero music. Zero narration. No voice-over other than the naturally recorded off-screen cameraman dialogue. No added soundtrack. Use authentic layered location sound. SCENE 1 close layer: Lia's clothing rustle, subtle breathing, glass touching the porch/table, small cigarette and ashtray contact, sandals shifting. Medium layer: broom brushing ground, occasional water drip, leaves rustling. Far layer: rooster crow, distant motorcycle, soft rural morning ambience. SCENE 2 close layer: Lia's sandal footsteps on asphalt, woven skirt swish, breathing and genuine laughter. Medium layer: grass and leaves moving in the breeze. Far layer: occasional rooster, distant motorcycle, birds and rural village ambience. Dialogue must remain clearly intelligible but retain realistic camcorder microphone perspective. The cameraman's voice should sound close to the microphone because he is holding the camera. Lia's voice becomes slightly more spatially distant during the rear-follow scene while remaining clear. MOTION QUALITY: Natural human-scale acceleration and deceleration. Stable foot contact. Correct left/right limb ownership. Real body weight and balance. Natural hip and shoulder counter-motion while walking. Believable hair and cloth secondary motion. No floating. No rubber limbs. No foot sliding. No teleporting. No sudden speed changes. CONTINUITY: Lia remains the exact same person from gambar 1 throughout both scenes. Same: face, skin, hair, hairstyle, body proportions, earrings, white top, brown patterned wrap skirt, white sandals. SCENE 1 prop continuity: coffee = left hand until placed down. cigarette = right hand until visibly extinguished. After Lia leaves the terrace: coffee remains behind at the house. cigarette remains extinguished at the house. Neither object appears in Lia's hands on the road. SCENE 2 begins only after the intentional hard cut. Do not visually morph gambar 2 into gambar 3. NEGATIVE CONSTRAINTS: No identity drift or face redesign. No hairstyle change. No wardrobe change. No changing Lia's body proportions. No beauty filter or plastic skin. No duplicate Lia. No cameraman visible anywhere. No random foreground characters interacting with Lia. No incorrect speaker lip-sync. Lia's lips stay silent during cameraman dialogue. No extra dialogue. No subtitles. No captions. No watermark. No logos. No duplicate coffee glass. No switching coffee between hands. No duplicate cigarette. No switching cigarette between hands. No cigarette magically relighting after extinction. No cigarette smoke during the road scene. No random location morphing. No unexplained teleportation. No random jump cuts. Only one intentional hard cut between the terrace and road scenes. No gimbal stabilization. No cinematic orbit. No drone shot. No glossy cinematic grading. No modern HDR look. No dramatic lens flare. No artificial slow motion. No speed ramps. No background music. No narrator.</code></pre>
+
+</details>
+
+## Nostalgic Early-2000s Korean MiniDV Home Video Story
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2091394845764108513)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3624](https://imglume.com/prompt/3624)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8f24764f-6678-483a-be49-9602183b80cd/5cc1e645-e471-466d-9566-6f09be56935f-1787480373245 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly addictive, nostalgic early-2000s Korean MiniDV home-video story designed to hook viewers within the first second and make them stay until the final reveal.
+
+The footage should look like a real forgotten MiniDV tape discovered 20 years later — authentic 4:3 consumer camcorder, imperfect handheld movement, CCD noise, soft analog sharpness, tape grain, slight color bleeding, autofocus hunting, exposure fluctuations and occasional blown highlights.
+
+Color palette: warm golden bedroom light, dusty pink highlights, soft cream skin tones, muted teal shadows and subtle faded red accents. Cozy, nostalgic, slightly dreamy but completely realistic.
+
+Main character: a 24-year-old beautiful Korean woman with long dark hair, expressive eyes and minimal natural makeup. She wears an oversized pale-blue T-shirt, loose cream pajama pants and cozy socks.
+
+Keep her face, hairstyle, outfit, bedroom, props and lighting perfectly consistent throughout.
+
+SHOT 1 — 0:00–0:03 — THE HOOK
+
+The camera is already recording from a slightly crooked position on a bedroom desk.
+
+The woman suddenly rushes into frame holding a small mysterious red gift box.
+
+She looks around the room as if checking whether anyone is watching.
+
+She whispers excitedly:
+
+“I finally found it…”
+
+She places the box on the bed.
+
+A tiny handwritten label on it reads:
+
+“OPEN WHEN YOU’RE 24.”
+
+She stares at it in disbelief.
+
+Instant curiosity.
+
+SHOT 2 — 0:03–0:06 — THE MYSTERY
+
+She sits on the floor beside the bed and carefully opens the box.
+
+Inside is an old photograph and a tiny handwritten note.
+
+Her playful expression slowly disappears.
+
+She picks up the photograph.
+
+The camera autofocuses onto it.
+
+The photograph shows a much younger version of herself standing in the exact same bedroom.
+
+She looks from the photograph to the room.
+
+Her expression becomes completely stunned.
+
+SHOT 3 — 0:06–0:09 — THE CONNECTION
+
+She slowly looks around.
+
+The camera remains completely still.
+
+She notices something behind the old photograph: a tiny folded note.
+
+She opens it.
+
+Her eyes widen.
+
+She starts laughing in disbelief while shaking her head.
+
+The note contains a simple handwritten message:
+
+“If you found this… you finally grew up.”
+
+Natural emotional reaction — not melodramatic.
+
+SHOT 4 — 0:09–0:12 — THE EMOTIONAL TWIST
+
+She sits silently for a moment.
+
+Her expression becomes soft and emotional.
+
+She looks at the old photograph again, then smiles warmly.
+
+She gently places the photograph against her chest.
+
+A tiny nostalgic laugh escapes.
+
+The warm bedroom lamp creates a beautiful glow across her face while the MiniDV camera struggles slightly with exposure.
+
+SHOT 5 — 0:12–0:15 — THE FINAL REVEAL
+
+Suddenly she notices something written on the back of the photograph.
+
+She flips it over.
+
+Her eyes go wide.
+
+She looks directly into the camera as if she has just realized something.
+
+Then she laughs and says:
+
+“Wait… YOU recorded this?”
+
+She quickly walks toward the camera.
+
+The footage becomes shaky.
+
+She reaches for the camcorder.
+
+Her fingers cover the lens.
+
+The screen turns black.
+
+CUT.
+
+Add a tiny authentic MiniDV recording-stop sound.
+
+VIRAL DIRECTION
+
+The video should feel like viewers have accidentally discovered a private memory from another person's life.
+
+The emotional progression must be:
+
+MYSTERY → CURIOSITY → DISCOVERY → SURPRISE → EMOTION → FINAL REVEAL.
+
+Make the first frame immediately intriguing.
+
+Make the photograph reveal visually obvious.
+
+Make the final line create a reason to replay the entire video.
+
+Absolutely avoid polished commercial cinematography, modern smartphone aesthetics, unrealistic facial expressions, excessive camera movement, fantasy effects, random objects appearing, character changes or costume changes.</code></pre>
+
+</details>
+
+## Seedance 2.5 Elastic Face FX 10秒短视频 Prompt
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2091182791467684197)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3616](https://imglume.com/prompt/3616)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8736ba07-44df-43fd-b961-cd9815f6aef9/15e87c6a-dd6e-4435-b14e-0249af3d8593-1787476118689 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【风格】抖音爆款搞怪变脸短视频（Viral Funny Elastic Face FX），真人实景，夸张橡胶级物理形变特效，4K超清画质，夜景人像打光，画面纯净无任何水印文字
+【时长】10秒
+【场景】夜晚城市街头，背景是暖黄色路灯与整齐的行道树，柏油路面有微弱反光
+【角色】主角@图片1（身穿黑色大方领紧身长袖上衣，黑色长发自然垂落）
+
+[00:00-00:02] 镜头1：橡胶大嘴拉扯与回弹（Rubber Mouth Stretch）
+机位：中近景，手持自拍微仰视视角，镜头随呼吸轻微晃动。
+动作：主角双手食指插进嘴角向两侧极度拉扯开，嘴巴像弹性橡胶一样被拉扯得巨大无比，吐出长舌头做搞怪鬼脸；双手松开后，嘴巴瞬间像弹簧一样恢复原状，主角歪头对着镜头微笑并轻快挥手。
+特效：主角原本面部的超夸张物理弹性拉伸与回弹（Elastic Face Deformation），保持真人五官材质与肤质，无卡通替换。
+
+[00:02-00:05] 镜头2：拍头变身大头娃娃（Giant Head Morphing）
+机位：中近景，镜头中心平稳锁定在头部。
+动作：主角双手抬起轻拍头部上方两侧。
+特效：在手掌拍下的瞬间，主角原本的头部瞬间极度膨胀变大成“大头小子”造型，眼睛瞪大成凸起白眼珠，双颊鼓成圆球形嘟嘴，脖子与身体保持原样；随后双手放下，头部瞬间平滑缩回正常真人大小。
+
+[00:05-00:07] 镜头3：提发纵向拉长脸部（Vertical Face Pull）
+机位：中景，平稳手持视角。
+动作：主角双手抓住头顶两撮头发向上快速提拉。
+特效：在拉扯动作下，主角原有人脸被纵向极度拉长，五官随之拉伸变形为纵向椭圆大眼与“O”型嘴；双手松开时面部瞬间平滑收缩复原，主角低头腼腆眯眼甜笑。
+
+[00:07-00:10] 镜头4：爪子咆哮与侧身定格（Playful Growl &amp; Freeze）
+机位：中景，镜头随动作有微小顿挫推镜感，最后平移定格。
+动作：主角面部和身体保持完全正常的真人状态、无任何形变特效；双手抬至脸侧张开成“怪兽爪”姿态，仰头张嘴大笑做出“嗷呜”咆哮动作；随后身体向侧面微倾，收起双手，嘴角带笑侧身回眸直视镜头定格。
+音效：配搞怪音效与清脆卡点音效。</code></pre>
+
+</details>
+
+## 60-second realistic day-in-life cat vlog
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2091385137133219971)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3601](https://imglume.com/prompt/3601)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/acc5d820-fac6-4a16-9f34-b202619b44fb/478f279e-c89c-4898-a8a2-d0a88a1690dd-1787467708874 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 60-second realistic day-in-the-life cat vlog, following the same cute cat from waking up in the morning until falling asleep at night.
+
+Critical Requirement
+
+NO HUMAN SPEECH AND NO DIALOGUE.
+
+The cat must not speak any words at any point. Do not use narration, voice-over, human voices, subtitles, captions, or text.
+
+The story must be communicated entirely through the cat’s actions, facial expressions, body language, meows, purrs, chirps, yawns, and natural environmental sounds.
+
+Overall Visual Style
+
+One continuous handheld front-facing smartphone selfie-vlog perspective. The cat holds the phone itself with its paw and films its own day.
+
+- Realistic modern smartphone footage
+- Natural handheld shake
+- Slight framing imperfections
+- Occasional autofocus hunting
+- Natural front-camera lens distortion
+- Realistic unfiltered smartphone colors
+- Soft natural morning, afternoon, and evening lighting
+- Same cat, face, fur pattern, eyes, and body throughout
+- Cute but believable cat behavior
+- Natural expressions and movements
+- No cinematic camera movements
+- No third-person camera
+- No tripod or external camera
+- No beauty filter or cinematic color grading
+- No logos, watermarks, subtitles, captions, or on-screen text
+- No background music
+
+0–10 sec — Wake Up
+
+The cat wakes up in a cozy bed.
+
+It picks up the phone with its paw and starts filming itself selfie-style.
+
+It looks sleepy, yawns, stretches, rubs its face with its paws, and looks into the camera with sleepy eyes.
+
+It gives a tiny “meow”, then climbs out of bed.
+
+10–20 sec — Breakfast
+
+The cat walks into the kitchen while filming itself.
+
+It sees its food bowl and immediately becomes excited.
+
+It prepares or receives its breakfast, eagerly eats, then drinks water.
+
+It looks happily into the camera and gives a couple of excited little meows.
+
+Include realistic food-bowl sounds, chewing, drinking, and kitchen ambience.
+
+20–30 sec — Playtime
+
+The cat grabs its favorite toy.
+
+It runs around the house, chases the toy, jumps onto the couch, bats at it with its paws, and playfully rolls around.
+
+The phone shakes naturally during the energetic movement.
+
+The cat stops for a moment, looks directly into the camera, gives a playful chirp/meow, then immediately runs off again.
+
+30–40 sec — Exploring
+
+The cat explores the house.
+
+It looks through a window, watches birds outside, investigates a strange sound, walks into another room, and sniffs interesting objects.
+
+It notices something outside and becomes curious.
+
+The cat makes a soft “mrrp” sound and continues exploring.
+
+Keep the behavior authentically feline rather than human-like.
+
+40–50 sec — Afternoon Adventure
+
+The cat safely goes outside into a garden or quiet courtyard.
+
+It walks around while filming itself, sniffs flowers and plants, watches birds, investigates leaves, and explores its surroundings.
+
+The cat pauses, looks excitedly at something off-camera, then gives a small curious meow.
+
+Use natural outdoor sounds such as birds, wind, leaves, distant traffic, and footsteps.
+
+50–60 sec — Evening &amp; Bedtime
+
+The cat returns home as the light becomes warm and soft.
+
+It has its evening meal, drinks some water, then climbs onto the couch or back into its bed.
+
+It grooms itself, yawns, becomes sleepy, and curls into a comfortable position.
+
+It looks into the phone one last time, gives a tiny sleepy meow, slowly closes its eyes, and lowers the phone naturally.
+
+End with quiet nighttime home ambience.
+
+Final Audio Requirements
+
+Absolutely no dialogue. No words. No narration. No human voice. No talking cat.
+
+Use only natural diegetic sounds:
+
+- Cat meows
+- Purring
+- Chirping
+- Yawning
+- Footsteps
+- Food and water sounds
+- Toy sounds
+- Household ambience
+- Birds and outdoor sounds
+- Wind and leaves
+- Natural nighttime ambience
+
+The finished video should feel like a realistic, cozy smartphone vlog from a cat’s perspective, showing what the cat naturally does throughout an entire day without saying a single word.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic smartphone found-footage house party video
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091153699070746795)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `ugc`
+- **ImgLume record:** [3599](https://imglume.com/prompt/3599)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/68bb7517-3a64-4aa0-8b0b-f07c540538ab/0ece987e-5ee7-4efd-9d09-ca72890bba80-1787467694922 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic smartphone found-footage video of a massive suburban house party at night. It should feel like chaotic footage captured on different partygoers’ phones, with realistic handheld movement rather than polished cinematography. All visible people are clearly 21+ adults.
+
+Use the provided reference image as the strict visual reference for the main woman. Keep her face, facial structure, skin tone, hairstyle, hair color, body proportions, outfit, makeup and accessories consistent and recognizable throughout.
+
+TIMELINE
+
+0–5s — Arrival: Start directly inside a crowded house. A shaky phone follows the woman through dancing guests. Show friends greeting her, packed hallways, phones recording, warm lights, flashes, laughter and raised cups with soft drinks.
+
+5–10s — Interior Party: The crowd becomes denser. Show the woman dancing with friends, spontaneous dance circles, confetti, group selfies, food-covered counters and flashing phones. Use quick reframing, autofocus shifts, motion blur and people briefly blocking the lens.
+
+10–15s — Pool Reveal: Hard cut to a huge backyard packed with adults around a swimming pool, lawn, patio and balcony. Show dancing, safe pool jumps, splashing water, colorful inflatables, string lights and sprinklers. Briefly let water or a person obstruct the phone.
+
+15–20s — Giant Celebration: Everyone joins one enormous group moment. Show raised hands, cheering, streamers, bubbles, beach balls, confetti and multiple phones filming. Keep the woman clearly recognizable at the center while the camera is pulled through the crowd.
+
+20–25s — Party Everywhere: Rapid cuts between the porch, lawn, garden, living room and backyard. Show dancing, snacks, glowing wristbands, playful videos, countdowns, cheering and confetti. The scale and energy should continue increasing.
+
+25–30s — Finale: Reach maximum intensity. The woman dances with friends, looks directly into the phone and smiles before reaching toward the camera. The phone spins through laughing faces, lights and confetti, then falls safely onto a cushioned outdoor chair. Friends lean into frame laughing and waving. End abruptly mid-celebration.
+
+VISUAL STYLE
+
+Use 40–50 rapid micro-cuts, generally 0.4–0.8 seconds each. Authentic smartphone footage: strong handheld shake, imperfect framing, tilted horizons, accidental whip-pans, autofocus hunting, rolling-shutter wobble, natural motion blur, low-light digital noise, clipped flash highlights, lens smears and frequent foreground obstructions. No cinematic stabilization, drone shots, slow motion, beauty filters, glossy nightclub look or artificial glitch effects.
+
+AUDIO
+
+Original bass-heavy party music recorded through smartphone microphones, layered with adult conversations, cheering, laughter, footsteps, pool splashes, sprinklers, wind and phone sounds. Realistic microphone compression and mild clipping, with intensity increasing toward the finale.
+
+Overall: Make it feel like an enormous, unpredictable, playful and believable 30-second viral camera-roll montage, with the party growing continuously bigger and more chaotic while the main woman remains visually consistent.</code></pre>
+
+</details>
+
+## Morning rituals through Seedance 2.5
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2091178039866773865)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3578](https://imglume.com/prompt/3578)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5af4e1fb-f572-45d5-a725-e8b3e2e9db48/493f4dde-be38-4ce7-8bb1-a2a086838201-1787450771293 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>LMain Subject: Young Korean woman, early 20s, naturally attractive, realistic skin, minimal makeup, long dark hair loosely tied back. Wearing a loose pink T-shirt, comfortable white pajama pants, and a thin silver necklace. Preserve her exact identity, facial features, hairstyle, outfit, and appearance throughout.
+
+Location: Small old Seoul apartment on a peaceful summer morning. Cozy kitchen, tiny balcony, potted plants, narrow residential lane, neighboring apartments, bicycles, laundry lines, and soft morning sunlight.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Candid everyday life, heavy handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft contrast, DV compression, slight motion blur and natural microphone noise. No stabilization or modern cinematic movement.
+
+ She steps onto the balcony in her pink top and white pajamas, waters several potted plants, gently touching the leaves and smiling as morning sunlight comes through.
+
+ A friendly neighborhood cat appears near the balcony doorway. She crouches down, feeds it a little food, and pets it while the camera struggles to focus between her face and the cat.
+
+ She moves into the small kitchen and prepares a simple breakfast, frying eggs and toast while casually moving around the kitchen. Steam and cooking sounds create a natural lived-in feeling.
+
+She disappears into the bathroom, then comes back out with freshly washed damp hair, casually drying it with a small towel before carrying breakfast toward the balcony.
+
+She sits at a small balcony table, enjoying her breakfast and a warm cup of coffee while looking quietly over the neighborhood. The camera drifts naturally from her to the street below.
+
+ A neighbor appears on the opposite balcony. She notices them, smiles, raises her hand and says, “Good morning.” The neighbor waves back as she laughs softly. The camera slowly pans toward the quiet neighborhood and cuts to black.
+
+Audio: Natural morning ambience only — birds, distant traffic, cooking sounds, kettle, dishes, cat sounds, footsteps, light wind and faint neighborhood chatter. No music, narration or added sound effects.
+
+Goal: Make it feel like a forgotten early-2000s Korean family recording — ordinary, intimate, imperfect, cozy and genuinely real.</code></pre>
+
+</details>
+
+## Young Korean woman cycling through a summer neighborhood
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091175465037746522)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3560](https://imglume.com/prompt/3560)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/23ec0b3d-1aff-4732-9771-d9107be3c9e5/f2932624ecadd19ed2ac-imglume-generated "ImgLume-generated example for Young Korean woman cycling through a summer neighborhood")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: Young Korean woman, early 20s, wearing a soft pink short top, loose cream pajama-style pants, black sneakers and a delicate necklace. Messy black side ponytail, natural makeup, realistic skin and completely consistent appearance.
+Location: Older Korean residential neighborhood on a hot summer afternoon. Narrow alleys, concrete walls, tiny gardens, bicycles leaning against houses, colorful laundry, utility poles and leafy trees creating patches of shade.
+Shot entirely like an early-2000s home video filmed by her friend. Strong handheld shake, accidental framing, autofocus hunting, blown-out highlights, faded colors, digital noise, occasional zoom mistakes and realistic motion blur.
+She leaves her house carrying a small basket and walks barefoot toward a bicycle. She slips on her sneakers, hops onto the bicycle and starts riding through the lane.
+She passes a friend sitting outside a small house. The friend calls her name and she immediately stops.
+They chat casually for a moment, laughing about something. She steals a sip from her friend's iced drink, laughs and continues cycling.
+She stops beneath a giant tree and parks the bicycle. She looks upward as the leaves move in the warm breeze.
+A basketball rolls into the lane from nearby children. She kicks it gently back toward them and waves.
+She gets back on the bicycle and rides away while the camera remains behind, slowly losing sight of her around the corner.
+Audio: Summer insects, birds, bicycle chain, distant children, wind through leaves, casual conversation and neighborhood ambience. No music.</code></pre>
+
+</details>
+
+## Young woman at vintage car show – 30s documentary video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091077376440709231)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3555](https://imglume.com/prompt/3555)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/660abd9c-a8f2-4c04-a4a2-2d3a99a63da0/7f862a28-02b8-492b-a338-9c2f004bf123-1787417286799 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject:
+Young American woman, early 20s, oversized graphic tee tucked into high-waisted jeans, hair down and loose, sunglasses on, curious relaxed personality.
+Location:
+Small local vintage car show in a parking lot, late morning. Rows of classic cars, folding chairs beside each vehicle, string banners overhead, soft warm sunlight. No large crowds, no commercial branding.
+Visual Style:
+Ultra-realistic documentary realism, curious candid feeling, warm bright daylight.
+Camera Style:
+Early 2000s DV camcorder, handheld gentle drift, autofocus hunting on reflective car surfaces, faded warm tones, soft grain. No stabilization.
+Timeline (30 sec):
+00:00–00:03 → She walks slowly between rows of classic cars, admiring the paint jobs.
+00:03–00:06 → She stops at a bright red convertible, running her hand along the hood.
+00:06–00:09 → She turns to camera saying "okay this one is actually gorgeous," smiling.
+00:09–00:12 → She peeks inside at the vintage interior, curious about the dashboard.
+00:12–00:15 → An owner nearby chats with her briefly; she nods, listening with interest.
+00:15–00:18 → She thanks him, then moves on to the next car in the row.
+00:18–00:21 → She admires a shiny chrome bumper, catching her reflection in it.
+00:21–00:24 → She snaps a quick photo on her phone of her favorite car.
+00:24–00:27 → She walks toward the end of the row, glancing back once more.
+00:27–00:30 → She looks at camera saying "I need one of these someday," grinning as it fades.
+Audio:
+Distant chatter, faint engine idling nearby, wind, footsteps on pavement. Her dialogue as noted above. No music.
+Goal: A curious, relaxed car show moment warm, nostalgic, genuine.</code></pre>
+
+</details>
 
 ## 15s Purikura Booth Video Prompt
 

@@ -1,9 +1,292 @@
 # Camera Moves video prompts
 
-131 source-linked prompts, newest ImgLume records first.
+140 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Glamorous woman floating above clouds at pastel sunset
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2091812173391790374)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3727](https://imglume.com/prompt/3727)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/16bb3d38-0d9f-4d5e-861d-98c39860ff1b/7df43e93-31bb-4959-9246-24aeb0caacaa-1787576868458 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Continuous smooth push-in camera movement A stylish glamorous woman floating gracefully above a dense sea of fluffy cloud tops during a vibrant pastel sunset She is wearing a sleek black futuristic bodysuit, sunglasses, and high heels holding a martini glass with liquid splashing slightly and a black quilted luxury handbag The golden hour sky glows with pink, orange and purple hues Ultra-realistic, cinematic lighting, 8k resolution, slow motion.</code></pre>
+
+</details>
+
+## Field hospital medic scene
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2091744186186027386)
+- **Recommended model:** `seedance`
+- **Source model(s):** `nanobanana`, `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3693](https://imglume.com/prompt/3693)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/22f0369f-9f78-48f1-b021-7a49be7e6162/7da0aec4-2d8a-4698-9105-afa505062ef1-1787551614372 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>&lt;&lt;&lt;image_1&gt;&gt;&gt; — Ines
+
+Camera Settings: shot on 35mm film, anamorphic 2x squeeze, 2.39:1, oval bokeh, heavy grain,
+halation on the bulbs. Focal length: 35mm. Aperture: f/2.0. Camera Style: handheld inside
+the scuffle — the camera is jostled and knocked by the people restraining her, losing her
+frame and finding her again, shoved sideways twice, then dropping to the duckboards with her
+and ending on its side looking up at her and at the ring of faces standing over her; one
+continuous take, no cuts. Light: cold blue dawn through canvas, bare work bulbs swinging on
+a cable throwing hard moving shadows, generator flicker. Style &amp; Mood: field hospital at
+first light, blue-grey and dirty amber, war-film grain, generator hum, canvas cracking in
+wind, no score. Narrative Summary: a medic breaks down in front of the whole ward while
+reporting her losses. Starting Composition: camera 3ft from her face, handheld, already
+unsteady. Ines (&lt;&lt;&lt;image_1&gt;&gt;&gt;) stands frame-center already mid-shout at an officer
+off-frame, rows of cots and wounded men behind her, covered stretchers deep frame-right,
+bulbs swinging overhead.
+
+Dynamic Description: (0s–5s) Handheld tight 35mm, already knocked off balance at frame one,
+catching her face in snatches. She is screaming before the shot begins, face contorted,
+tendons standing in her neck, tears cutting clean lines through the soot — voice torn open,
+shouting: "FOUR. There were forty of us and there's FOUR." She rips the loose dressing off
+her forearm and hurls it, then drives her fist down onto a folding table so the tin cups
+jump. (5s–10s) Two people grab her from behind and she fights them hard, twisting; the
+camera is shoved sideways by a shoulder, loses her completely for half a second, and finds
+her again mid-struggle, still shouting with no words left in it, the ampoules on her chest
+rattling. (10s–15s) Her legs go. They lower her and the camera goes down to the duckboards
+with her, ending on its side. From the floor, looking up: she is on her knees, doubled over
+with both hands in her cropped hair, sobbing at full volume with her forehead almost on the
+boards, a ring of faces standing over her, the bulbs swinging behind their heads.
+
+Static Description: field hospital tent at dawn, rows of cots, swinging bulbs, canvas,
+covered stretchers, folding table, tin cups, duckboards. Negative: no subtitles, no
+captions, no text overlay, no cross-dissolve, no transparency transitions, no wipes, no
+cuts, no hard cuts, no edits, no shot changes — single uninterrupted take, no mirror
+reflections, no doubled characters, no visible crew, no wound detail, no slow-motion, no
+music, no score, no composed crying, no build-up. She is already screaming in the very
+first frame and the camera must be physically knocked at least twice.</code></pre>
+
+</details>
+
+## Photorealistic cinematic flood escape in Asian wet market
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2091744726273916945)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3691](https://imglume.com/prompt/3691)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7fab6165-7b7d-4ce7-81b2-0e935af47d28/b74e3ee9-f601-454f-97b3-3a33a3e14da9-1787551549865 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a photorealistic, high-budget cinematic action scene in a crowded traditional Asian wet market during heavy rain and severe flooding. A young Asian woman with long wet dark hair, wearing a pink waterproof rain suit and black rubber boots, runs through flooded market aisles while a massive wave of water rushes behind her.
+
+Show seafood and vegetable stalls, floating crates, overturned objects, panicked crowds, rushing dirty water, reflections, splashes and realistic wet details. Use fast handheld tracking, close-ups, low-angle water shots, side tracking and wide shots, with realistic physics, motion blur and dynamic camera shake.
+
+She jumps over obstacles and runs across raised market surfaces. Near the end, she reaches a raised area where a frightened cow is trapped by the flood. She looks at it and urgently says: “Come on, girl! Move!” She guides the cow toward safety.
+
+Keep her face, hairstyle and pink outfit consistent. Dark rainy atmosphere, cool blue-gray tones mixed with warm fluorescent lights, cinematic depth of field, volumetric lighting, realistic skin, water and reflections, subtle film grain, 4K anamorphic Hollywood action style.
+
+Add large white brush-stroke typography “RUN” briefly across the center.
+
+No cartoon look, CGI appearance, distorted anatomy, extra fingers, duplicated people or face changes.</code></pre>
+
+</details>
+
+## Realistic handheld 30‑second street‑life video of a young Korean woman
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2091554022297936297)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3676](https://imglume.com/prompt/3676)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0d223f30-bab5-40b1-93eb-7210a2ffbd85/bc8c4f18-f889-4680-97c8-99535b6d073c-1787532817698 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic, cinematic 30-second video for Seedance 2.5 featuring the same young Korean woman throughout the entire sequence, with consistent facial identity, body proportions, hairstyle, clothing, and natural skin texture.
+
+SUBJECT:
+A beautiful Korean woman in her early 20s with a natural, believable appearance. She wears an attractive everyday summer outfit: a fitted cropped T-shirt, stylish high-waisted casual shorts that are fashionable but natural for everyday streetwear, clean black sneakers, and a delicate simple necklace. Her black hair is loosely tied back with a few natural strands framing her face. Minimal makeup, realistic skin texture, subtle imperfections, expressive eyes and a relaxed, confident personality.
+
+SETTING:
+A charming older Korean neighborhood on a warm late-afternoon day. Narrow residential streets, low concrete houses, small local shops, parked bicycles and scooters, utility poles, faded signs, leafy trees, pedestrians in the distance and authentic Korean street details. The environment must feel genuinely lived-in rather than staged.
+
+VISUAL STYLE:
+Ultra-photorealistic cinematic documentary footage with the feeling of an authentic viral street-life video. Natural sunlight, realistic shadows, physically accurate reflections, believable skin and fabric textures, subtle lens imperfections, realistic depth of field and natural motion. High-quality modern capture with occasional handheld movement that feels human-operated, not artificially generated. No excessive beauty filter, plastic skin, CGI appearance or overly perfect composition.
+
+30-SECOND SEQUENCE:
+
+0–5 SEC:
+The woman walks casually through the narrow neighborhood street toward the camera, occasionally glancing around. A gentle breeze moves her hair and T-shirt naturally. The camera follows her from slightly behind and then moves alongside her.
+
+5–10 SEC:
+She notices a tiny neighborhood snack shop and slows down. She looks through the open storefront, smiles naturally and walks closer. Capture small spontaneous gestures and realistic eye movement.
+
+10–16 SEC:
+She orders a popular Korean street snack from the vendor. Show close-up details of the food being prepared: steam rising, utensils moving, sizzling sounds and realistic hand movements. She watches with genuine curiosity and exchanges a short laugh with the vendor.
+
+16–22 SEC:
+She receives the hot snack, carefully blows on it because it is still hot, then takes her first bite. Her reaction is spontaneous and genuinely happy. Capture a brief close-up of her expression followed by a wider handheld shot.
+
+22–27 SEC:
+She suddenly notices the camera filming her. She gives a playful surprised smile, steps slightly toward the lens and casually gestures as if inviting the viewer to follow her. Keep the interaction natural and unscripted-looking.
+
+27–30 SEC:
+She turns and continues walking down the neighborhood lane. The camera follows for a few steps before naturally falling behind. End with her disappearing around a corner while the warm afternoon street ambience continues.
+
+CAMERA:
+Natural handheld cinematography, subtle operator movement, realistic walking camera motion, occasional focus adjustment, natural rack focus between the woman and surroundings, realistic motion blur, mild exposure adaptation and imperfect framing. Mix medium tracking shots, environmental wides, natural close-ups and over-the-shoulder shots. Avoid excessive camera movement or artificial cinematic effects.
+
+AUDIO:
+Authentic Korean neighborhood ambience only: footsteps, distant conversations, birds, passing scooters, bicycles, cooking sounds, light traffic, food sizzling, utensils and natural street noise. Include short natural Korean conversation between the woman and vendor, but keep dialogue casual and understated. NO background music.
+
+REALISM REQUIREMENTS:
+Maintain exact character identity across every shot. No face changes, age changes, hairstyle changes, clothing changes, duplicate people, warped hands, extra fingers, distorted food, floating objects, impossible shadows, inconsistent lighting, artificial facial expressions, unnatural walking, rubbery motion, text artifacts or CGI-looking environments. Every interaction must obey real-world physics. Make the entire sequence feel like genuine footage captured spontaneously in a real Korean neighborhood.
+
+FORMAT:
+30 seconds, high-quality Seedance 2.5 generation, cinematic realism, natural 16:9 composition, detailed environmental textures, believable human motion, coherent continuity between shots, professional image quality while retaining the authenticity of real handheld street footage.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic smartphone found-footage house party video
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091153699070746795)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `ugc`
+- **ImgLume record:** [3599](https://imglume.com/prompt/3599)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/68bb7517-3a64-4aa0-8b0b-f07c540538ab/0ece987e-5ee7-4efd-9d09-ca72890bba80-1787467694922 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic smartphone found-footage video of a massive suburban house party at night. It should feel like chaotic footage captured on different partygoers’ phones, with realistic handheld movement rather than polished cinematography. All visible people are clearly 21+ adults.
+
+Use the provided reference image as the strict visual reference for the main woman. Keep her face, facial structure, skin tone, hairstyle, hair color, body proportions, outfit, makeup and accessories consistent and recognizable throughout.
+
+TIMELINE
+
+0–5s — Arrival: Start directly inside a crowded house. A shaky phone follows the woman through dancing guests. Show friends greeting her, packed hallways, phones recording, warm lights, flashes, laughter and raised cups with soft drinks.
+
+5–10s — Interior Party: The crowd becomes denser. Show the woman dancing with friends, spontaneous dance circles, confetti, group selfies, food-covered counters and flashing phones. Use quick reframing, autofocus shifts, motion blur and people briefly blocking the lens.
+
+10–15s — Pool Reveal: Hard cut to a huge backyard packed with adults around a swimming pool, lawn, patio and balcony. Show dancing, safe pool jumps, splashing water, colorful inflatables, string lights and sprinklers. Briefly let water or a person obstruct the phone.
+
+15–20s — Giant Celebration: Everyone joins one enormous group moment. Show raised hands, cheering, streamers, bubbles, beach balls, confetti and multiple phones filming. Keep the woman clearly recognizable at the center while the camera is pulled through the crowd.
+
+20–25s — Party Everywhere: Rapid cuts between the porch, lawn, garden, living room and backyard. Show dancing, snacks, glowing wristbands, playful videos, countdowns, cheering and confetti. The scale and energy should continue increasing.
+
+25–30s — Finale: Reach maximum intensity. The woman dances with friends, looks directly into the phone and smiles before reaching toward the camera. The phone spins through laughing faces, lights and confetti, then falls safely onto a cushioned outdoor chair. Friends lean into frame laughing and waving. End abruptly mid-celebration.
+
+VISUAL STYLE
+
+Use 40–50 rapid micro-cuts, generally 0.4–0.8 seconds each. Authentic smartphone footage: strong handheld shake, imperfect framing, tilted horizons, accidental whip-pans, autofocus hunting, rolling-shutter wobble, natural motion blur, low-light digital noise, clipped flash highlights, lens smears and frequent foreground obstructions. No cinematic stabilization, drone shots, slow motion, beauty filters, glossy nightclub look or artificial glitch effects.
+
+AUDIO
+
+Original bass-heavy party music recorded through smartphone microphones, layered with adult conversations, cheering, laughter, footsteps, pool splashes, sprinklers, wind and phone sounds. Realistic microphone compression and mild clipping, with intensity increasing toward the finale.
+
+Overall: Make it feel like an enormous, unpredictable, playful and believable 30-second viral camera-roll montage, with the party growing continuously bigger and more chaotic while the main woman remains visually consistent.</code></pre>
+
+</details>
+
+## 烛九阴异兽视频生成 Prompt
+
+- **Original source:** [@jackzhang123vip on X](https://x.com/jackzhang123vip/status/2091108174728491245)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3596](https://imglume.com/prompt/3596)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2b0a1566-478a-4751-9a22-ea5b123c9a3a/d543aa0e-87f7-458b-b205-37b96ec2254e-1787467675746 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>一片冰封荒原与雪山峡谷之中，山海经异兽烛九阴的巨大神躯盘绕天地，暗红色鳞片覆盖整片山谷，蛇身缓缓扭动，带动周围冰雪震颤与寒雾翻涌。天空中巨大的黑色日轮高悬，云层高速流动，露出若隐若现的古神面孔。地面中央一个渺小的白衣人类静静站立，衣袍在寒风中轻轻摆动。镜头以超广角低机位缓慢向前推进，冰面反光清冷，空气中飘散雪粒与碎冰，整体呈现东方神话、末日降临、史诗巨物压迫感。电影级光影，体积雾，超写实，8K，高细节。</code></pre>
+
+</details>
+
+## 强良异兽视频生成 Prompt
+
+- **Original source:** [@jackzhang123vip on X](https://x.com/jackzhang123vip/status/2091108174728491245)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3595](https://imglume.com/prompt/3595)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/294b06c0-9ca2-4ebe-8ed2-26f2ffec2e70/a211d4f4-00a4-4125-8416-1ffe1a76f53f-1787467675746 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>冰封雪原之上，山海经异兽强良化为一头山岳般巨大的白色雷虎，正面匍匐压来。它张开血盆大口发出无声低吼，獠牙间垂落黑色黏液与诡异触须，脸部伤痕累累，一只残破眼眶空洞可怖，另一只眼闪烁凶光。蓝白色雷电在它的毛发、獠牙与躯体四周不断跳跃，电弧噼啪闪动。前景中一名渺小战士手持长枪站在雪原中央，衣袍与长发被狂风吹动。周围暴雪呼啸，寒雾翻腾，巨虎前爪微微压地，带起冰雪震动。镜头低机位正面缓慢推进，压迫感越来越强，形成史诗级人兽对峙。超写实，电影级BOSS战氛围，8K，高细节，东方黑暗神话风格。</code></pre>
+
+</details>
+
+## Summer Ice Cream Chase in Korean Neighborhood (Seedance 2.5)
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2091367526269890735)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3588](https://imglume.com/prompt/3588)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/47dcf051-0b8a-4399-834c-6a41fe70c28d/6afd6c57-dd43-4cf2-8b33-b9889519ac4b-1787465452315 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young Korean woman, early 20s, natural appearance, fitted pastel-blue short top, loose white pajama pants, black sneakers, simple silver necklace, black wavy hair tied into a messy side ponytail. Realistic skin texture, minimal makeup, consistent identity throughout.
+
+Peaceful Korean residential neighborhood on a hot summer afternoon. Small homes, narrow concrete alleys, potted plants, bicycles, old walls, overhead wires and a tiny neighborhood ice cream shop at the end of the street.
+
+Early-2000s handheld DV camcorder operated by a friend. Strong camera shake, drifting composition, autofocus hunting, faded colors, soft digital image, exposure shifts, occasional motion blur and imperfect zooms.
+
+She steps outside her house holding a small fan, looking overheated.
+She suddenly hears the familiar sound of an ice cream truck bell and looks toward the end of the alley.
+She spots the truck turning the corner and immediately starts running after it, laughing as the camera struggles to keep up.
+She finally catches it and excitedly chooses a colorful ice cream, holding it up proudly toward the camera.
+She walks away taking her first bite, then notices the ice cream is already melting down her hand.
+She panics, runs toward a nearby outdoor water tap and tries to clean her sticky fingers while laughing.
+Her friend zooms in awkwardly on her messy face and melting ice cream. She looks directly at the camera, shakes her head and says, “Still worth it.”
+
+She walks back down the sunny alley eating the ice cream as the camera follows behind her.
+
+Audio: Ice cream truck bell, birds, summer insects, footsteps, distant children, bicycle bells, water running and natural neighborhood ambience. No music, no narration.
+
+Warm summer sunlight, nostalgic DV colors, authentic handheld imperfections, realistic ice cream melting, natural expressions, candid everyday-life energy and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic fantasy video of a glowing glass-metal orb traveling through diverse environments
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2091099759490531436)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3558](https://imglume.com/prompt/3558)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6b2d6527-3d7e-4c00-a8cc-8bc6bb88b0e0/3a45735e-0653-4743-87d7-bd46a67ac3d4-1787419324314 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic fantasy video centered around a small, perfectly spherical, highly reflective glowing glass-metal orb. The orb must remain the main subject and maintain the exact same shape, size, material, color, and appearance throughout the entire video. Begin in a magical dense green forest at sunrise, with lush ferns, wet leaves, water droplets, soft golden sunlight, volumetric light rays, mist, and realistic shadows. The camera moves smoothly in a cinematic macro style as the reflective orb gently rolls across a wet leaf and falls toward the forest floor. Seamlessly transition into a crystal-clear shallow mountain stream surrounded by moss-covered stones and dense green vegetation. The orb moves naturally through the flowing water, creating tiny realistic ripples, splashes, and beautiful reflections. Seamlessly transition into a breathtaking prehistoric landscape where a gigantic dinosaur walks slowly through shallow water in the background while the tiny reflective orb remains in the foreground. Add mist, prehistoric vegetation, distant mountains, warm sunlight, atmospheric depth, and realistic water reflections. Seamlessly transition into a frozen mountain valley covered with snow and transparent ice. The orb glides smoothly across a thin layer of ice and melting snow, creating subtle reflections and tiny cracks in the ice. Show detailed frozen textures, distant mountains, soft cloudy daylight, and cinematic atmospheric lighting. Seamlessly transition into a peaceful ancient riverside village with traditional wooden houses, palm trees, small wooden boats, and calm reflective water. The orb travels smoothly along the center of the river while warm sunset light creates beautiful reflections on the water. Finally, transition into an elegant futuristic environment made entirely of transparent glass, crystal, and polished reflective surfaces. The orb slowly moves between glass structures while colorful cinematic lights create stunning reflections, refractions, and soft bokeh in the background. Use seamless transitions between every environment, ultra-realistic physics, photorealistic textures, realistic water and reflections, cinematic depth of field, macro photography, volumetric lighting, atmospheric fog, smooth camera movement, dramatic composition, 4K/8K detail, premium Hollywood cinematic quality. Keep the orb perfectly consistent throughout the entire video. No text, no subtitles, no logos, no watermark, no flickering, no distorted objects, no duplicate orb, no unnatural movement.</code></pre>
+
+</details>
 
 ## Photorealistic Korean city bus chase video
 

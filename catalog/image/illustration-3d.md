@@ -1,9 +1,185 @@
 # Illustration 3d image prompts
 
-59 source-linked prompts, newest ImgLume records first.
+66 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Theme Based Collage – thinking of you
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2091815882057990475)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3741](https://imglume.com/prompt/3741)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c4407f1f-7416-48bf-b2cf-96aa5e448aeb/dbf2bf1d-7b8a-45f6-8d78-c27d11a582bf-1787585183579 "THEME = thinking of you
+STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
+PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
+ASPECT RATIO = 1:2") · [2](https://cdn.imglume.com/prompts/byradar/c4407f1f-7416-48bf-b2cf-96aa5e448aeb/08d715f6-d9c4-4a7f-8df8-1ac5dea53748-1787585183579 "THEME = we don't talk anymore
+STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
+PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
+ASPECT RATIO = 1:2") · [3](https://cdn.imglume.com/prompts/byradar/c4407f1f-7416-48bf-b2cf-96aa5e448aeb/cf822061-9a31-44c4-85b0-6edc6aabb18e-1787585183579 "THEME = sleepless night
+STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
+PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
+ASPECT RATIO = 1:2") · [4](https://cdn.imglume.com/prompts/byradar/c4407f1f-7416-48bf-b2cf-96aa5e448aeb/86e1ee5f-d739-4502-bd87-e2f7e5e87cbc-1787585183579 "THEME = almost lovers
+STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
+PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
+ASPECT RATIO = 1:2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THEME = thinking of you
+STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
+PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
+ASPECT RATIO = 1:2</code></pre>
+
+</details>
+
+## Theme Based Collage – almost lovers
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2091815882057990475)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3739](https://imglume.com/prompt/3739)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37fc19ec-92d9-4807-b399-507ea887e7ad/8d975953-2473-47b2-a311-28c63efb9b9a-1787585183579 "THEME = thinking of you
+STYLE = clean hand-drawn editorial illustration, playful naïve urban sketching, flat matte colors, loose imperfect ink contours, contemporary picture-book sophistication
+PALETTE = powder blue, warm cream, coral pink, burnt orange, mustard, leafy green, brick red, black accents
+ASPECT RATIO = 1:2") · [2](https://cdn.imglume.com/prompts/byradar/37fc19ec-92d9-4807-b399-507ea887e7ad/ea1c617c-638d-48dd-a407-3ad51eb42e58-1787585183579 "THEME = we don't talk anymore
+STYLE = minimalist contemporary editorial illustration, precise thin linework, large empty spaces, abstract architectural geometry, restrained flat color
+PALETTE = off-white, charcoal, muted navy, faded orange, dusty pink
+ASPECT RATIO = 1:2") · [3](https://cdn.imglume.com/prompts/byradar/37fc19ec-92d9-4807-b399-507ea887e7ad/38ee5723-0bc2-46f3-9f51-02db817b412a-1787585183579 "THEME = sleepless night
+STYLE = expressive retro graphic novel illustration, loose ink drawing, flat saturated color fields, exaggerated perspective, dramatic blocks of light
+PALETTE = ultramarine blue, acid green, hot red, amber yellow, black
+ASPECT RATIO = 1:2") · [4](https://cdn.imglume.com/prompts/byradar/37fc19ec-92d9-4807-b399-507ea887e7ad/6bcce653-d909-4f17-a07d-deffe245581e-1787585183579 "THEME = almost lovers
+STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
+PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
+ASPECT RATIO = 1:2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>THEME = almost lovers
+STYLE = delicate watercolor editorial illustration, sparse pencil linework, translucent color washes, soft imperfect edges, elegant negative space
+PALETTE = dusty rose, faded blue, ivory, muted burgundy, soft gray
+ASPECT RATIO = 1:2</code></pre>
+
+</details>
+
+## Miniature 3D Travel Illustration of \[CITY/COUNTRY\] on Paper
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091744246021992669)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3719](https://imglume.com/prompt/3719)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac900c28-c09a-46aa-a0f2-7b7cd51ecaff/75151642-e74a-4585-aee3-b3b6f7a96e9e-1787568359208 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ac900c28-c09a-46aa-a0f2-7b7cd51ecaff/196c1e79-273c-4e4c-b7fb-05fea116d2f7-1787568359208 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ac900c28-c09a-46aa-a0f2-7b7cd51ecaff/16e92dbf-0e5f-4004-b10e-6f0a25bcb55a-1787568359208 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming miniature 3D travel illustration on a clean white textured paper background, inspired by a handcrafted paper-cut souvenir postcard. Build a small floating city diorama featuring the iconic landmarks and cultural symbols of [CITY/COUNTRY] arranged together on a narrow elevated stone-and-brick platform, with a soft watercolor-painted patch of blue water underneath. Include recognizable local architecture, monuments, transportation, trees, street lamps, flags, small signs, and a few tiny people, all rendered as detailed handcrafted miniature models. Add a small airplane flying overhead with a playful dotted flight path, simple hand-drawn clouds and birds in the surrounding negative space. Use soft pastel colors, subtle warm lighting, delicate shadows, realistic miniature textures, paper-cut edges, handcrafted clay-and-paper aesthetic, whimsical yet sophisticated travel-poster design, lots of clean white negative space, centered composition, adorable collectible souvenir aesthetic. Add elegant handwritten-style text at the bottom reading “[CITY] ”. Vertical 4:5 composition, highly detailed, polished, clean, nostalgic, premium travel illustration, no clutter, no photorealistic background.</code></pre>
+
+</details>
+
+## Hybrid Human Portrait Illustration Prompt
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2091492763397411268)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3654](https://imglume.com/prompt/3654)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7882770e-d032-47e0-b32f-755f5e1f3319/9432bc0d-b128-4190-8688-171b3bd87724-1787501198323 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7882770e-d032-47e0-b32f-755f5e1f3319/305635a7-a2ad-4c44-a4d6-3ab5f0561e56-1787501198323 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7882770e-d032-47e0-b32f-755f5e1f3319/1fd40fbe-8830-4228-a881-af34dcf36e7d-1787501198323 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"Made a same with object!
+A sophisticated hybrid human portrait style that seamlessly combines the whimsical, glossy dimensional rendering of a premium 3D fantasy illustration with the clean, elegant simplicity of contemporary flat vector portraiture.
+
+Depict the human subject with recognizable anatomy, natural facial proportions, authentic expression, and clearly identifiable features, while transforming the overall appearance into a refined stylized illustration. The face should combine smooth dimensional modeling with simplified graphic planes: softly sculpted skin, subtle volumetric shading, delicate highlights, clean angular shapes, and carefully controlled flat-color regions.
+
+Use the visual language of premium digital character illustration: luminous expressive eyes, softly rendered skin, smooth flowing hair with layered strands, polished highlights, gentle depth, tactile surfaces, and subtle painterly transitions. At the same time, simplify the rendering with elegant vector-like shapes, clean silhouettes, controlled linework, minimal visual noise, and clearly defined color planes inspired by modern editorial portrait illustration.
+
+Integrate flowing artistic elements around the human figure, such as fluid paint splashes, soft liquid ribbons, abstract organic shapes, delicate botanical forms, petals, leaves, and small floating decorative fragments. These elements should feel energetic and three-dimensional, organically emerging from the portrait rather than appearing as a separate background decoration.
+
+Hair should combine clean graphic masses with silky dimensional strands and sweeping flowing shapes. Facial features should remain refined and human, enhanced with subtle geometric simplification rather than exaggerated cartoon distortion. Clothing should use bold simplified silhouettes with restrained geometric detailing, maintaining an elegant contemporary fashion-illustration appearance.
+
+Color treatment should merge the warm, restrained palette of modern vector portraiture with the vibrant tropical energy of whimsical fantasy illustration: warm coral, orange, cream, peach, turquoise, cyan, sky blue, deep navy, emerald, red, golden yellow, and subtle lavender accents. Use mostly clean saturated color fields, enhanced selectively with soft gradients, glossy highlights, translucent edges, and gentle volumetric illumination.
+
+Background should remain clean and uncluttered, preferably a simple warm solid or softly textured backdrop, allowing the human subject and surrounding artistic splashes to remain the primary focus.
+
+The final aesthetic should feel like an original fusion of elegant editorial vector portrait, contemporary digital painting, whimsical 3D character illustration, premium fashion artwork, and colorful fluid fantasy art — clean yet richly dimensional, sophisticated yet playful, expressive, polished, tactile, modern, artistic, and visually distinctive.
+
+Style priority: human portrait realism and recognizable anatomy first, elegant vector simplification second, glossy dimensional rendering third, fluid fantasy accents fourth. Avoid photorealism, avoid overly cartoonish proportions, avoid excessive geometric fragmentation, avoid plastic-looking skin, avoid cluttered backgrounds, and avoid generic AI-art appearance. Ar 9:16!"</code></pre>
+
+</details>
+
+## Luxurious Dreamy Country Travel-Art Collection Prompt
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091391283063361558)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3639](https://imglume.com/prompt/3639)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/1f13d9a0-a6cc-4d05-9920-bcfb8238318a-1787492846290 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/1d66e958-be5d-4b85-aa06-72c8bdc8b1a5-1787492846290 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/0633e9b9-8977-4de7-9399-60325b1ab214-1787492846290 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/a937b464-aeed-4eb9-9e28-737ca72d5a50/4c9446ca-d4ea-463d-a842-93d85c03561b-1787492846290 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.</code></pre>
+
+</details>
+
+## Highly detailed photorealistic miniature Rio de Janeiro travel-poster diorama
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2091408386466214031)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3633](https://imglume.com/prompt/3633)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/cf7a5fae-fdbe-4858-b2a9-731d852c99de-1787490670560 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/37ec3c2a-88dc-44f2-94ba-04583d673c01-1787490670560 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/6bafe02c-3a2b-4868-8c34-f01c05e5220c-1787490670560 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/9f0d906c-eaf1-408b-9d20-2708b78cb523/62800c79-df01-4c9c-8749-f5351c9239cc-1787490670560 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly detailed, photorealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.
+
+In the foreground, a realistic human hand holds a vintage Brazilian travel ticket or Rio-themed transit card vertically on the left side. Give the card aged paper texture, subtle printing imperfections, elegant typography, and authentic-looking travel details. From behind the card, a miniature Rio de Janeiro landscape physically rises outward like an intricate pop-up diorama.
+
+Make Christ the Redeemer the dominant central landmark, positioned high above a miniature cityscape with lush green mountains surrounding it. Below, build a tiny realistic Rio street featuring a classic yellow taxi, colorful buildings, palm trees, pedestrians, cyclists, street lamps, tiled sidewalks, and small Brazilian urban details. Add Copacabana beach elements in the distance with tiny umbrellas, beachgoers, and a glimpse of the Atlantic Ocean. Layer the architecture and terrain so everything appears physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, cast shadows, overlapping surfaces, and a slight three-quarter perspective.
+
+Around the main 3D scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cream paper. Include a small Sugarloaf Mountain sketch in the upper left, an artistic Copacabana promenade illustration in the upper right, a detailed Selarón Steps sketch along the right side, and a small Ipanema beachfront skyline drawing near the bottom. Add subtle handwritten travel notes, tiny map markings, architectural outlines, compass symbols, postage-stamp details, and understated Brazilian travel annotations.
+
+Keep the composition refined rather than crowded. Blend realistic miniature photography with vintage travel-journal design, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio lighting, gentle shadows, subtle film grain, and a sophisticated cream, charcoal, muted green, ocean blue, and Brazilian yellow palette.
+
+The final image should feel like a premium collectible Rio de Janeiro travel postcard transformed into a physical miniature world, with the central diorama sharply detailed and the surrounding illustrations slightly softer. Highly realistic human hand and fingers, believable miniature materials, cinematic product photography, editorial travel-magazine aesthetic, shallow depth of field, ultra-fine textures, photorealistic 3D details, vertical 4:5 composition, 8K quality.</code></pre>
+
+</details>
+
+## Colossal White Marble Angel Statue in Baroque Cathedral Rotunda
+
+- **Original source:** [@MO_IAI on X](https://x.com/MO_IAI/status/2091193689036964011)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3571](https://imglume.com/prompt/3571)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f7d01a3f-f3ef-42f0-be43-e4fc68471c4c/907391a9-e494-44af-be8d-924dca3c4052-1787438182766 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f7d01a3f-f3ef-42f0-be43-e4fc68471c4c/07d92427-c15e-47d2-8c1e-b58a8de88bb7-1787438182766 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f7d01a3f-f3ef-42f0-be43-e4fc68471c4c/ceff2918-2293-4304-b997-3fae12b8cf35-1787438182766 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/f7d01a3f-f3ef-42f0-be43-e4fc68471c4c/1dcf22de-05d6-4059-9e11-7b1f7647d6f4-1787438182766 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>colossal white marble angel statue with spread wings standing atop an ornate gilded baroque pedestal at the center of a vast cathedral rotunda, holding a staff raised toward the heavens, massive domed ceiling with a circular oculus opening revealing swirling volumetric clouds and radiant light pouring through, intricate gold leaf baroque architectural details, marble columns and arches radiating outward in perfect symmetry, tiny silhouetted robed figures gathered on the stairs at the statue's base for scale, hyper-detailed photorealistic 3D render, cinematic volumetric god-rays, high dynamic range, luminous white and gold color palette, awe-inspiring sacred atmosphere, ultra-detailed textures, dramatic vertical composition, low angle shot.</code></pre>
+
+</details>
 
 ## Giant Ceramic Coffee Mug Miniature Café
 

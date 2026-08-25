@@ -1,9 +1,762 @@
 # Travel video prompts
 
-55 source-linked prompts, newest ImgLume records first.
+66 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Spontaneous Vacation Vlog in Indonesia – Hidden Lagoon Discovery
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2091861064782839897)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3744](https://imglume.com/prompt/3744)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9ca91b29-b7c3-420b-b10d-ed430294e337/cf6d4c8b-4b4e-4df3-9f7b-c0f530c3a9ff-1787585217941 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Authentic modern handheld vacation vlog
+
+PRESERVE IDENTITY:
+
+Preserve the exact face, hairstyle, identity, skin tone, facial features and body proportions from @image1 throughout the entire video.
+
+The same adult Indonesian woman must appear consistently throughout every shot.
+
+WARDROBE:
+
+Oversized terracotta linen shirt, dusty burgundy wide-leg trousers, brown leather sandals, small gold hoop earrings, loose natural wavy hair.
+
+CORE CONCEPT:
+
+A spontaneous modern vacation vlog in Indonesia where the woman and her local boat guide accidentally discover an incredibly beautiful hidden lagoon.
+
+The location should feel real and unexplored, not like a tourist attraction.
+
+The video must immediately create curiosity and keep revealing something new every few seconds.
+
+VISUAL STYLE:
+
+Ultra-photorealistic modern live-action.
+
+Natural handheld vacation footage.
+
+Slight camera shake.
+
+Occasional imperfect framing.
+
+Natural autofocus adjustments.
+
+Realistic exposure changes.
+
+Subtle motion blur.
+
+Natural skin texture.
+
+Realistic sunlight.
+
+No artificial beauty filter.
+
+No excessive cinematic polish.
+
+No perfectly composed shots.
+
+No gimbal-perfect movement.
+
+The camera should feel like a friend casually filming the trip on a modern handheld camera/phone.
+
+00:00–00:04 — INSTANT HOOK
+
+Start in the middle of the boat ride.
+
+Do NOT show an introduction.
+
+The camera is pointed toward the ocean.
+
+The woman suddenly points ahead and says:
+
+“Wait… is that a beach?”
+
+The camera quickly swings toward a narrow opening between two large tropical cliffs.
+
+A tiny strip of white sand is barely visible through the opening.
+
+She laughs:
+
+“Go there!”
+
+The boat immediately turns toward it.
+
+00:04–00:08 — SECRET COVE
+
+The boat passes between the cliffs.
+
+The camera reveals a completely secluded turquoise cove.
+
+Crystal-clear water.
+
+White sand.
+
+Palm trees.
+
+Dark volcanic rocks.
+
+No tourists.
+
+The woman stands carefully in the moving boat.
+
+She looks around in disbelief.
+
+She says:
+
+“How is nobody here?”
+
+The camera operator responds naturally:
+
+“I don’t know!”
+
+00:08–00:12 — JUMP
+
+The woman looks down at the crystal-clear water.
+
+She smiles mischievously.
+
+She looks at the camera.
+
+“Should I?”
+
+Before the camera operator can answer, she jumps into the water.
+
+A huge splash hits the lens.
+
+The camera shakes and briefly loses the subject.
+
+Natural laughter.
+
+00:12–00:16 — UNDERWATER
+
+The camera follows her underwater.
+
+Clear tropical water.
+
+Sun rays visible beneath the surface.
+
+Small colorful fish moving around the rocks.
+
+She swims toward a small underwater cave.
+
+The camera follows.
+
+She suddenly points inside.
+
+Something shiny is visible between the rocks.
+
+She looks surprised.
+
+00:16–00:20 — THE DISCOVERY
+
+She surfaces and swims toward the boat.
+
+She holds up a small old-looking seashell with unusual markings.
+
+She laughs and says:
+
+“Look what I found!”
+
+The boat guide looks at it and says something naturally in Indonesian.
+
+She looks confused, then laughs.
+
+Keep the dialogue natural and imperfect.
+
+00:20–00:24 — RUNNING ON THE BEACH
+
+She climbs onto the beach.
+
+Instead of posing, she immediately runs toward the waterline.
+
+The camera follows behind her.
+
+She spins around, laughing.
+
+A small wave catches her feet.
+
+She almost loses balance.
+
+She laughs harder.
+
+The camera operator laughs too.
+
+00:24–00:27 — THE VIEW
+
+She walks toward a rocky edge at the far side of the cove.
+
+The camera follows.
+
+As she reaches the rocks, the view opens to an enormous turquoise ocean stretching into the distance.
+
+She stops.
+
+No dialogue for a moment.
+
+Only wind and ocean.
+
+She quietly says:
+
+“Okay… this is unreal.”
+
+00:27–00:30 — MEMORABLE ENDING
+
+She suddenly notices the boat moving away from the beach.
+
+She looks back.
+
+“HEY!”
+
+She starts laughing and runs toward the boat.
+
+The camera operator laughs while trying to follow her.</code></pre>
+
+</details>
+
+## Realistic handheld vlog of a young Japanese woman exploring a quiet harbor town
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2091730127562674660)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `travel`, `ugc`
+- **ImgLume record:** [3734](https://imglume.com/prompt/3734)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4c9597ee-c284-48cf-9a7b-5b2b5889850a/c6eebd99-e20b-4333-b817-73062f25aab1-1787581033886 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Realistic vlog of a young Japanese woman exploring a quiet Japanese harbor town. It must look like real casual phone footage, not cinematic or AI-generated.
+Keep her face, hair, outfit, and appearance consistent. Natural skin texture, pores, realistic hair strands, genuine expressions and normal human movement.
+
+00:00–00:02: Selfie shot walking through a small harbor market, smiling while vendors arrange fresh fruit.
+
+00:02–00:04: Handheld follow shot crossing a weathered wooden bridge over a narrow canal, gently touching the railing.
+
+00:04–00:06: Tiny bakery window. An elderly shop owner gives her a paper-wrapped snack; she laughs naturally.
+
+00:06–00:08: Quiet seaside path. She watches children flying a kite, then turns toward the camera.
+
+00:08–00:10: Sitting under a large tree beside bicycles, casually looking through old postcards.
+
+00:10–00:12: Barefoot at the shoreline as small waves touch her feet and wind moves her hair.
+
+00:12–00:15: Selfie while walking away from the beach, smiling and saying something playful in Japanese before the recording suddenly stops.
+
+Style: Handheld smartphone, slight natural shake, imperfect framing, autofocus shifts, realistic motion blur, natural daylight, subtle exposure changes, real-world textures and phone compression.
+
+Audio: Only natural ambience—waves, birds, children, bicycle bells, footsteps, breeze, harbor sounds and distant conversations. No music, no cinematic effects, no beauty filter, no CGI look, no commercial aesthetic.</code></pre>
+
+</details>
+
+## Handheld Vacation Vlog in Jeonju Hanok Village – 30s Ultra-Photorealistic Video
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2091820691100496381)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [3730](https://imglume.com/prompt/3730)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/07fc959f-1e6c-4874-b975-181a70b11953/af82673b-fec5-4c2e-8d35-601f55be9d56-1787576955789 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
+
+Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from &lt;&lt;&lt;image_1&gt;&gt;&gt; throughout the entire video. The same woman must appear consistently in every shot.
+
+VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
+
+Outfit: rented pastel pink hanbok with a cream jeogori top, hair styled in a traditional low braid with a small ribbon, white cotton socks, black traditional flat shoes. The entire video must feel like one genuine recording captured by a friend on a daytime trip through Jeonju Hanok Village, South Korea, not a staged commercial or cinematic recreation.
+
+00:00–00:04 — DAYTIME ARRIVAL
+The woman walks down a sunny stone-paved lane lined with traditional hanok houses, tourists strolling nearby in colorful hanbok.
+The camera bounces gently behind her, then swings around to her smiling face.
+She says:
+"Look at me, I finally get to wear a hanbok!"
+
+00:04–00:08 — TRADITIONAL TEA HOUSE
+She steps into a small traditional tea house courtyard with wooden benches and hanging paper lanterns.
+The camera focus hunts between a steaming teapot and her face as she sits down.
+She watches an elderly tea master pour tea with careful, practiced movements.
+
+00:08–00:12 — FIRST SIP
+She picks up the small ceramic cup, blows on it, takes a sip.
+Her expression shows pleasant surprise.
+She turns to the camera and says:
+"It's so fragrant, I love it already."
+The camera operator chuckles softly off-screen.
+
+00:12–00:16 — CHATTING WITH THE TEA MASTER
+She sits cross-legged at the low table, chatting with the tea master, who explains something while gesturing at the teapot.
+She nods, laughs at a joke, and awkwardly attempts to pour tea herself, spilling a little.
+Everyone at the table laughs naturally, no exaggerated acting.
+
+00:16–00:20 — HANJI CRAFT ATTEMPT
+A nearby craft table has traditional hanji paper fans being decorated.
+She sits down and tries painting a simple pattern on a fan, her lines coming out slightly crooked.
+She holds it up to the camera, laughing, and says:
+"Okay, I'm definitely not an artist."
+
+00:20–00:24 — WALKING THE VILLAGE
+She walks along the hanok streets, fan in hand, passing shops, rooftops, and other tourists in hanbok.
+A group of children in hanbok run past giggling; she waves and laughs.
+The camera swings briefly toward the rooftops before returning to her.
+
+00:24–00:27 — QUIET MOMENT
+She stops at a scenic overlook where rows of curved hanok roofs stretch into the distance under the afternoon sun.
+For a moment there's no dialogue — just wind, distant chatter, and birds.
+She smiles and says:
+"This view is unreal."
+
+00:27–00:30 — NATURAL ENDING
+She starts walking again, then turns back toward the camera with a playful grin, fan waving gently.
+"Okay, hanbok day complete. See you next time!"
+She laughs, spins slightly in her hanbok, and keeps walking.
+The camera lingers a moment longer before the footage naturally ends with a slight shake and imperfect cut.
+
+AUDIO
+Natural location sound only:
+- wind rustling paper lanterns
+- distant tourist chatter
+- footsteps on stone pavement
+- teapot pouring sounds
+- birds
+- children laughing and playing
+- fabric rustling from hanbok movement
+- faint distant street vendor calls
+- subtle camera handling sounds
+
+No intentional background music track — only naturally occurring ambient sound from the environment.</code></pre>
+
+</details>
+
+## Handheld Vacation Vlog in Busan Street Food Market
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2091842148970996054)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3728](https://imglume.com/prompt/3728)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a9568183-b133-4e12-aa95-5fbf04346767/0c9fa134-c589-4a39-87d9-922294b33096-1787576905913 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
+
+Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from &lt;&lt;&lt;image_1&gt;&gt;&gt; throughout the entire video. The same woman must appear consistently in every shot.
+
+VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
+
+Outfit: oversized cream knit cardigan over a plain black turtleneck, straight-leg dark denim jeans, white low-top sneakers, small silver hoop earrings, hair down straight with a loose scarf tied around the neck. The entire video must feel like one genuine recording captured by a friend while traveling through a real neighborhood in Busan, South Korea, not a staged commercial or cinematic recreation.
+
+00:00–00:04 — EVENING ARRIVAL
+The woman walks down a narrow alley near Gwangjang Market, string lights and steam rising from nearby carts, camera bouncing slightly behind her.
+She glances back at the camera and says:
+"Okay, I heard this market has the best street food in Busan!"
+
+00:04–00:08 — THE FOOD STALLS
+She arrives at a bustling street food stall lined with sizzling bindaetteok (mung bean pancakes) on a huge flat griddle.
+The camera zooms in shakily on the pancakes frying, focus hunting between the food and her face.
+She reacts with wide eyes and says:
+"Look at the size of that pancake!"
+
+00:08–00:12 — FIRST BITE
+The vendor hands her a hot bindaetteok wrapped in paper.
+She blows on it quickly, takes a bite, chews, eyes light up.
+She turns to the camera and says:
+"Oh my gosh, that's so crispy and good!"
+A faint laugh comes from the camera operator behind her.
+
+00:12–00:16 — CHATTING WITH LOCALS
+She sits on a small plastic stool at a crowded street counter beside two older local women.
+They chat animatedly, gesture at the food, and laugh together.
+She tries to repeat a Korean phrase they teach her, gets it slightly wrong, and everyone laughs warmly.
+
+00:16–00:20 — TRYING TTEOKBOKKI
+A vendor stirs a huge vat of bright red tteokbokki nearby.
+She steps over, picks up a small paper cup sample with a wooden skewer, tastes it, and her face scrunches from the spice.
+She fans her mouth and says:
+"Wow, that's spicier than I expected!"
+The vendor and nearby customers laugh at her reaction.
+
+00:20–00:24 — WALKING THE MARKET
+She strolls further through the market, passing glowing food carts, hanging lanterns, and busy shoppers.
+A few vendors call out greetings; she waves back, holding her half-eaten pancake.
+The camera swings briefly toward the lively stalls before swinging back to her.
+
+00:24–00:27 — QUIET MOMENT
+She stops near a quieter corner of the market where steam drifts up from a soup cart.
+For a moment there's no dialogue — just distant chatter, clinking bowls, and sizzling oil.
+She smiles softly and says:
+"This is exactly the kind of night I was hoping for."
+
+00:27–00:30 — NATURAL ENDING
+She starts walking away, then turns back toward the camera with a playful grin.
+"Okay, street food mission complete. See you next time!"
+She laughs, turns, and keeps walking into the market crowd.
+The camera lingers for a brief moment before the footage naturally ends with a slight shake and imperfect cut.
+
+AUDIO
+Natural location sound only:
+- sizzling griddles and frying oil
+- vendors calling out orders
+- market chatter and haggling
+- clinking bowls and utensils
+- distant K-pop or trot music faintly playing from a shop speaker (ambient only, not soundtrack)
+- footsteps on pavement
+- light evening breeze
+- distant traffic
+- natural human laughter
+- subtle camera handling sounds
+
+No intentional background music track — only naturally occurring ambient sound from the environment.
+
+STRICT NEGATIVE REQUIREMENTS
+No cinematic glamour.
+No studio lighting.
+No professional camera movement.
+No gimbal stabilization.
+No drone shots.
+No slow motion.
+No dramatic lens flares.
+No modern vlog aesthetic.
+No perfect framing.
+No artificial acting.
+No beauty retouching.
+No face changes.
+No identity drift.
+No hairstyle changes.
+No outfit changes.
+No subtitles.
+No captions.
+No logos.
+No watermarks.
+
+The final result should look like a real, slightly imperfect Korean vacation vlog recorded on a consumer flip camera around 2008–2009, with genuine human reactions, spontaneous interactions, imperfect framing, and the feeling that nothing was rehearsed.</code></pre>
+
+</details>
+
+## Young Korean woman in traditional market street, ultra-realistic documentary video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2091834835295932837)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3724](https://imglume.com/prompt/3724)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a3bf8d56-15fa-4d28-86e8-0fd426ba8389/9653e4e8-3c50-436a-b492-97ac1c05f9bc-1787576765697 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, early 20s, natural everyday appearance, oversized cardigan over a simple dress, small crossbody bag, hair down in loose waves, minimal makeup, realistic skin texture, curious cheerful personality.
+Location: Small traditional market street, mid-morning. Wooden stalls, hanging paper lanterns, steam rising from food carts, quiet passersby, potted plants outside shopfronts. No large crowds, no chain branding.
+Visual Style: Ultra-realistic documentary realism, candid unscripted feeling, warm natural morning light.
+Camera Style: Early 2000s consumer DV camcorder aesthetic, handheld shake, autofocus hunting between stalls and her face, faded soft contrast, mild sensor noise. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She stops at a food stall, then points at a tray of hotteok.
+00:03–00:06 → She receives one wrapped in paper, then says to camera "이거 진짜 따뜻하다" ("This is really warm").
+00:06–00:09 → She takes a careful bite, then fans her mouth at the heat.
+00:09–00:12 → She laughs at herself, then takes another smaller bite.
+00:12–00:15 → She looks at camera saying "완전 맛있어" ("It's so good"), walking on as it fades.
+Audio:
+Sizzling griddle, distant chatter, faint wind, paper rustling. Her dialogue as noted above. No music.
+Goal: A warm, candid street food moment cheerful, relatable, real.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic cinematic travel vlog of a young Chinese woman in narrow Chinese streets
+
+- **Original source:** [@aaliya_va on X](https://x.com/aaliya_va/status/2091795417331609780)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3718](https://imglume.com/prompt/3718)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/664258de-2dae-4b23-8907-619328b9c0e9/1a02be56-c8ca-466e-a7cf-4d9deafc0c6a-1787566281630 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic cinematic travel vlog featuring a young Chinese woman exploring the narrow streets of China.
+
+0–5 sec: She walks through a charming narrow old-town street, holding a small handheld camera and casually vlogging. Traditional Chinese buildings, hanging lanterns, bicycles, small shops, and locals create an authentic atmosphere.
+
+5–12 sec: She discovers a lively street-food stall. Close-up shots of sizzling food, steam rising from the wok, colorful ingredients, and the vendor preparing fresh food. She smiles and excitedly chooses a few local snacks.
+
+12–18 sec: She takes her first bite and reacts naturally with a happy expression. Show detailed close-ups of the food and her enjoying the flavors while surrounded by the lively street atmosphere.
+
+18–24 sec: She continues exploring while enjoying the pleasant weather, walking beneath trees and colorful storefronts. Natural sunlight, gentle breeze, and candid vlog-style camera movement make the scene feel authentic.
+
+24–30 sec: She gets on a bicycle and cycles through the narrow streets, smiling and enjoying the scenery. End with a cinematic wide shot of her cycling away through the beautiful Chinese street.
+
+Visual style: Ultra-photorealistic live-action, authentic Chinese street atmosphere, natural skin texture, realistic food details, cinematic lighting, smooth handheld vlog camera movement, subtle depth of field, warm natural colors, immersive travel-documentary feel, realistic ambient street sounds, consistent character appearance throughout.</code></pre>
+
+</details>
+
+## Ultra-photorealistic handheld smartphone travel vlog of a young Japanese woman exploring Tokyo
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2091733690531406028)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `travel`
+- **ImgLume record:** [3705](https://imglume.com/prompt/3705)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7f3682b3-e316-4bc5-9359-c6185d3a81ff/3ae71e4c-429e-4ec0-9310-831355959aa8-1787555816215 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-photorealistic handheld smartphone travel vlog of a young Japanese woman exploring Tokyo alone during a bright natural daytime. She should look like a real person casually recording her day, not a model or actress. Keep her face, hairstyle, body proportions and casual outfit consistent throughout. Use natural skin texture, visible pores, realistic hair strands, genuine expressions and normal human movement.
+0–5 sec: Selfie-style handheld shot as she walks through a lively Tokyo neighborhood in daylight, casually looking around at shops, bicycles and pedestrians. She smiles at the camera and says naturally in Japanese, “今日はちょっと散歩してみます。” (“I’m going for a little walk today.”)
+
+5–9 sec: She crosses a small pedestrian street and stops at a colorful Japanese vending machine. She chooses a cold drink, presses the button and catches the bottle naturally. Close smartphone framing with realistic autofocus and exposure adjustment.
+
+9–14 sec: She walks into a small Japanese convenience store. The camera switches between selfie and POV as she browses snacks, drinks and desserts. She picks up an interesting snack, looks at it curiously and smiles.
+
+14–18 sec: She pays and walks outside. Cut to a handheld side shot as she opens the snack while walking along a quiet Tokyo side street. Natural traffic, bicycle bells and distant conversations in the background.
+
+18–23 sec: She reaches a small riverside walkway with trees and benches. She sits down, takes a bite of the snack and looks toward the passing bicycles and city scenery. She reacts naturally with a small smile and says, “これ、おいしい。” (“This is good.”)
+
+23–27 sec: She gets up and continues walking, passing a tiny flower shop and a narrow residential street. She briefly turns the camera toward colorful flowers, then back to herself.
+
+27–30 sec: Final selfie shot while she walks toward a busy Tokyo intersection in bright daylight. She smiles at the camera and casually says, “じゃあ、またね。” (“See you.”) The recording ends naturally while she is still walking.
+
+Make the entire video feel like genuine modern smartphone travel footage: imperfect handheld movement, natural autofocus shifts, realistic exposure changes, subtle motion blur, phone compression, natural daylight, authentic Tokyo street sounds, footsteps, traffic, bicycle bells, vending-machine sounds, store ambience and distant conversations. No umbrella, no rain, no nighttime, no cinematic crane shots, no professional stabilization, no commercial acting, no beauty filter, no plastic skin, no CGI, no anime, no subtitles, no watermarks, no exaggerated expressions, no artificial Tokyo scenery and no music.</code></pre>
+
+</details>
+
+## Golden Hour in the Old Town – Handheld Documentary Video
+
+- **Original source:** [@j_smeaton99 on X](https://x.com/j_smeaton99/status/2091524606427623527)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3686](https://imglume.com/prompt/3686)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c6ee97e1-5b31-4520-a2da-0001a4116c07/9f6cce34-84d7-48e9-80eb-7b3462931054-1787545442176 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Concept: "Golden Hour in the Old Town"
+Create a hyper-realistic observational video filmed on a modern mirrorless camera with a handheld documentary style. The camera is never visible, and the woman is not recording herself. The footage is captured naturally by someone walking nearby, creating the feeling of an authentic lifestyle documentary rather than a vlog or commercial.
+Use realistic handheld camera movement with subtle footsteps, gentle breathing, occasional autofocus adjustments, natural exposure adaptation, slight framing imperfections, and authentic environmental sound. Avoid cinematic camera moves, slow motion, transitions, or dramatic editing. Everything should feel like genuine candid footage.
+Visual Style
+Modern documentary-style footage with natural colours, balanced dynamic range, soft golden-hour sunlight, realistic skin texture, and accurate exposure. No beauty filters, excessive sharpening, cinematic colour grading, lens flares, or artificial effects.
+Character
+A beautiful young European woman in her twenties with long wavy chestnut hair, fair skin, and elegant natural makeup. She wears a fitted white crop top, high-waisted beige linen shorts, white sneakers, delicate gold jewellery, sunglasses resting on her head, and carries a woven shoulder bag. Her appearance remains consistent throughout.
+Location
+A charming historic European old town with narrow cobblestone streets, cafés spilling onto the sidewalks, flower-covered balconies, cyclists, outdoor markets, and warm sunlight reflecting from centuries-old stone buildings.
+The recording begins as she exits a small artisan bakery carrying a paper bag of fresh pastries and an iced coffee. She pauses for a moment to enjoy the warm afternoon sun before continuing down the cobblestone street.
+She stops outside a flower stall, smiles while smelling a bouquet of fresh lavender, and exchanges a friendly smile with the florist before continuing.
+As she walks through a lively square, a violinist performs nearby. She slows down, listens for a few seconds, gently applauds with a genuine smile, and drops a coin into the musician's case before walking away.
+A light breeze moves her hair as pigeons scatter across the square. She glances back toward the unseen camera operator with a warm smile and a small wave before continuing toward a narrow sunlit alley lined with cafés and climbing ivy.
+The camera lingers for a moment as she gradually disappears into the bustling old town, ending the recording naturally.
+Generation Requirements
+Produce one continuous 15-second handheld recording with consistent facial identity, realistic anatomy, authentic walking mechanics, believable interactions, natural eye movement, and physically accurate lighting. Include realistic ambient sounds such as footsteps on cobblestones, distant conversations, birds, café activity, bicycles, and soft street music. Avoid AI artifacts, duplicated pedestrians, warped anatomy, floating objects, perfect symmetry, cinematic effects, or unnatural motion. The final result should be indistinguishable from genuine documentary footage casually filmed during an afternoon in a European city.</code></pre>
+
+</details>
+
+## Secret Beach Train Trip
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2091407746122096812)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3661](https://imglume.com/prompt/3661)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c130d5f-c946-4c6c-a23b-39a662951f43/353553e1-50b1-4260-894a-951c1b0d34da-1787505494329 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a beautiful 15-second Korean coastal travel vlog. A young woman films herself on a train as the ocean appears outside the window. She arrives at a quiet beach, removes her shoes, runs toward the water, and turns back toward the camera with a huge smile. Blue ocean, Korean coastal scenery, realistic waves and wind, cinematic travel vlog, natural handheld movement, no text.</code></pre>
+
+</details>
+
+## Ultra-photorealistic Japanese Summer Festival Travel Vlog
+
+- **Original source:** [@AiWithSaira on X](https://x.com/AiWithSaira/status/2091461673261662450)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3659](https://imglume.com/prompt/3659)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d90e046d-19a6-4904-b96c-739ac8f04edc/89e2cace-b27f-4019-83df-8a99f4c2946e-1787505392248 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d90e046d-19a6-4904-b96c-739ac8f04edc/151a6b9b-5657-43e1-b49e-aa3e3ca3c05c-1787505392248 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic live-action smartphone travel vlog scene that initially looks like an authentic real travel vlog.
+
+MAIN CHARACTER:
+
+Use Image 1 only for the woman's recognizable facial identity, natural facial features and hairstyle.
+
+She is a young Japanese woman wearing a beautiful pastel yukata with natural traditional styling. Keep her identity and appearance consistent throughout the entire video.
+
+LOCATION:
+
+A traditional Japanese summer festival at night. Lantern-lit streets, festival stalls, warm practical lighting, crowds of people, traditional decorations, and an authentic Japanese summer festival atmosphere.
+
+VISUAL STYLE:
+
+Ultra-photorealistic smartphone travel vlog.
+
+Realistic human performance.
+
+Realistic skin texture.
+
+Natural fabric physics.
+
+Authentic smartphone camera quality.
+
+Natural handheld camera movement.
+
+Authentic ambient festival sounds.
+
+Cinematic but believable vlog footage.
+
+No obvious AI appearance.
+
+00–05s — THE OPENING SHOT
+
+Begin with a natural selfie-style smartphone shot of the woman walking through the lantern-lit festival streets.
+
+She films herself while walking naturally through the crowd.
+
+The camera has realistic handheld movement and authentic smartphone stabilization.
+
+Festival lanterns, people, stalls and decorations appear naturally in the background.
+
+Everything feels like genuine travel-vlog footage.
+
+05–10s — THE TAKOYAKI MOMENT
+
+She approaches a traditional festival food stall and buys fresh takoyaki.
+
+The camera remains in natural selfie mode while she shows the food toward the camera.
+
+She takes a bite of the takoyaki and smiles naturally.
+
+Her facial expression and movements remain realistic and spontaneous.
+
+The surrounding festival ambience and crowd sounds remain authentic.
+
+10–15s — THE FESTIVAL GAME
+
+She walks toward a traditional Japanese festival game.
+
+She plays the game naturally and successfully wins a small plush toy.
+
+She reacts with genuine excitement and happiness.
+
+She briefly holds the plush toy toward the camera while smiling.
+
+The camera movement remains natural and handheld, maintaining consistent identity and appearance.
+
+15–20s — THE FIREWORKS
+
+The scene transitions naturally as she joins the crowd watching a spectacular fireworks display.
+
+The camera captures her genuine excitement as colorful fireworks illuminate the night sky behind her.
+
+Her face is naturally illuminated by the fireworks.
+
+The crowd reacts realistically in the background.
+
+The atmosphere feels immersive, authentic and cinematic while still looking like real smartphone footage.
+
+20–25s — THE FINAL VLOG MOMENT
+
+She turns the smartphone camera toward herself again.
+
+The fireworks continue in the background.
+
+She smiles naturally while holding the small plush toy she won earlier.
+
+Her expression shows genuine happiness and excitement from the festival experience.
+
+The camera remains handheld with realistic smartphone movement.
+
+25–30s — THE CLOSING
+
+She looks directly into the smartphone camera and naturally waves goodbye.
+
+She says:
+
+“Thanks for coming with me. See you next time. Bye!”
+
+Her lip movement must match the dialogue naturally.
+
+She finishes with a warm, genuine smile.
+
+The final moment should feel like an authentic travel vlog recorded on a real smartphone.
+
+The video should remain completely photorealistic throughout, with consistent facial identity, hairstyle, clothing, smooth human motion, realistic facial expressions, natural handheld camera movement, authentic ambient sounds, believable lighting, and a genuine Japanese summer festival atmosphere.
+
+ON-SCREEN TEXT:
+
+No on-screen text.</code></pre>
+
+</details>
+
+## Lisbon travel video with hyper-realistic cinematic scenes of a woman in summer attire
+
+- **Original source:** [@PrometheanAIX on X](https://x.com/PrometheanAIX/status/2091139175294603414)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3598](https://imglume.com/prompt/3598)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a865f755-4c5a-4072-915e-287a21d2c7a2/d8b19dfa-c324-4da5-b79f-7f58d36278c8-1787467680582 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5, vertical 9:16, 15 seconds. Use the reference image to preserve the same adult woman’s exact identity, face, hair, body proportions, and visual quality.
+
+Hyper-realistic cinematic live action, natural skin texture, no plastic skin, no morphing, no outfit changes.
+
+She wears a butter-yellow linen vest, crisp white tailored shorts, woven leather sandals, delicate gold jewelry, and carries a small raffia shoulder bag. Light, airy Lisbon summer style. No sunglasses. No dialogue, no text, no logos.
+
+Create nine energetic but elegant scenes:
+
+1. Wide opening at Praça do Comércio. She enters the sunlit square beneath the Rua Augusta Arch as pedestrians move naturally around her. Backward gimbal tracking.
+
+2. A fast Lisbon time-lapse. Yellow trams, pedestrians, tiled streets, shifting sunlight, and changing city movement surround her as she continues through the city. She remains the visual anchor.
+
+3. Cut to an intimate, tightly cropped beauty shot of her face, neck, and shoulders beside a sunlit azulejo wall. She looks directly into the camera. Her eyes soften and she gives the smallest genuine smile, creating a warm positive connection with the viewer.
+
+4. Lateral tracking shot as she walks along Rua Augusta, adjusting the raffia bag while the crowd flows behind her. Natural, confident movement.
+
+5. Rear-follow shot through a narrow Alfama lane with tiled buildings, balconies, plants, and warm reflected sunlight. She looks upward briefly, curious about something outside the frame.
+
+6. Side-profile shot outside a small Lisbon café. She pauses, notices something across the street, and lets a subtle private smile cross her face.
+
+7. Partial orbit as she reaches a Miradouro overlooking Lisbon and the Tagus. Her hair and linen vest move gently in the breeze.
+
+8. Stabilized forward tracking as she crosses a bright street in one continuous direction. She glances to the side, deciding where to go next.
+
+9. Golden-hour hero shot at the overlook. Slow cinematic push-in as she turns toward the glowing city, then looks back toward the camera with quiet confidence and a soft smile.
+
+End warm, beautiful, and emotionally open. Use quick elegant cuts, natural summer ambience, gentle breeze, realistic pedestrians, rich architectural detail, warm sunlight, and a polished travel-film rhythm. Keep her beautiful and recognizable in every scene.</code></pre>
+
+</details>
 
 ## 30-sec realistic phone vlog across London, Paris, and Moscow
 
