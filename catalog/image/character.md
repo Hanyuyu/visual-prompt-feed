@@ -1,9 +1,120 @@
 # Character image prompts
 
-122 source-linked prompts, newest ImgLume records first.
+125 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-detailed anime game character design sheet for BRIGHT CLAW
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2091880459328430442)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3769](https://imglume.com/prompt/3769)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/32beae96-96da-4255-a2d0-1cbefd361133/02b250db-dd2d-4ce6-b39e-2dcd106e0e22-1787635653453 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/32beae96-96da-4255-a2d0-1cbefd361133/80b62e5e-6367-4194-ae16-669bdb9b1622-1787635653453 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>1️⃣character sheet:
+
+Ultra-detailed 16:9 anime game character design sheet, premium official character bible / production concept art, clean warm-white technical background, sharp futuristic orange graphic accents, minimal black typography and subtle industrial UI lines.
+
+Character name “BRIGHT CLAW”, subtitle “ORANGE SPECIALIST”. A compact high-energy female combat specialist combining cyberpunk streetwear, feline motifs, tactical utility gear and oversized mechanical claw footwear.
+
+She has short fluffy silver-white hair with messy layered bangs and small side strands, vivid amber-orange eyes, fair skin and an energetic mischievous expression. Her silhouette is dominated by a huge orange tactical hood featuring two pointed mechanical cat ears. The ears have black inner panels, small metallic joints and subtle orange markings. Keep the hood oversized and structured around her head.
+
+Her main outfit is a heavily layered oversized orange-and-black tactical jacket. Bright saturated safety orange is the dominant color, contrasted with matte black, white, dark charcoal and small red accents. The jacket has extremely large sleeves, reinforced shoulder panels, black cuffs, straps, buckles, carabiners, utility loops, zipper pulls, small pouches, technical patches and exposed fastening hardware.
+
+Underneath she wears a fitted white-and-black cropped tactical top with angular orange graphic details, exposing a small section of midriff. Add black high-waisted utility shorts with multiple belts, thigh straps, hanging orange tabs, metallic rings and modular equipment attachments.
+
+A long segmented cybernetic cat tail extends from the lower back. It alternates between orange and black armored segments and ends in a large rounded black mechanical tip resembling a stylized feline paw or compact robotic head. The tail should look flexible, articulated and clearly mechanical rather than organic.
+
+Her footwear is a major visual feature: enormous chunky orange, black and white mechanical combat boots shaped like feline paws. Each boot has exaggerated segmented orange claw toes, thick black soles, exposed circular mechanical joints, protective ankle armor, straps and industrial hardware. The silhouette should feel heavy and powerful while remaining cute and stylized.
+
+Add black fingerless tactical gloves, a compact orange-and-black knee module, utility straps, tiny red tags, metal rings and small white technical plates throughout the outfit.
+
+Layout: three large consistent full-body views across the left and center — FRONT, SIDE and BACK. Front view uses a relaxed energetic stance with one arm slightly extended. Side view clearly displays the oversized hood, layered jacket construction, mechanical cat tail and massive paw boots. Back view emphasizes the hood shape, cat ears, backpack-like harness structure, crossed straps, utility attachments and tail connection.
+
+Right side contains a structured DETAILS section with four close-up panels: mechanical cat-ear hood construction; chest armor, layered collar and shoulder hardware; waist straps, buckles, carabiners and hanging utility equipment; enlarged mechanical tail-tip design.
+
+Below, include an ACCESSORIES section showing the complete segmented orange-and-black mechanical cat tail isolated on white and a compact rectangular tactical equipment module / utility device.
+
+Bottom-right COLOR PALETTE featuring vivid safety orange, charcoal black, golden yellow-orange, signal red, warm gray, off-white and muted brown.
+
+Visual direction: premium Japanese anime mobile game concept art, cyberpunk tactical streetwear × mechanical cat × urban combat specialist aesthetic, polished cel shading, crisp clean linework, strong orange-black graphic identity, highly detailed techwear construction, layered fabrics and hard-surface armor, believable straps and mechanical joints, chunky stylized proportions, playful but combat-ready personality, highly readable silhouette, professional game-development artbook presentation, consistent character identity, costume, tail and equipment across every view, production-ready concept sheet, masterpiece, best quality, ultra detailed, 8K.
+
+No photorealism, no literal animal body, no furry character, no natural cat tail, no medieval fantasy elements, no elegant dress, no high heels, no oversized weapon, no inconsistent hood or cat ears, no inconsistent tail design, no costume changes between views, no duplicated accessories, no extra limbs, no malformed hands, no distorted mechanical boots, no cluttered environment, no watermark.</code></pre>
+
+</details>
+
+## Photorealistic battlefield aftermath of a defeated character
+
+- **Original source:** [@livybabie on X](https://x.com/livybabie/status/2091854375018705243)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [3758](https://imglume.com/prompt/3758)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4cfd9c2a-1f94-43a2-87eb-596ed1fcfc2b/2b8cc9f9-4092-470d-8146-483531a719a8-1787602028348 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4cfd9c2a-1f94-43a2-87eb-596ed1fcfc2b/411dc501-96d5-40ab-b0d0-ffdc9ba636eb-1787602028348 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4cfd9c2a-1f94-43a2-87eb-596ed1fcfc2b/b57275e5-ab94-4406-b713-d0acd5f63ff9-1787602028348 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4cfd9c2a-1f94-43a2-87eb-596ed1fcfc2b/845b1053-af65-4f8e-9f34-87aee902a871-1787602028348 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[Character Name] from [Franchise Name], clearly a mature adult woman, highly recognizable and faithful to her original identity. Preserve her signature hair, eyes, facial structure, canonical accessories, overall personality, silhouette, and iconic color palette so she immediately reads as the correct character rather than a generic model.
+
+Photorealistic candid battlefield-aftermath photography in a devastated combat zone shortly after sunrise.
+
+The battle is already over.
+
+She is completely overwhelmed, physically exhausted, mentally drained, and temporarily unable to continue fighting.
+
+She has collapsed on the battlefield and may recover, stand again, and return to fight later. The image represents the absolute lowest point of the battle, not the end of her life.
+
+Her pose should feel genuinely exhausted, awkward, heavy, and unglamorous rather than heroic or staged. She may be sprawled across broken pavement, slumped against rubble, lying partially on her side, or collapsed beside damaged structures or equipment. Her limbs should feel heavy and poorly controlled, as if she simply ran out of strength.
+
+Her clothing should remain faithful to her canonical visual language while showing believable battle damage: dust, dirt, wrinkles, scuff marks, loosened accessories, damaged fabric at non-intimate areas, scratched armor or equipment, displaced jewelry, and signs of prolonged combat.
+
+Preserve enough intact character-specific details that she remains immediately recognizable even in defeat.
+
+Her hair is messy, tangled, dusty, and partially displaced from its normal styling. Makeup, if normally worn, is faded or slightly smeared by sweat, dust, rain, or exhaustion.
+
+Include a few battle-after traces appropriate to the character: a dropped weapon nearby, broken equipment, displaced hair accessory, cracked ornament, damaged phone or personal item, torn ribbon, scattered ammunition or technological fragments, dirt-covered jewelry, loosened boot strap, discarded glove, or another small character-specific object.
+
+The surrounding environment should communicate overwhelming devastation and silence after violence: broken concrete, shattered pavement, damaged vehicles, twisted metal, ruined buildings, drifting smoke, floating dust, distant fire, abandoned equipment, fragments of architecture, and pale early-morning light cutting through the haze.
+
+Any injuries should remain non-graphic and survivable: bruises, superficial cuts, scratches, dirt, blood smears from minor injuries, torn clothing, exhausted posture, trembling muscles, and visible physical strain.
+
+Photography style: merciless battlefield candid — a brutally well-timed photograph capturing a normally powerful, beautiful, or composed waifu at the exact moment when she has absolutely nothing left in the tank.
+
+The photographer should feel incidental rather than cinematic. Imperfect spontaneous framing, documentary realism, realistic perspective, subtle sensor grain, believable skin, hair, dust, fabric, metal, concrete, sweat, and environmental textures.
+
+Lighting: cool desaturated dawn light mixed with faint warm firelight or emergency illumination, subtle atmospheric haze, drifting smoke, and occasional direct documentary flash if appropriate.
+
+The final composition should create a strong contrast between the character’s usual identity and her current state of catastrophic exhaustion.
+
+Overall mood: absolute defeat with a pulse still beating underneath it — desolation, vulnerability, exhaustion, silence, and the faint possibility of revenge.</code></pre>
+
+</details>
+
+## Spike Spiegel in Neo-Noir Alleyway
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2091903695437038008)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3750](https://imglume.com/prompt/3750)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3ad3a6b7-e91b-4862-abb0-96100536f21c/aa9b16cd-8c62-431a-a774-19253f609fdb-1787593656236 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/3ad3a6b7-e91b-4862-abb0-96100536f21c/9844c0ab-d2e7-416a-b5ee-ec217ad97458-1787593656236 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Spike Spiegel from Cowboy Bebop, standing and leaning against a rusty pipe in a gritty, wet alleyway at night. The character has messy dark green hair, a lean face, and a bored expression, smoking a cigarette looking towards camera . He wears a dark blue tailored suit, a yellow unbuttoned shirt, and a loose black tie, holding a large black pistol. The background is a dark, griity eith green patches damp urban landscape with rain-slicked cobblestones reflecting colorful neon signs with Japanese and English text (e.g., "Gang area"). Dramatic neo-noir lighting with deep shadows and vibrant neon glow. American comic book art style, thick linework, cross-hatching, and visible halftone dot screen tones. Full-body shot, detailed environment. High quality.</code></pre>
+
+</details>
 
 ## Minimalist hand-drawn doodle illustration
 

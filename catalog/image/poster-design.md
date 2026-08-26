@@ -1,9 +1,672 @@
 # Poster Design image prompts
 
-120 source-linked prompts, newest ImgLume records first.
+128 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Rubber Stamp Travel Field Notes Poster — Natural Realism Version
+
+- **Original source:** [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2092221482139349307)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3814](https://imglume.com/prompt/3814)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c89f32c4-87ed-49df-95dd-574d4a1a97b2/09a4a40b-7795-4925-8f02-265b5037e56f-1787675323819 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c89f32c4-87ed-49df-95dd-574d4a1a97b2/9c34810b-d1d1-44bf-8c30-857907fe33a6-1787675323819 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Rubber Stamp Travel Field Notes Poster — Natural Realism Version
+
+Create a separate “Rubber Stamp Travel Field Notes Poster” for each photo I upload. Output each photo individually. Never create a collage or combine multiple photos.
+
+Use a 4:3 landscape composition with a natural visual transition between the original photograph on the left and the aged-paper field-note area on the right. Do not add an obvious dividing line.
+
+LEFT — ORIGINAL PHOTOGRAPH
+
+The left side should occupy roughly 58% of the frame.
+
+Keep the uploaded photograph visually authentic and recognizable. Preserve the original subject, perspective, terrain, architecture, plants, people, spatial relationships, natural light, shadows, textures, and overall atmosphere.
+
+Do not redesign or reinterpret the photograph.
+
+Only apply a very subtle editorial photo treatment: gentle tonal balancing, restrained color grading, slightly softened highlights, and extremely fine natural film grain. It should still look like a real photograph taken on location rather than an AI-generated image.
+
+Natural cropping is allowed if needed to fit the 4:3 layout, but do not stretch, distort, move, replace, or redraw the main subject.
+
+Avoid excessive sharpness, HDR effects, artificial clarity, cinematic color grading, or overly perfect details.
+
+RIGHT — AGED PAPER FIELD NOTES
+
+The right side should occupy roughly 42% of the frame.
+
+Use warm off-white, slightly aged paper with a believable physical texture. Include very subtle paper fibers, fine grain, faint handling marks, and a matte surface.
+
+Keep large areas completely unprinted.
+
+The paper should feel like a real sheet from an architect's travel notebook or field journal, not a designed poster background.
+
+Avoid overly strong stains, decorative textures, vintage filters, or artificial grunge.
+
+SMALL RUBBER STAMP
+
+Study the uploaded photograph and identify only the few visual features that make the location immediately recognizable.
+
+Reduce them into a compact, imperfect multi-color rubber stamp impression.
+
+Do not reproduce the photograph element by element.
+
+Simplify aggressively and retain only the most meaningful visual relationships:
+
+- distinctive architecture and silhouette
+- important roof, tower, dome, arch, or structural shape
+- mountain or terrain contours
+- shoreline or road direction
+- a few recognizable trees or vegetation forms
+- simplified settlement layers
+- one or two important foreground shapes when visually relevant
+
+Remove crowds, cars, dense windows, repetitive buildings, tiny vegetation, decorative objects, and insignificant background details.
+
+The result should look like something a traveler could have actually carved into a small rubber stamp, not a miniature illustration of the entire photograph.
+
+Place the stamp in the lower-middle portion of the right paper area, occupying approximately 30–38% of the right section's height.
+
+Keep generous blank paper around it.
+
+Do not enlarge it into a large illustration.
+
+STAMP COLOR &amp; PRINT CHARACTER
+
+Extract approximately 2–4 muted spot colors naturally from the original photograph.
+
+Possible colors include:
+
+- carbon black
+- deep green
+- brick or muted red
+- ochre
+- slate blue
+- taupe or earthy brown
+
+Do not force these colors if the photograph suggests a different restrained palette.
+
+Each color should appear as a separate physical ink layer.
+
+Make the print feel genuinely handmade:
+
+- slightly uneven pressure
+- tiny gaps in the ink
+- dry areas
+- paper showing through
+- rough carved edges
+- irregular line thickness
+- small contour breaks
+- granular ink texture
+- faint ghosting
+- slight natural color-layer misregistration
+- subtle edge variation
+
+The imperfections should be small and believable, as if the stamp was pressed onto paper by hand.
+
+Avoid perfectly aligned digital layers, smooth vector edges, clean gradients, or artificially exaggerated distress.
+
+The stamp should look physically printed, not digitally illustrated.
+
+FIELD-NOTE TYPOGRAPHY
+
+Generate a small amount of text based only on the actual location and imagery in the photograph:
+
+Location — English name
+No. — Number
+Three short English keywords
+Gregorian calendar year
+
+Place the text below or beside the stamp within the available whitespace.
+
+Use a small, understated typewriter or archival field-note style.
+
+The typography should have very slight mechanical irregularity, as though typed or printed on an old field notebook.
+
+Keep it quiet and secondary to the photograph.
+
+Spell the location and all words correctly.
+
+Do not add slogans, brands, tourist phrases, decorative quotes, or unnecessary text.
+
+OVERALL REALISM
+
+The finished image should feel like a real travel photograph mounted beside a small handmade field stamp on an architect's personal notebook page.
+
+Prioritize subtle physical realism over visual perfection.
+
+The photograph should remain the strongest visual element.
+
+The stamp should feel like a small fragment of memory extracted from the photograph rather than a second illustration.
+
+Use restrained contrast, natural imperfections, believable paper texture, and slightly imperfect printing.
+
+The final result should feel quiet, tactile, documentary, collectible, and genuinely handmade.
+
+Avoid
+
+Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax seals, sticker layouts, souvenir-card designs, generic travel templates, smooth vector logos, polished digital illustrations, cartoon styling, 3D rendering, plastic textures, glossy gradients, excessive saturation, HDR effects, excessive text, decorative clutter, overly clean geometry, perfectly aligned ink layers, dense miniature architecture, or any alteration/redrawing of the original photograph.</code></pre>
+
+</details>
+
+## Premium minimalist editorial flat-vector travel poster for \[CITY_NAME\]
+
+- **Original source:** [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2092093728353878395)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3792](https://imglume.com/prompt/3792)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/026ea072-63f1-430d-a112-5b1558f03893/2bff6a2e-0c1f-4e5b-a717-7e7b154bb653-1787654248252 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/026ea072-63f1-430d-a112-5b1558f03893/5427f2c7-39b8-4015-ab18-2b86d6e417fa-1787654248252 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/026ea072-63f1-430d-a112-5b1558f03893/0ae11599-8b01-47d8-9ce8-3ffc619bf524-1787654248252 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/026ea072-63f1-430d-a112-5b1558f03893/42e4088d-76b1-4806-ae78-fc2e7fe7fe92-1787654248252 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimalist editorial flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Create an original, sophisticated luxury travel poster that captures the authentic personality, architecture, landscape and everyday atmosphere of [CITY_NAME]. The artwork should combine the refined editorial elegance of a boutique travel postcard with a beautifully detailed Japanese stationery-inspired illustration style.
+
+CITY IDENTITY
+
+First understand the unique character of [CITY_NAME] and build the entire scene specifically around the city. Include these five elements naturally:
+
+1. One highly recognizable landmark, historic building, architectural feature, pagoda, mosque, church, skyline structure, waterfront building, bridge, or other city-defining element.
+2. A distinctive local form of transportation such as a ferry, tram, bicycle, boat, metro, traditional vehicle, or another authentic method of moving through the city.
+3. One subtle everyday lifestyle moment showing local people naturally enjoying the environment.
+4. A characteristic natural element such as coastline, ocean, river, mountains, trees, cherry blossoms, Mediterranean flowers, evergreen forest, gardens, or native vegetation.
+5. A viewpoint and composition that genuinely belongs to the geography and visual identity of [CITY_NAME].
+
+The scene should feel like a carefully designed destination poster rather than a collection of famous landmarks. Change the viewpoint, foreground, architecture, landmark position and supporting elements according to the selected city.
+
+Possible compositions include:
+a beautiful waterfront promenade, historic hillside staircase, traditional old-town street, harbor viewpoint, riverside walkway, coastal terrace, mountain-facing park, heritage square, ferry terminal, traditional market street, botanical garden, cultural plaza, or elevated city overlook.
+
+Choose the composition that best represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” prominently in the upper-left or another naturally suitable area with generous clean negative space.
+
+Add the appropriate country name and a small, accurate national flag.
+
+Include one short sophisticated English tagline inspired by the atmosphere, geography, culture or personality of the city.
+
+Typography should feel elegant, editorial, spacious and premium. Use refined serif or clean modern typography depending on the city's visual character. Text must remain secondary to the artwork and should never overcrowd the composition.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural feature as the main focal point.
+
+Support it with only 3–6 carefully selected local elements such as transportation, flowers, trees, waterfront details, traditional buildings, street lamps, cafés, boats, bridges, mountains or cultural objects.
+
+Avoid creating a collage of famous landmarks. Every element should have a clear visual purpose and strengthen the sense of place.
+
+PEOPLE
+
+Include approximately 3–6 small-scale figures naturally integrated into the scene.
+
+Give each person a believable local activity, such as walking through a historic street, cycling along a waterfront, sitting on a bench, photographing architecture, reading outdoors, boarding a ferry, enjoying a café, shopping in a local market, carrying a small bag, or quietly exploring the surroundings.
+
+People should remain secondary to the architecture and landscape. Avoid crowds, oversized characters or a single dominant hero person.
+
+LOCAL CHARACTER
+
+Use only details that genuinely belong to [CITY_NAME]:
+- local transportation
+- recognizable architecture
+- traditional buildings
+- characteristic street lamps
+- native vegetation
+- flowers and seasonal plants
+- local cafés or restaurants
+- subtle street signs
+- cultural details
+- pavement patterns
+- bridges and waterfront structures
+- local recreational activities
+- small authentic wayfinding elements
+
+Integrate these details naturally. Avoid relying on oversized signboards or excessive written information.
+
+ART DIRECTION
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+elegant boutique postcard design,
+clean delicate outlines,
+consistent line weight,
+simple geometric forms,
+soft refined shapes,
+flat-color illustration,
+subtle illustrative depth,
+balanced visual rhythm,
+beautiful architectural detailing,
+premium destination branding,
+sophisticated travel magazine aesthetic.
+
+The artwork should feel polished, calm, elegant and intentionally designed, combining the charm of illustrated travel posters with the visual quality of premium commercial artwork.
+
+COLOR SYSTEM
+
+Build the primary atmosphere around:
+pale powder blue, soft sky blue, mist blue, cool airy blues, warm ivory and creamy neutrals.
+
+Balance these with:
+soft beige, muted sage, gray-green, natural wood tones, understated architectural colors and gentle terracotta.
+
+Allow small city-specific accent colors such as:
+dusty rose, muted blush, soft red, golden yellow or deep architectural blue.
+
+Keep the entire palette slightly desaturated, harmonious, elegant and sophisticated. Avoid overly bright or artificial colors.
+
+LIGHTING &amp; ATMOSPHERE
+
+Use soft natural daylight with a gentle warm glow. Create subtle atmospheric depth, delicate shadows, soft highlights and a peaceful sense of openness.
+
+For coastal cities, emphasize sparkling water, distant boats, sea reflections and airy skies.
+
+For mountain cities, emphasize layered mountains, atmospheric distance and natural greenery.
+
+For historic cities, emphasize warm stone, traditional architecture, narrow streets and elegant street details.
+
+For Japanese or East Asian destinations, emphasize seasonal flowers, traditional roofs, lanterns, wooden architecture and quiet streets.
+
+For European destinations, emphasize charming balconies, historic façades, stone pathways, flowers, cafés and scenic viewpoints.
+
+For every destination, adapt the visual language naturally instead of forcing the same elements into every design.
+
+MOOD
+
+Fresh, airy, peaceful, refined, elegant, contemporary, romantic and culturally authentic.
+
+The final artwork should look like a premium boutique travel postcard, luxury lifestyle-brand illustration, sophisticated tourism campaign poster and collectible destination artwork.
+
+IMPORTANT QUALITY RULES
+
+Every city must have its own visual identity.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+Change the camera angle, viewpoint, landmark placement, foreground treatment, architecture, transportation, vegetation, people, lighting and supporting details according to the selected city.
+
+The final composition must feel purpose-built for [CITY_NAME], while maintaining the same premium illustrated travel-poster language.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realistic photography.
+No generic AI artwork.
+No cartoon exaggeration.
+No anime.
+No watercolor.
+No painterly brushwork.
+No heavy paper texture.
+No gradients.
+No excessive 3D rendering.
+No dramatic cinematic lighting.
+No heavy shadows.
+No oversaturated colors.
+No cluttered background.
+No landmark collage.
+No collection of famous attractions.
+No crowded streets.
+No oversized people.
+No dominant hero character.
+No repetitive café composition.
+No fixed foreground formula.
+No identical landmark placement.
+No generic tourist-poster layout.
+No copied city composition.
+No incorrect architecture.
+No incorrect transportation.
+No random cultural elements.
+No inaccurate national flag.
+No excessive signage.
+No misspelled city name.
+No distorted typography.
+No unnecessary decorative objects.
+No watermark.
+No logo.</code></pre>
+
+</details>
+
+## Premium minimalist flat-vector travel poster prompt for \[CITY_NAME\]
+
+- **Original source:** [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2092051978918736047)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3787](https://imglume.com/prompt/3787)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/94d9c2e6-897c-4efc-8e22-8041ac288771-1787645978768 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/5636045b-df53-453d-a1f8-9e78c9f5f715-1787645978768 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/6484b8dd-553d-4552-bfcc-960844139cb9-1787645978768 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/4433d1bb-0720-40b8-95e6-f9ada079ef1a-1787645978768 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Create an original, elegant travel poster that reflects the authentic visual personality and atmosphere of [CITY_NAME]. The composition should feel specially designed for this city instead of looking like a repeated or generic travel template.
+
+CITY IDENTITY
+
+First understand the distinctive visual character of [CITY_NAME] and construct the scene around these five elements:
+
+1. A recognizable landmark, architectural detail, or important skyline feature.
+2. A characteristic local method of transportation or movement.
+3. One subtle everyday lifestyle moment that feels authentic to the city.
+4. A native plant, natural landscape, coastline, river, mountain, or environmental feature.
+5. A viewpoint and composition that naturally belong to the geography and identity of the city.
+
+The complete scene arrangement should vary from city to city. Do not repeatedly use identical object placement or the same visual formula.
+
+Possible compositions include:
+harbor viewpoint, historic narrow street, riverside garden, coastal walkway, elevated city overlook, lively market passage, tram-lined avenue, ferry terminal, botanical setting, heritage square, beach promenade, cultural plaza, or skyline terrace.
+
+Choose whichever composition most naturally represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” in the upper-left area with generous, clean negative space.
+
+Add one short, sophisticated English tagline inspired by the atmosphere, culture, or character of the city.
+
+Typography should remain understated, editorial, spacious, and premium. Never let the text overpower the artwork.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural element as the primary focal point.
+
+Support it with only 2–4 carefully chosen local elements. Every additional detail should reinforce the identity and sense of place.
+
+Avoid collections of landmarks or postcard-style collages. Keep the artwork visually calm, selective, and intentional.
+
+PEOPLE
+
+Include only 3–6 small-scale figures.
+
+Give each person a believable activity connected to local life, such as:
+walking through a historic lane, cycling, waiting for public transport, sketching architecture, boarding a ferry, reading outdoors, taking a quiet photograph, carrying beach equipment, browsing a local market, or jogging beside the water.
+
+Avoid crowds and avoid making one individual the main character. Figures should blend naturally into the environment.
+
+LOCAL CHARACTER
+
+Use city-specific elements only when they genuinely fit [CITY_NAME]:
+
+- local transportation
+- architecture
+- street furniture
+- vegetation
+- small signs or wayfinding
+- local food references
+- recreational activities
+- pavement markings
+- cultural details
+
+Transport and signage should remain subtle. Instead of repeatedly using a large signboard, incorporate details naturally through a small transit marker, station clock, ferry information panel, bike symbol, painted road marking, beach flag, or understated metro icon.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+clean delicate outlines,
+consistent line weight,
+simple geometric forms,
+flat-color illustration,
+soft rounded shapes,
+balanced visual rhythm,
+high-end minimalist postcard design.
+
+COLOR SYSTEM
+
+Build the atmosphere primarily with:
+pale powder blue, soft sky blue, mist blue, and cool airy blue tones.
+
+Balance these with:
+warm ivory, cream, soft beige, muted sage, gray-green, and understated architectural neutrals.
+
+Use dusty rose or muted blush only for tiny visual accents such as flowers, clothing details, small signs, awnings, or decorative objects.
+
+Colors should stay soft, sophisticated, slightly desaturated, and visually harmonious.
+
+MOOD
+
+Fresh, airy, peaceful, refined, contemporary, elegant.
+
+The final artwork should feel like a premium boutique travel postcard or luxury lifestyle brand illustration, with generous breathing room and a relaxed, authentic sense of place.
+
+IMPORTANT QUALITY RULES
+
+Every city must maintain its own distinctive visual identity.
+Change the camera angle, scene structure, landmark placement, foreground treatment, and supporting details according to the individual character of the city.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realistic photography.
+No watercolor.
+No painterly brushwork.
+No gradients.
+No heavy shadows.
+No dramatic cinematic lighting.
+No paper texture.
+No excessive detail.
+No cluttered background.
+No landmark collage.
+No crowded streets.
+No oversized characters.
+No dominant hero character.
+No repetitive café composition.
+No fixed signboard position.
+No identical foreground treatment.
+No generic tourist-poster formula.
+No copied layout from another city.
+No unnecessary decorative elements.</code></pre>
+
+</details>
+
+## Vertical travel poster papercut illustration of {CITY}
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2092103116296712302)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3786](https://imglume.com/prompt/3786)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/6baa7fbc-30cd-4908-ac59-49eb068e566a-1787645948112 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/521105a9-658c-48ff-a53b-92b5522da959-1787645948112 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/280612da-2add-4211-8e59-a83e03a0b304-1787645948112 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/75b52351-56d4-4229-b4ca-93999f15d321-1787645948112 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CITY = {CITY}
+Create a refined vertical 3:4 travel poster of {CITY} as a handcrafted layered papercut illustration.
+
+First identify the city, country, architecture, landscape, climate, and visual character. Choose ONE iconic HERO LANDMARK and establish one believable real-world viewpoint. All supporting buildings, streets, parks, water, and skyline elements must realistically fit that viewpoint. No landmark collage.
+
+VISUAL COMPOSITION
+
+Make the HERO landmark the dominant element, occupying roughly 45–60% of the image height. Preserve its authentic silhouette, proportions, roofline, structural details, and surrounding environment while simplifying minor details.
+
+Use only 1–3 subtle secondary elements such as local buildings, skyline, bridge, park, waterfront, street trees, tiny pedestrians, or vehicles. Keep them smaller, flatter, and lower contrast.
+
+Composition:
+
+Top: 25–35% open sky and negative space
+
+Middle: HERO landmark and distant city
+
+Bottom: human-scale street, park, waterfront, or neighborhood
+
+Keep at least 30% visually quiet.
+
+PAPERCUT STYLE
+
+Use shallow 2–6 layer cut-paper construction with matte handmade paper, subtle grain, clean cut edges, overlapping shapes, and delicate 1–3 mm shadows.
+
+Graphic and editorial, not a miniature model.
+
+Simplify architecture into clean paper masses. Avoid excessive windows, bricks, cables, railings, roof tiles, and tiny details. Create depth through scale, overlap, and atmospheric color rather than 3D modeling.
+
+COLOR &amp; LIGHT
+
+Use an authentic 6–8 color muted pastel palette inspired by {CITY}: pale sky blue, ivory, cream, muted brick, dusty blush, pale stone, sage, and blue-grey, adjusted to the city.
+
+Use bright, soft, diffused daylight. Keep shadows subtle.
+
+TYPOGRAPHY
+
+Place a small uppercase {CITY} title in the upper-left or upper-right negative space, optionally with the local name, country, or HERO landmark name.
+
+Use clean geometric lettering, wide spacing, flat cream/white paper. Typography must remain secondary and occupy no more than 12–18% of the image.
+
+FINAL TARGET
+
+Premium contemporary travel illustration.
+Elegant, airy, sophisticated, handcrafted, and geographically believable.
+
+The viewer should recognize:
+
+1. {CITY} → 2. HERO landmark → 3. Papercut craftsmanship
+
+NO photorealism, NO photographic textures, NO deep diorama, NO landmark collage, NO impossible skyline, NO excessive detail, NO fantasy architecture, NO oversized typography, NO logos, NO watermark</code></pre>
+
+</details>
+
+## Premium vertical travel poster line-art illustration
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2092079254775435448)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3768](https://imglume.com/prompt/3768)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/542dee29-9639-446e-b0be-15f3765abba8/0ed18d92-3274-4536-93b9-5323f077b9f4-1787635576420 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/542dee29-9639-446e-b0be-15f3765abba8/a09900b8-01ff-4d21-9a8e-0512bc0cd64c-1787635576420 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/542dee29-9639-446e-b0be-15f3765abba8/0e445e9e-969e-4723-9b61-1c1b98b291d4-1787635576420 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+
+Include:
+
+One dominant iconic landmark
+A second architectural landmark subtly integrated into the skyline
+A famous natural landscape in the background
+Local transportation
+Traditional clothing or cultural detail
+A recognizable food or drink
+Small street-life moments
+Birds, clouds, plants and tiny decorative elements
+Handwritten labels pointing to selected elements
+
+At the top, use a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.</code></pre>
+
+</details>
+
+## KITKAT Advertising Poster Prompt
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2091828505420206275)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3766](https://imglume.com/prompt/3766)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d065eb76-b02b-4280-8f0e-59d2abcae137/7ab2f3a6-4c21-4f51-9409-9e4faf97d26c-1787623054766 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d065eb76-b02b-4280-8f0e-59d2abcae137/e4bb57a5-0c91-4fe7-94d9-0698211a8c5f-1787623054766 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d065eb76-b02b-4280-8f0e-59d2abcae137/1a2b8f16-707c-4673-8d7d-6fd8f5055e66-1787623054766 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d065eb76-b02b-4280-8f0e-59d2abcae137/2dfbf5e0-1304-4b2b-bb68-aee94213bdbb-1787623054766 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Try it with prompt structure ; KITKAT — THE BREAK CREATIVE DIRECTION Create a premium, agency-level KITKAT advertising poster inspired by the visual language of the supplied reference campaign images: bold FMCG social advertising, strong graphic composition, oversized typography, controlled product photography, clean negative space, saturated brand colour, tactile realism and one instantly understandable visual metaphor. Do not copy any specific reference composition, layout or artwork. Extract the common creative principles and build an original KITKAT execution. The poster must feel like a real global FMCG campaign created by a senior art director and photographed by a premium commercial product photographer. Core idea: THE KITKAT LITERALLY CREATES THE BREAK. The visual should communicate the concept before the viewer reads the copy. ⸻ CAMPAIGN DNA Brand: KITKAT Product: Classic KITKAT 4-Finger Milk Chocolate Bar Campaign territory: Have a Break Concept: The Break Personality: playful, clever, youthful, confident, instantly recognizable Colour system * Dominant KITKAT red * Deep chocolate brown * White * Very subtle cream * Restrained dark red The red should create immediate KITKAT ownership without making the image look like a generic red advertisement. ⸻ CREATIVE IDEA — “THE BREAK” Build the entire poster around one graphic interruption. A continuous horizontal typographic rhythm runs across the composition: WORK WORK WORK WORK WORK WORK The repetition represents the endless pressure and routine of the workday. At the exact centre of the sequence, the rhythm is interrupted. The KITKAT occupies that interruption. The product should visually function as the missing section of the continuous line. The viewer should instantly understand: WORK → WORK → WORK → KITKAT → BREAK The KITKAT is not placed on top of the concept. The KITKAT IS the interruption. Make the relationship between typography and product feel physically constructed, as if the chocolate bar has literally broken the repeated word pattern. ⸻ CREATIVE EXECUTION Graphic visual metaphor + premium product hero + editorial FMCG poster Use: * oversized typography * product geometry * repetition * negative space * scale contrast * visual interruption * controlled shadows * strong alignment * premium product photography Avoid environmental storytelling. This must NOT look like a lifestyle photograph. ⸻ BACKGROUND Create a completely controlled studio advertising field. Use a rich, saturated KITKAT red background with subtle tonal depth. The background may contain: * extremely subtle paper/fabric texture * restrained radial falloff * very soft tonal gradients * faint dimensional shadowing Keep it fundamentally flat, graphic and intentional. No realistic environment. No room. No desk. No office. No architecture. No furniture. No landscape. No scenery. No decorative objects. ⸻ HERO PRODUCT Use the uploaded KITKAT product reference as the primary packaging reference. Preserve its recognizable packaging identity and proportions. Create a premium commercial interpretation of the classic KITKAT 4-Finger Milk Chocolate Bar. The product should sit horizontally across the centre of the composition, acting as the physical break in the typography. Partially unwrap the right side so the four chocolate fingers are visible. Packaging accuracy Preserve: * iconic KITKAT red wrapper * accurate white KITKAT wordmark * Nestlé branding where present on the reference packaging * four-finger format * authentic wrapper proportions * realistic wrapper folds * realistic printed packaging * believable foil * subtle material reflections * natural wrapper tension * accurate chocolate geometry Do not invent packaging details. Do not redesign the logo. Do not create a fictional KITKAT package. The uploaded reference is the visual source of truth for the product. ⸻ CHOCOLATE The exposed chocolate fingers must look physically real. Show: * four distinct fingers * embossed KITKAT detailing * realistic milk-chocolate colour * subtle tempering variation * crisp edges * visible wafer layers at the broken end * tiny natural wafer crumbs Use restrained crumbs only around the break. No chocolate splash. No melting chocolate. No floating chocolate pieces. No exaggerated CGI effects. The chocolate should look edible, tactile and premium. ⸻ TYPOGRAPHIC SYSTEM Typography is an essential part of the visual metaphor. Primary headline HAVE A BREAK. Secondary headline HAVE A KITKAT. Use a bold contemporary grotesk / heavy sans-serif typeface. Typography should feel like professional FMCG campaign typography, not a Canva template. Large scale. Tight but controlled spacing. Strong alignment. Minimal decoration. ⸻ “WORK” SYSTEM Place repeated WORK typography horizontally behind the KITKAT. Example: WORK WORK WORK WORK [KITKAT] WORK WORK WORK The product must interrupt the sequence. The words immediately surrounding the product should feel visually compressed toward the bar, reinforcing the idea that the KITKAT has physically stopped the repetitive rhythm. Use deep chocolate-brown or dark red typography so it remains integrated into the red background. Allow portions of the typography to disappear behind the product. The product must remain clearly readable. ⸻ COMPOSITION Format 4:5 vertical Create a premium Instagram advertising composition with strong visual hierarchy. Suggested structure: TOP Small KITKAT logo or restrained brand identifier. Large negative space. UPPER-MIDDLE Large: HAVE A BREAK. Below it: HAVE A KITKAT. CENTRE Repeated WORK typography. KITKAT bar physically interrupting the sequence. This is the visual hero. LOWER-MIDDLE Minimal conceptual lockup: — BREAK — BOTTOM Small supporting line: Take a moment. Break the routine. Optional restrained CTA: HAVE A BREAK Keep the bottom area clean. ⸻ VISUAL HIERARCHY The viewer’s eye should move in this order: 1. KITKAT product 2. Physical interruption / WORK → BREAK 3. HAVE A BREAK. 4. HAVE A KITKAT. 5. Minimal supporting copy Do not allow the typography to overpower the product. The product must remain the most important physical object. ⸻ TYPOGRAPHIC ART DIRECTION Take inspiration from the supplied references’ use of: * oversized headlines * strong type hierarchy * slightly condensed heavy lettering * subtle distressed texture * confident alignment * minimal supporting copy * graphic repetition * strong brand colour * editorial advertising layouts Do not replicate any particular reference. Typography should feel intentionally designed into the image from the beginning. ⸻ PRODUCT SCALE Make the KITKAT relatively large. It should occupy approximately 55–65% of the poster width. Position it horizontally with enough surrounding negative space to remain immediately recognizable. The chocolate should slightly overlap the repeated WORK typography. Use a soft, realistic contact shadow underneath the product so it feels physically present without becoming a floating CGI object. ⸻ LIGHTING Premium studio product photography. Use: * large soft frontal key light * subtle overhead fill * controlled side light * delicate rim separation * soft contact shadow * precise wrapper highlights * controlled chocolate reflections The product should have dimensionality while the background remains graphic. Avoid: * HDR * bloom * lens flare * blue-orange cinematic grading * artificial glow * excessive reflections * plastic-looking packaging ⸻ CAMERA / PHOTOGRAPHIC QUALITY Simulate premium medium-format commercial photography. Camera: Phase One XF IQ4 150MP Lens: Schneider Kreuznach 80mm macro / approximately 90mm equivalent Aperture: approximately f/8 for controlled product clarity Focus: critical focus across the packaging and exposed chocolate Rendering: extremely high micro-detail, natural perspective, smooth highlight roll-off, realistic material response The final product must resemble a professionally photographed FMCG packshot composited into a premium graphic campaign. ⸻ MATERIAL REALISM Wrapper Real printed flexible packaging with: * subtle creases * accurate folds * fine printed texture * controlled specular reflections * realistic foil transitions Chocolate Real milk chocolate with: * natural micro-texture * subtle imperfections * believable highlights * crisp molded edges * realistic wafer structure Background Premium matte red advertising surface with extremely subtle tactile texture. Everything must feel physically believable. ⸻ BRANDING The packaging itself is the primary brand identifier. Use only one additional KITKAT logo maximum, positioned with restraint. Do not scatter logos. Do not add fake brand badges. Do not create unnecessary legal copy. Do not use excessive hashtags. If used, a tiny #HaveABreak can appear in the upper corner as a secondary brand detail. ⸻ GRAPHIC DETAIL Introduce extremely subtle design refinement: * thin horizontal rules * small typographic dividers * restrained alignment marks * subtle red tonal variation * soft product shadow * minimal chocolate crumbs at the break These details must support the concept rather than decorate the poster. ⸻ POST-PRODUCTION Finish as a global FMCG campaign asset. Perform: * precision product compositing * accurate packaging rendering * realistic chocolate texture * controlled shadows * premium colour grading * micro-contrast refinement * subtle grain * clean typography * perfect alignment * high-resolution sharpening * realistic material integration No visible AI artifacts. Typography must be clean and intentional. Packaging must remain structurally accurate. ⸻ REFERENCE INTERPRETATION Use the supplied reference images as art-direction references, not as templates. Extract these qualities: Bold FMCG composition + strong product hero + oversized typography + saturated colour + visual metaphor + clean negative space + premium photorealism + social-media readability. The final design should feel like it belongs in the same high-end AI advertising / FMCG campaign ecosystem, while remaining completely original to KITKAT. ⸻ NEGATIVE DIRECTION NO environment. NO office. NO desk. NO kitchen. NO café. NO room. NO furniture. NO people. NO lifestyle scene. NO realistic location. NO stock photography. NO generic chocolate advertisement. NO chocolate splash. NO melted chocolate. NO floating chocolate pieces. NO excessive crumbs. NO CGI spectacle. NO smoke. NO particles. NO neon effects. NO dramatic scenery. NO complicated background. NO multiple concepts. NO visual clutter. NO excessive copy. NO fake logos. NO duplicated logos. NO distorted KITKAT packaging. NO malformed chocolate fingers. NO incorrect wrapper geometry. NO generic AI typography. NO Canva-template appearance. NO plastic-looking chocolate. NO fake HDR. NO excessive sharpening. NO oversaturation. ⸻ FINAL CREATIVE TEST Before finalizing, the poster must pass three tests: 1. Thumbnail test: At Instagram thumbnail size, the KITKAT and the visual interruption remain immediately recognizable. 2. One-sentence test: The concept can be explained simply: “The KITKAT literally creates the break in the endless WORK.” 3. Advertising test: It should look sophisticated enough to appear as a real global FMCG campaign, not an AI-generated product poster. FINAL MESSAGE THE PRODUCT IS THE BREAK.</code></pre>
+
+</details>
+
+## Charming minimalist editorial travel poster of \[CITY, TURKEY\]
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2091889671626170529)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3764](https://imglume.com/prompt/3764)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8b3b86d9-b0d5-4144-94b4-ec5507214213/882cbf57-2e4e-41ba-8412-56931d782839-1787622974787 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/8b3b86d9-b0d5-4144-94b4-ec5507214213/69e208c1-7795-4a43-ab74-ce6bbfca3f48-1787622974787 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/8b3b86d9-b0d5-4144-94b4-ec5507214213/f23afb28-2532-478c-a5fb-4c59cc8be0f8-1787622974787 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/8b3b86d9-b0d5-4144-94b4-ec5507214213/5f2b70e8-c342-41a1-971e-8f1519a93458-1787622974787 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming minimalist editorial travel poster of [CITY, TURKEY], inspired by modern paper-cut collage and handcrafted travel illustration. Use a warm cream/off-white textured paper background with a clean rectangular poster composition. At the top, place the city name in large, elegant, widely spaced uppercase typography: “[CITY]”.
+
+Build a detailed layered miniature cityscape using flat paper-cut shapes with subtle 3D depth, soft shadows, thick white sticker-like outlines, rounded edges, and handcrafted imperfections. Feature the city’s most recognizable landmarks, historic architecture, mosques, minarets, towers, old houses, streets, bridges, surrounding landscape, and local cultural elements. Arrange the landmarks naturally at different depths rather than as a realistic photograph.
+
+Use a refined Mediterranean/Turkish color palette: terracotta, muted coral, dusty teal, sage green, warm beige, cream, soft blue, and dark desaturated blue. Add stylized trees, cypress trees, palm trees where appropriate, small people walking, traditional vehicles, birds, clouds, and subtle local details.
+
+Create layered rolling hills and mountains in the background, with simplified geometric shapes. Add a small river, lake, coastline, or road if geographically appropriate. Keep the illustration balanced and uncluttered.
+
+The entire artwork should look like a premium handmade paper diorama / 3D cut-paper postcard, with crisp vector-like shapes, tactile paper texture, gentle ambient shadows, soft studio lighting, sophisticated travel-magazine aesthetics, nostalgic yet contemporary design.
+
+At the bottom, add a small elegant caption: “[CITY] ”. Maintain generous negative space around the artwork. No photorealism, no gradients-heavy CGI, no excessive detail, no clutter.
+
+Aspect ratio: 4:5 vertical, high resolution, clean centered composition, premium travel poster design.</code></pre>
+
+</details>
+
+## Premium vertical travel poster of \[COUNTRY\] as an enormous miniature mechanical world
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2091798394993815845)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3763](https://imglume.com/prompt/3763)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/9a226e34-369b-4435-ade0-4110c3c8b373-1787618780819 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/8f8a3552-1622-46d6-b032-219749105a1b-1787618780819 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/e6f00fe5-1731-460c-8d23-b422589a0b81-1787618780819 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/daee600d-de64-4835-ae72-015561678416-1787618780819 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 conceptual travel poster of [COUNTRY] transformed into an enormous miniature mechanical world.
+
+The entire geographic shape of the country is sculpted as a sophisticated clockwork machine. Mountains become giant brass gears, rivers flow through polished metal channels, forests are made of thousands of tiny mechanical leaves, highways become intricate moving mechanisms, and cities appear as miniature illuminated machines.
+
+The country’s most iconic landmarks are integrated naturally into the mechanism, functioning as important components rather than simply being displayed as monuments.
+
+At the center, create one enormous elegant clock mechanism representing the heartbeat of the country. Tiny bridges, railways, cables, elevators, windmills, and moving parts connect every region, suggesting that the entire nation operates as one extraordinary machine.
+
+Use a dark museum-like background, dramatic cinematic lighting, warm metallic reflections, subtle atmospheric haze, extreme miniature detail, realistic materials, shallow depth of field, and handcrafted steampunk precision.
+
+The geographic outline of [COUNTRY] must remain clearly recognizable.
+
+Minimal elegant typography:
+[COUNTRY]
+“A World in Motion”
+
+No ordinary map, no flat infographic, no generic landmarks, no flags, no tourists, no clutter.
+
+Ultra-realistic miniature photography + cinematic concept art + luxury editorial travel poster + intricate mechanical engineering aesthetic, breathtaking detail, sophisticated composition, 8K.</code></pre>
+
+</details>
 
 ## Ultra-detailed photorealistic isometric miniature diorama of \[ANIME\] world
 

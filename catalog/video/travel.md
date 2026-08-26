@@ -1,9 +1,121 @@
 # Travel video prompts
 
-66 source-linked prompts, newest ImgLume records first.
+68 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Late-2000s Handheld Indonesian Market Vlog
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2092191560519827910)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3808](https://imglume.com/prompt/3808)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/31ab3066-2b9e-479b-9a3d-5a81cf20cabd/2caaa8d6-1184-40fe-91a3-72d5b580f48c-1787671040597 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized sage green linen shirt, faded olive cropped pants, worn rubber flip-flops, thin silver anklet, hair tied in a loose messy bun with flyaway strands. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+
+00:00–00:04 Walking through a cramped traditional market alley toward a small food stall, camera bouncing heavily. She spots something off-camera and excitedly says, "Wait, look at that!" before quickly turning the camera toward the stall.
+
+00:04–00:08 Stops beside an elderly woman making traditional banana-leaf snacks. The vendor folds a steaming snack by hand while explaining something, and the woman leans closer, fascinated, accidentally getting too close to the steam and laughing.
+
+00:08–00:12 Tries folding a banana leaf herself. Her first attempt comes apart immediately, filling the frame with her hands as she laughs and says, "Okay... that looked much easier!"
+
+00:12–00:16 The vendor patiently demonstrates the folding technique again. She copies the movements beside her, concentrating intensely while nearby shoppers glance over and smile.
+
+00:16–00:20 Successfully finishes one small banana-leaf parcel, proudly holds it toward the camera, then accidentally drops it onto the table. She bursts out laughing while the vendor shakes her head playfully.
+
+00:20–00:24 Opens a freshly steamed parcel and takes a bite. Her expression changes to genuine surprise and delight, she points at it enthusiastically and says, "Oh wow, that's really good!"
+
+00:24–00:27 Walks away from the stall while still eating, waving goodbye to the vendor. A passing motorbike squeezes through the narrow alley, causing her to quickly step aside and laugh as the camera jolts.
+
+00:27–00:30 Pauses beneath a faded market awning, holds up the little banana-leaf snack to the camera and says, "Definitely coming back for these!" She takes another bite as the camera accidentally tilts downward and the recording cuts off naturally.
+
+Natural ambience only: overlapping market chatter, vendors calling out prices, plastic bags rustling, chopping sounds, steaming pots, motorbikes squeezing through the alley, footsteps, distant children laughing, occasional clinking dishes, and general morning market noise. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera travel vlog with spontaneous human movement, imperfect framing, genuine reactions, and realistic unscripted interactions.</code></pre>
+
+</details>
+
+## Arctic Adventure STOP SCROLLING Cinematic Video
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2092079387072250075)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`, `travel`
+- **ImgLume record:** [3803](https://imglume.com/prompt/3803)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cb048c31-2276-47d0-9ccf-7cde6a224ea8/44b2a7ce-ecc4-4ef5-8074-2b4eb192a498-1787666850992 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a jaw-droppingly cinematic, ultra-realistic 14-second Arctic adventure designed as a “STOP SCROLLING” visual. The video should feel like a once-in-a-lifetime viral travel documentary captured by an elite National Geographic-style cinematographer.
+
+A cheerful, glamorous young woman in a premium warm ivory-white padded expedition coat, elegant knitted winter cap, matching gloves, fitted winter pants and rugged closed snow boots walks through an enormous untouched Arctic wilderness. Maintain the exact same woman, face, hairstyle, body proportions, outfit, colors and appearance in every shot.
+
+0–3s — THE HOOK
+
+Open with an epic aerial drone shot racing low over an endless frozen landscape: towering snow-covered mountains, sparkling ice fields and thousands of tiny snow crystals exploding through the air. Suddenly the camera dives dramatically toward the woman as she walks through deep powdery snow.
+
+She looks directly toward the camera with a genuine “I can't believe I'm here” expression.
+
+A powerful cinematic gust sweeps snow around her, creating a breathtaking whiteout-to-reveal transition.
+
+3–6s — THE UNEXPECTED DISCOVERY
+
+As she walks forward, she suddenly stops.
+
+A curious polar bear cub slowly emerges from behind a soft snowbank several meters away, followed by a small group of penguins waddling naturally across the snowy terrain.
+
+The woman gasps with delight, kneels carefully in the snow and watches them with wonder.
+
+Use an intimate 85mm cinematic close-up of her amazed expression, then rack focus from her eyes to the animals in the background.
+
+6–9s — MAGICAL WILDLIFE MOMENT
+
+She slowly raises her camera and photographs the animals.
+
+Cut to a beautiful over-the-shoulder camera POV showing the polar bear cub looking curiously toward her while penguins shuffle through fresh snow.
+
+One penguin unexpectedly slips slightly in the powder, recovers naturally and continues walking, creating a cute, spontaneous, believable moment.
+
+The cub gently paws at falling snowflakes while sunlight catches individual snow crystals and detailed fur.
+
+No human-like animal behavior. Keep all wildlife realistic, calm and natural.
+
+9–12s — VIRAL WOW MOMENT
+
+The woman laughs joyfully and playfully tosses a handful of fresh powder into the air.
+
+Use a dramatic 120fps-style slow-motion moment as thousands of snow particles sparkle around her.
+
+Transition into a 360° cinematic orbit around her while the mountains, polar bear cub and penguins remain visible in the background.
+
+A brief shaft of golden sunlight breaks through the clouds, illuminating the entire scene like a natural cinematic spotlight.
+
+12–14s — EPIC FINAL REVEAL
+
+She gently sits in the snow, smiling in pure happiness.
+
+The polar bear cub remains safely in the distance while the penguins naturally move across the snow.
+
+The camera begins an ultra-smooth reverse crane + drone pullback, continuously expanding the frame until the woman becomes a tiny figure surrounded by an enormous untouched Arctic panorama.
+
+End on a spectacular 360° aerial reveal of frozen mountains, endless snowfields, drifting snowstorms and glowing winter sunlight.
+
+The final frame should create the feeling:
+
+“This looks impossible… but it's real.”
+
+VISUAL &amp; CINEMATIC QUALITY
+
+Ultra-realistic cinematic travel documentary • photorealistic 4K HDR • physically accurate snow • realistic fur and feathers • individual snow particles • realistic footprints • volumetric winter atmosphere • natural cold-weather lighting • cinematic depth of field • realistic lens flares • subtle handheld documentary moments • smooth drone cinematography • dynamic camera movement • seamless match cuts • rack focus • slow motion • natural motion blur • high dynamic range • premium Hollywood cinematography • immersive scale • breathtaking environmental detail.</code></pre>
+
+</details>
 
 ## Spontaneous Vacation Vlog in Indonesia – Hidden Lagoon Discovery
 

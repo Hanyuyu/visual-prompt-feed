@@ -5,47 +5,37 @@
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## Seedance 2.5 video cloning prompt
+## Creepy Two‑Player Monologue Seedance Video Prompt
 
-- **Original source:** [@DavidRunsAds on X](https://x.com/DavidRunsAds/status/2091608066353512914)
+- **Original source:** [@ObsceneSelene on X](https://x.com/ObsceneSelene/status/2091715042928627729)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
-- **Categories:** `character`
-- **ImgLume record:** [3747](https://imglume.com/prompt/3747)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fc177b92-5708-49f2-a472-d2dd7f1dd569/55c5d202-e9b1-4894-8c54-a37df9489c6d-1787589492839 "Image prompt preview")
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3757](https://imglume.com/prompt/3757)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5eaf5bd-6f26-48a8-b44e-014f47d59776/305f83b0-2d40-403d-8211-6c9c4f7a9ac3-1787599891140 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>[ EDIT OBJECTIVE ]
-Edit @video1. Across the entire clip, replace only the person in @video1 with the person defined by @image1, as if that person had been the one originally filmed. Nothing else changes.
+<pre><code>[The Scene Title] Script Prompt
+Global Style: A dark, oppressive, and deeply unsettling cinematic environment reminiscent of the G-Man encounters in Half-Life 2. The lighting is harsh and low-key, with aggressive chiaroscuro casting deep shadows across both faces. The lens is a vintage anamorphic 35mm, creating a subtle distortion at the frame edges and an uncomfortable, suffocating proximity. The color grade is cold, desaturated, and heavy on sickly greens and sterile blues. A dense, flickering projected overlay washes across both subjects and the immediate space, displaying rapid, ghostly montages directly related to [INSERT TOPIC HERE OR IT WILL JUST BE A RANDOM DARK TOPIC]. The background is a pitch-black, non-descript void. The audio loop is a low, vibrating industrial drone, punctuated by @Image 1's erratic, heavy breathing, unsettling chuckles, and the fragile, shuddering gasps of @Image 2 on the verge of breaking down completely.
 
-[ SOURCE VIDEO ROLE ]
-@video1 is the sole editing master: environment, props, camera position and movement, framing, focal length, lighting, shadows, reflections, color grade, grain, motion blur, depth of field, occlusion relationships, all cuts, event order, exact durations and all audio. The original person governs performance only: pose, blocking, movement paths, gestures, head orientation, expressions, gaze, blinks, lip movement, breathing and every contact with objects. The replacement performs this exactly, frame for frame.
+[00:00 - 00:04] Shot 1: An uncomfortable over-the-shoulder medium close-up, framing @Image 1 in sharp focus on the center-right third of the screen, while the silhouette of @Image 2 sits motionless in the left foreground. A flickering, high-contrast overlay of [INSERT VISUAL THEME RELATED TO TOPIC] projects across @Image 1's pale skin. The camera remains dead still, forcing a menacing intensity. @Image 1 takes a slow, unnaturally heavy breath, chest rising rigidly, and delivers the opening line with a piercing, erratic [Accent Name] accent: "[Insert dialogue fragment 1 related to topic]."
 
-[ TARGET ASSET ROLE ]
-@image1 defines identity and appearance only: facial structure and features, skin tone and texture, distinguishing marks, hair, head and neck shape, body build and silhouette, hand appearance, and the complete clothing and accessories shown. Do not use its background, lighting, camera angle, framing, pose or expression.
+[00:04 - 00:08] Shot 2: A slow rack-focus and creep-in transitioning directly onto @Image 2's face on the left third of the screen. Glassy, terrified eyes reflect the frantic flickering projection of [INSERT VISUAL THEME RELATED TO TOPIC]. @Image 2's lower lip trembles violently, holding back tears as the realization sets in. In the background shadow, @Image 1's smirk remains faintly visible. @Image 1 lets out a quiet, gravelly, menacing chuckle that rattles the microphone and whispers off-mic: "[Insert dialogue fragment 2 related to topic]."
 
-[ EDIT SCOPE ]
-Modify only the region occupied by the original person — face, head, hair, skin, body, clothing. Exactly one person in frame at all times; none added, removed, duplicated or split.
+[00:08 - 00:12] Shot 3: Extreme close-up framing @Image 1 on the right third of the screen, focusing tightly on their mouth and jawline. The camera vibrates with a micro-tremor glitch effect. The sodium lighting dims significantly, plunging half of @Image 1's face into absolute, impenetrable darkness. The projection of [INSERT VISUAL THEME RELATED TO TOPIC] strobes across their face with brutal speed. Speaking with cold, absolute certainty, @Image 1 states: "[Insert dialogue fragment 3 related to topic]."
 
-[ TIMELINE INHERITANCE ]
-The replacement inherits every entrance, exit, occlusion and re-emergence at the identical timestamp, duration, path and speed, with the same body regions hidden and revealed. Head turns, profile, three-quarter, back and close-up views occur at the same moments; in each the face reads as the same individual from @image1, correctly rotated in 3D, never snapping back to the frontal pose of @image1. Mouth shapes stay synchronized with the unchanged original audio.
+[00:12 - 00:16] Shot 4: Smooth whip-pan over to a tight close-up of @Image 2 on the center third. A sterile, flickering blue backlight catches a single tear finally spilling down their cheek. @Image 2 swallows hard, breathing shallow and ragged, eyes darting in sheer horror across the room, desperately searching for a lie in the dark. Off-screen, @Image 1's voice cuts through the industrial drone with calculated venom: "[Insert dialogue fragment 4 related to topic]."
 
-[ IDENTITY LOCK ]
-One single continuous individual from first frame to last. Facial structure,
-feature proportions, skin tone and texture, hairstyle and hair color, and clothing cut, color and pattern stay fixed; hair and fabric may only move with the inherited motion. No drift, morphing, interpolation, blending with the original person, drift toward a generic face, or frame-to-frame flicker. Expression is inherited; anatomy is not.
+[00:16 - 00:20] Shot 5: A claustrophobic profile two-shot. The camera slowly zooms inward as @Image 1 leans directly into @Image 2's personal space, casting violent green projected shadows over both of them. @Image 1's eyes are wide and unblinking, invading the frame entirely. @Image 2 flinches backward slightly, chest heaving with suffocated panic. The ambient audio drone drops in pitch to a sickening low frequency as @Image 1 murmurs directly against their ear: "[Insert dialogue fragment 5 related to topic]."
 
-[ NO APPEARANCE CHANGES ]
-Do not beautify, retouch, smooth skin, slim or reshape the face or body, alter age, makeup, facial hair, hairstyle or garments, or stylize. Preserve @image1 exactly, including asymmetry and natural imperfections.
+[00:20 - 00:24] Shot 6: High-angle tight shot tilted down on @Image 2 locked in the center-left third. Harsh top lighting accentuates dark, tear-streaked hollows under their eyes. The flickering projection of [INSERT VISUAL THEME RELATED TO TOPIC] washes violently over their forehead. @Image 2 weakly shakes their head, voice cracking in desperate, trembling denial despite the obvious truth in their eyes. With a breaking [Accent Name] accent, @Image 2 stammers: "[Insert dialogue fragment of listener in tearful disbelief, e.g., 'No... stop it. That is not true... you are lying.']"
 
-[ INTEGRATION ]
-Relight the person to @video1's key direction, fill, rim, practicals, color
-temperature, contrast and falloff, including illumination changes as the person or camera moves. Cast shadows, contact shadows, ambient occlusion and reflections match in shape, direction, softness and density. Match lens characteristics, depth of field, focus behavior, motion blur, grain, sharpness and color grade. Clean edges and hair boundaries — no halos, cutout look, ghosting or residual features of the original person.
+[00:24 - 00:27] Shot 7: An abrupt whip-pan snap to an extreme Macro shot locked on @Image 1's eye on the left third of the frame. The reflection of [INSERT VISUAL THEME RELATED TO TOPIC] twitches inside the dilated pupil. The ambient drone cuts out completely, leaving only the sound of @Image 2's choked, wet sob in the dark. @Image 1 delivers the final, crushing nail in the coffin with a cracked, raspy smirk: "[Insert final dialogue fragment confirming the harsh truth]."
 
-[ KEEP UNCHANGED ]
-Apart from the replaced person, every element of @video1 remains exactly as in the original, including the complete original audio.</code></pre>
+[00:27 - 00:30] Shot 8: A sudden, violent digital macro-jitter dynamic camera snap pulling back into a wide view of both characters. A blinding blast of overexposed projector light washes out their features entirely, reducing @Image 1 to a rigid silhouette and @Image 2 to a slumping figure covering their face. The audio distorts into a crushing wall of static and an echoing, slowed-down chuckle before slamming into an abrupt pitch-black screen wash.</code></pre>
 
 </details>
 

@@ -1,9 +1,74 @@
 # Product Ads image prompts
 
-22 source-linked prompts, newest ImgLume records first.
+25 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## High-fashion luxury scene on Lamborghini
+
+- **Original source:** [@KeorUnreal on X](https://x.com/KeorUnreal/status/2092229826983731510)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3813](https://imglume.com/prompt/3813)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c13766a9-99f6-4e32-81b4-4a93728c6ca8/d8db9368-a4d8-4f29-866a-b8a51ccd1fa8-1787675300916 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c13766a9-99f6-4e32-81b4-4a93728c6ca8/f6df13bd-6519-42d2-8d11-769a89135b3a-1787675300916 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c13766a9-99f6-4e32-81b4-4a93728c6ca8/2837d865-39e2-4b95-ac73-d8787750edff-1787675300916 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/c13766a9-99f6-4e32-81b4-4a93728c6ca8/e482143d-691c-42a6-b221-4846572d3583-1787675300916 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A quiet residential avenue turns into an elegant open-air setting against modern apartment facades. Perched on the electric blue Lamborghini sports car hood, she radiates an unhurried, sculpted authority with a coolly withheld gaze behind dark lenses. The long high-gloss yellow leather coat drapes heavily over a tight yellow latex short skirt, framing glossy high yellow heels with a small sign 'Keor' engraved on it. Soft overcast daylight descends as an immense canopy, wrapping gentle satin highlights around her ivory skin and coat. Defocused white plaster walls, climbing ivy, and grey stone pavers form a muted cool background pierced by the car's crimson bodywork. Stillness becomes an architectural statement where silent composure redefines the language of modern high-fashion luxury.</code></pre>
+
+</details>
+
+## Ultra-realistic commercial product photography of a premium glass perfume bottle
+
+- **Original source:** [@Urwa_345 on X](https://x.com/Urwa_345/status/2092256327917797570)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3811](https://imglume.com/prompt/3811)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/64f6105f-53c1-4410-884e-fd015fd116c0/69dc6e53-d7f3-4c9f-8263-41bb4eff7afb-1787675230998 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/64f6105f-53c1-4410-884e-fd015fd116c0/60a62a23-fdfc-4b6f-96a7-059f9c7b38dd-1787675230998 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic professional commercial product photography of a premium glass perfume bottle placed on a polished black marble table inside a luxurious modern hotel lobby. The perfume bottle has a sophisticated transparent glass design, elegant metallic cap, realistic liquid visible inside, subtle condensation droplets, and clean premium packaging. In the background, a large floor-to-ceiling window overlooks a beautiful modern city skyline during golden hour, with warm sunlight naturally entering the room.
+
+The bottle is positioned perfectly in the center of the composition with realistic studio-quality reflections on the glass and marble surface. A few delicate white flowers and minimal luxury accessories are arranged naturally around the product without distracting from it. Soft warm sunlight creates realistic highlights along the edges of the bottle while subtle professional fill lighting keeps the product perfectly exposed. Natural shadows, realistic glass refraction, accurate reflections, physically accurate materials, authentic photography imperfections, shallow depth of field, realistic background bokeh, premium beauty campaign aesthetic, high-end commercial photography, shot on a professional full-frame camera with an 85mm lens, natural cinematic color grading, extremely detailed, photorealistic, 8K resolution, sharp product focus, realistic proportions, vertical 9:16 composition, no fantasy elements, no surreal effects, no floating objects, no distorted packaging, no extra text, no watermark.</code></pre>
+
+</details>
+
+## Ultra-realistic luxury beauty advertisement with miniature workers
+
+- **Original source:** [@Its_Saad_kkk on X](https://x.com/Its_Saad_kkk/status/2092112107982455130)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3785](https://imglume.com/prompt/3785)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e6e8e709-ba83-4f9f-b9e4-1b39e55bea37/55975f99-9818-4ce3-a9c5-503d58fe56c4-1787645784072 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e6e8e709-ba83-4f9f-b9e4-1b39e55bea37/922d4aaf-8124-4900-a72d-c40f3f8b16b4-1787645784072 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic, high-end luxury beauty advertisement inspired by premium editorial cosmetics photography. The composition features a close-up macro portrait of a woman’s face filling the background, with natural warm skin tones, realistic pores, subtle freckles, delicate skin texture, glossy hydrated lips, and soft golden studio lighting. Keep the facial appearance elegant, natural, refined, and photorealistic, with a sophisticated beauty-campaign aesthetic.
+
+In the foreground, place premium liquid makeup products inspired by a modern luxury cosmetic brand. Include a tall frosted glass liquid blush bottle standing upright and another matching blush container lying horizontally on the surface. The packaging should have a soft muted rosy-pink/coral liquid visible through the frosted glass, clean minimalist typography, and a luxurious metallic gold cap. Place the applicator wand beside the bottle, with a soft fluffy doe-foot applicator carrying a small amount of rosy blush product.
+
+Add a creative miniature-world concept: several tiny professional beauty workers dressed in clean white work uniforms, black utility belts, black shoes, and pink protective helmets are climbing thin ropes around the cosmetic products. Some miniature workers should appear carefully painting or applying blush to the giant skin surface with tiny rollers and cosmetic tools, while another worker climbs toward the product bottle, creating the illusion that the cosmetic product is being professionally crafted and applied at a massive scale. The miniature figures should have realistic proportions, detailed clothing, believable poses, tiny equipment, realistic shadows, and physically accurate interaction with the environment.
+
+Arrange the products on a smooth warm beige/pink studio surface with subtle reflections and soft shadows. Use a carefully controlled luxury commercial lighting setup: warm diffused key light, gentle rim lighting, soft highlights on the glass and metallic gold cap, realistic reflections, cinematic depth of field, and subtle atmospheric glow. The background should remain minimal, elegant, warm, and uncluttered so the cosmetics and miniature workers remain the main focus.
+
+Use a premium beauty campaign composition with a slightly low product angle, macro photography aesthetics, shallow depth of field, realistic bokeh, extremely detailed glass textures, realistic liquid translucency, natural skin texture, accurate material reflections, and professional color grading. Make every element look physically present in the same scene rather than digitally pasted together.
+
+Overall mood: luxurious, feminine, creative, playful, premium, sophisticated, and visually striking. The final image should resemble a high-budget international cosmetic advertising campaign combined with imaginative miniature photography.
+
+Ultra-photorealistic, 8K detail, cinematic commercial photography, macro lens, realistic skin pores, realistic freckles, highly detailed miniature humans, physically accurate shadows, natural reflections, premium product styling, warm soft lighting, crisp foreground details, subtle depth of field, realistic materials, professional beauty photography, editorial advertising quality, no cartoon appearance, no illustration, no distorted hands, no duplicated people, no malformed faces, no floating objects, no unrealistic anatomy.</code></pre>
+
+</details>
 
 ## Ultra-realistic cinematic chocolate advertisement
 

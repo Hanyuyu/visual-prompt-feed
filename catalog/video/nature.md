@@ -1,9 +1,86 @@
 # Nature video prompts
 
-18 source-linked prompts, newest ImgLume records first.
+19 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Arctic Adventure STOP SCROLLING Cinematic Video
+
+- **Original source:** [@jzaib4269 on X](https://x.com/jzaib4269/status/2092079387072250075)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`, `travel`
+- **ImgLume record:** [3803](https://imglume.com/prompt/3803)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cb048c31-2276-47d0-9ccf-7cde6a224ea8/44b2a7ce-ecc4-4ef5-8074-2b4eb192a498-1787666850992 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a jaw-droppingly cinematic, ultra-realistic 14-second Arctic adventure designed as a “STOP SCROLLING” visual. The video should feel like a once-in-a-lifetime viral travel documentary captured by an elite National Geographic-style cinematographer.
+
+A cheerful, glamorous young woman in a premium warm ivory-white padded expedition coat, elegant knitted winter cap, matching gloves, fitted winter pants and rugged closed snow boots walks through an enormous untouched Arctic wilderness. Maintain the exact same woman, face, hairstyle, body proportions, outfit, colors and appearance in every shot.
+
+0–3s — THE HOOK
+
+Open with an epic aerial drone shot racing low over an endless frozen landscape: towering snow-covered mountains, sparkling ice fields and thousands of tiny snow crystals exploding through the air. Suddenly the camera dives dramatically toward the woman as she walks through deep powdery snow.
+
+She looks directly toward the camera with a genuine “I can't believe I'm here” expression.
+
+A powerful cinematic gust sweeps snow around her, creating a breathtaking whiteout-to-reveal transition.
+
+3–6s — THE UNEXPECTED DISCOVERY
+
+As she walks forward, she suddenly stops.
+
+A curious polar bear cub slowly emerges from behind a soft snowbank several meters away, followed by a small group of penguins waddling naturally across the snowy terrain.
+
+The woman gasps with delight, kneels carefully in the snow and watches them with wonder.
+
+Use an intimate 85mm cinematic close-up of her amazed expression, then rack focus from her eyes to the animals in the background.
+
+6–9s — MAGICAL WILDLIFE MOMENT
+
+She slowly raises her camera and photographs the animals.
+
+Cut to a beautiful over-the-shoulder camera POV showing the polar bear cub looking curiously toward her while penguins shuffle through fresh snow.
+
+One penguin unexpectedly slips slightly in the powder, recovers naturally and continues walking, creating a cute, spontaneous, believable moment.
+
+The cub gently paws at falling snowflakes while sunlight catches individual snow crystals and detailed fur.
+
+No human-like animal behavior. Keep all wildlife realistic, calm and natural.
+
+9–12s — VIRAL WOW MOMENT
+
+The woman laughs joyfully and playfully tosses a handful of fresh powder into the air.
+
+Use a dramatic 120fps-style slow-motion moment as thousands of snow particles sparkle around her.
+
+Transition into a 360° cinematic orbit around her while the mountains, polar bear cub and penguins remain visible in the background.
+
+A brief shaft of golden sunlight breaks through the clouds, illuminating the entire scene like a natural cinematic spotlight.
+
+12–14s — EPIC FINAL REVEAL
+
+She gently sits in the snow, smiling in pure happiness.
+
+The polar bear cub remains safely in the distance while the penguins naturally move across the snow.
+
+The camera begins an ultra-smooth reverse crane + drone pullback, continuously expanding the frame until the woman becomes a tiny figure surrounded by an enormous untouched Arctic panorama.
+
+End on a spectacular 360° aerial reveal of frozen mountains, endless snowfields, drifting snowstorms and glowing winter sunlight.
+
+The final frame should create the feeling:
+
+“This looks impossible… but it's real.”
+
+VISUAL &amp; CINEMATIC QUALITY
+
+Ultra-realistic cinematic travel documentary • photorealistic 4K HDR • physically accurate snow • realistic fur and feathers • individual snow particles • realistic footprints • volumetric winter atmosphere • natural cold-weather lighting • cinematic depth of field • realistic lens flares • subtle handheld documentary moments • smooth drone cinematography • dynamic camera movement • seamless match cuts • rack focus • slow motion • natural motion blur • high dynamic range • premium Hollywood cinematography • immersive scale • breathtaking environmental detail.</code></pre>
+
+</details>
 
 ## Young woman strolling in a botanical garden – 30s documentary style video
 

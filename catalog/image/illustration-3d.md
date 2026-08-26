@@ -1,9 +1,97 @@
 # Illustration 3d image prompts
 
-66 source-linked prompts, newest ImgLume records first.
+69 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Miniature Italy Diorama
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2091813271393456541)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3767](https://imglume.com/prompt/3767)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3a14baa5-5382-4d8e-8ffb-f6cec79c2863/8ae86972-3c05-4eaa-9727-5ffc7efdd645-1787627182798 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A premium handcrafted miniature diorama of Italy arranged as a tiny floating travel island on a warm ivory textured paper background, viewed from a slightly elevated three-quarter perspective.
+
+Create a richly detailed Italian landscape featuring the Colosseum, the Leaning Tower of Pisa, a Venetian bell tower, a beautiful Renaissance-style domed church, charming terracotta-roofed village houses, narrow cobblestone streets, tall Mediterranean cypress trees, olive greenery, flowering plants, and a vibrant lemon tree filled with ripe yellow lemons.
+
+In the foreground, include a vintage green-and-cream Italian tram following miniature railway tracks around the island, a pastel green Vespa parked beside a tiny café, and a graceful stone bridge crossing a turquoise Venetian canal. A classic black gondola with subtle red interior details glides through the water beside traditional striped mooring poles.
+
+Above the miniature landscape, a small passenger airplane flies across the open background with a delicate curved dotted flight path trailing behind it. Add a few tiny soft clouds and distant birds for a whimsical travel atmosphere.
+
+Use warm Mediterranean colors: terracotta orange, aged limestone beige, olive green, soft cream, muted brick red, pastel peach, and clear turquoise-blue water. Every structure should feel handcrafted from painted resin, wood, ceramic, sculpted foliage, and fine architectural model materials.
+
+Soft diffused studio lighting from the upper left, realistic contact shadows beneath the island and buildings, subtle depth of field, crisp micro-detail, realistic miniature photography, collectible architectural model aesthetic, elegant composition, peaceful nostalgic mood, sophisticated travel-poster quality, ultra-detailed photorealism, 8K.
+
+Keep generous clean negative space around the miniature island. Center the word “Italy” beneath the island in delicate handwritten calligraphy with a tiny minimalist heart below it.
+
+Portrait composition, 3:4 aspect ratio.</code></pre>
+
+</details>
+
+## Premium handcrafted 3D paper-and-soft-clay destination plaque for \[LOCATION\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091756190183415857)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3765](https://imglume.com/prompt/3765)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/98ec90e1-3b6b-4b68-9493-48b260b0505e/24bb6e9a-4d28-48d3-a130-c368a12fc825-1787622990208 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/98ec90e1-3b6b-4b68-9493-48b260b0505e/26ad61a2-4e68-4ae0-9354-b9694b3aef87-1787622990208 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/98ec90e1-3b6b-4b68-9493-48b260b0505e/87c5bb67-f8f4-4d50-98f8-1a238fb3b014-1787622990208 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/98ec90e1-3b6b-4b68-9493-48b260b0505e/65a08d8b-0ed6-4419-a66f-c4bf3135d934-1787622990208 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, cute, handcrafted 3D paper-and-soft-clay destination plaque for [LOCATION], designed as part of one consistent global collectible series.
+
+COMPOSITION &amp; GEOMETRY: Use a fixed horizontal framed layout on a normalized 100×100 grid. Frame: x=5–95, y=8–92. Landmark zone: y=18–58. Foreground: y=48–67. Location-name zone: y=68–88. Bottom margin: y=88–92. Keep these proportions identical for every location.
+
+LANDMARK HIERARCHY: Place 1 centered hero landmark at x=50, occupying 34–38% height; 2 supporting landmarks at x=25 and x=75, each 22–28% height; 2–4 smaller background elements across x=10–90, each 12–20% height; and 1–3 subtle local foreground details, no more than 14% height. Use only the most recognizable and geographically appropriate features of [LOCATION]. Preserve defining silhouettes while simplifying details and avoiding clutter, clichés, or stereotypes.
+
+TYPOGRAPHY: Display exactly “[LOCATION]”, centered and unobstructed. The lettering should span approximately 82–86% of the plaque width and 17–20% of the canvas height. Use large, raised, embossed, rounded sans-serif lettering in warm ivory with a matte finish. Maintain consistent weight, spacing, alignment, and baseline across the entire series.
+
+MATERIAL &amp; STYLE: Approximately 70% layered paper and 30% soft matte clay. Create a shallow-relief handcrafted appearance with visible paper fibers, subtle clay texture, rounded handmade edges, delicate layer shadows, and small natural imperfections. Avoid glossy plastic, metallic materials, photorealism, or a generic CGI appearance.
+
+COLOR PALETTE: Warm ivory/cream foundation, soft beige and natural paper tones, muted blue-gray secondary accents, plus minimal muted colors inspired by the specific location.
+
+CAMERA &amp; LIGHTING: Straight-on centered camera with fixed perspective and scale. Use a warm neutral background, soft diffused studio lighting, gentle shadows, consistent depth, and subtle dimensional separation. No reflections, dramatic perspective, or surrounding environment.
+
+SERIES CONSISTENCY: Keep the frame, composition, grid, typography, landmark scale, hierarchy, object density, materials, palette, lighting, camera angle, depth, shadows, and negative space identical across every location. Change only the landmarks, culturally/environmentally relevant details, and restrained location-specific accent colors.
+
+FINAL QUALITY CHECK: [LOCATION] must be instantly recognizable, correctly spelled, visually balanced, and free of unnecessary text. Maintain the fixed landmark hierarchy, unobstructed lettering, consistent proportions, premium handcrafted texture, cute collectible aesthetic, and cohesive global-series identity.</code></pre>
+
+</details>
+
+## Photorealistic Travel Postcard Diorama Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091815865935384922)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3751](https://imglume.com/prompt/3751)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/c37435bc-bcf5-439d-b1e6-6b039d2e10a5-1787593672112 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/b50510ba-9dab-42d5-9e41-327a4de0fccb-1787593672112 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/e3fbedc5-cbf5-47de-b597-062e263fd7de-1787593672112 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/96f21f62-c051-4edf-a34c-88f19068a0d1-1787593672112 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[DESTINATION]
+A highly detailed, photorealistic [DESTINATION] travel postcard diorama, designed for Instagram, viewed from a slightly elevated angle. A real vintage postcard sits in the foreground, featuring rounded corners, authentic paper texture, a postage stamp, handwritten travel notes, and a postmark.
+Emerging from the postcard is an intricate 3D paper-cut world showcasing [DESTINATION]’s most iconic elements, constructed from layered cut-paper terrain, architecture, landmarks, vegetation, and coastlines.
+A stylized, collectible-quality traveler character naturally stands within the paper-cut scene, designed to match the atmosphere and culture of the destination. The character features a high-end cinematic look, an expressive pose, realistic proportions, fashionable travel attire, and subtle narrative accessories, seamlessly integrated into the miniature world.
+The background shows a softly blurred real-world scene of [DESTINATION], creating depth and a connection between reality and imagination. The postcard remains crisp and sharply focused, while the background has a creamy bokeh effect.
+(Continued) The handwritten text on the postcard feels personal, poetic, and distinctive to the destination, expressing a sense of discovery, wonder, and journeying through hidden gems. Elegant postmarks, destination stamps, and delicate ink illustrations complement the composition without making it feel cluttered.
+Visual hierarchy: Blurred real destination → authentic postcard → emerging paper-cut landscape → traveler character.
+Luxury travel magazine aesthetic, warm natural light, shallow depth of field, premium paper texture, cinematic color grading, realistic shadows, handcrafted details, ultra-fine paper-cut structures, collectible figurine quality, travel-magazine-cover quality, highly social-media-shareable aesthetic, photorealistic photography, 8K, masterpiece.</code></pre>
+
+</details>
 
 ## Theme Based Collage – thinking of you
 

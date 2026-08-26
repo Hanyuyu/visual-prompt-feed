@@ -1,9 +1,99 @@
 # Animation video prompts
 
-120 source-linked prompts, newest ImgLume records first.
+122 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30s continuous take anime action scene with hunter girl vs mechanical beast
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2091880459328430442)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3770](https://imglume.com/prompt/3770)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dd899cf1-46e0-4f84-a3f9-10e0f211540f/9a4b4098-3032-4e72-b180-13fc9ef06236-1787635653453 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/dd899cf1-46e0-4f84-a3f9-10e0f211540f/50a79c31-6e6e-40c0-a9b0-04e1063c3a36-1787635653453 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>2️⃣video prompt:
+
+[CHARACTER]
+One agile hunter girl, age ~17, petite slim build, cocky expressive face.
+EARS &amp; HAIR: short messy silver-white hair with soft choppy bangs, worn under an oversized orange tech hood with pointed fox/cat ear panels, black strap detailing and a small white "X" patch on the side. Hair strands constantly whipping in motion.
+FACE: large amber-gold eyes with bright highlights and slit-narrow pupils that visibly contract under stress, thick short lashes, pale skin, light blush, sharp canine teeth showing when she grins.
+OUTFIT: oversized orange technical jacket worn open, angular padded panels, black and white trim, red pull-tab straps and buckle clusters hanging off it, oversized sleeves with armored forearm plates; cropped white top with a small orange fox emblem, bare midriff; black harness straps across the torso with metal rings; black high-waisted shorts with layered utility panels and hanging red webbing straps; black thigh strap on the right leg; black armored fingerless gloves with CLAW BLADES that extend from the knuckles — sharp orange-lit blades; chunky orange-and-white mech boots with black bands, armored paw-shaped toe plates and glowing seams.
+MECHANICAL TAIL: a long segmented prehensile tail, black with orange banded rings, ending in a rounded grappling pod marked with an orange "X". It grabs pipes, anchors to surfaces, and reels her in at speed. Always animated with intent.
+Same face, same hood, same jacket, same mechanical tail in every frame. No costume change, no other lookalike characters.
+
+[ENEMY LOCK]
+MECHANICAL HUNT-BEAST: a 60m quadrupedal war machine shaped like a hound — heavy dark grey and rust armor plating, exposed red hydraulic cabling at the joints, a blunt visored head with a horizontal red optic bar, shoulder-mounted missile racks that flip open, massive clawed feet that crater the street. Moves with real mass and delay. A glowing red core visible between the neck plates. Never humanized, never speaks.
+
+[EXPRESSION TRACK — mandatory, must read clearly on her face]
+0-3s relaxed confidence at full sprint, easy half-smile, glancing back over her shoulder, completely unbothered → 3-5s cocky grin widening, fangs showing, eyebrow raised in a taunt → 5-7s the missile lock hits: grin vanishes instantly, pupils snapping to slits, eyes flying wide, jaw setting — real alarm → 7-12s hard combat focus, teeth clenched, brows low, sharp calculating glances tracking explosions → 12-14s brief triumphant smirk landing on the beast's back → 14-16s violently thrown: face contorting in shock and pain, eyes squeezing shut, gritted teeth → 16-18s dazed recovery, wiping dust off her cheek, a little scowl, then it curls into an excited hungry grin, eyes lighting up → 18-20s fierce elation as the power activates, wide feral smile, eyes blazing → 20-25s pure predator concentration — unblinking, mouth a flat line, utterly calm at impossible speed → 25-27s one beat of cold finality just before the strike, eyes narrowing, small satisfied smile → 27-29s landing in the rubble, exhausted but pleased, pushing her goggles up, breathing hard, a tired grin → 29-30s the second core ignites: her exhaustion evaporates, one eyebrow lifting, a delighted troublemaker's smirk.
+[SINGLE CONTINUOUS TAKE — 30s, ONE UNBROKEN SHOT, no cuts]
+0.0-3.0 Open at full sprint. Camera runs low beside her through an abandoned industrial city — rusted gantries, dead neon, shattered concrete. Behind her the mechanical beast smashes through a building; each footfall craters the street and blasts debris and steel plating into the air.
+3.0-5.0 Camera swings to her front in a running reverse-track as she glances back and grins.
+5.0-7.0 The beast's shoulder racks flip open; dozens of missile locks paint her. Camera whips as her pupils contract and she cuts hard sideways.
+7.0-12.0 Camera chases in close as she wall-runs along a facade, fires the mechanical tail to hook a high pipe and swings between detonations. Missiles obliterate the surfaces she just left; the city becomes a corridor of fire. Camera flies through smoke with her.
+12.0-14.0 She lands on the beast's back. Camera skims low along the armor plating as she sprints toward the neck, hunting the core.
+14.0-16.0 The beast rolls violently and hurls her off. Camera tumbles with her as she punches through several building floors, then rights herself mid-air and drives both claw blades into a wall, screeching to a stop in a shower of sparks.
+16.0-18.0 Camera settles on her face as she wipes dust away and looks up at the charging beast.
+18.0-20.0 She triggers hidden gear. Orange energy floods her suit, claw blades and tail glowing. Camera orbits fast around the surge.
+20.0-25.0 Escalation, all in one continuous flowing move: she sprints along the beast's armor, ducks a swinging mech arm, springs off an incoming missile to change direction mid-air, and carves through armor joints with rapid claw strikes. The beast spins wildly and fires point-blank energy cannons; camera stays glued to her, spiraling with the rotation, orange afterimages trailing.
+25.0-27.0 She launches at the last instant; the tail fires and locks onto the head, reeling her in at brutal speed. Camera rides with her, closing the distance in a blur. Both claws raise.
+27.0-28.5 A single orange afterimage streaks across frame. The core splits open. The city begins to collapse.
+28.5-30.0 Camera bursts out of the explosion with her as she lands high on a ruin, pushing up her goggles, watching the beast fall. Then light reignites deep inside the wreckage — a far larger mechanical core booting up, wreckage shifting. Camera pushes in on her smirk. Hard cut.
+
+[DIALOGUE — Japanese, short, spoken mid-motion, no subtitles]
+4.0s, casual taunt: 「デカいだけで、のろいな。」
+6.0s, sharp, under her breath: 「……冗談でしょ。」
+17.0s, excited, wiping her face: 「やっと本気？」
+19.0s, firing up: 「いくよ。」
+26.5s, quiet and final: 「捕まえた。」
+29.5s, delighted: 「二段階目もあるの？」
+Young female voice — low, cool, playful, slightly breathless from running. No narration.
+
+[STYLE / TECHNICAL]
+High-end stylized 3D anime action PV, cel-shaded characters with crisp linework against gritty photoreal-leaning environments. Aesthetic blend: Devil May Cry high-speed close combat flair, Cyberpunk 2077 decayed industrial megacity, Transformers colossal machine weight, modern game boss-fight PV editing. Grading: desaturated grey-rust city with aggressive orange and red emissives; her orange energy is the brightest thing in frame. Volumetric dust and smoke, embers, missile smoke trails, heat haze, sparks on every claw contact, anamorphic flares, heavy motion blur, brief speed ramps on each strike, violent camera shake on the beast's footfalls. Single continuous handheld-gimbal camera — fast, low, always moving with her, orbiting and rolling with the action, never cutting. 24fps, 2.39:1 widescreen. Scale contrast in every frame: tiny fast hunter against enormous slow machine.
+
+[NEGATIVE]
+cuts, edits, jump cuts, transitions, scene changes, montage, freeze frame, fade to black, slow-motion ending, static locked-off camera, blank deadpan face, unchanging expression, character inconsistency, hair or eye color change, hood removed, missing mechanical tail, costume change, gun or sword weapons, duplicate lookalike girls, human enemies, gore, blood, human casualties, corpses, realistic photo style, bright cheerful grading, daylight sunny scene, off-model face, warped hands, extra fingers, subtitles, text artifacts, watermark, logo overlay, blurry, low detail, idle empty frames.
+
+[AUDIO]
+Industrial drum-and-bass with distorted guitar stabs and hard percussion locked to her movement. Massive servo groans and seismic footfall booms from the beast, missile launch thumps and rippling detonations, concrete collapse, metal shriek on every claw cut, tail grapple whip-and-clank, energy surge whoosh at 18s. Riser building from 20s, near-silence for half a beat at 26.5s so her line lands, then a huge sub-bass detonation. Low ominous power-up hum under the final reveal. No narration.</code></pre>
+
+</details>
+
+## Minimax Design Part II Motion Graphics Prompt
+
+- **Original source:** [@AleRVG on X](https://x.com/AleRVG/status/2091921372293325080)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3761](https://imglume.com/prompt/3761)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/28aeefe8-a288-4153-8730-41b850619950/ca1479f7-86eb-42ee-a915-65605d8215ac-1787614579233 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a design motion graphics piece, with sound generated natively synced to the visuals.
+MEDIUM. Two-plate riso print on cream stock: kelly green plate, vermilion orange plate, black halftone imagery. Visible paper grain, coarse dot screens, hard offset shadows. Flat printed colour, no gradients, no gloss, no volume.
+EFFECTS LAYER — present in every shot, not just at cuts. Small graphic marks punctuate the beat: radiating ink-splatter bursts, short hand-drawn speed lines trailing behind moving objects, a scatter of paper dust drifting across the frame, halftone dots gently breathing in size. These are brief accents, not scene changes — they appear, hold a beat, fade into the print texture.
+KINETIC TYPE RULE. Headlines never stamp in as a finished block. Each letter arrives on its own beat, landing with a small bounce or rotation before settling into line, condensed grotesque, all caps. Annotations are drawn stroke by stroke in orange marker, visibly in progress.
+MOTION-INSIDE-THE-FRAME RULE. Nothing holds as a dead still image. While a shot lasts, something in it keeps moving: grain shimmering, an effects-layer accent firing, a secondary element drifting at a different speed than the main subject. Only the final beat comes to full rest.
+SOURCE RULE. Draw units from the attached images in rotation across the three shots; use any internal repetition already in an image as the array.
+[cut] A subject fills the frame and multiplies into a short diagonal row, each copy landing with an ink-splatter burst.
+Letters of "VACATION MODE" land one by one along the top edge, each with a small bounce. Beneath, marker draws "has left the chat" stroke by stroke. Speed lines trail off the last copy as it settles.
+[cut] The row swaps to the next attached image, dust drifting across as it does.
+Letters of "TAN LINES" land one by one; a drawn arrow, stroke by stroke, carries into "DEADLINES" landing letter by letter at its tip. Halftone dots breathe throughout.
+[cut] The array pulls back into a dense field of a third attached image, ink bursts firing at three points as it resolves. "CTRL + ALT + LEARN" lands letter by letter across it. The whole field then converges into one subject, green bars fill left to right beneath, "BRAINS: LOADING…" types on. Bars stop short of full. Only here does everything finally hold still.
+MUSIC. Dry percussive groove — paper hits, stamp, marker squeak — synced tightly to each letter landing and each ink-splatter accent, one clear peak on the final convergence. No fades, no dissolves, no motion blur, no warping, no morphing, no collage layouts, no dead static holds before the final shot, no brand logos.</code></pre>
+
+</details>
 
 ## Lone Samurai Training in Mountains – Retro 2D Animation
 

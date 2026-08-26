@@ -1,9 +1,256 @@
 # Product Ads video prompts
 
-85 source-linked prompts, newest ImgLume records first.
+87 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 真实 iPhone 17 国行版 动态壁纸交互视频
+
+- **Original source:** [@Chengzilhy on X](https://x.com/Chengzilhy/status/2092081852479947129)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3812](https://imglume.com/prompt/3812)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/72382e6c-c044-4828-9211-d55856d641b0/bc06fe7b-32e5-4ae1-bdd6-43e7ebc18523-1787675279400 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>将该视频完整呈现为一台真实 iPhone 17 国行版 上运行的真人动态壁纸。
+
+生成一段真实手机互动展示视频。
+
+【现实场景】
+
+现实空间中：
+
+一只手自然握住一台黑色 iPhone 17 国行版。
+
+手机保持竖屏方向，屏幕正对镜头。
+
+另一只手从手机侧边进入画面。
+
+背景保持干净、真实、简洁。
+
+摄影机近距离拍摄手机和双手。
+
+重点展示：
+
+真实 iPhone + 屏幕内 AI 女友动态壁纸 + 屏幕外手指互动。
+
+【手机锁屏界面】
+
+手机屏幕处于点亮状态。
+
+显示真实中国大陆地区 iPhone 锁屏界面。
+
+顶部左侧固定显示：
+
+中国移动
+
+顶部右侧显示：
+
+移动网络信号图标、Wi-Fi 图标、电池图标。
+
+时间上方显示：
+
+5月20日 星期二
+
+中央固定显示：
+
+19:01
+
+底部保持：
+
+手电筒图标、相机图标、白色 Home 横条。
+
+锁屏文字和 UI 从第一帧到最后一帧保持稳定：
+
+中国移动 / 5月20日 星期二 / 19:01
+
+不变化、不乱码、不变形。
+
+【屏幕内部动态壁纸】
+
+上传的轻抬下巴微表情版视频作为手机屏幕内部完整动态壁纸。
+
+参考视频中的所有内容完整保留：
+
+黑发女性角色
+
+黑色长直发
+
+金色耳饰
+
+深色服装
+人物背景
+眼神变化
+头部轻微运动
+嘴唇变化
+微表情变化
+轻抬下巴后的微撩表情
+屏幕内部播放完整原视频内容。
+AI 女友始终存在于手机屏幕内部。
+不重新设计人物动作。
+不改变参考视频中的表演节奏。
+
+【现实手指互动】
+
+现实空间中的另一只手靠近手机。
+
+食指位于：
+
+手机屏幕玻璃外侧。
+
+手指不属于动态壁纸。
+
+手指不进入屏幕内部。
+
+手指轻轻触碰手机屏幕玻璃对应女主下巴的位置。
+
+这个动作对应参考视频中的：
+
+手指轻托下巴 → 下巴轻微抬起 → 重新看向镜头。
+
+现实手指只负责呈现屏幕外互动效果。
+
+【人物与手指同步】
+
+屏幕中的女主保持参考视频中的轻抬下巴微表情。
+
+当现实手指靠近屏幕：
+
+女主保持原视频动作：
+
+眼睛先注意互动位置。
+
+随后：
+
+视线重新回到镜头。
+
+下巴轻微抬起。
+
+头部顺势产生自然的小幅移动。
+
+眼神变得更加专注。
+
+嘴唇自然微张。
+
+整体呈现：
+
+精致、轻熟、冷艳、克制、带一点微撩互动感。
+不要夸张表情。
+不要重新生成新的动作。
+
+【空间关系】
+
+画面保持清晰三层结构：
+
+第一层｜现实空间
+
+包含：
+
+握手机的手
+
+互动手指
+
+iPhone 17 国行版
+
+真实环境
+
+第二层｜屏幕玻璃
+
+包含：
+
+真实玻璃反射
+手指触碰位置
+第三层｜屏幕内部
+
+包含：
+
+AI 女友动态壁纸
+原始轻抬下巴视频内容
+三个空间保持分离。
+现实手指停留在玻璃外侧。
+屏幕内部人物不会离开手机。
+不产生屏幕碎裂。
+不产生人物突破屏幕。
+【摄影】
+
+真实手机产品展示摄影。
+
+近距离拍摄。
+
+手机保持稳定。
+
+双手动作自然。
+
+屏幕始终清晰可见。
+
+保持真实 iPhone 边框、玻璃反光、屏幕亮度和环境光关系。
+
+整体效果像真实拍摄：
+
+有人拿着 iPhone，屏幕里的 AI 女友正在响应轻微触碰。
+
+【声音】
+
+全程：
+
+无背景音乐、无 BGM。
+
+人物：
+
+无对白、无说话口型。
+
+保持真实安静的手机展示感。
+
+【强制约束】
+
+最高优先级：
+
+轻抬下巴微表情版视频负责人物全部动作。
+
+不要重新生成人物表演。
+
+不要改变：
+
+人物身份
+
+脸部
+
+发型
+
+耳饰
+
+服装
+
+微表情节奏
+
+轻抬下巴动作
+
+现实手指只负责屏幕外互动。</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic luxury skincare advertisement of glass serum bottle
+
+- **Original source:** [@AI_with_Lyra on X](https://x.com/AI_with_Lyra/status/2092116220912771292)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3772](https://imglume.com/prompt/3772)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/76f2551c-f607-4939-aaa7-ac8912e8f6cd/7432c5a0-74a8-4bd6-bd66-db81e7f4a7d3-1787641581780 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/76f2551c-f607-4939-aaa7-ac8912e8f6cd/b72552fb-3e7a-4e0c-8fda-ac0b5ecf1cf3-1787641581780 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic luxury skincare advertisement featuring a premium glass serum bottle standing vertically in crystal-clear blue water, surrounded by a dramatic frozen water splash and realistic droplets. Keep the exact bottle design, label, colors, proportions, and branding clearly visible. Soft green leaves in the blurred background, warm sunlight, beautiful reflections, macro product photography, shallow depth of field, slow-motion camera movement, realistic water and glass textures, premium beauty campaign aesthetic, 4K UHD, vertical 9:16, sharp focus, no distortion, no extra text, no watermark. Add a smooth cinematic push-in toward the bottle with elegant floating droplets. End with a clean hero shot highlighting the product in luxurious lighting.</code></pre>
+
+</details>
 
 ## Premium cinematic product commercial of stainless-steel cooking pot
 

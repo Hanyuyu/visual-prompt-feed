@@ -1,9 +1,28 @@
 # Architecture video prompts
 
-7 source-linked prompts, newest ImgLume records first.
+8 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic luxury real estate drone and interior tour of a Mediterranean villa
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2092109145055150431)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `cinematic`
+- **ImgLume record:** [3781](https://imglume.com/prompt/3781)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2a1bbac2-1185-499c-a69a-bfe3b54e9fd2/9196ed42-2e3b-4ec5-9bf5-61a159d67776-1787641766233 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic luxury real estate drone and interior tour of a stunning white Mediterranean-style villa with terracotta roof, set on a hillside surrounded by lush green trees, cypress trees, and manicured gardens. Smooth aerial shots circling the elegant multi-story mansion with a private swimming pool, formal gardens, stone fountain, and winding driveway leading to a grand black iron gate marked with the number 8.
+Soft natural sunlight filtering through large multi-pane windows, golden hour and sunset lighting with lens flares. Interiors feature high ceilings, dark navy blue paneled walls, white curved modern sofas, abstract art, crystal and metal chandeliers, a wooden pool table, ornate white fireplace, open-plan living rooms with large windows overlooking greenery, a bright white kitchen with marble island, pendant lights, and professional range, elegant dining room with long dark table and white chairs, spiral staircase with black iron railings.
+Outdoor scenes include a stone fountain, poolside lounge chairs at dusk, wooden pergola outdoor dining area with glass table, and the villa glowing with warm lights at twilight. Slow, fluid camera movements – aerial orbits, smooth tracking shots through rooms, close-ups of textures (sofa fabric, water cascading from fountain, sunlight on floors). Dreamy, luxurious, high-end real-estate style, 4K cinematic quality, shallow depth of field, warm and inviting atmosphere, no people.</code></pre>
+
+</details>
 
 ## Premium Residential Complex CGI Video
 

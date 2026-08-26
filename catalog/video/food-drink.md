@@ -1,9 +1,77 @@
 # Food Drink video prompts
 
-79 source-linked prompts, newest ImgLume records first.
+81 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Late-2000s Handheld Indonesian Market Vlog
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2092191560519827910)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`, `travel`
+- **ImgLume record:** [3808](https://imglume.com/prompt/3808)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/31ab3066-2b9e-479b-9a3d-5a81cf20cabd/2caaa8d6-1184-40fe-91a3-72d5b580f48c-1787671040597 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Preserve the exact face, hairstyle, identity, skin tone, and body proportions from @ image1 throughout. Outfit: oversized sage green linen shirt, faded olive cropped pants, worn rubber flip-flops, thin silver anklet, hair tied in a loose messy bun with flyaway strands. Authentic Indonesian woman. Late-2000s personal vlog aesthetic. Extremely raw handheld flip-camera footage with heavy camera shake, natural reframing, partial face crops, focus hunting, exposure shifts, warm faded colors, mild digital noise, and authentic home-video imperfections. No posing, no cinematic glamour, no stabilization, no modern color grading.
+
+00:00–00:04 Walking through a cramped traditional market alley toward a small food stall, camera bouncing heavily. She spots something off-camera and excitedly says, "Wait, look at that!" before quickly turning the camera toward the stall.
+
+00:04–00:08 Stops beside an elderly woman making traditional banana-leaf snacks. The vendor folds a steaming snack by hand while explaining something, and the woman leans closer, fascinated, accidentally getting too close to the steam and laughing.
+
+00:08–00:12 Tries folding a banana leaf herself. Her first attempt comes apart immediately, filling the frame with her hands as she laughs and says, "Okay... that looked much easier!"
+
+00:12–00:16 The vendor patiently demonstrates the folding technique again. She copies the movements beside her, concentrating intensely while nearby shoppers glance over and smile.
+
+00:16–00:20 Successfully finishes one small banana-leaf parcel, proudly holds it toward the camera, then accidentally drops it onto the table. She bursts out laughing while the vendor shakes her head playfully.
+
+00:20–00:24 Opens a freshly steamed parcel and takes a bite. Her expression changes to genuine surprise and delight, she points at it enthusiastically and says, "Oh wow, that's really good!"
+
+00:24–00:27 Walks away from the stall while still eating, waving goodbye to the vendor. A passing motorbike squeezes through the narrow alley, causing her to quickly step aside and laugh as the camera jolts.
+
+00:27–00:30 Pauses beneath a faded market awning, holds up the little banana-leaf snack to the camera and says, "Definitely coming back for these!" She takes another bite as the camera accidentally tilts downward and the recording cuts off naturally.
+
+Natural ambience only: overlapping market chatter, vendors calling out prices, plastic bags rustling, chopping sounds, steaming pots, motorbikes squeezing through the alley, footsteps, distant children laughing, occasional clinking dishes, and general morning market noise. No background music, subtitles, logos, or watermarks. The footage should feel exactly like a genuine late-2000s handheld flip-camera travel vlog with spontaneous human movement, imperfect framing, genuine reactions, and realistic unscripted interactions.</code></pre>
+
+</details>
+
+## Hot Summer Day Ice Cream Chase in Korean Neighborhood
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2092089543034081524)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3773](https://imglume.com/prompt/3773)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52f8f050-3120-4475-95fa-e2834f01ca44/32a4f91d-2d8c-4710-8327-2a9bec2b6efe-1787641606343 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Young Korean woman, early 20s, natural appearance, fitted pastel-yellow short top, loose white pajama pants, black sneakers, simple silver necklace, black wavy hair tied into a messy side ponytail. Realistic skin texture, minimal makeup, consistent identity throughout.
+
+Peaceful Korean residential neighborhood on a hot summer afternoon. Small homes, narrow concrete alleys, potted plants, bicycles, old walls, overhead wires and a tiny neighborhood ice cream shop at the end of the street.
+
+Early-2000s handheld DV camcorder operated by a friend. Strong camera shake, drifting composition, autofocus hunting, faded colors, soft digital image, exposure shifts, occasional motion blur and imperfect zooms.
+
+She steps outside her house holding a small fan, looking overheated.
+She suddenly hears the familiar sound of an ice cream truck bell and kids around it and looks toward the end of the alley.
+She spots the truck turning the corner and immediately starts running after it, laughing as the camera struggles to keep up.
+She finally catches it and excitedly chooses a colorful ice cream, holding it up proudly toward the camera.
+She walks away taking her first bite, then notices the ice cream is already melting down her hand.
+She panics, runs toward a nearby outdoor water tap and tries to clean her sticky fingers while laughing.
+Her friend zooms in awkwardly on her messy face and melting ice cream. She looks directly at the camera, shakes her head and says, “Still worth it.”
+
+She walks back down the sunny alley eating the ice cream as the camera follows behind her.
+
+Audio: Ice cream truck bell, birds, summer insects, footsteps, distant children, bicycle bells, water running and natural neighborhood ambience. No music, no narration.</code></pre>
+
+</details>
 
 ## Handheld Vacation Vlog in Busan Street Food Market
 

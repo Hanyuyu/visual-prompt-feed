@@ -1,9 +1,385 @@
 # Travel image prompts
 
-47 source-linked prompts, newest ImgLume records first.
+54 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium illustrated travel postcard for {{CITY_NAME}} in refined Japanese tourism‑magazine aesthetic
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2092211629232468073)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3807](https://imglume.com/prompt/3807)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1bc0f84-cc39-48ad-b0cb-43d1a460bcd8/d7d9a163-1dba-4f52-b168-1fefb8415526-1787671020817 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b1bc0f84-cc39-48ad-b0cb-43d1a460bcd8/c08b9c1c-5445-4828-85e7-aa135aaf6d22-1787671020817 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b1bc0f84-cc39-48ad-b0cb-43d1a460bcd8/41456eb8-8ea6-4a6d-b342-83a8fec9cd27-1787671020817 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b1bc0f84-cc39-48ad-b0cb-43d1a460bcd8/ee18f0f9-cb9f-4d18-9182-d132937e1dfc-1787671020817 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium illustrated travel postcard for {{CITY_NAME}} in a refined Japanese tourism-magazine aesthetic.
+Automatically research and determine the city’s country, local-language name, most iconic landmark, authentic surrounding environment, distinctive local architecture, geography, vegetation, transportation, and secondary visual details. The landmark must be geographically accurate and instantly recognizable.
+Visual style: elegant Japanese travel editorial illustration, handcrafted layered paper collage combined with delicate gouache and watercolor textures, sophisticated Japanese tourism brochure aesthetic, calm and poetic atmosphere, refined composition, tactile matte paper, subtle handmade edges, soft physical paper shadows, delicate atmospheric depth.
+Composition: premium postcard. Use a cinematic elevated viewpoint with the iconic landmark as the main focal point. Surround it with accurately styled local buildings, streets, waterfronts, hills, mountains, parks, or other authentic geographic elements appropriate to the city. Keep the upper portion spacious with generous negative space for typography.
+Color palette: soft powder blue, warm ivory, cream, muted sage, dusty green, pale beige, soft gray, restrained terracotta. Low-to-medium saturation, gentle tonal transitions, no harsh contrast.
+Architecture: precise and believable local architecture with carefully simplified shapes, accurate proportions, characteristic materials and rooflines. Avoid generic buildings and random skyscrapers.
+People: include only a few tiny simplified paper-cut travelers and pedestrians naturally interacting with the environment—walking, sightseeing, sitting, or looking toward the landmark. They should provide scale without becoming the focus.
+Nature: delicate layered foliage, subtle trees, grasses and regional vegetation appropriate to the city. Add water, mountains, coastline, rivers, or other geographic features only when genuinely associated with the location.
+Typography: place elegant minimalist Japanese editorial typography in the upper-left with generous spacing:
+- CITY NAME — large uppercase geometric sans-serif
+- LOCAL CITY NAME · COUNTRY/REGION — small refined sans-serif
+- PRIMARY LANDMARK — small uppercase text with wide letter spacing
+Typography should feel integrated into the artwork, not like an overlay.
+Lighting: soft natural daytime light, slightly hazy atmosphere, gentle matte highlights, subtle layered shadows, peaceful and nostalgic mood.
+Material: high-quality matte art paper, fine tactile grain, layered paper construction, delicate watercolor pigment variation, slightly imperfect handcrafted cut edges, premium offset-print character.
+Camera feel: 40–50mm equivalent, natural perspective, minimal distortion, strong foreground/midground/background separation, carefully art-directed travel photography composition translated into an illustration.
+Overall mood: quiet, elegant, contemplative, authentic, sophisticated Japanese travel magazine, collectible destination postcard, premium tourism campaign quality.
+Avoid: photorealistic photography, CGI, plastic rendering, flat vector art, anime, cartoon caricature, generic skyline, inaccurate landmark, fictional architecture, geographically impossible scenery, duplicated buildings, excessive people, oversized people, neon colors, oversaturation, harsh black shadows, glossy surfaces, clutter, excessive outlines, random text, misspelled typography, watermark, logo, border, frame, UI elements.
+Generate the entire scene dynamically from {{CITY_NAME}} while maintaining this exact refined Japanese tourism-magazine visual identity.</code></pre>
+
+</details>
+
+## Hyper-realistic vertical travel photograph of a city frozen inside an ice popsicle
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2092154294816665829)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [3804](https://imglume.com/prompt/3804)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/808cc4fd-529b-49f3-bc94-64949d2783e8/6ef666f8-f13b-48df-bd23-1d2607029500-1787666874483 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/808cc4fd-529b-49f3-bc94-64949d2783e8/7d379126-b0ad-4cd5-9cdf-ba91258349d6-1787666874483 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/808cc4fd-529b-49f3-bc94-64949d2783e8/99bb06cb-c7d3-43ea-b2a5-b74de1877e3e-1787666874483 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/808cc4fd-529b-49f3-bc94-64949d2783e8/9c84523e-0030-42eb-b5da-b6a6dd4c7ee0-1787666874483 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a hyper-realistic vertical 4:5 conceptual travel photograph of [CITY / COUNTRY], where the entire essence of the destination is magically frozen inside a crystal-clear ice popsicle held in a person’s hand.
+
+Inside the transparent popsicle, build a miniature yet incredibly detailed 3D world featuring [ICONIC LANDMARK] as the central hero, surrounded by tiny recognizable elements of the city — [LOCAL ARCHITECTURE], flowering trees, a charming café, tiny street furniture, and subtle cultural details. The landmark should appear physically embedded inside the ice, as if an entire miniature city has been frozen in time.
+
+The popsicle must look extremely realistic: crystal-clear ice, frozen bubbles, tiny cracks, frost along the edges, melting droplets, refraction, internal condensation, subtle imperfections, and realistic translucent depth. The miniature world inside should remain beautifully sharp and detailed through the ice.
+
+Place the popsicle against a realistic, softly blurred street scene of [CITY], creating a fascinating contrast between the ordinary real world and the magical miniature frozen world in the foreground.
+
+A natural human hand holds the wooden popsicle stick from the bottom, with realistic skin texture, fingerprints, tiny creases, and natural sunlight.
+
+Photography: cinematic travel photography, shallow depth of field, macro-level detail on the popsicle, realistic perspective, natural daylight, soft golden sunlight, beautiful bokeh, subtle lens compression, physically accurate reflections and refractions, premium editorial photography.
+
+Composition: popsicle perfectly centered, landmark clearly visible through the ice, hand entering naturally from the bottom, real city softly surrounding it, strong foreground-to-background depth, clean visual hierarchy, no text, no logos.
+
+Mood: magical, elegant, surreal but believable — “the whole city frozen into one unforgettable bite.”
+
+Ultra-photorealistic, high dynamic range, intricate miniature architecture, realistic ice physics, natural colors, sophisticated travel campaign aesthetic, 8K detail.</code></pre>
+
+</details>
+
+## Premium minimalist flat-vector travel poster prompt for \[CITY_NAME\]
+
+- **Original source:** [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2092051978918736047)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3787](https://imglume.com/prompt/3787)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/94d9c2e6-897c-4efc-8e22-8041ac288771-1787645978768 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/5636045b-df53-453d-a1f8-9e78c9f5f715-1787645978768 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/6484b8dd-553d-4552-bfcc-960844139cb9-1787645978768 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/cb72674c-c835-4e5a-b376-6227fe49ee3a/4433d1bb-0720-40b8-95e6-f9ada079ef1a-1787645978768 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Create an original, elegant travel poster that reflects the authentic visual personality and atmosphere of [CITY_NAME]. The composition should feel specially designed for this city instead of looking like a repeated or generic travel template.
+
+CITY IDENTITY
+
+First understand the distinctive visual character of [CITY_NAME] and construct the scene around these five elements:
+
+1. A recognizable landmark, architectural detail, or important skyline feature.
+2. A characteristic local method of transportation or movement.
+3. One subtle everyday lifestyle moment that feels authentic to the city.
+4. A native plant, natural landscape, coastline, river, mountain, or environmental feature.
+5. A viewpoint and composition that naturally belong to the geography and identity of the city.
+
+The complete scene arrangement should vary from city to city. Do not repeatedly use identical object placement or the same visual formula.
+
+Possible compositions include:
+harbor viewpoint, historic narrow street, riverside garden, coastal walkway, elevated city overlook, lively market passage, tram-lined avenue, ferry terminal, botanical setting, heritage square, beach promenade, cultural plaza, or skyline terrace.
+
+Choose whichever composition most naturally represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” in the upper-left area with generous, clean negative space.
+
+Add one short, sophisticated English tagline inspired by the atmosphere, culture, or character of the city.
+
+Typography should remain understated, editorial, spacious, and premium. Never let the text overpower the artwork.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural element as the primary focal point.
+
+Support it with only 2–4 carefully chosen local elements. Every additional detail should reinforce the identity and sense of place.
+
+Avoid collections of landmarks or postcard-style collages. Keep the artwork visually calm, selective, and intentional.
+
+PEOPLE
+
+Include only 3–6 small-scale figures.
+
+Give each person a believable activity connected to local life, such as:
+walking through a historic lane, cycling, waiting for public transport, sketching architecture, boarding a ferry, reading outdoors, taking a quiet photograph, carrying beach equipment, browsing a local market, or jogging beside the water.
+
+Avoid crowds and avoid making one individual the main character. Figures should blend naturally into the environment.
+
+LOCAL CHARACTER
+
+Use city-specific elements only when they genuinely fit [CITY_NAME]:
+
+- local transportation
+- architecture
+- street furniture
+- vegetation
+- small signs or wayfinding
+- local food references
+- recreational activities
+- pavement markings
+- cultural details
+
+Transport and signage should remain subtle. Instead of repeatedly using a large signboard, incorporate details naturally through a small transit marker, station clock, ferry information panel, bike symbol, painted road marking, beach flag, or understated metro icon.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+clean delicate outlines,
+consistent line weight,
+simple geometric forms,
+flat-color illustration,
+soft rounded shapes,
+balanced visual rhythm,
+high-end minimalist postcard design.
+
+COLOR SYSTEM
+
+Build the atmosphere primarily with:
+pale powder blue, soft sky blue, mist blue, and cool airy blue tones.
+
+Balance these with:
+warm ivory, cream, soft beige, muted sage, gray-green, and understated architectural neutrals.
+
+Use dusty rose or muted blush only for tiny visual accents such as flowers, clothing details, small signs, awnings, or decorative objects.
+
+Colors should stay soft, sophisticated, slightly desaturated, and visually harmonious.
+
+MOOD
+
+Fresh, airy, peaceful, refined, contemporary, elegant.
+
+The final artwork should feel like a premium boutique travel postcard or luxury lifestyle brand illustration, with generous breathing room and a relaxed, authentic sense of place.
+
+IMPORTANT QUALITY RULES
+
+Every city must maintain its own distinctive visual identity.
+Change the camera angle, scene structure, landmark placement, foreground treatment, and supporting details according to the individual character of the city.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realistic photography.
+No watercolor.
+No painterly brushwork.
+No gradients.
+No heavy shadows.
+No dramatic cinematic lighting.
+No paper texture.
+No excessive detail.
+No cluttered background.
+No landmark collage.
+No crowded streets.
+No oversized characters.
+No dominant hero character.
+No repetitive café composition.
+No fixed signboard position.
+No identical foreground treatment.
+No generic tourist-poster formula.
+No copied layout from another city.
+No unnecessary decorative elements.</code></pre>
+
+</details>
+
+## Vertical travel poster papercut illustration of {CITY}
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2092103116296712302)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3786](https://imglume.com/prompt/3786)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/6baa7fbc-30cd-4908-ac59-49eb068e566a-1787645948112 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/521105a9-658c-48ff-a53b-92b5522da959-1787645948112 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/280612da-2add-4211-8e59-a83e03a0b304-1787645948112 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/84a328d0-a5e0-4922-ae1c-c861722e09c0/75b52351-56d4-4229-b4ca-93999f15d321-1787645948112 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>CITY = {CITY}
+Create a refined vertical 3:4 travel poster of {CITY} as a handcrafted layered papercut illustration.
+
+First identify the city, country, architecture, landscape, climate, and visual character. Choose ONE iconic HERO LANDMARK and establish one believable real-world viewpoint. All supporting buildings, streets, parks, water, and skyline elements must realistically fit that viewpoint. No landmark collage.
+
+VISUAL COMPOSITION
+
+Make the HERO landmark the dominant element, occupying roughly 45–60% of the image height. Preserve its authentic silhouette, proportions, roofline, structural details, and surrounding environment while simplifying minor details.
+
+Use only 1–3 subtle secondary elements such as local buildings, skyline, bridge, park, waterfront, street trees, tiny pedestrians, or vehicles. Keep them smaller, flatter, and lower contrast.
+
+Composition:
+
+Top: 25–35% open sky and negative space
+
+Middle: HERO landmark and distant city
+
+Bottom: human-scale street, park, waterfront, or neighborhood
+
+Keep at least 30% visually quiet.
+
+PAPERCUT STYLE
+
+Use shallow 2–6 layer cut-paper construction with matte handmade paper, subtle grain, clean cut edges, overlapping shapes, and delicate 1–3 mm shadows.
+
+Graphic and editorial, not a miniature model.
+
+Simplify architecture into clean paper masses. Avoid excessive windows, bricks, cables, railings, roof tiles, and tiny details. Create depth through scale, overlap, and atmospheric color rather than 3D modeling.
+
+COLOR &amp; LIGHT
+
+Use an authentic 6–8 color muted pastel palette inspired by {CITY}: pale sky blue, ivory, cream, muted brick, dusty blush, pale stone, sage, and blue-grey, adjusted to the city.
+
+Use bright, soft, diffused daylight. Keep shadows subtle.
+
+TYPOGRAPHY
+
+Place a small uppercase {CITY} title in the upper-left or upper-right negative space, optionally with the local name, country, or HERO landmark name.
+
+Use clean geometric lettering, wide spacing, flat cream/white paper. Typography must remain secondary and occupy no more than 12–18% of the image.
+
+FINAL TARGET
+
+Premium contemporary travel illustration.
+Elegant, airy, sophisticated, handcrafted, and geographically believable.
+
+The viewer should recognize:
+
+1. {CITY} → 2. HERO landmark → 3. Papercut craftsmanship
+
+NO photorealism, NO photographic textures, NO deep diorama, NO landmark collage, NO impossible skyline, NO excessive detail, NO fantasy architecture, NO oversized typography, NO logos, NO watermark</code></pre>
+
+</details>
+
+## Premium vertical travel poster line-art illustration
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2092079254775435448)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3768](https://imglume.com/prompt/3768)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/542dee29-9639-446e-b0be-15f3765abba8/0ed18d92-3274-4536-93b9-5323f077b9f4-1787635576420 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/542dee29-9639-446e-b0be-15f3765abba8/a09900b8-01ff-4d21-9a8e-0512bc0cd64c-1787635576420 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/542dee29-9639-446e-b0be-15f3765abba8/0e445e9e-969e-4723-9b61-1c1b98b291d4-1787635576420 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+
+Include:
+
+One dominant iconic landmark
+A second architectural landmark subtly integrated into the skyline
+A famous natural landscape in the background
+Local transportation
+Traditional clothing or cultural detail
+A recognizable food or drink
+Small street-life moments
+Birds, clouds, plants and tiny decorative elements
+Handwritten labels pointing to selected elements
+
+At the top, use a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.</code></pre>
+
+</details>
+
+## Premium vertical travel poster of \[COUNTRY\] as an enormous miniature mechanical world
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2091798394993815845)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3763](https://imglume.com/prompt/3763)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/9a226e34-369b-4435-ade0-4110c3c8b373-1787618780819 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/8f8a3552-1622-46d6-b032-219749105a1b-1787618780819 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/e6f00fe5-1731-460c-8d23-b422589a0b81-1787618780819 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ab0079e5-1070-4ae9-aa6f-daf6c2a47836/daee600d-de64-4835-ae72-015561678416-1787618780819 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 conceptual travel poster of [COUNTRY] transformed into an enormous miniature mechanical world.
+
+The entire geographic shape of the country is sculpted as a sophisticated clockwork machine. Mountains become giant brass gears, rivers flow through polished metal channels, forests are made of thousands of tiny mechanical leaves, highways become intricate moving mechanisms, and cities appear as miniature illuminated machines.
+
+The country’s most iconic landmarks are integrated naturally into the mechanism, functioning as important components rather than simply being displayed as monuments.
+
+At the center, create one enormous elegant clock mechanism representing the heartbeat of the country. Tiny bridges, railways, cables, elevators, windmills, and moving parts connect every region, suggesting that the entire nation operates as one extraordinary machine.
+
+Use a dark museum-like background, dramatic cinematic lighting, warm metallic reflections, subtle atmospheric haze, extreme miniature detail, realistic materials, shallow depth of field, and handcrafted steampunk precision.
+
+The geographic outline of [COUNTRY] must remain clearly recognizable.
+
+Minimal elegant typography:
+[COUNTRY]
+“A World in Motion”
+
+No ordinary map, no flat infographic, no generic landmarks, no flags, no tourists, no clutter.
+
+Ultra-realistic miniature photography + cinematic concept art + luxury editorial travel poster + intricate mechanical engineering aesthetic, breathtaking detail, sophisticated composition, 8K.</code></pre>
+
+</details>
+
+## Photorealistic Travel Postcard Diorama Prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2091815865935384922)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3751](https://imglume.com/prompt/3751)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/c37435bc-bcf5-439d-b1e6-6b039d2e10a5-1787593672112 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/b50510ba-9dab-42d5-9e41-327a4de0fccb-1787593672112 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/e3fbedc5-cbf5-47de-b597-062e263fd7de-1787593672112 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/6d1bc7e4-a71d-4d57-9459-5fbd73677007/96f21f62-c051-4edf-a34c-88f19068a0d1-1787593672112 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[DESTINATION]
+A highly detailed, photorealistic [DESTINATION] travel postcard diorama, designed for Instagram, viewed from a slightly elevated angle. A real vintage postcard sits in the foreground, featuring rounded corners, authentic paper texture, a postage stamp, handwritten travel notes, and a postmark.
+Emerging from the postcard is an intricate 3D paper-cut world showcasing [DESTINATION]’s most iconic elements, constructed from layered cut-paper terrain, architecture, landmarks, vegetation, and coastlines.
+A stylized, collectible-quality traveler character naturally stands within the paper-cut scene, designed to match the atmosphere and culture of the destination. The character features a high-end cinematic look, an expressive pose, realistic proportions, fashionable travel attire, and subtle narrative accessories, seamlessly integrated into the miniature world.
+The background shows a softly blurred real-world scene of [DESTINATION], creating depth and a connection between reality and imagination. The postcard remains crisp and sharply focused, while the background has a creamy bokeh effect.
+(Continued) The handwritten text on the postcard feels personal, poetic, and distinctive to the destination, expressing a sense of discovery, wonder, and journeying through hidden gems. Elegant postmarks, destination stamps, and delicate ink illustrations complement the composition without making it feel cluttered.
+Visual hierarchy: Blurred real destination → authentic postcard → emerging paper-cut landscape → traveler character.
+Luxury travel magazine aesthetic, warm natural light, shallow depth of field, premium paper texture, cinematic color grading, realistic shadows, handcrafted details, ultra-fine paper-cut structures, collectible figurine quality, travel-magazine-cover quality, highly social-media-shareable aesthetic, photorealistic photography, 8K, masterpiece.</code></pre>
+
+</details>
 
 ## Miniature 3D Travel Illustration of \[CITY/COUNTRY\] on Paper
 
