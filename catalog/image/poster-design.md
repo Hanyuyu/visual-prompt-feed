@@ -1,9 +1,607 @@
 # Poster Design image prompts
 
-128 source-linked prompts, newest ImgLume records first.
+136 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium minimalist flat-vector travel poster of Madinah, Saudi Arabia
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2092447516725809599)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3879](https://imglume.com/prompt/3879)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eeccb881-bc24-4bfa-9260-a4626492abc5/d2ef6061-c580-4e11-bd77-3fb098423903-1787744734203 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eeccb881-bc24-4bfa-9260-a4626492abc5/e6c859eb-2077-4230-ba3a-c905e93789c6-1787744734203 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium minimalist flat-vector travel poster for Madinah, Saudi Arabia, 3:4 vertical.
+Authentic Madinah atmosphere with Al-Masjid an-Nabawi and its iconic Green Dome as the main focal point, elegant minarets, peaceful mosque courtyard, subtle surrounding architecture, distant Madinah mountains, a few palm trees and small worshippers walking respectfully toward the mosque.
+Clean Japanese stationery-inspired luxury illustration, sophisticated editorial travel branding, delicate uniform outlines, simple geometric shapes, flat colors, soft pastel palette of powder blue, warm ivory, cream, muted sage and subtle gold accents.
+
+Place “MADINAH” in the upper-left with “المدينة المنورة” beneath it. Add one short elegant Arabic tagline. Keep typography minimal with generous negative space.
+
+Only 3–5 small human figures, no crowds. Peaceful daytime atmosphere, airy composition, refined and premium boutique travel postcard aesthetic.
+
+No photorealism, no watercolor, no gradients, no paper texture, no clutter, no excessive details, no landmark collage, no oversized people, no incorrect Arabic text, no watermark, no border.</code></pre>
+
+</details>
+
+## Vertical 4:5 Conceptual Floating City Artwork
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2092282611473518730)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3872](https://imglume.com/prompt/3872)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cf7f2ed1-b3f2-4abb-b595-2933db866280/880f0a0d-386a-4b09-9951-02a7404e7275-1787744578531 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cf7f2ed1-b3f2-4abb-b595-2933db866280/256eeb7c-cb70-4b48-8096-5df4fc627357-1787744578531 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/cf7f2ed1-b3f2-4abb-b595-2933db866280/3a211082-7d3e-468f-81fe-58c68354d382-1787744578531 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/cf7f2ed1-b3f2-4abb-b595-2933db866280/5016bbb6-ea68-45ff-9614-8e7ad025a698-1787744578531 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a striking vertical 4:5 conceptual artwork featuring [CITY / COUNTRY] transformed into a tiny floating world, suspended in a vast deep minimal sky.
+
+The entire identity of [CITY / COUNTRY] is beautifully wrapped around a small spherical planet, with its most recognizable landmarks, architecture, culture, landscapes, streets, food, transportation, nature, and everyday details naturally following the curvature of the miniature world.
+
+Make the sphere feel physically believable and richly detailed, like an intricate handcrafted diorama brought to life. Tiny roads, buildings, vehicles, trains, people, trees, and cultural elements should feel naturally integrated rather than randomly placed.
+
+Add one surreal, memorable signature element that represents the character of [CITY / COUNTRY] — something visually unexpected, elegant, and instantly shareable.
+
+Use cinematic lighting, atmospheric depth, miniature-diorama realism, subtle surrealism, crisp details, realistic textures, sophisticated composition, and premium editorial poster aesthetics.
+
+Keep the background clean, dark, and minimal so the floating world remains the unmistakable hero. Create a strong sense of scale by adding a tiny human figure observing the miniature world from outside.
+
+The artwork should feel beautiful, mysterious, dreamy, cinematic, premium, and highly zoomable, with countless tiny details that reward closer inspection.
+
+Minimal typography:
+
+[CITY / COUNTRY]
+[SHORT CINEMATIC TAGLINE]
+
+No ordinary travel-poster layout, no flat collage, no generic landmark arrangement. Create an original visual concept that feels fresh, viral-worthy, artistic, and instantly recognizable.</code></pre>
+
+</details>
+
+## Premium vertical travel poster illustration prompt
+
+- **Original source:** [@MahnoorAi12 on X](https://x.com/MahnoorAi12/status/2092437377465905308)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3866](https://imglume.com/prompt/3866)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cf1f7b1b-f1a6-4a77-89f2-f7db0008c928/304af5f6-462a-4091-b543-035b7147f648-1787740379516 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cf1f7b1b-f1a6-4a77-89f2-f7db0008c928/478549ed-7eae-44d1-9dad-04824d28c6ec-1787740379516 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/cf1f7b1b-f1a6-4a77-89f2-f7db0008c928/61a16477-e20f-4deb-b7fa-6af86f52fd52-1787740379516 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/cf1f7b1b-f1a6-4a77-89f2-f7db0008c928/7b3072fc-9e30-4024-a020-de2e5a7f0dd1-1787740379516 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical 4:5 stylized travel poster for [COUNTRY], designed as an imaginative handcrafted illustration rather than a realistic depiction.
+
+Create ONE continuous flowing hand-drawn ink illustration where the country’s architecture, landscapes, culture, food, transportation, nature and everyday details merge naturally into one playful artistic scene.
+
+The artwork should feel clearly illustrated and intentionally non-realistic — use simplified shapes, expressive line work, slightly exaggerated proportions, whimsical perspective and charming artistic imperfections. Do not make the buildings, people, objects or landscapes look like real photographs.
+
+Include:
+
+• One dominant iconic landmark as the main visual focus
+• A second architectural landmark subtly woven into the composition
+• A recognizable natural landscape in the background
+• Local transportation represented in a simplified illustrated style
+• Traditional clothing or a cultural detail
+• A recognizable local food or drink
+• Small fictionalized street-life moments
+• Birds, clouds, plants and decorative details integrated throughout
+• Handwritten illustrated labels pointing toward selected elements
+
+Use bold black ink outlines, delicate cross-hatching, loose sketch marks, imperfect hand-drawn contours and subtle screen-print texture.
+
+Keep the illustration mostly flat and graphic, with minimal shading and no realistic lighting. Use a warm off-white paper background with generous clean negative space.
+
+Use only 2–3 muted accent colors inspired by [COUNTRY]. Keep colors slightly imperfect like traditional screen printing.
+
+At the top, add a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+The overall composition should feel whimsical, editorial, nostalgic, artistic and handcrafted, like a page from an imaginary vintage travel sketchbook.
+
+Avoid:
+photorealism, realistic photography, cinematic realism, hyperrealistic people, realistic textures, 3D rendering, glossy surfaces, gradients, dramatic lighting, realistic faces, overly accurate architectural rendering, excessive colors, digital-perfect geometry, generic tourist-poster layouts.
+
+The final image must look unmistakably like a premium illustrated travel journal poster, not a photograph or AI-generated realistic scene.</code></pre>
+
+</details>
+
+## Premium minimalist flat-vector travel poster prompt for \[CITY_NAME\]
+
+- **Original source:** [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2092469217274875908)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3864](https://imglume.com/prompt/3864)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/082335cb-a4fe-48a8-a650-b1328991e190/10356a54-52f7-4073-8833-ba3feb1db299-1787736282268 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/082335cb-a4fe-48a8-a650-b1328991e190/721bb324-0406-4a46-97af-e13c01589948-1787736282268 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/082335cb-a4fe-48a8-a650-b1328991e190/952567d0-46fb-47f3-af8a-e64f95ddfef9-1787736282268 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GPT image 2 prompt on chatGpt
+
+Premium minimalist flat-vector travel poster for [CITY_NAME], 3:4 vertical format.
+
+Design an original, sophisticated travel poster that captures the authentic visual personality of [CITY_NAME]. Combine elegant European riverside atmosphere, iconic urban architecture, distinctive local transportation, peaceful public spaces, and modern city-life details into one refined composition. The final design must feel purpose-built for [CITY_NAME] rather than following a reusable template.
+
+CITY IDENTITY
+
+First interpret the unique visual character of [CITY_NAME] and build the scene around these five elements:
+
+1. A recognizable landmark, architectural feature, or distinctive skyline element.
+2. A characteristic local transportation method such as a bus, taxi, bicycle, ferry, tram, or boat.
+3. One subtle everyday lifestyle moment with people naturally enjoying the city.
+4. Native greenery, riverside vegetation, flowers, trees, mountains, coastline, or another environmental feature.
+5. A natural viewpoint combining architecture, public space, and landscape in a way that genuinely belongs to [CITY_NAME].
+
+The overall scene structure must change from city to city. Do not repeatedly use the same object positions, landmark placement, or visual formula.
+
+Possible compositions include:
+riverside promenade, historic city avenue, harbor viewpoint, elegant waterfront street, narrow heritage lane, elevated skyline overlook, coastal path, public garden, cultural square, ferry terminal, market passage, or urban terrace.
+
+Choose whichever composition best represents [CITY_NAME].
+
+TYPOGRAPHY
+
+Place “[CITY_NAME]” in the upper-left area with generous clean negative space.
+
+Add one short, sophisticated English tagline inspired by the atmosphere, culture, or character of the city.
+
+Typography should feel understated, editorial, spacious, and premium. Never allow text to dominate the artwork.
+
+VISUAL HIERARCHY
+
+Use one iconic landmark or architectural feature as the main focal point.
+
+Support it with only 2–4 carefully selected local elements such as transportation, waterfront details, street lamps, greenery, historic buildings, boats, bicycles, taxis, or subtle street furniture.
+
+Avoid landmark collections or postcard-style collages. Keep the scene visually quiet, balanced, and intentional.
+
+PEOPLE
+
+Include only 3–6 small-scale figures.
+
+Give each person a believable activity connected to local life, such as:
+walking beside the river, cycling, waiting for public transport, reading outdoors, photographing architecture, boarding a ferry, enjoying a waterfront view, crossing a city street, browsing a market, or sitting peacefully in a public space.
+
+Avoid crowds and avoid making any single person the main character. Figures should integrate naturally into the environment.
+
+LOCAL CHARACTER
+
+Use city-specific elements only when they genuinely fit [CITY_NAME]:
+
+- local transportation
+- recognizable architecture
+- riverside or coastal features
+- street furniture
+- vegetation
+- small signs or wayfinding
+- local food references
+- recreational activities
+- pavement markings
+- bridges
+- boats
+- bicycles
+- subtle cultural details
+
+Transport and signage should remain subtle. Incorporate them naturally through a small transit marker, taxi, bus, ferry, bicycle symbol, station detail, street lamp, painted road marking, or understated wayfinding element.
+
+ART DIRECTION
+
+Japanese stationery-inspired aesthetic,
+luxury sticker illustration,
+premium commercial vector artwork,
+modern editorial travel branding,
+clean delicate outlines,
+uniform line weight,
+simple geometric forms,
+flat-color illustration,
+soft shapes,
+balanced visual rhythm,
+elegant architectural detailing,
+high-end minimalist postcard design.
+
+COLOR SYSTEM
+
+Build the atmosphere primarily with:
+pale powder blue, soft sky blue, mist blue, and cool airy blues.
+
+Balance these with:
+warm ivory, cream, soft beige, muted sage, gray-green, natural stone, and understated architectural neutrals.
+
+Use small city-specific accents such as muted red, soft yellow, dusty rose, muted blush, or subtle blue only where they naturally belong.
+
+Colors should remain soft, sophisticated, slightly desaturated, harmonious, and cohesive.
+
+MOOD
+
+Fresh, airy, peaceful, refined, contemporary, elegant.
+
+The final artwork should feel like a premium boutique travel postcard or luxury lifestyle brand illustration, combining historic character, modern urban life, natural scenery, and generous breathing room.
+
+IMPORTANT QUALITY RULES
+
+Every city must have its own visual identity.
+
+Change the camera angle, scene structure, landmark placement, foreground treatment, transportation, architecture, vegetation, people, and supporting details according to the city's character.
+
+Do not simply replace [CITY_NAME] inside an existing composition.
+
+The final poster must look specifically designed for [CITY_NAME], while maintaining the same premium minimalist illustrated travel aesthetic.
+
+NEGATIVE PROMPT
+
+No photorealism.
+No realism.
+No watercolor.
+No painterly brushwork.
+No gradients.
+No heavy shadows.
+No dramatic cinematic lighting.
+No paper texture.
+No excessive detail.
+No cluttered background.
+No landmark collage.
+No crowded streets.
+No oversized characters.
+No dominant hero character.
+No repetitive café composition.
+No fixed signboard position.
+No identical foreground treatment.
+No generic tourist-poster formula.
+No copied layout from another city.
+No incorrect architecture.
+No inaccurate transportation.
+No random cultural elements.
+No excessive signage.
+No distorted typography.
+No unnecessary decorative elements.</code></pre>
+
+</details>
+
+## Bold Pop Art Portrait of a Young Man
+
+- **Original source:** [@81soud81 on X](https://x.com/81soud81/status/2092260810114429272)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3842](https://imglume.com/prompt/3842)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/346b788d-157b-41c6-8380-de01068f3b06/b3073172-684e-4046-80a8-6dfec0d3795d-1787723481193 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A raised image, a bold pop art portrait of a young man with short black hair, wearing round, black-rimmed glasses, gazing thoughtfully upwards and to the side. His face and skin are rendered in a high-contrast, black-and-white two-tone style, while his clothing stands out in vibrant, saturated colors. He wears a long, teal coat with a prominent collar and buttons over a bright orange turtleneck sweater and a black scarf wrapped around his neck. In one hand, he holds a bright orange-yellow paper coffee cup with a white lid, while his other hand is partially tucked into his coat pocket.
+
+The background is a bold, abstract geometric composition of square shapes with fields of burnt orange, golden yellow, and turquoise blue, with a rough brushstroke texture, frayed edges, and a visible rough/scratched overlay that gives it the appearance of a hand-printed or poster-style artwork. Sections of a raw, concrete-textured white/grey wall are visible on the right, adding a contemporary touch. Style: Bold, pop art-style illustration; halftone/poster rendering; high-contrast style; street-style poster design; vibrant color overlap. Lighting is flat and graphic, not realistic, emphasizing color contrast rather than realistic shading. Color palette: Burnt orange, golden yellow, turquoise blue, black, white, with grays for skin tones. Digitally rendered/artistic image with poster-print quality; highly detailed texture; an aesthetic that blends vector and art styles.
+
+Size/Aspect Ratio: 2:3 Vertical, 1024×1536 pixels (--ar 2:3 for Midjourney). Negative Notes: Overly realistic skin tones; flat, monochromatic background; blurred lines; dull color separation; low contrast; washed-out colors.</code></pre>
+
+</details>
+
+## Premium Hand-Drawn Travel Poster for \[COUNTRY\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2092177406115348739)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3833](https://imglume.com/prompt/3833)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/01bf3e11-3d1d-494d-ac41-91a42f9356cb/49d5beac-f8de-4827-9b2e-b0281c316e00-1787708794721 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/01bf3e11-3d1d-494d-ac41-91a42f9356cb/ef01ba67-90b9-45b5-9a84-7579c0f0e965-1787708794721 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium vertical aspect ratio 4:5 travel poster for [COUNTRY], illustrated as one elegant continuous hand-drawn line-art composition.
+
+Instead of placing landmarks separately, make them flow organically into one another, as if the entire country was drawn in a single uninterrupted travel sketch. Combine the country’s most recognizable architecture, landscapes, culture, food, transportation, nature, and tiny everyday details into one beautifully balanced scene.
+
+Use bold black ink outlines, delicate cross-hatching, playful imperfect hand-drawn details, subtle vintage-poster typography, and a mostly warm off-white paper background. Add only 2–3 signature accent colors inspired by the country.
+
+Include:
+
+One dominant iconic landmark
+
+A second architectural landmark subtly integrated into the skyline
+
+A famous natural landscape in the background
+
+Local transportation
+
+Traditional clothing or cultural detail
+
+A recognizable food or drink
+
+Small street-life moments
+
+Birds, clouds, plants and tiny decorative elements
+
+Handwritten labels pointing to selected elements
+
+At the top, use a large playful hand-lettered title:
+
+“[COUNTRY]”
+
+Below it, add a tiny elegant subtitle:
+
+“A little world to discover”
+
+Make the composition feel collected, whimsical, editorial, nostalgic and handcrafted, like a beautifully illustrated travel journal rather than a generic tourist poster. Avoid photorealism, gradients, 3D rendering and excessive colors. Clean white space around the illustration, highly detailed ink work, charming imperfections, premium stationery aesthetic, screen-print texture, sophisticated yet playful.</code></pre>
+
+</details>
+
+## Sophisticated vertical travel art poster prompt for \[DESTINATION\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2092110912773935435)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3828](https://imglume.com/prompt/3828)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c989df9e-3d7a-4754-826e-cdaaeb44b4a3/667dc6d4-3799-4a7a-bfc4-eb299f511c73-1787692052189 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c989df9e-3d7a-4754-826e-cdaaeb44b4a3/af55fcd3-1731-4672-b668-c581d687870e-1787692052189 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c989df9e-3d7a-4754-826e-cdaaeb44b4a3/e5f94d6e-81d6-468f-ba4c-bef834d52261-1787692052189 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/c989df9e-3d7a-4754-826e-cdaaeb44b4a3/a52c6542-f075-460d-b4bc-2bca9a73a07e-1787692052189 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated vertical 3:4 travel art poster featuring [DESTINATION], designed as a refined contemporary fine-art print.
+
+CORE CONCEPT
+
+LANDMARK 70% + GEOMETRIC ABSTRACTION 30%
+
+Clearly depict the destination’s most iconic landmarks, architecture, and landscapes first. Apply geometric simplification only after establishing a strong, recognizable destination identity.
+
+The viewer should immediately think: “This is [DESTINATION].”
+
+LANDMARKS
+
+Select 3–5 iconic visual elements, with 1–2 as the main protagonists.
+
+Preserve the primary landmarks’ recognizable:
+
+Silhouettes
+
+Proportions
+
+Architectural features
+
+Distinctive details
+
+Keep landmarks visually dominant. Do not reduce them into generic circles, rectangles, or abstract shapes.
+
+GEOMETRIC ABSTRACTION
+
+Use geometry as a supporting design language rather than replacing the landmarks.
+
+Use: circles, arches, rectangles, triangles, stepped forms, simplified rooftops, and layered color fields.
+
+Apply these mainly to secondary architecture, roads, rivers, hills, trees, background skylines, and negative spaces.
+
+Maintain the visual balance of approximately 70% recognizable destination imagery + 30% geometric abstraction.
+
+COMPOSITION
+
+Use a stable, elegant 3:4 vertical composition with generous negative space.
+
+Keep approximately the upper 40–50% open and atmospheric. Place only [DESTINATION] at the upper center using small uppercase English typography, thin sans-serif lettering, and wide letter spacing.
+
+No slogan, subtitle, or additional text.
+
+Build the main cityscape or landscape in the lower portion, making the primary landmark the first visual focus. Surround it naturally with secondary architecture, vegetation, water, hills, bridges, or other destination-specific elements.
+
+VISUAL HIERARCHY
+
+Primary landmark → cityscape/overall silhouette → regional architecture → natural environment → geometric decoration.
+
+Do not simplify every element equally. Primary landmarks should remain specific and recognizable, while surrounding elements can become progressively more geometric.
+
+COLOR &amp; TEXTURE
+
+Use a sophisticated 6–10 color palette inspired by [DESTINATION], with muted contemporary tones and enough contrast to separate landmarks from their surroundings.
+
+Aim for the feeling of a museum-quality gouache artwork / contemporary editorial print.
+
+Add subtle handmade texture through paper fibers, gouache pigment variation, dry brush, colored pencil, pastel, or silkscreen-like texture.
+
+Keep it clean and contemporary. Avoid aged paper, sepia, yellowed backgrounds, or vintage brown filters.
+
+STYLE
+
+Scandinavian editorial illustration, mid-century geometric art, contemporary travel poster, modern architectural illustration, fine-art print, gouache and colored-pencil texture, restrained geometric simplification.
+
+AVOID
+
+Extreme abstraction, generic geometric cityscapes, giant circles or blocks dominating the composition, excessive Bauhaus abstraction, photorealism, 3D rendering, cartoon characters, sticker aesthetics, neon colors, excessive gradients, dramatic shadows, gold decoration, excessive architectural detail, overcrowding, or complex typography.
+
+FINAL TEST
+
+The destination must be recognizable within the first second, while closer inspection should reveal a sophisticated contemporary artwork rather than a conventional tourism poster.
+
+Mood: airy, recognizable, architectural, poetic, refined, geometric, sophisticated, contemporary, and collectible. Generate for istanbul</code></pre>
+
+</details>
+
+## Original contemporary graphic design exhibition poster
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2092277085914206655)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3816](https://imglume.com/prompt/3816)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e8b3645b-99ad-43ab-8f11-d8f4b53e23ca/6416cb7c-b7d5-49c5-863e-31b8f29f54b3-1787679574133 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e8b3645b-99ad-43ab-8f11-d8f4b53e23ca/e26e56de-a519-4fc7-941e-11504f78f005-1787679574133 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an original contemporary graphic design exhibition poster.
+
+The poster should feel suitable for an international contemporary graphic design exhibition.
+
+Think like a graphic designer, not a portrait painter.
+
+The graphic design is the artwork.
+The illustration exists to support the design.
+
+────────────────
+
+REQUIRED ELEMENTS
+
+A recognizable character.
+
+Wearing sunglasses.
+
+One dominant graphic design element.
+
+If a reference image is provided,
+preserve the person's recognizable identity.
+
+Otherwise,
+use the same character established throughout the conversation.
+
+These are the only required visual elements.
+
+Everything else should be freely reinvented for every poster.
+
+────────────────
+
+GRAPHIC DESIGN ELEMENT
+
+The dominant graphic element may be geometric,
+typographic,
+architectural,
+abstract,
+organic,
+or entirely original.
+
+It may consist of
+a single bold shape,
+oversized typography,
+bands,
+frames,
+grids,
+blocks,
+lines,
+curves,
+cut-outs,
+negative space,
+or any other graphic device.
+
+Choose the single visual element that creates the strongest overall graphic composition for this specific poster.
+
+────────────────
+
+VISUAL STYLE
+
+No lineart.
+
+Construct the image entirely from flat graphic color shapes.
+
+Large simplified shapes.
+
+Minimal details.
+
+Visible dry crayon texture.
+
+Limited color palette.
+
+Bold negative space.
+
+Minimalist editorial poster.
+
+Embrace bold simplification.
+
+Reduce details whenever possible.
+
+Communicate through shape before texture.
+
+Design with confidence, not accuracy.
+
+────────────────
+
+GRAPHIC COMPOSITION
+
+The composition should be determined entirely by the art director.
+
+The portrait may be cropped,
+offset,
+scaled,
+partially hidden,
+or extend beyond the frame whenever it strengthens the design.
+
+The dominant graphic element may
+
+intersect,
+crop,
+frame,
+hide,
+divide,
+surround,
+interrupt,
+or visually balance the portrait.
+
+Treat typography,
+negative space,
+geometric balance,
+and composition
+as equally important as the portrait.
+
+Avoid centered composition.
+
+Avoid symmetrical balance.
+
+Avoid conventional portrait layouts.
+
+Prioritize bold graphic design over realistic illustration.
+
+────────────────
+
+COLOR
+
+Use bold,
+unexpected color combinations inspired by professional color design references rather than natural colors.
+
+Avoid realistic color choices.
+
+Allow every poster to explore a completely different palette.
+
+────────────────
+
+CREATIVE FREEDOM
+
+The illustration style,
+composition,
+color palette,
+graphic language,
+shape design,
+texture,
+typography,
+and visual storytelling
+should be freely interpreted by the illustrator.
+
+Never repeat the same visual solution twice.
+Do not establish a recurring signature motif.
+Each poster should invent its own visual language from scratch.
+
+Every poster should look as though it was created by a different world-class graphic designer while still belonging to the same exhibition.</code></pre>
+
+</details>
 
 ## Rubber Stamp Travel Field Notes Poster — Natural Realism Version
 

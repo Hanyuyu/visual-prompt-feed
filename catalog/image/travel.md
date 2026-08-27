@@ -1,9 +1,40 @@
 # Travel image prompts
 
-54 source-linked prompts, newest ImgLume records first.
+55 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Amalfi Golden Hour Escape
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2092410734093521270)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3860](https://imglume.com/prompt/3860)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9a8c21b-68d9-48aa-b85b-a41b73a79f86/ab6eb981-f9e7-4879-8fb2-d0e2600a6704-1787732001643 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create one ultra-realistic cinematic luxury travel editorial portrait in vertical 4:5.
+
+A naturally beautiful elegant woman relaxes on a private cliffside terrace overlooking the Amalfi Coast, wearing a flowing sage-green satin gown with delicate gold jewelry, holding a crystal glass while watching the sunset over the Mediterranean.
+
+Surround her with authentic Italian details: bougainvillea, hand-painted ceramic pottery, lemons, candles, olives, fruit, elegant aperitivo dishes, patterned cushions and a beautiful tiled table.
+
+In the background: dramatic cliffs, pastel hillside villas, glowing terraces, a historic domed church, small boats on turquoise water and the sun reflecting across the sea.
+
+Use warm golden-hour light, cinematic rim lighting, natural reflections, atmospheric haze, layered depth and rich Mediterranean color.
+
+Style: Vogue + Condé Nast Traveler luxury editorial, ultra realistic, cinematic, 85mm lens, shallow depth of field, natural skin texture, detailed fabric, HDR, rich color grading, 8K.
+
+Mood: elegant, luxurious, romantic, peaceful, timeless, wanderlust, exclusive.
+
+No text, logo, watermark, border or AI artifacts.</code></pre>
+
+</details>
 
 ## Premium illustrated travel postcard for {{CITY_NAME}} in refined Japanese tourism‑magazine aesthetic
 

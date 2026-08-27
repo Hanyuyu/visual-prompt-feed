@@ -1,9 +1,32 @@
 # Product Ads image prompts
 
-25 source-linked prompts, newest ImgLume records first.
+26 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic commercial advertisement of a premium luxury wristwatch
+
+- **Original source:** [@Urwa_345 on X](https://x.com/Urwa_345/status/2092560031309009240)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3878](https://imglume.com/prompt/3878)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b8d7d5f8-02d0-4135-8d05-7dee178b5dc8/21dbd9ab-0cbe-4c34-816e-01def52ae4c8-1787744714748 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b8d7d5f8-02d0-4135-8d05-7dee178b5dc8/1b3ad142-59d4-41b0-8046-ab63b1fd3caf-1787744714748 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic high-end commercial advertisement of a premium luxury wristwatch placed on a dark walnut desk inside an elegant modern office at sunrise. The watch is positioned naturally on a sophisticated leather watch stand, featuring a polished stainless-steel case, detailed mechanical dial, realistic metallic hands, subtle reflections on the sapphire crystal, and finely textured leather strap.
+
+In the background, a large floor-to-ceiling window reveals a realistic city skyline slowly illuminated by the first morning sunlight. Soft golden sunlight enters through the window and naturally falls across the watch, creating precise highlights along the metal edges and realistic shadows on the wooden surface. A premium fountain pen, a closed leather notebook, and a few minimal office accessories are arranged naturally around the watch, creating an authentic executive lifestyle setting.
+
+Extreme attention to realistic materials and small details: individual dial markings, realistic brushed and polished metal surfaces, accurate glass reflections, subtle fingerprints and natural micro-imperfections, realistic leather grain, physically accurate shadows, natural ambient light, authentic depth of field, soft background bokeh, professional studio-quality product photography combined with real environmental lighting.
+
+Shot with a professional full-frame camera, 85mm lens, f/2.0 aperture, natural cinematic color grading, realistic exposure, premium luxury watch campaign aesthetic, sophisticated and believable, photorealistic, ultra-detailed, 8K resolution, sharp focus on the watch, realistic proportions, vertical 9:16 composition, no fantasy elements, no surreal effects, no floating objects, no distorted watch face, no random numbers or text, no watermark.</code></pre>
+
+</details>
 
 ## High-fashion luxury scene on Lamborghini
 

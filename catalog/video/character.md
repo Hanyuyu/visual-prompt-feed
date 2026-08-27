@@ -1,9 +1,321 @@
 # Character video prompts
 
-113 source-linked prompts, newest ImgLume records first.
+117 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## SEEDANCE 2.5｜水上人形墙挑战
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2092536240436363328)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3888](https://imglume.com/prompt/3888)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ddfbf742-1744-49ef-b105-a9e2a07c4c66/7ba07264-1f45-4685-8685-d1ff4874bbaf-1787752948694 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>SEEDANCE 2.5｜水上人形墙挑战
+
+【风格】真人水上综艺闯关节目（Live-Action Water Game Show），明快饱和色彩，盛夏正午自然光，真实广播级摄影，快速剪辑，轻喜剧节奏，真实重力与水体物理，4K高清
+【时长】15秒
+【画幅】16:9横屏
+【语言】中文男声画外解说，主角没有正式台词，仅保留呼吸、用力声和落水前的短促惊叫；无字幕
+【场景】大型户外水上综艺竞技场，碧蓝泳池中央架设橙色狭长挑战平台，平台尽头是一块沿隐藏轨道匀速前进的浅蓝色厚实人形墙板；墙板中央开着“头部居中、双肘横向打开、双手抱头、双腿大幅分开下蹲”的螃蟹深蹲人形孔洞。泳池对面是坐满观众的半圆形看台，上方覆盖大型白色遮阳棚。
+
+【人物角色卡】
+@图片1 命名“夏妍”，水上综艺闯关者。人物脸部、身形、发型、妆容、服装及配饰完全继承参考图，不增加或修改任何外观元素。
+角色目标：在移动人形墙到达前，快速看懂孔洞姿势并让身体穿过。
+表演轨迹：自信亮相 → 看清题目后短暂震惊 → 急忙调整姿势 → 以为已经成功 → 察觉尺寸不合 → 被墙体推落水 → 浮出水面后不服气地瞪向镜头。
+表演方式：偏真实综艺反应，不故意卖萌，不从第一秒就夸张；所有表情变化必须由墙体移动、身体接触和落水结果依次触发。
+
+[00:00-00:02.00] 镜头1：第二关开始（Close-up Hook）
+正面近景：夏妍站在橙色平台中央，泳池和浅蓝色人形墙板位于她身后。镜头使用中长焦压缩背景，观众席轻微虚化。
+
+[00:00-00:00.80]
+夏妍直视镜头，保持自信从容的笑容，肩膀自然放松。背景传来机械装置启动的“咔嗒”声和低沉电机声。
+
+【中文男声画外解说】“第二关，开始！”
+
+解说声音明亮有力，像现场综艺主持人，不能使用新闻播音腔。
+
+[00:00-00:00.80-00:02.00]
+机械运转声逐渐接近。夏妍的笑容停住，眼睛突然睁大，嘴唇自然张成小圆形；她先看镜头，再迅速转动眼睛观察身后的挑战墙。
+
+反应不能提前出现，必须在机械声响起之后才从自信变为意外。
+
+【中文男声画外解说】“这次是——超级螃蟹蹲！”
+
+“超级螃蟹蹲”提高音量并拉长尾音，配短促综艺铜管音效。
+
+[00:02.00-00:05.00] 镜头2：看懂姿势，马上就位（Wide Shot → Rear Three-quarter）
+硬切全景：完整展示橙色平台、泳池、浅蓝色人形墙板和观众席。人形墙从平台远端沿直线轨道缓慢向夏妍移动，全程保持垂直，速度稳定。
+
+[00:02.00-00:03.00]
+夏妍迅速转身面向人形孔洞，先上下扫视孔洞轮廓，确认头、双肘、躯干和双腿的位置。
+
+她小跑两步靠近墙板前方的定位区域，脚底与平台接触真实，不打滑、不瞬移。
+
+[00:03.00-00:05.00]
+后侧三分之二机位：夏妍双手抬到脑后，手指交叠，双肘向左右打开；双脚快速向两侧分开，膝盖向外，身体重心逐渐下沉。
+
+【中文男声画外解说】“双腿打开，重心压低，双手抱头！”
+
+解说节奏与动作同步：
+
+“双腿打开”对应双脚向两侧移动；
+“重心压低”对应身体进入深蹲；
+“双手抱头”对应双手在脑后交叠。
+
+身体动作必须依次完成，禁止三种动作同一帧突然出现。
+
+[00:05.00-00:09.00] 镜头3：姿势对了，尺寸不对（Symmetrical Front Shot）
+切到墙板正面的对称全景。摄影机隔着人形孔洞拍摄夏妍，她的头、手臂、躯干和双腿分别对准对应开口。
+
+[00:05.00-00:06.20]
+夏妍保持双手抱头和宽距深蹲，左右调整脚步，再把身体向孔洞中心移动几厘米。
+
+她先低头检查双脚位置，再抬眼看向正在接近的墙板。嘴唇轻轻抿住，呼吸加快。
+
+[00:06.20-00:07.50]
+墙板继续沿轨道匀速前进。夏妍把重心压得更低，让双肘和双腿尽量贴合孔洞边缘。
+
+她短暂闭眼用力，肩膀轻微抬高；重新睁眼时，瞳孔扩大，嘴唇张开，发现孔洞比预想中更紧。
+
+【中文男声画外解说】“姿势很标准——”
+
+前半句语气兴奋，像在宣布她即将成功。
+
+[00:07.50-00:09.00]
+墙板距离她越来越近。她保持姿势不敢乱动，只能轻微转动眼睛观察两侧孔洞边缘。
+
+孔洞边缘逐渐靠近她的双肘和腿部，但尚未发生接触。她脸上的自信一点点消失，嘴巴微张，呼吸停顿半拍。
+
+【中文男声画外解说】“可这个洞……好像小了点！”
+
+“可这个洞”后停顿约0.3秒；“小了点”降低音量，带明显不妙的预感。
+
+背景音乐在此处暂停一个重拍，只留下墙体机械声和观众吸气声。
+
+[00:09.00-00:10.50] 镜头4：没穿过去（Side Shot / Physical Comedy）
+切到平台侧面中全景，同时看见人形墙、夏妍和她身后的泳池边缘。
+
+[00:09.00-00:09.50]
+墙板到达夏妍的位置。孔洞边缘先轻轻接触她身体外侧，她立即意识到无法完全穿过，双眼睁大，手从脑后松开，掌心向前寻找支撑。
+
+反应必须由接触触发，禁止提前站起或提前后仰。
+
+【中文男声画外解说】“糟了，没卡进去！”
+
+[00:09.50-00:10.50]
+墙板继续保持原有速度向前，无法通过孔洞的夏妍被平稳推向平台边缘。
+
+她的重心逐渐越过脚后跟，脚掌先在平台上向后滑动小段距离；随后膝盖伸展、身体向后倾斜、双臂在身体两侧快速摆动维持平衡。
+
+到达平台边缘时，她先半坐到边缘，双腿因惯性向上抬起，然后整个身体向后落入泳池。
+
+禁止墙板突然加速，禁止夏妍主动起跳；落水必须来自墙板持续推动和身体重心后移。
+
+夏妍在离开平台瞬间发出短促自然的“啊！”声。
+
+[00:10.50-00:12.50] 镜头5：巨大落水水花（Water Impact / Real Fluid Physics）
+[00:10.50-00:11.20]
+侧面宽景：夏妍背部和身体后侧首先接触水面，双腿随后落水。
+
+入水点瞬间炸开大片白色水花，水柱向上和向两侧扩散；细小水滴形成真实抛物线，较重水团迅速回落。
+
+【中文男声画外解说】“还是被推下水了！”
+
+“下水了”与最大水花同时出现。
+
+【音效】低沉落水声、大片水花声、观众惊呼。
+
+[00:11.20-00:12.50]
+镜头继续停留在落水区域。夏妍完全没入水中，只剩白色泡沫、扩散涟漪和逐渐回落的水滴。
+
+泡沫由密到疏，水面波纹向泳池四周传播。人形墙停在平台边缘，不能倒下、弯曲或落入水中。
+
+背景音乐短暂停顿，随后以轻快鼓点重新进入。
+
+[00:12.50-00:15.00] 镜头6：不服气的回马枪（Water-level Push-in）
+切到接近水面的正面中景。
+
+[00:12.50-00:13.20]
+夏妍从水下浮出，先露出头部，再露出肩膀。她闭着眼睛呼出一口气，水从脸部和下巴连续滴落。
+
+她张开双臂划水保持身体稳定。湿水只能改变表面状态，不得改变人物脸部、发型结构、服装结构或身份特征。
+
+[00:13.20-00:14.00]
+夏妍睁开眼睛，确认镜头就在前方。她没有立刻生气，而是先抿紧嘴唇，把两边脸颊缓慢鼓起来。
+
+摄影机在水面高度轻轻向前推进，景别由中景变为近景。背景观众和平台逐渐虚化。
+
+【中文男声画外解说】“挑战失败——”
+
+在“失败”后停顿，让观众看清她逐渐变化的表情。
+
+[00:14.00-00:15.00]
+近景：夏妍鼓着脸颊，微微压低眉毛，直勾勾盯住镜头，像是在责怪节目组把洞做小了。
+
+她保持这个表情到最后一帧，不能提前松气、微笑或移开视线。下巴滴下一条连续水线，水面围绕肩膀产生细小波纹。
+
+【中文男声画外解说】“但是气势满分！”
+
+“满分”与观众欢呼和掌声同步。最后0.3秒定格在她鼓脸瞪镜头的表情上，形成明确喜剧收束。
+
+【完整中文旁白】
+“第二关，开始！”
+“这次是——超级螃蟹蹲！”
+“双腿打开，重心压低，双手抱头！”
+“姿势很标准——可这个洞……好像小了点！”
+“糟了，没卡进去！”
+“还是被推下水了！”
+“挑战失败——但是气势满分！”
+
+【声音设计】
+全程使用活泼、节奏明确的中文水上综艺男声解说，语气自然、有现场感，不使用机械播音腔。
+背景音乐为轻快综艺铜管、鼓点和短促悬念停顿；不能遮盖解说和关键音效。
+保留墙板机械运转声、脚步声、用力呼吸、观众惊呼、巨大落水声、水下气泡声、结尾欢呼与掌声。
+夏妍没有正式对白，只在用力时短促呼气、落水前自然惊叫；禁止无台词时持续张嘴对口型。
+
+【物理与连续性要求】
+夏妍全片严格继承人物参考图，不能改变脸部、体型、发型、服装或配饰。
+人形墙始终为同一块厚实墙板，孔洞形状、大小和方向保持不变；墙板沿隐藏轨道直线匀速移动。
+夏妍必须先看孔洞、再摆姿势、再被墙体接触、再失去平衡、最后落水，动作顺序不能颠倒。
+身体不能穿过实体墙板；墙板也不能穿透身体。接触后由持续推力改变她的重心，使她自然向后跌入泳池。
+落水后人物必须先完全没入水中，再从同一落水位置附近浮出；禁止从水下瞬移到镜头前。
+水面、水花、泡沫、水滴和涟漪遵循真实流体运动；湿水状态持续到结尾。
+群众只作为虚化背景观众，不生成单独人物特写，不抢夺主角焦点。</code></pre>
+
+</details>
+
+## Handheld MiniDV Summer Scene with Young Korean Woman
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2092445257577415163)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [3843](https://imglume.com/prompt/3843)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/803adedb-3fa1-438a-82d6-e7cb811309ef/8b0eb2e9-c7af-49a8-b365-889909242155-1787723511143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, realistic skin, long black hair in a messy side ponytail, oversized faded-blue T-shirt, loose white pajama pants, black sneakers and simple silver necklace. Completely consistent identity.
+
+LOCATION: Older Korean residential neighborhood during a bright summer afternoon. Narrow lanes, small grocery shop, concrete houses, potted plants, bicycles and leafy trees.
+
+CAMERA / LOOK: Early-2000s Sony MiniDV home video. Strong handheld shake, imperfect framing, autofocus hunting, faded colors, digital noise, exposure changes, motion blur and accidental zooms.
+
+SEQUENCE:
+She leaves a tiny grocery shop carrying a paper bag filled with fruit and snacks. She walks down the lane while eating a grape and casually chatting with her friend behind the camera.
+
+Suddenly, the bottom of the paper bag tears and several pieces of fruit fall onto the pavement and roll in different directions. She freezes for a moment, looks down in disbelief, then starts laughing.
+
+She quickly crouches down to collect everything while her friend moves closer with the shaky camera. A neighborhood child notices and comes over to help her pick up the fruit. She thanks the child, puts everything into a stronger reusable bag and gives them a small snack.
+
+She stands up, looks directly into the camcorder, laughs and says, “Well… that didn’t go as planned.”
+
+She continues walking home down the sunny lane while eating another grape. The camera follows behind her and slowly loses focus before the recording cuts.
+
+AUDIO: Fruit rolling on concrete, footsteps, birds, distant scooters, children talking, bicycle bells, laughter and natural neighborhood ambience. No music.
+
+Warm summer sunlight, spontaneous everyday humor, realistic object physics, nostalgic early-2000s DV aesthetic and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## Cinematic self-care transformation sequence
+
+- **Original source:** [@rovvmut_ on X](https://x.com/rovvmut_/status/2092217078292042028)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3825](https://imglume.com/prompt/3825)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3cdb25f-cf65-4b12-9f8f-c170ad14f142/013aac3a-3e6d-40c7-951c-40f3b8926d03-1787683662430 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Highly detailed cinematic self-care transformation sequence, 25 seconds, soft intimate observational style. Exact color palette and cinematography: soft muted neutrals with cool off-white and pale gray walls, warm olive-tan skin with golden undertones, deep rich espresso-dark wavy hair with subtle soft highlights, pure matte black clothing, soft peachy-pink natural lips, silver metallic accents, pure white ceramic, gentle warm window light mixing with cool ambient fill. Color grade is delicate and desaturated overall — lifted soft blacks, restrained saturation, warm golden skin glow against cooler backgrounds, subtle filmic texture, highly realistic skin detail with visible pores and natural subtle sheen, no heavy contrast or vibrant pops.
+
+Consistent character: young woman in her early 20s, olive-tan skin with realistic pores and a natural subtle sheen, large soft brown eyes, natural full lips, long voluminous dark wavy hair (initially slightly messy and lived-in), small thin silver hoop earrings, wearing a simple black long-sleeve top. Soft, contemplative to quietly empowered presence. Natural dewy skin texture with visible pores and soft luminosity, no heavy makeup until the later stages of the routine.
+
+Cinematography: intimate close-range observational style, shallow depth of field, soft natural side lighting from camera-left window creating gentle key light, soft shadows, and delicate rim light on hair edges. Mix of extreme close-ups and medium close-ups. Slow, deliberate, almost meditative camera moves — subtle push-ins, gentle lateral drifts, organic micro-handheld feel. High motion coherence, realistic skin and hair physics, precise product interactions. Full-frame composition, no letterboxing or text overlays.
+
+Shot-by-shot timeline:
+
+0.0–2.5s: Medium close-up, woman centered, both hands raised into her dark wavy hair, fingers slowly raking through strands near the crown and temples, lifting and adjusting. Direct soft gaze into camera, neutral to slightly intense expression. Soft window light catches the left side of her face and hair, revealing realistic pores and subtle natural sheen on the olive-tan skin. Background soft white wall with out-of-focus dried pinkish-orange floral arrangement and faint black-and-white artwork. Subtle natural head tilt.
+
+2.5–4.0s: Hands frame the sides of her face and hair, then lower. She looks straight into lens with calm neutral expression, then slowly lowers her gaze and gently closes her eyes. Soft ambient room tone, shallow focus isolating her face and the realistic texture of her olive-tan skin.
+
+4.0–6.5s: Extreme close-up of lower face — nose, cheeks, and lips. Fingers with natural short nails gently touch and rest against the lower lip. Soft natural smile begins to form, lips parting slightly. Warm olive-tan skin with clearly visible realistic pores and a soft natural sheen, gentle specular highlights on the cupid’s bow. Shallow focus, creamy bokeh.
+
+6.5–10.5s: Close-up of a tall pure white ceramic glass or mug filled with opaque milky-white liquid sitting on a light wooden surface. Her hand with natural nails enters frame, fingers wrap around the side of the glass with delicate grip. She slowly lifts the glass upward and slightly toward camera. Soft reflections on the white surface, gentle motion blur on the lift. Background soft curtains and wall.
+
+10.5–12.0s: Extreme close-up of her face again. She dabs a soft beige cotton pad or sponge gently across her right cheek in slow circular motions. Eyes open, soft focused expression looking slightly off-camera. Olive-tan skin with realistic pores and subtle sheen emphasized under soft side light.
+
+12.0–13.5s: Close-up as she holds a slim silver-capped dropper bottle. Clear serum droplet falls from the glass pipette onto the skin just under her right eye / upper cheek. Soft glossy wet highlight forms on the olive-tan skin, enhancing the natural pores and sheen. Her eyes look toward the dropper with calm attention.
+
+13.5–14.5s: She uses her fingertips to slowly and gently massage the serum into the cheek and under-eye area with soft circular and upward strokes. Skin becomes slightly more luminous while retaining realistic pore detail and a soft natural sheen. Soft natural expression, eyes partially closed or looking down.
+
+14.5–15.5s: Close-up of right eye and brow area. She carefully applies a dark brow product or mascara with a slim wand, brushing through the brow or lashes with precise, slow strokes. Soft focus on the eye and surrounding olive-tan skin with visible pores.
+
+15.5–16.5s: Extreme close-up of both eyes. She positions a classic silver metal eyelash curler over her right eye and gently presses. Soft metallic reflections, precise controlled movement. Left eye remains open and looking forward. Realistic skin texture and subtle sheen clearly visible around the eyes.
+
+16.5–18.5s: Medium close-up, eyes closed, soft peaceful expression. One hand slowly runs through her long dark hair, lifting and releasing strands. Soft rim light on hair, gentle head movement. Olive-tan skin with realistic pores and natural sheen softly illuminated. Background soft floral arrangement still visible but defocused.
+
+18.5–20.0s: She holds a small gold-toned bottle or round brush near the mid-lengths of her hair, running it through the waves to smooth and style. Looking slightly to her right, calm focused gaze. Hair appears slightly more polished and defined. Skin retains its olive-tan tone, realistic pores, and subtle sheen.
+
+20.0–22.0s: Medium close-up, hair now smoother and more voluminous with soft waves. She looks directly toward camera with a quieter, more present expression, slight natural lift at the corners of the mouth. Soft hand movement near the ends of her hair. Lighting remains soft and flattering, olive-tan skin glowing with realistic pores and a natural subtle sheen from the earlier products.
+
+22.0–25.0s: Slightly wider medium shot. She leans gently against a white doorframe or wall, white curtains visible behind her on both sides. Body angled, one arm resting casually. She turns her head slowly toward the light / off-camera right, soft contemplative expression that settles into quiet confidence and presence. Hair frames her face beautifully, olive-tan skin luminous with realistic pores and subtle sheen, overall polished yet completely natural look. Slow subtle push-in or gentle drift. Hold on the final composed, present expression as the clip ends.
+
+Overall motion is slow, intentional, and fluid with high temporal consistency. No abrupt cuts — soft organic transitions or continuous observational flow. Exact olive-tan skin texture with realistic pores and subtle sheen, hair physics, product reflections, and soft natural lighting must remain consistent across the entire 25 seconds. Cinematic, intimate, quietly powerful self-care ritual. Seedance 2.5 — maximum motion coherence, realistic micro-expressions, precise hand and product interaction, soft cinematic depth of field.</code></pre>
+
+</details>
+
+## The Scarlet Priestess
+
+- **Original source:** [@minuitIA on X](https://x.com/minuitIA/status/2092285935056568787)
+- **Recommended model:** `seedance`
+- **Source model(s):** `midjourney`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [3824](https://imglume.com/prompt/3824)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d15132d6-5c1a-4756-8e4c-cc4b9b66253d/e9b31d40-2411-445f-a4c5-25cf609b1ab4-1787683632102 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second multi-shot 16:9 ultra-photorealistic live-action cinematic fantasy sequence.
+The sequence must look like a real high-end live-action film scene shot on location with a real performer and practical wardrobe. Absolute photographic realism. No 3D look, no CGI feel, no game-engine rendering, no plastic vegetation, no synthetic surfaces, no fantasy illustration aesthetic. Natural skin texture, visible textile fibers, heavy cloth behavior, wet moss, irregular bark, realistic droplets, physically believable wind, real gravity, true inertia, cinematic lens behavior, subtle film grain, restrained cinematic color grading.
+Core concept: a violent supernatural storm tears through the forest. The mage raises her staff high into the air to stop time. At the exact moment the staff reaches upward, time freezes instantly all around her: rain, leaves, broken branches, bark, wood splinters, moss, droplets and debris are suspended motionless in midair. Important: the mage herself is not frozen. She alone remains alive and moving outside stopped time. Her hair continues to flow in the wind, her immense red garment continues to ripple and breathe with natural weight, and she can move her hand through the frozen world. The camera glides through the suspended storm in macro detail, then reveals her gently touching a frozen droplet with her fingertips. She closes her fingers, and the whole forest rewinds violently in reverse. Final shot: a gigantic shattered tree reconstructs itself around her in a breathtaking live-action spectacle.
+SHOT 1 — 0.0–2.0 s.
+Wide kinetic establishing shot in the forest, 28mm lens feeling, camera moving through the trees as a violent supernatural storm tears across the landscape. Branches whip, leaves spiral, rain and spray burst through frame, loose bark and splinters fly through the air, ferns bend under sudden force. The mage stands ahead in the distance as a vivid red silhouette against the dark green forest. The storm is chaotic, heavy and physically believable.
+SHOT 2 — 2.0–4.0 s.
+Dramatic low-angle medium-wide shot. The mage powerfully raises her tall moss-covered staff high above her head toward the sky. Her stance is rooted and sovereign. Her expression is calm, focused, and absolute. Strong wind pushes through her long red hair and the heavy fibrous strands of her cloak, making them stream and flutter with real weight and texture. She is alive, powerful, and dynamic. The storm continues raging violently around her as she completes the upward gesture.
+SHOT 3 — 4.0–5.0 s.
+Extreme close shot on the staff lifted in the air and on her hand gripping it. At the exact peak of the gesture, time stops instantly. Hard supernatural freeze. Rain droplets, leaves, bark fragments, twigs, mud particles and torn moss become perfectly suspended in the air. The environment freezes absolutely. Important: only the world freezes. The mage remains unfrozen, breathing subtly, with hair and garment still moving in a mysterious residual wind.
+SHOT 4 — 5.0–7.0 s.
+Macro traversal shot through the frozen storm. The camera moves slowly and elegantly through suspended droplets, torn leaves, wood splinters, clumps of wet moss and airborne soil particles, all perfectly still. Shallow depth of field and delicate rack focus. Hyper-detailed water, bark fibers and plant textures. In the background, the mage remains the only moving element in the frame, her red hair drifting softly and her cloak breathing in the wind while everything else is frozen solid in time.
+SHOT 5 — 7.0–9.5 s.
+Intimate close shot transitioning from macro to portrait. The camera passes in front of the mage’s face as she slowly extends one hand into the frozen air. She gently touches a single suspended water droplet with her fingertips. The droplet remains perfectly suspended in space while her hand moves freely around it. Her face is alive, calm and controlled, not frozen. Her eyes study the droplet with quiet mastery. Strands of red hair move across the hood and cheeks, and the edges of her garment subtly ripple. Around her, the storm debris hangs motionless like a halo of suspended destruction.
+SHOT 6 — 9.5–12.0 s.
+Close dynamic shot with a slightly orbiting camera angle. After touching the droplet, the mage slowly closes her fingers. At that exact moment, the entire world reverses direction violently. All suspended elements accelerate backward through their original paths: droplets fly back into rain streams, splinters return into branches, bark fragments reattach, leaves reverse through the air, mud and moss snap back into place. The reverse motion must feel like true time rewinding, not simply objects moving backward. The mage remains centered and controlled while the forest heals around her.
+SHOT 7 — 12.0–15.0 s.
+Grand final shot, dramatic low-angle to medium-wide composition centered on the mage. Around and behind her stands a gigantic tree that had been violently shattered by the storm. In reverse motion, colossal trunk fragments, bark slabs, inner wood fibers, branches, moss and debris reassemble around her at monumental scale. The ancient tree reconstructs itself completely, sealing and becoming whole again while she stands beneath it with her staff still raised or just beginning to lower, hair and garment still moved by the lingering wind. End on a majestic completed composition: the restored towering tree enclosing her presence, the storm gone, the forest returned to impossible stillness, and the mage the only living force beyond time.
+Camera language must be varied and purposeful across the sequence: storm-driven wide shot, low-angle heroic gesture, extreme close-up trigger shot, macro traversal through frozen debris, intimate face-and-hand interaction, dynamic rewind shot, and monumental final reveal. Every angle must feel deliberate, original, cinematic, and worthy of a major film director.
+Keep the supernatural phenomenon grounded in realism. The impossible effect must emerge from fully believable physical materials: water, wood, bark, moss, leaves, mist, cloth, soil, and air. No glowing magic beams, no fantasy energy blasts, no holograms, no stylized VFX overload. The power is expressed through time control, motion contrast, tactile interaction with frozen matter, and physical reversal.
+Important visual rule: once time is stopped, all environmental elements must be perfectly frozen, but the mage must remain subtly animated. Her hair moves in the wind, her cloak and fibrous garment continue to ripple naturally, and she can deliberately reach out and touch a suspended droplet with her hand.
+No text, no titles, no captions, no logo, no watermark, no visible UI, no identity drift, no costume change, no staff change, no duplicate character, no malformed hands, no extra fingers, no synthetic skin, no cartoon motion, no low-detail background.
+no music, no subtitle</code></pre>
+
+</details>
 
 ## Creepy Two‑Player Monologue Seedance Video Prompt
 

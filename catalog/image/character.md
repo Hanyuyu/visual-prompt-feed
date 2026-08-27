@@ -1,9 +1,187 @@
 # Character image prompts
 
-125 source-linked prompts, newest ImgLume records first.
+130 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## GPT Image 2 Character Sheet – SHENZO The Wandering Monk
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2092439841564995765)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [3877](https://imglume.com/prompt/3877)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d63d2ef5-0d0e-4d23-9487-e55ef330f075/aed0a45d-d70f-40ba-9cc9-8e1af1a98442-1787744691310 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d63d2ef5-0d0e-4d23-9487-e55ef330f075/fd4da326-2af4-43f4-8aed-b838bd45839d-1787744691310 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d63d2ef5-0d0e-4d23-9487-e55ef330f075/f3d92136-040e-49dc-8c2b-834b82983ceb-1787744691310 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d63d2ef5-0d0e-4d23-9487-e55ef330f075/73a18a87-407e-4a2a-8840-0a19f0a0b9fd-1787744691310 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: painterly matte digital gouache with flat posterized color blocks, NO outlines, hard-edged brush shapes, muted desaturated palette identical to the reference, identical brightness (light, airy, white-background).
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealistic fur.
+
+[PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, massive broad shoulders, jacked geometric chest, narrow waist, small head).
+
+[SUBJECT_DESCRIPTION]: Tall jacked anthropomorphic tiger monk. White beard, topknot, flat-painted black stripes. Outfit: Bare chest, draped crimson-red waist-sash, baggy dark-slate trousers, canvas arm wraps, dark-iron knee guards, bare tiger feet. Accessories: Large drinking gourd on his hip. Magic Ability: Channels glowing, vivid teal-blue spiritual fire from his gourd into his claws.
+
+Layout Composition (Organize strictly into these sections):
+
+1. LEFT PANEL: METADATA &amp; TURNAROUND- Large, bold vertical typography: "SHENZO" in clean, heavy sans-serif condensed font.- Metadata Block: "ROLE: Wandering Monk", "CORE MOOD: Stoic Power", "VISUAL SIGNATURE: Teal-Blue Spirit Fire".- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (stoic calm, deep low growl, wiping his mouth, eyes glowing with teal energy).
+2. CENTRAL PANEL: THE CENTERPIECE- One giant, dominant full-body figure in a powerful, relaxed martial arts signature pose, maximum detail, perfect style-match to reference.
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES- POSE STUDY: 4 small-to-medium dynamic stances (taking a drink from the gourd, sweeping a heavy claw strike, balancing on one leg, exhaling a cloud of teal smoke), handwritten-style labels.
+4. BOTTOM RIGHT PANEL: DETAIL STUDY- 5 small square crops: his white-bearded tiger face, the intricate knots of his waist belt, the tattered crimson-red sash, the heavy drinking gourd, and a floating ember of glowing teal-blue fire. Handwritten labels.</code></pre>
+
+</details>
+
+## Hand-drawn colored pencil illustration of a young couple walking
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2092277178360865000)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3841](https://imglume.com/prompt/3841)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1fd970df-f27a-4fc6-91d4-3a4097972581/14f49838-f057-4701-ba98-8a824d14f94f-1787721490864 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1fd970df-f27a-4fc6-91d4-3a4097972581/21f654eb-9f7d-48e0-a04e-6aafde82ebd5-1787721490864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming hand-drawn colored pencil illustration of a young couple walking together, inspired by soft Japanese/Korean lifestyle sketchbook art. The girl has long wavy dark hair, a baseball cap, oversized denim jacket, long flowing black skirt, and casual sandals. The boy wears a relaxed baseball cap, oversized light-blue denim jacket over a warm orange shirt, loose black pants, and casual sneakers. They are holding hands and walking naturally together, with the girl slightly leaning toward him.
+Use delicate black pencil outlines, visible hand-drawn pencil strokes, subtle cross-hatching, soft watercolor and colored-pencil shading, gentle blush on their cheeks, minimal facial features, cute rounded proportions, relaxed youthful poses, and a warm romantic mood.
+Keep the composition full-body and centered, with plenty of clean off-white paper background around the characters. Add subtle imperfections and paper grain to make it feel like an authentic illustrated sketchbook page rather than digital art. Soft muted colors, cozy aesthetic, elegant simplicity, high detail, natural clothing folds, beautiful hand-drawn texture, editorial illustration quality, vertical portrait composition, 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## High-fashion 3D CGI character concept art sheet of shinobi Ren in 16:9 layout
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2092084508418052291)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3835](https://imglume.com/prompt/3835)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cd3a630e-da5d-492a-9e59-64a4aab92178/2adbb88b-8d22-48d6-9612-fac01306b271-1787710898516 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cd3a630e-da5d-492a-9e59-64a4aab92178/bcdf27d7-b898-45af-89dc-46474e06f4c2-1787710898516 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/cd3a630e-da5d-492a-9e59-64a4aab92178/06c59251-326e-48f1-b4b1-fbcf4846ef38-1787710898516 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/cd3a630e-da5d-492a-9e59-64a4aab92178/2932c7aa-8841-4881-b5ca-e0a7018b6729-1787710898516 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white
+
+background, following this exact structured composition and visual aesthetic:
+
+[STYLE]: Hyper-realistic 3D CGI collectible-figurine render, physically-based rendering, octane-render-quality
+
+lighting, museum-grade collectible statue photography aesthetic, real material fidelity throughout (fabric weave
+
+and drape, metal wear and oxidation, synthetic matte skin with pore-level micro-detail, individually simulated hair
+
+strands with subsurface scattering at the tips), soft studio lighting with a subtle rim light.
+
+[PROPORTIONS]: Elongated fashion-illustration anatomy (9–10 heads tall, small head, long slender limbs, narrow
+
+waist) carried into photoreal rendering across every figure on this sheet.
+
+[SUBJECT_DESCRIPTION]: Ren, a rogue Japanese Shinobi in an oversized distressed charcoal-indigo cotton haori,
+
+slim tactical ribbed sleeves, weathered leather arm bracers, braided crimson silk ropes, drop-crotch ripstop
+
+trousers, black leather tabi boots, and an oxidized black iron oni mask with gold fangs. Carrying a blackened steel
+
+chokutō sword on his back.
+
+Layout Composition (Organize strictly into these sections):
+
+1. LEFT PANEL: METADATA &amp; TURNAROUND
+
+- Large, bold vertical typography of "REN // SHADOW TIGER" in a clean, heavy sans-serif condensed font.
+
+- Metadata Block: "ROLE: Phantom Shinobi", "CORE MOOD: Cold Lethal Precision", and "VISUAL SIGNATURE: Charcoal
+
+Haori + Black Iron Oni Mask" in a clean sans-serif font.
+
+- MINI TURNAROUND: 3 small, clean vertical figures showing "neutral", "back view", and "profile" stances, full
+
+material fidelity even at small scale.
+
+- SILHOUETTE STUDY: 3 small, solid-black silhouette matchings of the turnaround stances underneath.
+
+- EXPRESSION STUDY (Bottom Left): Exactly 4 small, close-up headshots: (1) cold neutral glare, (2) masked with
+
+glowing eyes, (3) battle focus with clenched jaw, (4) meditative calm.
+
+2. CENTRAL PANEL: THE CENTERPIECE
+
+- One giant, dominant full-body figure of Ren standing in a cool, relaxed fashion contrapposto pose, resting his
+
+hand on his sword guard. This figure visually dominates the center of the sheet with maximum detail and photoreal
+
+PBR fidelity.
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES
+
+- POSE STUDY: Exactly 4 to 5 small-to-medium figures in dynamic ninja stances (low roof crouch, mid-stride dash,
+
+sword draw, kunai release), each with a handwritten-style label underneath.
+
+- OPTIONAL SPECIALTY STUDY: A vertical strip of 4 photoreal portrait crops showing lighting variations of his
+
+face.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY
+
+- Exactly 5 small square close-up crops: (1) Blackened steel blade with hamon line, (2) Black iron oni mask with
+
+gold fangs, (3) Leather tabi boot stitching and wear, (4) Braided crimson kumihimo knot, (5) Leather bracer rivets.
+
+Each crop has a clean handwritten label underneath.
+
+[ABSOLUTE PROHIBITIONS]: Not flat 2D, no cel-shading, no cartoon outlines, no anime style, no painterly brushwork,
+
+no posterized flat color blocks, no low-poly or game-asset look, no plastic-toy sheen, fix and reconstruct all
+
+hands and fingers with correct five-fingered anatomy.</code></pre>
+
+</details>
+
+## Forest Giant
+
+- **Original source:** [@gridzzle on X](https://x.com/gridzzle/status/2092166207751311841)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3822](https://imglume.com/prompt/3822)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1fc0499-615b-4fb6-88d6-3e98501f5e4a/5ef0f9f6-d826-49b2-8a82-fe451f3941f2-1787683572155 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b1fc0499-615b-4fb6-88d6-3e98501f5e4a/7bc3012d-226b-4565-a4cd-370ef138900f-1787683572155 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b1fc0499-615b-4fb6-88d6-3e98501f5e4a/f504a66b-72c8-4065-bf13-c3ce12a4a14f-1787683572155 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b1fc0499-615b-4fb6-88d6-3e98501f5e4a/2875c102-e2d5-403b-ad86-76628213b4ac-1787683572155 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Prompt base: The incredible hulk, style of Andy Kehoe. Midjourney v8.2 seed: 347659635
+
+Hidden mass, looming silhouettes, foggy woods, and just enough glow in the eyes to make the whole set feel eerie without losing that mythic presence.</code></pre>
+
+</details>
+
+## Rowboat with Frog in Monet Lily Pond – 9:16 Photoreal Impressionist Scene
+
+- **Original source:** [@princess414141 on X](https://x.com/princess414141/status/2092229826128093365)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `grok`
+- **Categories:** `character`, `illustration-3d`
+- **ImgLume record:** [3818](https://imglume.com/prompt/3818)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/637861d0-1ee0-4703-9aa9-e7f9ed199856/85632242-a3c8-4933-bfc9-54b5a0f29333-1787679615635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>9:16 still, Speed-friendly. One small wooden rowboat on a Monet lily pond, photoreal and wet impressionist oil at once: thick blues, greens, and cream-gold light, water like paint that isn’t dry. No second boat. In the boat, a cute little frog in late-1800s period clothes: tiny straw boater, striped waistcoat, a short jacket, earnest and cheerful, paddling with a miniature oar. Impasto lilies, canvas tooth in the bank, 1990s filmic grain over 1870s color. No people, no extra boats, no grim. One idea: a frog taking the painted water seriously. Beautiful and a little silly.</code></pre>
+
+</details>
 
 ## Ultra-detailed anime game character design sheet for BRIGHT CLAW
 

@@ -1,9 +1,470 @@
 # Travel video prompts
 
-68 source-linked prompts, newest ImgLume records first.
+73 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 日本青春旅行 MiniDV 视频生成 Prompt
+
+- **Original source:** [@Chengzilhy on X](https://x.com/Chengzilhy/status/2092551539814723758)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3889](https://imglume.com/prompt/3889)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/749692ed-8d3a-4ded-b0c7-a9e0d602811b/2e030992-068a-4d90-8586-8b3294a17603-1787753001818 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>： 参考的同一位成年女性角色，保持浅金色长直发、轻薄刘海、深蓝色花朵发夹、脸部五官和身材比例一致。全片始终穿 Image1 中同一套浅奶油色细肩带刺绣长裙，带柔和缎面质感、浅金花卉刺绣与蕾丝细节。
+
+Location： 日本郊外铁路站台、草地、旧书店/漫画店、日本小巷、拉面店、公园与鹿、黄昏草地、繁华夜街。整体像和女友一起度过的一天，被快速剪成旅行记忆碎片。
+
+Visual Style： 真人实拍，日本青春旅行记忆，Dreamy、自然、亲密、随手记录感。全片统一呈现 2000 年代老式 MiniDV 家庭录像质感：柔焦、低反差、高光轻微泛白、自然颗粒、柔和光晕、轻微自动曝光变化和明显运动拖影。
+
+Camera Style： 第一人称男友 POV，近距离手持 DV 摄像机，广角，不稳定构图，自然晃动与快速自动对焦。摄影机像故事中的第二个角色，女孩会不断看向、靠近、回头寻找摄影者。不同场景之间使用快速硬切。
+
+Timeline（20 sec）：
+
+00:00–00:04.5 → 日本郊外站台。第一帧危险已经存在：女孩站在靠近轨道的位置，身体微微前倾，一只手遮在额头前看向前方；一列红白色日本通勤列车已经从她背后的轨道高速驶来。第一人称男友立即伸手抓住她的上臂，抓住的同一瞬间手臂持续向自己方向快速回收，一次连续把女孩从站台边缘拉到摄影机近前。女孩产生明显位移，只仓促调整 1–2 步；男友身体自然后撤半步。女孩刚离开原位置，列车立即从她身后高速掠过。她被拉到镜头前，浅金色长发与长裙被风压吹起，双眼睁大、嘴唇微张，惊魂未定。
+
+00:04.5–00:06.2 → 晴天草地，第一人称牵着女孩向前移动，她看向摄影者开心地笑，长发和长裙随风飘动。
+
+00:06.2–00:07.5 → 日本旧书店，从两排书架缝隙拍摄，女孩突然俯身探头看向镜头，露出俏皮轻笑。
+
+00:07.5–00:08.5 → 低角度记录女孩穿着浅奶油色长裙走过日本街道斑马线，裙摆随着脚步自然摆动。
+
+00:08.5–00:09.7 → 日本狭窄小巷，女孩走在前方，眼睛先向后看，随后回头看向摄影者并轻轻一笑。
+
+00:09.7–00:10.8 → 日本拉面店，热气腾腾的拉面近景，焦点自然从面条切换到坐在对面的女孩。
+
+00:10.8–00:12.0 → 漫画店，女孩从书架抽出一本漫画，低头翻开阅读。
+
+00:12.0–00:13.1 → 第一人称在日本公园给鹿喂鹿饼，女孩模糊地出现在后方草地。
+
+00:13.1–00:14.1 → 女孩安静坐着翻漫画，近距离记录双手、书页与浅奶油色刺绣长裙细节。
+
+00:14.1–00:15.6 → 黄昏草地，暖金色逆光，女孩站在鹿群附近轻轻转身看向摄影者，头发与长裙被晚风吹动。
+
+00:15.6–00:17.5 → 日本繁华夜街，女孩突然轻快向前跑，回头看摄影者，手持摄影机追随，霓虹灯形成强烈老 DV 运动拖影。
+
+00:17.5–00:18.4 → 快速闪过浅奶油色刺绣长裙、蕾丝和自然垂落裙摆的生活细节镜头。
+
+00:18.4–00:20.0 → 一台 2000 年代消费级数码摄像机进入画面，翻转 LCD 中同步显示正在被拍摄的同一位女孩。她发现摄影者还在拍自己，轻轻露出俏皮表情后自然笑出来，最后高光快速泛白结束。
+
+Audio： 只保留真实同期声：火车与铁轨声、强烈风压、脚步、风声、翻书声、店内环境声、鹿与公园环境声、夜街人群与车辆声、人物自然惊呼和轻笑。无背景音乐，无字幕。
+
+Goal： 像多年以后重新翻出的一盘日本旅行 MiniDV 录像——开场用“差一点被火车撞到、男友瞬间拉回”的危险钩子抓住观众，随后快速进入轻松、亲密、朦胧的青春旅行记忆。</code></pre>
+
+</details>
+
+## Ultra-Realistic Phone Footage Traveling Through London, Paris, and Moscow
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2092492677384437909)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3863](https://imglume.com/prompt/3863)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8d88ffc5-6b81-440c-8ad2-34bd76cacd07/652a17c4-4331-4d1e-a9cb-ba6f237d4931-1787736089340 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>ULTRA-REALISTIC PHONE FOOTAGE
+
+One adult Korean woman, same recognizable face, skin tone, body proportions and gold hoop earrings throughout. Real skin pores, natural blinking, believable expressions and consistent identity. She personally films herself with a smartphone. No beauty filter, CGI, plastic skin or cinematic over-processing.
+
+CAMERA: authentic handheld phone footage, slight arm movement, natural walking shake, autofocus shifts, exposure changes, realistic phone HDR and mild compression. Fast but understandable editing. Every city must be immediately recognizable.
+
+00:00–00:05 — LONDON 🇬🇧
+
+0:00–0:02.5 — Rainy Soho street. Selfie shot. She walks under a clear umbrella wearing a dark olive raincoat, grey knit, burgundy scarf, black skirt, tights and burgundy boots. Wet pavement, red double-decker bus and classic London architecture behind her. She smiles:
+
+“London is freezing today!”
+
+0:02.5–0:05 — She quickly turns the phone away from herself. A clean upward tilt reveals Big Ben and Westminster through the rain. She briefly points toward it. A torn blue-grey paper sheet naturally sweeps across the lens.
+
+00:05–00:10 — PARIS 🇫🇷
+
+0:05–0:07.5 — The paper tear reveals nighttime Paris. She is now wearing a beige open trench coat, cream knit, silk scarf, black trousers and burgundy ankle boots, hair in a high messy bun. She walks past warm cafés carrying a fresh crêpe, takes one bite and smiles:
+
+“Paris at night… wow.”
+
+0:07.5–0:10 — She immediately turns the phone upward, revealing the Eiffel Tower fully illuminated against the night sky. The tower lights sparkle naturally. A navy paper sheet quickly peels across the frame.
+
+00:10–00:15 — MOSCOW 🇷🇺
+
+0:10–0:12.5 — The paper opens onto a snowy Moscow street. She now wears a cream faux-fur coat, burgundy turtleneck, brown trousers and dark brown boots, with loose wavy hair. Snow lands naturally on her coat and hair. She holds a steaming blini, takes one bite and smiles:
+
+“Okay… this is beautiful.”
+
+0:12.5–0:15 — She turns the phone upward while snow falls, revealing Saint Basil’s Cathedral with its colorful domes. She raises her gloved hand toward the camera, laughing softly. Her hand naturally covers the lens as the recording ends.
+
+REALISM LOCK: Every transition must preserve the same woman. City-specific clothing and hairstyles change only during the paper transition. Realistic weather, food, crowds, architecture, lighting and physical movement. No duplicated people, distorted hands, floating objects, fake faces, subtitles, logos, watermarks or artificial CGI appearance.
+
+AUDIO: authentic rain, footsteps, traffic, café ambience, food-stall sounds, wind, distant voices and snowfall ambience. No background music.</code></pre>
+
+</details>
+
+## 30-second realistic YouTube vlog of a female travel creator in Tokyo
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2092464702286872637)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3853](https://imglume.com/prompt/3853)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1368e089-71a1-45a7-b2ce-9b4ff400d5da/93e15ab8-cca9-4d51-831c-50d4599d32d0-1787731866235 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second realistic YouTube vlog featuring an adult female travel creator exploring Tokyo. She has a natural, stylish everyday appearance and casual streetwear. Start with a handheld selfie shot as she leaves a small café, then follow her through quiet streets, a convenience store, a bookstore, and a busy city crossing. Include natural talking-to-camera moments, coffee close-ups, storefronts, pedestrians in the background, and spontaneous reactions. End with her looking toward the Tokyo skyline and saying, “Okay, that was a good day.” Authentic handheld camera movement, natural expressions, realistic lighting, documentary-style editing, photorealistic, no text or watermark.</code></pre>
+
+</details>
+
+## Ultra-Photorealistic Korean Summer Camping Video
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2092482623490916552)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3852](https://imglume.com/prompt/3852)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aa83c220-be60-4f15-83bd-e150306863cd/1e5f1bca-43c3-45fd-90d0-05a49b464e46-1787727960731 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second 16:9 ultra-photorealistic Korean summer camping video. A young Korean woman arrives at a peaceful mountain campsite in a compact SUV, parks on a gravel path, unloads her camping gear, and physically sets up a tent on the grass.
+Show realistic tent fabric, flexible poles, stakes, natural wind, and believable body movement. She then prepares a simple outdoor meal on a portable stove, stirring vegetables in a pan as gentle steam rises naturally.
+As afternoon transitions into a soft evening, she turns off the stove, sits in a folding camping chair, takes a sip of her drink, and peacefully admires the surrounding Korean mountains and forest.
+Use smooth documentary-style camera movement, natural lighting, realistic human physics, authentic campsite ambience, cooking sounds, birds, insects, wind, and gravel footsteps. Maintain the same woman, outfit, SUV, tent, campsite, and equipment throughout.
+Negative Prompt: No CGI look, teleportation, floating objects, weightless equipment, distorted hands, extra fingers, robotic movement, instant tent setup, unrealistic fire or food physics, excessive wind, artificial lighting, changing characters, text, logos, or watermark.</code></pre>
+
+</details>
+
+## Ultra-photorealistic cinematic professional photographer lifestyle vlog in historic Istanbul
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2092418643212795940)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3840](https://imglume.com/prompt/3840)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/04a4462f-455c-4274-92b7-2b62455376c5/acc2f4fb-acfb-4f9a-a238-01f9117e5b4a-1787721442464 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/04a4462f-455c-4274-92b7-2b62455376c5/a2f816f7-d31f-489c-97e1-31358061e3b7-1787721442464 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-photorealistic cinematic professional photographer lifestyle vlog.
+
+STORY:
+A female professional photographer prepares her camera equipment at home, travels to historic Istanbul, photographs a female model in the historic streets, reviews the photos on her camera, and finishes by walking through the beautiful historic district.
+
+REFERENCE PRIORITY:
+
+@IMG1 = MAIN FEMALE PHOTOGRAPHER
+@IMG2 = ISTANBUL HISTORIC LOCATION
+@IMG3 = PROFESSIONAL CAMERA GEAR
+@IMG4 = PHOTOGRAPHER + MODEL PHOTOSHOOT
+@IMG5 = PHOTO REVIEW
+@IMG6 = FINAL ISTANBUL WALK
+
+CHARACTER CONSISTENCY:
+
+The EXACT SAME woman from @IMG1 must appear throughout the video.
+
+Preserve her exact:
+face,
+facial features,
+hairstyle,
+skin tone,
+body proportions,
+age appearance
+and overall identity.
+
+She remains the photographer throughout.
+
+Keep her outfit, camera bag and professional appearance consistent.
+
+--------------------------------------------------
+
+0–4 SECONDS — PREPARING AT HOME
+
+Use @IMG1 + @IMG3.
+
+Early morning.
+
+The photographer is at home preparing for the photoshoot.
+
+She opens her camera bag.
+
+She checks the professional camera.
+
+She checks the battery and memory card.
+
+She carefully attaches the same 24–70mm lens shown in @IMG3.
+
+She places the camera into her shoulder bag.
+
+She picks up the bag and prepares to leave.
+
+CAMERA:
+Quick cinematic close-ups of the camera, lens and accessories.
+
+Then a medium shot of her leaving home.
+
+Keep the sequence natural and efficient.
+
+--------------------------------------------------
+
+4–8 SECONDS — ARRIVING IN ISTANBUL
+
+Use @IMG1 + @IMG2.
+
+Transition naturally to historic Istanbul.
+
+The photographer arrives at the Sultanahmet historic area.
+
+She walks along the cobblestone street carrying her camera bag.
+
+She looks around at the architecture.
+
+She chooses a beautiful location for the photoshoot.
+
+She takes the camera out of her bag.
+
+CAMERA:
+Wide establishing shot revealing the historic Istanbul architecture.
+
+Then a medium tracking shot following the photographer.
+
+--------------------------------------------------
+
+8–13 SECONDS — PREPARING THE PHOTOSHOOT
+
+Use @IMG1 + @IMG2 + @IMG3 + @IMG4.
+
+The female model arrives.
+
+The photographer positions the model against the historic Istanbul architecture.
+
+She checks the camera settings.
+
+She adjusts the lens.
+
+She raises the camera to her eye.
+
+She gives the model a subtle hand gesture indicating where to stand and how to pose.
+
+The model responds naturally.
+
+CAMERA:
+Medium shot showing photographer and model.
+
+Brief close-up of the camera and lens.
+
+--------------------------------------------------
+
+13–20 SECONDS — PROFESSIONAL PHOTOSHOOT
+
+Use @IMG4.
+
+The photographer begins taking professional photographs.
+
+The model poses naturally.
+
+The photographer moves slightly to one side to change the composition.
+
+She takes a portrait shot.
+
+Then she changes position and takes a wider environmental shot.
+
+Then she briefly crouches to capture a dramatic low-angle photograph.
+
+The model remains natural and confident.
+
+The photographer presses the shutter naturally.
+
+CAMERA:
+Alternate between:
+
+photographer POV,
+side angle,
+over-the-shoulder camera shot,
+low-angle photography position,
+wide shot showing the historic architecture.
+
+Keep the photography process realistic.
+
+--------------------------------------------------
+
+20–25 SECONDS — REVIEWING THE PHOTOS
+
+Use @IMG5.
+
+The photoshoot is complete.
+
+The photographer lowers the camera.
+
+She turns the camera screen toward herself.
+
+She scrolls through the photographs.
+
+Show a beautiful portrait of the same model on the camera display.
+
+She stops on one particularly strong image.
+
+She looks pleased with the result.
+
+A subtle satisfied smile appears.
+
+CAMERA:
+Medium shot → close-up of camera screen → close-up of photographer's satisfied expression.
+
+Make the camera screen look realistic.
+
+--------------------------------------------------
+
+25–30 SECONDS — FINAL WALK AWAY
+
+Use @IMG6.
+
+The photographer puts the camera on her shoulder.
+
+She adjusts the camera strap.
+
+She picks up her camera bag.
+
+She begins walking calmly through the historic Istanbul street.
+
+Warm golden-hour sunlight illuminates the buildings.
+
+She walks away from the camera.
+
+The camera slowly pulls back into a wide cinematic shot.
+
+Reveal the historic street, architecture, domes and distant minarets.
+
+End with the photographer becoming smaller in the beautiful Istanbul environment.
+
+CUT TO BLACK.
+
+--------------------------------------------------
+
+CAMERA STYLE:
+
+Premium cinematic travel-fashion photography vlog.
+
+Smooth tracking shots.
+
+Natural handheld movement.
+
+Professional documentary-style camera work.
+
+Wide establishing shots.
+
+Medium lifestyle shots.
+
+Close-ups for camera equipment.
+
+Over-the-shoulder photography shots.
+
+Gentle cinematic pull-back at the ending.
+
+Do not use excessive camera shake.
+
+Do not use unrealistic camera movements.
+
+--------------------------------------------------
+
+REALISM:
+
+Realistic camera handling.
+
+Realistic lens interaction.
+
+Realistic shutter operation.
+
+Realistic walking.
+
+Realistic model posing.
+
+Natural human anatomy.
+
+Realistic hands and fingers.
+
+Natural facial expressions.
+
+Realistic clothing movement.
+
+Realistic camera screen.
+
+Natural Istanbul environment.
+
+--------------------------------------------------
+
+CONTINUITY:
+
+Same female photographer throughout.
+
+Same face.
+
+Same hairstyle.
+
+Same outfit.
+
+Same camera.
+
+Same lens.
+
+Same camera bag.
+
+Same Istanbul location.
+
+Same model during all photoshoot scenes.
+
+No identity swapping.
+
+No different photographer.
+
+No different model.
+
+No camera change.
+
+No lens suddenly changing.
+
+No face morphing.
+
+No distorted hands.
+
+No extra fingers.
+
+No cartoon.
+
+No anime.
+
+No CGI-looking people.
+
+No text.
+
+No logos.
+
+No watermark.
+
+FINAL FEELING:
+
+A polished professional photography lifestyle vlog.
+
+The viewer should feel they followed the photographer through a real working day:
+
+PREPARE CAMERA → LEAVE HOME → ARRIVE IN ISTANBUL → SET UP SHOOT → PHOTOGRAPH MODEL → REVIEW PHOTOS → WALK AWAY.</code></pre>
+
+</details>
 
 ## Late-2000s Handheld Indonesian Market Vlog
 

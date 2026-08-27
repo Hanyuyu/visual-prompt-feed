@@ -1,9 +1,115 @@
 # Camera Moves video prompts
 
-141 source-linked prompts, newest ImgLume records first.
+144 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## T‑Rex Attack on Military Jeep Dashcam Footage
+
+- **Original source:** [@DtheW1995 on X](https://x.com/DtheW1995/status/2092158157334217204)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3827](https://imglume.com/prompt/3827)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/69499696-ddaa-44dd-98b0-a07f1948ef54/97597300-9da5-49c4-84e0-6b36de89f5b8-1787691988470 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic 12–15 second blockbuster survival-action sequence filmed as raw dashboard camera / windshield-mounted camera footage from inside a fast-moving military jeep on a flooded jungle road in Vietnam. The footage must feel like authentic accidental real-world capture, not staged cinematography: slight dashboard vibration, realistic camera shake from the suspension, windshield rain streaks, muddy spray, engine vibration, tire slip, natural motion blur, and occasional wiper movement. 2000s/2010s creature-feature realism, grounded and physically believable. No teleportation, no impossible direction changes, no morphing. Vehicle speed, road direction, dinosaur movement, and all collisions must remain spatially coherent. Location / atmosphere: remote jungle road in Vietnam after heavy rain, shallow floodwater over the road, muddy ruts, broken vegetation, dense green jungle on both sides, grey storm daylight, humid haze, puddles, mist, birds scattering from the trees. 0–2s — ULTRA HOOK: Start already at full speed from the jeep dashcam. A military jeep is racing down a flooded jungle road behind another vehicle when, within the first 2 seconds, a massive T-Rex explodes out of the jungle from the right side and slams into the lead vehicle. The impact sends the vehicle violently sideways across the muddy road, smashing through water and vegetation. The T-Rex roars directly in front of the camera as the driver of the camera jeep yanks the wheel hard left to avoid the wreck. Water and mud blast across the windshield. One soldier inside the jeep shouts: “LEFT! LEFT! LEFT!” 2–5s: The jeep fishtails through the floodwater but keeps moving. The crashed vehicle spins behind them while the T-Rex regains balance and immediately charges after the camera jeep down the road. Keep the motion physically grounded: heavy footfalls, splashing water, mud thrown backward, the predator accelerating with believable weight and inertia. The driver fights for control while the passenger twists around in panic to look back. A soldier yells: “IT’S BEHIND US! GO! GO!” 5–8s: The T-Rex closes the distance, stomping through the road and shoulder, smashing through low trees and sending branches into the air. The jeep bounces over deep muddy ruts and nearly loses traction. The dinosaur lunges once and snaps its jaws just behind the rear of the vehicle, narrowly missing. The driver swerves around a fallen tree while tires spray muddy water in long arcs. The whole scene should feel dangerously unstable but readable. 8–11s — CRISIS: Ahead, part of the road is partially blocked by a large leaning tree weakened by the storm. The driver commits and aims for the narrow gap beside it. The T-Rex charges even harder, almost close enough to bite the jeep. The road curves slightly, the jeep drifts, suspension compresses, and one side nearly slides off into the muddy shoulder. The dinosaur collides with the weakened tree line as it tries to follow the same line. 11–13s — PAYOFF: Brief bullet-time feeling for the biggest moment: the huge leaning tree finally breaks and crashes down directly into the T-Rex’s path. The dinosaur slams chest-first into the collapsing trunk and tangled branches, creating a violent shower of mud, bark, and leaves. The jeep bursts through the gap just in time and escapes forward. Then instantly back to normal speed. 13–15s — AFTERMATH: Inside the jeep, panicked breathing and shouting continue as the vehicle speeds away. The dashcam catches one last glimpse through the rear window or side mirror: the T-Rex thrashing under the fallen tree, roaring and trying to get back up. A soldier gasps: “DON’T SLOW DOWN!” Hard cut. Audio: raw engine revving, tires cutting through floodwater, windshield wipers, metal rattling, soldiers shouting, T-Rex roar, heavy foot impacts, snapping wood, splashing mud, jungle ambience, birds exploding from the canopy. No overpowering music — the sound design should sell the realism and urgency. Key priorities: instant first-2-second hook, clear mini-story, realistic chase physics, grounded dashcam feel, strong environmental interaction, readable geography, escalating danger, and a memorable payoff.</code></pre>
+
+</details>
+
+## Cinematic self-care transformation sequence
+
+- **Original source:** [@rovvmut_ on X](https://x.com/rovvmut_/status/2092217078292042028)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3825](https://imglume.com/prompt/3825)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d3cdb25f-cf65-4b12-9f8f-c170ad14f142/013aac3a-3e6d-40c7-951c-40f3b8926d03-1787683662430 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Highly detailed cinematic self-care transformation sequence, 25 seconds, soft intimate observational style. Exact color palette and cinematography: soft muted neutrals with cool off-white and pale gray walls, warm olive-tan skin with golden undertones, deep rich espresso-dark wavy hair with subtle soft highlights, pure matte black clothing, soft peachy-pink natural lips, silver metallic accents, pure white ceramic, gentle warm window light mixing with cool ambient fill. Color grade is delicate and desaturated overall — lifted soft blacks, restrained saturation, warm golden skin glow against cooler backgrounds, subtle filmic texture, highly realistic skin detail with visible pores and natural subtle sheen, no heavy contrast or vibrant pops.
+
+Consistent character: young woman in her early 20s, olive-tan skin with realistic pores and a natural subtle sheen, large soft brown eyes, natural full lips, long voluminous dark wavy hair (initially slightly messy and lived-in), small thin silver hoop earrings, wearing a simple black long-sleeve top. Soft, contemplative to quietly empowered presence. Natural dewy skin texture with visible pores and soft luminosity, no heavy makeup until the later stages of the routine.
+
+Cinematography: intimate close-range observational style, shallow depth of field, soft natural side lighting from camera-left window creating gentle key light, soft shadows, and delicate rim light on hair edges. Mix of extreme close-ups and medium close-ups. Slow, deliberate, almost meditative camera moves — subtle push-ins, gentle lateral drifts, organic micro-handheld feel. High motion coherence, realistic skin and hair physics, precise product interactions. Full-frame composition, no letterboxing or text overlays.
+
+Shot-by-shot timeline:
+
+0.0–2.5s: Medium close-up, woman centered, both hands raised into her dark wavy hair, fingers slowly raking through strands near the crown and temples, lifting and adjusting. Direct soft gaze into camera, neutral to slightly intense expression. Soft window light catches the left side of her face and hair, revealing realistic pores and subtle natural sheen on the olive-tan skin. Background soft white wall with out-of-focus dried pinkish-orange floral arrangement and faint black-and-white artwork. Subtle natural head tilt.
+
+2.5–4.0s: Hands frame the sides of her face and hair, then lower. She looks straight into lens with calm neutral expression, then slowly lowers her gaze and gently closes her eyes. Soft ambient room tone, shallow focus isolating her face and the realistic texture of her olive-tan skin.
+
+4.0–6.5s: Extreme close-up of lower face — nose, cheeks, and lips. Fingers with natural short nails gently touch and rest against the lower lip. Soft natural smile begins to form, lips parting slightly. Warm olive-tan skin with clearly visible realistic pores and a soft natural sheen, gentle specular highlights on the cupid’s bow. Shallow focus, creamy bokeh.
+
+6.5–10.5s: Close-up of a tall pure white ceramic glass or mug filled with opaque milky-white liquid sitting on a light wooden surface. Her hand with natural nails enters frame, fingers wrap around the side of the glass with delicate grip. She slowly lifts the glass upward and slightly toward camera. Soft reflections on the white surface, gentle motion blur on the lift. Background soft curtains and wall.
+
+10.5–12.0s: Extreme close-up of her face again. She dabs a soft beige cotton pad or sponge gently across her right cheek in slow circular motions. Eyes open, soft focused expression looking slightly off-camera. Olive-tan skin with realistic pores and subtle sheen emphasized under soft side light.
+
+12.0–13.5s: Close-up as she holds a slim silver-capped dropper bottle. Clear serum droplet falls from the glass pipette onto the skin just under her right eye / upper cheek. Soft glossy wet highlight forms on the olive-tan skin, enhancing the natural pores and sheen. Her eyes look toward the dropper with calm attention.
+
+13.5–14.5s: She uses her fingertips to slowly and gently massage the serum into the cheek and under-eye area with soft circular and upward strokes. Skin becomes slightly more luminous while retaining realistic pore detail and a soft natural sheen. Soft natural expression, eyes partially closed or looking down.
+
+14.5–15.5s: Close-up of right eye and brow area. She carefully applies a dark brow product or mascara with a slim wand, brushing through the brow or lashes with precise, slow strokes. Soft focus on the eye and surrounding olive-tan skin with visible pores.
+
+15.5–16.5s: Extreme close-up of both eyes. She positions a classic silver metal eyelash curler over her right eye and gently presses. Soft metallic reflections, precise controlled movement. Left eye remains open and looking forward. Realistic skin texture and subtle sheen clearly visible around the eyes.
+
+16.5–18.5s: Medium close-up, eyes closed, soft peaceful expression. One hand slowly runs through her long dark hair, lifting and releasing strands. Soft rim light on hair, gentle head movement. Olive-tan skin with realistic pores and natural sheen softly illuminated. Background soft floral arrangement still visible but defocused.
+
+18.5–20.0s: She holds a small gold-toned bottle or round brush near the mid-lengths of her hair, running it through the waves to smooth and style. Looking slightly to her right, calm focused gaze. Hair appears slightly more polished and defined. Skin retains its olive-tan tone, realistic pores, and subtle sheen.
+
+20.0–22.0s: Medium close-up, hair now smoother and more voluminous with soft waves. She looks directly toward camera with a quieter, more present expression, slight natural lift at the corners of the mouth. Soft hand movement near the ends of her hair. Lighting remains soft and flattering, olive-tan skin glowing with realistic pores and a natural subtle sheen from the earlier products.
+
+22.0–25.0s: Slightly wider medium shot. She leans gently against a white doorframe or wall, white curtains visible behind her on both sides. Body angled, one arm resting casually. She turns her head slowly toward the light / off-camera right, soft contemplative expression that settles into quiet confidence and presence. Hair frames her face beautifully, olive-tan skin luminous with realistic pores and subtle sheen, overall polished yet completely natural look. Slow subtle push-in or gentle drift. Hold on the final composed, present expression as the clip ends.
+
+Overall motion is slow, intentional, and fluid with high temporal consistency. No abrupt cuts — soft organic transitions or continuous observational flow. Exact olive-tan skin texture with realistic pores and subtle sheen, hair physics, product reflections, and soft natural lighting must remain consistent across the entire 25 seconds. Cinematic, intimate, quietly powerful self-care ritual. Seedance 2.5 — maximum motion coherence, realistic micro-expressions, precise hand and product interaction, soft cinematic depth of field.</code></pre>
+
+</details>
+
+## The Scarlet Priestess
+
+- **Original source:** [@minuitIA on X](https://x.com/minuitIA/status/2092285935056568787)
+- **Recommended model:** `seedance`
+- **Source model(s):** `midjourney`, `seedance`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [3824](https://imglume.com/prompt/3824)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d15132d6-5c1a-4756-8e4c-cc4b9b66253d/e9b31d40-2411-445f-a4c5-25cf609b1ab4-1787683632102 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second multi-shot 16:9 ultra-photorealistic live-action cinematic fantasy sequence.
+The sequence must look like a real high-end live-action film scene shot on location with a real performer and practical wardrobe. Absolute photographic realism. No 3D look, no CGI feel, no game-engine rendering, no plastic vegetation, no synthetic surfaces, no fantasy illustration aesthetic. Natural skin texture, visible textile fibers, heavy cloth behavior, wet moss, irregular bark, realistic droplets, physically believable wind, real gravity, true inertia, cinematic lens behavior, subtle film grain, restrained cinematic color grading.
+Core concept: a violent supernatural storm tears through the forest. The mage raises her staff high into the air to stop time. At the exact moment the staff reaches upward, time freezes instantly all around her: rain, leaves, broken branches, bark, wood splinters, moss, droplets and debris are suspended motionless in midair. Important: the mage herself is not frozen. She alone remains alive and moving outside stopped time. Her hair continues to flow in the wind, her immense red garment continues to ripple and breathe with natural weight, and she can move her hand through the frozen world. The camera glides through the suspended storm in macro detail, then reveals her gently touching a frozen droplet with her fingertips. She closes her fingers, and the whole forest rewinds violently in reverse. Final shot: a gigantic shattered tree reconstructs itself around her in a breathtaking live-action spectacle.
+SHOT 1 — 0.0–2.0 s.
+Wide kinetic establishing shot in the forest, 28mm lens feeling, camera moving through the trees as a violent supernatural storm tears across the landscape. Branches whip, leaves spiral, rain and spray burst through frame, loose bark and splinters fly through the air, ferns bend under sudden force. The mage stands ahead in the distance as a vivid red silhouette against the dark green forest. The storm is chaotic, heavy and physically believable.
+SHOT 2 — 2.0–4.0 s.
+Dramatic low-angle medium-wide shot. The mage powerfully raises her tall moss-covered staff high above her head toward the sky. Her stance is rooted and sovereign. Her expression is calm, focused, and absolute. Strong wind pushes through her long red hair and the heavy fibrous strands of her cloak, making them stream and flutter with real weight and texture. She is alive, powerful, and dynamic. The storm continues raging violently around her as she completes the upward gesture.
+SHOT 3 — 4.0–5.0 s.
+Extreme close shot on the staff lifted in the air and on her hand gripping it. At the exact peak of the gesture, time stops instantly. Hard supernatural freeze. Rain droplets, leaves, bark fragments, twigs, mud particles and torn moss become perfectly suspended in the air. The environment freezes absolutely. Important: only the world freezes. The mage remains unfrozen, breathing subtly, with hair and garment still moving in a mysterious residual wind.
+SHOT 4 — 5.0–7.0 s.
+Macro traversal shot through the frozen storm. The camera moves slowly and elegantly through suspended droplets, torn leaves, wood splinters, clumps of wet moss and airborne soil particles, all perfectly still. Shallow depth of field and delicate rack focus. Hyper-detailed water, bark fibers and plant textures. In the background, the mage remains the only moving element in the frame, her red hair drifting softly and her cloak breathing in the wind while everything else is frozen solid in time.
+SHOT 5 — 7.0–9.5 s.
+Intimate close shot transitioning from macro to portrait. The camera passes in front of the mage’s face as she slowly extends one hand into the frozen air. She gently touches a single suspended water droplet with her fingertips. The droplet remains perfectly suspended in space while her hand moves freely around it. Her face is alive, calm and controlled, not frozen. Her eyes study the droplet with quiet mastery. Strands of red hair move across the hood and cheeks, and the edges of her garment subtly ripple. Around her, the storm debris hangs motionless like a halo of suspended destruction.
+SHOT 6 — 9.5–12.0 s.
+Close dynamic shot with a slightly orbiting camera angle. After touching the droplet, the mage slowly closes her fingers. At that exact moment, the entire world reverses direction violently. All suspended elements accelerate backward through their original paths: droplets fly back into rain streams, splinters return into branches, bark fragments reattach, leaves reverse through the air, mud and moss snap back into place. The reverse motion must feel like true time rewinding, not simply objects moving backward. The mage remains centered and controlled while the forest heals around her.
+SHOT 7 — 12.0–15.0 s.
+Grand final shot, dramatic low-angle to medium-wide composition centered on the mage. Around and behind her stands a gigantic tree that had been violently shattered by the storm. In reverse motion, colossal trunk fragments, bark slabs, inner wood fibers, branches, moss and debris reassemble around her at monumental scale. The ancient tree reconstructs itself completely, sealing and becoming whole again while she stands beneath it with her staff still raised or just beginning to lower, hair and garment still moved by the lingering wind. End on a majestic completed composition: the restored towering tree enclosing her presence, the storm gone, the forest returned to impossible stillness, and the mage the only living force beyond time.
+Camera language must be varied and purposeful across the sequence: storm-driven wide shot, low-angle heroic gesture, extreme close-up trigger shot, macro traversal through frozen debris, intimate face-and-hand interaction, dynamic rewind shot, and monumental final reveal. Every angle must feel deliberate, original, cinematic, and worthy of a major film director.
+Keep the supernatural phenomenon grounded in realism. The impossible effect must emerge from fully believable physical materials: water, wood, bark, moss, leaves, mist, cloth, soil, and air. No glowing magic beams, no fantasy energy blasts, no holograms, no stylized VFX overload. The power is expressed through time control, motion contrast, tactile interaction with frozen matter, and physical reversal.
+Important visual rule: once time is stopped, all environmental elements must be perfectly frozen, but the mage must remain subtly animated. Her hair moves in the wind, her cloak and fibrous garment continue to ripple naturally, and she can deliberately reach out and touch a suspended droplet with her hand.
+No text, no titles, no captions, no logo, no watermark, no visible UI, no identity drift, no costume change, no staff change, no duplicate character, no malformed hands, no extra fingers, no synthetic skin, no cartoon motion, no low-detail background.
+no music, no subtitle</code></pre>
+
+</details>
 
 ## Creepy Two‑Player Monologue Seedance Video Prompt
 

@@ -1,9 +1,91 @@
 # Cinematic image prompts
 
-61 source-linked prompts, newest ImgLume records first.
+65 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Futuristic gravity-reversed city chase – cinematic keyframe
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2092454779943559254)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3869](https://imglume.com/prompt/3869)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d6d96f70-59f4-4801-827d-41d45b25f5d9/297655ed-1b02-43e7-b8ee-b0bc7133c589-1787740417491 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d6d96f70-59f4-4801-827d-41d45b25f5d9/f659860c-138f-492c-b8db-a088b2397d19-1787740417491 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a single cinematic keyframe from an original futuristic sci-fi action film. A young Korean woman in her mid-20s rides a sleek matte-black futuristic electric motorcycle through a massive futuristic city at night. She wears a fitted black tactical riding suit, short black hair, and a dark transparent visor. The motorcycle has a distinctive narrow silhouette, thin cyan glowing wheel rims and one small red rear light. The impossible event has just begun: gravity has reversed across the entire city. Dozens of futuristic cars, buses and motorcycles are falling upward from the streets toward the sky, while rain droplets also travel upward. Some vehicles are already attached to the sides of enormous glass skyscrapers, creating the illusion that the entire city has become vertical. The rider is still moving normally across the wet road, looking upward at the chaos while one futuristic sports car passes dangerously close above her. Camera: extremely low cinematic angle positioned behind and slightly to the side of the motorcycle, 24mm wide lens, strong foreground perspective, rider and motorcycle sharply visible while the city towers dramatically into the background. Lighting: deep midnight atmosphere, cyan and violet neon reflections on wet asphalt, warm headlights from floating vehicles, subtle red emergency lights, volumetric mist and rain illuminated by the city. Composition: rider in the lower-left foreground, enormous vertical city dominating the frame, floating vehicles creating a spiral toward the sky, clear visual hierarchy, no text. Style: photorealistic cinematic sci-fi, original anime-inspired character design, realistic metal, glass and rain, physically detailed vehicles, dramatic scale, blockbuster cinematography, sharp details, natural motion blur. No existing characters, anime references, logos, brands, recognizable copyrighted vehicles, text or watermark.</code></pre>
+
+</details>
+
+## Sideways gravity shift chase – cinematic keyframe
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2092454779943559254)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3868](https://imglume.com/prompt/3868)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9c14b7a0-fb3e-4dd3-8984-95982f7e5a11/d87e3054-74d1-4bef-a69c-6e35785d8b51-1787740417491 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9c14b7a0-fb3e-4dd3-8984-95982f7e5a11/22bc733d-98a1-46b9-bcaf-615b90907004-1787740417491 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a single cinematic keyframe from an original futuristic sci-fi chase film. The same young Korean female rider and the exact same matte-black futuristic motorcycle race through a rain-covered futuristic boulevard at night. Suddenly, the city's entire gravity field rotates sideways. Cars are no longer falling upward—they are sliding horizontally across the sides of skyscrapers as if the buildings have become roads. A huge futuristic traffic stream is moving across a glass tower directly beside the heroine, while streetlights, rain and loose debris are being pulled sideways. The heroine leans aggressively into the turn as her motorcycle begins climbing onto the vertical wall of a skyscraper, its cyan wheel rims glowing against the wet glass. Far below, the original streets appear almost vertical, creating a dizzying sense of scale. Camera: dynamic 28mm lens, low side angle following the motorcycle, camera tilted approximately 45 degrees to make the viewer question which direction is actually down; strong foreground-to-background perspective. Lighting: cold cyan building lights, violet neon signs, warm headlights sweeping across the scene, wet glass reflections, atmospheric blue haze and subtle red energy from the motorcycle's rear light. Composition: heroine and motorcycle dominate the foreground, sideways traffic creates a powerful diagonal line through the frame, skyscrapers disappearing into mist behind her. Style: high-budget cinematic sci-fi, photorealistic environment, original anime-inspired heroine, realistic rain and reflections, detailed futuristic vehicles, dramatic perspective, intense depth of field, subtle film grain, dynamic action photography. No existing characters, anime franchises, logos, brands, recognizable copyrighted vehicles, text or watermark.</code></pre>
+
+</details>
+
+## Amalfi Golden Hour Escape
+
+- **Original source:** [@nagarjuncreates on X](https://x.com/nagarjuncreates/status/2092410734093521270)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3860](https://imglume.com/prompt/3860)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9a8c21b-68d9-48aa-b85b-a41b73a79f86/ab6eb981-f9e7-4879-8fb2-d0e2600a6704-1787732001643 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create one ultra-realistic cinematic luxury travel editorial portrait in vertical 4:5.
+
+A naturally beautiful elegant woman relaxes on a private cliffside terrace overlooking the Amalfi Coast, wearing a flowing sage-green satin gown with delicate gold jewelry, holding a crystal glass while watching the sunset over the Mediterranean.
+
+Surround her with authentic Italian details: bougainvillea, hand-painted ceramic pottery, lemons, candles, olives, fruit, elegant aperitivo dishes, patterned cushions and a beautiful tiled table.
+
+In the background: dramatic cliffs, pastel hillside villas, glowing terraces, a historic domed church, small boats on turquoise water and the sun reflecting across the sea.
+
+Use warm golden-hour light, cinematic rim lighting, natural reflections, atmospheric haze, layered depth and rich Mediterranean color.
+
+Style: Vogue + Condé Nast Traveler luxury editorial, ultra realistic, cinematic, 85mm lens, shallow depth of field, natural skin texture, detailed fabric, HDR, rich color grading, 8K.
+
+Mood: elegant, luxurious, romantic, peaceful, timeless, wanderlust, exclusive.
+
+No text, logo, watermark, border or AI artifacts.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic close-up portrait of woman hugging white plush rabbit
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2092221695226732905)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3821](https://imglume.com/prompt/3821)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/00a32e43-dda7-4d19-a5e8-a66108872a4a/14b37d78-c7dc-4195-820e-43792477f5f2-1787679745002 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/00a32e43-dda7-4d19-a5e8-a66108872a4a/447449a2-2573-4578-bd44-c06b603ac8bd-1787679745002 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic extreme close-up of the adult woman from the reference, strict identity lock with exact facial features and proportions. She lies on a bed hugging a large white plush rabbit against her cheek. 70–80% side profile, face slightly turned toward camera, one eye meeting the lens, calm intimate expression. Loose natural hair with a few strands across her face, minimal makeup, realistic pores and skin texture. Warm sunlight stripe across her face with soft ambient fill. Dense realistic rabbit fur, shallow depth of field, corrected portrait perspective, cinematic lighting, subtle film grain, natural colors, 8K detail. No beautification, identity drift, distorted profile, plastic skin, tangled hair, extra fingers, CGI look, text or watermark.</code></pre>
+
+</details>
 
 ## Majestic sailing ship with iridescent sails on a glassy sea under pastel sky
 

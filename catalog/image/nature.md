@@ -1,9 +1,43 @@
 # Nature image prompts
 
-20 source-linked prompts, newest ImgLume records first.
+22 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vibrant colored-pencil illustration of rain and sun over daisies
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2092546640716419297)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `nanobanana`
+- **Categories:** `nature`
+- **ImgLume record:** [3884](https://imglume.com/prompt/3884)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ed01ef69-8bb9-4735-a852-9a391eea1299/5e930ecb-10ae-455e-a70f-8c66d73c1897-1787748729205 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ed01ef69-8bb9-4735-a852-9a391eea1299/f28e0e70-df10-43e1-a925-09bc9510c967-1787748729205 "GPT Image 2") · [3](https://cdn.imglume.com/prompts/byradar/ed01ef69-8bb9-4735-a852-9a391eea1299/62527d48-fd18-4446-9d94-2c92be3955cc-1787748729205 "Nano Banana 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. A lush field of white daisies with bright sunny-yellow centers fills the foreground and mid-ground, with delicate white petals covered in glistening water droplets, some petals slightly drooping under the weight of the rain. Large, clear, teardrop-shaped water droplets hang suspended in the air throughout the scene, refracting the light like tiny lenses and adding a sense of motion and atmosphere. A soft summer rain falls in visible diagonal streaks of water. The background is a deep, vibrant green of grass and foliage. At the top center, a bright, glowing light source breaks through the soft clouds and casts luminous golden "god rays" that filter down through the rain, giving the entire scene a warm, golden-green glow. The palette is dominated by rich greens (from deep forest green to bright lime), crisp white, and sunny yellow, accented by cool, transparent reflective droplets. The composition is dense and immersive, with larger detailed daisies in the foreground and smaller, softer ones receding into the distance. The style is reminiscent of colored pencil art, with visible textures creating a soft, fresh, rejuvenating mood. The overall atmosphere is bright, refreshing, and slightly surreal, capturing a fleeting moment where sunlight and rain coexist.</code></pre>
+
+</details>
+
+## Vibrant colored-pencil illustration of rain, sun, goldfinch and daisies
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2092546640716419297)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`, `nanobanana`
+- **Categories:** `nature`
+- **ImgLume record:** [3883](https://imglume.com/prompt/3883)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/812ec71c-8b58-4269-a2e5-ad0a39a9e16d/c398c7c4-2139-4b3d-99a7-39fa4d609041-1787748729205 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/812ec71c-8b58-4269-a2e5-ad0a39a9e16d/8221b8e1-fd2a-4a7d-9a4f-f35fa0dc0c3b-1787748729205 "GPT Image 2") · [3](https://cdn.imglume.com/prompts/byradar/812ec71c-8b58-4269-a2e5-ad0a39a9e16d/82a0c71a-bf98-4b79-bb59-4a183263d026-1787748729205 "Nano Banana 2")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A vibrant colored-pencil illustration in portrait orientation. In the foreground, a small bright yellow goldfinch with an orange beak and subtle black wing markings perches on a curved bent stalk of green wheat, its feathers damp with tiny clinging water droplets, head slightly turned. It is surrounded by a lush, dense field of white daisies with bright sunny-yellow to golden textured centers, interwoven with green wheat stalks and tall grasses, some daisies slightly angled or partially obscured. The greenery is rendered in deep, rich tones — emerald, forest green and deep vivid greens — providing strong contrast to the crisp white petals. Large, prominent, glass-like teardrop-shaped water droplets hang suspended throughout the air at varying depths, refracting the light, together with droplets clinging to the petals and leaves. A soft summer rain falls in visible diagonal streaks of water. At the top center, a brilliant glowing sun breaks through soft textured clouds in shades of grey-white, casting luminous golden "god rays" and a warm lens-flare effect that filters down through the droplets across the whole field. In the far distance past the swaying daisies and wheat, a couple stands hand in hand as dark, soft blue-grey silhouettes, tiny and peaceful against the glowing sky and gentle haze at the horizon. The palette is dominated by rich, deep greens (from forest green to bright emerald and lime), crisp white, vibrant sunny yellow, and warm golden light, with cool, transparent, reflective droplets, accented by a slightly moody, atmospheric sky. The composition is dense, immersive and eye-level, with large detailed daisies and wheat in the foreground receding into a soft, sunlit distance. The style is reminiscent of colored pencil art, with visible textures and soft blending creating a fresh, lush, slightly dramatic mood. The overall atmosphere is bright yet deep, peaceful and slightly magical, capturing a fleeting moment where sunlight and rain coexist.</code></pre>
+
+</details>
 
 ## Tranquil Glowing Sunset Landscape
 

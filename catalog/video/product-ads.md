@@ -1,9 +1,150 @@
 # Product Ads video prompts
 
-87 source-linked prompts, newest ImgLume records first.
+92 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic 15-second beauty vlog of a morning skincare routine
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2092555394304622883)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3874](https://imglume.com/prompt/3874)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/15898999-082f-46e3-b908-a0d6fef0c40d/87b32b63-6276-4fa1-bc25-cce1eb07ef5e-1787744654774 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic 9:16 beauty vlog featuring the same young woman throughout. Keep her face, hairstyle, skin tone, outfit, and identity perfectly consistent.
+
+Scene: Bright, clean modern bathroom with a large mirror, soft warm lighting, minimal decor and a small green plant. Natural handheld smartphone/vlog style.
+
+0:00–0:03: Girl holds her phone in one hand, filming a mirror selfie. She smiles and introduces Himalaya Purifying Neem Face Wash, holding the tube clearly toward the camera.
+On-screen text: “My Morning Skincare
+
+0:03–0:05: Close-up of the face wash. She opens it and squeezes a small amount onto her palm. Show the realistic gel texture.
+On-screen text: “Neem + Turmeric”
+
+0:05–0:09: She gently applies the face wash to her cheeks and forehead, massaging naturally. Then rinses her face at the sink with realistic water movement.
+
+0:09–0:12: She looks into the mirror with fresh, clean skin, touches her cheek and smiles.
+On-screen text: “Fresh &amp; Clean ”
+
+0:12–0:15: She holds the product beside her face, gives a cute thumbs-up, then finish with a clean product shot on the bathroom counter beside a small plant and towel.
+On-screen text: “My Skincare Pick ”
+
+Style: Photorealistic, natural skin texture, realistic hair and hands, authentic smartphone footage, subtle handheld movement, soft cinematic lighting, realistic reflections, 4K, no CGI look, no distorted face or product packaging.</code></pre>
+
+</details>
+
+## Luxury Skincare Advertisement Prompt
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2092546469366751503)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3871](https://imglume.com/prompt/3871)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4d43d1c7-af26-4cb0-aa5c-67c2a4da3d4d/69d12186-c5f9-4e7b-9d2e-cb55ea99cca4-1787744551802 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second cinematic luxury skincare advertisement featuring a young woman sitting elegantly beside a beautiful modern dressing table and vanity mirror.
+
+Character &amp; Outfit:
+A beautiful young woman with natural glowing skin, soft makeup, neat hair, wearing a clean white shirt and white trousers. She looks fresh, confident, and elegant.
+
+Setting:
+A luxurious feminine dressing room with a large vanity mirror, warm soft lighting, elegant perfume bottles, flowers, skincare products, and subtle golden reflections. The serum bottle is clearly visible on the dressing table throughout the video. Premium beauty-commercial aesthetic, realistic skin texture, cinematic depth of field.
+
+0–4 seconds:
+Medium shot of the girl sitting beside the dressing table. She picks up the LUXÉCLAT PARIS Radiance Glow Serum and smiles naturally toward the camera.
+
+Dialogue:
+“Today, I chose this serum for my daily skincare routine.”
+
+4–9 seconds:
+Close-up of her holding the serum bottle, then applying a few drops gently to her face. Show the serum texture and elegant packaging in detail.
+
+Dialogue:
+“I use it every day to keep my skin feeling fresh, smooth, and hydrated.”
+
+9–13 seconds:
+She looks into the vanity mirror and gently touches her glowing skin. Show a beautiful close-up of her face with natural, healthy-looking skin.
+
+Dialogue:
+“It helps improve the appearance of acne, blackheads, and uneven-looking skin.”
+
+13–15 seconds:
+Hero product shot: the serum bottle placed beautifully on the dressing table with the vanity mirror glowing softly in the background. The girl smiles in the background.
+
+Dialogue:
+“Make it part of your daily skincare routine. Give it a try!”
+
+Visual Style:
+Ultra-realistic luxury beauty commercial, cinematic camera movement, soft warm lighting, premium product photography, realistic skin texture, shallow depth of field, elegant reflections, smooth transitions, sophisticated feminine atmosphere, high-end skincare brand advertisement, 4K, vertical 9:16, natural expressions, accurate product packaging, no distorted hands, no extra fingers, no warped text.</code></pre>
+
+</details>
+
+## Commercial-style video of glass skin transformation
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2092417476265144705)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3856](https://imglume.com/prompt/3856)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7a77cce5-ec9a-4f0a-84f1-e1c3f9bb0165/97f4ab20-46f0-4ae6-9a76-4c89bbcaa203-1787731908266 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>​A commercial-style high-definition video sequence of a young East Asian woman with glowing, glass-like skin The sequence begins with close-up shots showing minor skin imperfections and freckles, transitioning to her looking tired while working in front of a laptop She reaches for a minimal glass bottle of clear hydrating facial serum on a sunlit marble counter. Macro close-ups show the clear serum pouring onto her palm and being gently applied to her face As the serum absorbs, her complexion transforms into radiant deeply hydrated, glass skin She smiles confidently in a bright, modern white apartment as sheer white curtains billow in the breeze. Soft natural lighting, aesthetic beauty commercial cinematography, 4k resolution, 60fps, smooth cinematic cuts.</code></pre>
+
+</details>
+
+## Vertical beauty advertisement for hair serum
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2092478694078251087)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3849](https://imglume.com/prompt/3849)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/508aa6bc-5c07-4cf2-b1e1-c837992d3c03/f334cd5e-8643-499b-9a93-41b37b0a74d4-1787727845067 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic 15-second vertical beauty advertisement video of a young East Asian woman with long dark brown hair in a bright modern bathroom with wooden walls, large window with blinds, and natural sunlight streaming in. She wears a simple beige ribbed tank top and has natural glowing makeup with soft pink lips.
+Start with her holding a frosted glass spray bottle with a gold pump and white label, smiling brightly at the camera while looking slightly to the side. On-screen text appears: “My Hair Refresh ✨”. She speaks enthusiastically: “If your hair looks dry and messy in the morning, try this: just a little serum makes such a difference!”
+She pumps a small amount of white serum onto her palm, then runs her fingers through her hair, applying the product. Text changes to “Smooth &amp; Frizz-Free ✨”. She flips and smooths her hair, showing the transformation.
+Next, she runs both hands through her now shiny, smooth, silky hair while smiling and speaking: “Look how smooth and shiny my hair looks now!” Text changes to “Fresh Hair Finish ✨”.
+She continues flipping and tossing her hair playfully, looking happy and confident. Final text appears: “Try It ✨”. She holds the bottle up again, smiling at the camera, and says: “This is definitely staying in my morning routine.”
+Soft natural lighting, warm golden hour sunlight, high-quality realistic skin texture, cinematic beauty commercial style, smooth camera movements, vertical 9:16 format, 15 seconds duration.</code></pre>
+
+</details>
+
+## Cinematic Commercial for Monsters Coffee Chocolate Bar
+
+- **Original source:** [@luciaverseai on X](https://x.com/luciaverseai/status/2092215020394557894)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3837](https://imglume.com/prompt/3837)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/60ce5985-36c8-40c5-8903-80ded2e55aac/5c71665c-4286-48a9-83e4-9cccabaea958-1787712972037 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a fast-paced, cinematic commercial for Monsters Coffee Chocolate Bar featuring dramatic chocolate splashes, flying roasted coffee beans, and dynamic close-ups. Reveal the sleek black-and-gold package, then show the bar breaking apart to expose gooey caramel and a rich chocolate interior. Showcase the product on a reflective stage under warm lighting, followed by a young man enjoying a bite as coffee beans float around him. End with the chocolate bar flying through a swirling chocolate-and-coffee vortex, transitioning to the brand logo and final tagline: “UNLEASH YOUR ENERGY.”</code></pre>
+
+</details>
 
 ## 真实 iPhone 17 国行版 动态壁纸交互视频
 

@@ -1,19 +1,19 @@
 {
   "schemaVersion": "imglume.open-prompts.v1",
-  "generatedAt": "2026-08-25T16:28:43.819Z",
-  "total": 2102,
+  "generatedAt": "2026-08-26T14:04:31.613Z",
+  "total": 2172,
   "mediaTypes": {
-    "image": 1107,
-    "video": 995
+    "image": 1139,
+    "video": 1033
   },
-  "authors": 277,
-  "sourcePosts": 2007,
-  "mediaAssets": 3865,
+  "authors": 284,
+  "sourcePosts": 2072,
+  "mediaAssets": 3988,
   "categories": {
     "animation": {
-      "total": 123,
+      "total": 127,
       "image": 1,
-      "video": 122
+      "video": 126
     },
     "architecture": {
       "total": 20,
@@ -21,19 +21,19 @@
       "video": 8
     },
     "camera-moves": {
-      "total": 141,
+      "total": 144,
       "image": 0,
-      "video": 141
+      "video": 144
     },
     "character": {
-      "total": 238,
-      "image": 125,
-      "video": 113
+      "total": 247,
+      "image": 130,
+      "video": 117
     },
     "cinematic": {
-      "total": 718,
-      "image": 61,
-      "video": 657
+      "total": 746,
+      "image": 65,
+      "video": 681
     },
     "food-drink": {
       "total": 96,
@@ -41,29 +41,29 @@
       "video": 81
     },
     "illustration-3d": {
-      "total": 69,
-      "image": 69,
+      "total": 71,
+      "image": 71,
       "video": 0
     },
     "nature": {
-      "total": 39,
-      "image": 20,
-      "video": 19
+      "total": 42,
+      "image": 22,
+      "video": 20
     },
     "photography": {
-      "total": 675,
-      "image": 673,
+      "total": 686,
+      "image": 684,
       "video": 2
     },
     "poster-design": {
-      "total": 128,
-      "image": 128,
+      "total": 136,
+      "image": 136,
       "video": 0
     },
     "product-ads": {
-      "total": 112,
-      "image": 25,
-      "video": 87
+      "total": 118,
+      "image": 26,
+      "video": 92
     },
     "product-brand": {
       "total": 4,
@@ -71,14 +71,14 @@
       "video": 1
     },
     "travel": {
-      "total": 122,
-      "image": 54,
-      "video": 68
+      "total": 128,
+      "image": 55,
+      "video": 73
     },
     "ugc": {
-      "total": 118,
+      "total": 125,
       "image": 0,
-      "video": 118
+      "video": 125
     },
     "ui-graphic": {
       "total": 4,
@@ -87,31 +87,32 @@
     }
   },
   "recommendedModels": {
-    "gptimage": 1028,
+    "gptimage": 1060,
     "nanobanana": 79,
-    "seedance": 995
+    "seedance": 1033
   },
   "sourceModels": {
-    "gptimage": 178,
-    "grok": 8,
-    "kling": 6,
-    "midjourney": 16,
-    "nanobanana": 85,
-    "other": 1598,
-    "seedance": 257,
+    "gptimage": 184,
+    "grok": 9,
+    "kling": 7,
+    "midjourney": 18,
+    "nanobanana": 87,
+    "other": 1647,
+    "seedance": 271,
     "seedream": 12,
     "veo": 1
   },
   "languages": {
-    "en": 1870,
-    "English": 26,
+    "ar": 1,
+    "en": 1929,
+    "English": 27,
     "id": 1,
-    "ja": 4,
+    "ja": 5,
     "ko": 1,
     "Korean": 2,
     "tr": 2,
-    "unknown": 131,
+    "unknown": 136,
     "vi": 1,
-    "zh": 64
+    "zh": 67
   }
 }

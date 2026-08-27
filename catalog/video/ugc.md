@@ -1,9 +1,373 @@
 # UGC video prompts
 
-118 source-linked prompts, newest ImgLume records first.
+125 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxury UGC lifestyle commercial for Chanel bag
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2092563895261036761)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [3880](https://imglume.com/prompt/3880)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b2c32ca7-31ec-4e19-87a9-76c82a0bb8a4/ae00f7a8-e39e-4209-89c3-564eee8f4017-1787748662868 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic luxury UGC lifestyle commercial, premium skincare commercial quality, authentic TikTok/Instagram creator style, 16:9 aspect ratio, 30-second continuous cinematic sequence, warm luxury color grading, realistic lighting, natural human acting, stable facial identity, natural body mechanics, realistic cloth physics, luxury fashion aesthetic.</code></pre>
+
+</details>
+
+## Early-2000s Korean MiniDV style video of a woman running an errand
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2092455222350405757)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3858](https://imglume.com/prompt/3858)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b625eb9d-b53b-4c30-8463-4e94d82544b1/e95d8e26-e672-42a7-a2d0-b90bf8ea5a7a-1787731951622 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic 30-second Seedance 2.5 video that feels like genuine early-2000s Korean MiniDV footage accidentally preserved on an old consumer camcorder. 16:9 aspect ratio. Make it nostalgic, spontaneous, imperfect and believable rather than cinematic or AI-generated.
+
+MAIN SUBJECT:
+An entirely new Korean woman in her mid-20s, different from previous characters. She is naturally attractive with realistic facial features, natural skin texture, subtle makeup and shoulder-length dark hair styled simply in an early-2000s fashion. She wears believable everyday city clothing from around 2002–2005: a casual fitted top, straight-leg trousers, simple sneakers and a small shoulder bag. She looks like an ordinary young woman running an errand, not a model. She never poses or acknowledges the camera.
+
+0–6s — BUS RIDE:
+The camcorder is already inside a moderately crowded Korean city bus. She sits beside the window with several passengers naturally occupying the surrounding seats. She looks outside while holding her bag. The bus moves through the city, sunlight flickers through the windows and the camera shakes naturally with the vehicle.
+
+6–11s — BUS STOP:
+She gets up with the other passengers when the bus reaches her stop. She steps off onto the sidewalk. The camera follows slightly too late as the bus doors close behind her. Autofocus briefly shifts between the bus, passing pedestrians and her face.
+
+11–17s — CITY ERRAND:
+She walks through a busy early-2000s Korean commercial street filled with small shops, pedestrians, bicycles, old cars, signs and utility poles. She checks a small handwritten shopping note and enters a modest local store to buy an ordinary household item.
+
+17–23s — WALKING THROUGH THE CITY:
+She exits with a small paper shopping bag and continues walking. Show authentic everyday activity around her: pedestrians crossing, shopkeepers outside stores, vending machines, parked cars, buses and bicycles. The camera operator occasionally frames her imperfectly and makes a small accidental correction.
+
+23–30s — RIVERSIDE SUNSET:
+She reaches a riverside walkway near sunset. She walks toward the water, places her shopping bag beside her and quietly watches the river and distant city skyline. Wind naturally moves her hair and clothing. Warm sunlight reflects on the water. The camcorder operator slowly zooms toward her and the sunset but reacts slightly late. End abruptly as if the recording was simply stopped.
+
+CAMCORDER AESTHETIC:
+Authentic early-2000s MiniDV/consumer-camera footage: 16:9 framing, handheld shake, imperfect composition, autofocus hunting, exposure pumping, mild blown highlights, soft digital sharpness, subtle motion blur, low dynamic range, slightly faded warm colors, realistic digital noise, tiny compression artifacts, imperfect white balance, occasional lens flare and accidental micro-zooms. Do not make the footage excessively degraded.
+
+REALISM:
+Maintain the exact same face, hairstyle, clothing, proportions and identity throughout. Natural five-finger hands, realistic walking and body movement, believable facial expressions, physically accurate clothing and hair movement. Background passengers and pedestrians should behave naturally. No warped faces, duplicated people, disappearing objects, floating items, changing clothing, artificial bokeh, glossy skin, beauty-filter effects or modern cinematic grading.
+
+AUDIO:
+Raw camcorder microphone audio only: bus engine, road noise, passenger conversations, footsteps, traffic, shop ambience, distant voices, wind and riverside sounds. No music, narration or cinematic sound effects.
+
+OVERALL FEEL:
+It should feel like a genuine Korean family MiniDV recording from 2002–2005, following an ordinary young woman through a city errand—from a crowded bus and busy streets to a quiet riverside sunset. The mundane moments, imperfect camera operation and natural atmosphere should make it feel like a real rediscovered home video that happens to be visually captivating.
+
+TECHNICAL:
+30 seconds • Seedance 2.5 • 16:9 aspect ratio • photorealistic humans • consistent character identity • realistic Korean city environment • physically accurate motion • authentic early-2000s consumer-camcorder imperfections • no AI artifacts • no modern cinematic look.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic documentary-style personal home video of a young Korean man’s summer day
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2092479439133450454)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3857](https://imglume.com/prompt/3857)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/abe5ee62-7c93-49e1-b204-ae739e2835fe/286cf2fa-37e3-475d-bbc7-a87a438d7cd1-1787731949842 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic documentary-style personal home video showing an ordinary summer day in the life of a young Korean man. The footage should feel spontaneous, intimate, imperfect, and genuinely observed rather than performed.
+MAIN SUBJECT
+The same young Korean man in his early 20s throughout the entire video.
+Naturally handsome, realistic skin texture, minimal styling, relaxed expression, slightly tired but peaceful eyes.
+He has naturally messy medium-length dark hair with a few strands falling over his forehead and very subtle stubble.
+He wears a loose white T-shirt, relaxed korean lenin white trousers , worn white sneakers, and a simple silver wristwatch.
+Keep his face, identity, body proportions, hairstyle, clothing, watch, and overall appearance completely consistent from beginning to end.
+LOCATION
+A quiet older residential neighborhood in Seoul during a warm summer afternoon.
+Narrow concrete alleys, low-rise homes, rooftop terraces, external staircases, potted plants, laundry lines, parked bicycles, utility poles, overhead wires, mature trees, concrete walls, small residential courtyards, and distant city sounds.
+The neighborhood should feel authentic and lived-in.
+No crowds, tourist attractions, advertisements, recognizable brands, or commercial activity.
+CAMERA / VISUAL STYLE
+Authentic casual personal-video footage captured with an older consumer digital camera.
+Handheld camera operated by a friend walking nearby.
+Natural camera shake, imperfect framing, occasional autofocus changes, slight exposure adjustments when moving between sunlight and shade, soft image detail, mild motion blur, subtle digital noise, slightly muted colors, imperfect white balance, and natural compression.
+The camera operator occasionally reacts a little late, cuts off part of the subject, or briefly loses focus.
+No stabilization, gimbal movement, drone shots, cinematic camera choreography, dramatic lighting, slow motion, modern commercial color grading, or polished cinematography.
+The footage should feel like someone simply decided to record his friend during an ordinary day.
+---
+00:00–00:05 — MORNING ROOFTOP
+He sits casually on a small rooftop beside an old plastic chair.
+A cold bottled drink rests beside him.
+He looks quietly across the neighborhood while the wind moves his hair and T-shirt.
+He takes a sip, notices something happening in the distance, and smiles faintly.
+He briefly notices the camera and gives a subtle nod before looking away.
+The camera takes a moment to find focus on his face.
+---
+00:05–00:10 — WALKING THROUGH THE ALLEY
+He gets up and walks downstairs into the neighborhood.
+He walks casually through a narrow concrete alley with his hands in his pockets.
+He passes parked bicycles, potted plants, laundry hanging from balconies, and old residential walls.
+The camera follows several steps behind him.
+He occasionally looks back toward the camera but never deliberately poses.
+His footsteps remain naturally synchronized with his movement.
+---
+00:10–00:14 — SMALL EVERYDAY MOMENT
+He notices an old basketball resting near a wall.
+He picks it up, casually bounces it twice, then takes a simple shot toward a nearby hoop.
+The shot misses.
+He laughs quietly, shakes his head, and leaves the ball where he found it.
+The camera briefly loses focus during the movement and recovers naturally.
+No exaggerated athletic movement.
+---
+00:14–00:19 — LOCAL SHOP
+He walks to a tiny neighborhood shop and buys a cold drink.
+He exchanges a few natural words with the shopkeeper but the conversation is not clearly audible.
+He steps outside, opens the bottle, takes a drink, and leans casually against the wall.
+He watches bicycles and pedestrians passing in the distance.
+The camera remains handheld and slightly imperfect.
+---</code></pre>
+
+</details>
+
+## Ultra-realistic 30‑second home video of a young Korean woman’s ordinary evening in Seoul
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2092472241254814024)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3848](https://imglume.com/prompt/3848)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/de87b78a-2c5e-4233-92ae-6db410101e67/ae709a7c-3cb6-4851-abfc-37c660b1473e-1787727796234 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary evening in the life of a young Korean woman. No reference image.
+
+MAIN SUBJECT
+
+Young Korean woman same face as &lt;&lt;&lt;image_1&gt;&gt;&gt; in her early 20s, naturally pretty, realistic skin texture with visible pores and texture, minimal makeup, soft and slightly tired expression after a long day.
+
+Long straight black hair tied in a loose low bun, a few flyaway strands near her ears, small silver hoop earrings.
+
+Wearing an oversized beige knit cardigan over a plain black turtleneck, straight-leg dark jeans, white canvas sneakers, and carrying a small worn tote bag.
+
+Maintain the same face, hairstyle, clothing, body proportions, and appearance throughout the entire video.
+
+SETTING
+
+A quiet riverside neighborhood in Seoul on a cool early-autumn evening, right after a light rain has just stopped.
+
+Wet pavement reflecting streetlights, a small laundromat with fogged windows, a street-side flower stand closing up, a covered bus shelter, a narrow pedestrian bridge over a stream, scattered puddles, string lights above a closed market alley, a convenience store with a lit sign, and a few pigeons picking at the ground. Everything damp, quiet, and softly lit as dusk settles in.
+
+**CAMERA / VISUAL AESTHETIC**
+
+Raw personal footage casually recorded by a friend.
+
+Handheld camera with natural shake, imperfect framing, occasional partial crops, autofocus hunting on reflections and wet surfaces, exposure shifts between streetlight glow and shadow, mild motion blur, soft image detail, subtle digital noise, slightly desaturated evening colors, and natural camera imperfections.
+
+The camera operator walks with her and reacts naturally.
+
+No stabilization, no cinematic camera movements, no dramatic lighting, no slow motion, no polished commercial appearance.
+
+The footage should feel accidentally beautiful rather than deliberately cinematic.
+
+---
+
+**00:00–00:05 — LEAVING THE LAUNDROMAT**
+
+She pushes open the laundromat door, stepping out with a small basket of folded laundry against her hip.
+
+She glances up at the sky, checking if it's really stopped raining, and exhales a small relieved breath.
+
+The camera follows her out, slightly unsteady on the wet step.
+
+She glances back at the camera with a tired little smile.
+
+**00:05–00:10 — THE FLOWER STAND**
+
+She walks past a street-side flower stand that's closing up for the night.
+
+She pauses, picks up a small bundle of daisies on impulse, pays the vendor, and tucks them into her tote bag.
+
+The camera briefly focuses on the flowers before drifting back up to her face.
+
+**00:10–00:15 — THE PEDESTRIAN BRIDGE**
+
+She crosses a narrow footbridge over the stream, puddles reflecting the streetlights beneath her feet.
+
+She stops halfway, resting her forearms on the railing, looking down at the water without saying anything.
+
+The camera stays slightly shaky and imperfectly framed, as if her friend is just leaning on the railing beside her.
+
+**00:15–00:20 — CONVENIENCE STORE STOP**
+
+She ducks into a small convenience store, the automatic door chiming behind her.
+
+She grabs a warm canned coffee from the heated shelf, pays, and steps back outside, cracking it open right away.
+
+A passing scooter splashes through a puddle in the background.
+
+The camera operator accidentally clips the doorframe while following her out, then quickly reframes.
+
+**00:20–00:25 — BUS SHELTER**
+
+She sits under a covered bus shelter, sipping her coffee, laundry basket beside her feet.
+
+A few pigeons wander near the curb; she watches them idly, unbothered.
+
+Steam rises faintly from the coffee can in the cool evening air.
+
+The camera drifts slightly out of focus on the streetlight behind her, then refocuses.
+
+**00:25–00:30 — FINAL MOMENT**
+
+She notices the camera still recording and turns toward it, laundry basket now tucked under one arm.
+
+She gives a small amused, slightly embarrassed smile and says:
+
+*"Why are you still filming me?"*
+
+She laughs quietly and starts walking toward the camera, waving it off with her free hand.
+
+The camera moves backward as she approaches, and the recording abruptly cuts to black before she reaches it.
+
+---
+
+**AUDIO**
+
+Natural location sound only:
+
+Footsteps on wet pavement, distant traffic, dripping water, a scooter passing, the convenience store door chime, coins and paper bag rustling, pigeons cooing, fabric movement, a bus passing in the distance, and subtle handheld camera noise.
+
+No music. No narration. No artificial sound effects.
+
+Only the single spoken line: *"Why are you still filming me?"*
+
+**FINAL FEEL**
+
+The entire video should feel like a completely ordinary rainy evening that somehow became a quiet, beautiful memory.
+
+Soft, feminine, tired-but-content, intimate, gently nostalgic, and unplanned.
+
+No dramatic events. No exaggerated acting. No model poses. No cinematic hero shots.
+
+The realism should come from tiny imperfections, damp reflections, casual body language, natural expressions, ordinary surroundings, imperfect camera operation, and moments that feel completely unposed.</code></pre>
+
+</details>
+
+## Young Korean woman strolling in a nostalgic early-2000s home video style
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2092453324775919710)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3844](https://imglume.com/prompt/3844)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a5421a17-623e-4faf-a75e-2cf5f93bf8c9/b6583dde-d626-4040-9dd3-2a3d21d9ad7a-1787725569135 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: Young Korean woman, early 20s, wearing a loose faded lavender T-shirt, cream pajama-style pants, black sneakers and a delicate necklace. Messy black side ponytail, natural makeup, realistic skin and completely consistent appearance.
+
+Location: Older Korean residential neighborhood on a hot summer afternoon. Narrow alleys, concrete homes, tiny gardens, bicycles, utility poles and leafy trees creating patches of shade.
+
+Shot entirely like an early-2000s home video filmed by her friend. Strong handheld shake, accidental framing, autofocus hunting, blown-out highlights, faded colors, digital noise, occasional zoom mistakes and realistic motion blur.
+
+She leaves her house carrying a small paper bag and walks toward a tiny neighborhood snack stall. She buys a warm fish-shaped pastry, takes a bite immediately and smiles at the camera.
+
+She continues down the lane eating it when a friend sitting outside a small house calls her over. They chat casually and laugh while she offers her pastry to the friend for a bite.
+
+She continues walking and passes a group of children playing football in the street. The ball rolls toward her feet. She stops it, kicks it gently back to the children and waves as they cheer.
+
+She reaches a large tree, sits briefly on a low concrete wall and finishes her snack while watching the quiet street. A little breeze moves her hair, and she casually adjusts it with her hand.
+
+She gets up, gives the camcorder a small smile and walks down the lane. The camera follows shakily from behind as she gradually disappears around the corner.
+
+Audio: Summer insects, birds, footsteps, bicycle bells, distant scooters, children playing football, wind through leaves, casual conversation and natural neighborhood ambience. No music.
+
+Warm summer sunlight, spontaneous everyday moments, nostalgic early-2000s DV colors, authentic handheld imperfections, realistic food and object physics, natural expressions and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## Handheld MiniDV Summer Scene with Young Korean Woman
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2092445257577415163)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [3843](https://imglume.com/prompt/3843)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/803adedb-3fa1-438a-82d6-e7cb811309ef/8b0eb2e9-c7af-49a8-b365-889909242155-1787723511143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL = MAIN CHARACTER: Young Korean woman in her early 20s, natural makeup, realistic skin, long black hair in a messy side ponytail, oversized faded-blue T-shirt, loose white pajama pants, black sneakers and simple silver necklace. Completely consistent identity.
+
+LOCATION: Older Korean residential neighborhood during a bright summer afternoon. Narrow lanes, small grocery shop, concrete houses, potted plants, bicycles and leafy trees.
+
+CAMERA / LOOK: Early-2000s Sony MiniDV home video. Strong handheld shake, imperfect framing, autofocus hunting, faded colors, digital noise, exposure changes, motion blur and accidental zooms.
+
+SEQUENCE:
+She leaves a tiny grocery shop carrying a paper bag filled with fruit and snacks. She walks down the lane while eating a grape and casually chatting with her friend behind the camera.
+
+Suddenly, the bottom of the paper bag tears and several pieces of fruit fall onto the pavement and roll in different directions. She freezes for a moment, looks down in disbelief, then starts laughing.
+
+She quickly crouches down to collect everything while her friend moves closer with the shaky camera. A neighborhood child notices and comes over to help her pick up the fruit. She thanks the child, puts everything into a stronger reusable bag and gives them a small snack.
+
+She stands up, looks directly into the camcorder, laughs and says, “Well… that didn’t go as planned.”
+
+She continues walking home down the sunny lane while eating another grape. The camera follows behind her and slowly loses focus before the recording cuts.
+
+AUDIO: Fruit rolling on concrete, footsteps, birds, distant scooters, children talking, bicycle bells, laughter and natural neighborhood ambience. No music.
+
+Warm summer sunlight, spontaneous everyday humor, realistic object physics, nostalgic early-2000s DV aesthetic and photorealistic Seedance 2.5 quality.</code></pre>
+
+</details>
+
+## Young Korean woman first horse ride – ultra-realistic documentary video
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2092115964066472392)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3817](https://imglume.com/prompt/3817)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3a78b54f-39cc-48bc-ba3b-328ac35004d2/93f89150-2380-4a23-b8a6-d5c6bc2f3b43-1787679589160 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, early 20s, fitted riding vest over a long-sleeve shirt, jodhpurs, riding helmet, hair tucked back, focused nervous-excited expression.
+Location:
+Small countryside horse ranch, mid-morning. Wooden fences, a dirt riding ring, a saddled horse nearby, distant rolling hills. No crowds, no modern equipment.
+Visual Style:
+Ultra-realistic documentary realism, focused candid feeling, bright natural morning light.
+Camera Style:
+Early 2000s DV camcorder, handheld with slight bounce matching horse movement, autofocus hunting on the moving animal, soft grain. No stabilization.
+Timeline (15 sec, each slot = 2 compressed beats):
+00:00–00:03 → She pats the horse's neck gently, then climbs carefully into the saddle.
+00:03–00:06 → She grips the reins, then says to camera "떨린다, 진짜" ("I'm really nervous"), laughing.
+00:06–00:09 → The horse walks forward slowly; she sways slightly, adjusting her balance.
+00:09–00:12 → She relaxes a little, smiling as the horse settles into a steady rhythm.
+00:12–00:15 → She looks at camera saying "이거 생각보다 재밌다" ("This is more fun than I expected"), grinning as it fades.
+Audio:
+Horse hooves on dirt, faint neighing, wind, distant birds. Her dialogue as noted above. No music.
+Goal: A nervous, joyful first-ride moment genuine, warm, believable.</code></pre>
+
+</details>
 
 ## Seoul Summer Day - 30s Ultra-Realistic Documentary-Style Personal Home Video
 

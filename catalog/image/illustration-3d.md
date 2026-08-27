@@ -1,9 +1,46 @@
 # Illustration 3d image prompts
 
-69 source-linked prompts, newest ImgLume records first.
+71 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hyper-realistic 3D CGI collectible-figurine full-body character render of a Japanese shinobi
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2092084508418052291)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3836](https://imglume.com/prompt/3836)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f988bb71-3b3c-4a08-a07a-24a8b9453d4e/b69544b8-4862-4891-ac1d-b5da01cc4c2b-1787710898516 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f988bb71-3b3c-4a08-a07a-24a8b9453d4e/8fac607a-ac0c-4a43-9e98-9617f16b7cc3-1787710898516 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f988bb71-3b3c-4a08-a07a-24a8b9453d4e/a3d19bce-b2e2-42d8-81c1-afa714e4fee9-1787710898516 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/f988bb71-3b3c-4a08-a07a-24a8b9453d4e/9b82d6c4-115a-40f0-9c4a-bb029605f970-1787710898516 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Hyper-realistic 3D CGI collectible-figurine render, full-body character concept art. Physically-based rendering, octane render quality. Real-world materials on every surface: fabric with visible weave and drape, metal with wear, scratches and oxidation, synthetic matte skin. Pure white studio background, clean seamless backdrop, soft diffused lighting with subtle rim light. No cel shading, no toon rendering. High-end statue/collectible photography aesthetic. Ultra detailed, 8K. Single soft contact shadow under the feet.
+CHARACTER: Adult Japanese male shinobi in his early 20s, sharp chiseled jawline, pale synthetic matte skin, jet- black hair tied in an undercut messy samurai topknot with individual hair strand simulation and micro-flyaways, intense amber-crimson eyes with realistic ocular reflections, subtle tactical scar across left eyebrow.
+OUTFIT: Distressed boxy shinobi haori in heavyweight charcoal-indigo woven cotton contrasted against slim ribbed- knit tactical sleeves, weathered leather arm guards with visible scuffs and brass rivets, braided crimson silk kumihimo cords at the waist, tapered drop-crotch cargo trousers in washed ripstop nylon, black leather tabi-style boots with creased grain, and an oxidized black iron oni half-face mask with tarnished gold fangs hanging around his neck. Blackened steel chokutō sword with wrapped ray-skin hilt strapped diagonally across the back.
+POSE: Full body head-to-toe, relaxed confident fashion contrapposto pose — weight on left leg, right hand resting casually on the sword pommel, thumb flicking the brass guard. Natural five-fingered hands, correct joint articulation. Exaggerated elongated proportions, roughly 9–10 heads tall, long slender legs, small head, narrow waist. Isolated on pure white seamless studio background, soft contact shadow under feet, subtle cyan rim light along silhouette, eye-level camera, portrait 4:5. Not flat 2D, no cel-shading, no anime style, no painterly texture, no outlines, no background elements, fix and reconstruct all hands and fingers with correct anatomy, no plastic/toy game-asset look.</code></pre>
+
+</details>
+
+## Rowboat with Frog in Monet Lily Pond – 9:16 Photoreal Impressionist Scene
+
+- **Original source:** [@princess414141 on X](https://x.com/princess414141/status/2092229826128093365)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `grok`
+- **Categories:** `character`, `illustration-3d`
+- **ImgLume record:** [3818](https://imglume.com/prompt/3818)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/637861d0-1ee0-4703-9aa9-e7f9ed199856/85632242-a3c8-4933-bfc9-54b5a0f29333-1787679615635 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>9:16 still, Speed-friendly. One small wooden rowboat on a Monet lily pond, photoreal and wet impressionist oil at once: thick blues, greens, and cream-gold light, water like paint that isn’t dry. No second boat. In the boat, a cute little frog in late-1800s period clothes: tiny straw boater, striped waistcoat, a short jacket, earnest and cheerful, paddling with a miniature oar. Impasto lilies, canvas tooth in the bank, 1990s filmic grain over 1870s color. No people, no extra boats, no grim. One idea: a frog taking the painted water seriously. Beautiful and a little silly.</code></pre>
+
+</details>
 
 ## Miniature Italy Diorama
 

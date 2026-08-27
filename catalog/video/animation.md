@@ -1,9 +1,148 @@
 # Animation video prompts
 
-122 source-linked prompts, newest ImgLume records first.
+126 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Seedance 2.5 Cinematic Fight Animation – Crumbling Mountain Monastery Duel
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2092439841564995765)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3876](https://imglume.com/prompt/3876)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d37dad01-4098-4c5e-b08b-bc869d11d496/a0c13b54-6ce6-41fb-aaa3-197b40495b8e-1787744691310 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d37dad01-4098-4c5e-b08b-bc869d11d496/5c6cba86-650d-4565-93b4-aaf79b312179-1787744691310 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d37dad01-4098-4c5e-b08b-bc869d11d496/3c5225eb-9f85-42ef-a0b4-b9420f657361-1787744691310 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d37dad01-4098-4c5e-b08b-bc869d11d496/295d15f5-4b05-4963-80e8-631ff9944958-1787744691310 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 2.5D animation. NOT flat 2D cartoon, NO bold black outlines, NO cel-shading, NOT glossy CGI, NOT Unreal Engine, NO photorealism, no plastic skin.
+
+WORLD: crumbling mountain monastery courtyard at dusk, mist rolling through broken stone pillars, palette of deep indigo-grey stone and warm amber lantern light, one teal-blue accent (spirit fire) against one crimson accent (blade energy), volumetric god rays through mist, floating incense ash.
+
+CHARACTERS:
+
+- OPPONENT (Kurojin) @[Image2] : a towering bandit warlord with weathered charcoal-grey skin, a shaved head marked by a jagged red war-paint stripe across his eyes, wearing a tattered black leather battle coat with crimson trim over wrapped chest bindings, a heavy tally-marked iron pauldron, twin curved dao blades sheathed on his back, elongated stylized proportions, painterly matte skin with brush-stroke shading, molten-crimson energy licking off his blades.
+
+- HERO (Shenzo) @[Image1] : a massive muscular anthropomorphic white tiger monk, black-and-white striped fur, ice-blue eyes, black hair topknot, bare muscular torso, forearms wrapped in cloth bandages, wide-leg black hakama trousers with ankle wraps, a thick woven rope belt over a red sash, a carved wooden drinking gourd marked with kanji at his hip, bare tiger feet, elongated stylized proportions, painterly matte fur and skin with brush-stroke shading.
+
+CINEMATIC SHOT DESIGN (8 Filmic Cuts with Expressions):
+
+- SHOT 1 (0–2s | Macro Close-up): Extreme close-up on Kurojin's face, jagged red war-paint catching torchlight, a cold sneer curling one side of his mouth, ash drifting past his eyes.
+
+- SHOT 2 (2–4s | Over-the-Shoulder &amp; Reaction): OTS behind Kurojin, framing Shenzo standing motionless at the far end of the ruined courtyard, gourd resting against his hip. Cut to Shenzo's face — calm, half-lidded, unbothered.
+
+- SHOT 3 (4–6s | Wide Cinematic Clash): Wide low-angle shot. Kurojin lunges with both dao blades trailing crimson smoke; Shenzo pivots and catches the strike bare-handed in an explosion of painterly sparks and teal-blue spirit fire, lighting both faces.
+
+- SHOT 4 (6–7s | Expression Reaction Cut): Rapid macro close-up of Kurojin's eyes going wide in disbelief as his blade is stopped cold.
+
+- SHOT 5 (7–9s | Dynamic Low-Angle Tracking): Low-angle tracking shot as Shenzo ducks under a second crimson blade sweep, his loose black trousers and rope belt whipping through drifting ash with heavy momentum blur.
+
+- SHOT 6 (9–12s | The Winning Strike): Tight medium shot as Shenzo drives his glowing Spirit Claw into Kurojin's chest, claws wreathed in roaring teal-blue spirit fire, the impact shattering his iron pauldron in a burst of teal light.
+
+- SHOT 7 (12–13s | Defeat Reaction): Quick emotional close-up of Kurojin staggering back, coat smoldering, war-paint smeared, fury shifting to stunned acceptance.
+
+- SHOT 8 (13–15s | Heroic Landing): Low-angle hero shot of Shenzo standing over the fallen warlord, spirit-fire hand dimming, exhaling a slow stream of teal mist through his nostrils, gourd undisturbed at his hip, ash settling around him.
+
+Weighty natural character animation, cloth and fur reacting to momentum, filmic 24fps shutter, shallow depth of field. NOT flat 2D cartoon, no bold outlines, no cel shading, not glossy CGI, not Unreal Engine, no photorealism.</code></pre>
+
+</details>
+
+## Photorealistic golden donut with hand‑drawn cat animation
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2092465805611212978)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3862](https://imglume.com/prompt/3862)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/442da746-3c1a-4df4-9025-1bec5fa12540/09d63760-66da-4e5d-b1d7-7d4037568c71-1787732044148 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second 16:9 video on a pure white background with a locked front camera and centered framing. No camera movement, cuts, transitions, text, captions, or extra elements.
+
+Feature a photorealistic golden powdered-sugar donut with a simple black 2D hand-drawn chubby cat wearing a snorkel, mask and flippers. Keep the donut realistic and the cat/waves as minimal black line-art. Never make the cat 3D.
+
+0–2s: The donut stays still while the happy cat floats inside it, gently paddling and kicking. Small black wave lines animate around the donut.
+
+2–3s: The cat paddles faster, notices the donut, looks hungry, licks its lips and gives a mischievous smile.
+
+3–6.5s: The cat bites the donut repeatedly. Show clear progressive eating: whole donut → big bite → half donut → tiny piece. Add small crumbs and funny chewing expressions. Every missing section must disappear through a visible bite—never dissolve or vanish.
+
+6.5–7.5s: The cat eats the last piece. The donut is completely gone. It looks around, realizing it ate everything.
+
+7.5–8.5s: The cat becomes adorably sad, with lowered ears, drooping paws and a pout, staring at the empty space.
+
+8.5–10s: A fresh complete powdered-sugar donut drops from above and lands perfectly around the cat. The cat instantly becomes excited and the wave lines return.
+
+10–11.5s: The cat hugs the new donut with closed eyes and a huge happy smile.
+
+11.5–13s: It happily wiggles its paws and flippers, floating in the donut.
+
+13–14s: The cat looks at the camera and gives a cute little wink.
+
+14–15s: A tiny bubble pops from the snorkel. The cat kicks its flippers twice and smiles brightly as it floats happily inside the untouched donut.
+
+Keep the same visual continuity from beginning to end: realistic donut + black hand-drawn cat, snorkel, flippers and waves only.</code></pre>
+
+</details>
+
+## 3D Pixar-style bathroom transformation sequence
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2092193228803952975)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3829](https://imglume.com/prompt/3829)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2f29449a-084e-4a45-8d68-538caa17a6de/0f7d528d-fc07-4cf1-8382-f4d9223d91b9-1787692081661 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>3D Pixar-style animation sequence set in a luxurious, modern marble bathroom with warm ambient lighting. A young Asian female character with large expressive eyes undergoes a quick routine: 1. Wrapped in a plush white bath towel, she pulls off a matching head towel, letting her wet, dark hair drop around her shoulders. 2. Side shot as she blows dry her long black hair with a sleek pink hair dryer. Her hair flows smoothly in the breeze. 3. Close-up of fingers running through glossy silky, ultra-straight black hair with realistic sheen and movement. 4 She reaches out toward the screen smoothly transitioning from the bath towel into an elegant white silk slip dress. 5. She turns, opens the wooden bathroom door, steps out and gently closes the door behind her.</code></pre>
+
+</details>
+
+## Cinematic Edo-period Dark Fantasy Anime Battle: Ren vs. Master Orikami
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2092269036167934445)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3823](https://imglume.com/prompt/3823)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dca79e8f-e98b-44e5-af10-8ba29584d7a9/6abaae82-3cc5-4650-be4e-c3d176e1cc42-1787683606996 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a 15-second 16:9 horizontal action-packed cinematic Edo-period dark fantasy anime video from the provided first frame.
+
+Characters:
+Ren (tattered charcoal kimono, cursed black katana, aggressive ronin) and Master Orikami (white Shinto robes, blind exorcist, floating paper cranes). Maintain 100% design consistency throughout.
+
+Style &amp; Quality:
+High-budget TV anime style, sharp ink-wash line art, fluid 2D swordplay choreography, snow and leaf physics, dramatic speed lines, high-contrast cel shading.
+
+Time-Coded Action:
+
+0.0s – 3.0s: Ren dashes across the snowy shrine courtyard, executing heavy crimson-energy sword slashes. Orikami summons a dense wall of paper cranes to absorb the initial blow.
+
+3.0s – 7.0s: High-speed flurry. Orikami launches a vortex of sharp paper shurikens; Ren deflects them mid-air with lightning-fast sword spins before attempting a jumping overhead strike.
+
+7.0s – 11.0s: Ren cuts through a paper decoy. Orikami reappears behind him, using folded paper talismans to wrap around Ren's katana and arms, absorbing all momentum.
+
+11.0s – 15.0s: The paper bindings lock Ren completely in place, disarming his sword into the snow. End on a wide cinematic frame of the defeated ronin locked in paper while Orikami steps away silently amidst falling red maple leaves.
+
+Camera &amp; Technical:
+Fast camera tracking, dynamic angle cuts, close-up blade clangs, wide dramatic ending frame. 16:9 horizontal format, no text, no watermark.</code></pre>
+
+</details>
 
 ## 30s continuous take anime action scene with hunter girl vs mechanical beast
 
