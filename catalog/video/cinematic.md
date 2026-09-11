@@ -1,9 +1,1668 @@
 # Cinematic video prompts
 
-681 source-linked prompts, newest ImgLume records first.
+717 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Luxurious Bridal Shower Cinematic Video Prompt
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2098040077284745362)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3986](https://imglume.com/prompt/3986)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c2f575bf-682a-4e5f-ae85-611ed18d7e77/a393c4ae-cf32-411f-8fc0-27b29d0f369a-1789057944429 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A 15-second cinematic video showcasing luxurious bridal shower decor in photorealistic 4K quality. Ultra-smooth, stabilized camera movement glides through an upscale, elegantly decorated event space.
+0:00–0:05: Smooth, eye-level pan revealing a polished setup featuring fine porcelain tableware, gold-trimmed glassware, pastel floral arrangements, and flickering taper candles atop a sheer silk runner.
+0:05–0:10: Dynamic macro close-up tracking along personalized acrylic placement cards, delicate ribbon ties on linen napkins, and sparkling champagne bubbles rising in crystal flutes.
+0:10–0:15: Slow push-in toward an opulent floral backdrop featuring eucalyptus, white roses, and blush peonies surrounding a custom neon sign, bathed in soft, warm ambient light with creamy bokeh.
+Style &amp; Parameters: Photorealistic 3D rendering, elegant aesthetic, soft pastel color grading, warm golden hour lighting, shallow depth of field, 60fps, ultra-detailed glass and fabric textures.</code></pre>
+
+</details>
+
+## Call Me – 30‑second cinematic short
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2098021955899183300)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3979](https://imglume.com/prompt/3979)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/538fe2d4-3265-4bc0-b014-af4d319fc117/e64f8719-3004-487f-8928-38cfafc4d21b-1789051609399 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/538fe2d4-3265-4bc0-b014-af4d319fc117/372eedbf-230d-46bc-ba19-b4bdd0e17481-1789051609399 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use Image #1 as the sole visual reference for the man, dog and overall art direction. Preserve the man's extremely tall thin silhouette, pale elongated face, messy black hair, black coat and awkward melancholic body language. Preserve the small black scruffy dog with oversized white eyes. Recreate every location in the same handmade monochrome storybook style: rough black ink and charcoal lines, scratched graphite textures, gray grain, imperfect hand-drawn architecture, tiny white highlights and a very restrained dusty pink glow near practical lights. Everything should feel lonely, slightly surreal and quietly darkly comic. No photorealism, no polished 3D, no bright colors.
+
+30-second cinematic short with clear cuts and continuous character identity.
+
+0:00-0:04
+Night. The man walks his dog through a nearly empty city street.
+Rapid sequence of three connected angles:
+1. Wide side-tracking shot, their thin silhouettes moving past towering crooked apartment blocks.
+2. Very low front three-quarter angle at the dog's height, the dog leading while the man's long legs stride behind it.
+3. Over the man's shoulder as they approach a parked car beneath a weak streetlight.
+Sparse traffic, distant windows, drifting atmospheric grain.
+
+0:04-0:07
+Extreme close-up of a handwritten note tucked beneath the car's windshield wiper. The handwriting must clearly read:
+“Call Me 08881212121”
+with a small hand-drawn heart beside it.
+The camera gently widens. The man hesitates, takes the note and slips it into his coat pocket. The dog waits beside him, watching.
+
+0:07-0:10
+Medium-wide shot from the sidewalk. The car door is open. The dog jumps naturally into the car first. The man follows, folds his unusually tall body awkwardly into the driver's seat and closes the door.
+
+0:10-0:11
+Distant exterior shot. The small car travels through the dark street and stops outside the man's modest home. Keep this transition very brief.
+
+0:11-0:13
+Static kitchen composition. Warm dim household light within the same monochrome hand-drawn aesthetic. The man prepares a simple meal at the stove. The dog remains close to his feet. Quiet domestic sounds.
+
+0:13-0:15
+Camera at dining-table height. The man eats alone. The opened note lies beside his plate, still readable. He glances toward it. His fork stops suspended halfway to his mouth for a brief beat.
+
+0:15-0:17
+The note remains sharp in the foreground in exactly the same position. In soft background focus, the man washes dishes at the sink. Without turning his body, his eyes drift back toward the note on the table.
+
+0:17-0:19
+Side view of the bedroom. He places the note on the bedside table, lies down and closes his eyes. The dog curls up at the foot of the bed. Hold the lonely composition.
+
+0:19-0:21
+Match cut to the exact same framing the next morning. Cold gray daylight replaces the night lighting. His eyes open. The note is still untouched on the bedside table.
+
+0:21-0:24
+Close over-the-shoulder shot. He picks up his phone, repeatedly checks the handwritten note and carefully enters:
+08881212121
+He presses CALL. Make the dialing action visually clear and readable without adding subtitles or interface overlays beyond the necessary phone digits.
+
+0:24-0:30
+Cut to a fixed close-up of his face. Hold on the same composition for the entire ending.
+A faint trace of nervous anticipation appears in his expression.
+
+ONE audible phone ring.
+
+Click. Connection tone.
+
+All background music immediately stops.
+
+An unseen cheerful automated female voice says clearly in English:
+“Welcome to the right place to find the love of your dreams. Welcome to our matchmaking service.”
+
+The woman is never shown.
+
+As the message plays, the man's tiny hopeful expression slowly disappears into blank disappointment. Do not exaggerate the reaction. Let the comedy come from his stillness and the contrast between the cheerful automated voice and his face.
+
+Cut abruptly to black.
+
+AUDIO:
+Sparse, fragile piano through the city and home scenes, mixed with distant city hum, footsteps, dog movement, car sounds, stove sounds, dishes and quiet room tone. Keep the soundscape intimate and minimal. The piano stops completely the instant the phone connection begins. One ring only, then connection click and the automated woman's voice.
+
+No subtitles. No captions. No narrator. No visible woman. No additional dialogue. Maintain the exact same man and dog throughout. Preserve the rough, imperfect, melancholic hand-drawn visual language.</code></pre>
+
+</details>
+
+## 1-minute Japanese music video with Girl A and Girl B
+
+- **Original source:** [@MissDelulu9 on X](https://x.com/MissDelulu9/status/2098022129975591158)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3978](https://imglume.com/prompt/3978)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4d8a0464-76ec-4513-a9c2-3c4483ed8cd7/af7e20a2-969d-49f2-b071-c8c7b7980dfe-1789051577089 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 1-minute Japanese music video using Girl A and Girl B from the Kling MCP Elements. Generate a complete 1-minute Japanese song without splitting it into segments. You may also search online for any skills or approaches better suited to making music videos.</code></pre>
+
+</details>
+
+## Rapid-fire cinematic camera-angle showcase video
+
+- **Original source:** [@Framer_X on X](https://x.com/Framer_X/status/2097866953079853263)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3976](https://imglume.com/prompt/3976)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f25cf02f-fd9d-4223-97e7-2cf9a6642beb/0b3939bd-fdcb-4f39-9f20-c8e86f0b54e8-1789047603172 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"Create a rapid-fire cinematic camera-angle showcase of @ TAG IMAGE
+
+TOTAL CAMERA SHOTS: 20
+
+Keep the characters, environment, clothing, lighting, action, and overall scene completely consistent throughout the entire video. Do not change the location or introduce new elements.
+
+Use 20 clearly distinct camera setups, including:
+
+extreme wide shot, wide establishing shot, medium wide shot, medium shot, medium close-up, close-up, extreme close-up, low angle, extreme low angle, high angle, overhead shot, top-down shot, ground-level shot, eye-level shot, Dutch angle, profile shot, three-quarter angle, front-facing shot, rear angle, over-the-shoulder shot, reverse over-the-shoulder shot, side angle, foreground-framed shot, long-lens shot, wide-angle close shot, symmetrical composition, off-center composition, tracking angle, orbiting angle, and dramatic perspective angle.
+
+IMPORTANT:
+
+- Use HARD CUTS between every shot.
+
+- Never hold one camera angle for longer than 1 second.
+
+- Do not repeat any camera angle or composition.
+
+- Do not create long continuous camera movements between angles.
+
+- The action should remain continuous across all cuts.
+
+- Only the CAMERA POSITION, CAMERA ANGLE, LENS, and FRAMING should change.
+
+- The subject and scene must remain visually consistent."</code></pre>
+
+</details>
+
+## 3D reconstruction of Griffith Observatory with cinematic orbit
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2098021268981461118)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3975](https://imglume.com/prompt/3975)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d7ecdf9a-7e3b-455f-bc84-eabee884c96e/e71306cf-e02f-4d43-a8c3-e1bcaa860a8a-1789047581379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement.</code></pre>
+
+</details>
+
+## Style transfer for Griffith Observatory gray-model video
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2098021268981461118)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3974](https://imglume.com/prompt/3974)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/099aadf4-598f-4a05-9bec-5482b573f947/43d5641e-4b78-466f-b163-cc50ee56f59c-1789047581379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.</code></pre>
+
+</details>
+
+## Young Korean woman in Seoul with a crooked umbrella – 30s Seedance 2.5 video
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2098004353705787831)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3973](https://imglume.com/prompt/3973)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4d9a5176-eae1-4a9c-9c99-7b636fa01e94/83226709-019e-40c7-9dbc-8c79ce0778aa-1789047528266 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL / MAIN CHARACTER: Young Korean woman in her mid-20s, black hair in a loose braid, fitted pastel-lilac blouse, wide-leg beige trousers, white flat sandals, thin silver bracelet, small crossbody bag. Natural skin texture, realistic features, consistent identity throughout.
+LOCATION: Peaceful old Seoul residential lane on a warm evening—narrow concrete street, small houses, potted plants, parked bicycles, a convenience store on the corner, overhead wires, a few trees.
+STYLE: Photorealistic Seedance 2.5, nostalgic early-2000s MiniDV home video. Handheld shaky camera, imperfect framing, autofocus hunting, faded colors, soft digital image, exposure shifts, motion blur and compression noise. No modern cinematic look.
+ACTION (timed):
+00:00–00:02 — She steps out of her house with an empty cloth bag, locks the door.
+00:02–00:04 — She walks down the lane toward the corner convenience store.
+00:04–00:07 — She buys eggs and bread at the store, puts them in the bag.
+00:07–00:09 — She starts walking back home through the lane, umbrella still hooked over her shoulder.
+00:09–00:11 — Suddenly one rib of the umbrella bends outward and it becomes lopsided. She stops and notices it.
+00:11–00:13 — She tries pushing the bent rib back into place with her fingers, but it keeps popping back out. Friend filming zooms in awkwardly.
+00:13–00:15 — She spots a rubber band near a parked bicycle, picks it up, wraps it tightly around the bent section.
+00:15–00:17 — She opens the umbrella slightly to test it—the rib snaps loose again and the umbrella flops sideways.
+00:17–00:19 — She stares at the camera, stunned, then bursts out laughing.
+00:19–00:21 — She collapses the umbrella completely and holds it firmly under her left arm. The cloth bag with groceries stays in her right hand.
+00:21–00:23 — She continues walking home, passes a neighbor watering plants who notices the crooked umbrella and chuckles. She shrugs and grins.
+00:23–00:26 — She turns to the camera and says, "Bi-do an oneunde, deurama-네!" ("It's not even raining, and there's drama!"). She laughs.
+00:26–00:28 — She reaches her house and unlocks the door.
+00:28–00:30 — She walks inside. Friend remains outside filming the closed door.
+CONTINUITY RULE: From 00:19 onward, the umbrella stays tucked under her left arm and never touches the ground, disappears, duplicates, or reopens on its own. Groceries never disappear from the bag.
+FINAL FRAME: Closed door, empty lane, no umbrella left on the street.
+AUDIO: Natural birds, footsteps, distant traffic, bicycles, neighborhood ambience, store chime, dogs barking faintly, evening sounds. No music or narration.
+NEGATIVE: No disappearing/duplicating umbrella, no umbrella on the ground, no object teleportation, no missing groceries or bag, no identity drift, outfit changes, distorted hands, extra fingers, unnatural movement, CGI look, subtitles or watermark.</code></pre>
+
+</details>
+
+## 11-second cinematic dark-fantasy warrior queen scene
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2097879315912552864)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3962](https://imglume.com/prompt/3962)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f0a4b46e-38a1-4ed5-984a-5ad4d739791e/ded54caf-badc-42cb-ac78-046819f636a8-1789034806578 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an 11-second cinematic dark-fantasy scene featuring a beautiful blonde female warrior queen wearing intricate medieval silver-and-black metallic armor and a delicate dark crown.
+
+SCENE 1 — 0–3 seconds:
+Begin with a dramatic top-down aerial shot. The warrior is flying/falling through thick stormy clouds with her arms stretched outward like she is diving through the sky. Her long blonde hair and pieces of her clothing move naturally in the powerful wind. Far below, a vast fantasy landscape is barely visible through the mist. The camera rapidly moves downward toward her while maintaining a powerful cinematic perspective.
+
+SCENE 2 — 3–5 seconds:
+Transition smoothly into a frontal tracking shot as she moves through the clouds. Her armored shoulders and arms remain extended. Her expression is serious, fearless and emotionally intense. Soft sunlight breaks through the clouds behind her, creating a dramatic halo around her silhouette. Tiny particles and mist pass rapidly across the camera lens.
+
+SCENE 3 — 5–9 seconds:
+Cut into an extreme cinematic close-up of her face. A huge majestic black raven/eagle suddenly flies beside her face, its dark feathers contrasting against her pale skin and blonde hair. The bird moves extremely close to her, almost touching her cheek. Feathers are released into the air and float dramatically around them. She looks directly ahead with an intense, mysterious expression.
+
+SCENE 4 — 9–11 seconds:
+The bird slowly moves away while she turns her head toward it. Her expression changes subtly from determination to curiosity and emotion. Wind continues moving her hair and armor naturally. The background remains filled with bright clouds and atmospheric mist.
+
+VISUAL STYLE:
+Epic high-budget fantasy film, photorealistic CGI, dark medieval fantasy, dramatic natural lighting, realistic metallic armor, highly detailed skin and hair, volumetric clouds, atmospheric fog, floating feathers, realistic bird movement, cinematic depth of field, subtle film grain, anamorphic lens characteristics, rich shadows, dramatic contrast, sophisticated color grading.
+
+CAMERA:
+Smooth aerial tracking, fast cinematic push-in, gradual transition to extreme close-up, shallow depth of field, realistic handheld micro-movement during the close-up, carefully controlled focus pulls, cinematic composition.
+
+MOTION:
+Natural wind physics, realistic hair movement, physically accurate feathers, believable bird flight, flowing fabric, subtle facial expressions and eye movement. No exaggerated or cartoonish motion.
+
+MOOD:
+Mysterious, powerful, emotional, majestic, supernatural and epic — like a scene from a premium dark-fantasy feature film.
+
+Maintain consistent facial identity, anatomy and armor throughout the entire video. No face distortion, no extra limbs, no duplicated bird, no unnatural body movement, no text, no subtitles, no watermark.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic historical documentary video of ordinary Korean daily life (1890s–1910s)
+
+- **Original source:** [@sha_zdiii on X](https://x.com/sha_zdiii/status/2097927068973662397)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3960](https://imglume.com/prompt/3960)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bf0831d5-52c5-4294-b4a1-41e640d689cc/74d85ca8-90a3-45fe-a3e2-e551ebe0f0e4-1789030692737 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 16:9, 1080p ultra-photorealistic historical documentary video depicting ordinary Korean daily life during the late Joseon / early Korean Empire period, approximately 1890s–1910s.
+
+CRITICAL REFERENCE RULE:
+The supplied storyboard contains exactly six scenes.
+Use Panel 1 only for 0–5 seconds.
+Use Panel 2 only for 5–10 seconds.
+Use Panel 3 only for 10–15 seconds.
+Use Panel 4 only for 15–20 seconds.
+Use Panel 5 only for 20–25 seconds.
+Use Panel 6 only for 25–30 seconds.
+
+Do NOT display the storyboard grid, borders, panel captions, or any text in the generated video.
+
+Preserve the exact visual identity of every storyboard panel:
+same historical Korean environment,
+same type of hanok architecture,
+same roads,
+same market layout,
+same period clothing,
+same carts,
+same animals,
+same tools,
+same stalls,
+same props,
+same crowd density,
+same lighting direction,
+same muted historical color palette,
+same realistic documentary atmosphere.
+
+The video must look like genuine restored historical footage, NOT AI-generated imagery, NOT CGI, NOT modern actors in costumes, and NOT a cinematic K-drama.
+
+SCENE 1 — 0–5 SEC — MORNING VILLAGE ROAD
+
+Recreate Storyboard Panel 1 exactly.
+
+Start at street level on the same narrow dirt village road surrounded by traditional Korean hanok and thatched houses.
+
+The road is already active from the first frame.
+
+The farmer naturally walks forward beside the ox pulling the wooden cart.
+
+The woman carrying the basket of fresh vegetables walks naturally past the camera.
+
+Another woman carries her traditional container while other villagers move quietly through the street.
+
+Children move naturally farther down the road.
+
+Thin cooking smoke slowly rises from the rooftops.
+
+People must not pose or stare into the camera.
+
+Camera:
+natural eye-level historical documentary shot,
+very gentle handheld vibration,
+slow forward observational movement,
+no dramatic camera motion.
+
+Transition naturally to the next scene.
+
+SCENE 2 — 5–10 SEC — BUSY TRADITIONAL MARKET
+
+Match Storyboard Panel 2 exactly.
+
+Show the same crowded traditional Korean marketplace with cloth awnings, baskets, vegetables, dried fish, rice, pottery, fabrics, wooden containers, and period goods.
+
+The market must feel continuously alive.
+
+Women naturally inspect vegetables and communicate with sellers.
+
+The grain merchant measures rice using the traditional wooden measuring container.
+
+Customers walk between stalls.
+
+Men carrying bundles pass naturally through the background.
+
+Vendors move their hands, rearrange produce, serve customers and continue ordinary business.
+
+Nobody performs for the camera.
+
+Camera slowly pans through the market at human eye level.
+
+Keep movements realistic and unscripted.
+
+SCENE 3 — 10–15 SEC — WORKERS AND FOOD PREPARATION
+
+Match Storyboard Panel 3 exactly.
+
+Begin with the blacksmith actively working at the forge.
+
+He naturally raises the hammer and strikes heated metal on the anvil.
+
+Small believable sparks appear only when the metal is struck.
+
+Nearby the carpenter continues shaping wood.
+
+Another worker repairs the large wooden cart wheel.
+
+In the foreground, women wash and prepare vegetables.
+
+Steam slowly rises from the cooking pots.
+
+Traditional onggi jars, baskets, wooden tools and workshop objects remain exactly where expected from the reference.
+
+Every person works independently and naturally.
+
+No one looks toward the camera.
+
+Camera makes a very slow observational pan across the working area.
+
+SCENE 4 — 15–20 SEC — COURTYARD FAMILY LIFE
+
+Match Storyboard Panel 4 exactly.
+
+Show the same peaceful Korean hanok courtyard.
+
+The woman naturally hangs washed white cloth.
+
+The older woman continues preparing vegetables.
+
+The children sit on the ground playing with simple handmade traditional toys.
+
+The seated man calmly reads or writes using a traditional brush.
+
+The chicken naturally walks across the courtyard.
+
+Large traditional brown onggi jars remain beside the house.
+
+Tree branches gently move with the breeze.
+
+Keep the whole scene calm and ordinary.
+
+Camera remains mostly stationary with subtle handheld historical-camera imperfections.
+
+SCENE 5 — 20–25 SEC — RURAL ROADSIDE RETURN
+
+Match Storyboard Panel 5 exactly.
+
+Show Korean farm workers naturally returning from their work.
+
+The man carrying firewood walks toward and slightly past the camera.
+
+Other workers carry period farming tools.
+
+Women walk together carrying baskets.
+
+The ox steadily pulls the wooden cart along the dirt road.
+
+At the small roadside food stall, the vendor naturally serves a customer.
+
+Traditional rooftops, fields and mountains remain visible in the background.
+
+Late-afternoon light should feel natural and slightly warm.
+
+Camera gently follows the movement of the people for a few seconds.
+
+No dramatic tracking shot.
+
+SCENE 6 — 25–30 SEC — EVENING MARKET STREET
+
+Match Storyboard Panel 6 exactly.
+
+Recreate the same busy traditional Korean market street during early evening.
+
+Traditional lanterns are already glowing warmly outside the wooden shops.
+
+Families and villagers naturally walk home through the market.
+
+Children stay close to their parents.
+
+Vendors continue serving the last customers.
+
+A horse and wooden cart slowly move through the street.
+
+People carrying baskets pass naturally through the frame.
+
+Steam and light cooking smoke drift upward from food stalls.
+
+Warm lantern light mixes naturally with the cool evening atmosphere.
+
+The activity must continue until the final frame.
+
+Do NOT create a dramatic ending.
+Do NOT make people stop and look at the camera.
+End as though the historical camera simply stopped recording while ordinary life continued.
+
+CAMERA AND ARCHIVAL REALISM:
+
+Professional early documentary/newsreel camera feeling.
+
+Mostly eye-level or slightly elevated roadside positions.
+
+Natural handheld movement.
+
+Gentle reframing.
+
+Very slow pans.
+
+Subtle camera vibration.
+
+Minor focus breathing.
+
+Occasional slight exposure variation.
+
+Period-appropriate motion blur.
+
+Slight imperfect framing.
+
+No drone shots.
+No modern gimbal movement.
+No cinematic orbit.
+No crane shot.
+No dramatic slow motion.
+No speed ramp.
+No artificial zoom effects.
+
+VISUAL QUALITY:
+
+Ultra-photorealistic Korean human faces.
+Natural skin texture.
+Historically believable body proportions.
+Natural walking and working movements.
+Realistic fabric physics.
+Realistic animal movement.
+Realistic smoke and steam.
+Authentic wood, stone, earth and fabric textures.
+
+Apply a subtle restored archival look:
+fine film grain,
+slightly muted colors,
+soft contrast,
+very mild film flicker,
+subtle historical lens softness,
+minor film texture.
+
+Keep image quality detailed enough to feel like rare historical footage professionally restored into HD.
+
+HISTORICAL LOCK:
+
+Late Joseon / early Korean Empire Korea only.
+
+No modern Korean clothing.
+No modern hairstyles.
+No modern makeup.
+No plastic.
+No smartphones.
+No electric appliances.
+No modern cars.
+No modern road markings.
+No modern street furniture.
+No neon.
+No LED lights.
+No modern signs.
+No modern buildings.
+No contemporary products.
+No modern advertising.
+No fantasy elements.
+
+Do not introduce Japanese, Chinese or modern Korean architectural elements that are inconsistent with the supplied storyboard.
+
+AUDIO:
+
+Natural environmental ambience only.
+
+Morning:
+birds, distant footsteps, wooden cart wheels, ox movement.
+
+Market:
+soft crowd chatter, footsteps, vendors, baskets and carts.
+
+Workshop:
+metal hammer impacts, wood working, boiling water and fire.
+
+Courtyard:
+soft family ambience, birds and chickens.
+
+Rural road:
+footsteps, ox cart wheels, quiet countryside ambience.
+
+Evening market:
+soft conversation, horse footsteps, carts, cooking and distant market sounds.
+
+Do not use modern music.
+Do not use cinematic trailer music.
+No narration.
+No subtitles.
+No logos.
+No captions.
+
+FINAL GOAL:
+
+The finished 30-second video should feel like a genuine surviving documentary recording of ordinary Korean life from around 1890–1910, with every 5-second sequence visually matching its corresponding panel from the provided storyboard.</code></pre>
+
+</details>
+
+## Hyper-realistic continuous take water-park obstacle challenge
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2097897638666609037)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3959](https://imglume.com/prompt/3959)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5ea7f17-2aa8-4c77-9ab9-479678a0019e/74ed6a80-e69d-42a9-b918-a01ffb7bbc50-1789030634664 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30 seconds | 16:9 | photorealistic live-action | ONE CONTINUOUS TAKE | 2 FACE REFERENCES
+
+FICTIONAL RECREATION — Hyper-realistic unscripted water-park obstacle challenge filmed as if captured by a real production camera. Two provided face references are used strictly for identity consistency. Preserve facial identity, facial proportions, hairstyle, skin texture, age, and recognizable features throughout the entire shot. No face swapping, no identity drift.
+
+CORE CONCEPT
+A seemingly normal water-park obstacle challenge progressively turns into a spectacular chain reaction of physical mistakes. The entire sequence happens in ONE UNBROKEN TAKE with no cuts, no transitions, no time jumps, and no impossible camera teleportation. The humor comes entirely from believable physics, bad timing, momentum, slipping, water impact, and genuine human reactions.
+
+CHARACTERS
+SUBJECT A — Adult contestant based on FACE REFERENCE 1. Athletic casual appearance, realistic swimwear, wet hair and skin, natural body proportions.
+
+SUBJECT B — Adult contestant based on FACE REFERENCE 2. Standing nearby and reacting naturally throughout the sequence.
+
+Both identities remain locked. Clothing, body proportions, hairstyle, wetness, accessories, and facial characteristics remain continuous from beginning to end.
+
+SETTING
+Large modern outdoor water park on a bright summer afternoon. Giant inflatable obstacle course floating in a large pool, climbing platforms, floating balance beams, slippery ramps, overhead water jets, inflatable barriers, spectators behind safety rails, lifeguards, wet concrete, colorful umbrellas, realistic resort architecture. Hundreds of subtle background actions create authentic environmental life without distracting from the main action.
+
+CAMERA / ONE-TAKE CHOREOGRAPHY
+00:00–05:00 — Camera begins approximately three meters behind Subject A at pool level, handheld but professionally operated. Subject A runs toward the first floating obstacle while Subject B watches from the side. Camera follows naturally, matching walking and running speed. Small realistic handheld movements, natural autofocus, water droplets occasionally crossing the lens.
+
+05:00–10:00 — Subject A jumps onto a wet inflatable platform. Their landing is slightly unstable. One foot slides forward unexpectedly. They recover for a moment, laugh nervously, then continue. Camera moves closer while maintaining continuous spatial relationship and realistic human-scale perspective.
+
+10:00–15:00 — Subject A attempts to cross a narrow floating balance beam. Their foot slips. They grab a flexible overhead rope, swinging sideways with real momentum. The rope stretches and pulls their body back toward the obstacle. Subject B reacts from the adjacent platform, stepping backward to avoid the swinging contestant.
+
+15:00–20:00 — Subject A regains balance but accidentally kicks a large inflatable obstacle. It shifts dramatically. A nearby water jet activates directly into the obstacle, creating a sudden burst of spray. Camera operator instinctively steps backward while continuing to film, briefly losing perfect framing before quickly reacquiring Subject A.
+
+20:00–25:00 — Subject A tries to escape across a slippery ramp but loses traction completely. Their body slides uncontrollably downhill. Subject B reaches toward them but misses. Subject A collides softly with a large inflatable barrier, rebounds, spins naturally, and falls backward into the pool.
+
+25:00–30:00 — Huge realistic splash completely covers the camera lens for a moment. Camera operator wipes the lens while remaining in the same physical location. Through droplets and distorted reflections, Subject A resurfaces laughing and trying to regain composure. Subject B is laughing in the background. Camera settles into a final medium-wide composition showing both contestants, the obstacle course, lifeguards, and surrounding spectators.
+
+PHYSICAL REALISM
+Every movement follows believable human biomechanics and real-world water physics. Correct body weight, inertia, friction, momentum, buoyancy, splash displacement, wet-surface slipperiness, inflatable deformation, rope tension, water spray and gravity. No floating bodies, rubbery limbs, impossible recoveries, teleportation, or exaggerated cartoon physics.
+
+CAMERA REALISM
+Authentic handheld operator behavior. Natural micro-jitter, slight bobbing while walking, imperfect framing during sudden action, realistic autofocus hunting, exposure adaptation between bright sunlight and shaded obstacles, lens water droplets, temporary obstruction, realistic motion blur. The camera physically moves through the environment rather than cutting between viewpoints.
+
+LIGHTING
+Strong natural afternoon sunlight, realistic reflections on wet skin and inflatable surfaces, physically accurate water highlights, soft shadows, subtle atmospheric haze. Sunlight remains consistent throughout the continuous take.
+
+AUDIO
+Pure location sound. Running footsteps, splashing water, inflatable material flexing, distant conversations, excited spectators, water jets, lifeguard whistles, Subject A laughing and reacting naturally, Subject B shouting a spontaneous reaction, heavy splash impact, water dripping directly onto the camera microphone. No music. No cinematic sound effects.
+
+VISUAL CHARACTER
+Extremely photorealistic live-action footage. Premium high-end sports-documentary realism combined with authentic spontaneous UGC imperfections. Natural skin pores, wet hair strands, realistic fabric saturation, detailed water droplets, physically accurate reflections, realistic crowd behavior, subtle lens imperfections, natural exposure, realistic depth of field. Absolutely no CGI appearance, no plastic skin, no artificial cinematic overgrading.
+
+CONTINUITY LOCK
+ONE SINGLE CONTINUOUS TAKE from 00:00 to 30:00. No cuts. No hidden cuts. No camera teleportation. Subject A and Subject B remain identical to their respective face references throughout. Preserve wardrobe, hairstyle, accessories, body proportions, wetness progression, environment, obstacle positions, sunlight direction and physical geography. Every action must logically cause the next action.
+
+FINAL QUALITY TARGET
+The footage must be indistinguishable from an expensive real-world water-park challenge filmed by a skilled human camera operator. The spectacle comes from authentic physical interaction and unpredictable human behavior—not CGI, fantasy, exaggerated destruction, or artificial visual effects.</code></pre>
+
+</details>
+
+## 30-second cinematic comedy video – spy mission for dessert
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2097885212365721820)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3954](https://imglume.com/prompt/3954)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/643655d2-07ae-45de-9068-57c2f2334699/319c4f84-e510-420d-a553-4e0ae45608e3-1789026584225 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a polished 30-second cinematic comedy video with the pacing and visual quality of a premium commercial mixed with a high-budget spy movie.
+
+MAIN CHARACTER:
+One adult woman throughout the entire video. Keep her facial identity, hairstyle, skin tone, body proportions, and overall appearance consistent in every shot. Natural realistic acting and expressions.
+
+VISUAL STYLE:
+Ultra-realistic live-action, cinematic commercial, high-end spy-thriller aesthetic, realistic lighting, natural human movement, professional camera work, realistic environments, subtle comedy, dramatic pacing, realistic physics, premium production quality.
+
+00:00–00:04 — THE MISSION
+
+Late at night, the woman suddenly remembers that her favorite dessert is inside the refrigerator.
+
+She slowly sits up in bed with a serious expression.
+
+Treat this moment like the beginning of an extremely important spy mission.
+
+Cut to a dramatic close-up of her eyes.
+
+00:04–00:08 — STEALTH MODE
+
+She quietly walks through a dark hallway toward the kitchen.
+
+Use dramatic low-angle shots, subtle shadows, slow camera movement, and cinematic suspense.
+
+She moves carefully as if she is infiltrating a highly secure location.
+
+00:08–00:12 — THE FRIDGE
+
+She reaches the refrigerator.
+
+She looks around suspiciously.
+
+She slowly opens the refrigerator door.
+
+Bright refrigerator light illuminates her face dramatically.
+
+She looks inside.
+
+Her expression suddenly changes from confidence to complete shock.
+
+The dessert is missing.
+
+00:12–00:17 — THE INVESTIGATION
+
+She immediately switches into detective mode.
+
+Show quick cinematic shots of her searching the kitchen:
+
+- Looking under the kitchen table
+- Checking drawers
+- Examining the countertop
+- Looking at suspicious footprints
+- Inspecting an empty dessert container
+
+Make everything visually dramatic and completely serious, even though the situation is ridiculous.
+
+00:17–00:22 — THE DISCOVERY
+
+She notices a tiny clue leading toward another part of the kitchen.
+
+She follows it carefully.
+
+The camera tracks behind her like a spy thriller.
+
+She suddenly discovers the dessert box.
+
+She looks relieved.
+
+Dramatic music builds.
+
+She slowly opens the box.
+
+00:22–00:26 — THE TWIST
+
+The box is completely empty.
+
+Only a single spoon remains inside.
+
+She freezes.
+
+Hold on her shocked expression for comedic timing.
+
+Then slowly reveal another adult person sitting casually in the background, eating the last bite of the dessert.
+
+The person looks completely innocent.
+
+00:26–00:30 — FINAL SHOT
+
+The woman slowly turns toward the camera with an exhausted, speechless expression.
+
+Cut to the person casually taking another bite.
+
+End with a clean cinematic freeze-like moment.
+
+Display:
+
+“Case closed. 🍰”
+
+Then subtly display:
+
+“Made With SuperCool”
+
+Keep the branding elegant and minimal.
+
+IMPORTANT:
+
+- Keep the same woman throughout.
+- No face morphing or identity changes.
+- No duplicate main characters.
+- Realistic human movement.
+- Realistic kitchen environment.
+- No cartoon or CGI appearance.
+- No exaggerated facial distortion.
+- No random text or logos.
+- No watermark.
+- Keep the comedy subtle and natural.
+- The first 20 seconds should feel genuinely like a serious spy movie.
+- The humor should come mainly from the contrast between the extremely serious cinematic treatment and the ridiculous dessert investigation.
+- Make the final reveal unexpected but easy to understand.
+- Premium cinematic quality suitable for a professional social media advertisement.
+- Vertical 9:16 composition.</code></pre>
+
+</details>
+
+## Ultra-realistic 30-second home video of a Korean woman in Seoul
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2097893690220085662)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `ugc`
+- **ImgLume record:** [3953](https://imglume.com/prompt/3953)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/abdc28e6-e5a2-4025-b17d-5946e186e449/c25a8ce0-2a60-412a-8f3c-bf5d00c7ffc9-1789026568667 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman in her early 20s, long black messy side ponytail, pastel-blue fitted top, loose cream pajama pants, black sneakers, silver necklace, carrying a canvas tote bag; maintain identical appearance throughout.
+Set it in a quiet older Seoul residential neighborhood on a warm summer afternoon: narrow concrete lanes, small houses, old walls, potted plants, bicycles, utility poles, overhead wires, laundry and a simple outdoor barbecue.
+Use a raw early-2000s consumer DV camcorder aesthetic: strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, motion blur, faded colors, soft digital detail, mild noise and accidental zooms; no polished cinematography.
+She leaves her house with the tote bag, locks the door, adjusts her ponytail and walks casually down the lane as a light breeze moves her hair.
+She spots her young Korean friend outside a small house, wearing a grey crop top, loose pajama-style pants and house slippers, preparing food on a simple charcoal barbecue.
+She smiles, walks over and asks, “Need some help?” and her friend happily hands her the cooking tongs.
+They chat and laugh while she carefully helps turn the food, but she accidentally touches the hot edge of the barbecue and immediately pulls her hand back, saying, “Ah! Hot!”
+Her friend becomes concerned and points toward a nearby outdoor water tap, so she quickly walks over while holding her injured hand.
+She turns on the tap and places her hand under the cool running water; close-up of water flowing naturally over her fingers while she takes a relieved breath.
+After drying her hand, she notices a small neighborhood ice-cream cart, walks over and chooses a simple ice cream from the seller.
+She takes coins from her canvas tote bag, counts them naturally and gives them to the seller, then walks away eating the ice cream with a small amused smile.
+She walks back toward home through the same residential lane, looks at her hand and then at the ice cream, quietly says “Maybe this can help,” and disappears through her gate.
+AUDIO: only natural diegetic sound—footsteps, birds, insects, scooters, bicycle bells, neighborhood voices, barbecue sizzling, charcoal crackling, dialogue, running water, ice-cream cart sounds, coins and camera-handling noise; no music or narration. Negative: no subtitles, captions, logos, watermarks, identity/outfit changes, duplicate people, distorted hands, gore, blood, excessive injury, CGI look, teleportation, object duplication or polished cinematic movement.</code></pre>
+
+</details>
+
+## Cinematic Western Zombie Train Chase
+
+- **Original source:** [@Zoyavelle on X](https://x.com/Zoyavelle/status/2097918495996710958)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3952](https://imglume.com/prompt/3952)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d750ef99-33f0-41db-9553-e5d4aed70507/9b8fba80-6837-462e-bc15-3ead3eb3b452-1789026520970 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic western action scene set in a vast dusty desert canyon, a vintage black steam locomotive racing through the rugged American frontier while a massive horde of savage zombie-like creatures relentlessly chases and attacks the moving train. Low-angle tracking shots of dusty boots running across the desert, extreme close-ups of the locomotive's wheels, metal rods and pistons moving rapidly, steam bursting from underneath, dramatic front-facing shots of the powerful steam train charging directly toward the camera as creatures swarm around it.
+
+Cut to dynamic aerial and side tracking shots showing the entire vintage steam locomotive speeding through a barren desert landscape surrounded by red-rock mesas, cliffs and endless dry terrain. Inside the wooden train carriage, a young woman with long brown hair, wearing a dark rugged western outfit, looks through a train window while terrified creatures run alongside and climb toward the train.
+
+The woman raises a small futuristic-looking pink glowing weapon and aims it through the open side of the moving train toward an approaching pale, terrifying zombie woman. Fast-paced action, intense chase sequence, realistic dust and debris, natural sunlight, volumetric atmosphere, cinematic motion blur, realistic steam and smoke, detailed weathered metal and wooden train textures, dramatic western color grading, photorealistic characters, realistic physics, shallow depth of field, anamorphic cinematic lens, handheld and tracking camera movements, high-detail Hollywood movie cinematography, epic scale, 4K, ultra realistic, dramatic lighting, 16:9.</code></pre>
+
+</details>
+
+## Cinematic Luxury Perfume Commercial
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2097791048147677313)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3950](https://imglume.com/prompt/3950)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8aa362ff-211f-4d7e-9eb2-d3d3bde86503/fc8a0440-dd63-4e6e-8b2d-ecc59a31648c-1789026487207 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic luxury perfume commercial featuring an elegant woman in a minimalist studio wearing a sophisticated black outfit, presenting a sleek black perfume bottle to the camera; close-up macro shots highlight the bottle and spray nozzle, followed by a beautiful side-lit moment as she sprays the fragrance onto her wrist, then gently smells it and smiles with confidence, using soft natural lighting, shallow depth of field, smooth camera movements, premium beauty-advertising aesthetics, realistic skin texture, subtle slow motion, and high-end commercial cinematography.</code></pre>
+
+</details>
+
+## Woman riding white ice dragon over snowy mountains – cinematic video
+
+- **Original source:** [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2097855229295505816)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3949](https://imglume.com/prompt/3949)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb3aca38-08db-418f-b4f3-c43e20058d5a/6b748528-78d1-4e57-8bf1-a56aa7477993-1789026477881 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Keep the same face, hair, outfit and appearance throughout. The woman stands beside the giant white ice dragon, then rides on its back as it flies over snowy mountains and a frozen river. They reach an ancient stone shelter where she explores while the dragon protects her. Cinematic camera movement, epic wide shots, realistic motion, glowing blue eyes, snowfall, blue atmosphere with warm firelight, photorealistic fantasy movie quality, 16:9, no background music.</code></pre>
+
+</details>
+
+## Late-night gym psychological horror found-footage video
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2097898800929284317)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3948](https://imglume.com/prompt/3948)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9faaa1ac-a552-41f5-8d86-e0ddad5bc5bf/f7fb608c-9264-49af-ba36-8337b3a4cf3d-1789026446191 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Person from Image facial features and hairstyle must remain an exact match. Ignore the reference outfit, background, pose, and text. She wears a fitted black gym tank top and dark workout leggings, appearing naturally sweaty after an intense workout. 9 16 vertical format.
+
+Create a 30-second late-night gym psychological horror / found-footage sequence. Ultra-realistic old iPhone 1x standard lens, raw low-quality smartphone footage, heavy compression, persistent digital noise, harsh cool-green fluorescent lighting, natural exposure, and no cinematic color grading. The gym is almost entirely empty late at night. Include realistic ambient sounds: distant machine hum, footsteps, breathing, subtle room echo, and equipment noises.
+
+0–6s — Weight training:
+She is alone in the nearly deserted gym completing a difficult weight-training session. She performs controlled dumbbell curls followed by a heavy shoulder press, visibly struggling with the weight and breathing heavily. Sweat naturally forms across her face, neck, and arms. After finishing the set, she places the weights down, catches her breath, picks up her phone, and walks toward the bathroom.
+
+6–10s — Bathroom:
+She enters the empty gym bathroom and places her phone beside the sink. Looking exhausted, she takes a drink of water and splashes cold water onto her face. She wipes away the water and sweat before staring into the mirror for a moment.
+
+10–14s — The reflection:
+As she watches her reflection, a faint, dark human-like silhouette suddenly becomes visible in the mirror behind her. She doesn't notice it at first. She looks downward and takes a slow breath before gradually raising her eyes back toward the mirror.
+
+14–18s — Realization:
+The shadowy figure now appears much closer behind her. She finally notices it and completely freezes. Her breathing becomes rapid and frightened. She cautiously turns around, but the bathroom is completely empty. She turns back toward the mirror—and the figure is still there, now even closer.
+
+18–22s — Running:
+She lets out a frightened gasp, grabs her phone, and immediately rushes out of the bathroom. Her footsteps echo through the deserted gym hallway as she runs, repeatedly glancing over her shoulder.
+
+22–26s — Gym floor:
+She bursts back into the main gym, visibly shaken and panicked. She quickly scans the empty room and notices her gym bag where she left it. She runs over, grabs it, and hurriedly throws the strap over her shoulder.
+
+26–30s — Escape:
+She sprints toward the gym entrance without stopping. She pushes through the doors and escapes into the night. Just before disappearing outside, she briefly turns and looks back toward the dark gym interior. Nothing can be seen. She immediately turns away and runs. Freeze mid-run as the footage cuts off.
+
+Maintain realistic skin pores, natural sweat, flushed skin, slightly damp hair, authentic body mechanics, and convincing fear. The creature must remain subtle, dark, and unsettling—not an obvious CGI monster. Preserve visual continuity throughout the entire sequence and maintain the raw old-iPhone aesthetic.
+
+Audio: Heavy breathing, weights hitting the floor, gym equipment, footsteps, water splashing, bathroom echo, phone handling sounds, door movement, distant nighttime ambience. No music.
+
+Negative: No BGM, no dialogue, no text, no readable signage, no beauty filter, no cinematic color grading, no fisheye lens, no image distortion, no vignette, no jump cuts, no skipped scenes, no time compression, no exaggerated CGI creature, no gore.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic American ranch lifestyle vlog
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2097917075176178101)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3946](https://imglume.com/prompt/3946)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/229fc197-00ca-4e43-9b7a-d9755d4ccf53/4ba4fc2d-6d29-4f23-bb94-9d305b5ac3ea-1789026404662 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-photorealistic American ranch lifestyle vlog following the same young ranch woman through one authentic working day, from sunrise to sunset. Begin with her opening the barn and feeding horses, then repairing a wooden fence before saddling a horse and riding across open Western fields.
+
+Show a genuine working ranch with weathered barns, horse paddocks, hay, dirt paths, wooden fences, pickup trucks, green fields and distant hills. Keep the character, horse, clothing and ranch environment perfectly consistent.
+
+Capture realistic horse behavior, riding biomechanics, hoof impacts, dust, grass movement, leather tack, feed, wood, hammer strikes and natural sunlight. Use handheld 2026 documentary-vlog cinematography with close-ups, wide ranch views, realistic autofocus, subtle camera shake and a smooth golden-hour ride.
+
+Natural diegetic audio only: horses, birds, wind, barn sounds, hoofbeats, tools, leather and insects. Short synchronized American English dialogue. No music, narration, subtitles, CGI, artificial movement, impossible physics, logos or watermark.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic cinematic American county-fair vlog
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2097901351049294063)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3941](https://imglume.com/prompt/3941)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/308c18fd-b37d-4ac9-bd83-416263bfa6f0/91fe5033-e251-48b1-9a2e-792043d8e785-1789022223732 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-photorealistic cinematic American county-fair vlog following a young American woman through a warm summer evening. Start with her entering a small rural fair as golden light fades, then riding the Ferris wheel, sharing a fresh funnel cake, trying a ring-toss game, wandering through families and local vendors, listening to a live country band, and watching fireworks light up the night.
+
+Make the fair feel genuinely local and lived-in, with dusty paths, pickup trucks, food stalls, wooden booths, string lights, children, families, farmland and glowing carnival rides. Maintain identical character appearance and clothing throughout.
+
+Use realistic handheld 2026 vlog cinematography, natural expressions, subtle camera movement, authentic evening lighting, realistic crowd behavior and physically accurate motion. Capture detailed food, snow-like powdered sugar, ride mechanics, thrown rings, fireworks, drifting smoke, wind and reflections.
+
+Use only natural fairground audio and live music with short, synchronized American English dialogue. No narration, subtitles, CGI, animation, fake crowds, impossible physics, floating camera, logos or watermark.</code></pre>
+
+</details>
+
+## Vertical 9:16 Cinematic Video of Stylish Individual in London
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2097723034887225395)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3939](https://imglume.com/prompt/3939)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1392e064-fa51-435c-9dbb-8c3d215cfb3c/db7a3a58-a30f-4ee0-9515-cc2d2bfa9c14-1789022201021 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Vertical 9:16 cinematic video, hyper-realistic, photorealistic, ARRI Alexa LF, Master Prime lenses, 1080p HD.
+Dusk close-up of a stylish individual, showing realistic skin pores, peach fuzz, fabric texture, and orange neon reflected in the eye.
+Fast cut to a busy London street at twilight, with dynamic tracking, wet pavement, realistic traffic, and cinematic reflections.
+The subject walks briskly past a traditional red phone booth glowing with warm orange ambient light.
+Macro close-up of hands adjusting a vintage analog watch with an orange dial, rugged nylon strap, and brushed metal details.
+Rapid transition to a figure running up a dark industrial staircase with dramatic warm orange and deep blue lighting.
+Capture realistic muscle movement, flowing motion, natural shadows, cinematic grain, and authentic depth of field.
+Final stable close-up of the subject staring confidently into the camera, with soft orange light illuminating half the face.
+Kodak Portra 400-inspired film look, ARRI color science, natural camera noise, high contrast, and immersive textures.
+Professional cinematography, realistic motion blur, shallow depth of field, warm orange and moody blue cinematic color grading.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic educational video of a physics professor demonstrating an inclined plane experiment
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2097560302086988266)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3936](https://imglume.com/prompt/3936)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3372fe18-08ad-4dde-82d4-90c9d04a0c65/5508bef2-8fbc-4cd0-a3c0-eece02046ad4-1789020311039 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic cinematic educational video set inside a modern university physics laboratory and lecture classroom, featuring a confident male physics professor entering the room with a coffee cup and teaching materials while students prepare for class. Show the professor explaining physics concepts on a large digital board, with mathematical formulas and a clear inclined-plane diagram visible behind him as students watch attentively. Transition to a detailed close-up of a small metal ball positioned on a transparent inclined track, emphasizing the experiment and the principles of motion and gravity. Show the professor and students gathering closely around the apparatus as he demonstrates how the ball moves along the track, using natural hand gestures and realistic physical interactions. Capture students reacting with curiosity and discussing the experiment while the professor carefully guides them through the observation. Include cinematic close-ups of the rolling ball, the transparent track, the professor’s hands, and the students’ focused expressions. Maintain realistic gravity, friction, momentum, object weight, contact, and natural movement throughout the experiment, with no physically impossible motion. Use smooth camera movements, shallow depth of field, realistic classroom lighting, detailed facial expressions, and authentic university laboratory surroundings. End with the professor standing beside the completed experiment as the students observe the result, creating a professional, inspiring, photorealistic educational-science atmosphere.</code></pre>
+
+</details>
+
+## Ultra-photorealistic archival video of everyday Berlin street life in 1989
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2097563915354063328)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3935](https://imglume.com/prompt/3935)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/96380d7a-7657-40dc-877e-31d03469a545/5cc23f4b-aa09-4d22-badf-df8ab6782b36-1789020294378 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 16:9, 1080p ultra-photorealistic archival video of everyday Berlin street life in 1989.
+
+The entire video must look like genuine footage recorded in 1989 with an unusually good professional video camera. It should feel like a real archival recording that has been digitized in HD, not a modern recreation, not a movie, and not an AI-generated vintage filter.
+
+**MAIN FOCUS:**
+The video is primarily about ordinary daily life on the streets of West Berlin in 1989. Crowded sidewalks, people walking in different directions, period-correct taxis (Mercedes W123s), Trabants and Wartburgs passing through traffic, buses, storefronts, street vendors, newspaper kiosks, and the constant movement of the city. The camera should feel like someone documenting the everyday routine of Berlin, not showcasing its architecture or politics.
+
+**SCENE SEQUENCE:**
+- **0–5s:** Street-level view from a busy West Berlin sidewalk (e.g. near Kurfürstendamm). A crowd of pedestrians walks past the camera in both directions. Mercedes taxis, Trabants, and older European cars move through the street. Natural handheld camera movement.
+- **5–10s:** A crowded avenue intersection. People wait at the crosswalk, then begin crossing. Buses, taxis, and traffic move through the frame. The camera slowly pans with the street activity.
+- **10–15s:** A closer street-level view of everyday pedestrians, storefronts with German signage, newspaper kiosks, and passing cars. People carry shopping bags, talk to each other, and go about their normal routines. Natural, unscripted-looking movement.
+- **15–20s:** A slightly wider street view showing a busy Berlin avenue filled with pedestrians and traffic. Buildings are visible only as part of the background. A section of the Berlin Wall or period signage may appear naturally in the distance, but the street activity remains the focus.
+- **20–25s:** Another crowded sidewalk and intersection. Trabants, taxis, buses, pedestrians, and storefronts create a constantly moving urban scene. The camera gently follows the flow of people.
+- **25–30s:** Final street-level view of a busy avenue, with pedestrians crossing, cars passing, and traffic continuing naturally. End like a real archival recording, without a dramatic cinematic conclusion.
+
+**CAMERA &amp; CINEMATOGRAPHY:**
+Real 1989 professional video-camera footage. Mostly street-level, eye-level, and slightly elevated sidewalk viewpoints. Natural handheld and vehicle-mounted camera movement, slow pans, gentle zooms, slight camera vibration, occasional imperfect framing, and realistic motion blur. The camera should feel operated by a real person filming the city, with small imperfections and natural timing. No modern drone footage, no gimbal-smooth movement, no impossible camera angles, and no dramatic cinematic camera moves.
+
+**IMAGE QUALITY:**
+Surprisingly sharp and detailed for 1989, with clear pedestrians, cars, storefronts, and street details. Slightly soft image edges, natural lens rendering, mild analog video noise, subtle highlight bloom, gentle chromatic aberration, and a very subtle late-1980s video texture. The footage should look like an unusually good archival camera recording, not degraded VHS.
+
+**COLOR &amp; LIGHTING:**
+Overcast or soft natural daylight typical of Berlin, realistic diffuse sunlight, slightly muted highlights, natural shadows, and authentic 1989 color reproduction. Colors should be realistic and slightly desaturated compared with modern digital footage, but still natural. No modern cinematic teal-and-orange grading, no excessive contrast, no fake film look, and no heavy retro effects.
+
+**HISTORICAL AUTHENTICITY:**
+Everything must look correct for West Berlin in 1989: period-correct Mercedes taxis, Trabants, Wartburgs, buses, storefronts, German-language advertisements and signage, period clothing, and architecture of the era. No modern vehicles, smartphones, LED billboards, contemporary advertisements, or post-reunification skyline elements.
+
+**REALISM:**
+Natural traffic movement, believable pedestrians, realistic reflections, accurate building geometry, and physically correct lighting. People should move naturally and independently, with varied walking speeds, gestures, and directions. Cars must have realistic proportions, wheels, reflections, and motion, including the distinct boxy shape and two-stroke-engine character of Trabants. Buildings must remain stable and geometrically accurate.
+
+**EDITING:**
+Use several connected street-level shots with natural archival-video pacing. Most shots should be crowded sidewalks, intersections, and busy avenues. Keep building, Wall, and skyline shots to a minimum. Buildings should mainly appear as background elements behind the people and traffic. Use simple cuts between shots, like genuine archival footage from one recording session. No flashy editing, no music-video style, no artificial cinematic transitions, and no text or subtitles.
+
+**FINAL RESULT:**
+The viewer should genuinely feel that they are watching real Berlin footage filmed in 1989 with an unusually good HD camera. It should feel like an ordinary day in the city, full of people, cars, traffic, and natural street activity. The realism of the pedestrians, cars, lighting, and camera behavior is more important than cinematic beauty.
+
+**NEGATIVE PROMPT:**
+AI-generated appearance, CGI, modern Berlin, post-reunification skyline, modern cars, smartphones, LED screens, contemporary clothing, non-period signage, fake vintage filter, excessive film grain, VHS scanlines, heavy VHS distortion, oversaturated colors, teal-orange grading, cinematic movie look, drone footage, gimbal smoothness, impossible camera movement, empty streets, deserted sidewalks, excessive building shots, architectural showcase, warped buildings, duplicated pedestrians, distorted cars, flickering architecture, text, subtitles, logos, watermarks.</code></pre>
+
+</details>
+
+## 30‑second cinematic 3D animated comedy of a baby otter’s misadventures
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2097565918155194459)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3931](https://imglume.com/prompt/3931)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dc116edc-f33e-4d3e-ad79-ab197a3d2162/b5136bc2-5794-4117-98f9-de4b8e3587f8-1789020175548 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a polished 30 second cinematic 3D animated comedy featuring one consistent character: an adorable chubby baby otter with soft dark-brown fur, a cream colored belly, tiny rounded ears, large expressive brown eyes, short legs, and two visible front teeth. High end family animation, detailed wet fur, exaggerated facial expressions, realistic water physics, playful slapstick timing, warm cinematic lighting, smooth camera movement, consistent character design throughout. No dialogue, no subtitles, no watermark.
+
+0–4 seconds:
+Wide establishing shot of a peaceful pine forest river beneath a cloudy sky. A handmade log dam stretches across rushing water. The baby otter proudly inspects the dam, smiling and pressing one paw against a small leak. Begin with a slow cinematic push-in, then cut to a close-up of his confident expression.
+4–7 seconds:
+The leak suddenly becomes a powerful jet of water. The otter’s cheeks wobble and his eyes widen before the stream launches him backward into the air. Use a fast whip-pan and dramatic slow motion as he tumbles helplessly above the river.
+
+7–11 seconds:
+The otter lands directly on the long snout of a large gray-green crocodile floating below. A silent awkward pause: the otter nervously smiles while the crocodile slowly opens one angry eye. The crocodile snaps its jaws, and the terrified otter paddles away at incredible speed as water splashes toward the camera.
+11–15 seconds:
+Seamless match cut to a bright tropical ocean. The otter now dangles from a fishing line just above the clear turquoise water while a grumpy gray shark circles underneath. Half-above, half-underwater camera angle; sunlight beams through the water as the otter desperately climbs the line.
+
+15–20 seconds:
+The otter drops onto the smooth round back of a huge calm blue whale, accidentally standing beside its blowhole. The shark bursts from the water with its mouth wide open. The otter dodges at the final instant, and the shark lands face-first over the whale’s blowhole.
+
+20–23 seconds:
+The whale releases an enormous explosive breath. The shark instantly inflates like a round balloon, eyes bulging in confusion, then rockets vertically into the sky trailing a twisting column of water. The otter watches with a cheeky satisfied grin.
+
+23–27 seconds:
+Smash cut back to the sunny forest. The otter cheerfully gnaws through a tree trunk, unaware that several nearby trees are already leaning dangerously. Close-ups of flying wood chips, rapidly moving teeth, and his proud little smile.
+
+27–30 seconds:
+The trunk cracks loudly. The otter freezes, slowly looks upward, and his confident smile disappears. The enormous tree falls toward him; he runs toward the camera in panic but is flattened safely into a perfect otter-shaped impression in the soft ground. After a comic pause, he sits up dizzy, gives an embarrassed smile, and falls backward. End on a playful musical sting.
+
+Audio: Lighthearted orchestral cartoon music, rushing water, wood creaks, crocodile snaps, frantic paddling, ocean bubbles, whale-blow eruption, soaring whistle, tree cracking, soft comedic impact, and a final “boing.” No spoken dialogue. Negative prompt: Character inconsistency, extra limbs, duplicate characters, graphic violence, blood, frightening horror, distorted anatomy, flickering fur, unstable backgrounds, random objects, unreadable text, camera jitter, low-detail animation.</code></pre>
+
+</details>
+
+## 30-second Alpine Winter Vlog Montage
+
+- **Original source:** [@eshal__ai on X](https://x.com/eshal__ai/status/2097564912851759244)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3930](https://imglume.com/prompt/3930)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/775d76da-7417-4bb7-bad9-b9a17c0949ba/45bd9ec7-15d3-435f-8be1-88ea93095474-1789020124835 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 30-second alpine winter vlog montage featuring the same young woman exploring a snow-covered mountain village during a cozy winter getaway. Shot like an authentic luxury travel diary with handheld camera movement, candid moments, soft overcast daylight transitioning to warm firelight, dreamy 35mm film aesthetics, cool-toned color grading with warm amber accents, shallow depth of field, natural skin texture, atmospheric lighting, and cinematic storytelling. Maintain the same woman throughout every scene: dark hair, youthful appearance, natural makeup, relaxed happy expression — identity locked to the reference image. Format: 4K cinematic video, 24fps, 35mm film grain, realistic handheld camera, soft focus, cool-warm contrast palette, travel documentary style.
+
+Scene 1 (0-4s) — Arrival at the Chalet Village: A crisp winter morning, light snow falling. She steps out of a wooden chalet doorway wearing a cream cable-knit sweater, faux-fur-trimmed parka, and a knit beanie, breath visible in the cold air. Camera trails her from behind down a snowy cobblestone lane lined with timber cottages, then swings into a close-up as she turns and smiles, saying softly, "Okay, this already feels like a movie."
+
+Scene 2 (4-8s) — First Ski Run: She glides down a gentle beginner slope, snow spraying softly at her skis, pine trees blurred past on either side. Low chase shots from behind, then a front-facing GoPro-style angle catching her laughing as she wobbles slightly and steadies herself.
+
+Scene 3 (8-12s) — Snow-Covered Pine Forest Walk: A worm's-eye view looking up through frosted pine branches, pale sunlight filtering through with soft lens flares on ice crystals. Cut to a close-up of her walking through untouched snow, mittened hand trailing along a low branch, murmuring, "It's so quiet here it feels unreal."
+
+Scene 4 (12-16s) — Cozy Café Break: She sits by a frosted window inside a small timber café, wrapped hands around a steaming mug of hot chocolate topped with whipped cream. Warm interior light contrasts the blue-white world outside. Close-up on the marshmallows melting, her contented half-smile as she watches snow drift past the glass.
+
+Scene 5 (16-20s) — Sledding Adventure: She sits on a wooden sled at the top of a gentle hill, pushes off, and speeds down laughing, hair flying loose from under her beanie. Camera tracks alongside at sled height. She tumbles softly into a snowbank at the bottom, laughing, and calls toward the camera, "Don't film this part — okay, keep filming it."
+
+Scene 6 (20-24s) — Christmas Market Exploration: A glowing evening market strung with warm fairy lights, snow settling on wooden stalls, the smell of roasted chestnuts implied through steam rising from vendor carts. She weaves through the crowd sampling mulled cider and gingerbread, face lit by string lights and lantern glow. Cinematic close-ups of her eyes widening at the taste, lights blurred into soft bokeh behind her.
+
+Scene 7 (24-27s) — Golden Sunset Over the Peaks: A wide silhouette shot of her standing on a snowy overlook as the sun dips behind the mountain range, sky shifting from pale gold to soft violet, her scarf drifting in the wind. She tilts her face toward the fading light, one hand holding her beanie in place.
+
+Scene 8 (27-30s) — Fireside Night Reflection: A cabin interior at night, fireplace glowing, snow visible through a frosted window behind her. She sits curled up on a wool blanket, mug in hand, firelight flickering across her face. Final intimate close-up as she looks directly into the lens with a soft, warm smile, saying, "Goodnight from the mountains."
+
+Camera Style: Authentic travel vlog cinematography, handheld camera shake, smooth cinematic transitions, slow push-ins, natural drifting movement, occasional POV shots, realistic autofocus hunting, subtle motion blur.
+
+Visual Style: Cozy alpine winter film, boutique travel-brand aesthetic, soft diffused daylight with warm firelight interiors, realistic skin texture, cinematic shallow depth of field, nostalgic 35mm film look, cool-warm contrast tones, natural unscripted expressions, emotional storytelling.
+
+Avoid: cartoon style, CGI look, plastic skin, unrealistic face, inconsistent character appearance, changing hairstyle, extra fingers, distorted body, artificial lighting, oversaturated colors, blurry face, unnatural movements, duplicate people.</code></pre>
+
+</details>
+
+## 15-second high-fashion editorial film with 10 distinct poses
+
+- **Original source:** [@ZaraIrahh on X](https://x.com/ZaraIrahh/status/2097615157421867206)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3926](https://imglume.com/prompt/3926)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c2e63d1-a6ce-4096-a05f-c323061e6b6f/94a6bd94-aba5-4c97-b985-262eb27d3c41-1789018480582 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second high-fashion editorial film starring the adult character in &lt;&lt;&lt;image_1&gt;&gt;&gt; . Preserve their exact appearance, outfit, accessories and visual style. Render the entire film in the reference’s aesthetic.
+
+Use a minimal studio with a reflective floor, bold directional lighting and rhythmic photographic flashes.
+
+Show exactly 10 distinct fashion poses, each with a different silhouette and camera angle:
+
+1. A confident standing pose, filmed from floor level with dramatic wide-angle perspective.
+2. One hand beside the face, captured in an extreme side-profile close-up.
+3. An asymmetric seated pose, seen directly overhead as the camera rotates.
+4. One leg extended toward the lens, the foot or reference footwear dominating the foreground through foreshortening.
+5. A quick, fluid leg cross, captured from a low diagonal angle.
+6. Fingertips catching the edge of an existing sleeve or collar, framed in a tight detail shot.
+7. A rear three-quarter turn with a deliberate glance back into the camera.
+8. A forward lean toward the lens, ending with the palm briefly covering it.
+9. An elongated upward stretch, revealed in a sharply tilted wide shot with strong side lighting.
+10. A commanding full-body hero pose, looking down into the lens as the camera rapidly pulls back.
+
+Keep the performance fast and rhythmically tight. Flow naturally between poses, holding each for only a fraction of a second while keeping its silhouette clearly readable. No repeated poses or additional pose changes.
+
+Connect angles through whip pans, movement-matched cuts, snap zooms, flashes and lens occlusions. Orbit against the character’s turn, sweep from their floor reflection toward their face and plunge from overhead to floor level. Alternate intimate details with dramatic wide compositions. Accelerate between poses and brake sharply on each hold.
+
+Keep the sensual gestures quick, confident and fully clothed. Hair and fabric react naturally. No slow motion, lingering shots or gradual camera drift. Build momentum toward the tenth pose, then stop sharply for a crisp final hold.
+
+Stable identity and anatomy throughout. No outfit changes, added accessories or text. Sound: a driving 140 BPM fashion beat, rhythmic shutter clicks and subtle fabric movement.</code></pre>
+
+</details>
+
+## Hunter in forest clearing sequence with bow, rifle, and camera lock
+
+- **Original source:** [@thetripathi58 on X](https://x.com/thetripathi58/status/2097635869104726297)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3925](https://imglume.com/prompt/3925)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b6ca0660-a0de-4f12-a27b-64be724a7f11/be4996ca-2d9b-4375-995b-5b681a77f9cd-1789018467976 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>I built a hunter in a forest clearing, bright daylight, and directed every beat of what she does next.
+
+→ she draws her bow and shoots, arrow flying into the trees
+→ lowers the bow, moves to grab ammo off the ground
+→ picks up a rifle and walks forward, scanning the tree line</code></pre>
+
+</details>
+
+## Intense martial arts sparring in a Japanese dojo
+
+- **Original source:** [@xmliisu on X](https://x.com/xmliisu/status/2097596867500515494)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3922](https://imglume.com/prompt/3922)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/537ae5bc-03e3-478f-82ee-bdffc628bb2c/0b237ddd-4939-4194-a726-ad0df4e575c8-1789018426864 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Characters: A woman with long blonde hair and a man with curly blonde hair. Both wear white martial arts uniforms (gis) and black belts.
+ Action: They engage in intense, rapid hand-to-hand sparring, exchanging punches and blocks, before separating to strike defensive stances.
+ Setting: A traditional Japanese dojo featuring wooden pillars, tatami flooring, and large openings that reveal a lush green forest outside. A hanging scroll is visible in the background.
+ Cinematography: Fast-paced camera work, quick cuts, and motion blur during fast movements. Natural lighting highlights the scene.</code></pre>
+
+</details>
+
+## Man walking alone on rainy neon-lit empty city street at night
+
+- **Original source:** [@juliaevee on X](https://x.com/juliaevee/status/2097623489821679969)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3919](https://imglume.com/prompt/3919)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5d00ce94-7ccc-488c-96b4-1cac2edd6a9b/c6faa0c3-a9ea-49d3-8cd1-1ada10ba8d35-1789018405679 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A dramatic, atmospheric video of a man walking alone down an empty, wet city street late at night. Neon signs reflect vividly off the dark pavement, casting hues of magenta, cyan, and gold. Gentle rain falls, creating a soft mist around streetlights. The man wears a dark trench coat with his head down, hands in his pockets. Cinematic lighting, low angle shot, slow motion, shallow depth of field, 4K resolution, photo-realistic, Moody, cinematic, highly detailed.</code></pre>
+
+</details>
+
+## Ultra-cinematic supernatural fantasy sequence with white-haired character and giant black cat
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2097594855946113177)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3918](https://imglume.com/prompt/3918)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d34c80b6-42bc-40d8-b3c3-4a48bb987b25/1b9ee8c4-977a-4cc4-8ae8-484aa1d1e41c-1789018398733 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
+Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.</code></pre>
+
+</details>
+
+## Cinematic travel video of stylish young woman at airport
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2097601187734561047)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [3917](https://imglume.com/prompt/3917)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/893e6304-c860-461d-a430-f9fc0ff378d5/c953c8eb-4a57-4c1d-b4e0-f27cdcca9d30-1789018393248 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic photorealistic travel video of a stylish young woman arriving at an international airport and boarding her flight. She walks through the modern airport terminal while pulling a cream-colored rolling suitcase and carrying a brown leather handbag. Show her checking her boarding pass, walking toward the departure gate, then entering the jet bridge and boarding a commercial airplane. Cut to her finding her window seat inside the aircraft, placing her handbag in the overhead compartment, sitting comfortably, and looking out the window as the plane prepares for takeoff. Realistic airport and airplane details, natural human movement, smooth cinematic camera transitions, soft daylight, shallow depth of field, premium travel-vlog aesthetic, photorealistic, 4K, vertical .</code></pre>
+
+</details>
+
+## 同一句韩语，韩剧里与现实中的反差
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2097609548357927333)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3913](https://imglume.com/prompt/3913)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d76b244c-f3c4-40bf-bec4-618417dcf44f/331c6ae8-4af7-4364-8932-959834d6070f-1789018372631 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>时长：20秒
+画幅：9:16竖屏
+主题：同一句韩语，韩剧里与现实中的反差。
+形式：单人双状态，五组A/B硬切对照。
+
+【人物绑定】
+​ 是唯一人物角色卡。全片保持同一人物身份，面部、发型和服装沿用参考图，不重新设计长相。
+A与B是同一个人的两种表演，不是两个人对话，不出现双人同框或分屏。
+
+【状态A｜韩式爱情电影】
+韩式爱情电影中的人物近景，精致、温柔、含蓄，带轻微浪漫感。
+
+光线：
+窗侧大面积柔光照亮面部，明暗过渡细腻；侧后方一束柔暖逆光轻轻勾出发丝和肩部轮廓。眼睛有自然眼神光，面部立体，不使用均匀磨平五官的美颜光。
+
+调色：
+奶油白高光、低饱和暖肤色、轻微青灰冷调阴影。整体清透，黑位略柔，亮部平滑过渡。背景偏米白、淡灰与浅暖色，避免整张画面泛黄、泛粉。
+
+摄影质感：
+中长焦人像镜头观感，浅景深，眼睛与嘴部清晰，窗帘和远处小灯柔化为细腻散景。高光带极轻微柔晕，保留皮肤纹理与细微胶片颗粒。
+每个A镜头只有极轻、几乎察觉不到的缓慢推近。
+
+表演：
+目光柔软，呼吸自然，动作幅度小。开口前有短暂情绪停顿，声音轻柔，语尾轻落，像韩剧中对亲近的人说话。
+
+【状态B｜普通手机直拍】
+现实室内手机前置直拍，简单灰墙背景，较直接的正面照明。白平衡中性，反差和锐度比A更直接，背景也更清楚。
+取消A的逆光轮廓、浅景深散景、柔晕与电影调色，但仍保持正常曝光和真实肤质。
+机位固定，构图比A略紧，保留轻微手机广角近距离感，不夸张拉伸面部。
+
+表演：
+直视镜头，眉眼明显发力，身体稍向前探，语气短促、直接、不耐烦。喜剧来自突然变脸和说话方式，不演成失控尖叫。
+
+【构图与剪辑】
+统一头顶至腰部的竖屏中近景，眼睛位置保持在画面相近高度。
+A说完后直接硬切B，画面质感、神态与声音同时改变。
+每次切换都保持同一张脸可辨认，不用变形、闪白、黑帧或变装转场。
+
+SHOT 1｜00–04秒｜别看
+
+Subject：
+同一人物，温柔含蓄与直接斥责形成反差。
+
+Action / Performance：
+00–02秒，状态A：
+人物先看向侧下方，轻轻转眼看向镜头，带一点含蓄笑意，柔声说“别看”。说完略收回目光，保持自然羞涩。
+镜头极缓慢推近，柔暖逆光照亮少量发丝。
+
+02–04秒，硬切状态B：
+人物直接盯住镜头，眉头收紧，头稍向前探，用明显更重的语气重复“别看”，随即补上粗口。
+最后一个字落下，目光仍停在镜头上，留一点不悦的静止。
+
+Dialogue：
+A：“보지 마.”
+B：“보지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+A为柔光窗帘与奶油色散景，韩式爱情电影质感。
+B为灰墙、直接光与固定手机近景。
+
+Constraints：
+两句均由画面内人物本人说出，先说完A，再切B，口型准确。
+
+SHOT 2｜04–08秒｜别这样
+
+Subject：
+同一人物，亲昵劝阻与不耐烦训斥。
+
+Action / Performance：
+04–06秒，状态A：
+人物轻轻歪头，肩膀放松，目光带一点柔软的责怪，低声说“别这样”。语尾很轻，像面对亲近的人。
+面部清楚，背景柔化，镜头保持细微推近。
+
+06–08秒，硬切状态B：
+头摆正，目光直直看向镜头，短促地说“别这样”，紧接着补上粗口。
+下巴只随重音向前点一下，说完停止动作。
+
+Dialogue：
+A：“하지 마.”
+B：“하지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+沿用A的精致电影光线与B的普通手机直拍，硬切瞬间清楚显出质感差异。
+
+Constraints：
+不用夸张摇头或甩头。表情变化集中在眼神、眉间、下颌与语气。
+
+SHOT 3｜08–12秒｜别走
+
+Subject：
+同一人物，真诚挽留与强硬命令。
+
+Action / Performance：
+08–10秒，状态A：
+人物目光稍微抬起，像在看即将离开的人，嘴唇轻启，用带一点不舍的声音说“别走”。
+说完保持期待的眼神，轻微吸气，不落泪、不追出画面。
+柔光留住眼睛里的细小反光，镜头缓慢靠近一点。
+
+10–12秒，硬切状态B：
+人物突然睁大眼睛，头略向前探，把同一句话说成强硬制止，紧接着补上粗口。
+表情像在命令对方站住，保持眼神压迫感。
+
+Dialogue：
+A：“가지 마.”
+B：“가지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+A浅景深、柔和高光、冷暖细腻分离；B中性颜色、清晰背景、固定机位。
+
+Constraints：
+A的情绪含蓄，B的语气强硬。不要两段都演成哭泣或大喊。
+
+SHOT 4｜12–16秒｜别听
+
+Subject：
+同一人物，温柔安慰与暴躁纠正。
+
+Action / Performance：
+12–14秒，状态A：
+人物轻轻叹气，短暂垂眼，再抬眼看镜头，小幅摆一下手。
+先自然说出感叹词，再温柔地说“别听”，像在劝对方不要把难听的话放在心上。
+表情有理解与安慰，动作细小。
+
+14–16秒，硬切状态B：
+人物眼睛睁大，眉毛抬起，带着明显不耐烦说“别听”，随后快速补上粗口。
+头部只做一次短促前倾，咬字清楚、重音明确。
+
+Dialogue：
+A：“아이고… 듣지 마.”
+B：“듣지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+A为韩剧中安慰人的电影近景；B像手机镜头前直接训人。
+A的轻柔叹气与B的干脆发声形成声音反差。
+
+Constraints：
+A的感叹词与后半句自然连贯。两段声音不重叠，不增加其他人的回应。
+
+SHOT 5｜16–20秒｜别哭
+
+Subject：
+同一人物，心疼安抚与最后的不耐烦吐槽。
+
+Action / Performance：
+16–17秒，状态A：
+人物微微向前倾，双手在腰胸之间轻抬，做一个很小的安抚动作，眼神心疼，柔声说“别哭”。
+保持电影柔光与清楚的嘴部细节。
+
+17–20秒，硬切状态B：
+人物立刻以烦躁口吻说“别哭”，补上粗口。
+接着视线移到旁边，肩膀松下来，压低声音快速嘟囔，像已经受够对方总哭。
+最后以未说完的“씨…”收尾，闭嘴，留下一个无语的表情。不要突然笑场。
+
+Dialogue：
+A：“울지 마.”
+B：“울지 마, 이 개새끼야. 맨날 쳐 울고 앉아있어, 씨…”
+
+Environment / Camera / Style：
+B状态持续到片尾，不再切回A，不加通关式音效或结束标题。
+
+Constraints：
+末段先强硬制止，再低声抱怨，音量有变化。尾句语速加快但发音清楚，不扩写新台词。
+
+【声音与口型】
+所有韩语都是画面内人物的现场对白，绝不是旁白。
+人物说话时，嘴唇、下颌、呼吸与韩语发音同步。
+
+同一基础声线：
+A轻柔、亲近、带自然气息，不能用气声糊掉发音；
+B更直接、更响、重音清楚，带不耐烦，不能全程破音尖叫。
+
+保留轻微呼吸、叹气与室内底噪。
+A段可有极低音量、稀疏的浪漫钢琴底音；切到B时钢琴立即停止，只剩干净直接的人声与房间底噪。下一段A再轻轻恢复同一音乐动机。
+音乐始终让位于台词，不加入罐头笑声。
+
+【核心要求】
+一张人物卡，全片同一个人。
+五组顺序固定：
+보지 마 → 하지 마 → 가지 마 → 듣지 마 → 울지 마。
+每组A轻柔说短句，B硬切后重复同一句，再补粗口。
+A必须明确呈现韩式爱情电影的布光、调色、浅景深与细腻表演。
+B必须保留普通手机直拍的直接感，让电影滤镜的消失成为笑点的一部分。
+无任何字幕，无中文、韩文、拼音、罗马音、人物标签、标题、贴纸或水印。
+
+Negative：
+人物换脸、身份互换、双人同框、分屏、面部变形、发型服装漂移；
+A只有磨皮没有电影光线、全画面泛黄泛粉、过度柔焦、眼睛嘴部模糊、塑料皮肤；
+B仍然有浪漫散景与柔晕、B欠曝看不清脸；
+所有镜头同一种表情、A也凶狠、B也娇柔、失控尖叫、持续晃头、夸张鬼脸；
+嘴不动却发声、台词变旁白、韩语口型漂移、句子串组、对白重叠；
+慢动作、花哨转场、闪白、黑帧、任何字幕、水印、乱码。</code></pre>
+
+</details>
+
+## Cinematic 3D Fantasy Adventure with Boy and Dragons in Tropical Jungle
+
+- **Original source:** [@AiwithSaif7 on X](https://x.com/AiwithSaif7/status/2097574661467038034)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3910](https://imglume.com/prompt/3910)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ef25f7e0-f4a7-49ef-aa38-af3a934ff1dd/9ed43e4a-7d7f-4db9-bce6-16fbef7b044a-1789018314929 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic, high-quality 3D animated fantasy adventure scene in a lush tropical jungle near a beautiful tropical coastline. A cute young boy with messy dark hair and a small white baby dragon are playing together on giant green leaves, with the baby dragon holding a woven ball. Suddenly, a huge majestic green-and-gold dragon appears and flies overhead, creating a sense of excitement and danger. The boy runs through the jungle while the giant dragon follows him. He eventually hides inside a rocky cave with the little white dragon, both looking nervous as the enormous dragon approaches the cave entrance.
+
+The scene then shifts into a magical emotional moment: the giant dragon is revealed to be friendly, carrying the adorable white dragon on its back. The boy comes out of the cave and happily interacts with the dragons. End with the boy and the baby dragon sitting together beside a colorful round fruit on the sandy beach, smiling peacefully, while the majestic dragons stand in the background near the ocean.
+
+Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pixar-inspired fantasy aesthetic, detailed dragon scales and fur, vibrant tropical vegetation, dramatic sunlight, realistic shadows, beautiful blue sky, cinematic depth of field, smooth character animation, dynamic camera movements, emotional storytelling, highly detailed environment, polished movie-quality rendering, 16:9, 4K.</code></pre>
+
+</details>
+
+## Tiny Dragon. Huge Problem
+
+- **Original source:** [@minuitIA on X](https://x.com/minuitIA/status/2097738830560268724)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3908](https://imglume.com/prompt/3908)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2fac1e4e-f382-443a-b519-7682a8e0a52b/2ec02459-cc7a-4466-94bf-cf6c008b659f-1789018306564 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second cinematic multishot video, 16:9, ultra-photorealistic live-action.
+
+A young female elf tracks tiny footprints through a realistic ancient forest, bow in hand. Natural late-afternoon light, shallow rocky stream, moss, roots and ferns. The environment is constantly alive: gentle wind moves her loose hair, braids, leaves, ferns and branches; stream water continuously flows with moving reflections, ripples and turbulence around rocks.
+
+SHOT 1 — Ground-level close-up: tiny three-clawed footprints in wet soil. Her boot stops beside them.
+
+SHOT 2 — Over-the-shoulder through vegetation: she discovers a tiny juvenile dragon hiding between huge tree roots. Slow rack focus from elf to dragon.
+
+SHOT 3 — Extreme close-up of the dragon’s eye, then the elf lowers her bow and crouches.
+
+She smiles softly:
+“Oh… you’re way too cute.”
+
+SHOT 4 — Dragon eye-level close-up. It innocently tilts its head.
+
+She slowly extends her hand:
+“Come on… I won’t hurt you.”
+
+Hold a short silence.
+
+SHOT 5 — Extreme close-up: the dragon’s nostrils tighten, claws press into the soil, deep inhale.
+
+SHOT 6 — Low wide side angle: WHOOSH! A huge physically realistic flame passes just above her head. She ducks at the last instant. The pressure wave violently pushes her hair, ferns, leaves and dust.
+
+Several loose hair tips are singed and immediately begin producing thin pale-grey smoke. The smoke curls naturally and drifts with the same wind direction as the vegetation.
+
+SHOT 7 — Tight reaction close-up. She freezes, smells something, notices her smoking hair, touches the burnt tips, then looks at the dragon:
+
+“Okay… maybe I spoke too soon.”
+
+SHOT 8 — The dragon suddenly breathes fire again. Whip-pan as she runs.
+
+SHOT 9 — Dynamic handheld running shot in front of her. She races through the forest while the tiny dragon furiously chases her.
+
+She shouts breathlessly:
+“YOU’RE COMPLETELY INSANE!”
+
+Her singed hair still produces a few thin smoke wisps trailing naturally behind her as she runs.
+
+SHOT 10 — Fast lateral tracking through trees, strong foreground parallax. Tiny dragon running like a deadly predator.
+
+SHOT 11 — Camera at water level. She jumps across the stream. The dragon charges directly through it, creating realistic splashes, droplets, ripples and moving water.
+
+SHOT 12 — Sudden silence. She hides behind a massive tree, breathing heavily. Wind gently moves the vegetation and her hair. Only a faint final smoke wisp remains.
+
+SHOT 13 — Tight profile close-up. Very slowly, the tiny dragon’s head appears beside her face from behind the tree.
+
+She freezes and whispers:
+“No…”
+
+SHOT 14 — Extreme close-up of the dragon. Its nostrils widen, belly and chest expand as it takes one enormous breath.
+
+HARD CUT TO BLACK BEFORE THE FLAME.
+
+Premium feature-film cinematography, every shot uses a different lens, angle and camera height: macro, extreme close-up, low angle, over-the-shoulder, handheld chase, lateral tracking, water-level shot. Natural expressive acting, realistic animal behavior, coherent geography, realistic wind, moving vegetation, physically accurate water and practical-looking fire. No cartoon behavior, no CGI look, no 3D-render look, no magical particles, no fantasy glow, no impossible camera movement, no text on screen.
+
+Natural synchronized environmental sound, wind, flowing water, leaves, footsteps, leather, breathing, claws, splashes and powerful fire WHOOSH.
+
+no music, no subtitle</code></pre>
+
+</details>
+
+## Cinematic Fantasy World Above the Clouds
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2097622617968751012)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3907](https://imglume.com/prompt/3907)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7d9014db-e06d-44b1-98f4-6fe10c69d6f2/f6c9153a-bf4d-427f-8579-e56d9d3361c7-1789018298309 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic photorealistic fantasy world built entirely above the clouds Start with a breathtaking aerial view of massive fluffy white clouds glowing in warm golden sunlight Smoothly transition into a beautiful futuristic village floating among the clouds with elegant modern white buildings cozy houses lush green gardens colorful flowers and people walking and riding bicycles on soft cloud covered streets Show people enjoying this magical sky world walking cycling gardening, and relaxing Then slowly pull the camera upward and reveal a massive breathtaking floating civilization stretching across the clouds with bridges islands homes gardens and futuristic structures surrounded by endless blue sky and dramatic volumetric clouds Bright cinematic sunlight realistic shadows natural human movement highly detailed environments dreamy but photorealistic, epic scale smooth camera movement, aerial drone shots cinematic depth of field realistic physics 8K, ultra detailed, seamless transitions, inspirational fantasy atmosphere.</code></pre>
+
+</details>
+
+## Ultra-photorealistic archival video of everyday Indian street life during the British colonial era
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2097690340270747853)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3906](https://imglume.com/prompt/3906)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2c57a842-b6d2-473e-9f03-4550759feee6/8e9a7a3c-ce8a-4152-8a80-4ef896c5953c-1789018282060 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 16:9, 1080p ultra-photorealistic archival video of everyday Indian street life during the British colonial era, approximately the 1930s–1940s.
+The entire video must look like genuine historical footage recorded in India during the British period with an unusually good professional motion-picture or early newsreel camera. It should feel like authentic archival footage that has been carefully digitized in HD, not a modern recreation, not a movie, and not an AI-generated vintage filter.
+MAIN FOCUS:​
+The video is primarily about ordinary daily life on the streets of British-era India. Crowded roads and marketplaces, pedestrians walking in different directions, cycle rickshaws, hand-pulled carts, horse-drawn carriages, early automobiles, buses, bicycles, street vendors, small shops, tea stalls, newspaper sellers, railway surroundings, and constant everyday movement.
+The camera should feel like someone documenting ordinary Indian life, not showcasing colonial architecture or creating a cinematic scene.
+SCENE SEQUENCE:
+•0–5s: Street-level view from a busy Indian road or marketplace in a major British-era city such as Bombay, Calcutta, Delhi, Lahore, Madras, or Srinagar. Crowds of Indian pedestrians move past the camera in both directions. Cycle rickshaws, bicycles, horse-drawn carriages, handcarts, and a few period-correct automobiles move naturally through the street. People wear authentic period Indian clothing. Natural handheld camera movement.
+•5–10s: A crowded road intersection or market crossing. Pedestrians wait and then cross naturally together. Buses, horse carts, bicycles, rickshaws, handcarts, and early automobiles pass through the frame. Street vendors interact with customers. The camera slowly pans with the street activity.
+•10–15s: A closer street-level view of ordinary pedestrians, Indian storefronts, roadside stalls, tea shops, newspaper sellers, wooden carts, bicycles, old-style advertisements, shop signs, and passing traffic. People carry cloth bags and baskets, talk with each other, bargain with vendors, read newspapers, and go about their normal routines. Natural, unscripted-looking movement.
+•15–20s: A slightly wider street view showing a busy Indian avenue or marketplace filled with pedestrians and period traffic. Colonial-era buildings, traditional Indian buildings, wooden storefronts, utility poles, street lamps, railway infrastructure, awnings, and overhead cables appear mainly as background elements. Street activity remains the focus.
+•20–25s: Another crowded sidewalk, bazaar, or intersection. Horse-drawn carriages, bicycles, rickshaws, buses, early automobiles, pedestrians, vendors, carts, shopfronts, and street stalls create a constantly moving urban scene. The camera gently follows the flow of people.
+•25–30s: Final street-level view of a busy British-era Indian avenue or market. Pedestrians cross, carts move, horses pass, bicycles weave through traffic, buses stop, vendors serve customers, and everyday activity continues naturally. End like a genuine archival recording, without a dramatic cinematic conclusion.
+CAMERA &amp; CINEMATOGRAPHY:​
+Authentic professional archival camera footage from British-era India. Mostly street-level, eye-level, and slightly elevated roadside viewpoints. Natural handheld and vehicle-mounted camera movement, slow pans, gentle reframing, slight camera vibration, occasional imperfect framing, realistic motion blur, and natural timing.
+The camera should feel operated by a real person documenting everyday life. Include small imperfections in focus, exposure, framing, and camera movement consistent with high-quality historical recording.
+No modern drone footage, no gimbal-smooth movement, no impossible camera angles, and no dramatic cinematic camera movements.</code></pre>
+
+</details>
+
+## 10-second cosmic meditation journey with fractal portal
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2097728921760358908)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3901](https://imglume.com/prompt/3901)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0549e419-1314-4a71-967c-ee1ce2499a33/f6e89821-a3c9-4840-bc58-5eb26c04fb7c-1789018195861 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use @[Image] as storyboard reference for cinematic sequence. use as first shot 01 A 10-second mesmerizing cosmic meditation journey transitioning into a magical fractal portal. Visual style: abstract sacred geometry, photorealistic 8K, ethereal glowing runes, swirling liquid metal ribbons of gold and deep purple, starry deep space background, cinematic volumetric lighting, 3D render aesthetic. CRITICAL: Absolutely NO frames, borders, film strips, numbers, UI, or text overlays. Render as seamless full-screen cinematic shots only. Ignore grid layout completely. Sequence Description: The video begins with the full view of the cosmic spiral. The ribbons inscribed with ancient arcane runes begin to rotate slowly in a hypnotic, clockwise motion, creating a mesmerizing flow of magical energy. The textures of the ribbons shift like liquid gold and violet silk, catching the light as they move. (0-4.0s): The central black singularity "breathes," pulsing with bursts of prismatic starlight. Sharp rays of neon blue, magenta, and gold radiate outward from the center in rhythmic waves, syncing with a slow, calming tempo. The background stars twinkle softly. (4.0-7.0s): The camera begins a slow, steady dolly zoom (push in) towards the center. The sensation is one of deep focus and spiritual awakening. The runes on the ribbons shimmer and glow brighter, flowing along the curves like streams of pure mana. The edges of the frame slowly blur (vignette effect), drawing all attention to the glowing eye of the universe. (7.0-10.0s): As the camera moves closer to the event horizon, the light intensifies. The spiral rotation accelerates slightly but remains smooth and fluid, never jerky. The gold and purple colors blend into a warm, radiant aura. The video ends with the viewer feeling pulled gently into the magical void, leaving a sense of peace and infinite possibility. ZERO TEXT. Style reinforcement: continuous hypnotic rotation, smooth easing camera movement, magical particle effects, glowing rune textures, meditative trance atmosphere, high contrast between deep shadows and radiant light, NO text, NO grid, NO numbers, ultra-high-end abstract visual quality.</code></pre>
+
+</details>
+
+## Ultra-realistic found-footage attack on Amazon boat by pterosaurs
+
+- **Original source:** [@DtheW1995 on X](https://x.com/DtheW1995/status/2097601292155732344)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3893](https://imglume.com/prompt/3893)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f04f864-4317-4b08-a528-e91987f9b0ae/4cdcf6e3-a881-4fca-8ef3-e65639027642-1789018004445 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic found-footage sequence filmed from inside the enclosed wooden cabin of a moving tourist boat on the Amazon River. Dense wet rainforest, low mist, dark river water, humid grey daylight and distant smoke above the canopy. Extremely shaky handheld passenger footage, one continuous shot, no external camera angles, no visible recording device. The boat naturally rocks and vibrates from the engine before the attack; every dinosaur impact produces a much stronger physical reaction. Action Beat 1 (0–2s) — THE ULTRA HOOK Open instantly as a gigantic realistic pterosaur dives from above and crashes shoulder-first into the boat’s left-side cabin window. The heavy impact violently tilts the wooden boat, throwing tourists sideways across the benches. The window flexes, cracks across its entire surface and partially separates from its wooden frame. Everyone screams. Action Beat 2 (2–5s) The camera operator struggles to remain standing as the boat sways through its own wake. Through the fractured window, several large pterosaurs circle low above the river and dive between the trees. One rakes its claws across the wooden roof, ripping loose planks and showering the cabin with splinters. A tourist shouts: “They’re attacking the boat!” Action Beat 3 (5–8s) The first pterosaur regains control above the water and attacks the same damaged window again. Its long beak strikes with full momentum. The tempered glass suddenly bursts inward into thousands of small fragments. The dinosaur thrusts its head through the opening and aggressively snaps at the terrified passengers, who fall backward and crawl between the benches. Action Beat 4 (8–11s) The boat captain accelerates and sharply steers toward a narrow channel beneath overhanging trees. Engine pitch rises, the hull leans realistically into the turn and river water sprays across the broken window and onto the camera lens. A second pterosaur collides with the front windshield, making it explode inward from the impact. The captain ducks as glass fragments scatter across the controls. Action Beat 5 (11–15s) The damaged tourist boat races beneath the low jungle canopy. The attacking pterosaur tries to follow but its wide wings strike branches, forcing it to tumble sideways into the river with a massive splash. Another pterosaur claws briefly at the roof before losing its grip as the boat swerves. Tourists hold onto the seats while wind and water blast through the shattered windows. The camera falls onto the wet floor but continues recording as the boat disappears into mist. Abrupt cut. Authentic engine noise, cracking wood, breaking glass, wing beats, water impacts and panicked screaming. Realistic animal flight, collision momentum, hull movement and passenger inertia. No teleportation, no duplicated creatures, no changing boat interior, no impossible camera angles, no excessive gore, no cartoon or cheap CGI appearance.</code></pre>
+
+</details>
 
 ## Ultra-photorealistic cinematic teacher lifestyle vlog
 

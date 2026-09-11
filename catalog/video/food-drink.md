@@ -1,9 +1,68 @@
 # Food Drink video prompts
 
-81 source-linked prompts, newest ImgLume records first.
+83 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 15-Second Surreal Strawberry Chocolate Tart Video Prompt
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2098049745885225020)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `food-drink`
+- **ImgLume record:** [3996](https://imglume.com/prompt/3996)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b4646e8a-c172-4f81-a0c8-0e007c0014a5/6aba4d34-9f72-4f19-a06c-46022f003a26-1789064211968 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Sequential Video Prompt
+
+0 to 3 Seconds (The Hook)
+Visual: Extreme macro shot of a single fresh red strawberry resting on a white marble slab. Suddenly, the strawberry begins to hover and spin rapid-fire in mid-air.
+Action: The strawberry explodes into a swirling vortex of vibrant red fruit particles, liquid chocolate droplets, and fine powdered sugar clouds.
+Sound: High-speed comic cartoon swoosh building into a resonant pop sound effect, underlaid with a fast, bouncy acoustic guitar strum.
+
+3 to 6 Seconds (The Transformation)
+Visual: Fast kinetic camera orbit around the swirling vortex as the floating ingredients instantly snap and condense back together in slow motion.
+Action: The liquid chocolate coats the fruit particles in mid-air, instantaneously transforming into a multi-layered, glossy gourmet strawberry chocolate tart with golden spun sugar spiraling around it.
+Sound: Satisfying magic transformation chime blending into a crisp chocolate shell snap sound effect.
+
+6 to 9 Seconds (The Character Dialogue)
+Visual: Medium shot of the playful pastry chef winking at the camera and effortlessly catching the freshly transformed gourmet dessert on a sleek slate plate with one hand.
+Action: She holds the plate up toward the lens with a wide, infectious smile and speaks her line naturally with upbeat energy.
+Sound: Upbeat, clapping pop beat with a warm, cheerful voiceover: "Play with your food!"
+
+9 to 12 Seconds (The Macro Reveal)
+Visual: Ultra close-up slice shot of a golden fork gently breaking through the top chocolate layer of the tart, revealing rich strawberry cream layers inside.
+Action: Glaze glistens under bright studio lighting as micro crumbs fall softly onto the slate plate.
+Sound: Hyper-detailed crisp crunch sound effect followed by a cheerful brass horn accent.
+
+12 to 15 Seconds (The Brand Outro)
+Visual: Centered hero shot of the completed strawberry chocolate tart resting on the slate plate, surrounded by scattered fresh strawberries and spun sugar threads.
+Action: A playful pastel yellow graphic wave sweeps softly across the bottom screen as subtle steam/aroma swirls rise from the dessert.
+Sound: Energetic music track landing on a clean, snappy final kick drum beat with a lingering acoustic chime.</code></pre>
+
+</details>
+
+## Studio Ghibli 2D anime style culinary video of fish preparation
+
+- **Original source:** [@aiwithlumi on X](https://x.com/aiwithlumi/status/2097734186173948248)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [3969](https://imglume.com/prompt/3969)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ee5eb01d-292d-4339-ad4f-cd6591a5c7ba/b6c3aca9-5a5b-4da7-97be-4a66113e89ee-1789043182907 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Studio Ghibli 2D anime style culinary video prompt: top-down overhead shot of a person pouring golden olive oil and sprinkling coarse salt over a fresh whole fish on a wooden cutting board, sliding the baking tray into a warm glowing oven where the fish sizzles to a golden brown skin with rising steam, and finishing with a close-up of a chef placing a fresh parsley sprig garnish on the roasted fish plated on a white tray.</code></pre>
+
+</details>
 
 ## Late-2000s Handheld Indonesian Market Vlog
 

@@ -1,9 +1,26 @@
 # Cinematic image prompts
 
-65 source-linked prompts, newest ImgLume records first.
+66 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Yin-Yang Tree of Life cinematic keyframe
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2098057807979270428)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [3999](https://imglume.com/prompt/3999)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1b9d8ee3-25bd-4f23-ac64-dcdf123fe0fe/e6165edc-5211-4155-b924-a9cbb4a8b53e-1789064321493 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A single breathtaking cinematic keyframe of a Yin-Yang symbol seamlessly merging with the Tree of Life. The Yin-Yang is crafted from flowing liquid gold and polished obsidian, its black and white halves adorned with intricate swirling filigree and sacred geometric accents. From the central curve, dark jade roots extend gracefully downward while radiant golden branches bloom upward, forming a harmonious Tree of Life that embraces the symbol. Luminous energy flows along the branches like liquid starlight. The background is a dreamy, ethereal cosmic atmosphere with soft volumetric clouds, floating golden embers, and distant starlight. Style: photorealistic 8K resolution, ultra-detailed luxury aesthetic, macro focus on metallic and glass textures, cinematic chiaroscuro lighting, rich gold/deep black/pearl white palette, intricate fractal details, centered composition, shallow depth of field. Masterpiece, digital painting meets hyperrealism, mystical and meditative mood. NO text, NO borders, NO grid, NO UI.</code></pre>
+
+</details>
 
 ## Futuristic gravity-reversed city chase – cinematic keyframe
 

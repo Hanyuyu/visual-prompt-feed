@@ -1,9 +1,219 @@
 # Animation video prompts
 
-126 source-linked prompts, newest ImgLume records first.
+133 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 2D Anime Continuous Dance Animation Prompt
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2098050289819652321)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3987](https://imglume.com/prompt/3987)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/126a66dd-5dc6-4d3b-a2dc-37233a7a1f09/52eecbad-0333-4ce8-966e-664c06691577-1789060019476 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/126a66dd-5dc6-4d3b-a2dc-37233a7a1f09/c6a956c3-05a0-450a-8fcf-eabbc569fef8-1789060019476 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/126a66dd-5dc6-4d3b-a2dc-37233a7a1f09/8e637992-49b9-4cd1-a2b4-7e11c7c5bd8f-1789060019476 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a continuous 2D anime animation of this character dancing alone in the center of a plain white space, following reference poses 1→16 in order. Preserve her silver-white hair and side ponytail, pink-red eyes, cobalt-blue cap with one pink and one blue rabbit ear, black-and-pink headphones, oversized blue jacket with bunny and star patches, black-and-white cropped top, black shorts, asymmetric black and white socks, pink cross bandage, and chunky blue sneakers with yellow accents and hot-pink soles. Keep the reference sheet’s body proportions, crisp dark outlines, saturated colors, and clean cel shading. Maintain the same clothing details and their placement throughout. No weapons, back tank, hoses, or handheld props.
+Her personality is confident, mischievous, and street-cool. The choreography combines bouncy hip-hop footwork, sharp popping accents, angular arm shapes, and relaxed transitions. Her expression stays focused and playfully self-assured.
+
+Start immediately with one full-body character in pose 1. Use a fixed, front-facing camera in one uninterrupted shot. Frame her large enough to read clearly while leaving enough white space to keep both rabbit ears, hands, and shoes fully visible throughout every movement and jump. A soft gray elliptical contact shadow sits beneath her feet and responds naturally when she jumps.
+
+The reference grid defines choreography order only. The output is a single continuous white space. Do not show the reference sheet, multiple characters, split screens, panel borders, numbers, captions, or pose afterimages.
+Give each numbered pose a 0.5-second interval. Clearly articulate the pose in the first part of its interval, then move naturally toward the next through coordinated footwork and changes in weight. Preserve physical continuity: planted feet support the body, knees absorb landings, and hips and shoulders lead turns. Her ponytail, jacket sleeves, loose straps, and rabbit ears follow with subtle delayed motion. Animate one consistent body dancing continuously, without slideshow cuts, crossfades, morphing, or sudden limb repositioning. All left/right directions below refer to the viewer’s screen.
+
+0.0–0.5 seconds — Pose 1
+Begin with her feet apart and weight settled into one hip. The hand on screen left touches her headphones while the other arm extends low toward screen right, palm facing down. She gives a confident look, bounces lightly through her knees, then releases her headphones and lifts both elbows outward.
+0.5–1.0 seconds — Pose 2
+Open into a wide stance with bent knees, elbows pointing outward, and relaxed hands hanging in front of her lower chest. Add one crisp chest pop and a small shoulder hit. Draw her feet closer through a heel-toe swivel as her arms lower.
+1.0–1.5 seconds — Pose 3
+Bring her knees inward into the compact, angled stance shown in panel 3. Hold both arms low and slightly away from her body with loosely closed hands. Make a quick heel-toe groove, then step outward and raise her forearms into the next angular shape.
+1.5–2.0 seconds — Pose 4
+Hit a wide-legged locking pose: the forearm on screen left points vertically upward with an open palm, while the opposite forearm lies horizontally across her chest. Briefly accent the shape with a shoulder stop, then bring both forearms toward the center.
+2.0–2.5 seconds — Pose 5
+Face forward with feet apart and both forearms horizontal at chest height, matching the compact arm shape in panel 5. Add a small rhythmic knee bounce. Release the arm shape and shift her weight onto the leg on screen right.
+2.5–3.0 seconds — Pose 6
+Lift the knee on screen left across the front of her body, balancing on the opposite foot. Bend the arm on screen right upward while the other arm pumps low in opposition, creating a running-man accent. Lower the raised foot into the next lateral step.
+3.0–3.5 seconds — Pose 7
+Extend the leg on screen left diagonally outward, keeping her weight over the bent supporting leg on screen right. Spread both arms low with palms facing down. Make a short, controlled lateral glide, then draw the extended foot inward and begin turning her shoulders.
+3.5–4.0 seconds — Pose 8
+Settle into the three-quarter stance shown in panel 8, with her torso angled toward screen right and her hands gathered low across the front of her body. Add a compact shoulder hit. Continue the turn through a grounded foot pivot.
+4.0–4.5 seconds — Pose 9
+Turn into a three-quarter back view, clearly revealing the large white bunny patch on her jacket. Look back over the shoulder toward screen left, with elbows bent and feet crossing through the pivot. Unwind smoothly toward the camera, transferring weight onto the foot on screen left.
+4.5–5.0 seconds — Pose 10
+Lean slightly forward and extend the leg on screen right into a low forward heel kick, showing the pink sole. Reach one open hand diagonally forward and down across her body while the other arm balances the movement. Retract the kicking foot and lift her torso.
+5.0–5.5 seconds — Pose 11
+Plant both feet apart and hit the robot-like pose in panel 11: one palm upright beside her head on screen left, the opposite palm flat and facing down near waist height on screen right. Add a precise shoulder isolation, then soften both knees to prepare for a hop.
+5.5–6.0 seconds — Pose 12
+Perform a small shuffle hop with both feet briefly off the floor, one knee bent more than the other. Keep her arms low and spread, palms down. Her ponytail and jacket lift slightly after her body. Land softly with both knees bending outward.
+6.0–6.5 seconds — Pose 13
+Sink into the wide squat shown in panel 13, both hands resting on her upper thighs and elbows angled outward. Keep her chest lifted and eyes confidently facing forward. Add one low bounce, then push through her feet to rise.
+6.5–7.0 seconds — Pose 14
+Rise into a gentle backward-leaning body wave, with knees still soft and both arms reaching forward at waist height, wrists relaxed downward. Let the wave travel from her knees through her hips, chest, and shoulders. Recover upright and shift into a diagonal traveling step.
+7.0–7.5 seconds — Pose 15
+Take the diagonal step shown in panel 15, bending the supporting leg on screen right while the other leg trails toward screen left. Extend one arm low toward screen left while the opposite forearm sweeps across her upper chest. Bring the trailing foot back underneath her and gather her arms inward.
+7.5–8.0 seconds — Pose 16
+Finish facing the camera with her feet firmly apart and both arms crossed over her chest. Wear a small, self-assured grin. Complete the final pose by 7.8 seconds and hold it through 8.0 seconds while her ponytail, jacket, and rabbit ears gently settle.</code></pre>
+
+</details>
+
+## GTA-inspired cartoon car chase
+
+- **Original source:** [@kate_osita_ on X](https://x.com/kate_osita_/status/2098064657382809714)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3985](https://imglume.com/prompt/3985)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f9d72242-42a4-42c0-ad38-c1288c9ed86d/00b30c35-302a-4631-9255-7e041a337ff8-1789057911965 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an original GTA-inspired cartoon car chase using this workflow: Design: Define one main driver, one getaway car, one pursuing car, and one urban environment. Keep their designs consistent. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn, and a wide exit shot. Build in Blender: Create clean gray models and functional character and vehicle rigs. No textures or UV unwrapping are required. Animate and test: Animate the driver, steering, wheel rotation, vehicles, and cameras. Maintain coherent travel direction and vehicle order. Fix clipping, floating wheels, sliding tires, broken poses, and hands losing contact with the steering wheel. Render in Blender: Render frames 1–288 at 1280×720, 24 fps. Assemble actual Blender-rendered frames into a complete 12-second gray-model master. Export each shot separately and render matching gray stills as shape and composition references. Finish with PixVerse Plugin: Use Seedance 2.5 at 720p, processing each shot separately. Use the Blender clips as motion references and the gray stills as shape references. Define a consistent cartoon color palette in the generation prompt. Preserve camera movement, action timing, character and vehicle designs, and vehicle count. Review and deliver: Inspect both complete videos for visual defects and continuity. Repair Blender issues and regenerate only failed Seedance shots, with at most two retries per shot. Deliver the editable .blend, the native 720p Blender gray-model video, the separately labeled 720p Seedance version, and a brief assessment of remaining limitations.</code></pre>
+
+</details>
+
+## 3D stop‑motion crochet cooking sequence in a vintage kitchen
+
+- **Original source:** [@aiwithlumi on X](https://x.com/aiwithlumi/status/2097973211593920671)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [3980](https://imglume.com/prompt/3980)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4cfe802e-46ff-45a3-959b-e371c58edfa9/737704f3-aac7-4e56-968e-6d03f5a8ff65-1789053700041 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A complete 3D stop-motion crochet cooking sequence in a warm rustic vintage kitchen, featuring a cute brown-haired doll in a red dress and green headband preparing a whimsical watermelon dessert. Show her pouring white yarn flour, pink yarn noodles, and crochet seeds into a green bowl, stirring and smoothing the plush pink batter into a green crochet baking tray, decorating it with dark green yarn chips and red floral details, then baking it in a glowing retro green crochet oven. Finish with the doll serving a freshly baked crochet watermelon slice on a white scalloped yarn plate, followed by a macro close-up of its pink center, green crust, and black stitched seeds. Handcrafted wool textures, cozy cinematic lighting, tactile details, tilt-shift depth of field, and gentle charming stop-motion animation.</code></pre>
+
+</details>
+
+## Studio Ghibli 2D anime style culinary video of fish preparation
+
+- **Original source:** [@aiwithlumi on X](https://x.com/aiwithlumi/status/2097734186173948248)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [3969](https://imglume.com/prompt/3969)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ee5eb01d-292d-4339-ad4f-cd6591a5c7ba/b6c3aca9-5a5b-4da7-97be-4a66113e89ee-1789043182907 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Studio Ghibli 2D anime style culinary video prompt: top-down overhead shot of a person pouring golden olive oil and sprinkling coarse salt over a fresh whole fish on a wooden cutting board, sliding the baking tray into a warm glowing oven where the fish sizzles to a golden brown skin with rising steam, and finishing with a close-up of a chef placing a fresh parsley sprig garnish on the roasted fish plated on a white tray.</code></pre>
+
+</details>
+
+## 30‑second cinematic 3D animated comedy of a baby otter’s misadventures
+
+- **Original source:** [@bmx_ai13 on X](https://x.com/bmx_ai13/status/2097565918155194459)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3931](https://imglume.com/prompt/3931)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/dc116edc-f33e-4d3e-ad79-ab197a3d2162/b5136bc2-5794-4117-98f9-de4b8e3587f8-1789020175548 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a polished 30 second cinematic 3D animated comedy featuring one consistent character: an adorable chubby baby otter with soft dark-brown fur, a cream colored belly, tiny rounded ears, large expressive brown eyes, short legs, and two visible front teeth. High end family animation, detailed wet fur, exaggerated facial expressions, realistic water physics, playful slapstick timing, warm cinematic lighting, smooth camera movement, consistent character design throughout. No dialogue, no subtitles, no watermark.
+
+0–4 seconds:
+Wide establishing shot of a peaceful pine forest river beneath a cloudy sky. A handmade log dam stretches across rushing water. The baby otter proudly inspects the dam, smiling and pressing one paw against a small leak. Begin with a slow cinematic push-in, then cut to a close-up of his confident expression.
+4–7 seconds:
+The leak suddenly becomes a powerful jet of water. The otter’s cheeks wobble and his eyes widen before the stream launches him backward into the air. Use a fast whip-pan and dramatic slow motion as he tumbles helplessly above the river.
+
+7–11 seconds:
+The otter lands directly on the long snout of a large gray-green crocodile floating below. A silent awkward pause: the otter nervously smiles while the crocodile slowly opens one angry eye. The crocodile snaps its jaws, and the terrified otter paddles away at incredible speed as water splashes toward the camera.
+11–15 seconds:
+Seamless match cut to a bright tropical ocean. The otter now dangles from a fishing line just above the clear turquoise water while a grumpy gray shark circles underneath. Half-above, half-underwater camera angle; sunlight beams through the water as the otter desperately climbs the line.
+
+15–20 seconds:
+The otter drops onto the smooth round back of a huge calm blue whale, accidentally standing beside its blowhole. The shark bursts from the water with its mouth wide open. The otter dodges at the final instant, and the shark lands face-first over the whale’s blowhole.
+
+20–23 seconds:
+The whale releases an enormous explosive breath. The shark instantly inflates like a round balloon, eyes bulging in confusion, then rockets vertically into the sky trailing a twisting column of water. The otter watches with a cheeky satisfied grin.
+
+23–27 seconds:
+Smash cut back to the sunny forest. The otter cheerfully gnaws through a tree trunk, unaware that several nearby trees are already leaning dangerously. Close-ups of flying wood chips, rapidly moving teeth, and his proud little smile.
+
+27–30 seconds:
+The trunk cracks loudly. The otter freezes, slowly looks upward, and his confident smile disappears. The enormous tree falls toward him; he runs toward the camera in panic but is flattened safely into a perfect otter-shaped impression in the soft ground. After a comic pause, he sits up dizzy, gives an embarrassed smile, and falls backward. End on a playful musical sting.
+
+Audio: Lighthearted orchestral cartoon music, rushing water, wood creaks, crocodile snaps, frantic paddling, ocean bubbles, whale-blow eruption, soaring whistle, tree cracking, soft comedic impact, and a final “boing.” No spoken dialogue. Negative prompt: Character inconsistency, extra limbs, duplicate characters, graphic violence, blood, frightening horror, distorted anatomy, flickering fur, unstable backgrounds, random objects, unreadable text, camera jitter, low-detail animation.</code></pre>
+
+</details>
+
+## Cinematic 3D Fantasy Adventure with Boy and Dragons in Tropical Jungle
+
+- **Original source:** [@AiwithSaif7 on X](https://x.com/AiwithSaif7/status/2097574661467038034)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [3910](https://imglume.com/prompt/3910)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ef25f7e0-f4a7-49ef-aa38-af3a934ff1dd/9ed43e4a-7d7f-4db9-bce6-16fbef7b044a-1789018314929 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic, high-quality 3D animated fantasy adventure scene in a lush tropical jungle near a beautiful tropical coastline. A cute young boy with messy dark hair and a small white baby dragon are playing together on giant green leaves, with the baby dragon holding a woven ball. Suddenly, a huge majestic green-and-gold dragon appears and flies overhead, creating a sense of excitement and danger. The boy runs through the jungle while the giant dragon follows him. He eventually hides inside a rocky cave with the little white dragon, both looking nervous as the enormous dragon approaches the cave entrance.
+
+The scene then shifts into a magical emotional moment: the giant dragon is revealed to be friendly, carrying the adorable white dragon on its back. The boy comes out of the cave and happily interacts with the dragons. End with the boy and the baby dragon sitting together beside a colorful round fruit on the sandy beach, smiling peacefully, while the majestic dragons stand in the background near the ocean.
+
+Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pixar-inspired fantasy aesthetic, detailed dragon scales and fur, vibrant tropical vegetation, dramatic sunlight, realistic shadows, beautiful blue sky, cinematic depth of field, smooth character animation, dynamic camera movements, emotional storytelling, highly detailed environment, polished movie-quality rendering, 16:9, 4K.</code></pre>
+
+</details>
+
+## Heartwarming cinematic 3D animated short film of a baby otter in a sunlit forest
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2097643808620196091)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [3900](https://imglume.com/prompt/3900)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df6f93e2-4400-48df-8a9c-fb4fbc79bacd/f8755f7c-8436-4cc6-87fd-8b87cfcd6cfe-1789018182152 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a heartwarming cinematic 3D animated short film featuring an adorable chubby baby otter in a beautiful sunlit forest.
+
+The main character is a tiny, fluffy brown otter with a round face, large glossy expressive eyes, soft pink cheeks, a tiny black nose, and a small blue scarf tied around its neck. The character has extremely cute, childlike proportions and soft detailed fur.
+
+Scene 1: The video opens in a peaceful woodland during golden hour. Warm sunlight shines through lush green tree leaves, creating beautiful soft bokeh and volumetric light rays. The baby otter is sitting on a large tree branch, playfully holding a pink-and-white ice cream cone. It happily licks the ice cream and enjoys it with an innocent, joyful expression.
+
+Scene 2: Show a close-up of the otter's adorable face as it smiles and enjoys the ice cream. Emphasize its sparkling eyes, rosy cheeks, tiny mouth, detailed soft fur, and charming facial expressions.
+
+Scene 3: The otter climbs down from the tree and playfully moves through the sunny forest. Use smooth, natural character animation and gentle camera movement. The environment should feel magical, warm, peaceful, and wholesome.
+
+Scene 4: On the grassy forest floor, the otter discovers a tiny round pale-blue fluffy creature resting among the plants. The blue creature has soft fur, big expressive eyes, a small round body, and an innocent adorable appearance.
+
+Scene 5: The otter approaches the blue creature while holding its ice cream cone. They look at each other curiously and warmly. The otter happily offers the ice cream to its new friend.
+
+Scene 6: Show both characters sitting together in the grass, sharing the ice cream and enjoying a sweet friendship moment. Small flowers and petals gently float through the air around them. Warm golden sunlight filters through the trees, creating a dreamy cinematic atmosphere.
+
+Scene 7: End with a close-up of the happy otter holding the ice cream cone toward the camera, smiling with its eyes closed and rosy cheeks, while the little blue friend happily appears in the background.
+
+Visual style: high-end cinematic 3D animation, adorable family-friendly character design, soft realistic fur, expressive faces, detailed natural environment, warm golden-hour lighting, shallow depth of field, beautiful bokeh, volumetric sunlight, soft shadows, smooth fluid animation, cinematic camera movements, emotional storytelling, polished animated-film quality.
+
+Camera: cinematic establishing shots, smooth tracking shots, gentle dolly movements, close-up facial shots, low-angle character shots, and soft depth-of-field transitions.
+
+Mood: cute, joyful, wholesome, innocent, warm, magical, heartwarming friendship.
+
+No text, no subtitles, no watermark, no logos, no distorted anatomy, no extra characters.</code></pre>
+
+</details>
 
 ## Seedance 2.5 Cinematic Fight Animation – Crumbling Mountain Monastery Duel
 

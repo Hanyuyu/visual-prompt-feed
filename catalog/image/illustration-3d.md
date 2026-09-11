@@ -1,9 +1,295 @@
 # Illustration 3d image prompts
 
-71 source-linked prompts, newest ImgLume records first.
+81 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Instagram Travel Campaign Prompt for \[LOCATION\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2097890291860865291)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3997](https://imglume.com/prompt/3997)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/e2f5f192-c266-4a11-9ddc-edeb5bba680b-1789064248409 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/cf1010b0-b3b9-43eb-88c3-7f6d0bb8d7f9-1789064248409 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/31c82a6a-a38b-420d-a7b8-9db7e53f7546-1789064248409 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/5e55ffbc-7818-4354-a422-2f801fe91dc7-1789064248409 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[LOCATION] =
+
+Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
+
+A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
+
+The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
+
+[map icon] MAPS — now
+You keep searching.
+Come visit [LOCATION] instead.
+
+Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
+
+Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
+
+Visual Materials
+
+- Phone &amp; distant background: realistic photography
+- Buildings &amp; landmarks: handcrafted painted 3D clay
+- Map, terrain, roads &amp; water: layered hand-cut paper
+- Vegetation &amp; small details: miniature clay and paper
+
+Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
+
+Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
+
+Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
+
+Visual Hierarchy
+
+1. Notification
+2. Miniature [LOCATION] world
+3. Location pin
+4. Tiny traveler
+5. Folded map
+
+Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
+
+Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
+
+The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.</code></pre>
+
+</details>
+
+## Premium Luxury Travel Poster – Pakistan & Philippines 3D Miniature Diorama
+
+- **Original source:** [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2097853092880613845)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`
+- **ImgLume record:** [3966](https://imglume.com/prompt/3966)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/adaf3e71-64b8-478d-ad78-0d84c4a7aab3/28493345-3833-4368-b0d7-bdeb9337b25e-1789036934864 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/adaf3e71-64b8-478d-ad78-0d84c4a7aab3/054d41ae-88d8-4525-8e8c-5c0e34131722-1789036934864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium sophisticated luxury travel-poster masterpiece combining Pakistan 🇵🇰 and the Philippines 🇵🇭 into one seamless original composition, 3:4 vertical format. Create a completely new high-end 3D miniature travel diorama inspired by the reference images, blending landscapes, architecture, culture and natural beauty into one connected world, not a split screen or simple collage.
+DESTINATION IDENTITY
+Pakistan 🇵🇰 — From Mountains to the Sea — Feature snow-covered Himalayan and Karakoram peaks, Gilgit-Baltistan, Skardu, Hunza and Swat Valley with turquoise lakes, pine forests, rivers and mountain villages. Naturally transition toward Islamabad with Faisal Mosque, historic Lahore with Badshahi Mosque and Mughal architecture, then Peshawar, Quetta, Multan and finally the turquoise Arabian Sea with Gwadar and Karachi, coastal cliffs, boats and palm-lined waterfronts.
+Philippines 🇵🇭 — Islands, Nature &amp; Adventure — Feature turquoise lagoons, dramatic limestone cliffs, tropical forests, palm-covered islands, white beaches, colorful coastal villages, luxury resorts, historic churches, stone forts, yachts, traditional boats and crystal-clear ocean water.
+COMPOSITION
+Create one continuous miniature world showing a visual journey from Pakistan's snowy mountains and historic cities to its Arabian Sea coastline, naturally flowing into the tropical islands of the Philippines.
+Use an elevated cinematic perspective with strong foreground, middle-ground and background depth. Include miniature mountains, lakes, rivers, mosques, churches, forts, villages, roads, bridges, boats, yachts, palm trees and detailed vegetation.
+Make the entire scene look like an extraordinarily detailed premium collectible geographical model displayed on an elegant sculpted platform.
+TYPOGRAPHY
+Use elegant vintage-modern luxury travel typography with generous negative space.
+PAKISTAN • PHILIPPINES
+TWO NATIONS • ENDLESS BEAUTY
+MOUNTAINS • CULTURE • ISLANDS • ADVENTURE
+“From the Highest Peaks to Tropical Seas.”
+Include accurate Pakistan 🇵🇰 and Philippines 🇵🇭 flags, refined serif lettering, subtle decorative lines and clean professional typography.
+ART DIRECTION
+Premium international luxury travel campaign, hyper-realistic 3D miniature diorama, sophisticated architectural visualization, realistic geographical terrain, detailed cultural landmarks, cinematic travel photography, realistic mountains, tropical islands, crystal-clear water and premium collectible postcard aesthetic.
+Blend the majestic beauty of Pakistan with the tropical paradise of the Philippines into one harmonious artistic experience.
+COLOR SYSTEM
+Use warm ivory, parchment cream, snowy white, Himalayan blue, turquoise, emerald green, sandstone, terracotta, tropical green and soft golden sunlight.
+Keep the colors naturally connected, transitioning from cool mountain tones into warm desert and vibrant tropical coastal colors.
+LIGHTING &amp; ATMOSPHERE
+Cinematic golden-hour lighting with warm sunlight across mountains, cities, islands and coastlines. Add subtle mountain mist, glowing windows, realistic water reflections, soft clouds and natural atmospheric depth.
+The mood should feel majestic, peaceful, vibrant, adventurous and luxurious.
+QUALITY
+Ultra-realistic, extremely detailed, premium architectural visualization, realistic miniature scale, authentic cultural architecture, detailed mountains and vegetation, realistic water reflections, cinematic HDR lighting, sophisticated depth of field, 8K-quality appearance, flawless composition and high-end travel-magazine aesthetic.
+NEGATIVE PROMPT
+No split screen.
+No separate posters.
+No simple collage.
+No hard division between countries.
+No duplicated landmarks.
+No distorted mosques, churches or buildings.
+No unrealistic geography.
+No incorrect flags.
+No overcrowded composition.
+No excessive text.
+No misspelled words.
+No harsh neon colors.
+No cartoon style.
+No watercolor or painterly style.
+No flat 2D appearance.
+No artificial-looking water.
+No distorted boats or mountains.
+No visual clutter.
+No copied reference layout.
+No watermark or logo.
+Create a fresh, original, unified and luxurious travel-diorama composition celebrating Pakistan and the Philippines as two extraordinary worlds in one unforgettable journey.</code></pre>
+
+</details>
+
+## Premium cute miniature 3D diorama prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2097580884098764800)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3928](https://imglume.com/prompt/3928)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d709a138-5738-4c1e-a5ea-fd3932f88ebf/ec3edd4d-4a26-4140-b0fc-0d450ef7b7c5-1789018499765 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d709a138-5738-4c1e-a5ea-fd3932f88ebf/f7230180-09af-4fe1-b3d1-0ee8118a85b9-1789018499765 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d709a138-5738-4c1e-a5ea-fd3932f88ebf/3273e6d5-31bb-40db-9758-e4543924980c-1789018499765 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/d709a138-5738-4c1e-a5ea-fd3932f88ebf/0f3d9c01-b09b-471a-a26e-d186619f4b32-1789018499765 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium cute miniature 3D diorama of [STRUCTURE NAME], [CITY, COUNTRY]. Keep the landmark recognizable, elegant, and charming, with clean composition, soft pastel tones, subtle handcrafted details, gentle natural lighting, and a refined travel-souvenir aesthetic.
+
+Include minimal, tasteful text:
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [SHORT DESCRIPTION]</code></pre>
+
+</details>
+
+## Realistic first-person screenshot of beach scene with Morrigan Aensland in next-gen 3D romance RPG
+
+- **Original source:** [@underwoodxie96 on X](https://x.com/underwoodxie96/status/2097587863139537262)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3927](https://imglume.com/prompt/3927)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a20f0966-bde1-4c57-9187-ab21b39bd0c9/10f3e77d-90c7-4d29-8c01-efec23c6ca1d-1789018482652 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a20f0966-bde1-4c57-9187-ab21b39bd0c9/9f40139b-896b-4b48-8a0c-9bdf40cd3653-1789018482652 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Please capture a realistic screenshot from a fictional next-generation 3D open-world romance RPG, presented from the male protagonist’s first-person perspective. On the beach, Morrigan Aensland from Darkstalkers invites the protagonist to help her apply sunscreen. The overall visual style must feature high-quality cartoon-rendered 3D characters combined with Unreal Engine 5-level graphics, achieving AAA-quality visual fidelity. It should include ultra-detailed character modeling, realistic skin shading, cinematic lighting, PBR materials, high-precision clothing textures, and finely rendered classroom environments. The final image must look like an actual playable game screenshot, including a complete game user interface: minimap, quest display, character status bars, interaction prompts, dialogue subtitles, HUD elements, and more.</code></pre>
+
+</details>
+
+## Miniature fantasy scene details
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2097863882639634637)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3916](https://imglume.com/prompt/3916)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a85fb2c1-9366-44b8-a048-b0a927b8ea7f/8d606b2b-1606-466e-a12e-a9740fb10102-1789018386880 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a85fb2c1-9366-44b8-a048-b0a927b8ea7f/aa6c87e2-cb38-4c71-908c-7ee347aa3187-1789018386880 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>bridges, visiting food stalls, and enjoying the magical surroundings.
+
+Ultra-realistic 3D miniature diorama, macro photography look, cinematic composition, highly detailed textures, realistic lighting, soft focus background, 4K quality, magical fantasy atmosphere, adorable and peaceful mood, visually rich, polished and premium.</code></pre>
+
+</details>
+
+## Whimsical miniature fantasy world
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2097863882639634637)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3915](https://imglume.com/prompt/3915)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9d4715db-4d16-4645-8cc8-47cfa08e0523/5896afb8-65d3-43c7-863a-9a3ef25dc3f8-1789018386880 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9d4715db-4d16-4645-8cc8-47cfa08e0523/130534b8-c79b-43ca-9959-ad2d3f05c558-1789018386880 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a whimsical, hyper-detailed miniature fantasy world in a cinematic photorealistic style. Combine a magical colorful candy landscape with a dreamy flower garden. Giant juicy sesame-seed burgers, rainbow-colored shaved ice, translucent candy crystals, glossy syrup, tiny wooden market stalls, rope bridges, and miniature people create a charming tiny-world environment.
+
+In the same world, include delicate pink, purple, and cream flowers growing from rich dark soil, covered with fresh water droplets. Add adorable anthropomorphic elements such as a cute smiling water droplet character with tiny closed eyes and rosy cheeks, gently floating above the flowers. The flowers should softly bloom and move naturally in the breeze while sparkling raindrops fall around them.
+
+Use warm golden-hour morning sunlight, soft cinematic backlighting, realistic reflections, shallow depth of field, dreamy bokeh, volumetric light rays, detailed textures, vibrant but natural colors, glossy water droplets, realistic shadows, and an enchanting storybook atmosphere.
+
+The camera should slowly move through the miniature environment with smooth cinematic motion, gentle close-ups, subtle parallax, and natural depth. Tiny characters should interact naturally with the environment, walking across</code></pre>
+
+</details>
+
+## Enchanted Golden Maple Leaf over Dark Water
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2097784050660376617)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3905](https://imglume.com/prompt/3905)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8fcfd1ef-0288-4d05-b12e-3c2ae759dd6e/9e43f1b6-6fdd-40cd-8128-94df7890b86c-1789018271613 "Nano Banana 2") · [2](https://cdn.imglume.com/prompts/byradar/8fcfd1ef-0288-4d05-b12e-3c2ae759dd6e/10e4621f-d550-4849-b7af-82346bf7823f-1789018271613 "GPT Image 2.5 Flare")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>An enchanting and surreal digital art piece featuring a translucent, golden maple leaf hovering magically above the surface of calm, dark water. The leaf glows from within with a warm, ethereal light, its delicate veins clearly visible. Inside the translucent structure of the leaf, tiny, vibrant pink flowers and closed buds are embedded, appearing to bloom within its very veins. The tips of the leaf are edged with a sparkling, golden glitter that drifts into the air like magic dust. The leaf's stem extends downward, just touching the water's surface, creating concentric ripples that spread outward. Below the water, a reflection of the glowing leaf and stem is faintly visible. The background is a dreamy twilight forest with silhouetted pine trees against a soft, gradient sky of purple, orange, and blue. Several pink water lilies float on the dark water, adding to the serene and magical atmosphere.</code></pre>
+
+</details>
+
+## Crystalline Ethereal Maple Leaf over Dark Pond
+
+- **Original source:** [@churvikv on X](https://x.com/churvikv/status/2097784050660376617)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3904](https://imglume.com/prompt/3904)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/304cef2e-52a4-4b78-9acd-546a7aa303a6/5e28a24a-aa70-447d-b9bf-99b3c09de4de-1789018271613 "Nano Banana 2") · [2](https://cdn.imglume.com/prompts/byradar/304cef2e-52a4-4b78-9acd-546a7aa303a6/a0c70ede-19b4-4981-b1c3-e91df6aba1ee-1789018271613 "GPT Image 2.5 Flare")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A majestic, ethereal maple leaf made of translucent, crystalline material floats delicately above a serene dark pond. The leaf is intricately detailed with glowing veins and is embedded with small, soft pink cherry blossom flowers and buds that seem to grow directly from its structure. Golden, shimmering magical dust particles swirl around the leaf, casting a warm, radiant glow. The tip of the leaf stem gently touches the water surface, creating perfect concentric ripples that reflect the light. The background features a dreamy, out-of-focus forest landscape at dusk, with hints of silhouetted trees and a soft gradient sky ranging from deep twilight blues to pale pinks. Floating pink lotus flowers rest on the calm water surface in the foreground and mid-ground. The lighting is soft, cinematic, and magical, highlighting the glassy textures and bioluminescent quality of the scene. The composition is centered, vertical, and symmetrical, evoking a sense of tranquility, mystical nature, and fairy-tale beauty, rendered with hyper-realistic digital art precision.</code></pre>
+
+</details>
+
+## Premium Minimal Watercolor Vignette Artwork from Photograph
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2097659617614655719)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3898](https://imglume.com/prompt/3898)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2ab70a56-a5cc-4dfe-b74c-cd7751722eb7/af2edb56-62ac-47a2-8e97-e5105a8ae365-1789018152092 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2ab70a56-a5cc-4dfe-b74c-cd7751722eb7/4b39cc3b-64f4-45a7-a2b4-eab2e4bf4d8c-1789018152092 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a Premium Minimal watercolor vignette artwork based entirely on the uploaded photograph. Preserve the exact subject, identity, pose, clothing, objects, environment, lighting, colors, composition, and mood.
+Keep the photograph fully photorealistic with a subtle premium editorial finish, natural cinematic light, soft tones, and realistic detail.
+BOTTOM — WATERCOLOR INTERPRETATION: Recreate the exact same scene as a delicate hand-painted watercolor and fine-ink illustration. Use loose washes, subtle ink lines, soft paper texture, imperfect edges, muted pastel tones, and plenty of clean negative space.
+Add a short elegant handwritten brush-script phrase with a tiny minimalist subtitle underneath.
+STYLE: Scandinavian editorial, quiet luxury, nostalgic travel journal, soft watercolor, delicate ink, handmade paper texture, sophisticated minimalism.
+The photo and illustration must show the same exact moment and scene. No new elements, cartoon style, heavy outlines, saturated colors, or clutter.
+For different photos, change only the text phrase.</code></pre>
+
+</details>
+
+## Handcrafted miniature travel scene featuring an iconic structure
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2097646788258021837)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [3895](https://imglume.com/prompt/3895)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6cbb7d4-0cda-45f2-9c81-90203b15a248/020df1eb-83eb-4674-a8b3-baedf96c61c2-1789018062328 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f6cbb7d4-0cda-45f2-9c81-90203b15a248/f863cb66-4c2a-4e71-9452-814800cfee21-1789018062328 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f6cbb7d4-0cda-45f2-9c81-90203b15a248/1a5d6727-a3dd-4147-ae4f-1ff9fa92fb42-1789018062328 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/f6cbb7d4-0cda-45f2-9c81-90203b15a248/a3f1e147-2b5c-4c83-a7b9-d156b91c3d64-1789018062328 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming handcrafted miniature travel scene featuring [ICONIC STRUCTURE] as the main focal point.
+Show the landmark as a beautifully sculpted tiny 3D model, with soft rounded details, handmade textures, delicate imperfections, and a whimsical storybook feeling. Surround it with a few subtle elements that represent its location—such as tiny trees, flowers, streets, boats, mountains, clouds, or local objects—without making the scene crowded.
+
+Place everything on a clean warm-white textured paper background, with plenty of elegant negative space. Add a small tasteful wooden or paper travel plaque containing:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+Famous for: [SHORT UNIQUE FACT]
+
+Use soft natural lighting, gentle shadows, pastel yet realistic colors, miniature diorama depth, handcrafted clay/paper textures, and a premium cute travel-journal aesthetic. Centered composition, highly detailed landmark, adorable but sophisticated, clean and collectible travel-card design, no photorealistic people, no clutter.</code></pre>
+
+</details>
 
 ## Hyper-realistic 3D CGI collectible-figurine full-body character render of a Japanese shinobi
 

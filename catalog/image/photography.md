@@ -1,9 +1,338 @@
 # Photography image prompts
 
-684 source-linked prompts, newest ImgLume records first.
+700 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Confident Male Portrait in Luxury Car
+
+- **Original source:** [@pictsbyai on X](https://x.com/pictsbyai/status/2097962784663454204)
+- **Recommended model:** `nanobanana`
+- **Source model(s):** `nanobanana`
+- **Categories:** `photography`
+- **ImgLume record:** [3995](https://imglume.com/prompt/3995)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2a25153d-6129-4980-8aec-711923ed96aa/0b99eb73-cf32-4dc9-ae92-8fb4b2173057-1789062346030 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A portrait of a confident handsome male with a strong jawline and light stubble, sitting directly facing the camera with level shoulders and an authoritative, serious expression, maintaining a direct gaze with relaxed, slightly narrowed lids and a closed neutral mouth. His short hair features a tapered fade on the sides and two to three inches on top, styled upward and back into a textured quiff with a matte finish, revealing natural strand separation, slight uneven wave patterns, and a few minor flyaways catching the light against the background. He is dressed in a highly textured, semi-sheer bright white button-down shirt with a smooth white sweater tied effortlessly over his shoulders. He is seated inside a dark luxury vehicle, positioned against a pristine, light gray matte contoured sports seat with an integrated headrest. The dark car interior frames the composition asymmetrically, showing a pristine black fabric headliner and a rectangular black grab handle recessed in the top right, while the passenger window reveals a medium depth of field view of a clear blue sky and a weathered exterior wall constructed of rough-hewn light brown and tan stones stacked with thick mortar lines. Bright, highly directional golden natural sunlight beams in from the front-left at a forty-five-degree angle, bathing the scene in a warm, energetic, and luxurious glow. This hard light with slight atmospheric diffusion creates a high-contrast cinematic atmosphere, casting harsh, short, and deep black shadows under his chin, on the right side of his nose, and along his right cheek, while placing preserved, bright highlights across his left cheek, nose bridge, forehead, and the crisp white shirt collar. The striking complementary color palette beautifully balances the bright whites of his clothing and warm peach skin tones against the deep black interior and clear blue sky. Captured as a photorealistic digital photograph reminiscent of high-end old money automotive lifestyle content, the tack-sharp image utilizes a full-frame camera with an 85mm lens at f/2.8 and a fast shutter speed to isolate the subject from the slightly softened stone background, enhanced with crisp post-processing to deepen the contrast and sharpen facial hair and fabric textures, beautifully framed in a 1:1 square aspect ratio.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic neon-lit portrait of a smiling young man
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2097884434016211066)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3994](https://imglume.com/prompt/3994)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/94756f95-d998-48a4-8239-b729cf12f79c/9903d018-fe7a-4e93-8cc9-1e6c7e1e76d6-1789062073516 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic cinematic close-up portrait of a young adult man use image for face reference , laughing naturally with a wide genuine smile, head slightly tilted upward, looking just past the camera. Dramatic studio portrait photography against a completely black background. Strong dual-color neon lighting: vivid magenta/purple rim light from the left side and intense cyan/teal light from the right, creating a striking split-light effect across the face, beard, neck, and black crewneck sweatshirt. Highly detailed skin texture, realistic pores, individual beard hairs, sharp expressive eyes, natural teeth, soft specular highlights, shallow depth of field, high contrast, moody nightclub aesthetic, professional fashion/editorial photography, 85mm lens, f/1.8, close framing from chest up, centered composition, photorealistic, HDR, ultra-detailed, 4K.</code></pre>
+
+</details>
+
+## Editorial fashion photograph of a young man in maroon polo and cream trousers
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2097920542284382260)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3983](https://imglume.com/prompt/3983)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1a96c5eb-1cdf-4c9c-976e-c1820128749a/9b0b5359-1654-494a-9c30-67deb2261afd-1789055819790 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1a96c5eb-1cdf-4c9c-976e-c1820128749a/8b068e50-1e77-4f42-ba8a-64c6639c7813-1789055819790 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1a96c5eb-1cdf-4c9c-976e-c1820128749a/247472d5-ab6a-48c7-a2dc-54cb0d237dc2-1789055819790 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/1a96c5eb-1cdf-4c9c-976e-c1820128749a/2a750add-bfb3-426b-8089-98d941698498-1789055819790 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Editorial fashion photograph of a young man with tousled dark wavy hair, tan olive skin, defined jawline, short stubble beard and mustache, thick dark eyebrows, brown eyes, wearing dark sunglasses pushed slightly down. He wears a maroon short-sleeve polo shirt tucked into wide-leg cream/off-white trousers with a brown braided leather belt, and brown tassel loafers. He stands in profile, leaning forward with one hand resting on the seat of a wooden bar stool, head tilted downward. Plain soft neutral gray studio background, soft even studio lighting, minimalist high-end fashion campaign aesthetic, shot on medium format camera, shallow depth of field, clean commercial look.</code></pre>
+
+</details>
+
+## Photorealistic 1985 Full-Body Snapshot with Vintage Car
+
+- **Original source:** [@miratechtool on X](https://x.com/miratechtool/status/2097991061863875064)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3982](https://imglume.com/prompt/3982)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9bfb23f7-267c-4b71-88d1-1a4a72925b75/73449950-1364-42c7-8aa6-6c432f21e19a-1789055801271 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9bfb23f7-267c-4b71-88d1-1a4a72925b75/9079c1c3-57d6-4248-aab3-3bf8ce403737-1789055801271 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Using my uploaded face photo as the sole identity reference, create a photorealistic full-body 1985 snapshot of the exact same person. Preserve my facial structure, skin tone, age, expression, and overall recognizable likeness, while completely removing the glasses and naturally reconstructing the eyes.
+
+Style me in an elegant, upscale mid-1980s look with voluminous period-appropriate hair, premium denim or tailored fashion, tasteful gold accessories, and a polished rich-aesthetic vibe. Place me casually beside a luxury boxy vintage car in a beautiful affluent 1985 street scene, with a visually rich background featuring stylish homes, palm trees or manicured greenery, elegant storefronts, warm glowing streetlights, vintage signboards, and a lively atmosphere.
+
+Add more vibrant people in the background wearing colorful 1980s fashion, walking, chatting, or passing by, but keep them secondary and slightly out of focus so I remain the clear subject. Make the scene feel warm, aspirational, and naturally luxurious.
+
+Make it look like a genuine 35mm premium family snapshot from 1985 with direct flash, slightly imperfect framing, soft focus, faded colors, warm sunset glow, subtle magenta tones, fine film grain, mild halation, tiny dust marks, low dynamic range, and realistic print aging. Add a small red-orange 1980s-style date stamp in the lower corner. No modern objects, no beauty filter, no cinematic digital look, and no AI-plastic skin.</code></pre>
+
+</details>
+
+## Stylish Young Man on Custom Café-Racer Motorcycle
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2098052790421713400)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3981](https://imglume.com/prompt/3981)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6ef3bfbc-891f-4a66-a06f-c959da5589b0/f6f38084-52fe-4812-8e6d-8834cb32bd68-1789055792116 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A hyper-realistic cinematic portrait of a stylish young bearded man wearing dark sunglasses, a fitted white T-shirt, ripped dark jeans, rugged boots, and subtle accessories, sitting confidently on a dark custom café-racer motorcycle. He leans slightly forward with his hands naturally positioned together, looking thoughtfully to the side. Outdoor urban setting with soft blurred greenery and concrete structures in the background, warm natural daylight, realistic shadows and reflections, shallow depth of field, DSLR photography, 85mm lens, f/1.8, ultra-detailed realistic skin texture, natural pores and facial hair, authentic clothing folds, cinematic color grading, sharp focus on the subject, realistic motorcycle details, premium lifestyle photography, photorealistic, no AI artifacts.</code></pre>
+
+</details>
+
+## 1980s Retro-Vintage Portrait
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2097954772586557873)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3967](https://imglume.com/prompt/3967)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/29ce3f47-98b9-4d91-ba2b-638fa70406ea/7707d7be-ed95-4939-9674-929b21bab71f-1789038989351 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/29ce3f47-98b9-4d91-ba2b-638fa70406ea/cfd50955-2c40-4d83-801c-52621c36abe7-1789038989351 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/29ce3f47-98b9-4d91-ba2b-638fa70406ea/2c95e2f0-0ddb-4b38-8cbd-34cc2ae02836-1789038989351 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/29ce3f47-98b9-4d91-ba2b-638fa70406ea/c0073bc3-fd78-4974-a49a-6e3c1eec7ad0-1789038989351 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an authentic 1980s retro-vintage portrait in a 4:5 vertical aspect ratio, using the provided person as the exact facial reference. Preserve their identity, facial structure, recognizable features, skin tone, and natural expression with high accuracy—do not alter or beautify the face.
+
+Give the subject a classic 1980s hairstyle and stylish period-accurate fashion with bold silhouettes, authentic textures, and effortless vintage attitude. Compose the portrait naturally with a strong editorial feel, keeping the subject as the clear focal point.
+
+Capture the image as if shot on a 35mm analog film camera, with realistic film grain, subtle dust and texture, gentle softness, natural skin detail, slight color fading, and authentic analog imperfections. Use warm nostalgic color grading, soft neon highlights, subtle ambient glow, and direct on-camera flash to create the distinctive look of an iconic 1980s photograph.
+
+Keep the lighting cinematic yet believable, with soft shadows, realistic highlights, natural contrast, and a slightly imperfect film exposure. The final image should feel genuinely photographed in the 1980s—not digitally recreated, with a timeless, nostalgic, fashionable, and effortlessly cool atmosphere.</code></pre>
+
+</details>
+
+## High-fashion studio portrait of an elegant East Asian woman
+
+- **Original source:** [@laviniavelle on X](https://x.com/laviniavelle/status/2097915920392089761)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3956](https://imglume.com/prompt/3956)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9478adb8-e8fc-4958-b73c-49c9209ff7f4/dbdf49c7-aac4-4023-8e61-e3a9e9fe19bb-1789026621864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>High-fashion studio portrait of an elegant East Asian woman with wavy short dark hair wearing a wide brimmed black velvet top hat decorated with intricate silver embroidery along the brim and a metallic vintage buckle on the band She is dressed in a sleeveless tailored dark vest with silver swirl patterns, paired with long dark navy velvet opera gloves Wearing luxurious jewelry sapphire teardrop earrings and a multi-strand pearl and sapphire necklace with an ornate iris pendant Dark grey textured backdrop, dramatic studio lighting cinematic, highly detailed, 8k resolution.</code></pre>
+
+</details>
+
+## Medium portrait of a young South Asian woman in gold accessories
+
+- **Original source:** [@DaniaSafvi on X](https://x.com/DaniaSafvi/status/2097906358473601222)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3955](https://imglume.com/prompt/3955)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d582f7ee-ae5a-48f1-892a-8dfc01604ce7/e3fa475e-ab69-442e-9a0e-81a338fef622-1789026595148 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A medium portrait of a young South Asian woman posing candidly, looking slightly off-camera with a gentle smile. She has dark hair tied back in a low ponytail with loose strands framing her face, refined features, and bright pink lips. She is wearing a modern designer outfit featuring a sleeveless black top layered under a beige-and-black abstract typography/patterned collared dress with thin shoulder straps. Accessorized with a delicate gold chain necklace, small stud earrings, and a slim gold bracelet on her wrist. Her hand rests gently under her chin. Warm indoor studio lighting highlighting soft skin tones, set against a smooth dark wood panel background. Photographed with a prime 85mm lens, sharp focus, shallow depth of field, 8K resolution, elegant fashion portrait aesthetic.9.16
+same face as reference image.</code></pre>
+
+</details>
+
+## Cybernetic horror portrait
+
+- **Original source:** [@meng_dagg695 on X](https://x.com/meng_dagg695/status/2097558679956664521)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3937](https://imglume.com/prompt/3937)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d7486d22-6bc3-4ad9-93c1-dbb110be6d49/cd36624a-b8f2-41fa-abc7-41dc0f127cd3-1789020327722 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d7486d22-6bc3-4ad9-93c1-dbb110be6d49/af9c7ec9-1be9-4cbf-a695-66f432d65b48-1789020327722 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/d7486d22-6bc3-4ad9-93c1-dbb110be6d49/5fa2b4f8-279c-48b1-94af-27535f804034-1789020327722 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cybernetic horror portrait, gaunt humanoid figure with cracked porcelain-white skull-like mask, mismatched hollow eye sockets (one sunken void, one recessed metallic ring), jagged exposed teeth, surrounded by a chaotic tangle of thick black cables and industrial bobbin/coil attachments wired into the head, tattered dark fabric top, dramatic low-key lighting, deep black background, high contrast monochrome, horror photography, cinematic, hyperdetailed texture, 85mm lens, shallow depth.</code></pre>
+
+</details>
+
+## High-fashion close-up portrait of woman with white flower earring
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2097560176056308073)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3934](https://imglume.com/prompt/3934)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/73d2dd66-b9d9-4c92-aaeb-6c02def597f8/1e663497-5b46-42e7-ac74-eb06b9fc81a9-1789020234435 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/73d2dd66-b9d9-4c92-aaeb-6c02def597f8/97c20a76-293d-4a10-9f29-3f7277a8d2b1-1789020234435 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/73d2dd66-b9d9-4c92-aaeb-6c02def597f8/f052305c-ece6-47ec-9b43-81d74f0f4486-1789020234435 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/73d2dd66-b9d9-4c92-aaeb-6c02def597f8/a20321b5-3eac-4b11-b975-a5c6db9d3505-1789020234435 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A close-up, high-fashion portrait capturing the exact woman in a precise pose: her torso and shoulders are angled away at a three-quarter turn, while her neck is elongated and her head is tilted slightly down and turned towards the side profile. Her gaze is soft, dreamily looking away slightly past the camera lens with a serene, relaxed expression and lips gently parted. She has voluminous, brown hair styled in a sophisticated messy updo, with soft curtain bangs framing her face beautifully. She is wearing a striking, large white semi-translucent flower earring with a subtle gold center accent. Her outfit is a minimalist black halter-neck satin dress that wraps elegantly around her neck. The lighting is soft and dramatic, sculpting her features with warm, muted tones against a plain, dark charcoal gray background. Photorealistic, soft focus, studio lighting, intimate and moody atmosphere.
+
+Strictly avoid bright or vibrant colors, busy or outdoor backgrounds, casual clothing, small stud earrings, flat or straight hair without volume, looking directly at the camera, or overly harsh direct camera flashes. The final output must be a photograph, not a cartoon, digital drawing, illustration, or anime.</code></pre>
+
+</details>
+
+## Confident muscular male portrait with Audi at gas station
+
+- **Original source:** [@pictsbyai on X](https://x.com/pictsbyai/status/2097600395073966528)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3923](https://imglume.com/prompt/3923)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f61f7ff4-aff3-4fc6-b661-3d72f7832de8/b7f26cdc-b0d5-435b-8272-608fe934a0f2-1789018452842 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A confident, muscular young adult male stands centrally framed, looking directly at the viewer with a subtle closed smile and relaxed eyebrows, his textured wavy curtain hair catching bright specular highlights. He is dressed in a fitted black t-shirt and black pants, deliberately posing with his arms crossed over his chest to accentuate his musculature; his left hand rests naturally on his right bicep with fingers slightly curled, displaying a thick, fully visible silver chain bracelet. He leans facing the camera against the pristine, glossy black finish of an Audi sedan in the foreground, with an S-line badge visible on the front fender. To the right in the midground, worn gas station pumps with white and yellow casings and green and black nozzles stand on a solid dark grey concrete floor. Above him, a weathered industrial canopy roof features matte pale beige metal paneling with horizontal ribbing and bright square recessed light fixtures. Towering in the deep background, majestic steep, jagged rocky peaks with patches of white snow are silhouetted against spatial depth. The scene is enveloped in a high-contrast, moody atmosphere under a dark blue twilight sky, dominated by a cool split-complementary palette of deep blacks and twilight blues pierced by warm yellow-white accents. Highly directional, hard overhead practical lighting from the canopy mixes with ambient twilight, casting deep black, harsh, defined shadows under his chin, beneath his arms, and under the car, while reflecting specular highlights across his cheekbones, the bridge of his nose, and the car's hood. Captured as a realistic digital photograph with a 35mm lens at f/2.8, ISO 800, and 1/125s, this tack-sharp portrait blends cinematic automotive aesthetics with contemporary social media lifestyle influences, enhanced by cool shadows, slight dodging on the face, and lifted highlights on the car reflections, all beautifully framed in a 3:4 aspect ratio.</code></pre>
+
+</details>
+
+## 1985 style portrait recreation with analog grain
+
+- **Original source:** [@miratechtool on X](https://x.com/miratechtool/status/2097712223044907454)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3920](https://imglume.com/prompt/3920)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1e49f383-5af7-4203-a30d-175e817fc74a/b3fe3e0e-4808-4454-a801-116345aed660-1789018421861 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1e49f383-5af7-4203-a30d-175e817fc74a/0c49b746-7f35-49fe-8dcd-4714c1c8a170-1789018421861 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1e49f383-5af7-4203-a30d-175e817fc74a/89ee30f4-7d1d-4ac3-92ce-292c1f20db22-1789018421861 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Using my uploaded photo, show me what I would have looked like around 1985. Preserve my identity, facial features, skin tone, age, and recognizable appearance. Reimagine my hair, clothing, accessories, and surroundings with bold, unmistakably mid-1980s styling—expressive silhouettes, statement accessories, layered details, distinctive colors, and textures. Make it feel like a genuine 1985 photograph with analog grain, faded color, direct flash, and subtle softness. Add a period-accurate 1980s red-orange date stamp in the lower corner. No modern objects or text.</code></pre>
+
+</details>
+
+## High-angle urban selfie of Mediterranean woman
+
+- **Original source:** [@jeanalexandre_b on X](https://x.com/jeanalexandre_b/status/2097606091496477175)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3911](https://imglume.com/prompt/3911)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/50a7cb9c-2fdb-468e-82b6-5bbfdb8a5874/342bc2c3-3be5-444c-860d-7ca251ad3bf2-1789018328861 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high-angle, close-up selfie captures a young adult woman of Mediterranean or Southern European descent, estimated to be in her early 20s, walking down a paved urban sidewalk. She has strong model-like features and full lips, with tanned olive skin and long, voluminous dark brunette hair styled loose around her shoulders. She wears bold gold hoop earrings and a thin gold necklace. Her outfit consists of a fitted black tank top with delicate spaghetti straps and light tan, high-waisted trousers, paired with flat sandals. The woman holds a black rectangular clutch and wears narrow, oval-shaped black sunglasses that reflect the sidewalk ahead. The building beside her has ornate, weathered stonework and ornate cutouts, lending a historic feel to the setting. In the background, a casually dressed man in sunglasses and white pants walks out of focus, suggesting a busy urban area. The image is lit by bright, indirect natural daylight, casting soft, diffuse highlights and subtle shadows across her face and clothing. The color palette is dominated by warm skin tones, stone beige, black, and taupe. Captured on a modern smartphone with sharp digital clarity, the wide-angle lens causes slight facial distortion toward the frame’s edge. The overall mood is confident, candid, and fashion-forward.</code></pre>
+
+</details>
+
+## 宋玉穿衣全过程｜宋式闺房
+
+- **Original source:** [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2097630845435572490)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3909](https://imglume.com/prompt/3909)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac664152-1083-42b9-9132-263d154799a0/cee4188a-49a0-4888-bb32-60fc9cab3e2a-1789018309638 "【古风穿衣全过程｜宋式闺房】
+
+专业高级古风时尚摄影；9:16竖版完整画布，内部严格3列×3行九宫格，每格等比例、尺寸一致、间距细窄整齐；每格人物均以全身或接近全身构图为主，确保完整呈现服装穿着变化。
+
+以输入参考图中的同一位成年东方女性为唯一人物主体，保持相同面容、发型、体型比例、妆容与人物气质；以参考图中的完整服装作为最终造型依据，严格保持浅青白色古风服饰体系、刺绣纹样、半透明薄纱、腰封、裙装、发饰、首饰与鞋履的视觉特征，不自行设计另一套服装。
+
+九格表现同一位成年女子在清雅宋式闺房中连续完成穿衣的全过程，从基础贴身衣物逐层穿到参考图中的完整造型。第1格：仅穿精致简约的浅色基础贴身衣物，站在衣架旁，准备穿衣；第2格：穿上参考图中的浅青色刺绣内搭上衣；第3格：穿上对应裙装，整理裙腰与裙摆；第4格：开始穿入半透明浅青色外衫，将双臂穿入衣袖；第5格：系上参考图中的宽腰封，形成完整腰部层次；第6格：完成外衫穿着，在铜镜前整理衣襟、长袖与薄纱层次；第7格：整理完整下装与裙摆层次，确保腿部服饰状态与参考图一致；第8格：坐在榻边穿好参考图中的鞋履，同时佩戴项链、耳饰及其他已有配饰；第9格：所有服饰、鞋履、首饰与发饰全部完成，在铜镜前自然站立，呈现参考图中的完整最终造型。
+
+每一格必须严格继承上一格已经穿好的全部衣物，只新增或完成一个明确步骤；服装状态按照时间顺序逐格累积，不得消失、替换、变色、改变款式或突然增加参考图中不存在的服装；同一人物、同一套服装、同一闺房、同一时代氛围贯穿九格。动作必须具有明确的穿衣行为证据，例如取衣、套衣、穿袖、整理衣襟、系腰封、照镜整理、整理裙摆、穿鞋、佩戴首饰，让九格形成真实连续的Getting Dressed视觉叙事。
+
+背景为清雅宋式闺房，木质格窗、浅色纱帘、木质衣架、古朴妆台与铜镜、衣箱、低矮榻、简雅屏风、少量书卷与花枝；空间雅致、生活化、有真实居住感，避免过度堆砌古董；米白、浅木、青灰、淡青色调，与参考服装自然呼应。自然窗光进入室内，柔和光影，真实古风人像摄影，高级杂志编辑感，真实自然肤质，精致妆容，柔顺有光泽的头发；刺绣、缝线、褶皱、金属配件、半透明面料与服装层次清晰自然。")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【宋玉穿衣全过程｜宋式闺房】
+
+专业高级古风时尚摄影；9:16竖版完整画布，内部严格3列×3行九宫格，每格等比例、尺寸一致、间距细窄整齐；每格人物均以全身或接近全身构图为主，确保完整呈现服装穿着变化。
+
+以输入参考图中的同一位成年东方女性为唯一人物主体，保持相同面容、发型、体型比例、妆容与人物气质；以参考图中的完整服装作为最终造型依据，严格保持浅青白色古风服饰体系、刺绣纹样、半透明薄纱、腰封、裙装、发饰、首饰与鞋履的视觉特征，不自行设计另一套服装。
+
+九格表现同一位成年女子在清雅宋式闺房中连续完成穿衣的全过程，从基础贴身衣物逐层穿到参考图中的完整造型。第1格：仅穿精致简约的浅色基础贴身衣物，站在衣架旁，准备穿衣；第2格：穿上参考图中的浅青色刺绣内搭上衣；第3格：穿上对应裙装，整理裙腰与裙摆；第4格：开始穿入半透明浅青色外衫，将双臂穿入衣袖；第5格：系上参考图中的宽腰封，形成完整腰部层次；第6格：完成外衫穿着，在铜镜前整理衣襟、长袖与薄纱层次；第7格：整理完整下装与裙摆层次，确保腿部服饰状态与参考图一致；第8格：坐在榻边穿好参考图中的鞋履，同时佩戴项链、耳饰及其他已有配饰；第9格：所有服饰、鞋履、首饰与发饰全部完成，在铜镜前自然站立，呈现参考图中的完整最终造型。
+
+每一格必须严格继承上一格已经穿好的全部衣物，只新增或完成一个明确步骤；服装状态按照时间顺序逐格累积，不得消失、替换、变色、改变款式或突然增加参考图中不存在的服装；同一人物、同一套服装、同一闺房、同一时代氛围贯穿九格。动作必须具有明确的穿衣行为证据，例如取衣、套衣、穿袖、整理衣襟、系腰封、照镜整理、整理裙摆、穿鞋、佩戴首饰，让九格形成真实连续的Getting Dressed视觉叙事。
+
+背景为清雅宋式闺房，木质格窗、浅色纱帘、木质衣架、古朴妆台与铜镜、衣箱、低矮榻、简雅屏风、少量书卷与花枝；空间雅致、生活化、有真实居住感，避免过度堆砌古董；米白、浅木、青灰、淡青色调，与参考服装自然呼应。自然窗光进入室内，柔和光影，真实古风人像摄影，高级杂志编辑感，真实自然肤质，精致妆容，柔顺有光泽的头发；刺绣、缝线、褶皱、金属配件、半透明面料与服装层次清晰自然。</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic editorial fashion portrait on a beach at golden hour
+
+- **Original source:** [@sha_zdiii on X](https://x.com/sha_zdiii/status/2097696733740560470)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3902](https://imglume.com/prompt/3902)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/525f12fe-6e7a-4798-9044-3f124572340e/2cf856c4-8385-4b40-be02-1f9bc9387613-1789018240458 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/525f12fe-6e7a-4798-9044-3f124572340e/18a9def4-a1de-4d1c-bf75-55f49faf37aa-1789018240458 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-realistic cinematic editorial fashion portrait of a young elegant woman on a quiet beach during golden hour sunset.
+
+Use the reference image as inspiration for the pose, mood, and composition. Keep the same dreamy ocean atmosphere but create a more unique high-fashion pose.
+
+She is wearing a flowing ivory champagne-colored luxury chiffon and lace gown with long soft sleeves, elegant covered neckline, delicate fabric texture, and a graceful silhouette. The dress should flow naturally with the sea breeze and touch the shallow water.
+
+Pose: She is sitting gracefully on wet reflective sand near the waves, body slightly turned sideways, one leg folded naturally, one hand gently touching the water, the other hand raised in an artistic dance-like movement near her face. Create a graceful, emotional pose inspired by classical dance and luxury fashion photography.
+
+Expression: peaceful, dreamy, elegant, looking toward the horizon.
+
+Hair: long natural dark waves moving softly with the ocean breeze.
+
+Lighting: warm golden sunset backlight, soft glowing rim light around hair and dress, cinematic shadows, pastel sky tones.
+
+Color palette: ivory, champagne, soft beige, warm gold, muted peach, and ocean blue.
+
+Camera: professional fashion magazine photography, 85mm lens, shallow depth of field, ultra detailed fabric, realistic skin texture, natural beauty, high-end luxury editorial style.
+
+Composition: full body shot, centered subject, reflection on wet sand, ocean waves around her, minimal clean background.
+
+Style: Vogue-inspired luxury beach editorial, dreamy cinematic photography, viral Instagram aesthetic, realistic, 8K quality.
+
+No text, no watermark, no extra people, no accessories overload.</code></pre>
+
+</details>
+
+## High fashion magazine pictorial of Alpine-looking woman
+
+- **Original source:** [@Elvorya on X](https://x.com/Elvorya/status/2097685311580999686)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`
+- **ImgLume record:** [3891](https://imglume.com/prompt/3891)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5f43c474-16fe-4433-8d78-9ad2fd268d90/5533fa7b-71dc-4876-90e2-b30ed76434fe-1789017986161 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A high fashion magazine pictorial of an Alpine-looking woman in her early 20s who stands still, looking at the camera, turning her head in the center, surrounded by a blurry silhouette of people passing by. She has a calm, stoic look on her face and is wearing a black minimalist outfit. The background is clean, bright and slightly abstract, and emphasizes the contrast between motion blur and static appearance. Editing style, film composition, pure art photography, soft magazine texture, high resolution.</code></pre>
+
+</details>
 
 ## Neon Rain, City Glow
 

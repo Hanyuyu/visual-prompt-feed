@@ -1,9 +1,30 @@
 # Product Brand image prompts
 
-3 source-linked prompts, newest ImgLume records first.
+4 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium technical infographic of Apple 18 pro
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2097925502493508013)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-brand`
+- **ImgLume record:** [3965](https://imglume.com/prompt/3965)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/793fa19f-f825-4e8c-9e06-99473a264def/ec235952-6115-48dd-9853-f7a36918096e-1789036879626 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/793fa19f-f825-4e8c-9e06-99473a264def/68e041fa-f5b0-4d7d-8a0e-bf22c5fc0daf-1789036879626 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium technical infographic of [Apple 18 pro ].
+Use the reference image only to understand the shape and structure of the object, without copying the same photo, angle, composition, or background. Reinterpret the subject in a new professional and realistic photograph, clean and well-lit, with a suitable and more aesthetic background. Keep the object as a real photo, not an
+illustration. Add a technical blueprint-style overlay with white lines, arrows, dimensions, labels, and small diagrams of parts, materials, measurements, and functionality.
+Clear, elegant, and informative composition.
+Include a sketch box in the upper left corner with the title "[Apple 18 pro]</code></pre>
+
+</details>
 
 ## Premium Energy Drink Concept Design
 

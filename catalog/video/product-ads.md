@@ -1,9 +1,324 @@
 # Product Ads video prompts
 
-92 source-linked prompts, newest ImgLume records first.
+99 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Blueberry Muffin Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2098050983259689267)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3998](https://imglume.com/prompt/3998)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/72b70b90-eafc-4240-aad1-73ce34739739/58c62703-19b4-43f1-8349-8e758c35b5f2-1789064282701 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/72b70b90-eafc-4240-aad1-73ce34739739/cfb8d75f-5fda-47bc-a440-c908015e75df-1789064282701 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Blueberry Muffin Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet bakery campaign
+• 8 cinematic product-focused scenes
+• Product remains the main visual hero
+• Premium advertising agency presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Luxury Bakery Commercial
+ - Product: Blueberry Muffins
+ - Audio: Bakery Crackle + Soft ASMR
+• Why This Style Works section
+• Cream, blueberry blue and golden-brown aesthetic
+• Minimal berry-inspired decorative accents
+
+STORYBOARD:
+1. Premium blueberry muffin box displayed on a clean marble surface
+2. Box opening to reveal freshly baked muffins
+3. One muffin being lifted from the package
+4. Muffin wrapper slowly peeling away in macro
+5. Muffin breaking open to reveal soft blueberry-filled interior
+6. Fresh blueberries dropping onto the muffin in slow motion
+7. Extreme macro of moist crumb texture and bursting blueberries
+8. Final hero product shot with the muffin box, freshly baked muffins and scattered blueberries
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion berry drop, pastry break shot, overhead composition, shallow depth of field, smooth camera push-in, cinematic hero framing.
+
+STYLE:
+Ultra-realistic bakery advertising, moist crumb texture, realistic blueberry details, golden baked crust, subtle steam, premium packaging, warm cinematic lighting, luxury food photography, 8K.</code></pre>
+
+</details>
+
+## Luxury Korean Skincare Product CGI Video for Anua Rice 70+ Glow Milky Toner
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2097948860580561315)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3968](https://imglume.com/prompt/3968)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bec64c60-0299-4660-bf2b-b982513507de/a670b1b3-7636-4836-a3f2-1966fd8b6c12-1789041081108 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style: Luxury Korean skincare, minimal, clean, soft ivory and blush-pink palette, premium CGI, glossy liquid physics, elegant editorial beauty commercial, photorealistic, slow-motion.
+
+Product: Use the exact attached Anua Rice 70+ Glow Milky Toner bottle as the hero product. Preserve the bottle shape, proportions, cap, label, typography, colors, and all packaging details exactly. No redesign or altered text.
+
+⸻
+
+Scene 1 — Hero Introduction
+
+The exact Anua Rice 70+ Glow Milky Toner bottle slowly descends from above against a pristine ivory-white background with subtle warm pink gradients. Fine water droplets gently float around the bottle, catching soft light.
+
+Camera: Slow cinematic push-in.
+Lighting: Soft diffused studio lighting, delicate glossy reflections, premium beauty-commercial look.
+
+Scene 2 — Milky Water Splash
+
+The bottle gracefully settles into a pool of crystal-clear water. A perfectly balanced, elegant splash rises around the base in slow motion, while subtle blush-pink reflections shimmer through the liquid.
+
+Camera: 120fps macro cinematic shot.
+Details: Realistic water physics, fine droplets, glass-like refractions, soft highlights.
+
+Scene 3 — Rotating Beauty Shot
+
+The bottle slowly rotates 360° while suspended just above reflective water. Tiny water droplets orbit naturally around it as the background transitions from ivory white into an ultra-soft blush-pink gradient.
+
+Camera: Smooth luxury product turntable movement.
+Details: Sharp product focus, shallow depth of field, realistic reflections.
+
+Scene 4 — Milky Toner Texture
+
+Extreme macro shot of the toner dispensing from the bottle. A silky, translucent milky-white drop forms and slowly falls downward.
+
+Camera: Macro lens tracking the falling drop.
+Details: Ultra-realistic liquid simulation, smooth viscosity, glossy surface tension, soft pink reflections.
+
+Scene 5 — Ripple &amp; Hydration
+
+The milky toner drop lands gently on a perfectly calm water surface, creating elegant concentric ripples. Tiny micro-bubbles rise through the water as light softly reflects across the surface.
+
+Camera: Slow-motion macro shot from water level.
+Mood: Calm, fresh, luxurious, hydrating.
+
+Scene 6 — Ingredient &amp; Benefit Reveal
+
+The exact bottle remains perfectly centered above a glossy reflective surface. Minimal elegant typography appears around the product.
+
+Left Side
+✓ Rice Water 70+
+✓ Nourishing Glow
+
+Right Side
+✓ Hydrated, Radiant Skin
+✓ Smooth Milky Finish
+
+Typography is refined, minimal, and premium, with generous spacing. Do not obstruct the product.
+
+Scene 7 — Milky Texture Beauty Shot
+
+Extreme macro shot of the Anua milky toner spreading smoothly across a pristine glass surface. The texture looks silky, lightweight, and luminous, forming delicate waves with tiny air bubbles.
+
+Lighting: Soft Korean beauty editorial lighting with glossy highlights.
+Camera: Slow macro tracking shot.
+
+Scene 8 — Product in Hand
+
+An elegant feminine hand gently picks up the exact toner bottle. Natural soft sunlight enters from the side, creating subtle highlights along the bottle and cap.
+
+Camera: Slow graceful rotation around the hand and product.
+Background: Minimal warm-white studio environment with a faint blush-pink gradient.
+
+Scene 9 — Final Hero Shot
+
+The exact Anua Rice 70+ Glow Milky Toner bottle stands perfectly centered on a glossy reflective water surface. Soft blush-pink mist gently fills the background. A few water droplets float around the bottle while subtle sparkles create a premium finishing touch.
+
+Camera: Very slow push-in toward the label.
+Lighting: Soft diffused luxury studio lighting, realistic reflections, cinematic depth of field.
+
+Final look: High-end Korean skincare campaign, photorealistic product CGI, elegant, minimal, luxurious, soft pink-and-ivory aesthetic, realistic water and liquid physics, no distortion, no extra products, no altered packaging, 3:4</code></pre>
+
+</details>
+
+## Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2097919290980921451)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3964](https://imglume.com/prompt/3964)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a5f9a7a3-ce18-479d-94e4-40c91e1d1973/d09da526-f39d-4ec5-9466-1625117bb34e-1789034872651 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/a5f9a7a3-ce18-479d-94e4-40c91e1d1973/ca043405-b4c4-4c57-af9f-352dccf8e19a-1789034872651 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate</code></pre>
+
+</details>
+
+## Cinematic Luxury Perfume Commercial
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2097791048147677313)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [3950](https://imglume.com/prompt/3950)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8aa362ff-211f-4d7e-9eb2-d3d3bde86503/fc8a0440-dd63-4e6e-8b2d-ecc59a31648c-1789026487207 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic luxury perfume commercial featuring an elegant woman in a minimalist studio wearing a sophisticated black outfit, presenting a sleek black perfume bottle to the camera; close-up macro shots highlight the bottle and spray nozzle, followed by a beautiful side-lit moment as she sprays the fragrance onto her wrist, then gently smells it and smiles with confidence, using soft natural lighting, shallow depth of field, smooth camera movements, premium beauty-advertising aesthetics, realistic skin texture, subtle slow motion, and high-end commercial cinematography.</code></pre>
+
+</details>
+
+## Minimalist Lavender Beauty Commercial Video Prompt
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2097908289619284300)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3947](https://imglume.com/prompt/3947)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9f531d41-6a8e-4b86-8007-aa274630b376/7b0bfa7c-b018-4ebe-a76b-4f2bf168c05f-1789026414879 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A clean, minimalist commercial beauty video aesthetic with soft pastel purple and lavender theme and warm luxury lighting.
+
+Scene 1: A close up cinematic shot of a dark purple skincare jar labeled Foxtale Skin Radiance Mask placed on a minimalist white circular podium with an open lid revealing a smooth lavender clay mask and small purple flowers scattered around.
+
+Scene 2: Macro shot zooming in on a white cosmetic spatula lifting a rich, creamy, whipped lavender purple texture from the jar.
+
+Scene 3: A radiant young woman smilingly applying the smooth lavender face mask onto her cheekbone with the spatula and blending it effortlessly.
+
+Scene 4: The jar resting on a stone block against a pastel purple background with elegant bold text on the right side reading Detans &amp; Brightens Cleaner Pores Clearer Skin Natural Glow</code></pre>
+
+</details>
+
+## Luxury Perfume Review Video Prompt
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2097904148360630318)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3940](https://imglume.com/prompt/3940)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0af6d7c4-42e0-4130-8f8a-d07e2725e438/c57945c6-bb11-41f5-92b2-902fc0b3b33e-1789022216005 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a realistic luxury perfume review video featuring a stylish young woman in an elegant modern setting.
+
+She holds the Bleu de Chanel perfume bottle toward the camera, showing the bottle clearly. She then sprays a small amount on her wrist and neck, gently smells the fragrance, smiles naturally, and gives a genuine personal reaction.
+
+She looks directly into the camera and speaks naturally in a warm, confident female English voice with perfect lip-sync:
+
+“I’ve been trying Bleu de Chanel, and honestly, I really love it. It smells fresh, clean, sophisticated, and very elegant. It’s perfect for everyday wear, but it also feels special enough for an evening out. Definitely a fragrance I’d recommend.”
+
+Use natural facial expressions, realistic hand gestures, accurate lip movement, and authentic influencer-style delivery. Keep her voice clear, smooth, friendly, and conversational—not robotic or overly commercial.
+
+Use soft flattering lighting, realistic skin texture, shallow depth of field, cinematic camera movement, natural perfume spray mist, realistic reflections, and a premium lifestyle background. Keep the perfume bottle consistent and recognizable throughout.
+
+Photorealistic, luxury fragrance commercial, authentic product review, realistic physics, smooth motion, 4K, vertical . No distorted hands, no warped bottle, no changing face, no flickering, no incorrect text.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic sunglasses fashion commercial
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2097652746702958926)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [3896](https://imglume.com/prompt/3896)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5ee3d186-887e-4283-8638-93c2414b7a8d/388c7371-d73f-4157-9752-069e1b6a8ed6-1789018069808 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic premium sunglasses fashion commercial.
+Use the reference image and keep the model, face, outfit, sunglasses and red background consistent.
+Model playfully eats ice cream while wearing the sunglasses, smiling naturally.
+She walks confidently toward camera in a stylish editorial pose.
+Cut to a sharp side-profile shot highlighting the sunglasses silhouette.
+Show a playful close-up with a subtle kiss pose toward the camera.
+She blows a bubblegum bubble and pops it with a playful expression.
+Show an extreme macro shot of the sunglasses with glossy reflections and crisp details.
+Model sits and adjusts the sunglasses while a blurred foreground passes the lens.
+Show the sunglasses resting in her open hand against the red background.
+Finish with confident walking, juice-sipping, product rotations and a clean hero pose.
+End on a slow macro close-up of the sunglasses, with realistic lighting, smooth motion and no text, subtitles or watermark.</code></pre>
+
+</details>
 
 ## Ultra-realistic 15-second beauty vlog of a morning skincare routine
 

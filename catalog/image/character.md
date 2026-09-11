@@ -1,9 +1,112 @@
 # Character image prompts
 
-130 source-linked prompts, newest ImgLume records first.
+133 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 4×4 Character Dance Pose Grid Prompt
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2098050289819652321)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3988](https://imglume.com/prompt/3988)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4a993a2c-cf67-4ec4-a7a4-8c176f444068/6b9e3230-855e-4497-9668-5e11917db036-1789060019476 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4a993a2c-cf67-4ec4-a7a4-8c176f444068/4b4db619-d9e7-44fb-9107-311ff5c13d57-1789060019476 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4a993a2c-cf67-4ec4-a7a4-8c176f444068/24615aa2-8aa6-47a7-a9a7-0866d33b85da-1789060019476 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a single square image featuring a 4×4 grid of 16 unique full-body dance poses based on the uploaded character.
+
+CHARACTER-DRIVEN CHOREOGRAPHY
+First, visually interpret the character’s personality and aesthetic through their expression, silhouette, outfit, accessories, proportions, and overall visual style. Use this interpretation to invent a personalized dance vocabulary that feels natural and distinctive to THIS character.
+
+Do not apply a generic dance routine or a predetermined list of poses. Let the character’s attitude determine the rhythm, energy, gestures, posture, footwork, and use of space.
+
+For example, a mischievous character might use cheeky gestures, unexpected weight shifts, and playful hops; a reserved character might favor controlled steps and subtle hand movements; a bold character might use grounded footwork and sharp accents; an ethereal character might move through soft curves and floating transitions. These are illustrative possibilities, not required categories or moves. Combine traits when the design suggests a more nuanced personality.
+
+Develop a recognizable movement motif unique to this character and reinterpret it across several panels without repeating the same pose. Incorporate distinctive design features naturally: flowing sleeves may follow sweeping gestures, heavy boots may inspire grounded steps, and a tail or wings may contribute to balance and expression if present. Do not invent accessories or anatomy.
+
+Make the result feel like this character is expressing themselves through dance, rather than performing an interchangeable pose pack. Keep the movement appropriate to the character’s apparent age, anatomy, clothing, and mobility.
+
+SEQUENCE AND VARIETY
+Show 16 distinct key poses from one cohesive, character-specific dance phrase, read left to right and top to bottom. Build a natural progression from an opening gesture through variations and a climax to a signature finish.
+
+Include meaningful variation in silhouette, arm placement, footwork, body orientation, and movement level only where it suits the character. Do not force jumps, squats, exaggerated expressions, or dramatic poses onto a character whose personality calls for restraint. Even subtle choreography should produce clearly distinguishable poses.
+
+Maintain believable balance and natural joints. Use facial expressions, head tilts, hands, and posture to reinforce the same personality throughout. Hair, clothing, and accessories should react naturally to movement.
+
+IDENTITY AND STYLE
+Preserve the uploaded character’s identity exactly: face, hairstyle, body proportions, outfit, colors, footwear, and accessories. Maintain the reference image’s rendering style throughout all 16 panels. Do not redesign, recolor, or change costumes. Infer any unseen details conservatively and keep them consistent.
+
+GRID AND PRESENTATION
+Exactly four rows and four columns, with 16 equally sized square panels separated by thin black lines. Plain white backgrounds and subtle grounding shadows. Number the panels 1–16 in the upper-left corners.
+
+One full-body character per panel, including all extremities and accessories, with comfortable margins. Consistent character scale, camera distance, lighting, and ground level. Use a fixed eye-level camera; different views should result from the character turning.
+
+If a separate dance-grid reference is provided, use it only for the grid layout and presentation. Do not copy its character, outfit, dance poses, or attitude. The uploaded character must determine the choreography.
+
+OUTPUT
+A polished dance reference sheet with strong character identity and 16 individually readable poses. Output only the image, without written analysis.
+
+AVOID
+Generic choreography, copied reference poses, repetitive or mirrored duplicates, personality mismatches, forced cuteness or swagger, inconsistent identity, altered outfits, cropped extremities, extra limbs, distorted anatomy, motion trails, missing or extra panels, and text other than panel numbers.</code></pre>
+
+</details>
+
+## Polished pixel-art animation sprite sheet of Noxa the fox
+
+- **Original source:** [@higgsfield_ai on X](https://x.com/higgsfield_ai/status/2097849478506320056)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `character`
+- **ImgLume record:** [3970](https://imglume.com/prompt/3970)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/42b2e89b-4a79-4861-a346-43f2f7f93676/bcb4c936-c97d-4b30-9caa-04294b24db46-1789045308183 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/42b2e89b-4a79-4861-a346-43f2f7f93676/0cc450b7-abb4-4f82-99f5-6e74c86cfc7d-1789045308183 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a polished pixel-art animation sprite sheet featuring an original character named Noxa, a tiny fox who collects lost stars.
+
+CHARACTER DESIGN
+Noxa is an adorable upright arctic fox with silvery ivory fur, oversized pointed ears with lavender inner fur, enormous amber eyes, a tiny dark nose, and one large fluffy tail with a midnight-blue tip. Animal face and paws, cute chibi proportions, an oversized head and a compact little body.
+She wears a short midnight-indigo cape with a scalloped hem, a golden crescent clasp, and a few embroidered stars. A small teal satchel hangs at her hip. In her right paw she holds a short brass staff topped with a crescent moon enclosing a tiny warm-yellow star. Her expression is curious, slightly mischievous, and lovable.
+
+ART DIRECTION
+Premium hand-crafted pixel art for a cozy fantasy RPG. Clearly visible square pixels, precise dark-purple outlines, controlled clusters of color, and restrained highlights. Use ivory, indigo, lavender, teal, and warm gold. Front-facing full-body view with a readable silhouette. Keep the moonlight effect contained in crisp pixels. Avoid realistic fur, painted shading, soft gradients, blur, and 3D rendering.
+
+MOTION
+Show a single restrained idle cycle across 16 sequential frames. Her chest gently rises and settles; the tail tip and cape follow with a slight delay. Include one quick blink near the middle of the sequence: eyes open in frames 1-7, half closed in frame 8, closed in frame 9, half open in frame 10, open in frames 11-16. Her paws stay planted, and the staff remains firmly held. Maintain identical anatomy, costume details, proportions, and scale throughout. The final pose should flow naturally into the opening pose.
+
+SHEET LAYOUT
+One square 1024 x 1024 image divided into four rows and four columns of equally sized 256 x 256 cells. Read frames across each row, then continue below. Repeat the same centered placement and foot baseline in every cell. Every sprite fits entirely inside the central 208 x 208 area of its cell, leaving at least 24 pixels of empty padding on all sides. Show exactly 16 complete sprites without borders, captions, or extra characters. No sprite or accessory may touch any cell edge.
+
+Use a transparent background with real alpha, without a painted checkerboard, scenery, ground plane, or cast shadows. Output the sprite sheet as one image.</code></pre>
+
+</details>
+
+## Semi-realistic digital painting with engraving style and cinematic warm lighting, 9:16
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2097910747980255291)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3957](https://imglume.com/prompt/3957)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6f4f95a0-0a22-4645-81cf-911f0f050169/e3c149bf-dbbe-4119-a051-865f3cc4782f-1789030566690 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/6f4f95a0-0a22-4645-81cf-911f0f050169/bf0b5b70-1872-4d71-b76b-9d9a5c1103db-1789030566690 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/6f4f95a0-0a22-4645-81cf-911f0f050169/c7586c5f-8292-4e2c-8f15-03c7dad30e63-1789030566690 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Soft semi-realistic digital painting blended with highly detailed engraving illustration style, combining painterly softness with ultra-fine crosshatching and dotting techniques. Cinematic warm lighting with a strong golden-orange glow illuminating one side of the subject, contrasted by soft cool shadows, enhanced by dramatic chiaroscuro. Skin and textures are rendered through a fusion of smooth luminous digital shading and dense layered engraving lines, creating a balance between soft gradients and intricate linework. Subtle glossy highlights and reflective surfaces are preserved, especially in the eyes, giving a luminous and lifelike appearance.
+Delicate painterly blending remains visible through soft brush strokes, seamlessly integrated with precise contour lines and micro-detail etching, forming rich textures built from thousands of fine strokes. Edges transition naturally—sharp and clean in focal areas while dissolving into loose sketch-like strokes in unfinished regions. The top of the head and lower body fade into an incomplete sketch effect with soft, disappearing lines and partially dissolved forms blending into the background.
+Background uses a textured brown cardboard surface with visible matte grain and slightly rough tactile quality, subtly merged with a dark, studio-like atmospheric depth. The composition is minimalistic and elegant, with a calm yet dramatic mood. Color grading leans toward warm, natural tones with a slightly muted and faded palette, maintaining harmony between digital painting warmth and classic engraving aesthetics.
+High contrast lighting with deep blacks and controlled highlights enhances depth, while maintaining soft transitions in key areas. Ultra-high detail, macro texture emphasis, cinematic shadow depth, museum-quality finish, handcrafted engraving feel, 8K resolution. Ar 9:16!</code></pre>
+
+</details>
 
 ## GPT Image 2 Character Sheet – SHENZO The Wandering Monk
 

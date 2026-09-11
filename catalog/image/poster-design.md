@@ -1,9 +1,558 @@
 # Poster Design image prompts
 
-136 source-linked prompts, newest ImgLume records first.
+141 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Apple iPhone Duo promotional poster
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2097978468642480487)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3971](https://imglume.com/prompt/3971)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/af53e515-2d30-4df2-92f6-44d9e866de2a/3e41086f-85e1-439a-b663-fe04a0ecc342-1789047439631 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/af53e515-2d30-4df2-92f6-44d9e866de2a/18c5aaa3-e9ee-4ab6-90ad-46afb26549e3-1789047439631 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>4:5 vertical premium smartphone campaign poster, ultra-high resolution (8K), global OOH + digital + social ready
+Style: Apple-level art direction × contemporary product photography × bold editorial composition × hyper-real commercial photography
+
+🧠 CORE INTENT:
+“ANYTHING’S POSABLE.”
+
+One iPhone.
+More ways to see it.
+More ways to use it.
+More ways to make it yours.
+
+Effortless flexibility.
+Physical intelligence.
+One device that adapts to the moment.
+
+🎬 SCENE COMPOSITION:
+
+BACKGROUND:
+Pure matte white architectural studio environment with a dominant oversized rounded rectangle block in ultra-soft warm silver gradient (top-left → bottom-right illumination)
+
+The background block creates a subtle dimensional stage behind the subject and product.
+
+GIANT TYPOGRAPHY (BACKGROUND LAYER):
+“DUO”
+
+* ultra-bold geometric sans-serif
+* stretched wide kerning
+* partially cropped by frame edges
+* soft shadow depth
+* color: very light warm grey
+* subtle embossed / debossed effect
+* typography positioned behind the subject and product
+* large enough to function as an architectural graphic element
+
+👤 SUBJECT (HUMAN ELEMENT):
+
+Female model, clean contemporary editorial look, Apple-style casting
+
+* neutral expression
+* confident, calm, effortless
+* natural skin texture
+* hair: natural flow, slightly wind-touched
+* minimal makeup
+* understated styling
+
+OUTFIT:
+→ sculptural off-white tailored top
+→ deep graphite trousers
+→ minimal accessories
+→ no visible branding
+→ sophisticated contemporary styling
+
+POSE:
+
+* Shot from slightly low angle (hero perspective)
+* Body slightly angled toward camera
+* One hand holding iPhone Duo in its compact closed configuration
+* Other hand lightly supporting the device as it opens
+* iPhone Duo positioned prominently between viewer and subject
+* Face aligned toward viewer
+* direct eye contact
+* relaxed posture
+* pose communicates control rather than excitement
+
+📱 PRODUCT (HERO FOCUS):
+
+DEVICE:
+iPhone Duo
+
+FINISH:
+Premium titanium finish with physically accurate metallic surface response
+
+POSITION:
+Extreme foreground (forced perspective)
+Slightly rotated toward camera to reveal the thin profile, hinge construction and display relationship
+
+The device must remain the dominant visual object.
+
+PRODUCT CONFIGURATION:
+iPhone Duo shown transitioning from compact outer-display mode into its expansive unfolded configuration.
+
+One continuous physical device.
+No impossible geometry.
+No duplicated products.
+No floating components.
+
+DETAILING:
+
+* ultra-thin titanium frame
+* precision hinge construction
+* seamless folding display
+* extremely thin bezels
+* hyper-sharp camera system
+* lens reflections physically accurate
+* brushed titanium edge highlights
+* subtle micro-scratches
+* realistic fingerprints / material response kept extremely subtle
+* Apple logo centered with restrained reflective gloss
+* physically accurate display reflections
+* realistic hinge shadow and contact points
+
+The unfolded display should feel expansive and architectural rather than simply “larger.”
+
+REFLECTION:
+
+* soft studio reflection across titanium edges
+* subtle screen reflections
+* controlled highlight around hinge
+* micro light bloom around metallic edges
+
+✨ LIGHTING SYSTEM:
+
+MAIN LIGHT:
+Soft studio key light (front-left)
+→ smooth skin tones
+→ clean product highlights
+→ controlled white-to-silver transitions
+
+RIM LIGHT:
+Cool-white edge light from right
+→ enhances phone silhouette
+→ separates titanium edges from white background
+→ reveals the thinness of the device
+
+ACCENT LIGHT:
+Very subtle warm-silver glow from background architectural block
+
+SHADOW:
+Soft drop shadow beneath subject + phone
+Soft contact shadow around hinge
+(no harsh contrast)
+
+🎨 COLOR SYSTEM:
+
+* Primary: clean Apple white
+* Secondary: titanium silver / warm metallic grey
+* Accent: subtle graphite
+* Background: warm neutral white
+* Contrast: deep micro-shadows
+
+No over-saturation.
+No neon.
+No unnecessary color effects.
+Controlled premium palette.
+
+✨ GRAPHIC ELEMENTS:
+
+* Minimal sparkle icons ✦ (2 only)
+* One subtle translucent UI pill floating near the unfolded display
+* Thin technical construction line following the phone’s folding axis
+* Very subtle grain for realism
+* Minimal geometric indicators showing the transition between closed and open states
+
+All graphic elements remain secondary to the product.
+
+✍️ TYPOGRAPHY SYSTEM:
+
+TOP LEFT:
+Apple logo (black, small, clean)
+
+TOP RIGHT:
+“Anything’s posable.” (thin sans-serif)
+
+MID LEFT (pill):
+“iPhone Duo”
+
+CENTER DOMINANT:
+“DUO” (background type)
+
+BOTTOM RIGHT (body text):
+Small paragraph:
+
+“iPhone Duo.
+One beautifully designed iPhone.
+Two ways to see it.
+Made to move with you.”
+
+📊 FEATURE STRIP (BOTTOM GRID):
+
+4 rounded cards (glass-white panels):
+
+1. 7.6″ INNER DISPLAY
+ “More room to see.”
+2. 5.4″ OUTER DISPLAY
+ “Ready when you are.”
+3. TITANIUM DESIGN
+ “Precision in every fold.”
+4. A20 PRO
+ “Pro performance. In a new form.”
+
+Icons minimal line style.
+
+Cards must feel integrated into the poster rather than appearing as a generic technology specification panel.
+
+📐 COMPOSITION GRID:
+
+* Top: brand + statement
+* Mid: subject + product (dominant)
+* Background: giant “DUO” typography layer
+* Bottom: feature modules
+
+Strong vertical hierarchy.
+
+The product overlaps the background typography.
+
+The model creates secondary depth behind the phone.
+
+Eye flow:
+Face → Phone → Hinge → “DUO” → Features
+
+The iPhone Duo must remain the first visual priority.
+
+🎥 CAMERA SPECS:
+
+* ARRI Alexa Mini LF
+* 50mm premium anamorphic lens
+* shallow depth of field around subject
+* product maintained in extremely high optical clarity
+* HDR rendering
+* ultra-real skin + titanium material detail
+* subtle lens distortion for realism
+* physically accurate reflections
+* controlled cinematic highlight roll-off
+* realistic depth separation
+* premium commercial product photography
+
+Slightly low camera position for a subtle hero perspective.
+
+No extreme wide-angle distortion.
+No exaggerated perspective.
+No artificial CGI appearance.
+
+🎯 FINAL ART DIRECTION:
+
+Apple-level campaign restraint with enough visual tension to feel contemporary and editorial.
+
+The poster should communicate that iPhone Duo is not simply a phone that folds.
+
+Its ability to change position becomes the central visual language of the campaign.
+
+Premium.
+Precise.
+Human.
+Physical.
+Confident.
+
+No generic foldable-phone aesthetic.
+No futuristic sci-fi environment.
+No excessive holograms.
+No neon.
+No cyberpunk styling.
+No random floating UI.
+No distorted hands.
+No malformed device geometry.
+No impossible hinge.
+No duplicated cameras.
+No fake Apple branding.
+No clutter.
+No cheap AI-rendered appearance.
+
+FINAL OUTPUT:
+4:5 vertical
+8K
+hyper-real commercial photography
+premium Apple campaign art direction
+global advertising quality
+OOH billboard ready
+social media ready
+Behance-level visual design</code></pre>
+
+</details>
+
+## Premium Luxury Travel Poster – Pakistan & Philippines 3D Miniature Diorama
+
+- **Original source:** [@KrishnaBio1 on X](https://x.com/KrishnaBio1/status/2097853092880613845)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `poster-design`
+- **ImgLume record:** [3966](https://imglume.com/prompt/3966)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/adaf3e71-64b8-478d-ad78-0d84c4a7aab3/28493345-3833-4368-b0d7-bdeb9337b25e-1789036934864 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/adaf3e71-64b8-478d-ad78-0d84c4a7aab3/054d41ae-88d8-4525-8e8c-5c0e34131722-1789036934864 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium sophisticated luxury travel-poster masterpiece combining Pakistan 🇵🇰 and the Philippines 🇵🇭 into one seamless original composition, 3:4 vertical format. Create a completely new high-end 3D miniature travel diorama inspired by the reference images, blending landscapes, architecture, culture and natural beauty into one connected world, not a split screen or simple collage.
+DESTINATION IDENTITY
+Pakistan 🇵🇰 — From Mountains to the Sea — Feature snow-covered Himalayan and Karakoram peaks, Gilgit-Baltistan, Skardu, Hunza and Swat Valley with turquoise lakes, pine forests, rivers and mountain villages. Naturally transition toward Islamabad with Faisal Mosque, historic Lahore with Badshahi Mosque and Mughal architecture, then Peshawar, Quetta, Multan and finally the turquoise Arabian Sea with Gwadar and Karachi, coastal cliffs, boats and palm-lined waterfronts.
+Philippines 🇵🇭 — Islands, Nature &amp; Adventure — Feature turquoise lagoons, dramatic limestone cliffs, tropical forests, palm-covered islands, white beaches, colorful coastal villages, luxury resorts, historic churches, stone forts, yachts, traditional boats and crystal-clear ocean water.
+COMPOSITION
+Create one continuous miniature world showing a visual journey from Pakistan's snowy mountains and historic cities to its Arabian Sea coastline, naturally flowing into the tropical islands of the Philippines.
+Use an elevated cinematic perspective with strong foreground, middle-ground and background depth. Include miniature mountains, lakes, rivers, mosques, churches, forts, villages, roads, bridges, boats, yachts, palm trees and detailed vegetation.
+Make the entire scene look like an extraordinarily detailed premium collectible geographical model displayed on an elegant sculpted platform.
+TYPOGRAPHY
+Use elegant vintage-modern luxury travel typography with generous negative space.
+PAKISTAN • PHILIPPINES
+TWO NATIONS • ENDLESS BEAUTY
+MOUNTAINS • CULTURE • ISLANDS • ADVENTURE
+“From the Highest Peaks to Tropical Seas.”
+Include accurate Pakistan 🇵🇰 and Philippines 🇵🇭 flags, refined serif lettering, subtle decorative lines and clean professional typography.
+ART DIRECTION
+Premium international luxury travel campaign, hyper-realistic 3D miniature diorama, sophisticated architectural visualization, realistic geographical terrain, detailed cultural landmarks, cinematic travel photography, realistic mountains, tropical islands, crystal-clear water and premium collectible postcard aesthetic.
+Blend the majestic beauty of Pakistan with the tropical paradise of the Philippines into one harmonious artistic experience.
+COLOR SYSTEM
+Use warm ivory, parchment cream, snowy white, Himalayan blue, turquoise, emerald green, sandstone, terracotta, tropical green and soft golden sunlight.
+Keep the colors naturally connected, transitioning from cool mountain tones into warm desert and vibrant tropical coastal colors.
+LIGHTING &amp; ATMOSPHERE
+Cinematic golden-hour lighting with warm sunlight across mountains, cities, islands and coastlines. Add subtle mountain mist, glowing windows, realistic water reflections, soft clouds and natural atmospheric depth.
+The mood should feel majestic, peaceful, vibrant, adventurous and luxurious.
+QUALITY
+Ultra-realistic, extremely detailed, premium architectural visualization, realistic miniature scale, authentic cultural architecture, detailed mountains and vegetation, realistic water reflections, cinematic HDR lighting, sophisticated depth of field, 8K-quality appearance, flawless composition and high-end travel-magazine aesthetic.
+NEGATIVE PROMPT
+No split screen.
+No separate posters.
+No simple collage.
+No hard division between countries.
+No duplicated landmarks.
+No distorted mosques, churches or buildings.
+No unrealistic geography.
+No incorrect flags.
+No overcrowded composition.
+No excessive text.
+No misspelled words.
+No harsh neon colors.
+No cartoon style.
+No watercolor or painterly style.
+No flat 2D appearance.
+No artificial-looking water.
+No distorted boats or mountains.
+No visual clutter.
+No copied reference layout.
+No watermark or logo.
+Create a fresh, original, unified and luxurious travel-diorama composition celebrating Pakistan and the Philippines as two extraordinary worlds in one unforgettable journey.</code></pre>
+
+</details>
+
+## Premium hyper-realistic luxury men’s fashion editorial poster – MIDNIGHT FORM
+
+- **Original source:** [@iamrealsnow on X](https://x.com/iamrealsnow/status/2097650261330460818)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3951](https://imglume.com/prompt/3951)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bd429946-e27b-4a0e-b6ec-da3a127fcb96/520181a8-993a-4c62-a425-f08a74ec55b0-1789026508712 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bd429946-e27b-4a0e-b6ec-da3a127fcb96/7c5f37e3-7f86-4516-ab58-b0ce05a3246c-1789026508712 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, hyper-realistic luxury men’s fashion editorial poster using my uploaded male face as the ONLY identity reference for the main male model.
+
+Preserve my exact facial identity and natural appearance — facial structure, skin tone, eyes, eyebrows, nose, lips, cheekbones, jawline, facial proportions, natural skin texture, hairstyle, and overall likeness. Keep me instantly recognizable. Do not beautify, reshape, feminize/masculinize, age, de-age, or alter my facial features.
+
+Concept: “MIDNIGHT FORM”
+
+Create an original high-end contemporary fashion campaign with a sophisticated deep emerald-green and charcoal color palette, completely different from the reference composition.
+
+The male model is standing confidently in a minimalist architectural studio with dark green textured walls, subtle dramatic shadows, polished concrete flooring, and soft cinematic lighting. He wears a luxury oversized cream bomber jacket, fitted black knit top, tailored charcoal wide-leg trousers, premium black leather sneakers, a minimalist silver watch, and subtle silver rings.
+
+Pose: full-body fashion pose, standing slightly angled toward camera, one hand casually inside the jacket pocket while the other adjusts the cuff, shoulders relaxed, chin slightly raised, confident editorial expression. Natural realistic body proportions.
+
+Photography: high-end European fashion magazine photography, full-body composition, 85mm lens aesthetic, realistic skin pores, detailed fabric texture, soft directional studio lighting, subtle rim light, cinematic shadows, shallow depth of field, premium color grading, photorealistic, ultra-detailed, sophisticated and expensive visual atmosphere.
+
+Typography &amp; Layout
+
+Add elegant editorial typography integrated into the poster:
+
+MIDNIGHT
+FORM
+
+Small headline:
+AUTUMN / WINTER 2026
+
+Supporting copy:
+QUIET CONFIDENCE.
+MODERN STRUCTURE.
+
+Product callouts:
+OVERSIZED BOMBER
+Relaxed. Refined. Essential.
+
+TAILORED TROUSERS
+Fluid silhouette. Modern movement.
+
+LEATHER SNEAKERS
+Minimal. Bold. Versatile.
+
+Bottom section:
+NEW SEASON
+01 / 26
+DESIGNED FOR THE MODERN MAN
+
+Use sophisticated high-fashion serif typography mixed with clean minimalist sans-serif text, carefully balanced around the model. Keep typography elegant, spacious, and editorial rather than cluttered.
+
+Composition: vertical 9:16, full-body model clearly visible, premium magazine-cover aesthetic, original layout, no copied branding, no logos, no watermark, no distorted hands, no extra fingers, no duplicated body parts, extremely realistic fashion photography.</code></pre>
+
+</details>
+
+## Porsche 911 GT3 RS vertical social poster
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2097641872068063436)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [3924](https://imglume.com/prompt/3924)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b1040f29-ef61-447e-9256-61c81d49c775/a6445e72-daba-41b5-9f72-f06459666ee9-1789018457566 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/b1040f29-ef61-447e-9256-61c81d49c775/8d00c410-698b-48d0-b73d-1b3abbb0c5c9-1789018457566 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/b1040f29-ef61-447e-9256-61c81d49c775/190179ea-d5a8-4b95-aaf1-7ad709089ea2-1789018457566 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/b1040f29-ef61-447e-9256-61c81d49c775/4d1c445d-0680-4e08-8d98-391ad18f4fcc-1789018457566 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>4:5 vertical social poster, ultra high resolution, 8K
+
+SCENE / BACKGROUND:
+Flat racing yellow with subtle gradient (light → deep amber)
+Grain texture 2–3%
+Soft rectangular overlays at 3% opacity
+
+PRODUCT:
+Porsche 911 GT3 RS
+Gloss yellow with carbon details
+Rear 3/4 angle, slightly elevated
+Wing dominant
+
+Position:
+Right of center
+
+TYPOGRAPHY:
+“PORSCHE”
+Ultra tall, condensed, stretched
+Deep charcoal
+
+Secondary:
+“PORSCHE 911 GT3 RS”
+
+EDITORIAL:
+“Porsche — Where Precision Meets Passion”
+
+Focus:
+engineering, obsession, track DNA
+
+FADED TEXT:
+“GT3 RS” at 3–5%
+
+SPECS:
+386 kW / 525 PS
+3.2 s
+296 km/h
+
+LIGHTING:
+Clean studio, sharp highlights
+
+MOOD:
+Precision.
+Iconic.
+Timeless performance.</code></pre>
+
+</details>
+
+## Two-panel editorial travel diary poster with facial replacement
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2097628670143954978)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3914](https://imglume.com/prompt/3914)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2fcff820-8aef-48e5-8f1a-bcfc937c7a92/9fc414dc-eeab-4ab3-8706-5b704627f14b-1789018379036 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2fcff820-8aef-48e5-8f1a-bcfc937c7a92/65fe37d8-5f8c-4eae-80e4-c602756e3d87-1789018379036 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.
+
+Replace the woman in the original poster with the woman from my reference photo. Preserve my facial identity and recognizable facial features accurately—face shape, eyes, eyebrows, nose, lips, skin tone, and natural proportions. Do not beautify, alter, or redesign my face.
+
+TOP PANEL
+
+Recreate the original street scene exactly:
+
+European-style narrow cobblestone street
+
+Historic cream-colored buildings
+
+Café signs, windows, balconies, street lamps and bollards
+
+Same camera angle, framing, perspective and composition
+
+Same seated/leaning pose and body position
+
+Same black textured sweater/coat
+
+Natural long dark hair
+
+Soft cinematic daylight
+
+Photorealistic skin texture and realistic lighting
+
+Integrate my face naturally with the original pose, head angle and lighting
+
+BOTTOM PANEL
+
+Create the matching hand-drawn/printed illustration version of the same scene.
+
+Keep the same pose, clothing, hairstyle and facial identity
+
+Convert the photograph into a textured vintage editorial illustration
+
+Blue, cream and muted warm-orange ink palette
+
+Visible paper grain and imperfect ink texture
+
+Keep my facial features recognizable while matching the illustrated style
+
+Preserve the street, buildings, plants, cars and perspective from the original
+
+TYPOGRAPHY &amp; LAYOUT
+
+Keep the original poster layout and typography style:
+
+Large handwritten title: “By the Street”
+
+Small English diary text
+
+Chinese text in the upper-left
+
+Date: 2026.08.29
+
+Small diary number/details
+
+Right-side phrase: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Most important: My face should be the only facial identity used. Do not copy the original woman's face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.</code></pre>
+
+</details>
 
 ## Premium minimalist flat-vector travel poster of Madinah, Saudi Arabia
 

@@ -1,9 +1,153 @@
 # Camera Moves video prompts
 
-144 source-linked prompts, newest ImgLume records first.
+148 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young Korean woman walking in rainy Seoul street, MiniDV home video style
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098021419535962506)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `ugc`
+- **ImgLume record:** [3989](https://imglume.com/prompt/3989)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f3c42bce-20ec-4f92-aed8-7c90dd161626/60e83108-3f4e-4e79-8cc3-6638e3531150-1789060065441 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple casual outfit with a lightweight jacket and carrying a small canvas shoulder bag. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Quiet older Seoul neighborhood on a rainy early morning. Narrow residential street, small flower stall tucked beneath a shop awning, buckets of inexpensive flowers, wet pavement, old apartment buildings, parked bicycles, utility poles, umbrellas and distant traffic. Rain falls steadily but gently.
+
+Lighting &amp; Atmosphere: Dark cozy blue-hour atmosphere just after sunrise. Heavy cloudy sky creates soft blue-gray ambient light. The flower stall has a small warm fluorescent or incandescent light that gently illuminates the flowers. Wet pavement reflects the muted shop lights and apartment windows. Sleepy, quiet and intimate rainy Seoul atmosphere. No bright sunlight.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged. Smooth continuous real-time motion with natural handheld camera movement, subtle human shake, imperfect framing, occasional gentle reframing, autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and built-in microphone noise. No stabilization or modern cinematic movement. Do not create stuttering, judder, frame skipping, duplicated frames, stop-motion movement, speed changes or artificially low frame rate. Keep all movement physically continuous and natural.
+
+00:00–00:05: She walks slowly down a quiet wet Seoul street beneath a clear plastic umbrella. The camcorder follows casually from behind as her shoes make soft sounds against the wet pavement.
+
+00:05–00:09: She notices a small flower stall underneath an awning and stops. She closes her umbrella and steps closer, looking quietly through the buckets of flowers.
+
+00:09–00:14: She gently examines several small bouquets, picking up one bunch and turning it slightly in her hands. She smells the flowers briefly, then smiles softly when she finds one she likes.
+
+00:14–00:18: She points toward the bouquet and pays the shopkeeper. The camera remains slightly shaky and imperfectly framed, occasionally focusing on the flowers instead of her face.
+
+00:18–00:22: She receives the small bouquet wrapped simply in brown paper. She looks down at it with a pleased little smile and carefully tucks it against her shoulder bag.
+
+00:22–00:26: She opens her umbrella again and begins walking home slowly through the rain, holding the flowers carefully under the umbrella so they stay dry.
+
+00:26–00:30: She turns a corner and briefly notices the camcorder following her. She looks directly into the lens and gives a small genuine smile before continuing down the wet street. The camera stays behind for a moment, capturing her walking away with the flowers as rain fills the frame, then cuts.
+
+Audio: Natural location sound only—steady rain, umbrella fabric and raindrops, soft footsteps on wet pavement, distant cars, occasional bicycle sounds, quiet shop ambience, faint voices, plastic and paper rustling. No music, narration or added sound effects.
+
+Goal: Feel like an ordinary forgotten family recording from the early 2000s. Simple, warm and intimate rather than cinematic. The story is just a young woman noticing some flowers, buying them because she likes them, and walking home through the rain. The nostalgia should come from the mundane routine, rainy Seoul surroundings and imperfect MiniDV camera behavior.
+
+Motion quality: Prioritize smooth continuous real-time motion. Keep her movements calm and deliberate, especially while examining and carrying the flowers. Avoid sudden camera movements, rapid walking, running or complex interactions. The vintage appearance must come from the MiniDV image characteristics, not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## Style transfer for Griffith Observatory gray-model video
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2098021268981461118)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3974](https://imglume.com/prompt/3974)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/099aadf4-598f-4a05-9bec-5482b573f947/43d5641e-4b78-466f-b163-cc50ee56f59c-1789047581379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.</code></pre>
+
+</details>
+
+## Hyper-realistic continuous take water-park obstacle challenge
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2097897638666609037)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [3959](https://imglume.com/prompt/3959)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b5ea7f17-2aa8-4c77-9ab9-479678a0019e/74ed6a80-e69d-42a9-b918-a01ffb7bbc50-1789030634664 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30 seconds | 16:9 | photorealistic live-action | ONE CONTINUOUS TAKE | 2 FACE REFERENCES
+
+FICTIONAL RECREATION — Hyper-realistic unscripted water-park obstacle challenge filmed as if captured by a real production camera. Two provided face references are used strictly for identity consistency. Preserve facial identity, facial proportions, hairstyle, skin texture, age, and recognizable features throughout the entire shot. No face swapping, no identity drift.
+
+CORE CONCEPT
+A seemingly normal water-park obstacle challenge progressively turns into a spectacular chain reaction of physical mistakes. The entire sequence happens in ONE UNBROKEN TAKE with no cuts, no transitions, no time jumps, and no impossible camera teleportation. The humor comes entirely from believable physics, bad timing, momentum, slipping, water impact, and genuine human reactions.
+
+CHARACTERS
+SUBJECT A — Adult contestant based on FACE REFERENCE 1. Athletic casual appearance, realistic swimwear, wet hair and skin, natural body proportions.
+
+SUBJECT B — Adult contestant based on FACE REFERENCE 2. Standing nearby and reacting naturally throughout the sequence.
+
+Both identities remain locked. Clothing, body proportions, hairstyle, wetness, accessories, and facial characteristics remain continuous from beginning to end.
+
+SETTING
+Large modern outdoor water park on a bright summer afternoon. Giant inflatable obstacle course floating in a large pool, climbing platforms, floating balance beams, slippery ramps, overhead water jets, inflatable barriers, spectators behind safety rails, lifeguards, wet concrete, colorful umbrellas, realistic resort architecture. Hundreds of subtle background actions create authentic environmental life without distracting from the main action.
+
+CAMERA / ONE-TAKE CHOREOGRAPHY
+00:00–05:00 — Camera begins approximately three meters behind Subject A at pool level, handheld but professionally operated. Subject A runs toward the first floating obstacle while Subject B watches from the side. Camera follows naturally, matching walking and running speed. Small realistic handheld movements, natural autofocus, water droplets occasionally crossing the lens.
+
+05:00–10:00 — Subject A jumps onto a wet inflatable platform. Their landing is slightly unstable. One foot slides forward unexpectedly. They recover for a moment, laugh nervously, then continue. Camera moves closer while maintaining continuous spatial relationship and realistic human-scale perspective.
+
+10:00–15:00 — Subject A attempts to cross a narrow floating balance beam. Their foot slips. They grab a flexible overhead rope, swinging sideways with real momentum. The rope stretches and pulls their body back toward the obstacle. Subject B reacts from the adjacent platform, stepping backward to avoid the swinging contestant.
+
+15:00–20:00 — Subject A regains balance but accidentally kicks a large inflatable obstacle. It shifts dramatically. A nearby water jet activates directly into the obstacle, creating a sudden burst of spray. Camera operator instinctively steps backward while continuing to film, briefly losing perfect framing before quickly reacquiring Subject A.
+
+20:00–25:00 — Subject A tries to escape across a slippery ramp but loses traction completely. Their body slides uncontrollably downhill. Subject B reaches toward them but misses. Subject A collides softly with a large inflatable barrier, rebounds, spins naturally, and falls backward into the pool.
+
+25:00–30:00 — Huge realistic splash completely covers the camera lens for a moment. Camera operator wipes the lens while remaining in the same physical location. Through droplets and distorted reflections, Subject A resurfaces laughing and trying to regain composure. Subject B is laughing in the background. Camera settles into a final medium-wide composition showing both contestants, the obstacle course, lifeguards, and surrounding spectators.
+
+PHYSICAL REALISM
+Every movement follows believable human biomechanics and real-world water physics. Correct body weight, inertia, friction, momentum, buoyancy, splash displacement, wet-surface slipperiness, inflatable deformation, rope tension, water spray and gravity. No floating bodies, rubbery limbs, impossible recoveries, teleportation, or exaggerated cartoon physics.
+
+CAMERA REALISM
+Authentic handheld operator behavior. Natural micro-jitter, slight bobbing while walking, imperfect framing during sudden action, realistic autofocus hunting, exposure adaptation between bright sunlight and shaded obstacles, lens water droplets, temporary obstruction, realistic motion blur. The camera physically moves through the environment rather than cutting between viewpoints.
+
+LIGHTING
+Strong natural afternoon sunlight, realistic reflections on wet skin and inflatable surfaces, physically accurate water highlights, soft shadows, subtle atmospheric haze. Sunlight remains consistent throughout the continuous take.
+
+AUDIO
+Pure location sound. Running footsteps, splashing water, inflatable material flexing, distant conversations, excited spectators, water jets, lifeguard whistles, Subject A laughing and reacting naturally, Subject B shouting a spontaneous reaction, heavy splash impact, water dripping directly onto the camera microphone. No music. No cinematic sound effects.
+
+VISUAL CHARACTER
+Extremely photorealistic live-action footage. Premium high-end sports-documentary realism combined with authentic spontaneous UGC imperfections. Natural skin pores, wet hair strands, realistic fabric saturation, detailed water droplets, physically accurate reflections, realistic crowd behavior, subtle lens imperfections, natural exposure, realistic depth of field. Absolutely no CGI appearance, no plastic skin, no artificial cinematic overgrading.
+
+CONTINUITY LOCK
+ONE SINGLE CONTINUOUS TAKE from 00:00 to 30:00. No cuts. No hidden cuts. No camera teleportation. Subject A and Subject B remain identical to their respective face references throughout. Preserve wardrobe, hairstyle, accessories, body proportions, wetness progression, environment, obstacle positions, sunlight direction and physical geography. Every action must logically cause the next action.
+
+FINAL QUALITY TARGET
+The footage must be indistinguishable from an expensive real-world water-park challenge filmed by a skilled human camera operator. The spectacle comes from authentic physical interaction and unpredictable human behavior—not CGI, fantasy, exaggerated destruction, or artificial visual effects.</code></pre>
+
+</details>
+
+## Ultra-cinematic supernatural fantasy sequence with white-haired character and giant black cat
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2097594855946113177)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3918](https://imglume.com/prompt/3918)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d34c80b6-42bc-40d8-b3c3-4a48bb987b25/1b9ee8c4-977a-4cc4-8ae8-484aa1d1e41c-1789018398733 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
+Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.</code></pre>
+
+</details>
 
 ## T‑Rex Attack on Military Jeep Dashcam Footage
 

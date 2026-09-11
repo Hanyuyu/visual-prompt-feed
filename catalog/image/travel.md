@@ -1,9 +1,183 @@
 # Travel image prompts
 
-55 source-linked prompts, newest ImgLume records first.
+59 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Instagram Travel Campaign Prompt for \[LOCATION\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2097890291860865291)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`, `travel`
+- **ImgLume record:** [3997](https://imglume.com/prompt/3997)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/e2f5f192-c266-4a11-9ddc-edeb5bba680b-1789064248409 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/cf1010b0-b3b9-43eb-88c3-7f6d0bb8d7f9-1789064248409 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/31c82a6a-a38b-420d-a7b8-9db7e53f7546-1789064248409 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/43bbb802-aa7c-4c5e-8de3-662d497eb7ae/5e55ffbc-7818-4354-a422-2f801fe91dc7-1789064248409 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>[LOCATION] =
+
+Create a premium, scroll-stopping Instagram travel campaign for [LOCATION] in a 4:5 vertical portrait format.
+
+A large modern smartphone stands vertically near the upper center, acting as the main visual anchor. A single elegant map-navigation notification card overlaps the upper-middle of the phone, integrated naturally with realistic depth, soft shadows, and subtle reflections.
+
+The notification should feature a warm-white, lightly frosted rounded rectangle with a refined mobile UI aesthetic and perfectly legible typography:
+
+[map icon] MAPS — now
+You keep searching.
+Come visit [LOCATION] instead.
+
+Keep the notification within the upper 25–40% of the composition. It should feel physically connected to the phone and must not cover the miniature destination scene.
+
+Below the smartphone, a folded papercraft map labeled “[LOCATION]” unfolds into a handcrafted miniature world. Include only 4–6 highly recognizable elements that naturally represent the destination—such as iconic architecture, landscapes, nature, food, culture, or atmosphere.
+
+Visual Materials
+
+- Phone &amp; distant background: realistic photography
+- Buildings &amp; landmarks: handcrafted painted 3D clay
+- Map, terrain, roads &amp; water: layered hand-cut paper
+- Vegetation &amp; small details: miniature clay and paper
+
+Make the physical materials clearly visible through paper fibers, cut edges, layered surfaces, subtle clay texture, tiny imperfections, and soft dimensional shadows.
+
+Add one large location pin and a tiny backpacked traveler standing on the map, looking toward the miniature world. Keep the traveler small and secondary, like a hidden discovery detail.
+
+Use only 2–3 subtle travel doodles, such as a paper airplane with a dotted path, a tiny heart, and a simple hand-drawn route arrow. Keep them thin, imperfect, and journal-like.
+
+Visual Hierarchy
+
+1. Notification
+2. Miniature [LOCATION] world
+3. Location pin
+4. Tiny traveler
+5. Folded map
+
+Maintain generous negative space and avoid clutter, excessive landmarks, unnecessary text, icons, props, or competing focal points.
+
+Use a refined 3–5 color palette inspired by [LOCATION], warm cinematic or golden-hour lighting, shallow depth of field, realistic miniature photography, tactile materials, and sophisticated editorial advertising composition.
+
+The final image should feel like a world-class handcrafted travel campaign-instantly recognizable, destination-specific, clean, emotionally inviting, and rich with subtle details worth discovering.</code></pre>
+
+</details>
+
+## Hand-painted travel illustration style transformation of reference image
+
+- **Original source:** [@AiwithLariab on X](https://x.com/AiwithLariab/status/2097664670475919428)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3929](https://imglume.com/prompt/3929)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/670d7c3d-ac3a-453b-bc09-a4698c512a7f/49f50595-a9b6-43fe-b172-680d8095b756-1789018501330 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/670d7c3d-ac3a-453b-bc09-a4698c512a7f/537ea820-a2b1-4c4c-846f-55b636b7be16-1789018501330 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the reference image as the exact blueprint. DO NOT change the composition, camera angle, perspective, framing, pose, facial orientation, body proportions, clothing, hairstyle, accessories, lighting direction, or background layout. Preserve the reference image pixel-perfect. Every object must remain in the exact same position and scale. Do not crop, zoom, rotate, move, add, remove, or replace any elements.Only transform the rendering style into a vibrant hand-painted travel illustration with gouache and watercolor textures, visible brush strokes, colorful ink outlines, soft shading, and a whimsical travel journal aesthetic. Add playful doodles only in the empty sky and border areas: hand-drawn sun, clouds, hearts, sparkles, stars, and colorful decorative marks. Keep every subject and background exactly where they are in the original photo.The final image must look like the original photograph redrawn as an illustration, with identical composition and layout.Only transform the rendering style into a vibrant hand-painted travel illustration with gouache and watercolor textures, visible brush strokes, colorful ink outlines, soft shading, and a whimsical travel journal aesthetic. Add playful doodles only in the empty sky and border areas: hand-drawn sun, clouds, hearts, sparkles, stars, and colorful decorative marks. Keep every subject and background exactly where they are in the original photo.The final image must look like the original photograph redrawn as an illustration, with identical composition and layout.</code></pre>
+
+</details>
+
+## Two-panel editorial travel diary poster with facial replacement
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2097628670143954978)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [3914](https://imglume.com/prompt/3914)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/2fcff820-8aef-48e5-8f1a-bcfc937c7a92/9fc414dc-eeab-4ab3-8706-5b704627f14b-1789018379036 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/2fcff820-8aef-48e5-8f1a-bcfc937c7a92/65fe37d8-5f8c-4eae-80e4-c602756e3d87-1789018379036 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a realistic two-panel editorial travel diary poster using the first image as the exact composition/reference and the second uploaded image as the facial reference.
+
+Replace the woman in the original poster with the woman from my reference photo. Preserve my facial identity and recognizable facial features accurately—face shape, eyes, eyebrows, nose, lips, skin tone, and natural proportions. Do not beautify, alter, or redesign my face.
+
+TOP PANEL
+
+Recreate the original street scene exactly:
+
+European-style narrow cobblestone street
+
+Historic cream-colored buildings
+
+Café signs, windows, balconies, street lamps and bollards
+
+Same camera angle, framing, perspective and composition
+
+Same seated/leaning pose and body position
+
+Same black textured sweater/coat
+
+Natural long dark hair
+
+Soft cinematic daylight
+
+Photorealistic skin texture and realistic lighting
+
+Integrate my face naturally with the original pose, head angle and lighting
+
+BOTTOM PANEL
+
+Create the matching hand-drawn/printed illustration version of the same scene.
+
+Keep the same pose, clothing, hairstyle and facial identity
+
+Convert the photograph into a textured vintage editorial illustration
+
+Blue, cream and muted warm-orange ink palette
+
+Visible paper grain and imperfect ink texture
+
+Keep my facial features recognizable while matching the illustrated style
+
+Preserve the street, buildings, plants, cars and perspective from the original
+
+TYPOGRAPHY &amp; LAYOUT
+
+Keep the original poster layout and typography style:
+
+Large handwritten title: “By the Street”
+
+Small English diary text
+
+Chinese text in the upper-left
+
+Date: 2026.08.29
+
+Small diary number/details
+
+Right-side phrase: “GOOD THINGS ALWAYS HAPPEN IN QUIET MOMENTS.”
+
+Most important: My face should be the only facial identity used. Do not copy the original woman's face. Keep the overall poster composition, pose, clothing, background and artistic style as close to the reference as possible. High-quality, natural, seamless face integration, photorealistic top panel and authentic printed illustration bottom panel.</code></pre>
+
+</details>
+
+## Travel editorial split composition: realistic photo to watercolor illustration
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2097568880680185895)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [3892](https://imglume.com/prompt/3892)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/56d8f64c-0222-4b30-9648-0015b68423c1/cbdfdf56-5b96-43f4-b31a-af8e0ccd1220-1789017988460 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/56d8f64c-0222-4b30-9648-0015b68423c1/bfa1701b-0c35-4ed2-bd13-52902aec63f5-1789017988460 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a refined editorial travel-art composition based on a reference photograph. The image is divided vertically into two parts: the upper section is a realistic cinematic travel photograph, while the lower section transforms the exact same scene into a delicate hand-painted watercolor illustration.
+Upper section: authentic candid travel photography, natural daylight, soft shadows, subtle film grain, realistic textures, sophisticated European atmosphere, documentary-style composition, people naturally walking through the scene, beautiful architectural details, slightly muted elegant colors, high-end travel magazine photography.
+Lower section: a minimalist handmade watercolor painting of the exact same scene, preserving the recognizable composition, architecture, people, poses, perspective and major visual elements from the photograph. Loose translucent watercolor washes, delicate ink details, visible paper texture, soft edges, imperfect brushwork, subtle pigment bleeding, airy negative space, understated pastel tones, artistic but realistic.
+Leave generous warm ivory/off-white textured paper space surrounding the watercolor illustration. Add a small elegant handwritten caption near the bottom, such as “summer days” or “a quiet afternoon”, with a thin minimalist horizontal line underneath.
+Overall aesthetic: luxury travel journal, fine-art watercolor postcard, contemporary editorial design, nostalgic European summer, understated elegance, tactile handmade paper, sophisticated and serene.
+Portrait orientation, clean composition, premium art direction, no clutter, no borders, natural proportions, highly detailed photograph transitioning into an airy watercolor illustration.</code></pre>
+
+</details>
 
 ## Amalfi Golden Hour Escape
 

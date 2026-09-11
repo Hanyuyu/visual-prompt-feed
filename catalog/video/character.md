@@ -1,9 +1,448 @@
 # Character video prompts
 
-117 source-linked prompts, newest ImgLume records first.
+122 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic early-2000s MiniDV home video in Seoul
+
+- **Original source:** [@frametheory058 on X](https://x.com/frametheory058/status/2097906021046083877)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [3984](https://imglume.com/prompt/3984)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c3a558a1-d0ca-40c1-b278-3c7fa902e12b/eef86993-4469-4d0a-8217-ed43d4514497-1789057900972 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s MiniDV home video in Seoul using the provided character sheet as the ONLY character reference.
+
+IDENTITY LOCK: Keep exactly the same Korean girl, face, natural skin, dark hair, body proportions, navy hoodie, white top, beige cargo shorts, gray sneakers, burgundy crossbody bag and silver watch throughout. No beautification, face changes or outfit changes.
+
+STYLE: A close friend casually filming her on an old consumer DV camcorder during a warm summer evening in a quiet older Seoul neighborhood. Narrow streets, apartments, trees, bicycles, utility wires and a local bus stop. Strong natural handheld shake, imperfect framing, autofocus hunting, exposure shifts, motion blur, faded DV colors, mild noise and accidental camera movements. Absolutely no cinematic/gimbal look.
+
+00:00–00:05 — She notices her bus approaching, points and says “Wait!” then suddenly runs toward it. Cameraman reacts late and runs behind her; chaotic realistic shake briefly loses framing.
+
+00:05–00:10 — She arrives seconds too late as the bus leaves. Out of breath, she watches it go, turns toward camera and says “Seriously?” Her friend laughs and she starts laughing too.
+
+00:10–00:15 — Walking home, she pulls a small paper fan from her bag. A breeze blows hair across her face; she struggles to move it away and laughs naturally.
+
+00:15–00:20 — At an old drinking fountain she wets her hands and splashes her cheeks. The cold surprises her. She mischievously flicks a little water toward the camera; cameraman instinctively jerks backward while she laughs.
+
+00:20–00:25 — She balances casually along a low curb. A cyclist approaches and rings the bell; she quickly steps down, slightly loses balance, catches herself and gives the camera an embarrassed smile.
+
+00:25–00:30 — She walks ahead up a quiet street. Turns back, gestures toward her friend and naturally says “Come on.” She continues uphill, glances back with a small smile, camera follows imperfectly, then abrupt MiniDV cut to black.
+
+AUDIO: Natural human voices and real neighborhood sound only—footsteps, breathing, insects, distant traffic, bicycle bell, water, breeze, laughter and camera-handling noise. No music, narration, subtitles, logos or watermarks.
+
+REALISM: Natural acting, blinking, breathing, expressions and body physics. Correct anatomy and hands. No duplicated people, face morphing, broken fingers, teleportation, disappearing objects, frozen backgrounds or AI-looking movement. Keep actions physically continuous and naturally paced.
+
+It must feel like genuine MiniDV footage accidentally recorded by two friends in Seoul around 2003—not an AI video, advertisement, K-drama or cinematic production. Every few seconds something happens, but nothing feels staged or rushed.</code></pre>
+
+</details>
+
+## Young Korean woman in Seoul with a crooked umbrella – 30s Seedance 2.5 video
+
+- **Original source:** [@ElsaSofia__AI on X](https://x.com/ElsaSofia__AI/status/2098004353705787831)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3973](https://imglume.com/prompt/3973)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4d9a5176-eae1-4a9c-9c99-7b636fa01e94/83226709-019e-40c7-9dbc-8c79ce0778aa-1789047528266 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GIRL / MAIN CHARACTER: Young Korean woman in her mid-20s, black hair in a loose braid, fitted pastel-lilac blouse, wide-leg beige trousers, white flat sandals, thin silver bracelet, small crossbody bag. Natural skin texture, realistic features, consistent identity throughout.
+LOCATION: Peaceful old Seoul residential lane on a warm evening—narrow concrete street, small houses, potted plants, parked bicycles, a convenience store on the corner, overhead wires, a few trees.
+STYLE: Photorealistic Seedance 2.5, nostalgic early-2000s MiniDV home video. Handheld shaky camera, imperfect framing, autofocus hunting, faded colors, soft digital image, exposure shifts, motion blur and compression noise. No modern cinematic look.
+ACTION (timed):
+00:00–00:02 — She steps out of her house with an empty cloth bag, locks the door.
+00:02–00:04 — She walks down the lane toward the corner convenience store.
+00:04–00:07 — She buys eggs and bread at the store, puts them in the bag.
+00:07–00:09 — She starts walking back home through the lane, umbrella still hooked over her shoulder.
+00:09–00:11 — Suddenly one rib of the umbrella bends outward and it becomes lopsided. She stops and notices it.
+00:11–00:13 — She tries pushing the bent rib back into place with her fingers, but it keeps popping back out. Friend filming zooms in awkwardly.
+00:13–00:15 — She spots a rubber band near a parked bicycle, picks it up, wraps it tightly around the bent section.
+00:15–00:17 — She opens the umbrella slightly to test it—the rib snaps loose again and the umbrella flops sideways.
+00:17–00:19 — She stares at the camera, stunned, then bursts out laughing.
+00:19–00:21 — She collapses the umbrella completely and holds it firmly under her left arm. The cloth bag with groceries stays in her right hand.
+00:21–00:23 — She continues walking home, passes a neighbor watering plants who notices the crooked umbrella and chuckles. She shrugs and grins.
+00:23–00:26 — She turns to the camera and says, "Bi-do an oneunde, deurama-네!" ("It's not even raining, and there's drama!"). She laughs.
+00:26–00:28 — She reaches her house and unlocks the door.
+00:28–00:30 — She walks inside. Friend remains outside filming the closed door.
+CONTINUITY RULE: From 00:19 onward, the umbrella stays tucked under her left arm and never touches the ground, disappears, duplicates, or reopens on its own. Groceries never disappear from the bag.
+FINAL FRAME: Closed door, empty lane, no umbrella left on the street.
+AUDIO: Natural birds, footsteps, distant traffic, bicycles, neighborhood ambience, store chime, dogs barking faintly, evening sounds. No music or narration.
+NEGATIVE: No disappearing/duplicating umbrella, no umbrella on the ground, no object teleportation, no missing groceries or bag, no identity drift, outfit changes, distorted hands, extra fingers, unnatural movement, CGI look, subtitles or watermark.</code></pre>
+
+</details>
+
+## 30-second cinematic comedy video – spy mission for dessert
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2097885212365721820)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3954](https://imglume.com/prompt/3954)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/643655d2-07ae-45de-9068-57c2f2334699/319c4f84-e510-420d-a553-4e0ae45608e3-1789026584225 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a polished 30-second cinematic comedy video with the pacing and visual quality of a premium commercial mixed with a high-budget spy movie.
+
+MAIN CHARACTER:
+One adult woman throughout the entire video. Keep her facial identity, hairstyle, skin tone, body proportions, and overall appearance consistent in every shot. Natural realistic acting and expressions.
+
+VISUAL STYLE:
+Ultra-realistic live-action, cinematic commercial, high-end spy-thriller aesthetic, realistic lighting, natural human movement, professional camera work, realistic environments, subtle comedy, dramatic pacing, realistic physics, premium production quality.
+
+00:00–00:04 — THE MISSION
+
+Late at night, the woman suddenly remembers that her favorite dessert is inside the refrigerator.
+
+She slowly sits up in bed with a serious expression.
+
+Treat this moment like the beginning of an extremely important spy mission.
+
+Cut to a dramatic close-up of her eyes.
+
+00:04–00:08 — STEALTH MODE
+
+She quietly walks through a dark hallway toward the kitchen.
+
+Use dramatic low-angle shots, subtle shadows, slow camera movement, and cinematic suspense.
+
+She moves carefully as if she is infiltrating a highly secure location.
+
+00:08–00:12 — THE FRIDGE
+
+She reaches the refrigerator.
+
+She looks around suspiciously.
+
+She slowly opens the refrigerator door.
+
+Bright refrigerator light illuminates her face dramatically.
+
+She looks inside.
+
+Her expression suddenly changes from confidence to complete shock.
+
+The dessert is missing.
+
+00:12–00:17 — THE INVESTIGATION
+
+She immediately switches into detective mode.
+
+Show quick cinematic shots of her searching the kitchen:
+
+- Looking under the kitchen table
+- Checking drawers
+- Examining the countertop
+- Looking at suspicious footprints
+- Inspecting an empty dessert container
+
+Make everything visually dramatic and completely serious, even though the situation is ridiculous.
+
+00:17–00:22 — THE DISCOVERY
+
+She notices a tiny clue leading toward another part of the kitchen.
+
+She follows it carefully.
+
+The camera tracks behind her like a spy thriller.
+
+She suddenly discovers the dessert box.
+
+She looks relieved.
+
+Dramatic music builds.
+
+She slowly opens the box.
+
+00:22–00:26 — THE TWIST
+
+The box is completely empty.
+
+Only a single spoon remains inside.
+
+She freezes.
+
+Hold on her shocked expression for comedic timing.
+
+Then slowly reveal another adult person sitting casually in the background, eating the last bite of the dessert.
+
+The person looks completely innocent.
+
+00:26–00:30 — FINAL SHOT
+
+The woman slowly turns toward the camera with an exhausted, speechless expression.
+
+Cut to the person casually taking another bite.
+
+End with a clean cinematic freeze-like moment.
+
+Display:
+
+“Case closed. 🍰”
+
+Then subtly display:
+
+“Made With SuperCool”
+
+Keep the branding elegant and minimal.
+
+IMPORTANT:
+
+- Keep the same woman throughout.
+- No face morphing or identity changes.
+- No duplicate main characters.
+- Realistic human movement.
+- Realistic kitchen environment.
+- No cartoon or CGI appearance.
+- No exaggerated facial distortion.
+- No random text or logos.
+- No watermark.
+- Keep the comedy subtle and natural.
+- The first 20 seconds should feel genuinely like a serious spy movie.
+- The humor should come mainly from the contrast between the extremely serious cinematic treatment and the ridiculous dessert investigation.
+- Make the final reveal unexpected but easy to understand.
+- Premium cinematic quality suitable for a professional social media advertisement.
+- Vertical 9:16 composition.</code></pre>
+
+</details>
+
+## Ultra-cinematic supernatural fantasy sequence with white-haired character and giant black cat
+
+- **Original source:** [@Zyrellix on X](https://x.com/Zyrellix/status/2097594855946113177)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [3918](https://imglume.com/prompt/3918)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d34c80b6-42bc-40d8-b3c3-4a48bb987b25/1b9ee8c4-977a-4cc4-8ae8-484aa1d1e41c-1789018398733 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-cinematic supernatural fantasy sequence, photorealistic, high-end Hollywood VFX quality.A young woman with long straight black hair and bangs sits in a warm, dimly lit bedroom at night, wearing elegant white pajamas. Start with an intimate close-up of her looking down, then slowly push the camera toward her face. She suddenly senses something strange and looks directly toward the camera.She raises both hands as if controlling an invisible supernatural force. The atmosphere becomes intense, subtle particles and dark energy begin swirling around her. Suddenly, a mysterious white-haired female character appears in the room at incredible speed. She has pale skin, short silver-white hair, sharp expressive eyes, and wears a white outfit. She moves with supernatural agility, rushing toward the camera while reaching forward.The room begins shaking violently. Furniture and objects vibrate, dust and debris float through the air. The ceiling suddenly cracks open with a powerful burst of brilliant white-blue supernatural light. Walls fracture dramatically, creating a huge opening that reveals the dark night sky https://t.co/WPqc9zA0ZI the dust settles, the white-haired character stands in the destroyed room, illuminated by the strange light. Cut to an extreme close-up of her face as she looks shocked and breathes heavily.Then slowly reveal a gigantic mysterious black cat standing in the darkness behind her. The cat is unnaturally large, extremely fluffy, with glowing yellow eyes and an intimidating supernatural presence.End on a dramatic close-up of the giant black cat staring directly into the camera.
+Smooth cinematic camera movement, realistic facial expressions, detailed hair physics, realistic cloth movement, volumetric lighting, floating dust particles, dynamic debris, dramatic shadows, shallow depth of field, realistic VFX, film-quality color grading, seamless transitions, highly detailed environment, photorealistic, 4K, cinematic masterpiece.</code></pre>
+
+</details>
+
+## 同一句韩语，韩剧里与现实中的反差
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2097609548357927333)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [3913](https://imglume.com/prompt/3913)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d76b244c-f3c4-40bf-bec4-618417dcf44f/331c6ae8-4af7-4364-8932-959834d6070f-1789018372631 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>时长：20秒
+画幅：9:16竖屏
+主题：同一句韩语，韩剧里与现实中的反差。
+形式：单人双状态，五组A/B硬切对照。
+
+【人物绑定】
+​ 是唯一人物角色卡。全片保持同一人物身份，面部、发型和服装沿用参考图，不重新设计长相。
+A与B是同一个人的两种表演，不是两个人对话，不出现双人同框或分屏。
+
+【状态A｜韩式爱情电影】
+韩式爱情电影中的人物近景，精致、温柔、含蓄，带轻微浪漫感。
+
+光线：
+窗侧大面积柔光照亮面部，明暗过渡细腻；侧后方一束柔暖逆光轻轻勾出发丝和肩部轮廓。眼睛有自然眼神光，面部立体，不使用均匀磨平五官的美颜光。
+
+调色：
+奶油白高光、低饱和暖肤色、轻微青灰冷调阴影。整体清透，黑位略柔，亮部平滑过渡。背景偏米白、淡灰与浅暖色，避免整张画面泛黄、泛粉。
+
+摄影质感：
+中长焦人像镜头观感，浅景深，眼睛与嘴部清晰，窗帘和远处小灯柔化为细腻散景。高光带极轻微柔晕，保留皮肤纹理与细微胶片颗粒。
+每个A镜头只有极轻、几乎察觉不到的缓慢推近。
+
+表演：
+目光柔软，呼吸自然，动作幅度小。开口前有短暂情绪停顿，声音轻柔，语尾轻落，像韩剧中对亲近的人说话。
+
+【状态B｜普通手机直拍】
+现实室内手机前置直拍，简单灰墙背景，较直接的正面照明。白平衡中性，反差和锐度比A更直接，背景也更清楚。
+取消A的逆光轮廓、浅景深散景、柔晕与电影调色，但仍保持正常曝光和真实肤质。
+机位固定，构图比A略紧，保留轻微手机广角近距离感，不夸张拉伸面部。
+
+表演：
+直视镜头，眉眼明显发力，身体稍向前探，语气短促、直接、不耐烦。喜剧来自突然变脸和说话方式，不演成失控尖叫。
+
+【构图与剪辑】
+统一头顶至腰部的竖屏中近景，眼睛位置保持在画面相近高度。
+A说完后直接硬切B，画面质感、神态与声音同时改变。
+每次切换都保持同一张脸可辨认，不用变形、闪白、黑帧或变装转场。
+
+SHOT 1｜00–04秒｜别看
+
+Subject：
+同一人物，温柔含蓄与直接斥责形成反差。
+
+Action / Performance：
+00–02秒，状态A：
+人物先看向侧下方，轻轻转眼看向镜头，带一点含蓄笑意，柔声说“别看”。说完略收回目光，保持自然羞涩。
+镜头极缓慢推近，柔暖逆光照亮少量发丝。
+
+02–04秒，硬切状态B：
+人物直接盯住镜头，眉头收紧，头稍向前探，用明显更重的语气重复“别看”，随即补上粗口。
+最后一个字落下，目光仍停在镜头上，留一点不悦的静止。
+
+Dialogue：
+A：“보지 마.”
+B：“보지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+A为柔光窗帘与奶油色散景，韩式爱情电影质感。
+B为灰墙、直接光与固定手机近景。
+
+Constraints：
+两句均由画面内人物本人说出，先说完A，再切B，口型准确。
+
+SHOT 2｜04–08秒｜别这样
+
+Subject：
+同一人物，亲昵劝阻与不耐烦训斥。
+
+Action / Performance：
+04–06秒，状态A：
+人物轻轻歪头，肩膀放松，目光带一点柔软的责怪，低声说“别这样”。语尾很轻，像面对亲近的人。
+面部清楚，背景柔化，镜头保持细微推近。
+
+06–08秒，硬切状态B：
+头摆正，目光直直看向镜头，短促地说“别这样”，紧接着补上粗口。
+下巴只随重音向前点一下，说完停止动作。
+
+Dialogue：
+A：“하지 마.”
+B：“하지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+沿用A的精致电影光线与B的普通手机直拍，硬切瞬间清楚显出质感差异。
+
+Constraints：
+不用夸张摇头或甩头。表情变化集中在眼神、眉间、下颌与语气。
+
+SHOT 3｜08–12秒｜别走
+
+Subject：
+同一人物，真诚挽留与强硬命令。
+
+Action / Performance：
+08–10秒，状态A：
+人物目光稍微抬起，像在看即将离开的人，嘴唇轻启，用带一点不舍的声音说“别走”。
+说完保持期待的眼神，轻微吸气，不落泪、不追出画面。
+柔光留住眼睛里的细小反光，镜头缓慢靠近一点。
+
+10–12秒，硬切状态B：
+人物突然睁大眼睛，头略向前探，把同一句话说成强硬制止，紧接着补上粗口。
+表情像在命令对方站住，保持眼神压迫感。
+
+Dialogue：
+A：“가지 마.”
+B：“가지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+A浅景深、柔和高光、冷暖细腻分离；B中性颜色、清晰背景、固定机位。
+
+Constraints：
+A的情绪含蓄，B的语气强硬。不要两段都演成哭泣或大喊。
+
+SHOT 4｜12–16秒｜别听
+
+Subject：
+同一人物，温柔安慰与暴躁纠正。
+
+Action / Performance：
+12–14秒，状态A：
+人物轻轻叹气，短暂垂眼，再抬眼看镜头，小幅摆一下手。
+先自然说出感叹词，再温柔地说“别听”，像在劝对方不要把难听的话放在心上。
+表情有理解与安慰，动作细小。
+
+14–16秒，硬切状态B：
+人物眼睛睁大，眉毛抬起，带着明显不耐烦说“别听”，随后快速补上粗口。
+头部只做一次短促前倾，咬字清楚、重音明确。
+
+Dialogue：
+A：“아이고… 듣지 마.”
+B：“듣지 마, 이 개새끼야.”
+
+Environment / Camera / Style：
+A为韩剧中安慰人的电影近景；B像手机镜头前直接训人。
+A的轻柔叹气与B的干脆发声形成声音反差。
+
+Constraints：
+A的感叹词与后半句自然连贯。两段声音不重叠，不增加其他人的回应。
+
+SHOT 5｜16–20秒｜别哭
+
+Subject：
+同一人物，心疼安抚与最后的不耐烦吐槽。
+
+Action / Performance：
+16–17秒，状态A：
+人物微微向前倾，双手在腰胸之间轻抬，做一个很小的安抚动作，眼神心疼，柔声说“别哭”。
+保持电影柔光与清楚的嘴部细节。
+
+17–20秒，硬切状态B：
+人物立刻以烦躁口吻说“别哭”，补上粗口。
+接着视线移到旁边，肩膀松下来，压低声音快速嘟囔，像已经受够对方总哭。
+最后以未说完的“씨…”收尾，闭嘴，留下一个无语的表情。不要突然笑场。
+
+Dialogue：
+A：“울지 마.”
+B：“울지 마, 이 개새끼야. 맨날 쳐 울고 앉아있어, 씨…”
+
+Environment / Camera / Style：
+B状态持续到片尾，不再切回A，不加通关式音效或结束标题。
+
+Constraints：
+末段先强硬制止，再低声抱怨，音量有变化。尾句语速加快但发音清楚，不扩写新台词。
+
+【声音与口型】
+所有韩语都是画面内人物的现场对白，绝不是旁白。
+人物说话时，嘴唇、下颌、呼吸与韩语发音同步。
+
+同一基础声线：
+A轻柔、亲近、带自然气息，不能用气声糊掉发音；
+B更直接、更响、重音清楚，带不耐烦，不能全程破音尖叫。
+
+保留轻微呼吸、叹气与室内底噪。
+A段可有极低音量、稀疏的浪漫钢琴底音；切到B时钢琴立即停止，只剩干净直接的人声与房间底噪。下一段A再轻轻恢复同一音乐动机。
+音乐始终让位于台词，不加入罐头笑声。
+
+【核心要求】
+一张人物卡，全片同一个人。
+五组顺序固定：
+보지 마 → 하지 마 → 가지 마 → 듣지 마 → 울지 마。
+每组A轻柔说短句，B硬切后重复同一句，再补粗口。
+A必须明确呈现韩式爱情电影的布光、调色、浅景深与细腻表演。
+B必须保留普通手机直拍的直接感，让电影滤镜的消失成为笑点的一部分。
+无任何字幕，无中文、韩文、拼音、罗马音、人物标签、标题、贴纸或水印。
+
+Negative：
+人物换脸、身份互换、双人同框、分屏、面部变形、发型服装漂移；
+A只有磨皮没有电影光线、全画面泛黄泛粉、过度柔焦、眼睛嘴部模糊、塑料皮肤；
+B仍然有浪漫散景与柔晕、B欠曝看不清脸；
+所有镜头同一种表情、A也凶狠、B也娇柔、失控尖叫、持续晃头、夸张鬼脸；
+嘴不动却发声、台词变旁白、韩语口型漂移、句子串组、对白重叠；
+慢动作、花哨转场、闪白、黑帧、任何字幕、水印、乱码。</code></pre>
+
+</details>
 
 ## SEEDANCE 2.5｜水上人形墙挑战
 

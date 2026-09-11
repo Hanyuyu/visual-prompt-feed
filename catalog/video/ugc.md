@@ -1,9 +1,376 @@
 # UGC video prompts
 
-125 source-linked prompts, newest ImgLume records first.
+136 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Rainy Convenience Store – 30‑second ultra‑photorealistic home video
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2097914003154694388)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3991](https://imglume.com/prompt/3991)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f123609d-c9c7-4a1d-b011-9b3415ac44b0/c66eeb1a-85bf-4469-8494-df09579c0098-1789060120268 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Day 1 — “Rainy Convenience Store”
+Create a 30-second, 16:9, 1080p ultra-photorealistic personal home-video capturing an ordinary rainy evening in the life of a young Japanese woman. The footage should feel spontaneous and genuinely recorded by a friend, not like a commercial or music video.
+MAIN SUBJECT
+Young Japanese woman in her early 20s, naturally attractive, realistic skin texture, minimal makeup, relaxed and slightly playful personality.
+Shoulder-length dark-brown hair worn loosely with natural flyaways and slightly damp strands from the rain. Wearing a muted sage-green lightweight hoodie, relaxed dark denim jeans, white canvas sneakers and a thin silver necklace.
+Maintain the same face, hairstyle, clothing, body proportions and overall appearance throughout the entire video.
+SETTING
+A quiet older residential neighborhood in Osaka during a warm summer evening after rainfall.
+Narrow wet streets, small residential buildings, vending machines, bicycles under awnings, utility poles, tangled overhead cables, parked scooters, rainwater running beside the pavement, small plants outside homes and a modest neighborhood convenience store.
+The environment should feel lived-in and ordinary. Avoid famous landmarks, recognizable brands, advertisements or tourist locations.
+CAMERA / VISUAL AESTHETIC
+Raw personal footage casually recorded by a friend on a small early-2000s consumer digital camcorder.
+Handheld movement, imperfect framing, occasional autofocus hunting, slight exposure pumping, mild motion blur, soft digital detail, faded colors, subtle sensor noise, accidental zoom adjustments and realistic camera-handling movements.
+The camera operator should sometimes react slightly late to her movement.
+No gimbal, no stabilization, no drone shots, no cinematic lens effects, no polished commercial cinematography.
+
+00–05s — LEAVING HOME
+She opens the front door of a small apartment building and steps underneath the awning.
+Rain is falling steadily outside.
+She checks the sky, pulls her hood loosely over her head and looks toward the camera with a small amused smile.
+She says:
+“I thought it stopped raining.”
+She steps carefully onto the wet pavement.
+
+05–10s — WALKING THROUGH THE RAIN
+The camera follows beside her as she walks down the narrow residential street.
+Her sneakers make small splashes through shallow puddles.
+She passes parked bicycles covered with rain droplets.
+A scooter moves through the background, briefly spraying water from the road.
+She adjusts her hoodie sleeve while walking.
+The camera briefly loses focus on her and focuses on a nearby rain-covered bicycle before recovering.
+
+10–15s — CONVENIENCE STORE STOP
+She notices a small convenience store ahead.
+She walks inside while the camera remains just outside the entrance for a moment.
+Warm interior lighting contrasts naturally with the cool rainy street.
+She comes back out holding a small transparent plastic bag containing a bottled drink and a simple packaged snack.
+She looks at the bag and smiles.
+No brand names or logos should be visible.
+
+15–20s — UNDER THE AWNING
+She stops beneath another neighborhood awning to escape the rain.
+She sets the plastic bag down briefly and wipes a few raindrops from her hair.
+A nearby vending machine hums quietly.
+She notices a small stray cat sitting underneath a parked bicycle across the street.
+She crouches slightly to look at it.
+The cat watches her but does not approach.
+She smiles and quietly says:
+“You found a dry place too.”
+The cat remains independent and natural.
+
+20–25s — WALKING HOME
+The rain becomes lighter.
+She picks up the bag and continues walking.
+The camera follows from behind.
+Streetlights begin reflecting across the wet pavement.
+A bicycle bell rings somewhere behind the camera.
+She turns briefly, then continues.
+Her hoodie moves naturally with her walking and the damp summer air.
+
+25–30s — FINAL MOMENT
+She reaches her apartment entrance.</code></pre>
+
+</details>
+
+## Young Korean woman walking in rainy Seoul street, MiniDV home video style
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098021419535962506)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `ugc`
+- **ImgLume record:** [3989](https://imglume.com/prompt/3989)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f3c42bce-20ec-4f92-aed8-7c90dd161626/60e83108-3f4e-4e79-8cc3-6638e3531150-1789060065441 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple casual outfit with a lightweight jacket and carrying a small canvas shoulder bag. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Quiet older Seoul neighborhood on a rainy early morning. Narrow residential street, small flower stall tucked beneath a shop awning, buckets of inexpensive flowers, wet pavement, old apartment buildings, parked bicycles, utility poles, umbrellas and distant traffic. Rain falls steadily but gently.
+
+Lighting &amp; Atmosphere: Dark cozy blue-hour atmosphere just after sunrise. Heavy cloudy sky creates soft blue-gray ambient light. The flower stall has a small warm fluorescent or incandescent light that gently illuminates the flowers. Wet pavement reflects the muted shop lights and apartment windows. Sleepy, quiet and intimate rainy Seoul atmosphere. No bright sunlight.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged. Smooth continuous real-time motion with natural handheld camera movement, subtle human shake, imperfect framing, occasional gentle reframing, autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and built-in microphone noise. No stabilization or modern cinematic movement. Do not create stuttering, judder, frame skipping, duplicated frames, stop-motion movement, speed changes or artificially low frame rate. Keep all movement physically continuous and natural.
+
+00:00–00:05: She walks slowly down a quiet wet Seoul street beneath a clear plastic umbrella. The camcorder follows casually from behind as her shoes make soft sounds against the wet pavement.
+
+00:05–00:09: She notices a small flower stall underneath an awning and stops. She closes her umbrella and steps closer, looking quietly through the buckets of flowers.
+
+00:09–00:14: She gently examines several small bouquets, picking up one bunch and turning it slightly in her hands. She smells the flowers briefly, then smiles softly when she finds one she likes.
+
+00:14–00:18: She points toward the bouquet and pays the shopkeeper. The camera remains slightly shaky and imperfectly framed, occasionally focusing on the flowers instead of her face.
+
+00:18–00:22: She receives the small bouquet wrapped simply in brown paper. She looks down at it with a pleased little smile and carefully tucks it against her shoulder bag.
+
+00:22–00:26: She opens her umbrella again and begins walking home slowly through the rain, holding the flowers carefully under the umbrella so they stay dry.
+
+00:26–00:30: She turns a corner and briefly notices the camcorder following her. She looks directly into the lens and gives a small genuine smile before continuing down the wet street. The camera stays behind for a moment, capturing her walking away with the flowers as rain fills the frame, then cuts.
+
+Audio: Natural location sound only—steady rain, umbrella fabric and raindrops, soft footsteps on wet pavement, distant cars, occasional bicycle sounds, quiet shop ambience, faint voices, plastic and paper rustling. No music, narration or added sound effects.
+
+Goal: Feel like an ordinary forgotten family recording from the early 2000s. Simple, warm and intimate rather than cinematic. The story is just a young woman noticing some flowers, buying them because she likes them, and walking home through the rain. The nostalgia should come from the mundane routine, rainy Seoul surroundings and imperfect MiniDV camera behavior.
+
+Motion quality: Prioritize smooth continuous real-time motion. Keep her movements calm and deliberate, especially while examining and carrying the flowers. Avoid sudden camera movements, rapid walking, running or complex interactions. The vintage appearance must come from the MiniDV image characteristics, not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2098018856740814976)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3972](https://imglume.com/prompt/3972)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/77bf7d85-630b-4032-a121-268781fe2927/71ead66c-d47c-4587-8c71-2fbad0d75449-1789047457201 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an e-commerce UGC talking-head video featuring this beverage. Show a young, influencer-style woman on camera introducing and showcasing the product to an international audience. The flavor is Mango Passionfruit ..</code></pre>
+
+</details>
+
+## Young Korean woman searches for hair clip in rainy Seoul apartment – vintage DV style
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2097896093648310567)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3963](https://imglume.com/prompt/3963)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1ca4f8d5-5b02-4082-966a-3b94820fb7b1/220b26ba-99cf-4bad-bcfa-982dd6a230dc-1789034849338 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized casual T-shirt and loose lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment bedroom during a dark rainy early morning. A simple wooden dresser, small mirror, scattered hair accessories, folded clothes and an old bedside lamp. A rain-covered window shows blurred neighboring apartment buildings and wet rooftops outside.
+
+Lighting &amp; Atmosphere: Cozy, dim blue-hour ambience. Cold blue-gray light from the rainy window mixes with a weak warm bedside lamp. Dark cloudy sky, muted colors, soft shadows, low exposure and a quiet sleepy atmosphere. Steady rain outside.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged. Natural handheld movement, imperfect framing, subtle camera shake, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Keep movement smooth and continuous. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands beside the dresser getting ready, suddenly realizes she cannot find her favorite small hair clip. She looks around the dresser with a mildly confused expression.
+
+00:04–00:08: She searches the tabletop, moves a small brush aside, checks beside the mirror and looks down around the floor. She becomes increasingly puzzled but remains calm.
+
+00:08–00:11: She walks toward the mirror and looks closely at her reflection, still trying to figure out where the clip could be. She touches her hair absentmindedly.
+
+00:11–00:15: Her fingers suddenly feel the hair clip already tucked into her hair. She freezes, realizes what happened, then looks directly at the camcorder with an embarrassed little smile and quietly laughs at herself.
+
+Audio: Natural location sound only—steady rain against the window, soft footsteps, faint fabric movement, small objects shifting on the dresser, distant traffic and quiet apartment ambience. No music, narration or added sound effects.
+
+Goal: Cute, spontaneous and intimate, like a tiny everyday mistake accidentally captured on an old home video. The humor should feel completely natural and understated. Her realization should be the main payoff, followed by a genuine embarrassed smile toward the camera.
+
+Motion quality: Keep all movements smooth, continuous and realistic. Her searching gestures should be slow and simple rather than frantic. The vintage DV aesthetic must come from image quality, autofocus, exposure, color and handheld operation—not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@AvelyrahnAI on X](https://x.com/AvelyrahnAI/status/2097932438475329862)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3958](https://imglume.com/prompt/3958)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d1bdad6c-30d3-4be7-ad50-e99f2940fc5b/c0dc8fc5-332b-4113-a32f-56c62edc6d6a-1789030585180 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>“Create an e-commerce UGC talking-head video for this Mango Passionfruit beverage, featuring a young influencer-style woman introducing the product to international consumers, with narration and background music suited to product promotion.”</code></pre>
+
+</details>
+
+## Ultra-realistic 30-second home video of a Korean woman in Seoul
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2097893690220085662)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `ugc`
+- **ImgLume record:** [3953](https://imglume.com/prompt/3953)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/abdc28e6-e5a2-4025-b17d-5946e186e449/c25a8ce0-2a60-412a-8f3c-bf5d00c7ffc9-1789026568667 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic personal home-video of a young Korean woman in her early 20s, long black messy side ponytail, pastel-blue fitted top, loose cream pajama pants, black sneakers, silver necklace, carrying a canvas tote bag; maintain identical appearance throughout.
+Set it in a quiet older Seoul residential neighborhood on a warm summer afternoon: narrow concrete lanes, small houses, old walls, potted plants, bicycles, utility poles, overhead wires, laundry and a simple outdoor barbecue.
+Use a raw early-2000s consumer DV camcorder aesthetic: strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, motion blur, faded colors, soft digital detail, mild noise and accidental zooms; no polished cinematography.
+She leaves her house with the tote bag, locks the door, adjusts her ponytail and walks casually down the lane as a light breeze moves her hair.
+She spots her young Korean friend outside a small house, wearing a grey crop top, loose pajama-style pants and house slippers, preparing food on a simple charcoal barbecue.
+She smiles, walks over and asks, “Need some help?” and her friend happily hands her the cooking tongs.
+They chat and laugh while she carefully helps turn the food, but she accidentally touches the hot edge of the barbecue and immediately pulls her hand back, saying, “Ah! Hot!”
+Her friend becomes concerned and points toward a nearby outdoor water tap, so she quickly walks over while holding her injured hand.
+She turns on the tap and places her hand under the cool running water; close-up of water flowing naturally over her fingers while she takes a relieved breath.
+After drying her hand, she notices a small neighborhood ice-cream cart, walks over and chooses a simple ice cream from the seller.
+She takes coins from her canvas tote bag, counts them naturally and gives them to the seller, then walks away eating the ice cream with a small amused smile.
+She walks back toward home through the same residential lane, looks at her hand and then at the ice cream, quietly says “Maybe this can help,” and disappears through her gate.
+AUDIO: only natural diegetic sound—footsteps, birds, insects, scooters, bicycle bells, neighborhood voices, barbecue sizzling, charcoal crackling, dialogue, running water, ice-cream cart sounds, coins and camera-handling noise; no music or narration. Negative: no subtitles, captions, logos, watermarks, identity/outfit changes, duplicate people, distorted hands, gore, blood, excessive injury, CGI look, teleportation, object duplication or polished cinematic movement.</code></pre>
+
+</details>
+
+## Authentic iPhone GRWM match-day experience reel
+
+- **Original source:** [@ZunairaSaeedAi on X](https://x.com/ZunairaSaeedAi/status/2097870562349744351)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3938](https://imglume.com/prompt/3938)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/18a5f014-2607-48f8-b958-37c1ebac3df2/d2b5575e-ebed-4ada-b691-32c24a598fe6-1789022181801 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Style &amp; Mood: Authentic iPhone GRWM + match-day experience reel with raw handheld realism, warm bedroom daylight evolving into bright stadium energy. Feels like a genuine Instagram/TikTok story — natural, candid, slightly imperfect, zero production gloss. Soft dewy skin, realistic iPhone HDR, autofocus breathing, tiny handheld shake throughout, subtle motion blur, natural audio texture.
+
+Shot 1 (0–3s): Front-facing iPhone selfie in a softly lit bedroom during warm morning daylight. Young woman with long voluminous wavy dark brown hair smiles into camera while holding an iced coffee. She playfully raises her eyebrows and mouths something casual to follower. White football jersey with black trim lies on the bed behind her. Warm sunlight through curtains creates soft glow on her face. Tiny handheld tremble, ice clinking in cup.
+
+Shot 2 (3–6s): Tight handheld bathroom mirror close-up. She applies clear lip gloss while filming the reflection. Frosted daylight softly lights her face and pearl choker. Gloss catches highlights as the applicator slowly pulls away. Slight bathroom echo and natural iPhone exposure shifts.
+
+Shot 3 (6–8s): Full-body mirror selfie. She now wears a white football jersey with black trim and a small black crossbody bag. Hair loose and wavy. She does a small approving spin while smiling naturally at herself in the mirror. Slight motion blur during movement.
+
+Shot 4 (8–10s): Fast beauty-detail montage. Extreme close-ups of the football crest, pearl choker against pale skin, glossy lips, jersey fabric folds, fingertips brushing hair back. Handheld drift and shallow digital depth feel.
+
+Shot 5 (10–13s): Rear POV inside a crowded stadium tunnel. Blue flooring, concrete overhang, fans in white numbered jerseys surrounding her, yellow hi-vis stewards at edges. Her dark wavy hair lifts slightly from tunnel airflow. Bright vivid green pitch glows ahead through the tunnel opening beneath an overcast sky. Crowd ... loudly.
+
+Shot 6 (13–15s): Front-facing selfie from packed stadium stands. She grins widely into camera, eyes crinkling naturally, pearl choker catching diffused daylight. Massive stadium bowl and vivid green pitch fill the background while fans in white jerseys surround her. She tilts the phone upward slightly to reveal the stadium scale and holds the smile until the final frame.
+
+Character: Young woman with long voluminous wavy dark brown hair, porcelain-fair dewy skin, large dark almond-shaped eyes, full glossy warm-rose lips, youthful soft features, double-strand pearl choker necklace, oversized white football jersey with black trim, small black crossbody bag.
+
+Camera: Simulated iPhone 14 Pro, 26mm equivalent, 24fps, f/1.8, ISO 400, 1/50 shutter. Natural handheld shake, no stabilization, warm boosted indoor shadows, cool outdoor highlights, punchy green pitch saturation. Total runtime 15 seconds.
+
+Audio: Ice clinking, lip gloss application, fabric rustle, apartment ambience evolving into loud stadium crowd roar/chants, footsteps, tunnel reverb, and wind brushing the phone microphone.</code></pre>
+
+</details>
+
+## 30-second photorealistic Korean countryside lifestyle vlog
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2097556131623432569)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3933](https://imglume.com/prompt/3933)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/616c76af-1415-4f00-baef-88c757eac268/3879bfb5-2702-4d75-9268-1ed1d541495c-1789020223252 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second photorealistic Korean countryside lifestyle vlog following a woman through her peaceful morning routine. Show her opening the chicken coop → feeding the chickens → collecting fresh eggs → cleaning the coop → preparing a homemade breakfast → sitting outside and enjoying the quiet farmhouse morning.
+
+Authentic 2026 Korean rural life, natural human movement, realistic chicken behavior, fresh farm-to-table details, morning mist, soft sunlight, natural wind and environmental sounds, and documentary-style handheld cinematography. No background music, subtitles, logos or watermark.</code></pre>
+
+</details>
+
+## Ultra-realistic 2000s-style Taiwanese summer evening home video
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2097564633242779830)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3932](https://imglume.com/prompt/3932)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/813ba1b0-8380-426a-8905-7665f28c4bd1/76bbde65-9645-4cf0-bf01-c8c5e64070fe-1789020185264 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p, 16:9 ultra-realistic 2000s-style home video recording style video, featuring an ordinary Taiwanese summer evening.
+
+Main subject: The entire video is shot from the perspective of a young Taiwanese woman in her early 20s, with natural, realistic skin tone, light makeup, dark brown long hair styled in a low bun, with a few strands of hair. She is wearing a soft black long-sleeved knitted top, wide-leg light gray shorts, white vintage sneakers, carrying a dark black backpack, and wearing a silver bracelet. Please ensure that the face, hairstyle, clothing, proportions, and accessories remain completely consistent.
+
+Setting: A quiet old residential alley in Taipei, with small apartments, potted plants, bicycles, old walls, power poles, and a small snack shop, a water dispenser, and potted plants. Full of life, peaceful, and real; no brands, advertisements, tourist attractions, or elaborate commercial activities.
+
+Photography: The original consumer DV shooting style from the early 2000s, intense hand-held shaking, imperfect composition, search for autofocus, exposure changes, dynamic blur, faded colors, soft digital details, slight noise, and unexpected zoom. Stabilizer, sky lanterns, drones, cinematic lenses.
+
+Timeline:
+00:00-00:05: Take out an eco-friendly shopping bag, lock the door, check the keys, tidy up hair, smile at the camera, and walk down the alley.
+
+00:05-00:10: Buy a small bag of green grapes from a small grocery store. Take a bite, react to the sour taste, make a funny face, laugh, and hand the fruit to the camera.
+
+00:10-00:15: Walk and eat the fruit. A little dog notices her and wags its tail, she crouches down to let it smell her hand. The dog follows her for a short distance before leaving.
+
+00:15-00:20: The dry leaves on the tree fall on her shoulders and hair. She looks up, shakes off the leaves, and the camera zooms in and gets close to her face. She says: Here it comes again?
+
+00:20-00:25: Sit briefly on the low wall, finish eating the fruit, and a taxi passes by. The neighbor is watering the flowers. The wind blows her hair and clothes; she wipes her hands and adjusts her bag.
+
+00:25-00:30: Walk to the end of the alley, turn around with a playful smile, say: Let's go. Turn the corner; the camera follows; suddenly switches to black screen.
+
+Sound: Only natural ambient sounds, bird songs, insect sounds, footsteps, bicycle bells, distant motorcycle sounds, tree leaves, store sounds, dog movements, neighborhood sounds, and the noise of operating a camera. No music, voiceover, subtitles, titles, logos, watermarks, or special effects.
+
+Continuity: Real dogs and environmental actions. No repeated characters, distorted faces, deformed hands, extra fingers, instant movements, or clothing changes. Warm, leisurely, feminine, playful, intimate, with a nostalgic feeling of forgotten summer memories.</code></pre>
+
+</details>
+
+## 30‑second vertical mirror selfie video with playful dog
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2097616213371478242)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3903](https://imglume.com/prompt/3903)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f1818385-6c7b-4ffe-ac4c-9aba383ee8d5/9123d00e-ecae-458b-abc5-12004b2a4837-1789018254650 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>REFERENCE &amp; SUBJECT CONSISTENCY Use "@&lt;image1" as the exact visual reference for the woman. Maintain identical identity, face, hairstyle, clothing, body proportions, skin texture, and natural appearance. Use exactly ONE small playful dog throughout the entire video. The dog must remain the same individual throughout. No duplicate animal and no other animal. FORMAT 30-second continuous vertical smartphone selfie video. The woman is standing in front of a full-length indoor mirror while holding the phone in one hand. The phone camera is the only camera. Natural window daylight enters from the side. Realistic mirror reflection. No cuts, no transition, no zoom. Natural handheld phone movement. --- 0–5 SEC — MIRROR SELFIE The woman is casually filming herself through the mirror. She adjusts a strand of hair while looking at the phone screen. The dog is initially lower in frame, partially beside her legs. She does not notice it immediately. The camera remains slightly imperfectly framed. --- 5–9 SEC — DOG APPEARS The dog slowly walks into the reflection behind her. She notices movement in the mirror. She turns her head. Her expression changes from neutral to amused surprise. She looks down toward the dog. The dog looks directly back at her. --- 9–14 SEC — FIRST JUMP The dog suddenly jumps upward toward her. She reacts with a surprised laugh. The phone hand moves upward instinctively. The mirror framing becomes slightly tilted. She tries to keep herself and the dog inside frame. The dog lands and immediately looks up again. --- 14–19 SEC — BLOCKING HER FACE The dog jumps again. Its head rises into the center of the mirror reflection and partially blocks her face. She laughs and tries moving sideways. The dog follows her movement. She says: "Can you move?" The dog stays directly in front of her. --- 19–24 SEC — SELFIE CHAOS She gently tries to guide the dog lower with one hand while keeping the phone raised. The dog keeps moving toward the phone. Her laughter becomes louder and less controlled. The phone shakes naturally. The reflection remains physically consistent. Her hair moves slightly as she turns. --- 24–27 SEC — DOG APPROACHES LENS The dog suddenly notices the phone itself. It moves directly toward the camera. Its nose approaches the lens. The woman's face remains visible behind it in the mirror. She laughs and pulls the phone slightly backward. The framing becomes tighter. --- 27–30 SEC — LENS BLOCK The dog reaches the phone. Its nose fills a large part of the frame. Whiskers and fur become sharply visible. The woman laughs behind the camera and starts saying: "You little—" She cuts herself off laughing. The phone dips slightly. The dog's nose remains close to the lens. The image briefly loses focus and then regains it. The clip ends naturally with the dog still trying to investigate the camera. AUDIO Natural room ambience only. Dog paws against floor, light collar movement if visible, clothing movement, woman's breathing, surprise reaction, genuine laughter and dialogue. No music. No voice-over. No subtitles. No text. No logo. No watermark. No artificial sound effects. STRICT CONSTRAINTS Exactly one woman. Exactly one dog. No other animal. No duplicate reflection. No duplicate woman. No impossible mirror behavior. No extra limbs. No face distortion. No cuts. No zoom. No camera operator. No cinematic effects. Maintain realistic mirror physics and continuous handheld phone movement from beginning to end.</code></pre>
+
+</details>
+
+## Ultra-realistic home video of a Korean woman struggling with a jar in a rainy Seoul kitchen
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2097656268404252737)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [3897](https://imglume.com/prompt/3897)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/678b50d5-3c67-4ef2-abc6-ee25ad3a72bd/9d0ed84f-aeb8-46ec-8096-42a1f7f38bc1-1789018090304 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized casual T-shirt and loose lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions, and appearance throughout.
+
+Location: Small old Seoul apartment kitchen during a dark rainy early morning. Slightly worn cabinets, small wooden table, old refrigerator, ceramic dishes, glass jars and everyday kitchen items. A rain-covered window shows blurred apartment buildings and wet rooftops outside.
+
+Lighting &amp; Atmosphere: Cozy, dim blue-hour ambience. Cold blue-gray light from the rainy window mixes with a weak warm kitchen light. Dark cloudy sky, muted colors, soft shadows, low exposure and a sleepy intimate atmosphere. Steady rain is visible and audible outside.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged. Natural handheld movement, imperfect framing, subtle camera shake, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Keep movement smooth and continuous. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands at the kitchen counter trying to open a tightly sealed glass jar. She grips the lid with both hands and twists it, but it refuses to move. She pauses and looks at it with mild disbelief.
+
+00:04–00:08: She tries again, using a little more force. Her shoulders tense slightly and her expression becomes adorably frustrated. She briefly looks around the kitchen as if considering what else she can try.
+
+00:08–00:11: She grips the jar firmly one more time and twists. The lid suddenly pops loose. She freezes for a moment, surprised that it finally worked.
+
+00:11–00:15: She looks down at the open jar, then slowly turns toward the camcorder with a proud little smile. She raises the jar slightly as if showing off her accomplishment, quietly laughs and shakes her head.
+
+Audio: Natural location sound only—steady rain against the window, refrigerator hum, subtle glass and lid sounds, hands rubbing against the jar, quiet clothing movement and faint distant apartment noises. No music, narration or added sound effects.
+
+Goal: Cute, spontaneous and intimate, like a tiny everyday moment accidentally captured on an old home video. The humor should come entirely from her genuine frustration followed by the small victorious moment. Keep her reactions subtle and believable, never exaggerated or cartoonish.</code></pre>
+
+</details>
 
 ## Luxury UGC lifestyle commercial for Chanel bag
 
