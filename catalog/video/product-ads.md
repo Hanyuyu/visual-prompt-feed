@@ -1,9 +1,150 @@
 # Product Ads video prompts
 
-99 source-linked prompts, newest ImgLume records first.
+104 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@Ava_Ai__ on X](https://x.com/Ava_Ai__/status/2098459622453756301)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [4082](https://imglume.com/prompt/4082)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c996aab-c030-4495-a1b3-a710c2b998f4/301e45c7-2ce1-4f62-b867-91258f32c8c6-1789151915848 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>“Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit.”</code></pre>
+
+</details>
+
+## Cinematic Luxury Perfume Commercial with Cherry Theme
+
+- **Original source:** [@ZarnishNael on X](https://x.com/ZarnishNael/status/2098262604267577783)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [4051](https://imglume.com/prompt/4051)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/afdbbc9f-b60f-4d79-af4e-87dae19500d8/1da094a6-f284-4ead-a7d8-40f0909fb1f6-1789130830501 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A sleek, high-end luxury perfume commercial featuring a glamorous woman in a vivid red suit.
+Scene 1: The model confidently walks forward down an infinite, surreal corridor of concentric archways in shades of pink, rose, and magenta. The floor is a reflective, mirrored surface scattered with glossy dark red cherries.
+Scene 2: Close-up shot of the woman spraying a luxury perfume bottle ("La Vie Est Belle L'Elixir Very Cherry") onto her neck, mist catching the dramatic lighting against a dark backdrop.
+Scene 3: The model sits at a sleek bar holding a dark red martini cocktail garnished with cherries, framed by warm, ambient lighting.
+Scene 4: A macro close-up shot of a sharp red stiletto heel crushing a fresh cherry on a clean white surface, releasing a vibrant burst of deep red juice next to the perfume bottle.
+Scene 5: Final shot of the model holding the luxury glass perfume bottle with both hands in front of her chest, staring directly into the camera, featuring sleek brand text overlay ("LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY").
+Visual Style: Cinematic lighting, rich crimson red and deep berry color palette, ultra-sharp focus, modern luxury aesthetic, 4K resolution, 30fps, slow-motion details.</code></pre>
+
+</details>
+
+## Botanical Perfume 15-Second Video Prompt
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2098306219903492133)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `nature`, `product-ads`
+- **ImgLume record:** [4050](https://imglume.com/prompt/4050)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5500fd8-eb8a-466f-97e5-c96d98d2ce91/6ed55aa9-f4de-4915-bf26-d552fa25b306-1789130805642 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>0 to 3 Seconds (The Hook)
+Visual: Extreme macro tilt-up shot through vibrant green tropical leaves dripping with morning dew drops. Sunlight flares brightly into the lens, illuminating floating pollen and water particles.
+Action: Dewdrops slide down a large palm leaf and splash onto raw stone in hyper-realistic slow motion, instantly sending micro-droplets upward.
+Sound: Deep organic woodwind harmony opening into a crisp, hyper-detailed splash sound effect paired with gentle birdsong and rustling leaves.
+
+3 to 6 Seconds (The Product Reveal)
+Visual: Smooth camera orbit around a frosted glass perfume bottle standing upright on a mossy basalt rock surrounded by blooming wild orchids.
+Action: A fine, dew-like botanical mist sprays cleanly from the side nozzle, dispersing horizontally while crisp sunlight catches every micro-droplet, creating a subtle rainbow prism effect.
+Sound: Clean, metallic pump spray click followed by a refreshing, atmospheric rush of mist audio and a gentle breeze swoosh.
+
+6 to 9 Seconds (The Character Dialogue)
+Visual: Medium shot of the woman standing in a sun-drenched botanical glasshouse, gently brushing a green fern leaf away from her face and looking directly into the camera lens with a serene, confident gaze.
+Action: She tilts her head slightly into the sunlight, her face relaxed and perfectly steady, speaking her line naturally with a soft smile.
+Sound: Soft, earthy acoustic string chord beneath a warm, breathy voiceover: "Breathe the wild."
+
+9 to 12 Seconds (The Sensory Surge)
+Visual: Fast-forward blooming sequence where golden flower petals unfurl around the perfume bottle, merging seamlessly with swirling sunlight and green leaves in dynamic motion physics.
+Action: Earthy moss and flower petals rise softly into the air surrounding the bottle, creating a weightless, natural float effect.
+Sound: Uplifting acoustic melody swell paired with a soft swooshing air transition and gentle rustling textures.
+
+12 to 15 Seconds (The Brand Outro)
+Visual: Centered hero shot of the frosted glass bottle standing upright on a sunlit marble slab amidst fresh green moss and morning dew. The engraved branding "GILBERTO" stands out in crisp golden typography.
+Action: Morning light sweeps smoothly across the bottle from left to right as delicate botanical mist settles at the base.
+Sound: Warm, grounded acoustic chime lingering into a soft fadeout.</code></pre>
+
+</details>
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2098303270741778840)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [4046](https://imglume.com/prompt/4046)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4f2a0781-ea67-4387-9161-6841ef4b7892/516eb5b2-b63a-4532-b8ca-c02f66bcc75e-1789126647312 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Please help me create an e-commerce UGC talking-head video for this beverage. A young, influencer-looking woman should appear on camera to showcase and introduce the product to international consumers. The flavor is Mango Passionfruit.
+
+Use Kling Omni 3.0 and Gemini Image, with a 16:9 aspect ratio and a duration of 10 seconds. The on-camera host should introduce the product in a UGC e-commerce talking-head selling style, with narration and background music suited to product promotion. Use the Kling MCP and any skills or rules you find helpful. If the necessary resources aren't available locally, you may search online.</code></pre>
+
+</details>
+
+## Avant-garde fragrance concept video
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2098001061344682118)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `product-ads`
+- **ImgLume record:** [4002](https://imglume.com/prompt/4002)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a82d1620-7b38-4cd4-b1fb-1755098cbde9/349bd3bf-023e-4976-ad03-96c2fcd0ac03-1789068886383 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Sequential Video Prompt
+
+0 to 3 Seconds (The Hook)
+Visual: Low-angle tracking shot through a dark obsidian hallway illuminated by pulsing floor-to-ceiling white laser grids. A floating kinetic sculpture of liquid mercury hovers in mid-air.
+Action: The liquid chrome sculpture suddenly ripples and shatters inward, defying gravity as metallic droplets form a swirling halo around the center frame.
+Sound: Deep sub-bass drop combined with a rising cybernetic hum and a crisp glass-shattering sonic ripple.
+
+3 to 6 Seconds (The Product Reveal)
+Visual: Extreme macro shot of the avant-garde chrome and glass perfume bottle assembling mid-air. Liquid crystal pulses inside the bottle, highlighting the sharp engraved branding "GILBERTO" and "EST. 2026".
+Action: Micro-atomized vapor sprays with extreme precision from the sleek side nozzle in a sharp horizontal wave, parting the floating chrome particles around it.
+Sound: High-frequency laser charge effect followed by a sharp, pneumatic air pressure release and futuristic chime.
+
+6 to 9 Seconds (The Character Dialogue)
+Visual: Medium close-up of the futuristic ambassador stepping through a laser light ring. Her silver chrome collar reflects the neon glow as she looks straight down the lens with intense, cold confidence.
+Action: Her eyes track the camera with zero head movement before her lips move, keeping her facial structure perfectly sharp and distortion-free.
+Sound: Crisp, ultra-clean robotic-resonant voiceover: "Decode the future." Underlaid with a steady synth pulse.
+
+9 to 12 Seconds (The Sensory Surge)
+Visual: Fast kinetic camera warp where the environment transforms from dark obsidian into a blinding white virtual void. Floating chrome rings expand rapidly outward from the bottle.
+Action: Waves of luminous blue energy and liquid chrome pass through the perfume bottle in high-speed fluid dynamics.
+Sound: High-speed electronic riser building into a heavy bass pulse and spatial audio swoosh.
+
+12 to 15 Seconds (The Brand Outro)
+Visual: Centered hero shot of the avant-garde bottle standing upright on a glowing mirror pedestal. Soft blue laser lines outline the typography "GILBERTO" with crisp, geometric precision.
+Action: Light reflections sweep across the chrome body while fine atomized vapor settles softly at the base.
+Sound: Synthesizer chord resolving into a clean, digital echo fadeout.</code></pre>
+
+</details>
 
 ## Premium Blueberry Muffin Product Commercial Storyboard
 

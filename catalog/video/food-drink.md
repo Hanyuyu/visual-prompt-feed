@@ -1,9 +1,72 @@
 # Food Drink video prompts
 
-83 source-linked prompts, newest ImgLume records first.
+85 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Clip 3: Plating the Food
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2098365565781917862)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [4062](https://imglume.com/prompt/4062)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/207560ec-863b-4811-884b-63ec74fd13c9/f59ab5ec-9c45-4c54-a9a4-3095eddbd1a3-1789139313904 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Medium shot, stop-motion animation. The amigurumi girl uses a tiny wooden spatula to slide cooked yarn eggs from a dark grey crocheted pan onto a decorative knitted plate. Cozy kitchen backdrop filled with yarn jars and crocheted details, bright morning light, frame-by-frame tactile motion.</code></pre>
+
+</details>
+
+## Cozy Retro Kitchen Baking Scene
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2097900090249957617)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [4000](https://imglume.com/prompt/4000)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a1897fb1-618a-456a-8aaa-0fd0978792d3/96974e78-4bee-4050-b368-3ac54909ab60-1789068802648 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject
+A young East Asian woman with short hair wearing a green patterned blouse and a beige apron, and a young East Asian man wearing a cream-colored short-sleeve button-up shirt, green apron, and grey oven mitts, baking together in a retro-styled kitchen.
+
+Style
+Cinematic cozy slice-of-life drama. Warm pastel and vintage color grading with soft 35mm film texture, nostalgic kitchen aesthetics, and gentle lighting.
+
+Camera &amp; Framing
+Lighting consists of warm, soft indoor kitchen illumination with golden oven glows. Framing includes medium kitchen workspace views, macro close-ups on the tart and meringue piping, inside-the-oven tracking angles, and static dining table shots.
+
+Audio
+Subtle acoustic background hums and ASMR-style baking foley, including piping sounds, oven door clicks, tart placement thuds, and quiet ceramic clinking.
+
+Realism
+Photorealistic 8K rendering featuring accurate food textures like fluffy piped meringue and golden-brown torched peaks, natural fabric movement, and realistic kitchen lighting physics.
+
+Detailed Scene Breakdown
+
+00:00 to 00:05 shows a medium shot of the woman carefully piping white meringue peaks onto a lemon tart crust on a wooden counter while the man watches closely beside her.
+
+00:06 to 00:10 features a close-up tracking shot of the piping bag creating neat rows of meringue kisses across the top of the tart.
+
+00:11 to 00:16 captures the man wearing grey oven mitts lifting the tart tray and sliding it into a retro oven, closing the door as the woman looks on.
+
+00:17 to 00:18 is an internal oven shot of the man peeking through the glass window, watching the meringue tips toast to a golden brown.
+
+00:19 to 00:21 shows the man using oven mitts to pull the freshly baked, browned lemon meringue tart out and placing it onto a wooden cooling rack.
+
+00:22 to 00:24 is a close-up shot of a sliced piece of lemon meringue tart being served onto a vintage plate.
+
+00:25 to 00:30 captures a static wide shot of both sitting down at a retro dining table, picking up their forks, and taking a bite of the tart together.</code></pre>
+
+</details>
 
 ## 15-Second Surreal Strawberry Chocolate Tart Video Prompt
 

@@ -1,9 +1,965 @@
 # Cinematic video prompts
 
-717 source-linked prompts, newest ImgLume records first.
+744 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Photorealistic GTA-inspired car chase video
+
+- **Original source:** [@Mapunda_01 on X](https://x.com/Mapunda_01/status/2098432658166694305)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4081](https://imglume.com/prompt/4081)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/24c13ad9-f5b2-4644-b4a2-73010806e9f3/3bd4214d-7870-4969-8572-34a46c210720-1789151905931 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an original GTA-inspired car chase with a photorealistic, live-action cinematic finish. Design the driver, two cars and urban environment. Plan three 4-second shots: rear tracking pursuit, side tracking through a sharp turn and a wide exit shot. Build the scene and animation in Blender, including vehicles, wheel rotation, steering, driver movement and cameras. Render the complete 12-second gray-model video at 1280×720 and 24 fps. Then use the PixVerse Plugin with Seedance 2.5 to transform each shot's gray first frame into a photorealistic cinematic reference while preserving composition, perspective, subject positions and vehicle count. Use each cinematic reference together with its corresponding Blender video to generate the final shots while maintaining vehicle identity, colors, camera movement, trajectories and action timing.</code></pre>
+
+</details>
+
+## Cinematic 3D Animated Fantasy Adventure with Boy and Dragons in Tropical Jungle
+
+- **Original source:** [@aaassa120 on X](https://x.com/aaassa120/status/2098468425421259070)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4079](https://imglume.com/prompt/4079)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1e9cd1c0-1bd7-47f8-a90d-a5a8e3285cfe/385a3459-1379-4a8f-bb16-d3f1f8390943-1789151831204 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic, high-quality 3D animated fantasy adventure scene in a lush tropical jungle near a beautiful tropical coastline. A cute young boy with messy dark hair and a small white baby dragon are playing together on giant green leaves, with the baby dragon holding a woven ball. Suddenly, a huge majestic green-and-gold dragon appears and flies overhead, creating a sense of excitement and danger. The boy runs through the jungle while the giant dragon follows him. He eventually hides inside a rocky cave with the little white dragon, both looking nervous as the enormous dragon approaches the cave entrance.
+
+The scene then shifts into a magical emotional moment: the giant dragon is revealed to be friendly, carrying the adorable white dragon on its back. The boy comes out of the cave and happily interacts with the dragons. End with the boy and the baby dragon sitting together beside a colorful round fruit on the sandy beach, smiling peacefully, while the majestic dragons stand in the background near the ocean.
+
+Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pixar-inspired fantasy aesthetic, detailed dragon scales and fur, vibrant tropical vegetation, dramatic sunlight, realistic shadows, beautiful blue sky, cinematic depth of field, smooth character animation, dynamic camera movements, emotional storytelling, highly detailed environment, polished movie-quality rendering, 16:9, 4K....</code></pre>
+
+</details>
+
+## 8-second photorealistic wildlife documentary shot using Blender, PixVerse, and Seedance 2.5
+
+- **Original source:** [@tussiwe on X](https://x.com/tussiwe/status/2098432674503573616)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [4076](https://imglume.com/prompt/4076)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/28680d08-efc1-480a-b559-c91e6b10bccc/e12f5198-020d-4189-8f08-079ba24e57b7-1789151747281 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Using my uploaded animal reference photo, complete an end-to-end workflow with Blender and the PixVerse Plugin to produce an 8-second photorealistic wildlife documentary shot using Seedance 2.5. Analyze the reference and preserve visible body proportions, coat, face, ears, horns and hooves. Build an editable Blender motion preview with a natural four-beat gait and lateral camera tracking. Keep the full body, both horns and all hooves within frame, with all vegetation behind the animal. Use the original photo as the primary authority for appearance and the Blender preview for motion, camera, composition and timing. Generate one uninterrupted photorealistic shot through PixVerse and Seedance 2.5, maintaining realistic anatomy, grounded foot contact, consistent identity and natural rainforest lighting.</code></pre>
+
+</details>
+
+## Photorealistic 8-second wildlife documentary shot using animal reference
+
+- **Original source:** [@EleanorLouiise on X](https://x.com/EleanorLouiise/status/2098432784914383211)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [4075](https://imglume.com/prompt/4075)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65bbad10-93d1-4d73-90bc-98f5cdde1a01/7b401aad-32dd-4c7b-97d5-415973a00bac-1789147822307 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Analyze the supplied animal photograph and create a photorealistic 8-second wildlife documentary shot. Preserve the animal's visible proportions, coat, face, ears, horns and hooves from the original image. Build an editable Blender scene with a simplified animal, rainforest environment and animated camera. Create a natural four-beat walking cycle with planted stance feet, clear hoof lift and subtle weight transfer. Use the Blender preview only for motion, camera, composition and timing. Use the original photograph as the authority for appearance. Generate the final shot with PixVerse and Seedance 2.5 at 720p, 24 fps and 4:3. Keep the entire animal visible and unobstructed, with all trees and foliage behind it, and preserve identity, anatomy, foot contact and camera continuity.</code></pre>
+
+</details>
+
+## Photorealistic Cinematic Car Chase via Blender-to-PixVerse Workflow
+
+- **Original source:** [@n__deborah on X](https://x.com/n__deborah/status/2098432763368178141)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4074](https://imglume.com/prompt/4074)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1135cfe6-287d-432f-9833-9ade50f678e3/04736536-84cf-40ff-9a27-7022329d1beb-1789147707058 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an original photorealistic cinematic car chase using a structured Blender-to-PixVerse workflow. Design two cars, a driver and an urban environment. Create three connected 4-second shots with a rear pursuit, side tracking turn and wide exit. Animate and validate vehicle movement, wheel rotation, steering, driver interaction and camera paths in Blender. Render a 12-second 1280×720 gray-model video. Use PixVerse Plugin and Seedance 2.5 to create cinematic reference images from the corresponding first frames, preserving composition, perspective and vehicle identity. Use those references with the Blender videos to generate each shot while maintaining the original camera movement, trajectories, timing, colors and spatial relationships.</code></pre>
+
+</details>
+
+## Wizard workshop cinematic sequence
+
+- **Original source:** [@arthur__penn on X](https://x.com/arthur__penn/status/2098432802962436124)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4072](https://imglume.com/prompt/4072)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1350b5bb-336a-4262-b36d-3cbde86524fe/a54af090-c2f3-439a-9d21-89056796cc50-1789147590593 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 12-second single-take cinematic wizard workshop sequence. First build an editable white-model scene in Blender based on the supplied reference, including stone walls, wooden shelves, an arched window, fireplace, books, astronomical equipment and an alchemy table. Animate a low first-person camera and one right hand holding a potion. Preserve the natural hand movement, fingertip contact, focus transitions, head movement and arm lag. Export the white-model animation, then use PixVerse and Seedance 2.5 with the Blender video as the motion and camera reference and the supplied images as appearance references. Preserve the room layout, continuous shot and potion action while creating realistic stone, carved wood, leather, glass, firelight, glowing reagents, irregular flames, embers, smoke and sparks.</code></pre>
+
+</details>
+
+## Desert ATV dune mastery with dynamic camera work
+
+- **Original source:** [@LudovicCreator on X](https://x.com/LudovicCreator/status/2098109356088656037)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4070](https://imglume.com/prompt/4070)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57547771-d06e-4d8f-a140-fb28749ad2d2/8a535909-a6c2-4c9e-aa2b-6f5449b25b33-1789143496977 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Desert ATV dune mastery with dynamic camera work
+
+✓ Seamless transitions (POV → overhead → ground-level → tracking)
+✓ Chaotic terrain progression (dunes → rocks → valleys → climbs)
+✓ Massive sand spray throughout
+✓ Golden desert lighting
+✓ Technical aggressive riding
+
+30 seconds of cinematic ATV action. 🏜️💨✨</code></pre>
+
+</details>
+
+## Abandoned station to train crossing moon and space
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2098290630179057858)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4067](https://imglume.com/prompt/4067)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/82fcd8d4-0358-4ad2-8245-bb6ab2921cca/9ed341fb-47ca-4d4b-8d73-aacf8ea432e1-1789143399609 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>REFERENCE: Use the provided character reference image as the exact visual identity of the protagonist. Keep her face, hairstyle, clothing, body proportions and visual details unchanged throughout the entire sequence. 0–5 SEC An abandoned underground railway station sits completely empty at midnight. Dust floats through flickering lights. A young woman waits alone on the platform when an old train suddenly arrives without making any sound. Its windows reveal a star-filled sky instead of passengers. 5–10 SEC The train doors open by themselves. She steps inside. Camera follows behind her as the doors close → the train accelerates through the dark tunnel → walls of the tunnel begin transforming into galaxies and distant planets. 10–16 SEC The train bursts out of the tunnel and travels through open space on invisible railway tracks. Earth appears far below. She looks through the window as enormous pieces of a shattered moon drift past the train. 16–22 SEC The train approaches a gigantic abandoned lunar station built across the surface of the moon. Suddenly every dead light on the station turns on one by one. Camera moves beside the train as thousands of empty platforms stretch into the distance. 22–27 SEC The train stops. She steps outside onto the moon. In front of her stands an enormous mysterious structure shaped like a doorway, slowly opening toward Earth. A beam of warm sunlight passes through it and illuminates her face. 27–30 SEC Camera pulls rapidly backward from the lunar station → the entire moon comes into view → the train begins leaving along its impossible track toward Earth → final shot shows the tiny glowing train crossing space beneath a massive blue planet. VISUAL STYLE: Ultra-realistic cinematic science-fantasy, photorealistic character, realistic lunar environment, physically believable space lighting, detailed abandoned architecture, volumetric light, subtle lens effects, massive scale, premium Hollywood cinematography, IMAX composition. CAMERA: Slow suspenseful opening, smooth tracking shots, dynamic acceleration during space transition, wide orbital shots, controlled final pullback. NEGATIVE: cartoon, anime, low-quality CGI, face morphing, character inconsistency, costume changes, distorted anatomy, unrealistic reflections, excessive camera shake, text, subtitles, logos, watermark.</code></pre>
+
+</details>
+
+## Zombie outbreak night shift hospital horror sequence
+
+- **Original source:** [@auqibhabib on X](https://x.com/auqibhabib/status/2098278560255664278)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4060](https://imglume.com/prompt/4060)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3250e2da-32a8-4e4c-97c5-88964ff3c16e/9d11f0bd-cbc3-446c-9709-aed69a02c854-1789139220189 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shot 1 (0.0–1.2s): A young woman with pale skin and dark hair rests in a dim hospital bed, flushed and sweating, eyelids flickering open, IV drip beside her, curtain partly drawn around the bed.
+
+Shot 2 (1.2–2.2s): Close-up of her hand gripping the bed rail, dark veins surfacing beneath the skin, breath shallow and uneven, dim monitor light glow. 16:9 aspect ratio
+
+Shot 3 (2.2–3.3s): Her eyes turn a clouded white as her head slowly tilts toward the bedside, unsettling stillness, heart monitor beeping irregularly.
+
+Shot 4 (3.3–4.3s): Dark liquid trickles from her lips down onto the white bedsheet, extreme close-up, slow motion.
+
+Shot 5 (4.3–5.3s): A sleeping patient in the next bed shifts as a drop lands near his pillow.
+
+Shot 6 (5.3–6.3s): Wide shot of the hospital ward, rows of beds, her silhouette slowly rising and leaning over the edge of her bed toward the sleeping man.
+
+Shot 7 (6.3–7.5s): She slips silently off her bed and climbs onto his, the curtain sways as her feral, wide eyes fill the frame.
+
+Shot 8 (7.5–8.7s): She lunges toward his neck; his eyes snap open in shock, slow-motion impact.
+
+Shot 9 (8.7–9.8s): Close-up as dark veins rapidly spread across his skin.
+
+Shot 10 (9.8–10.8s): His body convulses violently on the bed, IV stand rattling as the ward lights flicker.
+
+Shot 11 (10.8–11.8s): His eyes shift to a milky white, jaw twitching as dark veins creep across his face.
+
+Shot 12 (11.8–12.8s): He tips his head back with an inhuman cry, ripping the IV line from his arm.
+
+Shot 13 (12.8–13.8s): A nearby patient stirs awake and warily peers from his bed into the ward corridor.
+
+Shot 14 (13.8–14.8s): The infected patient abruptly lunges off the bed toward him.
+
+Shot 15 (14.8–15.8s): Chaos breaks out; curtains tear open as patients wake to screaming, frantic handheld camera through the ward.
+
+Shot 16 (15.8–16.8s): A newly affected patient convulses against the wall as dark veins spread, others recoil in fear.
+
+Shot 17 (16.8–17.8s): The infected wheels around and lunges at nearby patients, spreading panic through the ward.
+
+Shot 18 (17.8–18.8s): Patients and a nurse scramble over one another to flee, medical trays and curtains tumbling around them.
+
+Shot 19 (18.8–19.8s): A security guard seizes a fire extinguisher, bracing himself as infected patients rush toward him.
+
+Shot 20 (19.8–21.0s): He sprays an infected patient with white extinguisher foam, filling the corridor as it staggers back.
+
+Shot 21 (21.0–22.5s): Survivors dash to the ward's double doors and slam them shut as infected hands claw through the gap.
+
+Shot 22 (22.5–24.0s): They jam a gurney and a medical cart against the doors, breathing hard as the pounding continues.
+
+Shot 23 (24.0–25.5s): Close-up of infected faces pressed against the door's small window, cracks spreading across the glass.
+
+Shot 24 (25.5–27.0s): A nurse pulls two frightened children close, shielding them as the pounding grows louder.
+
+Shot 25 (27.0–28.5s): Wide shot of survivors huddled in the adjoining hallway, the sealed doors shuddering behind them under flickering red emergency lights.
+
+Shot 26 (28.5–30.0s): Exterior wide shot of the hospital building at night, windows flickering with chaos inside, ominous ending.</code></pre>
+
+</details>
+
+## 雪境30秒追战
+
+- **Original source:** [@Chengzilhy on X](https://x.com/Chengzilhy/status/2098326362801221835)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4053](https://imglume.com/prompt/4053)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ba8f615d-db93-4ace-b847-0cd599fe6258/4bbc24bb-ae99-4346-8796-3e31e55931f8-1789130944644 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>【全局设定】
+30秒，16:9，4K画面目标，24fps，半写实风格化3D CG，冷峻雪境奇幻武侠电影质感。精细动画化人物结合真实立体材质：皮肤次表面散射、织物纹理、皮革磨损、金属反射、发丝与衣料惯性清晰。人物具有重量，挥刀由蹬地、转胯、拧腰带动，衣发随高速变向猛烈甩动。青灰雪境与冷白逆光统一人物和环境，双色刀光短促照亮面部、木柱与飞雪。
+不是平稳拆招，不是原地绕圈。战斗核心为：爆发贴近→高密度攻防→重击迫退→立即追击→在新落点再次交锋。A强行突破，B反复抢位封路并凶猛反击；战斗持续穿过巨石、牌坊、树根，最后A赢得门后通路，B仍在追击。
+
+0—30秒全程极速战斗，正常时间流速，无慢动作、慢运镜、子弹时间、顿帧和冻结帧。首帧已经交锋，末帧仍在疾进中对刀。无独立技能、蓄力、法阵、召唤物，每次挥动武器必带随刀锋展开的刀气；重击震镜必须发生在接触之后。
+
+【资产引用与锁定】
+@Image 1 ：A，成年黑发女剑客，严格采用参考图脸部身份、高马尾、红发绳、红黑短装、长护手、腿甲与黑色长靴。使用参考图中的一把弧刃长刀，首帧已出鞘，右手主握、左手可辅助；空鞘固定背后。朱红流体刀气，橙金刃缘。打法偏强攻，以抢步压刃、回切重斩突破防线。
+
+@Image 2 ：B，成年金发女剑客，严格采用参考图脸部身份、浅金长发、蓝色发饰、蓝黑纹样裙装、白色花边、护腕、白袜与黑鞋。左右手各持一把参考图中的弧刃长刀；青银流体刀气，银白刃缘与深青外轮廓。打法偏高速截击，一刀格挡，另一刀立即反切，借斜向移动重新封路。
+@Image 3 ：覆雪峡谷中的巨大残破木牌坊与盘绕古树，锁定巨石、牌坊、门柱、树冠、粗大树根、檐下冰棱的造型、材质与空间关系。仅使用环境，不保留图中远处小人和上下黑边。
+
+全片只有A、B，共三把刀。A始终一刀，B始终双刀；不换脸、不换装、不交换武器、不生成分身，正文不重复引用资产。两人的鞋底、衣摆逐步积雪，护具和刀身逐渐出现轻微磨痕，战损不复原。
+
+【场景与空间路线】
+青灰峡谷中风雪横掠，巨大古树盘绕残破牌坊，粗枝覆盖积雪，木檐下垂挂冰棱。远处保留冷雾，近处交锋区域清楚，人物不被雾吞没。
+
+前方为开阔雪地；左侧巨石内缘连接牌坊左门洞。补足参考图雾后空间：门洞后是一条沿古树左侧延伸的宽根道，根道旁有可踏行的低矮根肩；通道末端绕过横根，接向门后的缓降雪坡。门侧设风化低木栏，横根上方有覆雪枯枝，不堵死通路。
+
+战斗沿“前方雪地→左侧巨石内缘→牌坊左门洞→古树左侧根道→门后雪坡”连续推进，不返回起点。牌坊与古树从前方逐渐移到侧面，再退到身后，成为真实位移的方位参照。
+破坏沿路线累积：巨石表面冰壳崩裂、门侧木栏撞断、檐下冰棱碎落、根道旁枯枝折断、地面留下连续滑沟。牌坊主结构和古树主体保持稳定，已损坏物体不复原。
+
+【特效与运镜】
+流体50%＋粒子25%＋冰雪介质25%：朱红橙金与青银流体刀气浓实包裹刃口，亮粒子顺挥击方向甩出，雪粉、冰屑和寒雾随脚步、刀路与撞击展开。
+
+横斩形成宽扇面，挑斩形成上升月牙，重劈形成厚重楔形刀光；特效紧随实际刀路，不自动追踪、不变成远程大招。短斩仍有清楚刀气，火星只补充碰撞节奏，不能取代刀光。青银刀气保留深青轮廓，不融进白雪背景；两种颜色只在交点短暂混亮，不染满整幅画面。
+
+重击先出现明确兵器接触，再发生短促定向震镜，随后立即跟随受击方向拉开；时间不停，人物和碎片继续运动。轻交击不震镜，不使用黑白冲击画。动态模糊集中于环境和运动边缘，关键交点、脸部与持握关系清楚。
+
+伪一镜到底，三秒一组、组内逐秒写；用急推、甩镜、急升下压、岩石与木柱掠镜衔接。近身攻击贴近，飞退立刻拉开，追击再次高速逼近；不持续匀速侧跟，不无故滚转。全景必须看清起点、飞退路径与新落点，不用换背景冒充移动。
+交锋短爆发采用双方合计8—10个紧凑主动动作，不把长距离飞退和追击硬塞成十次挥刀。纯兵器战，不加入拳脚攻击。每次受击位移之后，追击者立即跟上，对手落地便反击，不等烟雪散尽。
+
+【镜头1（0—3秒）｜雪地撞开】
+t=1s运镜贴雪面极速前冲，FS全景低机位A在左前方已经踏雪冲向右后方的B，斜劈撞上B右刀，B左刀立即反切，A回刀拨开继续抢进，朱红与青银刀气交错展开，雪粉从两人脚后向两侧喷出。
+t=2s运镜贴交点向左侧巨石方向急甩，MS中景A横切迫B右刀截挡、回撩撞上B左刀下压，再斜斩逼B交替补架；B趁收刃空隙反切A持刀侧，A撤肩回拨，双方沿斜线疾进，密集火星在浓实刀弧之间断续喷开。
+t=3s运镜沿B退向骤然拉成全景，A蹬地转胯双手重斩压中B交叉双刀，接触后镜头向受力方向猛震，B双脚短暂离地向巨石内缘飞退，落雪滑出深沟，A立即踏着尚未落下的雪粉追斩。
+
+【镜头2（3—6秒）｜追至岩脚】
+t=4s运镜沿雪沟贴地急掠，FS全景B落地屈膝滑退时右刀反撩、左刀横截，A斜架拨开反撩并跨向岩石内侧回斩，B左刀迎住，双色弧面将岩脚积雪掀成低矮雪墙。
+t=5s运镜沿巨石曲面快速收近，MS中景B右刀斜劈迫A抬架、左刀回切逼A收腰，A拨刃后抢进横斩，B右刀截住再以左刀上挑，双方绕过岩石凸角持续交锋，刀光贴近镜头掠过却不遮死交点。
+t=6s运镜顺A反斩从岩壁猛甩至门前雪道，FS全景B偏头侧让，A刀气擦中岩面崩开大片冰壳；B借空隙双刀先后压入，A连续架挡被逼向门洞方向，两人边打边穿出落冰，巨石从侧面退到身后。
+
+【镜头3（6—9秒）｜抢路破栏】
+t=7s运镜沿门前雪道低位疾退，FS全景B沿内侧短线抢到A前方，右刀横斩封路、左刀紧接反切，A竖刀截住横斩再翻腕拨开左刀，踏步斜压重新逼进，双方脚下雪槽一直延伸向左门洞。
+t=8s运镜贴A持刀侧弹射前跟，MS中景A低切、回挑、斜劈连续改变攻入方向，B左刀压刃、右刀截锋后左刀反撩，A旋肩让过随即回斩，红金宽弧挤开青银刀路，B双臂被压向一侧。
+t=9s运镜从交点向门洞急速后拉，FS全景A接步双手重斩撞中B匆忙合拢的防守，接触后短震，B向后飞退撞断门侧腐朽低木栏，木板与雪块沿退向喷入门洞，A不停步冲过断栏缺口。
+
+【镜头4（9—12秒）｜穿门追斩】
+t=10s运镜穿过仍在翻飞的木片急推，FS全景B落在门内滑退，右刀已反斩追来的A，A压身侧让并回刀横切，B左刀截住，两人从门外真实跨过门槛，断栏留在后方雪地。
+t=11s运镜贴双方侧面急收至MS中景，A上撩撞B右刀下截、回切迫B左刀横架，B右刀抽回反劈，A迎架后立刻向门柱内侧压斩，密集碰撞沿前进方向发生，门柱迅速从近处掠过。
+t=12s运镜追着最后一次斜斩甩向门后根道，FS全景B拨开A刀锋，偏转的红金刀弧劈碎门侧残木饰，震落檐下冰棱；A顺势回斩再次撞中B防守并逼其向根道退去，接触后短震，两人交锋着穿出落冰。
+
+【镜头5（12—15秒）｜双刀反压】
+t=13s运镜沿古树左侧根道高速后退，FS全景B突然左刀低切迫A压挡、右刀斜劈抢入，A回架仍被推得侧滑，青银厚弧贴着红金刀身挤开，A靴底刮出通向根肩的弯折雪线。
+t=14s运镜顺A滑退方向急移收近，MS中景B踏雪追进，右刀横斩撞A竖架、左刀反挑迫A翻腕下压，A立即回切B持刀侧，B抽右刀迎住再左刀反斩，双方贴身攻防继续向根道深处推进。
+t=15s运镜从刀锋交点急拉至根肩侧方，FS全景B右刀重斩压中A双手防守，接触后震镜，A被迫斜退踏上低矮根肩，靴底碾碎覆冰；B左刀已沿上升弧追切，A边向前抢步边回刀架开，衣摆被青银气浪掀起。
+
+【镜头6（15—18秒）｜高位反斩】
+t=16s运镜随A从根肩跃下急升再下压，FS全景A借低位高差翻肩斜劈B防守，B双刀分层接住，朱红楔形刀光沿真实刀锋砸下；接触后镜头短震，B屈膝下沉、双脚向后滑，脚边雪膜炸成扁平扇面。
+t=17s运镜跟A落地迅速收至MS中景，A屈膝落稳便横切、上挑、压斩，B右刀截、左刀拨、右刀架后立即左刀反切，A抽刃迎住再抢步回斩，两人沿根道疾行，火星、冰屑与刀气分层飞向两侧。
+t=18s运镜追着A双手横斩猛甩拉宽，FS全景A压中B合拢的双刀，将其震离根肩外沿，B短距飞退撞断根道旁枯枝后落入前方雪槽，枝头积雪成片震落，A立刻跨过断枝追向新落点。
+
+【镜头7（18—21秒）｜绕根重新封路】
+t=19s运镜贴雪槽急掠逼近横根，FS全景B落地便右刀反斩，A迎架抢进，B左刀回切迫A侧让，同时沿横根内侧短线斜跨到前方，A从外侧疾步追上，两人的绕行路径完整可见。
+t=20s运镜沿横根边缘快速弧移收近，MS中景B右刀横截A去路，A上撩架开立即反斩，B左刀接住后右刀回切，A压刃回拨再斜劈，双色刀弧接连照亮粗糙树皮，双方沿根缘持续争夺前位。
+t=21s运镜随B压斩向横根末端急甩，FS全景A双手架住后顺受力方向跨过低根，B紧跟越根、左刀追斩，A落脚立即回刀格开；重碰后短震，根面薄冰被刮碎，两人从根道逼近出口，未在横根旁停留。
+
+【镜头8（21—24秒）｜破雪追斩·记忆点】
+t=22s运镜贴A侧后方高速逼近出口，MS中景A横斩迫B右刀外拨，B左刀随即反切，A抬刀迎住再压斩；偏开的刀气扫断一根覆雪细枝，枝头积雪在出口前倾落成一道雪幕，两人仍在向前交锋。
+t=23s运镜追着A刀锋急推进入雪幕，FS全景A不停步横刀劈开落雪，红金扇形刀气沿刃路撑出明亮裂口，B从裂口另一侧右刀迎架、左刀反斩，A回刀接住，双方的身位在雪幕裂口中清楚可见。
+t=24s运镜穿出雪幕迅速侧移拉宽，FS全景A前跨双手重斩撞中B双刀防守，接触后镜头向退向短震，弧形刀气把落雪扫成向两侧炸开的巨大雪翼，B被震出通道落上门后雪坡，A紧接着穿出尚未落完的雪翼追击。
+
+【镜头9（24—27秒）｜坡上连打争位】
+t=25s运镜沿雪坡低位疾退，FS全景B双脚着坡滑行卸力，右刀反撩截A追势、左刀横切封内侧，A拨开反撩再竖刀架住横切，前脚立即抢入，雪沟从出口一路延伸到两人脚下。
+t=26s运镜急收至双人MS中景沿坡向推进，A横切迫B左架、反挑撞B右压，接着斜斩逼B交叉迎挡；B分刀反切，A收刃拨回并侧跨半步，连续刃路在疾进中改变角度，衣发随急转向两边猛烈甩开。
+t=27s运镜沿A抢入的内侧快速弧移拉成全景，A压住B右刀向下坡前位跨进，B左刀立即横斩堵住缺口，A双手迎架接住重碰，镜头在接触后短震，两人一前一后错开身位，B仍试图斜插回A前方。
+
+【镜头10（27—30秒）｜重斩突破·追战不停】
+t=28s运镜贴双方侧前方高速后退，MS中景B右刀回斩、左刀上挑连续争回封路位置，A下截后翻腕回拨，再进步横切迫B重新合刀防守，朱红与青银弧面紧凑叠过，A始终向坡下逼进。
+t=29s运镜顺A转胯重斩骤然拉宽，FS全景A双手斜斩压中B双刀架势，接触后定向猛震，B被震向雪坡外侧短距横飞，落地犁出宽雪沟；中央通路打开，A沿斩势立即跨入缺口，牌坊已退到两人后方。
+t=30s运镜沿A突破路线高速追进，FS全景A领先向坡下疾行，B稳住落脚便从侧后方追上挥刀，A不停步侧转上身回刀格开追斩，双色刀气在运动中再次碰撞、雪粉向后炸开；A保持前位通过门后通路，B仍持双刀追战，正常速度直接结束。
+
+【声音与结局】
+高速鼓点配合疾进，轻交击密集清脆，重斩先金属撞击再落低频；脚步踏雪、落地刮冰、木栏崩裂与冰棱碎落对应实际画面。雪幕被斩开时出现猛烈扫雪声，风雪底声始终连续。无台词，不显示文字，结尾不静音、不暂停、不收刀。
+A赢得通路并突破成功，B失去封路位置但仍能追击，双方存活且始终持有各自武器。末帧保持A在前、B在侧后的移动关系，不追加第三人、新敌人或独立技能。
+
+【负面提示词】
+原地绕圈、平稳轮流拆招、重复同一套四斩四挡、重击只退半步、只滑步没有明显击退、飞退后不追击、落地后等待、只有奔跑没有交锋、站桩放光、无来源爆炸、挥刀无刀气、全程只有细小火星、刀气过薄、青银刀光融入白雪、特效遮死交点、全屏白光、全屏失焦、人物慢速飞行、悬停、无支点空中变向、瞬移、换背景冒充位移、反复返回起点、慢动作、慢运镜、子弹时间、冻结帧、hit-stop、黑白冲击画、持续乱抖、碰撞前震镜、无动机滚转、拳脚攻击、蓄力、独立技能、法阵、召唤、分身、喷火、冰冻技能、刀气自动追踪、武器穿身变形、多手多脚、人物换脸、服装突变、武器数量变化、A变双刀、B丢失一刀、刀鞘漂浮、场景瞬移、损坏建筑复原、滑痕消失、古树整体无故倒塌、血液断肢内脏、结尾站立对视、收刀、庆祝姿势、第三人、参考图远处小人、真人摄影风、平面二次元、Q版、塑料玩偶、字幕水印UI、黑边、黑屏。</code></pre>
+
+</details>
+
+## Rain‑soaked neon city alley action sequence with determined female protagonist
+
+- **Original source:** [@codewithhajra on X](https://x.com/codewithhajra/status/2098319351917002812)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4052](https://imglume.com/prompt/4052)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b597dcba-48af-47dd-b27d-16985bf653a0/f483df4f-c93b-4b5b-a23b-4cb5f897be89-1789130900143 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Character: A beautiful woman in her early 20s with natural realistic features, long dark brown hair, athletic build, wearing a sleek black tactical jacket, fitted dark pants and combat boots. She looks determined and fearless.
+
+Scene — 0–3s:
+Nighttime in a rain-soaked city alley. Neon signs reflect across the wet pavement. The woman runs toward camera as a black SUV suddenly crashes through a barricade behind her. Sparks and debris fly through the air.
+
+Scene — 3–6s:
+She quickly slides across the hood of a parked car, spins around and narrowly dodges an incoming attack. The camera follows her with a fast handheld tracking shot. Her hair and jacket move naturally with the action.
+
+Scene — 6–8s:
+She grabs a motorcycle helmet from the seat, jumps onto a sleek black motorcycle and accelerates through the alley. The SUV chases behind her, headlights cutting through the rain.
+
+Scene — 8–10s:
+The motorcycle launches off a small ramp between two buildings. Freeze-like slow motion as she flies through the air, city lights glowing behind her. She lands smoothly and speeds away.
+
+Visual style: High-end Hollywood action blockbuster, photorealistic, cinematic lighting, dramatic rain, realistic physics, practical-looking explosions, dynamic camera movement, shallow depth of field, anamorphic lens flares, detailed facial expressions, realistic skin texture, premium VFX.
+
+Camera: Fast tracking shots → low-angle action shot → close-up → wide aerial shot. Smooth but intense camera movement, cinematic motion blur.
+
+Audio: Heavy cinematic percussion, roaring motorcycle engine, tire screech, rain, impact sounds and a dramatic bass hit at the final landing.
+
+Important: Keep the same female character, face, hairstyle and outfit consistent throughout all shots. No text, no subtitles, no distorted anatomy, no extra limbs, no cartoon appearance.</code></pre>
+
+</details>
+
+## Cinematic Luxury Perfume Commercial with Cherry Theme
+
+- **Original source:** [@ZarnishNael on X](https://x.com/ZarnishNael/status/2098262604267577783)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `product-ads`
+- **ImgLume record:** [4051](https://imglume.com/prompt/4051)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/afdbbc9f-b60f-4d79-af4e-87dae19500d8/1da094a6-f284-4ead-a7d8-40f0909fb1f6-1789130830501 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A sleek, high-end luxury perfume commercial featuring a glamorous woman in a vivid red suit.
+Scene 1: The model confidently walks forward down an infinite, surreal corridor of concentric archways in shades of pink, rose, and magenta. The floor is a reflective, mirrored surface scattered with glossy dark red cherries.
+Scene 2: Close-up shot of the woman spraying a luxury perfume bottle ("La Vie Est Belle L'Elixir Very Cherry") onto her neck, mist catching the dramatic lighting against a dark backdrop.
+Scene 3: The model sits at a sleek bar holding a dark red martini cocktail garnished with cherries, framed by warm, ambient lighting.
+Scene 4: A macro close-up shot of a sharp red stiletto heel crushing a fresh cherry on a clean white surface, releasing a vibrant burst of deep red juice next to the perfume bottle.
+Scene 5: Final shot of the model holding the luxury glass perfume bottle with both hands in front of her chest, staring directly into the camera, featuring sleek brand text overlay ("LANCÔME LA VIE EST BELLE L'ELIXIR VERY CHERRY").
+Visual Style: Cinematic lighting, rich crimson red and deep berry color palette, ultra-sharp focus, modern luxury aesthetic, 4K resolution, 30fps, slow-motion details.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic cinematic music video with three singers in a neon-lit city
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2098264877248987394)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4047](https://imglume.com/prompt/4047)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bf1412b6-8e05-4c4c-b6e2-dd831dec97ea/244768d9-780d-44a1-8dcd-c147f47f406f-1789126693281 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic cinematic music video featuring three young adult singers performing an emotional modern song in a neon-lit city at night. The video should look like a high-budget professional music video with realistic humans, precise lip-sync, expressive performances, atmospheric lighting, and sophisticated cinematography.
+
+CHARACTERS
+
+Character 1 — Female Lead:
+Young adult woman, early 20s, long black hair, expressive eyes, elegant black-and-silver outfit, confident yet emotional personality.
+
+Character 2 — Male Lead:
+Young adult man, early 20s, dark textured hair, stylish black jacket and white shirt, charismatic and emotionally expressive.
+
+Character 3 — Female Vocalist:
+Young adult woman, early 20s, shoulder-length dark hair, fashionable deep-red outfit, energetic but natural stage presence.
+
+Keep their faces, clothing, hairstyles, body proportions, and identities perfectly consistent throughout the video.
+
+ENVIRONMENT
+
+A futuristic downtown street at night after light rain. Wet pavement reflecting colorful neon signs, glowing storefronts, subtle fog, distant traffic, cinematic bokeh, atmospheric city lights and realistic reflections.
+
+SHOT-BY-SHOT
+
+0–4 sec — Opening
+Extreme close-up of Character 1's eyes. Neon reflections visible in her eyes. Camera slowly pulls back as she begins singing. Rain droplets sparkle in the background.
+
+4–8 sec — Lead Performance
+Character 1 walks slowly down the wet street while singing directly toward the camera. Smooth backward tracking shot. Her hair moves naturally in the night breeze.
+
+8–12 sec — Male Verse
+Cut to Character 2 leaning against a neon-lit building. He begins singing his section. Slow cinematic camera orbit around him, with colorful city lights blurred behind him.
+
+12–16 sec — Female Vocalist
+Character 3 appears walking through the neon street. She sings while looking toward the camera. Smooth side-tracking shot transitions into a close-up.
+
+16–22 sec — Trio Performance
+All three characters meet in a wide city intersection and perform together. Camera slowly circles around them while they sing. Natural interaction, subtle gestures, believable chemistry.
+
+22–27 sec — Emotional Chorus
+Rapid but elegant sequence of close-ups: Character 1 singing, Character 2 joining, Character 3 harmonizing. Every mouth movement precisely follows the provided audio.
+
+27–30 sec — Final Shot
+The three singers stand together in the middle of the wet street. Camera rises slowly upward and pulls away, revealing the glowing city around them. They finish the final lyric together exactly on the beat. End on a dramatic cinematic wide shot.
+
+CINEMATOGRAPHY
+
+High-end music-video cinematography, anamorphic lens look, shallow depth of field, smooth gimbal tracking, slow-motion accents, cinematic close-ups, controlled camera movement, realistic lens flares, natural motion blur, beautiful bokeh and dynamic composition.
+
+AUDIO &amp; PERFORMANCE
+
+Use the provided song/audio as the exact soundtrack. The characters must visibly sing the correct lyrics with accurate phoneme-level lip-sync. Expressions, eye movements and gestures should match the emotion and rhythm of the song. No speaking unrelated dialogue.
+
+QUALITY
+
+Ultra-realistic, photorealistic humans, natural skin texture, realistic eyes and teeth, physically accurate lighting, realistic wet surfaces, detailed hair strands, realistic fabric movement, HDR, cinematic contrast, professional color grading, 4K detail, premium music-video aesthetic.
+
+NEGATIVE: face morphing, identity changes, inconsistent clothing, extra people, duplicate characters, distorted hands, deformed faces, unnatural walking, robotic movements, incorrect lip-sync, random talking, flickering, frame interpolation artifacts, text, subtitles, logos, watermarks.</code></pre>
+
+</details>
+
+## 1-minute Japanese music video with Girl A and Girl B using Kling MCP Elements
+
+- **Original source:** [@itsshara_ai on X](https://x.com/itsshara_ai/status/2098298065098838181)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4037](https://imglume.com/prompt/4037)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/976ff68b-384f-433f-9153-e3bf363ce96e/fd2a5f2e-ec00-43fd-9ff2-960624eb1e76-1789118534018 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Help me create a 1-minute Japanese music video using Girl A and Girl B from the Kling MCP Elements. Generate a complete 1-minute Japanese song without splitting it into segments. You may also search online for any skills or approaches better suited to making music videos. Use the Kling MCP.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic cinematic urban thriller in a rain-soaked city
+
+- **Original source:** [@Elvorya on X](https://x.com/Elvorya/status/2098219078960009401)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4034](https://imglume.com/prompt/4034)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/10a2c55c-3aa1-4025-bf5b-3a5740f85b63/3e1c18a7-6a80-46ea-817f-a66a8b5ad619-1789118481769 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic cinematic urban thriller following a young woman walking alone through a rain-soaked city at night. Show her leaving a crowded subway station → noticing that the street has suddenly become unusually empty → walking faster beneath her umbrella → hearing footsteps behind her → looking back but seeing nobody → turning into a narrow neon-lit street → noticing a mysterious black car slowly following her → entering a small convenience store and looking through the window → seeing the car disappear → stepping outside cautiously → suddenly hearing a loud vehicle approaching → turning around in shock as headlights fill the frame → running toward a crowded main street as the rain continues.
+
+Authentic 2026 nighttime city footage, realistic human movement, heavy rain, wet reflective pavement, glowing neon signs, passing traffic, realistic car physics, wind-reactive hair and clothing, atmospheric mist and natural environmental details. Handheld smartphone/cinema-camera style with subtle camera shake, natural autofocus, exposure changes, realistic motion blur and immersive first-person moments. Dark blue-gray atmosphere with contrasting red and orange neon lighting. Build tension gradually with natural pacing and believable reactions. English dialogue only, realistic footsteps, rain, distant traffic, muffled city sounds and subtle breathing. No background music, no CGI, no animation, no VHS aesthetic, no subtitles, no logos or watermark.</code></pre>
+
+</details>
+
+## Surreal Ultra-Realistic Haute Couture Fashion Film with Feather Gown
+
+- **Original source:** [@TaliaAariz on X](https://x.com/TaliaAariz/status/2098169450830713007)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4030](https://imglume.com/prompt/4030)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b737a336-c1c3-4a51-a832-8466b4d67511/295b38a0-4bb3-412e-b517-f4c953c4dd2b-1789114742221 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a surreal, ultra-realistic haute couture fashion film featuring an elegant woman in an elaborate white and deep royal-blue gown made entirely of delicate feather-like petals. She stands gracefully in a bright, minimalist white environment while enormous sculptural formations of white and blue feathers continuously transform around her, forming dramatic heart shapes, circular floral halos, wings, and a giant five-pointed star. The feather structures gently swirl, expand, and float through the air as the camera slowly pushes in and transitions between wide cinematic compositions and detailed close-ups of the flowing couture textures. The woman remains poised and regal, with subtle natural movements and a confident expression, creating a magical luxury-editorial atmosphere. Soft diffused studio lighting, pristine white background, elegant blue-and-white color palette, realistic fabric and feather physics, cinematic depth of field, smooth camera motion, high-fashion Vogue-style cinematography, 4K, highly detailed, dreamlike and sophisticated.</code></pre>
+
+</details>
+
+## Cinematic fantasy fairy in enchanted night forest
+
+- **Original source:** [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2098285468890841089)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4028](https://imglume.com/prompt/4028)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/331706c0-e346-44ae-9f91-3cad89ab3359/19a94b9c-f401-42a8-9c33-bdf0d558aab5-1789114703655 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A breathtaking cinematic fantasy scene in an enchanted magical forest at night. A beautiful young fairy girl with delicate translucent wings, long red braided hair, wearing a cozy hand-knitted blue dress and a cute blue floral wool cap, gently approaches a large glowing bell-shaped magical flower hanging from a thin vine.
+
+She slowly raises her hand and delicately touches the luminous flower, then holds a small ornate golden key-like object near it. The magical flower softly sways and emits a subtle ethereal glow. Her translucent wings move naturally with a gentle flutter.
+
+Deep blue mystical forest in the background, surrounded by soft floating pink, purple and blue glowing lights, dreamy atmospheric fog, tiny sparkling particles, magical ambience, realistic fabric and hair details, highly detailed skin, natural facial expressions, physically accurate lighting.
+
+Cinematic close-up composition, shallow depth of field, beautiful bokeh, soft volumetric lighting, subtle rim light around the fairy, smooth natural character movement, gentle camera push-in, realistic motion, premium fantasy film look, ultra-detailed 3D cinematic animation, photorealistic quality, HDR, 4K, high graphics, sharp details, smooth 24fps cinematic motion, professional VFX, immersive magical atmosphere.
+
+No text, no subtitles, no watermark, no logo, no background music.</code></pre>
+
+</details>
+
+## Cinematic fantasy video of a witch in a burning medieval village
+
+- **Original source:** [@Zoyavelle on X](https://x.com/Zoyavelle/status/2098284076809719997)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4023](https://imglume.com/prompt/4023)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/67d2669d-78d0-4228-98fd-7dcb08eeb7ef/3bb178a5-2bdf-4091-8b85-5651844cdd74-1789114562842 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic cinematic fantasy video set in a medieval European village during a mysterious supernatural disaster. A young beautiful woman with pale skin, long straight black hair, wearing a large pointed black witch hat, dark black cloak and deep burgundy medieval dress, walks through a crowded medieval village while villagers stare at her with fear and suspicion. Wooden half-timbered houses, stone streets, old market stalls, medieval villagers in rustic clothing, atmospheric smoke and fog.
+
+She walks toward a massive stone archway and exits into an open courtyard overlooking the village. In the distance, several medieval houses are burning intensely, with huge orange flames and thick black smoke rising into the sky. The witch suddenly becomes supernatural and flies forward above the ground, her dark cloak and dress flowing dramatically in the wind.
+
+A gigantic magical water tornado suddenly rises in the middle of the burning village, forming a huge swirling column of water that crashes through the streets and begins extinguishing the flames. Villagers gather and look up in shock as a mysterious flying witch passes through the smoky sky.
+
+Show dramatic aerial shots of the medieval village covered in smoke and water, burning rooftops, frightened villagers, and the giant water vortex. End with a cinematic close-up of the young witch standing calmly among the villagers, looking directly toward the camera with an enigmatic expression.
+
+Photorealistic, cinematic dark fantasy, medieval Europe, realistic human faces, detailed clothing and architecture, volumetric lighting, natural fire and smoke simulation, realistic water physics, dramatic atmosphere, shallow depth of field, realistic camera movement, smooth motion, film-quality composition, high detail, 4K, anamorphic cinematic look, dramatic lighting, realistic textures, epic fantasy movie style.</code></pre>
+
+</details>
+
+## 30-second stylized 3D cinematic animation of mechanic repairing junk car in underground garage
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098103081200484757)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4020](https://imglume.com/prompt/4020)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1380a709-0112-4c75-8388-cb8a76063250/b867635b-79d7-44b6-be9e-3313fa674562-1789110374378 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second stylized 3D cinematic animation with exaggerated proportions and martial-arts-inspired mechanical choreography. Every movement follows pause → burst → lock, with aggressive precision and rhythmic energy.
+
+Character: A broad-shouldered mechanic in a grease-stained jumpsuit tied at the waist, heavy boots, gloves, and a loaded tool belt. He moves with total confidence and precise, explosive control.
+
+Car: A rusted, sputtering junker with a broken suspension, leaking oil, loose parts, and heavy black smoke.
+
+Setting: Dim underground garage, harsh halogen lights, deep shadows, metal tools and equipment surrounding the scene.
+
+0:00–0:05: Low-angle shot as the junker violently rattles onto the lift. The mechanic strikes the hood latch with a powerful palm strike. The hood flies open, releasing a massive cloud of black smoke.
+
+0:05–0:10: He dives into the engine bay, spins two socket wrenches like revolvers, and rapidly attacks the engine. Bolts and parts fly through the air and land perfectly in a magnetic tray.
+
+0:10–0:15: He rips out the leaking oil filter and throws it behind him. Without looking, he catches a new filter, spins it onto the engine, then grabs four spark plugs and launches them precisely into place before locking them down with rapid pneumatic-drill bursts.
+
+0:15–0:21: He snaps an oil rag across the engine like a whip, instantly revealing clean metal underneath. He makes several rapid adjustments, reconnects cables, tightens components, and slams the hood shut with a thunderous impact.
+
+0:21–0:26: The engine coughs violently, then suddenly comes alive. Rust flakes fall away as the junker transforms into a gleaming performance machine. Close-ups show pistons, belts, gauges, and a powerful supercharger activating.
+
+0:26–0:30: Hero wide shot. The rebuilt car roars under the garage lights. The mechanic calmly wipes grease from his cheek, spits out his toothpick, and lowers the lift. Finish with a deep engine rev.
+
+Style: High-end 3D animation, cinematic lighting, realistic mechanical physics, detailed metal and grease textures, dynamic camera movement, impactful sound timing, controlled choreography, consistent character and vehicle design. No distorted hands, duplicated tools, floating objects, or inconsistent geometry.</code></pre>
+
+</details>
+
+## Farm Morning
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2098290423991242953)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4019](https://imglume.com/prompt/4019)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/efd9c07c-0a7b-4a16-8002-c8d12773dbfc/9685ff3d-27f5-47df-82e0-f61f0662312e-1789110353706 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A Western woman begins her morning at a peaceful countryside farmhouse during golden sunrise.
+
+She walks toward the wooden chicken coop, opens the door, and gently feeds the chickens. She then collects fresh eggs from the nesting area and carefully places them into a small woven basket.
+
+She carries the eggs into the farmhouse kitchen, gently rinses them under running water, then places them on a wooden table. She cracks one fresh egg into a ceramic bowl and begins preparing breakfast.
+
+The entire sequence follows realistic human movement and real-world physics, including natural walking biomechanics, gravity, weight distribution, inertia, friction, realistic chicken behavior, accurate hand-object interaction, natural water flow, egg movement, realistic hair and clothing motion, consistent shadows, and physically accurate lighting.
+
+Ultra-realistic cinematic visuals, authentic Western countryside atmosphere, warm sunrise lighting, photorealistic skin and hair textures, realistic farmhouse environment, natural animal behavior, smooth tracking shots, subtle handheld camera movement, natural focus pulls, consistent character identity, subtle film grain, and 4K cinematic quality.</code></pre>
+
+</details>
+
+## Vala faces off against Hrungnir – cinematic footage
+
+- **Original source:** [@viperstudios4 on X](https://x.com/viperstudios4/status/2098160379448717579)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4017](https://imglume.com/prompt/4017)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7a611c57-d892-4988-8950-8870059d254c/e884a328-30e8-4097-bea4-e6e905551ccf-1789106247889 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5 prompt:
+
+[Goal] Finished live-action-style footage of Vala fighting Hrungnir in seven shots. Use the storyboard for scene blocking, beat progression and shot framing only. Create a fresh, physically performed action sequence between its illustrated moments.
+[References] &lt;&lt;&lt;Image1&gt;&gt;&gt; controls Vala's face and head only: features, freckles, grey-blue eyes, long copper hair and winged circlet. &lt;&lt;&lt;Image2&gt;&gt;&gt; controls her front costume; &lt;&lt;&lt;Image3&gt;&gt;&gt; controls her rear costume and intact cloak. Both contribute costume and silhouette only and no facial features whatsoever. Her face comes from &lt;&lt;&lt;Image1&gt;&gt;&gt; alone. These are three views of one woman.
+&lt;&lt;&lt;Image4&gt;&gt;&gt; defines her one spear: pointed gold runed blade, dark ash shaft, leather grip and silver fittings, roughly her height. &lt;&lt;&lt;Image5&gt;&gt;&gt; defines Hrungnir's appearance and anatomy: heavy barrel torso, stone-grey hide, braided beard, one intact horn and one broken horn, embedded broken weapons, hide clothing, bare knees and wrist manacles. &lt;&lt;&lt;Image6&gt;&gt;&gt; defines his one hammer: twin rectangular striking faces, corroded metal, raised winged ornament and banded haft.
+&lt;&lt;&lt;Image7&gt;&gt;&gt; defines opening composition, relative scale, light, weather and grade: Vala left, Hrungnir right, dead trees behind him and open ground behind her. Exclude its boss bar and all lettering. &lt;&lt;&lt;Image8&gt;&gt;&gt; defines the wider treeline terrain and forest; match its light and grade to &lt;&lt;&lt;Image7&gt;&gt;&gt;. Character and prop plates override any conflicting appearance in these location references. Take no reference's studio backdrop, catalogue lighting, neutral pose, watermark or sheet layout.
+&lt;&lt;&lt;Image9&gt;&gt;&gt; is STORYBOARD_clip11_clay_12panels_16x9.png, a twelve-panel planning sheet. Read left to right across each row, then down: four columns, three rows. Panel 01 = establish; 02-03 = approach; 04-05 = charge and grab; 06-07 = lift and downward drive; 08 = impact and pin; 09-10 = hammer attack; 11-12 = dodge, recovery and final framing. Twelve panels describe SEVEN shots, not twelve cuts. Paired panels are moments within one continuous shot.
+&lt;&lt;&lt;Image9&gt;&gt;&gt; contributes ONLY relative positions, action order and shot framing. Its small cloaked proxy represents Vala, horned proxy Hrungnir, pole her spear and block-headed prop his hammer. Replace them entirely with the characters and objects from &lt;&lt;&lt;Image1&gt;&gt;&gt; through &lt;&lt;&lt;Image6&gt;&gt;&gt;. The storyboard contributes NO visual style, anatomy, proportions, facial features, costume, materials, texture, lighting, colour, terrain appearance or motion quality. Ignore clay surfaces, rounded toy bodies, segmented joints, rigid hair and cloth, crude hands, intersections and placeholder trees. Do not reproduce the page, borders, captions, numbers, timestamps, white gutters, grid, split screen or its overall canvas shape. Each shot fills the screen with finished photoreal imagery from its first frame. Never show a clay-to-live-action transition.
+The panels are spatial landmarks, not poses to freeze or frames to interpolate mechanically. Invent the intervening movement with planted steps, joint articulation, weight transfer, acceleration, impact and recovery. The timings below are approximate shot budgets; the storyboard's printed timestamps are source-frame labels, not performance holds. Preserve the action outcomes while allowing natural timing within each shot. Where proxy hands or poses are ambiguous, follow the anatomical and contact instructions below.
+[0-2s | Panel 01] Low wide establishing shot. Match &lt;&lt;&lt;Image7&gt;&gt;&gt;. Vala holds her spear in two hands, point aimed upward. Hrungnir's hammer head rests on earth, haft in his RIGHT hand, LEFT hand free. Her breathing moves her shoulders; she shifts her weight forward. End: both facing each other across open ground.
+[2-6s | Panels 02-03] Cut to a locked head-on camera facing Vala. She advances toward the lens with alternating steps: each supporting foot plants and takes her weight, the rear heel lifts, hips and shoulders counter-rotate slightly. Her hands stabilize the raised spear while her body moves beneath it. Eyes fixed above the lens on the giant. She grows closer through walking, never through sliding or scaling a held pose. End: still advancing, spear ready.
+[6-11s | Panels 04-05] Cut behind Vala to a low forward tracking shot, tilted up at Hrungnir. She accelerates into a charge with a wordless war cry, legs pushing against the ground, cloak trailing. His right hand keeps the hammer grounded. He draws his LEFT arm back, then reaches and closes his left fingers around her armoured WAIST. Her momentum checks against his grip; her torso and legs react. The jolt knocks her spear loose. It falls once to a visible spot several feet to her right, toward the camera side. End: she is caught at the waist, hands empty; the intact spear lies on the ground.
+[11-16s | Panels 06-07] Cut to a medium wide side view. Hrungnir lifts her near his face in his LEFT hand. Her knees bend, boots hang free, and her hands brace against his fingers. He studies her briefly, then bends at hips and knees and drives the same arm downward. Hair and cloak lag behind the accelerating descent. His right hand retains the grounded hammer. Cut before contact. End: she descends in his grip, still above the earth.
+[16-20s | Panel 08] Match the downward action in a medium top-down shot with a fixed Dutch tilt. Her back hits the ground once, with a low puff of dirt and one pained grunt. His left fingers remain around her waist, pinning her without crushing or piercing her. Her knees flex on impact; she braces against his fingers, draws breath and strains to lift her shoulders. Rebuild the proxy's contact as a coherent hand gripping her belt area, never a forearm through her chest. End: supine, pinned and struggling; spear unmoved on her right.
+[20-25s | Panels 09-10] Cut to her fixed ground-level POV looking up. Hrungnir opens his LEFT fingers and releases her, then straightens. His RIGHT hand lifts the hammer overhead. Shoulder and torso load, then drive the head down toward the lens, accelerating under its weight. The head fills most of the image. Cut before contact. End: one hammer strike is underway; Vala is free.
+[25-30s | Panels 11-12] Match-action cut to a low medium shot with Vala on the ground. Continue the SAME downswing without restarting it. She tucks and rolls right toward the fallen spear. The hammer strikes the earth where her torso lay after she clears it. She grips that same spear, plants her free palm, draws one boot beneath her hips and pushes through the supporting leg into a two-handed guard. As she recovers, the camera makes one continuous 180-degree orbit, arriving behind her facing Hrungnir. Panel 11 locates the dodge and panel 12 the endpoint; perform the roll and supported get-up between them. End: her back in foreground, feet planted, spear raised; giant beyond with right hand on grounded hammer. Briefly settle on this final composition.
+[Style] Norse myth rendered as cold contemporary science fiction. The world is mythic; the camera is not. Nothing is romanticised, softened or made picturesque. Elysium is a commercial product and its beauty is authored, precise, and faintly too clean.
+Cinematic photorealism. Shot on an ARRI ALEXA 35 with spherical prime lenses. Fine natural film grain. Soft overcast key light with gentle falloff, no hard shadows. Focus deep enough to hold the landscape behind the subject. Restrained contrast, deep blacks that keep their detail.
+Colour: a cold desaturated base of grey, blue-teal and black, matching &lt;&lt;&lt;Image7&gt;&gt;&gt;. No warm light source: no ember, fire, orange glow or amber illumination. The spear blade retains aged gold material without emitting light. Metal is satin, never mirror-polished. Skin keeps its natural colour.
+Scale comes from low horizons, low cameras and wide compositions. Maintain the relative size established in the opening frame. No lens flares, bloom, light shafts, glowing haze, saturated teal-and-orange grade, painterly look or warm golden fantasy light.
+(No music.) &lt;Boots on soil, hard breathing and water dripping from cloth. One wordless charge cry, leather and armour straining, one spear clatter. One body impact and pained grunt. Chain shifting, hammer moving air, one earth impact and armour scraping through the roll. No dialogue, giant roar or chime.&gt;
+[Consistency] Exactly one Vala, one Hrungnir, one spear and one hammer. His anatomical LEFT hand catches, lifts, slams, pins and releases her; his RIGHT controls the hammer throughout. The spear drops once, remains in one ground position and is recovered once. The hammer strike continues across the last cut and never hits her. No duplicates, replacement weapons, detached limbs or intersecting bodies. Her existing injuries and exhaustion persist; cloak, tabard and armour remain water-dark, cloak intact, hair loose and copper with only darkened ends. No healing, wings, spells, ember pickup, shades or Stranger. Keep the action axis readable until the deliberate final orbit. Dust stays low and never hides the dodge or pickup. Natural continuous performance, no frozen-panel holds or slideshow transitions. All appearance comes from the character, prop and location images and this Style block, never the storyboard's clay rendering. No HUD, bars, text, logos, borders, panel labels, mannequin joints or primitive clay forms in any finished frame.</code></pre>
+
+</details>
+
+## 30-second cinematic live-action lifestyle video of a woman walking in the rain
+
+- **Original source:** [@Alina_with_Ai on X](https://x.com/Alina_with_Ai/status/2098233231774802261)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4016](https://imglume.com/prompt/4016)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/28153cd8-391c-42ed-85ce-599b0a051247/bfc245a6-631b-415a-b0da-d2762f52a71d-1789106196126 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic 30-second cinematic live-action lifestyle video featuring one beautiful adult woman on a normal day in her neighborhood.
+
+CHARACTER:
+A beautiful adult woman with an attractive natural face, fair/light skin tone, expressive eyes, neatly styled hair, and an elegant casual outfit. She should look like a real human being with natural facial features and realistic skin texture.
+
+Keep the exact same woman, face, hairstyle, body proportions, and outfit throughout the entire video.
+
+STYLE:
+Ultra-realistic live-action, premium lifestyle cinematography, natural everyday storytelling, realistic environments, authentic human movement, natural facial expressions, realistic lighting and physics.
+
+IMPORTANT:
+Everything must happen in NORMAL REAL-TIME SPEED.
+NO slow motion.
+NO speed ramping.
+NO exaggerated cinematic slow-motion shots.
+
+00:00–00:05 — LEAVING HOME
+
+The woman finishes getting ready and leaves her beautiful modern home.
+
+She picks up her handbag, checks her phone briefly, opens the front door, and walks outside.
+
+She locks the door and starts walking naturally down a quiet residential street.
+
+Use a natural wide establishing shot followed by a smooth walking shot.
+
+00:05–00:11 — THE JOURNEY
+
+She continues walking through realistic neighborhood streets.
+
+Show houses, trees, parked cars, sidewalks, and subtle everyday activity.
+
+She walks naturally while occasionally looking around and enjoying the surroundings.
+
+Use normal-speed tracking shots from the front, side, and slightly behind her.
+
+00:11–00:16 — THE RAIN STARTS
+
+Dark clouds suddenly appear overhead.
+
+A few raindrops begin falling.
+
+She looks up at the sky and realizes it is starting to rain.
+
+Within a few seconds, the rain becomes noticeably heavier.
+
+Her expression changes to mild surprise.
+
+She quickly looks inside her handbag.
+
+00:16–00:21 — THE UMBRELLA
+
+She takes a folded umbrella out of her handbag.
+
+She stops underneath a tree or near a building entrance.
+
+She opens the umbrella naturally and holds it above her head.
+
+Rain continues falling realistically around her.
+
+Show a close-up of the umbrella opening, followed by a natural medium shot of her walking again.
+
+00:21–00:27 — WALKING IN THE RAIN
+
+She continues walking toward her destination while holding the umbrella.
+
+Water droplets are visible on the umbrella.
+
+Wet roads reflect the surrounding houses, streetlights, and vehicles.
+
+She carefully walks around a small puddle and continues forward.
+
+Keep the movement completely natural and in real time.
+
+00:27–00:30 — ARRIVAL
+
+She finally reaches a small cozy café or shop.
+
+She stops at the entrance, closes the umbrella, shakes off a few raindrops, smiles, and walks inside.
+
+End with a clean wide shot showing the rainy street outside and the woman entering the destination.
+
+VISUAL QUALITY:
+Photorealistic live-action.
+Natural realistic skin texture.
+Realistic rain and water physics.
+Authentic residential neighborhood.
+Natural daylight transitioning into cloudy rainy weather.
+Professional handheld/stabilized camera work.
+Natural depth of field.
+Realistic reflections on wet pavement.
+Subtle cinematic atmosphere without exaggerated effects.
+
+NEGATIVE REQUIREMENTS:
+No slow motion.
+No speed ramping.
+No time-lapse.
+No cartoon or CGI appearance.
+No face morphing.
+No identity changes.
+No duplicate characters.
+No distorted hands.
+No unrealistic rain.
+No floating objects.
+No random text.
+No logos.
+No watermark.
+No dramatic action.
+No artificial-looking movement.
+
+Vertical 9:16 composition.
+The final video should feel like a professionally filmed real-life lifestyle commercial.</code></pre>
+
+</details>
+
+## 1-minute Japanese music video with consistent characters using Kling MCP Elements
+
+- **Original source:** [@NoOneIsHere2603 on X](https://x.com/NoOneIsHere2603/status/2098025785621885062)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4014](https://imglume.com/prompt/4014)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1080065b-e094-458c-88ed-67c4b4416bc8/85eb43b7-53fe-4826-812b-789567680ac0-1789102015272 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 1-minute Japanese music video using Girl A and Girl B from the Kling MCP Elements. Generate a complete 1-minute Japanese song without splitting it into segments. You may also search online for any skills or approaches better suited to making music videos. Use the Kling MCP.</code></pre>
+
+</details>
+
+## Cinematic close-up of a woman with emotional expression transitions
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2097900584804470975)
+- **Recommended model:** `seedance`
+- **Source model(s):** `gptimage`, `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [4011](https://imglume.com/prompt/4011)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5e8a4583-551b-4c11-a2c5-c3a349456854/ab996adb-eca9-4e38-899b-55c249c59c54-1789097862647 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A visually striking, cinematic close-up shot capturing a woman from the chest up against a plain black background. She wears a vibrant orange sleeveless top that contrasts sharply with her skin and the dark backdrop. Her long, dark brown, curly hair falls naturally over her shoulders, and she wears simple silver hoop earrings.
+
+The lighting is soft and directional, illuminating her face with a natural glow. The video showcases a seamless, realistic transformation of her facial expression across three distinct emotional beats:
+
+1Neutral &amp; Subtle (0–10s): The video begins with the woman looking directly into the camera with a calm, neutral expression. She blinks naturally and offers a faint, polite smile that barely moves her lips, maintaining steady eye contact.​
+2Surprise &amp; Awe (10–20s): Her expression gradually shifts into genuine astonishment. Her eyes widen, her mouth opens slightly in an "O" shape, and her eyebrows lift upward as if reacting to an incredible sight off-camera.​
+3Warm Delight (20–30s): Her surprise softens into pure joy. She breaks into a wide, radiant smile showing her teeth, her cheeks lift, and her eyes narrow slightly with genuine happiness as she continues looking at the viewer.
+
+Technical &amp; Visual Style:
+
+•Framing: Medium close-up shot (bust level), centered composition.​
+•Lighting: Studio studio-style soft key lighting on her face, deep black background with zero distractions.​
+•Camera Movement: Static camera with no pan, tilt, or zoom; smooth, continuous frame rate capturing subtle micro-expressions.​
+•Color Palette: High-contrast warm orange top against a deep black void, realistic skin tones, natural lighting highlights.</code></pre>
+
+</details>
+
+## Japanese torii shrine scene using PixVerse and Blender
+
+- **Original source:** [@AbretuPotencial on X](https://x.com/AbretuPotencial/status/2097977311060488258)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4006](https://imglume.com/prompt/4006)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6bda631f-0028-4e50-80f4-91c738052df9/a9fb6cff-bbcd-482f-b0d7-1e19058367aa-1789080995800 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an original Japanese torii shrine scene using PixVerse and Blender. Complete these steps: Create the concept: Use PixVerse to generate a photoreal reference image. Lock the torii design, materials, lighting, and environment for consistency. Build the 3D scene: Create an editable textured model in Blender. Clean the topology, unwrap the UVs, and add suitable animation controls. Add movement: Include foreground leaves that partially obscure the wide shots, gently moving foliage, and birds flying visibly across the scene. Animate the cameras: Create a 12-second sequence with three shots: an arcing approach, a lateral detail shot, and a rising pullback. Keep movement smooth and framing clear. Render in Blender: Export a native camera video and a separate neutral gray clay reference video using the same animation. Save them beside the Blender project. Generate the photoreal film: Use PixVerse Seedance with the gray video for camera and action reference and the unchanged photoreal image for appearance. Generate a 1080p, 16:9 video with only natural environmental sounds—wind, rustling leaves, and bird wings. No music or voices. Check and deliver: Review every shot for consistent design, photoreal textures, visible birds, smooth motion, and correct audio. Fix issues within the approved budget and document remaining limitations. Save the editable Blender project, videos, reference image, and a brief production assessment in the same folder. Key points: Never use the colored low-poly video as the Seedance reference. Check the entire film, especially the final wide shot.</code></pre>
+
+</details>
+
+## The Final Carriage
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2098081350205194721)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4001](https://imglume.com/prompt/4001)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a90309d4-8362-4bba-95fe-66994d62f6f5/5cdbe150-a435-47ae-b632-73e5d55058a6-1789068868075 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Shot 1 (0.0–1.2s): Character A, face and outfit matching the reference image, sits calmly in a quiet train car, glancing toward the connecting glass door. Dim cinematic evening lighting, unaware calm before dread.
+
+Shot 2 (1.2–2.2s): Faint movement stirs in the next car behind the glass, blurred and distant.
+
+Shot 3 (2.2–3.2s): She leans forward slightly, noticing something is wrong, unease building silently.
+
+Shot 4 (3.2–4.4s): A passenger in the next car suddenly collapses and begins convulsing, completely silent through the glass.
+
+Shot 5 (4.4–5.6s): Wide view of the divider; the collapsed passenger convulses as nearby passengers begin noticing.
+
+Shot 6 (5.6–6.8s): Close-up of her face near the glass, confusion turning into fear.
+
+Shot 7 (6.8–8.0s): The fallen passenger seizes violently, dark veins spreading across the body.
+
+Shot 8 (8.0–9.2s): The passenger rises unnaturally, head twitching, eyes clouding white.
+
+Shot 9 (9.2–10.2s): It suddenly lunges at another passenger, triggering chaos.
+
+Shot 10 (10.2–11.4s): Survivors on this side recoil from the glass, realizing what is happening.
+
+Shot 11 (11.4–12.6s): Wide shot: the next car erupts into silent, distant chaos, passengers scrambling.
+
+Shot 12 (12.6–13.8s): She backs away from the glass, hand covering her mouth in horror.
+
+Shot 13 (13.8–15.0s): An infected passenger violently slams into the glass; the impact is finally heard.
+
+Shot 14 (15.0–16.0s): Survivors jump back as the glass rattles violently.
+
+Shot 15 (16.0–17.2s): More infected press against the glass, distorted faces and faint snarls bleeding through.
+
+Shot 16 (17.2–18.4s): Cracks spread rapidly across the glass under repeated impacts.
+
+Shot 17 (18.4–19.6s): Survivors desperately brace the door with a luggage rack and seat cushions.
+
+Shot 18 (19.6–20.8s): A clawed hand punches through the fractured glass, making everyone recoil.
+
+Shot 19 (20.8–22.0s): She grabs a metal pole and positions herself between the broken door and the survivors.
+
+Shot 20 (22.0–23.2s): The glass shatters completely; infected surge through the frame.
+
+Shot 21 (23.2–24.4s): She swings the pole into the first infected, knocking it backward in cinematic slow motion.
+
+Shot 22 (24.4–25.6s): Another survivor wedges a luggage rack into the doorway as a makeshift barrier.
+
+Shot 23 (25.6–26.8s): Infected claw through the gaps while survivors struggle to hold the barrier.
+
+Shot 24 (26.8–28.0s): Wide shot: shattered glass covers the floor as survivors guard the damaged divider.
+
+Shot 25 (28.0–30.0s): She stands at the front, pole in hand, staring through the shattered frame at the infected beyond. Cinematic dread-filled ending as silence returns.</code></pre>
+
+</details>
+
+## Cozy Retro Kitchen Baking Scene
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2097900090249957617)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [4000](https://imglume.com/prompt/4000)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a1897fb1-618a-456a-8aaa-0fd0978792d3/96974e78-4bee-4050-b368-3ac54909ab60-1789068802648 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject
+A young East Asian woman with short hair wearing a green patterned blouse and a beige apron, and a young East Asian man wearing a cream-colored short-sleeve button-up shirt, green apron, and grey oven mitts, baking together in a retro-styled kitchen.
+
+Style
+Cinematic cozy slice-of-life drama. Warm pastel and vintage color grading with soft 35mm film texture, nostalgic kitchen aesthetics, and gentle lighting.
+
+Camera &amp; Framing
+Lighting consists of warm, soft indoor kitchen illumination with golden oven glows. Framing includes medium kitchen workspace views, macro close-ups on the tart and meringue piping, inside-the-oven tracking angles, and static dining table shots.
+
+Audio
+Subtle acoustic background hums and ASMR-style baking foley, including piping sounds, oven door clicks, tart placement thuds, and quiet ceramic clinking.
+
+Realism
+Photorealistic 8K rendering featuring accurate food textures like fluffy piped meringue and golden-brown torched peaks, natural fabric movement, and realistic kitchen lighting physics.
+
+Detailed Scene Breakdown
+
+00:00 to 00:05 shows a medium shot of the woman carefully piping white meringue peaks onto a lemon tart crust on a wooden counter while the man watches closely beside her.
+
+00:06 to 00:10 features a close-up tracking shot of the piping bag creating neat rows of meringue kisses across the top of the tart.
+
+00:11 to 00:16 captures the man wearing grey oven mitts lifting the tart tray and sliding it into a retro oven, closing the door as the woman looks on.
+
+00:17 to 00:18 is an internal oven shot of the man peeking through the glass window, watching the meringue tips toast to a golden brown.
+
+00:19 to 00:21 shows the man using oven mitts to pull the freshly baked, browned lemon meringue tart out and placing it onto a wooden cooling rack.
+
+00:22 to 00:24 is a close-up shot of a sliced piece of lemon meringue tart being served onto a vintage plate.
+
+00:25 to 00:30 captures a static wide shot of both sitting down at a retro dining table, picking up their forks, and taking a bite of the tart together.</code></pre>
+
+</details>
 
 ## Luxurious Bridal Shower Cinematic Video Prompt
 

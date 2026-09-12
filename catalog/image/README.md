@@ -1,18 +1,18 @@
 # Image prompt catalog
 
-Browse 1178 source-linked image prompts by category.
+Browse 1198 source-linked image prompts by category.
 
 | Category | Prompts |
 | --- | ---: |
 | [Animation](./animation.md) | 3 |
 | [Architecture](./architecture.md) | 12 |
-| [Character](./character.md) | 133 |
-| [Cinematic](./cinematic.md) | 66 |
+| [Character](./character.md) | 134 |
+| [Cinematic](./cinematic.md) | 68 |
 | [Food Drink](./food-drink.md) | 15 |
-| [Illustration 3d](./illustration-3d.md) | 81 |
+| [Illustration 3d](./illustration-3d.md) | 84 |
 | [Nature](./nature.md) | 22 |
-| [Photography](./photography.md) | 700 |
-| [Poster Design](./poster-design.md) | 141 |
+| [Photography](./photography.md) | 712 |
+| [Poster Design](./poster-design.md) | 145 |
 | [Product Ads](./product-ads.md) | 26 |
 | [Product Brand](./product-brand.md) | 4 |
 | [Travel](./travel.md) | 59 |

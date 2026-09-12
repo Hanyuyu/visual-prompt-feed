@@ -1,9 +1,329 @@
 # UGC video prompts
 
-136 source-linked prompts, newest ImgLume records first.
+144 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@Ava_Ai__ on X](https://x.com/Ava_Ai__/status/2098459622453756301)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [4082](https://imglume.com/prompt/4082)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1c996aab-c030-4495-a1b3-a710c2b998f4/301e45c7-2ce1-4f62-b867-91258f32c8c6-1789151915848 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>“Create an e-commerce UGC talking-head video for this beverage. A young, influencer-style woman should appear on camera to showcase and introduce the product to an international audience. The flavor is Mango Passionfruit.”</code></pre>
+
+</details>
+
+## Ultra-realistic early-2000s DV home video of a young Korean woman in a Seoul neighborhood
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2098373444010443011)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4049](https://imglume.com/prompt/4049)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ac58cdeb-bcf6-4f64-99b8-4a9bb149e5d4/b73780a8-290f-4a95-ae44-4a79f7b055b3-1789130784745 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p, 16:9 ultra-realistic early-2000s DV home video of a young Korean woman having a spontaneous summer evening around a quiet neighborhood market in Seoul.
+
+SUBJECT
+
+Young Korean woman, early 20s, naturally pretty, realistic skin, minimal makeup, relaxed expressions. Straight dark-brown shoulder-length hair, loose with a black headband and a few messy strands.
+
+Outfit: dusty-rose fitted T-shirt, dark-indigo jeans, white canvas sneakers, cream canvas shoulder bag, thin silver necklace.
+
+Keep her face, hair, outfit, body proportions, and accessories identical throughout the entire video.
+
+SETTING
+
+An older Seoul neighborhood during a warm summer evening. Narrow streets connected to a small local market, aging low-rise buildings, faded painted walls, metal shutters, parked scooters, bicycles, potted plants, handwritten-looking shop signs without readable branding, utility poles, overhead wires, plastic stools, small street vendors, and residential entrances.
+
+The area feels lived-in and ordinary rather than picturesque. A few local residents move naturally through the background. Warm sunlight is beginning to fade into early evening.
+
+No brands, logos, advertisements, tourist landmarks, modern luxury buildings, polished streets, or commercial-looking locations.
+
+CAMERA STYLE
+
+Cheap early-2000s consumer DV camcorder footage recorded casually by a friend.
+
+Strong handheld shake, imperfect framing, occasional focus hunting, exposure shifts when moving between sunlight and shadow, soft digital detail, slightly faded colors, mild tape noise, subtle compression artifacts, motion blur, accidental zooms, awkward reframing, and natural camera movement.
+
+The camera should feel like a friend casually recording the moment rather than a professional filming a scene.
+
+No stabilization, gimbal movement, drone shots, cinematic camera choreography, cinematic lighting, shallow-depth-of-field commercial shots, or polished color grading.
+
+TIMELINE
+
+00:00–00:06 — LEAVING THE BUILDING
+
+She steps out through an old residential entrance carrying her cream canvas shoulder bag.
+
+She pauses beside a parked bicycle and checks the time on a small wristwatch. She notices the camera pointing at her and gives the camera operator an amused look.
+
+She says:
+
+“Are you filming me again?”
+
+The camera moves closer slightly. She shakes her head with a small laugh and starts walking toward the neighborhood market.
+
+00:06–00:12 — SMALL MARKET
+
+She walks past a tiny neighborhood fruit stand and notices a colorful pile of peaches.
+
+She stops, picks up one peach, looks at it, then looks directly at the camera.
+
+She says:
+
+“Should I get this?”
+
+The camera operator responds naturally from behind the camera:
+
+“Definitely.”
+
+She laughs quietly, buys one, and takes a bite while continuing down the street.
+
+00:12–00:18 — SUMMER MOMENT
+
+She reaches a small side street lined with old apartment walls and potted plants.
+
+A sudden warm breeze moves the leaves and pushes loose strands of her hair across her face.
+
+She tries to fix her hair while still holding the peach.
+
+A bicycle passes behind her.
+
+She looks toward the bicycle, then back at the camera and says jokingly:
+
+“Okay, that was almost dangerous.”
+
+She laughs naturally.
+
+00:18–00:24 — STREET CORNER
+
+She reaches a small neighborhood corner with a public bench beside an old concrete wall.
+
+She sits down for a moment and drinks water from a bottle taken from her shoulder bag.
+
+In the background, an older resident slowly sweeps the pavement while another person carries groceries toward an apartment entrance.
+
+She watches the street quietly for a few seconds.
+
+The camera operator asks:
+
+“Tired?”
+
+She looks toward the camera with a relaxed smile and replies:
+
+“A little.”
+
+She takes another sip of water and smiles.
+
+00:24–00:30 — HEADING BACK
+
+She stands up, brushes a small piece of dust from her jeans, adjusts the cream canvas shoulder bag across her shoulder, and starts walking back toward the residential buildings.
+
+The camera follows from behind with imperfect handheld movement.
+
+After a few steps, she turns around while walking backward and looks directly into the camera.
+
+She smiles and says:
+
+“Hurry up.”
+
+She turns forward and continues walking.
+
+The camera follows her for another moment before the footage abruptly cuts to black.
+
+AUDIO
+
+Natural location sound only.
+
+Footsteps on concrete, distant traffic, bicycle wheels, birds, summer insects, leaves moving in the breeze, neighborhood market ambience, faint conversations, a distant scooter, plastic bags rustling, street sweeping, water bottle sounds, natural laughter, and subtle camcorder handling noise.
+
+Dialogue should sound spontaneous and conversational, with natural pauses and imperfect timing.
+
+No music, narration, subtitles, captions, translations, logos, watermarks, or on-screen text.
+
+REALISM &amp; CONTINUITY
+
+Maintain strict character continuity throughout all shots.
+
+Her face, hairstyle, black headband, dusty-rose T-shirt, dark-indigo jeans, white canvas sneakers, cream canvas shoulder bag, silver necklace, body proportions, and overall appearance must remain identical from beginning to end.
+
+Natural human reactions and imperfect timing.
+
+Background pedestrians should move naturally and remain physically consistent.
+
+Objects must not disappear, duplicate, teleport, or change position unnaturally.
+
+No duplicated people, disappearing objects, distorted faces, warped bodies, broken hands, extra fingers, plastic skin, CGI appearance, identity drift, hairstyle changes, outfit changes, accessory changes, exaggerated acting, unrealistic facial expressions, or overly cinematic footage.
+
+The final result should feel like a genuine forgotten home-video recording from the early 2000s rather than a modern cinematic recreation.
+
+16:9 aspect ratio, 1080p, 30 seconds.</code></pre>
+
+</details>
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2098287430252249501)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4048](https://imglume.com/prompt/4048)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7b09680c-e541-4a8a-851d-640a325923cf/284172cc-6f5f-4958-bc17-9294f1c24c81-1789130750924 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Please help me create an e-commerce UGC talking-head video for this beverage. A young, influencer-looking woman should appear on camera to showcase and introduce the product to international consumers. The flavor is Mango Passionfruit.</code></pre>
+
+</details>
+
+## E-commerce UGC talking-head video for Mango Passionfruit beverage
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2098303270741778840)
+- **Recommended model:** `seedance`
+- **Source model(s):** `kling`
+- **Categories:** `product-ads`, `ugc`
+- **ImgLume record:** [4046](https://imglume.com/prompt/4046)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4f2a0781-ea67-4387-9161-6841ef4b7892/516eb5b2-b63a-4532-b8ca-c02f66bcc75e-1789126647312 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Please help me create an e-commerce UGC talking-head video for this beverage. A young, influencer-looking woman should appear on camera to showcase and introduce the product to international consumers. The flavor is Mango Passionfruit.
+
+Use Kling Omni 3.0 and Gemini Image, with a 16:9 aspect ratio and a duration of 10 seconds. The on-camera host should introduce the product in a UGC e-commerce talking-head selling style, with narration and background music suited to product promotion. Use the Kling MCP and any skills or rules you find helpful. If the necessary resources aren't available locally, you may search online.</code></pre>
+
+</details>
+
+## Young Korean woman sneezing in rainy Seoul apartment – vintage MiniDV style
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098257726145171832)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4036](https://imglume.com/prompt/4036)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7c6bd4e9-5e07-4257-bbb8-e878288431fc/f6e05aec-bbac-431a-ad8c-8b0162bea280-1789118520784 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized casual T-shirt and loose lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment bedroom on a quiet rainy morning. Simple wooden furniture, unmade bed, small desk, clothes casually placed around the room and a rain-covered window overlooking blurred apartment buildings. Steady rain outside.
+
+Lighting &amp; Atmosphere: Cozy, dim blue-hour ambience. Cold blue-gray light from the rainy window mixed with a weak warm bedside lamp. Dark cloudy sky, muted colors, soft shadows and slightly underexposed interior. Sleepy, intimate rainy-morning atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video. Completely candid and unstaged. Natural handheld movement, subtle camera shake, imperfect framing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands beside her desk casually organizing a few small things, occasionally glancing toward the rainy window. The camcorder watches from a slightly imperfect angle.
+
+00:04–00:07: She suddenly feels a sneeze coming. She pauses, scrunches her face slightly and brings her hand toward her nose.
+
+00:07–00:10: She sneezes naturally into her hand. For a moment she looks a little surprised by how sudden it was.
+
+00:10–00:13: She lowers her hand and looks directly toward the camcorder with a slightly embarrassed expression, realizing she was being filmed.
+
+00:13–00:15: She gives a tiny amused smile and quietly laughs at herself before turning back toward the window.
+
+Audio: Natural location sound only—steady rain against the glass, soft room ambience, fabric movement, distant traffic, faint apartment sounds and the natural sneeze. No music, narration or added sound effects.
+
+Goal: Feel like a tiny accidental moment captured by a family member on an old MiniDV camcorder. Cute, natural and understated. Her reaction afterward should feel genuine rather than performed.
+
+Motion quality: Keep all body and camera movement smooth and continuous. The sneeze should be one natural, fluid movement rather than exaggerated or repeated. The vintage look comes from authentic MiniDV image characteristics, not from a low or inconsistent frame rate.</code></pre>
+
+</details>
+
+## Ultra-realistic UGC tech review of foldable iPhone and Apple Watch in a luxury bedroom
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2098267259232010638)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4025](https://imglume.com/prompt/4025)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/382b3553-41e2-47da-929d-4e855516cc8f/4d85c7c9-d874-489d-ad73-dc3d5d6666ef-1789114642504 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the exact character reference. Preserve her facial identity, hairstyle, eye color, makeup, skin tone, body proportions, white sleeveless fitted top, light blue wide-leg jeans, pearl choker, rings, and bracelets consistently throughout the video. Use the uploaded foldable iPhone, retail box, and Apple Watch as locked product references. Maintain perfect product consistency, including the foldable phone's frame, hinge, displays, cameras, buttons, colors, materials, and proportions, as well as the Apple Watch's case, display, crown, buttons, strap, colors, and proportions.
+Create an ultra-realistic UGC luxury tech creator review filmed inside a modern luxury bedroom with warm golden-hour sunlight, soft natural shadows, and a premium lifestyle aesthetic. The camera feels like a handheld smartphone with subtle natural movement while maintaining cinematic commercial quality.
+The video begins with the woman sitting on the bed beside the foldable iPhone retail box and Apple Watch. Smiling at the camera, she says, "I genuinely wasn't expecting to love this foldable iPhone this much." She picks up the box, opens it naturally, reveals the phone, and slowly unfolds it while continuing, "The design already feels incredibly premium."
+She rotates the foldable iPhone slowly in front of the camera, showing the thin frame, hinge, displays, and camera module as natural golden-hour reflections move across the surface. She smiles and says, "The design is so sleek, and I really love how the foldable screen opens up."
+She unfolds the phone completely and interacts naturally with the large inner display, scrolling through apps and opening the camera. She points the camera toward the bedroom and takes a few photos.
+She looks at the camera and says, "And the camera quality is seriously impressive. Everything looks so sharp and detailed."
+She then closes and opens the phone once more before continuing, "Plus, the battery is supposed to be better too, which is honestly a huge win for me."
+She places the foldable iPhone on the bed and picks up the new Apple Watch. She holds it close to the camera, showing the display, case, crown, and strap with realistic reflections.
+She smiles and says, "And the new Apple Watch is actually really nice too."
+She puts the Apple Watch onto her wrist naturally, raises her arm toward the camera, checks the display, scrolls through it, and says, "I love how clean it looks, and having all these features right on my wrist is so convenient."
+She turns her wrist from side to side so the watch catches the warm sunlight from different angles. She then picks up the foldable iPhone again and holds it beside her Apple Watch.
+Looking directly into the camera, she smiles warmly and says, "Honestly... this might be one of my favorite Apple upgrades yet."
+She laughs softly, looks down at both devices, then holds the foldable iPhone beside her face with the Apple Watch clearly visible on her wrist. The camera slowly pushes in toward the phone and watch before fading out.
+Ultra-realistic UGC technology content, authentic creator review, cinematic handheld smartphone movement, modern luxury bedroom, warm golden-hour lighting, macro product cinematography, realistic reflections, detailed phone and watch textures, accurate foldable mechanics, expressive facial animation, perfect lip sync, shallow depth of field, premium color grading, natural creator-style delivery, 4K HDR, 16 9, no subtitles, no logos, no watermarks, no on-screen text.
+Negative: No BGM, no dialogue other than the specified speech, no distorted hands, no extra fingers, no warped phone, no changing product design, no inconsistent colors, no duplicated devices, no floating objects, no exaggerated CGI, no unrealistic reflections, no beauty filter, no plastic-looking skin, no unnatural facial expressions, no cinematic</code></pre>
+
+</details>
+
+## Handheld vlog inside Apple Store showcasing new iPhone with accidental drop
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2098265044161032288)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4024](https://imglume.com/prompt/4024)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/25df6a16-a0cf-4e90-a0fb-8f8eafda5707/21f98b28-c997-47b3-9e28-64653300ac87-1789114593158 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-realistic handheld vlog video, filmed entirely inside a busy Apple-style retail store during the launch of a new iPhone.
+A young female tech vlogger wearing a pink fitted top and jeans is inside the store, surrounded by display tables with the new iPhones. Other vloggers, influencers, and customers are visible in the background testing phones, filming content, and talking about the launch.
+She holds the new iPhone in her hand and films herself in an authentic, energetic vlogger style. She occasionally turns the phone toward the camera to show its design, back, and camera system.
+Dialogue:
+“Okay, I’m inside the store checking out the new iPhone, and honestly, it looks so cool. I really love the design, the camera is seriously impressive, and the battery life looks really good too. This might actually be a really nice upgrade.”
+ENDING ACTION:
+As she finishes speaking, the phone accidentally slips from her hand and falls onto the store floor. She immediately reacts with a surprised expression, quickly bends down and picks it up. She checks the screen carefully, turns it over to inspect the phone, then looks back at the camera and says:
+“All good!”
+She then laughs naturally, relieved by what just happened.
+Style: authentic smartphone vlog, handheld movement, spontaneous reactions, realistic store lighting, busy background, natural facial expressions, realistic physics, detailed phone reflections, cinematic realism but not overly polished.
+Important: Keep the entire scene inside the store. The phone should visibly fall naturally, remain intact, and look exactly the same before and after the drop. No exterior shots or location changes.</code></pre>
+
+</details>
+
+## 30‑second vertical selfie with kitten playing with hair tie on a rainy day
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2098256490238755226)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `ugc`
+- **ImgLume record:** [4021](https://imglume.com/prompt/4021)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9b1c4c25-9e7c-4e8a-bf51-b8b8050bd37f/7bc9e896-b249-4359-9595-409b45a883ac-1789110395838 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use "@&lt;image1" as the exact visual reference for the woman. Preserve her identity, face, hairstyle, clothing, skin texture, body proportions, and natural appearance throughout the entire clip. Exactly ONE small tabby kitten. The same kitten remains continuous throughout. No other animal, no duplicate kitten. FORMAT 30-second vertical 9:16 handheld front-camera selfie. Indoor room beside a window on a rainy day. Soft gray natural daylight through the glass. Very subtle window reflections and realistic ambient room sound. No color grading, no cinematic lighting, no beauty filter. --- 0–5 SEC — QUIET RAINY MOMENT The woman stands beside the window holding the kitten against her chest. Rain droplets are visible softly on the window behind her. She looks at the kitten and gently touches its forehead with her finger. The kitten watches her hand. She gives a quiet smile and casually says: "You're being good today, huh?" The phone remains slightly imperfect and handheld. --- 5–10 SEC — HAIR TIE CATCHES ATTENTION She reaches toward the back of her tied hair with her free hand and adjusts the hair tie. The kitten suddenly notices the small hair tie around her wrist. Its ears move forward. It stretches one paw toward it. She notices and pulls her wrist away. A small nose-laugh escapes. --- 10–15 SEC — THEFT The kitten reaches again and catches the hair tie between its paws. She reacts with surprise. The kitten pulls it toward itself. She laughs and tries to gently retrieve it. The phone shakes subtly from her laughter. She says: "Hey, that's not yours." The kitten refuses to release it. --- 15–20 SEC — PLAYFUL TUG The kitten squirms against her chest while holding the hair tie. She supports its body securely with her other hand. She gently tries to take the hair tie back. The kitten suddenly turns its head away. She laughs harder. A few strands of her hair fall loose near her cheek. The rain remains softly visible in the background. --- 20–25 SEC — KITTEN CLIMBS The kitten begins climbing toward her shoulder while still holding the hair tie. Its paws grip the fabric of her top. She gives a small surprised yelp followed by laughter. Her phone hand moves upward slightly. The camera briefly loses perfect framing and then naturally re-centers. --- 25–30 SEC — FINAL CAMERA ATTACK The kitten reaches her shoulder and then suddenly turns toward the phone. Its nose and whiskers approach the lens. She pulls her face backward while laughing. The kitten raises one paw toward the camera. She starts: "You really want—" Her sentence breaks apart into laughter. The paw reaches the near corner of the lens. The phone dips naturally. The clip ends mid-laugh. AUDIO Rain ambience through the window, fabric rustling, kitten movement, one tiny mewl, woman's natural voice, breathing, nose-laughs and genuine laughter. No background music. No subtitles. No text. No logo. No watermark. No cuts. No zoom. Exactly one kitten.</code></pre>
+
+</details>
 
 ## Rainy Convenience Store – 30‑second ultra‑photorealistic home video
 

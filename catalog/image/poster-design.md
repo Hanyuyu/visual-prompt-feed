@@ -1,9 +1,139 @@
 # Poster Design image prompts
 
-141 source-linked prompts, newest ImgLume records first.
+145 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 2026 Toyota Camry XSE Conceptual Campaign Poster – THE ROAD BECOMES THE CAMRY
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2098299916166873371)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4040](https://imglume.com/prompt/4040)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/667c0fdc-cd0e-4883-aab1-18f1ffb6deed/bc75d4ec-28d6-4fd2-8621-075e3feb6515-1789122739488 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/667c0fdc-cd0e-4883-aab1-18f1ffb6deed/e1438860-384b-42fa-bd92-7ea7a2c6a576-1789122739488 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Act as a Senior Automotive Art Director, Automotive Commercial Photographer, Digital Collage Artist, Editorial Designer, and Campaign Creative Director specializing in conceptual automotive advertising, metaphor-driven visual storytelling, contemporary automotive photography, sophisticated image manipulation, and award-level social-media campaign design. Create ONE exceptionally art-directed 4:5 vertical SMM campaign poster for the 2026 Toyota Camry XSE. The campaign concept is: “THE ROAD BECOMES THE CAMRY.” The metaphor must communicate that Camry is not simply moving through the road — the road itself seems to have been shaped by the Camry. The visual should feel like a real automotive photograph transformed by one intelligent conceptual intervention, not a generic AI-generated car advertisement. ⸻ PHASE 1 — THE CORE VISUAL IDEA Build the entire poster around one physical metaphor: A 2026 Toyota Camry XSE is driving through a contemporary urban intersection. At first glance, it appears to be an exceptionally photographed automobile. Then the viewer notices something unusual: the road beneath and behind the Camry is gradually transforming into the geometry of the car. The asphalt lane markings begin following the exact trajectory of the Camry’s shoulder line. A road divider gradually develops the same curvature as the vehicle’s side profile. Architectural lines in the surrounding environment begin aligning with the Camry’s roofline. The road surface closest to the vehicle subtly rises into a sculptural plane that echoes the Camry’s bodywork. The further the road travels toward the background, the more its geometry resembles the vehicle. Road → structure → automobile. The viewer should understand the metaphor without needing an explanatory graphic. ⸻ PHASE 2 — VEHICLE Use an accurate 2026 Toyota Camry XSE. Wide, low stance. Sleek roofline. Chiseled body. Distinctive modern front fascia. Color-matched mesh grille. Functional front-side aerodynamic elements. 19-inch black/smoke-gray XSE wheels. Correct production proportions and realistic body surfacing. Use a sophisticated Heavy Metal metallic body with Midnight Black roof specification. The vehicle must remain completely photographic. No redesigning the Camry. No concept-car proportions. No exaggerated body kit. No fictional headlights. No melted geometry. Toyota’s current 2026 Camry XSE specification specifically features the wide/low stance, sleek roofline, aerodynamic air ducts, front-side canards, color-matched mesh grille and 19-inch black/smoke-gray wheels. ⸻ PHASE 3 — CAMERA Use an aggressive low three-quarter front perspective. Camera approximately 25–35 cm above road level. 24–28mm full-frame equivalent lens. The Camry occupies approximately 55–65% of the visual frame. Front of vehicle slightly closer to camera. Strong perspective convergence. Foreground asphalt visible beneath the camera. The vehicle should feel physically present and heavy. Natural automotive commercial reflections. Sharp bodywork. Controlled depth of field. No excessive background blur. The road transformation must remain readable. ⸻ PHASE 4 — ENVIRONMENT Create a sophisticated contemporary city intersection. Not futuristic. Not cyberpunk. Not a generic luxury-city backdrop. Think: real architecture + clean urban infrastructure + early-morning light + controlled visual geometry. Concrete, glass, asphalt, road markings, pedestrian infrastructure and architectural planes. The environment should contain strong linear structures that naturally echo the Camry’s design. Use architecture as part of the metaphor rather than decoration. ⸻ PHASE 5 — THE METAMORPHOSIS This is the most important part. The transformation must happen through real physical surfaces, not magical effects. FOREGROUND Normal asphalt. Natural road texture. Painted lane markings. MIDGROUND Road markings begin subtly bending toward the Camry’s body lines. A lane divider follows the vehicle’s shoulder contour. A concrete road seam begins mirroring the roofline. VEHICLE ZONE The pavement immediately beneath the Camry becomes unnaturally precise. Its planes echo the car’s sculpted surfaces. The visual relationship becomes unmistakable. BACKGROUND The road geometry gradually returns to normal urban infrastructure. This creates a visual progression: ordinary road → Camry geometry → ordinary city. No visible “transformation effect.” The metaphor should look as though the world was designed around the vehicle. ⸻ PHASE 6 — LIGHTING Early morning directional sunlight. Long architectural shadows. Soft warm sunlight interacting with cool urban surfaces. Strong but controlled highlights across the Camry’s metallic body. Natural reflections in windows and paint. The road transformation should be revealed primarily through light, shadow and geometry, not special effects. Premium automotive commercial exposure. High dynamic range. No artificial glow. No neon. No excessive lens flare. ⸻ PHASE 7 — COMPOSITION Use a strong editorial grid. CAMRY: dominant visual anchor, positioned slightly right of center. METAPHOR: road transformation leads the eye toward the vehicle. HEADLINE: upper-left / left-center negative space. SUPPORTING COPY: beneath headline. TOYOTA LOGO: restrained upper-right or lower-right position. Create substantial negative space around the typography. The poster must feel intentionally composed rather than filled. ⸻ PHASE 8 — TYPOGRAPHY Main headline: THE ROAD BECOMES THE CAMRY. Use a refined contemporary sans-serif inspired by Toyota’s current typographic language. Large scale. Strong hierarchy. Tight but controlled tracking. Clean alignment. No 3D extrusion. No bevel. No shadow. No decorative typography. The typography should feel like part of a real automotive campaign identity system. Small supporting copy: 2026 CAMRY XSE DESIGN WITH PURPOSE. Optional micro-information: HYBRID · XSE · AWD Keep technical information extremely restrained. Toyota’s visual guidelines emphasize bold headline hierarchy, clean grid alignment and avoiding unnecessary typographic effects. ⸻ PHASE 9 — TYPOGRAPHY / IMAGE INTERACTION Do not simply place text over the photograph. Allow the road geometry to visually point toward the headline. One lane marking can subtly terminate near the headline. One architectural line can align with the baseline of the typography. The Camry’s roofline and headline should share a visual rhythm. This creates a relationship between: CAR → ROAD → TYPE. All three should feel like components of one composition. ⸻ PHASE 10 — COLOR SYSTEM Primary palette: Heavy Metal metallic gray Midnight Black Concrete gray Warm morning white Muted Toyota red accent Keep the red extremely restrained. One small red detail is enough. Do not turn the poster into a red Toyota advertisement. ⸻ PHASE 11 — PHOTOGRAPHIC QUALITY Hyper-real automotive commercial photography. Physically accurate reflections. Correct wheel geometry. Realistic tire contact. Natural suspension stance. Accurate metallic paint. Subtle environmental reflections. Fine road texture. Realistic atmospheric perspective. Premium color grading. No plastic CGI appearance. No AI-generated surface artifacts. No excessive sharpening. No surreal distortion of the vehicle. ⸻ PHASE 12 — DESIGN PSYCHOLOGY The poster must work in three visual beats: BEAT 01 — ATTENTION Beautiful, aggressive Camry photograph. BEAT 02 — DISCOVERY Viewer notices the road geometry is behaving strangely. BEAT 03 — MEANING Viewer realizes: THE ROAD HAS BECOME THE CAMRY. The conceptual discovery is what makes the poster memorable. ⸻ PHASE 13 — BRAND INTELLIGENCE The visual must feel unmistakably Toyota, while avoiding a conventional dealership advertisement. Use: * precise automotive photography * restrained brand presence * functional design language * contemporary urban environment * strong typography * purposeful composition * sophisticated conceptual storytelling The vehicle is the hero. The metaphor is the campaign idea. The graphic design amplifies the idea. ⸻ PHASE 14 — ABSOLUTELY AVOID No generic luxury-car background. No mountain road. No desert. No cyberpunk city. No neon. No floating vehicle. No giant 3D typography. No holograms. No speed trails. No smoke surrounding the car. No random particles. No excessive lens flare. No futuristic buildings. No impossible road deformation. No duplicated vehicles. No distorted wheels. No warped Toyota badge. No fake body panels. No excessive red. No template-like Instagram layout. No generic “premium automotive poster” aesthetic. The metaphor must carry the visual. ⸻ PHASE 15 — FINAL OUTPUT 4:5 vertical composition 8K ultra-high resolution Photorealistic 2026 Toyota Camry XSE High-end automotive commercial photography Conceptual digital compositing Behance-level campaign art direction Sophisticated editorial typography Physical metaphor-driven storytelling Contemporary Toyota visual language Professional SMM campaign quality Global automotive advertising finish FINAL CREATIVE PRINCIPLE: Do not make the Camry look like it belongs on the road. Make the road look like it was designed by the Camry.</code></pre>
+
+</details>
+
+## Premium Contemporary Editorial Art Poster for \[LOCATION\] in Playful Japanese ZINE Style
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098025936721707252)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4027](https://imglume.com/prompt/4027)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/398cb61f-9c0c-4498-8f52-cb77c7a34bd7/2112276c-b2d9-483d-a427-4a3136226e36-1789114688987 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/398cb61f-9c0c-4498-8f52-cb77c7a34bd7/311f5366-3101-4e3f-b154-8666e7606e13-1789114688987 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/398cb61f-9c0c-4498-8f52-cb77c7a34bd7/ccd7157a-f5b9-48e3-b09d-fe59ae6942a5-1789114688987 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/398cb61f-9c0c-4498-8f52-cb77c7a34bd7/e9caa85e-1db6-40c6-b2d2-5964b3b29052-1789114688987 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium contemporary editorial art poster for [LOCATION] in a playful Japanese design-ZINE style.
+
+FORMAT: Vertical 3:4 | High resolution | Modern editorial art
+
+Automatically choose the most iconic and visually interesting-elements of [LOCATION]-landmarks, architecture, streets, landscapes, food, nature, transportation, or cultural details—and build the artwork around the strongest subject.
+
+Use a bold full-frame collage composition, with the main subject occupying about 70–90% of the image. Combine dramatic crops, enlarged details, cutout elements, layered paper shapes, small image fragments, irregular edges, and overlapping graphics. Avoid large empty spaces, but keep everything clean and professionally art-directed.
+
+Automatically extract 2–4 signature colors from the character of [LOCATION] and use them for translucent shapes, circles, brush strokes, watercolor marks, lines, arrows, symbols, and small hand-drawn motifs.
+
+Add a strong combination of English + Japanese typography:
+
+A short, original English title inspired by the location
+
+A complementary Japanese title expressing its mood or story
+
+2–4 small Japanese editorial captions
+
+Minimal English/Japanese details such as place, season, date, or atmosphere
+
+Use elegant serif or modern sans-serif English typography and refined Japanese Mincho or Gothic lettering. Allow some text to overlap the imagery or extend slightly beyond the frame for an editorial feel.
+
+Add one small handwritten Japanese message, naturally drawn with a thin black pen, inspired by the scene.
+
+Include 5–10 tiny black stick figures throughout the design. Give each a different playful action—climbing letters, pulling arrows, carrying shapes, observing the landmark, sitting on the image edge, holding a tiny flag, or interacting with the artwork. Keep them small and subtle, with only a few using accent-colored accessories.
+
+FINAL LOOK
+
+Make it feel like a lively little magazine created from [LOCATION]—a sophisticated combination of contemporary Japanese design, independent magazines, art books, fashion editorials, and gallery-shop ZINEs.
+
+Bright, fresh, artistic, playful, and highly polished. Not a traditional tourist poster, generic advertisement, vintage poster, or ordinary AI illustration.
+
+No reference image required. Generate the entire visual concept from [LOCATION] alone.</code></pre>
+
+</details>
+
+## Refined high-end photo + minimal watercolor vignette editorial composition
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098053997588557855)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `poster-design`
+- **ImgLume record:** [4013](https://imglume.com/prompt/4013)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bd5985da-143e-4b13-8260-f2b5ea000ec8/29b590cd-99d4-4bbe-911f-265baab75de4-1789101996619 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bd5985da-143e-4b13-8260-f2b5ea000ec8/abc90d13-e9ad-48e2-a6e3-b23508090c12-1789101996619 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a refined, high-end PHOTO + MINIMAL WATERCOLOR VIGNETTE artwork based entirely on the uploaded photograph. Use the photograph as the only visual reference and preserve the exact subject, composition, environment, clothing, objects, lighting, colors, and mood.
+
+FORMAT: Vertical 3:4 editorial composition.
+
+TOP SECTION — ORIGINAL PHOTOGRAPH:
+Place the original photograph in the upper 55–60% of the canvas. Keep it photorealistic and naturally detailed. Do not alter the identity, pose, proportions, objects, architecture, scenery, or important visual details. Give it a subtle premium editorial photography finish with natural cinematic light and gentle tonal balance.
+
+BOTTOM SECTION — HAND-PAINTED INTERPRETATION:
+Transform the same exact scene into a delicate minimal watercolor and fine-ink illustration. Recreate the main subject, pose, perspective, key objects, and recognizable background elements from the photograph. Use loose watercolor washes, subtle pencil/ink outlines, imperfect hand-painted edges, soft paper texture, and restrained pastel tones. Keep the illustration airy, elegant, and slightly imperfect rather than digitally polished.
+
+The illustration should feel like a fashion/lifestyle magazine sketchbook page, with plenty of clean negative space and a warm off-white textured paper background. Do not introduce new subjects or details.
+
+TYPOGRAPHY:
+Add a short elegant handwritten brush-script phrase underneath or integrated naturally into the illustrated section, similar to a premium lifestyle editorial poster. Underneath it, add a tiny minimalist lowercase serif/sans-serif subtitle. Typography should be subtle, sophisticated, thin, and balanced with the artwork.
+
+AESTHETIC:
+Scandinavian editorial design, quiet luxury, nostalgic travel journal, soft watercolor, delicate ink drawing, handmade paper texture, muted natural palette, sophisticated minimalism, emotional storytelling, premium art-book layout.
+
+IMPORTANT: The photograph and illustration must clearly represent the same exact moment and scene. No collage of unrelated images, no dramatic redesign, no excessive watercolor, no cartoon appearance, no heavy outlines, no saturated colors, no clutter.
+
+Output: photorealistic upper section + matching delicate watercolor illustration below, seamless premium editorial composition, vertical 3:4, high detail.
+
+For different photos, just change the text phrase
+
+Examples:
+•Good Days — a kinder me
+•Better Together — same window, same silence
+•Little Moments — worth remembering
+•Slow Days — nothing to rush
+•Somewhere Quiet — just for a while
+•Golden Hours — softly remembered</code></pre>
+
+</details>
+
+## Blue ballpoint pen illustration on vivid red background
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2098087685348892674)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4005](https://imglume.com/prompt/4005)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ddaaaa53-3dc8-4221-8bbd-459f76dbcd25/035d8159-7265-41f5-a708-5d2a6ef87f7e-1789076818717 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ddaaaa53-3dc8-4221-8bbd-459f76dbcd25/9d9554e5-1f28-4576-991c-34fa18babc85-1789076818717 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"Ultra-detailed blue ballpoint pen illustration translated into monochrome black ink, dense cross-hatching and fine hatch shading, intricate biro sketch texture, obsessive linework, engraved contour rendering, hand-drawn pen illustration aesthetic, expressive organic strokes, editorial surreal composition, high-detail facial rendering, layered sketchbook construction lines, vintage technical scribbles and handwritten notes in pure white only over bold red background, white typographic annotations integrated into backdrop, underground zine poster aesthetic, raw imperfect ink marks, high-contrast black ink subject against vivid red field, experimental graphic design, avant-garde magazine cover style --ar 9:16 --stylize 750."</code></pre>
+
+</details>
 
 ## Apple iPhone Duo promotional poster
 

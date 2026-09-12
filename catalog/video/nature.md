@@ -1,9 +1,83 @@
 # Nature video prompts
 
-20 source-linked prompts, newest ImgLume records first.
+23 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 8-second photorealistic wildlife documentary shot using Blender, PixVerse, and Seedance 2.5
+
+- **Original source:** [@tussiwe on X](https://x.com/tussiwe/status/2098432674503573616)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [4076](https://imglume.com/prompt/4076)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/28680d08-efc1-480a-b559-c91e6b10bccc/e12f5198-020d-4189-8f08-079ba24e57b7-1789151747281 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Using my uploaded animal reference photo, complete an end-to-end workflow with Blender and the PixVerse Plugin to produce an 8-second photorealistic wildlife documentary shot using Seedance 2.5. Analyze the reference and preserve visible body proportions, coat, face, ears, horns and hooves. Build an editable Blender motion preview with a natural four-beat gait and lateral camera tracking. Keep the full body, both horns and all hooves within frame, with all vegetation behind the animal. Use the original photo as the primary authority for appearance and the Blender preview for motion, camera, composition and timing. Generate one uninterrupted photorealistic shot through PixVerse and Seedance 2.5, maintaining realistic anatomy, grounded foot contact, consistent identity and natural rainforest lighting.</code></pre>
+
+</details>
+
+## Photorealistic 8-second wildlife documentary shot using animal reference
+
+- **Original source:** [@EleanorLouiise on X](https://x.com/EleanorLouiise/status/2098432784914383211)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `nature`
+- **ImgLume record:** [4075](https://imglume.com/prompt/4075)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65bbad10-93d1-4d73-90bc-98f5cdde1a01/7b401aad-32dd-4c7b-97d5-415973a00bac-1789147822307 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Analyze the supplied animal photograph and create a photorealistic 8-second wildlife documentary shot. Preserve the animal's visible proportions, coat, face, ears, horns and hooves from the original image. Build an editable Blender scene with a simplified animal, rainforest environment and animated camera. Create a natural four-beat walking cycle with planted stance feet, clear hoof lift and subtle weight transfer. Use the Blender preview only for motion, camera, composition and timing. Use the original photograph as the authority for appearance. Generate the final shot with PixVerse and Seedance 2.5 at 720p, 24 fps and 4:3. Keep the entire animal visible and unobstructed, with all trees and foliage behind it, and preserve identity, anatomy, foot contact and camera continuity.</code></pre>
+
+</details>
+
+## Botanical Perfume 15-Second Video Prompt
+
+- **Original source:** [@yourPlugAI on X](https://x.com/yourPlugAI/status/2098306219903492133)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `nature`, `product-ads`
+- **ImgLume record:** [4050](https://imglume.com/prompt/4050)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f5500fd8-eb8a-466f-97e5-c96d98d2ce91/6ed55aa9-f4de-4915-bf26-d552fa25b306-1789130805642 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>0 to 3 Seconds (The Hook)
+Visual: Extreme macro tilt-up shot through vibrant green tropical leaves dripping with morning dew drops. Sunlight flares brightly into the lens, illuminating floating pollen and water particles.
+Action: Dewdrops slide down a large palm leaf and splash onto raw stone in hyper-realistic slow motion, instantly sending micro-droplets upward.
+Sound: Deep organic woodwind harmony opening into a crisp, hyper-detailed splash sound effect paired with gentle birdsong and rustling leaves.
+
+3 to 6 Seconds (The Product Reveal)
+Visual: Smooth camera orbit around a frosted glass perfume bottle standing upright on a mossy basalt rock surrounded by blooming wild orchids.
+Action: A fine, dew-like botanical mist sprays cleanly from the side nozzle, dispersing horizontally while crisp sunlight catches every micro-droplet, creating a subtle rainbow prism effect.
+Sound: Clean, metallic pump spray click followed by a refreshing, atmospheric rush of mist audio and a gentle breeze swoosh.
+
+6 to 9 Seconds (The Character Dialogue)
+Visual: Medium shot of the woman standing in a sun-drenched botanical glasshouse, gently brushing a green fern leaf away from her face and looking directly into the camera lens with a serene, confident gaze.
+Action: She tilts her head slightly into the sunlight, her face relaxed and perfectly steady, speaking her line naturally with a soft smile.
+Sound: Soft, earthy acoustic string chord beneath a warm, breathy voiceover: "Breathe the wild."
+
+9 to 12 Seconds (The Sensory Surge)
+Visual: Fast-forward blooming sequence where golden flower petals unfurl around the perfume bottle, merging seamlessly with swirling sunlight and green leaves in dynamic motion physics.
+Action: Earthy moss and flower petals rise softly into the air surrounding the bottle, creating a weightless, natural float effect.
+Sound: Uplifting acoustic melody swell paired with a soft swooshing air transition and gentle rustling textures.
+
+12 to 15 Seconds (The Brand Outro)
+Visual: Centered hero shot of the frosted glass bottle standing upright on a sunlit marble slab amidst fresh green moss and morning dew. The engraved branding "GILBERTO" stands out in crisp golden typography.
+Action: Morning light sweeps smoothly across the bottle from left to right as delicate botanical mist settles at the base.
+Sound: Warm, grounded acoustic chime lingering into a soft fadeout.</code></pre>
+
+</details>
 
 ## The Scarlet Priestess
 

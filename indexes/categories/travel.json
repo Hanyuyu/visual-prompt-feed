@@ -3,10 +3,10 @@
   "facet": "category",
   "value": "travel",
   "label": "Travel",
-  "count": 134,
+  "count": 135,
   "mediaTypes": {
     "image": 59,
-    "video": 75
+    "video": 76
   },
   "ids": [
     "byradar:2080966563256222070:0",
@@ -142,6 +142,7 @@
     "byradar:2097601187734561047:0",
     "byradar:2097664670475919428:0",
     "byradar:2097564912851759244:0",
-    "byradar:2097890291860865291:0"
+    "byradar:2097890291860865291:0",
+    "byradar:2098311502386053632:0"
   ]
 }

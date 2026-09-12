@@ -1,9 +1,83 @@
 # Travel video prompts
 
-75 source-linked prompts, newest ImgLume records first.
+76 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## VIETNAM TRAVEL VLOG — HOI AN OLD TOWN (30s)
+
+- **Original source:** [@AmControo on X](https://x.com/AmControo/status/2098311502386053632)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [4029](https://imglume.com/prompt/4029)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c0950bb-5d63-4447-97dd-13cdcfdf138f/a396d96e-ad8f-4155-ac56-74018164db89-1789114718948 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>VIETNAM TRAVEL VLOG — HOI AN OLD TOWN (30s)
+
+FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
+
+Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from @Image 1 throughout the entire video. The same woman must appear consistently in every shot.
+
+VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
+
+The entire video must feel like one genuine recording captured by a friend while traveling through Hoi An Old Town, Vietnam, not a staged commercial or cinematic recreation.
+
+00:00–00:04 — MORNING ARRIVAL
+The woman walks along a narrow lantern-lined street in Hoi An Old Town early in the morning, yellow colonial buildings on either side, bicycles passing, shopkeepers opening their stalls.
+The camera follows her from slightly behind, then quickly swings around to her face as she smiles naturally.
+She looks into the camera and says:
+"Alright, mission today: find the best local breakfast in town."
+A little camera shake and accidental framing should make the moment feel completely spontaneous.
+
+00:04–00:08 — LOCAL MORNING MARKET
+She arrives at a small riverside market filled with baskets of herbs, tropical fruit, fresh noodles, and steaming food stalls.
+She stops at a stall where a local woman is preparing banh mi.
+The camera gets very close to the food as steam rises from the grill. The focus briefly locks onto the food before hunting back to her face.
+She reacts with genuine curiosity and says:
+"Okay, whatever that is, it smells way too good."
+
+00:08–00:12 — TRYING SOMETHING NEW
+The vendor hands her a freshly made banh mi wrapped in paper.
+She takes a bite, pauses for a second, looks surprised, then smiles.
+She turns toward the camera and says:
+"Wait, no, this is actually unreal."
+The camera operator laughs slightly from behind the camera.
+
+00:12–00:16 — SHARING BREAKFAST
+She sits at a small plastic table with two local vendors on a stool nearby.
+They casually chat, laugh, and gesture, showing her a proper way to eat a local noodle dish.
+She attempts to copy them using chopsticks and fumbles slightly, causing everyone to laugh naturally.
+No exaggerated acting — the interaction should feel spontaneous, warm, and genuinely human.
+
+00:16–00:20 — LEARNING A LOCAL TRADITION
+One of the vendors invites her to help fold a fresh spring roll.
+She sits beside them and tries wrapping the rice paper with her hands.
+Her first attempt comes out messy and falls apart slightly.
+She looks at the camera, laughs at herself, and says:
+"Yeah, that's a no from the judges. Clearly not a natural."
+The vendors laugh and encourage her.
+
+00:20–00:24 — A LITTLE OLD TOWN WALK
+After breakfast, she walks through the old town streets carrying her spring roll, colorful silk lanterns hanging overhead.
+A few children nearby notice the camera and shyly wave.
+She waves back and smiles.
+The camera briefly swings toward the children, catches a few seconds of genuine street activity, then accidentally swings back toward her.
+The imperfect camera movement is important.
+
+00:24–00:27 — QUIET MOMENT
+She reaches a small wooden boat dock along the Thu Bon River, lanterns floating gently on the water nearby.
+She stops, looks at the river, then turns toward the camera.
+For a moment, there is no dialogue — only water lapping, distant boat engines, and quiet river town sounds.
+She smiles softly and says:
+"Honestly? I wouldn't mind just staying right here."</code></pre>
+
+</details>
 
 ## 30-second Alpine Winter Vlog Montage
 

@@ -1,9 +1,43 @@
 # Architecture video prompts
 
-8 source-linked prompts, newest ImgLume records first.
+10 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Editable 3D recreation of Griffith Observatory rotunda with 15‑second camera sequence
+
+- **Original source:** [@leilamakes on X](https://x.com/leilamakes/status/2098450393277595841)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`
+- **ImgLume record:** [4073](https://imglume.com/prompt/4073)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/97b22f1c-d890-44e9-8592-d2d15e2065fb/3a3b8e39-1f89-4574-b19e-6195c1b8156b-1789147676595 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an editable 3D recreation of Griffith Observatory’s central rotunda in local Blender, including the Foucault pendulum, dome murals, bronze railings, marble floor, benches, celestial globes, table lamps, and astronomical displays. Create a stable 15-second camera sequence with three 5-second shots: Push into the hall, rise, and orbit around the central pendulum. Use an elevated upward-facing camera to orbit around the dome and murals. Move close to a celestial globe and make a smooth detail orbit. Render gray-model videos using these exact camera animations. Review the camera movement, framing, spatial flow, and occlusion before generating the final videos. In PixVerse, use Seedance 2.5. For each shot, upload the corresponding gray-model video and the same real photograph of Griffith Observatory’s interior. The photograph controls the materials, colors, murals, and lighting. The gray-model video controls the room layout, composition, perspective, and camera movement. Prompt: Use the visual style of @reference image to generate @gray-model video. Strictly preserve the gray-model video’s architecture, furniture positions, object count, framing, perspective, and camera movement. Only apply the realistic materials, dome murals, and warm interior lighting from the reference image. Keep every object stationary. Do not add people, furniture, doors, windows, or exhibits. Do not change the architecture or camera path. Avoid cuts, shaking, warping, flickering, or layout changes. Review every generated shot and regenerate only shots with clear problems. Combine the approved shots into one 15-second video and export the first frame of each shot. Deliver the editable Blender project, gray-model videos, three generated shots, final video, prompts, and first-frame screenshots.</code></pre>
+
+</details>
+
+## Abandoned station to train crossing moon and space
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2098290630179057858)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4067](https://imglume.com/prompt/4067)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/82fcd8d4-0358-4ad2-8245-bb6ab2921cca/9ed341fb-47ca-4d4b-8d73-aacf8ea432e1-1789143399609 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>REFERENCE: Use the provided character reference image as the exact visual identity of the protagonist. Keep her face, hairstyle, clothing, body proportions and visual details unchanged throughout the entire sequence. 0–5 SEC An abandoned underground railway station sits completely empty at midnight. Dust floats through flickering lights. A young woman waits alone on the platform when an old train suddenly arrives without making any sound. Its windows reveal a star-filled sky instead of passengers. 5–10 SEC The train doors open by themselves. She steps inside. Camera follows behind her as the doors close → the train accelerates through the dark tunnel → walls of the tunnel begin transforming into galaxies and distant planets. 10–16 SEC The train bursts out of the tunnel and travels through open space on invisible railway tracks. Earth appears far below. She looks through the window as enormous pieces of a shattered moon drift past the train. 16–22 SEC The train approaches a gigantic abandoned lunar station built across the surface of the moon. Suddenly every dead light on the station turns on one by one. Camera moves beside the train as thousands of empty platforms stretch into the distance. 22–27 SEC The train stops. She steps outside onto the moon. In front of her stands an enormous mysterious structure shaped like a doorway, slowly opening toward Earth. A beam of warm sunlight passes through it and illuminates her face. 27–30 SEC Camera pulls rapidly backward from the lunar station → the entire moon comes into view → the train begins leaving along its impossible track toward Earth → final shot shows the tiny glowing train crossing space beneath a massive blue planet. VISUAL STYLE: Ultra-realistic cinematic science-fantasy, photorealistic character, realistic lunar environment, physically believable space lighting, detailed abandoned architecture, volumetric light, subtle lens effects, massive scale, premium Hollywood cinematography, IMAX composition. CAMERA: Slow suspenseful opening, smooth tracking shots, dynamic acceleration during space transition, wide orbital shots, controlled final pullback. NEGATIVE: cartoon, anime, low-quality CGI, face morphing, character inconsistency, costume changes, distorted anatomy, unrealistic reflections, excessive camera shake, text, subtitles, logos, watermark.</code></pre>
+
+</details>
 
 ## Cinematic luxury real estate drone and interior tour of a Mediterranean villa
 

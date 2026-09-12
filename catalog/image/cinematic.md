@@ -1,9 +1,47 @@
 # Cinematic image prompts
 
-66 source-linked prompts, newest ImgLume records first.
+68 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic 3D animated close-up selfie of a young couple under cherry blossom trees
+
+- **Original source:** [@iam_mian7 on X](https://x.com/iam_mian7/status/2098436926462427502)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `illustration-3d`
+- **ImgLume record:** [4080](https://imglume.com/prompt/4080)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/289900b6-202d-4762-acfc-99323cedcfaf/f66c35fc-1828-4328-a592-9c1dffa4abeb-1789151847817 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 3D animated close-up selfie of a young couple under blooming cherry blossom trees. A handsome teenage boy with messy dark brown wavy hair, large round black-rimmed glasses, warm brown eyes, and a gentle smile leans his head against a pretty girl. He wears a camel-beige overcoat over a dark navy sweater and holds a black smartphone out in front of them with his right hand. The girl has long dark brown hair with soft bangs, large expressive brown eyes, and a shy sweet smile. She wears a navy school blazer, white collared shirt, and a red plaid bow tie, and holds a single red rose near her chest. Soft pink cherry blossom petals fill the background, warm golden-pink spring light, shallow depth of field, Pixar-style 3D animation, highly detailed faces, romantic and tender mood, photorealistic 3D render.</code></pre>
+
+</details>
+
+## East Asian woman in Tang dynasty court attire with antique firearm in ruined palace – cinematic Midjourney prompt
+
+- **Original source:** [@liluocheng13 on X](https://x.com/liluocheng13/status/2098054335389446366)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4004](https://imglume.com/prompt/4004)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/011b2fdb-66a0-48dc-8c06-85cf12932fd1/d18f7378-de58-469c-b13d-980865b1b2c5-1789076792385 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/011b2fdb-66a0-48dc-8c06-85cf12932fd1/17188343-7a1c-4a44-8fdf-fb44eb3faee8-1789076792385 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/011b2fdb-66a0-48dc-8c06-85cf12932fd1/c04ea7aa-2c8c-4579-a6f9-415652695794-1789076792385 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/011b2fdb-66a0-48dc-8c06-85cf12932fd1/7b2fb5d3-ddaa-49e9-a5a3-ac8cf3e54ec9-1789076792385 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young beautiful East Asian woman in magnificent Tang dynasty imperial court attire sits amid the ruins of a once-glorious imperial palace, aiming a long antique firearm directly at the camera. Exact low-angle forced-perspective composition: she is seated on the ground, both hands firmly gripping the gun, the enormous gun barrel extending from the bottom-center foreground toward her face, muzzle pointed straight into the lens, intense direct eye contact, dramatic foreground barrel blur.
+
+She wears extraordinarily luxurious layered ivory-white silk Tang court robes with intricate gold embroidery, flowing wide sleeves, ornate jade-and-gold hair ornaments, elegant Tang-dynasty black updo, long black hair. Her expression is calm, cold, and determined.
+
+The environment is a war-damaged Tang imperial palace hall: collapsed gilded beams, cracked vermilion-and-gold pillars, torn red silk banners with gold embroidery, shattered carved wooden screens, broken bronze ornaments, rubble, dust, smoke and shafts of warm sunlight. Despite the destruction, the space still reveals overwhelming former grandeur, wealth and imperial splendor. Grand tragic Chinese historical epic cinema, opulent but decaying, rich bronze gold, deep vermilion, ivory silk, aged jade accents, ultra-detailed realistic fabric and architecture, cinematic lighting, dramatic depth, masterpiece, no text, no watermark –ar 9:16 –stylize 350 –v 8.2</code></pre>
+
+</details>
 
 ## Yin-Yang Tree of Life cinematic keyframe
 

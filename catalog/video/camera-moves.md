@@ -1,9 +1,101 @@
 # Camera Moves video prompts
 
-148 source-linked prompts, newest ImgLume records first.
+151 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Abandoned station to train crossing moon and space
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2098290630179057858)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4067](https://imglume.com/prompt/4067)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/82fcd8d4-0358-4ad2-8245-bb6ab2921cca/9ed341fb-47ca-4d4b-8d73-aacf8ea432e1-1789143399609 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>REFERENCE: Use the provided character reference image as the exact visual identity of the protagonist. Keep her face, hairstyle, clothing, body proportions and visual details unchanged throughout the entire sequence. 0–5 SEC An abandoned underground railway station sits completely empty at midnight. Dust floats through flickering lights. A young woman waits alone on the platform when an old train suddenly arrives without making any sound. Its windows reveal a star-filled sky instead of passengers. 5–10 SEC The train doors open by themselves. She steps inside. Camera follows behind her as the doors close → the train accelerates through the dark tunnel → walls of the tunnel begin transforming into galaxies and distant planets. 10–16 SEC The train bursts out of the tunnel and travels through open space on invisible railway tracks. Earth appears far below. She looks through the window as enormous pieces of a shattered moon drift past the train. 16–22 SEC The train approaches a gigantic abandoned lunar station built across the surface of the moon. Suddenly every dead light on the station turns on one by one. Camera moves beside the train as thousands of empty platforms stretch into the distance. 22–27 SEC The train stops. She steps outside onto the moon. In front of her stands an enormous mysterious structure shaped like a doorway, slowly opening toward Earth. A beam of warm sunlight passes through it and illuminates her face. 27–30 SEC Camera pulls rapidly backward from the lunar station → the entire moon comes into view → the train begins leaving along its impossible track toward Earth → final shot shows the tiny glowing train crossing space beneath a massive blue planet. VISUAL STYLE: Ultra-realistic cinematic science-fantasy, photorealistic character, realistic lunar environment, physically believable space lighting, detailed abandoned architecture, volumetric light, subtle lens effects, massive scale, premium Hollywood cinematography, IMAX composition. CAMERA: Slow suspenseful opening, smooth tracking shots, dynamic acceleration during space transition, wide orbital shots, controlled final pullback. NEGATIVE: cartoon, anime, low-quality CGI, face morphing, character inconsistency, costume changes, distorted anatomy, unrealistic reflections, excessive camera shake, text, subtitles, logos, watermark.</code></pre>
+
+</details>
+
+## Raw helicopter chase of ostrich in Nigerian market
+
+- **Original source:** [@mrdejie on X](https://x.com/mrdejie/status/2098242830661792189)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`
+- **ImgLume record:** [4010](https://imglume.com/prompt/4010)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/08725c2e-71a6-4535-87d6-f7a57ba1ea14/dfde9432-8167-4fc3-85b7-fa591442aaeb-1789097834550 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Generate a continuous 30-second raw live Nigerian TV news helicopter shot of a chaotic market chase. A huge real ostrich rides a dirty, faded, old pink plastic toy car through a packed open-air market while local food vendors chase it like they want to catch it and cook it. The toy car crashes at a stall blockade. The ostrich kicks one vendor off his feet, then escapes on a skateboard. Unpolished live helicopter footage only: one high-altitude tracking shot, natural shake, real physics, bright daylight. No cinematic grade, no slow motion, no film look, no cuts.
+
+Start on a distant helicopter view of a packed Nigerian market in daylight: food stalls, umbrellas, basins, crates, hanging meat, grill smoke, shoppers, okada, and keke. The ostrich is already moving fast the wrong way on the tiny dirty pink toy car, legs almost hitting the ground. A vendor in a faded singlet and wrapper runs behind it with a long knife. The ostrich weaves between stalls. A bag of peppers drops. A keke brakes. A yam wheelbarrow tips. More vendors join — one with a metal basin, one with a giant ladle, one with a bag of charcoal, one with a suya skewer. They wear Ankara, singlets, rubber slippers, and stained aprons over street clothes. No chef uniforms.
+
+The ostrich drives at a blockade of tables and a parked danfo. It swerves past a sliding keke. The plastic wheels lock and the toy car skids sideways into a table leg and stops hard. The ostrich jumps off, wings half-open. Vendors rush in from both sides.
+
+The knife vendor grabs for its neck. The ostrich pecks his forehead. The basin vendor lunges. The ostrich plants one foot and kicks him in the chest — a real heavy ostrich kick — and he flies onto a pile of onions. The basin rolls. The ladle vendor slips in spilled oil. A gap opens.
+
+The ostrich runs to a worn skateboard lying in the dirt beside a crate, steps on, wobbles, then pushes off with one long leg. It crouches low with wings out and rolls down the market lane between stalls and keke. Vendors chase on foot. The crashed pink toy car is left at the blockade. End on the ostrich already far down the road on the skateboard, vendors shrinking behind it, helicopter still tracking from distance.
+
+Keep the same ostrich, the same dirty pink toy car until the crash, and the skateboard for the escape. Realistic animal weight, kick, wobble, and market physics. Natural daylight. Local food sellers only.
+
+Audio: helicopter rotor, market noise, horns, shouting, clattering basins, strained toy-car motor, hard kick and body fall, skateboard wheels on dirt. No music. No subtitles. No voice-over.</code></pre>
+
+</details>
+
+## Cozy Retro Kitchen Baking Scene
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2097900090249957617)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `food-drink`
+- **ImgLume record:** [4000](https://imglume.com/prompt/4000)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a1897fb1-618a-456a-8aaa-0fd0978792d3/96974e78-4bee-4050-b368-3ac54909ab60-1789068802648 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject
+A young East Asian woman with short hair wearing a green patterned blouse and a beige apron, and a young East Asian man wearing a cream-colored short-sleeve button-up shirt, green apron, and grey oven mitts, baking together in a retro-styled kitchen.
+
+Style
+Cinematic cozy slice-of-life drama. Warm pastel and vintage color grading with soft 35mm film texture, nostalgic kitchen aesthetics, and gentle lighting.
+
+Camera &amp; Framing
+Lighting consists of warm, soft indoor kitchen illumination with golden oven glows. Framing includes medium kitchen workspace views, macro close-ups on the tart and meringue piping, inside-the-oven tracking angles, and static dining table shots.
+
+Audio
+Subtle acoustic background hums and ASMR-style baking foley, including piping sounds, oven door clicks, tart placement thuds, and quiet ceramic clinking.
+
+Realism
+Photorealistic 8K rendering featuring accurate food textures like fluffy piped meringue and golden-brown torched peaks, natural fabric movement, and realistic kitchen lighting physics.
+
+Detailed Scene Breakdown
+
+00:00 to 00:05 shows a medium shot of the woman carefully piping white meringue peaks onto a lemon tart crust on a wooden counter while the man watches closely beside her.
+
+00:06 to 00:10 features a close-up tracking shot of the piping bag creating neat rows of meringue kisses across the top of the tart.
+
+00:11 to 00:16 captures the man wearing grey oven mitts lifting the tart tray and sliding it into a retro oven, closing the door as the woman looks on.
+
+00:17 to 00:18 is an internal oven shot of the man peeking through the glass window, watching the meringue tips toast to a golden brown.
+
+00:19 to 00:21 shows the man using oven mitts to pull the freshly baked, browned lemon meringue tart out and placing it onto a wooden cooling rack.
+
+00:22 to 00:24 is a close-up shot of a sliced piece of lemon meringue tart being served onto a vintage plate.
+
+00:25 to 00:30 captures a static wide shot of both sitting down at a retro dining table, picking up their forks, and taking a bite of the tart together.</code></pre>
+
+</details>
 
 ## Young Korean woman walking in rainy Seoul street, MiniDV home video style
 

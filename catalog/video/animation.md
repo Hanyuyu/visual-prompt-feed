@@ -1,9 +1,357 @@
 # Animation video prompts
 
-133 source-linked prompts, newest ImgLume records first.
+144 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic 3D Animated Fantasy Adventure with Boy and Dragons in Tropical Jungle
+
+- **Original source:** [@aaassa120 on X](https://x.com/aaassa120/status/2098468425421259070)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4079](https://imglume.com/prompt/4079)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1e9cd1c0-1bd7-47f8-a90d-a5a8e3285cfe/385a3459-1379-4a8f-bb16-d3f1f8390943-1789151831204 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic, high-quality 3D animated fantasy adventure scene in a lush tropical jungle near a beautiful tropical coastline. A cute young boy with messy dark hair and a small white baby dragon are playing together on giant green leaves, with the baby dragon holding a woven ball. Suddenly, a huge majestic green-and-gold dragon appears and flies overhead, creating a sense of excitement and danger. The boy runs through the jungle while the giant dragon follows him. He eventually hides inside a rocky cave with the little white dragon, both looking nervous as the enormous dragon approaches the cave entrance.
+
+The scene then shifts into a magical emotional moment: the giant dragon is revealed to be friendly, carrying the adorable white dragon on its back. The boy comes out of the cave and happily interacts with the dragons. End with the boy and the baby dragon sitting together beside a colorful round fruit on the sandy beach, smiling peacefully, while the majestic dragons stand in the background near the ocean.
+
+Style: premium cinematic 3D animation, adorable expressive characters, Disney/Pixar-inspired fantasy aesthetic, detailed dragon scales and fur, vibrant tropical vegetation, dramatic sunlight, realistic shadows, beautiful blue sky, cinematic depth of field, smooth character animation, dynamic camera movements, emotional storytelling, highly detailed environment, polished movie-quality rendering, 16:9, 4K....</code></pre>
+
+</details>
+
+## 12-second single-take white-model wizard workshop animation in Blender transformed with PixVerse
+
+- **Original source:** [@KylieHopkinsX on X](https://x.com/KylieHopkinsX/status/2098456467385024839)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4071](https://imglume.com/prompt/4071)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1912a045-5115-4938-babd-0dfe73e4a767/1f108d71-d858-4ebe-930b-16a5509a670c-1789147562612 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1912a045-5115-4938-babd-0dfe73e4a767/d3971139-68f6-4e83-bc12-cdf2e5e8b850-1789147562612 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 12-second, single-take white-model animation in Blender based on the attached reference image https://t.co/oEKq6hDALF, then use PixVerse with Seedance 2.5 to transform the exported animation into a cinematic, Witcher-3-inspired wizard workshop sequence. In Blender, use the reference image to guide the room layout, architecture, furniture, and props. Build an editable low-poly scene with clean meshes and UVs, using simple white or light-gray materials. Include stone walls, wooden shelves, an arched window, a fireplace, books, an astronomical instrument, and an alchemy table filled with potion bottles. Keep the silhouettes readable and the room proportions believable. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle resting near the lower-right edge while the character looks around the workshop and toward the window. Raise the potion naturally, pause to examine it, shift focus onto the bottle, then lower it while turning toward the fireplace and glowing reagents. Leave a small gap between the palm and bottle while maintaining believable fingertip contact. Use smooth changes in speed, gentle curved head movements, subtle breathing, and slight arm lag. Check the complete action at normal playback for clipping, awkward grip, abrupt turns, and excessive shaking. Keep the Blender fireplace simple: use logs, low embers, and flickering light. Avoid solid cones or flame-shaped meshes, which can be interpreted as glowing rocks. Prepare a separate fireplace detail from the reference image to guide the final appearance. Export the complete white-model MP4. Then generate a 12-second video with PixVerse, explicitly referencing the Blender-exported white-model video as the camera, action, and spatial reference, the attached image as the scene appearance reference, and the fireplace detail as the fire reference. Preserve the continuous shot, low viewpoint, single-hand potion action, room layout, and timing. Enrich the scene with weathered stone, carved wood, worn leather, iron fittings, and realistic glass. Combine cool window light and drifting dust with warm fireplace illumination and softly glowing magical liquids. Create natural wood fire with thin, irregular flames curling between charred logs, glowing embers, occasional sparks, and subtle smoke. Keep the hand anatomy, bottle shape, fire movement, and focus transitions consistent throughout. Review the full generated video, especially the hand action and fireplace. Deliver the white-model MP4, the PixVerse-rendered MP4, and the editable Blender project. After acceptance, retain the latest approved versions and move older versions to recoverable storage.</code></pre>
+
+</details>
+
+## Clip 1: Cracking Eggs
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2098365565781917862)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4065](https://imglume.com/prompt/4065)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c493a194-f24b-4121-9643-0ebac2ead877/9138eb19-db32-4c80-87a6-7ff2380be677-1789139313904 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cute amigurumi yarn doll with a brown hair bun and a purple knitted outfit holds a crocheted egg shell and cracks raw eggs into a dark grey knitted frying pan on a cozy stove. Glossy yellow yarn yolks gently settle into the pan, soft morning sunlight streaming through the window, 3D stop-motion animation, tactile wool textures, macro camera angle.</code></pre>
+
+</details>
+
+## Seedance 2.0 Video Scene Overview
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2098365565781917862)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4064](https://imglume.com/prompt/4064)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c1a14272-1299-4373-9928-768316fa464f/fa6802a5-65ad-4a73-86a0-6f397b7615ba-1789139313904 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Action: The doll is cracking eggs into a dark grey knitted frying pan on a crocheted stove top.
+Objects: Knitted eggs with glossy yellow yarn yolks, crocheted salt and pepper shakers labeled "SALT" and "PEPPER", yarn jars with labels like "Made with Love", and a cozy wooden backdrop illuminated by soft morning sunlight streaming through a window.
+Style: Macro tilt-shift photography, tactile wool and cotton yarn textures, highly detailed stitch patterns, stop-motion animation aesthetic, warm cozy aesthetic, depth of field, 8k resolution. --ar 9:16 --v 6.0</code></pre>
+
+</details>
+
+## Clip 2: Seasoning Close-Up
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2098365565781917862)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4063](https://imglume.com/prompt/4063)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5b20fee6-ae89-4d3b-852b-a8dfce6e30cc/5a17f587-ea6e-45bc-966d-ef08fb49806f-1789139313904 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Extreme macro shot, stop-motion animation style. An amigurumi yarn girl holds miniature crocheted shakers labeled "SALT" and "PEPPER", sprinkling tiny black and white beads over three fried yarn eggs sizzling in a knitted pan. Tactile wool details, warm cozy lighting, shallow depth of field.</code></pre>
+
+</details>
+
+## Clip 3: Plating the Food
+
+- **Original source:** [@MayaAiCreator on X](https://x.com/MayaAiCreator/status/2098365565781917862)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `food-drink`
+- **ImgLume record:** [4062](https://imglume.com/prompt/4062)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/207560ec-863b-4811-884b-63ec74fd13c9/f59ab5ec-9c45-4c54-a9a4-3095eddbd1a3-1789139313904 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Medium shot, stop-motion animation. The amigurumi girl uses a tiny wooden spatula to slide cooked yarn eggs from a dark grey crocheted pan onto a decorative knitted plate. Cozy kitchen backdrop filled with yarn jars and crocheted details, bright morning light, frame-by-frame tactile motion.</code></pre>
+
+</details>
+
+## Cute children's bedtime animation in realistic 3D style
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2098350907968918002)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4054](https://imglume.com/prompt/4054)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9cfda18e-b96d-46e4-ad09-56d64b56ee54/e90410b5-184f-4a3a-afb3-5ebd62ed78df-1789130970005 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute and entertaining children's bedtime animation, including audio, in an adorable, realistic 3D animated style based on the uploaded reference image. Use the Kling MCP and any skills or rules you find helpful. If the necessary resources aren't available locally, you may search online.</code></pre>
+
+</details>
+
+## Cute children’s bedtime animation with audio in realistic 3D style
+
+- **Original source:** [@QAiStudio on X](https://x.com/QAiStudio/status/2098266259041452209)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4022](https://imglume.com/prompt/4022)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4459bf8a-800f-4b3f-a371-23c9a020ef38/e1a30eff-cc04-4221-a705-931a4ec5b814-1789110410805 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute children’s bedtime animation with audio in an adorable, realistic 3D animated style based on the uploaded reference image. Use Kling MCP to bring the story to life with engaging visuals and sound.</code></pre>
+
+</details>
+
+## 30-second stylized 3D cinematic animation of mechanic repairing junk car in underground garage
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098103081200484757)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4020](https://imglume.com/prompt/4020)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1380a709-0112-4c75-8388-cb8a76063250/b867635b-79d7-44b6-be9e-3313fa674562-1789110374378 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second stylized 3D cinematic animation with exaggerated proportions and martial-arts-inspired mechanical choreography. Every movement follows pause → burst → lock, with aggressive precision and rhythmic energy.
+
+Character: A broad-shouldered mechanic in a grease-stained jumpsuit tied at the waist, heavy boots, gloves, and a loaded tool belt. He moves with total confidence and precise, explosive control.
+
+Car: A rusted, sputtering junker with a broken suspension, leaking oil, loose parts, and heavy black smoke.
+
+Setting: Dim underground garage, harsh halogen lights, deep shadows, metal tools and equipment surrounding the scene.
+
+0:00–0:05: Low-angle shot as the junker violently rattles onto the lift. The mechanic strikes the hood latch with a powerful palm strike. The hood flies open, releasing a massive cloud of black smoke.
+
+0:05–0:10: He dives into the engine bay, spins two socket wrenches like revolvers, and rapidly attacks the engine. Bolts and parts fly through the air and land perfectly in a magnetic tray.
+
+0:10–0:15: He rips out the leaking oil filter and throws it behind him. Without looking, he catches a new filter, spins it onto the engine, then grabs four spark plugs and launches them precisely into place before locking them down with rapid pneumatic-drill bursts.
+
+0:15–0:21: He snaps an oil rag across the engine like a whip, instantly revealing clean metal underneath. He makes several rapid adjustments, reconnects cables, tightens components, and slams the hood shut with a thunderous impact.
+
+0:21–0:26: The engine coughs violently, then suddenly comes alive. Rust flakes fall away as the junker transforms into a gleaming performance machine. Close-ups show pistons, belts, gauges, and a powerful supercharger activating.
+
+0:26–0:30: Hero wide shot. The rebuilt car roars under the garage lights. The mechanic calmly wipes grease from his cheek, spits out his toothpick, and lowers the lift. Finish with a deep engine rev.
+
+Style: High-end 3D animation, cinematic lighting, realistic mechanical physics, detailed metal and grease textures, dynamic camera movement, impactful sound timing, controlled choreography, consistent character and vehicle design. No distorted hands, duplicated tools, floating objects, or inconsistent geometry.</code></pre>
+
+</details>
+
+## Pixel-art meme animation sprite sheet prompt
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2098049016596729942)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4018](https://imglume.com/prompt/4018)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/eefaeabb-950f-4913-bfe8-c0fba552ec12/071dd28d-7812-4e4c-850d-76ce43253c62-1789108307600 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/eefaeabb-950f-4913-bfe8-c0fba552ec12/cf5b0b3f-b59f-407d-83d7-78f8f5ac6513-1789108307600 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Here's my prompt:
+
+Create a personalized pixel-art meme animation from the uploaded image. Deliver a 5×5 sprite sheet containing 25 frames and a transparent, seamlessly looping GIF.
+
+1. IDENTIFY THE INPUT
+
+If the uploaded image is a single meme or character reference:
+Use it to design and animate a recognizable pixel-art version of that character.
+
+If the uploaded image is already a 5×5 sprite sheet:
+Use its existing 25 frames, read left to right and top to bottom. Preserve the artwork rather than redrawing it unnecessarily. Assess whether the poses form a coherent animation before assembling the GIF.
+
+2. PRESERVE THE CHARACTER
+
+Preserve the character’s recognizable silhouette, colors, costume, proportions, and distinctive facial features.
+
+Keep the original expression throughout the animation. Do not add crying, tears, smiling, anger, exaggerated eyebrows, or other emotional changes unless requested or already present in the reference.
+
+Use crisp pixel art, a consistent pixel size, clean outlines, and a limited color palette. Avoid blur, inconsistent detail, and unwanted changes between frames.
+
+3. PERSONALIZE THE HUMOR
+
+Identify the traits that make this particular meme recognizable and funny. Build the motion around its anatomy, costume, expression, and personality.
+
+For example:
+- Short legs can take quick, energetic steps.
+- A bulky body can bounce gently with each stride.
+- Long ears, a tail, or a loose accessory can follow the main movement with a slight delay.
+- A deadpan character can maintain a completely unchanged expression while moving enthusiastically.
+
+Choose only the details that fit the uploaded character. Do not automatically add tears, sweat, props, or visual effects.
+
+Make the humor come primarily from movement while preserving the character’s identity.
+
+4. CHOOSE THE ACTION
+
+Requested action: RUNNING IN PLACE.
+
+If I specify another action, use that instead.
+If I explicitly ask you to choose, select a simple, funny action that suits this meme’s personality.
+
+Keep the character fully visible with a fixed camera angle and no camera movement.
+
+5. BUILD A COHERENT ANIMATION
+
+Create one continuous 25-frame animation cycle, not 25 unrelated poses.
+
+Keep the face, body shape, proportions, scale, lighting, and camera angle consistent. Maintain a stable horizontal body anchor while allowing intentional vertical movement.
+
+Prefer reusable body and limb layers or a stable character rig when appropriate. Avoid independently regenerating the entire character in every frame if that causes facial or body morphing.
+
+For running:
+- Alternate the legs naturally.
+- Include clear contact, compression, push-off, and flight phases.
+- Move each planted foot backward relative to the body during its ground-contact phase.
+- Lift and carry the recovering foot forward.
+- Swing the arms opposite the legs.
+- Add a small, rhythmic body bounce tied to the footsteps.
+- Let loose accessories follow the motion with restrained secondary movement.
+
+Keep the movement readable and appropriate to the character’s anatomy. Avoid random wobbling, foot sliding, sudden position changes, disconnected limbs, and excessive stretching.
+
+Sample one complete cycle at 25 evenly spaced moments. Do not duplicate the first frame as the final frame. The transition from frame 25 back to frame 1 should be as smooth as every other transition.
+
+6. HANDLE AN EXISTING SPRITE SHEET
+
+If the input is already a 5×5 sheet:
+- Divide it into five equal columns and five equal rows.
+- Extract all 25 cells in row-major order.
+- Preserve the original frame order unless there is clear evidence that another order is intended.
+- Place the frames on equal-sized canvases.
+- Correct accidental horizontal drift using a consistent torso anchor.
+- Preserve intentional body bounce.
+- Do not independently resize each sprite to fill its bounding box.
+
+Check whether the existing poses actually form a coherent motion cycle. Timing and alignment cannot fully repair inconsistent poses. If a smooth result requires redrawing or replacing frames, explain the specific limitation before making substantial changes to the supplied artwork.
+
+7. REQUIRE REAL TRANSPARENCY
+
+The final PNG must contain a real alpha channel. The GIF must contain actual transparent pixels.
+
+Do not paint a checkerboard into the image. Do not deliver a purple, green, white, or other solid background as if it were transparent.
+
+If a temporary background is needed:
+- Remove it before delivery.
+- Remove colored edge residue and halos.
+- Preserve interior details that share the background color, especially white facial fur and eye highlights.
+- When appropriate, remove only the background connected to the outside of the sprite.
+
+Do not present temporary extraction backgrounds as finished results.
+
+8. DELIVER THE FILES
+
+A. Transparent sprite sheet
+- PNG with real RGBA transparency.
+- Exactly 5 columns × 5 rows.
+- Exactly 25 sequential animation frames.
+- Left-to-right, top-to-bottom frame order.
+- Target size: 1280×1280 px.
+- Each cell: 256×256 px.
+- Consistent character scale and alignment.
+- Enough padding to prevent clipping.
+- No grid lines, labels, frame numbers, or watermark.
+
+B. Transparent animated GIF
+- 256×256 px.
+- All 25 frames.
+- Infinite looping.
+- Use the same frames as the delivered sprite sheet.
+- Choose timing appropriate to the action.
+- Start around 40 ms per frame for a running cycle, then adjust after previewing.
+- Use suitable transparency and disposal settings so previous frames do not leave trails.
+- Preserve crisp pixel edges during resizing and palette conversion.
+
+C. White-background GIF preview
+- The same animation composited onto white.
+- Clearly label this as a preview.
+- Keep it separate from the transparent deliverables.
+
+If processing an existing sheet, preserve its source resolution when useful and avoid unnecessary resampling. Use nearest-neighbor scaling whenever resizing pixel art.
+
+9. INSPECT BEFORE DELIVERY
+
+Inspect the assembled animation, not just the static sprite sheet.
+
+Verify:
+- The character remains recognizable.
+- The original expression is preserved.
+- The face and body do not morph.
+- The movement is continuous and readable.
+- The character does not jitter horizontally.
+- All body parts remain inside the frame.
+- The final-to-first transition is smooth.
+- All 25 frames are present.
+- Transparency is genuine.
+- No temporary background, colored fringe, or animation trails remain.</code></pre>
+
+</details>
+
+## Explainer video about Odysseus's journey in claymation style
+
+- **Original source:** [@Caden_Flux on X](https://x.com/Caden_Flux/status/2098097531851047001)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4003](https://imglume.com/prompt/4003)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c082f63-5b6c-49d7-b542-ae9927f7ec57/cc6dc596-f8ac-4afc-a3ba-af261ac53783-1789072689806 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Help me create an explainer video about Odysseus's journey in a claymation style. Use the Kling MCP and any skills or rules you find helpful. If the necessary resources aren't available locally, you may search online.</code></pre>
+
+</details>
 
 ## 2D Anime Continuous Dance Animation Prompt
 

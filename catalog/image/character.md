@@ -1,9 +1,26 @@
 # Character image prompts
 
-133 source-linked prompts, newest ImgLume records first.
+134 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Beautiful woman with jeweled smartphone, cat, and pastel graffiti background
+
+- **Original source:** [@JinxLovesCats on X](https://x.com/JinxLovesCats/status/2098124250770972767)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4042](https://imglume.com/prompt/4042)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/def65656-c606-4248-915d-a356380692dd/0a7ff015-d8c0-46dc-8b54-1b0c7c62498d-1789126554477 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>beautiful woman, pink aqua yellow blue ombre hair, holding a smart phone that is bejeweled with beautiful pink, aqua, yellow, and light blue. She is with a cat. Beautiful pastel graffiti behind her. --ar 3:4 --v 8.2</code></pre>
+
+</details>
 
 ## 4×4 Character Dance Pose Grid Prompt
 

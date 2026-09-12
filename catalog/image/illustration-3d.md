@@ -1,9 +1,60 @@
 # Illustration 3d image prompts
 
-81 source-linked prompts, newest ImgLume records first.
+84 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cinematic 3D animated close-up selfie of a young couple under cherry blossom trees
+
+- **Original source:** [@iam_mian7 on X](https://x.com/iam_mian7/status/2098436926462427502)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `illustration-3d`
+- **ImgLume record:** [4080](https://imglume.com/prompt/4080)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/289900b6-202d-4762-acfc-99323cedcfaf/f66c35fc-1828-4328-a592-9c1dffa4abeb-1789151847817 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic 3D animated close-up selfie of a young couple under blooming cherry blossom trees. A handsome teenage boy with messy dark brown wavy hair, large round black-rimmed glasses, warm brown eyes, and a gentle smile leans his head against a pretty girl. He wears a camel-beige overcoat over a dark navy sweater and holds a black smartphone out in front of them with his right hand. The girl has long dark brown hair with soft bangs, large expressive brown eyes, and a shy sweet smile. She wears a navy school blazer, white collared shirt, and a red plaid bow tie, and holds a single red rose near her chest. Soft pink cherry blossom petals fill the background, warm golden-pink spring light, shallow depth of field, Pixar-style 3D animation, highly detailed faces, romantic and tender mood, photorealistic 3D render.</code></pre>
+
+</details>
+
+## Charming 3D puzzle-piece travel scene
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098301205365850272)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [4044](https://imglume.com/prompt/4044)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/796a466e-f50d-4858-92e5-53e338c3a0a5/d35a6250-3987-44af-811c-88bfee02fcfc-1789126601135 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/796a466e-f50d-4858-92e5-53e338c3a0a5/28a91583-9b01-4ea7-bf9c-9717f17e652a-1789126601135 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/796a466e-f50d-4858-92e5-53e338c3a0a5/e6c20a8e-e6ae-4a0c-97a1-1ff98979a17f-1789126601135 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/796a466e-f50d-4858-92e5-53e338c3a0a5/9dbce4dd-0bc7-4cae-afbc-6b8369090e6c-1789126601135 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming 3D puzzle-piece travel scene of [CITY, COUNTRY], designed as a single cohesive miniature world. Build the city from beautifully interlocking puzzle pieces, with [ICONIC LANDMARK] as the central focal point. Surround it with recognizable local architecture, streets, trees, transportation, landscape, and small cultural details. Make the puzzle pieces slightly raised with visible seams, rounded edges, layered depth, and soft realistic shadows. Use a sophisticated palette inspired by the city, subtle handcrafted textures, warm studio lighting, clean cream background, playful yet premium collectible-diorama aesthetic. Add elegant 3D lettering: “[CITY]” and underneath “[COUNTRY] • [FAMOUS FOR]”. Highly polished, cute, artistic, detailed, and instantly recognizable.</code></pre>
+
+</details>
+
+## Highly detailed mixed-media digital illustration with burnt orange palette
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2098265465026195699)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [4035](https://imglume.com/prompt/4035)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9e29514e-327f-4f41-bb25-10d554f405a3/ca19393c-33ed-429c-8d0a-b00ba7037046-1789118499364 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/9e29514e-327f-4f41-bb25-10d554f405a3/dd316296-ceb1-4173-af62-6f29835ff46a-1789118499364 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/9e29514e-327f-4f41-bb25-10d554f405a3/86c06f34-b7fb-43d4-9341-e14bd0f37c13-1789118499364 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Created to match the attached photo 100%! Transformed into a highly detailed mixed-media digital illustration style with a semi-realistic aesthetic and bold graphic composition; background of deep black and dark charcoal gray featuring a dominant color palette of burnt orange, amber, golden ochre, and metallic copper; subtle blue-teal accents for contrast; dramatic high-contrast lighting; cinematic sheen; layered abstract geometric elements; expressive paint splatters; ink textures; halftone patterns; intricate line work; decorative vector layers; premium editorial illustration aesthetic; semi-realistic painterly rendering; glossy metallic luster; luxurious warm color gradients; dynamic visual rhythm; deep shadows; highly detailed textures; sharp edges; museum-quality digital artwork; razor-sharp focus; volumetric lighting; sophisticated artistic composition; premium concept art; high-end illustration; HDR; 8K; masterpiece; vibrant warm tones; elegant visual storytelling; incredible depth; refined brushstrokes; immersive visual experience; professional gallery-quality finish. _ _ar 9:16!</code></pre>
+
+</details>
 
 ## Premium Instagram Travel Campaign Prompt for \[LOCATION\]
 
