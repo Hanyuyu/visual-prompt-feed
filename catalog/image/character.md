@@ -1,9 +1,264 @@
 # Character image prompts
 
-134 source-linked prompts, newest ImgLume records first.
+139 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hand-drawn editorial portrait illustration
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2098637009191604686)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4137](https://imglume.com/prompt/4137)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ec75a8df-ca4a-4d1a-8a99-2fd56dd2465b/d1169241-8aea-438e-9ad5-e586bdac396d-1789214468056 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ec75a8df-ca4a-4d1a-8a99-2fd56dd2465b/12f8b51c-f693-4e6e-9da8-0cf52dd3a198-1789214468056 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ec75a8df-ca4a-4d1a-8a99-2fd56dd2465b/f9442825-3223-4e3e-8115-ad69dfa5658f-1789214468056 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ec75a8df-ca4a-4d1a-8a99-2fd56dd2465b/ddebe1da-a272-4984-bfef-8e242aab4d06-1789214468056 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Hand-drawn editorial portrait illustration, semi-realistic sketch style, fine ink linework, cross-hatching shading, textured pencil strokes, subtle watercolor wash, muted earthy color palette, warm tones, soft paper grain texture, vintage magazine illustration aesthetic, clean centered composition, minimal background with bold geometric color block, rough brush edges, natural skin texture rendering, soft shadow gradients, high detail facial features, artistic sketch-paint hybrid, modern retro illustration style, matte finish, subtle grunge texture, professional editorial artwork.</code></pre>
+
+</details>
+
+## Ultra-detailed 3D animated otter drinking iced coffee in modern office
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `illustration-3d`
+- **ImgLume record:** [4111](https://imglume.com/prompt/4111)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bed07c3d-7cfd-4996-9017-42b713bdaada/743988ef-8ba2-448b-adaa-78dc8519178d-1789193452172 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bed07c3d-7cfd-4996-9017-42b713bdaada/49d3a835-06fb-4610-b605-e5baf25c78ee-1789193452172 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.
+
+Place the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.
+
+Set the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.
+
+Make the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.
+
+Important: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy.</code></pre>
+
+</details>
+
+## Chibi character sticker sheet generation prompt
+
+- **Original source:** [@Mayz1169 on X](https://x.com/Mayz1169/status/2098434990270988292)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4095](https://imglume.com/prompt/4095)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/048823f8-fb87-431f-8476-12378ead765b/5d418c5e-d925-420b-b08c-2947d975fecc-1789168280576 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/048823f8-fb87-431f-8476-12378ead765b/1c4d7b00-3e95-43c0-9283-f77f7519e20d-1789168280576 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/048823f8-fb87-431f-8476-12378ead765b/92c964b3-3d4d-4a33-adfb-484ead09c195-1789168280576 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded character image to create 16 personalized chibi chat stickers in a 4×4 grid, plus a white-background GIF slideshow and individual PNG files.
+
+CHARACTER IDENTITY
+Preserve the character’s recognizable hairstyle, hair color, eyes, outfit, accessories, and signature colors across all 16 stickers.
+
+If I identify a fictional character, reflect their established personality without inventing lore or presenting original captions as official quotes. If the character is unknown, use their visual design as a creative personality cue. Prioritize any personality details I provide.
+
+EVERYDAY CHAT COMES FIRST
+These stickers should be useful in ordinary conversations with friends—not character posters, promotional slogans, or dramatic monologues.
+
+First choose a familiar conversational purpose, then adapt its wording and expression to the character.
+
+Cover a balanced selection of:
+greetings, agreement, refusal, thanks, apologies, laughter, confusion, surprise, affection, encouragement, celebration, waiting, tiredness, frustration, playful teasing, and saying goodbye.
+
+Create short, natural English captions, usually 1–4 words. Use wording that English speakers would actually send in a casual chat.
+
+Examples of the desired naturalness include:
+“Hey!”, “Got it!”, “Nope.”, “Thank you!”, “My bad.”,
+“Wait, what?”, “Seriously?”, “You got this!”, “Not today.”,
+“On my way!”, “Need a break.”, and “Talk later!”
+
+These are examples, not a fixed caption list. Choose captions that fit this character and the expressions you create.
+
+PERSONALITY WITHOUT AWKWARD DIALOGUE
+Express the character’s personality mainly through facial expressions, gestures, posture, and tone.
+
+For example:
+• A proud character can say “Nailed it!” with a smug smile.
+• A shy character can say “Thank you!” while blushing.
+• A dramatic character can say “Seriously?!” with an exaggerated reaction.
+• A reserved character can say “Got it.” with a subtle nod.
+
+At least 12 of the 16 stickers should work in common everyday conversations. Up to 4 may include recognizable character interests or gentle fandom references, as long as they still have a clear conversational use.
+
+ART STYLE
+Use polished big-head chibi anime sticker illustrations:
+expressive glossy eyes, soft cel shading, clean outlines, and cute, readable gestures.
+
+Preserve recognizable character details while simplifying them for small sticker sizes. Use mostly chest-up compositions.
+
+Add thick white die-cut borders with a subtle light-gray outer outline. Use a solid pure-white background.
+
+Match each expression and gesture to its caption. Make all 16 reactions visually distinct. Use small decorative symbols sparingly and keep them relevant.
+
+TEXT AND LAYOUT
+Arrange exactly 16 complete stickers in 4 equal rows and 4 equal columns.
+
+Place one English caption above each character in large, readable, playful lettering. Use colors that complement the character’s palette.
+
+Keep the entire caption, character, hands, hair, accessories, props, and sticker border inside its own cell with generous white margins.
+
+No overlapping cells, cropped elements, grid lines, numbering, watermarks, or extra text.
+
+DELIVERABLES
+1. One PNG containing the complete 4×4 sticker sheet.
+2. A ZIP containing all 16 stickers as separate PNG files.
+3. One GIF cycling through the 16 stickers in reading order, holding each for approximately 1.2 seconds and looping continuously.
+
+Use identical canvas dimensions and consistent positioning for all GIF frames.
+Every frame must have an opaque pure-white background.
+Explicitly disable transparency and preserve pure white in the GIF palette.
+The GIF should be a sticker slideshow, not a continuous character animation.
+
+FINAL CHECK
+Before delivery, inspect:
+• Natural English and correct spelling.
+• Practical everyday uses and varied conversational meanings.
+• Clear agreement between captions and expressions.
+• Consistent character identity and correct anatomy.
+• Complete text and sticker borders.
+• Clean individual crops without neighboring sticker fragments.
+• A genuinely white, nontransparent GIF background.
+
+Proceed with sensible creative choices without asking me to select every caption. Briefly explain the personality direction, then provide the finished files.
+
+If GIF export or file extraction is unavailable, clearly state the limitation. Do not present a still image as an animated GIF.</code></pre>
+
+</details>
+
+## Autumn Illustrated Sticker Transformation Prompt
+
+- **Original source:** [@Aneeza__S on X](https://x.com/Aneeza__S/status/2098457814507422182)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4092](https://imglume.com/prompt/4092)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/91c93866-d7f9-4dc7-a33b-7eb44ab4623f/d17a3b59-54ea-4e9e-a06b-97e7bcef688c-1789164075698 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the uploaded photo into a charming AUTUMN ILLUSTRATED STICKER.
+
+IMPORTANT — USE THE UPLOADED PHOTO AS THE CONTENT REFERENCE:
+First analyze what is actually present in the original photograph: the person or people, animals, objects, clothing, hairstyle, pose, facial expression, interaction between subjects, surroundings, lighting and distinctive details.
+
+Recreate THIS specific photograph as a completely hand-drawn animated-style illustration.
+
+The final result must NOT look like an edited photograph, photo filter or realistic portrait. Completely redraw the main subject and all important foreground elements as a polished digital illustration.
+
+STICKER TRANSFORMATION:
+Turn the main subject or group of subjects into one large die-cut sticker.
+
+Create a thick, smooth white sticker border around the entire silhouette, including important accessories and decorative elements that belong to the sticker.
+
+Add a very subtle soft shadow underneath the white border so the sticker feels like a real physical vinyl or paper sticker placed over the original scene.
+
+Keep the original background from the uploaded photograph visible BEHIND the sticker.
+
+Slightly soften, simplify or gently blur the original background if necessary so the illustrated sticker clearly stands out, but preserve enough of the environment that the original location remains recognizable.
+
+Do not keep a realistic photographic face. The face must also become illustrated.
+
+If the photo contains an animal, transform the animal completely into a cute animated illustrated character while preserving its recognizable breed/type, colors, markings, proportions, pose and personality.
+
+ILLUSTRATION STYLE:
+Use a cozy modern digital illustration aesthetic inspired by premium stationery, seasonal stickers and charming editorial character art.
+
+Avoid photorealism, 3D rendering, plastic-looking characters, generic Disney-like characters or childish clip-art.
+
+AUTUMN TRANSFORMATION:
+Give the sticker a strong but tasteful autumn identity.
+
+Analyze the original photograph and creatively choose autumn details that naturally fit the subject instead of adding exactly the same decorations to every image.
+
+You may partially redesign the original clothing into a more autumnal version if it improves the result, while keeping the person's overall identity and personality recognizable.
+
+Use an autumn palette inspired by burnt orange, rust, terracotta, cinnamon, caramel, warm brown, muted mustard, cream, beige and deep burgundy.
+
+DECORATIVE STICKER ELEMENTS:
+Integrate several small illustrated autumn elements around the main character INSIDE or attached to the sticker silhouette.
+
+For example, leaves can float beside the character, appear in their hair, peek from behind their shoulders or interact with objects they are holding.
+
+Do not scatter random decorations everywhere. Make them feel intentionally composed around the original pose.
+
+Add tiny hand-drawn details such as dots, speckles, sparkles or delicate texture where appropriate.
+
+COMPOSITION :
+Preserve the general storytelling and pose of the original photograph, but feel free to simplify or slightly adjust the composition to create a stronger sticker silhouette.
+
+The sticker should be the clear visual focus and occupy a substantial part of the image.
+
+Do not simply draw a white outline around the original photograph.
+
+The transformation must be obvious:
+PHOTO → FULLY ILLUSTRATED AUTUMN CHARACTER → DIE-CUT STICKER.
+
+Keep the original photographic background behind it so the contrast between the real environment and illustrated sticker is clearly visible.</code></pre>
+
+</details>
+
+## Ultra-realistic late-night smartphone snapshot of a female character in Tokyo
+
+- **Original source:** [@frametheory058 on X](https://x.com/frametheory058/status/2098413109258207670)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [4089](https://imglume.com/prompt/4089)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bc7488e3-103e-450e-b3c8-4127d3ac6ded/fcaa002d-1ece-4c4e-84c2-14521aa5505c-1789159921203 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bc7488e3-103e-450e-b3c8-4127d3ac6ded/32ff13e6-e241-423c-a773-480b3c7c3d46-1789159921203 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Ultra-realistic late-night smartphone snapshot, 9:16 vertical.
+
+Use the reference only to establish the same fictional female character’s overall appearance and continuity. Keep her recognizable across the series with the same dark-brown wavy hair, natural features, black fitted sleeveless tank top, loose high-waisted light-blue jeans, small gold hoop earrings, delicate necklace, white sneakers, and small black shoulder bag.
+
+Scene:
+A quiet Tokyo side street late at night after light rain. She walks beside an off-white ceramic-tiled building while distant convenience-store lights, traffic signals, parked bicycles and small Japanese storefronts softly disappear into the darkness. Wet pavement catches scattered reflections.
+
+New candid moment:
+Photograph her from a slightly low rear three-quarter angle, about two steps behind her. She has just slowed down and casually turns only her upper body toward the camera while continuing forward. One hand is loosely tucking windblown hair behind her ear while the other hangs naturally beside her bag.
+
+She looks toward the camera from the corner of her eyes with a tiny closed-mouth smile, as though she noticed her friend taking another photo and is trying not to laugh.
+
+No deliberate fashion pose. No exaggerated expression. Her shoulders remain relaxed, hips and legs naturally positioned from walking, with one foot caught halfway through the next step.
+
+Camera:
+Modern smartphone rear camera with direct flash. Photographer walking at the same time, creating subtle accidental camera shake. Slight motion blur around her hair, moving leg and fingertips, while her eyes remain just barely readable. Mild rolling-shutter distortion, imperfect autofocus, slight edge softness and realistic digital noise.
+
+Composition should feel accidental: her body sits slightly off-center, a little too much empty darkness on one side, with part of her shoe approaching the bottom edge of frame.
+
+Flash &amp; exposure:
+Hard direct phone flash illuminates her face, shoulder, black top and denim while the street behind her falls rapidly into darkness. Slightly overexposed skin highlights, hard natural shadow against the tiled wall, shiny flash reflections on individual hair strands and subtle denim texture. Distant lights bloom and smear naturally.
+
+Aesthetic:
+Raw Pinterest night-photo-dump energy. Intimate, youthful, spontaneous and imperfect. It should look like a friend took the photo during a random Tokyo night walk—not a photographer conducting a photoshoot.
+
+Real pores, tiny skin variations, flyaway hairs, natural fabric wrinkles, realistic body proportions and ordinary smartphone processing.
+
+Absolutely no: studio lighting, cinematic teal-orange grading, professional bokeh, fashion-editorial posing, perfect symmetry, airbrushed skin, artificial beauty retouching, HDR look, DSLR sharpness, staged composition, AI-perfect anatomy or polished commercial photography.
+
+The final result should feel like an unexpectedly beautiful photo hidden among 30 messy pictures from the same night.</code></pre>
+
+</details>
 
 ## Beautiful woman with jeweled smartphone, cat, and pastel graffiti background
 

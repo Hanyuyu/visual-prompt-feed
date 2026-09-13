@@ -1,9 +1,103 @@
 # Camera Moves video prompts
 
-151 source-linked prompts, newest ImgLume records first.
+154 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Low ocean wave to top-down cliff view cinematic camera motion
+
+- **Original source:** [@umesh_ai on X](https://x.com/umesh_ai/status/2098471401082810384)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`
+- **ImgLume record:** [4158](https://imglume.com/prompt/4158)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6a54660-3f2c-43c3-8a7e-1aee3101b3ff/3ce1fae1-a3f9-42a6-9b1b-a94dcbc72f0b-1789233377875 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>The camera begins very low near the surging ocean waves, close to the water’s surface, as the sea crashes violently against the jagged rocks. It then shoots upward very fast in a smooth, continuous cinematic motion, rapidly climbing along the rugged cliffside and rising higher and higher at speed. The ascent should feel powerful, direct, and dramatic, with a strong sense of rapid vertical movement and increasing scale. The camera keeps rising fast until it reaches a very high position directly above the lone man standing at the cliff’s edge. From this extreme top-down view, the camera looks straight down at him, clearly showing the top of his head, while keeping both the cliff and the crashing sea waves visible in the frame. Bright sunlight illuminates the entire scene with crisp, clear visibility, vivid natural colors, sparkling water, and sharply defined rock textures under a clear blue sky. The overall visual feels cinematic, expansive, and powerful, with dramatic speed, great height, and a striking sense of scale.</code></pre>
+
+</details>
+
+## 15-Second Ultra-Realistic Live Water Game Show Scene
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2098621065039647016)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [4139](https://imglume.com/prompt/4139)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d075ef2b-aaf2-49a2-9b1e-d78651ef7216/6d372ff5-bd05-4f83-b035-6663922a91c3-1789214540697 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-Second Ultra-Realistic Live Water Game Show Scene
+
+Create a high-energy live television water game show, filmed like a premium international sports-entertainment broadcast. A confident young female contestant competes on a huge outdoor obstacle course above a massive swimming pool. Large audience stands, other contestants, cheering, dramatic stadium lighting, multiple broadcast cameras, realistic water physics, and authentic live-TV atmosphere.
+
+0–3 sec — Game 1:
+She races across floating platforms, jumping quickly from one platform to another while the audience and contestants cheer. She nearly slips but regains balance and reaches the checkpoint.
+
+3–6 sec — Game 2:
+She immediately faces a rotating obstacle and carefully times her movement, ducking under the spinning bar and climbing over a wet ramp. She lands safely, visibly determined.
+
+6–9 sec — Game 3:
+She tackles a narrow balance beam above the pool while moving toward the final platform. The camera cuts between her focused face, nervous contestants watching, and the cheering crowd.
+
+9–12 sec — Game 4 / Near Victory:
+She is only one step away from the finish platform, reaching toward the victory marker. At the last moment, the final obstacle suddenly moves, causing her to lose balance and fall dramatically into the pool. Capture a realistic splash in slow motion as the crowd reacts.
+
+12–15 sec — Emotional Ending:
+She resurfaces in the pool, clearly frustrated and disappointed. The other contestants look genuinely sad and shocked for her, some shaking their heads sympathetically. She angrily slaps the surface of the water several times, creating dramatic splashes, then looks toward the finish platform with determination. End on a close-up of her frustrated expression as the live-TV camera pulls back.
+
+Visual style: photorealistic, authentic live game-show broadcast, realistic human movements, natural facial expressions, physically accurate water and obstacle reactions, dynamic handheld and crane-camera shots, quick professional TV editing, crowd reactions, dramatic but realistic lighting, 4K HDR, no CGI-looking characters, no artificial/fake appearance, no text or subtitles, no watermark.</code></pre>
+
+</details>
+
+## 23-second ultra-cinematic dark fantasy battle sequence
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2098622086608773436)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [4138](https://imglume.com/prompt/4138)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4196d0c3-9b06-42df-aa78-6f78d7deafd5/940facc1-a93e-4be2-a1cd-4973bbf51735-1789214513056 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 23-second ultra-cinematic dark fantasy battle sequence, photorealistic, high-budget fantasy film aesthetic, 16:9 widescreen.
+
+SCENE 1 — 0–3 seconds
+Start behind a mysterious white-haired female warrior standing alone before an enormous battlefield. She has long silver-white hair flowing naturally in the wind, dark medieval leather and metal armor, and a sword strapped across her back. In front of her is a gigantic army covering the battlefield. Ruined medieval towers and cathedral-like structures appear in the distance. The sun is low on the horizon, creating powerful golden backlight through thick smoke and dust. Slow cinematic camera push-in from behind her, shallow atmospheric haze, realistic wind movement, epic scale.
+
+SCENE 2 — 3–6 seconds
+Suddenly transition into intense action. The warrior rapidly launches herself forward into combat. Dynamic low-angle tracking shot as she moves through flying sparks, smoke and debris. Her sword catches the warm sunlight as she swings it with tremendous speed. Use realistic motion blur, flying embers, dust particles and detailed metal reflections. The camera follows her movement aggressively while maintaining cinematic composition.
+
+SCENE 3 — 6–9 seconds
+Show the warrior fighting a large armored enemy on the battlefield. She performs a powerful sword strike while the enemy attacks with heavy force. Sparks explode when the weapons collide. The ground is muddy, damaged and covered with rubble. Burning objects and small fires surround them. Use handheld-style cinematic camera movement during the impact, then briefly slow down the action for dramatic emphasis.
+
+SCENE 4 — 9–12 seconds
+The warrior lands heavily on the battlefield after the attack. Show her armored body close to camera as dust and smoke roll around her. Her silver hair moves in the wind. She slowly rises with her sword ready. Behind her, the ruined medieval city is silhouetted against a huge golden sunset. Strong volumetric lighting, atmospheric perspective and realistic environmental detail.
+
+SCENE 5 — 12–15 seconds
+Cut to an intense close-up of the warrior's face. Her expression is fierce, focused and determined. Silver-white hair partially frames her face. Her eyes remain locked on an approaching enemy. Warm sunset light illuminates one side of her face while the other side remains darker and dramatic. Extremely detailed skin, realistic eyes, subtle breathing and natural facial movement. Cinematic depth of field.
+
+SCENE 6 — 15–18 seconds
+Reveal the enormous enemy army advancing toward her. Hundreds or thousands of dark, battle-worn humanoid figures move across the ruined battlefield. Smoke, dust and embers fill the air. The camera slowly pulls backward and upward, revealing the enormous scale of the army and the tiny warrior standing alone in front of them. Massive ruined towers rise in the background.
+
+SCENE 7 — 18–21 seconds
+The warrior stands completely still as the battlefield around her becomes increasingly chaotic. Cracks and glowing embers appear across the damaged ground. Smoke drifts past the camera. The sunset burns brightly behind the ruined city. Use a slow 360-degree cinematic camera movement around the warrior, emphasizing her isolation and strength. Wind moves her cape, hair and clothing naturally.
+
+SCENE 8 — 21–23 seconds
+Finish with an extremely wide establishing shot. The warrior stands alone in the center of the devastated battlefield while the enormous ruined city and burning horizon stretch behind her. Dust and smoke slowly drift through the golden light. The camera gradually pulls farther away until the character becomes small within the gigantic environment. End on a powerful cinematic still frame and fade subtly to black.</code></pre>
+
+</details>
 
 ## Abandoned station to train crossing moon and space
 

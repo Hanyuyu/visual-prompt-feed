@@ -1,9 +1,72 @@
 # Cinematic image prompts
 
-68 source-linked prompts, newest ImgLume records first.
+70 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Epic Dark Fantasy Screenshot: Female Archangel in Moonlit Ruins
+
+- **Original source:** [@AiwithSaif7 on X](https://x.com/AiwithSaif7/status/2098623698773196856)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4126](https://imglume.com/prompt/4126)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/06a6fd91-0536-4e0b-ba72-9f8891253866/51450bcc-4886-4cf9-a7e2-c2ac1768223c-1789201875732 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Epic dark fantasy screenshot, a female archangel warrior in a blood-splattered white dress standing in ancient stone ruins under a full moon. She has glowing white eyes, a luminous halo, and massive magnificent white wings fully spread out. She holds a vertical staff of blinding white light touching the ground. Massive pillars of celestial light beam down into a circular courtyard surrounding her, dark fantasy mood, hyper-realistic detail, 8k resolution, cinematic film still. --ar 16:9</code></pre>
+
+</details>
+
+## Vertical 4:5 cinematic travel-diary poster of a family moment in Santorini
+
+- **Original source:** [@frametheory058 on X](https://x.com/frametheory058/status/2098253373237875074)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`, `poster-design`, `travel`
+- **ImgLume record:** [4098](https://imglume.com/prompt/4098)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/bd11b6dc-4458-44f9-bbd8-9c5d3b332403-1789170366242 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/3010cb9a-8691-4510-a7e1-dd8eea17b27b-1789170366242 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/23f51ea0-d805-4a14-93f6-24e4963fbcfd-1789170366242 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 4:5 cinematic travel-diary poster built around one beautiful family moment in Santorini, Greece.
+
+TOP — REAL PHOTOGRAPHY:
+A young couple with their little daughter at a scenic Santorini viewpoint during golden-hour sunset. The daughter is naturally positioned between her parents while both parents gently kiss her cheeks at the same time. She closes her eyes and gives a genuine happy smile. Make the interaction spontaneous, affectionate and completely natural — like a real family vacation photograph, not models posing for an advertisement.
+
+Behind them: iconic white Santorini architecture, blue-domed churches, Mediterranean Sea, distant cliffs, small boats and vibrant bougainvillea. Warm sunset light wraps naturally around their faces and hair. Real skin pores, tiny imperfections, realistic hair strands, accurate hands, natural fabric texture and believable shadows. Shot like a premium full-frame travel photograph, 35mm lens, shallow but realistic depth of field, cinematic dynamic range. Absolutely photorealistic — no AI-looking skin, excessive HDR, plastic faces or artificial expressions.
+
+Keep generous negative space around the subjects for subtle editorial typography. Add only a few refined details such as:
+“TRAVEL DIARY”
+“Sept 11, 2026”
+“SANTORINI — GREECE”
+and one small handwritten travel note.
+
+BOTTOM — HAND-PRINTED MEMORY:
+Instead of simply duplicating the photograph, reinterpret the same family moment as an original vintage travel-print artwork. Use imperfect screen printing, risograph dots, engraved linework, faded ink, rough edges and authentic paper grain on warm ivory stock.
+
+Build the Santorini landscape around the family as a graphic illustration: simplified blue domes, cliffside houses, sea, sunset and bougainvillea integrated naturally into the composition. Limited ink palette of deep Mediterranean navy, sun-faded terracotta orange, warm ivory and tiny touches of dusty blue.
+
+Use a large expressive hand-painted title:
+“MORE GOOD DAYS”
+
+Surround it with only a few carefully placed diary elements: a Santorini postal stamp, tiny handwritten notes, one or two taped miniature travel photographs and “A SMALL DIARY — #001.” Keep everything intentionally imperfect and tactile rather than digitally clean.
+
+The transition between photography and illustration should feel like a torn page from a personal travel journal rather than a basic 50/50 split.
+
+Overall aesthetic: real family vacation photography × independent travel magazine × vintage European tourism poster × handmade screen print.
+
+Warm, intimate, nostalgic and premium. Strong enough to stop someone while scrolling, but never overcrowded. The photograph must feel genuinely captured in real life, while the lower artwork feels physically printed by hand.
+
+No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessive stickers. No fantasy. No fake-looking faces. No malformed hands. No waxy skin. No over-saturation. Keep all three family members consistent between the photographic and illustrated sections.</code></pre>
+
+</details>
 
 ## Cinematic 3D animated close-up selfie of a young couple under cherry blossom trees
 

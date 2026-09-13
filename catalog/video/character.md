@@ -1,9 +1,81 @@
 # Character video prompts
 
-126 source-linked prompts, newest ImgLume records first.
+128 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Curiosity-driven character vignette prompt
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2098771179808940415)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [4160](https://imglume.com/prompt/4160)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c817ccaf-afe2-4778-aa5c-c908541211f6/902cb9ca-6b07-449c-b7a7-9887e449adbf-1789233438632 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a curiosity-driven character vignette built from 10–15 short cuts around the character from Image1.
+
+Preserve the character’s identity, visual style and overall design. Infer its nature and world directly from Image1.
+
+Open with an immediately intriguing visual situation that creates a simple unanswered question. Build the following cuts around discovery, reaction, progression and small consequences. Each cut should introduce a new visual idea while clearly advancing the same underlying situation.
+
+Let the character reveal itself through behavior rather than exposition. Use its movement, instincts, habits, abilities, limitations, relationships and interaction with the surrounding world to make the sequence increasingly interesting.
+
+Keep the narrative simple enough to understand without dialogue. Create visual cause and effect between cuts. Allow details introduced early to gain meaning later. Build toward a clear reveal, reversal, transformation, emotional beat or satisfying visual payoff near the end.
+
+Avoid generic daily routines, disconnected montage imagery and repetitive actions. Do not force familiar human behavior onto the character or world. Let the situations emerge naturally from the reference.
+
+Make every few seconds visually distinct through changes in scale, framing, environment, movement, tension and information. Maintain strong continuity so the viewer wants to see what happens next.
+
+Use objective third-person cinematic observation with natural handheld imperfection and varied shot sizes. Keep the camera readable, responsive and visually motivated.
+
+Use only clean diegetic sound. No dialogue, narration, BGM, subtitles or title cards.</code></pre>
+
+</details>
+
+## Young Korean woman in rainy Seoul apartment, MiniDV style video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098745692005056517)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [4159](https://imglume.com/prompt/4159)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5ca979cf-b0e8-4e8b-83a5-76e78583c6f0/bbd8a875-962e-471a-b6ec-e53f8df31bd2-1789233415045 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized faded lavender T-shirt and loose gray lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment bedroom during a cold, rainy early morning. Simple bed, wooden dresser, small chair, folded clothes and a large rain-covered window overlooking blurred neighboring apartment buildings. Steady rain falls outside.
+
+Lighting &amp; Atmosphere: Cozy, dark blue-hour ambience. Cold blue-gray light coming through the rainy window, with only a very weak warm lamp illuminating part of the room. Heavy cloudy sky, muted colors, soft shadows, slightly underexposed interior and a quiet sleepy atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged, like a family member casually filming her at home. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands near the rainy window looking outside. A cool draft comes through the slightly open window. She instinctively rubs her bare arms and shoulders, visibly feeling the cold.
+
+00:04–00:07: She gives a small shiver and looks toward a chair where a soft knitted shawl is resting. She reaches for it without saying anything.
+
+00:07–00:10: She wraps the shawl comfortably around her shoulders, pulling it snugly around herself with both hands.
+
+00:10–00:13: Her expression immediately relaxes. She closes her eyes for a brief moment and lets out a quiet, satisfied sigh of relief, enjoying the warmth.
+
+00:13–00:15: She opens her eyes and notices the camcorder. She gives a tiny warm smile while holding the shawl close, then turns back toward the rainy window as the camera gently drifts and cuts.
+
+Audio: Natural sound only—steady rain against the window, faint wind entering through the window, soft fabric movement, subtle footsteps, distant traffic, quiet apartment ambience and her natural quiet sigh. No music, narration or added sound effects.
+
+Goal: Feel like a tiny ordinary moment accidentally captured on an early-2000s family MiniDV camera. Cozy, intimate and comforting. The contrast between the cold rainy morning and the warmth of the shawl should be immediately noticeable. Her sigh of relief should feel completely natural and understated.
+
+Motion quality: Keep all character and camera movement smooth, continuous and physically realistic. No sudden movements or exaggerated shivering. The vintage MiniDV aesthetic must come from image texture, autofocus, exposure behavior, muted colors and handheld operation—not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
 
 ## Abandoned station to train crossing moon and space
 

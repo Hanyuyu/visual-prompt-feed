@@ -1,9 +1,352 @@
 # Animation video prompts
 
-144 source-linked prompts, newest ImgLume records first.
+149 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Cute anthropomorphic baby bunnies hugging on a cozy sofa
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2098728793703899603)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`
+- **ImgLume record:** [4147](https://imglume.com/prompt/4147)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/409b1ed4-a058-4d53-a8f3-887190317b56/0e933a64-970c-4d82-b4ae-00fe4a8b0ba2-1789220853369 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute, heartwarming 9:16 vertical animated video featuring two adorable anthropomorphic baby bunnies sitting side by side on a cozy beige sofa in a warm, elegant living room.
+
+CHARACTERS:
+A fluffy cream-colored bunny wearing a simple blue T-shirt and a small gold necklace with a bunny-shaped pendant.
+A fluffy pastel-pink bunny wearing a delicate gold necklace and a cute pink bow on her head.
+Both bunnies have large expressive brown eyes, soft fluffy fur, tiny noses, chubby cheeks with a natural rosy blush, and charming childlike expressions.
+
+SCENE &amp; ACTION:
+Start with both bunnies sitting on separate sofa cushions, facing each other and exchanging sweet, slightly shy glances. Their expressions gradually become playful and affectionate.
+
+The cream bunny leans closer toward the pink bunny. The pink bunny also moves closer until their noses gently touch, followed by a sweet little kiss. They briefly close their eyes and smile affectionately.
+
+Then show them becoming extra fluffy and excited, with their fur puffing up softly in a cute exaggerated animation. They remain close together, eyes closed, enjoying the affectionate moment.
+
+End with both bunnies happily hugging each other tightly on the sofa, laughing with their eyes closed and mouths open in pure joy. Their little paws wrap around each other naturally, creating a warm, adorable friendship/romantic moment.
+
+VISUAL STYLE:
+Ultra-cute high-end 3D animated film style, soft realistic fluffy fur, detailed facial expressions, expressive eyes, smooth natural character animation, soft rounded anatomy, cinematic depth of field, warm cozy interior, gentle golden lighting, premium Pixar-like quality without copying any specific existing character.
+
+CAMERA:
+Vertical 9:16 composition. Medium two-shot at first, followed by a gentle slow push-in as they move closer. Use subtle camera movement and close-up framing during the kiss and final hug. Keep both characters centered and clearly visible.
+
+LIGHTING &amp; ATMOSPHERE:
+Warm, soft indoor lighting with cozy beige and wooden tones. Elegant home interior in the background with a wooden cabinet, plants, and soft decor. Shallow depth of field, creamy bokeh, soft shadows, polished cinematic rendering.
+
+MOTION:
+Smooth, natural, playful animation with believable bunny movements, subtle ear movements, blinking, facial expressions, gentle body movement, and realistic fluffy fur physics. No sudden camera cuts.
+
+MOOD:
+Sweet, innocent, playful, adorable, affectionate, wholesome and heartwarming.
+
+HIGH QUALITY:
+Photorealistic fur detail combined with stylized 3D animation, cinematic composition, high detail, soft textures, clean rendering, natural motion, professional animated-film quality.</code></pre>
+
+</details>
+
+## 3D animated commercial of Bloodline vending machine can flood
+
+- **Original source:** [@AiwithBloodline on X](https://x.com/AiwithBloodline/status/2098624174092943606)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `food-drink`, `product-ads`
+- **ImgLume record:** [4134](https://imglume.com/prompt/4134)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52dd3d20-ae0a-45a7-b75a-d3bedccb717f/8a218d10-de7d-41f8-af7e-b1ead0cca5ad-1789210295188 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "prompt_type": "text-to-video",
+ "model": "seedance-2.5",
+ "duration_seconds": 30,
+ "resolution": "1920x1080",
+ "aspect_ratio": "16:9",
+ "frame_rate": 24,
+ "style": {
+ "genre": "3D animated commercial",
+ "render_style": "stylized 3D animation, soft subsurface skin shading, painterly rim light, shallow depth of field",
+ "mood": "playful, warm, comedic payoff",
+ "color_grade": "warm golden-hour tones with deep crimson accents"
+ },
+ "scene": {
+ "location": "quiet city sidewalk outside a modern glass storefront",
+ "time_of_day": "late afternoon, golden hour",
+ "lighting": "low warm sun from camera-left, long soft shadows, gentle rim light on character edges",
+ "environment_details": [
+ "polished concrete sidewalk",
+ "glass storefront with faint interior reflections",
+ "distant blurred cityscape",
+ "single vending machine, matte deep-red body with glowing black trim"
+ ]
+ },
+ "character": {
+ "name": "original_child_character",
+ "description": "a small stylized 3D-animated child, approx. age 5, short wavy auburn hair (not tight curls), round expressive eyes, freckled cheeks",
+ "outfit": "charcoal-grey hoodie, olive-green shorts, red high-top sneakers",
+ "personality_cues": "wide-eyed excitement, exaggerated cartoon expressions"
+ },
+ "prop": {
+ "vending_machine": {
+ "brand_name": "Bloodline",
+ "logo_style": "bold gothic-drip wordmark, black and deep-red color scheme",
+ "can_design": "matte black can with a red dripping wordmark logo and thin silver rim",
+ "machine_color": "matte deep red with glowing black accent trim",
+ "machine_details": "coin slot, illuminated product window showing rows of Bloodline cans, dispensing slot at the bottom"
+ }
+ },
+ "action_sequence": [
+ {
+ "timestamp": "0-5s",
+ "action": "child runs excitedly into frame from left, spots the Bloodline vending machine, gasps with delight"
+ },
+ {
+ "timestamp": "5-12s",
+ "action": "child fumbles a coin into the slot, machine lights flicker, child presses face against the glass in anticipation"
+ },
+ {
+ "timestamp": "12-18s",
+ "action": "machine shudders, mechanical jam sound, child looks confused and slightly worried, taps the glass"
+ },
+ {
+ "timestamp": "18-25s",
+ "action": "machine erupts, hundreds of Bloodline cans burst out and flood the sidewalk in slow motion, catching golden light"
+ },
+ {
+ "timestamp": "25-30s",
+ "action": "child stands ankle-deep in cans, stunned then breaks into a huge delighted grin, camera pulls back to wide shot"
+ }
+ ],
+ "camera": {
+ "movement": "starts as a tracking shot following the child, transitions to a locked low-angle shot at the machine, ends on a slow pull-back crane shot",
+ "lens": "35mm equivalent, shallow depth of field, subtle lens flare during the can flood"
+ },
+ "audio_cues": {
+ "sfx": ["coin drop", "mechanical jam/grind", "cascade of cans clattering", "child's laugh"],
+ "music": "light whimsical orchestral score building to a triumphant swell at the can flood"
+ },
+ "negative_prompt": "no real brand logos, no existing copyrighted characters, no text artifacts, no distorted hands or faces"
+}</code></pre>
+
+</details>
+
+## 12-second first-person wizard workshop animation in Blender
+
+- **Original source:** [@KICHOCHEZI on X](https://x.com/KICHOCHEZI/status/2098432693222715716)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4117](https://imglume.com/prompt/4117)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9464b53e-1175-4cc9-91f7-28a6b2809e95/17de7966-7172-4e47-bda2-721e723dc3b4-1789197656404 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 12-second single-take white-model animation in Blender based on the supplied wizard workshop reference. Build the stone walls, wooden shelves, arched window, fireplace, books, astronomical instrument and alchemy table filled with potion bottles. Animate a low first-person viewpoint with exactly one right hand holding one potion. Begin with the bottle near the lower-right edge, look around the workshop and toward the window, raise the potion naturally, pause to examine it, then lower it while turning toward the fireplace and glowing reagents. Export the white-model MP4. Then use PixVerse with Seedance 2.5, referencing the Blender video for camera, action and spatial layout and the supplied images for appearance. Preserve the continuous shot and timing while adding weathered stone, carved wood, worn leather, realistic glass, cool window light, warm fireplace illumination, glowing magical liquids, natural flames, embers, sparks and smoke.</code></pre>
+
+</details>
+
+## 30-second realistic AAA third-person open-world game sequence in Japanese neighborhood
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2098615400141619289)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4114](https://imglume.com/prompt/4114)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8777bce5-030f-469b-b4f5-e13785169bee/75a7c356-a733-4bf4-9ff0-a07ee3d0afc2-1789193564570 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second realistic AAA third-person open-world game sequence in a lively local Japanese neighborhood. Use the uploaded image as the exact character reference: a young Korean woman in her early 20s with long black hair, pastel-lavender top, white cargo pants and sneakers. Keep her appearance consistent.
+
+She notices a delivery cyclist carrying a cardboard package, grabs the package, and runs. The cyclist chases her through the streets. She hides behind a parked kei truck, sneaks out, then accidentally crashes into another delivery worker, sending boxes everywhere. She ignores a “RETURN PACKAGE” prompt and runs again. She crosses a pedestrian bridge, briefly leaves the package beside a bench, grabs it when the cyclist arrives, and continues escaping.
+
+She eventually reaches the address printed on the package and realizes she has accidentally delivered it to the correct recipient. The recipient happily takes it while the exhausted cyclist arrives and looks completely confused. She gives him an innocent smile and walks away.
+
+Use authentic third-person gameplay graphics, realistic 3D characters, detailed village/neighborhood environment, believable physics and NPC reactions. Include a GTA-style HUD with minimap, health/stamina bars, controller prompts, mission objectives, alert markers and notifications such as “PACKAGE STOLEN,” “THEY FOUND YOU,” “BAD DECISION,” “DELIVERY COMPLETE,” “MISSION COMPLETE,” and “CHAOS +150.”
+
+No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, distorted characters, inconsistent objects, gore or unrealistic physics.</code></pre>
+
+</details>
+
+## 3:4比例美女变装短片
+
+- **Original source:** [@johnAGI168 on X](https://x.com/johnAGI168/status/2098411323562324348)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4105](https://imglume.com/prompt/4105)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0da5c758-f356-4477-83d0-53b50ac0c688/aac5691b-d6dc-4a4e-8b22-ef426e3ac000-1789180908312 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>时长：30秒
+画幅：3:4竖屏
+真人主题变装短片，结合角色选择卡、动作匹配剪辑、漫画照片拼贴。节奏明快，俏皮活泼。
+
+【人物参考】
+​ 图片1为唯一人物身份参考。
+全片始终是同一位成年女性，脸部身份与身体比例稳定。
+开场沿用角色卡原装、原发型。
+后面四套服装及完成变装后的发型按下文执行。
+每套完整造型出现前，先保留开场发型，借助指定动作切换发型、配饰和妆造。
+不把角色卡的背景或多视图排版带入视频。
+
+【全片结构】
+开场四张剪影卡供选择。
+展示顺序固定为：黄色→橙色→绿色→粉色。
+每套遵循：
+剪影卡翻成彩色角色卡→新服装与开场发型→指定动作触发完整变装→手持对应玩偶展示→三照片漫画拼贴。
+最后依次回顾四套造型。
+
+【0—3秒：选择角色】
+浅灰棚拍背景，人物从侧身转向镜头。
+双手在胸前用拇指、食指比出矩形取景框。
+
+四张悬浮竖卡在胸前下方展开。
+从画面左到右严格为：橙色、粉色、绿色、黄色。
+卡面中央分别是不同的黑色可爱玩偶剪影。
+
+人物右手食指向卡牌点动，再做一个抓住无形细线、向身体方向拉回的选择手势。
+最右侧黄色卡牌被选中，向前放大。
+卡牌翻转，黑色剪影揭示为彩色黄色玩偶形象，再滑开露出人物。
+卡牌为独立动画层，不要求手指实际抓住卡片。
+
+【3—8秒：黄色造型，举相机触发变装】
+浅蓝背景，黄色星星和漫画感小放射线点缀。
+
+服装为黄色短袖翻领衬衫、深蓝色蝴蝶领结、深蓝星星百褶短裙。
+人物先保持开场发型，双手拿黄色拍立得相机，黄色相机带自然垂下。
+
+人物把相机从胸前举到眼前，遮住部分脸，做出拍照动作。
+在相机遮脸的节拍点进行干净匹配剪辑。
+下一镜成为完成造型：头发整理精致，加入黄色星星发夹；手里换成黄色小玩偶。
+道具更换通过剪辑完成，相机不在镜头内融化成玩偶。
+
+人物将玩偶靠近脸侧，另一手叉腰，歪头微笑。
+
+约最后1秒进入黄色漫画拼贴：
+先沿人物轮廓出现白色粗描边，再把人物抠图缩放排列到海报中。
+前景一张大幅全身照片，后方两个矩形框内分别放近景照片。
+三张照片都属于同一人物、同一黄色造型。
+人物照片保持静止；黄色网点、斜框、小玩偶贴纸可以轻微运动。
+
+橙色剪影卡从前景弹入，翻面揭示橙色狐狸玩偶，再滑开进入下一套。
+
+【8—14秒：橙色造型，背身甩头变装】
+奶油黄背景，橙色斜切边框。
+
+橙色抹胸上衣，橙白相间多层荷叶边短裙。
+先保留开场发型，人物轻轻提住裙边，身体随节拍摆动。
+
+人物转身背向镜头，随即快速回头甩发。
+在头发甩动、面部被遮挡的瞬间匹配切换。
+回到正面时，发型已变成两条黑色长辫，配橙白狐狸耳发饰、星形装饰。
+脸部身份保持一致，长辫随转身惯性自然摆动。
+
+先短暂展示完整造型与裙摆，再切到手持橙色狐狸玩偶的姿势。
+玩偶贴近脸侧，人物闭眼轻笑。
+
+约最后1秒进入橙色漫画拼贴：
+前景一张俏皮抬起一只脚的全身抠图，后方两张近景定格照片。
+白色粗描边、橙色网点与放射线组成版式。
+人物照片静止，背景图形保留轻微动画。
+
+绿色剪影卡弹到前景，翻成绿色玩偶形象，再滑开。
+
+【14—19秒：绿色造型，抛皇冠变装】
+薄荷绿背景。
+
+浅绿色束身式上衣，黄色系带和露肩装饰，浅黄色轻纱长裙。
+人物先保持开场发型，右手掌心托着小金色皇冠，放在胸前展示。
+
+人物把皇冠轻轻向上抛起，手掌随动作上扬。
+在皇冠上升、人物侧身的节拍点切换造型。
+下一镜人物已经戴好同一顶皇冠，发型变成长而蓬松的红棕色卷发。
+皇冠的位置明确、稳定，不出现两顶皇冠，不展示皇冠穿过头部。
+
+人物保持侧身，抬手完成动作余势，再转眼看向镜头。
+随后切到一手抱红玫瑰、一手举绿色玩偶靠近脸侧的姿势。
+
+约最后1秒进入绿色漫画拼贴：
+前景展示长裙全身静态抠图，后方两张近景照片。
+绿色边框、网点、小皇冠和玩偶贴纸保持漫画风格。
+照片里的表情和头发静止，图层整体可以滑入。
+
+粉色剪影卡弹出，翻成粉色玩偶形象，再滑开。
+
+【19—24秒：粉蓝造型，挥拍变装】
+浅紫背景，粉色斜切图形，少量网球线稿点缀。
+
+粉色与薄荷蓝图案无袖上衣，浅蓝牛仔百褶短裙，粉色腰带。
+先保留开场发型，人物双手持白色网球拍，做一次横向挥拍。
+
+在球拍和手臂快速划过身体前方的节拍点匹配切换。
+挥拍结束时，造型已经变为两侧盘起的发髻，搭配小蝴蝶结与发夹。
+挥拍方向和身体姿势连续，不重复挥第二次，不用球拍遮住整幅画面。
+
+人物完成收拍姿势，侧头对镜头微笑。
+随后切到手持粉色玩偶的中近景，玩偶放在脸旁，另一手自然叉腰。
+
+约最后1秒进入粉色漫画拼贴：
+一张前景全身抠图与两张后方近景照片。
+三张人物照片保持定格，白描边清楚。
+背景色块、网点和玩偶贴纸可以轻微运动。
+
+【24—30秒：四套造型回顾】
+每套约1.5秒，按黄色、橙色、绿色、粉蓝顺序卡点硬切。
+背景颜色与该套造型对应，中近景构图一致。
+
+黄色：
+一手举黄色玩偶，另一手食指明确指向玩偶，露出俏皮表情。
+
+橙色：
+一手举橙色玩偶，另一手握小拳头靠近脸侧，眨一下眼。
+
+绿色：
+举绿色玩偶贴近脸侧，轻轻歪头，闭眼温柔微笑。
+
+粉蓝：
+双手把粉色玩偶捧在胸前靠近下巴的位置，做短暂眨眼表情。
+最后保持这个姿势，随音乐落点结束。
+
+【漫画拼贴与卡牌】
+卡牌包含从黑色剪影到彩色玩偶的揭示过程，不能只有色块遮挡。
+四套造型的漫画海报使用一致版式：一个全身主体、两个近景照片框、白色描边、对应色网点与玩偶贴纸。
+人物照片必须真实定格，不能继续眨眼、说话或摆动头发。
+背景图形与照片整体图层可以运动。
+拼贴中的多个身影属于同一人的照片，不是多个真人同时出现在棚内。
+
+【音乐与声音】
+轻快、带清晰鼓点的流行配乐，统一贯穿全片。
+举相机、甩头、抛皇冠、挥拍分别踩在明确的音乐重拍上。
+照片定格配轻巧快门音，卡牌翻转配短促翻牌音。
+无人物对白，不做说话口型，不添加对白字幕。
+
+【画面限制】
+不添加品牌标志、随机广告文字或乱码；保留角色卡、色块、玩偶贴纸和漫画装饰。
+不改变人物脸部身份，不增加新服装。
+每个玩偶的颜色、形状保持稳定。
+不出现手指融合、多余肢体、道具穿模。
+变装依靠动作匹配剪辑，不使用身体融化、旋涡或烟雾遮挡。</code></pre>
+
+</details>
 
 ## Cinematic 3D Animated Fantasy Adventure with Boy and Dragons in Tropical Jungle
 

@@ -1,9 +1,51 @@
 # Illustration 3d image prompts
 
-84 source-linked prompts, newest ImgLume records first.
+86 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-detailed 3D animated otter drinking iced coffee in modern office
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2098590744080757223)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `illustration-3d`
+- **ImgLume record:** [4111](https://imglume.com/prompt/4111)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bed07c3d-7cfd-4996-9017-42b713bdaada/743988ef-8ba2-448b-adaa-78dc8519178d-1789193452172 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bed07c3d-7cfd-4996-9017-42b713bdaada/49d3a835-06fb-4610-b605-e5baf25c78ee-1789193452172 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-quality, ultra-detailed 3D animated scene featuring the same adorable chubby otter-like character with soft gray-brown fur, a creamy white belly and muzzle, tiny rounded ears, glossy black eyes, a small dark nose, rosy cheeks, short paws, and cute visible paw pads. The character has a soft plush-toy appearance, rounded proportions, and an innocent happy expression.
+
+Place the character sitting comfortably in a modern black ergonomic office chair. The character is holding and drinking an iced coffee in a transparent plastic cup with a straw, with both paws wrapped naturally around the cup. Keep the character centered and prominent in the frame.
+
+Set the scene inside a bright modern office with rows of beige-gray cubicles, computer monitors, large windows, soft daylight, polished floors, and subtle office details in the background. Use shallow depth of field so the character remains sharply focused while the background is softly blurred.
+
+Make the image feel like a premium animated movie still: highly detailed soft fur, realistic fabric and plastic textures, expressive glossy eyes, natural soft lighting, cinematic composition, realistic shadows, subtle ambient occlusion, polished 3D rendering, adorable whimsical mood, clean composition, professional animation quality, high resolution, vertical 9:16 composition.
+
+Important: Preserve the exact same character design and proportions throughout, with no humans in the foreground, no text, no logos, no watermark, and no distorted anatomy.</code></pre>
+
+</details>
+
+## Minimalist hand-drawn doodle illustration prompt
+
+- **Original source:** [@Inshrah_ali_ on X](https://x.com/Inshrah_ali_/status/2098462576346886442)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [4093](https://imglume.com/prompt/4093)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/22e97742-f75d-4622-b512-360d14dc90ed/472e2ed5-9abd-4bbb-ba0f-330fff8d0d32-1789164102303 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/22e97742-f75d-4622-b512-360d14dc90ed/7f51456f-14bc-4b9c-82d3-42d523a1a887-1789164102303 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the image into a minimalist hand-drawn doodle illustration. Use simple black brush-pen outlines with slightly wobbly, imperfect strokes. Reduce all details to cute, childlike shapes while preserving the main subject and composition. Naive sketchbook aesthetic, playful and whimsical character design, clean white background, minimal linework, expressive simplicity, handmade doodle style, black ink drawing, charming imperfections, simple cartoon illustration.</code></pre>
+
+</details>
 
 ## Cinematic 3D animated close-up selfie of a young couple under cherry blossom trees
 

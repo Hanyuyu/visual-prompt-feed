@@ -5,77 +5,48 @@
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
 
-## VIETNAM TRAVEL VLOG — HOI AN OLD TOWN (30s)
+## 30-second ultra-realistic 4K cinematic winter travel vlog in Russia
 
-- **Original source:** [@AmControo on X](https://x.com/AmControo/status/2098311502386053632)
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2098642605735125046)
 - **Recommended model:** `seedance`
 - **Source model(s):** `other`
-- **Categories:** `travel`
-- **ImgLume record:** [4029](https://imglume.com/prompt/4029)
-- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/3c0950bb-5d63-4447-97dd-13cdcfdf138f/a396d96e-ad8f-4155-ac56-74018164db89-1789114718948 "Video prompt preview")
+- **Categories:** `cinematic`, `travel`
+- **ImgLume record:** [4125](https://imglume.com/prompt/4125)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/da2c1557-41fe-4443-ad89-4a80fae9a9a1/548a5010-0d93-4cc7-9f63-20fba73fa396-1789197870050 "Video prompt preview")
 - **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
 
 <details>
 <summary>Full prompt</summary>
 
-<pre><code>VIETNAM TRAVEL VLOG — HOI AN OLD TOWN (30s)
+<pre><code>Create a 30-second ultra-realistic 4K cinematic winter travel vlog in Russia. Use the male traveler from image1 as the exact character reference in every shot. Keep his face, hairstyle, facial hair, skin and body consistent.
 
-FORMAT: 30 seconds | 16:9 | Ultra-photorealistic live-action | Continuous handheld vacation vlog
+He wears the same winter outfit throughout: insulated puffer jacket, knitted beanie, scarf, gloves, dark trousers and waterproof boots. Keep colors and design consistent.
 
-Preserve the exact face, hairstyle, identity, skin tone, facial features, and body proportions from @Image 1 throughout the entire video. The same woman must appear consistently in every shot.
+0:00–0:02: Cinematic drone pull-back over a snow-covered Russian city with golden domes, frozen rooftops, ice crystals, pale sunlight and morning haze.
 
-VISUAL STYLE: Authentic late-2000s personal vacation vlog recorded on a cheap handheld flip camera. Extremely raw and imperfect footage. Heavy natural camera shake, awkward handheld framing, occasional partial face crops, sudden reframing, autofocus hunting, exposure fluctuations, blown highlights, slightly soft image quality, warm faded colors, mild digital noise, compression artifacts, and subtle motion blur. No cinematic camera movements, no gimbal stabilization, no polished composition, no modern color grading, no beauty filter, no artificial sharpness.
+0:02–0:05: Handheld selfie vlog. He walks on a snowy cobblestone street, smiles and talks to camera. Visible breath mist and winter lens flare. Whip pan.
 
-The entire video must feel like one genuine recording captured by a friend while traveling through Hoi An Old Town, Vietnam, not a staged commercial or cinematic recreation.
+0:05–0:08: Russian winter market with colorful stalls, matryoshka dolls and steaming samovars. Focus on objects, rack focus to his face as he picks up a souvenir, slow push-in, warm grade.
 
-00:00–00:04 — MORNING ARRIVAL
-The woman walks along a narrow lantern-lined street in Hoi An Old Town early in the morning, yellow colonial buildings on either side, bicycles passing, shopkeepers opening their stalls.
-The camera follows her from slightly behind, then quickly swings around to her face as she smiles naturally.
-She looks into the camera and says:
-"Alright, mission today: find the best local breakfast in town."
-A little camera shake and accidental framing should make the moment feel completely spontaneous.
+0:08–0:10: Macro of his gloved hand holding a lacquered figurine, frost details, bokeh and subtle camera drift. Match cut.
 
-00:04–00:08 — LOCAL MORNING MARKET
-She arrives at a small riverside market filled with baskets of herbs, tropical fruit, fresh noodles, and steaming food stalls.
-She stops at a stall where a local woman is preparing banh mi.
-The camera gets very close to the food as steam rises from the grill. The focus briefly locks onto the food before hunting back to her face.
-She reacts with genuine curiosity and says:
-"Okay, whatever that is, it smells way too good."
+0:10–0:14: Side tracking shot beside a grand ice-covered historic building, icy reflections, speed ramp 60% to 100%.
 
-00:08–00:12 — TRYING SOMETHING NEW
-The vendor hands her a freshly made banh mi wrapped in paper.
-She takes a bite, pauses for a second, looks surprised, then smiles.
-She turns toward the camera and says:
-"Wait, no, this is actually unreal."
-The camera operator laughs slightly from behind the camera.
+0:14–0:16: Dutch tilt and tilt-up revealing a frozen cathedral against a grey winter sky. He looks up in awe.
 
-00:12–00:16 — SHARING BREAKFAST
-She sits at a small plastic table with two local vendors on a stool nearby.
-They casually chat, laugh, and gesture, showing her a proper way to eat a local noodle dish.
-She attempts to copy them using chopsticks and fumbles slightly, causing everyone to laugh naturally.
-No exaggerated acting — the interaction should feel spontaneous, warm, and genuinely human.
+0:16–0:19: Slow-motion wide shot walking beside a frozen river, blowing snow, distant skyline, cinematic letterbox.
 
-00:16–00:20 — LEARNING A LOCAL TRADITION
-One of the vendors invites her to help fold a fresh spring roll.
-She sits beside them and tries wrapping the rice paper with her hands.
-Her first attempt comes out messy and falls apart slightly.
-She looks at the camera, laughs at herself, and says:
-"Yeah, that's a no from the judges. Clearly not a natural."
-The vendors laugh and encourage her.
+0:19–0:22: Handheld selfie close-up holding a steaming hot drink, satisfied expression, warm grade.
 
-00:20–00:24 — A LITTLE OLD TOWN WALK
-After breakfast, she walks through the old town streets carrying her spring roll, colorful silk lanterns hanging overhead.
-A few children nearby notice the camera and shyly wave.
-She waves back and smiles.
-The camera briefly swings toward the children, catches a few seconds of genuine street activity, then accidentally swings back toward her.
-The imperfect camera movement is important.
+0:22–0:25: Fast montage: palace hallway walk, photographing an ice sculpture, snowy bridge thumbs-up. Rapid cuts and motion blur.
 
-00:24–00:27 — QUIET MOMENT
-She reaches a small wooden boat dock along the Thu Bon River, lanterns floating gently on the water nearby.
-She stops, looks at the river, then turns toward the camera.
-For a moment, there is no dialogue — only water lapping, distant boat engines, and quiet river town sounds.
-She smiles softly and says:
-"Honestly? I wouldn't mind just staying right here."</code></pre>
+0:25–0:28: Golden-hour overlook of the frozen city, slow push-in toward his silhouette.
+
+0:28–0:29: He faces camera, smiles and waves, subtle lens flare.
+
+0:29–0:30: Cut to black screen. Centered elegant white text fades in: “Wizstar AI”. Music fades to silence.
+
+Photorealistic, cinematic lighting, realistic snow, natural motion, accurate hands, consistent image1 identity and outfit, no face changes, distortion, cartoon or CGI.</code></pre>
 
 </details>
 

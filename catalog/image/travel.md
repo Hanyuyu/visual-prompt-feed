@@ -1,9 +1,191 @@
 # Travel image prompts
 
-59 source-linked prompts, newest ImgLume records first.
+63 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Surreal Travel Artwork of Iconic Structure
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098618583664500798)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`, `travel`
+- **ImgLume record:** [4142](https://imglume.com/prompt/4142)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/af64386f-892c-41c4-be1f-3ab85aa599bd-1789216584449 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/2b0101a7-133b-4633-9017-eec0ae9634e9-1789216584449 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/d1d70fa7-3563-41a1-970d-616e932b5741-1789216584449 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/33096120-cf54-4760-a7df-23a18a123116-1789216584449 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated surreal travel artwork featuring [ICONIC STRUCTURE], [CITY, COUNTRY] as the main subject. Show the structure standing above a perfectly reflective surface, but instead of a normal reflection, the reflection transforms into a miniature dreamlike version of the city—tiny streets, rooftops, trees, rivers, and cultural details emerging naturally beneath the structure.
+
+Use a warm ivory architectural-paper background, soft shadows, subtle 3D depth, elegant sculptural modeling, and a refined editorial aesthetic. Keep the actual landmark highly recognizable and beautifully detailed, while its reflection becomes imaginative and slightly surreal. Add a small architectural label reading “[STRUCTURE NAME]”, with [CITY, COUNTRY] beneath it and a tiny line “FAMOUS FOR — [SIGNATURE FEATURE]”.
+
+Minimal composition, no people, no clutter, premium museum-poster feel, sophisticated typography, subtle paper grain, soft studio lighting, collectible architectural art, vertical 4:5 format.</code></pre>
+
+</details>
+
+## Realistic candid travel photo of an East Asian woman at a fairytale castle
+
+- **Original source:** [@Aqsahere_ on X](https://x.com/Aqsahere_/status/2098610123900064236)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [4115](https://imglume.com/prompt/4115)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e331fe37-8dc1-4658-91e7-25405f6a527e/694b1dc5-fdb1-49b0-8779-5807ca8936df-1789193602912 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e331fe37-8dc1-4658-91e7-25405f6a527e/400c5439-a2bd-45a8-a1bf-566cd431e8cb-1789193602912 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic candid travel photo of a young East Asian woman having a fun, magical day at a fairytale castle. She’s standing in front of a grand European-style fantasy castle with tall ivory towers, elegant blue rooftops, golden spires, intricate stone details, and beautiful old-world architecture. The castle takes up most of the background, giving the scene a dreamy theme-park vacation feel.
+She has long, naturally wavy chestnut-brown hair falling loosely over her shoulders and back. She’s wearing a cute blue-and-lavender glittery mouse-ear headband and smiling naturally while looking slightly upward and to the side, as if caught in a genuine happy moment.
+She wears a cropped cream-white textured jacket with gold buttons over a clean white collared shirt and patterned plaid tie. Her high-waisted beige, cream, and muted-blue plaid skort has soft pleats that move naturally with her pose.
+She stretches both arms outward and leans slightly toward the camera with an excited, playful energy. The pose feels spontaneous rather than posed, like a real vacation snapshot.
+The castle courtyard behind her has wide pale-stone steps, decorative railings, colorful banners, and detailed medieval-inspired architecture. The sky is softly overcast with pale blue-gray clouds, creating gentle, flattering daylight and natural shadows.
+Ultra-photorealistic travel photography, authentic youthful appearance, realistic skin texture, natural hair strands, detailed fabric textures, believable proportions, soft depth of field, subtle natural shadows, vibrant but slightly muted colors, candid smartphone photo aesthetic, dreamy vacation atmosphere, highly detailed, vertical 3:4 composition.</code></pre>
+
+</details>
+
+## Vertical 4:5 cinematic travel-diary poster of a family moment in Santorini
+
+- **Original source:** [@frametheory058 on X](https://x.com/frametheory058/status/2098253373237875074)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`, `poster-design`, `travel`
+- **ImgLume record:** [4098](https://imglume.com/prompt/4098)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/bd11b6dc-4458-44f9-bbd8-9c5d3b332403-1789170366242 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/3010cb9a-8691-4510-a7e1-dd8eea17b27b-1789170366242 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/23f51ea0-d805-4a14-93f6-24e4963fbcfd-1789170366242 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 4:5 cinematic travel-diary poster built around one beautiful family moment in Santorini, Greece.
+
+TOP — REAL PHOTOGRAPHY:
+A young couple with their little daughter at a scenic Santorini viewpoint during golden-hour sunset. The daughter is naturally positioned between her parents while both parents gently kiss her cheeks at the same time. She closes her eyes and gives a genuine happy smile. Make the interaction spontaneous, affectionate and completely natural — like a real family vacation photograph, not models posing for an advertisement.
+
+Behind them: iconic white Santorini architecture, blue-domed churches, Mediterranean Sea, distant cliffs, small boats and vibrant bougainvillea. Warm sunset light wraps naturally around their faces and hair. Real skin pores, tiny imperfections, realistic hair strands, accurate hands, natural fabric texture and believable shadows. Shot like a premium full-frame travel photograph, 35mm lens, shallow but realistic depth of field, cinematic dynamic range. Absolutely photorealistic — no AI-looking skin, excessive HDR, plastic faces or artificial expressions.
+
+Keep generous negative space around the subjects for subtle editorial typography. Add only a few refined details such as:
+“TRAVEL DIARY”
+“Sept 11, 2026”
+“SANTORINI — GREECE”
+and one small handwritten travel note.
+
+BOTTOM — HAND-PRINTED MEMORY:
+Instead of simply duplicating the photograph, reinterpret the same family moment as an original vintage travel-print artwork. Use imperfect screen printing, risograph dots, engraved linework, faded ink, rough edges and authentic paper grain on warm ivory stock.
+
+Build the Santorini landscape around the family as a graphic illustration: simplified blue domes, cliffside houses, sea, sunset and bougainvillea integrated naturally into the composition. Limited ink palette of deep Mediterranean navy, sun-faded terracotta orange, warm ivory and tiny touches of dusty blue.
+
+Use a large expressive hand-painted title:
+“MORE GOOD DAYS”
+
+Surround it with only a few carefully placed diary elements: a Santorini postal stamp, tiny handwritten notes, one or two taped miniature travel photographs and “A SMALL DIARY — #001.” Keep everything intentionally imperfect and tactile rather than digitally clean.
+
+The transition between photography and illustration should feel like a torn page from a personal travel journal rather than a basic 50/50 split.
+
+Overall aesthetic: real family vacation photography × independent travel magazine × vintage European tourism poster × handmade screen print.
+
+Warm, intimate, nostalgic and premium. Strong enough to stop someone while scrolling, but never overcrowded. The photograph must feel genuinely captured in real life, while the lower artwork feels physically printed by hand.
+
+No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessive stickers. No fantasy. No fake-looking faces. No malformed hands. No waxy skin. No over-saturation. Keep all three family members consistent between the photographic and illustrated sections.</code></pre>
+
+</details>
+
+## Premium Minimalist Editorial Travel Illustration Prompt
+
+- **Original source:** [@Rosey_watson on X](https://x.com/Rosey_watson/status/2098452763256492128)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [4088](https://imglume.com/prompt/4088)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c2c8275-11e0-4351-80a2-38244e21586b/06ce6889-2a51-4b94-ac3f-d6b9f91b90d4-1789159883570 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium minimalist editorial travel illustration based on the uploaded reference photo.
+
+Create ONLY the illustrated artwork.
+Do not place the original photograph anywhere in the composition.
+No split-screen, no collage, no before/after layout.
+
+ILLUSTRATION STYLE
+Reinterpret the uploaded photograph as a refined hand-drawn travel poster / art-book illustration.
+
+Preserve the most recognizable elements from the reference:
+– the main person or people
+– their pose and body proportions
+– recognizable clothing and accessories
+– important objects they are holding
+– the main architectural or environmental landmark
+– the relationship between the person and the location
+
+Keep the scene immediately recognizable, but simplify unnecessary photographic details.
+
+Use:
+– delicate hand-drawn ink lines
+– slightly imperfect outlines
+– flat acrylic and watercolor-like color shapes
+– visible handmade brush texture
+– subtle paper grain
+– irregular organic edges
+– restrained editorial detailing
+
+The illustration should feel handmade rather than digitally polished.
+
+BACKGROUND
+Warm white / ivory textured paper.
+Large areas of clean negative space.
+Do not fill the entire background with detail.
+
+COMPOSITION
+Place the main illustrated scene approximately in the middle-to-lower portion of the vertical canvas.
+
+The person should remain one of the main recognizable elements.
+
+Simplify the surrounding architecture, landscape, water, vegetation or city details into elegant hand-painted shapes.
+
+Use only a limited color palette extracted from the original photograph, approximately 4–6 dominant colors.
+
+The overall result should feel:
+quiet, sophisticated, artistic, premium, nostalgic, editorial, relaxed and collectible.
+
+Think:
+luxury travel sketchbook,
+independent art-book cover,
+designer postcard,
+fashion editorial illustration,
+contemporary illustrated travel diary.
+
+TYPOGRAPHY
+
+At the bottom of the composition add:
+
+MAIN CAPTION:
+United States
+
+YEAR / SECONDARY CAPTION:
+"2026"
+
+IMPORTANT:
+The text inside [CHANGE TITLE HERE] and [CHANGE YEAR HERE] is the ONLY variable caption area.
+Replace these placeholders with the desired location, event, phrase and year when creating a new card.
+
+Typography should be elegant and understated.
+
+Use a refined handwritten or editorial script for the main title and a small clean serif or spaced uppercase style for the year.
+
+Keep plenty of breathing room around the typography.
+
+Do not add any additional random words, logos, dates or captions.
+
+HIGH-END EDITORIAL QUALITY</code></pre>
+
+</details>
 
 ## Premium Instagram Travel Campaign Prompt for \[LOCATION\]
 

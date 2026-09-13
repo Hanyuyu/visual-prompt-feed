@@ -1,9 +1,96 @@
 # Food Drink video prompts
 
-85 source-linked prompts, newest ImgLume records first.
+86 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 3D animated commercial of Bloodline vending machine can flood
+
+- **Original source:** [@AiwithBloodline on X](https://x.com/AiwithBloodline/status/2098624174092943606)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `animation`, `food-drink`, `product-ads`
+- **ImgLume record:** [4134](https://imglume.com/prompt/4134)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/52dd3d20-ae0a-45a7-b75a-d3bedccb717f/8a218d10-de7d-41f8-af7e-b1ead0cca5ad-1789210295188 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>{
+ "prompt_type": "text-to-video",
+ "model": "seedance-2.5",
+ "duration_seconds": 30,
+ "resolution": "1920x1080",
+ "aspect_ratio": "16:9",
+ "frame_rate": 24,
+ "style": {
+ "genre": "3D animated commercial",
+ "render_style": "stylized 3D animation, soft subsurface skin shading, painterly rim light, shallow depth of field",
+ "mood": "playful, warm, comedic payoff",
+ "color_grade": "warm golden-hour tones with deep crimson accents"
+ },
+ "scene": {
+ "location": "quiet city sidewalk outside a modern glass storefront",
+ "time_of_day": "late afternoon, golden hour",
+ "lighting": "low warm sun from camera-left, long soft shadows, gentle rim light on character edges",
+ "environment_details": [
+ "polished concrete sidewalk",
+ "glass storefront with faint interior reflections",
+ "distant blurred cityscape",
+ "single vending machine, matte deep-red body with glowing black trim"
+ ]
+ },
+ "character": {
+ "name": "original_child_character",
+ "description": "a small stylized 3D-animated child, approx. age 5, short wavy auburn hair (not tight curls), round expressive eyes, freckled cheeks",
+ "outfit": "charcoal-grey hoodie, olive-green shorts, red high-top sneakers",
+ "personality_cues": "wide-eyed excitement, exaggerated cartoon expressions"
+ },
+ "prop": {
+ "vending_machine": {
+ "brand_name": "Bloodline",
+ "logo_style": "bold gothic-drip wordmark, black and deep-red color scheme",
+ "can_design": "matte black can with a red dripping wordmark logo and thin silver rim",
+ "machine_color": "matte deep red with glowing black accent trim",
+ "machine_details": "coin slot, illuminated product window showing rows of Bloodline cans, dispensing slot at the bottom"
+ }
+ },
+ "action_sequence": [
+ {
+ "timestamp": "0-5s",
+ "action": "child runs excitedly into frame from left, spots the Bloodline vending machine, gasps with delight"
+ },
+ {
+ "timestamp": "5-12s",
+ "action": "child fumbles a coin into the slot, machine lights flicker, child presses face against the glass in anticipation"
+ },
+ {
+ "timestamp": "12-18s",
+ "action": "machine shudders, mechanical jam sound, child looks confused and slightly worried, taps the glass"
+ },
+ {
+ "timestamp": "18-25s",
+ "action": "machine erupts, hundreds of Bloodline cans burst out and flood the sidewalk in slow motion, catching golden light"
+ },
+ {
+ "timestamp": "25-30s",
+ "action": "child stands ankle-deep in cans, stunned then breaks into a huge delighted grin, camera pulls back to wide shot"
+ }
+ ],
+ "camera": {
+ "movement": "starts as a tracking shot following the child, transitions to a locked low-angle shot at the machine, ends on a slow pull-back crane shot",
+ "lens": "35mm equivalent, shallow depth of field, subtle lens flare during the can flood"
+ },
+ "audio_cues": {
+ "sfx": ["coin drop", "mechanical jam/grind", "cascade of cans clattering", "child's laugh"],
+ "music": "light whimsical orchestral score building to a triumphant swell at the can flood"
+ },
+ "negative_prompt": "no real brand logos, no existing copyrighted characters, no text artifacts, no distorted hands or faces"
+}</code></pre>
+
+</details>
 
 ## Clip 3: Plating the Food
 

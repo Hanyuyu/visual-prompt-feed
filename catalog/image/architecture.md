@@ -1,9 +1,30 @@
 # Architecture image prompts
 
-12 source-linked prompts, newest ImgLume records first.
+13 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Surreal Travel Artwork of Iconic Structure
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098618583664500798)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`, `travel`
+- **ImgLume record:** [4142](https://imglume.com/prompt/4142)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/af64386f-892c-41c4-be1f-3ab85aa599bd-1789216584449 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/2b0101a7-133b-4633-9017-eec0ae9634e9-1789216584449 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/d1d70fa7-3563-41a1-970d-616e932b5741-1789216584449 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/33096120-cf54-4760-a7df-23a18a123116-1789216584449 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated surreal travel artwork featuring [ICONIC STRUCTURE], [CITY, COUNTRY] as the main subject. Show the structure standing above a perfectly reflective surface, but instead of a normal reflection, the reflection transforms into a miniature dreamlike version of the city—tiny streets, rooftops, trees, rivers, and cultural details emerging naturally beneath the structure.
+
+Use a warm ivory architectural-paper background, soft shadows, subtle 3D depth, elegant sculptural modeling, and a refined editorial aesthetic. Keep the actual landmark highly recognizable and beautifully detailed, while its reflection becomes imaginative and slightly surreal. Add a small architectural label reading “[STRUCTURE NAME]”, with [CITY, COUNTRY] beneath it and a tiny line “FAMOUS FOR — [SIGNATURE FEATURE]”.
+
+Minimal composition, no people, no clutter, premium museum-poster feel, sophisticated typography, subtle paper grain, soft studio lighting, collectible architectural art, vertical 4:5 format.</code></pre>
+
+</details>
 
 ## Crimson Architectural Interior with Scarlet-Clad Woman
 

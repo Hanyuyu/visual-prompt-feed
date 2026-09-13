@@ -1,9 +1,353 @@
 # Poster Design image prompts
 
-145 source-linked prompts, newest ImgLume records first.
+154 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium National Park Travel Infographic Poster
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098662015346897131)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4144](https://imglume.com/prompt/4144)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c5476951-0412-4afa-a194-eabadc2295f2/3909a94d-0804-4514-ba91-0cf20b7fa4c2-1789220746675 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c5476951-0412-4afa-a194-eabadc2295f2/2f2c79a9-5f5f-4be6-b673-03a2f175f6ce-1789220746675 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c5476951-0412-4afa-a194-eabadc2295f2/292f10d6-f136-4a91-b6dc-0b38badaddfb-1789220746675 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/c5476951-0412-4afa-a194-eabadc2295f2/3d5ac96d-452e-437d-8bf9-0af1e88b751f-1789220746675 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a breathtaking, premium national park travel infographic poster for [NATIONAL PARK, COUNTRY], designed to inspire people to explore, protect, and appreciate nature.
+
+Show a cinematic natural landscape featuring the park’s most famous animal — [FAMOUS ANIMAL] — naturally integrated into the scene, surrounded by its authentic flora and fauna. Include subtle visual elements representing the park’s ecosystem, such as native trees, flowers, grasses, mountains, rivers, birds, and wildlife.
+
+Use an elegant editorial travel-poster aesthetic with realistic nature photography blended with refined graphic-design elements. Warm natural tones, soft sunlight, atmospheric depth, detailed textures, and a clean premium composition. Make the wildlife the emotional focal point while keeping the landscape expansive and majestic.
+
+Add beautifully organized, minimal information panels:
+
+[NATIONAL PARK]
+[COUNTRY]
+
+Famous Animal: [ANIMAL]
+Flora &amp; Fauna: [KEY SPECIES / VEGETATION]
+Species: [NUMBER OF SPECIES]
+Area: [AREA]
+📍 Location: [LOCATION]
+Best Time to Visit: [MONTHS / SEASON]
+Ticket Price: [PRICE]
+
+Add a short inspirational line:
+
+“Protect the wild. Preserve the wonder.”
+
+Keep the typography sophisticated, clean, and highly legible. Use small icons, fine divider lines, subtle map/topographic details, and a restrained information hierarchy. The overall design should feel like a luxury conservation magazine cover + collectible national-park poster, visually inspiring but informative.
+
+Format: Vertical 4:5
+Style: Cinematic, realistic, premium editorial, conservation-inspired, detailed, elegant, atmospheric
+Avoid: Crowds, excessive text, cartoon style, artificial-looking animals, tourist buses, logos, watermarks, and clutter.</code></pre>
+
+</details>
+
+## Surreal Travel Artwork of Iconic Structure
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098618583664500798)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`, `travel`
+- **ImgLume record:** [4142](https://imglume.com/prompt/4142)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/af64386f-892c-41c4-be1f-3ab85aa599bd-1789216584449 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/2b0101a7-133b-4633-9017-eec0ae9634e9-1789216584449 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/d1d70fa7-3563-41a1-970d-616e932b5741-1789216584449 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/75784eaf-087c-4798-bb81-3a3fa28f84ec/33096120-cf54-4760-a7df-23a18a123116-1789216584449 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated surreal travel artwork featuring [ICONIC STRUCTURE], [CITY, COUNTRY] as the main subject. Show the structure standing above a perfectly reflective surface, but instead of a normal reflection, the reflection transforms into a miniature dreamlike version of the city—tiny streets, rooftops, trees, rivers, and cultural details emerging naturally beneath the structure.
+
+Use a warm ivory architectural-paper background, soft shadows, subtle 3D depth, elegant sculptural modeling, and a refined editorial aesthetic. Keep the actual landmark highly recognizable and beautifully detailed, while its reflection becomes imaginative and slightly surreal. Add a small architectural label reading “[STRUCTURE NAME]”, with [CITY, COUNTRY] beneath it and a tiny line “FAMOUS FOR — [SIGNATURE FEATURE]”.
+
+Minimal composition, no people, no clutter, premium museum-poster feel, sophisticated typography, subtle paper grain, soft studio lighting, collectible architectural art, vertical 4:5 format.</code></pre>
+
+</details>
+
+## Premium Editorial Travel Poster of Tokyo Motorcycle
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2098622045303279792)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4122](https://imglume.com/prompt/4122)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f90a40a0-49a6-44c5-9ca2-2b9df23a55f8/63dca564-afff-43e4-9e79-e1349ac431c3-1789197789115 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f90a40a0-49a6-44c5-9ca2-2b9df23a55f8/ad438774-6daa-4bbd-a246-eb191c81d064-1789197789115 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium editorial-style illustrated travel poster inspired by the uploaded reference image. Keep the overall composition, character styling, motorcycle placement, typography layout, and color palette visually consistent, but use completely fresh wording and phrasing.
+
+A stylish young East Asian woman stands confidently beside a classic vintage racing motorcycle. She has a short, slightly tousled dark-brown bob with loose bangs, with blue over-ear headphones resting around her neck. She wears a white-and-blue retro racing jacket covered in colorful motorsport patches, a black top underneath, a dark navy plaid pleated mini skirt, white crew socks, and chunky white sneakers. A black shoulder bag hangs from one shoulder.
+
+The motorcycle is positioned prominently on the lower-left side of the composition, featuring a classic white, blue, yellow, and red racing livery, detailed fairings, wheels, mirrors, mechanical parts, and a matching racing helmet placed on the motorcycle.
+
+Use a soft hand-painted editorial illustration style with realistic anatomy and detailed textures, subtle watercolor washes, pencil-like linework, gentle paint splatters, and a refined vintage fashion-magazine aesthetic. The background should be warm off-white textured paper with plenty of clean negative space.
+
+At the upper-left, add large elegant handwritten brush lettering reading “Tokyo”. Beneath it, place small uppercase spaced typography:
+
+SAME
+ROADS
+DIFFERENT
+DREAMS
+
+On the right side, include three small irregular painted color swatches in deep navy blue, golden yellow, and muted brick red, followed by a pale beige swatch.
+
+At the lower-right, add minimal editorial typography:
+
+2026
+—
+GOOD
+THINGS
+AHEAD
+
+Balanced fashion-poster composition, sophisticated Japanese street-racing mood, premium magazine design, subtle paper grain, restrained vintage palette, artistic but highly detailed character and motorcycle, clean typography placement, elegant negative space, vertical 3:4 aspect ratio.</code></pre>
+
+</details>
+
+## Cinematic vertical Vice City-inspired poster
+
+- **Original source:** [@Lexibamo on X](https://x.com/Lexibamo/status/2098471272686448836)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4120](https://imglume.com/prompt/4120)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7e532613-b89a-4227-8985-6a668246f314/fd2e0629-d9fc-40d4-8652-20642c99519e-1789197724715 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic vertical poster inspired by the neon-soaked crime drama aesthetic of a modern open-world game set in Vice City. Show a glamorous fictional female protagonist standing confidently beside a stylish fictional male protagonist on a luxury car, surrounded by a vibrant Miami-inspired nightlife environment.
+
+Use a bold 1980s-inspired color palette of hot pink, electric cyan, purple, sunset orange, and deep midnight blue. Add glowing neon signs, palm trees, wet streets reflecting city lights, luxury cars, oceanfront architecture, distant skyscrapers, and a dramatic pink-orange sunset.
+
+Composition should feel like a premium modern video-game key art poster: strong character silhouettes, cinematic perspective, dramatic rim lighting, atmospheric haze, rich environmental detail, subtle film grain, vibrant color grading, and highly polished illustrated realism.
+
+Blend contemporary AAA game-poster aesthetics with retro Vice City-inspired synthwave design. Characters should look like original fictional characters, with fashionable streetwear, luxury accessories, confident expressions, and realistic proportions.
+
+Add subtle graphic elements inspired by vintage 1980s posters: palm silhouettes, sun gradients, geometric shapes, soft halftone texture, and restrained typography. Keep the design sophisticated rather than overly busy.
+
+Ultra-detailed, cinematic, photorealistic game artwork, premium key art, dynamic lighting, volumetric glow, realistic skin and clothing textures, dramatic composition, 4K detail, vertical 9:16.
+
+Do not use actual GTA characters, logos, Rockstar branding, copyrighted promotional artwork, or existing character likenesses. No watermark, no UI, no distorted faces, no extra fingers, no garbled text.</code></pre>
+
+</details>
+
+## Minimalist Cultural Travel Poster Prompt for \[CITY, COUNTRY\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098377484303548642)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4116](https://imglume.com/prompt/4116)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ce16c279-613d-43c7-a295-ef6651554025/2785fabc-27b0-4997-a987-e84b3c8de52f-1789195540328 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/ce16c279-613d-43c7-a295-ef6651554025/aa37a2ba-c8a7-477f-874c-f9ef4ad11614-1789195540328 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/ce16c279-613d-43c7-a295-ef6651554025/6085ee84-3007-4d32-8cb3-8f7e3398085c-1789195540328 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/ce16c279-613d-43c7-a295-ef6651554025/f889bdb1-3781-4445-ab20-2aabd5ed601a-1789195540328 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a minimalist cultural travel poster for [CITY, COUNTRY] where [ICONIC LANDMARK] is transformed into a bold graphic symbol rather than a realistic illustration. Construct the landmark from a few elegant geometric shapes and architectural lines. Place it over a simplified abstract representation of the city—river curve, skyline, hills, streets or coastline. Use a warm ivory background with one dominant heritage color and deep black typography. Add oversized “[CITY]”, small “[COUNTRY]”, coordinates and a tiny archival catalog number. Swiss editorial design meets vintage European travel poster, sophisticated negative space, precise composition, subtle paper texture, premium museum graphic, vertical 4:5.</code></pre>
+
+</details>
+
+## Ultra-high-resolution premium travel poster for \[LOCATION\]
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098372539332587684)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4099](https://imglume.com/prompt/4099)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4661bfd1-c00a-44cf-9ec7-17600d5bc435/db11eb38-92d3-44f5-91f3-0c4c13d8b288-1789172452559 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4661bfd1-c00a-44cf-9ec7-17600d5bc435/3f3913d1-8975-486b-9090-f871fbbbcc4b-1789172452559 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4661bfd1-c00a-44cf-9ec7-17600d5bc435/d1451589-403f-4de0-bc38-9e907d59ed48-1789172452559 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4661bfd1-c00a-44cf-9ec7-17600d5bc435/e77125ce-8ebb-4849-9348-7b4d304a9bc2-1789172452559 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create an ultra-high-resolution premium travel poster for [LOCATION] in a strict 4:5 vertical format.
+
+Automatically identify the most iconic and visually interesting elements of [LOCATION]—landmarks, architecture, streets, transportation, nature, food, culture, and skyline—and transform them into one cohesive flat-vector / modern travel-poster illustration.
+
+Make [LOCATION] the dominant central typography using a bold, clean geometric sans-serif typeface. Integrate miniature local scenes and recognizable details inside or around the letters, creating a continuous visual story while keeping the location name perfectly readable.
+
+Create a sophisticated full-frame composition with strong visual hierarchy and controlled negative space. Add a thin illustrated skyline or location-detail strip near the top featuring recognizable elements of [LOCATION].
+
+Unify the typography, illustrations, geometric shapes, colors, and textures into one professional art direction.
+
+STYLE: Mid-century modern × Swiss graphic design × premium international travel poster. Use flat geometric shapes, simplified architecture, clean vector edges, minimalist illustration, sophisticated editorial composition, and subtle screen-print texture.
+
+Automatically choose a refined 3–5 color palette inspired by [LOCATION] and use it consistently throughout the artwork.
+
+TYPOGRAPHY: All visible text must be English only. The primary headline is [LOCATION]. Spell it exactly, keep it complete, highly readable, professionally typeset, and undistorted. No random text, fake logos, Thai script, or watermarks.
+
+The final artwork should feel like a world-class collectible tourism poster—timeless, sophisticated, artistic, clean, and instantly recognizable as [LOCATION].
+
+STRICT 4:5 VERTICAL | Ultra-high resolution | Razor-sharp vector edges | Premium print quality | No reference image required.</code></pre>
+
+</details>
+
+## Vertical 4:5 cinematic travel-diary poster of a family moment in Santorini
+
+- **Original source:** [@frametheory058 on X](https://x.com/frametheory058/status/2098253373237875074)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `photography`, `poster-design`, `travel`
+- **ImgLume record:** [4098](https://imglume.com/prompt/4098)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/bd11b6dc-4458-44f9-bbd8-9c5d3b332403-1789170366242 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/3010cb9a-8691-4510-a7e1-dd8eea17b27b-1789170366242 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/796a4282-f71c-495f-b050-b1655305861b/23f51ea0-d805-4a14-93f6-24e4963fbcfd-1789170366242 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 4:5 cinematic travel-diary poster built around one beautiful family moment in Santorini, Greece.
+
+TOP — REAL PHOTOGRAPHY:
+A young couple with their little daughter at a scenic Santorini viewpoint during golden-hour sunset. The daughter is naturally positioned between her parents while both parents gently kiss her cheeks at the same time. She closes her eyes and gives a genuine happy smile. Make the interaction spontaneous, affectionate and completely natural — like a real family vacation photograph, not models posing for an advertisement.
+
+Behind them: iconic white Santorini architecture, blue-domed churches, Mediterranean Sea, distant cliffs, small boats and vibrant bougainvillea. Warm sunset light wraps naturally around their faces and hair. Real skin pores, tiny imperfections, realistic hair strands, accurate hands, natural fabric texture and believable shadows. Shot like a premium full-frame travel photograph, 35mm lens, shallow but realistic depth of field, cinematic dynamic range. Absolutely photorealistic — no AI-looking skin, excessive HDR, plastic faces or artificial expressions.
+
+Keep generous negative space around the subjects for subtle editorial typography. Add only a few refined details such as:
+“TRAVEL DIARY”
+“Sept 11, 2026”
+“SANTORINI — GREECE”
+and one small handwritten travel note.
+
+BOTTOM — HAND-PRINTED MEMORY:
+Instead of simply duplicating the photograph, reinterpret the same family moment as an original vintage travel-print artwork. Use imperfect screen printing, risograph dots, engraved linework, faded ink, rough edges and authentic paper grain on warm ivory stock.
+
+Build the Santorini landscape around the family as a graphic illustration: simplified blue domes, cliffside houses, sea, sunset and bougainvillea integrated naturally into the composition. Limited ink palette of deep Mediterranean navy, sun-faded terracotta orange, warm ivory and tiny touches of dusty blue.
+
+Use a large expressive hand-painted title:
+“MORE GOOD DAYS”
+
+Surround it with only a few carefully placed diary elements: a Santorini postal stamp, tiny handwritten notes, one or two taped miniature travel photographs and “A SMALL DIARY — #001.” Keep everything intentionally imperfect and tactile rather than digitally clean.
+
+The transition between photography and illustration should feel like a torn page from a personal travel journal rather than a basic 50/50 split.
+
+Overall aesthetic: real family vacation photography × independent travel magazine × vintage European tourism poster × handmade screen print.
+
+Warm, intimate, nostalgic and premium. Strong enough to stop someone while scrolling, but never overcrowded. The photograph must feel genuinely captured in real life, while the lower artwork feels physically printed by hand.
+
+No Chinese text. No copied layouts. No generic AI collage aesthetic. No excessive stickers. No fantasy. No fake-looking faces. No malformed hands. No waxy skin. No over-saturation. Keep all three family members consistent between the photographic and illustrated sections.</code></pre>
+
+</details>
+
+## Vintage offset diptych poster prompt
+
+- **Original source:** [@theanu_Sayss on X](https://x.com/theanu_Sayss/status/2098459664140652850)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4096](https://imglume.com/prompt/4096)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a64227ae-0c3b-46da-a2d9-4602312e7e40/ad30162b-ba48-4b57-8237-816815563de4-1789168314811 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use each uploaded image as the only visual source.Create one independent poster per upload and output each separately.Never combine images.Role:You are an art director skilled in vintage offset print,comic halftones,pop posters,and magazine-style visual distillation. Design a vertical 3:4 print-quality diptych poster with an editorial collectible feel.Format:Split the canvas into two strictly equal horizontal panels,top 50% and bottom 50%,with an exact 1:1 division.Upper panel:Present the uploaded reference image in the top half.Keep the original subject,scene identity,main objects,gesture,spatial relationships,and emotional atmosphere recognizable.Preserve it as image-based rather than https://t.co/yd6fQLU2cV may crop naturally to fit the panel,but never stretch,distort,mirror,replace,or redesign the subject.Apply only restrained editorial grading and subtle print refinement.Lower panel:Transform the same source into a retro offset-halftone pop poster.Extract the strongest action,the clearest object silhouettes,the main emotional tension,and the essential color relationships from the upper image.Rebuild them with bold black outlines,large flat color fields,visible halftone dots,slight registration misalignment,minor ink spread,small printing imperfections,and controlled burst-like negative space.The lower half should be more distilled and graphic than the upper half,yet still instantly recognizable as the same scene or https://t.co/dv3ALeMvDu:Blend vintage offset lithography,pop-graphic poster design,magazine cover composition,indie publication aesthetics,and restrained comic-print language.The result should feel sophisticated and collectible,not loud or cheap.Use only 4 to 5 main colors.The lower half may be brighter than the upper half,but keep the palette controlled.Preserve paper grain,subtle ink shift,light fold traces,and retro print noise.Avoid glossy smoothness.Composition:Give the lower half a magazine-cover hierarchy with one dominant focal idea and supporting shapes.Use strong silhouette simplification,clear rhythm,and strategic blank areas.Suggest energy through scale contrast and white space,but do not fill the frame with clutter.Typography:You may add a small amount of English-only text in the lower half,such as a short title,onomatopoeia,a tiny cover line,or a small price-tag detail,but only when it supports the composition.Text must stay legible,sparse,and secondary.Overall feeling:An independent-publication cover,art-exhibition poster,or collectible visual-research page.Calm,modern,restrained,and premium.The top half presents the source;the bottom half turns that source into a refined retro halftone pop interpretation.Negative:No childish cartoon,no cheap sticker look,no sales-promo poster,no garbled text,no pseudo text,no uncontrolled colors,no full-screen blast elements,no 3D rendering,no realistic copying in the lower half,no overly cute styling,no oversized subject,no watermark,no logo,no UI.</code></pre>
+
+</details>
+
+## Premium Minimalist Editorial Travel Illustration Prompt
+
+- **Original source:** [@Rosey_watson on X](https://x.com/Rosey_watson/status/2098452763256492128)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`, `travel`
+- **ImgLume record:** [4088](https://imglume.com/prompt/4088)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6c2c8275-11e0-4351-80a2-38244e21586b/06ce6889-2a51-4b94-ac3f-d6b9f91b90d4-1789159883570 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium minimalist editorial travel illustration based on the uploaded reference photo.
+
+Create ONLY the illustrated artwork.
+Do not place the original photograph anywhere in the composition.
+No split-screen, no collage, no before/after layout.
+
+ILLUSTRATION STYLE
+Reinterpret the uploaded photograph as a refined hand-drawn travel poster / art-book illustration.
+
+Preserve the most recognizable elements from the reference:
+– the main person or people
+– their pose and body proportions
+– recognizable clothing and accessories
+– important objects they are holding
+– the main architectural or environmental landmark
+– the relationship between the person and the location
+
+Keep the scene immediately recognizable, but simplify unnecessary photographic details.
+
+Use:
+– delicate hand-drawn ink lines
+– slightly imperfect outlines
+– flat acrylic and watercolor-like color shapes
+– visible handmade brush texture
+– subtle paper grain
+– irregular organic edges
+– restrained editorial detailing
+
+The illustration should feel handmade rather than digitally polished.
+
+BACKGROUND
+Warm white / ivory textured paper.
+Large areas of clean negative space.
+Do not fill the entire background with detail.
+
+COMPOSITION
+Place the main illustrated scene approximately in the middle-to-lower portion of the vertical canvas.
+
+The person should remain one of the main recognizable elements.
+
+Simplify the surrounding architecture, landscape, water, vegetation or city details into elegant hand-painted shapes.
+
+Use only a limited color palette extracted from the original photograph, approximately 4–6 dominant colors.
+
+The overall result should feel:
+quiet, sophisticated, artistic, premium, nostalgic, editorial, relaxed and collectible.
+
+Think:
+luxury travel sketchbook,
+independent art-book cover,
+designer postcard,
+fashion editorial illustration,
+contemporary illustrated travel diary.
+
+TYPOGRAPHY
+
+At the bottom of the composition add:
+
+MAIN CAPTION:
+United States
+
+YEAR / SECONDARY CAPTION:
+"2026"
+
+IMPORTANT:
+The text inside [CHANGE TITLE HERE] and [CHANGE YEAR HERE] is the ONLY variable caption area.
+Replace these placeholders with the desired location, event, phrase and year when creating a new card.
+
+Typography should be elegant and understated.
+
+Use a refined handwritten or editorial script for the main title and a small clean serif or spaced uppercase style for the year.
+
+Keep plenty of breathing room around the typography.
+
+Do not add any additional random words, logos, dates or captions.
+
+HIGH-END EDITORIAL QUALITY</code></pre>
+
+</details>
 
 ## 2026 Toyota Camry XSE Conceptual Campaign Poster – THE ROAD BECOMES THE CAMRY
 

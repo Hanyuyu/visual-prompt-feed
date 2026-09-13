@@ -1,9 +1,287 @@
 # UGC video prompts
 
-144 source-linked prompts, newest ImgLume records first.
+150 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic 30‑second home video of a Korean woman on a traditional farm
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2098742251472261330)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4151](https://imglume.com/prompt/4151)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7ba8d66a-7f20-4110-9a69-c5725e2e179f/0cf483e3-c57f-4bdb-8f3e-0aa637b57b72-1789229192837 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman visiting a small traditional farm and helping with the animals. No reference image.
+
+A naturally pretty beautiful Korean woman in her early 20s, realistic natural skin texture, minimal makeup, relaxed and cheerful personality. Long black hair tied in a loose low ponytail. She wears a loose white cotton T-shirt, light olive-green cargo pants, brown ankle boots, and a beige canvas crossbody bag. Keep the same face, hairstyle, clothing, body proportions, and overall appearance throughout the entire video.
+
+A small traditional countryside farm outside Seoul during a warm summer afternoon. Wooden fences, green fields, an old farmhouse, barn, hay bales, vegetable patches, chickens, cows, buckets, farming tools, trees and natural countryside surroundings. The farm feels ordinary and lived-in, not like a tourist attraction.
+
+The camera is ALWAYS positioned IN FRONT OF THE GIRL, never behind her. A friend stands or walks in front of her, casually filming her with a handheld consumer DV camcorder/smartphone. Her front face must remain clearly visible during the important moments. The camera naturally moves backward while she walks toward it. Use imperfect handheld movement, small shakes, slightly uneven framing, autofocus hunting, occasional exposure changes, natural motion blur, soft digital detail, mild image noise, faded early-2000s home-video colors, and occasional accidental zooms.
+
+Absolutely NO rear-view shots, NO filming from behind, NO drone, NO gimbal, NO cinematic tracking shots, NO polished commercial look, NO beauty filter. It should genuinely feel like a friend casually recorded this afternoon.
+
+TIMELINE
+
+0:00–0:05 — Arriving at the Farm
+
+The girl walks toward the farm entrance while the friend walks backward in front of her filming. She smiles naturally and looks around at the animals and fields. She says casually in Korean:
+
+“오늘 농장에 왔어요.”
+
+Natural footsteps, birds, insects and distant farm sounds.
+
+0:05–0:10 — Feeding the Cow
+
+Still filmed from the front, the girl approaches a calm cow and holds out fresh vegetables. The cow gently eats from her hand. She laughs naturally and looks at the camera, then back at the cow.
+
+0:10–0:15 — Helping With Vegetables
+
+Hard cut. The camera remains in front of her as she walks through a vegetable patch and picks fresh vegetables. She holds them up toward the camera with a happy smile.
+
+0:15–0:20 — Chickens
+
+Hard cut. Several chickens suddenly walk across the path in front of her. The camera stays facing her from the front as she laughs and carefully steps around them. One chicken comes close to her boots.
+
+0:20–0:25 — Farmhouse Break
+
+She sits outside the farmhouse with a basket of freshly picked vegetables and eats a piece of fresh fruit. She looks relaxed and slightly tired from working. She smiles at the camera and says:
+
+“생각보다 재밌어요.”
+
+0:25–0:30 — Walking Away / Goodbye
+
+She gets up and walks toward the camera, then stops near the farm entrance. The friend keeps filming from directly in front of her. She gives a small wave and says:
+
+“다음에 또 올게요. 안녕!”
+
+She walks past the camera as the recording ends naturally.
+
+AUDIO:
+Only authentic location sound: birds, chickens, cows, insects, footsteps, leaves, distant farm activity and natural conversation. No background music, no narration, no artificial sound effects.
+
+FINAL LOOK:
+Completely believable real-life home-video footage. Slightly imperfect, spontaneous, unpolished and human. Front-facing camera coverage throughout the story, with the girl's face clearly visible.</code></pre>
+
+</details>
+
+## Casual Kitchen Cleaning Phone Recording of Young Korean Woman
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2098681428280279512)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4133](https://imglume.com/prompt/4133)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/79818ddd-d112-4204-9100-034f0c2dff26/9dd57277-d2d4-4904-a17d-e49f85d6dbef-1789206114315 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A young Korean woman @[Image 1](image_1) is casually organizing her small apartment kitchen and dining area alone. (Image) provides only her face and hairstyle; She is the only person who appears throughout. @[Image 1](image_1)
+The environment is a compact, lived-in apartment kitchen connected to a small dining space. The room feels naturally cluttered but comfortable: a few grocery bags near the counter, dishes drying beside the sink, a half-open cabinet, a small wooden dining table with a ceramic mug and unopened mail, a dish towel hanging unevenly from the oven handle, a refrigerator covered with a few small magnets and handwritten notes, and a couple of reusable shopping bags resting near the doorway. Warm orange evening sunlight enters through partially open blinds, creating realistic patches of light across the floor and countertops.
+Her behavior is quiet, casual, and completely unperformed. She is simply doing ordinary household chores when she unexpectedly notices something behind the refrigerator.
+The sequence should feel like an authentic personal phone recording rather than a professionally produced commercial or cinematic scene.
+SHOT 1 — 0–2s:
+She wipes down the kitchen counter with a slightly damp cloth while casually moving a few everyday objects out of the way. The camera is handheld from a slightly low side angle, as if someone casually holding a phone while standing nearby. The framing is imperfect and slightly tilted. She quietly hums under her breath while cleaning.
+Audio: cloth rubbing against the countertop, faint refrigerator hum, distant neighborhood ambience.
+SHOT 2 — 2–4s:
+As she reaches toward the floor to pick up a reusable shopping bag, she notices something small wedged behind the refrigerator. She pauses and leans down to see it better. The camera quickly tilts downward and moves closer with a natural handheld wobble.
+She quietly says:
+"어? 저게 뭐야?"
+("Huh? What's that?")
+Audio remains completely live and imperfect.
+SHOT 3 — 4–6s:
+She crouches beside the refrigerator and reaches one hand into the narrow gap behind it. She struggles slightly to reach the object, shifting her body and pulling the shopping bag out of the way. Her sweatshirt naturally wrinkles and moves with her body.
+The camera moves closer from above her shoulder, briefly losing focus before refocusing on her hand.
+She murmurs:
+"잠깐만…"
+("Wait a second…")
+SHOT 4 — 6–8s:
+She finally manages to pull the object free. It is an old pair of wired earphones tangled into a small knot, clearly something she had forgotten months ago. She holds them in front of her and looks genuinely confused for a moment.
+She turns the earphones over in her fingers, inspecting them naturally.
+She says softly:
+"이게 왜 여기 있어?"
+("Why is this here?")
+No exaggerated reaction.
+SHOT 5 — 8–10s:
+Close handheld shot from slightly below eye level. She suddenly recognizes the earphones and gives a small, genuine laugh. Her expression changes from confusion to amused realization.
+She says:
+"아… 예전에 쓰던 거네."
+("Ah… these are the ones I used to use.")
+The camera gently drifts closer, with realistic smartphone autofocus briefly shifting between her face and the earphones.
+SHOT 6 — 10–13s:
+She looks around the messy kitchen and realizes there are still several things left to organize. She gives a tiny tired sigh, places the old earphones on the dining table beside the mug, then picks up the cloth again.
+She quietly mutters with a faint smile:
+"정리할 게 왜 이렇게 많아…"
+("Why is there so much to clean up…")
+She immediately continues wiping the counter.
+SHOT 7 — 13–15s:
+The camera slowly backs away toward the entrance of the apartment, still handheld and slightly shaky. She continues casually cleaning the kitchen without acknowledging the camera. The warm evening sunlight remains visible through the blinds while the apartment feels naturally quiet and lived-in.
+The final moment should feel completely ordinary, as though the recording simply happened to capture a tiny unexpected discovery during a normal evening.</code></pre>
+
+</details>
+
+## 30-second vertical handheld selfie with kitten playing with window blinds
+
+- **Original source:** [@itxabdullaa on X](https://x.com/itxabdullaa/status/2098625551833669826)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4130](https://imglume.com/prompt/4130)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/b84954db-8f6f-43ee-97d7-1ed1abd567d4/0ed56706-a279-4fb9-a704-3698f3fee577-1789201954911 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use "@&lt;image1" as the exact visual reference for the woman. Preserve her identity, face, hairstyle, clothing, skin texture, body proportions, and natural appearance throughout the entire clip. Exactly ONE small tabby kitten. The same kitten remains continuous throughout. No other animal, no duplicate kitten.
+
+FORMAT 30-second vertical 9:16 handheld front-camera selfie. Indoor room beside a window on a rainy day. Soft gray natural daylight through the glass. Very subtle window reflections and realistic ambient room sound. No color grading, no cinematic lighting, no beauty filter.
+
+---
+
+0–5 SEC — COZY RAINY MOMENT
+
+The woman stands beside the window holding the kitten against her chest. Rain droplets slowly run down the glass behind her. She looks into the phone, then gently scratches the kitten under its chin. The kitten calmly looks toward the window. She smiles softly and casually says: "Such a cozy day, huh?" The phone remains slightly imperfect and naturally handheld.
+
+---
+
+5–10 SEC — SOMETHING MOVES
+
+A small movement from the window blinds catches the kitten's attention. Its ears suddenly point forward. The woman notices the kitten staring past her shoulder. She turns slightly toward the window while keeping the kitten securely supported. The kitten reaches one paw toward the hanging blind cord. She quietly laughs and says: "What are you looking at?"
+
+---
+
+10–15 SEC — BLIND CORD ATTACK
+
+The kitten suddenly grabs the blind cord with both paws. The woman reacts with surprise and gently tries to move the cord away. The kitten refuses and pulls it toward itself. She laughs as the phone shakes slightly in her hand. She says: "Hey, leave that alone." The kitten keeps batting at the cord.
+
+---
+
+15–20 SEC — CHAOTIC PLAY
+
+The kitten squirms excitedly against her chest while trying to catch the moving cord. She supports its body securely with one hand and gently blocks its paws with the other. The kitten twists around and reaches again. She laughs harder and says: "You're getting way too curious." A few loose strands of her hair fall naturally beside her face.
+
+---
+
+20–25 SEC — KITTEN CLIMBS
+
+The kitten suddenly climbs toward her shoulder, still focused on the window. Its paws grip the fabric of her top. She gives a small surprised yelp followed by laughter. Her phone hand rises slightly as she tries to keep both herself and the kitten in frame. The camera briefly becomes uneven before naturally re-centering.
+
+---
+
+25–30 SEC — SURPRISE SELFIE
+
+The kitten reaches her shoulder and suddenly turns away from the window toward the phone. It moves its face close to the lens, sniffing curiously. She leans backward while laughing. The kitten raises one paw toward the camera. She starts: "Oh, now you want—" and breaks into laughter. The paw nearly touches the lens. The phone dips naturally. The clip ends mid-laugh.
+
+AUDIO Rain ambience through the window, faint blind movement, fabric rustling, kitten movement, one tiny mewl, woman's natural voice, breathing, nose-laughs and genuine laughter. No background music. No subtitles. No text. No logo. No watermark. No cuts. No zoom. Exactly one kitten.</code></pre>
+
+</details>
+
+## Young Korean woman in rainy Seoul apartment, early 2000s MiniDV home video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098620114295812295)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4123](https://imglume.com/prompt/4123)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/aca3dd74-09e6-4ede-88a7-19aab9b0f60a/46b7bbd6-06ff-49eb-a3da-cd63de182283-1789197815551 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized faded lavender T-shirt and loose gray lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment bedroom during a dark rainy early morning. Simple bed, wooden dresser, small mirror, scattered hair accessories and a rain-covered window showing blurred neighboring apartment buildings outside.
+
+Lighting &amp; Atmosphere: Cozy, dim blue-hour ambience. Cold blue-gray light from the rainy window mixed with a weak warm bedside lamp. Dark cloudy sky, muted colors, soft shadows and slightly underexposed interior. Steady rain outside, creating a quiet sleepy morning atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged, like a family member casually filming her while she gets ready. Natural handheld movement, subtle human shake, imperfect framing, occasional gentle reframing, autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and built-in microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands in front of the bedroom mirror, trying to tie her long messy hair into a ponytail. She concentrates on getting it right while the camcorder casually films from a few feet away.
+
+00:04–00:08: She tries again, pulling the hair tie tighter, but several strands immediately fall loose. She looks at herself in the mirror with a mildly annoyed expression.
+
+00:08–00:11: She attempts to fix the loose strands with her fingers, turning her head from side to side to check the hairstyle. The camcorder gently moves closer as if the person filming finds her struggle amusing.
+
+00:11–00:15: She finally gives up and lets her hair fall naturally around her shoulders. She notices the camcorder, looks directly toward the lens with a tiny defeated expression, then breaks into a genuine laugh and shakes her head.
+
+Audio: Natural sound only—steady rain against the window, soft fabric movement, hair-tie sounds, faint footsteps, distant traffic, quiet apartment ambience and her natural laughter. No music, narration or added sound effects.
+
+Goal: Feel like a tiny accidental family recording from the early 2000s. The person filming should feel physically present but never interact with her. She isn't performing for the camera; the humor comes from her genuine frustration and eventual laughter. Cute, intimate, ordinary and spontaneous.
+
+Motion quality: Keep both the woman and camera movement smooth and continuous. The camcorder operator should make only small natural movements and gentle reframing. Avoid rapid camera movement or exaggerated hair motion. The vintage MiniDV aesthetic must come from the image texture, autofocus, exposure, colors and handheld operation—not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## Ultra-realistic handheld home-video vlog of a Korean woman vacuuming
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098378523086102708)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4110](https://imglume.com/prompt/4110)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/8c41b492-cd31-4445-b951-10220e9b593e/1ec5190d-719a-4362-ab2c-4cb07291499a-1789189318152 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic multi-shot handheld home-video vlog, 7 shots, filmed casually on a phone. Avoid a single camera angle or single cut. Snapshot-like realism, slightly tilted framing, visible handheld shake, imperfect composition, warm late-afternoon indoor light, fine film grain, photorealistic.
+
+A young Korean woman (Image) is casually vacuuming alone in her cozy living room. (Image) provides only her face and hairstyle; her clothing follows this description entirely: soft heather-grey cotton short-sleeve shirt, sleeves fully covering her shoulders and upper arms, loosely tucked into cream-colored loungewear pants. She is the only person who appears throughout.
+
+The living room feels lived-in and slightly messy: clothes loosely scattered on the sofa, low wooden coffee table with cups and small everyday objects, wicker laundry basket on the floor, folded blanket on an armchair, books and miscellaneous items casually stacked around the room. Warm late-afternoon sunlight filters through sheer curtains. Her movements are quiet, natural, unperformed, and everyday.
+
+The sequence begins as an ordinary cleaning session but turns into a tiny moment of curiosity when she discovers something underneath the sofa. Casual everyday spoken Korean, reacting naturally in the moment.
+
+Shot 1 (0–2s): She slowly vacuums the living-room floor around the sofa. The camera follows from slightly behind and to the side, handheld and imperfect. The vacuum head moves naturally across the floor. Soft vacuum motor and room ambience.
+
+Shot 2 (2–4s): She notices something small partially visible underneath the sofa. She stops vacuuming and bends down slightly to look. She quietly says: "어? 뭐지?" ("Oh? What's that?"). The camera shifts toward the sofa with a small handheld wobble.
+
+Shot 3 (4–6s): She kneels beside the sofa and reaches her hand underneath, trying to grab the object. She cannot quite reach it, so she stretches farther and peers underneath. Natural clothing and floor sounds.
+
+Shot 4 (6–8s): She finally pulls the object out. It turns out to be an old everyday item, such as a forgotten hair clip or small accessory. She looks at it for a moment with mild surprise, turning it over in her fingers.
+
+Shot 5 (8–10s): Close handheld shot of her examining the object. She suddenly recognizes it and gives a small amused smile. She quietly says: "아, 이거였네…" ("Ah, so this was it…"). The camera gently drifts closer.
+
+Shot 6 (10–13s): She looks around the room, noticing how much cleaning is still left to do. She gives a tiny sigh and an amused expression, places the object on the coffee table, then picks up the vacuum again.
+
+Shot 7 (13–15s): She resumes vacuuming around the sofa. The camera slowly drifts backward, lingering naturally on her and the half-cleaned room. She continues cleaning as if nothing happened.
+
+Sound (SFX): No music. Only live ambient sound — soft vacuum motor, footsteps, clothing movement, subtle furniture sounds, her quiet Korean murmurs, and natural room ambience. Natural imperfect phone-recorded audio.
+
+No subtitles, no on-screen text, no logos, no watermarks. Do not depict the reference image itself; do not duplicate or copy the subject.</code></pre>
+
+</details>
+
+## 3x3 grid of realistic UGC-style panels for Zioraa Ventures marketing video
+
+- **Original source:** [@OlatundeAI on X](https://x.com/OlatundeAI/status/2098409803273879657)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4103](https://imglume.com/prompt/4103)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7153be21-77ae-44ac-a524-75a087e73cad/325c4aa7-bead-4271-a064-c29cf690f1d5-1789176788832 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7153be21-77ae-44ac-a524-75a087e73cad/2c009d9d-6952-40c0-b98e-0b7f1f8ec1ae-1789176788832 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a full-sheet 3x3 grid of realistic UGC-style panels featuring this provision store using GPT Image 2. Split the video into 3 continuous sections.
+Each panel must contain a cinematic visual frame plus readable production notes printed directly inside the panel. The goal isn't just to show the product. It’s to help customers imagine a reason to buy it.
+The business name is Zioraa Ventures. Embedded the business name in the background.</code></pre>
+
+</details>
 
 ## E-commerce UGC talking-head video for Mango Passionfruit beverage
 
