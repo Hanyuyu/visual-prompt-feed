@@ -1,9 +1,119 @@
 # Architecture image prompts
 
-13 source-linked prompts, newest ImgLume records first.
+15 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hybrid Cinematic Architectural Watercolor Illustration Prompt
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2099133932122096054)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`
+- **ImgLume record:** [4233](https://imglume.com/prompt/4233)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/868b1aa9-1551-4fc2-9638-66b6336a80b5/7e6fa866-f7f1-4891-8f1d-773f6d844560-1789321047679 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/868b1aa9-1551-4fc2-9638-66b6336a80b5/80f698ba-486e-47f8-90ba-ac8e3463dd77-1789321047679 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/868b1aa9-1551-4fc2-9638-66b6336a80b5/a6a43f8e-bd13-4715-aa8d-9e14ce3e95e0-1789321047679 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/868b1aa9-1551-4fc2-9638-66b6336a80b5/0e4c3ca8-b35b-4fea-b357-ed066e9cd013-1789321047679 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a completely new visual style by synthesizing two contrasting visual languages:
+
+STYLE FOUNDATION:
+A cinematic architectural illustration with the clean composition, strong perspective, elegant architectural forms, crisp selective linework, luminous tropical colors, dramatic blue sky, and polished environmental storytelling of a high-end anime-inspired background painting.
+
+PAINT HANDLING:
+Fuse this with expressive traditional watercolor and ink techniques: loose gestural brush strokes, dry-brush texture, translucent watercolor washes, pigment blooms, irregular ink contours, spontaneous splatters, visible paper grain, partially unfinished edges, atmospheric paint bleeding, and subtle abstract fragmentation.
+
+NEW HYBRID STYLE:
+Do NOT simply imitate either reference. Develop an original visual language that sits between polished digital illustration and expressive architectural watercolor sketching.
+
+Keep the major architectural structures highly readable and beautifully designed, but allow secondary details, vegetation, reflections, clouds, distant objects, and peripheral elements to dissolve into loose watercolor marks and ink gestures.
+
+Use selective precision:
+sharp, deliberate linework around important architectural silhouettes, windows, domes, roofs, bridges, lamps, boats, and foreground structures;
+looser broken lines and painterly abstraction toward the edges and background.
+
+Combine luminous cinematic lighting with watercolor transparency.
+Use layered washes of turquoise, cyan, deep blue, warm ochre, coral, terracotta, muted green, and soft cream.
+Let colors subtly bleed into one another rather than appearing as perfectly flat digital fills.
+
+Atmosphere should feel tropical, poetic, nostalgic, peaceful, slightly dreamlike, and cinematic.
+
+Include strong foreground / middle-ground / background depth.
+Use reflections on water as loose, broken watercolor reflections rather than perfectly mirrored digital reflections.
+Clouds should be volumetric and luminous but painted with soft watercolor masses and irregular edges.
+Vegetation should alternate between identifiable tropical foliage and expressive abstract brushwork.
+
+SURFACE:
+fine cold-pressed watercolor paper texture,
+subtle grain,
+transparent pigment layers,
+ink-and-wash marks,
+dry brush,
+soft granulation,
+occasional paint splashes,
+slightly imperfect handmade edges.
+
+COMPOSITION:
+vertical cinematic composition,
+strong leading lines,
+architectural focal point,
+deep perspective,
+generous atmospheric space,
+balanced negative space,
+beautiful visual hierarchy,
+high-end editorial travel illustration.
+
+IMPORTANT:
+The final result must look like a coherent NEW ART STYLE, not a collage and not a literal combination of the two references.
+Avoid photorealism.
+Avoid generic watercolor clip-art.
+Avoid overly clean vector art.
+Avoid excessive anime facial features.
+Avoid uniform line thickness.
+Avoid making every object equally detailed.
+Preserve architectural clarity while allowing painterly abstraction to emerge naturally.
+
+highly sophisticated, cinematic, expressive, elegant, atmospheric, hand-painted, architectural watercolor-and-ink illustration, contemporary visual development art, original style. Ar 9:16!</code></pre>
+
+</details>
+
+## Premium Educational Travel Poster Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098741832704552982)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`
+- **ImgLume record:** [4174](https://imglume.com/prompt/4174)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e6cc8a00-7704-4d36-abbb-a8ba49ad4077/e66e98de-aa5f-4587-ae69-1ef00dbfadb7-1789264248217 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e6cc8a00-7704-4d36-abbb-a8ba49ad4077/4b282542-5c04-4aa2-aaa7-d9870f6b8acf-1789264248217 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium educational travel poster featuring [STRUCTURE NAME], one of the world’s most famous architectural landmarks. Show a beautiful, highly detailed illustration or photorealistic miniature of the structure as the main focal point, surrounded by clean infographic-style information.
+
+Include these clearly arranged details:
+
+NAME: [Structure Name]
+RULER / LEADER OF THE TIME: [Ruler or leader]
+CONSTRUCTION DURATION: [Number of years / approximate duration]
+HISTORICAL COST: [Original construction cost, if known]
+CURRENT TICKET PRICE: [Current entry price]
+LOCATION: [City, Country]
+FAMOUS FOOD TO TRY: [1–3 famous local foods]
+
+Add small architectural sketches, construction details, a tiny location map, historical symbols, subtle decorative elements, and elegant infographic lines. Use a sophisticated museum archive + luxury travel magazine aesthetic with warm ivory paper, muted heritage colors, fine black typography, subtle vintage grain, and clean geometric layout.
+
+Make the structure large and dominant, with the information arranged neatly around it. Add a small “WORLD ARCHITECTURE ARCHIVE” label and a subtle historical catalog number.
+
+Style: elegant, educational, premium, collectible travel poster, highly detailed, clean composition, realistic textures, sophisticated typography.
+FORMAT: Vertical 4:5.
+Avoid: clutter, excessive text, unrelated landmarks, people, modern advertisements, and watermark.</code></pre>
+
+</details>
 
 ## Surreal Travel Artwork of Iconic Structure
 

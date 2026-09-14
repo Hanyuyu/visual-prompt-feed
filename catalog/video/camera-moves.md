@@ -1,9 +1,109 @@
 # Camera Moves video prompts
 
-154 source-linked prompts, newest ImgLume records first.
+156 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30秒写实地下怪兽追逐短片
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2099105820302606430)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4229](https://imglume.com/prompt/4229)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a89db4c4-668c-4bcc-a0a6-7790edb430b5/a036c2c8-dda0-4b0e-81ec-7478b367f6af-1789318895580 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>生成一支30秒的写实地下怪兽追逐短片。 采用好莱坞商业生物惊悚片的动作调度：开场立即遇险，中段短暂躲过，随后危险突然升级，最后一次奋力逃脱带来短暂释放，再以撞击收尾。全片是同一场连续事件，多镜头剪辑，时间不跳跃。
+角色与怪兽
+成年女主角严格参考 #2
+￼
+图片1
+，发型与服装严格参考 #3
+￼
+图片_20260911221703_12_537图片_2026091122…
+，保持面容设计。右手握带腕绳的手电。她不是始终对着镜头展示惊恐，而是根据眼前发生的事做出不同反应：逃跑时咬牙控制呼吸；听见身后扑击时骤然缩肩、抽气；看见逃生门时眼神集中、身体加速；摔倒后先疼得闭眼，再挣扎爬起；门关上后才出现压不住的颤抖。目光看危险、地面和出口，不看镜头。
+怪兽严格参考 #1
+￼
+u6744974679_a_photoreal_schleimiges_hellgraues_wurmmonster_sc_498c0176-5e9b-4354-8e98-5358792fcc04_0u6744974679_a_p…
+：灰白湿黏的无足蠕虫长躯、深褶皱表皮、暗色短刺、侧脸肉须与满口细长尖牙。体型保持一致，头部宽度约为女主肩宽的两倍。保留参考造型，重点表现重量与攻击性：躯干压缩蓄力，腹部抵地，随后头颈猛然向前射出，后续沉重身体拖着污水追上。 平时嘴部微张，攻击前下颚才突然展开；黏液随着甩头断成细丝，肉须擦墙向后弯折。至少一个镜头清楚展示头颈与长躯连续相连、身体推动头部前进。
+场景与摄影
+潮湿的地下排水洞穴，污水沟旁有狭窄检修步道，沿途是锈管、湿墙和低矮混凝土拱顶。路线简单明确：直道经过一个厚墙转角，转角后通向一扇半开的铁检修门。门只容女主侧身通过，门后的狭小检修室是她唯一可见的逃生目标。
+照明来自稀疏的暗绿旧灯和女主的冷白手电。面孔经过灯下才明亮，黑暗中保留微弱湿墙反光。怪兽表皮的湿亮细节随经过光源而掠过，不把它全身均匀照亮。
+摄影机有真实手持重量：追跑时有脚步起伏，突袭时本能闪避，重新找到主体时有短促的构图修正。平静时稳得住，危险时才猛烈晃一下。 近景表现人物反应，广角中远景交代人与怪兽的距离，攻击镜头让双方与接触位置同框。侧拍追逐保持女主向画面右侧逃跑。正常速度为主，不连续慢动作。
+00:00—00:03｜贴脸开场，第一下惊吓
+贴近女主侧脸的手持近景，她正在急跑，咬着牙吸气，湿发反复拍在脸侧。她听见背后突然增大的水声，眼睛向后侧一瞥——还来不及完整回头，一股污水猛地打上她的肩背。
+她惊得缩肩，呼吸断成一声短叫，身体本能向前冲。摄影机也被水花迫得偏开，随即找回她。怪兽暂不完整出现，只听见一次极近的咬合声。
+00:03—00:06｜拉开看清：刚才差一点被咬到
+顺着她向前冲的动作，切低机位广角侧面全景：女主在前，怪兽的头刚刚扑空，砸落在她身后一米多的浅水中。整个头颈连着粗重长躯清晰可见，冲击把污水向两侧推开。
+怪兽下颚短暂擦地，前躯收缩，马上重新抬头。女主失去半步平衡，左手一撑墙面恢复奔跑。镜头横向追她两步，让观众看清怪兽正在重新蓄力，而她没有回头看见。
+00:06—00:10｜第二次攻击，冲过转角
+切到女主左后肩的近距离追拍，前方厚墙转角迅速接近。怪兽拖行声突然加速，她借余光回望，脸上的咬牙坚持瞬间变成失控惊惧。
+怪兽张口前冲，她压低身体急转进墙后。摄影机紧跟着拐弯，画面被近处墙角短暂擦过；下一瞬，怪兽撞上转角外侧的锈管，金属爆响，水花与零星碎屑从她身后喷进画面。摄影机被撞击震得一沉，再抬起找到她踉跄的背影。怪兽因扑空和转弯暂时落后。
+00:10—00:13｜短暂安静，出现希望
+切近景，女主贴着转角后的墙喘了半口气。身后的巨大撞击变成较远的管道余震，短暂只剩她急促吸气和滴水声。
+她忍住呼吸，侧耳听，随后看向前方。镜头顺着她的视线迅速转过去：几米外，一扇铁检修门半开，门内透出微弱暖光。
+回到她的近景，眼神从慌乱变得集中，下颚绷紧。她立刻离墙冲向门口，不停留表演。
+00:13—00:17｜希望刚出现，怪兽就冲出来
+切门口方向的中远景，女主朝前景的门奔来，后方转角完整可见。让观众先看见一截肉须从转角猛地甩出，紧接着怪兽头部撞入画面，躯干顶着外弯墙面强行转进来，带起一片污水。
+女主听见声音回望，脚步没有停，但下一步踩到湿滑地面。她前脚打滑，身体侧倒，手电光猛扫墙壁；她用左前臂撑地，膝盖落地，摔在距门口仅两步的位置。镜头骤降接住摔倒动作，不将跌倒处理成优美姿态。
+00:17—00:21｜贴地挣扎，牙齿真正逼近
+贴地近景：女主疼得闭眼，短促吸气，右手仍紧握手电，左掌撑住地面挣扎向门口爬起。切一个稍宽的低角度双主体镜头，怪兽在她后方逼近，湿重头部压低，嘴逐渐张开。
+她看见门框，伸左手抓住边缘，借拉力把身体向前拖。怪兽发动短促扑击，咬在她刚刚收走的后脚位置，牙齿刮过地面，水花撞上镜头下缘。她被这声咬合逼出一声真正的尖叫，猛蹬地面，将自己送进门内。
+00:21—00:25｜完成逃生动作：进门、关门、撞击
+切检修室内朝门口拍摄的中景。女主跌撞着进入，左肩撞到内墙，顺势转身，用左手抓住门内拉手，身体后撤，奋力把半开的铁门拉向门框。
+短切门外低角度：怪兽从后方扑向正在缩小的门缝。
+在扑击动作上切回室内：铁门先砰然合拢，随即怪兽撞在门外。 巨响把女主和门板一起震得猛颤，尘土从门框落下。她缩头闭眼，仍死死拉住门把；碰撞之后，立即将门内横闩推入闩槽。动作有先后，清楚完成。
+00:25—00:28｜终于能喘一口气
+保持室内近景，镜头第一次明显安静下来。她左手撑着已闩住的门，额头贴向冰冷金属，肩膀急促起伏。眼睛闭上，嘴角抽动，吐出一口带哭腔的长气。
+手电垂在右手，光斑落在地上，随着她手指发抖轻轻颤动。门外短暂没有动静。让这一口气完整发生，留出真正的情绪释放。
+00:28—00:30｜最后一击
+门外突然传来近距离、沉重的刮擦。她立刻停止呼吸，眼睛睁开，慢慢把头离开门板。
+轰——怪兽再次撞门。 铁门中央猛地向内鼓起，横闩震响，女主被惊得向后跌退一步，手电光狠狠甩上天花板。摄影机随她本能后撤，在她惊惧的脸与变形门板之间捕捉这一击，立即切黑。留下金属余震，不再追加新动作。
+声音与生成约束
+无配乐，以声音制造起伏：开头贴近耳边的喘息，攻击前骤然加速的拖水声，扑空撞击的巨大回响，中段短暂安静，结尾门内的呼吸释放与突然撞门。怪兽不持续吼叫，攻击才出现短促低吼与猛烈咬合。
+只有一名女主和一只怪兽；头部与躯干连接自然，体型不变。服装、手电和逃生方向连续。避免恒定张嘴瞪眼、匀速滑行、慢悠悠等人物逃跑、频繁无目的摇镜。无血腥肢解，无字幕、标志或水印。</code></pre>
+
+</details>
+
+## Flova × Seedance 2.5 Product Promo Video Prompt
+
+- **Original source:** [@aaassa120 on X](https://x.com/aaassa120/status/2098830419794030708)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`, `product-ads`
+- **ImgLume record:** [4161](https://imglume.com/prompt/4161)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/da8faa80-8c08-4ed0-a27f-5e86aa400283/c18e6cde-0c2a-4688-9898-9a3ad9288a49-1789237564195 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>PART 1 (0–30s)
+— 16:9, 4K, seedance 2.5 render quality
+— 6 cuts, handheld reality / weightless dreamworld, one graphic match cut
+
+CAMERA BEHAVIOR CONTRACT: in the REAL WORLD the camera is HANDHELD — organic micro-shake, human weight, drift and correction. CRITICAL: during the ascent (CUT 3) the handheld camera is PLANTED ON THE GROUND — the operator does not fly, does not crane, does not dolly; they stand on the kitchen floor and TILT UP, tracking her from below as she rises away, hands trembling slightly with the effort of craning back. In the DREAMWORLD the handheld dies: weightless, silk-smooth flight cam.
+
+DREAMWORLD RULE — PHOTOREAL SURREAL: top-tier CGI rendered with physical realism — true atmospheric haze, aerial perspective, realistic cloud volumes, physically correct liquid. The surrealism is in WHAT exists: an endless glowing turquoise sky over a luminous sparkling-water ocean; slow-motion FRUIT MOUNTAINS — mountain-scale formations of giant glossy limes, cherries and pineapple wedges fused with erupting cyan-liquid peaks; balloon-sized carbonation bubbles rising with real refraction.
+
+Character: woman from @Image 1 — same facial features, same long dark layered waves, unchanged — wearing a flowing pale-turquoise linen sundress, barefoot, morning stillness turning to wonder. The Aqua Lagoon can stays in her hand through the entire sequence.
+
+[0–3s] CUT 1 — THE SIP. Handheld medium, kitchen morning light: she pops the tab — crack and hiss → raises the can → tilts back → one gulp. Her eyes widen mid-swallow.
+
+[3–6s] CUT 2 — THE BUBBLES. Handheld tight on the can at her lips: a stream of glowing, oversized carbonation bubbles escapes the can's mouth → they multiply → swirl around her arms and shoulders → and as they gather beneath her, her bare feet peel off the kitchen floor. Contact, lift, weightlessness — in that order. She gasps a laugh.
+
+[6–15s] CUT 3 — THE ASCENT (one continuous ground-locked shot, into the match). Camera PLANTED on the kitchen floor, low wide angle, tilting up to follow her: she rises through the room wrapped in the bubble stream, hair floating, cream walls and soft aqua cabinets sliding down past frame edges → above her the ceiling BREAKS OPEN — plaster and beams parting outward in slow motion, dust drifting weightless, morning light flooding down → she passes through → keeps rising into open blue sky → grows smaller against the sky, bubbles trailing beneath her. Frame trembles slightly with the strain of the tilt. FREEZE THE GEOMETRY of the final frame: her small silhouette centered high in frame against open sky, still rising, arms slightly out, bubble trail below.
+
+[15–19s] CUT 4 — THE OTHER SKY (MATCH CUT). GRAPHIC MATCH: first frame mirrors the previous final frame exactly — same silhouette, same position, same scale, same bubble trail — but the sky is now the luminous TURQUOISE of the dreamworld and the handheld shake is gone: weightless smooth cam. Hold the matched composition 0.5s → she decelerates at the apex, levels out, takes in the view: vast turquoise sky, glowing sparkling-water ocean far below, fruit mountains on the horizon. The bubble stream disperses around her like released balloons.
+
+[19–27s] CUT 5 — AROUND THE MOUNTAINS. She flies happily, banking in a wide arc AROUND the fruit mountains — skimming past a mountain-scale lime ridge, weaving along a pineapple-slice cliff face with cyan liquid cascading off it in slow motion, cherries tumbling past like giant red planets. Camera ORBITS her as she flies, closing in gradually — wide orbit → tightening — turquoise dress vivid against the deeper turquoise sky.</code></pre>
+
+</details>
 
 ## Low ocean wave to top-down cliff view cinematic camera motion
 

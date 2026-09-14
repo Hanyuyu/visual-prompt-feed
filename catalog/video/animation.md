@@ -1,9 +1,272 @@
 # Animation video prompts
 
-149 source-linked prompts, newest ImgLume records first.
+156 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second realistic AAA third-person open-world game sequence in a Japanese neighborhood
+
+- **Original source:** [@Itswsm105f on X](https://x.com/Itswsm105f/status/2099133738294882491)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4230](https://imglume.com/prompt/4230)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ab6f4d17-20de-4bc1-bd8f-29006bd8be02/c8c59d6c-53d8-42a8-8158-9b71602ff6b5-1789318951953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second realistic AAA third-person open-world game sequence set in a lively local Japanese neighborhood during late afternoon. Use the uploaded image as the exact character reference: preserve the same young Korean woman, facial features, long black hair, pastel-lavender top, white cargo pants and sneakers throughout the entire sequence. Keep her identity, outfit, proportions and appearance perfectly consistent.
+
+The character is walking through a narrow Japanese shopping street when she notices a small stray cat carrying a colorful ribbon running between pedestrians. She follows the cat into a side alley and discovers that it has grabbed a keychain from a nearby convenience store display.
+
+She picks up the keychain and tries to return it, but the cat suddenly runs away. She chases it through the neighborhood, weaving between bicycles, pedestrians, vending machines and parked kei cars. A startled shop owner notices her running and begins chasing after her, thinking she stole something.
+
+She jumps over a small roadside barrier, squeezes through a narrow alley and hides behind a vending machine while the shop owner searches nearby. A notification appears: “SUSPICIOUS ACTIVITY.” She slowly sneaks away, but accidentally knocks over a stack of empty delivery crates, triggering another alert: “THEY FOUND YOU.”
+
+She runs toward a small shrine entrance, where the cat suddenly stops beside an elderly woman. The woman recognizes the keychain and happily takes it back, revealing that the cat had stolen it from her bag earlier.
+
+The shop owner arrives, completely confused. The character gives an innocent smile and points toward the cat. The elderly woman laughs, the cat runs away, and the character casually walks back toward the shopping street.
+
+Use authentic third-person AAA gameplay graphics, realistic 3D characters, detailed Japanese neighborhood architecture, natural pedestrian AI, believable physics, realistic lighting, environmental motion and subtle facial reactions. Include a GTA-style HUD with minimap, health/stamina bars, controller prompts, objective markers, alert indicators and notifications such as “FOLLOW THE CAT,” “SUSPICIOUS ACTIVITY,” “THEY FOUND YOU,” “BAD DECISION,” “KEYCHAIN RECOVERED,” “DELIVERY? NO—MYSTERY SOLVED,” “CHAOS +150,” and “MISSION COMPLETE.”
+
+Camera must remain primarily in authentic third-person gameplay perspective with smooth player-follow movement and occasional natural gameplay camera adjustments. No anime, cartoon, cel-shading, mobile-game graphics, cinematic movie shots, distorted characters, duplicated NPCs, inconsistent clothing, floating objects, gore or unrealistic physics.</code></pre>
+
+</details>
+
+## young bohemian woman meditating with ginger cat
+
+- **Original source:** [@minuitIA on X](https://x.com/minuitIA/status/2098798742858064167)
+- **Recommended model:** `seedance`
+- **Source model(s):** `midjourney`
+- **Categories:** `animation`
+- **ImgLume record:** [4222](https://imglume.com/prompt/4222)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e5079138-27ff-4592-9b1d-bb611c3b41ee/940fa649-eadd-4990-b9d4-f504c2b51dca-1789312612892 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e5079138-27ff-4592-9b1d-bb611c3b41ee/b098ae71-3ae7-43a1-b286-0f77a351ce7e-1789312612892 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>young bohemian woman meditating cross-legged with a fluffy ginger cat on her lap, long voluminous curly auburn hair, turquoise jewelry, colorful boho outfit, candles and incense smoke, lush sunlit conservatory, warm golden light, dreamy bokeh, cozy spiritual atmosphere, stylized high-end 3D animation, cinematic lighting, teal and gold palette</code></pre>
+
+</details>
+
+## Scarlet Rush - Animated uphill battle sequence
+
+- **Original source:** [@aimikoda on X](https://x.com/aimikoda/status/2099016980564984230)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4205](https://imglume.com/prompt/4205)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fee8f7b1-6fdb-4b01-8b7e-ee21d0e9a592/5b81efef-7eea-4176-ab7f-05e17652e5f6-1789289513101 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Seedance 2.5 Prompt:
+Use @[char ref] for the swordswoman's identity, costume, palette, katana and scabbard. Four connected shots follow an uphill battle ending in a superhuman finishing combination.
+
+Dozens of enemies crowd the mountain's lower shelf, split middle terrace and upper switchback above a ravine. Several attack simultaneously while dense ranks advance. Spearmen target her landing, swordsmen parry and countercut, shields drive her toward the edge, survivors pursue uphill. They exploit openings and replace fallen fighters without waiting.
+
+High-end graphic anime realism, explosive calligraphic sword action, strong silhouettes, extreme foreshortening and realistic material weight. Hair and robes lash behind acceleration. One physical katana and scabbard stay hers. White-hot blade arcs, crimson contact ruptures, cyan brush trails, fragmented afterimages and serpentine ribbons follow movement and disperse. Swing pressure bends air; contacted rock peels into painted fragments, leaving gouges. Hits have immediate local results; enemies resist until struck, defeated bodies stay down. No delayed cut lines, frozen victims, energy web or remote mass-kill pulse.
+
+Couple the camera to sword momentum: blade-height whip tracking, violent orbits, close foreground passes and snap zooms. Keep each target and uphill opening readable. Blade trails mask seamless cuts between shots; black-red-cyan abstraction resolves into the same scarred mountain. Escalate camera acceleration with her final burst; preserve full-speed impacts.
+
+Shot 1. Low wide-angle tracking skims beside her legs as spearmen surge downhill and swordsmen attack through their gaps. She beats a spear aside with an iaijutsu draw, kills the exposed swordsman and ducks an overhead strike. His neighbor countercuts; snap-zoom into their crossed blades, then whip outward with her parry-driven uphill reversal. She becomes a crimson-cyan streak and resolves higher between moving weapons. A shield drives at her from above; she pivots around its edge, cuts the wielder off balance and springs past. Race past his falling shield, whip upward beneath her extended sword and enter its white-hot trail for the cut.
+
+Shot 2. Emerge into a violent rising half-orbit outside the split terrace, the ravine plunging beneath the lens. Upper ranks thrust down; middle fighters slash across her route. She kicks off rock into an aerial spin. A spearman tracks her landing and thrusts; she deflects his shaft, reverses laterally in midair and changes to reverse grip, killing a second attacker on descent. Sweep with the blade from extreme foreground into deep space and snap around her reversal. The spearman retracts and thrusts again; her landing folds beneath it and rebounds into a rising countercut. Snap-zoom into his recoil, release wide onto enemies rushing both terrace branches, then ride a lateral cyan arc across the lens into the next shot.
+
+Shot 3. Slingshot ahead along the upper switchback, turn toward her and retreat uphill just beyond her blade. Shielded reinforcements charge down, spears stab over their shoulders and pursuers close below. She restores forward grip, chaining spinning cuts and rapid resheath-and-draw attacks. A shield blocks her slash and shoves her toward the ravine; she plants at the edge, redirects around its rim and cuts its wielder down. Another swordsman parries and immediately countercuts; she ducks, cuts upward and gains the next step. Plunge close to the deflected weapon, snap back through whipping cloth and whip-tilt with her leap. The last surviving ranks converge across the upper approach and crest. Her rising white-hot arc eclipses the lens.
+
+Shot 4. Burst out above the upper approach, briefly exposing the entire remaining force as they commit downhill together. Plunge into a weapon-height chase as she accelerates far beyond her previous speed and chains one uninterrupted lethal combination through all of them. Repeated iaijutsu draws, reverse-grip cuts, aerial spins and impossible direction changes carry her from target to target up the crowded switchback and across the crest. Enemies thrust, block and counterattack into her path; she breaks or slips each defense and kills each opponent at actual blade contact, instantly launching toward the next. Bodies recoil and fall sequentially behind her at overwhelming speed. The camera whips through every directional break, overshoots a strike and catches the next, dives through blade arcs and snap-zooms into selected collisions without stopping her or adding cuts. Crimson-cyan streaks connect visible arrivals and impacts; white-hot arcs and ink ruptures erupt across foreground, action plane and depth. The last cut kills the final attacker and carries her onto the upper lip into a low finishing stance, blade extended. The camera brakes into a wide three-quarter view: every enemy lies motionless along the ascent, while violent serpentine energy spirals behind her and her robes lash in the dying pressure wave.</code></pre>
+
+</details>
+
+## 30-second cinematic Japanese anime cooking video of katsudon
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2098845134326808734)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4203](https://imglume.com/prompt/4203)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/255f72b4-7a75-4129-9a23-c2836b8362a7/c9864d5b-43cf-442c-a319-fcf2e6c91369-1789289452475 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second fast-paced cinematic Japanese anime cooking video showing the preparation of authentic katsudon, entirely from the text description below.
+
+IMPORTANT: Do not display, recreate, trace, reference, or imitate any storyboard, sketch, reference image, panel, annotation, or source material. Generate only original anime-style animation.
+
+STYLE
+
+High-quality Japanese anime film style, cinematic summer lighting, ultra-detailed food textures, realistic cooking physics, visible steam and moisture, shallow depth of field, macro close-ups, smooth camera movement, warm Japanese kitchen atmosphere. Fast rhythmic editing with natural match cuts based on movement, shape, texture, and composition.
+
+TIMELINE
+
+0–2.5s — Prepare Pork
+Close-up of hands pounding a thick pork loin with a wooden mallet on a cutting board. The meat gradually flattens and its fibers loosen. Sprinkle salt and pepper evenly. Crisp rhythmic impacts.
+
+2.5–5s — Bread the Pork
+Quick match cuts: press the pork into flour, dip into beaten egg, then firmly coat with coarse panko breadcrumbs. Show realistic egg dripping and breadcrumbs adhering to the surface.
+
+5–7.5s — Fry
+Lower the breaded pork into hot golden oil. Intense bubbling surrounds the cutlet as the crust turns golden brown and crispy. Warm cinematic lighting and detailed oil movement.
+
+7.5–9.5s — Slice
+Place the fried tonkatsu on a wooden board. A sharp knife cuts it into even strips. The crispy crust cracks naturally, revealing juicy white pork with gentle steam escaping.
+
+9.5–12s — Simmer Dashi &amp; Onion
+Thinly sliced onions gently simmer in amber dashi inside a shallow pan. Small bubbles rise while the onions become translucent. Chopsticks gently move them through the broth.
+
+12–14s — Add Tonkatsu
+Place the sliced tonkatsu carefully over the simmering onions using chopsticks. The broth begins soaking into the crispy edges while steam rises.
+
+14–16.5s — Pour Egg
+Slowly pour beaten golden egg over the tonkatsu and onions. The egg spreads naturally through the gaps and begins setting around the hot edges.
+
+16.5–19s — Set the Egg
+Close-up of the egg gently coagulating over low heat. Edges become soft and golden while the center remains glossy, slightly runny, and trembling. No stirring.
+
+19–21s — Prepare Rice
+A white ceramic donburi bowl receives a generous mound of steaming Japanese short-grain rice. The rice looks fluffy and slightly glossy.
+
+21–24s — Assemble
+Carefully slide the egg-and-tonkatsu mixture from the pan onto the rice. The egg settles naturally in a soft wave while dashi lightly absorbs into the rice.
+
+24–26s — Final Close-Up
+The finished katsudon rests on the counter. Glossy egg slowly settles over the tonkatsu and rice, gently trembling. Slow cinematic push-in.
+
+26–30s — Hero Reveal
+Present the finished katsudon in a traditional blue-and-white ceramic bowl on a wooden surface. Golden egg covers crispy tonkatsu over glossy rice, topped with fresh mitsuba. Steam rises as the camera slowly arcs around the bowl for a beautiful anime-food-film ending.
+
+AUDIO
+
+Bright 1980s-inspired Japanese city-pop instrumental, 110–120 BPM, with subtle koto and light chime percussion. Synchronize realistic ASMR cooking sounds: mallet impacts, knife slicing, frying sizzle, bubbling dashi, chopsticks, egg pouring, steam, and a soft ceramic clink.
+
+End with one delicate wind-chime tone during the final reveal.
+
+NEGATIVE
+
+No storyboard, reference image, sketch, panels, borders, numbers, arrows, annotations, subtitles, captions, UI, logos, or text overlays. No unrelated ingredients or dishes. Katsudon only. Keep the food, hands, utensils, lighting, and environment visually consistent throughout.</code></pre>
+
+</details>
+
+## Cinematic ultra-cute 3D animated short film in a whimsical watermelon field
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2098952788835467439)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4183](https://imglume.com/prompt/4183)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/945660d6-2bfe-4f5d-8927-9b35336716d3/b025a111-070d-4b2c-8647-9a6525851d85-1789274761539 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic, ultra-cute 3D animated short film in a bright, whimsical countryside watermelon field under a clear vivid blue sky.
+
+The main character is a small, chubby, adorable brown otter-like animal with soft plush fur, a round face, huge expressive glossy eyes, tiny ears, rosy cheeks, a small dark nose, and a cute blue patterned scarf tied around its neck. Keep the character design consistent throughout the entire video.
+
+Opening shot: the little character walks happily through a dry sandy path surrounded by a lush watermelon field. The warm morning sunlight creates soft cinematic shadows and beautiful highlights on its fur. A large green leaf provides shade above its head. Use a low-angle, child-friendly cinematic camera with shallow depth of field.
+
+The character discovers large ripe watermelons scattered throughout the field. It becomes excited, smiles brightly, and approaches one of the watermelons. Show detailed watermelon textures, realistic green stripes, tiny soil particles, grass, and natural environmental details.
+
+The character picks up a large watermelon slice and happily eats it. Capture close-up shots of its adorable facial expressions, sparkling eyes, tiny mouth movements, and joyful reactions. The watermelon slice should have juicy red flesh, black seeds, and a fresh realistic texture.
+
+Cut to a relaxing scene where the character sits comfortably under a colorful beach umbrella on a small woven lounge chair, wearing a cute straw hat and enjoying the sunny afternoon. The atmosphere is peaceful, warm, playful, and summery.
+
+Then show the character returning to the watermelon field and interacting with an enormous watermelon. Introduce a second adorable character: a small round fluffy blue animal with huge expressive eyes and soft plush fur. The blue character approaches curiously and interacts playfully with the brown character.
+
+The two characters share watermelon together. Show them sitting side by side, smiling, looking at each other, and enjoying the fruit. Include funny, heartwarming facial expressions and subtle body movements.
+
+Final shot: both adorable characters sit together in the watermelon field, each holding a juicy watermelon slice, smiling happily toward the camera. A giant watermelon and green vines fill the background. Warm golden sunlight, soft breeze, cinematic depth of field, vibrant colors, wholesome friendship atmosphere.
+
+Visual style: high-end cinematic 3D animation, Disney/Pixar-inspired quality without copying any specific character, ultra-detailed soft fur, expressive oversized eyes, realistic materials, polished character animation, beautiful global illumination, volumetric sunlight, soft shadows, vibrant but natural colors, detailed countryside environment, smooth camera movements, shallow depth of field, cinematic composition, charming facial animation, high production value.
+
+Camera: mix of wide establishing shots, low-angle tracking shots, medium character shots, extreme close-ups of facial expressions and watermelon, gentle camera push-ins, smooth cinematic transitions.
+
+Aspect ratio: 9:16 vertical.
+
+Mood: adorable, wholesome, funny, relaxing, heartwarming, sunny summer adventure.
+
+Quality: ultra-high-definition, polished cinematic animation, highly detailed, smooth motion, consistent characters throughout.</code></pre>
+
+</details>
+
+## Seedance Prompt #2 – 15s Cinematic 2.5D Animation of Kestrel Traversing Salt Flats
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098644379128967205)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4181](https://imglume.com/prompt/4181)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/850ae08a-f8ae-4a86-877b-08fb23142be5-1789272700379 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/2a0f6f24-2cc5-4eff-8fe1-e05f8272bd01-1789272700379 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/bae3338a-e587-49b4-8197-05f673fa91ad-1789272700379 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/c854ec2e-f39d-44f3-890c-c372cebd51db-1789272700379 "Image prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/f7a08ef8-3223-4710-94a7-39c531e54342-1789272700379 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/55a5798c-c15e-4655-ad06-913983908a46-1789272700379 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/c5b842af-1e84-4e2a-b3b2-71a0372b7eea/97ab2e04-91aa-43b5-b3cf-52df8e8792be-1789272700379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>#2
+
+Cinematic 2.5D animation in painterly rendering, gouache concept art in motion, visible brush textures, flat posterized color blocks, matte finish, soft volumetric lighting. NOT flat 2D cartoon, NO outlines, NOT glossy CGI, NO photorealism.
+
+WORLD: [Image1] Endless bleached salt flats under pale midday sun, palette of cream-white, warm tan, and dark brass, vivid safety-orange accent, heat haze, drifting dust.
+
+CHARACTER: [Image2] Tall synthetic traveler, white dome head with dark visor slit, oversized cream bell cloak with thick textured collar, tan bag with bright orange strap, skinny white prosthetic legs, chunky platform clogs, brass staff. Elongated tall proportions, painterly matte finish.
+
+CINEMATIC SHOT DESIGN (6 Filmic Cuts across 15 Seconds):
+• SHOT 1 (0–2s | Macro Detail): Macro close-up of the brass surveying staff driving into cracked white salt; an orange acoustic sonar wave ripples through the ground.
+• SHOT 2 (2–4s | Behavior): Medium shot of Kestrel walking through the heat distortion, massive cream cloak billowing heavily in the desert wind.
+• SHOT 3 (4–6s | Expression/Visor): Tight close-up on the featureless white dome helmet; a single point of safety-orange light pulses across the dark visor slit.
+• SHOT 4 (6–9s | Wide Scanning): Extreme wide shot; Kestrel twists the brass staff, launching a massive flat-painted geometric orange sonar grid across miles of bleached dunes.
+• SHOT 5 (9–12s | Dynamic Tracking): Fast tracking shot circling Kestrel as buried mechanical structures under the sand light up in response to the pulse.
+• SHOT 6 (12–15s | Hero Poster Frame): Low-angle hero shot of Kestrel standing still, brass staff resting in hand, orange strap fluttering, towering against the pale white sky. Hold final frame.
+
+Weighty natural animation, heavy cloak physics reacting to wind, 24fps filmic motion, shallow depth of field.
+
+NOT flat 2D cartoon, no bold outlines, not glossy CGI, no photorealism.</code></pre>
+
+</details>
+
+## Seedance Prompt #1 – 13s Cinematic 2.5D Animation of Kestrel on Salt Flats
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098644379128967205)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4180](https://imglume.com/prompt/4180)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/a6cf4d0a-cf1b-482a-881c-14639ae416f8-1789272700379 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/232db39e-e12b-42d2-ad97-b09360678007-1789272700379 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/52458900-0b6a-48b3-92ef-a98507a2b7ff-1789272700379 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/6b39753b-f33b-4581-9b8d-589cb14ef5b2-1789272700379 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/d1b70586-c95c-4025-9fd3-5e5386604ffd-1789272700379 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/cd390846-b795-4762-88c4-f6ae3182f33d-1789272700379 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/37b275c0-1fd7-4c29-a48b-a5d6f9f43553/04be9ea9-2de6-4326-93a4-9d917c4d5c71-1789272700379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>#1:
+
+Cinematic 2.5D animation in fully painterly rendering, gouache concept art in motion, visible brush textures, flat posterized color blocks, matte finish, soft volumetric lighting. NOT flat 2D cartoon, NO outlines, NOT glossy CGI, NO photorealism.
+
+WORLD: [Image1] Bleached desert salt flats at high noon, palette of cream-white, warm tan, and dark brass, vivid safety-orange accent, heat haze, rising dust.
+
+CHARACTER: [Image2] Tall synthetic traveler, white dome head with dark visor slit, oversized cream bell cloak with thick textured collar, tan bag with bright orange strap, skinny white prosthetic legs, chunky platform clogs, brass staff. Elongated tall proportions, painterly matte finish.
+
+CINEMATIC SHOWCASE SHOT DESIGN (5 Filmic Cuts across 13 Seconds):
+• SHOT 1 (0–2s | Macro Detail): Extreme macro on brass staff tip driving into cracked white salt; a vivid flat-painted orange sonar ring ignites outward.
+• SHOT 2 (2–5s | Visor &amp; Cloak Motion): Close-up on the white dome head; the visor slit flares neon-orange as heavy desert winds violently whip the textured collar and orange strap.
+• SHOT 3 (5–8s | Kinetic Pulse): Wide shot; Kestrel twists the staff, unleashing a massive geometric orange acoustic wave that fractures the salt flats in clean geometric cracks.
+• SHOT 4 (8–11s | Agile Glide): Dynamic tracking shot; Kestrel pole-vaults off the staff with uncanny athletic speed, the massive cream cloak snapping open like a glider wing mid-air.
+• SHOT 5 (11–13s | Hero Poster Frame): Low-angle hero shot; Kestrel lands silently, standing tall in an imposing 10-heads-tall silhouette as the orange pulse fades into the pale sky. Hold final frame.
+
+Weighty natural animation, dynamic cloak physics reacting to momentum and wind, 24fps filmic motion, shallow depth of field.
+
+NOT flat 2D cartoon, no bold outlines, not glossy CGI, no photorealism.</code></pre>
+
+</details>
 
 ## Cute anthropomorphic baby bunnies hugging on a cozy sofa
 

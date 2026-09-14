@@ -1,9 +1,78 @@
 # Character image prompts
 
-139 source-linked prompts, newest ImgLume records first.
+142 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Revy reimagined – bold contemporary anime street‑art poster
+
+- **Original source:** [@theSosiKevin on X](https://x.com/theSosiKevin/status/2099146070169124991)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `grok`, `nanobanana`
+- **Categories:** `character`, `poster-design`
+- **ImgLume record:** [4225](https://imglume.com/prompt/4225)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/06e087f5-63b9-4e9e-a2d0-4d8cc3bf3857-1789314701134 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/99cac4cd-0886-40d3-aed1-382bbcb616eb-1789314701134 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/108cd2bc-c87f-46e2-b2ca-253db16ab117-1789314701134 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/06644997-bf36-491e-99ad-2077bd01e9d2-1789314701134 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Reimagine adult Revy from Black Lagoon in a bold contemporary anime × underground street-art editorial aesthetic. Preserve her recognizable long dark auburn hair, sharp eyes, confident dangerous expression, black fitted crop top, distressed denim shorts, tactical shoulder holsters and signature dual pistols. Use highly detailed anime linework, crisp heavy outlines, saturated cel colors, subtle halftone and vintage print grain. Surround her with explosive graffiti-inspired graphics, abstract smoke curls and bold shapes in vivid cyan, orange, magenta, yellow and green. Use dramatic perspective, strong foreshortening and dynamic editorial posing. Vary the camera angle, pose and composition between generations while maintaining consistent character identity, outfit and overall art direction. High-impact vertical poster composition, polished anatomy, accurate hands and weapons, expressive face, premium anime illustration quality.</code></pre>
+
+</details>
+
+## Midjourney v8.2 Stylized Full-Body Character Concept Art of Kestrel
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098644379128967205)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4182](https://imglume.com/prompt/4182)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/4b5b4367-cb1a-4c2a-8c4d-31e275b493f2-1789272700379 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/005967d7-57d6-4659-a9da-edd339ccfdd5-1789272700379 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/767119b7-972e-4773-a8a5-e700b0a86f25-1789272700379 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/37560937-97c1-4ed0-b855-d12a3585bfd2-1789272700379 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/3a0615ad-712c-40ec-9f31-1dcf7c1fade0-1789272700379 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/b7a35bc5-c883-4450-81d3-289303186452-1789272700379 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/fd7b1fb5-9afd-43ae-a5c5-008b31cb24af/e74a686a-97b8-444f-b73b-188669b8a026-1789272700379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Midjourney v8.2 Prompt:
+
+Stylized full-body character concept art, painterly 2.5D illustration , flat posterized color blocks, hard-edged brush shapes, matte gouache finish, no outlines. A tall synthetic wanderer, smooth featureless white dome helmet with narrow dark visor slit. Wearing a massive oversized cream-white draped bell cloak with heavy textured collar, tan cross-body bag with vibrant safety-orange utility strap, ultra-skinny white mechanical legs, stacked ankle cuffs, chunky platform clogs. Holding a long brass surveying staff. 10 heads tall elongated fashion proportions, long slender limbs. Isolated on solid light gray background, single soft contact shadow under feet, eye-level, studio portrait. Palette: cream white, warm tan, brass with vivid safety-orange accent. --ar 4:5 --stylize 250 --no photorealism, 3D render, CGI, glossy skin, anime lines, lineart, teenager, petite, leather, fleece</code></pre>
+
+</details>
+
+## GPT Image 2.5 Premium High-Fashion Character Concept Art Sheet for Kestrel
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098644379128967205)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4179](https://imglume.com/prompt/4179)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/b358cb71-cd3c-493b-9c4d-76154824788c-1789272700379 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/2ef72f32-644b-4499-832c-b5d7c49f2e61-1789272700379 "Video prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/3daf24c2-85fa-41ff-9169-79c8d5435e92-1789272700379 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/846e8ece-b1d5-4297-98dc-2333e97f60d3-1789272700379 "Video prompt preview") · [5](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/868e4dda-b2da-4f32-aac3-dd2c7bf9fc1e-1789272700379 "Video prompt preview") · [6](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/f7610300-0cc4-4947-9972-9b837a91d505-1789272700379 "Video prompt preview") · [7](https://cdn.imglume.com/prompts/byradar/02f53050-38ec-408a-add9-48975c4a06e2/274354a5-334e-4818-85ea-4d63fcd92e84-1789272700379 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GPT Image 2.5 Character Sheet Prompt:
+
+Create a premium modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate reference image verbatim: painterly matte digital gouache, flat posterized color blocks, NO outlines, hard-edged brush shapes, identical muted palette and bright white background.
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no 3D render, no glossy highlights, no photorealism.
+
+[PROPORTIONS]: Match reference exactly: 10 heads tall, elongated fashion anatomy, massive draped upper body, long slender mechanical limbs, small head.
+
+[SUBJECT_DESCRIPTION]: Tall synthetic traveler, smooth white dome head with dark visor slit. Outfit: massive draped cream-white bell cloak with heavy textured collar, tan shoulder bag with vivid safety-orange strap, skinny white mechanical legs, stacked ankle cuffs, chunky platform clogs. Accessories: brass surveying staff. Ability: Acoustic terrain mapping and kinetic pulse scanning.
+
+Layout Composition:
+1. LEFT PANEL: METADATA &amp; TURNAROUND — Name "KESTREL", metadata block ("ROLE: Ancient Surveyor", "CORE MOOD: Stoic Isolation", "VISUAL SIGNATURE: Dome Helmet &amp; Orange Strap"), 3 turnaround figures, 3 silhouettes, 4 expression crops (neutral dome, visor glint, tilted head, orange strap detail).
+2. CENTRAL PANEL: Dominant full-body centerpiece in towering signature pose with brass staff.
+3. RIGHT PANEL: 4 dynamic pose studies (planting staff into ground, walking against wind, cloak billowing wide, crouched scanning) with handwritten labels.
+4. BOTTOM RIGHT PANEL: 5 square detail crops (visor slit, orange strap buckle, textured collar, platform clogs, brass staff head).</code></pre>
+
+</details>
 
 ## Hand-drawn editorial portrait illustration
 

@@ -1,9 +1,70 @@
 # Food Drink video prompts
 
-86 source-linked prompts, newest ImgLume records first.
+87 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Almond Butter Product Commercial Storyboard
+
+- **Original source:** [@Strength04_X on X](https://x.com/Strength04_X/status/2099000538910355880)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [4226](https://imglume.com/prompt/4226)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ebb5572a-f016-4714-95ed-28b3662243e9/6f6a9b67-24f8-4f9a-a227-9540e2f262bc-1789314727775 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>TITLE:
+Premium Almond Butter Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury gourmet food campaign
+• 8 cinematic product-focused scenes
+• Product remains the main visual hero
+• Premium advertising agency presentation
+
+HEADER:
+• Elegant editorial typography
+• Information cards:
+ - Duration: 20 Seconds
+ - Style: Cinematic Gourmet Food Commercial
+ - Product: Almond Butter
+ - Audio: Nut Crunch + Creamy ASMR
+• Why This Style Works section
+• Cream, caramel and warm brown aesthetic
+• Minimal almond-inspired decorative details
+
+STORYBOARD:
+1. Premium almond butter jar standing on polished stone with raw almonds
+2. Jar lid opening to reveal the smooth creamy surface
+3. Spoon entering the almond butter in extreme macro
+4. Thick almond butter stretching from the spoon in slow motion
+5. Roasted almonds falling around the jar
+6. Almond butter spreading across warm artisan toast
+7. Extreme macro revealing creamy texture and tiny almond particles
+8. Final hero packshot with jar, spoon, toast and roasted almonds
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion spread, overhead composition, controlled ingredient drop, shallow depth of field, smooth product rotation, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food advertising, rich creamy texture, realistic viscosity, detailed roasted almonds, premium glass packaging, warm studio lighting, sophisticated gourmet branding, 8K.</code></pre>
+
+</details>
 
 ## 3D animated commercial of Bloodline vending machine can flood
 

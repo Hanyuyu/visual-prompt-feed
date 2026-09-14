@@ -1,9 +1,210 @@
 # Character video prompts
 
-128 source-linked prompts, newest ImgLume records first.
+133 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young Korean woman in Seoul street with ice cream mishap (MiniDV style)
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2099111099576828256)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4231](https://imglume.com/prompt/4231)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a7bc9475-93d3-4473-89f5-67f674e371b4/58763767-9992-496b-907d-6856ad3df70d-1789320978080 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing an oversized maroon hoodie and casual pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Quiet Seoul residential street on a cool, cloudy late afternoon after light rain. Wet pavement, old apartment buildings, narrow sidewalks, parked bicycles, muted storefronts and distant traffic. The street feels calm and slightly damp.
+
+Lighting &amp; Atmosphere: Dark, cozy overcast ambience with cool blue-gray natural light. Wet pavement softly reflecting the cloudy sky and distant lights. Muted colors, soft shadows and a slightly chilly atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged. Natural handheld shake, imperfect framing, occasional gentle reframing, autofocus hunting, subtle exposure shifts, faded colors, soft contrast, authentic DV compression, slight natural motion blur and built-in microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She walks casually along the wet sidewalk holding a waffle cone ice cream. She looks relaxed, takes a small lick and continues walking while the handheld camera follows naturally.
+
+00:04–00:07: She takes another slow lick of the ice cream. A small drop of melted ice cream slides down from the cone.
+
+00:07–00:10: The melted ice cream suddenly drops onto the front of her oversized maroon hoodie. She immediately looks down and freezes when she notices the stain.
+
+00:10–00:13: She gently touches the spot with her fingers, realizing it has left a visible little mark. Her expression changes into a genuinely disappointed, helpless little pout.
+
+00:13–00:15: She slowly looks up toward the camcorder with a poor, miserable, almost childlike expression, as if silently asking, “Why me?” She gives a tiny defeated sigh while still holding the ice cream cone.
+
+Audio: Natural location sound only—soft footsteps on wet pavement, distant traffic, faint wind, occasional dripping water, subtle clothing movement, quiet street ambience and her natural little sigh. No music, narration or added sound effects.
+
+Goal: Cute, spontaneous and lightly comedic, like a tiny everyday mishap accidentally captured on an old home video. Her reaction should be adorable and genuinely disappointed rather than exaggerated or cartoonish. The contrast between her enjoying the ice cream and suddenly discovering the stain should create the humor naturally.
+
+Motion quality: Keep every movement smooth, continuous and physically realistic. The ice cream drip should fall naturally and clearly onto the hoodie. Avoid sudden camera movements or exaggerated facial expressions. The vintage MiniDV aesthetic must come from the image texture, autofocus, exposure behavior, colors and handheld operation—not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## 30秒写实地下怪兽追逐短片
+
+- **Original source:** [@john87445528 on X](https://x.com/john87445528/status/2099105820302606430)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4229](https://imglume.com/prompt/4229)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a89db4c4-668c-4bcc-a0a6-7790edb430b5/a036c2c8-dda0-4b0e-81ec-7478b367f6af-1789318895580 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>生成一支30秒的写实地下怪兽追逐短片。 采用好莱坞商业生物惊悚片的动作调度：开场立即遇险，中段短暂躲过，随后危险突然升级，最后一次奋力逃脱带来短暂释放，再以撞击收尾。全片是同一场连续事件，多镜头剪辑，时间不跳跃。
+角色与怪兽
+成年女主角严格参考 #2
+￼
+图片1
+，发型与服装严格参考 #3
+￼
+图片_20260911221703_12_537图片_2026091122…
+，保持面容设计。右手握带腕绳的手电。她不是始终对着镜头展示惊恐，而是根据眼前发生的事做出不同反应：逃跑时咬牙控制呼吸；听见身后扑击时骤然缩肩、抽气；看见逃生门时眼神集中、身体加速；摔倒后先疼得闭眼，再挣扎爬起；门关上后才出现压不住的颤抖。目光看危险、地面和出口，不看镜头。
+怪兽严格参考 #1
+￼
+u6744974679_a_photoreal_schleimiges_hellgraues_wurmmonster_sc_498c0176-5e9b-4354-8e98-5358792fcc04_0u6744974679_a_p…
+：灰白湿黏的无足蠕虫长躯、深褶皱表皮、暗色短刺、侧脸肉须与满口细长尖牙。体型保持一致，头部宽度约为女主肩宽的两倍。保留参考造型，重点表现重量与攻击性：躯干压缩蓄力，腹部抵地，随后头颈猛然向前射出，后续沉重身体拖着污水追上。 平时嘴部微张，攻击前下颚才突然展开；黏液随着甩头断成细丝，肉须擦墙向后弯折。至少一个镜头清楚展示头颈与长躯连续相连、身体推动头部前进。
+场景与摄影
+潮湿的地下排水洞穴，污水沟旁有狭窄检修步道，沿途是锈管、湿墙和低矮混凝土拱顶。路线简单明确：直道经过一个厚墙转角，转角后通向一扇半开的铁检修门。门只容女主侧身通过，门后的狭小检修室是她唯一可见的逃生目标。
+照明来自稀疏的暗绿旧灯和女主的冷白手电。面孔经过灯下才明亮，黑暗中保留微弱湿墙反光。怪兽表皮的湿亮细节随经过光源而掠过，不把它全身均匀照亮。
+摄影机有真实手持重量：追跑时有脚步起伏，突袭时本能闪避，重新找到主体时有短促的构图修正。平静时稳得住，危险时才猛烈晃一下。 近景表现人物反应，广角中远景交代人与怪兽的距离，攻击镜头让双方与接触位置同框。侧拍追逐保持女主向画面右侧逃跑。正常速度为主，不连续慢动作。
+00:00—00:03｜贴脸开场，第一下惊吓
+贴近女主侧脸的手持近景，她正在急跑，咬着牙吸气，湿发反复拍在脸侧。她听见背后突然增大的水声，眼睛向后侧一瞥——还来不及完整回头，一股污水猛地打上她的肩背。
+她惊得缩肩，呼吸断成一声短叫，身体本能向前冲。摄影机也被水花迫得偏开，随即找回她。怪兽暂不完整出现，只听见一次极近的咬合声。
+00:03—00:06｜拉开看清：刚才差一点被咬到
+顺着她向前冲的动作，切低机位广角侧面全景：女主在前，怪兽的头刚刚扑空，砸落在她身后一米多的浅水中。整个头颈连着粗重长躯清晰可见，冲击把污水向两侧推开。
+怪兽下颚短暂擦地，前躯收缩，马上重新抬头。女主失去半步平衡，左手一撑墙面恢复奔跑。镜头横向追她两步，让观众看清怪兽正在重新蓄力，而她没有回头看见。
+00:06—00:10｜第二次攻击，冲过转角
+切到女主左后肩的近距离追拍，前方厚墙转角迅速接近。怪兽拖行声突然加速，她借余光回望，脸上的咬牙坚持瞬间变成失控惊惧。
+怪兽张口前冲，她压低身体急转进墙后。摄影机紧跟着拐弯，画面被近处墙角短暂擦过；下一瞬，怪兽撞上转角外侧的锈管，金属爆响，水花与零星碎屑从她身后喷进画面。摄影机被撞击震得一沉，再抬起找到她踉跄的背影。怪兽因扑空和转弯暂时落后。
+00:10—00:13｜短暂安静，出现希望
+切近景，女主贴着转角后的墙喘了半口气。身后的巨大撞击变成较远的管道余震，短暂只剩她急促吸气和滴水声。
+她忍住呼吸，侧耳听，随后看向前方。镜头顺着她的视线迅速转过去：几米外，一扇铁检修门半开，门内透出微弱暖光。
+回到她的近景，眼神从慌乱变得集中，下颚绷紧。她立刻离墙冲向门口，不停留表演。
+00:13—00:17｜希望刚出现，怪兽就冲出来
+切门口方向的中远景，女主朝前景的门奔来，后方转角完整可见。让观众先看见一截肉须从转角猛地甩出，紧接着怪兽头部撞入画面，躯干顶着外弯墙面强行转进来，带起一片污水。
+女主听见声音回望，脚步没有停，但下一步踩到湿滑地面。她前脚打滑，身体侧倒，手电光猛扫墙壁；她用左前臂撑地，膝盖落地，摔在距门口仅两步的位置。镜头骤降接住摔倒动作，不将跌倒处理成优美姿态。
+00:17—00:21｜贴地挣扎，牙齿真正逼近
+贴地近景：女主疼得闭眼，短促吸气，右手仍紧握手电，左掌撑住地面挣扎向门口爬起。切一个稍宽的低角度双主体镜头，怪兽在她后方逼近，湿重头部压低，嘴逐渐张开。
+她看见门框，伸左手抓住边缘，借拉力把身体向前拖。怪兽发动短促扑击，咬在她刚刚收走的后脚位置，牙齿刮过地面，水花撞上镜头下缘。她被这声咬合逼出一声真正的尖叫，猛蹬地面，将自己送进门内。
+00:21—00:25｜完成逃生动作：进门、关门、撞击
+切检修室内朝门口拍摄的中景。女主跌撞着进入，左肩撞到内墙，顺势转身，用左手抓住门内拉手，身体后撤，奋力把半开的铁门拉向门框。
+短切门外低角度：怪兽从后方扑向正在缩小的门缝。
+在扑击动作上切回室内：铁门先砰然合拢，随即怪兽撞在门外。 巨响把女主和门板一起震得猛颤，尘土从门框落下。她缩头闭眼，仍死死拉住门把；碰撞之后，立即将门内横闩推入闩槽。动作有先后，清楚完成。
+00:25—00:28｜终于能喘一口气
+保持室内近景，镜头第一次明显安静下来。她左手撑着已闩住的门，额头贴向冰冷金属，肩膀急促起伏。眼睛闭上，嘴角抽动，吐出一口带哭腔的长气。
+手电垂在右手，光斑落在地上，随着她手指发抖轻轻颤动。门外短暂没有动静。让这一口气完整发生，留出真正的情绪释放。
+00:28—00:30｜最后一击
+门外突然传来近距离、沉重的刮擦。她立刻停止呼吸，眼睛睁开，慢慢把头离开门板。
+轰——怪兽再次撞门。 铁门中央猛地向内鼓起，横闩震响，女主被惊得向后跌退一步，手电光狠狠甩上天花板。摄影机随她本能后撤，在她惊惧的脸与变形门板之间捕捉这一击，立即切黑。留下金属余震，不再追加新动作。
+声音与生成约束
+无配乐，以声音制造起伏：开头贴近耳边的喘息，攻击前骤然加速的拖水声，扑空撞击的巨大回响，中段短暂安静，结尾门内的呼吸释放与突然撞门。怪兽不持续吼叫，攻击才出现短促低吼与猛烈咬合。
+只有一名女主和一只怪兽；头部与躯干连接自然，体型不变。服装、手电和逃生方向连续。避免恒定张嘴瞪眼、匀速滑行、慢悠悠等人物逃跑、频繁无目的摇镜。无血腥肢解，无字幕、标志或水印。</code></pre>
+
+</details>
+
+## Cute photorealistic cinematic video of a mushroom-shaped creature
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2099092478809034969)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`
+- **ImgLume record:** [4219](https://imglume.com/prompt/4219)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/823536b4-a244-464f-a843-fd58e4611d3f/ddfd2822-e699-4f17-ba3e-4029fb719b82-1789310456774 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute, highly realistic cinematic video of a tiny adorable mushroom-shaped creature with soft fluffy beige fur and a bright red mushroom cap with white spots. The miniature character stands on a warm wooden table beside a small water droplet. It notices the droplet, becomes emotional, and gently wipes its tears with a white tissue. Then it quickly runs across the tabletop. A human hand rests nearby, creating a charming sense of scale. Cozy indoor setting, warm natural lighting, shallow depth of field, realistic fur and fabric textures, subtle character movements, adorable emotional expression, smooth camera movement, macro photography, photorealistic, cinematic, vertical 9:16, high detail.</code></pre>
+
+</details>
+
+## A Korean baddie’s perfect Sunday
+
+- **Original source:** [@Noor_ul_ain43 on X](https://x.com/Noor_ul_ain43/status/2099006260939235525)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `cinematic`, `travel`
+- **ImgLume record:** [4208](https://imglume.com/prompt/4208)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/9b0383e7-fca8-466d-8b70-dd19ac13a78a/92c8a283-30c9-4083-a278-bd67d79417b1-1789291606718 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a highly realistic, cinematic 30-second lifestyle video following a stylish Korean baddie girl through her slow, luxurious Sunday routine. Keep the SAME girl, facial features, hairstyle, body proportions, and overall appearance consistent throughout the entire video.
+
+Character: A beautiful young Korean woman with sharp elegant features, flawless natural skin, long dark silky hair, subtle glossy makeup, defined eyes, soft nude lips, confident “baddie” aura. She has a sophisticated, effortlessly cool personality.
+
+0–5 sec — Slow Sunday Morning
+Open with a cinematic wide shot of a luxurious modern Seoul apartment in soft morning sunlight. She is sleeping peacefully in a large comfortable bed. Sunlight gently passes through sheer curtains. Close-up of her face as she slowly wakes up, stretches naturally, checks her phone, and gives a sleepy little smile. Realistic blinking, breathing and subtle facial movements.
+
+5–10 sec — Getting Ready
+Cut to her elegant bedroom and bathroom. She stands in front of a large mirror wearing an oversized white T-shirt and comfortable shorts. She brushes her long hair, washes her face, applies moisturizer and light skincare. Show realistic hand movements, water droplets, mirror reflections and natural skin texture. Use smooth close-ups and subtle handheld camera movement.
+
+10–16 sec — Coffee &amp; Breakfast
+Transition to a stylish minimalist kitchen. She makes iced coffee using a modern coffee machine, pours the coffee over ice, adds milk and gently stirs it. She prepares a simple aesthetic breakfast—toast, eggs and fresh fruit. Close-up shots of coffee swirling, ice cubes, steam and food details. She takes a sip of coffee while looking casually out of the window overlooking Seoul.
+
+16–22 sec — Sunday City Walk
+She changes into a fashionable Korean streetwear outfit: fitted black top, oversized leather jacket, mini skirt, stylish sneakers and a small shoulder bag. She walks through a trendy Seoul neighborhood on a sunny Sunday afternoon. Show cafés, pedestrians, Korean storefronts and city traffic in the background. She walks confidently with a subtle smirk, adjusts her sunglasses and casually checks her phone.
+
+22–27 sec — Café Moment
+She enters a beautiful minimalist Korean café, sits beside a large window and orders an iced latte. Cinematic close-up as she takes a sip while scrolling through her phone. She looks outside with a calm, confident expression. Soft natural sunlight illuminates her face.
+
+27–30 sec — Golden-Hour Ending
+End during golden hour on a rooftop or quiet Seoul street. She stands with the city skyline behind her, wind gently moving her hair and jacket. She looks toward the camera for a second with a confident baddie expression, gives a tiny smirk, then turns and walks away.
+
+Visual style: ultra-realistic cinematic photography, premium K-drama aesthetic, luxury lifestyle vlog, natural Korean urban environment, realistic skin texture, physically accurate hair and fabric movement, natural facial expressions, subtle depth of field, realistic reflections, soft sunlight, cinematic shadows, smooth camera motion, tasteful motion blur, high-end commercial cinematography, 4K/8K detail.
+
+Camera: cinematic establishing shots, macro details, smooth tracking shots, gentle handheld movements, close-ups, over-the-shoulder shots, natural rack focus, slow push-ins and seamless transitions.
+
+Important: No face morphing, no character inconsistency, no extra fingers, no distorted hands, no unnatural body movement, no flickering, no artificial-looking skin, no sudden outfit changes, no text, no subtitles, no watermark. The entire video should feel like a real luxury Korean Sunday lifestyle vlog filmed with a professional cinema camera.</code></pre>
+
+</details>
+
+## Young Korean woman watering plants on rainy Seoul balcony – early-2000s MiniDV style video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [4198](https://imglume.com/prompt/4198)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/83265747-867d-4a7d-a0cc-6f8338f31835/0697d56b-350a-4f06-bb60-db2c151de106-1789285299190 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized faded lavender T-shirt and loose gray lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment balcony during a dark rainy early morning. Several small potted plants sit along the railing, with wet concrete floor, metal railing, neighboring apartment buildings and rain-covered rooftops visible beyond. Rain continues steadily outside.
+
+Lighting &amp; Atmosphere: Cozy, dark blue-hour ambience. Cold blue-gray light from the cloudy rainy sky softly illuminates the balcony, with a faint warm glow coming from the apartment behind her. Wet surfaces reflect the dim light. Quiet, sleepy and intimate rainy Seoul atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged, like a family member casually filming her. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands on the small balcony holding a simple watering can. She gently waters one of the potted plants while looking at its leaves.
+
+00:04–00:08: She moves the watering can toward another plant and accidentally pours too much water. Water quickly spills over the edge of the pot and spreads across the balcony floor.
+
+00:08–00:11: She immediately notices the puddle and freezes for a moment. She looks down at the water, then back at the plant with a mildly embarrassed expression.
+
+00:11–00:15: She looks toward the camcorder and gives a small guilty smile, quietly laughs and shrugs as if admitting her mistake. She places the watering can down and carefully steps around the puddle.
+
+Audio: Natural location sound only—steady rain, water pouring from the watering can, water splashing onto concrete, distant traffic, faint apartment sounds, soft clothing movement and her quiet laugh. No music, narration or added sound effects.
+
+Goal: Feel like a tiny, harmless mistake accidentally captured on an early-2000s family MiniDV camera. Cute, ordinary and spontaneous rather than comedic or exaggerated. Her reaction should be subtle and genuine, with the rainy balcony atmosphere remaining the main visual mood.
+
+Motion quality: Keep all character and camera movement smooth, continuous and physically realistic. The water should pour naturally without sudden changes or unnatural splashing. Avoid rapid movements. The vintage MiniDV aesthetic must come from image texture, autofocus, exposure behavior, muted colors and handheld operation—not reduced frame rate or choppy motion.</code></pre>
+
+</details>
 
 ## Curiosity-driven character vignette prompt
 

@@ -1,9 +1,90 @@
 # UGC video prompts
 
-150 source-linked prompts, newest ImgLume records first.
+153 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second ultra-realistic home video of a young Korean woman's summer Sunday
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2098985232145785261)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4200](https://imglume.com/prompt/4200)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/0346738a-68a1-4fa6-a239-e9a7c7396d23/ba5a3b11-a92a-4551-b80d-a7f5d90830d9-1789285409615 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer Sunday afternoon in the life of a young Korean woman. No reference image. Young Korean woman, early 20s, naturally pretty, realistic skin texture, minimal makeup, long black hair in a messy side ponytail, fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and simple silver necklace; maintain identical appearance throughout. Set in a quiet older Seoul residential neighborhood with narrow concrete lanes, small homes, old walls, potted plants, bicycles, utility poles, overhead wires and children playing nearby. Raw early-2000s consumer DV camcorder aesthetic: strong handheld shake, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft digital detail, mild noise, motion blur and accidental zooms; no polished cinematography.
+— LEAVING HOME: She steps outside carrying a small reusable shopping bag, locks the door, adjusts her ponytail and walks casually down the lane as a warm summer breeze moves her hair.
+— BISCUIT STOP: She notices a tiny neighborhood shop, buys a simple packet of biscuits, pays casually, then walks to a nearby bench and sits down.
+She opens the packet, eats a biscuit while watching the street, smiles at something happening nearby, then folds the empty packet and throws it neatly into a public dustbin beside the bench.
+— THE KITE: She notices several children struggling to retrieve a colorful kite stuck high in a tree; they try jumping and reaching for it but cannot get it down.
+She walks over, looks up, finds a safe low branch, carefully reaches the kite down and hands it to the children; they excitedly thank her.
+She smiles, takes the kite string for a moment and tries flying it herself; the kite rises awkwardly, dips in the wind, and she laughs while trying to control it.
+She finally gives the string back to the children, watches them happily run and fly the kite, waves goodbye and continues walking.
+— FINAL MOMENT: She turns into her own residential lane, walks toward home with the shopping bag, looks back at the children playing in the distance, smiles at the camera and says, “Happy Sunday.”
+She continues toward her house as the camera follows behind her, then the recording abruptly cuts to black; AUDIO: only children laughing, kite fluttering, footsteps, birds, summer insects, distant scooters, bicycle bells, neighborhood conversations, shop ambience and subtle camera-handling noise; no music or narration.
+NEGATIVE: No subtitles, captions, logos, watermarks, recognizable brands, identity changes, outfit changes, duplicated people, distorted hands, extra fingers, unrealistic kite physics, teleportation, object duplication, CGI look, artificial expressions, dramatic cinematic shots or polished commercial cinematography.</code></pre>
+
+</details>
+
+## Young Korean woman watering plants on rainy Seoul balcony – early-2000s MiniDV style video
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2098982502006489324)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `character`, `ugc`
+- **ImgLume record:** [4198](https://imglume.com/prompt/4198)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/83265747-867d-4a7d-a0cc-6f8338f31835/0697d56b-350a-4f06-bb60-db2c151de106-1789285299190 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing a simple oversized faded lavender T-shirt and loose gray lounge pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout.
+
+Location: Small old Seoul apartment balcony during a dark rainy early morning. Several small potted plants sit along the railing, with wet concrete floor, metal railing, neighboring apartment buildings and rain-covered rooftops visible beyond. Rain continues steadily outside.
+
+Lighting &amp; Atmosphere: Cozy, dark blue-hour ambience. Cold blue-gray light from the cloudy rainy sky softly illuminates the balcony, with a faint warm glow coming from the apartment behind her. Wet surfaces reflect the dim light. Quiet, sleepy and intimate rainy Seoul atmosphere.
+
+Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged, like a family member casually filming her. Natural handheld movement, subtle human shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement.
+
+00:00–00:04: She stands on the small balcony holding a simple watering can. She gently waters one of the potted plants while looking at its leaves.
+
+00:04–00:08: She moves the watering can toward another plant and accidentally pours too much water. Water quickly spills over the edge of the pot and spreads across the balcony floor.
+
+00:08–00:11: She immediately notices the puddle and freezes for a moment. She looks down at the water, then back at the plant with a mildly embarrassed expression.
+
+00:11–00:15: She looks toward the camcorder and gives a small guilty smile, quietly laughs and shrugs as if admitting her mistake. She places the watering can down and carefully steps around the puddle.
+
+Audio: Natural location sound only—steady rain, water pouring from the watering can, water splashing onto concrete, distant traffic, faint apartment sounds, soft clothing movement and her quiet laugh. No music, narration or added sound effects.
+
+Goal: Feel like a tiny, harmless mistake accidentally captured on an early-2000s family MiniDV camera. Cute, ordinary and spontaneous rather than comedic or exaggerated. Her reaction should be subtle and genuine, with the rainy balcony atmosphere remaining the main visual mood.
+
+Motion quality: Keep all character and camera movement smooth, continuous and physically realistic. The water should pour naturally without sudden changes or unnatural splashing. Avoid rapid movements. The vintage MiniDV aesthetic must come from image texture, autofocus, exposure behavior, muted colors and handheld operation—not reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## Hyper-realistic AI UGC video prompt template
+
+- **Original source:** [@FynCas on X](https://x.com/FynCas/status/2098798186089320956)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4172](https://imglume.com/prompt/4172)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1ac250d3-ef31-406d-b8ee-7f96b0bd6a6e/2107c6a2-5c93-44d5-8a09-cb8ff4472046-1789251975033 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"Replace the girl in {viral hook} with {reference girl}, in {reference location}. She says: {vocal hook}. iPhone quality, handheld movement, FaceTime-with-a-friend energy, no text on screen."</code></pre>
+
+</details>
 
 ## Ultra-realistic 30‑second home video of a Korean woman on a traditional farm
 

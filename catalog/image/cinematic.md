@@ -1,9 +1,45 @@
 # Cinematic image prompts
 
-70 source-linked prompts, newest ImgLume records first.
+71 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Gigantic Object from Famous Structure – cinematic vertical artwork
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098787356853895579)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4184](https://imglume.com/prompt/4184)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/df2c6af7-3ca5-4999-898a-8a902ba8ecb5/8c7d26ea-dbb5-44c2-b579-57cfc88a0de8-1789274789746 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/df2c6af7-3ca5-4999-898a-8a902ba8ecb5/7162b230-4318-4fa4-b0b9-45706f8bc8d7-1789274789746 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/df2c6af7-3ca5-4999-898a-8a902ba8ecb5/87f74f03-cfcb-4cb5-8c61-f1772e4358b2-1789274789746 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/df2c6af7-3ca5-4999-898a-8a902ba8ecb5/649eadd4-f5fb-415b-b0fe-da5f9476ea8a-1789274789746 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a spectacular 4:5 vertical cinematic artwork where [FAMOUS STRUCTURE] is transformed into a gigantic version of [OBJECT], while its original architectural identity remains instantly recognizable.
+
+The landmark and object should be physically integrated into one believable design — not simply placed beside each other.
+
+Show the enormous object dominating the scene, with tiny people, cars, trees, buildings, or other environmental elements around it to create a dramatic sense of scale.
+
+Preserve the landmark’s most recognizable architectural features, but creatively reinterpret them as functional parts of the giant object.
+
+Create an imaginative environment that complements the object, with cinematic perspective, atmospheric depth, realistic materials, intricate details, dramatic natural lighting, soft shadows, and subtle surrealism.
+
+Make it feel like a real gigantic object photographed in a fantastical world.
+
+Use a sophisticated cinematic color palette, ultra-detailed textures, realistic reflections, realistic scale, premium concept-art quality, and strong visual storytelling.
+
+Add minimal elegant typography at the bottom:
+
+[STRUCTURE NAME] × [OBJECT]
+[CITY, COUNTRY]
+
+No infographic boxes, no conventional travel-poster layout, no generic stock photography, no unrelated landmarks, no excessive text, no watermark.</code></pre>
+
+</details>
 
 ## Epic Dark Fantasy Screenshot: Female Archangel in Moonlit Ruins
 

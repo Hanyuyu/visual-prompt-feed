@@ -1,9 +1,40 @@
 # Travel image prompts
 
-63 source-linked prompts, newest ImgLume records first.
+64 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Hand-drawn travel-journal illustration from a photograph
+
+- **Original source:** [@Sairah_0 on X](https://x.com/Sairah_0/status/2099035298126790949)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [4215](https://imglume.com/prompt/4215)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/06518134-27d0-4fd4-a566-5ce743f5f4fc/47ce5f54-c73a-4ff3-a34e-5904b3284b8b-1789304164642 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/06518134-27d0-4fd4-a566-5ce743f5f4fc/69d53c88-8356-455a-8c3b-1a9c9ada55cf-1789304164642 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Transform the provided real photograph into a charming hand-drawn travel-journal illustration while preserving the original scene, composition, perspective, architecture, landmarks, people, objects, and overall layout. Keep the main subject and recognizable details in exactly the same positions as the reference image, but reinterpret everything as a warm, playful illustrated artwork.
+
+Use a Japanese illustrated travel diary / modern picture-book aesthetic with clean expressive black ink outlines, slightly imperfect hand-drawn strokes, simplified shapes, soft watercolor-and-gouache textures, subtle paper grain, and vibrant but natural colors. Add gentle artistic exaggeration while keeping the location clearly recognizable.
+
+Create a bright sky-blue atmosphere, lush simplified greenery, expressive trees, stylized buildings, charming small details, and simplified human figures with minimal facial features. Use warm orange/red architectural elements and natural greens where appropriate. Maintain realistic depth and perspective, but simplify fine photographic details into appealing illustrated forms.
+
+Add small hand-written doodle elements and travel-journal typography naturally around empty areas of the composition, such as a short location title, mood phrase, tiny hearts, clouds, sun, flowers, stars, or simple decorative marks. The lettering should feel casually handwritten with a white paint-marker/brush effect and should never cover important subjects.
+
+The final image should feel like a personal travel memory redrawn by an artist, nostalgic, cheerful, wholesome, youthful and spontaneous — not a generic cartoon and not a digital 3D render.
+
+Preserve: original framing, camera angle, landmark proportions, major objects, people placement, road/building layout, lighting direction and recognizable environmental details.
+
+Style: Japanese travel sketchbook, hand-painted illustration, ink outline, watercolor + gouache, children’s picture-book charm, editorial travel illustration, textured paper, imperfect brushwork, vibrant blue sky, warm natural lighting, cinematic composition, highly detailed but artistically simplified.
+
+Avoid: photorealism, 3D CGI, anime character styling, overly smooth digital artwork, excessive saturation, distorted architecture, changing the landmark, adding major objects, unrealistic perspective, plastic textures, overly detailed faces, or losing the original photograph’s composition.</code></pre>
+
+</details>
 
 ## Surreal Travel Artwork of Iconic Structure
 

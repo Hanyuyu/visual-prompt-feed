@@ -1,9 +1,123 @@
 # Poster Design image prompts
 
-154 source-linked prompts, newest ImgLume records first.
+158 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Revy reimagined – bold contemporary anime street‑art poster
+
+- **Original source:** [@theSosiKevin on X](https://x.com/theSosiKevin/status/2099146070169124991)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `grok`, `nanobanana`
+- **Categories:** `character`, `poster-design`
+- **ImgLume record:** [4225](https://imglume.com/prompt/4225)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/06e087f5-63b9-4e9e-a2d0-4d8cc3bf3857-1789314701134 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/99cac4cd-0886-40d3-aed1-382bbcb616eb-1789314701134 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/108cd2bc-c87f-46e2-b2ca-253db16ab117-1789314701134 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/bb01a513-633e-4f73-8717-47334444eadb/06644997-bf36-491e-99ad-2077bd01e9d2-1789314701134 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Reimagine adult Revy from Black Lagoon in a bold contemporary anime × underground street-art editorial aesthetic. Preserve her recognizable long dark auburn hair, sharp eyes, confident dangerous expression, black fitted crop top, distressed denim shorts, tactical shoulder holsters and signature dual pistols. Use highly detailed anime linework, crisp heavy outlines, saturated cel colors, subtle halftone and vintage print grain. Surround her with explosive graffiti-inspired graphics, abstract smoke curls and bold shapes in vivid cyan, orange, magenta, yellow and green. Use dramatic perspective, strong foreshortening and dynamic editorial posing. Vary the camera angle, pose and composition between generations while maintaining consistent character identity, outfit and overall art direction. High-impact vertical poster composition, polished anatomy, accurate hands and weapons, expressive face, premium anime illustration quality.</code></pre>
+
+</details>
+
+## High-end halftone travel-collage poster prompt
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2099078060058550703)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4221](https://imglume.com/prompt/4221)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/4b2252ca-f944-4cef-9132-f0bd207c7ef8/4ee56084-9937-4e4c-b7e7-91fb1087ab13-1789312593271 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/4b2252ca-f944-4cef-9132-f0bd207c7ef8/b8f470c6-fe9d-4603-841a-b9cd5c5658de-1789312593271 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/4b2252ca-f944-4cef-9132-f0bd207c7ef8/dba49e3f-cb45-485b-89de-f81c34d71621-1789312593271 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/4b2252ca-f944-4cef-9132-f0bd207c7ef8/2f0a498f-7c7f-41ea-9e98-56f11404c2f7-1789312593271 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
+
+FORMAT
+3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
+
+TOP HALF — THE REAL SHOT
+Preserve the original photo faithfully: same identity, face, expression, pose, hands, layered clothing, headphones/books/devices/personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
+
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
+
+- Keep face, hands, hairstyle, headphones, layered clothing, and one signature item recognizable — identity must survive the breakdown.
+- Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
+- Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
+- Color: warm gray paper + black ink + the photo's own muted original colors + the single red accent. Never fully desaturate.
+- Figure fills roughly 60–88% of the frame width (scale to whatever reads best for this image) — but always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
+- Add one readable fixed-width title pulled from the photo's theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure's edge as texture only — never used to fake body detail or invent specs.
+
+MOOD
+Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it's surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
+
+AVOID
+Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.</code></pre>
+
+</details>
+
+## Risograph-style vertical poster of woman with motorcycle
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2098988335305789626)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4189](https://imglume.com/prompt/4189)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/5ef58f4f-510f-427a-ae4a-92c6b5c90f03/21befea4-04b4-489b-84a7-676d5e762a90-1789283138971 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/5ef58f4f-510f-427a-ae4a-92c6b5c90f03/e409e7e5-67e1-4ad8-96f5-17b9a2ab46a5-1789283138971 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a standalone 3:4 vertical contemporary risograph-style art poster based on the original photograph.
+Preserve the woman's silhouette, facial character so the scene remains immediately recognizable.
+Use bold simplified shapes, rough ink edges, visible risograph grain, slight color misregistration, imperfect printing and handmade texture.
+Background should be warm cream paper with extensive negative space.
+Reduce the entire image to only four colors: navy blue, warm cream, mustard yellow and muted red.
+Keep the composition clean and graphic with the woman and motorcycle forming one strong central illustration. Add only tiny understated editorial text if needed.
+Aesthetic: Japanese design magazine, independent art print, vintage motorsport poster, sophisticated and collectible.</code></pre>
+
+</details>
+
+## Premium Educational Travel Poster Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2098741832704552982)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`
+- **ImgLume record:** [4174](https://imglume.com/prompt/4174)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e6cc8a00-7704-4d36-abbb-a8ba49ad4077/e66e98de-aa5f-4587-ae69-1ef00dbfadb7-1789264248217 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/e6cc8a00-7704-4d36-abbb-a8ba49ad4077/4b282542-5c04-4aa2-aaa7-d9870f6b8acf-1789264248217 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium educational travel poster featuring [STRUCTURE NAME], one of the world’s most famous architectural landmarks. Show a beautiful, highly detailed illustration or photorealistic miniature of the structure as the main focal point, surrounded by clean infographic-style information.
+
+Include these clearly arranged details:
+
+NAME: [Structure Name]
+RULER / LEADER OF THE TIME: [Ruler or leader]
+CONSTRUCTION DURATION: [Number of years / approximate duration]
+HISTORICAL COST: [Original construction cost, if known]
+CURRENT TICKET PRICE: [Current entry price]
+LOCATION: [City, Country]
+FAMOUS FOOD TO TRY: [1–3 famous local foods]
+
+Add small architectural sketches, construction details, a tiny location map, historical symbols, subtle decorative elements, and elegant infographic lines. Use a sophisticated museum archive + luxury travel magazine aesthetic with warm ivory paper, muted heritage colors, fine black typography, subtle vintage grain, and clean geometric layout.
+
+Make the structure large and dominant, with the information arranged neatly around it. Add a small “WORLD ARCHITECTURE ARCHIVE” label and a subtle historical catalog number.
+
+Style: elegant, educational, premium, collectible travel poster, highly detailed, clean composition, realistic textures, sophisticated typography.
+FORMAT: Vertical 4:5.
+Avoid: clutter, excessive text, unrelated landmarks, people, modern advertisements, and watermark.</code></pre>
+
+</details>
 
 ## Premium National Park Travel Infographic Poster
 
