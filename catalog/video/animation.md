@@ -1,9 +1,272 @@
 # Animation video prompts
 
-156 source-linked prompts, newest ImgLume records first.
+162 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30-second vertical AAA gameplay video of elderly Japanese man in rural mountain village
+
+- **Original source:** [@RizwanAly07 on X](https://x.com/RizwanAly07/status/2099432042509606931)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4302](https://imglume.com/prompt/4302)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e7b8e135-37b9-48bf-861d-c6c4c57401e8/5b1a47cb-7979-4c8c-8866-699f7815ce9a-1789406724691 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second vertical 9:16 video that looks like authentic gameplay from a modern ultra-realistic AAA open-world game — NOT a cinematic movie.
+
+CHARACTER LOCK: One realistic 70-year-old Japanese man with grey hair, aged face, slightly bent posture, faded blue railway/work jacket, dark trousers and black shoes. Keep identical face, body, clothing and age throughout.
+
+ENVIRONMENT: Beautiful rural Japanese mountain village with a narrow asphalt road, traditional houses, rice fields, dense greenery, utility poles, mountains and a distant railway. Late-afternoon natural lighting. One continuous environment.
+
+CAMERA/HUD: Third-person gameplay camera behind the character, consistent distance, responsive to player movement. Original realistic game HUD with minimap, health/stamina and contextual controller prompts. No GTA branding/UI.
+
+0–3s: Man rides a bicycle toward a yellow waypoint. HUD: “REACH THE VILLAGE” + L3 STEER.
+
+3–6s: Fallen tree blocks the road. Player brakes. L2 BRAKE. Objective changes: “CLEAR THE ROAD”.
+
+6–9s: △ DISMOUNT. He gets off and looks toward the obstacle. R3 LOOK.
+
+9–12s: L3 MOVE + R2 SPRINT. He approaches the fallen tree with believable elderly movement.
+
+12–15s: □ INTERACT → ← → PUSH. He physically pushes the heavy tree aside. Realistic friction and weight; no disappearing objects.
+
+15–18s: A metal road barrier is revealed. □ INTERACT. Message: “PATH STILL BLOCKED”.
+
+18–21s: Player opens the barrier. It swings naturally and a waiting vehicle becomes visible.
+
+21–24s: R3 LOOK. He returns to the bicycle. △ MOUNT.
+
+24–27s: R2 PEDAL. He cycles through the cleared road. Waypoint turns green. Objective: “ROAD CLEARED”.
+
+27–30s: Continue riding toward the village. HUD notification: “MISSION COMPLETE — ROAD CLEARED”. End during active gameplay, no cinematic ending.
+
+GAMEPLAY FEEL: Every action must feel player-controlled. Fast pacing with an interactive moment every 2–3 seconds. Prompts appear only when usable. Realistic bicycle physics, braking, wheel rotation, elderly movement, tree weight, barrier movement, shadows and ground contact.
+
+STRICT CONSISTENCY: One man, one bicycle, one tree, one barrier. No duplicates, morphing, teleportation, object popping, floating/sliding, face deformation, outfit changes, environment changes, lighting/weather changes or camera teleportation.
+
+Ultra-realistic game-engine rendering, 24fps, high detail, realistic NPC/environment behavior, no anime, no cartoon, no fantasy, no movie cinematography.</code></pre>
+
+</details>
+
+## Cute Ultra-Realistic 3D Animated Video of Two Baby Chicks in a Sunlit Garden Path
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2099452153039593546)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4299](https://imglume.com/prompt/4299)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/baa3779e-f27b-4225-864a-5cbece70fc5e/4f114c40-12a4-4436-8ec1-f5ebc164e3bf-1789396312807 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute, heartwarming, ultra-realistic 3D animated video in a cinematic family-friendly style.
+A peaceful, sunlit garden path surrounded by lush green plants, tiny white and purple flowers, and a rustic wooden fence in the background. Warm golden-hour sunlight creates soft highlights and natural shadows. The environment feels cozy, magical, and wholesome.
+
+CHARACTERS:
+Two adorable fluffy yellow baby chicks with soft detailed feathers, tiny orange beaks and feet, expressive oversized eyes, and highly detailed facial expressions.
+
+The chick on the left is slightly taller and has small feather tufts on its head. The chick on the right is smaller, with two cute little feather puffs resembling tiny pigtails. Both characters have expressive eyebrows and subtle rosy cheeks.
+
+ACTION:
+The two chicks stand together on the garden path, initially looking annoyed at each other. The smaller chick crosses its wings and gives an angry, stubborn expression while the taller chick looks at it with curiosity.
+
+The taller chick then walks around and interacts playfully with the smaller chick. Their expressions gradually change from irritation and stubbornness to surprise and affection.
+
+By the end, the two chicks become friendly again. They stand close together, exchange a warm affectionate look, and happily walk side-by-side while smiling.
+
+ANIMATION:
+Natural, smooth character movement with believable walking, tiny head movements, blinking, subtle feather motion, expressive eyes, wing gestures, and adorable comedic timing. Emphasize the emotional progression from annoyance to reconciliation.
+
+CAMERA:
+Vertical 9:16 composition. Cinematic medium shots and gentle close-ups. Slow, subtle camera movement with a shallow depth of field. Keep both chicks clearly visible and centered throughout the scene.
+
+VISUAL STYLE:
+High-end cinematic 3D animation, photorealistic fluffy feathers, detailed eyes, realistic soft lighting, beautiful depth of field, natural environmental textures, warm color grading, soft bokeh, polished movie-quality rendering.
+
+MOOD:
+Cute, funny, emotional, wholesome, playful, and heartwarming.
+
+QUALITY:
+Ultra-detailed, cinematic, smooth motion, physically believable animation, realistic feather physics, expressive facial animation, 4K quality, clean composition, no text, no watermark.</code></pre>
+
+</details>
+
+## 30-second Pixar-quality 3D animated miniature construction comedy building a giant cupcake
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099177228420698169)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4249](https://imglume.com/prompt/4249)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/72988c3e-7221-4733-88d4-0f4ac19a4d5f/d30cb6dc-91ac-48aa-9043-2a5d1a062127-1789364797672 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second Pixar-quality 3D animated miniature construction comedy where dozens of tiny construction workers build and decorate a giant cupcake.
+
+VISUAL STYLE: Premium cinematic 3D animation, adorable miniature world, bright pastel colors, warm golden lighting, ultra-detailed CGI, realistic food textures, shallow depth of field, smooth cinematic camera movement and satisfying visual details. Cheerful, playful and wholesome atmosphere.
+
+CHARACTERS: Tiny construction workers wearing colorful safety helmets and work uniforms. Keep their appearance and scale consistent throughout.
+
+0–5s — ESTABLISHING
+
+Wide cinematic aerial dolly-in toward a giant cupcake sitting on a table. Dozens of tiny workers arrive with miniature cranes, forklifts, mixer trucks and construction vehicles. They quickly organize around the cupcake and begin preparing the site.
+
+Soft cheerful music, tiny engines, wheels and construction sounds.
+
+5–10s — FROSTING
+
+Medium tracking shot as a miniature mixer truck pours silky pink frosting over the cupcake.
+
+Workers spread the frosting smoothly with tiny trowels, carefully covering the entire surface. Close-ups show the glossy frosting flowing and being leveled perfectly.
+
+ASMR: creamy pouring, soft scraping and tiny tool sounds.
+
+10–17s — TOPPINGS
+
+Close-up cinematic montage. Miniature conveyor belts deliver fresh strawberries, blueberries, chocolate chunks and colorful rainbow sprinkles.
+
+Workers carefully position each topping with tiny tools and teamwork. Sprinkles fall in satisfying slow motion and sparkle under the warm lighting.
+
+Add subtle conveyor sounds, tiny footsteps and light magical chimes.
+
+17–23s — CHERRY LIFT
+
+Low-angle cinematic shot of a huge shiny red cherry being lifted toward the cupcake by a miniature construction crane.
+
+Workers pull ropes and guide it carefully into position while the crane slowly rises.
+
+Build playful suspense with crane motor sounds and a gentle orchestral rise.
+
+23–30s — FINAL REVEAL
+
+The cherry lands perfectly on top.
+
+The workers celebrate as colorful confetti explodes into the air. Some jump, others wave their helmets while tiny construction vehicles honk.
+
+Camera performs a smooth 360° cinematic orbit around the completed cupcake, revealing the beautifully decorated frosting and toppings.
+
+End on a satisfying hero shot with warm golden light, cheerful music, tiny cheers and a soft celebratory musical finish.
+
+No dialogue, no subtitles, no text. Maintain consistent character scale, realistic food physics, smooth animation, detailed miniature interactions and premium cinematic quality throughout.</code></pre>
+
+</details>
+
+## Cute ultra-realistic 3D peach creature collecting honey and making fruit‑honey drink (vertical video)
+
+- **Original source:** [@Zarnab_with_Ai on X](https://x.com/Zarnab_with_Ai/status/2099316017986220245)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4248](https://imglume.com/prompt/4248)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1fd587b8-0822-4c20-a7ba-00c594fd41fa/2a095450-4db4-4d4a-87a1-309d63dfbdb2-1789364760343 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cute, ultra-realistic 3D cinematic vertical video (9:16) featuring a tiny adorable peach-shaped creature with a soft fuzzy pastel-pink body, tiny black glossy eyes, a small cute mouth, rosy cheeks, tiny arms and feet, and a small green leaf on top of its head.
+
+The little peach creature is in a beautiful sunlit forest surrounded by green grass, trees, leaves, and warm natural sunlight. It discovers a honeycomb hanging from a tree branch and happily collects fresh golden honey with a tiny spoon. A small bee flies around it and briefly lands near its face.
+
+Show the creature enjoying the honey, walking through the forest, then returning to a cozy rustic wooden kitchen. It prepares a refreshing glass of fruit-and-honey drink by adding ice cubes, lemon slices, colorful fruit pieces, and golden honey into a transparent glass. It gently stirs the drink with a spoon and happily drinks it.
+
+Make the character extremely cute and expressive, with soft plush-like fuzzy details, realistic textures, adorable movements, natural facial expressions, cinematic depth of field, warm golden-hour lighting, beautiful bokeh, detailed forest environment, smooth camera movements, macro close-ups, realistic shadows, and premium high-quality 3D animation.
+
+Keep the same character design, face, proportions, colors, leaf, and appearance consistent throughout the entire video. No text, no watermark, no distorted anatomy, no extra characters.
+
+Style: Pixar-like cute 3D + photorealistic textures + cinematic macro photography + cozy fantasy aesthetic.</code></pre>
+
+</details>
+
+## LUMI – Cinematic 2.5D Animation Intro
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098991448935051634)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4240](https://imglume.com/prompt/4240)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/71c990aa-1643-4554-ae19-45bc378f1477/9af90922-7633-44a4-a0e8-4bfddc451f16-1789356373069 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/71c990aa-1643-4554-ae19-45bc378f1477/e979fc22-14d6-4498-9ca8-b6d9b25ca3e0-1789356373069 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting. NOT flat 2D cartoon, NO bold black outlines, NOT glossy CGI, NO photorealism.
+WORLD: Ancient glacial shrine on a frozen lake at midnight, palette of pale silver, ice blue, and pitch black, one vivid glowing ruby-red accent, softly falling geometric snow, layered depth of field.
+CHARACTERS:
+- BOSS [Image]: An extremely tall adult woman in her early 20s with pale skin, twin white horns, a gold crescent forehead mark, and a ruby-red drop earring. Extremely long icy-white hair in a massive ponytail with a geometric dark-iron hairpiece. Wearing an oversized structured silver-white plated kimono-armor over a pale-gray bodysuit and chunky dark-iron boots. Exaggerated stylized tall proportions, top-heavy silhouette, supermodel legs, painterly matte textures.
+CINEMATIC INTRO SHOT DESIGN (7 Trailer Cuts with Expressions):
+• SHOT 1 (0–2s | Macro Detail): Extreme macro close-up of the vivid ruby-red drop earring swaying gently. Flat-painted silver snow drifts past her pale cheek.
+• SHOT 2 (2–4s | Facial Expression): Close-up on Lumi's ethereal, sharp face. Her violet eyes slowly open. The gold crescent on her forehead catches the moonlight as she flashes a chilling, emotionless stare.
+• SHOT 3 (4–6s | Mechanical/Ability Detail): Medium shot focusing on her hands. She elegantly raises a finger. The air shatters, manifesting dozens of floating, flat-painted silver mirror-shards edged in glowing ruby-red light.
+• SHOT 4 (6–8s | Environmental Scale): Extreme wide low-angle shot of the frozen lake. Volumetric moonlight cuts through the storm, silhouetting her towering, imposing frame, massive ponytail, and sweeping horns against the glacier.
+• SHOT 5 (8–10s | Signature Flare): Over-the-shoulder shot from behind as the ruby-red floating mirror-shards rapidly multiply, orbiting her like a razor-sharp halo and casting a red glow on the ice.
+• SHOT 6 (10–12s | Movement): Dynamic medium tracking shot pulling backward. Lumi glides forward effortlessly, her massive silver-white armor plates and long icy hair reacting beautifully to her momentum.
+• SHOT 7 (12–15s | Final Boss Poster Frame): Extreme low-angle hero shot looking up at Lumi. Her twin horns pierce the top of the frame. The floating ruby-red glass shards frame her like a deadly crown. She looks down directly into the camera lens with absolute disdain. Hold final frame.
+Weighty natural character animation, heavy hair and armor reacting fluidly to wind, filmic 24fps shutter, shallow depth of field.
+NOT flat 2D cartoon, no bold outlines, no cel shading, not glossy CGI, not Unreal Engine, no photorealism.</code></pre>
+
+</details>
+
+## 30-second Pixar-quality 3D animated ASMR comedy short aboard a warm, lantern-lit pirate ship galley
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2099186117769822462)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`
+- **ImgLume record:** [4239](https://imglume.com/prompt/4239)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/93fd6efc-8ae8-4f8e-9232-63c1e8bbea05/0c2b09d3-2056-472f-bd57-549b821e3211-1789343795624 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second Pixar-quality 3D animated ASMR comedy short aboard a warm, lantern-lit pirate ship galley.
+
+STYLE: Premium cinematic 3D animation, expressive characters, polished feature-film quality, warm amber lighting, realistic food textures, cinematic depth of field, playful slapstick humor, gentle ship movement and crisp immersive food ASMR.
+
+Characters: A large, burly, bearded pirate chef wearing a worn apron, and a mischievous bright-green parrot constantly trying to steal ingredients. Keep both characters visually consistent throughout.
+
+0–4s
+
+Extreme close-up of the parrot stealing a garlic bulb. The pirate's hand suddenly slams beside it. They freeze and stare at each other. Brief record-scratch silence. The pirate flicks the parrot away; it spins through the air and lands on a pot rack pretending nothing happened.
+
+4–8s
+
+The pirate rapidly chops garlic with crisp ASMR. The parrot tiptoes toward a tomato. Garlic hits hot oil with a huge sizzle, startling the parrot and sending it tumbling off the rack. Metal cups clang.
+
+8–14s
+
+Fast cinematic cooking montage: tomatoes sizzling, herbs being torn, olive oil pouring in golden slow motion, sauce bubbling and the pirate confidently stirring the skillet. Layer detailed chopping, sizzling, pouring and bubbling ASMR.
+
+14–19s
+
+The parrot spots the food and secretly tries to drag the skillet away. Its tiny body strains comically across the wooden floor. The pirate slowly turns around and stares. The parrot freezes while still holding the handle, then innocently whistles and lets go.
+
+19–24s
+
+The pirate finishes cooking with a dramatic skillet toss. Steam rises as the glossy dish is plated. The parrot watches hungrily, trying to look innocent.
+
+24–30s
+
+Instead of scolding the parrot, the pirate prepares a tiny plate of sauce and bread and slides it across the table. The parrot happily bounces and eats beside him. They exchange a satisfied look as the ship gently sways.
+
+End with a wide cinematic shot of the cozy galley glowing under amber lanterns, subtle ocean sounds and wooden ship creaks, with one soft playful accordion note fading out.
+
+No dialogue, no subtitles, no text. Maintain strong character consistency, natural physics, smooth animation, cinematic framing and detailed food ASMR throughout.</code></pre>
+
+</details>
 
 ## 30-second realistic AAA third-person open-world game sequence in a Japanese neighborhood
 

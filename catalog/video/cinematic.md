@@ -1,9 +1,1018 @@
 # Cinematic video prompts
 
-793 source-linked prompts, newest ImgLume records first.
+815 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic Japanese omurice cooking video
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2099507137630327145)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [4310](https://imglume.com/prompt/4310)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40ef9b6c-1a7c-4e03-9088-c6136358a801/e3d5c3b4-6000-4548-a890-b8518bb1e7eb-1789415199359 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second fast-paced, ultra-realistic cinematic Japanese cooking video showing the preparation of authentic Japanese omurice.
+
+CORE STYLE
+
+Photorealistic live-action food cinematography. No animation and no anime styling. Use physically accurate cooking, natural hand movements, realistic ingredient textures, authentic steam, oil, moisture, heat distortion, and believable food behavior. Warm Japanese kitchen atmosphere, natural lighting, shallow depth of field, macro close-ups, realistic camera motion, and premium commercial food-film quality. Keep the same hands, cookware, ingredients, lighting, and environment throughout.
+
+TIMELINE
+
+0–3s — Prepare Ingredients
+Close-up of hands finely cutting chicken thigh, onion, and mushrooms on a wooden cutting board. The knife moves naturally and precisely, revealing realistic moisture and ingredient texture.
+
+3–6s — Sauté
+Heat butter in a stainless-steel frying pan. Add chicken, onion, and mushrooms. They immediately begin sizzling as the chicken develops lightly browned edges and the onions turn translucent.
+
+6–9s — Add Rice
+Add freshly cooked Japanese short-grain rice to the pan. Spoon in ketchup and seasoning, then toss and stir until every grain is evenly coated. Realistic steam rises from the pan.
+
+9–12s — Shape Rice
+Transfer the hot ketchup chicken rice onto a ceramic plate and shape it into a neat oval mound. Individual rice grains remain visible beneath a subtle layer of steam.
+
+12–15s — Beat &amp; Cook Eggs
+Crack fresh eggs into a bowl and whisk until completely smooth. Pour them into a buttered nonstick pan over low heat. The egg spreads naturally across the surface.
+
+15–19s — Soft Omelette
+Gently move the eggs with a spatula as they begin to set. The outer edges become softly cooked while the center remains glossy, creamy, and slightly runny.
+
+19–22s — Fold
+Carefully fold the omelette into an elongated shape. The surface stays smooth and delicate without becoming dry or browned.
+
+22–25s — Assemble
+Slide the soft omelette directly over the mound of ketchup rice. It settles naturally around the rice while gentle steam escapes from the freshly cooked eggs.
+
+25–27.5s — Open the Omelette
+Make one clean cut through the center of the omelette. The soft interior slowly opens and spreads over the rice, revealing the creamy egg texture.
+
+27.5–30s — Hero Shot
+Present the finished omurice on a clean ceramic plate. Add a small glossy drizzle of ketchup across the top. Steam rises naturally as the camera slowly pushes toward the dish, capturing the silky egg, fluffy rice, and realistic surface textures.
+
+AUDIO
+
+Realistic Japanese kitchen ASMR: knife chopping, butter sizzling, chicken frying, rice moving through the pan, spatula scraping, egg whisking, egg pouring, gentle sizzling, and a soft ceramic clink. Add subtle warm instrumental Japanese background music that never overpowers the cooking sounds.
+
+NEGATIVE
+
+No anime, no cartoon, no illustration, no CGI appearance, no stylized animation, no exaggerated food movement, no storyboard, no reference images, no sketches, no panels, no borders, no numbers, no arrows, no annotations, no subtitles, no captions, no logos, no UI, and no text overlays. No unrealistic ingredients, utensils, hands, physics, steam, or camera movement. Keep everything photorealistic, physically accurate, and visually consistent from beginning to end.</code></pre>
+
+</details>
+
+## 30‑second photorealistic cinematic action‑comedy video of GTA‑style grandfather birthday mission
+
+- **Original source:** [@feesyiam on X](https://x.com/feesyiam/status/2099401891654615283)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4304](https://imglume.com/prompt/4304)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/84f543d3-2661-412b-b00d-137d23592ca9/d67fb560-a518-40a2-9c11-be987c08f3e7-1789406975540 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/84f543d3-2661-412b-b00d-137d23592ca9/ba90d1b4-61e8-490f-b33c-423426951a9b-1789406975540 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Video prompt:
+
+Create a 30-second photorealistic cinematic action-comedy video based directly on the provided 6-panel storyboard reference image.
+
+Treat the storyboard as the visual blueprint for the entire video. Preserve the exact same elderly Asian grandfather, clothing, facial features, Taipei environment, color palette, architecture, and overall visual style from the reference storyboard. Do not redesign the character between shots.
+
+CHARACTER CONTINUITY
+
+The protagonist is a 70–75-year-old Asian grandfather with short neatly trimmed grey hair, thick grey eyebrows, deep natural facial wrinkles, expressive eyes, a weathered face, lean athletic build, and a determined personality.
+
+He wears:
+
+- beige sleeveless vest
+- light-colored collared shirt
+- dark trousers
+- practical worn sneakers
+- simple wristwatch
+
+His face, hairstyle, clothing, body proportions and accessories must remain identical throughout the entire video.
+
+Despite his age, he moves with surprising athletic ability. His movements should feel physically believable and grounded, while the overall situation has a playful action-comedy tone.
+
+OVERALL VISUAL STYLE
+
+Photorealistic AAA open-world video-game cinematic aesthetic, extremely detailed environments, realistic human skin and facial animation, physically accurate clothing and materials, realistic glass and roof tiles, natural shadows, cinematic lighting, atmospheric depth, realistic reflections, subtle film grain and controlled motion blur.
+
+Set the entire story in Taipei, Taiwan, with traditional residential streets, narrow alleys, scooters, utility wires, tiled rooftops, dense apartment buildings and modern skyscrapers.
+
+Taipei 101 should remain geographically consistent and recognizable whenever visible.
+
+Maintain a subtle game HUD overlay inspired by modern open-world action games: circular minimap, health/stamina indicators and small interface elements. The HUD should be visible mainly during the action sequences and should never cover the protagonist's face.
+
+IMPORTANT VIDEO RULES
+
+- One continuous story with clear chronological progression.
+- Smooth cinematic transitions between every scene.
+- No random cuts that contradict the storyboard.
+- No character morphing.
+- No changes to clothing.
+- No changes to age or facial structure.
+- No duplicated characters.
+- No sudden changes in environment or weather.
+- Realistic physics and believable body movement.
+- Natural hand and finger movement.
+- Maintain consistent sunlight direction throughout.
+- Use cinematic camera movement rather than static shots.
+- Build intensity progressively from calm → surprise → action → extreme action → comedic payoff.
+- No unnecessary explosions, guns or violence.
+- The humor should come from the grandfather behaving like an action hero.
+
+SCENE 1 — THE INVITATION
+
+0–5 seconds
+
+Begin with a wide cinematic establishing shot of a peaceful Taipei residential neighborhood in bright daylight.
+
+The grandfather walks toward an old metal mailbox beside a residential gate.
+
+Camera slowly tracks toward him from a slightly low angle.
+
+Show detailed Taiwanese architecture: traditional shophouses, balconies, plants, scooters, utility wires, air-conditioning units and narrow streets.
+
+Taipei 101 is visible far in the background between the buildings.
+
+The grandfather opens the mailbox and discovers a colorful birthday invitation.
+
+He slowly pulls it out and looks at it with curiosity.
+
+Camera: smooth slow push-in, 24mm cinematic lens.
+
+Mood: calm and ordinary.
+
+At approximately 4 seconds, transition naturally into a close-up as he reads the invitation.
+
+SCENE 2 — THE REALIZATION
+
+5–9 seconds
+
+Cut smoothly into an extreme close-up of the grandfather's face.
+
+He reads the birthday invitation.
+
+His expression changes dramatically:
+
+first confusion → realization → wide-eyed excitement → determined expression.
+
+His eyes widen, eyebrows rise and his wrinkles become highly visible.
+
+Let the reaction play naturally for a moment for comedic timing.
+
+The invitation remains visible in the foreground.
+
+Taipei apartment buildings are softly blurred behind him.
+
+Use shallow depth of field and realistic facial animation.
+
+Camera slowly pushes closer toward his eyes.
+
+At the end of the shot, his expression suddenly becomes extremely determined.
+
+He lowers the invitation, turns his head toward the direction of the destination and immediately starts moving.
+
+Transition: whip-pan following his movement into the next scene.
+
+SCENE 3 — THE PARKOUR SHORTCUT
+
+9–14 seconds
+
+The grandfather suddenly sprints through a narrow Taipei residential alley.
+
+Camera follows dynamically from behind and slightly to the side.
+
+He approaches a wooden fence blocking the path.
+
+Without stopping, he plants one hand on the fence and performs a surprisingly athletic vault over it.
+
+Capture the movement clearly in one fluid action:
+
+running → hand touches fence → body rises → legs swing over → feet land safely → immediately continues running.
+
+His beige vest and shirt move naturally with his momentum.
+
+Nearby laundry, plants and small objects react subtly to the movement.
+
+Activate the game-style HUD more prominently:
+
+circular minimap showing his route, stamina bar and subtle interface elements.
+
+Use realistic handheld-style camera shake and controlled motion blur.
+
+Camera: low tracking shot, approximately 28mm lens.
+
+End with the grandfather running toward a staircase leading upward.
+
+SCENE 4 — ROOFTOP RUN
+
+14–19 seconds
+
+Follow him continuously as he reaches the rooftop.
+
+He climbs onto the tiled roof and begins running rapidly across the traditional Taipei rooftops.
+
+Use a spectacular tracking shot that reveals the city expanding around him.
+
+Show:
+
+- orange-brown roof tiles
+- rooftop water tanks
+- antennas
+- satellite dishes
+- old residential buildings
+- narrow streets far below
+- modern glass skyscrapers in the distance
+- mountains surrounding Taipei
+- Taipei 101 prominently visible
+
+The camera moves alongside him while slowly widening to reveal the enormous city.
+
+His footsteps should interact naturally with the roof tiles.
+
+He approaches the edge of the building without slowing down.
+
+For a brief moment, show his determined face.
+
+Then he launches toward the next rooftop.
+
+Camera: dynamic side-tracking shot transitioning into a wide aerial perspective.
+
+Increase the cinematic intensity and music energy.
+
+SCENE 5 — THE IMPOSSIBLE LEAP
+
+19–25 seconds
+
+Create the most spectacular shot of the video.
+
+The grandfather launches from the edge of the rooftop and makes an impossibly dramatic leap between two high-rise buildings.
+
+He is completely airborne.
+
+His arms extend forward, his clothing reacts to the wind and his determined expression remains visible.
+
+Camera moves alongside him in a dramatic slow-motion cinematic moment, then gradually returns to normal speed.
+
+Show Taipei far below.
+
+Glass skyscrapers surround him and reflect the bright sky.
+
+Taipei 101 towers dramatically in the background, creating an iconic Taipei skyline.
+
+Use a large sense of scale and depth.
+
+Camera begins slightly below him and arcs around his body while maintaining visual continuity.
+
+Add realistic wind movement, atmospheric haze, reflections, subtle motion blur and sunlight passing across the surrounding buildings.
+
+The HUD shows the minimap and stamina bar briefly dropping toward the end of the jump.
+
+As he reaches the opposite building, transition immediately into the final landing.
+
+SCENE 6 — THE GRAND ENTRANCE
+
+25–30 seconds
+
+The grandfather reaches the opposite building and continues toward a luxurious high-floor apartment.
+
+Do not make the impact excessively violent or gory.
+
+He bursts through a large floor-to-ceiling glass window in a spectacular comedic entrance.
+
+Glass fragments fly outward and sparkle in the sunlight.
+
+Camera is positioned inside the apartment facing the window.
+
+The grandfather lands firmly on both feet in the living room.
+
+For a brief moment, everything becomes quiet.
+
+Glass particles slowly fall around him.
+
+He calmly straightens his beige vest as if nothing happened.
+
+He reaches into his pocket and pulls out the small wrapped birthday gift.
+
+Several family members inside the apartment stare at him in complete disbelief.
+
+The grandfather gives them a calm, satisfied smile.
+
+Through the broken window behind him, the beautiful Taipei skyline and Taipei 101 are visible.
+
+Hold the final shot for approximately 1–2 seconds.
+
+The HUD gradually fades away.
+
+FINAL SHOT
+
+Slow cinematic push-in toward the grandfather holding the gift.
+
+Family members remain frozen in shocked expressions behind him.
+
+He gives a subtle confident smile.
+
+End on this comedic heroic pose.
+
+CAMERA &amp; MOTION DIRECTION
+
+Use varied cinematic camera language throughout:
+
+Scene 1: slow dolly/push-in
+Scene 2: extreme close-up + subtle push-in
+Scene 3: fast tracking camera
+Scene 4: dynamic rooftop tracking + aerial reveal
+Scene 5: dramatic aerial tracking + brief slow motion
+Scene 6: interior wide shot + slow push-in
+
+Every transition should feel motivated by the grandfather's movement.
+
+Avoid excessive camera shaking. Keep the action readable and cinematic.
+
+PACING
+
+0–5s — peaceful setup
+5–9s — comedic realization
+9–14s — sudden action
+14–19s — escalating rooftop chase
+19–25s — spectacular impossible leap
+25–30s — comedic birthday payoff
+
+The first 8 seconds should establish the story clearly. The middle section should continuously escalate the action. The final 5 seconds should provide a strong, memorable comedic payoff.
+
+AUDIO / CINEMATIC FEEL
+
+Use an energetic cinematic action-comedy soundtrack that gradually builds in intensity.
+
+Start with subtle Taipei street ambience. End with saying "Happy birthday" needs to be said in Chinese
+
+Add:
+- mailbox opening
+- paper/card movement
+- footsteps
+- fence impact
+- rooftop footsteps
+- strong wind during the leap
+- glass shattering
+- brief silence after the landing
+
+Music should reach its peak during the rooftop leap, then suddenly become quiet after he lands, creating the comedic contrast.
+
+FINAL QUALITY
+
+Ultra-detailed photorealistic rendering, realistic human motion, realistic facial expressions, cinematic depth of field, natural lighting, physically accurate materials, high-detail Taipei environment, convincing scale, smooth motion, consistent character identity, professional action-film cinematography, polished AAA game-engine quality.</code></pre>
+
+</details>
+
+## Cinematic dark fantasy wuxia battle
+
+- **Original source:** [@AiwithShoaib on X](https://x.com/AiwithShoaib/status/2099421817249407473)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4284](https://imglume.com/prompt/4284)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/50ede9e2-89aa-4eaf-a8cf-614a0bf38ede/e1d2b033-4478-469a-94f9-78d930b4fa43-1789385869318 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic dark fantasy wuxia battle, captured from a dramatic low-angle tracking shot. A lone male warrior dressed in black martial robes and protective arm guards stands in a vast field of tall grass beneath a gloomy, overcast sky. He spins with precision, swinging a blazing sword that creates brilliant orange fire trails and showers of sparks.
+
+A huge swarm of dark shadow creatures rushes toward him. With a powerful strike, he unleashes a devastating ground shockwave, sending dirt, smoke, and glowing embers flying through the air. A circular grid of red targeting markers and energy beams rapidly expands toward the approaching creatures.
+
+The warrior calmly places his burning sword over his shoulder and walks forward in slow motion as embers drift around him, smoke fades, and black ash dissolves into the air.
+
+Photorealistic VFX, cinematic motion blur, ultra-detailed visuals, 8K quality.</code></pre>
+
+</details>
+
+## Cute bear cub drives vintage car in cinematic countryside video
+
+- **Original source:** [@Lianaalane on X](https://x.com/Lianaalane/status/2099404551199809774)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4283](https://imglume.com/prompt/4283)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/bb5c5832-ca88-47f3-a186-e18466799822/40491092-eadd-43d2-bcd0-f4ce9b19a406-1789385724646 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Created a video in a cinematic, ultra-realistic storytelling style: a cute brown bear cub walks across a peaceful countryside farm toward an old vintage blue car parked near a rustic wooden barn. The bear curiously approaches the car, climbs inside, and naturally sits in the driver’s seat with its paws on the steering wheel. The camera captures close-up details of the bear’s realistic fur, expressive eyes, tiny paws, and the aged interior of the classic car. The car then starts moving slowly along a wet rural road, creating subtle reflections and natural motion. Wide cinematic shots reveal green fields, hay bales, a small farmhouse, and warm golden-hour sunlight in the background. Use smooth camera movements, realistic depth of field, soft lens flare, natural shadows, detailed textures, and authentic environmental lighting. The overall mood should feel charming, adventurous, cinematic, and slightly playful, with realistic animal movement and believable interaction with the car, filmed like a high-budget wildlife movie.</code></pre>
+
+</details>
+
+## Hollywood blockbuster Three Kingdoms epic battlefield video prompt
+
+- **Original source:** [@liluocheng13 on X](https://x.com/liluocheng13/status/2099316581549658547)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4280](https://imglume.com/prompt/4280)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/23902fe4-7884-4483-988b-64d58dd16422/5b20b684-eb2f-411b-9be3-7b6871639620-1789379464161 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Overall style: Hollywood blockbuster, ultra cinematic, Three Kingdoms epic realism, hyper-realistic cinematic style, IMAX-level epic battlefield, Ridley Scott–style war scale, Zack Snyder–style slow motion, authentic Three Kingdoms war atmosphere. Cold blue-toned sky, dust and smoke filling the air, cold metallic reflections, sparks flying, ochre-toned battlefield. Hans Zimmer percussion score, volumetric dust, dynamic camera, hyper realistic armor, dramatic sunset battlefield, IMAX scale, 8K, high contrast, motion debris, war atmosphere.
+[Core aesthetics and environment] Top-tier Hollywood blockbuster action film quality, 60fps high frame rate. A Three Kingdoms battlefield, with soldiers from both sides locked in fierce combat. The camera switches between high-angle overhead shots and low-angle upward shots, emphasizing the epic battlefield imagery and the brutality of war, along with the intensity of a decisive life-or-death battle — like the climactic sequence of a genuine Three Kingdoms war film. Strong visual hook in the first 2 seconds, stable subject, fluid action, cinematic composition, realistic lighting and shadow, epic feel, strong emotion, highly detailed.
+No subtitles, no dialogue, no narration throughout.
+🚫 Negative prompts (avoid cheap-looking results): cartoon, anime, fake armor, floating weapon, bad anatomy, blurry face, cheap CGI, low detail horse, duplicated limbs, weak impact, soft action.</code></pre>
+
+</details>
+
+## Kung Fu Girl comedic wuxia action sequence
+
+- **Original source:** [@doctorwasif on X](https://x.com/doctorwasif/status/2099353256044679297)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4277](https://imglume.com/prompt/4277)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ecad5066-b850-46ce-8491-e1cc6bf7eadf/57ccbe7b-485c-477d-aa83-b4e7950f24ec-1789375293498 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>30-second comedic wuxia action sequence, 16:9.
+
+Main Subject: Use the reference image for her exact face, identity, hairstyle, body proportions, and outfit. Keep her appearance consistent throughout. She is completely calm and deadpan while everyone around her is exaggerated and chaotic.
+
+Style: Bright oversaturated daylight, rundown tenement courtyard, cinematic wuxia comedy, exaggerated wire-fu physics, dramatic slow motion, dust, debris, comedic impacts, ragdoll motion, absurd tension. No gore or realistic injury. Fast comedic pacing.
+
+Sequence
+
+0–1s: She stands calmly in a rundown courtyard. Thugs swagger in with exaggerated slow-motion confidence, dust and papers blowing dramatically.
+
+1–3s: Lead thug cracks his knuckles theatrically. She sighs, unimpressed, and rolls up her sleeves.
+
+3–6s: The gang charges. She effortlessly sidesteps the first attacker into a wall, flicks another away with an invisible force, then catches a third attack between two fingers and casually throws him into barrels.
+
+6–10s: More thugs rush her. She launches into exaggerated wire-fu, leaping high and spinning through the air, kicking multiple attackers away simultaneously. She lands perfectly, completely unbothered.
+
+10–13s: A thug jumps from a rooftop toward her. She casually steps aside, causing him to crash into the ground. Close-up: she raises one eyebrow.
+
+13–16s: Several thugs charge together. She delivers one open-palm strike, creating an exaggerated visible shockwave that sends the entire group flying backward.
+
+16–19s: The lead thug remains. Terrified, he dramatically reveals a weapon and charges. She catches it between two fingers and effortlessly bends it into a pretzel, tossing it aside.
+
+19–22s: He trembles, backs away, then runs off in exaggerated fast motion. She takes one step forward with a ridiculous ground-cracking effect.
+
+22–25s: Wide shot: defeated thugs scattered around the courtyard in comedic poses. She calmly dusts off her sleeves and walks past them.
+
+25–28s: Residents peek from windows and doorways in amazement. A child starts clapping, followed by the whole neighborhood.
+
+28–30s: She gives a small modest bow, then walks away from the wrecked courtyard in exaggerated heroic slow motion. Freeze-frame-style comedic wuxia ending.
+
+Audio: Exaggerated martial-arts impacts, whooshes, crashes and comedic timing. No gore. Keep the tone playful and absurd rather than violent.</code></pre>
+
+</details>
+
+## Cinematic photorealistic video of a fashion model on a subway platform
+
+- **Original source:** [@Zoyavelle on X](https://x.com/Zoyavelle/status/2099372756102164923)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4271](https://imglume.com/prompt/4271)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/217a1810-4d25-4f48-8bed-51bada2e28de/f8e01481-7127-4468-9f25-d6187819fd82-1789371111563 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic photorealistic video of a beautiful young Asian woman with long straight black hair, wearing a fitted white long-sleeve top and a short dark pleated skirt, walking and gently dancing on a modern underground subway platform. A subway train is stopped in the background. She moves naturally and confidently, occasionally turning and looking toward the camera while her hair flows with her movement. Another woman appears walking in the background. Modern metro station architecture, dark tiled floor, illuminated overhead fluorescent lights, realistic train windows and doors, shallow depth of field, smooth cinematic camera movement, natural body motion, realistic skin texture, subtle motion blur, professional fashion-video aesthetic, high detail, photorealistic, 4K, cinematic lighting, vertical 9:16 composition.</code></pre>
+
+</details>
+
+## Photorealistic cinematic short film at an American high school
+
+- **Original source:** [@itsSaira_1 on X](https://x.com/itsSaira_1/status/2099367706571268550)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4268](https://imglume.com/prompt/4268)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/50ccf22e-f1ca-4c20-8931-98cc9f3b88cd/98be2ef3-44c4-42d8-8afb-0b0c78e35490-1789371057055 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Photorealistic cinematic short film at an American high school on a warm autumn afternoon. A classic yellow school bus moves through a tree-lined parking lot. Slow tracking shot behind the bus, warm golden sunlight, shallow depth of field, natural camera movement and subtle film grain.
+
+A beautiful blonde teenage girl with fair skin, loose ponytail, white top and delicate necklace stands beside the bus, looking through the window at another girl. Cinematic close-up with realistic skin, emotional expression and 85mm lens. Push into her face as her eyes develop a subtle pink supernatural glow.
+
+Show students naturally interacting inside the bus, warm sunlight through windows, then the girl running beside the moving bus with realistic hair movement and motion blur. Finish with multiple yellow buses, the girl standing confused among students, and a low-angle close-up of her black Converse-style sneakers walking.
+
+Hollywood photorealism, warm autumn color grade, anamorphic look, shallow DOF, realistic motion blur, dramatic atmosphere, 4K, 24fps.
+
+Negative prompt: cartoon, anime, CGI, plastic skin, distorted anatomy, extra limbs, deformed eyes, changing identity, flickering, jitter, frame warping, unnatural motion, low quality, text, watermark, logo.</code></pre>
+
+</details>
+
+## Cinematic Korean university girl daily life video
+
+- **Original source:** [@ayzalnooor24521 on X](https://x.com/ayzalnooor24521/status/2099369971206013374)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4267](https://imglume.com/prompt/4267)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/6da91c52-96f4-4021-b75a-7d15f97019fb/fd25aec3-98cd-4e5b-b590-b8d18e100738-1789371018168 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a cinematic, realistic lifestyle video following a young Korean university girl through a peaceful and productive day.
+
+Start with her commuting to campus by city bus in the morning. Then show her studying in a bright university classroom with a laptop, notebook, and books. Continue with her working on assignments in a cozy library or café while drinking coffee.
+
+Next, show her walking through campus in the rain with a transparent umbrella, smiling naturally. Then cut to her enjoying a warm bowl of Korean-style soup at a small local restaurant.
+
+At sunset, show her standing on a beautiful rooftop overlooking the city, enjoying the golden-orange sky. Then show her meeting three Korean girlfriends and taking a fun selfie together.
+
+End with the main girl riding home on a modern train at night, looking through the window at the glowing city lights, followed by a warm close-up of her smiling peacefully.
+
+Style: photorealistic Korean lifestyle, cinematic storytelling, premium commercial quality, natural expressions, realistic skin and hair, soft lighting, smooth camera movements, shallow depth of field, detailed environments, emotional and cozy atmosphere, 4K, no text, no logos, no watermark.</code></pre>
+
+</details>
+
+## 15-second photorealistic cinematic urban sequence in a Manhattan-style intersection
+
+- **Original source:** [@Elvorya on X](https://x.com/Elvorya/status/2099327265888993335)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4263](https://imglume.com/prompt/4263)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/57061187-b677-454f-9bd7-0699478009a2/7fa656b4-d1f8-4252-8373-6b9bccd83864-1789369033104 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second photorealistic cinematic urban sequence set in a busy Manhattan-style city intersection during a bright late afternoon. Begin with a smooth low-angle forward tracking shot through a crowded pedestrian street surrounded by tall urban buildings, cinema signs, storefronts, traffic, street poles, and hundreds of naturally moving pedestrians. A rugged middle-aged bearded man wearing a dark charcoal jacket and dark shirt walks steadily toward the camera through the crowd, maintaining a serious, thoughtful expression. The camera smoothly tracks backward as he approaches, keeping him sharply in focus while pedestrians naturally pass in the foreground and background.
+
+A woman in an elegant flowing red dress suddenly crosses into the scene from the side, walking past the man as they briefly notice each other. Continue with cinematic medium shots showing believable eye contact and natural human movement. Pigeons suddenly take flight around them, creating dynamic foreground motion and subtle visual tension. Cut between the man's face, the woman moving through the crowd, and wide environmental shots showing the scale and energy of the city. Gradually transition from smooth stabilized camera movement into a subtle handheld cinematic feel.
+
+In the final seconds, the camera slowly pulls backward and rises slightly, revealing the entire crowded avenue stretching between tall buildings, with the man becoming smaller within the moving crowd. Warm natural sunlight, realistic shadows, atmospheric depth, subtle lens flare, shallow depth of field during close-ups, natural skin texture, realistic hair and clothing movement, physically accurate lighting, authentic pedestrian behavior, realistic pigeons and motion blur, cinematic color grading, premium feature-film cinematography, grounded photorealism, highly detailed urban environment.
+
+No animation, no cartoon appearance, no exaggerated CGI, no distorted faces, no duplicated people, no unnatural body movement, no floating objects, no subtitles, no logos, no watermark. Maintain consistent character appearance, clothing, environment, and facial features throughout the entire sequence.
+
+Shot timing
+
+0–3 sec: Wide/low-angle tracking shot through crowded city street.
+3–6 sec: Bearded man approaches camera, camera smoothly tracks backward.
+6–9 sec: Woman in red dress crosses his path; brief eye contact.
+9–12 sec: Close/medium shots + pigeons suddenly flying through foreground.
+12–15 sec: Camera pulls back and rises, revealing the massive crowded city avenue and the man disappearing into the crowd.</code></pre>
+
+</details>
+
+## A Male Pet Owner’s Daily Routine
+
+- **Original source:** [@AIwithZeeshi on X](https://x.com/AIwithZeeshi/status/2099343208027406341)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4262](https://imglume.com/prompt/4262)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/50392953-b2bf-44d3-bf0f-5bb9addbe0d9/b411ac57-11e1-4d13-a400-b6b07cb9ba29-1789369015033 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A Male Pet Owner’s Daily Routine
+
+A male pet owner starts the morning by waking up and greeting his golden-brown dog with gentle affection. The routine continues with feeding the dog, taking it for a morning walk, working together from home, and ending the day with a fun game of fetch in the backyard during golden hour.
+
+Every scene follows realistic human and animal behavior with accurate physics, including gravity, inertia, momentum, friction, collisions, leash tension, realistic object weight, natural fur movement, cloth dynamics, and anatomically correct human and canine biomechanics.
+
+Ultra-realistic visuals, cinematic documentary style, natural lighting, realistic skin and fur, smooth camera movement, subtle handheld motion, realistic depth of field, natural focus pulls, physically accurate shadows, consistent character identity, detailed environments, natural colors, subtle film grain, and 4K cinematic quality.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic Korean countryside lifestyle vlog
+
+- **Original source:** [@nawalsehar on X](https://x.com/nawalsehar/status/2099368044287947194)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4261](https://imglume.com/prompt/4261)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7a2b937c-ec0c-4aa3-9c1d-cfe4860316b1/4b51e269-1590-4706-8db3-319a403c81e0-1789369009981 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-photorealistic live-action Korean countryside lifestyle vlog following a young Korean woman through a spontaneous afternoon adventure. Begin with her leaving her village home on a bicycle before three local children challenge her to a friendly race through the quiet countryside.
+
+Show an authentic Korean rural village with traditional houses, stone walls, vegetable gardens, rice fields, narrow roads, trees and a peaceful stream beyond the village. Keep the woman, children, bicycles, clothing and environment perfectly consistent throughout.
+
+Capture realistic cycling biomechanics, pedaling, steering, braking, balance, bicycle momentum, wind, hair and clothing movement, flowing water, grass, leaves and natural sunlight. Every movement should follow believable real-world physics.
+
+Use modern 2026 handheld cinematic-vlog cinematography with realistic autofocus, subtle camera movement, bicycle-height tracking shots, intimate close-ups and wide countryside views.
+
+Natural diegetic audio only: bicycle chains, tires, brakes, birds, insects, wind, children's laughter, flowing water, snack packaging and authentic Korean dialogue with accurate lip synchronization. No music, narration or subtitles.
+
+End with the woman and children sitting beside the stream, sharing snacks as their bicycles rest nearby and warm sunlight filters through the trees.
+
+No CGI, animation, artificial movement, impossible physics, distorted faces or hands, changing outfits, duplicated children, floating objects, excessive camera shake, logos or watermark.</code></pre>
+
+</details>
+
+## 30-second ultra-photorealistic Korean countryside lifestyle vlog
+
+- **Original source:** [@aiwithaly on X](https://x.com/aiwithaly/status/2099357930927845736)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4257](https://imglume.com/prompt/4257)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/46e87dfa-76d5-4f38-a017-0a9b0ba74865/83615a1b-171f-4bb1-b0c4-e1255887a957-1789368928801 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second ultra-photorealistic Korean countryside lifestyle vlog following a young Korean woman through a spontaneous afternoon in a peaceful village. Begin with her leaving her traditional home to buy groceries, walking along a quiet village road before meeting local children playing with a rubber ball. She briefly joins their game, laughing and playing naturally, then says goodbye and continues to a tiny neighborhood grocery shop.
+
+Show authentic Korean rural life with traditional homes, modest modern houses, narrow paved roads, stone walls, vegetable gardens, utility poles, bicycles, trees, distant rice fields and a small local shop. Keep the woman, children, clothing, shopping bag and environment perfectly consistent throughout.
+
+Capture realistic human movement, walking biomechanics, ball physics, cloth and hair movement, grocery handling, natural bag weight, door and gate mechanics, sunlight, shadows, wind and environmental details. Use modern 2026 handheld cinematic-vlog cinematography with natural autofocus, subtle camera movement, realistic motion blur, eye-level framing and a brief child-height tracking shot.
+
+Use only natural diegetic audio: footsteps, birds, insects, wind, leaves, children's laughter, ball impacts, clothing movement, shopping-bag rustling, shop bell, groceries and authentic Korean dialogue with accurate lip synchronization. No music, narration, subtitles, CGI, artificial movement, impossible physics, changing faces or clothing, logos or watermark.
+
+End with the woman walking home in warm golden-hour light, waving back at the children from a distance before entering her home, leaving the viewer with a peaceful, authentic Korean village moment.</code></pre>
+
+</details>
+
+## Cinematic anime-style skateboarding traveler down coastal hillside town
+
+- **Original source:** [@CaliraVal on X](https://x.com/CaliraVal/status/2099357883133726827)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4256](https://imglume.com/prompt/4256)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a918318c-cb32-4404-9e62-200a4fb4d33c/0124d413-b87d-4721-bf49-b15bf039dce6-1789368914326 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A cinematic anime-style scene of a young female traveler skateboarding downhill through a colorful coastal hillside town. She rides smoothly down a winding residential road, carrying a green backpack and orange shoulder bag, while the camera follows behind her in a dynamic tracking shot. Below, a breathtaking turquoise ocean stretches along a curved sandy coastline with white waves crashing against the shore. Colorful houses, utility poles, lush greenery, distant mountains, and enormous fluffy clouds fill the landscape. Strong summer sunlight, vivid blue sky, detailed hand-painted anime aesthetic, subtle wind moving her hair and clothes, realistic skateboard motion, smooth camera movement, atmospheric depth, highly detailed background, adventurous peaceful travel mood, cinematic composition, 9:16 vertical, seamless natural motion.</code></pre>
+
+</details>
+
+## The walk towards serenity
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2099138203026599964)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [4255](https://imglume.com/prompt/4255)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/930f7a88-2eeb-4f97-8c16-a7ea2525f50b/268a0e75-337d-4c34-afbe-8dc56c28054a-1789366974424 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second cinematic continuous shot, ultra-realistic, natural film look, 24fps.
+0–4 seconds: Extreme close-up of a sunlit animal skull lying partially buried in dry golden grass. Small yellow and blue wildflowers are naturally growing through the skull, clearly visible and unchanged. Warm early-morning sunlight illuminates the bone and surrounding grass. Shallow depth of field, realistic textures, soft background bokeh. The grass gently moves in a light natural breeze.
+4–7 seconds: A woman’s leg wearing brown suede boots enters the frame and naturally steps over the skull without touching or disturbing it. Her other foot follows as she continues walking forward along the forest path. Keep the skull, flowers, dry grass, and boots clearly realistic and consistent.
+7–11 seconds: As she moves farther away, the camera slowly rises upward and smoothly follows behind her, transitioning from the ground-level close-up into a medium rear shot. Reveal a blonde woman with long flowing hair, wearing a dark navy-blue cloak that moves naturally with her walking motion and the gentle breeze.
+11–15 seconds: The camera continues smoothly following her from behind as she walks deeper along the forest path. Tall trees surround the path, with warm sun rays filtering naturally through the branches. In the distance, mountains glow softly in golden morning light, creating atmospheric depth. Her long blonde hair and navy-blue cloak move naturally as she walks. End with a beautiful cinematic rear composition of the woman disappearing deeper into the forest.
+Visual direction: photorealistic, cinematic natural lighting, warm golden morning atmosphere, realistic forest textures, physically accurate shadows, subtle atmospheric haze, realistic human walking motion, smooth camera movement, shallow depth of field transitioning naturally into deeper environmental focus, no artificial effects, no cuts, no sudden camera movements, seamless continuous shot, premium cinematic film quality.</code></pre>
+
+</details>
+
+## Haunting Eastern Woman in Ruined Chinese Temple – 15s Cinematic Music Video Prompt
+
+- **Original source:** [@liluocheng13 on X](https://x.com/liluocheng13/status/2099327675244720565)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`, `kling`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4253](https://imglume.com/prompt/4253)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d759a47a-aea0-42ce-8a99-9eb28c73fe4b/e8032911-dce2-4bad-bcba-ab60bd1dcbb9-1789366913024 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/d759a47a-aea0-42ce-8a99-9eb28c73fe4b/284f6e1e-7785-49f2-a919-84f90c7b1022-1789366913024 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main subject: A hauntingly beautiful Eastern woman in a tattered crimson wedding gown and red veil, her silver hair disheveled. The background is the ruins of a collapsed ancient Chinese building, under a grey sky with light rain falling.
+Story storyboard (0–15 seconds):
+0–5s — Close-up and struggle: Camera slowly pushes in on the woman's face in close-up. Her eyes are unfocused, tears mixing with rain as they slide down her cheeks, yet an eerie smile plays at the corner of her mouth — her expression twisting between anguish and madness.
+5–10s — Stumbling and shattering: Camera follows her footsteps as she staggers unsteadily through the ruins, the hem of her wedding gown sweeping over rubble and dead branches with a soft rustling sound.
+10–15s — Despair and descent: Wide-angle shot pulls back as she collapses into a sitting position amid the ruins, the red veil slipping off to reveal her pale face. She tilts her head back toward the grey sky, her laughter fading as tears continue to fall.
+Style and atmosphere: Cinematic quality, dark gothic style, high contrast, striking red-and-black visual impact, oppressive, despairing, surrealist, 8K resolution, exquisite detail.
+Negative: Low quality, stutter, face/body collapse, over-bright, excessive gore, stiff motion, watermark, T-pose, bright palette, flashy VFX, rigid camera, lack of speed/blur, weak kills.</code></pre>
+
+</details>
+
+## Taking X by "STORM"
+
+- **Original source:** [@AIwithSynthia on X](https://x.com/AIwithSynthia/status/2099340937684258828)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4250](https://imglume.com/prompt/4250)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/e81eca90-27bd-4a41-93d0-7c6a564dbb9b/0e338d8e-8a6c-4005-b52f-4a4a197e3b50-1789366827129 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded image as the exact visual reference for the characters, wardrobe, composition, lighting, and overall cinematic look. Create a photorealistic live-action video,
+
+A young woman wearing a long, fully closed ivory-white tailored coat, black sunglasses, and black pointed heels walks slowly and confidently straight toward the large crowd. Her posture is elegant and controlled, her arms relaxed naturally at her sides, and her expression remains serious and calm.
+
+Start with a medium-wide frontal shot. The woman walks directly toward the camera and toward the center of the crowd. The camera smoothly tracks backward at the same pace, keeping her perfectly centered. The crowd remains completely still, watching forward.
+
+She reaches the front-center position of the crowd and comes to a complete stop. Her feet settle naturally, arms remain at her sides, shoulders relaxed. She looks directly into the camera through her black sunglasses.
+
+The woman remains 100% completely still.
+
+Then, precisely behind her, the entire crowd suddenly begins moving in perfect synchronized rhythm.
+
+Their movement should be sharp and unsettling:
+
+heads jerk quickly to one side
+
+shoulders snap upward
+
+upper bodies briefly lean forward
+
+they suddenly snap upright again
+
+repeat the movement together like a perfectly synchronized group
+
+The movement happens across the entire crowd, from the closest people to the deepest background rows.
+
+The woman does absolutely nothing.
+No head movement.
+No body movement.
+No hand movement.
+No walking.
+No reaction.
+
+She simply stands motionless while everyone behind her moves aggressively in synchronization.
+
+The camera slowly pushes closer toward the woman while the crowd continues its synchronized movements behind her. Keep her face and white coat sharply focused while the moving crowd has subtle cinematic depth-of-field blur.
+
+End with a powerful centered close/medium shot. The woman is completely motionless in the foreground while the crowd performs one final synchronized head-and-shoulder snap behind her.
+
+Hold on her still expression for the final moment.
+
+Visual Direction
+
+Dark, cold, high-end cinematic fashion aesthetic. Raw concrete environment, deep shadows, soft overhead lighting, realistic skin and fabric, natural hair physics, realistic human movement.
+
+The central visual contrast is extremely important:
+ONE perfectly still woman in white + a large crowd in black moving violently in perfect synchronization behind her.
+
+No duplicate lead.
+No additional white outfits.
+No men.
+No cartoon or animation.
+No CGI appearance.
+No exaggerated camera shake.
+No text.
+No subtitles.
+No logos.
+No sudden scene changes.
+No extra characters appearing or disappearing.</code></pre>
+
+</details>
+
+## Bedroom chaos turns into midnight confidence with a seamless transition that hits right on the beat
+
+- **Original source:** [@Just_sharon7 on X](https://x.com/Just_sharon7/status/2099332819768291755)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `cinematic`
+- **ImgLume record:** [4247](https://imglume.com/prompt/4247)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/48ae5fa4-73df-4d73-94a2-47198ea5c417/c7421c09-c618-4ee7-976c-4551ee41a4ac-1789364746627 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>FORMAT
+10 seconds, 2 shots.
+Shot 1: Indoor bedroom, 0.0–5.0s.
+Shot 2: Outdoor night street, 5.0–10.0s.
+Transition: seamless hard cut exactly on shoe impact.
+Style: photorealistic live-action, premium cinematic commercial, realistic movement/physics, authentic handheld cinematography.
+
+SHOT 1 — INDOOR BEDROOM | 0.0–5.0s
+
+ENVIRONMENT
+Minimalist young woman's @[Image 1](image_1) private bedroom in daylight; clean, modern, intimate, naturally lived-in. Large curtain several meters behind Sharon, simple desk/console farther behind, minimal personal objects and subtle decoration. Enough depth for subject separation. Background softly out of focus; Sharon remains sharp and readable.
+
+CAMERA / LIGHTING
+Eye-level handheld, medium-wide/full-body framing with room for lateral movement and shoe actions, moderate shallow depth of field. Soft natural daylight, natural skin tones, soft highlights, gentle realistic shadows, warm clean atmosphere.
+Camera is operated physically with Sharon: lateral tracking, short push-in, reactive pull-back, quick pans, tilts and reframing. Never perfectly smooth or automated; movement is quick, light, imperfect and physically motivated by her actions.
+
+ACTION + CAMERA
+0.0–1.1s — Sharon enters from RIGHT holding TWO SHOES, one in each hand, and walks toward center.
+Camera: handheld lateral tracking LEFT, physically stepping sideways while keeping medium-wide framing.
+
+1.1–1.8s — Sharon @[Image 1](image_1) stops near center, raises one shoe toward camera as if showing it, then brings it toward her nose.
+Camera: short handheld push-in; keep face and shoe sharp.
+
+1.8–2.4s — Sharon smells the shoe, immediately recoils with surprised disgust, pulls her face away and gives a short head shake.
+Camera: small reactive pull-back, then immediately settle toward her face.
+
+2.4–3.0s — Sharon casually throws the first shoe toward the side of the room.
+Camera: quick reactive pan following the shoe briefly, then fast pan back to Sinta; believable handheld imperfection.
+
+3.0–3.8s — Sharon shifts sideways, focuses on the second shoe, and throws it vertically upward.
+Camera: tilt up following the shoe; as it reaches the top of its trajectory, quickly tilt back down toward Sinta while keeping awareness of her and the descending shoe.
+
+3.8–4.4s — Sharon tracks the descending shoe with her eyes, adjusts footing, rotates slightly sideways and prepares a high side kick.
+Camera: short lateral handheld adjustment keeping body and falling shoe in frame; subtle natural Dutch tilt may develop.
+
+4.4–5.0s — Shoe descends into kicking range. Sharon performs a fast, precise HIGH SIDE KICK: leg extends sharply sideways, torso rotates slightly, supporting leg grounded, arms naturally counterbalance, eyes locked on the shoe. Full real-time.
+Camera: quick handheld lateral reposition and reactive pan following the kick; frame momentarily shifts with the force.
+
+EXACT MATCH CUT — 5.0s
+Hard cut at the exact moment Sharons extended foot contacts the airborne shoe. The kick is still at full speed and the cut happens DURING the action. Outdoor shot continues the same body direction, leg extension, torso rotation and momentum.
+
+SHOT 2 — NIGHT / QUIET CITY STREET | 5.0–10.0s
+
+ENVIRONMENT
+Relatively quiet modern urban street at night with broad paved roadway, streetlights, scattered storefronts, illuminated windows, trees, signage and distant buildings creating layered practical lighting. Sparse distant traffic. Spacious, cinematic, quiet.
+A WHITE SPORT MOTORCYCLE is behind Sinta and slightly toward one SIDE of frame, not centered directly behind her. Open street creates a clear diagonal path from Sharon to the motorcycle.
+
+LIGHTING / OUTFIT
+Naturalistic night lighting: warm streetlights mixed with cooler ambient city illumination, realistic highlights on black riding outfit, natural reflections on white motorcycle and asphalt, cinematic contrast with realistic exposure.
+Sharon wears a coordinated black-and-white motorcycle riding set: fitted black racing jacket with clean white shoulder/sleeve panels; fitted black short riding pants with subtle white detailing; compact black knee/shin protection; black motorcycle gloves with small white accents; clean white low-top sport sneakers; white crew socks to mid-calf; loose natural hair; no helmet.
+Motorcycle: white sport motorcycle.
+
+CAMERA
+Handheld kinetic cinematography. Operator physically follows Sharon using diagonal tracking, short arc movement, reactive panning, slight push-in and quick reframing. Never a perfectly programmed path; camera reacts to her changing body direction.
+
+ACTION + CAMERA
+5.0–5.5s — HARD CUT. Sharon appears outdoors continuing the indoor side kick: kicking leg extended, torso rotated, momentum continuing. White sport motorcycle partially visible behind her toward one side. Camera immediately reacts.
+Camera: quick handheld pan/reframe catching the continuing kick trajectory.
+
+5.5–6.3s — Sharon lowers her kicking leg naturally and does not stop. She moves DIAGONALLY across frame toward the motorcycle, forward-diagonal rather than straight backward/sideways, gradually turning torso and hips toward it while moving.
+Camera: handheld diagonal tracking with slight forward tracking plus lateral shift; keep Sharon dominant while motorcycle remains visible near the side.
+
+6.3–7.2s — Sharon continues diagonally; body progressively rotates toward motorcycle. This is a traveling diagonal turn, NOT a stationary turn-in-place. Feet keep carrying her forward while torso rotates.
+Camera: short handheld arc around Sharon while continuing diagonal tracking; slight angle change and subtle pan to keep her centered; motorcycle remains partially visible at the side.
+
+7.2–8.0s — SLOW MOTION BEGINS. Sharon is already mid-diagonal movement toward motorcycle. Body continues diagonal rotation; loose hair swings naturally; jacket moves with rotation; movement becomes elegant and cinematic.
+Camera: slightly smoother handheld character, subtle handheld push-in combined with short arc; stay physically close; motorcycle remains visible toward the side.
+
+8.0–8.4s — Gradually return to normal speed. Sharon completes diagonal rotation and now faces motorcycle more directly.
+Camera: normal handheld movement; quick reframing keeps Sharon and motorcycle visually connected.
+
+8.4–10.0s — Sharon moves confidently toward the white sport motorcycle, purposeful and energetic. Motorcycle stays slightly off-center. Camera: handheld forward tracking, maintaining medium-wide framing, subtle push-in, then small reactive pan toward motorcycle as Sharon reaches it. End with Sharon immediately beside the motorcycle.
+
+SPEED PRIORITY
+0.0–5.0s: full real-time; shoe throw and high side kick are fast; match cut at full-speed impact.
+5.0–7.2s: full real-time immediately after cut.
+7.2–8.0s: subtle slow motion only during diagonal body rotation toward motorcycle.
+8.0–10.0s: normal real-time.
+
+MATCH CUT PRIORITY
+Cut exactly on impact. Preserve across the cut: leg extension, torso rotation, body orientation, movement direction, screen position and continuous physical momentum. Location, time of day, lighting, wardrobe and motorcycle may change entirely through the hard cut. The transition must feel instantaneous, physical, stylish and seamless.</code></pre>
+
+</details>
+
+## Late-night ramen with young woman – cinematic slice-of-life video
+
+- **Original source:** [@Shorelyn_ on X](https://x.com/Shorelyn_/status/2099013056013672761)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [4244](https://imglume.com/prompt/4244)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1f52c550-7405-4d7b-a806-fe7588ba9f41/760d1c1c-b0eb-4ae6-baaa-c4bc230236d6-1789358462953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject
+A young East Asian woman with short dark hair, wearing a loose cream-colored sweater and large beige over-ear headphones, preparing and eating a cozy late-night bowl of instant ramen.
+
+Style
+Cinematic late-night slice-of-life aesthetic. Warm, intimate, and comforting atmosphere with soft indoor lamp lighting contrasting with the dark nighttime window in the background.
+
+Camera &amp; Framing
+Soft ambient indoor lighting with warm color grading. Framing features medium portrait shots of the woman, extreme macro close-ups of food preparation, and dynamic internal bowl perspectives with shallow depth of field.
+
+Audio
+Chill Lo-Fi R&amp;B pop soundtrack with soft English vocals, layered with crisp ASMR food foley including tearing packets, pouring boiling water, cracking an egg, and noodle slurping.
+
+Realism
+Photorealistic 8K rendering with highly detailed food textures, realistic steam physics, natural skin tones, and authentic ambient lighting.
+
+Detailed Scene Breakdown
+00:00 - 00:02
+Visual: Medium shot of the woman swaying gently to the music in her headphones, sitting at a wooden table with an electric kettle, two eggs, and a bowl. She smiles and picks up a red seasoning packet.
+00:03 - 00:06
+Visual: Extreme close-up of her hands tearing open the red seasoning packet, followed by a macro shot of brown seasoning powder cascading onto the dry, wavy ramen noodle block.
+00:07 - 00:09
+Visual: Macro close-up of steaming hot water being poured directly over the noodles and seasoning powder, mixing into a rich broth with thick steam rising.
+00:10 - 00:12
+Visual: Medium shot of her holding an egg, cutting to a slow-motion macro close-up of a cracked raw egg dropping perfectly into the center of the hot broth and noodles.
+00:13 - 00:15
+Visual: Medium shot of her placing a lid over the steaming bowl, smoothly transitioning into a dark, cinematic perspective from inside the bowl as the lid closes and shuts out the light.
+00:16 - 00:17
+Visual: Medium shot of the woman sitting patiently, smiling with her eyes closed and tapping her fingers on the table to the beat of her music while the noodles cook.
+00:18 - 00:19
+Visual: Cinematic low-angle shot from the rim of the bowl as the lid is lifted, revealing a perfectly soft-cooked egg resting on top of the steaming hot ramen.
+00:20 - 00:22
+Visual: Extreme close-up of wooden chopsticks lifting a massive, mouth-watering bundle of steaming hot, curly noodles from the bowl.
+00:23 - 00:28
+Visual: Close-up of the woman taking a big bite, slurping the noodles happily, and closing her eyes in pure comfort as elegant Chinese text fades onto the screen.</code></pre>
+
+</details>
+
+## LUMI – Cinematic 2.5D Animation Intro
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098991448935051634)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `animation`, `cinematic`
+- **ImgLume record:** [4240](https://imglume.com/prompt/4240)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/71c990aa-1643-4554-ae19-45bc378f1477/9af90922-7633-44a4-a0e8-4bfddc451f16-1789356373069 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/71c990aa-1643-4554-ae19-45bc378f1477/e979fc22-14d6-4498-9ca8-b6d9b25ca3e0-1789356373069 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Cinematic 2.5D animation in the style of fully painterly rendering, characters and environments look like gouache concept-art paintings in motion, visible brush texture, flat posterized color blocks with hard-edged light shapes, matte finish, soft filmic volumetric lighting. NOT flat 2D cartoon, NO bold black outlines, NOT glossy CGI, NO photorealism.
+WORLD: Ancient glacial shrine on a frozen lake at midnight, palette of pale silver, ice blue, and pitch black, one vivid glowing ruby-red accent, softly falling geometric snow, layered depth of field.
+CHARACTERS:
+- BOSS [Image]: An extremely tall adult woman in her early 20s with pale skin, twin white horns, a gold crescent forehead mark, and a ruby-red drop earring. Extremely long icy-white hair in a massive ponytail with a geometric dark-iron hairpiece. Wearing an oversized structured silver-white plated kimono-armor over a pale-gray bodysuit and chunky dark-iron boots. Exaggerated stylized tall proportions, top-heavy silhouette, supermodel legs, painterly matte textures.
+CINEMATIC INTRO SHOT DESIGN (7 Trailer Cuts with Expressions):
+• SHOT 1 (0–2s | Macro Detail): Extreme macro close-up of the vivid ruby-red drop earring swaying gently. Flat-painted silver snow drifts past her pale cheek.
+• SHOT 2 (2–4s | Facial Expression): Close-up on Lumi's ethereal, sharp face. Her violet eyes slowly open. The gold crescent on her forehead catches the moonlight as she flashes a chilling, emotionless stare.
+• SHOT 3 (4–6s | Mechanical/Ability Detail): Medium shot focusing on her hands. She elegantly raises a finger. The air shatters, manifesting dozens of floating, flat-painted silver mirror-shards edged in glowing ruby-red light.
+• SHOT 4 (6–8s | Environmental Scale): Extreme wide low-angle shot of the frozen lake. Volumetric moonlight cuts through the storm, silhouetting her towering, imposing frame, massive ponytail, and sweeping horns against the glacier.
+• SHOT 5 (8–10s | Signature Flare): Over-the-shoulder shot from behind as the ruby-red floating mirror-shards rapidly multiply, orbiting her like a razor-sharp halo and casting a red glow on the ice.
+• SHOT 6 (10–12s | Movement): Dynamic medium tracking shot pulling backward. Lumi glides forward effortlessly, her massive silver-white armor plates and long icy hair reacting beautifully to her momentum.
+• SHOT 7 (12–15s | Final Boss Poster Frame): Extreme low-angle hero shot looking up at Lumi. Her twin horns pierce the top of the frame. The floating ruby-red glass shards frame her like a deadly crown. She looks down directly into the camera lens with absolute disdain. Hold final frame.
+Weighty natural character animation, heavy hair and armor reacting fluidly to wind, filmic 24fps shutter, shallow depth of field.
+NOT flat 2D cartoon, no bold outlines, no cel shading, not glossy CGI, not Unreal Engine, no photorealism.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic video of two Korean friends on a midnight road trip
+
+- **Original source:** [@noorwithwifi on X](https://x.com/noorwithwifi/status/2099114117017780321)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4238](https://imglume.com/prompt/4238)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c63807a6-74c0-47dc-9d66-7bf73a0cdcd6/ab1f732f-2281-401c-bee8-685772af7db9-1789343762231 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second ultra-realistic cinematic video of exactly two adult Korean best friends on a spontaneous midnight road trip through South Korea in a stylish modern car. Show a rainy neon-lit city, playful car interiors, singing and laughing, fast tracking shots, a coastal highway, and a quiet ocean viewpoint where they take selfies, high-five, and enjoy the night together. Use photorealistic skin, hair, clothing, hands, reflections, lighting, motion blur, natural expressions, realistic physics, HDR, subtle film grain, and cinematic depth of field. Mix handheld, dashboard, tracking, close-up, aerial-style, and wide shots with energetic match cuts and seamless transitions. Maintain perfect continuity of both women’s faces, hairstyles, body proportions, clothing, accessories, car, and identities throughout, with no face changes, duplicates, distortions, warped hands, flickering, or unnatural CGI appearance. Mood: spontaneous, funny, adventurous, intimate, youthful, and emotionally cinematic.</code></pre>
+
+</details>
+
+## Ultra-realistic cinematic fantasy battle between female warrior and robotic samurai
+
+- **Original source:** [@AIwithWania on X](https://x.com/AIwithWania/status/2099162637850542378)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`
+- **ImgLume record:** [4236](https://imglume.com/prompt/4236)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/00e6df40-ccfd-4375-a197-c252609c24a0/1abceb38-5baa-49cb-bf43-39b99340a1ac-1789327241575 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create ultra-realistic cinematic fantasy battle between one beautiful adult female warrior and one tall humanoid samurai-style robot.
+
+ Start immediately with action. In an ancient stone courtyard at dusk, the female warrior wears elegant dark red-and-black fantasy armor with a completely different costume and appearance from the reference. A tall fully armored robotic samurai stands opposite her. Smoke, glowing embers, firelight and a dramatic dark sky fill the background. Both raise their swords and charge toward each other.
+
+Use a fast cinematic side-tracking shot as they fight with powerful sword attacks. Every sword clash produces bright orange sparks, short bursts of realistic fire and strong metallic CLANG sounds. Keep both characters clearly visible with smooth, realistic movement.
+Switch to a dynamic close-medium shot. The robot attacks aggressively, the woman blocks the strike, quickly moves sideways, spins and counters. Their swords collide again, creating a large shower of fiery sparks.
+
+Use a dramatic low-angle cinematic shot. The woman performs one final powerful sword strike that knocks the robot backward. The robot loses power and collapses, completely defeated. The woman remains standing in a strong warrior pose with her sword slightly glowing from the heat while sparks and embers float through the air.
+
+Style: ultra-realistic cinematic Japanese fantasy, dramatic dusk lighting, realistic fire and sparks, intense sword sounds, detailed armor, realistic physics, smooth dynamic camera movement, sharp faces, natural body movement, cinematic depth of field, high detail, no blood, no gore, no character duplication, no distorted hands, no flickering, no CGI-looking motion.</code></pre>
+
+</details>
 
 ## 30秒写实地下怪兽追逐短片
 

@@ -1,9 +1,613 @@
 # Product Ads image prompts
 
-26 source-linked prompts, newest ImgLume records first.
+28 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Photorealistic Digital Camera Advertising Poster
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099143191375348212)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [4251](https://imglume.com/prompt/4251)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/96bc71ab-2158-4dbf-b459-283556f02e87/a5fa9568-dd49-4105-8e68-c9ba969f5075-1789366866623 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, photorealistic digital camera advertising poster in a bold modern editorial style.
+
+A young East Asian woman with long straight black hair stands on a beautiful sunlit city street. She has realistic facial features, natural skin texture, subtle makeup, and a warm, genuine smile. She is wearing a cream fitted cropped top with dark “N.Y.C. Manhattan 1997” lettering and a small bow graphic, layered under a black oversized hoodie, with blue jeans and a black shoulder bag. Keep the outfit stylish, youthful, casual, and realistic.
+
+She holds a compact silver digital camera very close toward the viewer with one hand, making the camera the main foreground subject. The camera should have a realistic metallic silver body, large circular lens, physical buttons, flash, and a flip-up screen showing a selfie of the woman. Preserve realistic proportions, reflections, lens details, and believable hand positioning.
+
+BACKGROUND:
+A lively upscale city street with cafés, storefronts, pedestrians, trees, cars, and warm golden-hour sunlight. Use shallow depth of field so the background is softly blurred while the woman and camera remain sharp. Add subtle colorful lens flares and natural reflections.
+
+POSTER DESIGN:
+Use a square 1:1 composition with a premium magazine/editorial advertising layout.
+
+Large headline at the top-left:
+
+“DIGITAL CAMERA”
+
+Underneath:
+
+“Capture More.
+Carry Less.”
+
+Add a thin red hand-drawn underline.
+
+On the left side, include clean feature icons and readable text:
+
+“48MP”
+“HIGH-RESOLUTION”
+
+“4K”
+“VIDEO”
+
+“3X”
+“OPTICAL ZOOM”
+
+“32MP”
+“SELFIE CAMERA”
+
+“FAST”
+“AUTOFOCUS”
+
+“120°”
+“WIDE-ANGLE LENS”
+
+On the right side, use larger feature highlights:
+
+“48MP”
+“CRISP, DETAILED
+PHOTOS”
+
+“4K”
+“SMOOTH VIDEO”
+
+“650 SHOTS”
+“LONG-LASTING
+BATTERY”
+
+“128GB”
+“BUILT-IN
+STORAGE”
+
+Add handwritten-style text near the upper-right:
+
+“Same Vibes
+New Stories ♡”
+
+Add handwritten text near the lower-right:
+
+“Pocket-Sized
+Travel Ready”
+
+with a red underline.
+
+Add two small Polaroid-style travel photos in the lower-left corner with handwritten captions:
+
+“More Than Memories ♡”
+
+“Take It Everywhere ♡”
+
+Add a small bottom tagline:
+
+“SHOOT EXPLORE REPEAT”
+
+and simple travel/explore/create icons.
+
+The woman should have a clearly visible genuine smile with slightly parted lips and natural teeth. Her expression should feel happy, confident, and relaxed, not serious or expressionless.
+
+IMPORTANT:
+Keep the overall design clean and premium. The text should be sharp, correctly spelled, and readable. Do not overcrowd the woman's face or the camera. The camera must remain the visual hero.
+
+Style: high-end commercial product photography, photorealistic human, realistic skin and hair, realistic hands, natural sunlight, premium magazine advertisement, modern typography, subtle lens flare, realistic depth of field, polished editorial composition, high-resolution detail.
+
+Negative prompt: anime, cartoon, illustration, hand-drawn character, CGI-looking person, plastic skin, unrealistic hands, extra fingers, distorted face, warped camera, fake lens, floating objects, excessive blur, excessive text, misspelled text, gibberish, random logos, watermark, low resolution, cheap advertisement, exaggerated smile, expressionless face.</code></pre>
+
+</details>
+
+## TROPICANA — SIP SUNSHINE
+
+- **Original source:** [@Diplomeme on X](https://x.com/Diplomeme/status/2099187306074906752)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [4246](https://imglume.com/prompt/4246)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/73aa6750-bc08-41d2-9627-0d682ca70846/9cdbba2e-d5f1-43b2-8ada-fb2784fb8e16-1789360582571 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/73aa6750-bc08-41d2-9627-0d682ca70846/ec48ac9e-3fa6-46ca-be49-86b431af8bb7-1789360582571 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/73aa6750-bc08-41d2-9627-0d682ca70846/4adfa8c8-fb92-4b1d-89d1-b3069d9defe0-1789360582571 "Image prompt preview") · [4](https://cdn.imglume.com/prompts/byradar/73aa6750-bc08-41d2-9627-0d682ca70846/31ab8e92-7127-49f5-b192-af629992edc7-1789360582571 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>MASTER RECREATION PROMPT
+
+PREMIUM FMCG SOCIAL MEDIA ADVERTISING / 4:5
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+01 — SYSTEM ROLE
+
+You are an elite multidisciplinary creative intelligence system operating at the level of a world-class global branding agency.
+
+Domains of expertise:
+
+* beverage branding
+* FMCG advertising
+* Tropicana brand art direction
+* commercial product photography
+* food styling
+* liquid photography
+* social media campaign design
+* editorial graphic design
+* typography hierarchy
+* premium advertising campaigns
+* art direction and retouching
+
+Think like a hybrid of:
+
+Tropicana Global Creative Team × AKQA × Pentagram × premium commercial photography studio.
+
+Study the supplied reference image as a visual art-direction reference and reproduce its overall advertising logic, composition, hierarchy, color relationships and commercial polish while keeping the execution photorealistic and coherent.
+
+Do not make a generic juice poster.
+
+The result must feel like a deliberately art-directed Tropicana campaign, not an AI collage.
+
+⸻
+
+02 — TASK
+
+Create a premium Tropicana Pomegranate Delight social media advertising poster.
+
+Core campaign message:
+
+SIP SUNSHINE
+
+Create a vibrant morning-freshness campaign featuring the authentic Tropicana Pomegranate Delight bottle as the hero product.
+
+The scene combines:
+
+premium morning kitchen + fresh pomegranate + chilled juice + controlled liquid movement + bold editorial typography + Tropicana brand colors.
+
+The final visual should communicate:
+
+freshness / optimism / vitality / natural fruit / better mornings.
+
+Platform:
+
+Instagram
+
+Aspect ratio:
+
+4:5 vertical
+
+Canvas:
+
+1080 × 1350
+
+Source quality:
+
+8K photorealistic commercial photography
+
+⸻
+
+03 — BRAND DNA
+
+Brand:
+
+Tropicana
+
+Product:
+
+Pomegranate Delight
+
+Use the supplied bottle reference as the strict product reference.
+
+Preserve the recognizable:
+
+* transparent red bottle
+* green screw cap
+* bottle silhouette
+* bottle proportions
+* red pomegranate beverage
+* white Tropicana label
+* green Tropicana logo
+* pomegranate imagery
+* existing label hierarchy
+
+The bottle must look like the actual photographed product, not a redesigned AI interpretation.
+
+Brand personality:
+
+fresh / optimistic / natural / vibrant / approachable / premium mass-market.
+
+Primary visual colors:
+
+Tropicana green + pomegranate red + warm orange + clean white.
+
+The red of the product should provide the strongest secondary color while green remains the recognizable brand anchor.
+
+⸻
+
+04 — CAMPAIGN OBJECTIVE
+
+Create immediate scroll-stopping appetite appeal.
+
+The viewer should instantly see:
+
+TROPICANA → POMEGRANATE → FRESH JUICE → MORNING ENERGY
+
+The emotional reaction should be:
+
+“That looks incredibly fresh.”
+
+The campaign should make the product feel cold, juicy, refreshing and desirable.
+
+Do not overload the viewer with product information.
+
+The creative should sell the experience of freshness, not function as a nutritional infographic.
+
+⸻
+
+05 — HERO CONTEXT
+
+Create a bright, premium contemporary kitchen during a beautiful early morning.
+
+A large window in the background allows warm natural sunlight into the room.
+
+The background contains subtle:
+
+* green plants
+* soft kitchen architecture
+* natural morning highlights
+* lightly blurred household details
+
+Keep the environment sophisticated but understated.
+
+The foreground is a clean white/light marble kitchen counter.
+
+Place the Tropicana Pomegranate Delight bottle prominently toward the center-right.
+
+The bottle is freshly chilled and covered in realistic condensation.
+
+Beside the bottle:
+
+* one whole ripe pomegranate
+* one large freshly cut pomegranate
+* several naturally scattered pomegranate arils
+* a few fresh green leaves
+
+A transparent glass filled with ruby-red pomegranate juice sits subtly in the background/side of the composition.
+
+The fruit should look genuinely edible, wet and freshly prepared.
+
+⸻
+
+06 — DIGITAL ENVIRONMENT
+
+Create one controlled ruby-red juice splash arc behind and around the bottle.
+
+The liquid should originate visually from the pomegranate environment and form a dynamic curved movement behind the hero product.
+
+The splash must remain physically believable.
+
+Use:
+
+* realistic viscosity
+* surface tension
+* transparent edges
+* natural droplets
+* subtle pulp
+* varied droplet sizes
+* realistic refraction
+* accurate highlights
+
+The liquid should feel like it was captured using an ultra-high-speed commercial camera.
+
+Do not create a giant explosion.
+
+The splash is a supporting visual device, not the hero.
+
+The bottle remains completely readable in front of it.
+
+Small pomegranate seeds may appear around the lower foreground, but keep them sparse and intentional.
+
+⸻
+
+07 — COMPOSITION BLUEPRINT
+
+4:5 vertical advertising composition.
+
+Structure the frame into three visual zones.
+
+TOP 30%
+
+Clean editorial typography.
+
+Place the headline prominently toward the upper-left:
+
+SIP
+
+SUNSHINE
+
+“SIP” in vibrant pomegranate/orange.
+
+“SUNSHINE” in Tropicana green.
+
+Keep the typography bold and compact.
+
+Below:
+
+Bright mornings.
+Better choices.
+
+Then a smaller supporting line:
+
+Bottled freshness
+to fuel your day.
+
+Typography should occupy the left side without touching the product.
+
+⸻
+
+CENTER 50%
+
+The product photography dominates.
+
+Tropicana bottle:
+
+largest + sharpest + brightest focal point.
+
+Position slightly right of center.
+
+Pomegranate fruit architecture surrounds the lower portion of the bottle.
+
+The juice arc creates movement around the product.
+
+The bottle must remain visually separated from the background.
+
+⸻
+
+BOTTOM 20%
+
+Create a sophisticated Tropicana brand footer.
+
+Use a flowing organic green wave across the bottom edge.
+
+Introduce a controlled orange corner/secondary shape on the lower-right.
+
+Place the Tropicana logo within the green footer.
+
+Add restrained supporting brand information and three small circular benefit icons.
+
+The footer must feel like a brand identity system, not an unrelated graphic panel.
+
+Maintain generous spacing.
+
+⸻
+
+08 — TYPOGRAPHY SYSTEM
+
+Primary headline:
+
+SIP
+
+SUNSHINE
+
+Use a bold condensed contemporary sans-serif with strong advertising presence.
+
+Typography characteristics:
+
+* heavy weight
+* clean geometry
+* high readability
+* tight but controlled line spacing
+* confident alignment
+* modern FMCG character
+
+“SIP” should feel energetic.
+
+“SUNSHINE” should feel fresh and optimistic.
+
+Secondary copy should be significantly smaller.
+
+Suggested hierarchy:
+
+SIP
+largest
+
+SUNSHINE
+large
+
+Bright mornings. Better choices.
+medium
+
+Bottled freshness to fuel your day.
+small
+
+POMEGRANATE DELIGHT
+small product descriptor
+
+Do not allow typography to dominate the product photograph.
+
+All text must be crisp, professionally typeset and perfectly aligned.
+
+⸻
+
+09 — GRAPHIC SYSTEM
+
+Build a cohesive Tropicana graphic language.
+
+Use:
+
+* Tropicana green
+* pomegranate red
+* warm orange
+* white
+* subtle organic curves
+* circular fruit geometry
+* clean editorial dividers
+* restrained iconography
+
+The lower green wave should have a smooth organic contour.
+
+The orange shape at the bottom-right should create a strong visual counterweight.
+
+Use small circular icons for:
+
+RICH IN VITAMIN C
+NO ADDED PRESERVATIVES
+100% GOODNESS
+
+Keep icons extremely simple and consistent.
+
+Do not introduce unrelated graphics.
+
+The graphic system should feel like part of one professionally developed campaign identity.
+
+⸻
+
+10 — LIGHTING / MATERIAL
+
+Premium commercial beverage photography.
+
+Use warm natural morning sunlight entering from the rear-left/right side.
+
+The sunlight should create:
+
+* luminous red juice
+* bright pomegranate highlights
+* subtle bottle rim light
+* warm countertop reflections
+* natural atmospheric depth
+
+Use controlled professional fill light to keep the product label perfectly readable.
+
+Bottle:
+
+* realistic condensation
+* tiny water droplets
+* subtle reflections
+* accurate transparent plastic behavior
+* realistic red liquid density
+
+Pomegranate:
+
+* glossy arils
+* wet membranes
+* natural irregularity
+* realistic seeds
+* detailed fruit skin
+* subtle moisture
+
+Counter:
+
+* realistic marble texture
+* controlled reflections
+* natural contact shadows
+* slight moisture around fruit and bottle
+
+The overall photograph should resemble a professionally lit Canon/Sony medium-format commercial beverage shoot, not CGI.
+
+⸻
+
+11 — ANTI-SLOP
+
+ABSOLUTELY AVOID:
+
+* generic juice advertisement aesthetics
+* random fruit explosions
+* excessive liquid
+* impossible splash physics
+* dozens of floating seeds
+* duplicated pomegranates
+* duplicated leaves
+* plastic-looking fruit
+* fake CGI juice
+* excessive bloom
+* excessive HDR
+* neon colors
+* extreme saturation
+* artificial lens flare
+* fantasy kitchen
+* excessive props
+* floating bottle
+* distorted bottle silhouette
+* incorrect cap
+* redesigned packaging
+* warped Tropicana logo
+* invented packaging claims
+* misspelled typography
+* random icons
+* excessive graphic decoration
+* giant secondary logo
+* cluttered footer
+* generic Canva layout
+* stock-photo composition
+* cheap promotional flyer appearance
+* excessive depth blur
+* fake cinematic grading
+* meaningless visual effects
+
+Do not make every element equally important.
+
+Product photography must remain the dominant visual language.
+
+Graphics should support the photograph.
+
+⸻
+
+12 — QUALITY BAR
+
+Final output must feel like a real premium Tropicana social advertising campaign.
+
+Target:
+
+GLOBAL FMCG QUALITY × COMMERCIAL PHOTOGRAPHY × BEHANCE-LEVEL ART DIRECTION
+
+Self-evaluate before finalizing:
+
+Brand Alignment — 10/10
+Product Accuracy — 10/10
+Freshness — 10/10
+Appetite Appeal — 10/10
+Composition — 10/10
+Typography — 9+/10
+Graphic System — 9+/10
+Photorealism — 10/10
+SMM Stopping Power — 10/10
+Originality — 9+/10
+
+If any area feels generic, cluttered, artificial or AI-generated, refine it.
+
+FINAL ART-DIRECTION RULE
+
+The supplied reference establishes the composition and campaign grammar:
+
+bold headline → premium morning environment → hero bottle → fruit architecture → controlled juice movement → branded footer.
+
+Do not merely reproduce objects.
+
+Recreate the advertising intelligence behind the composition.
+
+The final image should look like:
+
+A finished Tropicana campaign that happens to have been generated with AI.
+
+Not:
+
+an AI image attempting to look like an advertisement.
+
+4:5 vertical • 8K • ultra-photorealistic • premium FMCG photography • precise product styling • sophisticated editorial design • authentic Tropicana branding • commercial retouching • Behance case-study quality • campaign-ready.</code></pre>
+
+</details>
 
 ## Ultra-realistic commercial advertisement of a premium luxury wristwatch
 

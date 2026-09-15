@@ -1,9 +1,66 @@
 # Illustration 3d image prompts
 
-86 source-linked prompts, newest ImgLume records first.
+88 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vintage Cross-Stitch Embroidery Artwork Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099378987713896800)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [4293](https://imglume.com/prompt/4293)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c4e8d9c6-0fcf-4e49-8a2b-3c2a8e16d72d/cb620e34-29fd-46c6-b8de-79266a7eb99a-1789390106168 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/c4e8d9c6-0fcf-4e49-8a2b-3c2a8e16d72d/68a696b6-ffe7-46cc-a084-2c1cec180377-1789390106168 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/c4e8d9c6-0fcf-4e49-8a2b-3c2a8e16d72d/b49a481f-9de5-431b-b5fb-21cc0b85dd67-1789390106168 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a charming vintage cross-stitch embroidery artwork featuring [CITY / STRUCTURE] as the main subject. The entire scene should look meticulously hand-stitched onto warm ivory linen fabric, with visible tiny embroidery stitches, slightly imperfect handmade details, and a soft antique textile texture.
+
+Place the main landmark or recognizable city architecture in the center, illustrated entirely with delicate cross-stitch embroidery. Surround it with small symbolic elements representing the destination — tiny flowers, stars, trees, clouds, birds, local scenery, decorative objects, or miniature architectural details.
+
+Frame the artwork with an elegant ornamental embroidered border, featuring tiny flowers, leaves, stars, vines, and vintage decorative corners. Use a nostalgic palette of dusty rose, muted sage green, faded blue, warm beige, soft brown, and antique gold.
+
+At the top, stitch:
+
+[CITY NAME]
+
+At the bottom, stitch:
+
+[COUNTRY] • [FAMOUS FOR]
+
+Use old-fashioned embroidered serif lettering, slightly irregular like a handmade heirloom sampler.
+
+The overall composition should feel like a vintage collectible textile souvenir, whimsical, nostalgic, cozy, sophisticated and highly detailed — not a modern graphic poster. Visible fabric weave, individual threads, tiny cross-stitches, soft aged texture, subtle imperfections, handcrafted museum-quality embroidery.
+
+Vertical 4:5 composition, centered symmetrical layout, no people, no modern logos, no watermark.</code></pre>
+
+</details>
+
+## Hand-painted travel diary illustration of a woman with a vintage motorcycle
+
+- **Original source:** [@saniaspeaks_ on X](https://x.com/saniaspeaks_/status/2099352717017641373)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `illustration-3d`
+- **ImgLume record:** [4275](https://imglume.com/prompt/4275)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/08811744-6988-4cc2-86ab-0b97ba485e01/ae730597-aa92-4371-bb68-c7f6adf9489a-1789375248092 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/08811744-6988-4cc2-86ab-0b97ba485e01/ca5966a4-7812-4745-96b5-2184b043dbd3-1789375248092 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a standalone 3:4 vertical poetic editorial illustration based on the original photograph.
+Reinterpret the woman and vintage motorcycle as a delicate hand-painted travel diary illustration. Preserve her pose, hairstyle, racing jacket, skirt, headphones, motorcycle and helmet.
+Use translucent watercolor washes, fine graphite outlines, gentle dry-brush marks, subtle pencil imperfections and natural paper texture.
+Place the illustration in the lower-middle portion of a warm white paper canvas with generous empty space surrounding it.
+Use only four muted colors: dusty navy, faded mustard, soft brick red and warm beige.
+The result should feel personal, nostalgic and intimate, like a page from an artist's Japanese travel journal — elegant, understated and handmade.</code></pre>
+
+</details>
 
 ## Ultra-detailed 3D animated otter drinking iced coffee in modern office
 

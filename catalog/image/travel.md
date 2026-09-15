@@ -1,9 +1,94 @@
 # Travel image prompts
 
-64 source-linked prompts, newest ImgLume records first.
+67 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young man on ancient wall with Colosseum at golden hour
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2099380625899946006)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `photography`, `travel`
+- **ImgLume record:** [4305](https://imglume.com/prompt/4305)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a60841b0-4ec8-4589-88ac-1ad9309e4c44/2113a40a-a1e6-4765-bc13-bb688bcf6529-1789410964863 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic, high-resolution photograph captures a young man sitting casually on a rugged, ancient stone wall with the iconic Colosseum in Rome rising majestically in the background. The scene is bathed in the warm, golden light of late afternoon or early evening, creating a romantic travel aesthetic. The man, who appears to be in his mid-twenties, He is looking off to the right side of the frame with a calm, contemplative expression. He is dressed in a white, ribbed, long-sleeved button- down shirt that is unbuttoned at the top, exposing his chest and two layered gold chain necklaces, one with a circular pendant. The sleeves are rolled up to his forearms. He wears dark brown, relaxed-fit trousers that drape over the stone wall. On his left wrist, a watch with a rectangular gold face and black strap is visible, along with a simple ring on his left ring finger. His right arm is bent across his body with his hand resting near his left elbow, while his left hand rests on his left thigh.
+
+Behind him, the massive, curved facade of the Colosseum fills the upper two-
+
+thirds of the image. The ancient structure is detailed with rows of arched openings and weathered limestone blocks, some of which are illuminated by the warm, orange sunlight, while others remain in shadow. The sky above is a clear, vibrant blue with a few faint clouds near the horizon on the left. Green vegetation, including pine trees and bushes, frames the Colosseum on the left and right sides, adding a natural element to the architectural backdrop. The foreground stone wall is textured with rough, uneven rocks and patches of moss. The lighting is directional, coming from the right side, casting a warm, golden glow on the right side of the man's face, his white shirt, and the upper right sections of the Colosseum, while leaving the left side of his body and the lower left of the architecture in softer shadow. The image has a cinematic quality, likely shot with an 85mm lens at a wide aperture like f/2.8, providing a sharp focus on the subject while keeping the background detailed but slightly compressed. The color grading is natural and warm, emphasizing the golden hour tones against the cool blues of the sky. The overall composition is balanced, with the subject anchoring the bottom center and the historic architecture providing a grand, textured backdrop. The mood is serene, stylish, and evocative of a high-end travel lifestyle portrait. The image is 8K quality, ultra-detailed, capturing the texture of the stone, the fabric of the shirt, and the man's hair with precision, vertical 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## Sophisticated Dreamy Editorial Magazine Cover Prompt
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099324747184275750)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `travel`
+- **ImgLume record:** [4259](https://imglume.com/prompt/4259)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/88276732-5e43-45b9-9fb8-90a7145f4116/1aecc26d-021b-43ff-b8ac-2d35cb56b3ba-1789368966641 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/88276732-5e43-45b9-9fb8-90a7145f4116/ee6e0c83-2487-482d-846f-a202dd6561ba-1789368966641 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a sophisticated, dreamy editorial magazine cover titled “[COUNTRY NAME] — A COUNTRY IN ONE DREAM”.
+The entire composition should feel like a poetic visual journey rather than a conventional travel poster. Use a warm ivory paper background with subtle handmade paper texture, elegant high-fashion serif typography, and delicate architectural linework.
+
+Build the country’s identity through layered miniature scenes that seamlessly merge into one surreal landscape: dramatic mountains fading into mist, an ancient architectural landmark emerging from clouds, a winding river transforming into a silk ribbon, traditional houses nestled among trees, tiny local people walking along stone paths, native wildlife, iconic food, flowers, traditional crafts, and subtle cultural symbols.
+
+Instead of placing everything separately, make each element flow organically into the next, almost like an illustrated dream. Add translucent watercolor washes, fine ink outlines, soft faded edges, atmospheric fog, reflections in still water, tiny handwritten-style annotations, ornamental borders, and subtle geometric design elements.
+
+Color palette: muted sage, dusty blue, warm beige, pale peach, soft gray, touches of faded terracotta.
+Style: luxury travel magazine × Japanese watercolor × vintage cartography × contemporary editorial design × dreamscape illustration.
+Mood: peaceful, intelligent, nostalgic, cinematic, elegant, mysterious and deeply connected to the culture.
+
+At the bottom, add a small elegant line:
+“Places become memories. Cultures become stories.”
+
+Vertical 4:5 composition, highly detailed, refined negative space, premium print quality, delicate textures, sophisticated visual hierarchy, no photorealism, no clutter.</code></pre>
+
+</details>
+
+## 广州塔旅行抓拍写实图像
+
+- **Original source:** [@DeepBlueX0 on X](https://x.com/DeepBlueX0/status/2099023586849620130)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `photography`, `travel`
+- **ImgLume record:** [4243](https://imglume.com/prompt/4243)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/479d51dc-b477-4368-8755-a047cfd89d4d/f29b226a-6637-4949-90d1-e27f8e58d816-1789358420164 "9:16写实iPhone原相机旅行抓拍；晴朗夏日午后，高耸白色钢结构观光塔占据左侧及上方，蓝天强光，右上绿叶框景，现代城市广场与游客背景。
+
+年轻成年东亚女性位于右下，低机位广角仰拍；白蓝竖条纹无袖上衣＋白色百褶短裙，透明圆框眼镜、运动腕带、迷你斜挎包及可爱旅行挂件；长黑发随风，淡妆，真实皮肤纹理，自然丰满协调。
+
+人物自然侧身朝塔，开心微笑，一只手臂抬起指向塔顶，另一手随意整理裙边或扶着斜挎包，身体重心自然偏移，脸部微仰，像旅行中突然被朋友抓拍。
+
+强烈自然阳光、硬阴影、局部高光过曝、蓝天略饱和；轻微倾斜、广角畸变、手机锐化与压缩感，真实生活抓拍，拒绝棚拍摆拍、商业精修感。
+
+左下签名“● DeepBlue”；“●”为纯 #0B3D91 深蓝色实心圆点，“DeepBlue”为自然、细腻的白色手写字体。")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>9:16写实iPhone原相机旅行抓拍；晴朗夏日午后，高耸白色钢结构观光塔占据左侧及上方，蓝天强光，右上绿叶框景，现代城市广场与游客背景。
+
+年轻成年东亚女性位于右下，低机位广角仰拍；白蓝竖条纹无袖上衣＋白色百褶短裙，透明圆框眼镜、运动腕带、迷你斜挎包及可爱旅行挂件；长黑发随风，淡妆，真实皮肤纹理，自然丰满协调。
+
+人物自然侧身朝塔，开心微笑，一只手臂抬起指向塔顶，另一手随意整理裙边或扶着斜挎包，身体重心自然偏移，脸部微仰，像旅行中突然被朋友抓拍。
+
+强烈自然阳光、硬阴影、局部高光过曝、蓝天略饱和；轻微倾斜、广角畸变、手机锐化与压缩感，真实生活抓拍，拒绝棚拍摆拍、商业精修感。
+
+左下签名“● DeepBlue”；“●”为纯 #0B3D91 深蓝色实心圆点，“DeepBlue”为自然、细腻的白色手写字体。</code></pre>
+
+</details>
 
 ## Hand-drawn travel-journal illustration from a photograph
 

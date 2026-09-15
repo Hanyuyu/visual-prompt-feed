@@ -1,9 +1,90 @@
 # Product Ads video prompts
 
-107 source-linked prompts, newest ImgLume records first.
+109 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Premium Salted Caramel Donut Product Commercial Storyboard
+
+- **Original source:** [@itxsarmadd on X](https://x.com/itxsarmadd/status/2099447346061087216)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [4303](https://imglume.com/prompt/4303)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/328e95c8-b33b-468b-9f26-85c0ecc21afd/61177e45-0ba9-4b81-9c48-9edc9aae76c6-1789406770556 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/328e95c8-b33b-468b-9f26-85c0ecc21afd/f54c3719-be4c-4953-9ba1-21ecc3cf8c76-1789406770556 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Premium Salted Caramel Donut Product Commercial Storyboard**
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet dessert advertising campaign
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• Premium advertising agency presentation
+
+HEADER:
+• Bold modern typography
+• Information cards:
+
+* Duration: 15 Seconds
+* Style: High-Energy Dessert Commercial
+* Product: Salted Caramel Donuts
+* Audio: Soft Crunch + Caramel ASMR + Fast Beat
+ • Why This Style Works section
+ • Caramel brown, golden, cream and warm amber aesthetic
+ • Minimal caramel drizzle and dessert decorative elements
+
+STORYBOARD:
+
+1. Premium salted caramel donut box standing dramatically on a warm stone surface, front packaging perfectly visible
+2. Box opens smoothly as freshly glazed donuts rise into view, warm caramel highlights catching the light
+3. Extreme macro of the golden fried dough, crisp edges and glossy caramel glaze with detailed texture
+4. Thick salted caramel sauce falling onto the donut in slow motion, creating a rich glossy coating
+5. Donuts rotating through a controlled cloud of fine sugar particles and tiny caramel shards
+6. One donut being pulled apart, revealing a soft fluffy center as caramel stretches between the halves
+7. Three finished caramel donuts arranged beside the hero box with caramel ribbons, sea salt flakes and crumbs surrounding them
+8. Final cinematic product packshot with the original box, stacked donuts and a dramatic caramel splash frozen elegantly behind the product
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, high-speed food photography, slow-motion caramel drizzle, dynamic product rotation, controlled sugar particle movement, creamy pull-apart close-up, dramatic push-in, premium hero framing.
+
+STYLE:
+Ultra-realistic gourmet dessert commercial, detailed golden dough texture, glossy caramel glaze, realistic sauce viscosity, natural sugar particles, crisp sea salt details, sharp packaging, dramatic warm studio lighting, shallow depth of field, premium food photography, luxury advertising aesthetic, 8K.</code></pre>
+
+</details>
+
+## Bright clean beauty commercial for Wardah Lightening skincare
+
+- **Original source:** [@noorlewisx on X](https://x.com/noorlewisx/status/2099360578741354744)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `product-ads`
+- **ImgLume record:** [4264](https://imglume.com/prompt/4264)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/563d0efa-d0b6-487a-bd40-09a540f2dca9/7fe10b92-dd91-48c6-870d-bac99bf095c0-1789369038440 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A bright, clean beauty commercial of a young Southeast Asian woman with fair glowing skin, dark hair pulled neatly back, wearing a simple white camisole, standing in a modern bathroom with pastel mint and peach tiled walls, a round gold-rimmed mirror, and a white marble counter. Soft natural lighting, fresh and airy aesthetic, high-end skincare ad look.
+She smiles at the camera while holding a light-blue Wardah Lightening Gentle Wash tube. Cut to close-up of her hands on the marble counter picking up a Wardah Lightening Serum dropper bottle among other matching light-blue tubes and a cream jar. She pulls the dropper out with a drop of serum falling. Then she gently pats the lightweight serum onto her cheek with her fingertips, skin looking dewy and radiant. Next she holds a Wardah Lightening Day Cream jar, unscrews the white lid, and applies a small amount of white cream to her face with a glowing finish. Final shot: she stands behind the full product lineup arranged neatly on the counter (Gentle Wash tubes, serums, day cream jar, toner) with both hands framed under her chin, smiling softly.
+Cinematic beauty commercial style, shallow depth of field, soft highlights on skin, clean product packaging in matching powder-blue and white, no text overlay, photorealistic, 9:16 vertical.</code></pre>
+
+</details>
 
 ## Flova × Seedance 2.5 Product Promo Video Prompt
 

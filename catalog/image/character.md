@@ -1,9 +1,152 @@
 # Character image prompts
 
-142 source-linked prompts, newest ImgLume records first.
+147 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Highly detailed digital oil-painting portrait of a rugged man with light green sunglasses
+
+- **Original source:** [@iamsofiaijaz on X](https://x.com/iamsofiaijaz/status/2099350239698428169)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `gptimage`
+- **Categories:** `character`
+- **ImgLume record:** [4297](https://imglume.com/prompt/4297)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/33623386-2110-4c7a-b6f3-bd706574da6e/546b04de-bff6-458b-9e8f-de9c82102799-1789396279606 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A highly detailed digital oil-painting style portrait of a rugged, handsome man use image for face reference with wearing light green oval sunglasses with thin silver frame .Natural smile thoughtful expression, looking directly at the viewer. He is wearing a slightly open white/light-gray collared shirt underneath a dark rugged jacket. Head-and-shoulders composition, centered framing, realistic facial anatomy, expressive eyes, natural skin texture, warm skin tones, dramatic soft lighting, painterly brush strokes, visible textured strokes throughout the face and clothing. Muted cool gray-blue architectural background with soft abstract vertical shapes, shallow depth of field, cinematic atmosphere, sophisticated character-study portrait, realistic yet painterly, high detail, soft edges, subtle highlights, 4K digital artwork.</code></pre>
+
+</details>
+
+## Expressive Oil Portrait Painting
+
+- **Original source:** [@HustleXR on X](https://x.com/HustleXR/status/2099445268634894339)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4295](https://imglume.com/prompt/4295)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1477d3aa-1180-4ed2-9660-478e4503a3e7/0d409144-cf13-49ae-81ca-25352e92d40f-1789396226873 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/1477d3aa-1180-4ed2-9660-478e4503a3e7/e9169b1a-3838-48f0-9ba9-fc35c8012c21-1789396226873 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/1477d3aa-1180-4ed2-9660-478e4503a3e7/d3e1f1e9-c0c8-45bb-a5ba-b9a8d912b577-1789396226873 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Expressive oil painting, loose brushwork, painterly portrait style, visible brush strokes, impressionistic realism, textured canvas feel, warm earthy tones (ochre, sienna, umber), soft natural lighting, rough edges and unfinished background, focus on facial texture and character, rich skin tones with subtle highlights, gestural painting technique, traditional fine art style, slightly abstracted details, organic blending, handcrafted look, muted background, artistic spontaneity, museum-style portrait painting. Ar 9:16!</code></pre>
+
+</details>
+
+## Mixed-media vertical portrait with realistic person and doodle-shadow
+
+- **Original source:** [@itxsarmadd on X](https://x.com/itxsarmadd/status/2099334317306761376)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4258](https://imglume.com/prompt/4258)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/088f9829-3a93-4159-8d46-1c59d35aafdf/9f04165a-322a-48e8-acbc-c12246cec17b-1789368947167 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/088f9829-3a93-4159-8d46-1c59d35aafdf/2a20ef0e-8f38-47a6-a090-0e501351ccc0-1789368947167 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Use the uploaded reference image as the strict identity and outfit reference. Preserve the face, facial features, skin tone, hairstyle, hair colour, accessories, outfit, and overall vibe exactly as shown.
+Create a high-quality vertical (4:5 or 9:16) mixed-media portrait featuring:
+A realistic full-body version of the person. A black hand-drawn doodle-shadow of the same person on the wall beside them.
+
+The real person should look cute, slightly embarrassed, playful, and naturally copying a new random mischievous pose each generation. The doodle-shadow should perform the same pose idea in a much more exaggerated, chaotic, cartoonish way, with manga motion lines, stars, hearts, and sparkles.
+
+Use a clean white/cream studio wall, minimal background, soft natural lighting, and keep both figures fully visible. The doodle should clearly resemble the real person through hairstyle, accessories, outfit silhouette, and pose.
+
+Negative Prompt: outfit changes, identity changes, realistic second person, normal shadow, horror, anime human, cluttered background, repeated pointing or finger-gun poses, stiff pose, extra limbs/fingers, distorted body, text, watermark, logo, AI artifacts.</code></pre>
+
+</details>
+
+## High-end studio fashion portrait of character with blue backdrop
+
+- **Original source:** [@john_my07 on X](https://x.com/john_my07/status/2099162876842049901)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`, `photography`
+- **ImgLume record:** [4245](https://imglume.com/prompt/4245)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/93974e66-cf06-4b0c-9b4e-f4396b5af2db/d4771e7e-40aa-400b-9195-19e41023daaf-1789358499077 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/93974e66-cf06-4b0c-9b4e-f4396b5af2db/e69bed87-5301-4342-bc6a-602d5c0641ef-1789358499077 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/93974e66-cf06-4b0c-9b4e-f4396b5af2db/afa15733-b192-43e7-9970-f22771a1cd9c-1789358499077 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a high-end studio fashion portrait inspired by the uploaded blue-background reference photograph. Recreate the original composition with matching framing, focal length feel, camera position, subject scale, perspective, and overall visual balance while maintaining a realistic photographic appearance.
+
+Replace the reference model with the character from the supplied character image. Preserve the character's authentic facial identity, bone structure, skin tone, eye shape, hairstyle, proportions, and recognizable features. Avoid beautification that alters identity. The face should remain naturally expressive and true to the source character.
+
+Match the original body language closely: upper torso visible, shoulders relaxed, chin slightly elevated, eyes directed upward beyond the camera, conveying quiet confidence and contemplation. Maintain the same sense of presence and spatial positioning within the frame.
+
+Retain the rich cobalt-blue studio backdrop and the refined editorial atmosphere. Reproduce the original lighting setup with soft directional illumination, subtle facial highlights, realistic reflections on eyewear and jewelry, and smooth shadow transitions around the jawline, neck, and clothing folds. Preserve depth, dimensionality, and studio realism.
+
+Style the character in contemporary oversized street-fashion apparel. Use a premium relaxed-fit knit sweater or sweatshirt with natural fabric draping, layered with a minimalist chain necklace and lightly tinted translucent eyewear. The wardrobe may be customized to suit the character, but should maintain the same luxurious oversized silhouette and fashion-campaign aesthetic.
+
+Keep the image tightly composed with the same portrait crop and subject placement. Ensure identical camera-to-subject distance and visual weight in the frame. The final result should feel indistinguishable from a genuine professional photoshoot captured in this exact studio environment.
+
+Photorealistic editorial photography, luxury fashion campaign, cinematic studio portrait, premium streetwear styling, deep monochromatic blue backdrop, realistic skin texture, subtle film-grade contrast, detailed fabric rendering, natural lighting falloff, commercial advertising quality, shallow depth of field, magazine-cover aesthetics.
+
+Negative Prompt:
+
+Do not alter the background color or studio environment. Do not change the pose, framing, crop, perspective, subject distance, lighting direction, or gaze. Do not modify facial identity, facial proportions, skin tone, or hairstyle. Avoid excessive retouching, artificial skin smoothing, stylized illustration effects, exaggerated sharpening, extra accessories, text overlays, logos, watermarks, duplicate subjects, or unrealistic clothing physics.</code></pre>
+
+</details>
+
+## LUMI – The Lunar Sovereign High-Fashion Character Concept Sheet
+
+- **Original source:** [@itsPixieVerse on X](https://x.com/itsPixieVerse/status/2098991448935051634)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `character`
+- **ImgLume record:** [4241](https://imglume.com/prompt/4241)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f2d04542-ee08-4cbd-8f4a-476af4ddbb26/da188751-1a14-4d93-8d32-f2b300ba3aa2-1789356373069 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f2d04542-ee08-4cbd-8f4a-476af4ddbb26/4e29130c-996a-47f6-b3bf-b3967e9be6e0-1789356373069 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a premium, modern high-fashion CHARACTER CONCEPT ART SHEET in a 16:9 widescreen layout on a pure white background. THE ATTACHED REFERENCE IMAGE DEFINES THE ART STYLE — treat it as a strict style bible and reproduce its exact rendering technique in every figure on this sheet.
+
+[STYLE — MIRROR THE REFERENCE EXACTLY]: Replicate the reference image's rendering verbatim: painterly matte digital gouache with flat posterized color blocks, NO outlines, hard-edged brush shapes, muted desaturated palette identical to the reference, identical brightness (light, airy, white-background).
+
+[STYLE PROHIBITIONS — ABSOLUTE]: no outlines, no ink lines, no cel-shading, no anime style, no 3D render, no soft volumetric shading, no glossy highlights, no photorealism, no petite proportions.
+
+[PROPORTIONS]: Match the reference's exact body proportions — exaggerated tall fashion model anatomy (10 heads tall, towering height, massive top-heavy armored silhouette, extremely long stilt-like legs, small adult head).
+
+[SUBJECT_DESCRIPTION]: Extremely tall adult woman in early 20s, mature sharp face, pale skin, twin smooth white horns, gold crescent forehead mark, vivid ruby-red drop earring. Extremely long icy-white hair in a massive high ponytail secured by a geometric dark-iron hairpiece. Outfit: oversized structured silver-white plated kimono-armor, tight pale-gray bodysuit, long bare legs, chunky dark-iron boots. Magic Ability: Summons floating, flat-painted silver mirror-shards edged in glowing ruby-red energy.
+
+Layout Composition (Organize strictly into these sections):
+
+1. LEFT PANEL: METADATA &amp; TURNAROUND
+
+- Large, bold vertical typography: "LUMI" in clean, heavy sans-serif condensed font.
+
+- Metadata Block: "ROLE: Lunar Sovereign", "CORE MOOD: Ethereal Dread", "VISUAL SIGNATURE: Horns &amp; Ruby-Glass".
+
+- MINI TURNAROUND: 3 small vertical figures (neutral, back, profile).
+
+- SILHOUETTE STUDY: 3 solid-black silhouettes matching turnarounds.
+
+- EXPRESSION STUDY (Bottom Left): 4 close-up headshots (icy deadpan stare, looking down with disdain, hair blowing across face, violet eyes glowing brightly).
+
+2. CENTRAL PANEL: THE CENTERPIECE
+
+- One giant, dominant full-body figure in a cold, elegant signature pose with floating silver mirror-shards orbiting her, maximum detail, perfect style-match to reference.
+
+3. RIGHT PANEL: MULTI-POSE &amp; THEMATIC STUDIES
+
+- POSE STUDY: 4 small-to-medium dynamic stances (walking with terrifying grace, commanding a flurry of glass shards, floating slightly off the ground, adjusting her geometric hairpiece), handwritten-style labels.
+
+4. BOTTOM RIGHT PANEL: DETAIL STUDY
+
+- 5 small square crops: her face with the twin horns and crescent mark, the intricate dark-iron hairpiece, the flat-painted silver-white kimono plating, the chunky dark-iron boots, and a floating ruby-red glass shard. Handwritten labels.</code></pre>
+
+</details>
 
 ## Revy reimagined – bold contemporary anime street‑art poster
 

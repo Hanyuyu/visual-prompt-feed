@@ -1,9 +1,120 @@
 # Food Drink video prompts
 
-87 source-linked prompts, newest ImgLume records first.
+89 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Ultra-realistic cinematic Japanese omurice cooking video
+
+- **Original source:** [@Goodmanprotocol on X](https://x.com/Goodmanprotocol/status/2099507137630327145)
+- **Recommended model:** `seedance`
+- **Source model(s):** `seedance`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [4310](https://imglume.com/prompt/4310)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/40ef9b6c-1a7c-4e03-9088-c6136358a801/e3d5c3b4-6000-4548-a890-b8518bb1e7eb-1789415199359 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second fast-paced, ultra-realistic cinematic Japanese cooking video showing the preparation of authentic Japanese omurice.
+
+CORE STYLE
+
+Photorealistic live-action food cinematography. No animation and no anime styling. Use physically accurate cooking, natural hand movements, realistic ingredient textures, authentic steam, oil, moisture, heat distortion, and believable food behavior. Warm Japanese kitchen atmosphere, natural lighting, shallow depth of field, macro close-ups, realistic camera motion, and premium commercial food-film quality. Keep the same hands, cookware, ingredients, lighting, and environment throughout.
+
+TIMELINE
+
+0–3s — Prepare Ingredients
+Close-up of hands finely cutting chicken thigh, onion, and mushrooms on a wooden cutting board. The knife moves naturally and precisely, revealing realistic moisture and ingredient texture.
+
+3–6s — Sauté
+Heat butter in a stainless-steel frying pan. Add chicken, onion, and mushrooms. They immediately begin sizzling as the chicken develops lightly browned edges and the onions turn translucent.
+
+6–9s — Add Rice
+Add freshly cooked Japanese short-grain rice to the pan. Spoon in ketchup and seasoning, then toss and stir until every grain is evenly coated. Realistic steam rises from the pan.
+
+9–12s — Shape Rice
+Transfer the hot ketchup chicken rice onto a ceramic plate and shape it into a neat oval mound. Individual rice grains remain visible beneath a subtle layer of steam.
+
+12–15s — Beat &amp; Cook Eggs
+Crack fresh eggs into a bowl and whisk until completely smooth. Pour them into a buttered nonstick pan over low heat. The egg spreads naturally across the surface.
+
+15–19s — Soft Omelette
+Gently move the eggs with a spatula as they begin to set. The outer edges become softly cooked while the center remains glossy, creamy, and slightly runny.
+
+19–22s — Fold
+Carefully fold the omelette into an elongated shape. The surface stays smooth and delicate without becoming dry or browned.
+
+22–25s — Assemble
+Slide the soft omelette directly over the mound of ketchup rice. It settles naturally around the rice while gentle steam escapes from the freshly cooked eggs.
+
+25–27.5s — Open the Omelette
+Make one clean cut through the center of the omelette. The soft interior slowly opens and spreads over the rice, revealing the creamy egg texture.
+
+27.5–30s — Hero Shot
+Present the finished omurice on a clean ceramic plate. Add a small glossy drizzle of ketchup across the top. Steam rises naturally as the camera slowly pushes toward the dish, capturing the silky egg, fluffy rice, and realistic surface textures.
+
+AUDIO
+
+Realistic Japanese kitchen ASMR: knife chopping, butter sizzling, chicken frying, rice moving through the pan, spatula scraping, egg whisking, egg pouring, gentle sizzling, and a soft ceramic clink. Add subtle warm instrumental Japanese background music that never overpowers the cooking sounds.
+
+NEGATIVE
+
+No anime, no cartoon, no illustration, no CGI appearance, no stylized animation, no exaggerated food movement, no storyboard, no reference images, no sketches, no panels, no borders, no numbers, no arrows, no annotations, no subtitles, no captions, no logos, no UI, and no text overlays. No unrealistic ingredients, utensils, hands, physics, steam, or camera movement. Keep everything photorealistic, physically accurate, and visually consistent from beginning to end.</code></pre>
+
+</details>
+
+## Late-night ramen with young woman – cinematic slice-of-life video
+
+- **Original source:** [@Shorelyn_ on X](https://x.com/Shorelyn_/status/2099013056013672761)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `cinematic`, `food-drink`
+- **ImgLume record:** [4244](https://imglume.com/prompt/4244)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/1f52c550-7405-4d7b-a806-fe7588ba9f41/760d1c1c-b0eb-4ae6-baaa-c4bc230236d6-1789358462953 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Subject
+A young East Asian woman with short dark hair, wearing a loose cream-colored sweater and large beige over-ear headphones, preparing and eating a cozy late-night bowl of instant ramen.
+
+Style
+Cinematic late-night slice-of-life aesthetic. Warm, intimate, and comforting atmosphere with soft indoor lamp lighting contrasting with the dark nighttime window in the background.
+
+Camera &amp; Framing
+Soft ambient indoor lighting with warm color grading. Framing features medium portrait shots of the woman, extreme macro close-ups of food preparation, and dynamic internal bowl perspectives with shallow depth of field.
+
+Audio
+Chill Lo-Fi R&amp;B pop soundtrack with soft English vocals, layered with crisp ASMR food foley including tearing packets, pouring boiling water, cracking an egg, and noodle slurping.
+
+Realism
+Photorealistic 8K rendering with highly detailed food textures, realistic steam physics, natural skin tones, and authentic ambient lighting.
+
+Detailed Scene Breakdown
+00:00 - 00:02
+Visual: Medium shot of the woman swaying gently to the music in her headphones, sitting at a wooden table with an electric kettle, two eggs, and a bowl. She smiles and picks up a red seasoning packet.
+00:03 - 00:06
+Visual: Extreme close-up of her hands tearing open the red seasoning packet, followed by a macro shot of brown seasoning powder cascading onto the dry, wavy ramen noodle block.
+00:07 - 00:09
+Visual: Macro close-up of steaming hot water being poured directly over the noodles and seasoning powder, mixing into a rich broth with thick steam rising.
+00:10 - 00:12
+Visual: Medium shot of her holding an egg, cutting to a slow-motion macro close-up of a cracked raw egg dropping perfectly into the center of the hot broth and noodles.
+00:13 - 00:15
+Visual: Medium shot of her placing a lid over the steaming bowl, smoothly transitioning into a dark, cinematic perspective from inside the bowl as the lid closes and shuts out the light.
+00:16 - 00:17
+Visual: Medium shot of the woman sitting patiently, smiling with her eyes closed and tapping her fingers on the table to the beat of her music while the noodles cook.
+00:18 - 00:19
+Visual: Cinematic low-angle shot from the rim of the bowl as the lid is lifted, revealing a perfectly soft-cooked egg resting on top of the steaming hot ramen.
+00:20 - 00:22
+Visual: Extreme close-up of wooden chopsticks lifting a massive, mouth-watering bundle of steaming hot, curly noodles from the bowl.
+00:23 - 00:28
+Visual: Close-up of the woman taking a big bite, slurping the noodles happily, and closing her eyes in pure comfort as elegant Chinese text fades onto the screen.</code></pre>
+
+</details>
 
 ## Premium Almond Butter Product Commercial Storyboard
 

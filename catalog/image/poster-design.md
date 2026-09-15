@@ -1,9 +1,341 @@
 # Poster Design image prompts
 
-158 source-linked prompts, newest ImgLume records first.
+162 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Vertical 2:3 Fashion Editorial Poster
+
+- **Original source:** [@harboriis on X](https://x.com/harboriis/status/2099350017844867510)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4291](https://imglume.com/prompt/4291)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/cee3d416-7b03-409f-9c18-2a3fa59b12dd/cc906667-0f04-493f-9ed5-e13ddd7211e3-1789390024286 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/cee3d416-7b03-409f-9c18-2a3fa59b12dd/04003701-976b-4262-87de-a2a09fa0f9dc-1789390024286 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical 2:3 fashion editorial poster with a minimalist, modern aesthetic. Use a clean white background with three tall, rectangular orange panels arranged vertically across the center, with narrow white gaps between them. The middle panel is slightly taller than the two outer panels.
+
+Feature a realistic young woman with fair skin, delicate facial features, and light brown hair styled neatly under a large, wide-brimmed burnt-orange cowboy hat. She wears an elegant burnt-orange long-sleeve blouse with soft folds and a refined fashion-forward look.
+
+Position the woman in a three-quarter profile, facing slightly toward the camera with a calm, confident expression. Her head and oversized hat extend across all three orange panels, while her body is primarily visible through the center panel. The orange panels should create a striking cutout effect, with parts of the portrait appearing to overlap the panel edges.
+
+Use warm studio lighting, soft natural skin texture, subtle shadows, crisp edges, high-end fashion photography, balanced negative space, and a premium contemporary magazine design. Use a monochromatic burnt-orange color palette against a pure white background.
+
+No text, no logos, no typography, no borders, no extra objects. Focus entirely on the woman, the oversized hat, and the geometric orange panel composition.</code></pre>
+
+</details>
+
+## Vertical editorial illustration of dense Japanese urban street and railway station platform
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2099363471326618061)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`
+- **ImgLume record:** [4279](https://imglume.com/prompt/4279)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/571f327e-6662-4900-b6a7-eb86613a199a/dcd583fc-f835-4956-a8e1-306938b90457-1789379438550 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/571f327e-6662-4900-b6a7-eb86613a199a/aba846ef-4594-4e33-b237-b4132914090c-1789379438550 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical editorial illustration inspired by the reference images, depicting a dense Japanese urban scene in a highly stylized navy-blue and warm ivory monochrome line-art aesthetic.
+
+Show a narrow Japanese city street viewed from an elevated perspective, with tall tightly packed buildings on both sides, layered storefronts, balconies, windows, hanging signs, Japanese typography, utility poles, tangled overhead power cables, street lamps, awnings, railings, bicycles, and small architectural details. The street should lead naturally into the distance, creating strong depth and perspective.
+
+Include several small pedestrians naturally walking through the scene—people carrying bags, checking phones, crossing the street, and walking in pairs. Keep them simplified but expressive, with clean silhouettes and minimal facial detail.
+
+Use deep indigo/navy ink for all outlines, shadows, signs, cables, windows, and architectural details, contrasted against a warm cream/off-white paper background. Strong graphic shadows and large solid navy areas should create a bold screen-print/poster effect.
+
+For the second scene, depict a Japanese railway station platform from a slightly elevated side perspective. Show detailed steel roof structures, beams, electrical cables, overhead signage, platform markings, tiled flooring, railway tracks, columns, railings, ticket-area structures, and several commuters waiting or walking while looking at their phones. Preserve the same visual language: precise architectural linework, simplified human figures, deep navy shadows, cream paper, and dense urban detail.
+
+Style: Japanese urban sketchbook + architectural ink illustration + vintage travel poster + screen printing + manga-inspired environmental linework, intricate hand-drawn details, clean perspective, bold negative space, slightly imperfect ink texture, sophisticated editorial composition, nostalgic analog print feel.
+
+Color palette: only deep navy blue, muted blue-gray, and warm ivory/cream. No bright colors.
+
+Composition: highly detailed, visually dense, balanced foreground/midground/background, strong vanishing points, cinematic framing, crisp linework, subtle paper grain, premium art-book illustration.
+
+Aspect ratio: 4:5 vertical.</code></pre>
+
+</details>
+
+## High-end halftone travel-collage poster from portrait photo
+
+- **Original source:** [@ShamiWeb3 on X](https://x.com/ShamiWeb3/status/2099316312426381491)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4252](https://imglume.com/prompt/4252)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/7c41287d-0386-4a24-b59e-122bec449b37/3e7b0d5d-3314-4dcf-833a-b1e7ebfd2162-1789366887021 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/7c41287d-0386-4a24-b59e-122bec449b37/308095cc-4331-4082-b67c-2e9bd5a4cc0e-1789366887021 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/7c41287d-0386-4a24-b59e-122bec449b37/5c98233d-092c-42ea-bbb3-150203bcae6d-1789366887021 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Turn this portrait photo into a single high-end halftone travel-collage poster. Output one poster per uploaded photo — never merge multiple photos into one frame.
+FORMAT
+
+3:4 vertical canvas. Split into two roughly equal zones — real photo on top, printed collage below — divided by one clean, sharp horizontal line. Do not stretch, warp, or reposition the figure to force the proportions.
+TOP HALF — THE REAL SHOT
+
+Preserve the original photo faithfully: same identity, face, expression, pose, hands, clothing, personal items, background structure, natural light and shadow, original color mood. Add only a light high-end color grade and the faintest film grain. Do not redraw or reinterpret the person.
+BOTTOM HALF — THE PRINTED RECONSTRUCTION
+
+Same warm gray old-paper background. Rebuild the same figure as a printed collage: torn photographic slices + fixed-width ASCII character fields + photocopy halftone dots.
+
+Keep face, hands, hairstyle, clothing, and one signature item recognizable — identity must survive the breakdown.
+Torn-edge photo fragments carry the face and key structural lines; fabric, shadow, and background dissolve outward into ASCII characters, black halftone dots, and fractured print grain.
+Texture: rough white paper-fiber edges, slight print misregistration, old paper stains, a couple of crop marks, one restrained red calibration bar.
+Color: warm gray paper + black ink + the photo’s own muted original colors + the single red accent. Never fully desaturate.
+Figure fills roughly 60–88% of the frame width — always leave 22–38% of the paper untouched and empty, so it reads as archival print, not a packed terminal screen.
+Add one readable fixed-width title pulled from the photo’s theme, plus the line "REC. STUDY 01" and one short observational caption. A few loose ASCII glyphs can trace the figure’s edge as texture only — never used to fake body detail or invent specs.
+
+MOOD
+
+Early digital systems meets analog photocopy meets underground zine meets modern travel editorial. The figure should feel like it’s surfacing — half photograph, half character, half print — restrained, archival, a little experimental.
+AVOID
+
+Solid black terminal backgrounds, walls of dense code, cyberpunk neon, fully hidden faces, random symbols with no meaning, invented technical readouts, garbled fake text, author credits, brand logos, QR codes, watermarks.</code></pre>
+
+</details>
+
+## Premium Contemporary Fashion Campaign Prompt
+
+- **Original source:** [@Maercihh on X](https://x.com/Maercihh/status/2098990617007440344)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `poster-design`
+- **ImgLume record:** [4237](https://imglume.com/prompt/4237)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/11e310a6-1aa3-471f-bf8f-dc2560f28db3/0ea3e9da-5fae-4540-8c37-cb8d7b40a000-1789331499195 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/11e310a6-1aa3-471f-bf8f-dc2560f28db3/5b14e3ab-e3ac-4916-ade7-2cba9fdd4e54-1789331499195 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/11e310a6-1aa3-471f-bf8f-dc2560f28db3/ea422939-fe5c-4352-a722-ead2d77328fe-1789331499195 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>GPT image 2.0 on ChatGPT.
+
+Prompt
+
+{
+"input": {
+"pose": "{{cross legged}}",
+
+"brand_name": "{{aroma}}",
+"brand_logo": "{{generate logo}}",
+"brand_tagline": "{{generate tagline}}",
+"headline": "{{generate headline}}",
+"subheadline": "{{GENERATE SUBHEADLINE}}",
+"supporting_text": "{{GENERATE SUPPORTING_TEXT}}",
+"microcopy": "{{GENERATE MICROCOPY}}"
+
+},
+
+"generation": {
+"type": "premium_contemporary_fashion_campaign",
+"aspect_ratio": "2:3",
+"orientation": "portrait",
+
+"visual_style": {
+"reference_direction": "Use the supplied reference images as the strict visual direction.",
+"aesthetic": "high-end contemporary fashion advertising with a clean editorial magazine aesthetic",
+"mood": "confident, sophisticated, aspirational, understated and modern",
+"finish": "photorealistic professional fashion campaign photography",
+"overall_design": "minimal, premium, intentional and highly art-directed"
+},
+
+"subject": {
+"model": "young adult female fashion model",
+"appearance": "naturally attractive contemporary editorial model",
+"skin": "realistic natural skin texture with subtle pores and minimal retouching",
+"makeup": "refined natural fashion makeup",
+"hair": "natural polished editorial hairstyle",
+"expression": "confident, composed and subtly expressive",
+"anatomy": "realistic human anatomy and proportions"
+},
+
+"outfit": {
+"style": "modern elevated casual / contemporary lifestyle fashion",
+"wardrobe": "premium everyday fashion with clean silhouettes",
+"palette": "muted sophisticated neutrals with restrained navy, cream, beige, brown, charcoal or similarly understated tones",
+"materials": "realistic premium cotton, denim, nylon, fleece, leather or technical fabrics depending on garment",
+"construction": "accurate seams, stitching, hems, zippers, pockets and garment structure",
+"fit": "natural contemporary fashion fit",
+"rule": "Keep the clothing visually coherent with the reference campaign aesthetic."
+},
+
+"pose": {
+"instruction": "{{USER_DEFINED_POSE}}",
+"priority": "Follow the user's requested pose precisely while maintaining realistic anatomy, natural balance and believable interaction with the environment.",
+"camera_relationship": "pose should be deliberately composed for a professional fashion advertisement"
+},
+
+"environment": {
+"setting": "minimalist premium studio environment",
+"background": "warm off-white, cream, beige or soft light gray",
+"architecture": "subtle geometric architectural forms or sculptural blocks",
+"props": "minimal and purposeful",
+"floor": "matte neutral studio floor",
+"background_detail": "clean and uncluttered",
+"negative_space": "large intentional areas of negative space for typography"
+},
+
+"lighting": {
+"style": "high-end commercial fashion lighting",
+"source": "large soft diffused studio lights",
+"direction": "soft directional illumination",
+"shadows": "natural controlled soft shadows",
+"skin": "flattering but realistic",
+"contrast": "moderate",
+"highlights": "subtle and physically realistic"
+},
+
+"camera": {
+"style": "professional editorial fashion photography",
+"camera": "high-end full-frame or medium-format camera",
+"lens": "premium fashion/portrait lens",
+"perspective": "intentional editorial perspective",
+"depth_of_field": "controlled realistic depth of field",
+"focus": "sharp facial and garment detail",
+"image_quality": "extremely detailed photographic realism"
+},
+
+"composition": {
+"format": "vertical 2:3 fashion poster",
+"layout": "asymmetrical editorial composition",
+"subject": "strong visual presence without filling the entire frame",
+"negative_space": "reserve substantial clean space for typography",
+"hierarchy": [
+"model and fashion",
+"brand identity",
+"main headline",
+"supporting text",
+"small editorial details"
+],
+"balance": "use the model, architecture and typography to create a carefully balanced magazine-cover-like composition"
+},
+
+"color_grading": {
+"palette": "warm neutral luxury palette",
+"saturation": "restrained",
+"contrast": "soft to moderate",
+"grading": "premium editorial color grading",
+"texture": "subtle photographic grain and realistic tonal variation",
+"avoid": [
+"neon colors",
+"oversaturation",
+"heavy HDR",
+"teal-orange cinematic grading",
+"plastic-looking skin"
+]
+},
+
+"typography": {
+"brand": {
+"name": "{{BRAND_NAME}}",
+"logo": "{{BRAND_LOGO}}",
+"placement": "upper corner within clean negative space",
+"style": "minimal premium fashion branding"
+},
+
+"tagline": {
+"text": "{{BRAND_TAGLINE}}",
+"placement": "directly beneath or adjacent to the brand identity",
+"style": "small uppercase typography with generous letter spacing"
+},
+
+"headline": {
+"text": "{{HEADLINE}}",
+"placement": "large editorial text block in the strongest available negative-space region",
+"style": "bold contemporary typography",
+"scale": "large and visually dominant",
+"alignment": "clean editorial alignment"
+},
+
+"subheadline": {
+"text": "{{SUBHEADLINE}}",
+"placement": "near the headline",
+"style": "smaller uppercase or refined sans-serif typography",
+"letter_spacing": "generous"
+},
+
+"supporting_text": {
+"text": "{{SUPPORTING_TEXT}}",
+"placement": "secondary negative-space areas",
+"style": "small editorial microcopy"
+},
+
+"microcopy": {
+"text": "{{MICROCOPY}}",
+"placement": "small peripheral details",
+"style": "minimal uppercase typography"
+},
+
+"graphic_elements": [
+"thin horizontal divider lines",
+"small uppercase labels",
+"subtle arrows when appropriate",
+"minimal icons when appropriate",
+"small editorial annotations"
+],
+
+"typographic_rule": "All supplied text must be reproduced exactly, spelled correctly and rendered as intentional professional graphic design."
+},
+
+"art_direction": {
+"reference_match": "Capture the same restrained luxury-fashion advertising language as the references.",
+"design_principles": [
+"strong negative space",
+"clean hierarchy",
+"minimal graphic decoration",
+"premium editorial typography",
+"architectural simplicity",
+"realistic fashion photography",
+"controlled neutral palette",
+"commercial polish"
+],
+"restraint": "Every visual element must have a purpose. Avoid unnecessary decoration."
+},
+
+"negative_prompt": [
+"generic stock photo",
+"cheap fashion advertisement",
+"busy background",
+"overdecorated composition",
+"random props",
+"oversaturated colors",
+"plastic skin",
+"excessive beauty retouching",
+"unrealistic anatomy",
+"extra fingers",
+"deformed hands",
+"warped limbs",
+"distorted clothing",
+"floating objects",
+"bad perspective",
+"poor garment construction",
+"random logos",
+"random text",
+"misspelled text",
+"gibberish typography",
+"illegible typography",
+"watermarks"
+]
+
+},
+
+"output": {
+"aspect_ratio": "2:3",
+"format": "single finished fashion advertising poster",
+"quality": "maximum",
+"style": "photorealistic premium editorial campaign"
+}
+}@Create image</code></pre>
+
+</details>
 
 ## Revy reimagined – bold contemporary anime street‑art poster
 

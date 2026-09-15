@@ -1,9 +1,31 @@
 # Nature video prompts
 
-23 source-linked prompts, newest ImgLume records first.
+24 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## The walk towards serenity
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2099138203026599964)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [4255](https://imglume.com/prompt/4255)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/930f7a88-2eeb-4f97-8c16-a7ea2525f50b/268a0e75-337d-4c34-afbe-8dc56c28054a-1789366974424 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second cinematic continuous shot, ultra-realistic, natural film look, 24fps.
+0–4 seconds: Extreme close-up of a sunlit animal skull lying partially buried in dry golden grass. Small yellow and blue wildflowers are naturally growing through the skull, clearly visible and unchanged. Warm early-morning sunlight illuminates the bone and surrounding grass. Shallow depth of field, realistic textures, soft background bokeh. The grass gently moves in a light natural breeze.
+4–7 seconds: A woman’s leg wearing brown suede boots enters the frame and naturally steps over the skull without touching or disturbing it. Her other foot follows as she continues walking forward along the forest path. Keep the skull, flowers, dry grass, and boots clearly realistic and consistent.
+7–11 seconds: As she moves farther away, the camera slowly rises upward and smoothly follows behind her, transitioning from the ground-level close-up into a medium rear shot. Reveal a blonde woman with long flowing hair, wearing a dark navy-blue cloak that moves naturally with her walking motion and the gentle breeze.
+11–15 seconds: The camera continues smoothly following her from behind as she walks deeper along the forest path. Tall trees surround the path, with warm sun rays filtering naturally through the branches. In the distance, mountains glow softly in golden morning light, creating atmospheric depth. Her long blonde hair and navy-blue cloak move naturally as she walks. End with a beautiful cinematic rear composition of the woman disappearing deeper into the forest.
+Visual direction: photorealistic, cinematic natural lighting, warm golden morning atmosphere, realistic forest textures, physically accurate shadows, subtle atmospheric haze, realistic human walking motion, smooth camera movement, shallow depth of field transitioning naturally into deeper environmental focus, no artificial effects, no cuts, no sudden camera movements, seamless continuous shot, premium cinematic film quality.</code></pre>
+
+</details>
 
 ## 8-second photorealistic wildlife documentary shot using Blender, PixVerse, and Seedance 2.5
 

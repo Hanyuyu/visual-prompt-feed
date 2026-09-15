@@ -1,9 +1,26 @@
 # Ui Graphic image prompts
 
-3 source-linked prompts, newest ImgLume records first.
+4 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Minimalist infographic showing 5 stages of a process
+
+- **Original source:** [@whotfiszackk on X](https://x.com/whotfiszackk/status/2099380155382968455)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `ui-graphic`
+- **ImgLume record:** [4309](https://imglume.com/prompt/4309)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/65468e25-3130-4884-b4f4-1eef84fdde99/a1d49730-41df-447a-b8e1-101721b5f3c4-1789415135207 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>"minimalist infographic showing '5 stages of [process]', professional, clean, tech startup aesthetic, arrows connecting stages, modern san serif labels --ar 16:9 --v 6"</code></pre>
+
+</details>
 
 ## Web design prompt for Grok Imagine 2.0
 

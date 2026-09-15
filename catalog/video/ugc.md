@@ -1,9 +1,362 @@
 # UGC video prompts
 
-153 source-linked prompts, newest ImgLume records first.
+159 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## MiniDV style video of a young Korean woman in a rainy Seoul kitchen
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2099468455028334708)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4300](https://imglume.com/prompt/4300)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/c04d8e09-efad-4572-86aa-4d00169d8b0f/e939be62-f931-450e-b1a6-ad9b2c1c78f5-1789402554322 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Main Subject: Young Korean woman, 24, naturally attractive, realistic skin, minimal makeup, long dark hair loosely down. Wearing an oversized maroon hoodie and casual pants. Preserve her exact identity, facial features, hairstyle, body proportions and appearance throughout. Location: Small old Seoul apartment kitchen during a dark, rainy early morning. Slightly worn kitchen counter, simple bowl of food, sauce bottle, wooden cabinets, rain-covered window and blurred neighboring apartment buildings outside. Steady rain can be seen through the window. Lighting &amp; Atmosphere: Cozy, dim blue-hour ambience. Cold blue-gray light from the rainy window mixed with a weak warm kitchen light. Muted colors, soft shadows, slightly underexposed interior and a quiet sleepy atmosphere. Style: Ultra-realistic early-2000s Sony MiniDV home video filmed by another person holding the camcorder. Completely candid and unstaged. Natural handheld shake, imperfect framing, gentle reframing, occasional autofocus hunting, mild exposure shifts, faded colors, soft contrast, authentic DV compression, subtle low-light digital noise and microphone noise. Smooth continuous real-time motion throughout. No stuttering, judder, frame skipping, duplicated frames, stop-motion appearance, excessive motion blur, speed changes or low-frame-rate look. No stabilization or modern cinematic movement. 00:00–00:04: She stands at the kitchen counter preparing a simple bowl of food. She casually squeezes some sauce over it while looking away for a moment. 00:04–00:07: Far too much sauce suddenly comes out of the bottle. She immediately stops squeezing and stares down at the food in silent disbelief. 00:07–00:10: She slowly tilts the bowl toward herself, inspecting the excessive amount of sauce as if trying to figure out whether it can somehow be saved. 00:10–00:13: She looks toward the camcorder with a helpless, slightly miserable expression, then looks back down at the ruined-looking bowl. 00:13–00:15: She gives a tiny defeated sigh, looks directly into the camera and says in a funny, genuinely confused tone, **“What do I do now?”** She gives a small helpless shrug. Audio: Natural location sound only—steady rain against the window, sauce bottle squeezing, subtle kitchen sounds, refrigerator hum, fabric movement and distant apartment ambience. Her spoken line is natural and quiet. No music, narration or added sound effects. Goal: Cute, spontaneous and lightly comedic, like a tiny everyday mistake accidentally captured on an old family MiniDV camera. Her reaction should be subtle and genuinely confused rather than exaggerated. The spoken **“What do I do now?”** should feel like an impulsive reaction to the mistake, not a scripted performance. Motion quality: Keep every movement smooth, continuous and physically realistic. The sauce should visibly come out too quickly and create a believable mess. Avoid sudden camera movements or exaggerated acting. The vintage MiniDV aesthetic must come from image texture, autofocus, exposure behavior, colors and handheld operation—not from reduced frame rate or choppy motion.</code></pre>
+
+</details>
+
+## 15-second ultra-realistic home video of a Korean woman on a countryside farm
+
+- **Original source:** [@iamahmedfaraz66 on X](https://x.com/iamahmedfaraz66/status/2099344889813286990)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4294](https://imglume.com/prompt/4294)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d7ce1722-69d9-40dd-bb51-199282235725/227bc3c0-5a23-4cd6-a2d3-ebcfef10650e-1789390109363 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 15-second,ultra-realistic personal home-video of a young Korean woman 📷Gemini_Generated_Image_k9a spending an ordinary summer afternoon at a small traditional countryside farm outside Seoul.
+
+A naturally beautiful Korean woman in her early 20s with realistic natural skin texture, minimal makeup and a relaxed, cheerful personality. Long black hair tied in a loose low ponytail. She wears a loose Navy blue oversized hoodie, light Gray loose trousers, brown ankle boots and a beige canvas crossbody bag.
+
+Strictly maintain the same face, hairstyle, clothing, body proportions and appearance throughout the entire video.
+
+The farm is small, traditional and lived-in: wooden fences, an old farmhouse, barn, hay bales, green fields, vegetable patches, chickens, cows, buckets, farming tools and summer trees.
+
+CAMERA STYLE
+
+The entire video is recorded casually by her friend using a consumer DV camcorder/smartphone.
+
+The camera is ALWAYS in front of her. Never show her from behind.
+
+The friend walks backward while filming her approaching him/her. Use authentic amateur home-video imperfections: subtle handheld shaking, uneven framing, autofocus hunting, occasional exposure shifts, natural motion blur, mild digital noise, soft detail, faded early-2000s colors and one or two tiny accidental zoom adjustments.
+
+No cinematic camera movement, no gimbal, no drone, no polished commercial look, no beauty filter.
+
+0:00–0:04 — Entering the Chicken Area
+
+The girl walks toward the camera along a narrow dirt path inside the farm. She notices a group of chickens gathered near a wooden fence.
+
+She smiles and casually says:
+
+“여기 닭들이 있어요.”
+
+She looks down toward the chickens and then back toward the camera.
+
+0:04–0:09 — Throwing Grain to the Chickens
+
+Hard cut.
+
+Still filmed from directly in front of her, she stands beside the chicken area holding a small handful of grain.
+
+She throws the grain gently onto the ground in front of her.
+
+Several chickens immediately hurry toward the scattered grain, pecking energetically around her boots.
+
+She laughs naturally and takes another small handful, tossing it toward them.
+
+She looks amused and slightly surprised by how quickly the chickens gather around her.
+
+0:09–0:12 — Chicken Comes Close
+
+Hard cut.
+
+The camera remains in front of her as one chicken walks unusually close to her boots.
+
+She looks down, laughs, then looks directly at the camera with a spontaneous smile.
+
+She says:
+
+“너무 귀여워.”
+
+The moment should feel completely unscripted.
+
+0:12–0:15 — Leaving
+
+Hard cut.
+
+She walks toward the camera along the farm path, smiling and carrying the small grain container.
+
+She gives a quick little wave toward the camera and says:
+
+“다음에 또 올게요. 안녕!”
+
+She walks past the camera and the recording cuts off naturally.
+
+AUDIO
+
+Only authentic location sound:
+
+* Chickens clucking and pecking
+
+* Birds
+
+* Summer insects
+
+* Footsteps on dirt
+
+* Leaves moving in the breeze
+
+* Distant farm activity
+
+* Her natural laughter and Korean dialogue
+
+Absolutely no background music, narration or artificial sound effects.
+
+FINAL LOOK
+
+Make it indistinguishable from a real friend casually recording a 15-second summer afternoon at a Korean countryside farm. The footage should be spontaneous, slightly shaky, imperfect and ordinary rather than cinematic.
+
+Most important: front-facing camera throughout, clearly visible face, consistent character appearance, natural Korean speech, realistic chicken behavior, authentic amateur camera imperfections, and no AI-looking skin or overly perfect imagery.</code></pre>
+
+</details>
+
+## Ultra-realistic early-2000s DV home video of two Korean friends hanging out in Seoul
+
+- **Original source:** [@oggii_0 on X](https://x.com/oggii_0/status/2099372432935280673)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4292](https://imglume.com/prompt/4292)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/62c6781f-d901-4626-9392-9aa212be6f8a/9668b7cb-4f2f-48f9-978d-cfd99dca6067-1789390085920 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic early-2000s DV home video of two young Korean women hanging out on a quiet afternoon in an older Seoul neighborhood.
+MAIN SUBJECTS
+Subject A: @ image 1 , fitted pastel-blue short top, loose cream pajama-style pants, black sneakers, simple silver necklace.
+Subject B: early 20s, straight shoulder-length hair with a clip, oversized denim jacket over a plain white tee, black leggings, worn canvas sneakers.
+Natural skin texture, minimal makeup, realistic proportions. Keep both identities, outfits and hairstyles perfectly consistent throughout.
+SETTING
+A quiet residential street corner in an older Seoul neighborhood, midafternoon. Low walls, a snack cart or small stall nearby, parked bicycles, utility poles, a curb to sit on. Ordinary and lived-in, no landmarks or brand names.
+SEQUENCE
+The two friends walk up to a small street food stall together, laughing about something already in progress. They buy tteokbokki and fish cake skewers in paper cups.
+They walk a few steps and sit down together on a low curb, cups balanced on their knees.
+They eat and talk, mostly inaudible or half-heard chatter and laughter — a stray phrase or two might land ("...no way, seriously?") but most of it is naturalistic murmur, not clear dialogue.
+Subject B pulls out a portable CD player and offers Subject A one earbud. They both plug in, bobbing their heads slightly, still eating between beats.
+They lean into each other laughing at something, one nearly spilling her cup.
+Subject A notices the camera pointed at them, laughs, and says:
+"Wait, are you filming us?"
+Subject B glances over, laughs, and quickly reaches a hand up toward the lens.
+The frame is abruptly covered by her hand/fingers, footage cuts to black.
+CAMERA
+Raw handheld early-2000s DV camcorder, shaky footage, autofocus hunting, faded colors, exposure shifts, motion blur, soft digital detail, occasional accidental zooms. No polished cinematography.
+AUDIO
+Natural street ambience — sizzling food cart, distant chatter, bicycles, birds, muffled CD player audio bleeding faintly from the shared earbuds, footsteps, wind. Mostly overlapping, half-audible conversation and laughter; no clear scripted dialogue except the two lines noted. No score.
+CONTINUITY
+Food cups and skewers remain consistent in each subject's hands. CD player and earbuds stay shared between them. No disappearing, duplicating or teleporting objects. Smooth, realistic movement throughout.
+NEGATIVE
+CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra fingers, subtitles, watermark.</code></pre>
+
+</details>
+
+## 30-second rooftop home video of a Turkish woman chasing a sock
+
+- **Original source:** [@ChillaiKalan__ on X](https://x.com/ChillaiKalan__/status/2099367954232254692)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4290](https://imglume.com/prompt/4290)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/ce729430-1991-4d15-9795-4c39baf17325/7a2e7d3d-660b-41a3-bac7-c68cc941874f-1789390001434 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>VIDEO CONCEPT:
+A completely natural 30-second personal home-video recording of a young woman doing something ordinary on a quiet apartment rooftop during a breezy afternoon. She hangs freshly washed clothes, discovers that one sock has blown away, and casually runs after it. The moment feels spontaneous, funny, and completely unplanned.
+FORMAT:
+30 seconds • 16:9 • 1080p • photorealistic live-action • raw consumer camcorder footage
+MAIN SUBJECT
+A young Turkish woman in her early 20s with long dark-brown hair tied loosely in a low ponytail.
+She wears a faded white T-shirt, loose olive-green trousers, simple house slippers, and a thin silver bracelet.
+Keep her face, hairstyle, clothing, body proportions, and accessories completely consistent throughout the entire video.
+SETTING
+A modest apartment rooftop in Izmir, Turkey, on a warm breezy afternoon.
+The rooftop has concrete flooring, metal railings, water tanks, plastic buckets, a simple clothesline, neighboring apartment buildings, satellite dishes, potted plants, and laundry moving in the wind.
+The environment should feel lived-in and ordinary.
+No famous landmarks, recognizable brands, advertisements, or tourist imagery.
+CAMERA / VISUAL AESTHETIC
+Shot on an inexpensive early-2000s consumer digital camcorder.
+Handheld and slightly shaky
+Occasional uneven framing
+Natural autofocus hunting
+Slight exposure changes when pointing toward the bright sky
+Mild digital compression
+Subtle image noise
+Natural motion blur
+Slightly faded colors
+No stabilization
+No cinematic lens effects
+No artificial bokeh
+No polished commercial look
+The camera operator should behave like a friend casually filming from a few feet away.
+TIMELINE
+0–5 SECONDS — ROOFTOP
+The camera steps onto the rooftop.
+The woman is already standing beside the clothesline with a small plastic basket full of freshly washed clothes.
+Wind moves several shirts hanging nearby.
+She looks toward the camera and says casually:
+“It’s really windy today.”
+
+5–12 SECONDS — HANGING CLOTHES
+She takes a white shirt from the basket and clips it onto the clothesline.
+The fabric immediately catches the wind and flutters strongly.
+She laughs quietly and uses both hands to secure it with another clothespin.
+The camera moves slightly closer.
+Natural sunlight reflects off the metal clips.
+
+12–18 SECONDS — THE SOCK
+She pulls out a small sock from the basket.
+Before she can attach it, a sudden gust catches it from her hand.
+The sock flies across the rooftop.
+She freezes for half a second.
+Then says:
+“Oh, come on!”
+She quickly starts walking after it.
+
+18–24 SECONDS — CHASING IT
+The camera operator follows her with slightly shaky movement.
+The sock slides across the concrete floor, pushed by the wind.
+She reaches down but misses it.
+The sock moves toward a rooftop corner.
+She laughs while chasing it.
+Her ponytail and loose shirt move naturally in the wind.
+
+24–30 SECONDS — CAUGHT
+She finally catches the sock near the railing.
+She holds it up toward the camera with an amused expression.
+She shakes her head and says:
+“Got you.”
+She walks back toward the clothesline.
+The camera remains handheld and slightly imperfect as the recording ends mid-action.
+AUDIO
+Only natural location sound:
+Strong but realistic wind
+Clothes flapping
+Plastic basket movement
+Clothespins clicking
+Distant city traffic
+Birds
+Footsteps on concrete
+Her natural laughter
+Quiet neighborhood ambience
+NO MUSIC.
+Dialogue should sound spontaneous, slightly imperfect, and naturally recorded from several feet away.
+REALISM / PHYSICS
+Wind must affect the environment consistently.
+Clothes should flutter according to their size and weight. The lightweight sock should move more easily than the heavier clothing. Hair and loose fabric should respond naturally to gusts.
+The plastic basket should remain grounded unless physically moved.
+Hands must interact correctly with clothespins and clothing.
+No impossible wind direction changes, floating objects, duplicated clothes, or objects appearing/disappearing.
+Maintain perfect continuity of the woman’s face, hairstyle, outfit, bracelet, and slippers.
+NEGATIVE PROMPT
+CGI, 3D render, animation, game graphics, plastic skin, beauty filter, AI face, face morphing, identity drift, extra fingers, malformed hands, duplicated people, floating objects, impossible physics, fake wind, excessive slow motion, HDR, oversaturation, cinematic color grading, artificial bokeh, dramatic lighting, studio lighting, perfect stabilization, drone footage, commercial advertisement aesthetic, staged acting, exaggerated expressions, subtitles, captions, logos, watermarks, recognizable brands, background music, wardrobe changes, hairstyle changes, continuity errors.
+FINAL LOOK
+The footage should feel like a random afternoon memory captured by a friend on an old family camcorder.
+The camera should not behave like a professional filmmaker. Small shakes, missed framing, autofocus adjustments, imperfect exposure, ordinary rooftop clutter, and spontaneous reactions should remain visible.
+Make it feel like a real moment that happened once—not a scene created for a camera.</code></pre>
+
+</details>
+
+## Ultra-realistic early-2000s DV home video of a young Korean woman doing Sunday chores
+
+- **Original source:** [@Ciri_ai on X](https://x.com/Ciri_ai/status/2099379932082348417)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4281](https://imglume.com/prompt/4281)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/d91ff008-7597-4ace-a604-d31e15a81cbc/93ffcd32-6cb4-4318-b23a-9f907c0c6b51-1789383672936 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic early-2000s DV home video of a young Korean woman doing quiet Sunday chores around her home in an older Seoul neighborhood. Purely observational, no dialogue, no narrative arc just rhythmic, textural everyday realism.
+MAIN SUBJECT
+Young Korean woman same as , early 20s, natural beauty, realistic skin texture, no makeup, black hair tied up messily in a claw clip, oversized faded T-shirt, rolled-up sweatpants, bare feet or house slippers. Keep her identity, outfit, hairstyle and proportions perfectly consistent throughout.
+SETTING
+The front step and small yard/alley outside an older Seoul home. Concrete step, a low gate, potted plants, a garden hose, a trash bin, scattered leaves. Ordinary, lived-in, no landmarks or brand names.
+SEQUENCE (rhythmic, no dialogue)
+She sweeps the front step with a short broom, dust and leaves scattering in the light.
+She crouches down and pours a small amount of dry food into a bowl for a neighborhood cat waiting nearby; the cat eats while she watches briefly.
+She stands and waters potted plants along the wall with a small watering can, water visibly darkening the soil.
+She picks up a bagged trash bundle and carries it a few steps to place it by the curb/bin.
+She wipes her hands on her shirt, looks around the now-tidy step and yard for a moment, then exhales/stretches.
+She glances toward the camera briefly with a small, tired smile — no words — then turns and walks back inside.
+Camera holds on the empty, swept step for a beat before cutting to black.
+CAMERA
+Raw handheld early-2000s DV camcorder, shaky footage, autofocus hunting, faded colors, exposure shifts, motion blur, soft digital detail, occasional accidental zooms. Observational, documentary-like framing — lingering shots, no cuts within actions. No polished cinematography.
+AUDIO
+Natural ambience only — broom bristles on concrete, water pouring, cat eating, distant birds, wind, a far-off scooter or dog bark, plastic bag rustling, faint footsteps. No dialogue, no music.
+CONTINUITY
+Broom, watering can and trash bag each remain consistent through their respective actions. Cat stays in frame while eating, doesn't disappear or duplicate. No teleporting or vanishing objects. Smooth, realistic, unhurried movement throughout.
+NEGATIVE
+CGI look, plastic skin, identity drift, outfit changes, distorted hands, extra fingers, subtitles, watermark.</code></pre>
+
+</details>
+
+## 30-second ultra-realistic personal home video of a young Korean woman's summer afternoon
+
+- **Original source:** [@AIwithkhan on X](https://x.com/AIwithkhan/status/2099334356754182229)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `ugc`
+- **ImgLume record:** [4254](https://imglume.com/prompt/4254)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a495c74c-6f4c-4f85-984c-3d7c95f764d3/9e4f7fc4-0dc0-4b02-86b8-073a311c29a4-1789366943967 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a 30-second, 1080p ultra-realistic personal home-video showing an ordinary summer afternoon in the life of a young Korean woman.
+MAIN SUBJECT
+Young Korean woman, early 20s, naturally beautiful, realistic skin, minimal makeup, black wavy hair in a messy side ponytail, fitted pastel-blue short top, loose cream pajama-style pants, black sneakers and simple silver necklace. Keep her identity, outfit, hairstyle and proportions perfectly consistent throughout.
+SETTING
+A quiet older Seoul residential neighborhood on a warm summer afternoon. Narrow concrete lanes, small houses, old walls, potted plants, parked bicycles, utility poles, overhead wires and a few neighbors outside. Natural, ordinary and lived-in.
+CAMERA / VISUAL AESTHETIC
+Raw early-2000s consumer DV camcorder footage filmed by a friend. Strong handheld movement, imperfect framing, autofocus hunting, exposure shifts, faded colors, soft digital detail, mild noise, motion blur and occasional accidental zooms. No stabilization, drone shots or polished cinematic look.
+— LEAVING HOME
+She steps outside her house and walks slowly through the neighborhood. She passes a few neighbors outside their homes, smiling and exchanging friendly gestures. She continues down the street with the camera following casually behind her. No dialogue.
+— WATER TAP
+She reaches a small public water tap beside the street. She turns it on, cups water in both hands and splashes it onto her face. She closes her eyes and smiles as the water runs naturally down her cheeks. She wipes her face, fixes her hair and turns the tap off. No dialogue.
+— BADMINTON
+On her way back, she notices a few children playing badminton in the street. She stops and watches them for a moment, then smiles and asks:
+“Can I try?”
+One child happily gives her the racket. She takes her position and waits for the shuttlecock.
+— THE MISS + WALK HOME
+A child hits the shuttlecock toward her. She swings and completely misses. The shuttlecock falls onto the ground.
+She laughs naturally, shakes her head and hands the racket back to the child. The children laugh with her.
+She then walks toward home as the camera follows her from behind. Near the end, she turns toward the camera with a small smile and says:
+“See you!”
+She continues walking home as the footage naturally ends.
+AUDIO
+Natural location sound only: footsteps, birds, summer insects, distant scooters, neighborhood sounds, running water, badminton hits and children laughing. Only two spoken lines in the entire video: “Can I try?” and “See you!” No other dialogue, no narration, no music, no subtitles.
+Maintain realistic physics, natural human movement, consistent identity and authentic early-2000s home-video imperfections. No morphing, duplicated people, distorted hands, outfit changes, background swaps or CGI-looking motion.</code></pre>
+
+</details>
 
 ## 30-second ultra-realistic home video of a young Korean woman's summer Sunday
 

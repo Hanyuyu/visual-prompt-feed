@@ -1,9 +1,338 @@
 # Character video prompts
 
-133 source-linked prompts, newest ImgLume records first.
+135 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## 30‑second photorealistic cinematic action‑comedy video of GTA‑style grandfather birthday mission
+
+- **Original source:** [@feesyiam on X](https://x.com/feesyiam/status/2099401891654615283)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`
+- **ImgLume record:** [4304](https://imglume.com/prompt/4304)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/84f543d3-2661-412b-b00d-137d23592ca9/d67fb560-a518-40a2-9c11-be987c08f3e7-1789406975540 "Video prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/84f543d3-2661-412b-b00d-137d23592ca9/ba90d1b4-61e8-490f-b33c-423426951a9b-1789406975540 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Video prompt:
+
+Create a 30-second photorealistic cinematic action-comedy video based directly on the provided 6-panel storyboard reference image.
+
+Treat the storyboard as the visual blueprint for the entire video. Preserve the exact same elderly Asian grandfather, clothing, facial features, Taipei environment, color palette, architecture, and overall visual style from the reference storyboard. Do not redesign the character between shots.
+
+CHARACTER CONTINUITY
+
+The protagonist is a 70–75-year-old Asian grandfather with short neatly trimmed grey hair, thick grey eyebrows, deep natural facial wrinkles, expressive eyes, a weathered face, lean athletic build, and a determined personality.
+
+He wears:
+
+- beige sleeveless vest
+- light-colored collared shirt
+- dark trousers
+- practical worn sneakers
+- simple wristwatch
+
+His face, hairstyle, clothing, body proportions and accessories must remain identical throughout the entire video.
+
+Despite his age, he moves with surprising athletic ability. His movements should feel physically believable and grounded, while the overall situation has a playful action-comedy tone.
+
+OVERALL VISUAL STYLE
+
+Photorealistic AAA open-world video-game cinematic aesthetic, extremely detailed environments, realistic human skin and facial animation, physically accurate clothing and materials, realistic glass and roof tiles, natural shadows, cinematic lighting, atmospheric depth, realistic reflections, subtle film grain and controlled motion blur.
+
+Set the entire story in Taipei, Taiwan, with traditional residential streets, narrow alleys, scooters, utility wires, tiled rooftops, dense apartment buildings and modern skyscrapers.
+
+Taipei 101 should remain geographically consistent and recognizable whenever visible.
+
+Maintain a subtle game HUD overlay inspired by modern open-world action games: circular minimap, health/stamina indicators and small interface elements. The HUD should be visible mainly during the action sequences and should never cover the protagonist's face.
+
+IMPORTANT VIDEO RULES
+
+- One continuous story with clear chronological progression.
+- Smooth cinematic transitions between every scene.
+- No random cuts that contradict the storyboard.
+- No character morphing.
+- No changes to clothing.
+- No changes to age or facial structure.
+- No duplicated characters.
+- No sudden changes in environment or weather.
+- Realistic physics and believable body movement.
+- Natural hand and finger movement.
+- Maintain consistent sunlight direction throughout.
+- Use cinematic camera movement rather than static shots.
+- Build intensity progressively from calm → surprise → action → extreme action → comedic payoff.
+- No unnecessary explosions, guns or violence.
+- The humor should come from the grandfather behaving like an action hero.
+
+SCENE 1 — THE INVITATION
+
+0–5 seconds
+
+Begin with a wide cinematic establishing shot of a peaceful Taipei residential neighborhood in bright daylight.
+
+The grandfather walks toward an old metal mailbox beside a residential gate.
+
+Camera slowly tracks toward him from a slightly low angle.
+
+Show detailed Taiwanese architecture: traditional shophouses, balconies, plants, scooters, utility wires, air-conditioning units and narrow streets.
+
+Taipei 101 is visible far in the background between the buildings.
+
+The grandfather opens the mailbox and discovers a colorful birthday invitation.
+
+He slowly pulls it out and looks at it with curiosity.
+
+Camera: smooth slow push-in, 24mm cinematic lens.
+
+Mood: calm and ordinary.
+
+At approximately 4 seconds, transition naturally into a close-up as he reads the invitation.
+
+SCENE 2 — THE REALIZATION
+
+5–9 seconds
+
+Cut smoothly into an extreme close-up of the grandfather's face.
+
+He reads the birthday invitation.
+
+His expression changes dramatically:
+
+first confusion → realization → wide-eyed excitement → determined expression.
+
+His eyes widen, eyebrows rise and his wrinkles become highly visible.
+
+Let the reaction play naturally for a moment for comedic timing.
+
+The invitation remains visible in the foreground.
+
+Taipei apartment buildings are softly blurred behind him.
+
+Use shallow depth of field and realistic facial animation.
+
+Camera slowly pushes closer toward his eyes.
+
+At the end of the shot, his expression suddenly becomes extremely determined.
+
+He lowers the invitation, turns his head toward the direction of the destination and immediately starts moving.
+
+Transition: whip-pan following his movement into the next scene.
+
+SCENE 3 — THE PARKOUR SHORTCUT
+
+9–14 seconds
+
+The grandfather suddenly sprints through a narrow Taipei residential alley.
+
+Camera follows dynamically from behind and slightly to the side.
+
+He approaches a wooden fence blocking the path.
+
+Without stopping, he plants one hand on the fence and performs a surprisingly athletic vault over it.
+
+Capture the movement clearly in one fluid action:
+
+running → hand touches fence → body rises → legs swing over → feet land safely → immediately continues running.
+
+His beige vest and shirt move naturally with his momentum.
+
+Nearby laundry, plants and small objects react subtly to the movement.
+
+Activate the game-style HUD more prominently:
+
+circular minimap showing his route, stamina bar and subtle interface elements.
+
+Use realistic handheld-style camera shake and controlled motion blur.
+
+Camera: low tracking shot, approximately 28mm lens.
+
+End with the grandfather running toward a staircase leading upward.
+
+SCENE 4 — ROOFTOP RUN
+
+14–19 seconds
+
+Follow him continuously as he reaches the rooftop.
+
+He climbs onto the tiled roof and begins running rapidly across the traditional Taipei rooftops.
+
+Use a spectacular tracking shot that reveals the city expanding around him.
+
+Show:
+
+- orange-brown roof tiles
+- rooftop water tanks
+- antennas
+- satellite dishes
+- old residential buildings
+- narrow streets far below
+- modern glass skyscrapers in the distance
+- mountains surrounding Taipei
+- Taipei 101 prominently visible
+
+The camera moves alongside him while slowly widening to reveal the enormous city.
+
+His footsteps should interact naturally with the roof tiles.
+
+He approaches the edge of the building without slowing down.
+
+For a brief moment, show his determined face.
+
+Then he launches toward the next rooftop.
+
+Camera: dynamic side-tracking shot transitioning into a wide aerial perspective.
+
+Increase the cinematic intensity and music energy.
+
+SCENE 5 — THE IMPOSSIBLE LEAP
+
+19–25 seconds
+
+Create the most spectacular shot of the video.
+
+The grandfather launches from the edge of the rooftop and makes an impossibly dramatic leap between two high-rise buildings.
+
+He is completely airborne.
+
+His arms extend forward, his clothing reacts to the wind and his determined expression remains visible.
+
+Camera moves alongside him in a dramatic slow-motion cinematic moment, then gradually returns to normal speed.
+
+Show Taipei far below.
+
+Glass skyscrapers surround him and reflect the bright sky.
+
+Taipei 101 towers dramatically in the background, creating an iconic Taipei skyline.
+
+Use a large sense of scale and depth.
+
+Camera begins slightly below him and arcs around his body while maintaining visual continuity.
+
+Add realistic wind movement, atmospheric haze, reflections, subtle motion blur and sunlight passing across the surrounding buildings.
+
+The HUD shows the minimap and stamina bar briefly dropping toward the end of the jump.
+
+As he reaches the opposite building, transition immediately into the final landing.
+
+SCENE 6 — THE GRAND ENTRANCE
+
+25–30 seconds
+
+The grandfather reaches the opposite building and continues toward a luxurious high-floor apartment.
+
+Do not make the impact excessively violent or gory.
+
+He bursts through a large floor-to-ceiling glass window in a spectacular comedic entrance.
+
+Glass fragments fly outward and sparkle in the sunlight.
+
+Camera is positioned inside the apartment facing the window.
+
+The grandfather lands firmly on both feet in the living room.
+
+For a brief moment, everything becomes quiet.
+
+Glass particles slowly fall around him.
+
+He calmly straightens his beige vest as if nothing happened.
+
+He reaches into his pocket and pulls out the small wrapped birthday gift.
+
+Several family members inside the apartment stare at him in complete disbelief.
+
+The grandfather gives them a calm, satisfied smile.
+
+Through the broken window behind him, the beautiful Taipei skyline and Taipei 101 are visible.
+
+Hold the final shot for approximately 1–2 seconds.
+
+The HUD gradually fades away.
+
+FINAL SHOT
+
+Slow cinematic push-in toward the grandfather holding the gift.
+
+Family members remain frozen in shocked expressions behind him.
+
+He gives a subtle confident smile.
+
+End on this comedic heroic pose.
+
+CAMERA &amp; MOTION DIRECTION
+
+Use varied cinematic camera language throughout:
+
+Scene 1: slow dolly/push-in
+Scene 2: extreme close-up + subtle push-in
+Scene 3: fast tracking camera
+Scene 4: dynamic rooftop tracking + aerial reveal
+Scene 5: dramatic aerial tracking + brief slow motion
+Scene 6: interior wide shot + slow push-in
+
+Every transition should feel motivated by the grandfather's movement.
+
+Avoid excessive camera shaking. Keep the action readable and cinematic.
+
+PACING
+
+0–5s — peaceful setup
+5–9s — comedic realization
+9–14s — sudden action
+14–19s — escalating rooftop chase
+19–25s — spectacular impossible leap
+25–30s — comedic birthday payoff
+
+The first 8 seconds should establish the story clearly. The middle section should continuously escalate the action. The final 5 seconds should provide a strong, memorable comedic payoff.
+
+AUDIO / CINEMATIC FEEL
+
+Use an energetic cinematic action-comedy soundtrack that gradually builds in intensity.
+
+Start with subtle Taipei street ambience. End with saying "Happy birthday" needs to be said in Chinese
+
+Add:
+- mailbox opening
+- paper/card movement
+- footsteps
+- fence impact
+- rooftop footsteps
+- strong wind during the leap
+- glass shattering
+- brief silence after the landing
+
+Music should reach its peak during the rooftop leap, then suddenly become quiet after he lands, creating the comedic contrast.
+
+FINAL QUALITY
+
+Ultra-detailed photorealistic rendering, realistic human motion, realistic facial expressions, cinematic depth of field, natural lighting, physically accurate materials, high-detail Taipei environment, convincing scale, smooth motion, consistent character identity, professional action-film cinematography, polished AAA game-engine quality.</code></pre>
+
+</details>
+
+## The walk towards serenity
+
+- **Original source:** [@im_shahid7 on X](https://x.com/im_shahid7/status/2099138203026599964)
+- **Recommended model:** `seedance`
+- **Source model(s):** `other`
+- **Categories:** `camera-moves`, `character`, `cinematic`, `nature`
+- **ImgLume record:** [4255](https://imglume.com/prompt/4255)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/930f7a88-2eeb-4f97-8c16-a7ea2525f50b/268a0e75-337d-4c34-afbe-8dc56c28054a-1789366974424 "Video prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>15-second cinematic continuous shot, ultra-realistic, natural film look, 24fps.
+0–4 seconds: Extreme close-up of a sunlit animal skull lying partially buried in dry golden grass. Small yellow and blue wildflowers are naturally growing through the skull, clearly visible and unchanged. Warm early-morning sunlight illuminates the bone and surrounding grass. Shallow depth of field, realistic textures, soft background bokeh. The grass gently moves in a light natural breeze.
+4–7 seconds: A woman’s leg wearing brown suede boots enters the frame and naturally steps over the skull without touching or disturbing it. Her other foot follows as she continues walking forward along the forest path. Keep the skull, flowers, dry grass, and boots clearly realistic and consistent.
+7–11 seconds: As she moves farther away, the camera slowly rises upward and smoothly follows behind her, transitioning from the ground-level close-up into a medium rear shot. Reveal a blonde woman with long flowing hair, wearing a dark navy-blue cloak that moves naturally with her walking motion and the gentle breeze.
+11–15 seconds: The camera continues smoothly following her from behind as she walks deeper along the forest path. Tall trees surround the path, with warm sun rays filtering naturally through the branches. In the distance, mountains glow softly in golden morning light, creating atmospheric depth. Her long blonde hair and navy-blue cloak move naturally as she walks. End with a beautiful cinematic rear composition of the woman disappearing deeper into the forest.
+Visual direction: photorealistic, cinematic natural lighting, warm golden morning atmosphere, realistic forest textures, physically accurate shadows, subtle atmospheric haze, realistic human walking motion, smooth camera movement, shallow depth of field transitioning naturally into deeper environmental focus, no artificial effects, no cuts, no sudden camera movements, seamless continuous shot, premium cinematic film quality.</code></pre>
+
+</details>
 
 ## Young Korean woman in Seoul street with ice cream mishap (MiniDV style)
 

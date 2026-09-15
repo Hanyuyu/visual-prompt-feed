@@ -1,9 +1,102 @@
 # Architecture image prompts
 
-15 source-linked prompts, newest ImgLume records first.
+18 source-linked prompts, newest ImgLume records first.
 
 Prompt text and source media are `NOASSERTION`. Rights remain with
 their original authors. ImgLume curation is CC BY 4.0.
+
+## Young man on ancient wall with Colosseum at golden hour
+
+- **Original source:** [@Xaroon_x on X](https://x.com/Xaroon_x/status/2099380625899946006)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `photography`, `travel`
+- **ImgLume record:** [4305](https://imglume.com/prompt/4305)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/a60841b0-4ec8-4589-88ac-1ad9309e4c44/2113a40a-a1e6-4765-bc13-bb688bcf6529-1789410964863 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>A realistic, high-resolution photograph captures a young man sitting casually on a rugged, ancient stone wall with the iconic Colosseum in Rome rising majestically in the background. The scene is bathed in the warm, golden light of late afternoon or early evening, creating a romantic travel aesthetic. The man, who appears to be in his mid-twenties, He is looking off to the right side of the frame with a calm, contemplative expression. He is dressed in a white, ribbed, long-sleeved button- down shirt that is unbuttoned at the top, exposing his chest and two layered gold chain necklaces, one with a circular pendant. The sleeves are rolled up to his forearms. He wears dark brown, relaxed-fit trousers that drape over the stone wall. On his left wrist, a watch with a rectangular gold face and black strap is visible, along with a simple ring on his left ring finger. His right arm is bent across his body with his hand resting near his left elbow, while his left hand rests on his left thigh.
+
+Behind him, the massive, curved facade of the Colosseum fills the upper two-
+
+thirds of the image. The ancient structure is detailed with rows of arched openings and weathered limestone blocks, some of which are illuminated by the warm, orange sunlight, while others remain in shadow. The sky above is a clear, vibrant blue with a few faint clouds near the horizon on the left. Green vegetation, including pine trees and bushes, frames the Colosseum on the left and right sides, adding a natural element to the architectural backdrop. The foreground stone wall is textured with rough, uneven rocks and patches of moss. The lighting is directional, coming from the right side, casting a warm, golden glow on the right side of the man's face, his white shirt, and the upper right sections of the Colosseum, while leaving the left side of his body and the lower left of the architecture in softer shadow. The image has a cinematic quality, likely shot with an 85mm lens at a wide aperture like f/2.8, providing a sharp focus on the subject while keeping the background detailed but slightly compressed. The color grading is natural and warm, emphasizing the golden hour tones against the cool blues of the sky. The overall composition is balanced, with the subject anchoring the bottom center and the historic architecture providing a grand, textured backdrop. The mood is serene, stylish, and evocative of a high-end travel lifestyle portrait. The image is 8K quality, ultra-detailed, capturing the texture of the stone, the fabric of the shirt, and the man's hair with precision, vertical 4:5 aspect ratio.</code></pre>
+
+</details>
+
+## Vertical editorial illustration of dense Japanese urban street and railway station platform
+
+- **Original source:** [@Taaruk_ on X](https://x.com/Taaruk_/status/2099363471326618061)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`, `poster-design`
+- **ImgLume record:** [4279](https://imglume.com/prompt/4279)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/571f327e-6662-4900-b6a7-eb86613a199a/dcd583fc-f835-4956-a8e1-306938b90457-1789379438550 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/571f327e-6662-4900-b6a7-eb86613a199a/aba846ef-4594-4e33-b237-b4132914090c-1789379438550 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a vertical editorial illustration inspired by the reference images, depicting a dense Japanese urban scene in a highly stylized navy-blue and warm ivory monochrome line-art aesthetic.
+
+Show a narrow Japanese city street viewed from an elevated perspective, with tall tightly packed buildings on both sides, layered storefronts, balconies, windows, hanging signs, Japanese typography, utility poles, tangled overhead power cables, street lamps, awnings, railings, bicycles, and small architectural details. The street should lead naturally into the distance, creating strong depth and perspective.
+
+Include several small pedestrians naturally walking through the scene—people carrying bags, checking phones, crossing the street, and walking in pairs. Keep them simplified but expressive, with clean silhouettes and minimal facial detail.
+
+Use deep indigo/navy ink for all outlines, shadows, signs, cables, windows, and architectural details, contrasted against a warm cream/off-white paper background. Strong graphic shadows and large solid navy areas should create a bold screen-print/poster effect.
+
+For the second scene, depict a Japanese railway station platform from a slightly elevated side perspective. Show detailed steel roof structures, beams, electrical cables, overhead signage, platform markings, tiled flooring, railway tracks, columns, railings, ticket-area structures, and several commuters waiting or walking while looking at their phones. Preserve the same visual language: precise architectural linework, simplified human figures, deep navy shadows, cream paper, and dense urban detail.
+
+Style: Japanese urban sketchbook + architectural ink illustration + vintage travel poster + screen printing + manga-inspired environmental linework, intricate hand-drawn details, clean perspective, bold negative space, slightly imperfect ink texture, sophisticated editorial composition, nostalgic analog print feel.
+
+Color palette: only deep navy blue, muted blue-gray, and warm ivory/cream. No bright colors.
+
+Composition: highly detailed, visually dense, balanced foreground/midground/background, strong vanishing points, cinematic framing, crisp linework, subtle paper grain, premium art-book illustration.
+
+Aspect ratio: 4:5 vertical.</code></pre>
+
+</details>
+
+## Fine-art sketch illustration of \[STRUCTURE NAME\]
+
+- **Original source:** [@Naiknelofar788 on X](https://x.com/Naiknelofar788/status/2099096963316957187)
+- **Recommended model:** `gptimage`
+- **Source model(s):** `other`
+- **Categories:** `architecture`
+- **ImgLume record:** [4235](https://imglume.com/prompt/4235)
+- **Source media:** [1](https://cdn.imglume.com/prompts/byradar/f6da58b8-86a7-4808-b1b7-eeaba670e127/518e0ad4-a023-4297-b642-dbfa7e8e45a7-1789325165131 "Image prompt preview") · [2](https://cdn.imglume.com/prompts/byradar/f6da58b8-86a7-4808-b1b7-eeaba670e127/74de74ad-22bc-4499-8113-52fb011cd71e-1789325165131 "Image prompt preview") · [3](https://cdn.imglume.com/prompts/byradar/f6da58b8-86a7-4808-b1b7-eeaba670e127/b714b323-a4a5-44ea-8fad-e0aa92a0c696-1789325165131 "Image prompt preview")
+- **Rights:** prompt text and source media `NOASSERTION`; ImgLume curation `CC-BY-4.0`
+
+<details>
+<summary>Full prompt</summary>
+
+<pre><code>Create a stunning 4:5 vertical fine-art sketch illustration of [STRUCTURE NAME] as if it is being drawn by a master architectural artist inside a luxury travel sketchbook.
+
+Show the famous structure transitioning from loose preliminary pencil lines into a fully detailed finished architectural drawing.
+
+The foreground should contain delicate construction lines, perspective guides, measurement marks, small handwritten architectural notes, compass marks, arrows, erased pencil strokes, and unfinished portions.
+
+As the eye moves toward the main structure, the sketch gradually becomes more refined — combining graphite pencil, fine black ink, subtle watercolor washes, cross-hatching, and delicate hand-drawn textures.
+
+Include small artistic studies around the main drawing: a tiny side elevation, architectural detail, window or ornament study, simplified map outline, and a small silhouette showing the scale of the structure.
+
+Use an elegant warm ivory sketchbook-paper background with natural paper fibers and subtle imperfections.
+
+Keep the composition sophisticated and spacious. The structure should remain the unmistakable hero.
+
+Add minimal handwritten-style labeling:
+
+[STRUCTURE NAME]
+[CITY, COUNTRY]
+ARCHITECTURAL STUDY
+
+The artwork should feel like an original museum-quality architectural sketch discovered inside an explorer’s personal sketchbook — artistic, intellectual, nostalgic, detailed, and highly collectible.
+
+No photorealistic rendering, no 3D CGI, no modern infographic boxes, no excessive text, no watermark.</code></pre>
+
+</details>
 
 ## Hybrid Cinematic Architectural Watercolor Illustration Prompt
 
